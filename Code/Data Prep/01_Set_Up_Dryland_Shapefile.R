@@ -1,5 +1,8 @@
 # ============================================================
 # 01_Set_Up_Dryland_Shapefil.R
+# Used ArcGIS to get shape files for all drylands globally.
+# Here we filter to the USA only. We will then use this
+# to determine which cities fall within the drylands of the USA.
 # ============================================================
 
 library(sf)
@@ -15,10 +18,10 @@ options(tigris_use_cache = TRUE)
 
 # All raw shapefile pieces must be in this folder:
 # .shp, .dbf, .shx, .prj
-drylands_path <- "Data/Raw/Shape Files/drylands_UNCCD_CBD_july2014.shp"
+drylands_path <- "Data/Raw/Shape Files/Dryland/drylands_UNCCD_CBD_july2014.shp"
 
 # Processed shapefile output folder
-shape_out_dir <- "Data/Processed/Shape Files"
+shape_out_dir <- "Data/Processed/Shape Files/Dryland"
 dir.create(shape_out_dir, recursive = TRUE, showWarnings = FALSE)
 
 # Map output folder
