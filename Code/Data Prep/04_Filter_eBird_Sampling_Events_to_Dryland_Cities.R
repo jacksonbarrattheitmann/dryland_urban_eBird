@@ -2,20 +2,28 @@
 # 04_Filter_eBird_Sampling_Events_to_Dryland_Cities.R
 #
 # Purpose:
-# Filter eBird Sampling Event Data to complete stationary
-# checklists from 2015-2025 that fall inside dryland city polygons.
+# Filter eBird Sampling Event Data to complete checklists from
+# 2015-2025 that fall inside dryland city polygons.
+#
+# Notes:
+# The Sampling Event Data file used here does not include a
+# protocol column, so this script does NOT filter to stationary
+# checklists. It filters by checklist completeness, observer number,
+# duration, valid coordinates, and dryland city polygon location.
 #
 # Approach:
-# 1. Use auk to filter the large eBird Sampling Event Data file.
-# 2. Read the reduced file into R.
-# 3. Spatially join checklist points to dryland city polygons.
-# 4. Save checklist table, checklist IDs, and city summary.
+# 1. Stream the large gzipped Sampling Event Data file with fread().
+# 2. Keep only the columns needed for filtering and spatial joining.
+# 3. Apply table filters.
+# 4. Convert checklist coordinates to spatial points.
+# 5. Spatially join checklists to dryland city polygons.
+# 6. Save checklist table, checklist IDs, and city-level summary.
 # ============================================================
 
 library(sf)
 library(dplyr)
 library(readr)
-library(auk)
+library(data.table)
 
 # ------------------------------------------------------------
 # 1. File paths
@@ -28,13 +36,6 @@ dryland_cities_path <- "Data/Processed/Shape Files/Cities/dryland_cities_50pct.s
 ebird_out_dir <- "Data/Processed/eBird"
 dir.create(ebird_out_dir, recursive = TRUE, showWarnings = FALSE)
 
-# Intermediate auk-filtered sampling file
-sampling_filtered_out <- file.path(
-  ebird_out_dir,
-  "sampling_events_auk_filtered_2015_2025.txt"
-)
-
-# Final outputs
 checklists_out <- file.path(
   ebird_out_dir,
   "dryland_city_checklists_2015_2025.csv"
@@ -50,26 +51,17 @@ summary_by_city_out <- file.path(
   "dryland_city_checklist_summary_2015_2025.csv"
 )
 
-# Remove old outputs if rerunning
 file.remove(
-  sampling_filtered_out,
   checklists_out,
   checklist_ids_out,
   summary_by_city_out
 )
 
 # ------------------------------------------------------------
-# 2. Confirm eBird sampling file is valid
+# 2. Read dryland city polygons
 # ------------------------------------------------------------
 
-system2("file", sed_path)
-system2("gzip", c("-t", sed_path))
-
-# ------------------------------------------------------------
-# 3. Read dryland city polygons
-# ------------------------------------------------------------
-
-# This is a shapefile, so some field names were shortened.
+# This is a shapefile, so several field names were shortened.
 # We rename them back to readable names here.
 dryland_cities <- st_read(dryland_cities_path) %>%
   st_make_valid() %>%
@@ -84,70 +76,121 @@ dryland_cities <- st_read(dryland_cities_path) %>%
     geometry
   )
 
+# Broad bounding box around all dryland city polygons.
+# This quickly reduces the eBird data before the exact polygon join.
+bb <- st_bbox(dryland_cities)
+
+xmin <- as.numeric(bb["xmin"])
+xmax <- as.numeric(bb["xmax"])
+ymin <- as.numeric(bb["ymin"])
+ymax <- as.numeric(bb["ymax"])
+
+cat("\nDryland city bounding box:\n")
+print(bb)
+
 # ------------------------------------------------------------
-# 4. Filter Sampling Event Data with auk
+# 3. Stream and read needed Sampling Event Data columns
 # ------------------------------------------------------------
 
-# auk filters the large eBird file without loading the whole thing
-# into memory. We filter to:
-# - 2015-2025
-# - stationary checklists
-# - complete checklists
-# - duration 5-240 minutes
-#
-# We do the one-observer filter after reading the reduced file.
+# This streams the compressed file instead of manually decompressing it.
+# It still scans the large file, so this step may take a while.
+cmd <- paste("gzip -cd", shQuote(sed_path))
 
-sed_filter <- auk_sampling(sed_path) %>%
-  auk_date(date = c("2015-01-01", "2025-12-31")) %>%
-  auk_protocol(protocol = "Stationary") %>%
-  auk_complete() %>%
-  auk_duration(duration = c(5, 240))
-
-auk_filter(
-  sed_filter,
-  file = sampling_filtered_out,
-  overwrite = TRUE
+sampling_events <- fread(
+  cmd = cmd,
+  sep = "\t",
+  quote = "",
+  showProgress = TRUE,
+  select = c(
+    "SAMPLING EVENT IDENTIFIER",
+    "OBSERVATION DATE",
+    "LATITUDE",
+    "LONGITUDE",
+    "ALL SPECIES REPORTED",
+    "DURATION MINUTES",
+    "EFFORT DISTANCE KM",
+    "NUMBER OBSERVERS"
+  )
 )
 
-cat("\nauk-filtered sampling file info:\n")
-print(file.info(sampling_filtered_out)[, c("size", "mtime")])
-
-if (!file.exists(sampling_filtered_out) || file.info(sampling_filtered_out)$size == 0) {
-  stop("auk did not create a non-empty filtered sampling file.")
-}
-
-# ------------------------------------------------------------
-# 5. Read filtered Sampling Event Data
-# ------------------------------------------------------------
-
-sampling_events <- read_sampling(sampling_filtered_out)
-
-cat("\nSampling events after auk filters:\n")
+cat("\nSampling rows read:\n")
 print(nrow(sampling_events))
 
-cat("\nColumn names in filtered sampling data:\n")
-print(names(sampling_events))
-
 # ------------------------------------------------------------
-# 6. Apply one-observer and coordinate filters
+# 4. Rename columns
 # ------------------------------------------------------------
 
-sampling_events <- sampling_events %>%
-  filter(
-    number_observers == 1,
-    !is.na(latitude),
-    !is.na(longitude)
+setnames(
+  sampling_events,
+  old = c(
+    "SAMPLING EVENT IDENTIFIER",
+    "OBSERVATION DATE",
+    "LATITUDE",
+    "LONGITUDE",
+    "ALL SPECIES REPORTED",
+    "DURATION MINUTES",
+    "EFFORT DISTANCE KM",
+    "NUMBER OBSERVERS"
+  ),
+  new = c(
+    "checklist_id",
+    "observation_date",
+    "latitude",
+    "longitude",
+    "all_species_reported",
+    "duration_minutes",
+    "effort_distance_km",
+    "number_observers"
   )
+)
 
-cat("\nSampling events after one-observer and coordinate filters:\n")
+# ------------------------------------------------------------
+# 5. Apply table filters
+# ------------------------------------------------------------
+
+# Filters:
+# - date range: 2015-2025
+# - complete checklists only
+# - one observer
+# - duration between 5 and 240 minutes
+# - valid coordinates
+# - coordinates inside broad dryland-city bounding box
+#
+# The exact city polygon filter happens in the next section.
+sampling_events <- sampling_events[
+  observation_date >= "2015-01-01" &
+    observation_date <= "2025-12-31" &
+    all_species_reported == 1 &
+    number_observers == 1 &
+    duration_minutes >= 5 &
+    duration_minutes <= 240 &
+    !is.na(latitude) &
+    !is.na(longitude) &
+    latitude >= ymin &
+    latitude <= ymax &
+    longitude >= xmin &
+    longitude <= xmax
+]
+
+cat("\nSampling events after table filters:\n")
 print(nrow(sampling_events))
 
 if (nrow(sampling_events) == 0) {
-  stop("No sampling events remained after one-observer and coordinate filters.")
+  stop("No sampling events passed table filters. Check column values or filters.")
 }
 
+sampling_events <- as_tibble(sampling_events) %>%
+  mutate(
+    observation_date = as.Date(observation_date),
+    latitude = as.numeric(latitude),
+    longitude = as.numeric(longitude),
+    duration_minutes = as.numeric(duration_minutes),
+    effort_distance_km = as.numeric(effort_distance_km),
+    number_observers = as.numeric(number_observers)
+  )
+
 # ------------------------------------------------------------
-# 7. Spatially join checklists to dryland city polygons
+# 6. Spatially join checklists to dryland city polygons
 # ------------------------------------------------------------
 
 sampling_points <- sampling_events %>%
@@ -172,16 +215,15 @@ if (nrow(dryland_city_checklists) == 0) {
 }
 
 # ------------------------------------------------------------
-# 8. Save checklist table and checklist IDs
+# 7. Save checklist table and checklist IDs
 # ------------------------------------------------------------
 
 dryland_city_checklists_table <- dryland_city_checklists %>%
   st_drop_geometry() %>%
   arrange(state_name, city_ascii, observation_date) %>%
   dplyr::select(
-    checklist_id = checklist_identifier,
+    checklist_id,
     observation_date,
-    protocol_type,
     all_species_reported,
     duration_minutes,
     effort_distance_km,
@@ -193,8 +235,7 @@ dryland_city_checklists_table <- dryland_city_checklists %>%
     city_ascii,
     state_name,
     county_name,
-    dryland_percent,
-    everything()
+    dryland_percent
   )
 
 write_csv(
@@ -211,7 +252,7 @@ write_csv(
 )
 
 # ------------------------------------------------------------
-# 9. Save summary by city
+# 8. Save summary by city
 # ------------------------------------------------------------
 
 dryland_city_summary <- dryland_city_checklists_table %>%
@@ -238,7 +279,7 @@ write_csv(
 )
 
 # ------------------------------------------------------------
-# 10. Final checks
+# 9. Final checks
 # ------------------------------------------------------------
 
 cat("\nDryland city checklists retained:\n")
