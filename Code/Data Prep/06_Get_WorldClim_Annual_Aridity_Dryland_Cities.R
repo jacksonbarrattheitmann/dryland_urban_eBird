@@ -71,23 +71,40 @@ city_year_aridity_out <- file.path(
   "dryland_city_year_worldclim_aridity_2015_2024.csv"
 )
 
+# ------------------------------------------------------------
 # Final analysis-ready outputs
-city_year_richness_aridity_out <- file.path(
+# ------------------------------------------------------------
+
+# 1. All observations without aridity
+observations_without_aridity_for_analysis_out <- file.path(
   for_analysis_dir,
-  "dryland_city_year_species_richness_aridity_2015_2025.csv"
+  "dryland_city_observations_with_city_2015_2025.tsv"
 )
 
-checklist_richness_aridity_out <- file.path(
-  for_analysis_dir,
-  "dryland_city_checklist_species_richness_aridity_2015_2025.csv"
-)
-
+# 2. All observations with aridity
 observations_with_city_aridity_out <- file.path(
   for_analysis_dir,
   "dryland_city_observations_with_city_aridity_2015_2025.tsv"
 )
 
-# Optional copy of the aridity-only table in For Analysis
+# 3. City-year summary without aridity
+city_year_without_aridity_for_analysis_out <- file.path(
+  for_analysis_dir,
+  "dryland_city_year_species_richness_2015_2025.csv"
+)
+
+# 4. City-year summary with aridity
+city_year_richness_aridity_out <- file.path(
+  for_analysis_dir,
+  "dryland_city_year_species_richness_aridity_2015_2025.csv"
+)
+
+# Supporting final files
+checklist_richness_aridity_out <- file.path(
+  for_analysis_dir,
+  "dryland_city_checklist_species_richness_aridity_2015_2025.csv"
+)
+
 city_year_aridity_for_analysis_out <- file.path(
   for_analysis_dir,
   "dryland_city_year_worldclim_aridity_2015_2024.csv"
@@ -262,8 +279,6 @@ find_monthly_file <- function(var, year, month, resolution = "10m") {
     )
   }
   
-  # WorldClim historical monthly files usually include year and month.
-  # Use flexible matching to protect against minor filename differences.
   year_month_patterns <- c(
     paste0(year, "-", sprintf("%02d", month)),
     paste0(year, "_", sprintf("%02d", month)),
@@ -412,7 +427,31 @@ cat("\nCity-year aridity copy written to For Analysis:\n")
 print(city_year_aridity_for_analysis_out)
 
 # ------------------------------------------------------------
-# 8. Join aridity to city-year eBird richness
+# 8. Copy non-aridity final files to For Analysis
+# ------------------------------------------------------------
+
+# These are the final non-climate versions of the analysis datasets.
+# Keeping them in For Analysis makes it clear which files should be used
+# downstream.
+
+file.copy(
+  from = observations_with_city_path,
+  to = observations_without_aridity_for_analysis_out,
+  overwrite = TRUE
+)
+
+file.copy(
+  from = city_year_richness_path,
+  to = city_year_without_aridity_for_analysis_out,
+  overwrite = TRUE
+)
+
+cat("\nCopied non-aridity final files to For Analysis:\n")
+print(observations_without_aridity_for_analysis_out)
+print(city_year_without_aridity_for_analysis_out)
+
+# ------------------------------------------------------------
+# 9. Join aridity to city-year eBird richness
 # ------------------------------------------------------------
 
 city_year_richness <- fread(city_year_richness_path) %>%
@@ -445,7 +484,7 @@ cat("\nCity-year richness + aridity output written:\n")
 print(city_year_richness_aridity_out)
 
 # ------------------------------------------------------------
-# 9. Join aridity to checklist-level richness
+# 10. Join aridity to checklist-level richness
 # ------------------------------------------------------------
 
 checklist_richness <- fread(checklist_richness_path) %>%
@@ -478,7 +517,7 @@ cat("\nChecklist richness + aridity output written:\n")
 print(checklist_richness_aridity_out)
 
 # ------------------------------------------------------------
-# 10. Join aridity to full observation-level eBird file
+# 11. Join aridity to full observation-level eBird file
 # ------------------------------------------------------------
 
 # This joins annual city-level aridity to the full observation-level
@@ -522,10 +561,7 @@ observations_with_city <- fread(
 cat("\nObservation rows loaded:\n")
 print(nrow(observations_with_city))
 
-# fread() already returns a data.table.
-# Do not run as.data.table(observations_with_city), because that can
-# create an unnecessary full copy and hit the memory limit.
-
+# Make sure observation_year exists.
 if (!"observation_year" %in% names(observations_with_city)) {
   observations_with_city[
     ,
@@ -587,7 +623,7 @@ cat("\nFull observation-level eBird + aridity output written:\n")
 print(observations_with_city_aridity_out)
 
 # ------------------------------------------------------------
-# 11. Final checks because this is a lot all together lmao
+# 12. Final checks
 # ------------------------------------------------------------
 
 # This section is written so it can be run even after restarting R.
@@ -675,10 +711,14 @@ print(sum(is.na(observations_with_city$aridity_index)))
 # ------------------------------------------------------------
 
 cat("\nFinal analysis-ready outputs:\n")
-print(city_year_aridity_for_analysis_out)
-print(city_year_richness_aridity_out)
-print(checklist_richness_aridity_out)
+print(observations_without_aridity_for_analysis_out)
 print(observations_with_city_aridity_out)
+print(city_year_without_aridity_for_analysis_out)
+print(city_year_richness_aridity_out)
+
+cat("\nSupporting final files:\n")
+print(checklist_richness_aridity_out)
+print(city_year_aridity_for_analysis_out)
 
 # ------------------------------------------------------------
 # Preview city-year output
@@ -745,17 +785,27 @@ if (length(missing_preview_cols) > 0) {
 
 cat("\nChecking that final files exist:\n")
 
-final_files <- c(
-  city_year_aridity_for_analysis_out,
-  city_year_richness_aridity_out,
+main_final_files <- c(
+  observations_without_aridity_for_analysis_out,
+  observations_with_city_aridity_out,
+  city_year_without_aridity_for_analysis_out,
+  city_year_richness_aridity_out
+)
+
+supporting_final_files <- c(
   checklist_richness_aridity_out,
-  observations_with_city_aridity_out
+  city_year_aridity_for_analysis_out
+)
+
+all_final_files <- c(
+  main_final_files,
+  supporting_final_files
 )
 
 print(
   data.frame(
-    file = final_files,
-    exists = file.exists(final_files),
-    size_mb = round(file.info(final_files)$size / 1024^2, 2)
+    file = all_final_files,
+    exists = file.exists(all_final_files),
+    size_mb = round(file.info(all_final_files)$size / 1024^2, 2)
   )
 )
