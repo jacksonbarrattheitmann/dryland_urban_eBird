@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2326,"Sanger, CA",Sanger,California,Fresno,2015,14625469.4424756,16,22,city_2326_california_sanger,200.6874956190586,19.140625,6.8868631204395445,arid,12
+2326,"Sanger, CA",Sanger,California,Fresno,2019,14625469.4424756,2,2,city_2326_california_sanger,405.5062466338277,18.333333333333332,14.311985175311566,semiarid,12
+2326,"Sanger, CA",Sanger,California,Fresno,2020,14625469.4424756,23,83,city_2326_california_sanger,177.20625023171306,19.114583333333332,6.086511635865636,arid,12
+2326,"Sanger, CA",Sanger,California,Fresno,2021,14625469.4424756,21,46,city_2326_california_sanger,282.91874415427446,18.8828125,9.795401474640826,arid,12
+2326,"Sanger, CA",Sanger,California,Fresno,2022,14625469.4424756,3,3,city_2326_california_sanger,201.84375071525577,18.8515625,6.9959382863668385,arid,12
+2326,"Sanger, CA",Sanger,California,Fresno,2023,14625469.4424756,10,10,city_2326_california_sanger,408.2937536239624,18.106770833333332,14.52652658126578,semiarid,12
+2326,"Sanger, CA",Sanger,California,Fresno,2024,14625469.4424756,30,89,city_2326_california_sanger,368.93124486133456,19.065104166666668,12.693271035458514,semiarid,12
+2326,"Sanger, CA",Sanger,California,Fresno,2025,14625469.4424756,18,36,city_2326_california_sanger,NA,NA,NA,NA,NA

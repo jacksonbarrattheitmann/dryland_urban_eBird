@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+853,"Ephrata, WA",Ephrata,Washington,Grant,2015,7495037.7236247,112,2105,city_0853_washington_ephrata,188.1062514781952,11.984375,8.556361119121885,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2016,7495037.7236247,101,2354,city_0853_washington_ephrata,189.5312533378601,11.4921875,8.818611569337003,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2017,7495037.7236247,99,1457,city_0853_washington_ephrata,219.41875076293945,10.328125,10.79385092146666,semiarid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2018,7495037.7236247,99,888,city_0853_washington_ephrata,172.46875262260437,10.955729166666668,8.230148006347717,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2019,7495037.7236247,82,629,city_0853_washington_ephrata,158.9562509059906,10.052083333333332,7.9271688763507004,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2020,7495037.7236247,75,457,city_0853_washington_ephrata,187.51875185966492,11.0078125,8.92614363630982,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2021,7495037.7236247,79,598,city_0853_washington_ephrata,172.03749883174896,11.341145833333332,8.061305619449861,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2022,7495037.7236247,73,359,city_0853_washington_ephrata,200.88750207424164,10.502604166666668,9.798145661947007,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2023,7495037.7236247,105,1828,city_0853_washington_ephrata,167.89375030994415,11.3046875,7.880601408020848,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2024,7495037.7236247,92,1182,city_0853_washington_ephrata,194.8625001907349,11.486979166666668,9.068864388951908,arid,12
+853,"Ephrata, WA",Ephrata,Washington,Grant,2025,7495037.7236247,86,1078,city_0853_washington_ephrata,NA,NA,NA,NA,NA

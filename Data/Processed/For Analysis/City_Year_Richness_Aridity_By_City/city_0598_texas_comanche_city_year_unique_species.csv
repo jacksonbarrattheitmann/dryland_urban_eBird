@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+598,"Comanche, TX",Comanche,Texas,Comanche,2016,6348218.20362789,6,6,city_0598_texas_comanche,1051.831244468689,19.565104166666668,35.57678128036436,humid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2017,6348218.20362789,14,17,city_0598_texas_comanche,687.0687503814697,19.549479166666668,23.251467361107284,dry subhumid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2018,6348218.20362789,40,292,city_0598_texas_comanche,745.5062522888184,18.7109375,25.965932052508503,dry subhumid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2019,6348218.20362789,37,258,city_0598_texas_comanche,690.756233215332,18.559895833333332,24.18623083383674,dry subhumid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2020,6348218.20362789,53,401,city_0598_texas_comanche,692.5062456130981,19.127604166666668,23.77491267907284,dry subhumid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2021,6348218.20362789,41,283,city_0598_texas_comanche,792.2375011444092,18.6328125,27.66886770708987,dry subhumid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2022,6348218.20362789,47,289,city_0598_texas_comanche,389.87500381469727,19.065104166666668,13.41385193664042,semiarid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2023,6348218.20362789,34,96,city_0598_texas_comanche,612.6812553405762,19.729166666666668,20.608759815240123,dry subhumid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2024,6348218.20362789,35,114,city_0598_texas_comanche,704.9687576293945,20.200520833333332,23.342933769913557,dry subhumid,12
+598,"Comanche, TX",Comanche,Texas,Comanche,2025,6348218.20362789,57,1074,city_0598_texas_comanche,NA,NA,NA,NA,NA

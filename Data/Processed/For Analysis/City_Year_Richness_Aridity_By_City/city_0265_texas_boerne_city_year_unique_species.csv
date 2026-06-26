@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+265,"Boerne, TX",Boerne,Texas,Kendall,2015,17824859.0805475,66,398,city_0265_texas_boerne,1216.6250019073486,19.286458333333332,41.542237305034845,humid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2016,17824859.0805475,80,406,city_0265_texas_boerne,1209.2875061035156,20.0625,40.22577982880717,humid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2017,17824859.0805475,77,471,city_0265_texas_boerne,723.6375026702881,20.197916666666668,23.963159798671143,dry subhumid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2018,17824859.0805475,82,598,city_0265_texas_boerne,871.9937443733215,19.518229166666668,29.54085556588932,dry subhumid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2019,17824859.0805475,89,716,city_0265_texas_boerne,638.387505531311,19.513020833333332,21.630706972913035,dry subhumid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2020,17824859.0805475,107,1322,city_0265_texas_boerne,633.8750076293945,20.044270833333332,21.09803267137796,dry subhumid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2021,17824859.0805475,104,1457,city_0265_texas_boerne,814.2374954223633,19.5234375,27.579359463895873,dry subhumid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2022,17824859.0805475,119,2019,city_0265_texas_boerne,429.3187518119812,19.864583333333332,14.375514535734286,semiarid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2023,17824859.0805475,128,1941,city_0265_texas_boerne,715.6250019073486,20.6015625,23.385243871366,dry subhumid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2024,17824859.0805475,112,1996,city_0265_texas_boerne,657.081253528595,20.856770833333332,21.294556617012447,dry subhumid,12
+265,"Boerne, TX",Boerne,Texas,Kendall,2025,17824859.0805475,121,1648,city_0265_texas_boerne,NA,NA,NA,NA,NA

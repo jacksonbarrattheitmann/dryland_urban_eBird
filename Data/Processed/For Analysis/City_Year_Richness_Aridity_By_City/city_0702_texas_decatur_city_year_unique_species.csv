@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+702,"Decatur, TX",Decatur,Texas,Wise,2015,13005396.10902,9,9,city_0702_texas_decatur,1154.387508392334,18.622395833333332,40.331617070571944,humid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2016,13005396.10902,26,35,city_0702_texas_decatur,972.087495803833,19.2890625,33.18943703998149,humid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2017,13005396.10902,12,13,city_0702_texas_decatur,808.4000072479248,19.25,27.63760708539914,dry subhumid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2018,13005396.10902,38,62,city_0702_texas_decatur,949.1437454223632,18.372395833333332,33.453070054354065,humid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2019,13005396.10902,52,223,city_0702_texas_decatur,964.4562530517578,18.203125,34.19678681180748,humid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2020,13005396.10902,48,145,city_0702_texas_decatur,963.9125061035156,18.552083333333332,33.75979590876961,humid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2021,13005396.10902,29,47,city_0702_texas_decatur,867.1312599182129,18.479166666666668,30.44791549091018,humid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2022,13005396.10902,37,63,city_0702_texas_decatur,663.3750019073486,18.869791666666668,22.978170731771772,dry subhumid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2023,13005396.10902,24,35,city_0702_texas_decatur,871.7062568664551,19.4453125,29.604245391060296,dry subhumid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2024,13005396.10902,40,89,city_0702_texas_decatur,952.6000061035156,19.877604166666668,31.883413435348206,humid,12
+702,"Decatur, TX",Decatur,Texas,Wise,2025,13005396.10902,39,88,city_0702_texas_decatur,NA,NA,NA,NA,NA

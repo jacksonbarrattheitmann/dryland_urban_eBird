@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2015,23472162.4339813,15,24,city_2828_nevada_winnemucca,259.01874589920044,11.684895833333332,11.944661753968171,semiarid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2016,23472162.4339813,2,2,city_2828_nevada_winnemucca,240.61250269412992,11.2265625,11.33544363078713,semiarid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2017,23472162.4339813,18,29,city_2828_nevada_winnemucca,247.84375095367432,11.138020833333332,11.72502160480608,semiarid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2018,23472162.4339813,23,191,city_2828_nevada_winnemucca,246.199999332428,11.270833333333332,11.574534738449112,semiarid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2019,23472162.4339813,23,307,city_2828_nevada_winnemucca,274.00624918937683,10.307291666666666,13.492998164750029,semiarid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2020,23472162.4339813,34,92,city_2828_nevada_winnemucca,171.68750071525574,11.2734375,8.070510500019367,arid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2021,23472162.4339813,21,43,city_2828_nevada_winnemucca,211.42500185966492,11.458333333333334,9.852815620644575,arid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2022,23472162.4339813,27,68,city_2828_nevada_winnemucca,206.7937488555908,10.78125,9.950977388539709,arid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2023,23472162.4339813,43,115,city_2828_nevada_winnemucca,268.4874990582466,10.4140625,13.152085679087472,semiarid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2024,23472162.4339813,36,126,city_2828_nevada_winnemucca,262.44374895095825,11.6796875,12.10551346512528,semiarid,12
+2828,"Winnemucca, NV",Winnemucca,Nevada,Humboldt,2025,23472162.4339813,29,95,city_2828_nevada_winnemucca,NA,NA,NA,NA,NA

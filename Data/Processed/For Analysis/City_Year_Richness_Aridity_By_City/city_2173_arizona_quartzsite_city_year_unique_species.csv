@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2015,7112384.11642322,7,7,city_2173_arizona_quartzsite,129.97500014305115,24.479166666666668,3.769667677864927,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2017,7112384.11642322,6,7,city_2173_arizona_quartzsite,91.19374907016754,24.479166666666668,2.6448942328507803,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2018,7112384.11642322,36,131,city_2173_arizona_quartzsite,103.12500005960464,24.299479166666668,3.006605422738454,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2019,7112384.11642322,46,1610,city_2173_arizona_quartzsite,132.7625013589859,23.3984375,3.975111151801215,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2020,7112384.11642322,47,1458,city_2173_arizona_quartzsite,81.02500092983246,24.434895833333332,2.3529910275320023,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2021,7112384.11642322,32,444,city_2173_arizona_quartzsite,144.07499742507937,24.216145833333332,4.210731335050649,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2022,7112384.11642322,45,1062,city_2173_arizona_quartzsite,98.10000044107436,23.927083333333332,2.8914952540200005,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2023,7112384.11642322,35,582,city_2173_arizona_quartzsite,119.793750166893,23.40625,3.5859681995702304,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2024,7112384.11642322,31,302,city_2173_arizona_quartzsite,89.43124878406525,24.53125,2.589864218181075,extremely arid,12
+2173,"Quartzsite, AZ",Quartzsite,Arizona,La Paz,2025,7112384.11642322,32,114,city_2173_arizona_quartzsite,NA,NA,NA,NA,NA

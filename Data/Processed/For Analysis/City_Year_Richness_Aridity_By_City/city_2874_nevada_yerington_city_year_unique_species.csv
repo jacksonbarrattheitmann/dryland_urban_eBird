@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2874,"Yerington, NV",Yerington,Nevada,Lyon,2016,3826857.63694951,12,12,city_2874_nevada_yerington,127.55624973773956,12.489583333333332,5.671792484864752,arid,12
+2874,"Yerington, NV",Yerington,Nevada,Lyon,2020,3826857.63694951,8,8,city_2874_nevada_yerington,73.97499972581863,12.815104166666668,3.242369580494733,extremely arid,12
+2874,"Yerington, NV",Yerington,Nevada,Lyon,2024,3826857.63694951,1,1,city_2874_nevada_yerington,142.00624990463257,13.028645833333332,6.166504575752449,arid,12
+2874,"Yerington, NV",Yerington,Nevada,Lyon,2025,3826857.63694951,5,5,city_2874_nevada_yerington,NA,NA,NA,NA,NA

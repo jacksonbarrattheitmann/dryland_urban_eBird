@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+568,"Colby, KS",Colby,Kansas,Thomas,2015,7890855.81353745,13,14,city_0568_kansas_colby,537.6750068664551,11.854166666666668,24.60286018073388,dry subhumid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2016,7890855.81353745,24,50,city_0568_kansas_colby,521.8312530517578,12.234375,23.469571465433944,dry subhumid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2017,7890855.81353745,50,126,city_0568_kansas_colby,602.4375100135803,11.809895833333332,27.622209414354018,dry subhumid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2018,7890855.81353745,34,80,city_0568_kansas_colby,532.59375,10.9765625,25.389944134078213,dry subhumid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2019,7890855.81353745,33,84,city_0568_kansas_colby,618.3687582015991,10.536458333333332,30.110778994346195,humid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2020,7890855.81353745,18,36,city_0568_kansas_colby,417.8437433242798,11.825520833333334,19.14473182633617,semiarid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2021,7890855.81353745,43,136,city_0568_kansas_colby,501.806245803833,11.908854166666668,22.90426701398691,dry subhumid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2022,7890855.81353745,26,41,city_0568_kansas_colby,369.0499997138977,11.393229166666668,17.25078513574397,semiarid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2023,7890855.81353745,40,127,city_0568_kansas_colby,546.2312512397766,11.8515625,24.99735436492363,dry subhumid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2024,7890855.81353745,34,119,city_0568_kansas_colby,460.48125982284546,12.684895833333332,20.29902465526032,dry subhumid,12
+568,"Colby, KS",Colby,Kansas,Thomas,2025,7890855.81353745,41,136,city_0568_kansas_colby,NA,NA,NA,NA,NA

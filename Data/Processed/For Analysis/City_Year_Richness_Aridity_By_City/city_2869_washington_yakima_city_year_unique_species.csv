@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2869,"Yakima, WA",Yakima,Washington,Yakima,2015,125404023.965611,122,3240,city_2869_washington_yakima,233.80000603199005,11.997395833333332,10.628531113565074,semiarid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2016,125404023.965611,136,3621,city_2869_washington_yakima,244.26874923706055,11.450520833333332,11.38754397317364,semiarid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2017,125404023.965611,123,2993,city_2869_washington_yakima,272.43124347925186,10.283854166666668,13.43094074926598,semiarid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2018,125404023.965611,134,5523,city_2869_washington_yakima,208.4937537908554,10.942708333333332,9.955434152659596,arid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2019,125404023.965611,143,6281,city_2869_washington_yakima,197.2749981880188,10.197916666666668,9.76709635175338,arid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2020,125404023.965611,127,5379,city_2869_washington_yakima,236.91250264644623,10.9609375,11.302571874299336,semiarid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2021,125404023.965611,128,5281,city_2869_washington_yakima,224.08125084638596,11.174479166666668,10.582609805068529,semiarid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2022,125404023.965611,139,4886,city_2869_washington_yakima,247.83749723434448,10.359375,12.173138774365349,semiarid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2023,125404023.965611,125,4847,city_2869_washington_yakima,202.66875064373016,11.283854166666668,9.52218282725956,arid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2024,125404023.965611,128,3914,city_2869_washington_yakima,245.76874995231628,11.364583333333332,11.503559237163511,semiarid,12
+2869,"Yakima, WA",Yakima,Washington,Yakima,2025,125404023.965611,114,4139,city_2869_washington_yakima,NA,NA,NA,NA,NA

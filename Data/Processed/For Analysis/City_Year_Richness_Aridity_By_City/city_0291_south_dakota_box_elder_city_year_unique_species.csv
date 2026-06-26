@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+291,"Box Elder, SD",Box Elder,South Dakota,Pennington,2016,21017851.9437015,1,1,city_0291_south_dakota_box_elder,467.59375381469727,9.8984375,23.49901864479044,dry subhumid,12
+291,"Box Elder, SD",Box Elder,South Dakota,Pennington,2017,21017851.9437015,6,8,city_0291_south_dakota_box_elder,371.1999969482422,9.2421875,19.29094584221478,semiarid,12
+291,"Box Elder, SD",Box Elder,South Dakota,Pennington,2019,21017851.9437015,18,24,city_0291_south_dakota_box_elder,667.1062574386597,7.580729166666667,37.94531222877282,humid,12
+291,"Box Elder, SD",Box Elder,South Dakota,Pennington,2021,21017851.9437015,25,31,city_0291_south_dakota_box_elder,418.63750076293945,9.684895833333332,21.26694011019563,dry subhumid,12
+291,"Box Elder, SD",Box Elder,South Dakota,Pennington,2022,21017851.9437015,26,30,city_0291_south_dakota_box_elder,375.5687503814697,8.700520833333332,20.0833310327927,dry subhumid,12
+291,"Box Elder, SD",Box Elder,South Dakota,Pennington,2023,21017851.9437015,3,3,city_0291_south_dakota_box_elder,565.4124960899353,9.182291666666668,29.475753258014542,dry subhumid,12
+291,"Box Elder, SD",Box Elder,South Dakota,Pennington,2024,21017851.9437015,39,45,city_0291_south_dakota_box_elder,385.27500438690186,10.205729166666668,19.067612022756837,semiarid,12

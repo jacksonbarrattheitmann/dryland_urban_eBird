@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+795,"Eaton, CO",Eaton,Colorado,Weld,2015,3941312.89444609,2,2,city_0795_colorado_eaton,448.16249990463257,10.4765625,21.886608160165192,dry subhumid,12
+795,"Eaton, CO",Eaton,Colorado,Weld,2018,3941312.89444609,4,4,city_0795_colorado_eaton,332.6249990463257,9.90625,16.70957609023928,semiarid,12
+795,"Eaton, CO",Eaton,Colorado,Weld,2019,3941312.89444609,9,19,city_0795_colorado_eaton,458.4124960899353,9.119791666666666,23.975810201380437,dry subhumid,12
+795,"Eaton, CO",Eaton,Colorado,Weld,2020,3941312.89444609,4,4,city_0795_colorado_eaton,227.45000314712524,10.463541666666666,11.114889438597112,semiarid,12
+795,"Eaton, CO",Eaton,Colorado,Weld,2021,3941312.89444609,7,7,city_0795_colorado_eaton,367.6437454223633,10.575520833333332,17.86801648426623,semiarid,12
+795,"Eaton, CO",Eaton,Colorado,Weld,2023,3941312.89444609,12,12,city_0795_colorado_eaton,439.1875057220459,9.799479166666668,22.181770642807525,dry subhumid,12
+795,"Eaton, CO",Eaton,Colorado,Weld,2024,3941312.89444609,7,11,city_0795_colorado_eaton,324.9937527179718,11.158854166666668,15.359704743840144,semiarid,12
+795,"Eaton, CO",Eaton,Colorado,Weld,2025,3941312.89444609,11,14,city_0795_colorado_eaton,NA,NA,NA,NA,NA

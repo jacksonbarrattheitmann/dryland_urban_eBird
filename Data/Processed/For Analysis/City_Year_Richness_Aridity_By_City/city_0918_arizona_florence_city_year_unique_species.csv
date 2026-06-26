@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+918,"Florence, AZ",Florence,Arizona,Pinal,2015,7501235.19343308,20,37,city_0918_arizona_florence,285.831250667572,23.078125,8.641095910592636,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2016,7501235.19343308,22,71,city_0918_arizona_florence,237.4374964237213,23.091145833333332,7.175257623885181,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2017,7501235.19343308,17,25,city_0918_arizona_florence,175.881254196167,23.5703125,5.23919025764705,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2018,7501235.19343308,8,8,city_0918_arizona_florence,233.5749990940094,23.169270833333332,7.0419093705032285,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2019,7501235.19343308,27,192,city_0918_arizona_florence,278.0125026702881,22.239583333333332,8.6233280311301,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2020,7501235.19343308,60,1261,city_0918_arizona_florence,149.7625009417534,23.234375,4.506252966747634,extremely arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2021,7501235.19343308,42,578,city_0918_arizona_florence,248.01875150203705,23.0625,7.501512332764825,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2022,7501235.19343308,22,59,city_0918_arizona_florence,195.6562535762787,22.638020833333332,5.994734012071413,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2023,7501235.19343308,16,21,city_0918_arizona_florence,190.64374893903732,22.682291666666668,5.833242995425524,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2024,7501235.19343308,24,82,city_0918_arizona_florence,203.66875088214871,23.643229166666668,6.053781278639609,arid,12
+918,"Florence, AZ",Florence,Arizona,Pinal,2025,7501235.19343308,26,62,city_0918_arizona_florence,NA,NA,NA,NA,NA

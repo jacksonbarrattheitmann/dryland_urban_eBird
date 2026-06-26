@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1505,"Lindsay, OK",Lindsay,Oklahoma,Garvin,2019,4753677.24439101,2,2,city_1505_oklahoma_lindsay,1131.4937438964844,16.5546875,42.60994387135922,humid,12
+1505,"Lindsay, OK",Lindsay,Oklahoma,Garvin,2021,4753677.24439101,2,2,city_1505_oklahoma_lindsay,859.874997138977,16.924479166666668,31.936550817425974,humid,12
+1505,"Lindsay, OK",Lindsay,Oklahoma,Garvin,2022,4753677.24439101,8,8,city_1505_oklahoma_lindsay,754.4750061035156,17.138020833333332,27.801401242083298,dry subhumid,12
+1505,"Lindsay, OK",Lindsay,Oklahoma,Garvin,2024,4753677.24439101,6,6,city_1505_oklahoma_lindsay,832.5124988555908,18.1875,29.5348114893336,dry subhumid,12

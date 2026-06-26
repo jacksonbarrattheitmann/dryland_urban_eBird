@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+601,"Concord, CA",Concord,California,Contra Costa,2015,528793512.839567,204,29615,city_0601_california_concord,279.7187474370003,16.768229166666668,10.449654539917123,semiarid,12
+601,"Concord, CA",Concord,California,Contra Costa,2016,528793512.839567,193,30384,city_0601_california_concord,535.8062479794025,16.278645833333332,20.38941623467353,dry subhumid,12
+601,"Concord, CA",Concord,California,Contra Costa,2017,528793512.839567,193,31945,city_0601_california_concord,565.9250077903271,16.286458333333332,21.529146323705728,dry subhumid,12
+601,"Concord, CA",Concord,California,Contra Costa,2018,528793512.839567,199,51832,city_0601_california_concord,431.00625294446945,16.143229166666668,16.486343373909378,semiarid,12
+601,"Concord, CA",Concord,California,Contra Costa,2019,528793512.839567,201,52160,city_0601_california_concord,545.4312504529953,16,20.978125017422897,dry subhumid,12
+601,"Concord, CA",Concord,California,Contra Costa,2020,528793512.839567,208,70465,city_0601_california_concord,198.63750326633453,16.520833333333332,7.489866580348828,arid,12
+601,"Concord, CA",Concord,California,Contra Costa,2021,528793512.839567,209,67618,city_0601_california_concord,456.2874934077263,16.0234375,17.53371334619903,semiarid,12
+601,"Concord, CA",Concord,California,Contra Costa,2022,528793512.839567,207,57686,city_0601_california_concord,313.1062521934509,16.143229166666668,11.976571455551865,semiarid,12
+601,"Concord, CA",Concord,California,Contra Costa,2023,528793512.839567,210,57158,city_0601_california_concord,561.7062483131886,15.653645833333332,21.895766861462228,dry subhumid,12
+601,"Concord, CA",Concord,California,Contra Costa,2024,528793512.839567,203,61362,city_0601_california_concord,543.7062528133392,16.447916666666668,20.557621217046304,dry subhumid,12
+601,"Concord, CA",Concord,California,Contra Costa,2025,528793512.839567,212,78844,city_0601_california_concord,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2015,16968500.1931144,14,17,city_1200_texas_hillsboro,1153.7687492370603,19.463541666666668,39.15920096402963,humid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2016,16968500.1931144,7,11,city_1200_texas_hillsboro,1033.3750076293943,20.197916666666668,34.220076140883705,humid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2017,16968500.1931144,26,38,city_1200_texas_hillsboro,787.0562496185303,20.1796875,26.07900594128187,dry subhumid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2018,16968500.1931144,27,39,city_1200_texas_hillsboro,951.637502670288,19.197916666666668,32.592650822814,humid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2019,16968500.1931144,42,122,city_1200_texas_hillsboro,873.8562564849854,19.177083333333332,29.950089476100892,dry subhumid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2020,16968500.1931144,15,18,city_1200_texas_hillsboro,915.9062385559082,19.666666666666668,30.873243996266567,humid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2021,16968500.1931144,37,106,city_1200_texas_hillsboro,898.4312515258789,19.385416666666668,30.574051806623316,humid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2022,16968500.1931144,55,200,city_1200_texas_hillsboro,665.8125057220459,19.627604166666668,22.4727082884122,dry subhumid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2023,16968500.1931144,50,121,city_1200_texas_hillsboro,844.57501220703125,20.341145833333332,27.83596298064544,dry subhumid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2024,16968500.1931144,15,16,city_1200_texas_hillsboro,938.906244277954,20.731770833333332,30.55164797921654,humid,12
+1200,"Hillsboro, TX",Hillsboro,Texas,Hill,2025,16968500.1931144,51,96,city_1200_texas_hillsboro,NA,NA,NA,NA,NA

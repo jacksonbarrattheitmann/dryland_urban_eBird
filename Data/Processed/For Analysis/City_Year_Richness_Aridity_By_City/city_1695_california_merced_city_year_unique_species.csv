@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1695,"Merced, CA",Merced,California,Merced,2015,123040970.359368,44,140,city_1695_california_merced,190.0687488913536,18.091145833333332,6.76614439364789,arid,12
+1695,"Merced, CA",Merced,California,Merced,2016,123040970.359368,73,555,city_1695_california_merced,319.00624656677246,17.919270833333332,11.42602356884998,semiarid,12
+1695,"Merced, CA",Merced,California,Merced,2017,123040970.359368,76,972,city_1695_california_merced,361.1687489748001,17.950520833333332,12.921718029099344,semiarid,12
+1695,"Merced, CA",Merced,California,Merced,2018,123040970.359368,67,457,city_1695_california_merced,264.63124948740005,17.791666666666668,9.521963999546628,arid,12
+1695,"Merced, CA",Merced,California,Merced,2019,123040970.359368,65,659,city_1695_california_merced,350.5750010609627,17.223958333333332,12.877444079530292,semiarid,12
+1695,"Merced, CA",Merced,California,Merced,2020,123040970.359368,49,306,city_1695_california_merced,139.99374914169312,18.0078125,4.998382117192948,extremely arid,12
+1695,"Merced, CA",Merced,California,Merced,2021,123040970.359368,82,894,city_1695_california_merced,266.89999598264694,17.723958333333332,9.627052269146764,arid,12
+1695,"Merced, CA",Merced,California,Merced,2022,123040970.359368,84,1060,city_1695_california_merced,190.7062497138977,17.630208333333332,6.902092355338051,arid,12
+1695,"Merced, CA",Merced,California,Merced,2023,123040970.359368,95,1210,city_1695_california_merced,354.6999957561493,17.057291666666668,13.109220247388,semiarid,12
+1695,"Merced, CA",Merced,California,Merced,2024,123040970.359368,95,1363,city_1695_california_merced,335.41874837875366,17.966145833333332,11.993742376146889,semiarid,12
+1695,"Merced, CA",Merced,California,Merced,2025,123040970.359368,84,841,city_1695_california_merced,NA,NA,NA,NA,NA

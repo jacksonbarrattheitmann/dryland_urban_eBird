@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+238,"Bishop, CA",Bishop,California,Inyo,2015,11004676.6168139,124,2078,city_0238_california_bishop,139.80000019073486,15.265625,5.533209655044546,arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2016,11004676.6168139,114,2248,city_0238_california_bishop,154.018749833107,14.8671875,6.193653779025352,arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2017,11004676.6168139,112,1691,city_0238_california_bishop,176.26249825954437,14.96875,7.059324085488636,arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2018,11004676.6168139,110,1503,city_0238_california_bishop,131.06875258684158,14.872395833333332,5.269647261370241,arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2019,11004676.6168139,102,1459,city_0238_california_bishop,208.2187513113022,14.1953125,8.60574755177484,arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2020,11004676.6168139,104,1824,city_0238_california_bishop,80.41250029206276,15.026041666666668,3.2131529773311236,extremely arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2021,11004676.6168139,96,1285,city_0238_california_bishop,131.51875114440918,14.846354166666666,5.293281672723313,arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2022,11004676.6168139,115,2049,city_0238_california_bishop,114.1312494277954,14.653645833333332,4.629386266005434,extremely arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2023,11004676.6168139,136,3326,city_0238_california_bishop,195.31875032186508,14.0078125,8.135632945394965,arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2024,11004676.6168139,125,3735,city_0238_california_bishop,159.6812480688095,15.010416666666668,6.384589677053608,arid,12
+238,"Bishop, CA",Bishop,California,Inyo,2025,11004676.6168139,135,4280,city_0238_california_bishop,NA,NA,NA,NA,NA

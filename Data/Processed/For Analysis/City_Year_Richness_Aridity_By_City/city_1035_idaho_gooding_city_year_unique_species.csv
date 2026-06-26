@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1035,"Gooding, ID",Gooding,Idaho,Gooding,2020,3497662.04366607,4,4,city_1035_idaho_gooding,289.11249899864197,10.989583333333332,13.77409424509659,semiarid,12
+1035,"Gooding, ID",Gooding,Idaho,Gooding,2021,3497662.04366607,1,1,city_1035_idaho_gooding,274.5750002861023,11.419270833333332,12.819063843144471,semiarid,12
+1035,"Gooding, ID",Gooding,Idaho,Gooding,2022,3497662.04366607,9,9,city_1035_idaho_gooding,264.33124673366547,10.473958333333332,12.910607828253312,semiarid,12
+1035,"Gooding, ID",Gooding,Idaho,Gooding,2023,3497662.04366607,23,34,city_1035_idaho_gooding,311.1000007390976,10.783854166666668,14.968349866409406,semiarid,12
+1035,"Gooding, ID",Gooding,Idaho,Gooding,2024,3497662.04366607,1,1,city_1035_idaho_gooding,337.7874946594238,11.653645833333332,15.59956680086816,semiarid,12
+1035,"Gooding, ID",Gooding,Idaho,Gooding,2025,3497662.04366607,17,34,city_1035_idaho_gooding,NA,NA,NA,NA,NA

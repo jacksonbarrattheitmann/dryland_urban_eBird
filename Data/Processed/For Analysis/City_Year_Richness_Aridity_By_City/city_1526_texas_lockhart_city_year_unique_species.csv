@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2015,20680016.9882908,19,19,city_1526_texas_lockhart,1266.6937561035156,20.65625,41.31926625414118,humid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2016,20680016.9882908,38,96,city_1526_texas_lockhart,1221.2375087738037,21.372395833333332,38.92713566606962,humid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2017,20680016.9882908,74,552,city_1526_texas_lockhart,769.5125026702881,21.549479166666668,24.3906562959464,dry subhumid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2018,20680016.9882908,100,457,city_1526_texas_lockhart,873.2437496185303,20.8046875,28.347755503720993,dry subhumid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2019,20680016.9882908,84,923,city_1526_texas_lockhart,833.2062473297119,20.830729166666668,27.0251878515592,dry subhumid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2020,20680016.9882908,77,807,city_1526_texas_lockhart,706.8062572479248,21.328125,22.561396740083385,dry subhumid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2021,20680016.9882908,86,1169,city_1526_texas_lockhart,896.4062480926514,20.75,29.151422702200044,dry subhumid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2022,20680016.9882908,95,988,city_1526_texas_lockhart,495.3875026702881,21.03125,15.964149129354702,semiarid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2023,20680016.9882908,81,552,city_1526_texas_lockhart,694.4812488555908,21.828125,21.819734868315077,dry subhumid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2024,20680016.9882908,71,462,city_1526_texas_lockhart,714.162501335144,22.091145833333332,22.2541913911138,dry subhumid,12
+1526,"Lockhart, TX",Lockhart,Texas,Caldwell,2025,20680016.9882908,75,593,city_1526_texas_lockhart,NA,NA,NA,NA,NA

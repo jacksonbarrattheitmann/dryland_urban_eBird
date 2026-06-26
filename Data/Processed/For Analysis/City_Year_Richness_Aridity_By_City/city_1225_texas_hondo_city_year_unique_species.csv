@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1225,"Hondo, TX",Hondo,Texas,Medina,2015,6978949.02702817,10,12,city_1225_texas_hondo,967.3374938964844,20.565104166666668,31.648427848364147,humid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2016,6978949.02702817,14,20,city_1225_texas_hondo,938.074987411499,21.346354166666668,29.926127371107057,dry subhumid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2017,6978949.02702817,21,26,city_1225_texas_hondo,562.2687549591064,21.4921875,17.854229877143545,semiarid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2018,6978949.02702817,7,7,city_1225_texas_hondo,691.5187549591064,20.8046875,22.448491157688466,dry subhumid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2019,6978949.02702817,11,16,city_1225_texas_hondo,503.7937502861023,20.776041666666668,16.36967338888672,semiarid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2020,6978949.02702817,20,29,city_1225_texas_hondo,486.4500036239624,21.291666666666668,15.545672552563378,semiarid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2022,6978949.02702817,25,51,city_1225_texas_hondo,340.01874351501465,21.125,10.924296980402078,semiarid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2023,6978949.02702817,18,28,city_1225_texas_hondo,584.1437473297119,21.856770833333332,18.336564945198184,semiarid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2024,6978949.02702817,20,28,city_1225_texas_hondo,500.3500008583069,22.080729166666668,15.596590659111117,semiarid,12
+1225,"Hondo, TX",Hondo,Texas,Medina,2025,6978949.02702817,10,10,city_1225_texas_hondo,NA,NA,NA,NA,NA

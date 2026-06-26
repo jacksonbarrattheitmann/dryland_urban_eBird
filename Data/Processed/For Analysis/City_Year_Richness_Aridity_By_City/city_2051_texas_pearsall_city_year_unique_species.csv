@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2016,10628376.5954978,29,49,city_2051_texas_pearsall,897.9750156402588,22.247395833333332,27.84643511312763,dry subhumid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2017,10628376.5954978,18,21,city_2051_texas_pearsall,565.2874965667725,22.338541666666668,17.480302680112786,semiarid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2018,10628376.5954978,20,36,city_2051_texas_pearsall,677.5250010490417,21.6875,21.381459599180804,dry subhumid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2019,10628376.5954978,10,10,city_2051_texas_pearsall,465.7687559127808,21.658854166666668,14.712116662869771,semiarid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2020,10628376.5954978,30,41,city_2051_texas_pearsall,453.3250021934509,22.125,14.111284114971236,semiarid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2021,10628376.5954978,16,27,city_2051_texas_pearsall,659.0562620162964,21.690104166666668,20.79691056079035,dry subhumid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2022,10628376.5954978,25,125,city_2051_texas_pearsall,367.55625200271606,21.932291666666668,11.510487748250121,semiarid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2023,10628376.5954978,17,30,city_2051_texas_pearsall,589.3499975204468,22.703125,18.021213493219587,semiarid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2024,10628376.5954978,26,36,city_2051_texas_pearsall,486.4624967575073,22.916666666666668,14.7786074964306,semiarid,12
+2051,"Pearsall, TX",Pearsall,Texas,Frio,2025,10628376.5954978,5,7,city_2051_texas_pearsall,NA,NA,NA,NA,NA

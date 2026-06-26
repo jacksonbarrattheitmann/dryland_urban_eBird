@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2015,10939682.7936336,8,8,city_0612_arizona_coolidge,260.8937544822693,22.84375,7.94348253418898,arid,12
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2016,10939682.7936336,36,297,city_0612_arizona_coolidge,215.67499899864197,22.7734375,6.58078662022078,arid,12
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2017,10939682.7936336,25,105,city_0612_arizona_coolidge,164.46249973773956,23.263020833333332,4.944304384192594,extremely arid,12
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2018,10939682.7936336,27,73,city_0612_arizona_coolidge,223.81249684095383,22.869791666666668,6.809063443743168,arid,12
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2019,10939682.7936336,26,267,city_0612_arizona_coolidge,242.737499833107,22.002604166666668,7.584929606633011,arid,12
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2020,10939682.7936336,7,9,city_0612_arizona_coolidge,128.25000071525574,23.03125,3.8826868712281777,extremely arid,12
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2022,10939682.7936336,14,25,city_0612_arizona_coolidge,181.99374914169312,22.4609375,5.606546303282002,arid,12
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2024,10939682.7936336,19,19,city_0612_arizona_coolidge,176.82500165700912,23.3203125,5.306823027455374,arid,12
+612,"Coolidge, AZ",Coolidge,Arizona,Pinal,2025,10939682.7936336,15,27,city_0612_arizona_coolidge,NA,NA,NA,NA,NA

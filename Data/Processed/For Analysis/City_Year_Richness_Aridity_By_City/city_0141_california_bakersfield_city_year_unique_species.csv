@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+141,"Bakersfield, CA",Bakersfield,California,Kern,2015,360784112.702048,90,1569,city_0141_california_bakersfield,93.53124976158142,20.018229166666668,3.1158150350001965,extremely arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2016,360784112.702048,92,630,city_0141_california_bakersfield,140.7187477350235,19.65625,4.744994654921761,extremely arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2017,360784112.702048,106,917,city_0141_california_bakersfield,160.15000081062317,19.768229166666668,5.379896799167115,arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2018,360784112.702048,116,1359,city_0141_california_bakersfield,113.41249859333038,19.731770833333332,3.814522156419275,extremely arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2019,360784112.702048,124,2001,city_0141_california_bakersfield,201.76249939203265,19.158854166666668,6.9194248250906965,arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2020,360784112.702048,143,7340,city_0141_california_bakersfield,108.23750233650208,19.796875,3.632511877050935,extremely arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2021,360784112.702048,137,5876,city_0141_california_bakersfield,118.08749788999556,19.4765625,4.0061488815052835,extremely arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2022,360784112.702048,145,6652,city_0141_california_bakersfield,88.11874997615814,19.416666666666668,2.995538242815574,extremely arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2023,360784112.702048,154,10646,city_0141_california_bakersfield,199.91874849796295,18.611979166666668,6.987239412325272,arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2024,360784112.702048,161,14469,city_0141_california_bakersfield,182.81875109672544,19.658854166666668,6.164053070606952,arid,12
+141,"Bakersfield, CA",Bakersfield,California,Kern,2025,360784112.702048,158,17057,city_0141_california_bakersfield,NA,NA,NA,NA,NA

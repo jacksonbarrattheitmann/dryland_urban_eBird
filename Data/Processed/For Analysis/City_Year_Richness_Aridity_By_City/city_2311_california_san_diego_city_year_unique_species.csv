@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2311,"San Diego, CA",San Diego,California,San Diego,2015,1964163077.61453,344,107080,city_2311_california_san_diego,147.23333287239075,18.41319441795349,5.181864830353541,arid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2016,1964163077.61453,357,148359,city_2311_california_san_diego,263.1583315730095,17.93055550257365,9.42187961670726,arid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2017,1964163077.61453,363,177269,city_2311_california_san_diego,270.4416694045067,18.114583333333332,9.619266492342588,arid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2018,1964163077.61453,367,230722,city_2311_california_san_diego,203.77500039339063,18.06249992052714,7.261469967767677,arid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2019,1964163077.61453,367,258770,city_2311_california_san_diego,473.54999470710754,17.29861118396123,17.34703613733041,semiarid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2020,1964163077.61453,376,381350,city_2311_california_san_diego,232.6000036597252,18.027777751286823,8.298909950113542,arid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2021,1964163077.61453,387,481050,city_2311_california_san_diego,231.608338534832,17.50000003973643,8.422121389096981,arid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2022,1964163077.61453,385,495753,city_2311_california_san_diego,167.81666764616966,17.381944477558136,6.128734494502751,arid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2023,1964163077.61453,392,531913,city_2311_california_san_diego,396.63333493471146,16.878472208976746,14.756543149139471,semiarid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2024,1964163077.61453,376,555324,city_2311_california_san_diego,337.84166103601456,17.55555546283722,12.260382901431418,semiarid,12
+2311,"San Diego, CA",San Diego,California,San Diego,2025,1964163077.61453,390,589869,city_2311_california_san_diego,NA,NA,NA,NA,NA

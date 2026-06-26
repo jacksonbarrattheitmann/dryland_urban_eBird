@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1908,"Nocona, TX",Nocona,Texas,Montague,2015,5233142.90141944,12,12,city_1908_texas_nocona,1065.587501525879,18.2734375,37.68864332559063,humid,12
+1908,"Nocona, TX",Nocona,Texas,Montague,2019,5233142.90141944,26,39,city_1908_texas_nocona,931.2062492370604,17.903645833333332,33.37220715884566,humid,12
+1908,"Nocona, TX",Nocona,Texas,Montague,2020,5233142.90141944,17,19,city_1908_texas_nocona,894.5437412261963,18.2734375,31.639015992526424,humid,12
+1908,"Nocona, TX",Nocona,Texas,Montague,2021,5233142.90141944,22,45,city_1908_texas_nocona,786.8437385559082,18.260416666666668,27.842609252254768,dry subhumid,12
+1908,"Nocona, TX",Nocona,Texas,Montague,2022,5233142.90141944,8,13,city_1908_texas_nocona,616.5062608718872,18.4609375,21.661488166786047,dry subhumid,12
+1908,"Nocona, TX",Nocona,Texas,Montague,2023,5233142.90141944,50,83,city_1908_texas_nocona,804.5312442779541,19.065104166666668,27.68031518705621,dry subhumid,12
+1908,"Nocona, TX",Nocona,Texas,Montague,2024,5233142.90141944,20,23,city_1908_texas_nocona,860.3374862670898,19.611979166666668,29.053697539931623,dry subhumid,12
+1908,"Nocona, TX",Nocona,Texas,Montague,2025,5233142.90141944,37,53,city_1908_texas_nocona,NA,NA,NA,NA,NA

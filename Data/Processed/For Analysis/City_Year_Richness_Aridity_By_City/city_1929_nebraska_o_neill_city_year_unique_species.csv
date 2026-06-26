@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1929,"O'Neill, NE",O'Neill,Nebraska,Holt,2018,5331916.76411608,12,13,city_1929_nebraska_o_neill,750.3000011444092,8.997395833333332,39.494886969082,humid,12
+1929,"O'Neill, NE",O'Neill,Nebraska,Holt,2020,5331916.76411608,14,17,city_1929_nebraska_o_neill,506.81249713897705,10.369791666666668,24.880593058216206,dry subhumid,12
+1929,"O'Neill, NE",O'Neill,Nebraska,Holt,2021,5331916.76411608,4,4,city_1929_nebraska_o_neill,605.8500065803528,10.731770833333332,29.22326372652374,dry subhumid,12
+1929,"O'Neill, NE",O'Neill,Nebraska,Holt,2022,5331916.76411608,20,59,city_1929_nebraska_o_neill,436.1187505722046,9.736979166666668,22.096529914200627,dry subhumid,12
+1929,"O'Neill, NE",O'Neill,Nebraska,Holt,2023,5331916.76411608,24,44,city_1929_nebraska_o_neill,627.5312538146973,10.559895833333332,30.522102782120808,humid,12
+1929,"O'Neill, NE",O'Neill,Nebraska,Holt,2024,5331916.76411608,13,28,city_1929_nebraska_o_neill,611.9687566757202,11.098958333333332,29.004690516351097,dry subhumid,12
+1929,"O'Neill, NE",O'Neill,Nebraska,Holt,2025,5331916.76411608,1,1,city_1929_nebraska_o_neill,NA,NA,NA,NA,NA

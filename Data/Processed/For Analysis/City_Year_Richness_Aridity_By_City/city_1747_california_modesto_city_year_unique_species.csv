@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1747,"Modesto, CA",Modesto,California,Stanislaus,2015,239560285.695177,113,3434,city_1747_california_modesto,211.16249787807465,18.268229166666668,7.469958469385597,arid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2016,239560285.695177,109,3761,city_1747_california_modesto,345.8375033736229,17.932291666666668,12.381279255591195,semiarid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2017,239560285.695177,112,4768,city_1747_california_modesto,378.5187546014786,17.971354166666668,13.532371452096433,semiarid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2018,239560285.695177,127,6853,city_1747_california_modesto,298.5624992251396,17.799479166666668,10.73985945690432,semiarid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2019,239560285.695177,129,9785,city_1747_california_modesto,353.46875607967377,17.497395833333332,12.854626606174328,semiarid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2020,239560285.695177,134,14644,city_1747_california_modesto,149.27500039339066,18.080729166666668,5.3159232264733385,arid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2021,239560285.695177,158,15083,city_1747_california_modesto,285.8875033557415,17.739583333333332,10.30612103723289,semiarid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2022,239560285.695177,143,15624,city_1747_california_modesto,211.6312445700169,17.778645833333332,7.618486726810395,arid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2023,239560285.695177,142,15116,city_1747_california_modesto,356.04375368356705,17.15625,13.11093224151225,semiarid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2024,239560285.695177,149,16078,city_1747_california_modesto,359.27499878406525,18.041666666666668,12.812184206266814,semiarid,12
+1747,"Modesto, CA",Modesto,California,Stanislaus,2025,239560285.695177,140,15600,city_1747_california_modesto,NA,NA,NA,NA,NA

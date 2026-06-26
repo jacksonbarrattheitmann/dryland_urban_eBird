@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+606,"Connell, WA",Connell,Washington,Franklin,2015,6892949.73096234,23,32,city_0606_washington_connell,195.60625076293945,12.911458333333332,8.537485825524978,arid,12
+606,"Connell, WA",Connell,Washington,Franklin,2016,6892949.73096234,10,20,city_0606_washington_connell,218.8249979019165,12.385416666666668,9.775337272491385,arid,12
+606,"Connell, WA",Connell,Washington,Franklin,2017,6892949.73096234,8,8,city_0606_washington_connell,253.38750517368317,11.307291666666668,11.892055974907642,semiarid,12
+606,"Connell, WA",Connell,Washington,Franklin,2018,6892949.73096234,13,17,city_0606_washington_connell,188.0874983072281,11.947916666666668,8.569719903888892,arid,12
+606,"Connell, WA",Connell,Washington,Franklin,2019,6892949.73096234,29,48,city_0606_washington_connell,181.8000001907349,10.940104166666668,8.681905244775797,arid,12
+606,"Connell, WA",Connell,Washington,Franklin,2020,6892949.73096234,57,131,city_0606_washington_connell,209.80624997615817,11.893229166666668,9.583156891976296,arid,12
+606,"Connell, WA",Connell,Washington,Franklin,2021,6892949.73096234,16,22,city_0606_washington_connell,179.9249973297119,12.231770833333332,8.093147355582685,arid,12
+606,"Connell, WA",Connell,Washington,Franklin,2023,6892949.73096234,21,24,city_0606_washington_connell,178.1749986410141,12.1640625,8.03891428482545,arid,12
+606,"Connell, WA",Connell,Washington,Franklin,2025,6892949.73096234,49,87,city_0606_washington_connell,NA,NA,NA,NA,NA

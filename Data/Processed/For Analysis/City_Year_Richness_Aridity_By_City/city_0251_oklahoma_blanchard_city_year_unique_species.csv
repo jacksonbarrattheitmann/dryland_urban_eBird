@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+251,"Blanchard, OK",Blanchard,Oklahoma,McClain,2022,8538263.68359506,34,97,city_0251_oklahoma_blanchard,694.4562540054321,16.953125,25.76533348194067,dry subhumid,12
+251,"Blanchard, OK",Blanchard,Oklahoma,McClain,2023,8538263.68359506,24,34,city_0251_oklahoma_blanchard,836.8062477111816,17.635416666666668,30.280210998972272,humid,12
+251,"Blanchard, OK",Blanchard,Oklahoma,McClain,2024,8538263.68359506,33,61,city_0251_oklahoma_blanchard,768.3562469482422,18.067708333333332,27.37509731194331,dry subhumid,12
+251,"Blanchard, OK",Blanchard,Oklahoma,McClain,2025,8538263.68359506,33,33,city_0251_oklahoma_blanchard,NA,NA,NA,NA,NA

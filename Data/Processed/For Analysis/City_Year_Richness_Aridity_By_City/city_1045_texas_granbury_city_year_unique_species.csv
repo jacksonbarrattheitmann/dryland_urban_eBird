@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1045,"Granbury, TX",Granbury,Texas,Hood,2015,83585045.0493726,81,331,city_1045_texas_granbury,1148.7437477111816,19.122395833333332,39.44537236171812,humid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2016,83585045.0493726,80,362,city_1045_texas_granbury,1023.3749961853028,19.8671875,34.264190298644714,humid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2017,83585045.0493726,87,792,city_1045_texas_granbury,716.7312507629395,19.9453125,23.93467260570213,dry subhumid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2018,83585045.0493726,74,364,city_1045_texas_granbury,833.4312419891357,19.005208333333332,28.73384781144085,dry subhumid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2019,83585045.0493726,84,562,city_1045_texas_granbury,827.3062515258789,18.921875,28.604862289387498,dry subhumid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2020,83585045.0493726,64,273,city_1045_texas_granbury,846.5625038146973,19.315104166666668,28.878031577226945,dry subhumid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2021,83585045.0493726,87,524,city_1045_texas_granbury,845.8812389373779,18.971354166666668,29.197159168714887,dry subhumid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2022,83585045.0493726,105,1056,city_1045_texas_granbury,521.3312463760376,19.388020833333332,17.739583394629904,semiarid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2023,83585045.0493726,134,1934,city_1045_texas_granbury,767.4187602996826,20.03125,25.554006586461856,dry subhumid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2024,83585045.0493726,120,1996,city_1045_texas_granbury,848.4000015258789,20.489583333333332,27.825896872731253,dry subhumid,12
+1045,"Granbury, TX",Granbury,Texas,Hood,2025,83585045.0493726,90,695,city_1045_texas_granbury,NA,NA,NA,NA,NA

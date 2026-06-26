@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2015,5476554.35549126,5,5,city_1949_nebraska_ogallala,563.1062550544739,10.700520833333332,27.20251628392477,dry subhumid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2016,5476554.35549126,11,11,city_1949_nebraska_ogallala,535.9999961853027,11.049479166666668,25.463812759514568,dry subhumid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2017,5476554.35549126,23,37,city_1949_nebraska_ogallala,508.6374959945678,10.692708333333332,24.580518306306832,dry subhumid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2018,5476554.35549126,34,53,city_1949_nebraska_ogallala,587.5375080108643,9.6015625,29.974013959900606,dry subhumid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2019,5476554.35549126,23,38,city_1949_nebraska_ogallala,663.6187534332275,9.109375,34.727391839514766,humid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2020,5476554.35549126,27,76,city_1949_nebraska_ogallala,376.9250020980835,10.799479166666666,18.12184810387681,semiarid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2021,5476554.35549126,45,104,city_1949_nebraska_ogallala,509.43749713897705,11.005208333333332,24.25291332771723,dry subhumid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2022,5476554.35549126,24,92,city_1949_nebraska_ogallala,331.8875002861023,10.21875,16.414837726669667,semiarid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2023,5476554.35549126,17,23,city_1949_nebraska_ogallala,567.8500084877014,10.671875,27.46969050885328,dry subhumid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2024,5476554.35549126,34,85,city_1949_nebraska_ogallala,424.8937458992005,11.5703125,19.698080215537,semiarid,12
+1949,"Ogallala, NE",Ogallala,Nebraska,Keith,2025,5476554.35549126,20,55,city_1949_nebraska_ogallala,NA,NA,NA,NA,NA

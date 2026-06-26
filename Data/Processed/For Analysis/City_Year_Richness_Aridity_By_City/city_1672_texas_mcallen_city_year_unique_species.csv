@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2015,929836257.528519,280,41204,city_1672_texas_mcallen,718.999997138977,24.033854166666668,21.12602333012221,dry subhumid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2016,929836257.528519,286,47833,city_1672_texas_mcallen,654.0562450885773,24.708333333333332,18.844357601591664,semiarid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2017,929836257.528519,273,43150,city_1672_texas_mcallen,549.1749992370605,24.841145833333332,15.762254257196448,semiarid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2018,929836257.528519,289,58985,city_1672_texas_mcallen,555.1187477111816,24.34375,16.163603209060796,semiarid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2019,929836257.528519,291,61569,city_1672_texas_mcallen,484.7374958992005,24.369791666666668,14.103591333936423,semiarid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2020,929836257.528519,293,70172,city_1672_texas_mcallen,541.1500039100647,24.9296875,15.492552113730325,semiarid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2021,929836257.528519,296,81340,city_1672_texas_mcallen,779.8750019073486,24.229166666666668,22.78393188773751,dry subhumid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2022,929836257.528519,297,88283,city_1672_texas_mcallen,513.4750053882599,24.471354166666668,14.895701599236366,semiarid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2023,929836257.528519,300,78090,city_1672_texas_mcallen,578.0312352180481,25.182291666666668,16.429607277848294,semiarid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2024,929836257.528519,301,69676,city_1672_texas_mcallen,751.0562429428101,25.486979166666668,21.164276604537974,dry subhumid,12
+1672,"McAllen, TX",McAllen,Texas,Hidalgo,2025,929836257.528519,291,87236,city_1672_texas_mcallen,NA,NA,NA,NA,NA

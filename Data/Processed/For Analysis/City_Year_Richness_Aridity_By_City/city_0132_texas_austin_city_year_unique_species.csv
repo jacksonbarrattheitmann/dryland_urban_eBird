@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+132,"Austin, TX",Austin,Texas,Travis,2015,1366263381.30954,279,70309,city_0132_texas_austin,1213.4249897003174,20.692708333333332,39.53463397632122,humid,12
+132,"Austin, TX",Austin,Texas,Travis,2016,1366263381.30954,273,67977,city_0132_texas_austin,1162.306261062622,21.3046875,37.128824910410685,humid,12
+132,"Austin, TX",Austin,Texas,Travis,2017,1366263381.30954,274,95862,city_0132_texas_austin,729.4187526702881,21.4140625,23.219497722406583,dry subhumid,12
+132,"Austin, TX",Austin,Texas,Travis,2018,1366263381.30954,282,101658,city_0132_texas_austin,835.4874973297119,20.794270833333332,27.131264183899315,dry subhumid,12
+132,"Austin, TX",Austin,Texas,Travis,2019,1366263381.30954,282,136279,city_0132_texas_austin,781.9187364578247,20.75,25.42825159212438,dry subhumid,12
+132,"Austin, TX",Austin,Texas,Travis,2020,1366263381.30954,310,191746,city_0132_texas_austin,694.2749977111816,21.229166666666668,22.231621007429432,dry subhumid,12
+132,"Austin, TX",Austin,Texas,Travis,2021,1366263381.30954,305,208022,city_0132_texas_austin,860.2812519073486,20.653645833333332,28.06456551970282,dry subhumid,12
+132,"Austin, TX",Austin,Texas,Travis,2022,1366263381.30954,288,204945,city_0132_texas_austin,461.7062511444092,20.971354166666668,14.907525472080478,semiarid,12
+132,"Austin, TX",Austin,Texas,Travis,2023,1366263381.30954,306,238035,city_0132_texas_austin,666.1750087738037,21.786458333333332,20.957824296996613,dry subhumid,12
+132,"Austin, TX",Austin,Texas,Travis,2024,1366263381.30954,296,237380,city_0132_texas_austin,693.3499994277954,22.0546875,21.63022177108404,dry subhumid,12
+132,"Austin, TX",Austin,Texas,Travis,2025,1366263381.30954,301,240932,city_0132_texas_austin,NA,NA,NA,NA,NA

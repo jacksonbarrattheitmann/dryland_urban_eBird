@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2015,50405865.3229135,176,8292,city_0293_montana_bozeman,405.70624828338623,8.3828125,22.069868159912215,dry subhumid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2016,50405865.3229135,156,6294,city_0293_montana_bozeman,444.6249990463257,8.263020833333332,24.345643752144458,dry subhumid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2017,50405865.3229135,159,5877,city_0293_montana_bozeman,437.83125162124634,7.1640625,25.50860273441945,dry subhumid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2018,50405865.3229135,161,5637,city_0293_montana_bozeman,484.4250011444092,6.674479166666666,29.051881998977535,dry subhumid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2019,50405865.3229135,166,8866,city_0293_montana_bozeman,500.2499990463257,5.994791666666666,31.275805866784285,humid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2020,50405865.3229135,184,12775,city_0293_montana_bozeman,403.5374946594238,7.669270833333334,22.838378474461123,dry subhumid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2021,50405865.3229135,182,12746,city_0293_montana_bozeman,308.87500619888306,8.013020833333332,17.14731854566591,semiarid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2022,50405865.3229135,183,17263,city_0293_montana_bozeman,420.3500003814697,6.888020833333334,24.890424078100903,dry subhumid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2023,50405865.3229135,176,18084,city_0293_montana_bozeman,508.75624895095825,7.859375,28.486789092617084,dry subhumid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2024,50405865.3229135,182,24305,city_0293_montana_bozeman,364.8312559127808,8.2890625,19.948056709455763,semiarid,12
+293,"Bozeman, MT",Bozeman,Montana,Gallatin,2025,50405865.3229135,184,21078,city_0293_montana_bozeman,NA,NA,NA,NA,NA

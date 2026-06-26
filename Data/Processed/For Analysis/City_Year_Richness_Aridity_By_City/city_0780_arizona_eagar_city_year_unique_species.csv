@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+780,"Eagar, AZ",Eagar,Arizona,Apache,2015,16117181.2774324,14,21,city_0780_arizona_eagar,517.1750011444092,9.859375,26.04185686329047,dry subhumid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2016,16117181.2774324,8,8,city_0780_arizona_eagar,355.4999942779541,9.8046875,17.950295569064348,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2017,16117181.2774324,23,34,city_0780_arizona_eagar,321.3624997138977,10.432291666666666,15.728167204962622,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2018,16117181.2774324,6,8,city_0780_arizona_eagar,391.974995136261,10.0234375,19.575809355224894,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2019,16117181.2774324,7,7,city_0780_arizona_eagar,343.0937490463257,8.947916666666666,18.107201708877003,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2020,16117181.2774324,43,821,city_0780_arizona_eagar,213.0812475681305,10.026041666666666,10.64020794098337,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2021,16117181.2774324,36,144,city_0780_arizona_eagar,388.062490940094,9.911458333333334,19.489405770467705,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2022,16117181.2774324,25,82,city_0780_arizona_eagar,349.18749821186066,9.458333333333334,17.945396053714465,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2023,16117181.2774324,41,232,city_0780_arizona_eagar,261.3125,9.565104166666668,13.356049514175428,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2024,16117181.2774324,23,96,city_0780_arizona_eagar,289.68749928474426,10.5859375,14.072106227114713,semiarid,12
+780,"Eagar, AZ",Eagar,Arizona,Apache,2025,16117181.2774324,27,60,city_0780_arizona_eagar,NA,NA,NA,NA,NA

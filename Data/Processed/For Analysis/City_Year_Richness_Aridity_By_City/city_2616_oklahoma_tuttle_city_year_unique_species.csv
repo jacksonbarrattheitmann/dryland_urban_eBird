@@ -1,0 +1,3 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2616,"Tuttle, OK",Tuttle,Oklahoma,Grady,2021,10030974.6560531,19,19,city_2616_oklahoma_tuttle,812.4437446594238,16.606770833333332,30.5352254036624,humid,12
+2616,"Tuttle, OK",Tuttle,Oklahoma,Grady,2023,10030974.6560531,12,12,city_2616_oklahoma_tuttle,850.1812477111816,17.3828125,31.047988504145863,humid,12

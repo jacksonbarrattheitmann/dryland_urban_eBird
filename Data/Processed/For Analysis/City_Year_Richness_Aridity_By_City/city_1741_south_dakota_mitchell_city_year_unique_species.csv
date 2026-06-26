@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2015,17823284.3077414,55,91,city_1741_south_dakota_mitchell,719.9875011444092,9.763020833333332,36.43104499136291,humid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2016,17823284.3077414,19,32,city_1741_south_dakota_mitchell,653.8624982833862,10.390625,32.06681983918523,humid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2017,17823284.3077414,14,16,city_1741_south_dakota_mitchell,589.7999992370605,9.6015625,30.0894379841944,humid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2018,17823284.3077414,18,29,city_1741_south_dakota_mitchell,696.1562490463257,8.208333333333332,38.23283747622842,humid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2019,17823284.3077414,18,32,city_1741_south_dakota_mitchell,825.0812482833862,7.65625,46.73026538950152,humid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2020,17823284.3077414,51,99,city_1741_south_dakota_mitchell,480.6437578201294,9.825520833333332,24.243688822137095,dry subhumid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2021,17823284.3077414,30,56,city_1741_south_dakota_mitchell,563.3437461853027,10.341145833333332,27.69478921202871,dry subhumid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2022,17823284.3077414,66,194,city_1741_south_dakota_mitchell,436.7749896049499,8.859375,23.15956862859718,dry subhumid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2023,17823284.3077414,66,116,city_1741_south_dakota_mitchell,606.5312514305115,9.953125,30.397807432695956,humid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2024,17823284.3077414,44,113,city_1741_south_dakota_mitchell,611.25626039505,10.744791666666668,29.465528997200504,dry subhumid,12
+1741,"Mitchell, SD",Mitchell,South Dakota,Davison,2025,17823284.3077414,54,175,city_1741_south_dakota_mitchell,NA,NA,NA,NA,NA

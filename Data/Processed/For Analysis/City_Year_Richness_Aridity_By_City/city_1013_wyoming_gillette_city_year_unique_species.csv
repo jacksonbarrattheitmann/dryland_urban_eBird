@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2015,64425741.2653861,49,158,city_1013_wyoming_gillette,467.5125012397766,8.0546875,25.894244984288797,dry subhumid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2016,64425741.2653861,58,179,city_1013_wyoming_gillette,360.41249656677246,8.174479166666668,19.83069188732492,semiarid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2017,64425741.2653861,50,135,city_1013_wyoming_gillette,346.08750438690186,7.2578125,20.05396132255475,dry subhumid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2018,64425741.2653861,87,950,city_1013_wyoming_gillette,481.70000553131104,6.291666666666666,29.567263766627793,dry subhumid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2019,64425741.2653861,124,1602,city_1013_wyoming_gillette,516.2500019073486,5.450520833333333,33.41311321969019,humid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2020,64425741.2653861,166,4097,city_1013_wyoming_gillette,286.63749980926514,7.453125,16.423276622912237,semiarid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2021,64425741.2653861,142,2833,city_1013_wyoming_gillette,333.96250104904175,7.864583333333333,18.694110845893885,semiarid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2022,64425741.2653861,131,3151,city_1013_wyoming_gillette,360.2187509536743,6.755208333333334,21.498912086759542,dry subhumid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2023,64425741.2653861,126,2267,city_1013_wyoming_gillette,502.0062503814697,7.372395833333333,28.896777116846707,dry subhumid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2024,64425741.2653861,148,2596,city_1013_wyoming_gillette,302.256254196167,8.333333333333332,16.48670477433638,semiarid,12
+1013,"Gillette, WY",Gillette,Wyoming,Campbell,2025,64425741.2653861,131,2238,city_1013_wyoming_gillette,NA,NA,NA,NA,NA

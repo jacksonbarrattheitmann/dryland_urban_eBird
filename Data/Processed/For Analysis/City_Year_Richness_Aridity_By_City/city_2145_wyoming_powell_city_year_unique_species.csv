@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2145,"Powell, WY",Powell,Wyoming,Park,2016,6325193.32772713,26,238,city_2145_wyoming_powell,201.89999794960025,8.630208333333332,10.837237798804374,semiarid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2017,6325193.32772713,37,1054,city_2145_wyoming_powell,189.8062529563904,7.450520833333334,10.87682452398954,semiarid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2018,6325193.32772713,55,1831,city_2145_wyoming_powell,221.08749961853027,6.901041666666666,13.081294276350638,semiarid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2019,6325193.32772713,47,1302,city_2145_wyoming_powell,237.83750522136688,6.231770833333334,14.652591369325345,semiarid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2020,6325193.32772713,58,1765,city_2145_wyoming_powell,148.7437493801117,7.895833333333334,8.311641408900304,arid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2021,6325193.32772713,50,1219,city_2145_wyoming_powell,151.931250333786,8.393229166666668,8.2601727492813,arid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2022,6325193.32772713,54,1515,city_2145_wyoming_powell,196.80625104904175,7.333333333333334,11.354206791290869,semiarid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2023,6325193.32772713,37,1129,city_2145_wyoming_powell,259.4437503814697,7.971354166666666,14.4365164681183,semiarid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2024,6325193.32772713,47,1072,city_2145_wyoming_powell,146.17500019073486,8.802083333333332,7.774404442277312,arid,12
+2145,"Powell, WY",Powell,Wyoming,Park,2025,6325193.32772713,33,628,city_2145_wyoming_powell,NA,NA,NA,NA,NA

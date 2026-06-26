@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2451,"Spearman, TX",Spearman,Texas,Hansford,2017,3943153.21199152,9,9,city_2451_texas_spearman,541.7187581062317,15.364583333333332,21.357289847309342,dry subhumid,12
+2451,"Spearman, TX",Spearman,Texas,Hansford,2019,3943153.21199152,2,2,city_2451_texas_spearman,515.4125032424927,14.442708333333332,21.08655457544398,dry subhumid,12
+2451,"Spearman, TX",Spearman,Texas,Hansford,2021,3943153.21199152,12,16,city_2451_texas_spearman,414.68125092983246,15.052083333333332,16.552765109881047,semiarid,12
+2451,"Spearman, TX",Spearman,Texas,Hansford,2022,3943153.21199152,6,6,city_2451_texas_spearman,342.8187472820282,14.953125,13.73850959677508,semiarid,12
+2451,"Spearman, TX",Spearman,Texas,Hansford,2023,3943153.21199152,4,4,city_2451_texas_spearman,505.53750562667847,15.416666666666668,19.890000221377512,semiarid,12
+2451,"Spearman, TX",Spearman,Texas,Hansford,2024,3943153.21199152,10,14,city_2451_texas_spearman,450.6187446117401,16.080729166666668,17.277843028548,semiarid,12
+2451,"Spearman, TX",Spearman,Texas,Hansford,2025,3943153.21199152,16,21,city_2451_texas_spearman,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2015,64708054.9419461,86,362,city_1909_arizona_nogales,538.281243801117,19.364583333333332,18.33096821742009,semiarid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2016,64708054.9419461,102,513,city_1909_arizona_nogales,474.0499937534332,19.322916666666668,16.166536199051365,semiarid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2017,64708054.9419461,116,849,city_1909_arizona_nogales,497.45624059438705,19.854166666666668,16.662874772177652,semiarid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2018,64708054.9419461,115,917,city_1909_arizona_nogales,466.1750077009201,19.466145833333332,15.820698449593754,semiarid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2019,64708054.9419461,114,750,city_1909_arizona_nogales,376.8187487125397,18.565104166666668,13.191576215299046,semiarid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2020,64708054.9419461,131,883,city_1909_arizona_nogales,195.02500331401825,19.552083333333332,6.599365639106716,arid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2021,64708054.9419461,140,1163,city_1909_arizona_nogales,676.9874816536903,19.255208333333332,23.14075066361199,dry subhumid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2022,64708054.9419461,133,1791,city_1909_arizona_nogales,341.18124824762344,18.885416666666668,11.811539787873008,semiarid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2023,64708054.9419461,144,2195,city_1909_arizona_nogales,296.28125166893005,18.971354166666668,10.226696686819698,semiarid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2024,64708054.9419461,164,2887,city_1909_arizona_nogales,354.418742954731,19.90625,11.85099244989696,semiarid,12
+1909,"Nogales, AZ",Nogales,Arizona,Santa Cruz,2025,64708054.9419461,157,2533,city_1909_arizona_nogales,NA,NA,NA,NA,NA

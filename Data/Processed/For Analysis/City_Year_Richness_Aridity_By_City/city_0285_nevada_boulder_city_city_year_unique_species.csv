@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2015,15738264.5147098,56,165,city_0285_nevada_boulder_city,133.31875038146973,22.036458333333332,4.161469691634237,extremely arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2016,15738264.5147098,52,206,city_0285_nevada_boulder_city,89.47500133514404,21.815104166666668,2.812343497805952,extremely arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2017,15738264.5147098,51,284,city_0285_nevada_boulder_city,90.80625063180923,22.028645833333332,2.835157349590597,extremely arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2018,15738264.5147098,83,332,city_0285_nevada_boulder_city,99.06250154972076,21.901041666666668,3.1053061710279812,extremely arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2019,15738264.5147098,91,695,city_0285_nevada_boulder_city,172.3062481880188,20.9921875,5.559667196386792,arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2020,15738264.5147098,105,1137,city_0285_nevada_boulder_city,85.55000114440918,21.963541666666668,2.676486918645358,extremely arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2021,15738264.5147098,136,2311,city_0285_nevada_boulder_city,94.48749881982803,21.888020833333332,2.9631032704625535,extremely arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2022,15738264.5147098,125,1758,city_0285_nevada_boulder_city,92.18749809265135,21.533854166666668,2.923445310725751,extremely arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2023,15738264.5147098,95,1112,city_0285_nevada_boulder_city,156.55625194311142,21.005208333333332,5.049353329930689,arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2024,15738264.5147098,92,936,city_0285_nevada_boulder_city,91.85000056028366,22.145833333333332,2.857291009004288,extremely arid,12
+285,"Boulder City, NV",Boulder City,Nevada,Clark,2025,15738264.5147098,113,1505,city_0285_nevada_boulder_city,NA,NA,NA,NA,NA

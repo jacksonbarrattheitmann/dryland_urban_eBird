@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2015,7811852.70405369,6,6,city_0837_arizona_eloy,267.5750012397766,22.841145833333332,8.147553760691002,arid,12
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2016,7811852.70405369,11,13,city_0837_arizona_eloy,223.30624854564667,22.765625,6.815259850701663,arid,12
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2018,7811852.70405369,6,6,city_0837_arizona_eloy,233.78749644756317,22.846354166666668,7.117608708147486,arid,12
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2019,7811852.70405369,14,14,city_0837_arizona_eloy,241.79999947547913,21.9765625,7.561788402849091,arid,12
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2020,7811852.70405369,12,13,city_0837_arizona_eloy,123.80625081062315,22.986979166666668,3.75318546706239,extremely arid,12
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2021,7811852.70405369,15,15,city_0837_arizona_eloy,254.543749332428,22.794270833333332,7.761835920245562,arid,12
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2022,7811852.70405369,12,13,city_0837_arizona_eloy,189.2437483072281,22.3671875,5.8467776450217706,arid,12
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2024,7811852.70405369,1,1,city_0837_arizona_eloy,174.94375324249268,23.234375,5.263939918909042,arid,12
+837,"Eloy, AZ",Eloy,Arizona,Pinal,2025,7811852.70405369,6,9,city_0837_arizona_eloy,NA,NA,NA,NA,NA

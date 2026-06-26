@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2015,140459372.537396,274,42087,city_2328_california_santa_barbara,207.17272874712944,17.268939236799877,7.5973886240336945,arid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2016,140459372.537396,266,46498,city_2328_california_santa_barbara,409.9272660743445,16.93560618162155,15.218787478190938,semiarid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2017,140459372.537396,281,47856,city_2328_california_santa_barbara,500.0727147590369,17.04166664679845,18.492673594814914,semiarid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2018,140459372.537396,288,65241,city_2328_california_santa_barbara,309.1363651435822,16.988636314868927,11.45431586601761,semiarid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2019,140459372.537396,291,69692,city_2328_california_santa_barbara,628.6454566251487,16.348484873771667,23.858884472364004,dry subhumid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2020,140459372.537396,292,108540,city_2328_california_santa_barbara,291.2363589257002,17.162878851095837,10.72185170512406,semiarid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2021,140459372.537396,292,114944,city_2328_california_santa_barbara,368.1181828677654,16.7159091035525,13.778987697589358,semiarid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2022,140459372.537396,301,145288,city_2328_california_santa_barbara,256.4727240782231,16.621212164560955,9.634148982128174,arid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2023,140459372.537396,302,154621,city_2328_california_santa_barbara,658.2545444648713,15.954545478026072,25.361821304949075,dry subhumid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2024,140459372.537396,311,178373,city_2328_california_santa_barbara,581.8181710075587,16.79545458157857,21.71331593708244,dry subhumid,12
+2328,"Santa Barbara, CA",Santa Barbara,California,Santa Barbara,2025,140459372.537396,304,178813,city_2328_california_santa_barbara,NA,NA,NA,NA,NA

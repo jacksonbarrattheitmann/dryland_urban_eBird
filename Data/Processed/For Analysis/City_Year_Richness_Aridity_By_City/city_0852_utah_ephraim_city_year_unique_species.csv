@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2015,5641722.4304606,8,8,city_0852_utah_ephraim,399.51875019073486,10.036458333333332,19.93958929987551,semiarid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2017,5641722.4304606,33,39,city_0852_utah_ephraim,303.5562505722046,9.940104166666666,15.2234034504018,semiarid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2018,5641722.4304606,51,657,city_0852_utah_ephraim,298.500004529953,9.841145833333332,15.044494256398735,semiarid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2019,5641722.4304606,57,753,city_0852_utah_ephraim,406.1437487602234,8.747395833333334,21.664008823993026,dry subhumid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2020,5641722.4304606,46,758,city_0852_utah_ephraim,215.7624988555908,9.78125,10.9074249026523,semiarid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2021,5641722.4304606,34,265,city_0852_utah_ephraim,364.4937481880188,10.1171875,18.118524181773363,semiarid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2022,5641722.4304606,49,370,city_0852_utah_ephraim,333.93749809265137,9.203125,17.389747663083554,semiarid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2023,5641722.4304606,46,234,city_0852_utah_ephraim,373.550008058548,9.1796875,19.476334432380504,semiarid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2024,5641722.4304606,48,482,city_0852_utah_ephraim,353.93749618530273,10.682291666666668,17.113069571286356,semiarid,12
+852,"Ephraim, UT",Ephraim,Utah,Sanpete,2025,5641722.4304606,70,1467,city_0852_utah_ephraim,NA,NA,NA,NA,NA

@@ -1,0 +1,6 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+578,"Colorado City, TX",Colorado City,Texas,Mitchell,2015,6834002.15972666,17,17,city_0578_texas_colorado_city,827.1499977111816,18.325520833333332,29.201581237574125,dry subhumid,12
+578,"Colorado City, TX",Colorado City,Texas,Mitchell,2019,6834002.15972666,21,28,city_0578_texas_colorado_city,528.968752861023,18.244791666666668,18.728010427681433,semiarid,12
+578,"Colorado City, TX",Colorado City,Texas,Mitchell,2020,6834002.15972666,12,14,city_0578_texas_colorado_city,397.0437421798706,18.799479166666668,13.78649036956961,semiarid,12
+578,"Colorado City, TX",Colorado City,Texas,Mitchell,2021,6834002.15972666,8,8,city_0578_texas_colorado_city,542.7937588691711,18.3046875,19.17681510771568,semiarid,12
+578,"Colorado City, TX",Colorado City,Texas,Mitchell,2023,6834002.15972666,18,34,city_0578_texas_colorado_city,410.18749809265137,19.3671875,13.96754449477504,semiarid,12

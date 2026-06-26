@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2810,"Willows, CA",Willows,California,Glenn,2015,6748779.76368307,35,99,city_2810_california_willows,313.6749964952469,18.21875,11.115835977683169,semiarid,12
+2810,"Willows, CA",Willows,California,Glenn,2016,6748779.76368307,29,93,city_2810_california_willows,564.4750026464462,17.895833333333332,20.235100916377466,dry subhumid,12
+2810,"Willows, CA",Willows,California,Glenn,2017,6748779.76368307,17,92,city_2810_california_willows,605.0875033140182,17.828125,21.743739591295434,dry subhumid,12
+2810,"Willows, CA",Willows,California,Glenn,2018,6748779.76368307,25,63,city_2810_california_willows,448.84999483823776,17.723958333333332,16.189967876938127,semiarid,12
+2810,"Willows, CA",Willows,California,Glenn,2019,6748779.76368307,20,33,city_2810_california_willows,591.2812453508377,17.411458333333332,21.570586948007,dry subhumid,12
+2810,"Willows, CA",Willows,California,Glenn,2020,6748779.76368307,30,51,city_2810_california_willows,227.30625188350675,18.033854166666668,8.108276890224486,arid,12
+2810,"Willows, CA",Willows,California,Glenn,2021,6748779.76368307,27,53,city_2810_california_willows,441.0000044703483,17.65625,15.94576287350412,semiarid,12
+2810,"Willows, CA",Willows,California,Glenn,2022,6748779.76368307,32,197,city_2810_california_willows,296.15624272823334,17.661458333333332,10.706458031222144,semiarid,12
+2810,"Willows, CA",Willows,California,Glenn,2023,6748779.76368307,57,430,city_2810_california_willows,547.7625063061714,17.1953125,20.14179856569662,dry subhumid,12
+2810,"Willows, CA",Willows,California,Glenn,2024,6748779.76368307,45,132,city_2810_california_willows,613.6437544822693,17.955729166666668,21.950554422095145,dry subhumid,12
+2810,"Willows, CA",Willows,California,Glenn,2025,6748779.76368307,46,149,city_2810_california_willows,NA,NA,NA,NA,NA

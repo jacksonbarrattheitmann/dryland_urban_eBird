@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1346,"Kanab, UT",Kanab,Utah,Kane,2015,6300101.12771653,6,7,city_1346_utah_kanab,420.7812442779541,12.833333333333332,18.42837566180821,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2016,6300101.12771653,8,8,city_1346_utah_kanab,339.62500190734863,12.5859375,15.03701149918389,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2017,6300101.12771653,41,83,city_1346_utah_kanab,298.9312496185303,13.0078125,12.992597606509976,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2018,6300101.12771653,36,110,city_1346_utah_kanab,311.15000438690186,12.7578125,13.672228136465309,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2019,6300101.12771653,39,69,city_1346_utah_kanab,434.90625,11.658854166666668,20.079836479499814,dry subhumid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2020,6300101.12771653,25,39,city_1346_utah_kanab,303.61874771118164,12.8046875,13.313874514227903,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2021,6300101.12771653,24,59,city_1346_utah_kanab,297.02500009536743,12.770833333333334,13.04409881480113,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2022,6300101.12771653,22,34,city_1346_utah_kanab,314.36250019073486,12.283854166666668,14.107187106841437,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2023,6300101.12771653,48,209,city_1346_utah_kanab,362.3375005722046,11.958333333333332,16.50113854598275,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2024,6300101.12771653,83,341,city_1346_utah_kanab,337.80000019073486,13.2265625,14.5436932473643,semiarid,12
+1346,"Kanab, UT",Kanab,Utah,Kane,2025,6300101.12771653,91,554,city_1346_utah_kanab,NA,NA,NA,NA,NA

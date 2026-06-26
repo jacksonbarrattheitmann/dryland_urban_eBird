@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2532,"Taft, CA",Taft,California,Kern,2018,14382604.9258781,18,36,city_2532_california_taft,173.55624756217003,18.841145833333332,6.017661315022419,arid,12
+2532,"Taft, CA",Taft,California,Kern,2019,14382604.9258781,24,46,city_2532_california_taft,319.7000068426132,18.2109375,11.332484318984903,semiarid,12
+2532,"Taft, CA",Taft,California,Kern,2020,14382604.9258781,8,8,city_2532_california_taft,163.93125021457672,18.8984375,5.672668296151884,arid,12
+2532,"Taft, CA",Taft,California,Kern,2021,14382604.9258781,5,5,city_2532_california_taft,186.24375182390213,18.526041666666668,6.5289027478892105,arid,12
+2532,"Taft, CA",Taft,California,Kern,2022,14382604.9258781,11,16,city_2532_california_taft,138.768747985363,18.458333333333332,4.876207835503239,extremely arid,12
+2532,"Taft, CA",Taft,California,Kern,2023,14382604.9258781,21,53,city_2532_california_taft,321.2687484025955,17.7109375,11.593571975058422,semiarid,12
+2532,"Taft, CA",Taft,California,Kern,2024,14382604.9258781,21,32,city_2532_california_taft,297.2874985039234,18.6328125,10.382755745839615,semiarid,12
+2532,"Taft, CA",Taft,California,Kern,2025,14382604.9258781,21,60,city_2532_california_taft,NA,NA,NA,NA,NA

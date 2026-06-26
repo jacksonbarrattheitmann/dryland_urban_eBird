@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1678,"McGregor, TX",McGregor,Texas,McLennan,2015,5836118.18710412,19,23,city_1678_texas_mcgregor,1176.1250095367432,19.752604166666668,39.53015349340126,humid,12
+1678,"McGregor, TX",McGregor,Texas,McLennan,2016,5836118.18710412,15,15,city_1678_texas_mcgregor,1100.5937423706057,20.421875,36.1777090455669,humid,12
+1678,"McGregor, TX",McGregor,Texas,McLennan,2021,5836118.18710412,34,49,city_1678_texas_mcgregor,881.325008392334,19.544270833333332,29.830656961009808,dry subhumid,12
+1678,"McGregor, TX",McGregor,Texas,McLennan,2022,5836118.18710412,8,8,city_1678_texas_mcgregor,569.4250068664551,20.0625,18.941372369778133,semiarid,12
+1678,"McGregor, TX",McGregor,Texas,McLennan,2024,5836118.18710412,19,19,city_1678_texas_mcgregor,843.0937480926514,21.028645833333332,27.171464479024603,dry subhumid,12
+1678,"McGregor, TX",McGregor,Texas,McLennan,2025,5836118.18710412,37,94,city_1678_texas_mcgregor,NA,NA,NA,NA,NA

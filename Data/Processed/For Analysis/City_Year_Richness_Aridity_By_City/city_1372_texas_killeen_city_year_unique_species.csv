@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1372,"Killeen, TX",Killeen,Texas,Bell,2015,220269387.165022,118,998,city_1372_texas_killeen,1102.6437377929688,19.8203125,36.97626367238669,humid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2016,220269387.165022,120,855,city_1372_texas_killeen,1076.4812602996826,20.393229166666668,35.418456340937205,humid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2017,220269387.165022,84,384,city_1372_texas_killeen,697.5375127792358,20.510416666666668,22.862274232436544,dry subhumid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2018,220269387.165022,110,802,city_1372_texas_killeen,798.9062538146973,19.807291666666668,26.80237650400522,dry subhumid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2019,220269387.165022,98,947,city_1372_texas_killeen,728.4937534332275,19.807291666666668,24.44011893398212,dry subhumid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2020,220269387.165022,116,1741,city_1372_texas_killeen,711.0125064849854,20.369791666666668,23.411833518284546,dry subhumid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2021,220269387.165022,130,1854,city_1372_texas_killeen,816.8624935150146,19.7265625,27.479211345577365,dry subhumid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2022,220269387.165022,142,1933,city_1372_texas_killeen,469.98749923706055,20.341145833333332,15.490103828601086,semiarid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2023,220269387.165022,145,1823,city_1372_texas_killeen,668.6937484741211,20.947916666666668,21.60706827785783,dry subhumid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2024,220269387.165022,123,1450,city_1372_texas_killeen,710.4749994277954,21.263020833333332,22.72573092713648,dry subhumid,12
+1372,"Killeen, TX",Killeen,Texas,Bell,2025,220269387.165022,142,1527,city_1372_texas_killeen,NA,NA,NA,NA,NA

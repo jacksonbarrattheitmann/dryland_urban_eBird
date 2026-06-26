@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2015,3380922.80799057,4,4,city_1130_montana_hardin,404.7375011444092,9.197916666666668,21.082365767695755,dry subhumid,12
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2018,3380922.80799057,2,2,city_1130_montana_hardin,467.53749561309814,7.432291666666667,26.82019693986102,dry subhumid,12
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2019,3380922.80799057,46,72,city_1130_montana_hardin,506.2312545776367,6.630208333333333,30.440463789197075,humid,12
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2020,3380922.80799057,8,10,city_1130_montana_hardin,327.1812467575073,8.614583333333332,17.576608667443036,semiarid,12
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2021,3380922.80799057,15,15,city_1130_montana_hardin,315.4874997138977,9.104166666666668,16.514067596801624,semiarid,12
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2022,3380922.80799057,26,45,city_1130_montana_hardin,414.5500011444092,7.997395833333334,23.033888068217784,dry subhumid,12
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2023,3380922.80799057,10,26,city_1130_montana_hardin,523.3812522888184,8.484375,28.314793023232777,dry subhumid,12
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2024,3380922.80799057,14,18,city_1130_montana_hardin,336.5124988555908,9.348958333333332,17.39176306333067,semiarid,12
+1130,"Hardin, MT",Hardin,Montana,Big Horn,2025,3380922.80799057,14,29,city_1130_montana_hardin,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1958,"Omak, WA",Omak,Washington,Okanogan,2015,12441520.6509986,15,15,city_1958_washington_omak,293.4437518119812,10.947916666666668,14.008254686200992,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2016,12441520.6509986,30,48,city_1958_washington_omak,299.9187526702881,10.466145833333332,14.654383639825758,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2017,12441520.6509986,24,37,city_1958_washington_omak,334.8437547683716,9.458333333333332,17.208244356404535,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2018,12441520.6509986,30,44,city_1958_washington_omak,272.2749979496002,10.020833333333332,13.599583664496162,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2019,12441520.6509986,44,86,city_1958_washington_omak,260.6874952316284,9.190104166666668,13.58447525701524,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2020,12441520.6509986,9,9,city_1958_washington_omak,301.1999979019165,9.776041666666668,15.230550328461408,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2021,12441520.6509986,23,33,city_1958_washington_omak,265.0499973297119,10.057291666666668,13.214645413478236,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2022,12441520.6509986,32,78,city_1958_washington_omak,308.8687496185303,9.25,16.045129850313263,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2023,12441520.6509986,30,41,city_1958_washington_omak,259.1000027656555,10.1015625,12.889545415469843,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2024,12441520.6509986,50,128,city_1958_washington_omak,298.08750081062317,10.1640625,14.783107362944504,semiarid,12
+1958,"Omak, WA",Omak,Washington,Okanogan,2025,12441520.6509986,88,757,city_1958_washington_omak,NA,NA,NA,NA,NA

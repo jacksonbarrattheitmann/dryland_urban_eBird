@@ -1,0 +1,11 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+S42206351,2018-01-23,2018,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,180,16.093,1,33.4,-96.9617,5,5,city_2084_texas_pilot_point,1130.631238937378,18.114583333333332,40.215116316409144,humid,12
+S54618096,2019-04-06,2019,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,16,NA,1,33.410099,-96.95129,5,5,city_2084_texas_pilot_point,1130.418743133545,18.052083333333332,40.29714049046429,humid,12
+S62441554,2019-12-19,2019,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,20,3.228,1,33.4,-96.9617,6,6,city_2084_texas_pilot_point,1130.418743133545,18.052083333333332,40.29714049046429,humid,12
+S55796548,2019-03-16,2019,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,30,NA,1,33.409971,-96.951125,4,4,city_2084_texas_pilot_point,1130.418743133545,18.052083333333332,40.29714049046429,humid,12
+S77204910,2020-12-07,2020,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,60,NA,1,33.39651,-96.96058,1,1,city_2084_texas_pilot_point,1130.5687637329102,18.3125,39.931788564517795,humid,12
+S162005925,2024-02-18,2024,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,5,NA,1,33.3949625,-96.9503613,17,17,city_2084_texas_pilot_point,1097.431240081787,19.6015625,37.07342273171516,humid,12
+S177152946,2024-05-25,2024,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,68,NA,1,33.394759,-96.959424,11,11,city_2084_texas_pilot_point,1097.431240081787,19.6015625,37.07342273171516,humid,12
+S217874274,2025-03-11,2025,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,33,NA,1,33.3949625,-96.9503613,13,13,city_2084_texas_pilot_point,NA,NA,NA,NA,NA
+S213765108,2025-02-16,2025,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,17,NA,1,33.3949625,-96.9503613,9,9,city_2084_texas_pilot_point,NA,NA,NA,NA,NA
+S213781851,2025-02-16,2025,2084,"Pilot Point, TX",Pilot Point,Texas,Denton,4351110.02472189,29,NA,1,33.3949625,-96.9503613,7,7,city_2084_texas_pilot_point,NA,NA,NA,NA,NA

@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2015,4913112.16793779,4,4,city_0465_nebraska_chadron,529.9437425136566,10.002604166666668,26.493737420289563,dry subhumid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2017,4913112.16793779,26,39,city_0465_nebraska_chadron,380.59374713897705,9.815104166666668,19.207254422574213,semiarid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2018,4913112.16793779,30,47,city_0465_nebraska_chadron,544.5437479019165,8.8828125,28.838063604238855,dry subhumid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2019,4913112.16793779,24,33,city_0465_nebraska_chadron,585.718761920929,8.1875,32.204468009398155,humid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2020,4913112.16793779,17,35,city_0465_nebraska_chadron,325.9437508583069,9.885416666666666,16.391094857201395,semiarid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2021,4913112.16793779,45,127,city_0465_nebraska_chadron,414.81249475479126,10.151041666666668,20.585163864802254,dry subhumid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2022,4913112.16793779,64,250,city_0465_nebraska_chadron,314.8125042915344,9.328125,16.287793269731772,semiarid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2023,4913112.16793779,44,99,city_0465_nebraska_chadron,502.48125886917114,9.565104166666668,25.68252407903124,dry subhumid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2024,4913112.16793779,64,238,city_0465_nebraska_chadron,348.23124980926514,10.723958333333332,16.8033174072327,semiarid,12
+465,"Chadron, NE",Chadron,Nebraska,Dawes,2025,4913112.16793779,47,122,city_0465_nebraska_chadron,NA,NA,NA,NA,NA

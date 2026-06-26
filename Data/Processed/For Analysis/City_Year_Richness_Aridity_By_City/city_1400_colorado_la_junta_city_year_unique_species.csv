@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1400,"La Junta, CO",La Junta,Colorado,Otero,2015,9862662.94909743,24,29,city_1400_colorado_la_junta,387.6499977111816,13.0859375,16.79160734586506,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2016,9862662.94909743,19,30,city_1400_colorado_la_junta,330.1625018119812,13.458333333333332,14.074422812588898,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2017,9862662.94909743,24,54,city_1400_colorado_la_junta,390.6562489271164,13.184895833333332,16.849601211727812,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2018,9862662.94909743,21,51,city_1400_colorado_la_junta,272.1437449455261,12.6875,11.995316581620989,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2019,9862662.94909743,31,83,city_1400_colorado_la_junta,332.69374656677246,12.072916666666668,15.072486866639997,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2020,9862662.94909743,56,2070,city_1400_colorado_la_junta,212.28125190734863,13.096354166666668,9.19111520266342,arid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2021,9862662.94909743,38,149,city_1400_colorado_la_junta,288.0812523365021,13.216145833333332,12.40865966317631,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2022,9862662.94909743,49,351,city_1400_colorado_la_junta,233.82499861717224,12.7578125,10.27449358839617,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2023,9862662.94909743,28,114,city_1400_colorado_la_junta,346.2187490463257,13.010416666666668,15.046174698255893,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2024,9862662.94909743,42,164,city_1400_colorado_la_junta,296.1999976634979,13.942708333333332,12.37119851020048,semiarid,12
+1400,"La Junta, CO",La Junta,Colorado,Otero,2025,9862662.94909743,43,194,city_1400_colorado_la_junta,NA,NA,NA,NA,NA

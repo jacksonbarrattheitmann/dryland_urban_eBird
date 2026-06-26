@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1011,"Giddings, TX",Giddings,Texas,Lee,2015,7457259.62300429,43,71,city_1011_texas_giddings,1320.8437385559082,20.669270833333332,43.06733426216088,humid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2016,7457259.62300429,23,47,city_1011_texas_giddings,1242.3562469482422,21.161458333333332,39.86836025640356,humid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2017,7457259.62300429,12,14,city_1011_texas_giddings,866.0562438964844,21.393229166666668,27.587357748340935,dry subhumid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2018,7457259.62300429,31,87,city_1011_texas_giddings,943.9687538146972,20.71875,30.729399920722596,humid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2019,7457259.62300429,27,43,city_1011_texas_giddings,972.2750005722046,20.598958333333332,31.77477448678524,humid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2020,7457259.62300429,30,56,city_1011_texas_giddings,823.7437496185303,21.177083333333332,26.42145003788136,dry subhumid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2021,7457259.62300429,15,16,city_1011_texas_giddings,962.1812477111816,20.510416666666668,31.536155609516364,humid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2022,7457259.62300429,8,8,city_1011_texas_giddings,595.5437545776367,20.8125,19.32799203497401,semiarid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2023,7457259.62300429,20,30,city_1011_texas_giddings,741.4937534332275,21.557291666666668,23.49674874718265,dry subhumid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2024,7457259.62300429,2,2,city_1011_texas_giddings,863.8374996185303,21.9296875,27.05436749478147,dry subhumid,12
+1011,"Giddings, TX",Giddings,Texas,Lee,2025,7457259.62300429,13,13,city_1011_texas_giddings,NA,NA,NA,NA,NA

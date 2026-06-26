@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+371,"Cache, OK",Cache,Oklahoma,Comanche,2017,3973899.02081732,16,16,city_0371_oklahoma_cache,735.9312496185303,18.0390625,26.24664250520253,dry subhumid,12
+371,"Cache, OK",Cache,Oklahoma,Comanche,2020,3973899.02081732,24,63,city_0371_oklahoma_cache,746.7937545776367,17.385416666666668,27.269760532313853,dry subhumid,12
+371,"Cache, OK",Cache,Oklahoma,Comanche,2021,3973899.02081732,14,18,city_0371_oklahoma_cache,717.1062517166138,17.3203125,26.24809843286433,dry subhumid,12
+371,"Cache, OK",Cache,Oklahoma,Comanche,2022,3973899.02081732,23,29,city_0371_oklahoma_cache,557.7750053405762,17.486979166666668,20.292335580367716,dry subhumid,12
+371,"Cache, OK",Cache,Oklahoma,Comanche,2023,3973899.02081732,26,32,city_0371_oklahoma_cache,758.9000034332275,18.098958333333332,27.008118750543037,dry subhumid,12
+371,"Cache, OK",Cache,Oklahoma,Comanche,2024,3973899.02081732,19,19,city_0371_oklahoma_cache,727.3312511444092,18.580729166666668,25.448309835029896,dry subhumid,12
+371,"Cache, OK",Cache,Oklahoma,Comanche,2025,3973899.02081732,13,13,city_0371_oklahoma_cache,NA,NA,NA,NA,NA

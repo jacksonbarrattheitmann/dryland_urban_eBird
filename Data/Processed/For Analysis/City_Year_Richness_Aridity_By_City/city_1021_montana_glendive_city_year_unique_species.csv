@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1021,"Glendive, MT",Glendive,Montana,Dawson,2015,11630103.3714717,34,44,city_1021_montana_glendive,359.149995803833,11.401041666666668,16.781893208648317,semiarid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2017,11630103.3714717,43,110,city_1021_montana_glendive,322.60624504089355,10.755208333333332,15.543387464956478,semiarid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2018,11630103.3714717,3,3,city_1021_montana_glendive,399.7625036239624,9.333333333333332,20.677370877101502,dry subhumid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2019,11630103.3714717,43,102,city_1021_montana_glendive,449.56874656677246,8.830729166666668,23.87420808762835,dry subhumid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2020,11630103.3714717,68,168,city_1021_montana_glendive,304.2499990463257,11.0390625,14.46119564720746,semiarid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2021,11630103.3714717,22,32,city_1021_montana_glendive,311.39999866485596,11.65625,14.379220717569106,semiarid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2022,11630103.3714717,50,133,city_1021_montana_glendive,353.6562509536743,10.223958333333332,17.486994638966127,semiarid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2023,11630103.3714717,51,133,city_1021_montana_glendive,405.20000171661377,11,19.29523817698161,semiarid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2024,11630103.3714717,65,164,city_1021_montana_glendive,333.06875228881836,11.854166666666668,15.24051488070856,semiarid,12
+1021,"Glendive, MT",Glendive,Montana,Dawson,2025,11630103.3714717,60,105,city_1021_montana_glendive,NA,NA,NA,NA,NA

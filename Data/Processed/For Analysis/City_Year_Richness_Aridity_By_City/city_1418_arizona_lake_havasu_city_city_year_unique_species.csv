@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2015,76554672.3671069,133,1085,city_1418_arizona_lake_havasu_city,199.84374856948853,22.4765625,6.153476020422067,arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2016,76554672.3671069,118,1063,city_1418_arizona_lake_havasu_city,156.55624842643738,22.2421875,4.8556335833738755,extremely arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2017,76554672.3671069,139,1685,city_1418_arizona_lake_havasu_city,132.13124823570251,22.497395833333332,4.065902662273401,extremely arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2018,76554672.3671069,150,2165,city_1418_arizona_lake_havasu_city,153.0624998807907,22.338541666666668,4.733129324707974,extremely arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2019,76554672.3671069,141,1922,city_1418_arizona_lake_havasu_city,210.10624825954437,21.416666666666668,6.687732040091598,arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2020,76554672.3671069,149,2019,city_1418_arizona_lake_havasu_city,131.18125200271606,22.427083333333332,4.045422483861466,extremely arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2021,76554672.3671069,161,2852,city_1418_arizona_lake_havasu_city,179.87500154972076,22.2421875,5.578870898561729,arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2022,76554672.3671069,159,2372,city_1418_arizona_lake_havasu_city,142.006249666214,21.9296875,4.447467569678344,extremely arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2023,76554672.3671069,134,2743,city_1418_arizona_lake_havasu_city,184.9437479972839,21.369791666666668,5.8956001353940755,arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2024,76554672.3671069,145,2663,city_1418_arizona_lake_havasu_city,133.26875054836273,22.484375,4.102549319430118,extremely arid,12
+1418,"Lake Havasu City, AZ",Lake Havasu City,Arizona,Mohave,2025,76554672.3671069,158,2809,city_1418_arizona_lake_havasu_city,NA,NA,NA,NA,NA

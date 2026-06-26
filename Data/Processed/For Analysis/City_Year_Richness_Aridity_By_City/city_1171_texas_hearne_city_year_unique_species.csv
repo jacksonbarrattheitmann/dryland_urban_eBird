@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1171,"Hearne, TX",Hearne,Texas,Robertson,2016,6653185.91681508,10,11,city_1171_texas_hearne,1155.5437507629397,21.080729166666668,37.17878511042888,humid,12
+1171,"Hearne, TX",Hearne,Texas,Robertson,2017,6653185.91681508,17,19,city_1171_texas_hearne,863.3562564849854,21.067708333333332,27.789505657186453,dry subhumid,12
+1171,"Hearne, TX",Hearne,Texas,Robertson,2018,6653185.91681508,35,551,city_1171_texas_hearne,1027.8562507629397,20.2109375,34.02265324480379,humid,12
+1171,"Hearne, TX",Hearne,Texas,Robertson,2019,6653185.91681508,13,20,city_1171_texas_hearne,952.9625053405762,20.221354166666668,31.532753300368913,humid,12
+1171,"Hearne, TX",Hearne,Texas,Robertson,2020,6653185.91681508,17,20,city_1171_texas_hearne,909.6062564849854,20.713541666666668,29.61580485757456,dry subhumid,12
+1171,"Hearne, TX",Hearne,Texas,Robertson,2021,6653185.91681508,30,48,city_1171_texas_hearne,960.7312469482422,20.307291666666668,31.699673382722544,humid,12
+1171,"Hearne, TX",Hearne,Texas,Robertson,2022,6653185.91681508,22,27,city_1171_texas_hearne,690.9812545776367,20.651041666666668,22.54348358180225,dry subhumid,12
+1171,"Hearne, TX",Hearne,Texas,Robertson,2024,6653185.91681508,34,59,city_1171_texas_hearne,964.23748588562,21.619791666666668,30.49474506506985,humid,12
+1171,"Hearne, TX",Hearne,Texas,Robertson,2025,6653185.91681508,8,8,city_1171_texas_hearne,NA,NA,NA,NA,NA

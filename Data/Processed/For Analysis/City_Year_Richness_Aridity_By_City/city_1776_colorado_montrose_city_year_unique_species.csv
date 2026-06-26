@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2015,46434736.4130374,81,302,city_1776_colorado_montrose,415.2687511444092,10.21875,20.538794492459186,dry subhumid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2016,46434736.4130374,97,823,city_1776_colorado_montrose,290.6812496185303,10.234375,14.365714266861728,semiarid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2017,46434736.4130374,103,1843,city_1776_colorado_montrose,224.95624947547913,10.588541666666666,10.92628380958563,semiarid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2018,46434736.4130374,135,3997,city_1776_colorado_montrose,262.95625591278076,10.177083333333332,13.032421563049535,semiarid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2019,46434736.4130374,146,5272,city_1776_colorado_montrose,279.4312515258789,9.140625,14.59885722257653,semiarid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2020,46434736.4130374,161,8726,city_1776_colorado_montrose,173.2250018119812,10.239583333333332,8.558723712789602,arid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2021,46434736.4130374,149,11313,city_1776_colorado_montrose,323.3562469482422,10.3984375,15.85201057425316,semiarid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2022,46434736.4130374,154,10890,city_1776_colorado_montrose,309.724995136261,9.78125,15.657503703570857,semiarid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2023,46434736.4130374,153,9260,city_1776_colorado_montrose,268.9875011444092,9.916666666666668,13.505648593024729,semiarid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2024,46434736.4130374,154,8008,city_1776_colorado_montrose,307.0374984741211,10.9765625,14.63716938722067,semiarid,12
+1776,"Montrose, CO",Montrose,Colorado,Montrose,2025,46434736.4130374,159,9469,city_1776_colorado_montrose,NA,NA,NA,NA,NA

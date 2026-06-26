@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2052,"Pecos, TX",Pecos,Texas,Reeves,2016,16708094.3576284,12,23,city_2052_texas_pecos,290.2562551498413,19.640625,9.792514670316208,arid,12
+2052,"Pecos, TX",Pecos,Texas,Reeves,2017,16708094.3576284,5,6,city_2052_texas_pecos,313.13750171661377,19.731770833333332,10.532083792518147,semiarid,12
+2052,"Pecos, TX",Pecos,Texas,Reeves,2018,16708094.3576284,10,10,city_2052_texas_pecos,310.2624980211258,19.216145833333332,10.619556042438036,semiarid,12
+2052,"Pecos, TX",Pecos,Texas,Reeves,2020,16708094.3576284,23,38,city_2052_texas_pecos,141.78750133514404,19.846354166666668,4.750580273335251,extremely arid,12
+2052,"Pecos, TX",Pecos,Texas,Reeves,2021,16708094.3576284,47,95,city_2052_texas_pecos,304.81874895095825,19.1796875,10.446265024289868,semiarid,12
+2052,"Pecos, TX",Pecos,Texas,Reeves,2022,16708094.3576284,12,29,city_2052_texas_pecos,245.1500020027161,19.463541666666668,8.320452604652905,arid,12
+2052,"Pecos, TX",Pecos,Texas,Reeves,2023,16708094.3576284,22,45,city_2052_texas_pecos,167.14374911785126,20.234375,5.528268704673117,arid,12
+2052,"Pecos, TX",Pecos,Texas,Reeves,2024,16708094.3576284,24,55,city_2052_texas_pecos,256.8562505245209,20.53125,8.412896639493008,arid,12
+2052,"Pecos, TX",Pecos,Texas,Reeves,2025,16708094.3576284,14,27,city_2052_texas_pecos,NA,NA,NA,NA,NA

@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1814,"Mount Pleasant, UT",Mount Pleasant,Utah,Sanpete,2016,5167704.49679769,12,12,city_1814_utah_mount_pleasant,380.36250019073486,8.049479166666668,21.073322763416847,dry subhumid,12
+1814,"Mount Pleasant, UT",Mount Pleasant,Utah,Sanpete,2019,5167704.49679769,11,14,city_1814_utah_mount_pleasant,430.91249561309814,7.122395833333334,25.166600504247857,dry subhumid,12
+1814,"Mount Pleasant, UT",Mount Pleasant,Utah,Sanpete,2020,5167704.49679769,23,139,city_1814_utah_mount_pleasant,231.88124990463257,8.138020833333332,12.78426417277515,semiarid,12
+1814,"Mount Pleasant, UT",Mount Pleasant,Utah,Sanpete,2021,5167704.49679769,10,22,city_1814_utah_mount_pleasant,409.0062494277954,8.442708333333332,22.17712507487623,dry subhumid,12
+1814,"Mount Pleasant, UT",Mount Pleasant,Utah,Sanpete,2022,5167704.49679769,15,15,city_1814_utah_mount_pleasant,368.66874980926514,7.575520833333334,20.976263139244004,dry subhumid,12
+1814,"Mount Pleasant, UT",Mount Pleasant,Utah,Sanpete,2023,5167704.49679769,14,14,city_1814_utah_mount_pleasant,414.60624980926514,7.518229166666666,23.667132440427803,dry subhumid,12
+1814,"Mount Pleasant, UT",Mount Pleasant,Utah,Sanpete,2024,5167704.49679769,32,47,city_1814_utah_mount_pleasant,387.2187576293946,9.0078125,20.3715581490187,dry subhumid,12
+1814,"Mount Pleasant, UT",Mount Pleasant,Utah,Sanpete,2025,5167704.49679769,12,15,city_1814_utah_mount_pleasant,NA,NA,NA,NA,NA

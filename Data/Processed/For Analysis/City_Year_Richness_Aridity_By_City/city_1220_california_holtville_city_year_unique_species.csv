@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1220,"Holtville, CA",Holtville,California,Imperial,2018,5693237.69992199,12,12,city_1220_california_holtville,58.38125003501773,23.505208333333332,1.742452977883321,extremely arid,12
+1220,"Holtville, CA",Holtville,California,Imperial,2019,5693237.69992199,9,9,city_1220_california_holtville,72.32500030845404,22.669270833333332,2.21385413459118,extremely arid,12
+1220,"Holtville, CA",Holtville,California,Imperial,2020,5693237.69992199,2,2,city_1220_california_holtville,38.375000320374966,23.526041666666668,1.1446326023787468,extremely arid,12
+1220,"Holtville, CA",Holtville,California,Imperial,2021,5693237.69992199,18,22,city_1220_california_holtville,105.75624796003105,23.2265625,3.1828826096599983,extremely arid,12
+1220,"Holtville, CA",Holtville,California,Imperial,2022,5693237.69992199,14,14,city_1220_california_holtville,53.95000012218952,23.114583333333332,1.6291915733658997,extremely arid,12
+1220,"Holtville, CA",Holtville,California,Imperial,2023,5693237.69992199,10,10,city_1220_california_holtville,62.83750005811453,22.322916666666668,1.9440541429516576,extremely arid,12
+1220,"Holtville, CA",Holtville,California,Imperial,2024,5693237.69992199,22,24,city_1220_california_holtville,46.28124989196658,23.2265625,1.3928991267744468,extremely arid,12
+1220,"Holtville, CA",Holtville,California,Imperial,2025,5693237.69992199,28,41,city_1220_california_holtville,NA,NA,NA,NA,NA

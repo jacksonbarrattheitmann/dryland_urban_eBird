@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+338,"Brush, CO",Brush,Colorado,Morgan,2015,6256579.94964939,10,20,city_0338_colorado_brush,418.09374809265137,10.888020833333332,20.015958018648316,dry subhumid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2017,6256579.94964939,7,7,city_0338_colorado_brush,418.82499980926514,10.890625,20.048466707399378,dry subhumid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2018,6256579.94964939,12,15,city_0338_colorado_brush,356.81250286102295,10.190104166666668,17.672642989634053,semiarid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2019,6256579.94964939,12,17,city_0338_colorado_brush,463.3312511444092,9.505208333333332,23.754232368418307,dry subhumid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2020,6256579.94964939,6,6,city_0338_colorado_brush,238.67499923706055,10.885416666666668,11.42783038741038,semiarid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2021,6256579.94964939,16,23,city_0338_colorado_brush,365.95625162124634,11.130208333333332,17.319102862035816,semiarid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2022,6256579.94964939,17,30,city_0338_colorado_brush,266.7375030517578,10.432291666666668,13.054703182752355,semiarid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2023,6256579.94964939,21,34,city_0338_colorado_brush,450.1062479019165,10.497395833333332,21.959191868166172,dry subhumid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2024,6256579.94964939,25,41,city_0338_colorado_brush,324.7375042438507,11.640625,15.005920773723066,semiarid,12
+338,"Brush, CO",Brush,Colorado,Morgan,2025,6256579.94964939,17,30,city_0338_colorado_brush,NA,NA,NA,NA,NA

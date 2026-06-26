@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2015,81932965.5261042,105,778,city_1797_washington_moses_lake,185.68750083446503,12.096354166666668,8.403535688913914,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2016,81932965.5261042,97,590,city_1797_washington_moses_lake,193.1687514781952,11.549479166666668,8.963963814818968,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2017,81932965.5261042,99,899,city_1797_washington_moses_lake,225.0124989151955,10.466145833333332,10.994375821788404,semiarid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2018,81932965.5261042,88,564,city_1797_washington_moses_lake,171.94374775886536,11.130208333333332,8.137342758122294,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2019,81932965.5261042,96,541,city_1797_washington_moses_lake,160.8124964237213,10.122395833333332,7.991717177003881,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2020,81932965.5261042,56,128,city_1797_washington_moses_lake,189.30624723434448,11.104166666666668,8.970088713966964,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2021,81932965.5261042,83,309,city_1797_washington_moses_lake,170.03125190734863,11.375,7.954678451805784,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2022,81932965.5261042,98,657,city_1797_washington_moses_lake,201.42499482631683,10.549479166666668,9.801951338652346,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2023,81932965.5261042,127,2138,city_1797_washington_moses_lake,165.42500007152557,11.442708333333332,7.714743748781373,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2024,81932965.5261042,132,1836,city_1797_washington_moses_lake,195.5749989748001,11.622395833333332,9.045019824921503,arid,12
+1797,"Moses Lake, WA",Moses Lake,Washington,Grant,2025,81932965.5261042,133,1408,city_1797_washington_moses_lake,NA,NA,NA,NA,NA

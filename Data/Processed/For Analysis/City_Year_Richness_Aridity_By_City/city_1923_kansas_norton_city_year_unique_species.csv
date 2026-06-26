@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1923,"Norton, KS",Norton,Kansas,Norton,2018,3539323.10491345,6,6,city_1923_kansas_norton,651.3312559127808,11.348958333333332,30.50880730306268,humid,12
+1923,"Norton, KS",Norton,Kansas,Norton,2019,3539323.10491345,9,9,city_1923_kansas_norton,730.3937473297119,10.9453125,34.8714657434551,humid,12
+1923,"Norton, KS",Norton,Kansas,Norton,2020,3539323.10491345,4,4,city_1923_kansas_norton,509.4374914169311,12.2421875,22.904109203149694,dry subhumid,12
+1923,"Norton, KS",Norton,Kansas,Norton,2021,3539323.10491345,12,24,city_1923_kansas_norton,581.0499963760376,12.432291666666668,25.902391294218532,dry subhumid,12
+1923,"Norton, KS",Norton,Kansas,Norton,2023,3539323.10491345,12,20,city_1923_kansas_norton,570.8250045776367,12.3125,25.583193482471113,dry subhumid,12
+1923,"Norton, KS",Norton,Kansas,Norton,2024,3539323.10491345,13,24,city_1923_kansas_norton,535.0125041007996,13.020833333333332,23.240362169084506,dry subhumid,12
+1923,"Norton, KS",Norton,Kansas,Norton,2025,3539323.10491345,19,30,city_1923_kansas_norton,NA,NA,NA,NA,NA

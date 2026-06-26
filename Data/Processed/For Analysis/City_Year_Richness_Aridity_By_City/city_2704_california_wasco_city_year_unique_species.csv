@@ -1,0 +1,6 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2704,"Wasco, CA",Wasco,California,Kern,2016,15742499.1195967,5,5,city_2704_california_wasco,163.58749854564667,18.427083333333332,5.754635346420696,arid,12
+2704,"Wasco, CA",Wasco,California,Kern,2021,15742499.1195967,5,5,city_2704_california_wasco,140.5500027537346,18.190104166666668,4.985792245490446,extremely arid,12
+2704,"Wasco, CA",Wasco,California,Kern,2022,15742499.1195967,22,27,city_2704_california_wasco,99.2625018954277,18.127604166666668,3.5290066408521654,extremely arid,12
+2704,"Wasco, CA",Wasco,California,Kern,2023,15742499.1195967,22,23,city_2704_california_wasco,232.331245303154,17.544270833333332,8.434830121623442,arid,12
+2704,"Wasco, CA",Wasco,California,Kern,2025,15742499.1195967,19,20,city_2704_california_wasco,NA,NA,NA,NA,NA

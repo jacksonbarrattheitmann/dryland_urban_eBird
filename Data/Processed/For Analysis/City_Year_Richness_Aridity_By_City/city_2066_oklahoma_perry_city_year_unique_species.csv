@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2066,"Perry, OK",Perry,Oklahoma,Noble,2019,6896209.65776796,2,2,city_2066_oklahoma_perry,1149.500005722046,15.638020833333332,44.83575441313008,humid,12
+2066,"Perry, OK",Perry,Oklahoma,Noble,2020,6896209.65776796,33,69,city_2066_oklahoma_perry,932.9750137329102,16.2265625,35.57366748817769,humid,12
+2066,"Perry, OK",Perry,Oklahoma,Noble,2021,6896209.65776796,14,17,city_2066_oklahoma_perry,846.8312540054321,16.153645833333332,32.37909006652255,humid,12
+2066,"Perry, OK",Perry,Oklahoma,Noble,2022,6896209.65776796,3,3,city_2066_oklahoma_perry,779.5187492370605,16.182291666666668,29.77274713616782,dry subhumid,12
+2066,"Perry, OK",Perry,Oklahoma,Noble,2023,6896209.65776796,26,28,city_2066_oklahoma_perry,882.2624969482422,16.885416666666668,32.815652734223654,humid,12
+2066,"Perry, OK",Perry,Oklahoma,Noble,2024,6896209.65776796,18,22,city_2066_oklahoma_perry,808.3499870300293,17.3359375,29.570962657857603,dry subhumid,12

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2015,33201570.5709766,138,915,city_0005_south_dakota_aberdeen,593.0812540054321,7.919270833333333,33.097398857446,humid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2016,33201570.5709766,101,500,city_0005_south_dakota_aberdeen,596.3937487602234,8.575520833333332,32.10643481339209,humid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2017,33201570.5709766,126,815,city_0005_south_dakota_aberdeen,464.56249618530273,7.513020833333334,26.526691231993492,dry subhumid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2018,33201570.5709766,117,528,city_0005_south_dakota_aberdeen,557.268744468689,6.260416666666667,34.271492292757294,humid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2019,33201570.5709766,93,369,city_0005_south_dakota_aberdeen,778.8749942779541,5.541666666666667,50.115281133165944,humid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2020,33201570.5709766,121,1138,city_0005_south_dakota_aberdeen,430.1312522888184,7.640625,24.382993929569864,dry subhumid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2021,33201570.5709766,92,514,city_0005_south_dakota_aberdeen,473.3625054359436,8.494791666666668,25.59436807764043,dry subhumid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2022,33201570.5709766,95,842,city_0005_south_dakota_aberdeen,496.3062438964844,6.578125,29.937417162464655,dry subhumid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2023,33201570.5709766,71,647,city_0005_south_dakota_aberdeen,540.1062450408936,8.067708333333332,29.893456052998435,dry subhumid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2024,33201570.5709766,87,956,city_0005_south_dakota_aberdeen,555.1062488555908,8.927083333333332,29.328673577400508,dry subhumid,12
+5,"Aberdeen, SD",Aberdeen,South Dakota,Brown,2025,33201570.5709766,103,923,city_0005_south_dakota_aberdeen,NA,NA,NA,NA,NA

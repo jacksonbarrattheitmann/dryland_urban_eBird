@@ -1,0 +1,7 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+S41472568,2017-12-31,2017,1281,"Irrigon, OR",Irrigon,Oregon,Morrow,4412618.93194089,8,2.634,1,45.8992958,-119.4956106,6,6,city_1281_oregon_irrigon,266.6062476038933,12.065104166666668,12.08270967542724,semiarid,12
+S39984922,2017-10-16,2017,1281,"Irrigon, OR",Irrigon,Oregon,Morrow,4412618.93194089,5,3.219,1,45.891754,-119.508912,5,5,city_1281_oregon_irrigon,266.6062476038933,12.065104166666668,12.08270967542724,semiarid,12
+S48041587,2018-08-24,2018,1281,"Irrigon, OR",Irrigon,Oregon,Morrow,4412618.93194089,10,NA,1,45.9002081,-119.4901972,3,3,city_1281_oregon_irrigon,191.76874780654907,12.635416666666668,8.472066170928997,arid,12
+S53613720,2019-03-08,2019,1281,"Irrigon, OR",Irrigon,Oregon,Morrow,4412618.93194089,197,5.091,1,45.8961,-119.501622,14,14,city_1281_oregon_irrigon,189.3499970436096,11.677083333333334,8.735031098599963,arid,12
+S80238518,2021-01-31,2021,1281,"Irrigon, OR",Irrigon,Oregon,Morrow,4412618.93194089,75,4.554,1,45.8979532,-119.4935918,29,29,city_1281_oregon_irrigon,194.13125228881836,13.192708333333332,8.37035716134137,arid,12
+S218330686,2025-03-13,2025,1281,"Irrigon, OR",Irrigon,Oregon,Morrow,4412618.93194089,15,NA,1,45.8942514,-119.5013153,6,6,city_1281_oregon_irrigon,NA,NA,NA,NA,NA

@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+965,"Frederick, OK",Frederick,Oklahoma,Tillman,2015,5736761.67265302,15,36,city_0965_oklahoma_frederick,910.912504196167,17.578125,33.03025510966271,humid,12
+965,"Frederick, OK",Frederick,Oklahoma,Tillman,2017,5736761.67265302,4,4,city_0965_oklahoma_frederick,674.8000030517578,18.111979166666668,24.004001961266788,dry subhumid,12
+965,"Frederick, OK",Frederick,Oklahoma,Tillman,2019,5736761.67265302,24,38,city_0965_oklahoma_frederick,767.512508392334,17.096354166666668,28.325305451480656,dry subhumid,12
+965,"Frederick, OK",Frederick,Oklahoma,Tillman,2022,5736761.67265302,26,37,city_0965_oklahoma_frederick,502.212495803833,17.565104166666668,18.21914014063976,semiarid,12
+965,"Frederick, OK",Frederick,Oklahoma,Tillman,2023,5736761.67265302,14,16,city_0965_oklahoma_frederick,675.1187496185303,18.127604166666668,24.001999801269847,dry subhumid,12
+965,"Frederick, OK",Frederick,Oklahoma,Tillman,2024,5736761.67265302,11,11,city_0965_oklahoma_frederick,667.606255531311,18.677083333333332,23.280130959319237,dry subhumid,12
+965,"Frederick, OK",Frederick,Oklahoma,Tillman,2025,5736761.67265302,7,7,city_0965_oklahoma_frederick,NA,NA,NA,NA,NA

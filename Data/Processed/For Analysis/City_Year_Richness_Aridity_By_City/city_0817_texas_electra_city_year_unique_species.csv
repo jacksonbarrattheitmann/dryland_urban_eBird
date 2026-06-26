@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+817,"Electra, TX",Electra,Texas,Wichita,2015,4298582.56547127,11,24,city_0817_texas_electra,935.0500068664552,17.981770833333332,33.416398570192534,humid,12
+817,"Electra, TX",Electra,Texas,Wichita,2018,4298582.56547127,9,11,city_0817_texas_electra,727.4312419891357,17.869791666666668,26.10106493401496,dry subhumid,12
+817,"Electra, TX",Electra,Texas,Wichita,2019,4298582.56547127,13,20,city_0817_texas_electra,772.9750061035156,17.403645833333332,28.207013431887297,dry subhumid,12
+817,"Electra, TX",Electra,Texas,Wichita,2020,4298582.56547127,9,9,city_0817_texas_electra,680.5062484741211,17.9453125,24.35135583021736,dry subhumid,12
+817,"Electra, TX",Electra,Texas,Wichita,2023,4298582.56547127,5,5,city_0817_texas_electra,678.3562469482422,18.783854166666668,23.567248604734008,dry subhumid,12
+817,"Electra, TX",Electra,Texas,Wichita,2025,4298582.56547127,14,22,city_0817_texas_electra,NA,NA,NA,NA,NA

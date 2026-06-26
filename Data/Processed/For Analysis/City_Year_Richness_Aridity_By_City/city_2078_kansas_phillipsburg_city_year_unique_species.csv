@@ -1,0 +1,6 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2078,"Phillipsburg, KS",Phillipsburg,Kansas,Phillips,2017,4262937.27711008,6,6,city_2078_kansas_phillipsburg,739.6374936103821,12.533854166666668,32.82339044798182,humid,12
+2078,"Phillipsburg, KS",Phillipsburg,Kansas,Phillips,2021,4262937.27711008,7,7,city_2078_kansas_phillipsburg,614.1999950408936,12.580729166666668,27.200184303506298,dry subhumid,12
+2078,"Phillipsburg, KS",Phillipsburg,Kansas,Phillips,2022,4262937.27711008,3,3,city_2078_kansas_phillipsburg,444.6874952316284,12.020833333333332,20.193944911180857,dry subhumid,12
+2078,"Phillipsburg, KS",Phillipsburg,Kansas,Phillips,2023,4262937.27711008,3,3,city_2078_kansas_phillipsburg,571.5187520980835,12.557291666666668,25.33631964969569,dry subhumid,12
+2078,"Phillipsburg, KS",Phillipsburg,Kansas,Phillips,2025,4262937.27711008,16,16,city_2078_kansas_phillipsburg,NA,NA,NA,NA,NA

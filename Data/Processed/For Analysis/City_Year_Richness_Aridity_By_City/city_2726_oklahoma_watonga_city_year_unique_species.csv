@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2726,"Watonga, OK",Watonga,Oklahoma,Blaine,2016,5330584.0579058,3,3,city_2726_oklahoma_watonga,730.6812582015991,16.690104166666668,27.376485818071423,dry subhumid,12
+2726,"Watonga, OK",Watonga,Oklahoma,Blaine,2022,5330584.0579058,6,6,city_2726_oklahoma_watonga,578.0812482833862,16,22.233894164745625,dry subhumid,12
+2726,"Watonga, OK",Watonga,Oklahoma,Blaine,2023,5330584.0579058,17,17,city_2726_oklahoma_watonga,727.1250057220459,16.5546875,27.382171442312995,dry subhumid,12
+2726,"Watonga, OK",Watonga,Oklahoma,Blaine,2025,5330584.0579058,9,13,city_2726_oklahoma_watonga,NA,NA,NA,NA,NA

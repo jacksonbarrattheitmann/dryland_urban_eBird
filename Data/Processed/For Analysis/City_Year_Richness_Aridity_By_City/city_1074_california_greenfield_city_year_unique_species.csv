@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1074,"Greenfield, CA",Greenfield,California,Monterey,2015,7111411.59387919,2,2,city_1074_california_greenfield,231.78749918937683,16.216145833333332,8.84140257164207,arid,12
+1074,"Greenfield, CA",Greenfield,California,Monterey,2021,7111411.59387919,4,4,city_1074_california_greenfield,385.2375039458275,15.822916666666666,14.918435005566536,semiarid,12
+1074,"Greenfield, CA",Greenfield,California,Monterey,2022,7111411.59387919,21,32,city_1074_california_greenfield,291.1999978721142,15.846354166666666,11.266579262759883,semiarid,12
+1074,"Greenfield, CA",Greenfield,California,Monterey,2023,7111411.59387919,1,1,city_1074_california_greenfield,513.6562479138374,15.177083333333332,20.401737608493335,dry subhumid,12
+1074,"Greenfield, CA",Greenfield,California,Monterey,2024,7111411.59387919,1,1,city_1074_california_greenfield,456.5687434375286,16.122395833333332,17.478057768917456,semiarid,12
+1074,"Greenfield, CA",Greenfield,California,Monterey,2025,7111411.59387919,6,7,city_1074_california_greenfield,NA,NA,NA,NA,NA

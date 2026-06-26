@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2015,30233307.1337995,43,115,city_0088_oklahoma_ardmore,1180.8687362670898,17.7265625,42.58979944834813,humid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2016,30233307.1337995,44,103,city_0088_oklahoma_ardmore,869.6437425613403,18.4453125,30.572479826380544,humid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2017,30233307.1337995,5,5,city_0088_oklahoma_ardmore,901.099988937378,18.385416666666668,31.745173922197537,humid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2018,30233307.1337995,40,44,city_0088_oklahoma_ardmore,1083.2749919891355,17.471354166666668,39.43289382157817,humid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2020,30233307.1337995,9,15,city_0088_oklahoma_ardmore,1077.6874980926514,17.622395833333332,39.014990031825974,humid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2021,30233307.1337995,25,53,city_0088_oklahoma_ardmore,912.8375053405762,17.552083333333332,33.13134234884511,humid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2022,30233307.1337995,28,94,city_0088_oklahoma_ardmore,803.5312461853027,17.802083333333332,28.901835756384063,dry subhumid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2023,30233307.1337995,31,71,city_0088_oklahoma_ardmore,944.6499977111816,18.440104166666668,33.21541975287004,humid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2024,30233307.1337995,44,130,city_0088_oklahoma_ardmore,955.2000007629396,18.8984375,33.05369021293762,humid,12
+88,"Ardmore, OK",Ardmore,Oklahoma,Carter,2025,30233307.1337995,78,459,city_0088_oklahoma_ardmore,NA,NA,NA,NA,NA

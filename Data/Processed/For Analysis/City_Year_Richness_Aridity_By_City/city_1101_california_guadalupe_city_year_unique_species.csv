@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2015,2766317.68553419,54,110,city_1101_california_guadalupe,242.86666190624237,15.869444608688354,9.388166834655378,arid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2016,2766317.68553419,46,101,city_1101_california_guadalupe,472.3399964720011,15.427777906258902,18.575748074146,semiarid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2017,2766317.68553419,46,154,city_1101_california_guadalupe,554.0999968796968,15.569444497426352,21.670396356693193,dry subhumid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2018,2766317.68553419,71,413,city_1101_california_guadalupe,354.54666252434254,15.463888923327128,13.923508054559065,semiarid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2019,2766317.68553419,33,52,city_1101_california_guadalupe,635.2266605049372,14.819444437821709,25.593911342226978,dry subhumid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2020,2766317.68553419,70,226,city_1101_california_guadalupe,277.5799942612648,15.611111223697662,10.838264370365284,semiarid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2021,2766317.68553419,72,457,city_1101_california_guadalupe,440.9533429145813,15.111111144224802,17.560088853973088,semiarid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2022,2766317.68553419,66,489,city_1101_california_guadalupe,297.68000258505344,15.011111179987587,11.901910332686034,semiarid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2023,2766317.68553419,77,462,city_1101_california_guadalupe,685.9466648250818,14.42222214738528,28.086988181725367,dry subhumid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2024,2766317.68553419,60,388,city_1101_california_guadalupe,597.4199960976839,15.133333365122477,23.77002633986957,dry subhumid,12
+1101,"Guadalupe, CA",Guadalupe,California,Santa Barbara,2025,2766317.68553419,82,475,city_1101_california_guadalupe,NA,NA,NA,NA,NA

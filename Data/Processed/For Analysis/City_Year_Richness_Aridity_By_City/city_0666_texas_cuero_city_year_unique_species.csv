@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+666,"Cuero, TX",Cuero,Texas,DeWitt,2016,13898282.4490741,34,38,city_0666_texas_cuero,1165.2000045776367,22.260416666666668,36.11856649643303,humid,12
+666,"Cuero, TX",Cuero,Texas,DeWitt,2017,13898282.4490741,19,26,city_0666_texas_cuero,799.4312534332275,22.3203125,24.734638733249486,dry subhumid,12
+666,"Cuero, TX",Cuero,Texas,DeWitt,2018,13898282.4490741,12,12,city_0666_texas_cuero,873.9250011444092,21.721354166666668,27.55005339786989,dry subhumid,12
+666,"Cuero, TX",Cuero,Texas,DeWitt,2019,13898282.4490741,28,41,city_0666_texas_cuero,878.8624992370605,21.8359375,27.605987706096627,dry subhumid,12
+666,"Cuero, TX",Cuero,Texas,DeWitt,2020,13898282.4490741,30,36,city_0666_texas_cuero,710.443754196167,22.385416666666668,21.937150338640084,dry subhumid,12
+666,"Cuero, TX",Cuero,Texas,DeWitt,2021,13898282.4490741,21,24,city_0666_texas_cuero,958.031244277954,21.653645833333332,30.266063167645775,humid,12
+666,"Cuero, TX",Cuero,Texas,DeWitt,2023,13898282.4490741,32,47,city_0666_texas_cuero,669.3999919891357,22.841145833333332,20.382967006885114,dry subhumid,12
+666,"Cuero, TX",Cuero,Texas,DeWitt,2024,13898282.4490741,23,28,city_0666_texas_cuero,830.1500082015991,23.122395833333332,25.063102692775697,dry subhumid,12
+666,"Cuero, TX",Cuero,Texas,DeWitt,2025,13898282.4490741,19,29,city_0666_texas_cuero,NA,NA,NA,NA,NA

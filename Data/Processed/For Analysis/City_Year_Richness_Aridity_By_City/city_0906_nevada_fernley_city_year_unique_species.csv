@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+906,"Fernley, NV",Fernley,Nevada,Lyon,2015,26644679.6468524,58,303,city_0906_nevada_fernley,149.26874923706055,13.5703125,6.332913457853414,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2016,26644679.6468524,63,556,city_0906_nevada_fernley,160.20000040531158,13.114583333333332,6.93068951730956,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2017,26644679.6468524,54,303,city_0906_nevada_fernley,161.20000052452087,13.247395833333332,6.9341100259231565,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2018,26644679.6468524,56,258,city_0906_nevada_fernley,154.69375079870224,13.244791666666668,6.654985470165993,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2019,26644679.6468524,58,297,city_0906_nevada_fernley,181.78124964237213,12.34375,8.135664319658613,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2020,26644679.6468524,46,169,city_0906_nevada_fernley,94.2875002026558,13.385416666666668,4.031893104434278,extremely arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2021,26644679.6468524,71,646,city_0906_nevada_fernley,138.55000030994415,13.364583333333334,5.929915305285171,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2022,26644679.6468524,69,321,city_0906_nevada_fernley,122.72499990463255,13.109375,5.310615276468211,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2023,26644679.6468524,56,275,city_0906_nevada_fernley,183.0062484741211,12.2890625,8.210585280297055,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2024,26644679.6468524,61,232,city_0906_nevada_fernley,177.4124994277954,13.684895833333332,7.490533235873936,arid,12
+906,"Fernley, NV",Fernley,Nevada,Lyon,2025,26644679.6468524,55,196,city_0906_nevada_fernley,NA,NA,NA,NA,NA

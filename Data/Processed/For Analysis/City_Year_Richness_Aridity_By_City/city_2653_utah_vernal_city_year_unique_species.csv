@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2653,"Vernal, UT",Vernal,Utah,Uintah,2015,44126580.0478628,40,174,city_2653_utah_vernal,288.68749809265137,9.174479166666668,15.055819539260916,semiarid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2016,44126580.0478628,33,103,city_2653_utah_vernal,227.1874961853027,8.934895833333332,11.998349406568044,semiarid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2017,44126580.0478628,44,351,city_2653_utah_vernal,185.18124961853027,8.893229166666668,9.801461041146192,arid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2018,44126580.0478628,39,237,city_2653_utah_vernal,198.4062488079071,8.794270833333332,10.556740964699506,semiarid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2019,44126580.0478628,26,43,city_2653_utah_vernal,240.3687534332275,7.674479166666666,13.599764449441489,semiarid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2020,44126580.0478628,43,304,city_2653_utah_vernal,145.6499981880188,8.815104166666668,7.741121010961829,arid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2021,44126580.0478628,49,262,city_2653_utah_vernal,242.0812554359436,9.182291666666668,12.620038295873249,semiarid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2022,44126580.0478628,46,224,city_2653_utah_vernal,221.5125002861023,8.234375,12.148071995124718,semiarid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2023,44126580.0478628,64,409,city_2653_utah_vernal,231.71874713897705,8.388020833333332,12.601614346603483,semiarid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2024,44126580.0478628,63,393,city_2653_utah_vernal,216.85000085830688,9.828125,10.93648546487915,semiarid,12
+2653,"Vernal, UT",Vernal,Utah,Uintah,2025,44126580.0478628,50,301,city_2653_utah_vernal,NA,NA,NA,NA,NA

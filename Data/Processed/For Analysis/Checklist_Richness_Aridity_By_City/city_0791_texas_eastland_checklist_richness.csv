@@ -1,0 +1,7 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+S46419452,2018-06-09,2018,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,20,NA,1,32.398487,-98.841236,6,6,city_0791_texas_eastland,727.5062611103058,18.25,25.752434021603744,dry subhumid,12
+S46155655,2018-05-30,2018,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,23,NA,1,32.398487,-98.841236,4,4,city_0791_texas_eastland,727.5062611103058,18.25,25.752434021603744,dry subhumid,12
+S70754703,2020-06-20,2020,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,10,4.435,1,32.391766,-98.816441,10,10,city_0791_texas_eastland,699.4812450408936,18.533854166666668,24.514082148006125,dry subhumid,12
+S111977993,2022-06-02,2022,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,30,NA,1,32.3985829,-98.8412382,17,17,city_0791_texas_eastland,417.1125054359436,18.4609375,14.655613696349375,semiarid,12
+S113631208,2022-06-23,2022,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,31,4.28,1,32.40181,-98.829843,7,7,city_0791_texas_eastland,417.1125054359436,18.4609375,14.655613696349375,semiarid,12
+S250336188,2025-06-14,2025,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,15,3.144,1,32.400427,-98.818132,8,8,city_0791_texas_eastland,NA,NA,NA,NA,NA

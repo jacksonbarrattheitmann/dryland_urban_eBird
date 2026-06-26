@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2015,75658861.2397083,154,1687,city_2332_california_santa_maria,215.95624881982803,16.640625,8.106275615524337,arid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2016,75658861.2397083,155,1732,city_2332_california_santa_maria,422.2437488138676,16.177083333333332,16.130282485527772,semiarid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2017,75658861.2397083,149,3268,city_2332_california_santa_maria,501.3062609434128,16.276041666666668,19.078454331245837,semiarid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2018,75658861.2397083,169,5548,city_2332_california_santa_maria,318.28125244379044,16.229166666666668,12.1346307524241,semiarid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2019,75658861.2397083,150,3903,city_2332_california_santa_maria,577.6374941766262,15.6171875,22.548825634220236,dry subhumid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2020,75658861.2397083,168,6579,city_2332_california_santa_maria,258.9562523961067,16.408854166666668,9.80566028203382,arid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2021,75658861.2397083,162,5254,city_2332_california_santa_maria,391.3875024020672,15.841145833333334,15.145903549571075,semiarid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2022,75658861.2397083,163,5671,city_2332_california_santa_maria,265.1499953866005,15.7265625,10.306468086694462,semiarid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2023,75658861.2397083,156,4396,city_2332_california_santa_maria,617.2937484681606,15.15625,24.538385032274707,dry subhumid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2024,75658861.2397083,152,2856,city_2332_california_santa_maria,549.2937388420105,15.854166666666666,21.245849689296136,dry subhumid,12
+2332,"Santa Maria, CA",Santa Maria,California,Santa Barbara,2025,75658861.2397083,155,6247,city_2332_california_santa_maria,NA,NA,NA,NA,NA

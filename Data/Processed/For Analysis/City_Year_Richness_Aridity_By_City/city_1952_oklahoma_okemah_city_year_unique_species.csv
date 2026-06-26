@@ -1,0 +1,6 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1952,"Okemah, OK",Okemah,Oklahoma,Okfuskee,2017,4052751.20317482,3,3,city_1952_oklahoma_okemah,1027.6624813079834,17.372395833333332,37.54375347942781,humid,12
+1952,"Okemah, OK",Okemah,Oklahoma,Okfuskee,2019,4052751.20317482,2,2,city_1952_oklahoma_okemah,1306.331272125244,16.078125,50.09299066268162,humid,12
+1952,"Okemah, OK",Okemah,Oklahoma,Okfuskee,2021,4052751.20317482,7,7,city_1952_oklahoma_okemah,977.7875099182128,16.653645833333332,36.6849441923394,humid,12
+1952,"Okemah, OK",Okemah,Oklahoma,Okfuskee,2023,4052751.20317482,11,14,city_1952_oklahoma_okemah,1002.4187431335448,17.34375,36.65988546316965,humid,12
+1952,"Okemah, OK",Okemah,Oklahoma,Okfuskee,2024,4052751.20317482,6,6,city_1952_oklahoma_okemah,978.3874969482422,17.747395833333332,35.26051607959878,humid,12

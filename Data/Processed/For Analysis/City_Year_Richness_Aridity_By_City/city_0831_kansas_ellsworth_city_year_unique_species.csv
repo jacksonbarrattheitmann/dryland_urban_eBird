@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2015,3371746.23233964,8,8,city_0831_kansas_ellsworth,833.7250080108643,13.638020833333332,35.27050821594931,humid,12
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2016,3371746.23233964,37,37,city_0831_kansas_ellsworth,820.3250102996826,14.1875,33.915245903862846,humid,12
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2019,3371746.23233964,20,35,city_0831_kansas_ellsworth,881.6374855041504,12.403645833333332,39.35241130228918,humid,12
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2020,3371746.23233964,38,43,city_0831_kansas_ellsworth,641.0124969482422,13.473958333333334,27.307388376761143,dry subhumid,12
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2021,3371746.23233964,12,12,city_0831_kansas_ellsworth,694.0750036239624,13.651041666666668,29.34648771103298,dry subhumid,12
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2022,3371746.23233964,12,12,city_0831_kansas_ellsworth,543.28125,13.307291666666668,23.30949720670391,dry subhumid,12
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2023,3371746.23233964,41,198,city_0831_kansas_ellsworth,642.1124935150146,13.7890625,26.991920909662355,dry subhumid,12
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2024,3371746.23233964,58,1694,city_0831_kansas_ellsworth,622.5687532424927,14.442708333333332,25.470530710112637,dry subhumid,12
+831,"Ellsworth, KS",Ellsworth,Kansas,Ellsworth,2025,3371746.23233964,66,1601,city_0831_kansas_ellsworth,NA,NA,NA,NA,NA

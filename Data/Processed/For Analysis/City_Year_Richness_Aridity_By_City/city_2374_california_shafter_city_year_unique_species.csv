@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2374,"Shafter, CA",Shafter,California,Kern,2017,9947135.88117143,14,14,city_2374_california_shafter,185.51874887943268,18.575520833333332,6.492226334612426,arid,12
+2374,"Shafter, CA",Shafter,California,Kern,2020,9947135.88117143,19,66,city_2374_california_shafter,115.06874805688858,18.611979166666668,4.021698302889343,extremely arid,12
+2374,"Shafter, CA",Shafter,California,Kern,2021,9947135.88117143,14,21,city_2374_california_shafter,137.62499904632568,18.278645833333332,4.866746443852018,extremely arid,12
+2374,"Shafter, CA",Shafter,California,Kern,2023,9947135.88117143,3,3,city_2374_california_shafter,226.64374953508377,17.625,8.20429862570439,arid,12

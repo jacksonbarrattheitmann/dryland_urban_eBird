@@ -1,0 +1,6 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2278,"Rupert, ID",Rupert,Idaho,Minidoka,2019,8115043.80335189,7,7,city_2278_idaho_rupert,286.6625032424927,9.09375,15.013420791750844,semiarid,12
+2278,"Rupert, ID",Rupert,Idaho,Minidoka,2020,8115043.80335189,15,17,city_2278_idaho_rupert,247.3875002861023,10.09375,12.31166408888845,semiarid,12
+2278,"Rupert, ID",Rupert,Idaho,Minidoka,2022,8115043.80335189,11,12,city_2278_idaho_rupert,240.18749976158145,9.567708333333332,12.27468723828151,semiarid,12
+2278,"Rupert, ID",Rupert,Idaho,Minidoka,2023,8115043.80335189,11,21,city_2278_idaho_rupert,284.68749737739563,9.651041666666668,14.487145374094874,semiarid,12
+2278,"Rupert, ID",Rupert,Idaho,Minidoka,2024,8115043.80335189,6,8,city_2278_idaho_rupert,268.9749960899353,10.716145833333332,12.98383387787997,semiarid,12

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+547,"Clifton, TX",Clifton,Texas,Bosque,2015,5677893.76390553,84,235,city_0547_texas_clifton,1176.812505722046,19.348958333333332,40.09724952948231,humid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2016,5677893.76390553,39,66,city_0547_texas_clifton,1099.756254196167,20.0859375,36.55383031345349,humid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2017,5677893.76390553,43,72,city_0547_texas_clifton,751.3500022888184,20.078125,24.97994812804383,dry subhumid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2018,5677893.76390553,58,124,city_0547_texas_clifton,881.8124942779541,19.3515625,30.04311931529894,humid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2019,5677893.76390553,70,212,city_0547_texas_clifton,803.7687492370605,19.3828125,27.3550651162839,dry subhumid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2020,5677893.76390553,52,109,city_0547_texas_clifton,836.3374919891357,19.75,28.11218460467683,dry subhumid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2021,5677893.76390553,71,188,city_0547_texas_clifton,879.7000007629395,19.109375,30.220504588742955,humid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2022,5677893.76390553,66,191,city_0547_texas_clifton,543.7125015258789,19.552083333333332,18.39844911754825,semiarid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2023,5677893.76390553,75,304,city_0547_texas_clifton,753.96875,20.28125,24.898864809081527,dry subhumid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2024,5677893.76390553,42,92,city_0547_texas_clifton,858.4687442779541,20.671875,27.988792477732584,dry subhumid,12
+547,"Clifton, TX",Clifton,Texas,Bosque,2025,5677893.76390553,31,40,city_0547_texas_clifton,NA,NA,NA,NA,NA

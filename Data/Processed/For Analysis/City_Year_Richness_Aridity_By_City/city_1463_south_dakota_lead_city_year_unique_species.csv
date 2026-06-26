@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2016,5554136.52427246,3,3,city_1463_south_dakota_lead,653.7312469482422,8.520833333333332,35.29707520080498,humid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2017,5554136.52427246,21,27,city_1463_south_dakota_lead,552.2125091552734,7.786458333333334,31.04679407256588,humid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2018,5554136.52427246,9,11,city_1463_south_dakota_lead,822.7187480926514,6.765625,49.07176130282357,humid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2019,5554136.52427246,37,64,city_1463_south_dakota_lead,895.1874961853027,6.354166666666667,54.737579384579014,humid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2020,5554136.52427246,23,38,city_1463_south_dakota_lead,464.4812526702881,8.044270833333332,25.74120378487381,dry subhumid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2021,5554136.52427246,28,64,city_1463_south_dakota_lead,578.4124994277954,8.302083333333332,31.603642541302428,humid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2022,5554136.52427246,15,31,city_1463_south_dakota_lead,562.1812438964844,7.330729166666666,32.43840686044328,humid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2023,5554136.52427246,26,51,city_1463_south_dakota_lead,816.0875053405762,7.830729166666666,45.768599686107976,humid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2024,5554136.52427246,32,61,city_1463_south_dakota_lead,553.3937454223633,8.671875,29.637824022620293,dry subhumid,12
+1463,"Lead, SD",Lead,South Dakota,Lawrence,2025,5554136.52427246,27,65,city_1463_south_dakota_lead,NA,NA,NA,NA,NA

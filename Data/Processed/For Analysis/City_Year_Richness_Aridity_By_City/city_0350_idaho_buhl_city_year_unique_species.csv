@@ -1,0 +1,4 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+350,"Buhl, ID",Buhl,Idaho,Twin Falls,2018,4012825.9202863,3,3,city_0350_idaho_buhl,231.0687472820282,10.796875,11.110743670961536,semiarid,12
+350,"Buhl, ID",Buhl,Idaho,Twin Falls,2019,4012825.9202863,2,2,city_0350_idaho_buhl,294.74374628067017,9.846354166666666,14.851279172257888,semiarid,12
+350,"Buhl, ID",Buhl,Idaho,Twin Falls,2021,4012825.9202863,4,4,city_0350_idaho_buhl,248.8374981880188,11.260416666666666,11.704262531136605,semiarid,12

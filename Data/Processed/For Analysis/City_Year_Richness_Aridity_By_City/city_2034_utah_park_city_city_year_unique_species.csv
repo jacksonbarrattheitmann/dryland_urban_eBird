@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2034,"Park City, UT",Park City,Utah,Summit,2015,31214623.2815862,74,439,city_2034_utah_park_city,538.5000019073486,7.309895833333334,31.109372759503813,humid,12
+2034,"Park City, UT",Park City,Utah,Summit,2016,31214623.2815862,63,245,city_2034_utah_park_city,517.6624979972839,6.830729166666666,30.756985800859827,humid,12
+2034,"Park City, UT",Park City,Utah,Summit,2017,31214623.2815862,62,431,city_2034_utah_park_city,460.9624967575073,6.682291666666666,27.63184495080906,dry subhumid,12
+2034,"Park City, UT",Park City,Utah,Summit,2018,31214623.2815862,59,289,city_2034_utah_park_city,422.275004029274,6.635416666666666,25.3840954206702,dry subhumid,12
+2034,"Park City, UT",Park City,Utah,Summit,2019,31214623.2815862,78,411,city_2034_utah_park_city,578.0437507629395,5.46875,37.368484897806184,humid,12
+2034,"Park City, UT",Park City,Utah,Summit,2020,31214623.2815862,97,778,city_2034_utah_park_city,300.7937502861023,6.8046875,17.89939564696471,semiarid,12
+2034,"Park City, UT",Park City,Utah,Summit,2021,31214623.2815862,86,707,city_2034_utah_park_city,506.3625020980835,7.263020833333334,29.332207090913265,dry subhumid,12
+2034,"Park City, UT",Park City,Utah,Summit,2022,31214623.2815862,85,1000,city_2034_utah_park_city,475.7062473297119,6.239583333333334,29.29300817424781,dry subhumid,12
+2034,"Park City, UT",Park City,Utah,Summit,2023,31214623.2815862,87,827,city_2034_utah_park_city,567.8500061035156,6.018229166666666,35.450236115062594,humid,12
+2034,"Park City, UT",Park City,Utah,Summit,2024,31214623.2815862,84,608,city_2034_utah_park_city,482.08125019073486,7.450520833333334,27.62560812912135,dry subhumid,12
+2034,"Park City, UT",Park City,Utah,Summit,2025,31214623.2815862,102,972,city_2034_utah_park_city,NA,NA,NA,NA,NA

@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1350,"Karnes City, TX",Karnes City,Texas,Karnes,2015,4852764.65613093,26,36,city_1350_texas_karnes_city,991.493763923645,21.7578125,31.220467843106164,humid,12
+1350,"Karnes City, TX",Karnes City,Texas,Karnes,2018,4852764.65613093,4,4,city_1350_texas_karnes_city,747.7062616348267,22.010416666666668,23.35821708979608,dry subhumid,12
+1350,"Karnes City, TX",Karnes City,Texas,Karnes,2020,4852764.65613093,7,10,city_1350_texas_karnes_city,557.118745803833,22.5390625,17.121536485688026,semiarid,12
+1350,"Karnes City, TX",Karnes City,Texas,Karnes,2021,4852764.65613093,1,1,city_1350_texas_karnes_city,783.2062320709229,22.083333333333332,24.411622817795003,dry subhumid,12
+1350,"Karnes City, TX",Karnes City,Texas,Karnes,2022,4852764.65613093,10,14,city_1350_texas_karnes_city,463.5500054359436,22.3515625,14.328519849263651,semiarid,12
+1350,"Karnes City, TX",Karnes City,Texas,Karnes,2023,4852764.65613093,6,10,city_1350_texas_karnes_city,591.5562391281128,23.088541666666668,17.877978579033154,semiarid,12
+1350,"Karnes City, TX",Karnes City,Texas,Karnes,2024,4852764.65613093,1,1,city_1350_texas_karnes_city,665.0437564849854,23.416666666666668,19.90155879755567,semiarid,12
+1350,"Karnes City, TX",Karnes City,Texas,Karnes,2025,4852764.65613093,3,3,city_1350_texas_karnes_city,NA,NA,NA,NA,NA

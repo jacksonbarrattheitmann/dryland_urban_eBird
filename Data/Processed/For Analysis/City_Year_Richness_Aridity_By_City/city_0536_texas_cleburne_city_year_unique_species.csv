@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2015,45327529.8884984,67,225,city_0536_texas_cleburne,1155.206247329712,19.15625,39.62122177336632,humid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2016,45327529.8884984,56,147,city_0536_texas_cleburne,1037.4812450408936,19.9296875,34.66395180507293,humid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2017,45327529.8884984,45,168,city_0536_texas_cleburne,762.5437507629395,19.940104166666668,25.468974540573083,dry subhumid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2018,45327529.8884984,70,209,city_0536_texas_cleburne,891.7687320709229,19.013020833333332,30.73684526660393,humid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2019,45327529.8884984,65,256,city_0536_texas_cleburne,874.7375011444092,18.817708333333332,30.354165953321267,humid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2020,45327529.8884984,81,338,city_0536_texas_cleburne,907.5937633514404,19.307291666666668,30.968189543891334,humid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2021,45327529.8884984,97,640,city_0536_texas_cleburne,884.2749881744385,19.018229166666668,30.47308583496225,humid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2022,45327529.8884984,129,1172,city_0536_texas_cleburne,599.3562507629395,19.40625,20.38193413859093,dry subhumid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2023,45327529.8884984,116,1084,city_0536_texas_cleburne,824.5812358856201,19.924479166666668,27.555408108961633,dry subhumid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2024,45327529.8884984,112,1238,city_0536_texas_cleburne,917.7562522888184,20.4453125,30.144418858857776,humid,12
+536,"Cleburne, TX",Cleburne,Texas,Johnson,2025,45327529.8884984,89,416,city_0536_texas_cleburne,NA,NA,NA,NA,NA

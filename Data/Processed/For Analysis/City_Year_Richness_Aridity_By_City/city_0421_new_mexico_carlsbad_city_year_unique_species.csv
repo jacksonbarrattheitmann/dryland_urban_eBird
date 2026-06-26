@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2015,57451395.3140497,74,640,city_0421_new_mexico_carlsbad,442.93125343322754,17.916666666666668,15.86619415283203,semiarid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2016,57451395.3140497,83,330,city_0421_new_mexico_carlsbad,305.8499982357025,18.536458333333332,10.717868162302407,semiarid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2017,57451395.3140497,72,233,city_0421_new_mexico_carlsbad,346.3812446594238,18.518229166666668,12.145959085856886,semiarid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2018,57451395.3140497,86,540,city_0421_new_mexico_carlsbad,327.8437513113022,18.098958333333332,11.66746992618536,semiarid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2019,57451395.3140497,71,371,city_0421_new_mexico_carlsbad,297.56249713897705,17.809895833333332,10.699878162877347,semiarid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2020,57451395.3140497,101,537,city_0421_new_mexico_carlsbad,136.81250143051147,18.4140625,4.814957432803263,extremely arid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2021,57451395.3140497,129,1467,city_0421_new_mexico_carlsbad,336.76874828338623,17.768229166666668,12.127843884537214,semiarid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2022,57451395.3140497,119,1359,city_0421_new_mexico_carlsbad,283.44375360012054,17.979166666666668,10.13052879583454,semiarid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2023,57451395.3140497,138,1611,city_0421_new_mexico_carlsbad,166.61249923706055,18.736979166666668,5.797843199549728,arid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2024,57451395.3140497,106,1273,city_0421_new_mexico_carlsbad,286.31875014305115,19.205729166666668,9.803513156926584,arid,12
+421,"Carlsbad, NM",Carlsbad,New Mexico,Eddy,2025,57451395.3140497,95,884,city_0421_new_mexico_carlsbad,NA,NA,NA,NA,NA

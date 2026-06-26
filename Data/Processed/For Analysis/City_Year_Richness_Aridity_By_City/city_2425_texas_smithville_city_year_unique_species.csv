@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2015,5152912.19223676,28,46,city_2425_texas_smithville,1329.4062519073486,20.486979166666668,43.605706050433234,humid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2016,5152912.19223676,30,41,city_2425_texas_smithville,1258.0249881744385,21.067708333333332,40.49300883981428,humid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2018,5152912.19223676,4,4,city_2425_texas_smithville,942.6249923706056,20.502604166666668,30.903098870512466,humid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2019,5152912.19223676,42,123,city_2425_texas_smithville,961.7250099182128,20.536458333333332,31.494320638631567,humid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2020,5152912.19223676,80,3689,city_2425_texas_smithville,797.8999996185303,21.0546875,25.693383635514937,dry subhumid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2021,5152912.19223676,97,3760,city_2425_texas_smithville,964.8374938964844,20.3828125,31.756029626832092,humid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2022,5152912.19223676,86,4020,city_2425_texas_smithville,574.8874931335449,20.794270833333332,18.66865093981237,semiarid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2023,5152912.19223676,70,1573,city_2425_texas_smithville,722.8999938964844,21.5703125,22.898094337725812,dry subhumid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2024,5152912.19223676,47,88,city_2425_texas_smithville,832.6062517166138,21.877604166666668,26.11884655331915,dry subhumid,12
+2425,"Smithville, TX",Smithville,Texas,Bastrop,2025,5152912.19223676,31,42,city_2425_texas_smithville,NA,NA,NA,NA,NA

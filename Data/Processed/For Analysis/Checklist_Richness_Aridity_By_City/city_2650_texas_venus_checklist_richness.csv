@@ -1,0 +1,6 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+S47842775,2017-08-14,2017,2650,"Venus, TX",Venus,Texas,Johnson,7937569.44340199,10,NA,1,32.4315111,-97.099296,4,4,city_2650_texas_venus,801.318754196167,20.190104166666668,26.542430916184603,dry subhumid,12
+S52856178,2019-02-17,2019,2650,"Venus, TX",Venus,Texas,Johnson,7937569.44340199,30,40.234,1,32.435305,-97.118684,10,10,city_2650_texas_venus,900.943733215332,19.1328125,30.92539497226133,humid,12
+S75094954,2020-10-19,2020,2650,"Venus, TX",Venus,Texas,Johnson,7937569.44340199,13,0.917,1,32.4282112,-97.1029077,7,7,city_2650_texas_venus,950.3812561035156,19.5546875,32.156701237443826,humid,12
+S96296650,2021-10-17,2021,2650,"Venus, TX",Venus,Texas,Johnson,7937569.44340199,15,1.715,1,32.433873,-97.12769,9,9,city_2650_texas_venus,901.3937549591064,19.364583333333332,30.696630179522604,humid,12
+S170486089,2024-04-27,2024,2650,"Venus, TX",Venus,Texas,Johnson,7937569.44340199,7,NA,1,32.440422,-97.107809,4,4,city_2650_texas_venus,963.8374938964844,20.635416666666668,31.461543493390852,humid,12

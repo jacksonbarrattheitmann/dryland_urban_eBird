@@ -1,0 +1,4 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1362,"Kerman, CA",Kerman,California,Fresno,2016,6531487.12573021,11,11,city_1362_california_kerman,236.8874977827072,17.890625,8.493445298651688,arid,12
+1362,"Kerman, CA",Kerman,California,Fresno,2021,6531487.12573021,44,178,city_1362_california_kerman,197.8937446475029,17.838541666666668,7.108624690798981,arid,12
+1362,"Kerman, CA",Kerman,California,Fresno,2022,6531487.12573021,5,5,city_1362_california_kerman,146.7687474489212,17.791666666666668,5.28103439096568,arid,12

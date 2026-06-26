@@ -1,0 +1,6 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2785,"Whitesboro, TX",Whitesboro,Texas,Grayson,2018,6852777.59754225,9,12,city_2785_texas_whitesboro,1138.981258392334,17.9609375,40.73473067175713,humid,12
+2785,"Whitesboro, TX",Whitesboro,Texas,Grayson,2020,6852777.59754225,22,31,city_2785_texas_whitesboro,1127.3062324523926,18.153645833333332,40.041216655417514,humid,12
+2785,"Whitesboro, TX",Whitesboro,Texas,Grayson,2021,6852777.59754225,22,95,city_2785_texas_whitesboro,972.425012588501,18.169270833333332,34.52077330442677,humid,12
+2785,"Whitesboro, TX",Whitesboro,Texas,Grayson,2024,6852777.59754225,11,11,city_2785_texas_whitesboro,1075.0000038146973,19.372395833333332,36.59898940197214,humid,12
+2785,"Whitesboro, TX",Whitesboro,Texas,Grayson,2025,6852777.59754225,1,1,city_2785_texas_whitesboro,NA,NA,NA,NA,NA

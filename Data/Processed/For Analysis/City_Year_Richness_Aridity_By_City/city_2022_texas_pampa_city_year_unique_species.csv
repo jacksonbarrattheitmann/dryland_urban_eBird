@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2022,"Pampa, TX",Pampa,Texas,Gray,2015,28566258.1415455,33,105,city_2022_texas_pampa,718.9687461853027,14.783854166666668,29.009561682794605,dry subhumid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2016,28566258.1415455,9,9,city_2022_texas_pampa,533.4124913215637,15.375,21.021181924002512,dry subhumid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2017,28566258.1415455,35,144,city_2022_texas_pampa,591.8374972343445,15.080729166666668,23.59730027390596,dry subhumid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2018,28566258.1415455,18,38,city_2022_texas_pampa,517.4749978780746,14.377604166666668,21.227475609996866,dry subhumid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2019,28566258.1415455,42,103,city_2022_texas_pampa,583.1187591552734,14.083333333333334,24.21254363274491,dry subhumid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2020,28566258.1415455,19,26,city_2022_texas_pampa,440.868748664856,14.822916666666666,17.760553869838933,semiarid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2021,28566258.1415455,45,71,city_2022_texas_pampa,463.3062528371811,14.692708333333332,18.762877145061964,semiarid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2022,28566258.1415455,17,39,city_2022_texas_pampa,373.1562542915344,14.739583333333332,15.083368594520971,semiarid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2023,28566258.1415455,26,37,city_2022_texas_pampa,546.0749974250793,15.158854166666668,21.70508218727155,dry subhumid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2024,28566258.1415455,23,38,city_2022_texas_pampa,503.98749709129333,15.90625,19.45428215551434,semiarid,12
+2022,"Pampa, TX",Pampa,Texas,Gray,2025,28566258.1415455,16,21,city_2022_texas_pampa,NA,NA,NA,NA,NA

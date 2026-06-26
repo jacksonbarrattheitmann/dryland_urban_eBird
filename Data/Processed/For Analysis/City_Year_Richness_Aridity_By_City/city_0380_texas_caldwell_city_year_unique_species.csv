@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+380,"Caldwell, TX",Caldwell,Texas,Burleson,2017,7931407.14306034,3,3,city_0380_texas_caldwell,884.3375072479248,20.984375,28.54140215021038,dry subhumid,12
+380,"Caldwell, TX",Caldwell,Texas,Burleson,2019,7931407.14306034,32,49,city_0380_texas_caldwell,981.2000064849854,20.247395833333332,32.439156477850574,humid,12
+380,"Caldwell, TX",Caldwell,Texas,Burleson,2020,7931407.14306034,42,74,city_0380_texas_caldwell,884.9562530517578,20.799479166666668,28.73283175546419,dry subhumid,12
+380,"Caldwell, TX",Caldwell,Texas,Burleson,2021,7931407.14306034,53,109,city_0380_texas_caldwell,980.2687492370604,20.255208333333332,32.399999974783206,humid,12
+380,"Caldwell, TX",Caldwell,Texas,Burleson,2022,7931407.14306034,33,44,city_0380_texas_caldwell,649.0812492370605,20.572916666666668,21.23059622717472,dry subhumid,12
+380,"Caldwell, TX",Caldwell,Texas,Burleson,2023,7931407.14306034,14,16,city_0380_texas_caldwell,804.0937480926514,21.208333333333332,25.765353743956787,dry subhumid,12
+380,"Caldwell, TX",Caldwell,Texas,Burleson,2024,7931407.14306034,43,110,city_0380_texas_caldwell,934.1437644958496,21.598958333333332,29.56248603646005,dry subhumid,12
+380,"Caldwell, TX",Caldwell,Texas,Burleson,2025,7931407.14306034,20,44,city_0380_texas_caldwell,NA,NA,NA,NA,NA

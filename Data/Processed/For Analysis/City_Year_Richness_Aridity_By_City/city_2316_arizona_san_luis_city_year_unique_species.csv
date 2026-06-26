@@ -1,0 +1,6 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2316,"San Luis, AZ",San Luis,Arizona,Yuma,2017,9334087.50054754,6,6,city_2316_arizona_san_luis,56.70625025033951,24.833333333333332,1.6279306291963498,extremely arid,12
+2316,"San Luis, AZ",San Luis,Arizona,Yuma,2022,9334087.50054754,9,9,city_2316_arizona_san_luis,65.21874874830246,24.088541666666668,1.9132161588501253,extremely arid,12
+2316,"San Luis, AZ",San Luis,Arizona,Yuma,2023,9334087.50054754,18,42,city_2316_arizona_san_luis,66.18750071525574,23.700520833333332,1.9639904392750336,extremely arid,12
+2316,"San Luis, AZ",San Luis,Arizona,Yuma,2024,9334087.50054754,4,4,city_2316_arizona_san_luis,58.02500033378601,24.677083333333332,1.6732952934945804,extremely arid,12
+2316,"San Luis, AZ",San Luis,Arizona,Yuma,2025,9334087.50054754,10,10,city_2316_arizona_san_luis,NA,NA,NA,NA,NA

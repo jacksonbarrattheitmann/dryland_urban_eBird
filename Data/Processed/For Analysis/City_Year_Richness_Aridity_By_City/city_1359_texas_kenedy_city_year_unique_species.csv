@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2015,10302346.3765938,19,23,city_1359_texas_kenedy,987.1624927520752,21.791666666666668,31.050982734010223,humid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2016,10302346.3765938,27,43,city_1359_texas_kenedy,962.3937511444092,22.606770833333332,29.51515058217819,dry subhumid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2017,10302346.3765938,32,64,city_1359_texas_kenedy,664.9499988555908,22.786458333333332,20.281239043728903,dry subhumid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2019,10302346.3765938,14,19,city_1359_texas_kenedy,622.3374948501587,22.114583333333332,19.378656991766217,semiarid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2020,10302346.3765938,54,281,city_1359_texas_kenedy,561.0750036239624,22.609375,17.205941654017057,semiarid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2021,10302346.3765938,79,980,city_1359_texas_kenedy,805.3812570571899,22.0625,25.119103533947445,dry subhumid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2022,10302346.3765938,75,375,city_1359_texas_kenedy,476.88125467300415,22.375,14.729922924262675,semiarid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2023,10302346.3765938,65,234,city_1359_texas_kenedy,598.7250022888184,23.143229166666668,18.064775742822835,semiarid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2024,10302346.3765938,72,368,city_1359_texas_kenedy,691.856258392334,23.416666666666668,20.703927931940168,dry subhumid,12
+1359,"Kenedy, TX",Kenedy,Texas,Karnes,2025,10302346.3765938,90,1374,city_1359_texas_kenedy,NA,NA,NA,NA,NA

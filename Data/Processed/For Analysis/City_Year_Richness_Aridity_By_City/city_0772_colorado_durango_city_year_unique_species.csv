@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+772,"Durango, CO",Durango,Colorado,La Plata,2015,24255131.4297526,111,1442,city_0772_colorado_durango,661.6124992370605,8.932291666666668,34.946244801517366,humid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2016,24255131.4297526,131,2171,city_0772_colorado_durango,491.25,8.9765625,25.887196377109923,dry subhumid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2017,24255131.4297526,126,1815,city_0772_colorado_durango,403.6562509536743,9.5,20.700320561726887,dry subhumid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2018,24255131.4297526,134,3150,city_0772_colorado_durango,474.6937484741211,9.088541666666668,24.867994463037174,dry subhumid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2019,24255131.4297526,122,2735,city_0772_colorado_durango,498.5625057220459,8.033854166666666,27.64592089491201,dry subhumid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2020,24255131.4297526,141,6737,city_0772_colorado_durango,352.6062526702881,9.111979166666668,18.44948917092119,semiarid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2021,24255131.4297526,138,5183,city_0772_colorado_durango,485.9812526702881,9.1484375,25.37968190199791,dry subhumid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2022,24255131.4297526,137,7253,city_0772_colorado_durango,508.2749948501587,8.651041666666668,27.25182882190183,dry subhumid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2023,24255131.4297526,154,10699,city_0772_colorado_durango,465.2875022888184,8.765625,24.79467122937916,dry subhumid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2024,24255131.4297526,147,13325,city_0772_colorado_durango,484.2500009536743,9.791666666666668,24.46736846923828,dry subhumid,12
+772,"Durango, CO",Durango,Colorado,La Plata,2025,24255131.4297526,152,15665,city_0772_colorado_durango,NA,NA,NA,NA,NA

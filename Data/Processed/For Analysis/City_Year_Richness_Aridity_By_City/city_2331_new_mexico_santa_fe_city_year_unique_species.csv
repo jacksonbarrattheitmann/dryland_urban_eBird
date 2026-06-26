@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2015,137881769.881585,127,1212,city_2331_new_mexico_santa_fe,632.7812509536743,10.861979166666668,30.33179382926113,humid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2016,137881769.881585,132,1733,city_2331_new_mexico_santa_fe,377.79375171661377,11.1328125,17.87711653224642,semiarid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2017,137881769.881585,148,3399,city_2331_new_mexico_santa_fe,439.19375455379486,11.455729166666666,20.469765960511864,dry subhumid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2018,137881769.881585,157,7598,city_2331_new_mexico_santa_fe,407.7500081062317,11.036458333333332,19.383015983262315,semiarid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2019,137881769.881585,160,12839,city_2331_new_mexico_santa_fe,379.3000059127808,10.296875,18.687606141969184,semiarid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2020,137881769.881585,181,18618,city_2331_new_mexico_santa_fe,281.6437511444092,11.2578125,13.248952644793963,semiarid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2021,137881769.881585,174,19988,city_2331_new_mexico_santa_fe,334.52500009536743,11.067708333333332,15.87856613555267,semiarid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2022,137881769.881585,179,23222,city_2331_new_mexico_santa_fe,369.9124948978424,10.677083333333332,17.889974564328902,semiarid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2023,137881769.881585,183,28014,city_2331_new_mexico_santa_fe,326.5937428474426,11.1015625,15.477230316354186,semiarid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2024,137881769.881585,176,28935,city_2331_new_mexico_santa_fe,418.1624948978424,11.817708333333334,19.166196949244625,semiarid,12
+2331,"Santa Fe, NM",Santa Fe,New Mexico,Santa Fe,2025,137881769.881585,167,31392,city_2331_new_mexico_santa_fe,NA,NA,NA,NA,NA

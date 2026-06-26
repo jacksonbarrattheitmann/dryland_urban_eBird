@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2015,9197683.98824726,58,166,city_1025_colorado_glenwood_springs,533.8187456130981,4.815104166666666,36.03206157768144,humid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2016,9197683.98824726,58,280,city_1025_colorado_glenwood_springs,422.899995803833,4.755208333333334,28.66106572338014,dry subhumid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2017,9197683.98824726,37,83,city_1025_colorado_glenwood_springs,352.29999828338623,4.934895833333334,23.589049579916356,dry subhumid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2018,9197683.98824726,80,318,city_1025_colorado_glenwood_springs,369.66875290870667,4.658854166666666,25.218120646108257,dry subhumid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2019,9197683.98824726,88,539,city_1025_colorado_glenwood_springs,435.20625019073486,3.541666666666667,32.13830770639272,humid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2020,9197683.98824726,90,943,city_1025_colorado_glenwood_springs,256.81875133514404,4.690104166666666,17.482432283760915,semiarid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2021,9197683.98824726,83,1037,city_1025_colorado_glenwood_springs,433.5187530517578,4.893229166666666,29.108445737344816,dry subhumid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2022,9197683.98824726,91,993,city_1025_colorado_glenwood_springs,394.3000030517578,4.2109375,27.746234409359538,dry subhumid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2023,9197683.98824726,99,1395,city_1025_colorado_glenwood_springs,423.1937484741211,4.2265625,29.746732457269356,dry subhumid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2024,9197683.98824726,107,1571,city_1025_colorado_glenwood_springs,409.62500190734863,5.3828125,26.62874568011205,dry subhumid,12
+1025,"Glenwood Springs, CO",Glenwood Springs,Colorado,Garfield,2025,9197683.98824726,105,1192,city_1025_colorado_glenwood_springs,NA,NA,NA,NA,NA

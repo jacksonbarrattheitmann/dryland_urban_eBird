@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+55,"Altus, OK",Altus,Oklahoma,Jackson,2015,32039655.8030383,71,421,city_0055_oklahoma_altus,909.1187477111816,17.427083333333332,33.14675267006207,humid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2016,32039655.8030383,27,49,city_0055_oklahoma_altus,701.8999948501587,18.197916666666668,24.891909680685345,dry subhumid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2017,32039655.8030383,57,342,city_0055_oklahoma_altus,676.1937494277954,17.955729166666668,24.188020473243913,dry subhumid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2018,32039655.8030383,69,509,city_0055_oklahoma_altus,682.6562638282776,17.138020833333332,25.154976039733096,dry subhumid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2019,32039655.8030383,62,456,city_0055_oklahoma_altus,774.4562540054321,16.846354166666668,28.84772543778115,dry subhumid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2020,32039655.8030383,64,298,city_0055_oklahoma_altus,625.2125015258789,17.294270833333332,22.906363952479488,dry subhumid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2021,32039655.8030383,83,485,city_0055_oklahoma_altus,644.1312551498413,17.333333333333332,23.56577762743322,dry subhumid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2022,32039655.8030383,71,468,city_0055_oklahoma_altus,501.04999923706055,17.440104166666668,18.25977030530808,semiarid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2023,32039655.8030383,23,56,city_0055_oklahoma_altus,680.3125009536743,17.981770833333332,24.312703617143875,dry subhumid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2024,32039655.8030383,49,294,city_0055_oklahoma_altus,655.475001335144,18.611979166666668,22.909110813934223,dry subhumid,12
+55,"Altus, OK",Altus,Oklahoma,Jackson,2025,32039655.8030383,76,578,city_0055_oklahoma_altus,NA,NA,NA,NA,NA

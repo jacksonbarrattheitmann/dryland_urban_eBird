@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2015,12506784.2817185,11,11,city_1108_oklahoma_guymon,579.2687568664551,14.6171875,23.531069780674787,dry subhumid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2016,12506784.2817185,16,23,city_1108_oklahoma_guymon,464.7499985694885,15.166666666666668,18.466887360377022,semiarid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2017,12506784.2817185,40,309,city_1108_oklahoma_guymon,524.2562515735626,14.825520833333332,21.11763354707312,dry subhumid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2018,12506784.2817185,21,103,city_1108_oklahoma_guymon,418.9812455177307,14.307291666666668,17.23685432599192,semiarid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2019,12506784.2817185,7,11,city_1108_oklahoma_guymon,480.0874996185303,13.776041666666668,20.19207008253183,dry subhumid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2020,12506784.2817185,14,19,city_1108_oklahoma_guymon,354.318754196167,14.598958333333332,14.40381130757232,semiarid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2021,12506784.2817185,17,37,city_1108_oklahoma_guymon,395.562504529953,14.575520833333332,16.095793338932072,semiarid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2022,12506784.2817185,10,17,city_1108_oklahoma_guymon,320.6312520503998,14.307291666666668,13.1907436026734,semiarid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2023,12506784.2817185,18,43,city_1108_oklahoma_guymon,476.0624985694885,14.752604166666668,19.232824771244985,semiarid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2024,12506784.2817185,19,38,city_1108_oklahoma_guymon,413.2812476158142,15.5234375,16.19222518972275,semiarid,12
+1108,"Guymon, OK",Guymon,Oklahoma,Texas,2025,12506784.2817185,19,65,city_1108_oklahoma_guymon,NA,NA,NA,NA,NA

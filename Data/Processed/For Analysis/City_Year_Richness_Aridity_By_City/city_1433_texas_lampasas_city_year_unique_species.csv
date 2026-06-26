@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2015,8194830.24666317,67,276,city_1433_texas_lampasas,1097.0187397003174,19.041666666666668,37.773959473181655,humid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2016,8194830.24666317,75,485,city_1433_texas_lampasas,1061.3749933242798,19.716145833333332,35.71711483976193,humid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2017,8194830.24666317,69,276,city_1433_texas_lampasas,676.2749996185303,19.640625,22.815814430988897,dry subhumid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2018,8194830.24666317,76,330,city_1433_texas_lampasas,796.2124910354614,19.044270833333332,27.413753838215477,dry subhumid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2019,8194830.24666317,100,575,city_1433_texas_lampasas,661.1562395095825,18.997395833333332,22.800538479719776,dry subhumid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2020,8194830.24666317,80,533,city_1433_texas_lampasas,675.018741607666,19.596354166666668,22.80749641683623,dry subhumid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2021,8194830.24666317,88,688,city_1433_texas_lampasas,779.4874868392944,18.942708333333332,26.932085203013234,dry subhumid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2022,8194830.24666317,80,523,city_1433_texas_lampasas,427.5500011444092,19.3203125,14.58204107287087,semiarid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2023,8194830.24666317,86,369,city_1433_texas_lampasas,635.2249946594238,20.140625,21.075375665216757,dry subhumid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2024,8194830.24666317,71,334,city_1433_texas_lampasas,668.3999919891357,20.479166666666668,21.92973316163945,dry subhumid,12
+1433,"Lampasas, TX",Lampasas,Texas,Lampasas,2025,8194830.24666317,68,334,city_1433_texas_lampasas,NA,NA,NA,NA,NA

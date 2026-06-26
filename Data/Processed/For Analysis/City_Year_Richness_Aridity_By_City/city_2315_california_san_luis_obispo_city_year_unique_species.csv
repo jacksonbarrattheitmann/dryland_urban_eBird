@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2015,52884423.8604356,133,2051,city_2315_california_san_luis_obispo,276.4999997615814,16.145833333333332,10.57529879566208,semiarid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2016,52884423.8604356,142,1693,city_2315_california_san_luis_obispo,545.7437410354614,15.739583333333334,21.20250875734694,dry subhumid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2017,52884423.8604356,129,1840,city_2315_california_san_luis_obispo,642.9625169038773,15.893229166666666,24.831299053715064,dry subhumid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2018,52884423.8604356,149,3031,city_2315_california_san_luis_obispo,406.1874977350235,15.755208333333334,15.771081812967545,semiarid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2019,52884423.8604356,149,4729,city_2315_california_san_luis_obispo,702.2499943971634,15.125,27.950248533220435,dry subhumid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2020,52884423.8604356,175,13815,city_2315_california_san_luis_obispo,296.56249886751175,15.989583333333334,11.410821599711872,semiarid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2021,52884423.8604356,176,11704,city_2315_california_san_luis_obispo,500.8874881267547,15.510416666666666,19.634625912686182,semiarid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2022,52884423.8604356,170,13898,city_2315_california_san_luis_obispo,337.0499982237816,15.388020833333334,13.275946180934673,semiarid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2023,52884423.8604356,170,12434,city_2315_california_san_luis_obispo,774.6437541246414,14.75,31.298737540389553,humid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2024,52884423.8604356,167,12135,city_2315_california_san_luis_obispo,658.7625071406364,15.5546875,25.778538952614326,dry subhumid,12
+2315,"San Luis Obispo, CA",San Luis Obispo,California,San Luis Obispo,2025,52884423.8604356,169,10678,city_2315_california_san_luis_obispo,NA,NA,NA,NA,NA

@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+743,"Dimmitt, TX",Dimmitt,Texas,Castro,2015,5470328.8678283,7,7,city_0743_texas_dimmitt,678.9874973297119,14.3046875,27.936483335970145,dry subhumid,12
+743,"Dimmitt, TX",Dimmitt,Texas,Castro,2016,5470328.8678283,5,5,city_0743_texas_dimmitt,456.2999978065491,15.033854166666666,18.227317087039932,semiarid,12
+743,"Dimmitt, TX",Dimmitt,Texas,Castro,2017,5470328.8678283,11,11,city_0743_texas_dimmitt,497.74374413490295,14.880208333333334,20.005609979883054,dry subhumid,12
+743,"Dimmitt, TX",Dimmitt,Texas,Castro,2019,5470328.8678283,9,9,city_0743_texas_dimmitt,412.5562496185303,14.078125,17.134068770659272,semiarid,12
+743,"Dimmitt, TX",Dimmitt,Texas,Castro,2020,5470328.8678283,6,6,city_0743_texas_dimmitt,268.8312497138977,14.635416666666666,10.91238899472904,semiarid,12
+743,"Dimmitt, TX",Dimmitt,Texas,Castro,2022,5470328.8678283,1,1,city_0743_texas_dimmitt,349.6499973535538,14.453125,14.298785834266736,semiarid,12
+743,"Dimmitt, TX",Dimmitt,Texas,Castro,2023,5470328.8678283,24,60,city_0743_texas_dimmitt,344.2937569618225,15.158854166666666,13.684794811441863,semiarid,12

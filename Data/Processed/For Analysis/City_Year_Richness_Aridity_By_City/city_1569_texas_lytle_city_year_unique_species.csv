@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2016,11085995.1455893,11,12,city_1569_texas_lytle,1005.2625122070312,21.7421875,31.669604125646075,humid,12
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2018,11085995.1455893,4,8,city_1569_texas_lytle,740.4312353134155,21.138020833333332,23.779007640741955,dry subhumid,12
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2019,11085995.1455893,8,9,city_1569_texas_lytle,507.9999990463257,21.200520833333332,16.281779453617318,semiarid,12
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2020,11085995.1455893,61,113,city_1569_texas_lytle,507.743748664856,21.578125,16.07897076425076,semiarid,12
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2021,11085995.1455893,20,23,city_1569_texas_lytle,693.3562507629395,21.203125,22.220731121095707,dry subhumid,12
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2022,11085995.1455893,16,29,city_1569_texas_lytle,379.0437450408935,21.510416666666668,12.02915686741348,semiarid,12
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2023,11085995.1455893,32,43,city_1569_texas_lytle,619.0937461853027,22.294270833333332,19.17038936659594,semiarid,12
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2024,11085995.1455893,19,20,city_1569_texas_lytle,540.181248664856,22.5390625,16.601008362329306,semiarid,12
+1569,"Lytle, TX",Lytle,Texas,Atascosa,2025,11085995.1455893,5,5,city_1569_texas_lytle,NA,NA,NA,NA,NA

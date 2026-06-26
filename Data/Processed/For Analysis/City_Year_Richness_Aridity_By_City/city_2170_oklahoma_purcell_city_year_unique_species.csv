@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2016,10491167.6236093,7,7,city_2170_oklahoma_purcell,870.1437559127808,17.606770833333332,31.519215382558983,humid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2017,10491167.6236093,14,14,city_2170_oklahoma_purcell,928.8437595367432,17.328125,33.98856524319701,humid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2018,10491167.6236093,20,103,city_2170_oklahoma_purcell,983.7312717437744,16.5078125,37.11099404161601,humid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2019,10491167.6236093,4,4,city_2170_oklahoma_purcell,1175.106252670288,16.203125,44.84603468747671,humid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2020,10491167.6236093,2,2,city_2170_oklahoma_purcell,991.0750007629396,16.6015625,37.25627021957599,humid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2021,10491167.6236093,18,31,city_2170_oklahoma_purcell,880.418758392334,16.729166666666668,32.93850382138116,humid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2022,10491167.6236093,15,21,city_2170_oklahoma_purcell,801.51251220703125,16.7890625,29.919393864829395,dry subhumid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2023,10491167.6236093,19,29,city_2170_oklahoma_purcell,912.2187480926514,17.546875,33.11514457057838,humid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2024,10491167.6236093,21,37,city_2170_oklahoma_purcell,859.1187477111816,17.9375,30.751454056776076,humid,12
+2170,"Purcell, OK",Purcell,Oklahoma,McClain,2025,10491167.6236093,29,80,city_2170_oklahoma_purcell,NA,NA,NA,NA,NA

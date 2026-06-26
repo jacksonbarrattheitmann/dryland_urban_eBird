@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+79,"Antioch, CA",Antioch,California,Contra Costa,2015,212401039.222226,178,3531,city_0079_california_antioch,232.4312505722046,17.640625,8.409044678700448,arid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2016,212401039.222226,191,7559,city_0079_california_antioch,432.4312536120415,17.091145833333332,15.962087992600589,semiarid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2017,212401039.222226,161,3718,city_0079_california_antioch,463.5374973416328,17.166666666666668,17.062729963495688,semiarid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2018,212401039.222226,189,5281,city_0079_california_antioch,346.0875014066696,16.9765625,12.829192059094616,semiarid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2019,212401039.222226,184,5054,city_0079_california_antioch,438.806243956089,16.833333333333332,16.35302772507164,semiarid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2020,212401039.222226,202,10925,city_0079_california_antioch,157.99999856948853,17.354166666666668,5.7760852485418495,arid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2021,212401039.222226,204,11111,city_0079_california_antioch,370.1125019192696,16.921875,13.747649519926435,semiarid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2022,212401039.222226,210,12247,city_0079_california_antioch,250.13125425577164,16.963541666666668,9.276646864421124,arid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2023,212401039.222226,207,11755,city_0079_california_antioch,444.7749962210655,16.575520833333332,16.736266393815693,semiarid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2024,212401039.222226,216,11060,city_0079_california_antioch,438.3875073194504,17.260416666666668,16.08146759750372,semiarid,12
+79,"Antioch, CA",Antioch,California,Contra Costa,2025,212401039.222226,189,8765,city_0079_california_antioch,NA,NA,NA,NA,NA

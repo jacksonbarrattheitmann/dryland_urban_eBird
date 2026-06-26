@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2015,18897241.0975528,13,14,city_0022_colorado_alamosa,300.17500019073486,6.721354166666666,17.951596335966702,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2016,18897241.0975528,15,17,city_0022_colorado_alamosa,206.64999771118164,6.861979166666666,12.255382103643823,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2017,18897241.0975528,29,39,city_0022_colorado_alamosa,215.72500157356265,7.184895833333334,12.553174815009552,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2018,18897241.0975528,22,42,city_0022_colorado_alamosa,205.7562484741211,6.744791666666666,12.287775958641138,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2019,18897241.0975528,24,38,city_0022_colorado_alamosa,203.00625038146973,5.875,12.78779529962014,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2020,18897241.0975528,29,41,city_0022_colorado_alamosa,142.73125076293945,6.9375,8.42693731441709,arid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2021,18897241.0975528,40,98,city_0022_colorado_alamosa,204.31250047683716,6.854166666666666,12.122373328662777,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2022,18897241.0975528,33,96,city_0022_colorado_alamosa,196.67499995231628,6.442708333333334,11.96122901198756,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2023,18897241.0975528,66,184,city_0022_colorado_alamosa,197.7687511444092,6.651041666666666,11.877259999914472,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2024,18897241.0975528,61,224,city_0022_colorado_alamosa,212.3624985218048,7.497395833333334,12.136805987851323,semiarid,12
+22,"Alamosa, CO",Alamosa,Colorado,Alamosa,2025,18897241.0975528,42,134,city_0022_colorado_alamosa,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+9,"Abilene, TX",Abilene,Texas,Taylor,2015,142756997.989802,60,491,city_0009_texas_abilene,937.1249980926514,18.8125,32.52494570386642,humid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2016,142756997.989802,100,744,city_0009_texas_abilene,808.618748664856,19.481770833333332,27.42775368671537,dry subhumid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2017,142756997.989802,75,1899,city_0009_texas_abilene,628.3562545776367,19.3671875,21.39654178928904,dry subhumid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2018,142756997.989802,86,1616,city_0009_texas_abilene,650.1812509298325,18.6640625,22.682801885805,dry subhumid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2019,142756997.989802,167,2853,city_0009_texas_abilene,589.5562586784363,18.591145833333332,20.62023894093447,dry subhumid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2020,142756997.989802,122,3918,city_0009_texas_abilene,507.5124969482422,19.158854166666668,17.405090544621327,semiarid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2021,142756997.989802,156,4065,city_0009_texas_abilene,618.1000008583069,18.609375,21.60480614687692,dry subhumid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2022,142756997.989802,147,4679,city_0009_texas_abilene,369.8187522888184,19.145833333333332,12.688563338000916,semiarid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2023,142756997.989802,141,2664,city_0009_texas_abilene,485.6874933242798,19.848958333333332,16.271505621752176,semiarid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2024,142756997.989802,128,2587,city_0009_texas_abilene,572.318751335144,20.200520833333332,18.95062520588905,semiarid,12
+9,"Abilene, TX",Abilene,Texas,Taylor,2025,142756997.989802,119,3290,city_0009_texas_abilene,NA,NA,NA,NA,NA

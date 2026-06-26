@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+303,"Breckenridge, TX",Breckenridge,Texas,Stephens,2016,9702464.22013963,6,6,city_0303_texas_breckenridge,889.4312534332275,19.174479166666668,30.48661977312857,humid,12
+303,"Breckenridge, TX",Breckenridge,Texas,Stephens,2017,9702464.22013963,10,10,city_0303_texas_breckenridge,694.0749988555908,19.307291666666668,23.682672788390516,dry subhumid,12
+303,"Breckenridge, TX",Breckenridge,Texas,Stephens,2019,9702464.22013963,1,1,city_0303_texas_breckenridge,751.6312599182129,18.315104166666668,26.54524085428067,dry subhumid,12
+303,"Breckenridge, TX",Breckenridge,Texas,Stephens,2020,9702464.22013963,37,63,city_0303_texas_breckenridge,690.63751220703125,18.838541666666668,23.948420145159833,dry subhumid,12
+303,"Breckenridge, TX",Breckenridge,Texas,Stephens,2021,9702464.22013963,24,43,city_0303_texas_breckenridge,719.7437529563904,18.4140625,25.33054725829474,dry subhumid,12
+303,"Breckenridge, TX",Breckenridge,Texas,Stephens,2022,9702464.22013963,9,12,city_0303_texas_breckenridge,437.94374561309814,18.8671875,15.17098766941179,semiarid,12
+303,"Breckenridge, TX",Breckenridge,Texas,Stephens,2023,9702464.22013963,16,29,city_0303_texas_breckenridge,644.2249927520752,19.395833333333332,21.91552066059505,dry subhumid,12
+303,"Breckenridge, TX",Breckenridge,Texas,Stephens,2024,9702464.22013963,19,35,city_0303_texas_breckenridge,716.0500030517578,19.994791666666668,23.87247796248263,dry subhumid,12

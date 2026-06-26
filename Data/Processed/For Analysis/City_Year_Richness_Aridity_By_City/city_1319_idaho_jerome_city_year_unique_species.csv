@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1319,"Jerome, ID",Jerome,Idaho,Jerome,2018,11356705.4059666,9,9,city_1319_idaho_jerome,247.8187479972839,10.8046875,11.91167846175454,semiarid,12
+1319,"Jerome, ID",Jerome,Idaho,Jerome,2019,11356705.4059666,16,20,city_1319_idaho_jerome,311.97500491142273,9.856770833333334,15.71126582111296,semiarid,12
+1319,"Jerome, ID",Jerome,Idaho,Jerome,2020,11356705.4059666,10,10,city_1319_idaho_jerome,274.31250262260437,10.8828125,13.135802594722543,semiarid,12
+1319,"Jerome, ID",Jerome,Idaho,Jerome,2021,11356705.4059666,15,25,city_1319_idaho_jerome,262.2624979019165,11.25,12.341764607149011,semiarid,12
+1319,"Jerome, ID",Jerome,Idaho,Jerome,2022,11356705.4059666,6,6,city_1319_idaho_jerome,253.3187495470047,10.315104166666668,12.46947824971796,semiarid,12
+1319,"Jerome, ID",Jerome,Idaho,Jerome,2023,11356705.4059666,14,19,city_1319_idaho_jerome,298.4937493801117,10.591145833333332,14.4962185104291,semiarid,12
+1319,"Jerome, ID",Jerome,Idaho,Jerome,2024,11356705.4059666,12,20,city_1319_idaho_jerome,318.14374923706055,11.463541666666668,14.822518770569188,semiarid,12
+1319,"Jerome, ID",Jerome,Idaho,Jerome,2025,11356705.4059666,18,44,city_1319_idaho_jerome,NA,NA,NA,NA,NA

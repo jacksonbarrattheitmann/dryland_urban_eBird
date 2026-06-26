@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2579,"Tooele, UT",Tooele,Utah,Tooele,2015,23804823.9113545,32,93,city_2579_utah_tooele,481.7562503814697,10.809895833333332,23.15034415548547,dry subhumid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2016,23804823.9113545,41,125,city_2579_utah_tooele,479.743745803833,10.276041666666668,23.660621421612102,dry subhumid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2017,23804823.9113545,23,44,city_2579_utah_tooele,446.2812495231629,10.140625,22.158262195098853,dry subhumid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2018,23804823.9113545,24,76,city_2579_utah_tooele,385.1437530517578,10.111979166666668,19.149967780897967,semiarid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2019,23804823.9113545,13,39,city_2579_utah_tooele,591.5812454223633,8.994791666666666,31.14439241050007,humid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2021,23804823.9113545,20,78,city_2579_utah_tooele,467.9375023841858,10.755208333333332,22.545545911609455,dry subhumid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2022,23804823.9113545,25,110,city_2579_utah_tooele,428.6250023841858,9.7109375,21.745541143549655,dry subhumid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2023,23804823.9113545,24,59,city_2579_utah_tooele,520.2812519073486,9.455729166666668,26.741801731016174,dry subhumid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2024,23804823.9113545,42,347,city_2579_utah_tooele,472.06249809265137,10.9140625,22.57153520951041,dry subhumid,12
+2579,"Tooele, UT",Tooele,Utah,Tooele,2025,23804823.9113545,48,563,city_2579_utah_tooele,NA,NA,NA,NA,NA

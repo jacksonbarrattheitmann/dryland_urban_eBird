@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2015,23823251.0468785,26,33,city_0090_kansas_arkansas_city,1108.9312419891355,15.2265625,43.95887239845444,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2016,23823251.0468785,13,13,city_0090_kansas_arkansas_city,917.96875,15.981770833333332,35.331261902375466,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2017,23823251.0468785,90,651,city_0090_kansas_arkansas_city,939.0687589645386,15.591145833333332,36.695064968187936,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2018,23823251.0468785,128,1652,city_0090_kansas_arkansas_city,923.5500030517578,14.768229166666668,37.28768806349227,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2019,23823251.0468785,82,263,city_0090_kansas_arkansas_city,1110.1250324249268,14.463541666666668,45.37875372058461,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2020,23823251.0468785,103,1122,city_0090_kansas_arkansas_city,868.4187488555908,15.223958333333334,34.42832950243102,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2021,23823251.0468785,97,926,city_0090_kansas_arkansas_city,825.1687526702881,15.466145833333332,32.40257705546484,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2022,23823251.0468785,98,397,city_0090_kansas_arkansas_city,719.087498664856,15.143229166666668,28.599647797752944,dry subhumid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2023,23823251.0468785,92,583,city_0090_kansas_arkansas_city,834.737491607666,15.932291666666668,32.18911395635105,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2024,23823251.0468785,98,765,city_0090_kansas_arkansas_city,795.7562484741211,16.263020833333332,30.299494240363163,humid,12
+90,"Arkansas City, KS",Arkansas City,Kansas,Cowley,2025,23823251.0468785,66,151,city_0090_kansas_arkansas_city,NA,NA,NA,NA,NA

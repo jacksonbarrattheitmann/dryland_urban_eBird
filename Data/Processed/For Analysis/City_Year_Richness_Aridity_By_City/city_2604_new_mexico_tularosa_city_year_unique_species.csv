@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2015,4920781.74262681,3,3,city_2604_new_mexico_tularosa,332.9750003814697,16.934895833333332,12.362216005654489,semiarid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2017,4920781.74262681,42,78,city_2604_new_mexico_tularosa,242.5375018119812,17.661458333333332,8.768066343042815,arid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2018,4920781.74262681,17,25,city_2604_new_mexico_tularosa,238.24374425411224,17.265625,8.737879445423028,arid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2019,4920781.74262681,23,50,city_2604_new_mexico_tularosa,227.1375036239624,16.747395833333332,8.491948339168685,arid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2020,4920781.74262681,104,906,city_2604_new_mexico_tularosa,129.39375114440918,17.5859375,4.69056928532551,extremely arid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2021,4920781.74262681,94,785,city_2604_new_mexico_tularosa,236.0625023841858,17.1875,8.682758708383846,arid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2022,4920781.74262681,67,336,city_2604_new_mexico_tularosa,233.49375212192535,16.984375,8.65292422455311,arid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2023,4920781.74262681,70,451,city_2604_new_mexico_tularosa,140.487499833107,17.552083333333332,5.098979199991785,arid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2024,4920781.74262681,79,687,city_2604_new_mexico_tularosa,221.375,18.0703125,7.88644586696354,arid,12
+2604,"Tularosa, NM",Tularosa,New Mexico,Otero,2025,4920781.74262681,84,1084,city_2604_new_mexico_tularosa,NA,NA,NA,NA,NA

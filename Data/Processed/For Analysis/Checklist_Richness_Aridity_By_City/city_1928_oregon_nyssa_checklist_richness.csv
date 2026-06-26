@@ -1,0 +1,8 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+S46934503,2018-07-01,2018,1928,"Nyssa, OR",Nyssa,Oregon,Malheur,4505459.49753055,20,NA,1,43.8763712,-116.9849861,7,7,city_1928_oregon_nyssa,280.0937488079071,11.3359375,13.127791961703446,semiarid,12
+S75725883,2020-11-01,2020,1928,"Nyssa, OR",Nyssa,Oregon,Malheur,4505459.49753055,78,7.226,1,43.8757647,-117.0007226,12,12,city_1928_oregon_nyssa,338.2749960422516,11.6875,15.597694342005838,semiarid,12
+S83041248,2021-03-06,2021,1928,"Nyssa, OR",Nyssa,Oregon,Malheur,4505459.49753055,15,NA,1,43.8764204,-116.9971038,19,19,city_1928_oregon_nyssa,275.9312505722046,12.203125,12.427586232667906,semiarid,12
+S111456880,2022-05-27,2022,1928,"Nyssa, OR",Nyssa,Oregon,Malheur,4505459.49753055,5,0.031,1,43.881937,-116.996335,13,13,city_1928_oregon_nyssa,320.93749475479126,11.125,15.192307444013789,semiarid,12
+S136855740,2023-05-09,2023,1928,"Nyssa, OR",Nyssa,Oregon,Malheur,4505459.49753055,15,NA,1,43.8762298,-116.9850107,7,7,city_1928_oregon_nyssa,300.78125190734863,11.705729166666668,13.857228642162193,semiarid,12
+S256817182,2025-07-04,2025,1928,"Nyssa, OR",Nyssa,Oregon,Malheur,4505459.49753055,5,NA,1,43.8761067,-116.9851699,7,7,city_1928_oregon_nyssa,NA,NA,NA,NA,NA
+S286268539,2025-05-29,2025,1928,"Nyssa, OR",Nyssa,Oregon,Malheur,4505459.49753055,64,0.5,1,43.8751837,-116.9850286,1,1,city_1928_oregon_nyssa,NA,NA,NA,NA,NA

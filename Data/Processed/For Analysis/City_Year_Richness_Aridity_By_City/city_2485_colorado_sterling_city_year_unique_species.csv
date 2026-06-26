@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2485,"Sterling, CO",Sterling,Colorado,Logan,2015,16794550.3828077,24,26,city_2485_colorado_sterling,475.1749973297119,10.768229166666668,22.879899557944743,dry subhumid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2016,16794550.3828077,25,26,city_2485_colorado_sterling,436.16249561309814,11.182291666666668,20.59090217794808,dry subhumid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2017,16794550.3828077,43,79,city_2485_colorado_sterling,454.5812454223633,10.856770833333332,21.795379977798415,dry subhumid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2018,16794550.3828077,41,139,city_2485_colorado_sterling,437.9124975204468,10.122395833333332,21.762443257131043,dry subhumid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2019,16794550.3828077,39,73,city_2485_colorado_sterling,540.8249959945679,9.424479166666668,27.842445161806417,dry subhumid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2020,16794550.3828077,56,207,city_2485_colorado_sterling,288.91250371932983,10.963541666666668,13.781664773692254,semiarid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2021,16794550.3828077,66,219,city_2485_colorado_sterling,420.6562497615814,11.052083333333332,19.981692220243353,semiarid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2022,16794550.3828077,76,325,city_2485_colorado_sterling,297.4062466621399,10.346354166666668,14.617176336651951,semiarid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2023,16794550.3828077,74,297,city_2485_colorado_sterling,505.1750011444092,10.447916666666668,24.70545089651721,dry subhumid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2024,16794550.3828077,77,395,city_2485_colorado_sterling,364.4437518119812,11.6328125,16.846803984085806,semiarid,12
+2485,"Sterling, CO",Sterling,Colorado,Logan,2025,16794550.3828077,66,300,city_2485_colorado_sterling,NA,NA,NA,NA,NA

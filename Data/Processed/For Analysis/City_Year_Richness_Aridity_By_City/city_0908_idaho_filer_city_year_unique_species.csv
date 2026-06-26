@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+908,"Filer, ID",Filer,Idaho,Twin Falls,2016,2872355.13204438,11,11,city_0908_idaho_filer,231.5,10.8828125,11.085671530115974,semiarid,12
+908,"Filer, ID",Filer,Idaho,Twin Falls,2017,2872355.13204438,7,7,city_0908_idaho_filer,283.44374990463257,10.4453125,13.863507828732509,semiarid,12
+908,"Filer, ID",Filer,Idaho,Twin Falls,2020,2872355.13204438,2,2,city_0908_idaho_filer,258.5749990940094,10.786458333333332,12.439589031834078,semiarid,12
+908,"Filer, ID",Filer,Idaho,Twin Falls,2022,2872355.13204438,6,6,city_0908_idaho_filer,240.7249995470047,10.270833333333332,11.875436771075258,semiarid,12

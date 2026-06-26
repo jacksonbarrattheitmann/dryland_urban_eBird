@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2884,"Yuma, CO",Yuma,Colorado,Yuma,2015,3956112.34043064,14,14,city_2884_colorado_yuma,465.84374380111694,10.888020833333332,22.301957065157577,dry subhumid,12
+2884,"Yuma, CO",Yuma,Colorado,Yuma,2016,3956112.34043064,37,69,city_2884_colorado_yuma,444.2499957084656,11.234375,20.921265434394257,dry subhumid,12
+2884,"Yuma, CO",Yuma,Colorado,Yuma,2017,3956112.34043064,13,15,city_2884_colorado_yuma,479.6874976158142,10.8671875,22.98764496249503,dry subhumid,12
+2884,"Yuma, CO",Yuma,Colorado,Yuma,2018,3956112.34043064,21,27,city_2884_colorado_yuma,427.0937452316284,10.393229166666668,20.942918933590256,dry subhumid,12
+2884,"Yuma, CO",Yuma,Colorado,Yuma,2019,3956112.34043064,7,7,city_2884_colorado_yuma,526.9312510490417,9.6484375,26.817972220388604,dry subhumid,12
+2884,"Yuma, CO",Yuma,Colorado,Yuma,2023,3956112.34043064,43,72,city_2884_colorado_yuma,498.1124997138977,10.5859375,24.196736228986303,dry subhumid,12
+2884,"Yuma, CO",Yuma,Colorado,Yuma,2024,3956112.34043064,24,35,city_2884_colorado_yuma,389.45624566078186,11.53125,18.087953354346908,semiarid,12
+2884,"Yuma, CO",Yuma,Colorado,Yuma,2025,3956112.34043064,26,33,city_2884_colorado_yuma,NA,NA,NA,NA,NA

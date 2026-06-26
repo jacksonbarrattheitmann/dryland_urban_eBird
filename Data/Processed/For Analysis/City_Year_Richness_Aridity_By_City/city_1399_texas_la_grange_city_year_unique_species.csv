@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1399,"La Grange, TX",La Grange,Texas,Fayette,2015,9501007.29964191,44,92,city_1399_texas_la_grange,1358.4687385559082,20.963541666666668,43.87317036210839,humid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2016,9501007.29964191,46,90,city_1399_texas_la_grange,1304.2249908447266,21.6015625,41.27090205886898,humid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2017,9501007.29964191,75,366,city_1399_texas_la_grange,911.2062492370604,21.705729166666668,28.73948252213809,dry subhumid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2018,9501007.29964191,51,133,city_1399_texas_la_grange,959.9624996185304,21.119791666666668,30.847330531674945,humid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2019,9501007.29964191,40,73,city_1399_texas_la_grange,1002.4687604904176,21.143229166666668,32.188979348467285,humid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2020,9501007.29964191,66,343,city_1399_texas_la_grange,821.0687561035156,21.533854166666668,26.037691167210337,dry subhumid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2021,9501007.29964191,52,184,city_1399_texas_la_grange,999.5999908447266,20.9296875,32.318463962648394,humid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2022,9501007.29964191,38,76,city_1399_texas_la_grange,612.4375038146973,21.263020833333332,19.589837689699603,semiarid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2023,9501007.29964191,64,212,city_1399_texas_la_grange,742.0687561035156,22.015625,23.17833108376037,dry subhumid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2024,9501007.29964191,46,104,city_1399_texas_la_grange,874.1937570571899,22.3359375,27.0347429097174,dry subhumid,12
+1399,"La Grange, TX",La Grange,Texas,Fayette,2025,9501007.29964191,49,143,city_1399_texas_la_grange,NA,NA,NA,NA,NA

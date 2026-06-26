@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2015,26909174.033622,107,410,city_1257_utah_hurricane,367.7124938964844,16.4375,13.90874681405142,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2016,26909174.033622,114,606,city_1257_utah_hurricane,311.9437503814697,16.078125,11.961893363938923,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2017,26909174.033622,127,970,city_1257_utah_hurricane,281.9687485694885,16.325520833333332,10.710851661953072,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2018,26909174.033622,126,976,city_1257_utah_hurricane,279.73125410079956,16.221354166666668,10.66807047121929,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2019,26909174.033622,108,873,city_1257_utah_hurricane,445.1437494754791,15.122395833333334,17.719000704735564,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2020,26909174.033622,111,826,city_1257_utah_hurricane,266.8249988555908,16.239583333333332,10.168797098109058,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2021,26909174.033622,130,1101,city_1257_utah_hurricane,269.5874991416931,16.192708333333332,10.292463677710296,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2022,26909174.033622,136,1514,city_1257_utah_hurricane,280.69375228881836,15.598958333333332,10.965045867640514,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2023,26909174.033622,135,1593,city_1257_utah_hurricane,353.2437491416931,15.252604166666668,13.988408752233696,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2024,26909174.033622,139,1791,city_1257_utah_hurricane,314.38125228881836,16.442708333333332,11.889147220691967,semiarid,12
+1257,"Hurricane, UT",Hurricane,Utah,Washington,2025,26909174.033622,146,1967,city_1257_utah_hurricane,NA,NA,NA,NA,NA

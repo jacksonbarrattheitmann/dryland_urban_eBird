@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2399,"Sidney, MT",Sidney,Montana,Richland,2017,10296942.4497047,9,9,city_2399_montana_sidney,330.16250228881836,7.859375,18.48678927951389,semiarid,12
+2399,"Sidney, MT",Sidney,Montana,Richland,2018,10296942.4497047,18,35,city_2399_montana_sidney,407.69374799728394,6.401041666666667,24.857796003645127,dry subhumid,12
+2399,"Sidney, MT",Sidney,Montana,Richland,2019,10296942.4497047,11,18,city_2399_montana_sidney,492.53124475479126,5.817708333333333,31.137964765531752,humid,12
+2399,"Sidney, MT",Sidney,Montana,Richland,2020,10296942.4497047,34,66,city_2399_montana_sidney,299.6312475204468,7.955729166666667,16.68722248699805,semiarid,12
+2399,"Sidney, MT",Sidney,Montana,Richland,2021,10296942.4497047,5,5,city_2399_montana_sidney,322.08749771118164,8.846354166666668,17.090175365634067,semiarid,12
+2399,"Sidney, MT",Sidney,Montana,Richland,2022,10296942.4497047,19,48,city_2399_montana_sidney,369.88750076293945,7.044270833333333,21.701573765159473,dry subhumid,12
+2399,"Sidney, MT",Sidney,Montana,Richland,2023,10296942.4497047,20,29,city_2399_montana_sidney,427.10624837875366,8.283854166666668,23.359749234787262,dry subhumid,12
+2399,"Sidney, MT",Sidney,Montana,Richland,2024,10296942.4497047,28,35,city_2399_montana_sidney,368.193754196167,8.8671875,19.51503127830616,semiarid,12
+2399,"Sidney, MT",Sidney,Montana,Richland,2025,10296942.4497047,21,27,city_2399_montana_sidney,NA,NA,NA,NA,NA

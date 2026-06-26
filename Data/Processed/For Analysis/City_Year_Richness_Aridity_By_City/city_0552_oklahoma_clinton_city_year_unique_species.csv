@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2015,9159150.19888976,13,13,city_0552_oklahoma_clinton,910.812494277954,16.151041666666668,34.82891832331551,humid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2016,9159150.19888976,14,20,city_0552_oklahoma_clinton,683.768753528595,16.7421875,25.568916287367852,dry subhumid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2017,9159150.19888976,13,23,city_0552_oklahoma_clinton,711.5687460899353,16.471354166666668,26.880708165128887,dry subhumid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2018,9159150.19888976,8,8,city_0552_oklahoma_clinton,684.4187564849854,15.8359375,26.49095882373091,dry subhumid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2019,9159150.19888976,13,17,city_0552_oklahoma_clinton,836.1624965667725,15.497395833333332,32.79403520392612,humid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2020,9159150.19888976,5,5,city_0552_oklahoma_clinton,623.8187465667725,16.169270833333332,23.837834479215907,dry subhumid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2021,9159150.19888976,5,7,city_0552_oklahoma_clinton,639.0187423229218,16.0390625,24.54077378257845,dry subhumid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2022,9159150.19888976,19,19,city_0552_oklahoma_clinton,529.3000049591064,16.140625,20.24817711738363,dry subhumid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2023,9159150.19888976,10,16,city_0552_oklahoma_clinton,694.7124996185303,16.520833333333332,26.19497249150782,dry subhumid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2024,9159150.19888976,15,23,city_0552_oklahoma_clinton,599.0812492370605,17.2421875,21.990937740849944,dry subhumid,12
+552,"Clinton, OK",Clinton,Oklahoma,Custer,2025,9159150.19888976,13,17,city_0552_oklahoma_clinton,NA,NA,NA,NA,NA

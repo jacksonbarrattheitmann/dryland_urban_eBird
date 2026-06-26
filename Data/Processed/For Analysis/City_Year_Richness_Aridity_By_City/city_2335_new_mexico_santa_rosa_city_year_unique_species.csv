@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2015,5649712.76199634,14,16,city_2335_new_mexico_santa_rosa,551.2812547683716,14.825520833333334,22.20623117917284,dry subhumid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2016,5649712.76199634,35,63,city_2335_new_mexico_santa_rosa,345.63124895095825,15.2421875,13.692602867756936,semiarid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2017,5649712.76199634,59,101,city_2335_new_mexico_santa_rosa,395.4249987602234,15.46875,15.525889521873802,semiarid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2018,5649712.76199634,25,36,city_2335_new_mexico_santa_rosa,343.0812542438507,14.953125,13.749029600254506,semiarid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2019,5649712.76199634,29,41,city_2335_new_mexico_santa_rosa,331.95624828338623,14.424479166666666,13.591129047960372,semiarid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2020,5649712.76199634,50,104,city_2335_new_mexico_santa_rosa,235.61249685287476,15.309895833333334,9.309105750746362,arid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2021,5649712.76199634,55,140,city_2335_new_mexico_santa_rosa,304.6749978065491,15.052083333333332,12.161663114107572,semiarid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2022,5649712.76199634,88,239,city_2335_new_mexico_santa_rosa,323.2124991416931,14.815104166666668,13.024829433351888,semiarid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2023,5649712.76199634,110,485,city_2335_new_mexico_santa_rosa,265.98125076293945,15.294270833333332,10.515474137029626,semiarid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2024,5649712.76199634,121,641,city_2335_new_mexico_santa_rosa,363.625,15.8828125,14.04889827950498,semiarid,12
+2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,2025,5649712.76199634,103,583,city_2335_new_mexico_santa_rosa,NA,NA,NA,NA,NA

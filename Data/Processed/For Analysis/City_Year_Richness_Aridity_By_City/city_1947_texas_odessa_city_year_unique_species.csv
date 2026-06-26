@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1947,"Odessa, TX",Odessa,Texas,Ector,2015,152830933.70960101,74,168,city_1947_texas_odessa,551.1624908447266,18.416666666666668,19.3957474784068,semiarid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2016,152830933.70960101,38,81,city_1947_texas_odessa,366.55000162124634,19.221354166666668,12.543908798017876,semiarid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2017,152830933.70960101,24,36,city_1947_texas_odessa,362.38750553131104,19.3984375,12.326760751530111,semiarid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2018,152830933.70960101,67,330,city_1947_texas_odessa,379.41874837875366,18.59375,13.269289560787014,semiarid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2019,152830933.70960101,101,328,city_1947_texas_odessa,338.8562476634979,18.3984375,11.932214498191948,semiarid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2020,152830933.70960101,84,292,city_1947_texas_odessa,204.3999981880188,19.03125,7.04068885039462,arid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2021,152830933.70960101,106,993,city_1947_texas_odessa,350.70000648498535,18.416666666666668,12.341349201817666,semiarid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2022,152830933.70960101,113,1768,city_1947_texas_odessa,249.01874828338623,18.8359375,8.635708420556336,arid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2023,152830933.70960101,101,483,city_1947_texas_odessa,227.2812533378601,19.510416666666668,7.701729728356714,arid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2024,152830933.70960101,73,429,city_1947_texas_odessa,352.8437559604645,19.971354166666668,11.7726998252514,semiarid,12
+1947,"Odessa, TX",Odessa,Texas,Ector,2025,152830933.70960101,90,388,city_1947_texas_odessa,NA,NA,NA,NA,NA

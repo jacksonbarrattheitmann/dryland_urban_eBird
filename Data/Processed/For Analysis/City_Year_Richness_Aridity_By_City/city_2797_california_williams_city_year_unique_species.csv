@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2797,"Williams, CA",Williams,California,Colusa,2016,4991145.89478298,22,34,city_2797_california_williams,496.2312559485435,17.731770833333332,17.89396208885724,semiarid,12
+2797,"Williams, CA",Williams,California,Colusa,2017,4991145.89478298,20,50,city_2797_california_williams,516.4062376618385,17.75,18.609233789615804,semiarid,12
+2797,"Williams, CA",Williams,California,Colusa,2018,4991145.89478298,56,155,city_2797_california_williams,392.00000232458115,17.596354166666668,14.204775020537808,semiarid,12
+2797,"Williams, CA",Williams,California,Colusa,2019,4991145.89478298,68,101,city_2797_california_williams,501.6000096797943,17.380208333333332,18.31980252206972,semiarid,12
+2797,"Williams, CA",Williams,California,Colusa,2020,4991145.89478298,36,84,city_2797_california_williams,180.74999803304672,17.861979166666668,6.487335194381712,arid,12
+2797,"Williams, CA",Williams,California,Colusa,2021,4991145.89478298,24,50,city_2797_california_williams,410.53750014305115,17.3828125,14.992524969560783,semiarid,12
+2797,"Williams, CA",Williams,California,Colusa,2022,4991145.89478298,42,89,city_2797_california_williams,277.7249993085861,17.591145833333332,10.065729092448992,semiarid,12
+2797,"Williams, CA",Williams,California,Colusa,2023,4991145.89478298,34,78,city_2797_california_williams,477.2624953389168,17.0390625,17.650852182427435,semiarid,12
+2797,"Williams, CA",Williams,California,Colusa,2024,4991145.89478298,25,39,city_2797_california_williams,529.0750055909157,17.8359375,19.006904494986586,semiarid,12
+2797,"Williams, CA",Williams,California,Colusa,2025,4991145.89478298,41,83,city_2797_california_williams,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2015,69167298.4365966,188,6899,city_2317_texas_san_marcos,1250.9937286376953,20.4140625,41.13208252392114,humid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2016,69167298.4365966,156,2887,city_2317_texas_san_marcos,1218.2187423706057,21.145833333333332,39.11337768146426,humid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2017,69167298.4365966,171,5641,city_2317_texas_san_marcos,758.9687576293945,21.302083333333332,24.24658926203723,dry subhumid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2018,69167298.4365966,219,9977,city_2317_texas_san_marcos,866.3750019073486,20.588541666666668,28.323514450231727,dry subhumid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2019,69167298.4365966,208,9887,city_2317_texas_san_marcos,800.8875026702881,20.6015625,26.171457835536604,dry subhumid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2020,69167298.4365966,193,6455,city_2317_texas_san_marcos,698.0250110626221,21.104166666666668,22.441527482254426,dry subhumid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2021,69167298.4365966,212,7147,city_2317_texas_san_marcos,881.4000034332275,20.536458333333332,28.86385820555683,dry subhumid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2022,69167298.4365966,215,7729,city_2317_texas_san_marcos,482.5937509536743,20.854166666666668,15.641120895189983,semiarid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2023,69167298.4365966,201,7816,city_2317_texas_san_marcos,695.3500003814697,21.606770833333332,22.000032969142655,dry subhumid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2024,69167298.4365966,218,13266,city_2317_texas_san_marcos,708.875002861023,21.8984375,22.222875426453815,dry subhumid,12
+2317,"San Marcos, TX",San Marcos,Texas,Hays,2025,69167298.4365966,209,11329,city_2317_texas_san_marcos,NA,NA,NA,NA,NA

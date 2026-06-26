@@ -1,0 +1,4 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1721,"Milbank, SD",Milbank,South Dakota,Grant,2015,5397276.74307121,13,13,city_1721_south_dakota_milbank,676.906252861023,8.0859375,37.42721398108464,humid,12
+1721,"Milbank, SD",Milbank,South Dakota,Grant,2017,5397276.74307121,6,6,city_1721_south_dakota_milbank,569.2937488555908,7.736979166666666,32.09643217744045,humid,12
+1721,"Milbank, SD",Milbank,South Dakota,Grant,2018,5397276.74307121,10,13,city_1721_south_dakota_milbank,611.7562532424927,6.549479166666667,36.96528737137957,humid,12

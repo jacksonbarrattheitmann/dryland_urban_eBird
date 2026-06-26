@@ -1,0 +1,6 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1896,"Newman, CA",Newman,California,Stanislaus,2015,4948308.40881066,5,9,city_1896_california_newman,192.43125236034393,18.408854166666668,6.77363653005519,arid,12
+1896,"Newman, CA",Newman,California,Stanislaus,2016,4948308.40881066,3,3,city_1896_california_newman,323.6625042259693,17.96875,11.572290653889404,semiarid,12
+1896,"Newman, CA",Newman,California,Stanislaus,2021,4948308.40881066,4,4,city_1896_california_newman,278.06250485777855,17.640625,10.059921034990293,semiarid,12
+1896,"Newman, CA",Newman,California,Stanislaus,2023,4948308.40881066,5,9,city_1896_california_newman,345.26875165104866,17.098958333333332,12.741034079761937,semiarid,12
+1896,"Newman, CA",Newman,California,Stanislaus,2025,4948308.40881066,3,3,city_1896_california_newman,NA,NA,NA,NA,NA

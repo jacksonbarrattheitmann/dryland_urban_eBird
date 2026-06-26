@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2015,52326197.2142697,52,52,city_0783_texas_eagle_pass,707.4562439918518,22.151041666666668,22.004146905303017,dry subhumid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2016,52326197.2142697,59,192,city_0783_texas_eagle_pass,759.7250003814697,22.9453125,23.060184977194243,dry subhumid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2017,52326197.2142697,104,406,city_0783_texas_eagle_pass,481.8249979019165,23.018229166666668,14.592696521360985,semiarid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2018,52326197.2142697,102,266,city_0783_texas_eagle_pass,583.074999332428,22.411458333333332,17.989779828350667,semiarid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2019,52326197.2142697,68,200,city_0783_texas_eagle_pass,420.7750005722046,22.3671875,13.00004829187598,semiarid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2020,52326197.2142697,96,259,city_0783_texas_eagle_pass,374.5500018596649,23.013020833333332,11.345523445145645,semiarid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2021,52326197.2142697,90,218,city_0783_texas_eagle_pass,540.7750024795532,22.361979166666668,16.710195618584404,semiarid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2022,52326197.2142697,49,128,city_0783_texas_eagle_pass,319.65625405311584,22.614583333333332,9.801022161960756,arid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2023,52326197.2142697,92,311,city_0783_texas_eagle_pass,504.6750020980835,23.4140625,15.103670860078251,semiarid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2024,52326197.2142697,81,289,city_0783_texas_eagle_pass,397.8312451839447,23.638020833333332,11.826832712753331,semiarid,12
+783,"Eagle Pass, TX",Eagle Pass,Texas,Maverick,2025,52326197.2142697,72,208,city_0783_texas_eagle_pass,NA,NA,NA,NA,NA

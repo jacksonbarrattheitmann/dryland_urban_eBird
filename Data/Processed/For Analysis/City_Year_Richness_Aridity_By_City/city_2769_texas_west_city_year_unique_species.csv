@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2769,"West, TX",West,Texas,McLennan,2019,3308186.84790554,17,17,city_2769_texas_west,855.6625003814697,19.630208333333332,28.8780453635511,dry subhumid,12
+2769,"West, TX",West,Texas,McLennan,2021,3308186.84790554,13,18,city_2769_texas_west,894.568754196167,19.588541666666668,30.233620983218454,humid,12
+2769,"West, TX",West,Texas,McLennan,2022,3308186.84790554,13,16,city_2769_texas_west,657.5687408447266,19.953125,21.953259996902712,dry subhumid,12
+2769,"West, TX",West,Texas,McLennan,2023,3308186.84790554,20,35,city_2769_texas_west,817.6999893188477,20.588541666666668,26.73223190008833,dry subhumid,12
+2769,"West, TX",West,Texas,McLennan,2024,3308186.84790554,6,6,city_2769_texas_west,909.518741607666,21.044270833333332,29.29747477370554,dry subhumid,12
+2769,"West, TX",West,Texas,McLennan,2025,3308186.84790554,29,45,city_2769_texas_west,NA,NA,NA,NA,NA

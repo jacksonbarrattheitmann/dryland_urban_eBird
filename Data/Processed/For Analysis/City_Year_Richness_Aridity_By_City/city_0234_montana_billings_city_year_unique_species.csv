@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+234,"Billings, MT",Billings,Montana,Yellowstone,2015,137854429.642675,143,2997,city_0234_montana_billings,372.39374446868896,9.7578125,18.847923800708653,semiarid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2016,137854429.642675,149,4246,city_0234_montana_billings,406.3625011444092,9.705729166666668,20.621540959356828,dry subhumid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2017,137854429.642675,158,4335,city_0234_montana_billings,395.4874930381775,8.768229166666668,21.072179454233403,dry subhumid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2018,137854429.642675,164,7417,city_0234_montana_billings,426.36250019073486,8.122395833333332,23.52682857784771,dry subhumid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2019,137854429.642675,172,7013,city_0234_montana_billings,451.56249809265137,7.416666666666666,25.92703338331013,dry subhumid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2020,137854429.642675,173,6971,city_0234_montana_billings,311.3625063896179,9.072916666666666,16.32485014385763,semiarid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2021,137854429.642675,161,7996,city_0234_montana_billings,282.44374799728394,9.432291666666668,14.534762695116193,semiarid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2022,137854429.642675,179,7167,city_0234_montana_billings,378.53125190734863,8.401041666666668,20.571186064594094,dry subhumid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2023,137854429.642675,169,6863,city_0234_montana_billings,473.9812536239624,9.122395833333332,24.786708619311124,dry subhumid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2024,137854429.642675,169,7683,city_0234_montana_billings,313.274995803833,9.846354166666668,15.78501487845058,semiarid,12
+234,"Billings, MT",Billings,Montana,Yellowstone,2025,137854429.642675,163,6371,city_0234_montana_billings,NA,NA,NA,NA,NA

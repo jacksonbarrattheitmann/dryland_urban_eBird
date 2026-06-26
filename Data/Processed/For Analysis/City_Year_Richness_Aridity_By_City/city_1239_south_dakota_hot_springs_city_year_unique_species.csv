@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2015,5443782.58831702,10,13,city_1239_south_dakota_hot_springs,575.3062565326691,9.869791666666668,28.953814221303396,dry subhumid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2016,5443782.58831702,3,6,city_1239_south_dakota_hot_springs,448.5437469482422,10.174479166666668,22.23322561354395,dry subhumid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2017,5443782.58831702,30,63,city_1239_south_dakota_hot_springs,383.0124969482422,9.549479166666668,19.591954019998,semiarid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2018,5443782.58831702,34,72,city_1239_south_dakota_hot_springs,587.9937467575073,8.4453125,31.877678773808107,humid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2019,5443782.58831702,41,100,city_1239_south_dakota_hot_springs,635.4312462806702,7.9609375,35.37851218961539,humid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2020,5443782.58831702,48,121,city_1239_south_dakota_hot_springs,335.8749933242798,9.734375,17.019793802655506,semiarid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2021,5443782.58831702,49,194,city_1239_south_dakota_hot_springs,428.68750381469727,10.002604166666668,21.43158461982082,dry subhumid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2022,5443782.58831702,42,169,city_1239_south_dakota_hot_springs,342.29374599456787,9.0703125,17.94903706976841,semiarid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2023,5443782.58831702,46,134,city_1239_south_dakota_hot_springs,552.2437539100647,9.466145833333332,28.369445016918377,dry subhumid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2024,5443782.58831702,79,1050,city_1239_south_dakota_hot_springs,358.4375047683716,10.338541666666668,17.62355977350252,semiarid,12
+1239,"Hot Springs, SD",Hot Springs,South Dakota,Fall River,2025,5443782.58831702,122,2616,city_1239_south_dakota_hot_springs,NA,NA,NA,NA,NA

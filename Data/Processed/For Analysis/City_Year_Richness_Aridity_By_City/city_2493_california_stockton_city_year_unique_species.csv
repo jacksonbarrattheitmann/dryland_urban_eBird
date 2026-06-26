@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2493,"Stockton, CA",Stockton,California,San Joaquin,2015,243916099.407584,131,5376,city_2493_california_stockton,226.674999833107,17.880208333333332,8.130319441052968,arid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2016,243916099.407584,133,5786,city_2493_california_stockton,400.0812489390373,17.427083333333332,14.587086934351532,semiarid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2017,243916099.407584,123,5357,city_2493_california_stockton,430.8562490344047,17.473958333333332,15.682350675754638,semiarid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2018,243916099.407584,146,6951,city_2493_california_stockton,334.76874750852585,17.317708333333332,12.254642425478924,semiarid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2019,243916099.407584,137,6842,city_2493_california_stockton,415.71249651908875,17.15625,15.308170182521105,semiarid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2020,243916099.407584,159,14875,city_2493_california_stockton,157.81250286102295,17.614583333333332,5.714824698098153,arid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2021,243916099.407584,159,10871,city_2493_california_stockton,330.35624563694,17.1328125,12.175525321488143,semiarid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2022,243916099.407584,147,8964,city_2493_california_stockton,232.23124742507937,17.263020833333332,8.518177381911402,arid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2023,243916099.407584,160,13095,city_2493_california_stockton,418.862496137619,16.848958333333332,15.600698207259526,semiarid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2024,243916099.407584,151,16409,city_2493_california_stockton,409.57499635219574,17.557291666666668,14.862672330300809,semiarid,12
+2493,"Stockton, CA",Stockton,California,San Joaquin,2025,243916099.407584,155,10866,city_2493_california_stockton,NA,NA,NA,NA,NA

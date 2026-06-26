@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2015,487816764.029615,212,11012,city_0579_colorado_colorado_springs,521.9562501907349,9.424479166666668,26.871055111039304,dry subhumid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2016,487816764.029615,207,12851,city_0579_colorado_colorado_springs,421.2812542915344,9.716145833333334,21.367322896308178,dry subhumid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2017,487816764.029615,222,18750,city_0579_colorado_colorado_springs,443.3812527656555,9.411458333333334,22.84121291414163,dry subhumid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2018,487816764.029615,231,28859,city_0579_colorado_colorado_springs,361.72500467300415,8.9453125,19.093113648719395,semiarid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2019,487816764.029615,231,36812,city_0579_colorado_colorado_springs,452.537501335144,8.192708333333334,24.87466368632913,dry subhumid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2020,487816764.029615,264,63907,city_0579_colorado_colorado_springs,246.98749828338623,9.356770833333334,12.759746985176957,semiarid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2021,487816764.029615,241,55566,city_0579_colorado_colorado_springs,392.9874973297119,9.471354166666668,20.182853948724,dry subhumid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2022,487816764.029615,241,55941,city_0579_colorado_colorado_springs,320.212495803833,8.9765625,16.87410434865814,semiarid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2023,487816764.029615,244,63859,city_0579_colorado_colorado_springs,487.01250171661377,9.1171875,25.475112472303454,dry subhumid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2024,487816764.029615,240,67325,city_0579_colorado_colorado_springs,393.8624987602234,10.166666666666668,19.53037183934992,semiarid,12
+579,"Colorado Springs, CO",Colorado Springs,Colorado,El Paso,2025,487816764.029615,237,71842,city_0579_colorado_colorado_springs,NA,NA,NA,NA,NA

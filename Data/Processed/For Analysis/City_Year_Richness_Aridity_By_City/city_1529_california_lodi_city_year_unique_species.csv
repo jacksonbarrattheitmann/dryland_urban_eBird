@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1529,"Lodi, CA",Lodi,California,San Joaquin,2015,41621604.6040662,79,429,city_1529_california_lodi,273.7124983072281,17.442708333333332,9.97396084171338,arid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2016,41621604.6040662,69,327,city_1529_california_lodi,494.3874911665917,17.0234375,18.294766946899024,semiarid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2017,41621604.6040662,75,470,city_1529_california_lodi,537.7374996542931,17.059895833333332,19.87212009116048,semiarid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2018,41621604.6040662,74,483,city_1529_california_lodi,410.2937526702881,16.953125,15.222492852694746,semiarid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2019,41621604.6040662,88,740,city_1529_california_lodi,523.8374943733215,16.786458333333332,19.55605656614383,semiarid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2020,41621604.6040662,112,1765,city_1529_california_lodi,190.13749819993973,17.2109375,6.987539411309872,arid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2021,41621604.6040662,113,1638,city_1529_california_lodi,403.662502348423,16.796875,15.0637901751015,semiarid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2022,41621604.6040662,121,2310,city_1529_california_lodi,279.5437577366829,16.825520833333332,10.420813801658698,semiarid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2023,41621604.6040662,139,2488,city_1529_california_lodi,523.2999947071075,16.526041666666668,19.7277830323512,semiarid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2024,41621604.6040662,123,2815,city_1529_california_lodi,507.66875344514847,17.143229166666668,18.703329302785857,semiarid,12
+1529,"Lodi, CA",Lodi,California,San Joaquin,2025,41621604.6040662,123,1651,city_1529_california_lodi,NA,NA,NA,NA,NA

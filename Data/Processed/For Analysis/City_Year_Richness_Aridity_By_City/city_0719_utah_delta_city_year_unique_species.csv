@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+719,"Delta, UT",Delta,Utah,Millard,2015,4964047.06780914,5,6,city_0719_utah_delta,244.9875020980835,12.026041666666668,11.122629558484755,semiarid,12
+719,"Delta, UT",Delta,Utah,Millard,2016,4964047.06780914,4,7,city_0719_utah_delta,224.45000076293945,11.661458333333332,10.361721602905597,semiarid,12
+719,"Delta, UT",Delta,Utah,Millard,2017,4964047.06780914,6,6,city_0719_utah_delta,205.87500095367432,11.877604166666668,9.410308340222704,arid,12
+719,"Delta, UT",Delta,Utah,Millard,2018,4964047.06780914,8,8,city_0719_utah_delta,187.85000014305115,11.778645833333332,8.62542150603033,arid,12
+719,"Delta, UT",Delta,Utah,Millard,2019,4964047.06780914,19,31,city_0719_utah_delta,269.7750024795532,10.651041666666668,13.063505794722374,semiarid,12
+719,"Delta, UT",Delta,Utah,Millard,2020,4964047.06780914,4,4,city_0719_utah_delta,136.42500066757202,11.729166666666668,6.278427643378194,arid,12
+719,"Delta, UT",Delta,Utah,Millard,2021,4964047.06780914,9,11,city_0719_utah_delta,226.3750023841858,11.979166666666668,10.299526174825514,semiarid,12
+719,"Delta, UT",Delta,Utah,Millard,2022,4964047.06780914,33,69,city_0719_utah_delta,213.16250038146973,11.151041666666668,10.07810885822265,semiarid,12
+719,"Delta, UT",Delta,Utah,Millard,2023,4964047.06780914,37,318,city_0719_utah_delta,252.56874990463257,11.0859375,11.978065945829185,semiarid,12
+719,"Delta, UT",Delta,Utah,Millard,2024,4964047.06780914,21,65,city_0719_utah_delta,226.6875,12.5078125,10.071502950364456,semiarid,12
+719,"Delta, UT",Delta,Utah,Millard,2025,4964047.06780914,13,13,city_0719_utah_delta,NA,NA,NA,NA,NA

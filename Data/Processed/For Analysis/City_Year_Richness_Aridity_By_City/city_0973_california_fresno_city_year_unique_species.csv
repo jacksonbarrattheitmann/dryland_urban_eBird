@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+973,"Fresno, CA",Fresno,California,Fresno,2015,444152928.012559,161,5885,city_0973_california_fresno,169.72499971464276,19.380208333333332,5.7768480668696,arid,12
+973,"Fresno, CA",Fresno,California,Fresno,2016,444152928.012559,167,7148,city_0973_california_fresno,297.9875014796853,19.096354166666668,10.241403434010486,semiarid,12
+973,"Fresno, CA",Fresno,California,Fresno,2017,444152928.012559,181,9449,city_0973_california_fresno,339.5124997869134,19.2421875,11.610366009277294,semiarid,12
+973,"Fresno, CA",Fresno,California,Fresno,2018,444152928.012559,174,10959,city_0973_california_fresno,239.4625022187829,19.166666666666668,8.210142933215414,arid,12
+973,"Fresno, CA",Fresno,California,Fresno,2019,444152928.012559,174,12119,city_0973_california_fresno,343.8187506571412,18.609375,12.017695271467524,semiarid,12
+973,"Fresno, CA",Fresno,California,Fresno,2020,444152928.012559,178,16398,city_0973_california_fresno,151.31875147670507,19.255208333333332,5.172369642785718,arid,12
+973,"Fresno, CA",Fresno,California,Fresno,2021,444152928.012559,182,16688,city_0973_california_fresno,245.1562500372529,19.067708333333332,8.433972407660375,arid,12
+973,"Fresno, CA",Fresno,California,Fresno,2022,444152928.012559,184,15248,city_0973_california_fresno,172.7375026717782,19,5.956465609371662,arid,12
+973,"Fresno, CA",Fresno,California,Fresno,2023,444152928.012559,188,16006,city_0973_california_fresno,357.70625230669975,18.2421875,12.665670897719936,semiarid,12
+973,"Fresno, CA",Fresno,California,Fresno,2024,444152928.012559,186,13557,city_0973_california_fresno,320.3937511444092,19.330729166666668,10.923484013091816,semiarid,12
+973,"Fresno, CA",Fresno,California,Fresno,2025,444152928.012559,169,12531,city_0973_california_fresno,NA,NA,NA,NA,NA

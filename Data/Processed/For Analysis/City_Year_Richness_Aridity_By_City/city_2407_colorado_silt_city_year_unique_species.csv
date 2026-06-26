@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2407,"Silt, CO",Silt,Colorado,Garfield,2017,3023227.26460445,3,3,city_2407_colorado_silt,326.2562484741211,8.552083333333334,17.585962859918933,semiarid,12
+2407,"Silt, CO",Silt,Colorado,Garfield,2019,3023227.26460445,8,8,city_2407_colorado_silt,413.7562503814697,7.1015625,24.194061237472877,dry subhumid,12
+2407,"Silt, CO",Silt,Colorado,Garfield,2020,3023227.26460445,24,108,city_2407_colorado_silt,242.06874990463257,8.317708333333332,13.21501278978944,semiarid,12
+2407,"Silt, CO",Silt,Colorado,Garfield,2021,3023227.26460445,23,158,city_2407_colorado_silt,414.26249980926514,8.528645833333332,22.357947986894985,dry subhumid,12
+2407,"Silt, CO",Silt,Colorado,Garfield,2022,3023227.26460445,23,83,city_2407_colorado_silt,378.59999656677246,7.802083333333334,21.26717359298429,dry subhumid,12
+2407,"Silt, CO",Silt,Colorado,Garfield,2023,3023227.26460445,12,18,city_2407_colorado_silt,396.57500076293945,7.848958333333334,22.218383468480994,dry subhumid,12
+2407,"Silt, CO",Silt,Colorado,Garfield,2024,3023227.26460445,25,125,city_2407_colorado_silt,383.5875024795532,9.125,20.05686287474788,dry subhumid,12
+2407,"Silt, CO",Silt,Colorado,Garfield,2025,3023227.26460445,24,74,city_2407_colorado_silt,NA,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2140,"Poteet, TX",Poteet,Texas,Atascosa,2015,3401167.86788632,12,12,city_2140_texas_poteet,943.2812633514404,21.3125,30.124750925395304,humid,12
+2140,"Poteet, TX",Poteet,Texas,Atascosa,2019,3401167.86788632,1,1,city_2140_texas_poteet,523.29376220703125,21.5,16.6125003875248,semiarid,12
+2140,"Poteet, TX",Poteet,Texas,Atascosa,2020,3401167.86788632,12,12,city_2140_texas_poteet,508.0500049591065,22.0234375,15.864942823802298,semiarid,12
+2140,"Poteet, TX",Poteet,Texas,Atascosa,2023,3401167.86788632,11,11,city_2140_texas_poteet,611.0937442779541,22.520833333333332,18.790839029687252,semiarid,12

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1576,"Madera, CA",Madera,California,Madera,2015,57907565.0871336,24,35,city_1576_california_madera,172.43749874830246,18.244791666666668,6.105107829554504,arid,12
+1576,"Madera, CA",Madera,California,Madera,2016,57907565.0871336,53,202,city_1576_california_madera,279.712501347065,18.0625,9.967483344216124,arid,12
+1576,"Madera, CA",Madera,California,Madera,2017,57907565.0871336,41,79,city_1576_california_madera,312.87499928474426,18.15625,11.112097643853293,semiarid,12
+1576,"Madera, CA",Madera,California,Madera,2018,57907565.0871336,22,42,city_1576_california_madera,234.1687502861023,17.966145833333332,8.373293612986618,arid,12
+1576,"Madera, CA",Madera,California,Madera,2019,57907565.0871336,71,659,city_1576_california_madera,305.3875042796135,17.494791666666668,11.107103773761278,semiarid,12
+1576,"Madera, CA",Madera,California,Madera,2020,57907565.0871336,55,323,city_1576_california_madera,139.49375236034393,18.15625,4.954273113796899,extremely arid,12
+1576,"Madera, CA",Madera,California,Madera,2021,57907565.0871336,62,577,city_1576_california_madera,231.33125239610672,17.8984375,8.291907114730233,arid,12
+1576,"Madera, CA",Madera,California,Madera,2022,57907565.0871336,49,323,city_1576_california_madera,175.62499570846558,17.895833333333332,6.295742938018184,arid,12
+1576,"Madera, CA",Madera,California,Madera,2023,57907565.0871336,56,537,city_1576_california_madera,308.14999383687973,17.236979166666668,11.313662647802069,semiarid,12
+1576,"Madera, CA",Madera,California,Madera,2024,57907565.0871336,60,1199,city_1576_california_madera,299.4249987602234,18.2578125,10.59618463956555,semiarid,12
+1576,"Madera, CA",Madera,California,Madera,2025,57907565.0871336,63,859,city_1576_california_madera,NA,NA,NA,NA,NA

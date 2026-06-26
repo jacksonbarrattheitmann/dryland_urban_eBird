@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+177,"Bayard, NM",Bayard,New Mexico,Grant,2018,7049346.62119595,2,2,city_0177_new_mexico_bayard,388.0812460184098,14.200520833333334,16.036069995810752,semiarid,12
+177,"Bayard, NM",Bayard,New Mexico,Grant,2019,7049346.62119595,5,5,city_0177_new_mexico_bayard,361.5687522888184,13.455729166666666,15.414944030077304,semiarid,12
+177,"Bayard, NM",Bayard,New Mexico,Grant,2020,7049346.62119595,2,2,city_0177_new_mexico_bayard,208.3625030517578,14.416666666666666,8.533617872426943,arid,12
+177,"Bayard, NM",Bayard,New Mexico,Grant,2021,7049346.62119595,1,1,city_0177_new_mexico_bayard,433.86250734329224,14.138020833333334,17.974237007209428,semiarid,12
+177,"Bayard, NM",Bayard,New Mexico,Grant,2022,7049346.62119595,9,10,city_0177_new_mexico_bayard,342.39375495910645,13.7578125,14.411838419850584,semiarid,12
+177,"Bayard, NM",Bayard,New Mexico,Grant,2023,7049346.62119595,2,2,city_0177_new_mexico_bayard,257.3374996185303,14.25,10.611855654372382,semiarid,12
+177,"Bayard, NM",Bayard,New Mexico,Grant,2024,7049346.62119595,12,13,city_0177_new_mexico_bayard,311.431254863739,14.955729166666666,12.479349041811105,semiarid,12

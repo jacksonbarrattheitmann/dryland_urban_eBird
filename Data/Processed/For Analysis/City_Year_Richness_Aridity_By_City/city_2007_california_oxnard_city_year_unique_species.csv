@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2007,"Oxnard, CA",Oxnard,California,Ventura,2015,220406258.914349,248,17003,city_2007_california_oxnard,178.53845939040184,17.897436042626698,6.399816066164604,arid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2016,220406258.914349,242,15543,city_2007_california_oxnard,355.81538189947605,17.31089739004771,13.028329930642917,semiarid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2017,220406258.914349,244,18138,city_2007_california_oxnard,429.80770064890385,17.33333347241084,15.7246718949496,semiarid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2018,220406258.914349,252,17695,city_2007_california_oxnard,271.2076935619116,17.240384618441265,9.956088996566836,arid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2019,220406258.914349,246,19470,city_2007_california_oxnard,565.684614315629,16.65064122279485,21.225928846762123,dry subhumid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2020,220406258.914349,272,41627,city_2007_california_oxnard,239.45385079085827,17.371794839700062,8.748196900977582,arid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2021,220406258.914349,296,55511,city_2007_california_oxnard,313.3846195936203,16.94551287094752,11.630308211038342,semiarid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2022,220406258.914349,295,51120,city_2007_california_oxnard,223.38461811840537,16.73076931635539,8.356834607888597,arid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2023,220406258.914349,293,57846,city_2007_california_oxnard,576.8153746277094,16.112179617087047,22.08989762962025,dry subhumid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2024,220406258.914349,295,71450,city_2007_california_oxnard,499.6461497992277,16.919871668020885,18.560495234187016,semiarid,12
+2007,"Oxnard, CA",Oxnard,California,Ventura,2025,220406258.914349,301,72402,city_2007_california_oxnard,NA,NA,NA,NA,NA

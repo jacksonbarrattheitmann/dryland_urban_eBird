@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+295,"Brady, TX",Brady,Texas,McCulloch,2015,7347987.69976609,21,24,city_0295_texas_brady,919.4750061035156,18.919270833333332,31.794543209702837,humid,12
+295,"Brady, TX",Brady,Texas,McCulloch,2017,7347987.69976609,12,16,city_0295_texas_brady,613.1437406539917,19.651041666666668,20.678657685853928,dry subhumid,12
+295,"Brady, TX",Brady,Texas,McCulloch,2019,7347987.69976609,10,12,city_0295_texas_brady,540.3000078201294,19.033854166666668,18.609310521385744,semiarid,12
+295,"Brady, TX",Brady,Texas,McCulloch,2020,7347987.69976609,20,26,city_0295_texas_brady,522.3875045776367,19.533854166666668,17.687752557782602,semiarid,12
+295,"Brady, TX",Brady,Texas,McCulloch,2021,7347987.69976609,20,21,city_0295_texas_brady,659.3437643051147,18.947916666666668,22.776898658974815,dry subhumid,12
+295,"Brady, TX",Brady,Texas,McCulloch,2022,7347987.69976609,9,11,city_0295_texas_brady,354.0625,19.372395833333332,12.0542601294441,semiarid,12
+295,"Brady, TX",Brady,Texas,McCulloch,2023,7347987.69976609,17,34,city_0295_texas_brady,516.8249931335449,20.0859375,17.178291124667293,semiarid,12
+295,"Brady, TX",Brady,Texas,McCulloch,2024,7347987.69976609,15,32,city_0295_texas_brady,565.6937527656555,20.427083333333332,18.59178372663572,semiarid,12
+295,"Brady, TX",Brady,Texas,McCulloch,2025,7347987.69976609,14,17,city_0295_texas_brady,NA,NA,NA,NA,NA

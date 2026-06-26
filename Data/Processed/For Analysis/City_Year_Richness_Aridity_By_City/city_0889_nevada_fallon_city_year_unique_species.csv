@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+889,"Fallon, NV",Fallon,Nevada,Churchill,2015,36736558.3370075,40,82,city_0889_nevada_fallon,123.81249737739564,13.049479166666668,5.371596316000443,arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2016,36736558.3370075,19,36,city_0889_nevada_fallon,128.16875058412552,12.552083333333332,5.683233282252218,arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2017,36736558.3370075,25,44,city_0889_nevada_fallon,130.60624837875366,12.7734375,5.73502565779776,arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2018,36736558.3370075,15,17,city_0889_nevada_fallon,122.88749945163728,12.653645833333332,5.424623495738443,arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2019,36736558.3370075,24,39,city_0889_nevada_fallon,136.9937483072281,11.794270833333334,6.285768831398683,arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2020,36736558.3370075,27,59,city_0889_nevada_fallon,75.862499833107,12.807291666666668,3.3262388600037776,extremely arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2021,36736558.3370075,49,64,city_0889_nevada_fallon,95.0125014781952,12.776041666666668,4.171598509904751,extremely arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2022,36736558.3370075,31,94,city_0889_nevada_fallon,87.13749969005585,12.546875,3.864726250979608,extremely arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2023,36736558.3370075,18,64,city_0889_nevada_fallon,145.48749834299088,11.739583333333332,6.692285501162973,arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2024,36736558.3370075,37,252,city_0889_nevada_fallon,134.47499918937683,13.114583333333332,5.817755710761684,arid,12
+889,"Fallon, NV",Fallon,Nevada,Churchill,2025,36736558.3370075,30,93,city_0889_nevada_fallon,NA,NA,NA,NA,NA

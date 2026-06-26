@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+312,"Bridgeport, TX",Bridgeport,Texas,Wise,2018,8748731.47772943,6,6,city_0312_texas_bridgeport,912.481252670288,18.40625,32.12255234922906,humid,12
+312,"Bridgeport, TX",Bridgeport,Texas,Wise,2020,8748731.47772943,6,6,city_0312_texas_bridgeport,931.9624786376952,18.6015625,32.584320476816444,humid,12
+312,"Bridgeport, TX",Bridgeport,Texas,Wise,2022,8748731.47772943,2,2,city_0312_texas_bridgeport,621.9874954223633,18.875,21.540692482159766,dry subhumid,12
+312,"Bridgeport, TX",Bridgeport,Texas,Wise,2024,8748731.47772943,11,11,city_0312_texas_bridgeport,922.1125011444092,19.932291666666668,30.806612183700462,humid,12

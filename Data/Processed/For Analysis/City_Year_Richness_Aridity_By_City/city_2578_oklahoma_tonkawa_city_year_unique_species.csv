@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,2015,3854189.77689249,37,37,city_2578_oklahoma_tonkawa,1108.9062385559082,15.885416666666668,42.83903376312563,humid,12
+2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,2018,3854189.77689249,12,13,city_2578_oklahoma_tonkawa,930.8687438964844,15.4296875,36.6055911578341,humid,12
+2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,2019,3854189.77689249,12,17,city_2578_oklahoma_tonkawa,1090.8250122070312,15.216145833333332,43.258990466539295,humid,12
+2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,2020,3854189.77689249,30,37,city_2578_oklahoma_tonkawa,879.9062480926514,15.721354166666666,34.20917275160253,humid,12
+2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,2022,3854189.77689249,16,16,city_2578_oklahoma_tonkawa,717.2375011444092,15.770833333333332,27.831366252976267,dry subhumid,12
+2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,2025,3854189.77689249,25,26,city_2578_oklahoma_tonkawa,NA,NA,NA,NA,NA

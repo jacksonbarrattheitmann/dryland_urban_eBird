@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+639,"Cozad, NE",Cozad,Nebraska,Dawson,2017,4686181.99735306,2,2,city_0639_nebraska_cozad,687.8687434196472,10.559895833333332,33.45682045258322,humid,12
+639,"Cozad, NE",Cozad,Nebraska,Dawson,2019,4686181.99735306,4,4,city_0639_nebraska_cozad,776.8437457084656,9.153645833333332,40.558531387090525,humid,12
+639,"Cozad, NE",Cozad,Nebraska,Dawson,2020,4686181.99735306,7,10,city_0639_nebraska_cozad,492.6187410354614,10.614583333333334,23.89661401687938,dry subhumid,12
+639,"Cozad, NE",Cozad,Nebraska,Dawson,2022,4686181.99735306,3,3,city_0639_nebraska_cozad,396.9874939918518,10.135416666666668,19.71588175024199,semiarid,12
+639,"Cozad, NE",Cozad,Nebraska,Dawson,2023,4686181.99735306,11,11,city_0639_nebraska_cozad,601.1124992370605,10.591145833333332,29.192765866577876,dry subhumid,12
+639,"Cozad, NE",Cozad,Nebraska,Dawson,2024,4686181.99735306,15,24,city_0639_nebraska_cozad,566.0437440872192,11.3046875,26.568976620155507,dry subhumid,12
+639,"Cozad, NE",Cozad,Nebraska,Dawson,2025,4686181.99735306,5,5,city_0639_nebraska_cozad,NA,NA,NA,NA,NA

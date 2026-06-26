@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1733,"Minden, NE",Minden,Nebraska,Kearney,2016,3708739.04295156,20,27,city_1733_nebraska_minden,740.4437551498413,11.8515625,33.88516290996771,humid,12
+1733,"Minden, NE",Minden,Nebraska,Kearney,2017,3708739.04295156,21,34,city_1733_nebraska_minden,801.1500029563904,11.302083333333332,37.608997693796326,humid,12
+1733,"Minden, NE",Minden,Nebraska,Kearney,2018,3708739.04295156,1,1,city_1733_nebraska_minden,766.2874956130981,10.3046875,37.73943802942538,humid,12
+1733,"Minden, NE",Minden,Nebraska,Kearney,2019,3708739.04295156,8,9,city_1733_nebraska_minden,860.7500057220459,9.932291666666668,43.18369508717868,humid,12
+1733,"Minden, NE",Minden,Nebraska,Kearney,2020,3708739.04295156,23,27,city_1733_nebraska_minden,572.4437475204468,11.223958333333334,26.97158270525786,dry subhumid,12
+1733,"Minden, NE",Minden,Nebraska,Kearney,2021,3708739.04295156,23,46,city_1733_nebraska_minden,668.6374998092651,11.53125,31.054281558630603,humid,12
+1733,"Minden, NE",Minden,Nebraska,Kearney,2022,3708739.04295156,13,23,city_1733_nebraska_minden,476.04374647140503,10.994791666666668,22.67437343649461,dry subhumid,12
+1733,"Minden, NE",Minden,Nebraska,Kearney,2024,3708739.04295156,15,20,city_1733_nebraska_minden,636.8562526702881,12.09375,28.82517692425632,dry subhumid,12
+1733,"Minden, NE",Minden,Nebraska,Kearney,2025,3708739.04295156,16,29,city_1733_nebraska_minden,NA,NA,NA,NA,NA

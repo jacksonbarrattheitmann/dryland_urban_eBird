@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+336,"Brownwood, TX",Brownwood,Texas,Brown,2015,43958937.029044,43,91,city_0336_texas_brownwood,1054.5749797821045,18.705729166666668,36.737439194078576,humid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2016,43958937.029044,18,19,city_0336_texas_brownwood,991.7875051498412,19.4609375,33.6644923519437,humid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2017,43958937.029044,16,18,city_0336_texas_brownwood,653.8312501907349,19.473958333333332,22.183353955932336,dry subhumid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2018,43958937.029044,45,143,city_0336_texas_brownwood,722.1124863624573,18.713541666666668,25.14884770208449,dry subhumid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2019,43958937.029044,42,99,city_0336_texas_brownwood,623.7249965667725,18.546875,21.849151494402538,dry subhumid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2020,43958937.029044,43,222,city_0336_texas_brownwood,627.9750089645386,19.171875,21.526727677413213,dry subhumid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2021,43958937.029044,31,91,city_0336_texas_brownwood,735.3249969482422,18.635416666666668,25.67886493526055,dry subhumid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2022,43958937.029044,54,186,city_0336_texas_brownwood,368.40624713897705,19.057291666666668,12.678616141007993,semiarid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2023,43958937.029044,20,43,city_0336_texas_brownwood,564.212495803833,19.643229166666668,19.033435683797933,semiarid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2024,43958937.029044,31,66,city_0336_texas_brownwood,628.4562501907349,20.184895833333332,20.820222592808403,dry subhumid,12
+336,"Brownwood, TX",Brownwood,Texas,Brown,2025,43958937.029044,47,159,city_0336_texas_brownwood,NA,NA,NA,NA,NA

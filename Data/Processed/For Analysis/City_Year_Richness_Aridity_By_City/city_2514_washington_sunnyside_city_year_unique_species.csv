@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2514,"Sunnyside, WA",Sunnyside,Washington,Yakima,2017,15145031.3000234,20,28,city_2514_washington_sunnyside,217.9124966263771,11.330729166666668,10.215895336897669,semiarid,12
+2514,"Sunnyside, WA",Sunnyside,Washington,Yakima,2018,15145031.3000234,20,27,city_2514_washington_sunnyside,160.86250060796738,11.963541666666668,7.324069271218813,arid,12
+2514,"Sunnyside, WA",Sunnyside,Washington,Yakima,2019,15145031.3000234,9,14,city_2514_washington_sunnyside,157.44999837875366,11.1640625,7.439497893126788,arid,12
+2514,"Sunnyside, WA",Sunnyside,Washington,Yakima,2020,15145031.3000234,13,13,city_2514_washington_sunnyside,184.31250190734863,12.072916666666668,8.350165258662326,arid,12
+2514,"Sunnyside, WA",Sunnyside,Washington,Yakima,2021,15145031.3000234,9,9,city_2514_washington_sunnyside,170.60000032186508,12.4609375,7.595408709982167,arid,12
+2514,"Sunnyside, WA",Sunnyside,Washington,Yakima,2024,15145031.3000234,3,3,city_2514_washington_sunnyside,189.1500014066696,12.471354166666668,8.417383305152525,arid,12
+2514,"Sunnyside, WA",Sunnyside,Washington,Yakima,2025,15145031.3000234,19,31,city_2514_washington_sunnyside,NA,NA,NA,NA,NA

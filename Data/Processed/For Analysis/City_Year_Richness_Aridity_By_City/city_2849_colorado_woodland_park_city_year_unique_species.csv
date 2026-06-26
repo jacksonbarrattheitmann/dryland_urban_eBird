@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2015,22175856.8505646,51,137,city_2849_colorado_woodland_park,608.6062469482422,3.388020833333333,45.459015527742665,humid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2016,22175856.8505646,57,259,city_2849_colorado_woodland_park,483.5625009536743,3.5989583333333335,35.55878980586192,humid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2017,22175856.8505646,59,295,city_2849_colorado_woodland_park,492.149998664856,3.4244791666666665,36.66064005573321,humid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2018,22175856.8505646,77,490,city_2849_colorado_woodland_park,415.1624975204468,2.9921875,31.954780326288148,humid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2019,22175856.8505646,87,1469,city_2849_colorado_woodland_park,510.09374809265137,2.213541666666667,41.764605387543305,humid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2020,22175856.8505646,100,1926,city_2849_colorado_woodland_park,292.2937526702881,3.369791666666667,21.862251855354614,dry subhumid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2021,22175856.8505646,88,1200,city_2849_colorado_woodland_park,465.2187557220459,3.484375,34.50057979862218,humid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2022,22175856.8505646,77,821,city_2849_colorado_woodland_park,389.13750171661377,3.020833333333333,29.88576013183594,dry subhumid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2023,22175856.8505646,91,1585,city_2849_colorado_woodland_park,541.9437503814697,3.075520833333333,41.44720178181326,humid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2024,22175856.8505646,81,1153,city_2849_colorado_woodland_park,466.74374532699585,4.184895833333334,32.90427725455598,humid,12
+2849,"Woodland Park, CO",Woodland Park,Colorado,Teller,2025,22175856.8505646,108,2863,city_2849_colorado_woodland_park,NA,NA,NA,NA,NA

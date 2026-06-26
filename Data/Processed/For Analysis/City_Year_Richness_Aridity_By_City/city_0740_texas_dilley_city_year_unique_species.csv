@@ -1,0 +1,4 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+740,"Dilley, TX",Dilley,Texas,Frio,2018,5137596.66847544,8,8,city_0740_texas_dilley,670.3562612533569,21.942708333333332,20.986206124350975,dry subhumid,12
+740,"Dilley, TX",Dilley,Texas,Frio,2021,5137596.66847544,2,2,city_0740_texas_dilley,657.975001335144,21.932291666666668,20.605317282066164,dry subhumid,12
+740,"Dilley, TX",Dilley,Texas,Frio,2025,5137596.66847544,1,1,city_0740_texas_dilley,NA,NA,NA,NA,NA

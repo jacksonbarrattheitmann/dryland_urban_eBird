@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2015,26830062.330033,13,16,city_0195_montana_belgrade,371.2624988555908,8.408854166666668,20.16760497390676,dry subhumid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2016,26830062.330033,11,15,city_0195_montana_belgrade,409.53125286102295,8.25,22.440068649919063,dry subhumid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2017,26830062.330033,33,267,city_0195_montana_belgrade,402.9062523841858,7.1796875,23.452478538051743,dry subhumid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2018,26830062.330033,56,287,city_0195_montana_belgrade,450.68750381469727,6.760416666666666,26.889994012561186,dry subhumid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2019,26830062.330033,53,534,city_0195_montana_belgrade,464.01249980926514,6.067708333333334,28.878573732051507,dry subhumid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2020,26830062.330033,47,334,city_0195_montana_belgrade,379.2000021934509,7.708333333333334,21.41364718268899,dry subhumid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2021,26830062.330033,29,68,city_0195_montana_belgrade,283.5125036239624,8.002604166666668,15.74841622907588,semiarid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2022,26830062.330033,52,238,city_0195_montana_belgrade,387.7812452316284,6.955729166666666,22.870219347096505,dry subhumid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2023,26830062.330033,55,249,city_0195_montana_belgrade,473.6124897003174,7.833333333333334,26.557709702821533,dry subhumid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2024,26830062.330033,63,457,city_0195_montana_belgrade,339.3062481880188,8.3359375,18.50498498852425,semiarid,12
+195,"Belgrade, MT",Belgrade,Montana,Gallatin,2025,26830062.330033,53,151,city_0195_montana_belgrade,NA,NA,NA,NA,NA

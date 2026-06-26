@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+763,"Dublin, TX",Dublin,Texas,Erath,2016,5678511.64923385,15,15,city_0763_texas_dublin,1113.3812580108645,19.388020833333332,37.88554745912024,humid,12
+763,"Dublin, TX",Dublin,Texas,Erath,2017,5678511.64923385,24,27,city_0763_texas_dublin,736.8437404632568,19.518229166666668,24.962328746174737,dry subhumid,12
+763,"Dublin, TX",Dublin,Texas,Erath,2018,5678511.64923385,17,20,city_0763_texas_dublin,800.7312474250793,18.6640625,27.935023077244523,dry subhumid,12
+763,"Dublin, TX",Dublin,Texas,Erath,2020,5678511.64923385,15,17,city_0763_texas_dublin,763.3125019073486,19.096354166666668,26.23395692584103,dry subhumid,12
+763,"Dublin, TX",Dublin,Texas,Erath,2021,5678511.64923385,15,15,city_0763_texas_dublin,851.6187467575073,18.533854166666668,29.845906612657004,dry subhumid,12
+763,"Dublin, TX",Dublin,Texas,Erath,2024,5678511.64923385,8,8,city_0763_texas_dublin,769.9062519073486,20.1015625,25.576953086981735,dry subhumid,12

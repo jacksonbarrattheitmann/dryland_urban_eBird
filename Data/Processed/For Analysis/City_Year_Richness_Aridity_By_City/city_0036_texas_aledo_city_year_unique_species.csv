@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+36,"Aledo, TX",Aledo,Texas,Parker,2018,12254791.2671827,20,32,city_0036_texas_aledo,892.2499980926514,18.770833333333332,31.012309854053058,humid,12
+36,"Aledo, TX",Aledo,Texas,Parker,2021,12254791.2671827,9,9,city_0036_texas_aledo,842.2437467575073,18.731770833333332,29.31402145879478,dry subhumid,12
+36,"Aledo, TX",Aledo,Texas,Parker,2022,12254791.2671827,26,31,city_0036_texas_aledo,597.0812473297119,19.130208333333332,20.496978274147093,dry subhumid,12
+36,"Aledo, TX",Aledo,Texas,Parker,2023,12254791.2671827,38,77,city_0036_texas_aledo,819.2562503814697,19.791666666666668,27.499510502315065,dry subhumid,12
+36,"Aledo, TX",Aledo,Texas,Parker,2024,12254791.2671827,78,402,city_0036_texas_aledo,905.5812511444092,20.169270833333332,30.016676775093064,humid,12
+36,"Aledo, TX",Aledo,Texas,Parker,2025,12254791.2671827,4,4,city_0036_texas_aledo,NA,NA,NA,NA,NA

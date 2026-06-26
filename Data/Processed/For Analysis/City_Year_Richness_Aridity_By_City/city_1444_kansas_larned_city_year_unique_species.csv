@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1444,"Larned, KS",Larned,Kansas,Pawnee,2015,7152541.36096425,20,27,city_1444_kansas_larned,729.9250087738037,13.919270833333332,30.51618980611221,humid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2016,7152541.36096425,24,32,city_1444_kansas_larned,690.6312417984009,14.510416666666668,28.177050239118778,dry subhumid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2017,7152541.36096425,27,43,city_1444_kansas_larned,701.0624980926514,14.09375,29.097276185427813,dry subhumid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2018,7152541.36096425,26,50,city_1444_kansas_larned,677.8750047683716,13.213541666666668,29.201705388271783,dry subhumid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2019,7152541.36096425,14,32,city_1444_kansas_larned,754.1499881744385,12.7734375,33.115333957573974,humid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2020,7152541.36096425,16,29,city_1444_kansas_larned,579.7124977111816,13.8515625,24.3050113681727,dry subhumid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2021,7152541.36096425,8,8,city_1444_kansas_larned,579.9687423706055,14.106770833333332,24.058333917069515,dry subhumid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2022,7152541.36096425,14,16,city_1444_kansas_larned,449.762499332428,13.729166666666668,18.953994704088274,semiarid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2023,7152541.36096425,22,25,city_1444_kansas_larned,605.749997138977,14.028645833333332,25.209493757599137,dry subhumid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2024,7152541.36096425,23,50,city_1444_kansas_larned,538.1500082015991,14.747395833333332,21.745722734864156,dry subhumid,12
+1444,"Larned, KS",Larned,Kansas,Pawnee,2025,7152541.36096425,16,22,city_1444_kansas_larned,NA,NA,NA,NA,NA

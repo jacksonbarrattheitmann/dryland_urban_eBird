@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2015,44988730.8439879,9,11,city_2883_california_yucca_valley,242.84999805688855,18.177083333333332,8.618706030854456,arid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2016,44988730.8439879,20,45,city_2883_california_yucca_valley,236.0937453508377,17.7578125,8.505488152239579,arid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2017,44988730.8439879,24,48,city_2883_california_yucca_valley,220.8937464952469,18.049479166666668,7.875146101028205,arid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2018,44988730.8439879,33,158,city_2883_california_yucca_valley,215.14999586343765,17.802083333333332,7.738628551101542,arid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2019,44988730.8439879,43,202,city_2883_california_yucca_valley,436.0687574148178,17.122395833333332,16.077811123119545,semiarid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2020,44988730.8439879,50,228,city_2883_california_yucca_valley,207.46249771118164,17.9765625,7.415582157785884,arid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2021,44988730.8439879,58,346,city_2883_california_yucca_valley,306.00625360012054,17.471354166666668,11.139103363583876,semiarid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2022,44988730.8439879,61,402,city_2883_california_yucca_valley,171.88125121593475,17.338541666666668,6.287140452173647,arid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2023,44988730.8439879,83,601,city_2883_california_yucca_valley,348.5187497138977,16.880208333333332,12.965626805864826,semiarid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2024,44988730.8439879,82,820,city_2883_california_yucca_valley,244.33750265836716,17.75,8.80495505075197,arid,12
+2883,"Yucca Valley, CA",Yucca Valley,California,San Bernardino,2025,44988730.8439879,78,1366,city_2883_california_yucca_valley,NA,NA,NA,NA,NA

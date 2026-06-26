@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2017,4862246.23639731,9,9,city_1031_washington_goldendale,421.4437463283539,10.341145833333332,20.718781025488145,dry subhumid,12
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2018,4862246.23639731,21,28,city_1031_washington_goldendale,311.9125040769577,11.020833333333334,14.838255892660028,semiarid,12
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2019,4862246.23639731,44,74,city_1031_washington_goldendale,291.2562494277954,10.1640625,14.444323877085552,semiarid,12
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2020,4862246.23639731,31,36,city_1031_washington_goldendale,361.24999618530273,11.098958333333334,17.121698165287118,semiarid,12
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2021,4862246.23639731,49,105,city_1031_washington_goldendale,349.03750216960907,11.393229166666666,16.315325725274484,semiarid,12
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2022,4862246.23639731,64,159,city_1031_washington_goldendale,377.1874921321869,10.546875,18.35741406574902,semiarid,12
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2023,4862246.23639731,61,242,city_1031_washington_goldendale,308.36874556541443,11.328125,14.458314810393055,semiarid,12
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2024,4862246.23639731,55,118,city_1031_washington_goldendale,381.9562559127808,11.484375,17.77832754794034,semiarid,12
+1031,"Goldendale, WA",Goldendale,Washington,Klickitat,2025,4862246.23639731,72,265,city_1031_washington_goldendale,NA,NA,NA,NA,NA

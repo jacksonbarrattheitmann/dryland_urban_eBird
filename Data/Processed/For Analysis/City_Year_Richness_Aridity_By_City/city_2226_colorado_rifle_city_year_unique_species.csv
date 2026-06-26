@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2015,10195668.3009085,3,4,city_2226_colorado_rifle,484.2312469482422,9.2265625,25.18553417690979,dry subhumid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2016,10195668.3009085,6,6,city_2226_colorado_rifle,370.51249980926514,9.036458333333332,19.463310523496283,semiarid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2017,10195668.3009085,31,32,city_2226_colorado_rifle,296.66249656677246,9.153645833333334,15.488565422384855,semiarid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2018,10195668.3009085,6,7,city_2226_colorado_rifle,331.6874957084656,8.864583333333332,17.582550849261565,semiarid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2019,10195668.3009085,26,46,city_2226_colorado_rifle,380.9875011444092,7.669270833333334,21.562151870221538,dry subhumid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2020,10195668.3009085,30,157,city_2226_colorado_rifle,222.15624904632568,8.932291666666668,11.73425029350606,semiarid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2021,10195668.3009085,12,13,city_2226_colorado_rifle,386.5000066757202,9.182291666666668,20.14879209387409,dry subhumid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2022,10195668.3009085,22,61,city_2226_colorado_rifle,352.9187488555908,8.424479166666668,19.154883330112632,semiarid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2023,10195668.3009085,30,56,city_2226_colorado_rifle,366.5249977111816,8.466145833333332,19.848483869848224,semiarid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2024,10195668.3009085,40,96,city_2226_colorado_rifle,357.01875019073486,9.794270833333332,18.0364688953088,semiarid,12
+2226,"Rifle, CO",Rifle,Colorado,Garfield,2025,10195668.3009085,73,358,city_2226_colorado_rifle,NA,NA,NA,NA,NA

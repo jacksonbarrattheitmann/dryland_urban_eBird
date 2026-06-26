@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2015,5430230.18643936,70,342,city_2306_idaho_salmon,261.6500015258789,6.924479166666666,15.459855452521545,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2016,5430230.18643936,46,135,city_2306_idaho_salmon,272.07499837875366,6.455729166666666,16.53375524251328,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2017,5430230.18643936,59,201,city_2306_idaho_salmon,303.8124990463257,5.567708333333334,19.515556981229352,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2018,5430230.18643936,60,270,city_2306_idaho_salmon,294.1124978065491,5.755208333333334,18.667636224415677,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2019,5430230.18643936,46,167,city_2306_idaho_salmon,306.73125171661377,4.7890625,20.740412160447207,dry subhumid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2020,5430230.18643936,76,480,city_2306_idaho_salmon,301.21874809265137,6.013020833333334,18.810863435937243,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2021,5430230.18643936,67,311,city_2306_idaho_salmon,232.98125457763672,6.549479166666666,14.077860229396146,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2022,5430230.18643936,42,118,city_2306_idaho_salmon,290.5624952316284,5.416666666666666,18.84729698799752,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2023,5430230.18643936,62,170,city_2306_idaho_salmon,313.57499980926514,6.216145833333334,19.33720891709616,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2024,5430230.18643936,80,498,city_2306_idaho_salmon,262.6249942779541,6.6484375,15.774753293091566,semiarid,12
+2306,"Salmon, ID",Salmon,Idaho,Lemhi,2025,5430230.18643936,82,453,city_2306_idaho_salmon,NA,NA,NA,NA,NA

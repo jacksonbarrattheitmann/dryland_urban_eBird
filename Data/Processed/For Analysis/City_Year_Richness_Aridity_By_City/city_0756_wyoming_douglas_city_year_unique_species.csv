@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+756,"Douglas, WY",Douglas,Wyoming,Converse,2015,8425557.02248813,27,36,city_0756_wyoming_douglas,363.3999972343445,9.020833333333332,19.10536677683301,semiarid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2016,8425557.02248813,25,27,city_0756_wyoming_douglas,302.3500003814697,9.182291666666668,15.761933226511587,semiarid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2017,8425557.02248813,30,40,city_0756_wyoming_douglas,275.65625190734863,8.7578125,14.695543625214754,semiarid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2018,8425557.02248813,27,32,city_0756_wyoming_douglas,346.82499599456787,8.059895833333332,19.204152626087104,semiarid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2020,8425557.02248813,24,38,city_0756_wyoming_douglas,214.88124990463257,8.864583333333332,11.390723352205812,semiarid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2021,8425557.02248813,10,11,city_0756_wyoming_douglas,289.4499979019165,9.106770833333332,15.149079895643444,semiarid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2022,8425557.02248813,45,115,city_0756_wyoming_douglas,258.3562526702881,8.2109375,14.186872733503591,semiarid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2023,8425557.02248813,44,98,city_0756_wyoming_douglas,369.54999446868896,8.403645833333332,20.080260064521944,dry subhumid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2024,8425557.02248813,40,107,city_0756_wyoming_douglas,231.47500228881836,9.776041666666668,11.704819710153574,semiarid,12
+756,"Douglas, WY",Douglas,Wyoming,Converse,2025,8425557.02248813,61,195,city_0756_wyoming_douglas,NA,NA,NA,NA,NA

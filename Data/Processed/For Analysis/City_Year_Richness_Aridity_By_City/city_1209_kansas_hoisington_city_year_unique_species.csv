@@ -1,0 +1,5 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1209,"Hoisington, KS",Hoisington,Kansas,Barton,2016,2799848.78475512,9,9,city_1209_kansas_hoisington,737.7250089645386,14.2265625,30.451080666707817,humid,12
+1209,"Hoisington, KS",Hoisington,Kansas,Barton,2018,2799848.78475512,8,8,city_1209_kansas_hoisington,704.7062435150146,12.950520833333332,30.705457563799573,humid,12
+1209,"Hoisington, KS",Hoisington,Kansas,Barton,2022,2799848.78475512,12,12,city_1209_kansas_hoisington,479.0999970436096,13.518229166666668,20.3714316094282,dry subhumid,12
+1209,"Hoisington, KS",Hoisington,Kansas,Barton,2024,2799848.78475512,20,33,city_1209_kansas_hoisington,569.0374965667725,14.513020833333332,23.213683064022163,dry subhumid,12

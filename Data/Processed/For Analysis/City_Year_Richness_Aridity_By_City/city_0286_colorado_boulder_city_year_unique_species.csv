@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+286,"Boulder, CO",Boulder,Colorado,Boulder,2015,84605603.533383,169,7546,city_0286_colorado_boulder,586.5562467575073,10.6171875,28.449867216733967,dry subhumid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2016,84605603.533383,199,12838,city_0286_colorado_boulder,502.9562587738037,10.854166666666668,24.11778263850407,dry subhumid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2017,84605603.533383,207,19531,city_0286_colorado_boulder,473.931245803833,10.473958333333334,23.148002847706927,dry subhumid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2018,84605603.533383,224,28339,city_0286_colorado_boulder,388.6250004768371,10.109375,19.32556334927551,semiarid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2019,84605603.533383,218,29906,city_0286_colorado_boulder,540.118745803833,9.229166666666666,28.088515491423607,dry subhumid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2020,84605603.533383,222,35593,city_0286_colorado_boulder,280.25625133514404,10.4765625,13.68668453677926,semiarid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2021,84605603.533383,217,31314,city_0286_colorado_boulder,444.618748664856,10.65625,21.52465954202026,dry subhumid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2022,84605603.533383,227,33767,city_0286_colorado_boulder,371.9375009536743,9.989583333333332,18.606565967458433,semiarid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2023,84605603.533383,228,47020,city_0286_colorado_boulder,508.06874656677246,9.942708333333332,25.476416646858272,dry subhumid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2024,84605603.533383,221,43953,city_0286_colorado_boulder,422.3937473297119,11.234375,19.891979270862077,semiarid,12
+286,"Boulder, CO",Boulder,Colorado,Boulder,2025,84605603.533383,224,49752,city_0286_colorado_boulder,NA,NA,NA,NA,NA

@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+445,"Castle Dale, UT",Castle Dale,Utah,Emery,2015,6860484.35813419,8,8,city_0445_utah_castle_dale,310.2749972343445,9.6484375,15.791331867195266,semiarid,12
+445,"Castle Dale, UT",Castle Dale,Utah,Emery,2019,6860484.35813419,5,5,city_0445_utah_castle_dale,261.2250032424927,8.4375,14.168135769084348,semiarid,12
+445,"Castle Dale, UT",Castle Dale,Utah,Emery,2020,6860484.35813419,36,135,city_0445_utah_castle_dale,160.11874866485596,9.4296875,8.240932782107585,arid,12
+445,"Castle Dale, UT",Castle Dale,Utah,Emery,2021,6860484.35813419,43,235,city_0445_utah_castle_dale,290.08124923706055,9.65625,14.75771061301421,semiarid,12
+445,"Castle Dale, UT",Castle Dale,Utah,Emery,2022,6860484.35813419,17,28,city_0445_utah_castle_dale,261.44375133514404,8.903645833333332,13.83033482748248,semiarid,12
+445,"Castle Dale, UT",Castle Dale,Utah,Emery,2023,6860484.35813419,25,35,city_0445_utah_castle_dale,271.1749963760376,8.875,14.366887225220536,semiarid,12
+445,"Castle Dale, UT",Castle Dale,Utah,Emery,2024,6860484.35813419,2,2,city_0445_utah_castle_dale,260.14375019073486,10.231770833333332,12.85817995536648,semiarid,12
+445,"Castle Dale, UT",Castle Dale,Utah,Emery,2025,6860484.35813419,7,7,city_0445_utah_castle_dale,NA,NA,NA,NA,NA

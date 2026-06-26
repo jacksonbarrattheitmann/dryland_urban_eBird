@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+403,"Canadian, TX",Canadian,Texas,Hemphill,2015,3861491.10593744,11,11,city_0403_texas_canadian,686.8999910354614,15.518229166666668,26.918011690745708,dry subhumid,12
+403,"Canadian, TX",Canadian,Texas,Hemphill,2017,3861491.10593744,9,9,city_0403_texas_canadian,576.2999980449677,15.859375,22.285921374548597,dry subhumid,12
+403,"Canadian, TX",Canadian,Texas,Hemphill,2019,3861491.10593744,16,20,city_0403_texas_canadian,598.7937459945679,14.8125,24.13274543051155,dry subhumid,12
+403,"Canadian, TX",Canadian,Texas,Hemphill,2021,3861491.10593744,5,5,city_0403_texas_canadian,464.5750019550323,15.494791666666668,18.222349412740797,semiarid,12
+403,"Canadian, TX",Canadian,Texas,Hemphill,2022,3861491.10593744,15,17,city_0403_texas_canadian,378.0250024795532,15.375,14.89753704352919,semiarid,12
+403,"Canadian, TX",Canadian,Texas,Hemphill,2023,3861491.10593744,12,15,city_0403_texas_canadian,538.018750667572,15.9453125,20.736645614408076,dry subhumid,12
+403,"Canadian, TX",Canadian,Texas,Hemphill,2024,3861491.10593744,1,1,city_0403_texas_canadian,481.6687502861023,16.643229166666668,18.078467413729182,semiarid,12
+403,"Canadian, TX",Canadian,Texas,Hemphill,2025,3861491.10593744,12,13,city_0403_texas_canadian,NA,NA,NA,NA,NA

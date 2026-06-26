@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2796,"Williams, AZ",Williams,Arizona,Coconino,2015,4690656.51386508,77,951,city_2796_arizona_williams,631.7624969482422,11.028645833333332,30.042947223297215,humid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2016,4690656.51386508,70,995,city_2796_arizona_williams,441.893750667572,10.838541666666666,21.205598632385364,dry subhumid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2017,4690656.51386508,46,354,city_2796_arizona_williams,334.9937560558319,11.203125,15.799263365934593,semiarid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2018,4690656.51386508,31,52,city_2796_arizona_williams,417.8187551498413,10.942708333333334,19.950559808199333,semiarid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2019,4690656.51386508,22,32,city_2796_arizona_williams,552.9687523841858,9.875,27.82232716398419,dry subhumid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2020,4690656.51386508,39,91,city_2796_arizona_williams,352.03750824928284,11.010416666666668,16.755379668780936,semiarid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2021,4690656.51386508,76,135,city_2796_arizona_williams,400.00625789165497,10.854166666666666,19.1811192595399,semiarid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2022,4690656.51386508,19,39,city_2796_arizona_williams,393.0187479257584,10.4375,19.230275127865852,semiarid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2023,4690656.51386508,50,198,city_2796_arizona_williams,401.0437514781952,10.153645833333332,19.899315230343323,semiarid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2024,4690656.51386508,56,511,city_2796_arizona_williams,385.6187492609024,11.302083333333332,18.102396053323535,semiarid,12
+2796,"Williams, AZ",Williams,Arizona,Coconino,2025,4690656.51386508,49,164,city_2796_arizona_williams,NA,NA,NA,NA,NA

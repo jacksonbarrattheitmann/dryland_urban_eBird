@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+765,"Dumas, TX",Dumas,Texas,Moore,2016,14727210.1848151,2,2,city_0765_texas_dumas,448.8062524795532,15.125,17.86293542207177,semiarid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2017,14727210.1848151,4,4,city_0765_texas_dumas,522.6874905824661,14.90625,20.986197865293494,dry subhumid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2018,14727210.1848151,14,21,city_0765_texas_dumas,398.8749887943268,14.286458333333332,16.423761065518068,semiarid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2019,14727210.1848151,16,44,city_0765_texas_dumas,460.84999656677246,13.979166666666668,19.218766147007017,semiarid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2020,14727210.1848151,2,2,city_0765_texas_dumas,327.01249504089355,14.638020833333334,13.272677105559994,semiarid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2021,14727210.1848151,18,35,city_0765_texas_dumas,379.706247985363,14.419270833333332,15.549450701330851,semiarid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2022,14727210.1848151,13,60,city_0765_texas_dumas,318.46875524520874,14.322916666666668,13.093362100017147,semiarid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2023,14727210.1848151,1,1,city_0765_texas_dumas,459.0687432289123,14.921875,18.42031320793128,semiarid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2024,14727210.1848151,7,7,city_0765_texas_dumas,423.6625006198883,15.502604166666666,16.612519170635874,semiarid,12
+765,"Dumas, TX",Dumas,Texas,Moore,2025,14727210.1848151,20,37,city_0765_texas_dumas,NA,NA,NA,NA,NA

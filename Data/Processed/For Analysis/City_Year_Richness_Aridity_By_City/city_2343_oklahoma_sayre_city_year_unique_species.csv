@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2015,3648431.13906122,34,61,city_2343_oklahoma_sayre,818.7937488555908,16.263020833333332,31.176678191427555,humid,12
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2016,3648431.13906122,23,39,city_2343_oklahoma_sayre,636.6625008583069,16.9140625,23.655384647275262,dry subhumid,12
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2017,3648431.13906122,13,15,city_2343_oklahoma_sayre,666.3499941825867,16.739583333333332,24.91998420004999,dry subhumid,12
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2020,3648431.13906122,23,33,city_2343_oklahoma_sayre,562.2624950408936,16.291666666666668,21.38557825829072,dry subhumid,12
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2021,3648431.13906122,24,34,city_2343_oklahoma_sayre,594.5687499046326,16.158854166666668,22.729158781819702,dry subhumid,12
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2022,3648431.13906122,22,31,city_2343_oklahoma_sayre,478.93749618530273,16.234375,18.256104678891827,semiarid,12
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2023,3648431.13906122,22,35,city_2343_oklahoma_sayre,646.418740272522,16.619791666666668,24.2833884038983,dry subhumid,12
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2024,3648431.13906122,23,35,city_2343_oklahoma_sayre,579.881254196167,17.346354166666668,21.205066337618145,dry subhumid,12
+2343,"Sayre, OK",Sayre,Oklahoma,Beckham,2025,3648431.13906122,1,1,city_2343_oklahoma_sayre,NA,NA,NA,NA,NA

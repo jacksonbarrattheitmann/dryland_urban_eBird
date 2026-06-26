@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+849,"Enid, OK",Enid,Oklahoma,Garfield,2015,62153522.0701986,9,9,city_0849_oklahoma_enid,1077.7250022888184,15.817708333333332,41.74363535191711,humid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2016,62153522.0701986,39,78,city_0849_oklahoma_enid,834.8999977111816,16.53125,31.468551150480344,humid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2017,62153522.0701986,34,60,city_0849_oklahoma_enid,871.3312525749207,16.088541666666668,33.39900189546511,humid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2018,62153522.0701986,18,20,city_0849_oklahoma_enid,873.6624956130981,15.309895833333332,34.51861285270395,humid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2019,62153522.0701986,64,189,city_0849_oklahoma_enid,1034.0750102996826,15.0859375,41.22130218572388,humid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2020,62153522.0701986,96,1921,city_0849_oklahoma_enid,814.5374870300293,15.611979166666666,31.8029888174409,humid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2021,62153522.0701986,113,2884,city_0849_oklahoma_enid,765.5625057220459,15.846354166666668,29.619748332218197,dry subhumid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2022,62153522.0701986,121,2528,city_0849_oklahoma_enid,662.9500017166138,15.708333333333332,25.78735825153765,dry subhumid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2023,62153522.0701986,114,2876,city_0849_oklahoma_enid,814.0187530517578,16.3515625,30.890720542729024,humid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2024,62153522.0701986,108,2540,city_0849_oklahoma_enid,713.9250030517578,16.84375,26.595576365141152,dry subhumid,12
+849,"Enid, OK",Enid,Oklahoma,Garfield,2025,62153522.0701986,120,2754,city_0849_oklahoma_enid,NA,NA,NA,NA,NA

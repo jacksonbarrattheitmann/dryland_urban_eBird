@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1058,"Grants, NM",Grants,New Mexico,Cibola,2015,21052416.2140585,60,364,city_1058_new_mexico_grants,415.6999988555908,10.619791666666668,20.160242429975607,dry subhumid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2017,21052416.2140585,11,12,city_1058_new_mexico_grants,228.71250021457672,11.28125,10.747136573959551,semiarid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2018,21052416.2140585,19,22,city_1058_new_mexico_grants,284.1125009059906,10.861979166666668,13.618674366233977,semiarid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2019,21052416.2140585,27,55,city_1058_new_mexico_grants,242.2187547683716,9.903645833333334,12.1695671635555,semiarid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2020,21052416.2140585,34,42,city_1058_new_mexico_grants,175.2937502861023,10.958333333333334,8.36391651464504,arid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2021,21052416.2140585,37,90,city_1058_new_mexico_grants,219.53125047683716,10.796875,10.555972975595475,semiarid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2022,21052416.2140585,79,560,city_1058_new_mexico_grants,282.9062498807907,10.338541666666668,13.909859149068328,semiarid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2023,21052416.2140585,30,63,city_1058_new_mexico_grants,189.97500050067904,10.625,9.210909115184435,arid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2024,21052416.2140585,52,152,city_1058_new_mexico_grants,225.12499916553497,11.434895833333334,10.5027335292875,semiarid,12
+1058,"Grants, NM",Grants,New Mexico,Cibola,2025,21052416.2140585,34,81,city_1058_new_mexico_grants,NA,NA,NA,NA,NA

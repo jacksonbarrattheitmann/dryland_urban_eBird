@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1586,"Madras, OR",Madras,Oregon,Jefferson,2015,13758593.3199273,29,33,city_1586_oregon_madras,328.72499990463257,10.864583333333334,15.755167244555528,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2016,13758593.3199273,18,30,city_1586_oregon_madras,379.6437530517578,10.388020833333334,18.620922361971513,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2017,13758593.3199273,21,25,city_1586_oregon_madras,370.34999680519104,9.283854166666666,19.205185519675,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2018,13758593.3199273,13,20,city_1586_oregon_madras,267.87500047683716,9.817708333333334,13.516951403824631,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2019,13758593.3199273,18,26,city_1586_oregon_madras,288.5437469482422,9.026041666666666,15.165726639491515,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2020,13758593.3199273,16,55,city_1586_oregon_madras,330.2624990940094,9.890625,16.603927684223567,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2021,13758593.3199273,42,172,city_1586_oregon_madras,322.91875290870667,10.200520833333334,15.985664705033305,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2022,13758593.3199273,51,495,city_1586_oregon_madras,352.5937476158142,9.385416666666668,18.188608152132275,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2023,13758593.3199273,40,238,city_1586_oregon_madras,296.3437469005585,10.091145833333332,14.749967441323976,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2024,13758593.3199273,37,264,city_1586_oregon_madras,365.8375024795532,10.244791666666666,18.070697318259384,semiarid,12
+1586,"Madras, OR",Madras,Oregon,Jefferson,2025,13758593.3199273,47,317,city_1586_oregon_madras,NA,NA,NA,NA,NA

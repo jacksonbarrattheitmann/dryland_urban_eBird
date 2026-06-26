@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2882,"Yuba City, CA",Yuba City,California,Sutter,2015,98242863.0887843,71,362,city_2882_california_yuba_city,353.3187485933304,18.833333333333332,12.253829430982558,semiarid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2016,98242863.0887843,67,677,city_2882_california_yuba_city,623.8875012993813,18.4765625,21.90880662999199,dry subhumid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2017,98242863.0887843,64,392,city_2882_california_yuba_city,655.3375058174133,18.471354166666668,23.01743366266228,dry subhumid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2018,98242863.0887843,61,436,city_2882_california_yuba_city,511.83750039339066,18.25,18.11814160684569,semiarid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2019,98242863.0887843,75,287,city_2882_california_yuba_city,645.2625076174736,18.1171875,22.949041671307757,dry subhumid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2020,98242863.0887843,95,314,city_2882_california_yuba_city,233.5937501192093,18.549479166666668,8.182066956652044,arid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2021,98242863.0887843,126,1474,city_2882_california_yuba_city,503.3312534689903,18.2109375,17.841706021609184,semiarid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2022,98242863.0887843,113,1221,city_2882_california_yuba_city,343.5374917984009,18.268229166666668,12.152777231744444,semiarid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2023,98242863.0887843,117,1529,city_2882_california_yuba_city,605.5625047087669,17.830729166666668,21.75877250941953,dry subhumid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2024,98242863.0887843,97,655,city_2882_california_yuba_city,657.6499985456467,18.619791666666668,22.97885345236836,dry subhumid,12
+2882,"Yuba City, CA",Yuba City,California,Sutter,2025,98242863.0887843,98,559,city_2882_california_yuba_city,NA,NA,NA,NA,NA

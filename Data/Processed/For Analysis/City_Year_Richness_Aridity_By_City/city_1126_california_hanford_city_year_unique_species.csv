@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1126,"Hanford, CA",Hanford,California,Kings,2015,71966030.0832357,69,396,city_1126_california_hanford,106.76250088214874,18.958333333333332,3.686762620390748,extremely arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2016,71966030.0832357,54,172,city_1126_california_hanford,190.09375143051147,18.752604166666668,6.6113577166304145,arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2017,71966030.0832357,57,391,city_1126_california_hanford,226.12500393390656,18.877604166666668,7.830462756841926,arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2018,71966030.0832357,65,446,city_1126_california_hanford,147.45624887943268,18.716145833333332,5.134959605486728,arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2019,71966030.0832357,75,1163,city_1126_california_hanford,236.3187539577484,18.075520833333332,8.417252714940673,arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2020,71966030.0832357,86,1691,city_1126_california_hanford,105.46874821186066,18.848958333333332,3.6558945038232977,extremely arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2021,71966030.0832357,92,1856,city_1126_california_hanford,162.85624927282333,18.596354166666668,5.6950004299029375,arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2022,71966030.0832357,83,930,city_1126_california_hanford,113.75000208616255,18.484375,3.9934175170128383,extremely arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2023,71966030.0832357,78,965,city_1126_california_hanford,245.35000085830688,17.856770833333332,8.807553550489843,arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2024,71966030.0832357,99,1397,city_1126_california_hanford,218.55000233650208,18.841145833333332,7.577715656633571,arid,12
+1126,"Hanford, CA",Hanford,California,Kings,2025,71966030.0832357,96,1428,city_1126_california_hanford,NA,NA,NA,NA,NA

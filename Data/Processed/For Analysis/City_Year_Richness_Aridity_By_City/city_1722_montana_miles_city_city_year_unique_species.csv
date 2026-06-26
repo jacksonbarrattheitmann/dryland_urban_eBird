@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1722,"Miles City, MT",Miles City,Montana,Custer,2015,18290643.7632001,8,8,city_1722_montana_miles_city,343.6375050544739,8.893229166666668,18.18839447841736,semiarid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2016,18290643.7632001,50,108,city_1722_montana_miles_city,343.53124713897705,9.216145833333332,17.87721898649779,semiarid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2017,18290643.7632001,51,96,city_1722_montana_miles_city,317.8499975204468,8.1328125,17.528995985617055,semiarid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2018,18290643.7632001,67,211,city_1722_montana_miles_city,384.46875,6.838541666666667,22.83266316115063,dry subhumid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2019,18290643.7632001,47,89,city_1722_montana_miles_city,411.7187514305115,6.330729166666667,25.211290152976623,dry subhumid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2020,18290643.7632001,46,93,city_1722_montana_miles_city,283.3687505722046,8.5,15.317229760659709,semiarid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2021,18290643.7632001,76,232,city_1722_montana_miles_city,263.67500257492065,9.03125,13.854844141867751,semiarid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2022,18290643.7632001,67,238,city_1722_montana_miles_city,340.8624987602234,7.708333333333334,19.248705812342024,semiarid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2023,18290643.7632001,45,138,city_1722_montana_miles_city,434.7000026702881,8.447916666666668,23.56363650838377,dry subhumid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2024,18290643.7632001,87,473,city_1722_montana_miles_city,287.1374912261963,9.223958333333332,14.936439532763394,semiarid,12
+1722,"Miles City, MT",Miles City,Montana,Custer,2025,18290643.7632001,91,870,city_1722_montana_miles_city,NA,NA,NA,NA,NA

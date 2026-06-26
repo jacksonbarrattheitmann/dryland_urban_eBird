@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1580,"Madison, SD",Madison,South Dakota,Lake,2016,7367058.02860923,1,1,city_1580_south_dakota_madison,698.9875116348267,8.893229166666668,36.996720119610394,humid,12
+1580,"Madison, SD",Madison,South Dakota,Lake,2020,7367058.02860923,13,24,city_1580_south_dakota_madison,537.3937492370605,8.192708333333332,29.538963599632304,dry subhumid,12
+1580,"Madison, SD",Madison,South Dakota,Lake,2021,7367058.02860923,34,169,city_1580_south_dakota_madison,585.0437469482422,8.924479166666668,30.914655129781888,humid,12
+1580,"Madison, SD",Madison,South Dakota,Lake,2022,7367058.02860923,12,27,city_1580_south_dakota_madison,507.649998664856,7.255208333333333,29.420102548642426,dry subhumid,12
+1580,"Madison, SD",Madison,South Dakota,Lake,2023,7367058.02860923,26,55,city_1580_south_dakota_madison,635.6687488555908,8.5546875,34.25919993832237,humid,12
+1580,"Madison, SD",Madison,South Dakota,Lake,2024,7367058.02860923,5,5,city_1580_south_dakota_madison,670.8562479019165,9.2265625,34.8921575503638,humid,12
+1580,"Madison, SD",Madison,South Dakota,Lake,2025,7367058.02860923,23,49,city_1580_south_dakota_madison,NA,NA,NA,NA,NA

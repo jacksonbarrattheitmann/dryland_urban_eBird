@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1153,"Haskell, TX",Haskell,Texas,Haskell,2018,5114367.02605592,20,23,city_1153_texas_haskell,631.0312550067902,18.489583333333332,22.149543137349855,dry subhumid,12
+1153,"Haskell, TX",Haskell,Texas,Haskell,2019,5114367.02605592,3,3,city_1153_texas_haskell,650.5562496185303,18.299479166666668,22.9882764197585,dry subhumid,12
+1153,"Haskell, TX",Haskell,Texas,Haskell,2020,5114367.02605592,19,19,city_1153_texas_haskell,544.7624998092651,18.84375,18.8866738828781,semiarid,12
+1153,"Haskell, TX",Haskell,Texas,Haskell,2021,5114367.02605592,8,9,city_1153_texas_haskell,599.7187514305115,18.388020833333332,21.125768328531,dry subhumid,12
+1153,"Haskell, TX",Haskell,Texas,Haskell,2022,5114367.02605592,16,17,city_1153_texas_haskell,411.83750343322754,18.9296875,14.235808922347587,semiarid,12
+1153,"Haskell, TX",Haskell,Texas,Haskell,2023,5114367.02605592,16,22,city_1153_texas_haskell,547.9375038146973,19.4296875,18.618529463308004,semiarid,12
+1153,"Haskell, TX",Haskell,Texas,Haskell,2025,5114367.02605592,4,4,city_1153_texas_haskell,NA,NA,NA,NA,NA

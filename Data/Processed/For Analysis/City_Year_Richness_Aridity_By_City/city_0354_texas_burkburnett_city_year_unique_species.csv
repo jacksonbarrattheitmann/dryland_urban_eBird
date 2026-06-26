@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+354,"Burkburnett, TX",Burkburnett,Texas,Wichita,2017,13519176.5367222,7,7,city_0354_texas_burkburnett,711.987491607666,18.640625,24.85935595356826,dry subhumid,12
+354,"Burkburnett, TX",Burkburnett,Texas,Wichita,2018,13519176.5367222,7,7,city_0354_texas_burkburnett,777.7249898910522,17.888020833333332,27.887421432268567,dry subhumid,12
+354,"Burkburnett, TX",Burkburnett,Texas,Wichita,2019,13519176.5367222,3,3,city_0354_texas_burkburnett,829.1000175476074,17.442708333333332,30.212033283192376,humid,12
+354,"Burkburnett, TX",Burkburnett,Texas,Wichita,2020,13519176.5367222,29,31,city_0354_texas_burkburnett,733.3437557220459,17.864583333333332,26.318131046473425,dry subhumid,12
+354,"Burkburnett, TX",Burkburnett,Texas,Wichita,2021,13519176.5367222,71,276,city_0354_texas_burkburnett,692.1562490463257,17.9375,24.775167751098905,dry subhumid,12
+354,"Burkburnett, TX",Burkburnett,Texas,Wichita,2022,13519176.5367222,41,63,city_0354_texas_burkburnett,522.0875005722046,18.065104166666668,18.6027280523083,semiarid,12
+354,"Burkburnett, TX",Burkburnett,Texas,Wichita,2023,13519176.5367222,8,12,city_0354_texas_burkburnett,715.6937580108643,18.739583333333332,24.90271865496302,dry subhumid,12
+354,"Burkburnett, TX",Burkburnett,Texas,Wichita,2025,13519176.5367222,5,6,city_0354_texas_burkburnett,NA,NA,NA,NA,NA

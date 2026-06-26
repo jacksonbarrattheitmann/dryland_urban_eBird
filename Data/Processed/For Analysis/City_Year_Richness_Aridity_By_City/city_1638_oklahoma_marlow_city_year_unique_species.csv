@@ -1,0 +1,7 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1638,"Marlow, OK",Marlow,Oklahoma,Stephens,2018,4656067.45556779,19,25,city_1638_oklahoma_marlow,903.1124978065492,16.903645833333332,33.56840568751475,humid,12
+1638,"Marlow, OK",Marlow,Oklahoma,Stephens,2021,4656067.45556779,4,4,city_1638_oklahoma_marlow,801.1937561035156,17.015625,29.65668038786871,dry subhumid,12
+1638,"Marlow, OK",Marlow,Oklahoma,Stephens,2022,4656067.45556779,51,291,city_1638_oklahoma_marlow,656.8375129699707,17.278645833333332,24.078816704579356,dry subhumid,12
+1638,"Marlow, OK",Marlow,Oklahoma,Stephens,2023,4656067.45556779,32,139,city_1638_oklahoma_marlow,831.1749992370605,17.8203125,29.876551503045143,dry subhumid,12
+1638,"Marlow, OK",Marlow,Oklahoma,Stephens,2024,4656067.45556779,27,159,city_1638_oklahoma_marlow,795.3249979019165,18.453125,27.952114149216175,dry subhumid,12
+1638,"Marlow, OK",Marlow,Oklahoma,Stephens,2025,4656067.45556779,43,285,city_1638_oklahoma_marlow,NA,NA,NA,NA,NA

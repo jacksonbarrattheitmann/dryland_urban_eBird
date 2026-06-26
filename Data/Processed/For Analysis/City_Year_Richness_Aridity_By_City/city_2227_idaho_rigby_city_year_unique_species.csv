@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2227,"Rigby, ID",Rigby,Idaho,Jefferson,2018,21668337.2563096,16,16,city_2227_idaho_rigby,327.31875228881836,7.1796875,19.052660433364597,semiarid,12
+2227,"Rigby, ID",Rigby,Idaho,Jefferson,2019,21668337.2563096,11,12,city_2227_idaho_rigby,348.58124923706055,6.026041666666666,21.7509261792381,dry subhumid,12
+2227,"Rigby, ID",Rigby,Idaho,Jefferson,2021,21668337.2563096,7,8,city_2227_idaho_rigby,292.4937524795532,7.9296875,16.313377044611247,semiarid,12
+2227,"Rigby, ID",Rigby,Idaho,Jefferson,2022,21668337.2563096,19,27,city_2227_idaho_rigby,319.6875047683716,6.875,18.944444727014613,semiarid,12
+2227,"Rigby, ID",Rigby,Idaho,Jefferson,2023,21668337.2563096,18,30,city_2227_idaho_rigby,360.52500343322754,7.096354166666666,21.087829599140807,dry subhumid,12
+2227,"Rigby, ID",Rigby,Idaho,Jefferson,2024,21668337.2563096,28,98,city_2227_idaho_rigby,297.08125019073486,8.216145833333332,16.30867763734699,semiarid,12
+2227,"Rigby, ID",Rigby,Idaho,Jefferson,2025,21668337.2563096,31,84,city_2227_idaho_rigby,NA,NA,NA,NA,NA

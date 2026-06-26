@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2361,"Selma, CA",Selma,California,Fresno,2016,32419915.3237629,15,21,city_2361_california_selma,288.46249812841415,18.770833333333332,10.026212824159218,semiarid,12
+2361,"Selma, CA",Selma,California,Fresno,2017,32419915.3237629,36,396,city_2361_california_selma,333.6000027656555,18.833333333333332,11.56994229245048,semiarid,12
+2361,"Selma, CA",Selma,California,Fresno,2018,32419915.3237629,49,802,city_2361_california_selma,231.13749313354492,18.674479166666668,8.060739021277017,arid,12
+2361,"Selma, CA",Selma,California,Fresno,2019,32419915.3237629,37,135,city_2361_california_selma,351.44374853372574,18.171875,12.474986082173292,semiarid,12
+2361,"Selma, CA",Selma,California,Fresno,2020,32419915.3237629,49,217,city_2361_california_selma,155.74374705553055,18.890625,5.390805739077315,arid,12
+2361,"Selma, CA",Selma,California,Fresno,2021,32419915.3237629,28,61,city_2361_california_selma,239.86875069141388,18.630208333333332,8.378169935010272,arid,12
+2361,"Selma, CA",Selma,California,Fresno,2022,32419915.3237629,24,35,city_2361_california_selma,169.14375060796738,18.59375,5.915409857327821,arid,12
+2361,"Selma, CA",Selma,California,Fresno,2023,32419915.3237629,28,58,city_2361_california_selma,356.91874742507935,17.8203125,12.829429842855983,semiarid,12
+2361,"Selma, CA",Selma,California,Fresno,2024,32419915.3237629,16,25,city_2361_california_selma,320.3937518596649,18.885416666666668,11.091886108376428,semiarid,12
+2361,"Selma, CA",Selma,California,Fresno,2025,32419915.3237629,18,31,city_2361_california_selma,NA,NA,NA,NA,NA

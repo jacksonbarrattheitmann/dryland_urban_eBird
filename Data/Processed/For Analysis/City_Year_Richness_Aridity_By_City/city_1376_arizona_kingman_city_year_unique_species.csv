@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2015,61623953.0387403,39,134,city_1376_arizona_kingman,286.48749923706055,18.494791666666668,10.05403031502753,semiarid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2016,61623953.0387403,45,238,city_1376_arizona_kingman,194.7374997138977,18.265625,6.889552228684054,arid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2017,61623953.0387403,53,205,city_1376_arizona_kingman,158.15000128746033,18.559895833333332,5.537485227900499,arid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2018,61623953.0387403,52,314,city_1376_arizona_kingman,197.89999735355377,18.3359375,6.984063871313726,arid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2019,61623953.0387403,65,465,city_1376_arizona_kingman,277.28125035762787,17.388020833333332,10.124179912268623,semiarid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2020,61623953.0387403,39,169,city_1376_arizona_kingman,174.24999737739563,18.450520833333332,6.124668100038437,arid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2021,61623953.0387403,45,224,city_1376_arizona_kingman,191.24999928474423,18.229166666666668,6.774907723740018,arid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2022,61623953.0387403,50,271,city_1376_arizona_kingman,182.8312495946884,17.9296875,6.546125859614019,arid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2023,61623953.0387403,57,369,city_1376_arizona_kingman,241.46250081062317,17.401041666666668,8.812165017228596,arid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2024,61623953.0387403,71,412,city_1376_arizona_kingman,167.7937514781952,18.5625,5.874617119586702,arid,12
+1376,"Kingman, AZ",Kingman,Arizona,Mohave,2025,61623953.0387403,50,368,city_1376_arizona_kingman,NA,NA,NA,NA,NA

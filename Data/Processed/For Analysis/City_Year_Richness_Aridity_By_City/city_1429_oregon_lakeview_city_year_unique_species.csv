@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2016,3408858.99976477,11,11,city_1429_oregon_lakeview,434.73124527931213,8.859375,23.051201075290784,dry subhumid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2017,3408858.99976477,14,20,city_1429_oregon_lakeview,399.5875060558319,8.619791666666668,21.46036396159992,dry subhumid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2018,3408858.99976477,38,155,city_1429_oregon_lakeview,366.7437517642975,8.622395833333334,19.693693284504295,semiarid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2019,3408858.99976477,32,81,city_1429_oregon_lakeview,440.2500004768371,7.9765625,24.490221669289507,dry subhumid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2020,3408858.99976477,46,308,city_1429_oregon_lakeview,319.2312469482422,8.708333333333334,17.063585582979535,semiarid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2021,3408858.99976477,37,77,city_1429_oregon_lakeview,367.36250472068787,8.796875,19.54380739993685,semiarid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2022,3408858.99976477,28,51,city_1429_oregon_lakeview,335.5687561035156,8.356770833333332,18.280380528266424,semiarid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2023,3408858.99976477,29,58,city_1429_oregon_lakeview,377.8374984264374,8.302083333333332,20.64450759757427,dry subhumid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2024,3408858.99976477,12,22,city_1429_oregon_lakeview,457.149998664856,9.119791666666668,23.90977928184482,dry subhumid,12
+1429,"Lakeview, OR",Lakeview,Oregon,Lake,2025,3408858.99976477,18,40,city_1429_oregon_lakeview,NA,NA,NA,NA,NA

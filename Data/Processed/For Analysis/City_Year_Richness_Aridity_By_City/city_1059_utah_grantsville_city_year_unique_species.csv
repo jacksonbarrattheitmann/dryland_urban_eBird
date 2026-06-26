@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2015,9774439.93696183,9,9,city_1059_utah_grantsville,372.0375003814697,12.802083333333332,16.315943369858882,semiarid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2017,9774439.93696183,14,18,city_1059_utah_grantsville,339.30625200271606,12.1015625,15.35213865547814,semiarid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2018,9774439.93696183,13,22,city_1059_utah_grantsville,293.7250032424927,12.075520833333332,13.305461984796176,semiarid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2019,9774439.93696183,11,15,city_1059_utah_grantsville,460.6625003814697,10.934895833333332,22.004527944580715,dry subhumid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2020,9774439.93696183,31,61,city_1059_utah_grantsville,212.6937484741211,12.299479166666668,9.538059023013254,arid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2021,9774439.93696183,13,20,city_1059_utah_grantsville,351.39374446868896,12.744791666666668,15.449415831918545,semiarid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2022,9774439.93696183,14,14,city_1059_utah_grantsville,322.66875171661377,11.653645833333332,14.90135906905348,semiarid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2023,9774439.93696183,17,20,city_1059_utah_grantsville,393.23125290870667,11.421875,18.35652821747427,semiarid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2024,9774439.93696183,2,2,city_1059_utah_grantsville,359.1875023841858,12.9375,15.659400648901832,semiarid,12
+1059,"Grantsville, UT",Grantsville,Utah,Tooele,2025,9774439.93696183,15,29,city_1059_utah_grantsville,NA,NA,NA,NA,NA

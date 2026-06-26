@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+232,"Big Spring, TX",Big Spring,Texas,Howard,2015,38111401.9367003,71,221,city_0232_texas_big_spring,730.6062450408936,18.083333333333332,26.015652642405705,dry subhumid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2016,38111401.9367003,37,63,city_0232_texas_big_spring,575.8062529563904,18.768229166666668,20.015352687177867,dry subhumid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2017,38111401.9367003,42,93,city_0232_texas_big_spring,507.06250286102295,18.8671875,17.56535869180269,semiarid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2018,38111401.9367003,75,156,city_0232_texas_big_spring,497.3375046253204,18.21875,17.62436339757503,semiarid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2019,38111401.9367003,76,147,city_0232_texas_big_spring,475.8812601566314,18.2578125,16.840697069408026,semiarid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2020,38111401.9367003,61,181,city_0232_texas_big_spring,327.6500005722046,18.8828125,11.344116871312464,semiarid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2021,38111401.9367003,68,154,city_0232_texas_big_spring,490.3312487602234,18.302083333333332,17.324917144269946,semiarid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2022,38111401.9367003,36,118,city_0232_texas_big_spring,296.2499997615814,18.677083333333332,10.330548484239673,semiarid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2023,38111401.9367003,49,88,city_0232_texas_big_spring,347.3187494277954,19.455729166666668,11.79121207499544,semiarid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2024,38111401.9367003,76,266,city_0232_texas_big_spring,467.681254863739,19.765625,15.712126147653176,semiarid,12
+232,"Big Spring, TX",Big Spring,Texas,Howard,2025,38111401.9367003,82,383,city_0232_texas_big_spring,NA,NA,NA,NA,NA

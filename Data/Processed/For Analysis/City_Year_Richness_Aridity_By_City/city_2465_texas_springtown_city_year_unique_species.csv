@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2465,"Springtown, TX",Springtown,Texas,Parker,2015,5575560.44744927,4,4,city_2465_texas_springtown,1183.1500129699707,18.604166666666668,41.36285551533765,humid,12
+2465,"Springtown, TX",Springtown,Texas,Parker,2016,5575560.44744927,16,17,city_2465_texas_springtown,998.787504196167,19.270833333333332,34.12227772342777,humid,12
+2465,"Springtown, TX",Springtown,Texas,Parker,2017,5575560.44744927,9,13,city_2465_texas_springtown,772.6500015258789,19.3359375,26.33800271512983,dry subhumid,12
+2465,"Springtown, TX",Springtown,Texas,Parker,2018,5575560.44744927,19,19,city_2465_texas_springtown,906.9625005722046,18.427083333333332,31.90487360019481,humid,12
+2465,"Springtown, TX",Springtown,Texas,Parker,2021,5575560.44744927,10,10,city_2465_texas_springtown,849.9750022888184,18.471354166666668,29.853690741690865,dry subhumid,12
+2465,"Springtown, TX",Springtown,Texas,Parker,2022,5575560.44744927,14,15,city_2465_texas_springtown,602.2062501907349,18.854166666666668,20.87068592718792,dry subhumid,12
+2465,"Springtown, TX",Springtown,Texas,Parker,2023,5575560.44744927,10,15,city_2465_texas_springtown,834.4375057220459,19.549479166666668,28.23865358220372,dry subhumid,12
+2465,"Springtown, TX",Springtown,Texas,Parker,2024,5575560.44744927,8,8,city_2465_texas_springtown,920.6937370300292,19.903645833333332,30.788678482934017,humid,12
+2465,"Springtown, TX",Springtown,Texas,Parker,2025,5575560.44744927,22,32,city_2465_texas_springtown,NA,NA,NA,NA,NA

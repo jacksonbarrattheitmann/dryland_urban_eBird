@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2015,5882521.3777117,23,23,city_1894_wyoming_newcastle,546.0499958992004,8.614583333333332,29.334526920158503,dry subhumid,12
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2018,5882521.3777117,21,34,city_1894_wyoming_newcastle,555.037501335144,7.1875,32.293090986772015,humid,12
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2019,5882521.3777117,34,45,city_1894_wyoming_newcastle,597.8750047683716,6.705729166666667,35.78862070632185,humid,12
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2020,5882521.3777117,10,10,city_1894_wyoming_newcastle,314.9124984741211,8.434895833333334,17.08241268739405,semiarid,12
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2021,5882521.3777117,46,71,city_1894_wyoming_newcastle,394.6624984741211,8.739583333333332,21.06036678905816,dry subhumid,12
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2022,5882521.3777117,31,60,city_1894_wyoming_newcastle,371.4437532424927,7.739583333333334,20.93869660086864,dry subhumid,12
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2023,5882521.3777117,21,30,city_1894_wyoming_newcastle,559.031252861023,8.216145833333332,30.6887778554157,humid,12
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2024,5882521.3777117,30,58,city_1894_wyoming_newcastle,342.91249895095825,8.994791666666668,18.05297499275678,semiarid,12
+1894,"Newcastle, WY",Newcastle,Wyoming,Weston,2025,5882521.3777117,18,24,city_1894_wyoming_newcastle,NA,NA,NA,NA,NA

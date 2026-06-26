@@ -1,0 +1,9 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+512,"Chowchilla, CA",Chowchilla,California,Madera,2017,11978288.7610846,13,14,city_0512_california_chowchilla,346.5250034183264,17.859375,12.438362433411603,semiarid,12
+512,"Chowchilla, CA",Chowchilla,California,Madera,2018,11978288.7610846,11,13,city_0512_california_chowchilla,259.5000039935112,17.7265625,9.35925627251886,arid,12
+512,"Chowchilla, CA",Chowchilla,California,Madera,2019,11978288.7610846,5,5,city_0512_california_chowchilla,339.35625064373016,17.229166666666668,12.462968654092617,semiarid,12
+512,"Chowchilla, CA",Chowchilla,California,Madera,2020,11978288.7610846,20,27,city_0512_california_chowchilla,144.7875035405159,17.885416666666668,5.1922302352967975,arid,12
+512,"Chowchilla, CA",Chowchilla,California,Madera,2021,11978288.7610846,12,27,city_0512_california_chowchilla,259.31874710321426,17.653645833333332,9.377380062871673,arid,12
+512,"Chowchilla, CA",Chowchilla,California,Madera,2023,11978288.7610846,5,5,city_0512_california_chowchilla,339.8312604278326,16.955729166666668,12.607014201940654,semiarid,12
+512,"Chowchilla, CA",Chowchilla,California,Madera,2024,11978288.7610846,13,16,city_0512_california_chowchilla,328.76875442266464,17.963541666666668,11.757049888089329,semiarid,12
+512,"Chowchilla, CA",Chowchilla,California,Madera,2025,11978288.7610846,19,39,city_0512_california_chowchilla,NA,NA,NA,NA,NA

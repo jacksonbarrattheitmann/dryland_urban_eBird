@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+253,"Blanding, UT",Blanding,Utah,San Juan,2015,4301649.8606929,7,7,city_0253_utah_blanding,436.3312549591065,11.940104166666668,19.88738301534681,semiarid,12
+253,"Blanding, UT",Blanding,Utah,San Juan,2018,4301649.8606929,33,59,city_0253_utah_blanding,303.9187521934509,11.986979166666668,13.82266976694127,semiarid,12
+253,"Blanding, UT",Blanding,Utah,San Juan,2019,4301649.8606929,4,4,city_0253_utah_blanding,299.91875171661377,10.8515625,14.38351450720366,semiarid,12
+253,"Blanding, UT",Blanding,Utah,San Juan,2020,4301649.8606929,8,16,city_0253_utah_blanding,210.5187463760376,12.0234375,9.558850491710825,arid,12
+253,"Blanding, UT",Blanding,Utah,San Juan,2021,4301649.8606929,9,12,city_0253_utah_blanding,322.66249895095825,12.0078125,14.661270807853269,semiarid,12
+253,"Blanding, UT",Blanding,Utah,San Juan,2022,4301649.8606929,8,10,city_0253_utah_blanding,321.23124837875366,11.494791666666668,14.944608599156942,semiarid,12
+253,"Blanding, UT",Blanding,Utah,San Juan,2023,4301649.8606929,9,13,city_0253_utah_blanding,263.7374949455261,11.440104166666668,12.30112936464011,semiarid,12
+253,"Blanding, UT",Blanding,Utah,San Juan,2024,4301649.8606929,9,11,city_0253_utah_blanding,294.63750076293945,12.661458333333332,13.001700792113164,semiarid,12
+253,"Blanding, UT",Blanding,Utah,San Juan,2025,4301649.8606929,7,11,city_0253_utah_blanding,NA,NA,NA,NA,NA

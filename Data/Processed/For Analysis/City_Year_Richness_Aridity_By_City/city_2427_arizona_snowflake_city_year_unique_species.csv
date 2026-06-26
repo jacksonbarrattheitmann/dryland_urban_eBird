@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2017,12801780.2979101,21,33,city_2427_arizona_snowflake,205.59375035762787,13.903645833333334,8.600936936194476,arid,12
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2018,12801780.2979101,11,12,city_2427_arizona_snowflake,286.6124976873398,13.5,12.196276497333608,semiarid,12
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2019,12801780.2979101,17,24,city_2427_arizona_snowflake,265.0499994754791,12.494791666666668,11.78272745989627,semiarid,12
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2020,12801780.2979101,57,229,city_2427_arizona_snowflake,152.16249752044678,13.640625,6.436483702120683,arid,12
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2021,12801780.2979101,39,88,city_2427_arizona_snowflake,272.3562514781952,13.473958333333334,11.602485086268798,semiarid,12
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2022,12801780.2979101,17,24,city_2427_arizona_snowflake,249.6937507390976,13,10.856250032134678,semiarid,12
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2023,12801780.2979101,20,28,city_2427_arizona_snowflake,191.03750044107437,12.9609375,8.320108899781395,arid,12
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2024,12801780.2979101,19,30,city_2427_arizona_snowflake,207.2437447309494,14,8.635156030456224,arid,12
+2427,"Snowflake, AZ",Snowflake,Arizona,Navajo,2025,12801780.2979101,16,16,city_2427_arizona_snowflake,NA,NA,NA,NA,NA

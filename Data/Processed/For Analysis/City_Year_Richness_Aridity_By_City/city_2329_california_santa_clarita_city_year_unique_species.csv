@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2015,198800003.664862,128,2012,city_2329_california_santa_clarita,211.1312495470047,19.075520833333332,7.261477816932361,arid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2016,198800003.664862,123,1750,city_2329_california_santa_clarita,356.3124966621399,18.479166666666668,12.511338580674993,semiarid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2017,198800003.664862,124,1414,city_2329_california_santa_clarita,395.5312593579292,18.536458333333332,13.86055882400482,semiarid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2018,198800003.664862,135,1608,city_2329_california_santa_clarita,278.83124765753746,18.4609375,9.796980428263735,arid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2019,198800003.664862,123,2722,city_2329_california_santa_clarita,585.9437405467033,17.875,21.020403248312228,dry subhumid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2020,198800003.664862,127,2785,city_2329_california_santa_clarita,260.84375327825546,18.5859375,9.124897627662394,arid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2021,198800003.664862,148,3368,city_2329_california_santa_clarita,294.94999581575394,18.135416666666668,10.483228285195253,semiarid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2022,198800003.664862,137,3063,city_2329_california_santa_clarita,228.99999803304672,17.997395833333332,8.179332084893494,arid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2023,198800003.664862,141,4893,city_2329_california_santa_clarita,512.0187549591064,17.359375,18.714563288054148,semiarid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2024,198800003.664862,142,5977,city_2329_california_santa_clarita,468.049990683794,18.1796875,16.609481233026237,semiarid,12
+2329,"Santa Clarita, CA",Santa Clarita,California,Los Angeles,2025,198800003.664862,144,5330,city_2329_california_santa_clarita,NA,NA,NA,NA,NA

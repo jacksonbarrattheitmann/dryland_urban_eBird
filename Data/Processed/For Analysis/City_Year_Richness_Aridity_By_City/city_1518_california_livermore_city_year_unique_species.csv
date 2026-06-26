@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1518,"Livermore, CA",Livermore,California,Alameda,2015,63349197.4545815,124,930,city_1518_california_livermore,272.1124951839447,17.244791666666668,9.987688601666484,arid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2016,63349197.4545815,132,1626,city_1518_california_livermore,512.2187414467335,16.697916666666668,19.185719539167543,semiarid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2017,63349197.4545815,131,2643,city_1518_california_livermore,544.9124947488308,16.723958333333332,20.39041102938521,dry subhumid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2018,63349197.4545815,137,2913,city_1518_california_livermore,413.34374487400055,16.5234375,15.584094062996192,semiarid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2019,63349197.4545815,131,2708,city_1518_california_livermore,525.3750077486038,16.4453125,19.866470012354885,semiarid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2020,63349197.4545815,152,6085,city_1518_california_livermore,192.27500081062317,16.932291666666668,7.1391994112627435,arid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2021,63349197.4545815,152,5682,city_1518_california_livermore,436.943752169609,16.4765625,16.503039326559445,semiarid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2022,63349197.4545815,136,3469,city_1518_california_livermore,301.0312512218952,16.5625,11.33294122247135,semiarid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2023,63349197.4545815,134,4211,city_1518_california_livermore,540.89375898242,16.098958333333332,20.72472594783968,dry subhumid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2024,63349197.4545815,145,4047,city_1518_california_livermore,520.3749938607216,16.830729166666668,19.39473916747715,semiarid,12
+1518,"Livermore, CA",Livermore,California,Alameda,2025,63349197.4545815,145,5625,city_1518_california_livermore,NA,NA,NA,NA,NA

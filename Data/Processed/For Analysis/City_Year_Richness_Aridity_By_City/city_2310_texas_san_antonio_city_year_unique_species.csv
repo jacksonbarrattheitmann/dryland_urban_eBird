@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2015,1556476049.94802,265,38960,city_2310_texas_san_antonio,1058.606243133545,21.1171875,34.01998471531352,humid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2016,1556476049.94802,259,39023,city_2310_texas_san_antonio,1069.1750011444092,21.8671875,33.550968410513455,humid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2017,1556476049.94802,269,46234,city_2310_texas_san_antonio,646.3999977111816,22.098958333333332,20.137725062558314,dry subhumid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2018,1556476049.94802,271,52884,city_2310_texas_san_antonio,769.2062654495239,21.361979166666668,24.526713105755807,dry subhumid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2019,1556476049.94802,260,53291,city_2310_texas_san_antonio,578.8000011444092,21.346354166666668,18.464667312407837,semiarid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2020,1556476049.94802,278,95813,city_2310_texas_san_antonio,554.4312419891357,21.815104166666668,17.426667506247696,semiarid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2021,1556476049.94802,282,108552,city_2310_texas_san_antonio,749.5062475204468,21.359375,23.90054800264504,dry subhumid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2022,1556476049.94802,288,87580,city_2310_texas_san_antonio,402.83750104904175,21.6796875,12.7159556434716,semiarid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2023,1556476049.94802,279,101193,city_2310_texas_san_antonio,649.4999980926514,22.440104166666668,20.021513949392155,dry subhumid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2024,1556476049.94802,293,115509,city_2310_texas_san_antonio,586.9750051498413,22.7109375,17.944303954903198,semiarid,12
+2310,"San Antonio, TX",San Antonio,Texas,Bexar,2025,1556476049.94802,292,116128,city_2310_texas_san_antonio,NA,NA,NA,NA,NA

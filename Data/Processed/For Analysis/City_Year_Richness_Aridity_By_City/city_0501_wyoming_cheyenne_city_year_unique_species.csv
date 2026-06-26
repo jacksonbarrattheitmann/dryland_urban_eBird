@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2015,91340661.6604038,101,2343,city_0501_wyoming_cheyenne,466.03749799728394,8.846354166666668,24.728257459024046,dry subhumid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2016,91340661.6604038,129,2584,city_0501_wyoming_cheyenne,400.037501335144,9.0625,20.985573840532147,dry subhumid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2017,91340661.6604038,106,2681,city_0501_wyoming_cheyenne,398.225004196167,8.721354166666666,21.271164502897225,dry subhumid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2018,91340661.6604038,149,3064,city_0501_wyoming_cheyenne,407.31249713897705,8.247395833333332,22.32167816488757,dry subhumid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2019,91340661.6604038,146,3765,city_0501_wyoming_cheyenne,500.08748722076416,7.393229166666666,28.751848344478734,dry subhumid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2020,91340661.6604038,160,3832,city_0501_wyoming_cheyenne,256.24999809265137,8.736979166666668,13.676163900983756,semiarid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2021,91340661.6604038,156,4678,city_0501_wyoming_cheyenne,392.7875003814697,8.973958333333332,20.701399965205106,dry subhumid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2022,91340661.6604038,154,3744,city_0501_wyoming_cheyenne,293.1437530517578,8.2421875,16.069550488490364,semiarid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2023,91340661.6604038,161,3256,city_0501_wyoming_cheyenne,464.6187467575073,8.244791666666668,25.46582911145915,dry subhumid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2024,91340661.6604038,164,3582,city_0501_wyoming_cheyenne,325.86250019073486,9.4921875,16.717595200165956,semiarid,12
+501,"Cheyenne, WY",Cheyenne,Wyoming,Laramie,2025,91340661.6604038,158,4432,city_0501_wyoming_cheyenne,NA,NA,NA,NA,NA

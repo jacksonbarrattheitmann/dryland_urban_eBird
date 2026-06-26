@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2015,9005565.86684899,58,144,city_1365_idaho_ketchum,445.91249561309814,4.799479166666666,30.130283004650657,humid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2016,9005565.86684899,46,95,city_1365_idaho_ketchum,397.54375076293945,4.263020833333334,27.872338925135793,dry subhumid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2017,9005565.86684899,69,333,city_1365_idaho_ketchum,539.1375002861023,3.8515625,38.922504250773315,humid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2018,9005565.86684899,79,487,city_1365_idaho_ketchum,450.81874656677246,4.119791666666666,31.92814435293999,humid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2019,9005565.86684899,79,501,city_1365_idaho_ketchum,509.8374910354614,3.111979166666667,38.8833359598048,humid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2020,9005565.86684899,77,1069,city_1365_idaho_ketchum,482.96875,4.190104166666666,34.03560286291063,humid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2021,9005565.86684899,79,727,city_1365_idaho_ketchum,424.7750015258789,4.604166666666666,29.085877422599413,dry subhumid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2022,9005565.86684899,92,1282,city_1365_idaho_ketchum,438.35625076293945,3.59375,32.24689660784842,humid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2023,9005565.86684899,102,1480,city_1365_idaho_ketchum,513.6562485694885,3.9322916666666674,36.8680372805016,humid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2024,9005565.86684899,94,1351,city_1365_idaho_ketchum,503.9062490463257,4.770833333333334,34.11495057013206,humid,12
+1365,"Ketchum, ID",Ketchum,Idaho,Blaine,2025,9005565.86684899,100,1099,city_1365_idaho_ketchum,NA,NA,NA,NA,NA

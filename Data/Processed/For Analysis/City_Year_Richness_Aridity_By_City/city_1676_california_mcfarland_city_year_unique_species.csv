@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1676,"McFarland, CA",McFarland,California,Kern,2015,9938519.48264377,17,23,city_1676_california_mcfarland,112.3937514424324,18.979166666666668,3.878432831945906,extremely arid,12
+1676,"McFarland, CA",McFarland,California,Kern,2016,9938519.48264377,10,10,city_1676_california_mcfarland,180.7499982714653,18.776041666666668,6.281266908257256,arid,12
+1676,"McFarland, CA",McFarland,California,Kern,2017,9938519.48264377,12,12,city_1676_california_mcfarland,207.71250218153,18.8046875,7.211065982976902,arid,12
+1676,"McFarland, CA",McFarland,California,Kern,2018,9938519.48264377,11,16,city_1676_california_mcfarland,141.78750175237656,18.6953125,4.941138095372774,extremely arid,12
+1676,"McFarland, CA",McFarland,California,Kern,2020,9938519.48264377,1,1,city_1676_california_mcfarland,127.22499972581863,18.872395833333332,4.406458004393826,extremely arid,12
+1676,"McFarland, CA",McFarland,California,Kern,2022,9938519.48264377,3,3,city_1676_california_mcfarland,111.45624935626984,18.505208333333332,3.910031038992108,extremely arid,12
+1676,"McFarland, CA",McFarland,California,Kern,2023,9938519.48264377,16,16,city_1676_california_mcfarland,244.0000038743019,17.955729166666668,8.728085839565153,arid,12

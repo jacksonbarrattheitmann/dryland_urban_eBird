@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2015,16182785.9775651,33,67,city_0401_arizona_camp_verde,495.2375030517578,18.130208333333332,17.605184333630348,semiarid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2016,16182785.9775651,42,90,city_0401_arizona_camp_verde,381.5562434196472,17.942708333333332,13.654948506350843,semiarid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2017,16182785.9775651,68,258,city_0401_arizona_camp_verde,266.7875049710274,18.375,9.402202818362198,arid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2018,16182785.9775651,103,489,city_0401_arizona_camp_verde,334.73749685287476,18.03125,11.941582942354506,semiarid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2019,16182785.9775651,94,626,city_0401_arizona_camp_verde,442.78125488758087,17.072916666666668,16.355136771530496,semiarid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2020,16182785.9775651,123,3621,city_0401_arizona_camp_verde,264.2875009775162,18.184895833333332,9.37691955791982,arid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2021,16182785.9775651,111,970,city_0401_arizona_camp_verde,350.97499918937683,17.9609375,12.552333024934404,semiarid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2022,16182785.9775651,89,466,city_0401_arizona_camp_verde,318.9937536716461,17.557291666666668,11.575656908893604,semiarid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2023,16182785.9775651,79,279,city_0401_arizona_camp_verde,302.5312509536743,17.302083333333332,11.080885193266973,semiarid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2024,16182785.9775651,114,1362,city_0401_arizona_camp_verde,314.75624895095825,18.440104166666668,11.067338118960532,semiarid,12
+401,"Camp Verde, AZ",Camp Verde,Arizona,Yavapai,2025,16182785.9775651,111,2485,city_0401_arizona_camp_verde,NA,NA,NA,NA,NA

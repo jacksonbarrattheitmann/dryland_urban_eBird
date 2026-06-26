@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2015,73161122.4830478,136,2444,city_1176_montana_helena,277.2625026702881,7.645833333333334,15.712632973050562,semiarid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2016,73161122.4830478,127,2748,city_1176_montana_helena,317.23749685287476,7.526041666666666,18.100921068574134,semiarid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2017,73161122.4830478,153,5735,city_1176_montana_helena,300.8500027656555,6.434895833333334,18.30556188591534,semiarid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2018,73161122.4830478,160,4271,city_1176_montana_helena,327.6437511444092,6.1015625,20.348568727066656,dry subhumid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2019,73161122.4830478,161,7839,city_1176_montana_helena,350.7937526702881,5.364583333333334,22.83132220769333,dry subhumid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2020,73161122.4830478,187,11304,city_1176_montana_helena,293.75625467300415,6.890625,17.391674652240763,semiarid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2021,73161122.4830478,174,10484,city_1176_montana_helena,232.74999856948853,7.21875,13.51724129623164,semiarid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2022,73161122.4830478,173,12442,city_1176_montana_helena,299.23125171661377,6.213541666666666,18.455637754445824,semiarid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2023,73161122.4830478,167,9781,city_1176_montana_helena,337.45624923706055,7.174479166666666,19.64870351888268,semiarid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2024,73161122.4830478,163,11732,city_1176_montana_helena,282.9187550544739,7.489583333333334,16.1764148214589,semiarid,12
+1176,"Helena, MT",Helena,Montana,Lewis and Clark,2025,73161122.4830478,168,12012,city_1176_montana_helena,NA,NA,NA,NA,NA

@@ -1,0 +1,8 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2437,"Somerton, AZ",Somerton,Arizona,Yuma,2017,19724837.0767367,4,4,city_2437_arizona_somerton,59.20625013113022,24.364583333333332,1.7228857267622013,extremely arid,12
+2437,"Somerton, AZ",Somerton,Arizona,Yuma,2019,19724837.0767367,15,17,city_2437_arizona_somerton,78.34374958276749,23.268229166666668,2.35491192483622,extremely arid,12
+2437,"Somerton, AZ",Somerton,Arizona,Yuma,2021,19724837.0767367,13,13,city_2437_arizona_somerton,119.22499918937685,23.986979166666668,3.5079610519286413,extremely arid,12
+2437,"Somerton, AZ",Somerton,Arizona,Yuma,2022,19724837.0767367,15,151,city_2437_arizona_somerton,65.75,23.7421875,1.9485992127807363,extremely arid,12
+2437,"Somerton, AZ",Somerton,Arizona,Yuma,2023,19724837.0767367,40,774,city_2437_arizona_somerton,70.53750050067902,23.21875,2.1234242860035075,extremely arid,12
+2437,"Somerton, AZ",Somerton,Arizona,Yuma,2024,19724837.0767367,11,11,city_2437_arizona_somerton,59.656249940395355,24.268229166666668,1.7408617658721646,extremely arid,12
+2437,"Somerton, AZ",Somerton,Arizona,Yuma,2025,19724837.0767367,1,1,city_2437_arizona_somerton,NA,NA,NA,NA,NA

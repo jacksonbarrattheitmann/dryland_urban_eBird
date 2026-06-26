@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2015,25069781.5100292,101,634,city_1447_new_mexico_las_vegas,643.7687568664551,10.1875,31.889474024344523,humid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2016,25069781.5100292,120,984,city_1447_new_mexico_las_vegas,392.85624980926514,10.484375,19.17833713790463,semiarid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2017,25069781.5100292,90,410,city_1447_new_mexico_las_vegas,458.1125038862229,10.9453125,21.87183905163615,dry subhumid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2018,25069781.5100292,105,492,city_1447_new_mexico_las_vegas,398.46875190734863,10.442708333333332,19.491974615595144,semiarid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2019,25069781.5100292,49,157,city_1447_new_mexico_las_vegas,376.3375015258789,9.8046875,19.002445836415188,semiarid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2020,25069781.5100292,92,462,city_1447_new_mexico_las_vegas,279.0000042915344,10.677083333333334,13.493199199993605,semiarid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2021,25069781.5100292,59,198,city_1447_new_mexico_las_vegas,347.07499718666077,10.497395833333332,16.932638663407158,semiarid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2022,25069781.5100292,42,110,city_1447_new_mexico_las_vegas,374.81874346733093,10.192708333333334,18.56208376211698,semiarid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2023,25069781.5100292,94,460,city_1447_new_mexico_las_vegas,327.43125009536743,10.622395833333332,15.877459279785466,semiarid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2024,25069781.5100292,68,171,city_1447_new_mexico_las_vegas,408.3500065803528,11.317708333333334,19.155436419112565,semiarid,12
+1447,"Las Vegas, NM",Las Vegas,New Mexico,San Miguel,2025,25069781.5100292,60,192,city_1447_new_mexico_las_vegas,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2612,"Turlock, CA",Turlock,California,Stanislaus,2015,66938763.4877414,26,41,city_2612_california_turlock,191.5437488555908,17.908854166666668,6.863189284365669,arid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2016,66938763.4877414,42,108,city_2612_california_turlock,313.7687539458275,17.604166666666668,11.36671712407526,semiarid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2017,66938763.4877414,45,132,city_2612_california_turlock,348.35624861717224,17.5625,12.63877546003346,semiarid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2018,66938763.4877414,80,907,city_2612_california_turlock,266.90000081062317,17.424479166666668,9.732181208933556,arid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2019,66938763.4877414,78,2678,city_2612_california_turlock,326.09375458955765,17.075520833333332,12.04385897493413,semiarid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2020,66938763.4877414,86,4582,city_2612_california_turlock,134.76875001192093,17.666666666666668,4.871159638985094,extremely arid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2021,66938763.4877414,95,5269,city_2612_california_turlock,264.3499974012375,17.369791666666668,9.658458515896784,arid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2022,66938763.4877414,105,2700,city_2612_california_turlock,194.98124930262568,17.328125,7.13481987156549,arid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2023,66938763.4877414,88,1772,city_2612_california_turlock,330.8187498450279,16.734375,12.374284038621736,semiarid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2024,66938763.4877414,102,3400,city_2612_california_turlock,328.01250088214874,17.596354166666668,11.886080998277354,semiarid,12
+2612,"Turlock, CA",Turlock,California,Stanislaus,2025,66938763.4877414,93,1887,city_2612_california_turlock,NA,NA,NA,NA,NA

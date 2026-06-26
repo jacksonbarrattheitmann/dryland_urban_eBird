@@ -1,0 +1,12 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2015,45654322.685471,86,489,city_1364_texas_kerrville,1058.1750001907349,18.684895833333332,36.88962324768427,humid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2016,45654322.685471,125,1429,city_1364_texas_kerrville,1033.7000064849854,19.505208333333332,35.034492717584676,humid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2017,45654322.685471,116,940,city_1364_texas_kerrville,649.8125057220459,19.627604166666668,21.932671371826107,dry subhumid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2018,45654322.685471,142,1840,city_1364_texas_kerrville,769.681248664856,18.940104166666668,26.595662691199916,dry subhumid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2019,45654322.685471,145,2600,city_1364_texas_kerrville,559.8312568664551,18.940104166666668,19.344479675759807,semiarid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2020,45654322.685471,157,4490,city_1364_texas_kerrville,548.6812438964844,19.450520833333332,18.630612579029975,semiarid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2021,45654322.685471,190,8430,city_1364_texas_kerrville,728.7187509536743,18.971354166666668,25.15307868460323,dry subhumid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2022,45654322.685471,169,8212,city_1364_texas_kerrville,388.86875104904175,19.325520833333332,13.2604209575377,semiarid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2023,45654322.685471,188,12660,city_1364_texas_kerrville,624.2625007629395,20.036458333333332,20.78349230908347,dry subhumid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2024,45654322.685471,190,10616,city_1364_texas_kerrville,585.6562476158142,20.223958333333332,19.37721860110914,semiarid,12
+1364,"Kerrville, TX",Kerrville,Texas,Kerr,2025,45654322.685471,172,9886,city_1364_texas_kerrville,NA,NA,NA,NA,NA

@@ -1,0 +1,10 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2015,9671806.74752752,21,21,city_2507_oklahoma_sulphur,1214.9874992370603,16.963541666666668,45.060382432589456,humid,12
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2016,9671806.74752752,4,4,city_2507_oklahoma_sulphur,876.1999998092651,17.856770833333332,31.453753381953614,humid,12
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2019,9671806.74752752,36,86,city_2507_oklahoma_sulphur,1252.1250171661377,16.432291666666668,47.37103513219673,humid,12
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2020,9671806.74752752,13,18,city_2507_oklahoma_sulphur,1126.681251525879,16.7734375,42.08205433186825,humid,12
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2021,9671806.74752752,9,9,city_2507_oklahoma_sulphur,966.2562446594238,16.841145833333332,35.99906839518956,humid,12
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2022,9671806.74752752,21,32,city_2507_oklahoma_sulphur,886.5437641143799,16.942708333333332,32.90477531605663,humid,12
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2023,9671806.74752752,21,32,city_2507_oklahoma_sulphur,996.2250061035156,17.723958333333332,35.933721805725156,humid,12
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2024,9671806.74752752,30,61,city_2507_oklahoma_sulphur,987.4437580108644,18.1328125,35.09936157328259,humid,12
+2507,"Sulphur, OK",Sulphur,Oklahoma,Murray,2025,9671806.74752752,53,99,city_2507_oklahoma_sulphur,NA,NA,NA,NA,NA

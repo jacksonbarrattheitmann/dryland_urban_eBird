@@ -1,0 +1,11 @@
+city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1523,"Llano, TX",Llano,Texas,Llano,2015,5406392.99509271,13,14,city_1523_texas_llano,1015.9625024795532,19.744791666666668,34.15597977168171,humid,12
+1523,"Llano, TX",Llano,Texas,Llano,2016,5406392.99509271,62,105,city_1523_texas_llano,969.0875005722046,20.25,32.035950432138996,humid,12
+1523,"Llano, TX",Llano,Texas,Llano,2018,5406392.99509271,38,73,city_1523_texas_llano,718.2312545776367,19.643229166666668,24.229184025108715,dry subhumid,12
+1523,"Llano, TX",Llano,Texas,Llano,2019,5406392.99509271,46,114,city_1523_texas_llano,577.5124921798706,19.8125,19.371488207291257,semiarid,12
+1523,"Llano, TX",Llano,Texas,Llano,2020,5406392.99509271,60,200,city_1523_texas_llano,567.2687501907349,20.145833333333332,18.817484456914496,semiarid,12
+1523,"Llano, TX",Llano,Texas,Llano,2021,5406392.99509271,74,252,city_1523_texas_llano,702.2875061035156,19.549479166666668,23.766493552811315,dry subhumid,12
+1523,"Llano, TX",Llano,Texas,Llano,2022,5406392.99509271,60,160,city_1523_texas_llano,365.88124656677246,19.9609375,12.211942519047424,semiarid,12
+1523,"Llano, TX",Llano,Texas,Llano,2023,5406392.99509271,58,104,city_1523_texas_llano,574.612491607666,20.817708333333332,18.645529556983583,semiarid,12
+1523,"Llano, TX",Llano,Texas,Llano,2024,5406392.99509271,80,366,city_1523_texas_llano,578.9124937057495,21.2109375,18.548385280184213,semiarid,12
+1523,"Llano, TX",Llano,Texas,Llano,2025,5406392.99509271,71,196,city_1523_texas_llano,NA,NA,NA,NA,NA
