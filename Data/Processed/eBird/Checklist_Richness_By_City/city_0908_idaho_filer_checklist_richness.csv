@@ -1,0 +1,5 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S29815494,2016-05-21,2016,908,"Filer, ID",Filer,Idaho,Twin Falls,2872355.13204438,20,0.402,1,42.568354,-114.604442,11,11,city_0908_idaho_filer
+S37087891,2017-05-22,2017,908,"Filer, ID",Filer,Idaho,Twin Falls,2872355.13204438,15,0.161,1,42.566927,-114.605714,7,7,city_0908_idaho_filer
+S75608682,2020-10-30,2020,908,"Filer, ID",Filer,Idaho,Twin Falls,2872355.13204438,14,0.666,1,42.567237,-114.628108,2,2,city_0908_idaho_filer
+S111035607,2022-05-22,2022,908,"Filer, ID",Filer,Idaho,Twin Falls,2872355.13204438,26,1.12,1,42.570299,-114.602009,6,6,city_0908_idaho_filer

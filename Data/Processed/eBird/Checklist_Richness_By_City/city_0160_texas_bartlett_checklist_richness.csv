@@ -1,0 +1,6 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S64026112,2020-02-01,2020,160,"Bartlett, TX",Bartlett,Texas,Williamson,2797258.96078476,5,,1,30.7935348,-97.4264596,3,3,city_0160_texas_bartlett
+S124864452,2022-12-29,2022,160,"Bartlett, TX",Bartlett,Texas,Williamson,2797258.96078476,52,10.662,1,30.794478,-97.425709,19,19,city_0160_texas_bartlett
+S125902301,2023-01-10,2023,160,"Bartlett, TX",Bartlett,Texas,Williamson,2797258.96078476,71,3.124,1,30.7970365,-97.4252665,19,19,city_0160_texas_bartlett
+S157366624,2023-12-28,2023,160,"Bartlett, TX",Bartlett,Texas,Williamson,2797258.96078476,12,2.955,1,30.796134,-97.42614,7,7,city_0160_texas_bartlett
+S202494925,2024-11-14,2024,160,"Bartlett, TX",Bartlett,Texas,Williamson,2797258.96078476,5,,1,30.794814,-97.42589,1,1,city_0160_texas_bartlett

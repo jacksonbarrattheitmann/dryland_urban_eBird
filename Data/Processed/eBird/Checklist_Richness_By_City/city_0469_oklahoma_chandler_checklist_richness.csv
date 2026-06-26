@@ -1,0 +1,4 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24201175,2015-07-09,2015,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,5589057.33042502,25,3.219,1,35.7023001,-96.886518,26,26,city_0469_oklahoma_chandler
+S35907403,2017-04-12,2017,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,5589057.33042502,11,1.127,1,35.698224,-96.885111,10,10,city_0469_oklahoma_chandler
+S54824671,2019-04-11,2019,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,5589057.33042502,19,1.677,1,35.709905,-96.871616,6,6,city_0469_oklahoma_chandler

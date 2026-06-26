@@ -1,0 +1,292 @@
+checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S46502203	2018-06-12	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	European Starling	Sturnus vulgaris	27813	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Northern Flicker	Colaptes auratus	11900	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Lazuli Bunting	Passerina amoena	34606	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Gray Catbird	Dumetella carolinensis	28000	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Cassin's Finch	Haemorhous cassinii	32329	species	2	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Mourning Dove	Zenaida macroura	2412	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Song Sparrow	Melospiza melodia	33277	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Belted Kingfisher	Megaceryle alcyon	10306	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Black-billed Magpie	Pica hudsonia	21476	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	American Goldfinch	Spinus tristis	32617	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	American Robin	Turdus migratorius	28633	species	1	43.6789492	-111.9258088	Stationary	1	0
+S46502203	2018-06-12	Barn Swallow	Hirundo rustica	24187	species	1	43.6789492	-111.9258088	Stationary	1	0
+S60812651	2019-10-19	Black-billed Magpie	Pica hudsonia	21476	species	10	43.6749058	-111.9321643	Traveling	1	0
+S60812651	2019-10-19	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	43.6749058	-111.9321643	Traveling	1	0
+S62507532	2019-12-21	House Sparrow	Passer domesticus	31534	species	1	43.6967870	-111.8708750	Traveling	1	0
+S62507532	2019-12-21	Black-capped Chickadee	Poecile atricapillus	22065	species	5	43.6967870	-111.8708750	Traveling	1	0
+S60812651	2019-10-19	Rock Pigeon	Columba livia	1868	domestic	5	43.6749058	-111.9321643	Traveling	1	0
+S60812651	2019-10-19	European Starling	Sturnus vulgaris	27813	species	10	43.6749058	-111.9321643	Traveling	1	0
+S60812651	2019-10-19	Common Raven	Corvus corax	21624	species	2	43.6749058	-111.9321643	Traveling	1	0
+S62507532	2019-12-21	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	43.6967870	-111.8708750	Traveling	1	0
+S62507532	2019-12-21	Steller's Jay	Cyanocitta stelleri	21274	species	3	43.6967870	-111.8708750	Traveling	1	0
+S60812651	2019-10-19	American Crow	Corvus brachyrhynchos	21557	species	5	43.6749058	-111.9321643	Traveling	1	0
+S62507532	2019-12-21	Black-billed Magpie	Pica hudsonia	21476	species	3	43.6967870	-111.8708750	Traveling	1	0
+S62507532	2019-12-21	Northern Flicker	Colaptes auratus	11900	species	5	43.6967870	-111.8708750	Traveling	1	0
+S62507532	2019-12-21	Blue Jay	Cyanocitta cristata	21294	species	1	43.6967870	-111.8708750	Traveling	1	1
+S83268749	2021-03-12	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.6328773	-111.9384852	Traveling	1	0
+S83275901	2021-03-12	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6328773	-111.9384852	Traveling	1	0
+S83268749	2021-03-12	European Starling	Sturnus vulgaris	27813	species	7	43.6328773	-111.9384852	Traveling	1	0
+S83268749	2021-03-12	House Sparrow	Passer domesticus	31534	species	20	43.6328773	-111.9384852	Traveling	1	0
+S83268749	2021-03-12	Black-billed Magpie	Pica hudsonia	21476	species	2	43.6328773	-111.9384852	Traveling	1	0
+S83268749	2021-03-12	House Finch	Haemorhous mexicanus	32310	species	25	43.6328773	-111.9384852	Traveling	1	0
+S83275901	2021-03-12	House Finch	Haemorhous mexicanus	32310	species	15	43.6328773	-111.9384852	Traveling	1	0
+S83268749	2021-03-12	American Robin	Turdus migratorius	28633	species	5	43.6328773	-111.9384852	Traveling	1	0
+S116010671	2022-07-30	House Sparrow	Passer domesticus	31534	species	5	43.6284760	-111.9296110	Stationary	1	0
+S110535223	2022-05-17	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6652255	-111.9202404	Traveling	1	0
+S110535223	2022-05-17	European Starling	Sturnus vulgaris	27813	species	5	43.6652255	-111.9202404	Traveling	1	0
+S111737379	2022-05-30	Chipping Sparrow	Spizella passerina	32990	species	2	43.6692870	-111.8844962	Traveling	1	0
+S110535223	2022-05-17	Killdeer	Charadrius vociferus	5827	species	1	43.6652255	-111.9202404	Traveling	1	0
+S111737379	2022-05-30	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.6692870	-111.8844962	Traveling	1	0
+S111737379	2022-05-30	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	43.6692870	-111.8844962	Traveling	1	0
+S111737379	2022-05-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.6692870	-111.8844962	Traveling	1	0
+S110535223	2022-05-17	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.6652255	-111.9202404	Traveling	1	0
+S111737379	2022-05-30	Western Meadowlark	Sturnella neglecta	33565	species	1	43.6692870	-111.8844962	Traveling	1	0
+S116010671	2022-07-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.6284760	-111.9296110	Stationary	1	0
+S110535223	2022-05-17	Barn Swallow	Hirundo rustica	24187	species	4	43.6652255	-111.9202404	Traveling	1	0
+S116010671	2022-07-30	European Starling	Sturnus vulgaris	27813	species	5	43.6284760	-111.9296110	Stationary	1	0
+S116010671	2022-07-30	House Finch	Haemorhous mexicanus	32310	species	5	43.6284760	-111.9296110	Stationary	1	0
+S111737379	2022-05-30	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6692870	-111.8844962	Traveling	1	0
+S111737379	2022-05-30	Western Tanager	Piranga ludoviciana	34439	species	1	43.6692870	-111.8844962	Traveling	1	0
+S110535223	2022-05-17	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	43.6652255	-111.9202404	Traveling	1	0
+S119347820	2022-09-24	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	43.6684570	-111.9249400	Traveling	1	0
+S111737379	2022-05-30	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	43.6692870	-111.8844962	Traveling	1	0
+S110535223	2022-05-17	Western Meadowlark	Sturnella neglecta	33565	species	1	43.6652255	-111.9202404	Traveling	1	0
+S111737379	2022-05-30	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Traveling	1	0
+S110535223	2022-05-17	American Robin	Turdus migratorius	28633	species	2	43.6652255	-111.9202404	Traveling	1	0
+S110535223	2022-05-17	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	43.6652255	-111.9202404	Traveling	1	0
+S110535223	2022-05-17	House Sparrow	Passer domesticus	31534	species	1	43.6652255	-111.9202404	Traveling	1	0
+S110535223	2022-05-17	House Finch	Haemorhous mexicanus	32310	species	1	43.6652255	-111.9202404	Traveling	1	0
+S111737379	2022-05-30	Killdeer	Charadrius vociferus	5827	species	2	43.6692870	-111.8844962	Traveling	1	0
+S110535223	2022-05-17	Turkey Vulture	Cathartes aura	7815	species	3	43.6652255	-111.9202404	Traveling	1	0
+S139512667	2023-05-27	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	American Robin	Turdus migratorius	28633	species	7	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	House Sparrow	Passer domesticus	31534	species	3	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Western Kingbird	Tyrannus verticalis	17467	species	1	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	European Starling	Sturnus vulgaris	27813	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Killdeer	Charadrius vociferus	5827	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Rock Pigeon	Columba livia	1868	domestic	1	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	American Robin	Turdus migratorius	28633	species	10	43.6692870	-111.8844962	Traveling	1	0
+S134117300	2023-04-17	American Robin	Turdus migratorius	28633	species	3	43.6530275	-111.9124626	Stationary	1	0
+S139469136	2023-05-27	Northern House Wren	Troglodytes aedon	27191	species	1	43.6692870	-111.8844962	Traveling	1	0
+S126011841	2023-01-12	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.6928719	-111.8760443	Stationary	1	0
+S139469136	2023-05-27	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Brown-headed Cowbird	Molothrus ater	33833	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	Rock Pigeon	Columba livia	1868	domestic	12	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.6692870	-111.8844962	Traveling	1	0
+S126011841	2023-01-12	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.6928719	-111.8760443	Stationary	1	0
+S139469136	2023-05-27	House Finch	Haemorhous mexicanus	32310	species	1	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	Black-billed Magpie	Pica hudsonia	21476	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Black-billed Magpie	Pica hudsonia	21476	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.6692870	-111.8844962	Traveling	1	0
+S126011841	2023-01-12	House Finch	Haemorhous mexicanus	32310	species	X	43.6928719	-111.8760443	Stationary	1	0
+S139469136	2023-05-27	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6692870	-111.8844962	Traveling	1	0
+S139469136	2023-05-27	Barn Swallow	Hirundo rustica	24187	species	1	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	House Sparrow	Passer domesticus	31534	species	1	43.6692870	-111.8844962	Traveling	1	0
+S139512667	2023-05-27	Killdeer	Charadrius vociferus	5827	species	2	43.6692870	-111.8844962	Traveling	1	0
+S126011841	2023-01-12	American Goldfinch	Spinus tristis	32617	species	7	43.6928719	-111.8760443	Stationary	1	0
+S139469136	2023-05-27	European Starling	Sturnus vulgaris	27813	species	10	43.6692870	-111.8844962	Traveling	1	0
+S134117300	2023-04-17	Canada Goose	Branta canadensis	342	species	5	43.6530275	-111.9124626	Stationary	1	0
+S176631986	2024-05-23	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.6692870	-111.8844962	Traveling	1	0
+S180797518	2024-06-11	Brown-headed Cowbird	Molothrus ater	33833	species	1	43.6652255	-111.9202404	Traveling	1	0
+S178716942	2024-06-01	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Traveling	1	0
+S206197199	2024-06-13	Black-billed Magpie	Pica hudsonia	21476	species	1	43.6692870	-111.8844962	Stationary	1	0
+S180820518	2024-06-11	House Finch	Haemorhous mexicanus	32310	species	1	43.6692870	-111.8844962	Stationary	1	0
+S178716942	2024-06-01	Western Kingbird	Tyrannus verticalis	17467	species	2	43.6692870	-111.8844962	Traveling	1	0
+S180797518	2024-06-11	Barn Swallow	Hirundo rustica	24187	species	6	43.6652255	-111.9202404	Traveling	1	0
+S206197199	2024-06-13	Chipping Sparrow	Spizella passerina	32990	species	1	43.6692870	-111.8844962	Stationary	1	0
+S169082991	2024-04-17	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	43.6646840	-111.9181310	Traveling	1	0
+S185817082	2024-07-07	House Sparrow	Passer domesticus	31534	species	2	43.6692870	-111.8844962	Stationary	1	0
+S178716942	2024-06-01	Rock Pigeon	Columba livia	1868	domestic	3	43.6692870	-111.8844962	Traveling	1	0
+S176631986	2024-05-23	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Traveling	1	0
+S169082991	2024-04-17	American Robin	Turdus migratorius	28633	species	3	43.6646840	-111.9181310	Traveling	1	0
+S169082991	2024-04-17	Swainson's Hawk	Buteo swainsoni	8504	species	3	43.6646840	-111.9181310	Traveling	1	0
+S169082991	2024-04-17	Cooper's Hawk	Astur cooperii	8278	species	1	43.6646840	-111.9181310	Traveling	1	0
+S185817082	2024-07-07	European Starling	Sturnus vulgaris	27813	species	6	43.6692870	-111.8844962	Stationary	1	0
+S176631986	2024-05-23	Chipping Sparrow	Spizella passerina	32990	species	1	43.6692870	-111.8844962	Traveling	1	0
+S185817082	2024-07-07	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.6692870	-111.8844962	Stationary	1	0
+S178716942	2024-06-01	American Robin	Turdus migratorius	28633	species	2	43.6692870	-111.8844962	Traveling	1	0
+S180820518	2024-06-11	Chipping Sparrow	Spizella passerina	32990	species	1	43.6692870	-111.8844962	Stationary	1	0
+S176631986	2024-05-23	Tree Swallow	Tachycineta bicolor	24064	species	2	43.6692870	-111.8844962	Traveling	1	0
+S180820518	2024-06-11	Black-billed Magpie	Pica hudsonia	21476	species	1	43.6692870	-111.8844962	Stationary	1	0
+S185817082	2024-07-07	Black-billed Magpie	Pica hudsonia	21476	species	1	43.6692870	-111.8844962	Stationary	1	0
+S176631986	2024-05-23	House Finch	Haemorhous mexicanus	32310	species	1	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.6692870	-111.8844962	Traveling	1	0
+S180797518	2024-06-11	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	43.6652255	-111.9202404	Traveling	1	0
+S185817082	2024-07-07	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	43.6692870	-111.8844962	Stationary	1	0
+S169082991	2024-04-17	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6646840	-111.9181310	Traveling	1	0
+S180820518	2024-06-11	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6692870	-111.8844962	Stationary	1	0
+S180820518	2024-06-11	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Stationary	1	0
+S178428637	2024-05-29	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6692870	-111.8844962	Traveling	1	0
+S185817082	2024-07-07	Western Meadowlark	Sturnella neglecta	33565	species	1	43.6692870	-111.8844962	Stationary	1	0
+S180797518	2024-06-11	House Sparrow	Passer domesticus	31534	species	1	43.6652255	-111.9202404	Traveling	1	0
+S178428637	2024-05-29	American Robin	Turdus migratorius	28633	species	3	43.6692870	-111.8844962	Traveling	1	0
+S180797518	2024-06-11	European Starling	Sturnus vulgaris	27813	species	45	43.6652255	-111.9202404	Traveling	1	0
+S177632700	2024-05-19	Black-billed Magpie	Pica hudsonia	21476	species	2	43.6692870	-111.8844962	Traveling	1	0
+S176631986	2024-05-23	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	Mourning Dove	Zenaida macroura	2412	species	1	43.6692870	-111.8844962	Traveling	1	0
+S206197199	2024-06-13	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6692870	-111.8844962	Stationary	1	0
+S206197199	2024-06-13	House Sparrow	Passer domesticus	31534	species	1	43.6692870	-111.8844962	Stationary	1	0
+S177632700	2024-05-19	European Starling	Sturnus vulgaris	27813	species	8	43.6692870	-111.8844962	Traveling	1	0
+S178428637	2024-05-29	Pine Siskin	Spinus pinus	32595	species	2	43.6692870	-111.8844962	Traveling	1	0
+S180797518	2024-06-11	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	8	43.6652255	-111.9202404	Traveling	1	0
+S180797518	2024-06-11	American Crow	Corvus brachyrhynchos	21557	species	2	43.6652255	-111.9202404	Traveling	1	0
+S169082991	2024-04-17	Rock Pigeon	Columba livia	1868	domestic	5	43.6646840	-111.9181310	Traveling	1	0
+S180797518	2024-06-11	American Goldfinch	Spinus tristis	32617	species	3	43.6652255	-111.9202404	Traveling	1	0
+S169082991	2024-04-17	Mallard	Anas platyrhynchos	545	species	2	43.6646840	-111.9181310	Traveling	1	0
+S176631986	2024-05-23	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6692870	-111.8844962	Traveling	1	0
+S176631986	2024-05-23	Rock Pigeon	Columba livia	1868	domestic	4	43.6692870	-111.8844962	Traveling	1	0
+S176631986	2024-05-23	Black-billed Magpie	Pica hudsonia	21476	species	4	43.6692870	-111.8844962	Traveling	1	0
+S206197199	2024-06-13	Tree Swallow	Tachycineta bicolor	24064	species	2	43.6692870	-111.8844962	Stationary	1	0
+S206197199	2024-06-13	Rock Pigeon	Columba livia	1868	domestic	2	43.6692870	-111.8844962	Stationary	1	0
+S185817082	2024-07-07	Brown-headed Cowbird	Molothrus ater	33833	species	2	43.6692870	-111.8844962	Stationary	1	0
+S180820518	2024-06-11	Tree Swallow	Tachycineta bicolor	24064	species	2	43.6692870	-111.8844962	Stationary	1	0
+S185817082	2024-07-07	Western Kingbird	Tyrannus verticalis	17467	species	1	43.6692870	-111.8844962	Stationary	1	0
+S169082991	2024-04-17	European Starling	Sturnus vulgaris	27813	species	34	43.6646840	-111.9181310	Traveling	1	0
+S185817082	2024-07-07	Rock Pigeon	Columba livia	1868	domestic	3	43.6692870	-111.8844962	Stationary	1	0
+S169082991	2024-04-17	Song Sparrow	Melospiza melodia	33277	species	1	43.6646840	-111.9181310	Traveling	1	0
+S178716942	2024-06-01	European Starling	Sturnus vulgaris	27813	species	5	43.6692870	-111.8844962	Traveling	1	0
+S180820518	2024-06-11	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6692870	-111.8844962	Stationary	1	0
+S180797518	2024-06-11	Black-billed Magpie	Pica hudsonia	21476	species	4	43.6652255	-111.9202404	Traveling	1	0
+S180820518	2024-06-11	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.6692870	-111.8844962	Stationary	1	0
+S178428637	2024-05-29	Bullock's Oriole	Icterus bullockii	33736	species	1	43.6692870	-111.8844962	Traveling	1	0
+S169082991	2024-04-17	House Sparrow	Passer domesticus	31534	species	3	43.6646840	-111.9181310	Traveling	1	0
+S177632700	2024-05-19	Mallard	Anas platyrhynchos	545	species	6	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Traveling	1	0
+S180797518	2024-06-11	Mallard	Anas platyrhynchos	545	species	3	43.6652255	-111.9202404	Traveling	1	0
+S180797518	2024-06-11	American Robin	Turdus migratorius	28633	species	11	43.6652255	-111.9202404	Traveling	1	0
+S176631986	2024-05-23	American Robin	Turdus migratorius	28633	species	3	43.6692870	-111.8844962	Traveling	1	0
+S169082991	2024-04-17	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	5	43.6646840	-111.9181310	Traveling	1	0
+S169082991	2024-04-17	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	43.6646840	-111.9181310	Traveling	1	0
+S178716942	2024-06-01	Black-billed Magpie	Pica hudsonia	21476	species	3	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	Rock Pigeon	Columba livia	1868	domestic	5	43.6692870	-111.8844962	Traveling	1	0
+S180797518	2024-06-11	Killdeer	Charadrius vociferus	5827	species	3	43.6652255	-111.9202404	Traveling	1	0
+S177632700	2024-05-19	House Finch	Haemorhous mexicanus	32310	species	1	43.6692870	-111.8844962	Traveling	1	0
+S185817082	2024-07-07	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.6692870	-111.8844962	Stationary	1	0
+S206197199	2024-06-13	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6692870	-111.8844962	Stationary	1	0
+S178716942	2024-06-01	American Goldfinch	Spinus tristis	32617	species	4	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6692870	-111.8844962	Traveling	1	0
+S180797518	2024-06-11	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.6652255	-111.9202404	Traveling	1	0
+S180820518	2024-06-11	Rock Pigeon	Columba livia	1868	domestic	2	43.6692870	-111.8844962	Stationary	1	0
+S180820518	2024-06-11	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.6692870	-111.8844962	Stationary	1	0
+S206197199	2024-06-13	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.6692870	-111.8844962	Stationary	1	0
+S176631986	2024-05-23	Cedar Waxwing	Bombycilla cedrorum	29888	species	4	43.6692870	-111.8844962	Traveling	1	0
+S176631986	2024-05-23	House Sparrow	Passer domesticus	31534	species	2	43.6692870	-111.8844962	Traveling	1	0
+S169082991	2024-04-17	Killdeer	Charadrius vociferus	5827	species	3	43.6646840	-111.9181310	Traveling	1	0
+S206197199	2024-06-13	House Finch	Haemorhous mexicanus	32310	species	1	43.6692870	-111.8844962	Stationary	1	0
+S178716942	2024-06-01	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6692870	-111.8844962	Traveling	1	0
+S178428637	2024-05-29	Black-billed Magpie	Pica hudsonia	21476	species	1	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	American Robin	Turdus migratorius	28633	species	3	43.6692870	-111.8844962	Traveling	1	0
+S206197199	2024-06-13	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.6692870	-111.8844962	Stationary	1	0
+S176631986	2024-05-23	European Starling	Sturnus vulgaris	27813	species	7	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	Western Kingbird	Tyrannus verticalis	17467	species	1	43.6692870	-111.8844962	Traveling	1	0
+S169082991	2024-04-17	American Crow	Corvus brachyrhynchos	21557	species	4	43.6646840	-111.9181310	Traveling	1	0
+S178428637	2024-05-29	European Starling	Sturnus vulgaris	27813	species	8	43.6692870	-111.8844962	Traveling	1	0
+S178716942	2024-06-01	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.6692870	-111.8844962	Traveling	1	0
+S177632700	2024-05-19	American Goldfinch	Spinus tristis	32617	species	2	43.6692870	-111.8844962	Traveling	1	0
+S206197199	2024-06-13	European Starling	Sturnus vulgaris	27813	species	5	43.6692870	-111.8844962	Stationary	1	0
+S180820518	2024-06-11	European Starling	Sturnus vulgaris	27813	species	5	43.6692870	-111.8844962	Stationary	1	0
+S180797518	2024-06-11	Swainson's Hawk	Buteo swainsoni	8504	species	2	43.6652255	-111.9202404	Traveling	1	0
+S178428637	2024-05-29	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Traveling	1	0
+S180820518	2024-06-11	House Sparrow	Passer domesticus	31534	species	1	43.6692870	-111.8844962	Stationary	1	0
+S206197199	2024-06-13	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Stationary	1	0
+S180797518	2024-06-11	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	43.6652255	-111.9202404	Traveling	1	0
+S242634535	2025-05-25	Mourning Dove	Zenaida macroura	2412	species	1	43.6692870	-111.8844962	Traveling	1	0
+S250251553	2025-06-06	House Sparrow	Passer domesticus	31534	species	10	43.6692870	-111.8844962	Traveling	1	0
+S242634535	2025-05-25	American Robin	Turdus migratorius	28633	species	2	43.6692870	-111.8844962	Traveling	1	0
+S243321264	2025-05-26	Canada Goose	Branta canadensis	342	species	25	43.6692870	-111.8844962	Traveling	1	0
+S242634535	2025-05-25	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Traveling	1	0
+S247642981	2025-06-07	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	43.6692870	-111.8844962	Traveling	1	0
+S251359651	2025-06-16	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6646840	-111.9181310	Traveling	1	0
+S263246366	2025-07-27	Bullock's Oriole	Icterus bullockii	33736	species	2	43.6984306	-111.8767035	Stationary	1	0
+S242634535	2025-05-25	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.6692870	-111.8844962	Traveling	1	0
+S242634535	2025-05-25	House Finch	Haemorhous mexicanus	32310	species	2	43.6692870	-111.8844962	Traveling	1	0
+S246654309	2025-06-03	American Robin	Turdus migratorius	28633	species	2	43.6984306	-111.8767035	Stationary	1	0
+S253594174	2025-06-10	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.6754068	-111.9165998	Stationary	1	0
+S263602539	2025-07-29	Mourning Dove	Zenaida macroura	2412	species	2	43.6984306	-111.8767035	Stationary	1	0
+S250251553	2025-06-06	Rock Pigeon	Columba livia	1868	domestic	1	43.6692870	-111.8844962	Traveling	1	0
+S247642981	2025-06-07	American Robin	Turdus migratorius	28633	species	6	43.6692870	-111.8844962	Traveling	1	0
+S241088857	2025-05-21	Black-billed Magpie	Pica hudsonia	21476	species	1	43.6754068	-111.9165998	Traveling	1	0
+S246654309	2025-06-03	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	43.6984306	-111.8767035	Stationary	1	0
+S243321264	2025-05-26	Rock Pigeon	Columba livia	1868	domestic	3	43.6692870	-111.8844962	Traveling	1	0
+S241088857	2025-05-21	Western Kingbird	Tyrannus verticalis	17467	species	1	43.6754068	-111.9165998	Traveling	1	0
+S251359651	2025-06-16	Barn Swallow	Hirundo rustica	24187	species	4	43.6646840	-111.9181310	Traveling	1	0
+S251359651	2025-06-16	House Sparrow	Passer domesticus	31534	species	5	43.6646840	-111.9181310	Traveling	1	0
+S241088857	2025-05-21	European Starling	Sturnus vulgaris	27813	species	8	43.6754068	-111.9165998	Traveling	1	0
+S263608493	2025-07-29	Northern Flicker	Colaptes auratus	11906	issf	1	43.6984306	-111.8767035	Stationary	1	0
+S247642981	2025-06-07	Northern Flicker	Colaptes auratus	11900	species	1	43.6692870	-111.8844962	Traveling	1	0
+S250251553	2025-06-06	European Starling	Sturnus vulgaris	27813	species	5	43.6692870	-111.8844962	Traveling	1	0
+S247642981	2025-06-07	American Goldfinch	Spinus tristis	32617	species	1	43.6692870	-111.8844962	Traveling	1	0
+S263246366	2025-07-27	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6984306	-111.8767035	Stationary	1	0
+S263602539	2025-07-29	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	43.6984306	-111.8767035	Stationary	1	0
+S241088857	2025-05-21	American Robin	Turdus migratorius	28633	species	2	43.6754068	-111.9165998	Traveling	1	0
+S263246366	2025-07-27	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6984306	-111.8767035	Stationary	1	0
+S247642981	2025-06-07	European Starling	Sturnus vulgaris	27813	species	10	43.6692870	-111.8844962	Traveling	1	0
+S246653628	2025-06-04	Black-billed Magpie	Pica hudsonia	21476	species	2	43.6984306	-111.8767035	Stationary	1	0
+S263608493	2025-07-29	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.6984306	-111.8767035	Stationary	1	0
+S250251553	2025-06-06	Black-billed Magpie	Pica hudsonia	21476	species	1	43.6692870	-111.8844962	Traveling	1	0
+S242634535	2025-05-25	Black-billed Magpie	Pica hudsonia	21476	species	2	43.6692870	-111.8844962	Traveling	1	0
+S263246366	2025-07-27	House Finch	Haemorhous mexicanus	32310	species	2	43.6984306	-111.8767035	Stationary	1	0
+S247642981	2025-06-07	Brown-headed Cowbird	Molothrus ater	33833	species	1	43.6692870	-111.8844962	Traveling	1	0
+S241088857	2025-05-21	Swainson's Hawk	Buteo swainsoni	8504	species	2	43.6754068	-111.9165998	Traveling	1	0
+S242634535	2025-05-25	House Sparrow	Passer domesticus	31534	species	10	43.6692870	-111.8844962	Traveling	1	0
+S250251553	2025-06-06	American Robin	Turdus migratorius	28633	species	4	43.6692870	-111.8844962	Traveling	1	0
+S247642981	2025-06-07	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.6692870	-111.8844962	Traveling	1	0
+S241088857	2025-05-21	Killdeer	Charadrius vociferus	5827	species	1	43.6754068	-111.9165998	Traveling	1	0
+S251359651	2025-06-16	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	6	43.6646840	-111.9181310	Traveling	1	0
+S263246366	2025-07-27	Black-billed Magpie	Pica hudsonia	21476	species	1	43.6984306	-111.8767035	Stationary	1	0
+S246654309	2025-06-03	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6984306	-111.8767035	Stationary	1	0
+S246653628	2025-06-04	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6984306	-111.8767035	Stationary	1	0
+S242634535	2025-05-25	Western Kingbird	Tyrannus verticalis	17467	species	3	43.6692870	-111.8844962	Traveling	1	0
+S251359651	2025-06-16	House Finch	Haemorhous mexicanus	32310	species	2	43.6646840	-111.9181310	Traveling	1	0
+S263602539	2025-07-29	House Sparrow	Passer domesticus	31534	species	2	43.6984306	-111.8767035	Stationary	1	0
+S247642981	2025-06-07	Black-billed Magpie	Pica hudsonia	21476	species	4	43.6692870	-111.8844962	Traveling	1	0
+S251359651	2025-06-16	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	43.6646840	-111.9181310	Traveling	1	0
+S241088857	2025-05-21	American Kestrel	Falco sparverius	12028	species	2	43.6754068	-111.9165998	Traveling	1	0
+S241088857	2025-05-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6754068	-111.9165998	Traveling	1	0
+S246653628	2025-06-04	American Robin	Turdus migratorius	28633	species	2	43.6984306	-111.8767035	Stationary	1	0
+S247642981	2025-06-07	Rock Pigeon	Columba livia	1868	domestic	1	43.6692870	-111.8844962	Traveling	1	0
+S243321264	2025-05-26	House Finch	Haemorhous mexicanus	32310	species	1	43.6692870	-111.8844962	Traveling	1	0
+S241088857	2025-05-21	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	2	43.6754068	-111.9165998	Traveling	1	0
+S243321264	2025-05-26	American Robin	Turdus migratorius	28633	species	1	43.6692870	-111.8844962	Traveling	1	0
+S241088857	2025-05-21	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	43.6754068	-111.9165998	Traveling	1	0
+S241088857	2025-05-21	American Crow	Corvus brachyrhynchos	21557	species	1	43.6754068	-111.9165998	Traveling	1	0
+S241088857	2025-05-21	Mallard	Anas platyrhynchos	545	species	5	43.6754068	-111.9165998	Traveling	1	0
+S246653628	2025-06-04	Mourning Dove	Zenaida macroura	2412	species	2	43.6984306	-111.8767035	Stationary	1	0
+S243321264	2025-05-26	Mourning Dove	Zenaida macroura	2412	species	1	43.6692870	-111.8844962	Traveling	1	0
+S242634535	2025-05-25	American Goldfinch	Spinus tristis	32617	species	2	43.6692870	-111.8844962	Traveling	1	0
+S247642981	2025-06-07	Western Tanager	Piranga ludoviciana	34439	species	1	43.6692870	-111.8844962	Traveling	1	0
+S263608493	2025-07-29	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.6984306	-111.8767035	Stationary	1	0
+S251359651	2025-06-16	European Starling	Sturnus vulgaris	27813	species	2	43.6646840	-111.9181310	Traveling	1	0
+S246653628	2025-06-04	House Finch	Haemorhous mexicanus	32310	species	2	43.6984306	-111.8767035	Stationary	1	0
+S263246366	2025-07-27	Northern Flicker	Colaptes auratus	11906	issf	1	43.6984306	-111.8767035	Stationary	1	0
+S246654309	2025-06-03	House Finch	Haemorhous mexicanus	32310	species	2	43.6984306	-111.8767035	Stationary	1	0
+S242634535	2025-05-25	Chipping Sparrow	Spizella passerina	32990	species	1	43.6692870	-111.8844962	Traveling	1	0
+S246654309	2025-06-03	Black-billed Magpie	Pica hudsonia	21476	species	2	43.6984306	-111.8767035	Stationary	1	0
+S242634535	2025-05-25	Bullock's Oriole	Icterus bullockii	33736	species	2	43.6692870	-111.8844962	Traveling	1	0
+S263608493	2025-07-29	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.6984306	-111.8767035	Stationary	1	0
+S247642981	2025-06-07	Cedar Waxwing	Bombycilla cedrorum	29888	species	3	43.6692870	-111.8844962	Traveling	1	0
+S247642981	2025-06-07	House Sparrow	Passer domesticus	31534	species	15	43.6692870	-111.8844962	Traveling	1	0
+S243321264	2025-05-26	Brown-headed Cowbird	Molothrus ater	33833	species	2	43.6692870	-111.8844962	Traveling	1	0
+S263602539	2025-07-29	House Finch	Haemorhous mexicanus	32310	species	5	43.6984306	-111.8767035	Stationary	1	0
+S242634535	2025-05-25	European Starling	Sturnus vulgaris	27813	species	10	43.6692870	-111.8844962	Traveling	1	0
+S243321264	2025-05-26	European Starling	Sturnus vulgaris	27813	species	4	43.6692870	-111.8844962	Traveling	1	0
+S263246366	2025-07-27	Mourning Dove	Zenaida macroura	2412	species	2	43.6984306	-111.8767035	Stationary	1	0
+S251359651	2025-06-16	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	43.6646840	-111.9181310	Traveling	1	0
+S243321264	2025-05-26	Black-billed Magpie	Pica hudsonia	21476	species	2	43.6692870	-111.8844962	Traveling	1	0
+S243321264	2025-05-26	Western Meadowlark	Sturnella neglecta	33565	species	1	43.6692870	-111.8844962	Traveling	1	0
+S243321264	2025-05-26	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6692870	-111.8844962	Traveling	1	0
+S251359651	2025-06-16	American Kestrel	Falco sparverius	12028	species	1	43.6646840	-111.9181310	Traveling	1	0
+S246653628	2025-06-04	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.6984306	-111.8767035	Stationary	1	0
+S250251553	2025-06-06	Western Kingbird	Tyrannus verticalis	17467	species	1	43.6692870	-111.8844962	Traveling	1	0
+S263608493	2025-07-29	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	43.6984306	-111.8767035	Stationary	1	0
+S242634535	2025-05-25	Rock Pigeon	Columba livia	1868	domestic	8	43.6692870	-111.8844962	Traveling	1	0

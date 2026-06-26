@@ -1,0 +1,4 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S153209265,2023-10-27,2023,1504,"Lindsay, CA",Lindsay,California,Tulare,19833149.9693143,35,0.175,1,36.2048903,-119.1044925,11,11,city_1504_california_lindsay
+S130090557,2023-03-03,2023,1504,"Lindsay, CA",Lindsay,California,Tulare,19833149.9693143,15,,1,36.2059479,-119.115799,1,1,city_1504_california_lindsay
+S203404441,2024-11-23,2024,1504,"Lindsay, CA",Lindsay,California,Tulare,19833149.9693143,10,,1,36.203807,-119.103811,6,6,city_1504_california_lindsay

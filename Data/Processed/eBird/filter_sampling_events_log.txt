@@ -1,6 +1,0 @@
-awk: syntax error at source line 21 source file Data/Processed/eBird/filter_sampling_events.awk
- context is
-	  if ( >>> 
- <<<     id_col == 0 ||
-awk: illegal statement at source line 21 source file Data/Processed/eBird/filter_sampling_events.awk
-awk: illegal statement at source line 21 source file Data/Processed/eBird/filter_sampling_events.awk

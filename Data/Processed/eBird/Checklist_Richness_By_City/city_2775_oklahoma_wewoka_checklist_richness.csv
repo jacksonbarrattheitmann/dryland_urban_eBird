@@ -1,0 +1,5 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23070536,2015-04-26,2015,2775,"Wewoka, OK",Wewoka,Oklahoma,Seminole,3982635.10831267,35,3.219,1,35.1495649,-96.4874697,17,17,city_2775_oklahoma_wewoka
+S22408692,2015-03-18,2015,2775,"Wewoka, OK",Wewoka,Oklahoma,Seminole,3982635.10831267,39,4.828,1,35.149746,-96.486761,6,6,city_2775_oklahoma_wewoka
+S58047008,2019-07-09,2019,2775,"Wewoka, OK",Wewoka,Oklahoma,Seminole,3982635.10831267,5,,1,35.14814,-96.500235,13,13,city_2775_oklahoma_wewoka
+S207704972,2025-01-02,2025,2775,"Wewoka, OK",Wewoka,Oklahoma,Seminole,3982635.10831267,10,0.13,1,35.1381662,-96.4948117,11,11,city_2775_oklahoma_wewoka

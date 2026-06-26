@@ -1,0 +1,548 @@
+checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S25548633	2015-10-23	Blue Jay	Cyanocitta cristata	21294	species	3	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Western Cattle-Egret	Ardea ibis	7724	species	5	32.3198149	-102.5552702	Traveling	1	0
+S26121926	2015-12-04	Pied-billed Grebe	Podilymbus podiceps	6855	species	3	32.3198149	-102.5552702	Stationary	1	0
+S24708228	2015-08-16	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	32.3158768	-102.5458241	Traveling	1	0
+S25548633	2015-10-23	Muscovy Duck	Cairina moschata	446	domestic	2	32.3198149	-102.5552702	Traveling	1	0
+S26121926	2015-12-04	Swan Goose	Anser cygnoides	282	domestic	4	32.3198149	-102.5552702	Stationary	1	1
+S24708228	2015-08-16	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	32.3158768	-102.5458241	Traveling	1	0
+S25548633	2015-10-23	Mourning Dove	Zenaida macroura	2412	species	14	32.3198149	-102.5552702	Traveling	1	0
+S24708228	2015-08-16	Mississippi Kite	Ictinia mississippiensis	8388	species	1	32.3158768	-102.5458241	Traveling	1	0
+S24708228	2015-08-16	European Starling	Sturnus vulgaris	27813	species	X	32.3158768	-102.5458241	Traveling	1	0
+S24708228	2015-08-16	Mourning Dove	Zenaida macroura	2412	species	X	32.3158768	-102.5458241	Traveling	1	0
+S25548633	2015-10-23	Great-tailed Grackle	Quiscalus mexicanus	33864	species	225	32.3198149	-102.5552702	Traveling	1	0
+S26121926	2015-12-04	American Coot	Fulica americana	5503	form	3	32.3198149	-102.5552702	Stationary	1	0
+S25548633	2015-10-23	Graylag Goose	Anser anser	278	domestic	5	32.3198149	-102.5552702	Traveling	1	0
+S24708228	2015-08-16	Barn Swallow	Hirundo rustica	24187	species	X	32.3158768	-102.5458241	Traveling	1	0
+S24708228	2015-08-16	Lesser Goldfinch	Spinus psaltria	32609	species	2	32.3158768	-102.5458241	Traveling	1	0
+S25548633	2015-10-23	House Finch	Haemorhous mexicanus	32310	species	13	32.3198149	-102.5552702	Traveling	1	0
+S24708228	2015-08-16	Chihuahuan Raven	Corvus cryptoleucus	21574	species	2	32.3158768	-102.5458241	Traveling	1	0
+S26809523	2015-12-12	Pied-billed Grebe	Podilymbus podiceps	6855	species	4	32.3198149	-102.5552702	Stationary	1	0
+S24708228	2015-08-16	House Sparrow	Passer domesticus	31534	species	X	32.3158768	-102.5458241	Traveling	1	0
+S26121926	2015-12-04	Mallard	Anas platyrhynchos	548	domestic	20	32.3198149	-102.5552702	Stationary	1	0
+S26121926	2015-12-04	Eared Grebe	Podiceps nigricollis	6876	species	1	32.3198149	-102.5552702	Stationary	1	0
+S26121926	2015-12-04	Graylag Goose	Anser anser	278	domestic	12	32.3198149	-102.5552702	Stationary	1	1
+S25548633	2015-10-23	Yellow-rumped Warbler	Setophaga coronata	34161	issf	3	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Mallard	Anas platyrhynchos	545	species	3	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Mallard	Anas platyrhynchos	548	domestic	74	32.3198149	-102.5552702	Traveling	1	0
+S26809523	2015-12-12	Mallard	Anas platyrhynchos	548	domestic	10	32.3198149	-102.5552702	Stationary	1	0
+S25548633	2015-10-23	American Coot	Fulica americana	5503	form	9	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Monk Parakeet	Myiopsitta monachus	12819	species	21	32.3198149	-102.5552702	Traveling	1	1
+S25548633	2015-10-23	House Sparrow	Passer domesticus	31534	species	1	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	11	32.3198149	-102.5552702	Traveling	1	0
+S24708228	2015-08-16	Rock Pigeon	Columba livia	1868	domestic	X	32.3158768	-102.5458241	Traveling	1	0
+S25548633	2015-10-23	Rock Pigeon	Columba livia	1868	domestic	6	32.3198149	-102.5552702	Traveling	1	0
+S26121926	2015-12-04	Yellow-rumped Warbler	Setophaga coronata	34160	issf	6	32.3198149	-102.5552702	Stationary	1	0
+S24708228	2015-08-16	American Robin	Turdus migratorius	28633	species	4	32.3158768	-102.5458241	Traveling	1	0
+S25548633	2015-10-23	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	85	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Pied-billed Grebe	Podilymbus podiceps	6855	species	2	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Swan Goose	Anser cygnoides	282	domestic	2	32.3198149	-102.5552702	Traveling	1	0
+S26809523	2015-12-12	Northern Shoveler	Spatula clypeata	501	species	4	32.3198149	-102.5552702	Stationary	1	0
+S25548633	2015-10-23	Belted Kingfisher	Megaceryle alcyon	10306	species	1	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	1	32.3198149	-102.5552702	Traveling	1	0
+S25548633	2015-10-23	European Starling	Sturnus vulgaris	27813	species	1	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	European Starling	Sturnus vulgaris	27813	species	5	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Canada Goose	Branta canadensis	342	species	2	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Redhead	Aythya americana	667	species	2	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Great Blue Heron	Ardea herodias	7753	species	1	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Pied-billed Grebe	Podilymbus podiceps	6855	species	2	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	125	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Mallard	Anas platyrhynchos	548	domestic	79	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Belted Kingfisher	Megaceryle alcyon	10306	species	1	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Great-tailed Grackle	Quiscalus mexicanus	33864	species	27	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Graylag Goose	Anser anser	278	domestic	8	32.3198149	-102.5552702	Traveling	1	0
+S32497954	2016-11-12	Great-tailed Grackle	Quiscalus mexicanus	33864	species	125	32.3050270	-102.5324443	Stationary	1	0
+S32509306	2016-11-12	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	32.3198149	-102.5552702	Traveling	1	0
+S32497954	2016-11-12	House Sparrow	Passer domesticus	31534	species	2	32.3050270	-102.5324443	Stationary	1	0
+S32509306	2016-11-12	Muscovy Duck	Cairina moschata	446	domestic	3	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Rock Pigeon	Columba livia	1868	domestic	90	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	American Coot	Fulica americana	5503	form	11	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Blue Jay	Cyanocitta cristata	21294	species	1	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Swan Goose	Anser cygnoides	282	domestic	4	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	House Finch	Haemorhous mexicanus	32310	species	2	32.3198149	-102.5552702	Traveling	1	0
+S32509306	2016-11-12	House Sparrow	Passer domesticus	31534	species	1	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	American Coot	Fulica americana	5503	form	6	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	Great Blue Heron	Ardea herodias	7754	issf	1	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	Mallard	Anas platyrhynchos	545	species	7	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	Graylag Goose	Anser anser	278	domestic	14	32.3198149	-102.5552702	Traveling	1	1
+S40036837	2017-10-20	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	Canada Goose	Branta canadensis	342	species	2	32.3198149	-102.5552702	Traveling	1	1
+S40036837	2017-10-20	Yellow-rumped Warbler	Setophaga coronata	34161	issf	3	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	Mallard	Anas platyrhynchos	548	domestic	49	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	Muscovy Duck	Cairina moschata	446	domestic	3	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	32.3198149	-102.5552702	Traveling	1	0
+S40036837	2017-10-20	Swan Goose	Anser cygnoides	282	domestic	9	32.3198149	-102.5552702	Traveling	1	1
+S40036837	2017-10-20	Rock Pigeon	Columba livia	1868	domestic	8	32.3198149	-102.5552702	Traveling	1	0
+S47805563	2018-08-12	White-winged Dove	Zenaida asiatica	2389	species	20	32.3122767	-102.5591696	Stationary	1	0
+S43975186	2018-03-26	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	32.3205620	-102.5476230	Stationary	1	0
+S47805563	2018-08-12	Monk Parakeet	Myiopsitta monachus	12819	species	5	32.3122767	-102.5591696	Stationary	1	0
+S43975186	2018-03-26	House Sparrow	Passer domesticus	31534	species	X	32.3205620	-102.5476230	Stationary	1	0
+S47805563	2018-08-12	Mourning Dove	Zenaida macroura	2412	species	1	32.3122767	-102.5591696	Stationary	1	0
+S43975186	2018-03-26	Great-tailed Grackle	Quiscalus mexicanus	33864	species	7	32.3205620	-102.5476230	Stationary	1	0
+S43975186	2018-03-26	Rock Pigeon	Columba livia	1868	domestic	15	32.3205620	-102.5476230	Stationary	1	0
+S47805563	2018-08-12	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	32.3122767	-102.5591696	Stationary	1	0
+S47805563	2018-08-12	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.3122767	-102.5591696	Stationary	1	0
+S53931879	2019-03-16	Mourning Dove	Zenaida macroura	2412	species	10	32.3133706	-102.5624478	Traveling	1	0
+S60463125	2019-10-04	Double-crested Cormorant	Nannopterum auritum	7424	species	1	32.3198149	-102.5552702	Stationary	1	0
+S53931981	2019-03-16	Mallard	Anas platyrhynchos	545	species	4	32.3198149	-102.5552702	Stationary	1	0
+S53931981	2019-03-16	Killdeer	Charadrius vociferus	5827	species	2	32.3198149	-102.5552702	Stationary	1	0
+S60463125	2019-10-04	Mallard	Anas platyrhynchos	548	domestic	25	32.3198149	-102.5552702	Stationary	1	0
+S61528003	2019-11-17	American Coot	Fulica americana	5500	species	4	32.3198149	-102.5552702	Traveling	1	0
+S51658169	2019-01-13	Rock Pigeon	Columba livia	1868	domestic	35	32.3187000	-102.5454400	Traveling	1	0
+S60510051	2019-10-10	Gadwall	Mareca strepera	505	species	1	32.3299890	-102.5396910	Traveling	1	0
+S61936685	2019-11-30	Rock Pigeon	Columba livia	1868	domestic	30	32.3153791	-102.5611759	Traveling	1	0
+S60510051	2019-10-10	Northern Shoveler	Spatula clypeata	501	species	3	32.3299890	-102.5396910	Traveling	1	0
+S51658169	2019-01-13	Western Meadowlark	Sturnella neglecta	33565	species	7	32.3187000	-102.5454400	Traveling	1	0
+S52307660	2019-02-02	Mallard	Anas platyrhynchos	548	domestic	20	32.3198149	-102.5552702	Traveling	1	0
+S60463125	2019-10-04	Graylag Goose	Anser anser	278	domestic	2	32.3198149	-102.5552702	Stationary	1	0
+S61089073	2019-11-01	Mallard	Anas platyrhynchos	545	species	11	32.3198149	-102.5552702	Traveling	1	0
+S61936685	2019-11-30	House Sparrow	Passer domesticus	31534	species	5	32.3153791	-102.5611759	Traveling	1	0
+S60510051	2019-10-10	Mallard	Anas platyrhynchos	545	species	50	32.3299890	-102.5396910	Traveling	1	0
+S52307660	2019-02-02	Graylag x Swan Goose (hybrid)	Anser anser x cygnoides	286	hybrid	7	32.3198149	-102.5552702	Traveling	1	1
+S53931879	2019-03-16	Great-tailed Grackle	Quiscalus mexicanus	33864	species	17	32.3133706	-102.5624478	Traveling	1	0
+S51658169	2019-01-13	Northern Shoveler	Spatula clypeata	501	species	250	32.3187000	-102.5454400	Traveling	1	0
+S61089073	2019-11-01	Muscovy Duck	Cairina moschata	446	domestic	1	32.3198149	-102.5552702	Traveling	1	0
+S53931879	2019-03-16	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	32.3133706	-102.5624478	Traveling	1	0
+S51658169	2019-01-13	Lark Bunting	Calamospiza melanocorys	33032	species	85	32.3187000	-102.5454400	Traveling	1	0
+S61089073	2019-11-01	Canada Goose	Branta canadensis	342	species	1	32.3198149	-102.5552702	Traveling	1	0
+S61089073	2019-11-01	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	20	32.3198149	-102.5552702	Traveling	1	0
+S61089073	2019-11-01	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	2	32.3198149	-102.5552702	Traveling	1	0
+S51658169	2019-01-13	Lesser Scaup	Aythya affinis	700	species	3	32.3187000	-102.5454400	Traveling	1	0
+S53931981	2019-03-16	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	32.3198149	-102.5552702	Stationary	1	0
+S61528003	2019-11-17	Canada Goose	Branta canadensis	342	species	1	32.3198149	-102.5552702	Traveling	1	0
+S53931981	2019-03-16	Mourning Dove	Zenaida macroura	2412	species	3	32.3198149	-102.5552702	Stationary	1	0
+S53931981	2019-03-16	Ruddy Duck	Oxyura jamaicensis	778	species	2	32.3198149	-102.5552702	Stationary	1	0
+S61936685	2019-11-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	32.3153791	-102.5611759	Traveling	1	0
+S51658169	2019-01-13	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	26	32.3187000	-102.5454400	Traveling	1	0
+S60510051	2019-10-10	American Coot	Fulica americana	5500	species	4	32.3299890	-102.5396910	Traveling	1	0
+S61089073	2019-11-01	Great-tailed Grackle	Quiscalus mexicanus	33864	species	16	32.3198149	-102.5552702	Traveling	1	0
+S61089073	2019-11-01	House Sparrow	Passer domesticus	31534	species	8	32.3198149	-102.5552702	Traveling	1	0
+S53931981	2019-03-16	Northern Flicker	Colaptes auratus	11900	species	1	32.3198149	-102.5552702	Stationary	1	0
+S52307660	2019-02-02	Mallard	Anas platyrhynchos	545	species	9	32.3198149	-102.5552702	Traveling	1	0
+S53931879	2019-03-16	European Starling	Sturnus vulgaris	27813	species	18	32.3133706	-102.5624478	Traveling	1	0
+S60510051	2019-10-10	American Wigeon	Mareca americana	517	species	1	32.3299890	-102.5396910	Traveling	1	0
+S61089073	2019-11-01	American Coot	Fulica americana	5500	species	6	32.3198149	-102.5552702	Traveling	1	0
+S52307660	2019-02-02	Rock Pigeon	Columba livia	1868	domestic	12	32.3198149	-102.5552702	Traveling	1	0
+S53931879	2019-03-16	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.3133706	-102.5624478	Traveling	1	0
+S52307660	2019-02-02	American Coot	Fulica americana	5500	species	4	32.3198149	-102.5552702	Traveling	1	0
+S51658169	2019-01-13	American Kestrel	Falco sparverius	12028	species	1	32.3187000	-102.5454400	Traveling	1	0
+S51658169	2019-01-13	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	32.3187000	-102.5454400	Traveling	1	0
+S51658169	2019-01-13	Bufflehead	Bucephala albeola	742	species	16	32.3187000	-102.5454400	Traveling	1	0
+S52307660	2019-02-02	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	27	32.3198149	-102.5552702	Traveling	1	0
+S60463125	2019-10-04	Canada Goose	Branta canadensis	342	species	2	32.3198149	-102.5552702	Stationary	1	1
+S53931981	2019-03-16	Rock Pigeon	Columba livia	1868	domestic	9	32.3198149	-102.5552702	Stationary	1	0
+S53931981	2019-03-16	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	32.3198149	-102.5552702	Stationary	1	0
+S61089073	2019-11-01	Redhead	Aythya americana	667	species	4	32.3198149	-102.5552702	Traveling	1	0
+S61089073	2019-11-01	Rock Pigeon	Columba livia	1868	domestic	4	32.3198149	-102.5552702	Traveling	1	0
+S53931879	2019-03-16	House Finch	Haemorhous mexicanus	32310	species	22	32.3133706	-102.5624478	Traveling	1	0
+S53931879	2019-03-16	Inca Dove	Columbina inca	2242	species	2	32.3133706	-102.5624478	Traveling	1	1
+S60510051	2019-10-10	Rock Pigeon	Columba livia	1868	domestic	3	32.3299890	-102.5396910	Traveling	1	0
+S53931879	2019-03-16	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	32.3133706	-102.5624478	Traveling	1	0
+S51658169	2019-01-13	Gadwall	Mareca strepera	505	species	4	32.3187000	-102.5454400	Traveling	1	0
+S61936685	2019-11-30	White-winged Dove	Zenaida asiatica	2389	species	2	32.3153791	-102.5611759	Traveling	1	0
+S61089073	2019-11-01	American Crow	Corvus brachyrhynchos	21557	species	1	32.3198149	-102.5552702	Traveling	1	0
+S60463125	2019-10-04	Swan Goose	Anser cygnoides	282	domestic	2	32.3198149	-102.5552702	Stationary	1	0
+S51658169	2019-01-13	Prairie Falcon	Falco mexicanus	12136	species	1	32.3187000	-102.5454400	Traveling	1	0
+S53931981	2019-03-16	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	38	32.3198149	-102.5552702	Stationary	1	0
+S61936685	2019-11-30	Great-tailed Grackle	Quiscalus mexicanus	33864	species	10	32.3153791	-102.5611759	Traveling	1	0
+S53931879	2019-03-16	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	32.3133706	-102.5624478	Traveling	1	0
+S51658169	2019-01-13	American Coot	Fulica americana	5500	species	25	32.3187000	-102.5454400	Traveling	1	0
+S51658169	2019-01-13	Canvasback	Aythya valisineria	666	species	2	32.3187000	-102.5454400	Traveling	1	0
+S51658169	2019-01-13	Mallard	Anas platyrhynchos	545	species	25	32.3187000	-102.5454400	Traveling	1	0
+S51658169	2019-01-13	Green-winged Teal	Anas crecca	612	species	45	32.3187000	-102.5454400	Traveling	1	0
+S51658169	2019-01-13	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	32.3187000	-102.5454400	Traveling	1	0
+S61089073	2019-11-01	Graylag Goose	Anser anser	278	domestic	4	32.3198149	-102.5552702	Traveling	1	0
+S53931981	2019-03-16	European Starling	Sturnus vulgaris	27813	species	4	32.3198149	-102.5552702	Stationary	1	0
+S53931981	2019-03-16	duck sp.	Anatidae (duck sp.)	792	spuh	62	32.3198149	-102.5552702	Stationary	1	0
+S51658169	2019-01-13	Ruddy Duck	Oxyura jamaicensis	778	species	44	32.3187000	-102.5454400	Traveling	1	0
+S51658169	2019-01-13	Rough-legged Hawk	Buteo lagopus	8528	species	1	32.3187000	-102.5454400	Traveling	1	0
+S53931981	2019-03-16	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	32.3198149	-102.5552702	Stationary	1	0
+S53931981	2019-03-16	American Coot	Fulica americana	5500	species	6	32.3198149	-102.5552702	Stationary	1	0
+S72576890	2020-08-18	Canada Goose	Branta canadensis	342	species	1	32.3209152	-102.5532837	Stationary	1	1
+S77361539	2020-12-11	Mallard	Anas platyrhynchos	548	domestic	20	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	American Coot	Fulica americana	5500	species	2	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Black-crowned Night Heron	Nycticorax nycticorax	7602	issf	12	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	dabbling duck sp.	Anatidae sp. (dabbling duck sp.)	655	spuh	25	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Canada Goose	Branta canadensis	342	species	1	32.3198149	-102.5552702	Traveling	1	1
+S77361539	2020-12-11	American Kestrel	Falco sparverius	12028	species	1	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Mallard	Anas platyrhynchos	548	domestic	63	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	Long-billed Dowitcher	Limnodromus scolopaceus	6061	species	18	32.3198149	-102.5552702	Traveling	1	1
+S72031154	2020-08-01	Western Cattle-Egret	Ardea ibis	7724	species	15	32.3198149	-102.5552702	Traveling	1	0
+S64394560	2020-02-12	Great-tailed Grackle	Quiscalus mexicanus	33864	species	7	32.3067160	-102.5428280	Stationary	1	0
+S77361539	2020-12-11	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	American Coot	Fulica americana	5500	species	4	32.3198149	-102.5552702	Traveling	1	0
+S72576890	2020-08-18	Common Grackle	Quiscalus quiscula	33853	species	3	32.3209152	-102.5532837	Stationary	1	0
+S76071607	2020-11-07	Mallard	Anas platyrhynchos	545	species	12	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	Mallard	Anas platyrhynchos	545	species	12	32.3198149	-102.5552702	Traveling	1	0
+S64394560	2020-02-12	House Sparrow	Passer domesticus	31534	species	2	32.3067160	-102.5428280	Stationary	1	0
+S72576890	2020-08-18	Graylag Goose	Anser anser	278	domestic	3	32.3209152	-102.5532837	Stationary	1	0
+S72031154	2020-08-01	Mourning Dove	Zenaida macroura	2412	species	60	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Curve-billed Thrasher	Toxostoma curvirostre	28025	issf	1	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	White-winged Dove	Zenaida asiatica	2389	species	15	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	European Starling	Sturnus vulgaris	27813	species	1	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Domestic goose sp. (Domestic type)	Anser sp. (Domestic type)	312	domestic	15	32.3198149	-102.5552702	Traveling	1	1
+S72576890	2020-08-18	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	1	32.3209152	-102.5532837	Stationary	1	0
+S76071607	2020-11-07	Great-tailed Grackle	Quiscalus mexicanus	33864	species	22	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Neotropic Cormorant	Nannopterum brasilianum	7431	species	4	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Swan Goose	Anser cygnoides	282	domestic	5	32.3198149	-102.5552702	Traveling	1	0
+S72576890	2020-08-18	Neotropic Cormorant	Nannopterum brasilianum	7431	species	1	32.3209152	-102.5532837	Stationary	1	0
+S72576890	2020-08-18	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	32.3209152	-102.5532837	Stationary	1	0
+S75957947	2020-11-07	White-winged Dove	Zenaida asiatica	2389	species	6	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Northern Harrier	Circus hudsonius	8324	species	2	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Great-tailed Grackle	Quiscalus mexicanus	33864	species	30	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Canada Goose	Branta canadensis	342	species	1	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	White-winged Dove	Zenaida asiatica	2389	species	6	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Graylag Goose	Anser anser	278	domestic	8	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Barn Swallow	Hirundo rustica	24195	issf	20	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	Northern Shoveler	Spatula clypeata	501	species	21	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	European Starling	Sturnus vulgaris	27813	species	1	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	Northern Shoveler	Spatula clypeata	501	species	21	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	32.3198149	-102.5552702	Traveling	1	0
+S64394560	2020-02-12	Mourning Dove	Zenaida macroura	2412	species	1	32.3067160	-102.5428280	Stationary	1	0
+S75957947	2020-11-07	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	50	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	Great-tailed Grackle	Quiscalus mexicanus	33864	species	22	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	Rock Pigeon	Columba livia	1868	domestic	30	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Green-winged Teal	Anas crecca	612	species	1	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Belted Kingfisher	Megaceryle alcyon	10306	species	1	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Mississippi Kite	Ictinia mississippiensis	8388	species	48	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Northern Shoveler	Spatula clypeata	501	species	4	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	Long-billed Dowitcher	Limnodromus scolopaceus	6061	species	18	32.3198149	-102.5552702	Traveling	1	1
+S72031154	2020-08-01	House Sparrow	Passer domesticus	31534	species	25	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Monk Parakeet	Myiopsitta monachus	12819	species	3	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	Canada Goose	Branta canadensis	342	species	1	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	120	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Pyrrhuloxia	Cardinalis sinuatus	34535	species	1	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	House Sparrow	Passer domesticus	31534	species	6	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Western Kingbird	Tyrannus verticalis	17467	species	4	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	Rock Pigeon	Columba livia	1868	domestic	30	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Mourning Dove	Zenaida macroura	2412	species	4	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Blue Jay	Cyanocitta cristata	21294	species	4	32.3198149	-102.5552702	Traveling	1	0
+S72576890	2020-08-18	Swan Goose	Anser cygnoides	282	domestic	2	32.3209152	-102.5532837	Stationary	1	0
+S76071607	2020-11-07	House Sparrow	Passer domesticus	31534	species	6	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	American Coot	Fulica americana	5500	species	4	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	Canada Goose	Branta canadensis	342	species	1	32.3198149	-102.5552702	Traveling	1	0
+S76071607	2020-11-07	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	50	32.3198149	-102.5552702	Traveling	1	0
+S77361539	2020-12-11	Rock Pigeon	Columba livia	1868	domestic	5	32.3198149	-102.5552702	Traveling	1	0
+S72031154	2020-08-01	Muscovy Duck	Cairina moschata	446	domestic	1	32.3198149	-102.5552702	Traveling	1	0
+S75957947	2020-11-07	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	32.3198149	-102.5552702	Traveling	1	0
+S91643718	2021-07-12	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	32.3292850	-102.5482870	Stationary	1	0
+S99636608	2021-12-29	American Coot	Fulica americana	5500	species	4	32.3198149	-102.5552702	Traveling	1	0
+S98769913	2021-12-11	Great Blue Heron	Ardea herodias	7753	species	1	32.3198149	-102.5552702	Stationary	1	0
+S99032157	2021-12-18	Blue Jay	Cyanocitta cristata	21294	species	1	32.3198149	-102.5552702	Traveling	1	0
+S91643718	2021-07-12	House Sparrow	Passer domesticus	31534	species	4	32.3292850	-102.5482870	Stationary	1	0
+S98769913	2021-12-11	Mourning Dove	Zenaida macroura	2412	species	3	32.3198149	-102.5552702	Stationary	1	0
+S99032157	2021-12-18	European Starling	Sturnus vulgaris	27813	species	3	32.3198149	-102.5552702	Traveling	1	0
+S99032157	2021-12-18	Great-tailed Grackle	Quiscalus mexicanus	33864	species	15	32.3198149	-102.5552702	Traveling	1	0
+S91086738	2021-07-01	House Sparrow	Passer domesticus	31534	species	1	32.3180557	-102.5497034	Traveling	1	0
+S91643718	2021-07-12	Western Kingbird	Tyrannus verticalis	17467	species	1	32.3292850	-102.5482870	Stationary	1	0
+S94739263	2021-09-16	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	32.3198149	-102.5552702	Traveling	1	0
+S99636608	2021-12-29	Muscovy Duck	Cairina moschata	446	domestic	3	32.3198149	-102.5552702	Traveling	1	0
+S94739263	2021-09-16	Blue Jay	Cyanocitta cristata	21294	species	1	32.3198149	-102.5552702	Traveling	1	0
+S94739263	2021-09-16	Double-crested Cormorant	Nannopterum auritum	7424	species	1	32.3198149	-102.5552702	Traveling	1	0
+S99636608	2021-12-29	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	20	32.3198149	-102.5552702	Traveling	1	0
+S99032157	2021-12-18	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	32.3198149	-102.5552702	Traveling	1	0
+S99032157	2021-12-18	Mourning Dove	Zenaida macroura	2412	species	10	32.3198149	-102.5552702	Traveling	1	0
+S99636608	2021-12-29	Great Blue Heron	Ardea herodias	7754	issf	1	32.3198149	-102.5552702	Traveling	1	0
+S99636608	2021-12-29	Rock Pigeon	Columba livia	1868	domestic	2	32.3198149	-102.5552702	Traveling	1	0
+S99636608	2021-12-29	Blue Jay	Cyanocitta cristata	21294	species	1	32.3198149	-102.5552702	Traveling	1	0
+S99636608	2021-12-29	House Sparrow	Passer domesticus	31534	species	1	32.3198149	-102.5552702	Traveling	1	0
+S99032157	2021-12-18	Great Blue Heron	Ardea herodias	7753	species	1	32.3198149	-102.5552702	Traveling	1	0
+S94739263	2021-09-16	Mallard	Anas platyrhynchos	545	species	4	32.3198149	-102.5552702	Traveling	1	0
+S99636608	2021-12-29	Rusty Blackbird	Euphagus carolinus	33848	species	20	32.3198149	-102.5552702	Traveling	1	1
+S94739263	2021-09-16	Snowy Egret	Egretta thula	7645	species	10	32.3198149	-102.5552702	Traveling	1	0
+S91086738	2021-07-01	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	32.3180557	-102.5497034	Traveling	1	0
+S99636608	2021-12-29	Mallard	Anas platyrhynchos	548	domestic	80	32.3198149	-102.5552702	Traveling	1	0
+S94739263	2021-09-16	House Sparrow	Passer domesticus	31534	species	8	32.3198149	-102.5552702	Traveling	1	0
+S91643718	2021-07-12	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	32.3292850	-102.5482870	Stationary	1	0
+S98769913	2021-12-11	Graylag Goose	Anser anser	278	domestic	10	32.3198149	-102.5552702	Stationary	1	0
+S98769913	2021-12-11	Mallard	Anas platyrhynchos	545	species	40	32.3198149	-102.5552702	Stationary	1	0
+S99636608	2021-12-29	Domestic goose sp. (Domestic type)	Anser sp. (Domestic type)	312	domestic	11	32.3198149	-102.5552702	Traveling	1	0
+S94739263	2021-09-16	Domestic goose sp. (Domestic type)	Anser sp. (Domestic type)	312	domestic	9	32.3198149	-102.5552702	Traveling	1	0
+S91086738	2021-07-01	Curve-billed Thrasher	Toxostoma curvirostre	28024	species	1	32.3180557	-102.5497034	Traveling	1	0
+S91643718	2021-07-12	American Robin	Turdus migratorius	28633	species	1	32.3292850	-102.5482870	Stationary	1	0
+S99032157	2021-12-18	House Sparrow	Passer domesticus	31534	species	3	32.3198149	-102.5552702	Traveling	1	0
+S98769913	2021-12-11	Northern Shoveler	Spatula clypeata	501	species	2	32.3198149	-102.5552702	Stationary	1	0
+S94739263	2021-09-16	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	32.3198149	-102.5552702	Traveling	1	0
+S98769913	2021-12-11	Pied-billed Grebe	Podilymbus podiceps	6855	species	1	32.3198149	-102.5552702	Stationary	1	0
+S99636608	2021-12-29	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	1	32.3198149	-102.5552702	Traveling	1	0
+S98769913	2021-12-11	American Coot	Fulica americana	5500	species	4	32.3198149	-102.5552702	Stationary	1	0
+S91086738	2021-07-01	Rock Pigeon	Columba livia	1868	domestic	9	32.3180557	-102.5497034	Traveling	1	0
+S99636608	2021-12-29	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	32.3198149	-102.5552702	Traveling	1	0
+S91643718	2021-07-12	White-winged Dove	Zenaida asiatica	2389	species	2	32.3292850	-102.5482870	Stationary	1	0
+S98769913	2021-12-11	Mallard	Anas platyrhynchos	548	domestic	20	32.3198149	-102.5552702	Stationary	1	0
+S99636608	2021-12-29	Northern Shoveler	Spatula clypeata	501	species	3	32.3198149	-102.5552702	Traveling	1	0
+S99032157	2021-12-18	American Coot	Fulica americana	5500	species	4	32.3198149	-102.5552702	Traveling	1	0
+S99032157	2021-12-18	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	30	32.3198149	-102.5552702	Traveling	1	0
+S98769913	2021-12-11	Great-tailed Grackle	Quiscalus mexicanus	33864	species	38	32.3198149	-102.5552702	Stationary	1	0
+S94739263	2021-09-16	Mallard	Anas platyrhynchos	548	domestic	55	32.3198149	-102.5552702	Traveling	1	0
+S99032157	2021-12-18	White-winged Dove	Zenaida asiatica	2389	species	6	32.3198149	-102.5552702	Traveling	1	0
+S94739263	2021-09-16	White-winged Dove	Zenaida asiatica	2389	species	1	32.3198149	-102.5552702	Traveling	1	0
+S91086738	2021-07-01	Chimney Swift	Chaetura pelagica	3896	species	1	32.3180557	-102.5497034	Traveling	1	0
+S98769913	2021-12-11	Swan Goose	Anser cygnoides	282	domestic	5	32.3198149	-102.5552702	Stationary	1	0
+S91086738	2021-07-01	European Starling	Sturnus vulgaris	27813	species	2	32.3180557	-102.5497034	Traveling	1	0
+S99636608	2021-12-29	Mallard	Anas platyrhynchos	545	species	40	32.3198149	-102.5552702	Traveling	1	0
+S99032157	2021-12-18	Mallard	Anas platyrhynchos	545	species	20	32.3198149	-102.5552702	Traveling	1	0
+S113830051	2022-06-26	House Sparrow	Passer domesticus	31534	species	1	32.3302090	-102.5389690	Traveling	1	0
+S120777918	2022-10-16	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	32.3079509	-102.5433936	Stationary	1	0
+S121451313	2022-10-28	American Coot	Fulica americana	5500	species	2	32.3198149	-102.5552702	Traveling	1	0
+S110562081	2022-05-18	Great-tailed Grackle	Quiscalus mexicanus	33864	species	10	32.3198149	-102.5552702	Traveling	1	0
+S113319289	2022-06-19	Western Kingbird	Tyrannus verticalis	17467	species	3	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Common Grackle	Quiscalus quiscula	33853	species	6	32.3198149	-102.5552702	Traveling	1	0
+S121451313	2022-10-28	Great Blue Heron	Ardea herodias	7753	species	1	32.3198149	-102.5552702	Traveling	1	0
+S121451313	2022-10-28	Double-crested Cormorant	Nannopterum auritum	7424	species	1	32.3198149	-102.5552702	Traveling	1	0
+S110562081	2022-05-18	Barn Swallow	Hirundo rustica	24187	species	2	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Mourning Dove	Zenaida macroura	2412	species	1	32.3198149	-102.5552702	Traveling	1	0
+S120777918	2022-10-16	Mourning Dove	Zenaida macroura	2412	species	2	32.3079509	-102.5433936	Stationary	1	0
+S113830051	2022-06-26	Western Cattle-Egret	Ardea ibis	7724	species	5	32.3302090	-102.5389690	Traveling	1	0
+S110535039	2022-05-17	Mississippi Kite	Ictinia mississippiensis	8388	species	2	32.3130737	-102.5619836	Traveling	1	0
+S113319289	2022-06-19	Mallard	Anas platyrhynchos	545	species	2	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Mallard	Anas platyrhynchos	548	domestic	50	32.3198149	-102.5552702	Traveling	1	0
+S113319289	2022-06-19	Mourning Dove	Zenaida macroura	2412	species	1	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	32.3198149	-102.5552702	Traveling	1	0
+S113830051	2022-06-26	Western Kingbird	Tyrannus verticalis	17467	species	2	32.3302090	-102.5389690	Traveling	1	0
+S120777918	2022-10-16	Great-tailed Grackle	Quiscalus mexicanus	33864	species	7	32.3079509	-102.5433936	Stationary	1	0
+S110533878	2022-05-17	Western Cattle-Egret	Ardea ibis	7724	species	10	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Red-tailed Hawk	Buteo jamaicensis	8509	issf	1	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	1	32.3198149	-102.5552702	Traveling	1	0
+S110535039	2022-05-17	Great-tailed Grackle	Quiscalus mexicanus	33864	species	11	32.3130737	-102.5619836	Traveling	1	0
+S113830051	2022-06-26	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	32.3302090	-102.5389690	Traveling	1	0
+S120777918	2022-10-16	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.3079509	-102.5433936	Stationary	1	0
+S121451313	2022-10-28	Rock Pigeon	Columba livia	1868	domestic	3	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Neotropic Cormorant	Nannopterum brasilianum	7431	species	3	32.3198149	-102.5552702	Traveling	1	0
+S113319289	2022-06-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	32.3198149	-102.5552702	Traveling	1	0
+S113319289	2022-06-19	Chimney Swift	Chaetura pelagica	3896	species	1	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Rock Pigeon	Columba livia	1868	domestic	6	32.3198149	-102.5552702	Traveling	1	0
+S110562081	2022-05-18	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	1	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Swan Goose	Anser cygnoides	282	domestic	6	32.3198149	-102.5552702	Traveling	1	1
+S102704279	2022-02-15	Cackling Goose	Branta hutchinsii	331	species	19	32.3198149	-102.5552702	Traveling	1	1
+S102704279	2022-02-15	Mallard	Anas platyrhynchos	545	species	25	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Rock Pigeon	Columba livia	1868	domestic	35	32.3198149	-102.5552702	Traveling	1	0
+S110535039	2022-05-17	Killdeer	Charadrius vociferus	5827	species	1	32.3130737	-102.5619836	Traveling	1	0
+S110535039	2022-05-17	European Starling	Sturnus vulgaris	27813	species	5	32.3130737	-102.5619836	Traveling	1	0
+S110533878	2022-05-17	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	1	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Mallard x Mexican Duck (hybrid)	Anas platyrhynchos x diazi	569	hybrid	3	32.3198149	-102.5552702	Traveling	1	1
+S110562081	2022-05-18	MacGillivray's Warbler	Geothlypis tolmiei	34005	species	1	32.3198149	-102.5552702	Traveling	1	0
+S110562081	2022-05-18	House Sparrow	Passer domesticus	31534	species	4	32.3198149	-102.5552702	Traveling	1	0
+S110562081	2022-05-18	Mourning Dove	Zenaida macroura	2412	species	4	32.3198149	-102.5552702	Traveling	1	0
+S120777918	2022-10-16	House Sparrow	Passer domesticus	31534	species	6	32.3079509	-102.5433936	Stationary	1	0
+S113319289	2022-06-19	House Sparrow	Passer domesticus	31534	species	X	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	American Coot	Fulica americana	5500	species	6	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Graylag Goose	Anser anser	278	domestic	10	32.3198149	-102.5552702	Traveling	1	0
+S110535039	2022-05-17	Mourning Dove	Zenaida macroura	2412	species	6	32.3130737	-102.5619836	Traveling	1	0
+S102704279	2022-02-15	White-winged Dove	Zenaida asiatica	2389	species	1	32.3198149	-102.5552702	Traveling	1	0
+S120777918	2022-10-16	House Finch	Haemorhous mexicanus	32310	species	1	32.3079509	-102.5433936	Stationary	1	0
+S110533878	2022-05-17	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	5	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Great-tailed Grackle	Quiscalus mexicanus	33864	species	15	32.3198149	-102.5552702	Traveling	1	0
+S113319289	2022-06-19	Turkey Vulture	Cathartes aura	7815	species	X	32.3198149	-102.5552702	Traveling	1	0
+S120777918	2022-10-16	White-winged Dove	Zenaida asiatica	2389	species	13	32.3079509	-102.5433936	Stationary	1	0
+S121451313	2022-10-28	Mallard	Anas platyrhynchos	548	domestic	25	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Double-crested Cormorant	Nannopterum auritum	7424	species	6	32.3198149	-102.5552702	Traveling	1	1
+S113830051	2022-06-26	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	32.3302090	-102.5389690	Traveling	1	0
+S110535039	2022-05-17	Western Kingbird	Tyrannus verticalis	17467	species	6	32.3130737	-102.5619836	Traveling	1	0
+S110535039	2022-05-17	White-winged Dove	Zenaida asiatica	2389	species	2	32.3130737	-102.5619836	Traveling	1	0
+S102704279	2022-02-15	Northern Shoveler	Spatula clypeata	501	species	4	32.3198149	-102.5552702	Traveling	1	0
+S121451313	2022-10-28	House Sparrow	Passer domesticus	31534	species	8	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	House Sparrow	Passer domesticus	31534	species	2	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Mississippi Kite	Ictinia mississippiensis	8388	species	6	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Mourning Dove	Zenaida macroura	2412	species	5	32.3198149	-102.5552702	Traveling	1	0
+S121451313	2022-10-28	Swan Goose	Anser cygnoides	282	domestic	7	32.3198149	-102.5552702	Traveling	1	1
+S102704279	2022-02-15	House Finch	Haemorhous mexicanus	32310	species	1	32.3198149	-102.5552702	Traveling	1	0
+S110535039	2022-05-17	Barn Swallow	Hirundo rustica	24187	species	1	32.3130737	-102.5619836	Traveling	1	0
+S110562081	2022-05-18	Mississippi Kite	Ictinia mississippiensis	8388	species	9	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	30	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Western Kingbird	Tyrannus verticalis	17467	species	4	32.3198149	-102.5552702	Traveling	1	0
+S110533878	2022-05-17	Killdeer	Charadrius vociferus	5827	species	2	32.3198149	-102.5552702	Traveling	1	0
+S102704279	2022-02-15	Pied-billed Grebe	Podilymbus podiceps	6855	species	1	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Western Kingbird	Tyrannus verticalis	17467	species	2	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Great-tailed Grackle	Quiscalus mexicanus	33864	species	15	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	32.3198149	-102.5552702	Traveling	1	0
+S157371223	2023-12-28	Mallard	Anas platyrhynchos	545	species	65	32.3198149	-102.5552702	Traveling	1	0
+S157371223	2023-12-28	House Sparrow	Passer domesticus	31534	species	3	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Mourning Dove	Zenaida macroura	2412	species	6	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	White-winged Dove	Zenaida asiatica	2389	species	8	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	Mississippi Kite	Ictinia mississippiensis	8388	species	2	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	Barn Swallow	Hirundo rustica	24187	species	2	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	House Sparrow	Passer domesticus	31534	species	45	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Monk Parakeet	Myiopsitta monachus	12819	species	3	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	Double-crested Cormorant	Nannopterum auritum	7424	species	7	32.3198149	-102.5552702	Traveling	1	1
+S147933773	2023-08-23	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	22	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Double-crested Cormorant	Nannopterum auritum	7424	species	7	32.3198149	-102.5552702	Traveling	1	1
+S157371223	2023-12-28	Double-crested Cormorant	Nannopterum auritum	7424	species	2	32.3198149	-102.5552702	Traveling	1	0
+S157371223	2023-12-28	Muscovy Duck	Cairina moschata	446	domestic	2	32.3198149	-102.5552702	Traveling	1	0
+S157371223	2023-12-28	Domestic goose sp. (Domestic type)	Anser sp. (Domestic type)	312	domestic	8	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	European Starling	Sturnus vulgaris	27813	species	3	32.3198149	-102.5552702	Traveling	1	0
+S157371223	2023-12-28	Cooper's Hawk	Astur cooperii	8278	species	1	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	European Starling	Sturnus vulgaris	27813	species	4	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	15	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Mississippi Kite	Ictinia mississippiensis	8388	species	6	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	Rock Pigeon	Columba livia	1868	domestic	2	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Western Cattle-Egret	Ardea ibis	7724	species	15	32.3198149	-102.5552702	Traveling	1	0
+S157371223	2023-12-28	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	30	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	2	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	Mallard	Anas platyrhynchos	545	species	8	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	Western Cattle-Egret	Ardea ibis	7724	species	13	32.3198149	-102.5552702	Traveling	1	0
+S157371223	2023-12-28	Mallard	Anas platyrhynchos	548	domestic	13	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	House Sparrow	Passer domesticus	31534	species	2	32.3198149	-102.5552702	Traveling	1	0
+S147933773	2023-08-23	American Robin	Turdus migratorius	28633	species	1	32.3198149	-102.5552702	Traveling	1	0
+S143050253	2023-06-29	Barn Swallow	Hirundo rustica	24187	species	2	32.3198149	-102.5552702	Traveling	1	0
+S166877060	2024-04-01	White-winged Dove	Zenaida asiatica	2389	species	6	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	White-winged Dove	Zenaida asiatica	2389	species	1	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	1	32.3198149	-102.5552702	Traveling	1	0
+S184245348	2024-06-28	Lesser Goldfinch	Spinus psaltria	32609	species	1	32.3198149	-102.5552702	Stationary	1	0
+S184064675	2024-06-27	Brown Pelican	Pelecanus occidentalis	7792	species	1	32.3198149	-102.5552702	Traveling	1	1
+S166877060	2024-04-01	Mallard	Anas platyrhynchos	545	species	40	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	Mississippi Kite	Ictinia mississippiensis	8388	species	10	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	Mourning Dove	Zenaida macroura	2412	species	2	32.3198149	-102.5552702	Traveling	1	0
+S166877060	2024-04-01	Mourning Dove	Zenaida macroura	2412	species	7	32.3198149	-102.5552702	Traveling	1	0
+S166877060	2024-04-01	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	32.3198149	-102.5552702	Traveling	1	0
+S184245348	2024-06-28	Mallard	Anas platyrhynchos	545	species	4	32.3198149	-102.5552702	Stationary	1	0
+S184064675	2024-06-27	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	Western Cattle-Egret	Ardea ibis	7724	species	4	32.3198149	-102.5552702	Traveling	1	0
+S184245348	2024-06-28	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	32.3198149	-102.5552702	Stationary	1	0
+S166877060	2024-04-01	Double-crested Cormorant	Nannopterum auritum	7424	species	4	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	House Sparrow	Passer domesticus	31534	species	10	32.3198149	-102.5552702	Traveling	1	0
+S166877060	2024-04-01	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	30	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	European Starling	Sturnus vulgaris	27813	species	2	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	Monk Parakeet	Myiopsitta monachus	12819	species	3	32.3198149	-102.5552702	Traveling	1	0
+S184064675	2024-06-27	Double-crested Cormorant	Nannopterum auritum	7424	species	7	32.3198149	-102.5552702	Traveling	1	1
+S184064675	2024-06-27	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	32.3198149	-102.5552702	Traveling	1	0
+S184245348	2024-06-28	Monk Parakeet	Myiopsitta monachus	12819	species	1	32.3198149	-102.5552702	Stationary	1	0
+S184064675	2024-06-27	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	1	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Monk Parakeet	Myiopsitta monachus	12819	species	8	32.3198149	-102.5552702	Stationary	1	0
+S264831056	2025-08-03	Blue Jay	Cyanocitta cristata	21294	species	2	32.3198149	-102.5552702	Traveling	1	0
+S265024745	2025-08-04	American Robin	Turdus migratorius	28633	species	2	32.3198149	-102.5552702	Traveling	1	0
+S261733096	2025-07-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	32.3198149	-102.5552702	Traveling	1	0
+S270704789	2025-08-31	Chipping Sparrow	Spizella passerina	32990	species	6	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	Double-crested Cormorant	Nannopterum auritum	7424	species	3	32.3198149	-102.5552702	Traveling	1	1
+S265024745	2025-08-04	Mourning Dove	Zenaida macroura	2412	species	7	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	European Starling	Sturnus vulgaris	27813	species	5	32.3198149	-102.5552702	Traveling	1	0
+S250169119	2025-06-14	Monk Parakeet	Myiopsitta monachus	12819	species	10	32.3412810	-102.5436440	Traveling	1	0
+S256016048	2025-06-25	Chimney Swift	Chaetura pelagica	3896	species	3	32.3198149	-102.5552702	Stationary	1	0
+S270997117	2025-09-01	Mallard	Anas platyrhynchos	545	species	X	32.3198149	-102.5552702	Traveling	1	0
+S265111327	2025-08-04	Monk Parakeet	Myiopsitta monachus	12819	species	4	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	Mississippi Kite	Ictinia mississippiensis	8388	species	1	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Western Kingbird	Tyrannus verticalis	17467	species	24	32.3198149	-102.5552702	Stationary	1	0
+S259627529	2025-07-13	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	2	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	White-winged Dove	Zenaida asiatica	2389	species	12	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	Monk Parakeet	Myiopsitta monachus	12819	species	6	32.3198149	-102.5552702	Traveling	1	0
+S265111327	2025-08-04	Mourning Dove	Zenaida macroura	2412	species	3	32.3198149	-102.5552702	Traveling	1	0
+S250169119	2025-06-14	Western Kingbird	Tyrannus verticalis	17467	species	5	32.3412810	-102.5436440	Traveling	1	0
+S250169119	2025-06-14	American Robin	Turdus migratorius	28633	species	1	32.3412810	-102.5436440	Traveling	1	0
+S250169119	2025-06-14	Killdeer	Charadrius vociferus	5827	species	4	32.3412810	-102.5436440	Traveling	1	0
+S270997117	2025-09-01	Double-crested Cormorant	Nannopterum auritum	7424	species	4	32.3198149	-102.5552702	Traveling	1	1
+S265468153	2025-08-06	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	1	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	Graylag Goose	Anser anser	278	domestic	10	32.3198149	-102.5552702	Traveling	1	1
+S264831056	2025-08-03	Domestic goose sp. (Domestic type)	Anser sp. (Domestic type)	312	domestic	20	32.3198149	-102.5552702	Traveling	1	0
+S265024745	2025-08-04	House Sparrow	Passer domesticus	31534	species	4	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	Domestic goose sp. (Domestic type)	Anser sp. (Domestic type)	312	domestic	X	32.3198149	-102.5552702	Traveling	1	0
+S270704789	2025-08-31	White-winged Dove	Zenaida asiatica	2389	species	2	32.3198149	-102.5552702	Traveling	1	0
+S250169119	2025-06-14	Barn Swallow	Hirundo rustica	24187	species	2	32.3412810	-102.5436440	Traveling	1	0
+S259627529	2025-07-13	Mallard	Anas platyrhynchos	548	domestic	12	32.3198149	-102.5552702	Traveling	1	1
+S250169119	2025-06-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	32.3412810	-102.5436440	Traveling	1	0
+S270997117	2025-09-01	Great-tailed Grackle	Quiscalus mexicanus	33864	species	15	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Domestic goose sp. (Domestic type)	Anser sp. (Domestic type)	312	domestic	X	32.3198149	-102.5552702	Stationary	1	0
+S256016048	2025-06-25	Double-crested Cormorant	Nannopterum auritum	7424	species	18	32.3198149	-102.5552702	Stationary	1	1
+S265024745	2025-08-04	Mississippi Kite	Ictinia mississippiensis	8388	species	5	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Black-necked Stilt	Himantopus mexicanus	5771	issf	2	32.3198149	-102.5552702	Stationary	1	0
+S261733096	2025-07-21	House Sparrow	Passer domesticus	31534	species	6	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	32.3198149	-102.5552702	Traveling	1	0
+S261733096	2025-07-21	Mourning Dove	Zenaida macroura	2412	species	3	32.3198149	-102.5552702	Traveling	1	0
+S261733096	2025-07-21	Mallard	Anas platyrhynchos	548	domestic	8	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Golden-fronted Woodpecker	Melanerpes aurifrons	11184	issf	2	32.3198149	-102.5552702	Stationary	1	0
+S265111327	2025-08-04	Snowy Egret	Egretta thula	7645	species	1	32.3198149	-102.5552702	Traveling	1	0
+S250169119	2025-06-14	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	32.3412810	-102.5436440	Traveling	1	0
+S270997117	2025-09-01	Mallard	Anas platyrhynchos	548	domestic	X	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	White-winged Dove	Zenaida asiatica	2389	species	1	32.3198149	-102.5552702	Traveling	1	0
+S265111327	2025-08-04	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	25	32.3198149	-102.5552702	Traveling	1	0
+S270704789	2025-08-31	Double-crested Cormorant	Nannopterum auritum	7424	species	1	32.3198149	-102.5552702	Traveling	1	1
+S250169119	2025-06-14	House Finch	Haemorhous mexicanus	32310	species	1	32.3412810	-102.5436440	Traveling	1	0
+S261733096	2025-07-21	Western Cattle-Egret	Ardea ibis	7724	species	5	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Blue Jay	Cyanocitta cristata	21294	species	3	32.3198149	-102.5552702	Stationary	1	0
+S264831056	2025-08-03	Mississippi Kite	Ictinia mississippiensis	8388	species	4	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	180	32.3198149	-102.5552702	Stationary	1	0
+S270719816	2025-08-31	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	32.3174130	-102.5312860	Traveling	1	0
+S261733096	2025-07-21	Great-tailed Grackle	Quiscalus mexicanus	33864	species	7	32.3198149	-102.5552702	Traveling	1	0
+S265024745	2025-08-04	Neotropic Cormorant	Nannopterum brasilianum	7431	species	2	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	House Sparrow	Passer domesticus	31534	species	2	32.3198149	-102.5552702	Traveling	1	0
+S250169119	2025-06-14	European Starling	Sturnus vulgaris	27813	species	1	32.3412810	-102.5436440	Traveling	1	0
+S264831056	2025-08-03	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.3198149	-102.5552702	Traveling	1	0
+S270704789	2025-08-31	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	32.3198149	-102.5552702	Traveling	1	0
+S265024745	2025-08-04	European Starling	Sturnus vulgaris	27813	species	2	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	European Starling	Sturnus vulgaris	27813	species	6	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	Monk Parakeet	Myiopsitta monachus	12819	species	6	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	Western Cattle-Egret	Ardea ibis	7724	species	8	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	32.3198149	-102.5552702	Traveling	1	0
+S265468153	2025-08-06	Mourning Dove	Zenaida macroura	2412	species	2	32.3198149	-102.5552702	Traveling	1	0
+S250169119	2025-06-14	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.3412810	-102.5436440	Traveling	1	0
+S256016048	2025-06-25	Black-crowned Night Heron	Nycticorax nycticorax	7602	issf	30	32.3198149	-102.5552702	Stationary	1	1
+S256016048	2025-06-25	Barn Swallow	Hirundo rustica	24195	issf	6	32.3198149	-102.5552702	Stationary	1	0
+S264831056	2025-08-03	Double-crested Cormorant	Nannopterum auritum	7424	species	4	32.3198149	-102.5552702	Traveling	1	1
+S265111327	2025-08-04	Double-crested Cormorant	Nannopterum auritum	7424	species	4	32.3198149	-102.5552702	Traveling	1	1
+S265024745	2025-08-04	Monk Parakeet	Myiopsitta monachus	12819	species	2	32.3198149	-102.5552702	Traveling	1	0
+S265468153	2025-08-06	Monk Parakeet	Myiopsitta monachus	12819	species	4	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	Barn Swallow	Hirundo rustica	24187	species	2	32.3198149	-102.5552702	Traveling	1	0
+S261733096	2025-07-21	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Mourning Dove	Zenaida macroura	2412	species	60	32.3198149	-102.5552702	Stationary	1	0
+S250169119	2025-06-14	Blue Jay	Cyanocitta cristata	21294	species	2	32.3412810	-102.5436440	Traveling	1	0
+S270704789	2025-08-31	House Sparrow	Passer domesticus	31534	species	1	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	House Sparrow	Passer domesticus	31534	species	17	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	Mallard	Anas platyrhynchos	548	domestic	15	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	32.3198149	-102.5552702	Traveling	1	0
+S265024745	2025-08-04	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Great-tailed Grackle	Quiscalus mexicanus	33869	issf	50	32.3198149	-102.5552702	Stationary	1	0
+S265024745	2025-08-04	Graylag Goose	Anser anser	278	domestic	15	32.3198149	-102.5552702	Traveling	1	1
+S250169119	2025-06-14	Mourning Dove	Zenaida macroura	2412	species	8	32.3412810	-102.5436440	Traveling	1	0
+S265024745	2025-08-04	White-winged Dove	Zenaida asiatica	2389	species	4	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	House Sparrow	Passer domesticus	31534	species	10	32.3198149	-102.5552702	Traveling	1	0
+S265111327	2025-08-04	Mississippi Kite	Ictinia mississippiensis	8388	species	2	32.3198149	-102.5552702	Traveling	1	0
+S265111327	2025-08-04	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	Common Grackle	Quiscalus quiscula	33853	species	1	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	Golden-fronted Woodpecker	Melanerpes aurifrons	11184	issf	2	32.3198149	-102.5552702	Traveling	1	0
+S270704789	2025-08-31	Turkey Vulture	Cathartes aura	7815	species	1	32.3198149	-102.5552702	Traveling	1	0
+S261733096	2025-07-21	Graylag Goose	Anser anser	278	domestic	17	32.3198149	-102.5552702	Traveling	1	1
+S261733096	2025-07-21	Mississippi Kite	Ictinia mississippiensis	8388	species	2	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Mallard	Anas platyrhynchos	548	domestic	X	32.3198149	-102.5552702	Stationary	1	0
+S250169119	2025-06-14	House Sparrow	Passer domesticus	31534	species	5	32.3412810	-102.5436440	Traveling	1	0
+S270719816	2025-08-31	Mississippi Kite	Ictinia mississippiensis	8388	species	1	32.3174130	-102.5312860	Traveling	1	0
+S259627529	2025-07-13	Mourning Dove	Zenaida macroura	2412	species	2	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	House Sparrow	Passer domesticus	31534	species	100	32.3198149	-102.5552702	Stationary	1	1
+S256016048	2025-06-25	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	1	32.3198149	-102.5552702	Stationary	1	0
+S265111327	2025-08-04	House Sparrow	Passer domesticus	31534	species	2	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	4	32.3198149	-102.5552702	Stationary	1	0
+S250169119	2025-06-14	White-winged Dove	Zenaida asiatica	2389	species	3	32.3412810	-102.5436440	Traveling	1	0
+S261733096	2025-07-21	Neotropic Cormorant	Nannopterum brasilianum	7431	species	5	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	Rock Pigeon	Columba livia	1868	domestic	1	32.3198149	-102.5552702	Traveling	1	0
+S270704789	2025-08-31	Mallard	Anas platyrhynchos	548	domestic	6	32.3198149	-102.5552702	Traveling	1	0
+S265024745	2025-08-04	Mallard	Anas platyrhynchos	548	domestic	10	32.3198149	-102.5552702	Traveling	1	0
+S265024745	2025-08-04	Snowy Egret	Egretta thula	7645	species	1	32.3198149	-102.5552702	Traveling	1	0
+S250169119	2025-06-14	Turkey Vulture	Cathartes aura	7815	species	1	32.3412810	-102.5436440	Traveling	1	0
+S270704789	2025-08-31	Domestic goose sp. (Domestic type)	Anser sp. (Domestic type)	312	domestic	7	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	Blue Jay	Cyanocitta cristata	21294	species	1	32.3198149	-102.5552702	Traveling	1	0
+S256016048	2025-06-25	Western Cattle-Egret	Ardea ibis	7724	species	40	32.3198149	-102.5552702	Stationary	1	1
+S265024745	2025-08-04	Great-tailed Grackle	Quiscalus mexicanus	33864	species	15	32.3198149	-102.5552702	Traveling	1	0
+S265468153	2025-08-06	Barn Swallow	Hirundo rustica	24187	species	3	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	White-winged Dove	Zenaida asiatica	2389	species	1	32.3198149	-102.5552702	Traveling	1	0
+S270997117	2025-09-01	Turkey Vulture	Cathartes aura	7815	species	1	32.3198149	-102.5552702	Traveling	1	0
+S270719816	2025-08-31	Curve-billed Thrasher	Toxostoma curvirostre	28024	species	1	32.3174130	-102.5312860	Traveling	1	0
+S256016048	2025-06-25	Mississippi Kite	Ictinia mississippiensis	8388	species	40	32.3198149	-102.5552702	Stationary	1	1
+S265024745	2025-08-04	Barn Swallow	Hirundo rustica	24187	species	4	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	Snowy Egret	Egretta thula	7645	species	2	32.3198149	-102.5552702	Traveling	1	0
+S264831056	2025-08-03	Mallard	Anas platyrhynchos	545	species	10	32.3198149	-102.5552702	Traveling	1	0
+S259627529	2025-07-13	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	1	32.3198149	-102.5552702	Traveling	1	0
+S250169119	2025-06-14	Curve-billed Thrasher	Toxostoma curvirostre	28024	species	1	32.3412810	-102.5436440	Traveling	1	0

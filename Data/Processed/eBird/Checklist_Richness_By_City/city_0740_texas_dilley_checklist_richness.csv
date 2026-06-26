@@ -1,0 +1,4 @@
+checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S45228510,2018-04-27,2018,740,"Dilley, TX",Dilley,Texas,Frio,5137596.66847544,6,2.414,1,28.6670604,-99.1703606,8,8,city_0740_texas_dilley
+S93683254,2021-08-24,2021,740,"Dilley, TX",Dilley,Texas,Frio,5137596.66847544,10,,1,28.6807716,-99.1819064,2,2,city_0740_texas_dilley
+S286992639,2025-12-01,2025,740,"Dilley, TX",Dilley,Texas,Frio,5137596.66847544,5,,1,28.6673633,-99.1737847,1,1,city_0740_texas_dilley
