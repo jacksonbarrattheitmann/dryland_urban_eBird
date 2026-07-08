@@ -1,63 +1,63 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S38739376	2017-08-20	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.8609274	-99.9843809	Traveling	1	0
-S38739376	2017-08-20	House Sparrow	Passer domesticus	31534	species	1	40.8609274	-99.9843809	Traveling	1	0
-S58719380	2019-08-03	Western Kingbird	Tyrannus verticalis	17467	species	1	40.8485000	-99.9850000	Stationary	1	0
-S58719380	2019-08-03	Mourning Dove	Zenaida macroura	2412	species	4	40.8485000	-99.9850000	Stationary	1	0
-S58719380	2019-08-03	Barn Swallow	Hirundo rustica	24187	species	5	40.8485000	-99.9850000	Stationary	1	0
-S58719380	2019-08-03	American Goldfinch	Spinus tristis	32617	species	2	40.8485000	-99.9850000	Stationary	1	0
-S73906475	2020-09-14	Common Grackle	Quiscalus quiscula	33853	species	5	40.8590450	-99.9816004	Traveling	1	0
-S73906475	2020-09-14	House Sparrow	Passer domesticus	31534	species	5	40.8590450	-99.9816004	Traveling	1	0
-S73906475	2020-09-14	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	40.8590450	-99.9816004	Traveling	1	0
-S75227892	2020-10-22	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.8601230	-99.9708710	Traveling	1	0
-S73906475	2020-09-14	European Starling	Sturnus vulgaris	27813	species	35	40.8590450	-99.9816004	Traveling	1	0
-S75227892	2020-10-22	Rock Pigeon	Columba livia	1868	domestic	28	40.8601230	-99.9708710	Traveling	1	0
-S73906475	2020-09-14	Chipping Sparrow	Spizella passerina	32990	species	5	40.8590450	-99.9816004	Traveling	1	0
-S73906475	2020-09-14	Rock Pigeon	Columba livia	1868	domestic	12	40.8590450	-99.9816004	Traveling	1	1
-S73906475	2020-09-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.8590450	-99.9816004	Traveling	1	0
-S75227892	2020-10-22	Great-tailed Grackle	Quiscalus mexicanus	33864	species	250	40.8601230	-99.9708710	Traveling	1	1
-S75227892	2020-10-22	House Sparrow	Passer domesticus	31534	species	6	40.8601230	-99.9708710	Traveling	1	0
-S75227892	2020-10-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	15	40.8601230	-99.9708710	Traveling	1	0
-S120014606	2022-10-05	American Robin	Turdus migratorius	28633	species	2	40.8607434	-99.9837712	Stationary	1	0
-S120014606	2022-10-05	Common Grackle	Quiscalus quiscula	33853	species	1	40.8607434	-99.9837712	Stationary	1	0
-S120014606	2022-10-05	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.8607434	-99.9837712	Stationary	1	0
-S136613679	2023-05-08	Blue-winged Teal	Spatula discors	485	species	2	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	House Sparrow	Passer domesticus	31534	species	5	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	Barn Swallow	Hirundo rustica	24187	species	1	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	American Robin	Turdus migratorius	28633	species	2	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	Chimney Swift	Chaetura pelagica	3896	species	3	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	Turkey Vulture	Cathartes aura	7815	species	1	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	European Starling	Sturnus vulgaris	27813	species	1	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	House Finch	Haemorhous mexicanus	32310	species	1	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	Mourning Dove	Zenaida macroura	2412	species	3	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	Common Grackle	Quiscalus quiscula	33853	species	4	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.8609910	-99.9945350	Traveling	1	0
-S136613679	2023-05-08	Rock Pigeon	Columba livia	1868	domestic	12	40.8609910	-99.9945350	Traveling	1	0
-S187203939	2024-07-15	Mourning Dove	Zenaida macroura	2412	species	2	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	5	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Common Grackle	Quiscalus quiscula	33853	species	10	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	American Crow	Corvus brachyrhynchos	21557	species	3	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Killdeer	Charadrius vociferus	5827	species	X	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	American Robin	Turdus migratorius	28633	species	X	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Turkey Vulture	Cathartes aura	7815	species	2	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	Common Grackle	Quiscalus quiscula	33853	species	X	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	5	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Barn Swallow	Hirundo rustica	24187	species	10	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	European Starling	Sturnus vulgaris	27813	species	X	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	American Robin	Turdus migratorius	28633	species	5	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	Red-winged Blackbird	Agelaius phoeniceus	33779	species	X	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	European Starling	Sturnus vulgaris	27813	species	60	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	American Crow	Corvus brachyrhynchos	21557	species	2	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	House Sparrow	Passer domesticus	31534	species	15	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	5	40.8494441	-99.9849513	Stationary	1	0
-S187203939	2024-07-15	House Sparrow	Passer domesticus	31534	species	X	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Mallard	Anas platyrhynchos	545	species	1	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Western Kingbird	Tyrannus verticalis	17467	species	3	40.8494441	-99.9849513	Stationary	1	0
-S187252254	2024-07-16	Mourning Dove	Zenaida macroura	2412	species	2	40.8494441	-99.9849513	Stationary	1	0
-S267955352	2025-08-17	Killdeer	Charadrius vociferus	5827	species	1	40.8520979	-99.9864716	Stationary	1	0
-S267955352	2025-08-17	European Starling	Sturnus vulgaris	27813	species	19	40.8520979	-99.9864716	Stationary	1	0
-S267955352	2025-08-17	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.8520979	-99.9864716	Stationary	1	0
-S267955352	2025-08-17	Mourning Dove	Zenaida macroura	2412	species	1	40.8520979	-99.9864716	Stationary	1	0
-S267955352	2025-08-17	House Sparrow	Passer domesticus	31534	species	4	40.8520979	-99.9864716	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S38739376	2017-08-20	L6199597	Cozzad City Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.8609274	-99.9843809	Traveling	1	0
+S38739376	2017-08-20	L6199597	Cozzad City Park	House Sparrow	Passer domesticus	31534	species	1	40.8609274	-99.9843809	Traveling	1	0
+S58719380	2019-08-03	L9739488	Casey's General Store	Western Kingbird	Tyrannus verticalis	17467	species	1	40.8485000	-99.9850000	Stationary	1	0
+S58719380	2019-08-03	L9739488	Casey's General Store	Mourning Dove	Zenaida macroura	2412	species	4	40.8485000	-99.9850000	Stationary	1	0
+S58719380	2019-08-03	L9739488	Casey's General Store	Barn Swallow	Hirundo rustica	24187	species	5	40.8485000	-99.9850000	Stationary	1	0
+S58719380	2019-08-03	L9739488	Casey's General Store	American Goldfinch	Spinus tristis	32617	species	2	40.8485000	-99.9850000	Stationary	1	0
+S73906475	2020-09-14	L12342178	Cozad	Common Grackle	Quiscalus quiscula	33853	species	5	40.8590450	-99.9816004	Traveling	1	0
+S73906475	2020-09-14	L12342178	Cozad	House Sparrow	Passer domesticus	31534	species	5	40.8590450	-99.9816004	Traveling	1	0
+S73906475	2020-09-14	L12342178	Cozad	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	40.8590450	-99.9816004	Traveling	1	0
+S75227892	2020-10-22	L12567412	Cozad	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.8601230	-99.9708710	Traveling	1	0
+S73906475	2020-09-14	L12342178	Cozad	European Starling	Sturnus vulgaris	27813	species	35	40.8590450	-99.9816004	Traveling	1	0
+S75227892	2020-10-22	L12567412	Cozad	Rock Pigeon	Columba livia	1868	domestic	28	40.8601230	-99.9708710	Traveling	1	0
+S73906475	2020-09-14	L12342178	Cozad	Chipping Sparrow	Spizella passerina	32990	species	5	40.8590450	-99.9816004	Traveling	1	0
+S73906475	2020-09-14	L12342178	Cozad	Rock Pigeon	Columba livia	1868	domestic	12	40.8590450	-99.9816004	Traveling	1	1
+S73906475	2020-09-14	L12342178	Cozad	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.8590450	-99.9816004	Traveling	1	0
+S75227892	2020-10-22	L12567412	Cozad	Great-tailed Grackle	Quiscalus mexicanus	33864	species	250	40.8601230	-99.9708710	Traveling	1	1
+S75227892	2020-10-22	L12567412	Cozad	House Sparrow	Passer domesticus	31534	species	6	40.8601230	-99.9708710	Traveling	1	0
+S75227892	2020-10-22	L12567412	Cozad	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	15	40.8601230	-99.9708710	Traveling	1	0
+S120014606	2022-10-05	L21119299	207 East 9th Street, Cozad, Nebraska, US (40.861, -99.984)	American Robin	Turdus migratorius	28633	species	2	40.8607434	-99.9837712	Stationary	1	0
+S120014606	2022-10-05	L21119299	207 East 9th Street, Cozad, Nebraska, US (40.861, -99.984)	Common Grackle	Quiscalus quiscula	33853	species	1	40.8607434	-99.9837712	Stationary	1	0
+S120014606	2022-10-05	L21119299	207 East 9th Street, Cozad, Nebraska, US (40.861, -99.984)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.8607434	-99.9837712	Stationary	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	Blue-winged Teal	Spatula discors	485	species	2	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	House Sparrow	Passer domesticus	31534	species	5	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	Barn Swallow	Hirundo rustica	24187	species	1	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	American Robin	Turdus migratorius	28633	species	2	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	Chimney Swift	Chaetura pelagica	3896	species	3	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	Turkey Vulture	Cathartes aura	7815	species	1	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	European Starling	Sturnus vulgaris	27813	species	1	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	House Finch	Haemorhous mexicanus	32310	species	1	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	Mourning Dove	Zenaida macroura	2412	species	3	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	Common Grackle	Quiscalus quiscula	33853	species	4	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.8609910	-99.9945350	Traveling	1	0
+S136613679	2023-05-08	L24137887	700 US-30, Cozad US-NE 40.86099, -99.99454	Rock Pigeon	Columba livia	1868	domestic	12	40.8609910	-99.9945350	Traveling	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Mourning Dove	Zenaida macroura	2412	species	2	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	5	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Common Grackle	Quiscalus quiscula	33853	species	10	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	American Crow	Corvus brachyrhynchos	21557	species	3	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Killdeer	Charadrius vociferus	5827	species	X	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	American Robin	Turdus migratorius	28633	species	X	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Turkey Vulture	Cathartes aura	7815	species	2	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Common Grackle	Quiscalus quiscula	33853	species	X	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	5	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Barn Swallow	Hirundo rustica	24187	species	10	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	European Starling	Sturnus vulgaris	27813	species	X	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	American Robin	Turdus migratorius	28633	species	5	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	X	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	European Starling	Sturnus vulgaris	27813	species	60	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	American Crow	Corvus brachyrhynchos	21557	species	2	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	House Sparrow	Passer domesticus	31534	species	15	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	5	40.8494441	-99.9849513	Stationary	1	0
+S187203939	2024-07-15	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	House Sparrow	Passer domesticus	31534	species	X	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Mallard	Anas platyrhynchos	545	species	1	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Western Kingbird	Tyrannus verticalis	17467	species	3	40.8494441	-99.9849513	Stationary	1	0
+S187252254	2024-07-16	L34770180	Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)	Mourning Dove	Zenaida macroura	2412	species	2	40.8494441	-99.9849513	Stationary	1	0
+S267955352	2025-08-17	L51682399	Runza Cozad	Killdeer	Charadrius vociferus	5827	species	1	40.8520979	-99.9864716	Stationary	1	0
+S267955352	2025-08-17	L51682399	Runza Cozad	European Starling	Sturnus vulgaris	27813	species	19	40.8520979	-99.9864716	Stationary	1	0
+S267955352	2025-08-17	L51682399	Runza Cozad	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.8520979	-99.9864716	Stationary	1	0
+S267955352	2025-08-17	L51682399	Runza Cozad	Mourning Dove	Zenaida macroura	2412	species	1	40.8520979	-99.9864716	Stationary	1	0
+S267955352	2025-08-17	L51682399	Runza Cozad	House Sparrow	Passer domesticus	31534	species	4	40.8520979	-99.9864716	Stationary	1	0

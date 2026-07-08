@@ -1,20 +1,20 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S59948086	2019-09-19	Cassin's/Western Kingbird	Tyrannus vociferans/verticalis	17470	slash	2	40.0055773	-104.7194010	Traveling	1	0
-S59948086	2019-09-19	Western Kingbird	Tyrannus verticalis	17467	species	2	40.0055773	-104.7194010	Traveling	1	0
-S71505235	2020-07-13	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	American White Pelican	Pelecanus erythrorhynchos	7791	species	19	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	Western Kingbird	Tyrannus verticalis	17467	species	X	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	Common Yellowthroat	Geothlypis trichas	34028	species	2	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	American Robin	Turdus migratorius	28633	species	X	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	X	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	Mourning Dove	Zenaida macroura	2412	species	X	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	Common Grackle	Quiscalus quiscula	33853	species	X	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	House Sparrow	Passer domesticus	31534	species	X	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	Rock Pigeon	Columba livia	1868	domestic	X	40.0055388	-104.7288562	Traveling	1	0
-S71505235	2020-07-13	Barn Swallow	Hirundo rustica	24187	species	X	40.0055388	-104.7288562	Traveling	1	0
-S204496437	2024-11-30	American Robin	Turdus migratorius	28633	species	2	40.0056440	-104.7158140	Stationary	1	0
-S204496437	2024-11-30	House Sparrow	Passer domesticus	31534	species	8	40.0056440	-104.7158140	Stationary	1	0
-S195568041	2024-09-18	Blue Jay	Cyanocitta cristata	21294	species	1	40.0056440	-104.7158140	Stationary	1	0
-S204496437	2024-11-30	Blue Jay	Cyanocitta cristata	21294	species	2	40.0056440	-104.7158140	Stationary	1	0
-S195568041	2024-09-18	European Starling	Sturnus vulgaris	27813	species	2	40.0056440	-104.7158140	Stationary	1	0
-S195568041	2024-09-18	House Sparrow	Passer domesticus	31534	species	4	40.0056440	-104.7158140	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S59948086	2019-09-19	L9936541	Lochbuie, co	Cassin's/Western Kingbird	Tyrannus vociferans/verticalis	17470	slash	2	40.0055773	-104.7194010	Traveling	1	0
+S59948086	2019-09-19	L9936541	Lochbuie, co	Western Kingbird	Tyrannus verticalis	17467	species	2	40.0055773	-104.7194010	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	American White Pelican	Pelecanus erythrorhynchos	7791	species	19	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	Western Kingbird	Tyrannus verticalis	17467	species	X	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	Common Yellowthroat	Geothlypis trichas	34028	species	2	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	American Robin	Turdus migratorius	28633	species	X	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	X	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	Mourning Dove	Zenaida macroura	2412	species	X	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	Common Grackle	Quiscalus quiscula	33853	species	X	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	House Sparrow	Passer domesticus	31534	species	X	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	Rock Pigeon	Columba livia	1868	domestic	X	40.0055388	-104.7288562	Traveling	1	0
+S71505235	2020-07-13	L11900085	Michael's residence Lochbuie, CO	Barn Swallow	Hirundo rustica	24187	species	X	40.0055388	-104.7288562	Traveling	1	0
+S204496437	2024-11-30	L36669566	119 County Road 37, Lochbuie US-CO 40.00564, -104.71581	American Robin	Turdus migratorius	28633	species	2	40.0056440	-104.7158140	Stationary	1	0
+S204496437	2024-11-30	L36669566	119 County Road 37, Lochbuie US-CO 40.00564, -104.71581	House Sparrow	Passer domesticus	31534	species	8	40.0056440	-104.7158140	Stationary	1	0
+S195568041	2024-09-18	L36669566	119 County Road 37, Lochbuie US-CO 40.00564, -104.71581	Blue Jay	Cyanocitta cristata	21294	species	1	40.0056440	-104.7158140	Stationary	1	0
+S204496437	2024-11-30	L36669566	119 County Road 37, Lochbuie US-CO 40.00564, -104.71581	Blue Jay	Cyanocitta cristata	21294	species	2	40.0056440	-104.7158140	Stationary	1	0
+S195568041	2024-09-18	L36669566	119 County Road 37, Lochbuie US-CO 40.00564, -104.71581	European Starling	Sturnus vulgaris	27813	species	2	40.0056440	-104.7158140	Stationary	1	0
+S195568041	2024-09-18	L36669566	119 County Road 37, Lochbuie US-CO 40.00564, -104.71581	House Sparrow	Passer domesticus	31534	species	4	40.0056440	-104.7158140	Stationary	1	0

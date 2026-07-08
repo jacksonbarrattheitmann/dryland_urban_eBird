@@ -1,13 +1,13 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S24033442	2015-06-19	Common Grackle	Quiscalus quiscula	33853	species	1	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	American Robin	Turdus migratorius	28633	species	1	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	Northern Mockingbird	Mimus polyglottos	28114	species	3	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	House Sparrow	Passer domesticus	31534	species	9	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	Western Kingbird	Tyrannus verticalis	17467	species	3	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	Common Nighthawk	Chordeiles minor	3492	species	1	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	Baltimore Oriole	Icterus galbula	33770	species	1	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	Eastern Meadowlark	Sturnella magna	33568	species	1	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	Rock Pigeon	Columba livia	1868	domestic	2	35.0293300	-99.0942200	Traveling	1	0
-S24033442	2015-06-19	European Starling	Sturnus vulgaris	27813	species	10	35.0293300	-99.0942200	Traveling	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S24033442	2015-06-19	L3746557	Hobart	Common Grackle	Quiscalus quiscula	33853	species	1	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	American Robin	Turdus migratorius	28633	species	1	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	Northern Mockingbird	Mimus polyglottos	28114	species	3	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	House Sparrow	Passer domesticus	31534	species	9	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	Western Kingbird	Tyrannus verticalis	17467	species	3	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	Common Nighthawk	Chordeiles minor	3492	species	1	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	Baltimore Oriole	Icterus galbula	33770	species	1	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	Eastern Meadowlark	Sturnella magna	33568	species	1	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	Rock Pigeon	Columba livia	1868	domestic	2	35.0293300	-99.0942200	Traveling	1	0
+S24033442	2015-06-19	L3746557	Hobart	European Starling	Sturnus vulgaris	27813	species	10	35.0293300	-99.0942200	Traveling	1	0

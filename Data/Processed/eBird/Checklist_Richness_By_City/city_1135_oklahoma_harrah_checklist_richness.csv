@@ -1,15 +1,15 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S45414850,2018-05-07,2018,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,25,0.161,1,35.4751124,-97.1705052,14,14,city_1135_oklahoma_harrah
-S133378097,2021-04-01,2021,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,120,,1,35.4380671,-97.1919033,7,7,city_1135_oklahoma_harrah
-S189783067,2024-08-01,2024,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,90,,1,35.4380671,-97.1919033,12,12,city_1135_oklahoma_harrah
-S190425658,2024-08-06,2024,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,90,,1,35.4380671,-97.1919033,15,15,city_1135_oklahoma_harrah
-S169817522,2024-04-22,2024,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,65,,1,35.469679,-97.176341,5,5,city_1135_oklahoma_harrah
-S162804061,2024-02-24,2024,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,31,0.937,1,35.467544,-97.169596,3,3,city_1135_oklahoma_harrah
-S236330977,2025-05-11,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,32,,1,35.469934,-97.170812,8,8,city_1135_oklahoma_harrah
-S243802982,2025-05-28,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,40,,1,35.469934,-97.170812,7,7,city_1135_oklahoma_harrah
-S261769504,2025-07-21,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,12,,1,35.469934,-97.170812,6,6,city_1135_oklahoma_harrah
-S248111453,2025-06-08,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,6,,1,35.469934,-97.170812,2,2,city_1135_oklahoma_harrah
-S268557925,2025-08-21,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,13,,1,35.469934,-97.170812,4,4,city_1135_oklahoma_harrah
-S243401145,2025-05-27,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,24,,1,35.469934,-97.170812,4,4,city_1135_oklahoma_harrah
-S278560460,2025-10-11,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,9,,1,35.469934,-97.170812,3,3,city_1135_oklahoma_harrah
-S278906826,2025-10-12,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,15,,1,35.469934,-97.170812,4,4,city_1135_oklahoma_harrah
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S45414850,L7365896,"Park, Harrah, Oklahoma, US (35.475, -97.171)",2018-05-07,2018,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,25,0.161,1,35.4751124,-97.1705052,14,14,city_1135_oklahoma_harrah
+S133378097,L23524025,Families home,2021-04-01,2021,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,120,,1,35.4380671,-97.1919033,7,7,city_1135_oklahoma_harrah
+S189783067,L23524025,Families home,2024-08-01,2024,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,90,,1,35.4380671,-97.1919033,12,12,city_1135_oklahoma_harrah
+S190425658,L23524025,Families home,2024-08-06,2024,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,90,,1,35.4380671,-97.1919033,15,15,city_1135_oklahoma_harrah
+S169817522,L30865778,Palmer road garden,2024-04-22,2024,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,65,,1,35.469679,-97.176341,5,5,city_1135_oklahoma_harrah
+S162804061,L29484227,"271 Hickory Stick Ln, Harrah US-OK 35.46754, -97.16960",2024-02-24,2024,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,31,0.937,1,35.467544,-97.169596,3,3,city_1135_oklahoma_harrah
+S236330977,L41162076,"Home - Harrah, OK",2025-05-11,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,32,,1,35.469934,-97.170812,8,8,city_1135_oklahoma_harrah
+S243802982,L41162076,"Home - Harrah, OK",2025-05-28,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,40,,1,35.469934,-97.170812,7,7,city_1135_oklahoma_harrah
+S261769504,L41162076,"Home - Harrah, OK",2025-07-21,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,12,,1,35.469934,-97.170812,6,6,city_1135_oklahoma_harrah
+S248111453,L41162076,"Home - Harrah, OK",2025-06-08,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,6,,1,35.469934,-97.170812,2,2,city_1135_oklahoma_harrah
+S268557925,L41162076,"Home - Harrah, OK",2025-08-21,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,13,,1,35.469934,-97.170812,4,4,city_1135_oklahoma_harrah
+S243401145,L41162076,"Home - Harrah, OK",2025-05-27,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,24,,1,35.469934,-97.170812,4,4,city_1135_oklahoma_harrah
+S278560460,L41162076,"Home - Harrah, OK",2025-10-11,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,9,,1,35.469934,-97.170812,3,3,city_1135_oklahoma_harrah
+S278906826,L41162076,"Home - Harrah, OK",2025-10-12,2025,1135,"Harrah, OK",Harrah,Oklahoma,Oklahoma,13828655.1386471,15,,1,35.469934,-97.170812,4,4,city_1135_oklahoma_harrah

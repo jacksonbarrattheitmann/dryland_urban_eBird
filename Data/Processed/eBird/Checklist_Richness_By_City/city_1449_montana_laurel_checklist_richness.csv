@@ -1,58 +1,58 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22004001,2015-02-21,2015,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,8,2.575,1,45.6645,-108.78907,2,2,city_1449_montana_laurel
-S38825260,2016-08-15,2016,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,30,1.207,1,45.664521,-108.782717,9,9,city_1449_montana_laurel
-S26581330,2016-01-01,2016,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.6699203,-108.7691519,1,1,city_1449_montana_laurel
-S40762004,2017-11-26,2017,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,22,,1,45.6637041,-108.7835634,7,7,city_1449_montana_laurel
-S49525756,2018-10-28,2018,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,24,0.15,1,45.6637041,-108.7835634,10,10,city_1449_montana_laurel
-S41697723,2018-01-06,2018,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,30,,1,45.6781634,-108.7687941,4,4,city_1449_montana_laurel
-S54025795,2019-03-17,2019,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,10,16.093,1,45.6686806,-108.7713191,4,4,city_1449_montana_laurel
-S60778684,2019-10-19,2019,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,158,,1,45.6807877,-108.7637339,15,15,city_1449_montana_laurel
-S54765766,2019-04-09,2019,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,11,0.241,1,45.6637041,-108.7835634,8,8,city_1449_montana_laurel
-S54019224,2019-03-15,2019,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,8.047,1,45.6686806,-108.7713191,2,2,city_1449_montana_laurel
-S69465053,2020-05-22,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,14,,1,45.686951,-108.78144,3,3,city_1449_montana_laurel
-S69628540,2020-05-25,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,11,,1,45.687092,-108.781329,4,4,city_1449_montana_laurel
-S68188929,2020-04-30,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,120,,1,45.6637041,-108.7835634,4,4,city_1449_montana_laurel
-S69350913,2020-05-19,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.687127,-108.781481,3,3,city_1449_montana_laurel
-S71121571,2020-07-04,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,10,,1,45.687038,-108.781548,7,7,city_1449_montana_laurel
-S69860844,2020-05-30,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,14,,1,45.687084,-108.78152,4,4,city_1449_montana_laurel
-S69440910,2020-05-21,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,21,,1,45.687005,-108.781464,3,3,city_1449_montana_laurel
-S71600771,2020-07-18,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,21,,1,45.686989,-108.781491,3,3,city_1449_montana_laurel
-S68568003,2020-05-07,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,18,,1,45.686951,-108.78144,3,3,city_1449_montana_laurel
-S71838233,2020-07-26,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,18,,1,45.687137,-108.781448,7,7,city_1449_montana_laurel
-S65350044,2020-03-01,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,23,1.255,1,45.6637041,-108.7835634,2,2,city_1449_montana_laurel
-S69869930,2020-05-30,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.687029,-108.781467,3,3,city_1449_montana_laurel
-S70637831,2020-06-20,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,13,,1,45.686974,-108.781567,3,3,city_1449_montana_laurel
-S70327508,2020-06-11,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,29,,1,45.687016,-108.781534,1,1,city_1449_montana_laurel
-S69892909,2020-05-31,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,6,,1,45.687066,-108.781541,2,2,city_1449_montana_laurel
-S73905752,2020-09-21,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.687107,-108.781533,4,4,city_1449_montana_laurel
-S71351912,2020-07-11,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.686929,-108.781512,4,4,city_1449_montana_laurel
-S73682356,2020-09-16,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.686989,-108.781491,1,1,city_1449_montana_laurel
-S69644551,2020-05-25,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,6,,1,45.687005,-108.781464,1,1,city_1449_montana_laurel
-S70668607,2020-06-21,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,15,,1,45.686974,-108.781567,4,4,city_1449_montana_laurel
-S80027158,2021-01-28,2021,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,26,0.252,1,45.6762175,-108.7303668,5,5,city_1449_montana_laurel
-S95602713,2021-10-04,2021,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,48,6.407,1,45.6762175,-108.7303668,6,6,city_1449_montana_laurel
-S82955897,2021-03-07,2021,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,9,,1,45.687013,-108.781414,3,3,city_1449_montana_laurel
-S80037374,2021-01-28,2021,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,69,0.983,1,45.6762175,-108.7303668,4,4,city_1449_montana_laurel
-S103256877,2022-02-20,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,60,,1,45.6707679,-108.7762745,4,4,city_1449_montana_laurel
-S114958057,2022-07-12,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.665132,-108.794753,4,4,city_1449_montana_laurel
-S103212337,2022-02-20,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,39,1.314,1,45.6637041,-108.7835634,5,5,city_1449_montana_laurel
-S124530123,2022-12-24,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,9,19.125,1,45.6637041,-108.7835634,9,9,city_1449_montana_laurel
-S103071098,2022-02-19,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,23,,1,45.6707679,-108.7762745,3,3,city_1449_montana_laurel
-S113730580,2022-06-25,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,9.83,1,45.664945,-108.770829,3,3,city_1449_montana_laurel
-S103069910,2022-02-19,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,32,31.563,1,45.6683192,-108.7930073,3,3,city_1449_montana_laurel
-S103424257,2022-02-21,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,20,,1,45.6707679,-108.7762745,4,4,city_1449_montana_laurel
-S121717524,2022-11-01,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,12,0.29,1,45.665676,-108.768523,1,1,city_1449_montana_laurel
-S142780305,2023-06-26,2023,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,15,1.609,1,45.669976,-108.77238,11,11,city_1449_montana_laurel
-S142779970,2023-06-26,2023,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,20,,1,45.684048,-108.712665,11,11,city_1449_montana_laurel
-S132178353,2023-03-29,2023,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,15,,1,45.6631149,-108.7701679,9,9,city_1449_montana_laurel
-S142503080,2023-06-23,2023,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,28,62.239,1,45.664369,-108.795048,3,3,city_1449_montana_laurel
-S172443889,2024-05-06,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,6,,1,45.6869507,-108.7246857,3,3,city_1449_montana_laurel
-S192057041,2024-08-19,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,8,,1,45.687088,-108.781719,1,1,city_1449_montana_laurel
-S200514307,2024-10-27,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,0.124,1,45.6637041,-108.7835634,6,6,city_1449_montana_laurel
-S161500106,2024-02-14,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,8,,1,45.6869507,-108.7246857,1,1,city_1449_montana_laurel
-S161501082,2024-02-14,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.6869507,-108.7246857,1,1,city_1449_montana_laurel
-S211394262,2025-01-31,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.687071,-108.781551,4,4,city_1449_montana_laurel
-S290164147,2025-08-07,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,60,0,1,45.669976,-108.77238,10,10,city_1449_montana_laurel
-S275632269,2025-09-05,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,8.05,1,45.6911279,-108.6873887,3,3,city_1449_montana_laurel
-S253669295,2025-06-24,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.660755,-108.7667833,1,1,city_1449_montana_laurel
-S267713731,2025-08-16,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.6645887,-108.771726,2,2,city_1449_montana_laurel
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22004001,L3404784,Laurel ponds,2015-02-21,2015,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,8,2.575,1,45.6645,-108.78907,2,2,city_1449_montana_laurel
+S38825260,L6214521,"Findlay Park Pond, Laurel US-MT (45.6645,-108.7827)",2016-08-15,2016,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,30,1.207,1,45.664521,-108.782717,9,9,city_1449_montana_laurel
+S26581330,L4113682,US-Montana-Laurel-215 E Main St - 45.67x-108.769,2016-01-01,2016,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.6699203,-108.7691519,1,1,city_1449_montana_laurel
+S40762004,L6513183,Laurel Pond,2017-11-26,2017,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,22,,1,45.6637041,-108.7835634,7,7,city_1449_montana_laurel
+S49525756,L6513183,Laurel Pond,2018-10-28,2018,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,24,0.15,1,45.6637041,-108.7835634,10,10,city_1449_montana_laurel
+S41697723,L6680247,624 Wyoming Ave Billings MT,2018-01-06,2018,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,30,,1,45.6781634,-108.7687941,4,4,city_1449_montana_laurel
+S54025795,L8882238,"Laurel, Montana",2019-03-17,2019,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,10,16.093,1,45.6686806,-108.7713191,4,4,city_1449_montana_laurel
+S60778684,L10056209,Our Place,2019-10-19,2019,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,158,,1,45.6807877,-108.7637339,15,15,city_1449_montana_laurel
+S54765766,L6513183,Laurel Pond,2019-04-09,2019,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,11,0.241,1,45.6637041,-108.7835634,8,8,city_1449_montana_laurel
+S54019224,L8882238,"Laurel, Montana",2019-03-15,2019,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,8.047,1,45.6686806,-108.7713191,2,2,city_1449_montana_laurel
+S69465053,L11358842,"1418 Willow Dr, Laurel US-MT 45.68695, -108.78144",2020-05-22,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,14,,1,45.686951,-108.78144,3,3,city_1449_montana_laurel
+S69628540,L11547729,"1425 Willow Dr, Laurel US-MT 45.68709, -108.78133",2020-05-25,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,11,,1,45.687092,-108.781329,4,4,city_1449_montana_laurel
+S68188929,L6513183,Laurel Pond,2020-04-30,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,120,,1,45.6637041,-108.7835634,4,4,city_1449_montana_laurel
+S69350913,L11404274,"1422 Willow Dr, Laurel US-MT 45.68713, -108.78148",2020-05-19,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.687127,-108.781481,3,3,city_1449_montana_laurel
+S71121571,L11828939,"1422 Willow Dr, Laurel US-MT 45.68704, -108.78155",2020-07-04,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,10,,1,45.687038,-108.781548,7,7,city_1449_montana_laurel
+S69860844,L11586800,"1422 Willow Dr, Laurel US-MT 45.68708, -108.78152",2020-05-30,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,14,,1,45.687084,-108.78152,4,4,city_1449_montana_laurel
+S69440910,L11499267,"1422 Willow Dr, Laurel US-MT 45.68700, -108.78146",2020-05-21,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,21,,1,45.687005,-108.781464,3,3,city_1449_montana_laurel
+S71600771,L11918159,"1422 Willow Dr, Laurel US-MT 45.68699, -108.78149",2020-07-18,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,21,,1,45.686989,-108.781491,3,3,city_1449_montana_laurel
+S68568003,L11358842,"1418 Willow Dr, Laurel US-MT 45.68695, -108.78144",2020-05-07,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,18,,1,45.686951,-108.78144,3,3,city_1449_montana_laurel
+S71838233,L11964847,"1422 Willow Dr, Laurel US-MT 45.68714, -108.78145",2020-07-26,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,18,,1,45.687137,-108.781448,7,7,city_1449_montana_laurel
+S65350044,L6513183,Laurel Pond,2020-03-01,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,23,1.255,1,45.6637041,-108.7835634,2,2,city_1449_montana_laurel
+S69869930,L11588576,"1422 Willow Dr, Laurel US-MT 45.68703, -108.78147",2020-05-30,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.687029,-108.781467,3,3,city_1449_montana_laurel
+S70637831,L11735501,"1422 Willow Dr, Laurel US-MT 45.68697, -108.78157",2020-06-20,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,13,,1,45.686974,-108.781567,3,3,city_1449_montana_laurel
+S70327508,L11673235,"1422 Willow Dr, Laurel US-MT 45.68702, -108.78153",2020-06-11,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,29,,1,45.687016,-108.781534,1,1,city_1449_montana_laurel
+S69892909,L11593029,"1422 Willow Dr, Laurel US-MT 45.68707, -108.78154",2020-05-31,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,6,,1,45.687066,-108.781541,2,2,city_1449_montana_laurel
+S73905752,L12342098,"1422 Willow Dr, Laurel US-MT 45.68711, -108.78153",2020-09-21,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.687107,-108.781533,4,4,city_1449_montana_laurel
+S71351912,L11873725,"1418 Willow Dr, Laurel US-MT 45.68693, -108.78151",2020-07-11,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.686929,-108.781512,4,4,city_1449_montana_laurel
+S73682356,L11918159,"1422 Willow Dr, Laurel US-MT 45.68699, -108.78149",2020-09-16,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.686989,-108.781491,1,1,city_1449_montana_laurel
+S69644551,L11499267,"1422 Willow Dr, Laurel US-MT 45.68700, -108.78146",2020-05-25,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,6,,1,45.687005,-108.781464,1,1,city_1449_montana_laurel
+S70668607,L11735501,"1422 Willow Dr, Laurel US-MT 45.68697, -108.78157",2020-06-21,2020,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,15,,1,45.686974,-108.781567,4,4,city_1449_montana_laurel
+S80027158,L13413979,"2700 Shannon Road, Laurel, Montana, US (45.676, -108.73)",2021-01-28,2021,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,26,0.252,1,45.6762175,-108.7303668,5,5,city_1449_montana_laurel
+S95602713,L13413979,"2700 Shannon Road, Laurel, Montana, US (45.676, -108.73)",2021-10-04,2021,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,48,6.407,1,45.6762175,-108.7303668,6,6,city_1449_montana_laurel
+S82955897,L13952865,"1422 Willow Dr, Laurel US-MT 45.68701, -108.78141",2021-03-07,2021,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,9,,1,45.687013,-108.781414,3,3,city_1449_montana_laurel
+S80037374,L13413979,"2700 Shannon Road, Laurel, Montana, US (45.676, -108.73)",2021-01-28,2021,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,69,0.983,1,45.6762175,-108.7303668,4,4,city_1449_montana_laurel
+S103256877,L17818233,"208 4th Avenue, Laurel, Montana, US (45.671, -108.776)",2022-02-20,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,60,,1,45.6707679,-108.7762745,4,4,city_1449_montana_laurel
+S114958057,L20112095,"I-90 W, Laurel US-MT (45.6651,-108.7948)",2022-07-12,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.665132,-108.794753,4,4,city_1449_montana_laurel
+S103212337,L6513183,Laurel Pond,2022-02-20,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,39,1.314,1,45.6637041,-108.7835634,5,5,city_1449_montana_laurel
+S124530123,L6513183,Laurel Pond,2022-12-24,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,9,19.125,1,45.6637041,-108.7835634,9,9,city_1449_montana_laurel
+S103071098,L17818233,"208 4th Avenue, Laurel, Montana, US (45.671, -108.776)",2022-02-19,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,23,,1,45.6707679,-108.7762745,3,3,city_1449_montana_laurel
+S113730580,L19818699,"401 S First Ave, Laurel US-MT 45.66495, -108.77083",2022-06-25,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,9.83,1,45.664945,-108.770829,3,3,city_1449_montana_laurel
+S103069910,L17400912,"1426 Old U.S. 10, Laurel, Montana, US (45.668, -108.793)",2022-02-19,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,32,31.563,1,45.6683192,-108.7930073,3,3,city_1449_montana_laurel
+S103424257,L17818233,"208 4th Avenue, Laurel, Montana, US (45.671, -108.776)",2022-02-21,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,20,,1,45.6707679,-108.7762745,4,4,city_1449_montana_laurel
+S121717524,L21420171,"205 SE Fourth St, Laurel US-MT 45.66568, -108.76852",2022-11-01,2022,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,12,0.29,1,45.665676,-108.768523,1,1,city_1449_montana_laurel
+S142780305,L25497894,"Laurel, MT",2023-06-26,2023,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,15,1.609,1,45.669976,-108.77238,11,11,city_1449_montana_laurel
+S142779970,L25497816,Laurel Wye,2023-06-26,2023,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,20,,1,45.684048,-108.712665,11,11,city_1449_montana_laurel
+S132178353,L23293331,212 And River Road,2023-03-29,2023,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,15,,1,45.6631149,-108.7701679,9,9,city_1449_montana_laurel
+S142503080,L25427516,"I-90 W, Laurel US-MT 45.66437, -108.79505",2023-06-23,2023,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,28,62.239,1,45.664369,-108.795048,3,3,city_1449_montana_laurel
+S172443889,L23975996,my yard,2024-05-06,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,6,,1,45.6869507,-108.7246857,3,3,city_1449_montana_laurel
+S192057041,L11519770,"1422 Willow Dr, Laurel US-MT 45.68709, -108.78172",2024-08-19,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,8,,1,45.687088,-108.781719,1,1,city_1449_montana_laurel
+S200514307,L6513183,Laurel Pond,2024-10-27,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,0.124,1,45.6637041,-108.7835634,6,6,city_1449_montana_laurel
+S161500106,L23975996,my yard,2024-02-14,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,8,,1,45.6869507,-108.7246857,1,1,city_1449_montana_laurel
+S161501082,L23975996,my yard,2024-02-14,2024,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.6869507,-108.7246857,1,1,city_1449_montana_laurel
+S211394262,L12630423,"1422 Willow Dr, Laurel US-MT 45.68707, -108.78155",2025-01-31,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,7,,1,45.687071,-108.781551,4,4,city_1449_montana_laurel
+S290164147,L25497894,"Laurel, MT",2025-08-07,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,60,0,1,45.669976,-108.77238,10,10,city_1449_montana_laurel
+S275632269,L53298053,"2 Interstate 90, Billings, Montana, US (45.691, -108.687)",2025-09-05,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,8.05,1,45.6911279,-108.6873887,3,3,city_1449_montana_laurel
+S253669295,L48362591,"735 U.S. 310, Laurel, Montana, US (45.661, -108.767)",2025-06-24,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.660755,-108.7667833,1,1,city_1449_montana_laurel
+S267713731,L51626233,Laurel,2025-08-16,2025,1449,"Laurel, MT",Laurel,Montana,Yellowstone,16982905.6630708,5,,1,45.6645887,-108.771726,2,2,city_1449_montana_laurel

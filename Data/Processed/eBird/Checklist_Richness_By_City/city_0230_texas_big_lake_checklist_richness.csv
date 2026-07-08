@@ -1,26 +1,26 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22367171,2015-03-15,2015,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,6,1.609,1,31.1914377,-101.4673233,4,4,city_0230_texas_big_lake
-S43846694,2018-03-21,2018,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.1933249,-101.456277,5,5,city_0230_texas_big_lake
-S43860825,2018-03-22,2018,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,30,,1,31.1933249,-101.456277,8,8,city_0230_texas_big_lake
-S43961828,2018-03-25,2018,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,10,,1,31.1933249,-101.456277,8,8,city_0230_texas_big_lake
-S48735008,2018-09-25,2018,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,10,,1,31.1933249,-101.456277,6,6,city_0230_texas_big_lake
-S59888363,2019-09-17,2019,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,23,2.414,1,31.19282,-101.461106,8,8,city_0230_texas_big_lake
-S71085323,2020-07-03,2020,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,8,3.545,1,31.1914377,-101.4673233,14,14,city_0230_texas_big_lake
-S64084177,2020-01-26,2020,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,7,,1,31.1898842,-101.4643859,4,4,city_0230_texas_big_lake
-S88358149,2021-05-16,2021,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.1898842,-101.4643859,5,5,city_0230_texas_big_lake
-S117611918,2022-08-26,2022,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,8,,1,31.1925758,-101.460548,4,4,city_0230_texas_big_lake
-S145176117,2023-07-21,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,20,,1,31.196141,-101.460264,9,9,city_0230_texas_big_lake
-S130346549,2023-03-06,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,15,,1,31.196141,-101.460264,6,6,city_0230_texas_big_lake
-S144910994,2023-07-18,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,11,,1,31.196141,-101.460264,6,6,city_0230_texas_big_lake
-S145083289,2023-07-19,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.196141,-101.460264,5,5,city_0230_texas_big_lake
-S145268405,2023-07-22,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.196141,-101.460264,4,4,city_0230_texas_big_lake
-S154012784,2023-11-08,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,0.648,1,31.1887103,-101.4672289,7,7,city_0230_texas_big_lake
-S169016988,2024-04-17,2024,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.196141,-101.460264,7,7,city_0230_texas_big_lake
-S191676554,2024-08-16,2024,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,2.575,1,31.191346,-101.466453,3,3,city_0230_texas_big_lake
-S274886462,2025-09-22,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,14,0.644,1,31.196141,-101.460264,7,7,city_0230_texas_big_lake
-S257167693,2025-07-05,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,76,,1,31.1961384,-101.4556351,6,6,city_0230_texas_big_lake
-S250571790,2025-06-15,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,60,1.609,1,31.1925758,-101.460548,16,16,city_0230_texas_big_lake
-S218741171,2025-03-15,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,85,0.106,1,31.1961384,-101.4556351,7,7,city_0230_texas_big_lake
-S275221042,2025-09-24,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,20,0.483,1,31.196141,-101.460264,6,6,city_0230_texas_big_lake
-S255299945,2025-06-29,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,60,,1,31.1961384,-101.4556351,6,6,city_0230_texas_big_lake
-S253662544,2025-06-24,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,25,0.644,1,31.1925758,-101.460548,9,9,city_0230_texas_big_lake
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22367171,L3490729,Big Lake,2015-03-15,2015,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,6,1.609,1,31.1914377,-101.4673233,4,4,city_0230_texas_big_lake
+S43846694,L4538047,Mom's neighborhood,2018-03-21,2018,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.1933249,-101.456277,5,5,city_0230_texas_big_lake
+S43860825,L4538047,Mom's neighborhood,2018-03-22,2018,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,30,,1,31.1933249,-101.456277,8,8,city_0230_texas_big_lake
+S43961828,L4538047,Mom's neighborhood,2018-03-25,2018,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,10,,1,31.1933249,-101.456277,8,8,city_0230_texas_big_lake
+S48735008,L4538047,Mom's neighborhood,2018-09-25,2018,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,10,,1,31.1933249,-101.456277,6,6,city_0230_texas_big_lake
+S59888363,L9928351,"320 N Plaza Ave, Big Lake US-TX (31.1928,-101.4611)",2019-09-17,2019,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,23,2.414,1,31.19282,-101.461106,8,8,city_0230_texas_big_lake
+S71085323,L3490729,Big Lake,2020-07-03,2020,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,8,3.545,1,31.1914377,-101.4673233,14,14,city_0230_texas_big_lake
+S64084177,L10676085,gas station,2020-01-26,2020,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,7,,1,31.1898842,-101.4643859,4,4,city_0230_texas_big_lake
+S88358149,L10676085,gas station,2021-05-16,2021,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.1898842,-101.4643859,5,5,city_0230_texas_big_lake
+S117611918,L4538055,"Big Lake, Texas",2022-08-26,2022,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,8,,1,31.1925758,-101.460548,4,4,city_0230_texas_big_lake
+S145176117,L22942965,MJ and Susan’s Place,2023-07-21,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,20,,1,31.196141,-101.460264,9,9,city_0230_texas_big_lake
+S130346549,L22942965,MJ and Susan’s Place,2023-03-06,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,15,,1,31.196141,-101.460264,6,6,city_0230_texas_big_lake
+S144910994,L22942965,MJ and Susan’s Place,2023-07-18,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,11,,1,31.196141,-101.460264,6,6,city_0230_texas_big_lake
+S145083289,L22942965,MJ and Susan’s Place,2023-07-19,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.196141,-101.460264,5,5,city_0230_texas_big_lake
+S145268405,L22942965,MJ and Susan’s Place,2023-07-22,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.196141,-101.460264,4,4,city_0230_texas_big_lake
+S154012784,L27859929,"Glen Rest Cemetery, Big Lake, Texas, US (31.189, -101.467)",2023-11-08,2023,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,0.648,1,31.1887103,-101.4672289,7,7,city_0230_texas_big_lake
+S169016988,L22942965,MJ and Susan’s Place,2024-04-17,2024,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,,1,31.196141,-101.460264,7,7,city_0230_texas_big_lake
+S191676554,L35819176,"84 W Second St, Big Lake US-TX 31.19135, -101.46645",2024-08-16,2024,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,5,2.575,1,31.191346,-101.466453,3,3,city_0230_texas_big_lake
+S274886462,L22942965,MJ and Susan’s Place,2025-09-22,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,14,0.644,1,31.196141,-101.460264,7,7,city_0230_texas_big_lake
+S257167693,L17780355,my backyard,2025-07-05,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,76,,1,31.1961384,-101.4556351,6,6,city_0230_texas_big_lake
+S250571790,L4538055,"Big Lake, Texas",2025-06-15,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,60,1.609,1,31.1925758,-101.460548,16,16,city_0230_texas_big_lake
+S218741171,L17780355,my backyard,2025-03-15,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,85,0.106,1,31.1961384,-101.4556351,7,7,city_0230_texas_big_lake
+S275221042,L22942965,MJ and Susan’s Place,2025-09-24,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,20,0.483,1,31.196141,-101.460264,6,6,city_0230_texas_big_lake
+S255299945,L17780355,my backyard,2025-06-29,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,60,,1,31.1961384,-101.4556351,6,6,city_0230_texas_big_lake
+S253662544,L4538055,"Big Lake, Texas",2025-06-24,2025,230,"Big Lake, TX",Big Lake,Texas,Reagan,2746684.32886307,25,0.644,1,31.1925758,-101.460548,9,9,city_0230_texas_big_lake

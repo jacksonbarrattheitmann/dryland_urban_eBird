@@ -1,78 +1,78 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22944715,2015-04-19,2015,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.13099,-101.73122,5,5,city_1949_nebraska_ogallala
-S27166192,2016-01-27,2016,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,,1,41.1308887,-101.726253,5,5,city_1949_nebraska_ogallala
-S29784907,2016-05-19,2016,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,18,0.322,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
-S37314341,2017-06-01,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,8,0.161,1,41.1323669,-101.7258453,8,8,city_1949_nebraska_ogallala
-S39455585,2017-09-29,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,6,1.609,1,41.124735,-101.717862,3,3,city_1949_nebraska_ogallala
-S40743945,2017-11-25,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,20,0.016,1,41.1323669,-101.7258453,3,3,city_1949_nebraska_ogallala
-S39236241,2017-09-16,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,120,,1,41.1311184,-101.7253733,13,13,city_1949_nebraska_ogallala
-S37168040,2017-05-26,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,17,0.161,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
-S41441675,2017-12-30,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,17,1.47,1,41.127502,-101.746142,4,4,city_1949_nebraska_ogallala
-S44083248,2018-03-30,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,4.308,1,41.1278576,-101.7196655,9,9,city_1949_nebraska_ogallala
-S51105366,2018-12-30,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,180,22.531,1,41.1278576,-101.7196655,19,19,city_1949_nebraska_ogallala
-S45083911,2018-04-29,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,35,1.609,1,41.1278576,-101.7196655,12,12,city_1949_nebraska_ogallala
-S45091238,2018-04-29,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,35,1.609,1,41.1278576,-101.7196655,12,12,city_1949_nebraska_ogallala
-S46246906,2018-06-02,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,0.161,1,41.125695,-101.713886,1,1,city_1949_nebraska_ogallala
-S56313486,2019-05-15,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,20,2.077,1,41.1278576,-101.7196655,11,11,city_1949_nebraska_ogallala
-S59113851,2019-08-19,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,2.607,1,41.1278576,-101.7196655,7,7,city_1949_nebraska_ogallala
-S57881879,2019-07-02,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,30,,1,41.1278576,-101.7196655,11,11,city_1949_nebraska_ogallala
-S58692001,2019-08-02,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,37,0.221,1,41.133394,-101.723209,5,5,city_1949_nebraska_ogallala
-S59668373,2019-09-10,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,26,0.161,1,41.1323669,-101.7258453,4,4,city_1949_nebraska_ogallala
-S72517183,2020-08-17,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,,1,41.132721,-101.725922,7,7,city_1949_nebraska_ogallala
-S71103245,2020-07-03,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,,1,41.1278576,-101.7196655,7,7,city_1949_nebraska_ogallala
-S70109315,2020-06-06,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,,1,41.1278576,-101.7196655,5,5,city_1949_nebraska_ogallala
-S72433466,2020-08-15,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,52,9.962,1,41.1278576,-101.7196655,9,9,city_1949_nebraska_ogallala
-S77283791,2020-12-09,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,28,0.499,1,41.1323669,-101.7258453,9,9,city_1949_nebraska_ogallala
-S74688465,2020-10-10,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,0.161,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
-S72732733,2020-08-23,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,6,,1,41.1323669,-101.7258453,7,7,city_1949_nebraska_ogallala
-S70059868,2020-06-04,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,9,0.129,1,41.1323669,-101.7258453,13,13,city_1949_nebraska_ogallala
-S77283779,2020-12-09,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,31,1.133,1,41.127554,-101.747779,4,4,city_1949_nebraska_ogallala
-S69684283,2020-05-26,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,11,0.161,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
-S70146445,2020-06-06,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,,1,41.1278576,-101.7196655,3,3,city_1949_nebraska_ogallala
-S91142458,2021-07-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,12,,1,41.1278576,-101.7196655,11,11,city_1949_nebraska_ogallala
-S80730168,2021-02-09,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,18,0.441,1,41.1323669,-101.7258453,5,5,city_1949_nebraska_ogallala
-S78605094,2021-01-03,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,0.131,1,41.1323669,-101.7258453,7,7,city_1949_nebraska_ogallala
-S95434072,2021-10-01,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,42,0.935,1,41.1278576,-101.7196655,22,22,city_1949_nebraska_ogallala
-S89514507,2021-06-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,25,17.626,1,41.1278576,-101.7196655,15,15,city_1949_nebraska_ogallala
-S79195926,2021-01-13,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,19,0.106,1,41.1323669,-101.7258453,9,9,city_1949_nebraska_ogallala
-S90597711,2021-06-21,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,12,0.402,1,41.1323669,-101.7258453,10,10,city_1949_nebraska_ogallala
-S93861107,2021-08-28,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,,1,41.1323669,-101.7258453,4,4,city_1949_nebraska_ogallala
-S91071617,2021-07-01,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,16,3.245,1,41.1278576,-101.7196655,2,2,city_1949_nebraska_ogallala
-S79220007,2021-01-14,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,6,1.24,1,41.133571,-101.725929,3,3,city_1949_nebraska_ogallala
-S95506227,2021-10-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,33,1.046,1,41.1278576,-101.7196655,6,6,city_1949_nebraska_ogallala
-S94330056,2021-09-07,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,,1,41.1278576,-101.7196655,3,3,city_1949_nebraska_ogallala
-S84626536,2021-04-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,8,,1,41.1323669,-101.7258453,2,2,city_1949_nebraska_ogallala
-S93419504,2021-08-18,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,7,0.805,1,41.1278576,-101.7196655,3,3,city_1949_nebraska_ogallala
-S95477843,2021-10-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,17,,1,41.1278576,-101.7196655,2,2,city_1949_nebraska_ogallala
-S116751198,2022-08-11,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,120,,1,41.1307096,-101.7085338,8,8,city_1949_nebraska_ogallala
-S124366163,2022-12-21,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,196,,1,41.1314797,-101.7059671,8,8,city_1949_nebraska_ogallala
-S109313369,2022-05-08,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,13,0.257,1,41.1323669,-101.7258453,12,12,city_1949_nebraska_ogallala
-S108894040,2022-05-04,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,11,0.106,1,41.1323669,-101.7258453,8,8,city_1949_nebraska_ogallala
-S102339340,2022-02-06,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,6,1.13,1,41.129991,-101.7233556,6,6,city_1949_nebraska_ogallala
-S111296268,2022-05-24,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,18,0.8,1,41.129991,-101.7233556,10,10,city_1949_nebraska_ogallala
-S105233701,2022-03-20,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,14,,1,41.1323669,-101.7258453,7,7,city_1949_nebraska_ogallala
-S124915432,2022-12-30,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,3.814,1,41.1278576,-101.7196655,6,6,city_1949_nebraska_ogallala
-S105235759,2022-03-20,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,7,0.109,1,41.1285019,-101.7472035,3,3,city_1949_nebraska_ogallala
-S113754175,2022-06-25,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.132978,-101.709345,6,6,city_1949_nebraska_ogallala
-S124913926,2022-12-30,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,21,,1,41.1323669,-101.7258453,5,5,city_1949_nebraska_ogallala
-S115799693,2022-07-23,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,,1,41.1278576,-101.7196655,8,8,city_1949_nebraska_ogallala
-S118928948,2022-09-17,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,16,3.701,1,41.1278576,-101.7196655,5,5,city_1949_nebraska_ogallala
-S140339738,2023-06-03,2023,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,30,0.322,1,41.1278576,-101.7196655,12,12,city_1949_nebraska_ogallala
-S140823643,2023-06-07,2023,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,18,0.073,1,41.1323669,-101.7258453,11,11,city_1949_nebraska_ogallala
-S158285905,2024-01-06,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,61,0.483,1,41.1323669,-101.7258453,13,13,city_1949_nebraska_ogallala
-S165597893,2024-03-22,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,45,,1,41.1308969,-101.7254638,10,10,city_1949_nebraska_ogallala
-S166289457,2024-03-28,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,46,0.864,1,41.1323669,-101.7258453,9,9,city_1949_nebraska_ogallala
-S165752009,2024-03-23,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,50,,1,41.1309368,-101.7254535,13,13,city_1949_nebraska_ogallala
-S183401878,2024-06-23,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,7,1.725,1,41.1278576,-101.7196655,12,12,city_1949_nebraska_ogallala
-S176599110,2024-05-23,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,16,,1,41.1323669,-101.7258453,12,12,city_1949_nebraska_ogallala
-S182245000,2024-06-16,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
-S161624825,2024-02-15,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,25,,1,41.1278576,-101.7196655,10,10,city_1949_nebraska_ogallala
-S245734477,2025-06-01,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,22,1.32,1,41.1323669,-101.7258453,10,10,city_1949_nebraska_ogallala
-S252731922,2025-06-21,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.1278576,-101.7196655,8,8,city_1949_nebraska_ogallala
-S290638173,2025-12-27,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,7.558,1,41.149114,-101.7248328,4,4,city_1949_nebraska_ogallala
-S251783968,2025-06-18,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,8,,1,41.1205141,-101.7147425,7,7,city_1949_nebraska_ogallala
-S231393122,2025-04-30,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,8,1.293,1,41.1278576,-101.7196655,8,8,city_1949_nebraska_ogallala
-S260411316,2025-07-16,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,40,,1,41.133256,-101.723362,5,5,city_1949_nebraska_ogallala
-S290620943,2025-12-27,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,23,5.23,1,41.1278576,-101.7196655,2,2,city_1949_nebraska_ogallala
-S210336607,2025-01-22,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,7,3.641,1,41.1278576,-101.7196655,5,5,city_1949_nebraska_ogallala
-S207477247,2025-01-01,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22944715,L3575431,41.1310 X -101.7312,2015-04-19,2015,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.13099,-101.73122,5,5,city_1949_nebraska_ogallala
+S27166192,L4196996,Ochsner's Feeders,2016-01-27,2016,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,,1,41.1308887,-101.726253,5,5,city_1949_nebraska_ogallala
+S29784907,L981389,Boot Hill Cemetery,2016-05-19,2016,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,18,0.322,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
+S37314341,L981389,Boot Hill Cemetery,2017-06-01,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,8,0.161,1,41.1323669,-101.7258453,8,8,city_1949_nebraska_ogallala
+S39455585,L6308445,"64–98 Highway 61 S, Ogallala US-NE (41.1247,-101.7179)",2017-09-29,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,6,1.609,1,41.124735,-101.717862,3,3,city_1949_nebraska_ogallala
+S40743945,L981389,Boot Hill Cemetery,2017-11-25,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,20,0.016,1,41.1323669,-101.7258453,3,3,city_1949_nebraska_ogallala
+S39236241,L2397668,818 W D,2017-09-16,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,120,,1,41.1311184,-101.7253733,13,13,city_1949_nebraska_ogallala
+S37168040,L981389,Boot Hill Cemetery,2017-05-26,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,17,0.161,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
+S41441675,L6632882,"1742–2166 W 5th St, Ogallala US-NE (41.1275,-101.7461)",2017-12-30,2017,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,17,1.47,1,41.127502,-101.746142,4,4,city_1949_nebraska_ogallala
+S44083248,L3054467,Ogallala (town),2018-03-30,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,4.308,1,41.1278576,-101.7196655,9,9,city_1949_nebraska_ogallala
+S51105366,L3054467,Ogallala (town),2018-12-30,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,180,22.531,1,41.1278576,-101.7196655,19,19,city_1949_nebraska_ogallala
+S45083911,L3054467,Ogallala (town),2018-04-29,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,35,1.609,1,41.1278576,-101.7196655,12,12,city_1949_nebraska_ogallala
+S45091238,L3054467,Ogallala (town),2018-04-29,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,35,1.609,1,41.1278576,-101.7196655,12,12,city_1949_nebraska_ogallala
+S46246906,L7509000,"519 E 1st St, Ogallala US-NE (41.1257,-101.7139)",2018-06-02,2018,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,0.161,1,41.125695,-101.713886,1,1,city_1949_nebraska_ogallala
+S56313486,L3054467,Ogallala (town),2019-05-15,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,20,2.077,1,41.1278576,-101.7196655,11,11,city_1949_nebraska_ogallala
+S59113851,L3054467,Ogallala (town),2019-08-19,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,2.607,1,41.1278576,-101.7196655,7,7,city_1949_nebraska_ogallala
+S57881879,L3054467,Ogallala (town),2019-07-02,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,30,,1,41.1278576,-101.7196655,11,11,city_1949_nebraska_ogallala
+S58692001,L9734122,"Glines-Nye Park, Ogallala US-NE (41.1334,-101.7232)",2019-08-02,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,37,0.221,1,41.133394,-101.723209,5,5,city_1949_nebraska_ogallala
+S59668373,L981389,Boot Hill Cemetery,2019-09-10,2019,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,26,0.161,1,41.1323669,-101.7258453,4,4,city_1949_nebraska_ogallala
+S72517183,L12089297,"1102 Parkhill Dr, Ogallala US-NE 41.13272, -101.72592",2020-08-17,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,,1,41.132721,-101.725922,7,7,city_1949_nebraska_ogallala
+S71103245,L3054467,Ogallala (town),2020-07-03,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,,1,41.1278576,-101.7196655,7,7,city_1949_nebraska_ogallala
+S70109315,L3054467,Ogallala (town),2020-06-06,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,,1,41.1278576,-101.7196655,5,5,city_1949_nebraska_ogallala
+S72433466,L3054467,Ogallala (town),2020-08-15,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,52,9.962,1,41.1278576,-101.7196655,9,9,city_1949_nebraska_ogallala
+S77283791,L981389,Boot Hill Cemetery,2020-12-09,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,28,0.499,1,41.1323669,-101.7258453,9,9,city_1949_nebraska_ogallala
+S74688465,L981389,Boot Hill Cemetery,2020-10-10,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,0.161,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
+S72732733,L981389,Boot Hill Cemetery,2020-08-23,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,6,,1,41.1323669,-101.7258453,7,7,city_1949_nebraska_ogallala
+S70059868,L981389,Boot Hill Cemetery,2020-06-04,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,9,0.129,1,41.1323669,-101.7258453,13,13,city_1949_nebraska_ogallala
+S77283779,L12906145,Ogallala Cemetery,2020-12-09,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,31,1.133,1,41.127554,-101.747779,4,4,city_1949_nebraska_ogallala
+S69684283,L981389,Boot Hill Cemetery,2020-05-26,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,11,0.161,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
+S70146445,L3054467,Ogallala (town),2020-06-06,2020,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,,1,41.1278576,-101.7196655,3,3,city_1949_nebraska_ogallala
+S91142458,L3054467,Ogallala (town),2021-07-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,12,,1,41.1278576,-101.7196655,11,11,city_1949_nebraska_ogallala
+S80730168,L981389,Boot Hill Cemetery,2021-02-09,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,18,0.441,1,41.1323669,-101.7258453,5,5,city_1949_nebraska_ogallala
+S78605094,L981389,Boot Hill Cemetery,2021-01-03,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,0.131,1,41.1323669,-101.7258453,7,7,city_1949_nebraska_ogallala
+S95434072,L3054467,Ogallala (town),2021-10-01,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,42,0.935,1,41.1278576,-101.7196655,22,22,city_1949_nebraska_ogallala
+S89514507,L3054467,Ogallala (town),2021-06-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,25,17.626,1,41.1278576,-101.7196655,15,15,city_1949_nebraska_ogallala
+S79195926,L981389,Boot Hill Cemetery,2021-01-13,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,19,0.106,1,41.1323669,-101.7258453,9,9,city_1949_nebraska_ogallala
+S90597711,L981389,Boot Hill Cemetery,2021-06-21,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,12,0.402,1,41.1323669,-101.7258453,10,10,city_1949_nebraska_ogallala
+S93861107,L981389,Boot Hill Cemetery,2021-08-28,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,10,,1,41.1323669,-101.7258453,4,4,city_1949_nebraska_ogallala
+S91071617,L3054467,Ogallala (town),2021-07-01,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,16,3.245,1,41.1278576,-101.7196655,2,2,city_1949_nebraska_ogallala
+S79220007,L13268278,"1021 Parkhill Dr, Ogallala US-NE 41.13357, -101.72593",2021-01-14,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,6,1.24,1,41.133571,-101.725929,3,3,city_1949_nebraska_ogallala
+S95506227,L3054467,Ogallala (town),2021-10-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,33,1.046,1,41.1278576,-101.7196655,6,6,city_1949_nebraska_ogallala
+S94330056,L3054467,Ogallala (town),2021-09-07,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,,1,41.1278576,-101.7196655,3,3,city_1949_nebraska_ogallala
+S84626536,L981389,Boot Hill Cemetery,2021-04-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,8,,1,41.1323669,-101.7258453,2,2,city_1949_nebraska_ogallala
+S93419504,L3054467,Ogallala (town),2021-08-18,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,7,0.805,1,41.1278576,-101.7196655,3,3,city_1949_nebraska_ogallala
+S95477843,L3054467,Ogallala (town),2021-10-02,2021,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,17,,1,41.1278576,-101.7196655,2,2,city_1949_nebraska_ogallala
+S116751198,L20511630,Hillary's Nebraska Birds,2022-08-11,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,120,,1,41.1307096,-101.7085338,8,8,city_1949_nebraska_ogallala
+S124366163,L21866665,"805 East K Street, Ogallala, Nebraska, US (41.131, -101.706)",2022-12-21,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,196,,1,41.1314797,-101.7059671,8,8,city_1949_nebraska_ogallala
+S109313369,L981389,Boot Hill Cemetery,2022-05-08,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,13,0.257,1,41.1323669,-101.7258453,12,12,city_1949_nebraska_ogallala
+S108894040,L981389,Boot Hill Cemetery,2022-05-04,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,11,0.106,1,41.1323669,-101.7258453,8,8,city_1949_nebraska_ogallala
+S102339340,L17692472,"Ogallala, random driving, near Boot Hill",2022-02-06,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,6,1.13,1,41.129991,-101.7233556,6,6,city_1949_nebraska_ogallala
+S111296268,L17692472,"Ogallala, random driving, near Boot Hill",2022-05-24,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,18,0.8,1,41.129991,-101.7233556,10,10,city_1949_nebraska_ogallala
+S105233701,L981389,Boot Hill Cemetery,2022-03-20,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,14,,1,41.1323669,-101.7258453,7,7,city_1949_nebraska_ogallala
+S124915432,L3054467,Ogallala (town),2022-12-30,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,3.814,1,41.1278576,-101.7196655,6,6,city_1949_nebraska_ogallala
+S105235759,L18190380,"2501 West 5, Ogallala, Nebraska, US (41.129, -101.747)",2022-03-20,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,7,0.109,1,41.1285019,-101.7472035,3,3,city_1949_nebraska_ogallala
+S113754175,L19824672,"1015 E H St, Ogallala US-NE 41.13298, -101.70935",2022-06-25,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.132978,-101.709345,6,6,city_1949_nebraska_ogallala
+S124913926,L981389,Boot Hill Cemetery,2022-12-30,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,21,,1,41.1323669,-101.7258453,5,5,city_1949_nebraska_ogallala
+S115799693,L3054467,Ogallala (town),2022-07-23,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,,1,41.1278576,-101.7196655,8,8,city_1949_nebraska_ogallala
+S118928948,L3054467,Ogallala (town),2022-09-17,2022,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,16,3.701,1,41.1278576,-101.7196655,5,5,city_1949_nebraska_ogallala
+S140339738,L3054467,Ogallala (town),2023-06-03,2023,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,30,0.322,1,41.1278576,-101.7196655,12,12,city_1949_nebraska_ogallala
+S140823643,L981389,Boot Hill Cemetery,2023-06-07,2023,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,18,0.073,1,41.1323669,-101.7258453,11,11,city_1949_nebraska_ogallala
+S158285905,L981389,Boot Hill Cemetery,2024-01-06,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,61,0.483,1,41.1323669,-101.7258453,13,13,city_1949_nebraska_ogallala
+S165597893,L30007935,"818 West D Street, Ogallala, Nebraska, US (41.131, -101.725)",2024-03-22,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,45,,1,41.1308969,-101.7254638,10,10,city_1949_nebraska_ogallala
+S166289457,L981389,Boot Hill Cemetery,2024-03-28,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,46,0.864,1,41.1323669,-101.7258453,9,9,city_1949_nebraska_ogallala
+S165752009,L30042458,"818 West D Street, Ogallala US-NE 41.13069, -101.72549",2024-03-23,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,50,,1,41.1309368,-101.7254535,13,13,city_1949_nebraska_ogallala
+S183401878,L3054467,Ogallala (town),2024-06-23,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,7,1.725,1,41.1278576,-101.7196655,12,12,city_1949_nebraska_ogallala
+S176599110,L981389,Boot Hill Cemetery,2024-05-23,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,16,,1,41.1323669,-101.7258453,12,12,city_1949_nebraska_ogallala
+S182245000,L981389,Boot Hill Cemetery,2024-06-16,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala
+S161624825,L3054467,Ogallala (town),2024-02-15,2024,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,25,,1,41.1278576,-101.7196655,10,10,city_1949_nebraska_ogallala
+S245734477,L981389,Boot Hill Cemetery,2025-06-01,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,22,1.32,1,41.1323669,-101.7258453,10,10,city_1949_nebraska_ogallala
+S252731922,L3054467,Ogallala (town),2025-06-21,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.1278576,-101.7196655,8,8,city_1949_nebraska_ogallala
+S290638173,L56432278,"209 Road West 110, Ogallala, Nebraska, US (41.149, -101.725)",2025-12-27,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,15,7.558,1,41.149114,-101.7248328,4,4,city_1949_nebraska_ogallala
+S251783968,L47933228,"65 River Road, Ogallala, Nebraska, US (41.121, -101.715)",2025-06-18,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,8,,1,41.1205141,-101.7147425,7,7,city_1949_nebraska_ogallala
+S231393122,L3054467,Ogallala (town),2025-04-30,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,8,1.293,1,41.1278576,-101.7196655,8,8,city_1949_nebraska_ogallala
+S260411316,L49915698,"305 W Tenth St, Ogallala US-NE 41.13326, -101.72336",2025-07-16,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,40,,1,41.133256,-101.723362,5,5,city_1949_nebraska_ogallala
+S290620943,L3054467,Ogallala (town),2025-12-27,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,23,5.23,1,41.1278576,-101.7196655,2,2,city_1949_nebraska_ogallala
+S210336607,L3054467,Ogallala (town),2025-01-22,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,7,3.641,1,41.1278576,-101.7196655,5,5,city_1949_nebraska_ogallala
+S207477247,L981389,Boot Hill Cemetery,2025-01-01,2025,1949,"Ogallala, NE",Ogallala,Nebraska,Keith,5476554.35549126,5,,1,41.1323669,-101.7258453,6,6,city_1949_nebraska_ogallala

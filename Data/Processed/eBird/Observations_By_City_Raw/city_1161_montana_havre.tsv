@@ -1,705 +1,705 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S23550228	2015-05-20	Osprey	Pandion haliaetus	7832	species	1	48.5504357	-109.6788539	Stationary	1	0
-S23550228	2015-05-20	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5504357	-109.6788539	Stationary	1	0
-S23537864	2015-05-18	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5502723	-109.6772996	Stationary	1	0
-S26266133	2015-12-13	Rock Pigeon	Columba livia	1868	domestic	90	48.5484617	-109.6761053	Traveling	1	0
-S23537864	2015-05-18	House Finch	Haemorhous mexicanus	32310	species	1	48.5502723	-109.6772996	Stationary	1	0
-S23550228	2015-05-20	American Crow	Corvus brachyrhynchos	21557	species	4	48.5504357	-109.6788539	Stationary	1	0
-S26266133	2015-12-13	Black-billed Magpie	Pica hudsonia	21476	species	1	48.5484617	-109.6761053	Traveling	1	0
-S26266133	2015-12-13	House Finch	Haemorhous mexicanus	32310	species	4	48.5484617	-109.6761053	Traveling	1	0
-S26266133	2015-12-13	House Sparrow	Passer domesticus	31534	species	16	48.5484617	-109.6761053	Traveling	1	0
-S23550228	2015-05-20	American Robin	Turdus migratorius	28633	species	1	48.5504357	-109.6788539	Stationary	1	0
-S23550228	2015-05-20	European Starling	Sturnus vulgaris	27813	species	4	48.5504357	-109.6788539	Stationary	1	0
-S23550228	2015-05-20	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	48.5504357	-109.6788539	Stationary	1	0
-S23550228	2015-05-20	House Finch	Haemorhous mexicanus	32310	species	3	48.5504357	-109.6788539	Stationary	1	0
-S23550228	2015-05-20	Mourning Dove	Zenaida macroura	2412	species	1	48.5504357	-109.6788539	Stationary	1	0
-S26266133	2015-12-13	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	27	48.5484617	-109.6761053	Traveling	1	0
-S23550228	2015-05-20	Common Grackle	Quiscalus quiscula	33853	species	1	48.5504357	-109.6788539	Stationary	1	0
-S23537864	2015-05-18	California Gull	Larus californicus	6591	species	3	48.5502723	-109.6772996	Stationary	1	0
-S31720116	2016-09-23	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.5451310	-109.7002720	Stationary	1	0
-S32025537	2016-10-13	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.5559133	-109.6937053	Traveling	1	0
-S31006848	2016-08-07	House Sparrow	Passer domesticus	31534	species	7	48.5313850	-109.6813080	Traveling	1	0
-S32025526	2016-10-12	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	48.5559133	-109.6937053	Stationary	1	0
-S31006848	2016-08-07	Western Kingbird	Tyrannus verticalis	17467	species	1	48.5313850	-109.6813080	Traveling	1	0
-S32025526	2016-10-12	Hermit Thrush	Catharus guttatus	28333	species	1	48.5559133	-109.6937053	Stationary	1	1
-S34048121	2016-06-30	Killdeer	Charadrius vociferus	5827	species	2	48.5532613	-109.6719256	Traveling	1	0
-S31006848	2016-08-07	Eastern Kingbird	Tyrannus tyrannus	17472	species	3	48.5313850	-109.6813080	Traveling	1	0
-S32025526	2016-10-12	Ring-billed Gull	Larus delawarensis	6521	species	2	48.5559133	-109.6937053	Stationary	1	0
-S34048121	2016-06-30	Rock Pigeon	Columba livia	1868	domestic	10	48.5532613	-109.6719256	Traveling	1	0
-S31006848	2016-08-07	Western Meadowlark	Sturnella neglecta	33565	species	4	48.5313850	-109.6813080	Traveling	1	0
-S32025526	2016-10-12	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	48.5559133	-109.6937053	Stationary	1	0
-S32025537	2016-10-13	Rock Pigeon	Columba livia	1868	domestic	2	48.5559133	-109.6937053	Traveling	1	0
-S34048121	2016-06-30	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	48.5532613	-109.6719256	Traveling	1	0
-S34048121	2016-06-30	House Sparrow	Passer domesticus	31534	species	30	48.5532613	-109.6719256	Traveling	1	0
-S32025537	2016-10-13	European Starling	Sturnus vulgaris	27813	species	1	48.5559133	-109.6937053	Traveling	1	0
-S32025526	2016-10-12	European Starling	Sturnus vulgaris	27813	species	2	48.5559133	-109.6937053	Stationary	1	0
-S34048121	2016-06-30	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.5532613	-109.6719256	Traveling	1	0
-S32025537	2016-10-13	House Sparrow	Passer domesticus	31534	species	9	48.5559133	-109.6937053	Traveling	1	0
-S32025526	2016-10-12	Canada Goose	Branta canadensis	342	species	43	48.5559133	-109.6937053	Stationary	1	0
-S32025537	2016-10-13	American Robin	Turdus migratorius	28633	species	1	48.5559133	-109.6937053	Traveling	1	0
-S32025526	2016-10-12	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	48.5559133	-109.6937053	Stationary	1	0
-S32025537	2016-10-13	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	48.5559133	-109.6937053	Traveling	1	1
-S34048121	2016-06-30	Ring-billed Gull	Larus delawarensis	6521	species	5	48.5532613	-109.6719256	Traveling	1	0
-S32025526	2016-10-12	House Sparrow	Passer domesticus	31534	species	11	48.5559133	-109.6937053	Stationary	1	0
-S32025537	2016-10-13	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	48.5559133	-109.6937053	Traveling	1	0
-S31006848	2016-08-07	Common Raven	Corvus corax	21624	species	1	48.5313850	-109.6813080	Traveling	1	0
-S31720116	2016-09-23	White-throated Sparrow	Zonotrichia albicollis	33201	species	1	48.5451310	-109.7002720	Stationary	1	0
-S32025526	2016-10-12	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.5559133	-109.6937053	Stationary	1	0
-S32025537	2016-10-13	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	48.5559133	-109.6937053	Traveling	1	0
-S39859892	2017-10-12	Northern Parula	Setophaga americana	34063	species	1	48.5558598	-109.6924348	Traveling	1	1
-S38121213	2017-07-11	Rock Pigeon	Columba livia	1868	domestic	50	48.5546231	-109.6787758	Stationary	1	0
-S39859892	2017-10-12	Rock Pigeon	Columba livia	1868	domestic	2	48.5558598	-109.6924348	Traveling	1	0
-S39859892	2017-10-12	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.5558598	-109.6924348	Traveling	1	0
-S38121213	2017-07-11	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5546231	-109.6787758	Stationary	1	0
-S39859892	2017-10-12	House Sparrow	Passer domesticus	31534	species	43	48.5558598	-109.6924348	Traveling	1	0
-S39859892	2017-10-12	Swamp Sparrow	Melospiza georgiana	33315	species	1	48.5558598	-109.6924348	Traveling	1	1
-S39859892	2017-10-12	European Starling	Sturnus vulgaris	27813	species	3	48.5558598	-109.6924348	Traveling	1	0
-S39859892	2017-10-12	Canada Goose	Branta canadensis	342	species	32	48.5558598	-109.6924348	Traveling	1	0
-S48249285	2018-09-02	House Finch	Haemorhous mexicanus	32310	species	2	48.5435000	-109.6902160	Traveling	1	0
-S48357012	2018-09-06	Rock Pigeon	Columba livia	1868	domestic	41	48.5526373	-109.6730804	Traveling	1	0
-S42072112	2018-01-19	Rock Pigeon	Columba livia	1868	domestic	25	48.5546381	-109.6780864	Traveling	1	0
-S48249285	2018-09-02	American Goldfinch	Spinus tristis	32617	species	1	48.5435000	-109.6902160	Traveling	1	0
-S48357012	2018-09-06	Turkey Vulture	Cathartes aura	7815	species	8	48.5526373	-109.6730804	Traveling	1	1
-S48357012	2018-09-06	Mourning Dove	Zenaida macroura	2412	species	1	48.5526373	-109.6730804	Traveling	1	0
-S48249285	2018-09-02	Chipping Sparrow	Spizella passerina	32990	species	1	48.5435000	-109.6902160	Traveling	1	0
-S48357012	2018-09-06	Common Grackle	Quiscalus quiscula	33853	species	13	48.5526373	-109.6730804	Traveling	1	0
-S48249285	2018-09-02	European Starling	Sturnus vulgaris	27813	species	7	48.5435000	-109.6902160	Traveling	1	0
-S48357012	2018-09-06	European Starling	Sturnus vulgaris	27813	species	6	48.5526373	-109.6730804	Traveling	1	0
-S42072112	2018-01-19	European Starling	Sturnus vulgaris	27813	species	250	48.5546381	-109.6780864	Traveling	1	1
-S48249285	2018-09-02	Ring-billed Gull	Larus delawarensis	6521	species	5	48.5435000	-109.6902160	Traveling	1	0
-S59973495	2019-09-21	Yellow-bellied/Red-naped Sapsucker	Sphyrapicus varius/nuchalis	11129	slash	1	48.5436600	-109.6912534	Traveling	1	1
-S56461369	2019-05-18	Chipping Sparrow	Spizella passerina	32990	species	6	48.5397826	-109.6701492	Stationary	1	0
-S59973495	2019-09-21	Savannah Sparrow	Passerculus sandwichensis	33244	species	7	48.5436600	-109.6912534	Traveling	1	0
-S59973495	2019-09-21	American Goldfinch	Spinus tristis	32617	species	1	48.5436600	-109.6912534	Traveling	1	0
-S57356724	2019-06-13	House Finch	Haemorhous mexicanus	32310	species	1	48.5361040	-109.6857930	Stationary	1	0
-S59973495	2019-09-21	Northern Flicker	Colaptes auratus	11903	issf	1	48.5436600	-109.6912534	Traveling	1	0
-S56461369	2019-05-18	Common Grackle	Quiscalus quiscula	33853	species	2	48.5397826	-109.6701492	Stationary	1	0
-S59973495	2019-09-21	Vesper Sparrow	Pooecetes gramineus	33217	species	1	48.5436600	-109.6912534	Traveling	1	0
-S54730892	2019-04-08	Western Meadowlark	Sturnella neglecta	33565	species	4	48.5410952	-109.6660453	Traveling	1	0
-S60039843	2019-09-22	American Robin	Turdus migratorius	28633	species	14	48.5435422	-109.6928766	Traveling	1	0
-S57356724	2019-06-13	Killdeer	Charadrius vociferus	5827	species	2	48.5361040	-109.6857930	Stationary	1	0
-S59973495	2019-09-21	Northern Flicker	Colaptes auratus	11900	species	1	48.5436600	-109.6912534	Traveling	1	0
-S59973495	2019-09-21	American Crow	Corvus brachyrhynchos	21557	species	2	48.5436600	-109.6912534	Traveling	1	0
-S59405420	2019-08-31	American Goldfinch	Spinus tristis	32617	species	4	48.5398163	-109.6700617	Stationary	1	0
-S57209968	2019-06-08	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5512240	-109.6749930	Traveling	1	0
-S60084937	2019-09-22	Gray Catbird	Dumetella carolinensis	28000	species	1	48.5435422	-109.6928766	Traveling	1	0
-S59241489	2019-08-19	House Finch	Haemorhous mexicanus	32310	species	12	48.5397826	-109.6701492	Stationary	1	0
-S59405420	2019-08-31	Northern Flicker	Colaptes auratus	11900	species	1	48.5398163	-109.6700617	Stationary	1	0
-S59472562	2019-09-02	Common Grackle	Quiscalus quiscula	33853	species	3	48.5399355	-109.6701711	Stationary	1	0
-S60164118	2019-09-27	Pine Siskin	Spinus pinus	32595	species	5	48.5397826	-109.6701492	Stationary	1	0
-S59973495	2019-09-21	House Sparrow	Passer domesticus	31534	species	1	48.5436600	-109.6912534	Traveling	1	0
-S59973495	2019-09-21	Orange-crowned Warbler	Leiothlypis celata	33973	species	6	48.5436600	-109.6912534	Traveling	1	0
-S60164118	2019-09-27	House Finch	Haemorhous mexicanus	32310	species	15	48.5397826	-109.6701492	Stationary	1	0
-S57356724	2019-06-13	Mourning Dove	Zenaida macroura	2412	species	1	48.5361040	-109.6857930	Stationary	1	0
-S60084937	2019-09-22	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	9	48.5435422	-109.6928766	Traveling	1	0
-S59973495	2019-09-21	White-throated Sparrow	Zonotrichia albicollis	33201	species	8	48.5436600	-109.6912534	Traveling	1	1
-S59472562	2019-09-02	Mourning Dove	Zenaida macroura	2412	species	2	48.5399355	-109.6701711	Stationary	1	0
-S60039843	2019-09-22	Mourning Dove	Zenaida macroura	2412	species	1	48.5435422	-109.6928766	Traveling	1	0
-S59472562	2019-09-02	Swainson's Hawk	Buteo swainsoni	8504	species	1	48.5399355	-109.6701711	Stationary	1	0
-S60039843	2019-09-22	Gray Catbird	Dumetella carolinensis	28000	species	1	48.5435422	-109.6928766	Traveling	1	0
-S59405420	2019-08-31	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.5398163	-109.6700617	Stationary	1	0
-S60084937	2019-09-22	Mourning Dove	Zenaida macroura	2412	species	1	48.5435422	-109.6928766	Traveling	1	0
-S59973495	2019-09-21	Dark-eyed Junco	Junco hyemalis	33126	issf	1	48.5436600	-109.6912534	Traveling	1	0
-S60084937	2019-09-22	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	48.5435422	-109.6928766	Traveling	1	0
-S59973495	2019-09-21	Common Grackle	Quiscalus quiscula	33853	species	48	48.5436600	-109.6912534	Traveling	1	1
-S54730892	2019-04-08	American Robin	Turdus migratorius	28633	species	4	48.5410952	-109.6660453	Traveling	1	0
-S59241489	2019-08-19	Olive-sided Flycatcher	Contopus cooperi	16890	species	1	48.5397826	-109.6701492	Stationary	1	0
-S59472562	2019-09-02	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5399355	-109.6701711	Stationary	1	0
-S56461369	2019-05-18	Lazuli Bunting	Passerina amoena	34606	species	1	48.5397826	-109.6701492	Stationary	1	0
-S56461369	2019-05-18	House Sparrow	Passer domesticus	31534	species	6	48.5397826	-109.6701492	Stationary	1	0
-S57356724	2019-06-13	House Sparrow	Passer domesticus	31534	species	3	48.5361040	-109.6857930	Stationary	1	0
-S59973495	2019-09-21	Merlin	Falco columbarius	12071	issf	1	48.5436600	-109.6912534	Traveling	1	0
-S59405420	2019-08-31	Pine Siskin	Spinus pinus	32595	species	3	48.5398163	-109.6700617	Stationary	1	0
-S56461369	2019-05-18	Spotted Towhee	Pipilo maculatus	33386	species	1	48.5397826	-109.6701492	Stationary	1	0
-S60039843	2019-09-22	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	48.5435422	-109.6928766	Traveling	1	0
-S60039843	2019-09-22	Cooper's Hawk	Astur cooperii	8278	species	1	48.5435422	-109.6928766	Traveling	1	0
-S59405420	2019-08-31	House Finch	Haemorhous mexicanus	32310	species	15	48.5398163	-109.6700617	Stationary	1	0
-S59472562	2019-09-02	House Sparrow	Passer domesticus	31534	species	18	48.5399355	-109.6701711	Stationary	1	0
-S59973495	2019-09-21	Clay-colored Sparrow	Spizella pallida	32996	species	29	48.5436600	-109.6912534	Traveling	1	1
-S59973495	2019-09-21	Yellow-rumped Warbler	Setophaga coronata	34160	issf	24	48.5436600	-109.6912534	Traveling	1	0
-S60164118	2019-09-27	Dark-eyed Junco	Junco hyemalis	33124	species	6	48.5397826	-109.6701492	Stationary	1	0
-S57269382	2019-06-10	House Sparrow	Passer domesticus	31534	species	5	48.5517480	-109.6790010	Stationary	1	0
-S60084937	2019-09-22	Northern Flicker	Colaptes auratus	11900	species	1	48.5435422	-109.6928766	Traveling	1	0
-S60084937	2019-09-22	Cooper's Hawk	Astur cooperii	8278	species	1	48.5435422	-109.6928766	Traveling	1	0
-S57209968	2019-06-08	Common Grackle	Quiscalus quiscula	33853	species	2	48.5512240	-109.6749930	Traveling	1	0
-S59973495	2019-09-21	Baird's Sparrow	Centronyx bairdii	33270	species	1	48.5436600	-109.6912534	Traveling	1	1
-S56461369	2019-05-18	American Robin	Turdus migratorius	28633	species	4	48.5397826	-109.6701492	Stationary	1	0
-S57356724	2019-06-13	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5361040	-109.6857930	Stationary	1	0
-S60084937	2019-09-22	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	15	48.5435422	-109.6928766	Traveling	1	0
-S59973495	2019-09-21	Dark-eyed Junco	Junco hyemalis	33124	species	1	48.5436600	-109.6912534	Traveling	1	0
-S59472562	2019-09-02	Northern Flicker	Colaptes auratus	11900	species	1	48.5399355	-109.6701711	Stationary	1	0
-S60164118	2019-09-27	Black-capped Chickadee	Poecile atricapillus	22065	species	4	48.5397826	-109.6701492	Stationary	1	0
-S60164118	2019-09-27	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	3	48.5397826	-109.6701492	Stationary	1	0
-S56461369	2019-05-18	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	4	48.5397826	-109.6701492	Stationary	1	0
-S57356724	2019-06-13	Common Nighthawk	Chordeiles minor	3492	species	1	48.5361040	-109.6857930	Stationary	1	0
-S60084937	2019-09-22	Townsend's Solitaire	Myadestes townsendi	28163	species	1	48.5435422	-109.6928766	Traveling	1	0
-S60084937	2019-09-22	Marsh Wren	Cistothorus palustris	27329	species	1	48.5435422	-109.6928766	Traveling	1	0
-S59973495	2019-09-21	Marsh Wren	Cistothorus palustris	27329	species	1	48.5436600	-109.6912534	Traveling	1	0
-S59472562	2019-09-02	House Finch	Haemorhous mexicanus	32310	species	12	48.5399355	-109.6701711	Stationary	1	0
-S60164118	2019-09-27	American Robin	Turdus migratorius	28633	species	5	48.5397826	-109.6701492	Stationary	1	0
-S59405420	2019-08-31	Common Grackle	Quiscalus quiscula	33853	species	2	48.5398163	-109.6700617	Stationary	1	0
-S59973495	2019-09-21	European Starling	Sturnus vulgaris	27813	species	5	48.5436600	-109.6912534	Traveling	1	0
-S59241489	2019-08-19	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	48.5397826	-109.6701492	Stationary	1	0
-S59472562	2019-09-02	Eastern/Western Warbling Vireo	Vireo gilvus/swainsoni	19252	slash	1	48.5399355	-109.6701711	Stationary	1	0
-S57269382	2019-06-10	Chimney Swift	Chaetura pelagica	3896	species	2	48.5517480	-109.6790010	Stationary	1	0
-S59405420	2019-08-31	Common Nighthawk	Chordeiles minor	3492	species	1	48.5398163	-109.6700617	Stationary	1	0
-S60039843	2019-09-22	House Finch	Haemorhous mexicanus	32310	species	4	48.5435422	-109.6928766	Traveling	1	0
-S56461369	2019-05-18	Western Meadowlark	Sturnella neglecta	33565	species	1	48.5397826	-109.6701492	Stationary	1	0
-S60039843	2019-09-22	Northern Flicker	Colaptes auratus	11900	species	1	48.5435422	-109.6928766	Traveling	1	0
-S59472562	2019-09-02	Turkey Vulture	Cathartes aura	7815	species	1	48.5399355	-109.6701711	Stationary	1	0
-S59973495	2019-09-21	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	11	48.5436600	-109.6912534	Traveling	1	0
-S60039843	2019-09-22	Marsh Wren	Cistothorus palustris	27329	species	1	48.5435422	-109.6928766	Traveling	1	0
-S60039843	2019-09-22	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	15	48.5435422	-109.6928766	Traveling	1	0
-S59241489	2019-08-19	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5397826	-109.6701492	Stationary	1	0
-S57209968	2019-06-08	House Finch	Haemorhous mexicanus	32310	species	1	48.5512240	-109.6749930	Traveling	1	0
-S59973495	2019-09-21	Lincoln's Sparrow	Melospiza lincolnii	33310	species	15	48.5436600	-109.6912534	Traveling	1	1
-S60039843	2019-09-22	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	9	48.5435422	-109.6928766	Traveling	1	0
-S59973495	2019-09-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5436600	-109.6912534	Traveling	1	0
-S54730892	2019-04-08	Turkey Vulture	Cathartes aura	7815	species	4	48.5410952	-109.6660453	Traveling	1	1
-S54730892	2019-04-08	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	48.5410952	-109.6660453	Traveling	1	0
-S60084937	2019-09-22	House Finch	Haemorhous mexicanus	32310	species	4	48.5435422	-109.6928766	Traveling	1	0
-S59241489	2019-08-19	Common Grackle	Quiscalus quiscula	33853	species	5	48.5397826	-109.6701492	Stationary	1	0
-S56461369	2019-05-18	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5397826	-109.6701492	Stationary	1	0
-S59973495	2019-09-21	Common Yellowthroat	Geothlypis trichas	34028	species	2	48.5436600	-109.6912534	Traveling	1	0
-S56461369	2019-05-18	House Finch	Haemorhous mexicanus	32310	species	3	48.5397826	-109.6701492	Stationary	1	0
-S59241489	2019-08-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5397826	-109.6701492	Stationary	1	0
-S59973495	2019-09-21	House Finch	Haemorhous mexicanus	32310	species	3	48.5436600	-109.6912534	Traveling	1	0
-S59973495	2019-09-21	Dark-eyed Junco	Junco hyemalis	33130	issf	1	48.5436600	-109.6912534	Traveling	1	0
-S60084937	2019-09-22	American Robin	Turdus migratorius	28633	species	14	48.5435422	-109.6928766	Traveling	1	0
-S57209968	2019-06-08	Mourning Dove	Zenaida macroura	2412	species	2	48.5512240	-109.6749930	Traveling	1	0
-S59405420	2019-08-31	Mourning Dove	Zenaida macroura	2412	species	3	48.5398163	-109.6700617	Stationary	1	0
-S59973495	2019-09-21	Canada Goose	Branta canadensis	342	species	3	48.5436600	-109.6912534	Traveling	1	0
-S56461369	2019-05-18	Mourning Dove	Zenaida macroura	2412	species	2	48.5397826	-109.6701492	Stationary	1	0
-S59405420	2019-08-31	American Robin	Turdus migratorius	28633	species	1	48.5398163	-109.6700617	Stationary	1	0
-S60164118	2019-09-27	Downy Woodpecker	Dryobates pubescens	11400	species	2	48.5397826	-109.6701492	Stationary	1	0
-S59472562	2019-09-02	Pine Siskin	Spinus pinus	32595	species	3	48.5399355	-109.6701711	Stationary	1	0
-S57269382	2019-06-10	Rock Pigeon	Columba livia	1868	domestic	1	48.5517480	-109.6790010	Stationary	1	0
-S59973495	2019-09-21	Yellow-rumped Warbler	Setophaga coronata	34159	species	7	48.5436600	-109.6912534	Traveling	1	0
-S60039843	2019-09-22	Yellow-rumped Warbler	Setophaga coronata	34159	species	9	48.5435422	-109.6928766	Traveling	1	0
-S59472562	2019-09-02	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.5399355	-109.6701711	Stationary	1	0
-S57209968	2019-06-08	House Sparrow	Passer domesticus	31534	species	22	48.5512240	-109.6749930	Traveling	1	0
-S60164118	2019-09-27	Northern Flicker	Colaptes auratus	11900	species	2	48.5397826	-109.6701492	Stationary	1	0
-S57209968	2019-06-08	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5512240	-109.6749930	Traveling	1	0
-S57269382	2019-06-10	House Finch	Haemorhous mexicanus	32310	species	1	48.5517480	-109.6790010	Stationary	1	0
-S59973495	2019-09-21	American Robin	Turdus migratorius	28633	species	14	48.5436600	-109.6912534	Traveling	1	0
-S59973495	2019-09-21	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	48.5436600	-109.6912534	Traveling	1	0
-S59241489	2019-08-19	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5397826	-109.6701492	Stationary	1	0
-S59241489	2019-08-19	American Goldfinch	Spinus tristis	32617	species	5	48.5397826	-109.6701492	Stationary	1	0
-S59973495	2019-09-21	Ruby-crowned Kinglet	Corthylio calendula	26844	species	5	48.5436600	-109.6912534	Traveling	1	0
-S57269382	2019-06-10	Common Grackle	Quiscalus quiscula	33853	species	1	48.5517480	-109.6790010	Stationary	1	0
-S54730892	2019-04-08	Bohemian/Cedar Waxwing	Bombycilla garrulus/cedrorum	29890	slash	1	48.5410952	-109.6660453	Traveling	1	0
-S60164118	2019-09-27	Mourning Dove	Zenaida macroura	2412	species	1	48.5397826	-109.6701492	Stationary	1	0
-S59241489	2019-08-19	Mourning Dove	Zenaida macroura	2412	species	2	48.5397826	-109.6701492	Stationary	1	0
-S60084937	2019-09-22	Yellow-rumped Warbler	Setophaga coronata	34159	species	9	48.5435422	-109.6928766	Traveling	1	0
-S59973495	2019-09-21	Gray Catbird	Dumetella carolinensis	28000	species	2	48.5436600	-109.6912534	Traveling	1	0
-S59973495	2019-09-21	Spotted Towhee	Pipilo maculatus	33386	species	3	48.5436600	-109.6912534	Traveling	1	0
-S59973495	2019-09-21	White-crowned Sparrow	Zonotrichia leucophrys	33191	issf	15	48.5436600	-109.6912534	Traveling	1	1
-S59405420	2019-08-31	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5398163	-109.6700617	Stationary	1	0
-S60164118	2019-09-27	Blue Jay	Cyanocitta cristata	21294	species	3	48.5397826	-109.6701492	Stationary	1	0
-S59973495	2019-09-21	Ring-billed Gull	Larus delawarensis	6521	species	2	48.5436600	-109.6912534	Traveling	1	0
-S60164118	2019-09-27	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5397826	-109.6701492	Stationary	1	0
-S57209968	2019-06-08	American Robin	Turdus migratorius	28633	species	6	48.5512240	-109.6749930	Traveling	1	0
-S59472562	2019-09-02	Gray Catbird	Dumetella carolinensis	28000	species	2	48.5399355	-109.6701711	Stationary	1	0
-S60039843	2019-09-22	Townsend's Solitaire	Myadestes townsendi	28163	species	1	48.5435422	-109.6928766	Traveling	1	0
-S74018853	2020-09-05	House Sparrow	Passer domesticus	31534	species	4	48.5556750	-109.7146080	Traveling	1	0
-S73655681	2020-09-15	Palm Warbler	Setophaga palmarum	34149	issf	2	48.5436600	-109.6912534	Traveling	1	1
-S73655681	2020-09-15	Clay-colored Sparrow	Spizella pallida	32996	species	8	48.5436600	-109.6912534	Traveling	1	0
-S66426491	2020-03-30	Canada Goose	Branta canadensis	342	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	Canvasback	Aythya valisineria	666	species	1	48.5346599	-109.6700680	Stationary	1	0
-S74018853	2020-09-05	American Robin	Turdus migratorius	28633	species	1	48.5556750	-109.7146080	Traveling	1	0
-S66426491	2020-03-30	Northern Pintail	Anas acuta	594	species	1	48.5346599	-109.6700680	Stationary	1	0
-S74018853	2020-09-05	Common Grackle	Quiscalus quiscula	33853	species	10	48.5556750	-109.7146080	Traveling	1	0
-S73655681	2020-09-15	White-throated Sparrow	Zonotrichia albicollis	33201	species	3	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Orange-crowned Warbler	Leiothlypis celata	33973	species	2	48.5436600	-109.6912534	Traveling	1	0
-S66426491	2020-03-30	House Sparrow	Passer domesticus	31534	species	1	48.5346599	-109.6700680	Stationary	1	0
-S73655681	2020-09-15	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Northern Flicker	Colaptes auratus	11903	issf	2	48.5436600	-109.6912534	Traveling	1	1
-S64802902	2020-02-20	European Starling	Sturnus vulgaris	27813	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66712002	2020-04-05	House Finch	Haemorhous mexicanus	32310	species	2	48.5397826	-109.6701492	Stationary	1	0
-S73655681	2020-09-15	Gray Catbird	Dumetella carolinensis	28000	species	3	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	American Goldfinch	Spinus tristis	32617	species	7	48.5436600	-109.6912534	Traveling	1	0
-S66426491	2020-03-30	Northern Harrier	Circus hudsonius	8324	species	1	48.5346599	-109.6700680	Stationary	1	0
-S64802902	2020-02-20	Northern Flicker	Colaptes auratus	11900	species	1	48.5346599	-109.6700680	Stationary	1	0
-S64802902	2020-02-20	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	Killdeer	Charadrius vociferus	5827	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	House Finch	Haemorhous mexicanus	32310	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	American Coot	Fulica americana	5500	species	1	48.5346599	-109.6700680	Stationary	1	0
-S74018853	2020-09-05	Rock Pigeon	Columba livia	1868	domestic	20	48.5556750	-109.7146080	Traveling	1	0
-S66426491	2020-03-30	American Wigeon	Mareca americana	517	species	1	48.5346599	-109.6700680	Stationary	1	0
-S73655681	2020-09-15	House Finch	Haemorhous mexicanus	32310	species	4	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Northern Flicker	Colaptes auratus	11900	species	1	48.5436600	-109.6912534	Traveling	1	0
-S66426491	2020-03-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5346599	-109.6700680	Stationary	1	0
-S73655681	2020-09-15	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Ovenbird	Seiurus aurocapilla	33946	species	1	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	48.5436600	-109.6912534	Traveling	1	0
-S66426491	2020-03-30	European Starling	Sturnus vulgaris	27813	species	1	48.5346599	-109.6700680	Stationary	1	0
-S64802902	2020-02-20	House Sparrow	Passer domesticus	31534	species	1	48.5346599	-109.6700680	Stationary	1	0
-S74018853	2020-09-05	Killdeer	Charadrius vociferus	5827	species	4	48.5556750	-109.7146080	Traveling	1	0
-S66712002	2020-04-05	Northern Harrier	Circus hudsonius	8324	species	1	48.5397826	-109.6701492	Stationary	1	0
-S73655681	2020-09-15	Common Yellowthroat	Geothlypis trichas	34028	species	1	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	American Robin	Turdus migratorius	28633	species	1	48.5436600	-109.6912534	Traveling	1	0
-S64802902	2020-02-20	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5346599	-109.6700680	Stationary	1	0
-S74018853	2020-09-05	European Starling	Sturnus vulgaris	27813	species	1	48.5556750	-109.7146080	Traveling	1	0
-S66426491	2020-03-30	Mallard	Anas platyrhynchos	545	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66712002	2020-04-05	Townsend's Solitaire	Myadestes townsendi	28163	species	1	48.5397826	-109.6701492	Stationary	1	0
-S66426491	2020-03-30	Horned Lark	Eremophila alpestris	22710	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	Northern Shoveler	Spatula clypeata	501	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	Tundra Swan	Cygnus columbianus	384	species	1	48.5346599	-109.6700680	Stationary	1	0
-S64802902	2020-02-20	House Finch	Haemorhous mexicanus	32310	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5346599	-109.6700680	Stationary	1	0
-S73655681	2020-09-15	Lincoln's Sparrow	Melospiza lincolnii	33310	species	4	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Pine Siskin	Spinus pinus	32595	species	1	48.5436600	-109.6912534	Traveling	1	0
-S66426491	2020-03-30	Bufflehead	Bucephala albeola	742	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	Common Goldeneye	Bucephala clangula	743	species	1	48.5346599	-109.6700680	Stationary	1	0
-S66426491	2020-03-30	American Robin	Turdus migratorius	28633	species	1	48.5346599	-109.6700680	Stationary	1	0
-S73655681	2020-09-15	White-crowned Sparrow	Zonotrichia leucophrys	33191	issf	1	48.5436600	-109.6912534	Traveling	1	0
-S66712002	2020-04-05	Dark-eyed Junco	Junco hyemalis	33124	species	4	48.5397826	-109.6701492	Stationary	1	1
-S73655681	2020-09-15	Cassin's Vireo	Vireo cassinii	19223	species	1	48.5436600	-109.6912534	Traveling	1	0
-S73655681	2020-09-15	Rose-breasted Grosbeak	Pheucticus ludovicianus	34557	species	1	48.5436600	-109.6912534	Traveling	1	1
-S66426491	2020-03-30	Western Meadowlark	Sturnella neglecta	33565	species	1	48.5346599	-109.6700680	Stationary	1	0
-S93714339	2021-08-25	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5493140	-109.6720230	Traveling	1	0
-S93714339	2021-08-25	Least Flycatcher	Empidonax minimus	16963	species	1	48.5493140	-109.6720230	Traveling	1	0
-S90073167	2021-06-10	American Crow	Corvus brachyrhynchos	21557	species	1	48.5462490	-109.6924080	Traveling	1	0
-S90073167	2021-06-10	Cedar Waxwing	Bombycilla cedrorum	29888	species	45	48.5462490	-109.6924080	Traveling	1	1
-S89492483	2021-06-02	Mourning Dove	Zenaida macroura	2412	species	4	48.5526209	-109.6670647	Traveling	1	0
-S89958125	2021-06-10	American Crow	Corvus brachyrhynchos	21557	species	1	48.5462490	-109.6924080	Traveling	1	0
-S89492483	2021-06-02	European Starling	Sturnus vulgaris	27813	species	13	48.5526209	-109.6670647	Traveling	1	0
-S93714339	2021-08-25	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5493140	-109.6720230	Traveling	1	0
-S91051912	2021-06-30	Mourning Dove	Zenaida macroura	2412	species	3	48.5530310	-109.6607160	Traveling	1	0
-S93714339	2021-08-25	House Finch	Haemorhous mexicanus	32310	species	3	48.5493140	-109.6720230	Traveling	1	0
-S89492483	2021-06-02	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5526209	-109.6670647	Traveling	1	0
-S91051912	2021-06-30	American Robin	Turdus migratorius	28633	species	3	48.5530310	-109.6607160	Traveling	1	0
-S89492483	2021-06-02	American Crow	Corvus brachyrhynchos	21557	species	2	48.5526209	-109.6670647	Traveling	1	0
-S93714339	2021-08-25	American Robin	Turdus migratorius	28633	species	2	48.5493140	-109.6720230	Traveling	1	0
-S93714339	2021-08-25	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5493140	-109.6720230	Traveling	1	0
-S93714339	2021-08-25	European Starling	Sturnus vulgaris	27813	species	6	48.5493140	-109.6720230	Traveling	1	0
-S89492483	2021-06-02	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	48.5526209	-109.6670647	Traveling	1	0
-S90073167	2021-06-10	European Starling	Sturnus vulgaris	27813	species	10	48.5462490	-109.6924080	Traveling	1	0
-S89492483	2021-06-02	House Sparrow	Passer domesticus	31534	species	26	48.5526209	-109.6670647	Traveling	1	0
-S93714339	2021-08-25	American Redstart	Setophaga ruticilla	34058	species	1	48.5493140	-109.6720230	Traveling	1	0
-S93714339	2021-08-25	Common Grackle	Quiscalus quiscula	33853	species	3	48.5493140	-109.6720230	Traveling	1	0
-S89492483	2021-06-02	Rock Pigeon	Columba livia	1868	domestic	35	48.5526209	-109.6670647	Traveling	1	0
-S89958125	2021-06-10	Cedar Waxwing	Bombycilla cedrorum	29888	species	45	48.5462490	-109.6924080	Traveling	1	1
-S89958125	2021-06-10	European Starling	Sturnus vulgaris	27813	species	10	48.5462490	-109.6924080	Traveling	1	0
-S91051912	2021-06-30	House Sparrow	Passer domesticus	31534	species	20	48.5530310	-109.6607160	Traveling	1	0
-S93714339	2021-08-25	Northern Flicker	Colaptes auratus	11906	issf	2	48.5493140	-109.6720230	Traveling	1	0
-S93714339	2021-08-25	Mourning Dove	Zenaida macroura	2412	species	2	48.5493140	-109.6720230	Traveling	1	0
-S91051912	2021-06-30	Northern Flicker	Colaptes auratus	11900	species	1	48.5530310	-109.6607160	Traveling	1	0
-S93714339	2021-08-25	Barn Swallow	Hirundo rustica	24187	species	2	48.5493140	-109.6720230	Traveling	1	0
-S93714339	2021-08-25	American Crow	Corvus brachyrhynchos	21557	species	3	48.5493140	-109.6720230	Traveling	1	0
-S86539491	2021-04-27	European Starling	Sturnus vulgaris	27813	species	2	48.5496871	-109.6774900	Stationary	1	0
-S93714339	2021-08-25	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5493140	-109.6720230	Traveling	1	0
-S89492483	2021-06-02	Common Grackle	Quiscalus quiscula	33853	species	5	48.5526209	-109.6670647	Traveling	1	0
-S93714339	2021-08-25	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5493140	-109.6720230	Traveling	1	0
-S93714339	2021-08-25	Chipping Sparrow	Spizella passerina	32990	species	1	48.5493140	-109.6720230	Traveling	1	0
-S114994156	2022-07-13	Mourning Dove	Zenaida macroura	2412	species	1	48.5542360	-109.6619140	Stationary	1	0
-S113391138	2022-06-20	European Starling	Sturnus vulgaris	27813	species	3	48.5466890	-109.6899120	Traveling	1	0
-S114517522	2022-07-05	House Sparrow	Passer domesticus	31534	species	10	48.5542360	-109.6619140	Traveling	1	0
-S123918616	2022-12-13	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
-S117897144	2022-09-01	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5565580	-109.7234630	Stationary	1	0
-S123254423	2022-11-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5479714	-109.6821812	Stationary	1	0
-S113391138	2022-06-20	Western Meadowlark	Sturnella neglecta	33565	species	1	48.5466890	-109.6899120	Traveling	1	0
-S114517522	2022-07-05	Rock Pigeon	Columba livia	1868	domestic	110	48.5542360	-109.6619140	Traveling	1	0
-S123918616	2022-12-13	House Finch	Haemorhous mexicanus	32310	species	100	48.5479714	-109.6821812	Stationary	1	1
-S123254423	2022-11-30	House Sparrow	Passer domesticus	31534	species	42	48.5479714	-109.6821812	Stationary	1	0
-S117897144	2022-09-01	Horned Lark	Eremophila alpestris	22710	species	1	48.5565580	-109.7234630	Stationary	1	0
-S123254423	2022-11-30	Mountain Chickadee	Poecile gambeli	22077	species	3	48.5479714	-109.6821812	Stationary	1	0
-S117343429	2022-08-21	Chimney Swift	Chaetura pelagica	3896	species	1	48.5458290	-109.6902600	Traveling	1	0
-S114517522	2022-07-05	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5542360	-109.6619140	Traveling	1	0
-S117182276	2022-08-18	House Sparrow	Passer domesticus	31534	species	30	48.5436600	-109.6912534	Traveling	1	0
-S103049976	2022-02-19	House Sparrow	Passer domesticus	31534	species	200	48.5479714	-109.6821812	Stationary	1	1
-S114994156	2022-07-13	Common Grackle	Quiscalus quiscula	33853	species	2	48.5542360	-109.6619140	Stationary	1	0
-S117897144	2022-09-01	Vesper Sparrow	Pooecetes gramineus	33217	species	1	48.5565580	-109.7234630	Stationary	1	0
-S117182276	2022-08-18	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5436600	-109.6912534	Traveling	1	0
-S117182276	2022-08-18	European Starling	Sturnus vulgaris	27813	species	8	48.5436600	-109.6912534	Traveling	1	0
-S123254423	2022-11-30	House Finch	Haemorhous mexicanus	32310	species	29	48.5479714	-109.6821812	Stationary	1	0
-S117343429	2022-08-21	Northern Flicker	Colaptes auratus	11906	issf	1	48.5458290	-109.6902600	Traveling	1	0
-S117182276	2022-08-18	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.5436600	-109.6912534	Traveling	1	0
-S123254423	2022-11-30	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5479714	-109.6821812	Stationary	1	0
-S103049976	2022-02-19	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S117343429	2022-08-21	House Finch	Haemorhous mexicanus	32310	species	1	48.5458290	-109.6902600	Traveling	1	0
-S117182276	2022-08-18	House Finch	Haemorhous mexicanus	32310	species	2	48.5436600	-109.6912534	Traveling	1	0
-S123918616	2022-12-13	Mountain Chickadee	Poecile gambeli	22077	species	2	48.5479714	-109.6821812	Stationary	1	0
-S117182276	2022-08-18	Common Grackle	Quiscalus quiscula	33853	species	1	48.5436600	-109.6912534	Traveling	1	0
-S123254423	2022-11-30	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	48.5479714	-109.6821812	Stationary	1	0
-S114517522	2022-07-05	Northern Flicker	Colaptes auratus	11900	species	1	48.5542360	-109.6619140	Traveling	1	0
-S117343429	2022-08-21	Mourning Dove	Zenaida macroura	2412	species	5	48.5458290	-109.6902600	Traveling	1	0
-S114994156	2022-07-13	Killdeer	Charadrius vociferus	5827	species	1	48.5542360	-109.6619140	Stationary	1	0
-S117182276	2022-08-18	Northern Flicker	Colaptes auratus	11903	issf	1	48.5436600	-109.6912534	Traveling	1	0
-S117182276	2022-08-18	Song Sparrow	Melospiza melodia	33277	species	1	48.5436600	-109.6912534	Traveling	1	0
-S114517522	2022-07-05	Turkey Vulture	Cathartes aura	7815	species	4	48.5542360	-109.6619140	Traveling	1	0
-S123918616	2022-12-13	Dark-eyed Junco	Junco hyemalis	33124	species	2	48.5479714	-109.6821812	Stationary	1	0
-S117182276	2022-08-18	Common Nighthawk	Chordeiles minor	3492	species	6	48.5436600	-109.6912534	Traveling	1	0
-S117343429	2022-08-21	European Starling	Sturnus vulgaris	27813	species	2	48.5458290	-109.6902600	Traveling	1	0
-S114994156	2022-07-13	House Sparrow	Passer domesticus	31534	species	10	48.5542360	-109.6619140	Stationary	1	0
-S103049976	2022-02-19	House Finch	Haemorhous mexicanus	32310	species	18	48.5479714	-109.6821812	Stationary	1	0
-S117911773	2022-09-01	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	6	48.5436600	-109.6912534	Traveling	1	0
-S113391138	2022-06-20	American Robin	Turdus migratorius	28633	species	3	48.5466890	-109.6899120	Traveling	1	0
-S123918616	2022-12-13	House Sparrow	Passer domesticus	31534	species	100	48.5479714	-109.6821812	Stationary	1	0
-S114994156	2022-07-13	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5542360	-109.6619140	Stationary	1	0
-S117343429	2022-08-21	American Robin	Turdus migratorius	28633	species	1	48.5458290	-109.6902600	Traveling	1	0
-S117182276	2022-08-18	Chimney Swift	Chaetura pelagica	3896	species	1	48.5436600	-109.6912534	Traveling	1	0
-S117343429	2022-08-21	American Goldfinch	Spinus tristis	32617	species	2	48.5458290	-109.6902600	Traveling	1	0
-S123918616	2022-12-13	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	25	48.5479714	-109.6821812	Stationary	1	0
-S117897144	2022-09-01	European Starling	Sturnus vulgaris	27813	species	20	48.5565580	-109.7234630	Stationary	1	0
-S117182276	2022-08-18	American Robin	Turdus migratorius	28633	species	4	48.5436600	-109.6912534	Traveling	1	0
-S117182276	2022-08-18	Eastern Kingbird	Tyrannus tyrannus	17472	species	2	48.5436600	-109.6912534	Traveling	1	0
-S123918616	2022-12-13	Northern Flicker	Colaptes auratus	11900	species	1	48.5479714	-109.6821812	Stationary	1	0
-S117343429	2022-08-21	Chipping Sparrow	Spizella passerina	32990	species	1	48.5458290	-109.6902600	Traveling	1	0
-S114517522	2022-07-05	Mourning Dove	Zenaida macroura	2412	species	2	48.5542360	-109.6619140	Traveling	1	0
-S117897144	2022-09-01	American Robin	Turdus migratorius	28633	species	3	48.5565580	-109.7234630	Stationary	1	0
-S103049976	2022-02-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	29	48.5479714	-109.6821812	Stationary	1	0
-S117911773	2022-09-01	American Goldfinch	Spinus tristis	32617	species	4	48.5436600	-109.6912534	Traveling	1	0
-S117343429	2022-08-21	House Sparrow	Passer domesticus	31534	species	4	48.5458290	-109.6902600	Traveling	1	0
-S117911773	2022-09-01	Northern Flicker	Colaptes auratus	11900	species	3	48.5436600	-109.6912534	Traveling	1	0
-S117911773	2022-09-01	American Robin	Turdus migratorius	28633	species	4	48.5436600	-109.6912534	Traveling	1	0
-S114994156	2022-07-13	Rock Pigeon	Columba livia	1868	domestic	24	48.5542360	-109.6619140	Stationary	1	0
-S117343429	2022-08-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5458290	-109.6902600	Traveling	1	0
-S123254423	2022-11-30	Black-capped Chickadee	Poecile atricapillus	22065	species	4	48.5479714	-109.6821812	Stationary	1	0
-S117897144	2022-09-01	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	8	48.5565580	-109.7234630	Stationary	1	0
-S117182276	2022-08-18	Mourning Dove	Zenaida macroura	2412	species	4	48.5436600	-109.6912534	Traveling	1	0
-S148648489	2023-08-31	Gray Catbird	Dumetella carolinensis	28000	species	1	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
-S134370930	2023-04-20	House Sparrow	Passer domesticus	31534	species	20	48.5479714	-109.6821812	Stationary	1	0
-S147501842	2023-08-17	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S134370930	2023-04-20	Northern Flicker	Colaptes auratus	11900	species	1	48.5479714	-109.6821812	Stationary	1	0
-S137553449	2023-05-13	Mourning Dove	Zenaida macroura	2412	species	1	48.5466088	-109.6761625	Traveling	1	0
-S138153366	2023-05-17	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5479714	-109.6821812	Stationary	1	0
-S136280868	2023-05-06	Mourning Dove	Zenaida macroura	2412	species	3	48.5479714	-109.6821812	Stationary	1	0
-S145348687	2023-07-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5517470	-109.6634110	Traveling	1	0
-S135915631	2023-05-03	European Starling	Sturnus vulgaris	27813	species	1	48.5436600	-109.6912534	Traveling	1	0
-S136280868	2023-05-06	House Sparrow	Passer domesticus	31534	species	7	48.5479714	-109.6821812	Stationary	1	0
-S135915631	2023-05-03	House Sparrow	Passer domesticus	31534	species	6	48.5436600	-109.6912534	Traveling	1	0
-S139065379	2023-05-24	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S142119586	2023-06-19	European Starling	Sturnus vulgaris	27813	species	2	48.5479714	-109.6821812	Stationary	1	0
-S147501842	2023-08-17	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
-S135199547	2023-04-27	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	Mourning Dove	Zenaida macroura	2412	species	1	48.5479714	-109.6821812	Stationary	1	0
-S147772333	2023-08-21	gull sp.	Larinae sp.	6619	spuh	2	48.5527743	-109.6704233	Traveling	1	0
-S136280868	2023-05-06	Turkey Vulture	Cathartes aura	7815	species	4	48.5479714	-109.6821812	Stationary	1	0
-S142119586	2023-06-19	House Sparrow	Passer domesticus	31534	species	2	48.5479714	-109.6821812	Stationary	1	0
-S134370930	2023-04-20	Dark-eyed Junco	Junco hyemalis	33124	species	1	48.5479714	-109.6821812	Stationary	1	0
-S142119586	2023-06-19	Common Grackle	Quiscalus quiscula	33853	species	1	48.5479714	-109.6821812	Stationary	1	0
-S141168553	2023-06-10	Turkey Vulture	Cathartes aura	7815	species	2	48.5479714	-109.6821812	Stationary	1	0
-S141168553	2023-06-10	American Robin	Turdus migratorius	28633	species	2	48.5479714	-109.6821812	Stationary	1	0
-S129381391	2023-02-22	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
-S154211018	2023-11-11	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	48.5479714	-109.6821812	Stationary	1	0
-S132014951	2023-03-27	House Finch	Haemorhous mexicanus	32310	species	20	48.5479714	-109.6821812	Stationary	1	0
-S140508811	2023-06-04	American Crow	Corvus brachyrhynchos	21557	species	2	48.5489730	-109.6719940	Stationary	1	0
-S137553449	2023-05-13	American Robin	Turdus migratorius	28633	species	1	48.5466088	-109.6761625	Traveling	1	0
-S149215328	2023-09-07	Rock Pigeon	Columba livia	1868	domestic	2	48.5520741	-109.6677145	Traveling	1	0
-S135199547	2023-04-27	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	48.5479714	-109.6821812	Stationary	1	0
-S131211302	2023-03-18	House Sparrow	Passer domesticus	31534	species	50	48.5479714	-109.6821812	Stationary	1	0
-S137774316	2023-05-14	Mourning Dove	Zenaida macroura	2412	species	1	48.5479714	-109.6821812	Stationary	1	0
-S129610270	2023-02-25	House Sparrow	Passer domesticus	31534	species	22	48.5479714	-109.6821812	Stationary	1	0
-S134370930	2023-04-20	Common Grackle	Quiscalus quiscula	33853	species	20	48.5479714	-109.6821812	Stationary	1	1
-S149633727	2023-09-11	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	House Sparrow	Passer domesticus	31534	species	20	48.5479714	-109.6821812	Stationary	1	0
-S137553449	2023-05-13	Horned Lark	Eremophila alpestris	22710	species	1	48.5466088	-109.6761625	Traveling	1	0
-S131211302	2023-03-18	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S141168553	2023-06-10	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S151504333	2023-10-05	Brown Creeper	Certhia americana	27026	species	1	48.5436600	-109.6912534	Traveling	1	0
-S136280868	2023-05-06	House Finch	Haemorhous mexicanus	32310	species	1	48.5479714	-109.6821812	Stationary	1	0
-S139065379	2023-05-24	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5479714	-109.6821812	Stationary	1	0
-S129194168	2023-02-20	House Finch	Haemorhous mexicanus	32310	species	42	48.5479714	-109.6821812	Stationary	1	1
-S147772333	2023-08-21	Rock Pigeon	Columba livia	1868	domestic	75	48.5527743	-109.6704233	Traveling	1	0
-S148648489	2023-08-31	American Redstart	Setophaga ruticilla	34058	species	1	48.5479714	-109.6821812	Stationary	1	0
-S139065379	2023-05-24	House Sparrow	Passer domesticus	31534	species	2	48.5479714	-109.6821812	Stationary	1	0
-S129610270	2023-02-25	House Finch	Haemorhous mexicanus	32310	species	30	48.5479714	-109.6821812	Stationary	1	1
-S139065379	2023-05-24	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
-S131211302	2023-03-18	Purple Finch	Haemorhous purpureus	32324	species	1	48.5479714	-109.6821812	Stationary	1	1
-S145348687	2023-07-22	Rock Pigeon	Columba livia	1868	domestic	3	48.5517470	-109.6634110	Traveling	1	0
-S148648489	2023-08-31	American Crow	Corvus brachyrhynchos	21557	species	8	48.5479714	-109.6821812	Stationary	1	0
-S131291924	2023-03-19	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	48.5479714	-109.6821812	Stationary	1	0
-S138153366	2023-05-17	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5479714	-109.6821812	Stationary	1	0
-S136280868	2023-05-06	European Starling	Sturnus vulgaris	27813	species	2	48.5479714	-109.6821812	Stationary	1	0
-S134370930	2023-04-20	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5479714	-109.6821812	Stationary	1	0
-S138153366	2023-05-17	European Starling	Sturnus vulgaris	27813	species	1	48.5479714	-109.6821812	Stationary	1	0
-S154211018	2023-11-11	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	12	48.5479714	-109.6821812	Stationary	1	0
-S154211018	2023-11-11	House Sparrow	Passer domesticus	31534	species	32	48.5479714	-109.6821812	Stationary	1	0
-S137774316	2023-05-14	House Sparrow	Passer domesticus	31534	species	2	48.5479714	-109.6821812	Stationary	1	0
-S135199547	2023-04-27	Purple Finch	Haemorhous purpureus	32324	species	1	48.5479714	-109.6821812	Stationary	1	1
-S150045695	2023-09-16	House Sparrow	Passer domesticus	31534	species	15	48.5547935	-109.6793767	Stationary	1	0
-S129381391	2023-02-22	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
-S135199547	2023-04-27	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	5	48.5479714	-109.6821812	Stationary	1	1
-S151504333	2023-10-05	Dark-eyed Junco	Junco hyemalis	33124	species	6	48.5436600	-109.6912534	Traveling	1	0
-S129381391	2023-02-22	House Finch	Haemorhous mexicanus	32310	species	30	48.5479714	-109.6821812	Stationary	1	1
-S149633727	2023-09-11	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	48.5479714	-109.6821812	Stationary	1	1
-S148648489	2023-08-31	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	48.5479714	-109.6821812	Stationary	1	0
-S129610270	2023-02-25	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	17	48.5479714	-109.6821812	Stationary	1	0
-S137553449	2023-05-13	Rock Pigeon	Columba livia	1868	domestic	30	48.5466088	-109.6761625	Traveling	1	0
-S131211302	2023-03-18	House Finch	Haemorhous mexicanus	32310	species	35	48.5479714	-109.6821812	Stationary	1	1
-S132014951	2023-03-27	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S151504333	2023-10-05	Common Grackle	Quiscalus quiscula	33853	species	1	48.5436600	-109.6912534	Traveling	1	0
-S138153366	2023-05-17	Northern House Wren	Troglodytes aedon	27191	species	2	48.5479714	-109.6821812	Stationary	1	0
-S135915631	2023-05-03	Common Grackle	Quiscalus quiscula	33853	species	2	48.5436600	-109.6912534	Traveling	1	0
-S135915631	2023-05-03	Mourning Dove	Zenaida macroura	2412	species	4	48.5436600	-109.6912534	Traveling	1	0
-S149633727	2023-09-11	Olive-sided Flycatcher	Contopus cooperi	16890	species	1	48.5479714	-109.6821812	Stationary	1	0
-S140508811	2023-06-04	Northern Flicker	Colaptes auratus	11900	species	1	48.5489730	-109.6719940	Stationary	1	0
-S145348687	2023-07-22	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5517470	-109.6634110	Traveling	1	0
-S134370930	2023-04-20	House Finch	Haemorhous mexicanus	32310	species	22	48.5479714	-109.6821812	Stationary	1	0
-S142119586	2023-06-19	Chimney Swift	Chaetura pelagica	3896	species	2	48.5479714	-109.6821812	Stationary	1	0
-S131451972	2023-03-20	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	Common Grackle	Quiscalus quiscula	33853	species	3	48.5479714	-109.6821812	Stationary	1	0
-S138153366	2023-05-17	House Sparrow	Passer domesticus	31534	species	4	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	Gray Catbird	Dumetella carolinensis	28000	species	1	48.5479714	-109.6821812	Stationary	1	0
-S137774316	2023-05-14	European Starling	Sturnus vulgaris	27813	species	2	48.5479714	-109.6821812	Stationary	1	0
-S129381391	2023-02-22	Song Sparrow	Melospiza melodia	33277	species	1	48.5479714	-109.6821812	Stationary	1	1
-S132014951	2023-03-27	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
-S151504333	2023-10-05	Ring-billed Gull	Larus delawarensis	6521	species	4	48.5436600	-109.6912534	Traveling	1	0
-S149633727	2023-09-11	Turkey Vulture	Cathartes aura	7815	species	7	48.5479714	-109.6821812	Stationary	1	0
-S136280868	2023-05-06	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	European Starling	Sturnus vulgaris	27813	species	15	48.5479714	-109.6821812	Stationary	1	0
-S154211018	2023-11-11	House Finch	Haemorhous mexicanus	32310	species	10	48.5479714	-109.6821812	Stationary	1	0
-S147772333	2023-08-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5527743	-109.6704233	Traveling	1	0
-S151504333	2023-10-05	Prairie Falcon	Falco mexicanus	12136	species	1	48.5436600	-109.6912534	Traveling	1	0
-S129610270	2023-02-25	European Starling	Sturnus vulgaris	27813	species	1	48.5479714	-109.6821812	Stationary	1	0
-S139065379	2023-05-24	Chimney Swift	Chaetura pelagica	3896	species	1	48.5479714	-109.6821812	Stationary	1	0
-S132014951	2023-03-27	Dark-eyed Junco	Junco hyemalis	33124	species	1	48.5479714	-109.6821812	Stationary	1	0
-S145348687	2023-07-22	House Sparrow	Passer domesticus	31534	species	10	48.5517470	-109.6634110	Traveling	1	0
-S135915631	2023-05-03	American Robin	Turdus migratorius	28633	species	10	48.5436600	-109.6912534	Traveling	1	0
-S136280868	2023-05-06	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	4	48.5479714	-109.6821812	Stationary	1	0
-S147772333	2023-08-21	House Sparrow	Passer domesticus	31534	species	10	48.5527743	-109.6704233	Traveling	1	0
-S148648489	2023-08-31	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5479714	-109.6821812	Stationary	1	0
-S129381391	2023-02-22	House Sparrow	Passer domesticus	31534	species	26	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
-S151504333	2023-10-05	Rock Pigeon	Columba livia	1868	domestic	3	48.5436600	-109.6912534	Traveling	1	0
-S135199547	2023-04-27	Common Grackle	Quiscalus quiscula	33853	species	2	48.5479714	-109.6821812	Stationary	1	0
-S135915631	2023-05-03	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	48.5436600	-109.6912534	Traveling	1	0
-S138153366	2023-05-17	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S135199547	2023-04-27	House Finch	Haemorhous mexicanus	32310	species	8	48.5479714	-109.6821812	Stationary	1	0
-S147772333	2023-08-21	European Starling	Sturnus vulgaris	27813	species	15	48.5527743	-109.6704233	Traveling	1	0
-S150045695	2023-09-16	Rock Pigeon	Columba livia	1868	domestic	3	48.5547935	-109.6793767	Stationary	1	0
-S142119586	2023-06-19	American Robin	Turdus migratorius	28633	species	1	48.5479714	-109.6821812	Stationary	1	0
-S140508811	2023-06-04	American Robin	Turdus migratorius	28633	species	1	48.5489730	-109.6719940	Stationary	1	0
-S134370930	2023-04-20	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.5479714	-109.6821812	Stationary	1	0
-S136280868	2023-05-06	Northern Flicker	Colaptes auratus	11900	species	1	48.5479714	-109.6821812	Stationary	1	0
-S151504333	2023-10-05	Northern Flicker	Colaptes auratus	11900	species	1	48.5436600	-109.6912534	Traveling	1	0
-S129387562	2023-02-22	Sharp-shinned Hawk	Accipiter striatus	8257	issf	1	48.5479714	-109.6821812	Stationary	1	1
-S135199547	2023-04-27	House Sparrow	Passer domesticus	31534	species	9	48.5479714	-109.6821812	Stationary	1	0
-S141168553	2023-06-10	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
-S131211302	2023-03-18	Mountain Chickadee	Poecile gambeli	22077	species	2	48.5479714	-109.6821812	Stationary	1	0
-S154211018	2023-11-11	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S129194168	2023-02-20	House Sparrow	Passer domesticus	31534	species	23	48.5479714	-109.6821812	Stationary	1	0
-S129610270	2023-02-25	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5479714	-109.6821812	Stationary	1	0
-S129610270	2023-02-25	Mountain Chickadee	Poecile gambeli	22077	species	2	48.5479714	-109.6821812	Stationary	1	0
-S140508811	2023-06-04	European Starling	Sturnus vulgaris	27813	species	6	48.5489730	-109.6719940	Stationary	1	0
-S145348687	2023-07-22	American Robin	Turdus migratorius	28633	species	1	48.5517470	-109.6634110	Traveling	1	0
-S151504333	2023-10-05	House Finch	Haemorhous mexicanus	32310	species	2	48.5436600	-109.6912534	Traveling	1	0
-S154211018	2023-11-11	Mountain Chickadee	Poecile gambeli	22077	species	2	48.5479714	-109.6821812	Stationary	1	0
-S151504333	2023-10-05	White-throated Sparrow	Zonotrichia albicollis	33201	species	1	48.5436600	-109.6912534	Traveling	1	0
-S139065379	2023-05-24	Northern House Wren	Troglodytes aedon	27191	species	1	48.5479714	-109.6821812	Stationary	1	0
-S129381391	2023-02-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
-S138153366	2023-05-17	American Robin	Turdus migratorius	28633	species	3	48.5479714	-109.6821812	Stationary	1	0
-S129194168	2023-02-20	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5479714	-109.6821812	Stationary	1	0
-S142119586	2023-06-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
-S148648489	2023-08-31	American Kestrel	Falco sparverius	12028	species	1	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
-S129194168	2023-02-20	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
-S151504333	2023-10-05	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5436600	-109.6912534	Traveling	1	0
-S142119586	2023-06-19	House Finch	Haemorhous mexicanus	32310	species	5	48.5479714	-109.6821812	Stationary	1	0
-S141168553	2023-06-10	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
-S137774316	2023-05-14	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
-S139065379	2023-05-24	European Starling	Sturnus vulgaris	27813	species	1	48.5479714	-109.6821812	Stationary	1	0
-S149633727	2023-09-11	Swainson's Thrush	Catharus ustulatus	28324	species	1	48.5479714	-109.6821812	Stationary	1	0
-S147501842	2023-08-17	Rufous Hummingbird	Selasphorus rufus	4826	species	1	48.5479714	-109.6821812	Stationary	1	1
-S203110956	2024-11-20	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
-S187759477	2024-07-13	Northern Flicker	Colaptes auratus	11906	issf	1	48.5436600	-109.6912534	Traveling	1	0
-S186656470	2024-07-12	Western Meadowlark	Sturnella neglecta	33565	species	4	48.5373133	-109.6659683	Traveling	1	0
-S207358966	2024-12-31	Dark-eyed Junco	Junco hyemalis	33129	issf	1	48.5479714	-109.6821812	Stationary	1	1
-S187759477	2024-07-13	Common Raven	Corvus corax	21624	species	2	48.5436600	-109.6912534	Traveling	1	0
-S186656470	2024-07-12	Grasshopper Sparrow	Ammodramus savannarum	32943	species	1	48.5373133	-109.6659683	Traveling	1	0
-S185740666	2024-07-06	House Sparrow	Passer domesticus	31534	species	1	48.5548900	-109.6894390	Stationary	1	0
-S176774236	2024-05-24	American Robin	Turdus migratorius	28633	species	7	48.5436600	-109.6912534	Traveling	1	0
-S187761921	2024-07-13	Mourning Dove	Zenaida macroura	2412	species	5	48.5358000	-109.6656000	Traveling	1	0
-S180519291	2024-06-09	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Traveling	1	0
-S201688462	2024-11-07	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5479714	-109.6821812	Stationary	1	0
-S204297732	2024-12-02	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
-S201494536	2024-11-05	House Sparrow	Passer domesticus	31534	species	10	48.5479714	-109.6821812	Stationary	1	0
-S203110956	2024-11-20	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S201494536	2024-11-05	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
-S193896202	2024-09-03	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5436600	-109.6912534	Traveling	1	0
-S202269233	2024-11-12	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	14	48.5479714	-109.6821812	Stationary	1	0
-S202269233	2024-11-12	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	48.5479714	-109.6821812	Stationary	1	0
-S180519291	2024-06-09	Tree Swallow	Tachycineta bicolor	24064	species	2	48.5479714	-109.6821812	Traveling	1	0
-S204297732	2024-12-02	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5479714	-109.6821812	Stationary	1	0
-S176774236	2024-05-24	House Sparrow	Passer domesticus	31534	species	14	48.5436600	-109.6912534	Traveling	1	0
-S193896202	2024-09-03	Mourning Dove	Zenaida macroura	2412	species	2	48.5436600	-109.6912534	Traveling	1	0
-S187761921	2024-07-13	Say's Phoebe	Sayornis saya	17010	species	1	48.5358000	-109.6656000	Traveling	1	0
-S176774236	2024-05-24	Mourning Dove	Zenaida macroura	2412	species	1	48.5436600	-109.6912534	Traveling	1	0
-S180519291	2024-06-09	Western Kingbird	Tyrannus verticalis	17467	species	3	48.5479714	-109.6821812	Traveling	1	0
-S164748451	2024-03-13	Horned Lark	Eremophila alpestris	22710	species	11	48.5466088	-109.6761625	Traveling	1	0
-S193896202	2024-09-03	American Robin	Turdus migratorius	28633	species	5	48.5436600	-109.6912534	Traveling	1	0
-S193896202	2024-09-03	Northern Flicker	Colaptes auratus	11900	species	1	48.5436600	-109.6912534	Traveling	1	0
-S203110956	2024-11-20	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
-S202269233	2024-11-12	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5479714	-109.6821812	Stationary	1	0
-S201688462	2024-11-07	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	9	48.5479714	-109.6821812	Stationary	1	0
-S202269233	2024-11-12	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5479714	-109.6821812	Stationary	1	0
-S204297732	2024-12-02	Merlin	Falco columbarius	12071	issf	1	48.5479714	-109.6821812	Stationary	1	0
-S203528562	2024-11-24	House Finch	Haemorhous mexicanus	32310	species	28	48.5479714	-109.6821812	Stationary	1	0
-S207358966	2024-12-31	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	16	48.5479714	-109.6821812	Stationary	1	0
-S186656470	2024-07-12	Lark Sparrow	Chondestes grammacus	33029	species	1	48.5373133	-109.6659683	Traveling	1	0
-S191569271	2024-08-15	House Sparrow	Passer domesticus	31534	species	4	48.5539954	-109.6779475	Traveling	1	0
-S187761921	2024-07-13	Western Meadowlark	Sturnella neglecta	33565	species	11	48.5358000	-109.6656000	Traveling	1	0
-S201494536	2024-11-05	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S174690601	2024-05-15	Northern House Wren	Troglodytes aedon	27191	species	1	48.5479714	-109.6821812	Stationary	1	0
-S187759477	2024-07-13	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.5436600	-109.6912534	Traveling	1	0
-S180519291	2024-06-09	European Starling	Sturnus vulgaris	27813	species	7	48.5479714	-109.6821812	Traveling	1	0
-S176774236	2024-05-24	American Crow	Corvus brachyrhynchos	21557	species	2	48.5436600	-109.6912534	Traveling	1	0
-S203528562	2024-11-24	Dark-eyed Junco	Junco hyemalis	33129	issf	2	48.5479714	-109.6821812	Stationary	1	1
-S167558661	2024-04-03	Merlin	Falco columbarius	12062	species	1	48.5350373	-109.6781820	Stationary	1	0
-S204124190	2024-11-30	Canada Goose	Branta canadensis	342	species	350	48.5499370	-109.6751000	Traveling	1	0
-S203528562	2024-11-24	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5479714	-109.6821812	Stationary	1	0
-S180519291	2024-06-09	Franklin's Gull	Leucophaeus pipixcan	6494	species	3	48.5479714	-109.6821812	Traveling	1	0
-S186656470	2024-07-12	Say's Phoebe	Sayornis saya	17010	species	1	48.5373133	-109.6659683	Traveling	1	0
-S174690601	2024-05-15	Swainson's Thrush	Catharus ustulatus	28324	species	1	48.5479714	-109.6821812	Stationary	1	0
-S180519291	2024-06-09	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	48.5479714	-109.6821812	Traveling	1	0
-S203110956	2024-11-20	House Finch	Haemorhous mexicanus	32310	species	18	48.5479714	-109.6821812	Stationary	1	0
-S201688462	2024-11-07	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
-S180519291	2024-06-09	American Robin	Turdus migratorius	28633	species	7	48.5479714	-109.6821812	Traveling	1	0
-S186656470	2024-07-12	Rock Wren	Salpinctes obsoletus	27150	species	1	48.5373133	-109.6659683	Traveling	1	0
-S201688462	2024-11-07	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S164748451	2024-03-13	Rock Pigeon	Columba livia	1868	domestic	120	48.5466088	-109.6761625	Traveling	1	1
-S191569271	2024-08-15	Rock Pigeon	Columba livia	1868	domestic	9	48.5539954	-109.6779475	Traveling	1	0
-S176774236	2024-05-24	European Starling	Sturnus vulgaris	27813	species	11	48.5436600	-109.6912534	Traveling	1	0
-S193896202	2024-09-03	American Goldfinch	Spinus tristis	32617	species	2	48.5436600	-109.6912534	Traveling	1	0
-S180519291	2024-06-09	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5479714	-109.6821812	Traveling	1	0
-S180519291	2024-06-09	Chimney Swift	Chaetura pelagica	3896	species	4	48.5479714	-109.6821812	Traveling	1	0
-S187759477	2024-07-13	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5436600	-109.6912534	Traveling	1	0
-S187759477	2024-07-13	American Robin	Turdus migratorius	28633	species	5	48.5436600	-109.6912534	Traveling	1	0
-S201688462	2024-11-07	House Finch	Haemorhous mexicanus	32310	species	7	48.5479714	-109.6821812	Stationary	1	0
-S203110956	2024-11-20	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
-S180519291	2024-06-09	Mourning Dove	Zenaida macroura	2412	species	12	48.5479714	-109.6821812	Traveling	1	0
-S204642142	2024-12-06	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	48.5479714	-109.6821812	Stationary	1	0
-S187759477	2024-07-13	Swainson's Hawk	Buteo swainsoni	8504	species	1	48.5436600	-109.6912534	Traveling	1	0
-S164748451	2024-03-13	House Sparrow	Passer domesticus	31534	species	8	48.5466088	-109.6761625	Traveling	1	0
-S187759477	2024-07-13	European Starling	Sturnus vulgaris	27813	species	1	48.5436600	-109.6912534	Traveling	1	0
-S201494536	2024-11-05	House Finch	Haemorhous mexicanus	32310	species	6	48.5479714	-109.6821812	Stationary	1	0
-S204297732	2024-12-02	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
-S202269233	2024-11-12	White-throated Sparrow	Zonotrichia albicollis	33201	species	1	48.5479714	-109.6821812	Stationary	1	1
-S202269233	2024-11-12	Dark-eyed Junco	Junco hyemalis	33126	issf	1	48.5479714	-109.6821812	Stationary	1	1
-S167558661	2024-04-03	House Sparrow	Passer domesticus	31534	species	8	48.5350373	-109.6781820	Stationary	1	0
-S187759477	2024-07-13	Brown-headed Cowbird	Molothrus ater	33833	species	1	48.5436600	-109.6912534	Traveling	1	0
-S207358966	2024-12-31	House Sparrow	Passer domesticus	31534	species	150	48.5479714	-109.6821812	Stationary	1	0
-S202269233	2024-11-12	House Sparrow	Passer domesticus	31534	species	30	48.5479714	-109.6821812	Stationary	1	0
-S201494536	2024-11-05	American Goldfinch	Spinus tristis	32617	species	1	48.5479714	-109.6821812	Stationary	1	1
-S186656470	2024-07-12	European Starling	Sturnus vulgaris	27813	species	10	48.5373133	-109.6659683	Traveling	1	0
-S204297732	2024-12-02	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S176774236	2024-05-24	Common Grackle	Quiscalus quiscula	33853	species	1	48.5436600	-109.6912534	Traveling	1	0
-S207358966	2024-12-31	House Finch	Haemorhous mexicanus	32310	species	65	48.5479714	-109.6821812	Stationary	1	1
-S204297732	2024-12-02	House Sparrow	Passer domesticus	31534	species	7	48.5479714	-109.6821812	Stationary	1	0
-S187759477	2024-07-13	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.5436600	-109.6912534	Traveling	1	0
-S187759477	2024-07-13	House Finch	Haemorhous mexicanus	32310	species	5	48.5436600	-109.6912534	Traveling	1	0
-S186656470	2024-07-12	Mourning Dove	Zenaida macroura	2412	species	2	48.5373133	-109.6659683	Traveling	1	0
-S186656470	2024-07-12	House Sparrow	Passer domesticus	31534	species	1	48.5373133	-109.6659683	Traveling	1	0
-S186656470	2024-07-12	Franklin's Gull	Leucophaeus pipixcan	6494	species	1	48.5373133	-109.6659683	Traveling	1	0
-S187761921	2024-07-13	House Sparrow	Passer domesticus	31534	species	1	48.5358000	-109.6656000	Traveling	1	0
-S187761921	2024-07-13	American Robin	Turdus migratorius	28633	species	4	48.5358000	-109.6656000	Traveling	1	0
-S187759477	2024-07-13	House Sparrow	Passer domesticus	31534	species	41	48.5436600	-109.6912534	Traveling	1	0
-S201688462	2024-11-07	House Sparrow	Passer domesticus	31534	species	20	48.5479714	-109.6821812	Stationary	1	0
-S187761921	2024-07-13	Horned Lark	Eremophila alpestris	22710	species	2	48.5358000	-109.6656000	Traveling	1	0
-S187759477	2024-07-13	Mourning Dove	Zenaida macroura	2412	species	9	48.5436600	-109.6912534	Traveling	1	0
-S187759477	2024-07-13	American Crow	Corvus brachyrhynchos	21557	species	7	48.5436600	-109.6912534	Traveling	1	0
-S203528562	2024-11-24	House Sparrow	Passer domesticus	31534	species	29	48.5479714	-109.6821812	Stationary	1	0
-S180519291	2024-06-09	Northern Flicker	Colaptes auratus	11900	species	1	48.5479714	-109.6821812	Traveling	1	0
-S186656470	2024-07-12	Western Kingbird	Tyrannus verticalis	17467	species	2	48.5373133	-109.6659683	Traveling	1	0
-S174690601	2024-05-15	Pine Siskin	Spinus pinus	32595	species	2	48.5479714	-109.6821812	Stationary	1	0
-S174690601	2024-05-15	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
-S185740666	2024-07-06	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5548900	-109.6894390	Stationary	1	0
-S167558661	2024-04-03	House Finch	Haemorhous mexicanus	32310	species	1	48.5350373	-109.6781820	Stationary	1	0
-S186656470	2024-07-12	American Robin	Turdus migratorius	28633	species	1	48.5373133	-109.6659683	Traveling	1	0
-S203110956	2024-11-20	House Sparrow	Passer domesticus	31534	species	30	48.5479714	-109.6821812	Stationary	1	0
-S193896202	2024-09-03	Common Raven	Corvus corax	21624	species	1	48.5436600	-109.6912534	Traveling	1	0
-S207358966	2024-12-31	Pine Siskin	Spinus pinus	32595	species	1	48.5479714	-109.6821812	Stationary	1	0
-S202269233	2024-11-12	House Finch	Haemorhous mexicanus	32310	species	18	48.5479714	-109.6821812	Stationary	1	0
-S207358966	2024-12-31	Purple Finch	Haemorhous purpureus	32324	species	1	48.5479714	-109.6821812	Stationary	1	1
-S203110956	2024-11-20	Purple Finch	Haemorhous purpureus	32324	species	1	48.5479714	-109.6821812	Stationary	1	1
-S235977898	2025-05-10	House Sparrow	Passer domesticus	31534	species	2	48.5479714	-109.6821812	Stationary	1	0
-S213283634	2025-02-14	House Sparrow	Passer domesticus	31534	species	60	48.5479714	-109.6821812	Stationary	1	0
-S213283634	2025-02-14	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
-S233047341	2025-05-04	House Sparrow	Passer domesticus	31534	species	4	48.5479714	-109.6821812	Stationary	1	0
-S276071977	2025-09-28	White-throated Sparrow	Zonotrichia albicollis	33201	species	5	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Common Yellowthroat	Geothlypis trichas	34028	species	2	48.5436600	-109.6912534	Traveling	1	0
-S240977798	2025-05-21	American Robin	Turdus migratorius	28633	species	1	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Yellow-rumped Warbler	Setophaga coronata	34159	species	15	48.5436600	-109.6912534	Traveling	1	1
-S271678320	2025-09-05	European Starling	Sturnus vulgaris	27813	species	15	48.5436600	-109.6912534	Traveling	1	0
-S279594784	2025-10-15	Hermit Thrush	Catharus guttatus	28333	species	1	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Mourning Dove	Zenaida macroura	2412	species	7	48.5436600	-109.6912534	Traveling	1	0
-S275438344	2025-09-25	Fox Sparrow	Passerella iliaca	33099	species	1	48.5479714	-109.6821812	Stationary	1	1
-S213283634	2025-02-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	22	48.5479714	-109.6821812	Stationary	1	0
-S275438344	2025-09-25	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Alder/Willow Flycatcher (Traill's Flycatcher)	Empidonax alnorum/traillii	16958	slash	1	48.5436600	-109.6912534	Traveling	1	0
-S271678320	2025-09-05	Spizella sp.	Spizella sp.	33014	spuh	5	48.5436600	-109.6912534	Traveling	1	0
-S241337082	2025-05-22	Least Flycatcher	Empidonax minimus	16963	species	1	48.5479714	-109.6821812	Stationary	1	0
-S233047341	2025-05-04	Orange-crowned Warbler	Leiothlypis celata	33973	species	4	48.5479714	-109.6821812	Stationary	1	1
-S227217723	2025-04-19	Turkey Vulture	Cathartes aura	7815	species	18	48.5540532	-109.6767982	Stationary	1	1
-S271678320	2025-09-05	House Finch	Haemorhous mexicanus	32310	species	6	48.5436600	-109.6912534	Traveling	1	0
-S275438344	2025-09-25	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.5479714	-109.6821812	Stationary	1	0
-S226174859	2025-04-16	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Olive-sided Flycatcher	Contopus cooperi	16890	species	1	48.5436600	-109.6912534	Traveling	1	0
-S249330542	2025-06-11	Rock Pigeon	Columba livia	1868	domestic	3	48.5545330	-109.6800241	Traveling	1	0
-S271678320	2025-09-05	Common Grackle	Quiscalus quiscula	33853	species	20	48.5436600	-109.6912534	Traveling	1	0
-S213283634	2025-02-14	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
-S276071977	2025-09-28	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	48.5479714	-109.6821812	Stationary	1	0
-S240977798	2025-05-21	American Goldfinch	Spinus tristis	32617	species	1	48.5479714	-109.6821812	Stationary	1	0
-S249330542	2025-06-11	Common Nighthawk	Chordeiles minor	3492	species	1	48.5545330	-109.6800241	Traveling	1	0
-S271678320	2025-09-05	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5436600	-109.6912534	Traveling	1	0
-S235977898	2025-05-10	American Robin	Turdus migratorius	28633	species	1	48.5479714	-109.6821812	Stationary	1	0
-S276071977	2025-09-28	Wilson's Warbler	Cardellina pusilla	34346	species	1	48.5479714	-109.6821812	Stationary	1	0
-S249330542	2025-06-11	American Robin	Turdus migratorius	28633	species	1	48.5545330	-109.6800241	Traveling	1	0
-S235977898	2025-05-10	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S227217723	2025-04-19	Rock Pigeon	Columba livia	1868	domestic	20	48.5540532	-109.6767982	Stationary	1	0
-S233047341	2025-05-04	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S233047341	2025-05-04	House Finch	Haemorhous mexicanus	32310	species	1	48.5479714	-109.6821812	Stationary	1	0
-S276071977	2025-09-28	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S235977898	2025-05-10	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
-S241337082	2025-05-22	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	American Kestrel	Falco sparverius	12028	species	1	48.5436600	-109.6912534	Traveling	1	0
-S226174859	2025-04-16	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	48.5436600	-109.6912534	Traveling	1	0
-S240977798	2025-05-21	Northern House Wren	Troglodytes aedon	27191	species	1	48.5479714	-109.6821812	Stationary	1	0
-S227217723	2025-04-19	House Sparrow	Passer domesticus	31534	species	3	48.5540532	-109.6767982	Stationary	1	0
-S275438344	2025-09-25	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	4	48.5479714	-109.6821812	Stationary	1	0
-S286544338	2025-11-28	Rock Pigeon	Columba livia	1868	domestic	1	48.5499370	-109.6751000	Traveling	1	0
-S213283634	2025-02-14	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	American Redstart	Setophaga ruticilla	34058	species	1	48.5436600	-109.6912534	Traveling	1	0
-S230954900	2025-04-29	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.5479714	-109.6821812	Stationary	1	0
-S213685162	2025-02-15	House Sparrow	Passer domesticus	31534	species	85	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	2	48.5436600	-109.6912534	Traveling	1	0
-S271678320	2025-09-05	Killdeer	Charadrius vociferus	5827	species	4	48.5436600	-109.6912534	Traveling	1	0
-S213685162	2025-02-15	House Finch	Haemorhous mexicanus	32310	species	30	48.5479714	-109.6821812	Stationary	1	1
-S271678320	2025-09-05	Song Sparrow	Melospiza melodia	33277	species	1	48.5436600	-109.6912534	Traveling	1	0
-S230954900	2025-04-29	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
-S213685162	2025-02-15	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	25	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Northern Flicker	Colaptes auratus	11900	species	3	48.5436600	-109.6912534	Traveling	1	0
-S240977798	2025-05-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.5436600	-109.6912534	Traveling	1	0
-S213685162	2025-02-15	Pine Siskin	Spinus pinus	32595	species	1	48.5479714	-109.6821812	Stationary	1	0
-S226174859	2025-04-16	Mourning Dove	Zenaida macroura	2412	species	2	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Purple Finch	Haemorhous purpureus	32324	species	4	48.5436600	-109.6912534	Traveling	1	1
-S249330542	2025-06-11	House Sparrow	Passer domesticus	31534	species	2	48.5545330	-109.6800241	Traveling	1	0
-S241337082	2025-05-22	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
-S249330542	2025-06-11	Mourning Dove	Zenaida macroura	2412	species	1	48.5545330	-109.6800241	Traveling	1	0
-S241337082	2025-05-22	Chipping Sparrow	Spizella passerina	32990	species	1	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.5436600	-109.6912534	Traveling	1	0
-S271678320	2025-09-05	Chipping Sparrow	Spizella passerina	32990	species	1	48.5436600	-109.6912534	Traveling	1	0
-S271678320	2025-09-05	Yellow-rumped Warbler	Setophaga coronata	34160	issf	5	48.5436600	-109.6912534	Traveling	1	0
-S271678320	2025-09-05	Blackpoll Warbler	Setophaga striata	34138	species	1	48.5436600	-109.6912534	Traveling	1	0
-S233047341	2025-05-04	Mourning Dove	Zenaida macroura	2412	species	2	48.5479714	-109.6821812	Stationary	1	0
-S275438344	2025-09-25	House Sparrow	Passer domesticus	31534	species	4	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	American Robin	Turdus migratorius	28633	species	20	48.5436600	-109.6912534	Traveling	1	0
-S213283634	2025-02-14	House Finch	Haemorhous mexicanus	32310	species	30	48.5479714	-109.6821812	Stationary	1	1
-S240977798	2025-05-21	Least Flycatcher	Empidonax minimus	16963	species	1	48.5479714	-109.6821812	Stationary	1	0
-S275438344	2025-09-25	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	48.5479714	-109.6821812	Stationary	1	0
-S263219060	2025-07-27	Rock Pigeon	Columba livia	1868	domestic	3	48.5546490	-109.6790220	Traveling	1	0
-S265093884	2025-08-04	Rock Pigeon	Columba livia	1868	domestic	15	48.5556482	-109.6891461	Traveling	1	0
-S213685162	2025-02-15	Dark-eyed Junco	Junco hyemalis	33129	issf	1	48.5479714	-109.6821812	Stationary	1	1
-S233047341	2025-05-04	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
-S276071977	2025-09-28	Harris's Sparrow	Zonotrichia querula	33198	species	1	48.5479714	-109.6821812	Stationary	1	0
-S275438344	2025-09-25	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.5479714	-109.6821812	Stationary	1	0
-S276071977	2025-09-28	House Sparrow	Passer domesticus	31534	species	8	48.5479714	-109.6821812	Stationary	1	0
-S271678320	2025-09-05	House Sparrow	Passer domesticus	31534	species	10	48.5436600	-109.6912534	Traveling	1	0
-S276071977	2025-09-28	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	8	48.5479714	-109.6821812	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S23550228	2015-05-20	L3659178	4th Street	Osprey	Pandion haliaetus	7832	species	1	48.5504357	-109.6788539	Stationary	1	0
+S23550228	2015-05-20	L3659178	4th Street	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5504357	-109.6788539	Stationary	1	0
+S23537864	2015-05-18	L3657936	5th Avenue, Havre MT	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5502723	-109.6772996	Stationary	1	0
+S26266133	2015-12-13	L4064831	US-Montana-Havre-500-598 5th Ave - 48.548x-109.676	Rock Pigeon	Columba livia	1868	domestic	90	48.5484617	-109.6761053	Traveling	1	0
+S23537864	2015-05-18	L3657936	5th Avenue, Havre MT	House Finch	Haemorhous mexicanus	32310	species	1	48.5502723	-109.6772996	Stationary	1	0
+S23550228	2015-05-20	L3659178	4th Street	American Crow	Corvus brachyrhynchos	21557	species	4	48.5504357	-109.6788539	Stationary	1	0
+S26266133	2015-12-13	L4064831	US-Montana-Havre-500-598 5th Ave - 48.548x-109.676	Black-billed Magpie	Pica hudsonia	21476	species	1	48.5484617	-109.6761053	Traveling	1	0
+S26266133	2015-12-13	L4064831	US-Montana-Havre-500-598 5th Ave - 48.548x-109.676	House Finch	Haemorhous mexicanus	32310	species	4	48.5484617	-109.6761053	Traveling	1	0
+S26266133	2015-12-13	L4064831	US-Montana-Havre-500-598 5th Ave - 48.548x-109.676	House Sparrow	Passer domesticus	31534	species	16	48.5484617	-109.6761053	Traveling	1	0
+S23550228	2015-05-20	L3659178	4th Street	American Robin	Turdus migratorius	28633	species	1	48.5504357	-109.6788539	Stationary	1	0
+S23550228	2015-05-20	L3659178	4th Street	European Starling	Sturnus vulgaris	27813	species	4	48.5504357	-109.6788539	Stationary	1	0
+S23550228	2015-05-20	L3659178	4th Street	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	48.5504357	-109.6788539	Stationary	1	0
+S23550228	2015-05-20	L3659178	4th Street	House Finch	Haemorhous mexicanus	32310	species	3	48.5504357	-109.6788539	Stationary	1	0
+S23550228	2015-05-20	L3659178	4th Street	Mourning Dove	Zenaida macroura	2412	species	1	48.5504357	-109.6788539	Stationary	1	0
+S26266133	2015-12-13	L4064831	US-Montana-Havre-500-598 5th Ave - 48.548x-109.676	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	27	48.5484617	-109.6761053	Traveling	1	0
+S23550228	2015-05-20	L3659178	4th Street	Common Grackle	Quiscalus quiscula	33853	species	1	48.5504357	-109.6788539	Stationary	1	0
+S23537864	2015-05-18	L3657936	5th Avenue, Havre MT	California Gull	Larus californicus	6591	species	3	48.5502723	-109.6772996	Stationary	1	0
+S31720116	2016-09-23	L4943882	US-MT-Havre-960 Boulevard Ave - 48.5451x-109.7003	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.5451310	-109.7002720	Stationary	1	0
+S32025537	2016-10-13	L4986821	Havre--Town House Inn	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.5559133	-109.6937053	Traveling	1	0
+S31006848	2016-08-07	L4842991	US-MT-Havre-2226-2240 5th Ave - 48.5314x-109.6813	House Sparrow	Passer domesticus	31534	species	7	48.5313850	-109.6813080	Traveling	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	48.5559133	-109.6937053	Stationary	1	0
+S31006848	2016-08-07	L4842991	US-MT-Havre-2226-2240 5th Ave - 48.5314x-109.6813	Western Kingbird	Tyrannus verticalis	17467	species	1	48.5313850	-109.6813080	Traveling	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	Hermit Thrush	Catharus guttatus	28333	species	1	48.5559133	-109.6937053	Stationary	1	1
+S34048121	2016-06-30	L4780949	Havre (ville)	Killdeer	Charadrius vociferus	5827	species	2	48.5532613	-109.6719256	Traveling	1	0
+S31006848	2016-08-07	L4842991	US-MT-Havre-2226-2240 5th Ave - 48.5314x-109.6813	Eastern Kingbird	Tyrannus tyrannus	17472	species	3	48.5313850	-109.6813080	Traveling	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	Ring-billed Gull	Larus delawarensis	6521	species	2	48.5559133	-109.6937053	Stationary	1	0
+S34048121	2016-06-30	L4780949	Havre (ville)	Rock Pigeon	Columba livia	1868	domestic	10	48.5532613	-109.6719256	Traveling	1	0
+S31006848	2016-08-07	L4842991	US-MT-Havre-2226-2240 5th Ave - 48.5314x-109.6813	Western Meadowlark	Sturnella neglecta	33565	species	4	48.5313850	-109.6813080	Traveling	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	48.5559133	-109.6937053	Stationary	1	0
+S32025537	2016-10-13	L4986821	Havre--Town House Inn	Rock Pigeon	Columba livia	1868	domestic	2	48.5559133	-109.6937053	Traveling	1	0
+S34048121	2016-06-30	L4780949	Havre (ville)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	48.5532613	-109.6719256	Traveling	1	0
+S34048121	2016-06-30	L4780949	Havre (ville)	House Sparrow	Passer domesticus	31534	species	30	48.5532613	-109.6719256	Traveling	1	0
+S32025537	2016-10-13	L4986821	Havre--Town House Inn	European Starling	Sturnus vulgaris	27813	species	1	48.5559133	-109.6937053	Traveling	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	European Starling	Sturnus vulgaris	27813	species	2	48.5559133	-109.6937053	Stationary	1	0
+S34048121	2016-06-30	L4780949	Havre (ville)	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.5532613	-109.6719256	Traveling	1	0
+S32025537	2016-10-13	L4986821	Havre--Town House Inn	House Sparrow	Passer domesticus	31534	species	9	48.5559133	-109.6937053	Traveling	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	Canada Goose	Branta canadensis	342	species	43	48.5559133	-109.6937053	Stationary	1	0
+S32025537	2016-10-13	L4986821	Havre--Town House Inn	American Robin	Turdus migratorius	28633	species	1	48.5559133	-109.6937053	Traveling	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	48.5559133	-109.6937053	Stationary	1	0
+S32025537	2016-10-13	L4986821	Havre--Town House Inn	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	48.5559133	-109.6937053	Traveling	1	1
+S34048121	2016-06-30	L4780949	Havre (ville)	Ring-billed Gull	Larus delawarensis	6521	species	5	48.5532613	-109.6719256	Traveling	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	House Sparrow	Passer domesticus	31534	species	11	48.5559133	-109.6937053	Stationary	1	0
+S32025537	2016-10-13	L4986821	Havre--Town House Inn	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	48.5559133	-109.6937053	Traveling	1	0
+S31006848	2016-08-07	L4842991	US-MT-Havre-2226-2240 5th Ave - 48.5314x-109.6813	Common Raven	Corvus corax	21624	species	1	48.5313850	-109.6813080	Traveling	1	0
+S31720116	2016-09-23	L4943882	US-MT-Havre-960 Boulevard Ave - 48.5451x-109.7003	White-throated Sparrow	Zonotrichia albicollis	33201	species	1	48.5451310	-109.7002720	Stationary	1	0
+S32025526	2016-10-12	L4986821	Havre--Town House Inn	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.5559133	-109.6937053	Stationary	1	0
+S32025537	2016-10-13	L4986821	Havre--Town House Inn	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	48.5559133	-109.6937053	Traveling	1	0
+S39859892	2017-10-12	L6342563	Havre Quality Inn	Northern Parula	Setophaga americana	34063	species	1	48.5558598	-109.6924348	Traveling	1	1
+S38121213	2017-07-11	L6084091	MT-Hill County-Havre Station	Rock Pigeon	Columba livia	1868	domestic	50	48.5546231	-109.6787758	Stationary	1	0
+S39859892	2017-10-12	L6342563	Havre Quality Inn	Rock Pigeon	Columba livia	1868	domestic	2	48.5558598	-109.6924348	Traveling	1	0
+S39859892	2017-10-12	L6342563	Havre Quality Inn	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.5558598	-109.6924348	Traveling	1	0
+S38121213	2017-07-11	L6084091	MT-Hill County-Havre Station	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5546231	-109.6787758	Stationary	1	0
+S39859892	2017-10-12	L6342563	Havre Quality Inn	House Sparrow	Passer domesticus	31534	species	43	48.5558598	-109.6924348	Traveling	1	0
+S39859892	2017-10-12	L6342563	Havre Quality Inn	Swamp Sparrow	Melospiza georgiana	33315	species	1	48.5558598	-109.6924348	Traveling	1	1
+S39859892	2017-10-12	L6342563	Havre Quality Inn	European Starling	Sturnus vulgaris	27813	species	3	48.5558598	-109.6924348	Traveling	1	0
+S39859892	2017-10-12	L6342563	Havre Quality Inn	Canada Goose	Branta canadensis	342	species	32	48.5558598	-109.6924348	Traveling	1	0
+S48249285	2018-09-02	L7887081	493–575 11th St W, Havre US-MT (48.5435,-109.6902)	House Finch	Haemorhous mexicanus	32310	species	2	48.5435000	-109.6902160	Traveling	1	0
+S48357012	2018-09-06	L2387513	Havre	Rock Pigeon	Columba livia	1868	domestic	41	48.5526373	-109.6730804	Traveling	1	0
+S42072112	2018-01-19	L6746852	Havre, Montana, US (48.555, -109.678)	Rock Pigeon	Columba livia	1868	domestic	25	48.5546381	-109.6780864	Traveling	1	0
+S48249285	2018-09-02	L7887081	493–575 11th St W, Havre US-MT (48.5435,-109.6902)	American Goldfinch	Spinus tristis	32617	species	1	48.5435000	-109.6902160	Traveling	1	0
+S48357012	2018-09-06	L2387513	Havre	Turkey Vulture	Cathartes aura	7815	species	8	48.5526373	-109.6730804	Traveling	1	1
+S48357012	2018-09-06	L2387513	Havre	Mourning Dove	Zenaida macroura	2412	species	1	48.5526373	-109.6730804	Traveling	1	0
+S48249285	2018-09-02	L7887081	493–575 11th St W, Havre US-MT (48.5435,-109.6902)	Chipping Sparrow	Spizella passerina	32990	species	1	48.5435000	-109.6902160	Traveling	1	0
+S48357012	2018-09-06	L2387513	Havre	Common Grackle	Quiscalus quiscula	33853	species	13	48.5526373	-109.6730804	Traveling	1	0
+S48249285	2018-09-02	L7887081	493–575 11th St W, Havre US-MT (48.5435,-109.6902)	European Starling	Sturnus vulgaris	27813	species	7	48.5435000	-109.6902160	Traveling	1	0
+S48357012	2018-09-06	L2387513	Havre	European Starling	Sturnus vulgaris	27813	species	6	48.5526373	-109.6730804	Traveling	1	0
+S42072112	2018-01-19	L6746852	Havre, Montana, US (48.555, -109.678)	European Starling	Sturnus vulgaris	27813	species	250	48.5546381	-109.6780864	Traveling	1	1
+S48249285	2018-09-02	L7887081	493–575 11th St W, Havre US-MT (48.5435,-109.6902)	Ring-billed Gull	Larus delawarensis	6521	species	5	48.5435000	-109.6902160	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Yellow-bellied/Red-naped Sapsucker	Sphyrapicus varius/nuchalis	11129	slash	1	48.5436600	-109.6912534	Traveling	1	1
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Chipping Sparrow	Spizella passerina	32990	species	6	48.5397826	-109.6701492	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Savannah Sparrow	Passerculus sandwichensis	33244	species	7	48.5436600	-109.6912534	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	American Goldfinch	Spinus tristis	32617	species	1	48.5436600	-109.6912534	Traveling	1	0
+S57356724	2019-06-13	L9464389	30 13th St, Havre US-MT (48.5361,-109.6858)	House Finch	Haemorhous mexicanus	32310	species	1	48.5361040	-109.6857930	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11903	issf	1	48.5436600	-109.6912534	Traveling	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Common Grackle	Quiscalus quiscula	33853	species	2	48.5397826	-109.6701492	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Vesper Sparrow	Pooecetes gramineus	33217	species	1	48.5436600	-109.6912534	Traveling	1	0
+S54730892	2019-04-08	L9005836	1136 12th Street, Havre, Montana, US (48.541, -109.666)	Western Meadowlark	Sturnella neglecta	33565	species	4	48.5410952	-109.6660453	Traveling	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	American Robin	Turdus migratorius	28633	species	14	48.5435422	-109.6928766	Traveling	1	0
+S57356724	2019-06-13	L9464389	30 13th St, Havre US-MT (48.5361,-109.6858)	Killdeer	Charadrius vociferus	5827	species	2	48.5361040	-109.6857930	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11900	species	1	48.5436600	-109.6912534	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	American Crow	Corvus brachyrhynchos	21557	species	2	48.5436600	-109.6912534	Traveling	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	American Goldfinch	Spinus tristis	32617	species	4	48.5398163	-109.6700617	Stationary	1	0
+S57209968	2019-06-08	L9433668	Downtown Havre US-MT	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5512240	-109.6749930	Traveling	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Gray Catbird	Dumetella carolinensis	28000	species	1	48.5435422	-109.6928766	Traveling	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	House Finch	Haemorhous mexicanus	32310	species	12	48.5397826	-109.6701492	Stationary	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	Northern Flicker	Colaptes auratus	11900	species	1	48.5398163	-109.6700617	Stationary	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Common Grackle	Quiscalus quiscula	33853	species	3	48.5399355	-109.6701711	Stationary	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Pine Siskin	Spinus pinus	32595	species	5	48.5397826	-109.6701492	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	House Sparrow	Passer domesticus	31534	species	1	48.5436600	-109.6912534	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	6	48.5436600	-109.6912534	Traveling	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	House Finch	Haemorhous mexicanus	32310	species	15	48.5397826	-109.6701492	Stationary	1	0
+S57356724	2019-06-13	L9464389	30 13th St, Havre US-MT (48.5361,-109.6858)	Mourning Dove	Zenaida macroura	2412	species	1	48.5361040	-109.6857930	Stationary	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	9	48.5435422	-109.6928766	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	White-throated Sparrow	Zonotrichia albicollis	33201	species	8	48.5436600	-109.6912534	Traveling	1	1
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Mourning Dove	Zenaida macroura	2412	species	2	48.5399355	-109.6701711	Stationary	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Mourning Dove	Zenaida macroura	2412	species	1	48.5435422	-109.6928766	Traveling	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Swainson's Hawk	Buteo swainsoni	8504	species	1	48.5399355	-109.6701711	Stationary	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Gray Catbird	Dumetella carolinensis	28000	species	1	48.5435422	-109.6928766	Traveling	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.5398163	-109.6700617	Stationary	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Mourning Dove	Zenaida macroura	2412	species	1	48.5435422	-109.6928766	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Dark-eyed Junco	Junco hyemalis	33126	issf	1	48.5436600	-109.6912534	Traveling	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	48.5435422	-109.6928766	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Common Grackle	Quiscalus quiscula	33853	species	48	48.5436600	-109.6912534	Traveling	1	1
+S54730892	2019-04-08	L9005836	1136 12th Street, Havre, Montana, US (48.541, -109.666)	American Robin	Turdus migratorius	28633	species	4	48.5410952	-109.6660453	Traveling	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Olive-sided Flycatcher	Contopus cooperi	16890	species	1	48.5397826	-109.6701492	Stationary	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5399355	-109.6701711	Stationary	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Lazuli Bunting	Passerina amoena	34606	species	1	48.5397826	-109.6701492	Stationary	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	House Sparrow	Passer domesticus	31534	species	6	48.5397826	-109.6701492	Stationary	1	0
+S57356724	2019-06-13	L9464389	30 13th St, Havre US-MT (48.5361,-109.6858)	House Sparrow	Passer domesticus	31534	species	3	48.5361040	-109.6857930	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Merlin	Falco columbarius	12071	issf	1	48.5436600	-109.6912534	Traveling	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	Pine Siskin	Spinus pinus	32595	species	3	48.5398163	-109.6700617	Stationary	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Spotted Towhee	Pipilo maculatus	33386	species	1	48.5397826	-109.6701492	Stationary	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	48.5435422	-109.6928766	Traveling	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Cooper's Hawk	Astur cooperii	8278	species	1	48.5435422	-109.6928766	Traveling	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	House Finch	Haemorhous mexicanus	32310	species	15	48.5398163	-109.6700617	Stationary	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	House Sparrow	Passer domesticus	31534	species	18	48.5399355	-109.6701711	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Clay-colored Sparrow	Spizella pallida	32996	species	29	48.5436600	-109.6912534	Traveling	1	1
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Yellow-rumped Warbler	Setophaga coronata	34160	issf	24	48.5436600	-109.6912534	Traveling	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Dark-eyed Junco	Junco hyemalis	33124	species	6	48.5397826	-109.6701492	Stationary	1	0
+S57269382	2019-06-10	L9446625	220 3rd Ave, Havre US-MT (48.5517,-109.6790)	House Sparrow	Passer domesticus	31534	species	5	48.5517480	-109.6790010	Stationary	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Northern Flicker	Colaptes auratus	11900	species	1	48.5435422	-109.6928766	Traveling	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Cooper's Hawk	Astur cooperii	8278	species	1	48.5435422	-109.6928766	Traveling	1	0
+S57209968	2019-06-08	L9433668	Downtown Havre US-MT	Common Grackle	Quiscalus quiscula	33853	species	2	48.5512240	-109.6749930	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Baird's Sparrow	Centronyx bairdii	33270	species	1	48.5436600	-109.6912534	Traveling	1	1
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	American Robin	Turdus migratorius	28633	species	4	48.5397826	-109.6701492	Stationary	1	0
+S57356724	2019-06-13	L9464389	30 13th St, Havre US-MT (48.5361,-109.6858)	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5361040	-109.6857930	Stationary	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	15	48.5435422	-109.6928766	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Dark-eyed Junco	Junco hyemalis	33124	species	1	48.5436600	-109.6912534	Traveling	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Northern Flicker	Colaptes auratus	11900	species	1	48.5399355	-109.6701711	Stationary	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Black-capped Chickadee	Poecile atricapillus	22065	species	4	48.5397826	-109.6701492	Stationary	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	3	48.5397826	-109.6701492	Stationary	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	4	48.5397826	-109.6701492	Stationary	1	0
+S57356724	2019-06-13	L9464389	30 13th St, Havre US-MT (48.5361,-109.6858)	Common Nighthawk	Chordeiles minor	3492	species	1	48.5361040	-109.6857930	Stationary	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Townsend's Solitaire	Myadestes townsendi	28163	species	1	48.5435422	-109.6928766	Traveling	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Marsh Wren	Cistothorus palustris	27329	species	1	48.5435422	-109.6928766	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Marsh Wren	Cistothorus palustris	27329	species	1	48.5436600	-109.6912534	Traveling	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	House Finch	Haemorhous mexicanus	32310	species	12	48.5399355	-109.6701711	Stationary	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	American Robin	Turdus migratorius	28633	species	5	48.5397826	-109.6701492	Stationary	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	Common Grackle	Quiscalus quiscula	33853	species	2	48.5398163	-109.6700617	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	European Starling	Sturnus vulgaris	27813	species	5	48.5436600	-109.6912534	Traveling	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	48.5397826	-109.6701492	Stationary	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Eastern/Western Warbling Vireo	Vireo gilvus/swainsoni	19252	slash	1	48.5399355	-109.6701711	Stationary	1	0
+S57269382	2019-06-10	L9446625	220 3rd Ave, Havre US-MT (48.5517,-109.6790)	Chimney Swift	Chaetura pelagica	3896	species	2	48.5517480	-109.6790010	Stationary	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	Common Nighthawk	Chordeiles minor	3492	species	1	48.5398163	-109.6700617	Stationary	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	House Finch	Haemorhous mexicanus	32310	species	4	48.5435422	-109.6928766	Traveling	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Western Meadowlark	Sturnella neglecta	33565	species	1	48.5397826	-109.6701492	Stationary	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Northern Flicker	Colaptes auratus	11900	species	1	48.5435422	-109.6928766	Traveling	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Turkey Vulture	Cathartes aura	7815	species	1	48.5399355	-109.6701711	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	11	48.5436600	-109.6912534	Traveling	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Marsh Wren	Cistothorus palustris	27329	species	1	48.5435422	-109.6928766	Traveling	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	15	48.5435422	-109.6928766	Traveling	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5397826	-109.6701492	Stationary	1	0
+S57209968	2019-06-08	L9433668	Downtown Havre US-MT	House Finch	Haemorhous mexicanus	32310	species	1	48.5512240	-109.6749930	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Lincoln's Sparrow	Melospiza lincolnii	33310	species	15	48.5436600	-109.6912534	Traveling	1	1
+S60039843	2019-09-22	L9947659	Monroe Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	9	48.5435422	-109.6928766	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5436600	-109.6912534	Traveling	1	0
+S54730892	2019-04-08	L9005836	1136 12th Street, Havre, Montana, US (48.541, -109.666)	Turkey Vulture	Cathartes aura	7815	species	4	48.5410952	-109.6660453	Traveling	1	1
+S54730892	2019-04-08	L9005836	1136 12th Street, Havre, Montana, US (48.541, -109.666)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	48.5410952	-109.6660453	Traveling	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	House Finch	Haemorhous mexicanus	32310	species	4	48.5435422	-109.6928766	Traveling	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Common Grackle	Quiscalus quiscula	33853	species	5	48.5397826	-109.6701492	Stationary	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5397826	-109.6701492	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Common Yellowthroat	Geothlypis trichas	34028	species	2	48.5436600	-109.6912534	Traveling	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	House Finch	Haemorhous mexicanus	32310	species	3	48.5397826	-109.6701492	Stationary	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5397826	-109.6701492	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	House Finch	Haemorhous mexicanus	32310	species	3	48.5436600	-109.6912534	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Dark-eyed Junco	Junco hyemalis	33130	issf	1	48.5436600	-109.6912534	Traveling	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	American Robin	Turdus migratorius	28633	species	14	48.5435422	-109.6928766	Traveling	1	0
+S57209968	2019-06-08	L9433668	Downtown Havre US-MT	Mourning Dove	Zenaida macroura	2412	species	2	48.5512240	-109.6749930	Traveling	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	Mourning Dove	Zenaida macroura	2412	species	3	48.5398163	-109.6700617	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Canada Goose	Branta canadensis	342	species	3	48.5436600	-109.6912534	Traveling	1	0
+S56461369	2019-05-18	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Mourning Dove	Zenaida macroura	2412	species	2	48.5397826	-109.6701492	Stationary	1	0
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	American Robin	Turdus migratorius	28633	species	1	48.5398163	-109.6700617	Stationary	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Downy Woodpecker	Dryobates pubescens	11400	species	2	48.5397826	-109.6701492	Stationary	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Pine Siskin	Spinus pinus	32595	species	3	48.5399355	-109.6701711	Stationary	1	0
+S57269382	2019-06-10	L9446625	220 3rd Ave, Havre US-MT (48.5517,-109.6790)	Rock Pigeon	Columba livia	1868	domestic	1	48.5517480	-109.6790010	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	7	48.5436600	-109.6912534	Traveling	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	9	48.5435422	-109.6928766	Traveling	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.5399355	-109.6701711	Stationary	1	0
+S57209968	2019-06-08	L9433668	Downtown Havre US-MT	House Sparrow	Passer domesticus	31534	species	22	48.5512240	-109.6749930	Traveling	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Northern Flicker	Colaptes auratus	11900	species	2	48.5397826	-109.6701492	Stationary	1	0
+S57209968	2019-06-08	L9433668	Downtown Havre US-MT	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5512240	-109.6749930	Traveling	1	0
+S57269382	2019-06-10	L9446625	220 3rd Ave, Havre US-MT (48.5517,-109.6790)	House Finch	Haemorhous mexicanus	32310	species	1	48.5517480	-109.6790010	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	14	48.5436600	-109.6912534	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	48.5436600	-109.6912534	Traveling	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5397826	-109.6701492	Stationary	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	American Goldfinch	Spinus tristis	32617	species	5	48.5397826	-109.6701492	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	5	48.5436600	-109.6912534	Traveling	1	0
+S57269382	2019-06-10	L9446625	220 3rd Ave, Havre US-MT (48.5517,-109.6790)	Common Grackle	Quiscalus quiscula	33853	species	1	48.5517480	-109.6790010	Stationary	1	0
+S54730892	2019-04-08	L9005836	1136 12th Street, Havre, Montana, US (48.541, -109.666)	Bohemian/Cedar Waxwing	Bombycilla garrulus/cedrorum	29890	slash	1	48.5410952	-109.6660453	Traveling	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Mourning Dove	Zenaida macroura	2412	species	1	48.5397826	-109.6701492	Stationary	1	0
+S59241489	2019-08-19	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Mourning Dove	Zenaida macroura	2412	species	2	48.5397826	-109.6701492	Stationary	1	0
+S60084937	2019-09-22	L9947659	Monroe Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	9	48.5435422	-109.6928766	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Gray Catbird	Dumetella carolinensis	28000	species	2	48.5436600	-109.6912534	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Spotted Towhee	Pipilo maculatus	33386	species	3	48.5436600	-109.6912534	Traveling	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	White-crowned Sparrow	Zonotrichia leucophrys	33191	issf	15	48.5436600	-109.6912534	Traveling	1	1
+S59405420	2019-08-31	L9860756	916 13th Street, Havre, Montana, US (48.54, -109.67)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5398163	-109.6700617	Stationary	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Blue Jay	Cyanocitta cristata	21294	species	3	48.5397826	-109.6701492	Stationary	1	0
+S59973495	2019-09-21	L7850012	Havre--First Bank Park	Ring-billed Gull	Larus delawarensis	6521	species	2	48.5436600	-109.6912534	Traveling	1	0
+S60164118	2019-09-27	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5397826	-109.6701492	Stationary	1	0
+S57209968	2019-06-08	L9433668	Downtown Havre US-MT	American Robin	Turdus migratorius	28633	species	6	48.5512240	-109.6749930	Traveling	1	0
+S59472562	2019-09-02	L9871163	916 13th Street, Havre, Montana, US (48.54, -109.67)	Gray Catbird	Dumetella carolinensis	28000	species	2	48.5399355	-109.6701711	Stationary	1	0
+S60039843	2019-09-22	L9947659	Monroe Park	Townsend's Solitaire	Myadestes townsendi	28163	species	1	48.5435422	-109.6928766	Traveling	1	0
+S74018853	2020-09-05	L12360271	79–105 19th Ave W, Havre US-MT (48.5557,-109.7146)	House Sparrow	Passer domesticus	31534	species	4	48.5556750	-109.7146080	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Palm Warbler	Setophaga palmarum	34149	issf	2	48.5436600	-109.6912534	Traveling	1	1
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Clay-colored Sparrow	Spizella pallida	32996	species	8	48.5436600	-109.6912534	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Canada Goose	Branta canadensis	342	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Canvasback	Aythya valisineria	666	species	1	48.5346599	-109.6700680	Stationary	1	0
+S74018853	2020-09-05	L12360271	79–105 19th Ave W, Havre US-MT (48.5557,-109.7146)	American Robin	Turdus migratorius	28633	species	1	48.5556750	-109.7146080	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Northern Pintail	Anas acuta	594	species	1	48.5346599	-109.6700680	Stationary	1	0
+S74018853	2020-09-05	L12360271	79–105 19th Ave W, Havre US-MT (48.5557,-109.7146)	Common Grackle	Quiscalus quiscula	33853	species	10	48.5556750	-109.7146080	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	White-throated Sparrow	Zonotrichia albicollis	33201	species	3	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	2	48.5436600	-109.6912534	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	House Sparrow	Passer domesticus	31534	species	1	48.5346599	-109.6700680	Stationary	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11903	issf	2	48.5436600	-109.6912534	Traveling	1	1
+S64802902	2020-02-20	L10818010	South east Havre	European Starling	Sturnus vulgaris	27813	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66712002	2020-04-05	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	House Finch	Haemorhous mexicanus	32310	species	2	48.5397826	-109.6701492	Stationary	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Gray Catbird	Dumetella carolinensis	28000	species	3	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	American Goldfinch	Spinus tristis	32617	species	7	48.5436600	-109.6912534	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Northern Harrier	Circus hudsonius	8324	species	1	48.5346599	-109.6700680	Stationary	1	0
+S64802902	2020-02-20	L10818010	South east Havre	Northern Flicker	Colaptes auratus	11900	species	1	48.5346599	-109.6700680	Stationary	1	0
+S64802902	2020-02-20	L10818010	South east Havre	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Killdeer	Charadrius vociferus	5827	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	House Finch	Haemorhous mexicanus	32310	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	American Coot	Fulica americana	5500	species	1	48.5346599	-109.6700680	Stationary	1	0
+S74018853	2020-09-05	L12360271	79–105 19th Ave W, Havre US-MT (48.5557,-109.7146)	Rock Pigeon	Columba livia	1868	domestic	20	48.5556750	-109.7146080	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	American Wigeon	Mareca americana	517	species	1	48.5346599	-109.6700680	Stationary	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	House Finch	Haemorhous mexicanus	32310	species	4	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11900	species	1	48.5436600	-109.6912534	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5346599	-109.6700680	Stationary	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Ovenbird	Seiurus aurocapilla	33946	species	1	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	48.5436600	-109.6912534	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	European Starling	Sturnus vulgaris	27813	species	1	48.5346599	-109.6700680	Stationary	1	0
+S64802902	2020-02-20	L10818010	South east Havre	House Sparrow	Passer domesticus	31534	species	1	48.5346599	-109.6700680	Stationary	1	0
+S74018853	2020-09-05	L12360271	79–105 19th Ave W, Havre US-MT (48.5557,-109.7146)	Killdeer	Charadrius vociferus	5827	species	4	48.5556750	-109.7146080	Traveling	1	0
+S66712002	2020-04-05	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Northern Harrier	Circus hudsonius	8324	species	1	48.5397826	-109.6701492	Stationary	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Common Yellowthroat	Geothlypis trichas	34028	species	1	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	1	48.5436600	-109.6912534	Traveling	1	0
+S64802902	2020-02-20	L10818010	South east Havre	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5346599	-109.6700680	Stationary	1	0
+S74018853	2020-09-05	L12360271	79–105 19th Ave W, Havre US-MT (48.5557,-109.7146)	European Starling	Sturnus vulgaris	27813	species	1	48.5556750	-109.7146080	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Mallard	Anas platyrhynchos	545	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66712002	2020-04-05	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Townsend's Solitaire	Myadestes townsendi	28163	species	1	48.5397826	-109.6701492	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Horned Lark	Eremophila alpestris	22710	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Northern Shoveler	Spatula clypeata	501	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Tundra Swan	Cygnus columbianus	384	species	1	48.5346599	-109.6700680	Stationary	1	0
+S64802902	2020-02-20	L10818010	South east Havre	House Finch	Haemorhous mexicanus	32310	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5346599	-109.6700680	Stationary	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Lincoln's Sparrow	Melospiza lincolnii	33310	species	4	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Pine Siskin	Spinus pinus	32595	species	1	48.5436600	-109.6912534	Traveling	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Bufflehead	Bucephala albeola	742	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	Common Goldeneye	Bucephala clangula	743	species	1	48.5346599	-109.6700680	Stationary	1	0
+S66426491	2020-03-30	L10818010	South east Havre	American Robin	Turdus migratorius	28633	species	1	48.5346599	-109.6700680	Stationary	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	White-crowned Sparrow	Zonotrichia leucophrys	33191	issf	1	48.5436600	-109.6912534	Traveling	1	0
+S66712002	2020-04-05	L9294579	916 13th Street, Havre, Montana, US (48.54, -109.67)	Dark-eyed Junco	Junco hyemalis	33124	species	4	48.5397826	-109.6701492	Stationary	1	1
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Cassin's Vireo	Vireo cassinii	19223	species	1	48.5436600	-109.6912534	Traveling	1	0
+S73655681	2020-09-15	L7850012	Havre--First Bank Park	Rose-breasted Grosbeak	Pheucticus ludovicianus	34557	species	1	48.5436600	-109.6912534	Traveling	1	1
+S66426491	2020-03-30	L10818010	South east Havre	Western Meadowlark	Sturnella neglecta	33565	species	1	48.5346599	-109.6700680	Stationary	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5493140	-109.6720230	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Least Flycatcher	Empidonax minimus	16963	species	1	48.5493140	-109.6720230	Traveling	1	0
+S90073167	2021-06-10	L15323131	500–746 Ninth St W, Havre US-MT 48.54625, -109.69241	American Crow	Corvus brachyrhynchos	21557	species	1	48.5462490	-109.6924080	Traveling	1	0
+S90073167	2021-06-10	L15323131	500–746 Ninth St W, Havre US-MT 48.54625, -109.69241	Cedar Waxwing	Bombycilla cedrorum	29888	species	45	48.5462490	-109.6924080	Traveling	1	1
+S89492483	2021-06-02	L15215427	1125 1st Street, Havre, Montana, US (48.553, -109.667)	Mourning Dove	Zenaida macroura	2412	species	4	48.5526209	-109.6670647	Traveling	1	0
+S89958125	2021-06-10	L15323131	500–746 Ninth St W, Havre US-MT 48.54625, -109.69241	American Crow	Corvus brachyrhynchos	21557	species	1	48.5462490	-109.6924080	Traveling	1	0
+S89492483	2021-06-02	L15215427	1125 1st Street, Havre, Montana, US (48.553, -109.667)	European Starling	Sturnus vulgaris	27813	species	13	48.5526209	-109.6670647	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5493140	-109.6720230	Traveling	1	0
+S91051912	2021-06-30	L15589565	1521 US Highway 2 E, Havre US-MT 48.55303, -109.66072	Mourning Dove	Zenaida macroura	2412	species	3	48.5530310	-109.6607160	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	House Finch	Haemorhous mexicanus	32310	species	3	48.5493140	-109.6720230	Traveling	1	0
+S89492483	2021-06-02	L15215427	1125 1st Street, Havre, Montana, US (48.553, -109.667)	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5526209	-109.6670647	Traveling	1	0
+S91051912	2021-06-30	L15589565	1521 US Highway 2 E, Havre US-MT 48.55303, -109.66072	American Robin	Turdus migratorius	28633	species	3	48.5530310	-109.6607160	Traveling	1	0
+S89492483	2021-06-02	L15215427	1125 1st Street, Havre, Montana, US (48.553, -109.667)	American Crow	Corvus brachyrhynchos	21557	species	2	48.5526209	-109.6670647	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	American Robin	Turdus migratorius	28633	species	2	48.5493140	-109.6720230	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5493140	-109.6720230	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	European Starling	Sturnus vulgaris	27813	species	6	48.5493140	-109.6720230	Traveling	1	0
+S89492483	2021-06-02	L15215427	1125 1st Street, Havre, Montana, US (48.553, -109.667)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	48.5526209	-109.6670647	Traveling	1	0
+S90073167	2021-06-10	L15323131	500–746 Ninth St W, Havre US-MT 48.54625, -109.69241	European Starling	Sturnus vulgaris	27813	species	10	48.5462490	-109.6924080	Traveling	1	0
+S89492483	2021-06-02	L15215427	1125 1st Street, Havre, Montana, US (48.553, -109.667)	House Sparrow	Passer domesticus	31534	species	26	48.5526209	-109.6670647	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	American Redstart	Setophaga ruticilla	34058	species	1	48.5493140	-109.6720230	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Common Grackle	Quiscalus quiscula	33853	species	3	48.5493140	-109.6720230	Traveling	1	0
+S89492483	2021-06-02	L15215427	1125 1st Street, Havre, Montana, US (48.553, -109.667)	Rock Pigeon	Columba livia	1868	domestic	35	48.5526209	-109.6670647	Traveling	1	0
+S89958125	2021-06-10	L15323131	500–746 Ninth St W, Havre US-MT 48.54625, -109.69241	Cedar Waxwing	Bombycilla cedrorum	29888	species	45	48.5462490	-109.6924080	Traveling	1	1
+S89958125	2021-06-10	L15323131	500–746 Ninth St W, Havre US-MT 48.54625, -109.69241	European Starling	Sturnus vulgaris	27813	species	10	48.5462490	-109.6924080	Traveling	1	0
+S91051912	2021-06-30	L15589565	1521 US Highway 2 E, Havre US-MT 48.55303, -109.66072	House Sparrow	Passer domesticus	31534	species	20	48.5530310	-109.6607160	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Northern Flicker	Colaptes auratus	11906	issf	2	48.5493140	-109.6720230	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Mourning Dove	Zenaida macroura	2412	species	2	48.5493140	-109.6720230	Traveling	1	0
+S91051912	2021-06-30	L15589565	1521 US Highway 2 E, Havre US-MT 48.55303, -109.66072	Northern Flicker	Colaptes auratus	11900	species	1	48.5530310	-109.6607160	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Barn Swallow	Hirundo rustica	24187	species	2	48.5493140	-109.6720230	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	American Crow	Corvus brachyrhynchos	21557	species	3	48.5493140	-109.6720230	Traveling	1	0
+S86539491	2021-04-27	L14642669	420 4th Avenue, Havre, Montana, US (48.55, -109.677)	European Starling	Sturnus vulgaris	27813	species	2	48.5496871	-109.6774900	Stationary	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5493140	-109.6720230	Traveling	1	0
+S89492483	2021-06-02	L15215427	1125 1st Street, Havre, Montana, US (48.553, -109.667)	Common Grackle	Quiscalus quiscula	33853	species	5	48.5526209	-109.6670647	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5493140	-109.6720230	Traveling	1	0
+S93714339	2021-08-25	L16205650	Pepin Park	Chipping Sparrow	Spizella passerina	32990	species	1	48.5493140	-109.6720230	Traveling	1	0
+S114994156	2022-07-13	L20007341	Havre Amtrak Station area	Mourning Dove	Zenaida macroura	2412	species	1	48.5542360	-109.6619140	Stationary	1	0
+S113391138	2022-06-20	L19749064	Calvary Cemetary	European Starling	Sturnus vulgaris	27813	species	3	48.5466890	-109.6899120	Traveling	1	0
+S114517522	2022-07-05	L20007341	Havre Amtrak Station area	House Sparrow	Passer domesticus	31534	species	10	48.5542360	-109.6619140	Traveling	1	0
+S123918616	2022-12-13	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
+S117897144	2022-09-01	L20735012	Americinn parking lot	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5565580	-109.7234630	Stationary	1	0
+S123254423	2022-11-30	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5479714	-109.6821812	Stationary	1	0
+S113391138	2022-06-20	L19749064	Calvary Cemetary	Western Meadowlark	Sturnella neglecta	33565	species	1	48.5466890	-109.6899120	Traveling	1	0
+S114517522	2022-07-05	L20007341	Havre Amtrak Station area	Rock Pigeon	Columba livia	1868	domestic	110	48.5542360	-109.6619140	Traveling	1	0
+S123918616	2022-12-13	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	100	48.5479714	-109.6821812	Stationary	1	1
+S123254423	2022-11-30	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	42	48.5479714	-109.6821812	Stationary	1	0
+S117897144	2022-09-01	L20735012	Americinn parking lot	Horned Lark	Eremophila alpestris	22710	species	1	48.5565580	-109.7234630	Stationary	1	0
+S123254423	2022-11-30	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	3	48.5479714	-109.6821812	Stationary	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	Chimney Swift	Chaetura pelagica	3896	species	1	48.5458290	-109.6902600	Traveling	1	0
+S114517522	2022-07-05	L20007341	Havre Amtrak Station area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5542360	-109.6619140	Traveling	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	House Sparrow	Passer domesticus	31534	species	30	48.5436600	-109.6912534	Traveling	1	0
+S103049976	2022-02-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	200	48.5479714	-109.6821812	Stationary	1	1
+S114994156	2022-07-13	L20007341	Havre Amtrak Station area	Common Grackle	Quiscalus quiscula	33853	species	2	48.5542360	-109.6619140	Stationary	1	0
+S117897144	2022-09-01	L20735012	Americinn parking lot	Vesper Sparrow	Pooecetes gramineus	33217	species	1	48.5565580	-109.7234630	Stationary	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5436600	-109.6912534	Traveling	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	European Starling	Sturnus vulgaris	27813	species	8	48.5436600	-109.6912534	Traveling	1	0
+S123254423	2022-11-30	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	29	48.5479714	-109.6821812	Stationary	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	Northern Flicker	Colaptes auratus	11906	issf	1	48.5458290	-109.6902600	Traveling	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.5436600	-109.6912534	Traveling	1	0
+S123254423	2022-11-30	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5479714	-109.6821812	Stationary	1	0
+S103049976	2022-02-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	House Finch	Haemorhous mexicanus	32310	species	1	48.5458290	-109.6902600	Traveling	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	House Finch	Haemorhous mexicanus	32310	species	2	48.5436600	-109.6912534	Traveling	1	0
+S123918616	2022-12-13	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	2	48.5479714	-109.6821812	Stationary	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Common Grackle	Quiscalus quiscula	33853	species	1	48.5436600	-109.6912534	Traveling	1	0
+S123254423	2022-11-30	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	48.5479714	-109.6821812	Stationary	1	0
+S114517522	2022-07-05	L20007341	Havre Amtrak Station area	Northern Flicker	Colaptes auratus	11900	species	1	48.5542360	-109.6619140	Traveling	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	Mourning Dove	Zenaida macroura	2412	species	5	48.5458290	-109.6902600	Traveling	1	0
+S114994156	2022-07-13	L20007341	Havre Amtrak Station area	Killdeer	Charadrius vociferus	5827	species	1	48.5542360	-109.6619140	Stationary	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11903	issf	1	48.5436600	-109.6912534	Traveling	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Song Sparrow	Melospiza melodia	33277	species	1	48.5436600	-109.6912534	Traveling	1	0
+S114517522	2022-07-05	L20007341	Havre Amtrak Station area	Turkey Vulture	Cathartes aura	7815	species	4	48.5542360	-109.6619140	Traveling	1	0
+S123918616	2022-12-13	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Dark-eyed Junco	Junco hyemalis	33124	species	2	48.5479714	-109.6821812	Stationary	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Common Nighthawk	Chordeiles minor	3492	species	6	48.5436600	-109.6912534	Traveling	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	European Starling	Sturnus vulgaris	27813	species	2	48.5458290	-109.6902600	Traveling	1	0
+S114994156	2022-07-13	L20007341	Havre Amtrak Station area	House Sparrow	Passer domesticus	31534	species	10	48.5542360	-109.6619140	Stationary	1	0
+S103049976	2022-02-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	18	48.5479714	-109.6821812	Stationary	1	0
+S117911773	2022-09-01	L7850012	Havre--First Bank Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	6	48.5436600	-109.6912534	Traveling	1	0
+S113391138	2022-06-20	L19749064	Calvary Cemetary	American Robin	Turdus migratorius	28633	species	3	48.5466890	-109.6899120	Traveling	1	0
+S123918616	2022-12-13	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	100	48.5479714	-109.6821812	Stationary	1	0
+S114994156	2022-07-13	L20007341	Havre Amtrak Station area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5542360	-109.6619140	Stationary	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	American Robin	Turdus migratorius	28633	species	1	48.5458290	-109.6902600	Traveling	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Chimney Swift	Chaetura pelagica	3896	species	1	48.5436600	-109.6912534	Traveling	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	American Goldfinch	Spinus tristis	32617	species	2	48.5458290	-109.6902600	Traveling	1	0
+S123918616	2022-12-13	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	25	48.5479714	-109.6821812	Stationary	1	0
+S117897144	2022-09-01	L20735012	Americinn parking lot	European Starling	Sturnus vulgaris	27813	species	20	48.5565580	-109.7234630	Stationary	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	4	48.5436600	-109.6912534	Traveling	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Eastern Kingbird	Tyrannus tyrannus	17472	species	2	48.5436600	-109.6912534	Traveling	1	0
+S123918616	2022-12-13	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern Flicker	Colaptes auratus	11900	species	1	48.5479714	-109.6821812	Stationary	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	Chipping Sparrow	Spizella passerina	32990	species	1	48.5458290	-109.6902600	Traveling	1	0
+S114517522	2022-07-05	L20007341	Havre Amtrak Station area	Mourning Dove	Zenaida macroura	2412	species	2	48.5542360	-109.6619140	Traveling	1	0
+S117897144	2022-09-01	L20735012	Americinn parking lot	American Robin	Turdus migratorius	28633	species	3	48.5565580	-109.7234630	Stationary	1	0
+S103049976	2022-02-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	29	48.5479714	-109.6821812	Stationary	1	0
+S117911773	2022-09-01	L7850012	Havre--First Bank Park	American Goldfinch	Spinus tristis	32617	species	4	48.5436600	-109.6912534	Traveling	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	House Sparrow	Passer domesticus	31534	species	4	48.5458290	-109.6902600	Traveling	1	0
+S117911773	2022-09-01	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11900	species	3	48.5436600	-109.6912534	Traveling	1	0
+S117911773	2022-09-01	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	4	48.5436600	-109.6912534	Traveling	1	0
+S114994156	2022-07-13	L20007341	Havre Amtrak Station area	Rock Pigeon	Columba livia	1868	domestic	24	48.5542360	-109.6619140	Stationary	1	0
+S117343429	2022-08-21	L20632425	Havre--Highland Cemetery	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5458290	-109.6902600	Traveling	1	0
+S123254423	2022-11-30	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	4	48.5479714	-109.6821812	Stationary	1	0
+S117897144	2022-09-01	L20735012	Americinn parking lot	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	8	48.5565580	-109.7234630	Stationary	1	0
+S117182276	2022-08-18	L7850012	Havre--First Bank Park	Mourning Dove	Zenaida macroura	2412	species	4	48.5436600	-109.6912534	Traveling	1	0
+S148648489	2023-08-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Gray Catbird	Dumetella carolinensis	28000	species	1	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
+S134370930	2023-04-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	20	48.5479714	-109.6821812	Stationary	1	0
+S147501842	2023-08-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S134370930	2023-04-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern Flicker	Colaptes auratus	11900	species	1	48.5479714	-109.6821812	Stationary	1	0
+S137553449	2023-05-13	L24313344	Havre, MT	Mourning Dove	Zenaida macroura	2412	species	1	48.5466088	-109.6761625	Traveling	1	0
+S138153366	2023-05-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5479714	-109.6821812	Stationary	1	0
+S136280868	2023-05-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mourning Dove	Zenaida macroura	2412	species	3	48.5479714	-109.6821812	Stationary	1	0
+S145348687	2023-07-22	L26130545	1345 First St, Havre US-MT 48.55175, -109.66341	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5517470	-109.6634110	Traveling	1	0
+S135915631	2023-05-03	L7850012	Havre--First Bank Park	European Starling	Sturnus vulgaris	27813	species	1	48.5436600	-109.6912534	Traveling	1	0
+S136280868	2023-05-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	7	48.5479714	-109.6821812	Stationary	1	0
+S135915631	2023-05-03	L7850012	Havre--First Bank Park	House Sparrow	Passer domesticus	31534	species	6	48.5436600	-109.6912534	Traveling	1	0
+S139065379	2023-05-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S142119586	2023-06-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	European Starling	Sturnus vulgaris	27813	species	2	48.5479714	-109.6821812	Stationary	1	0
+S147501842	2023-08-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
+S135199547	2023-04-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mourning Dove	Zenaida macroura	2412	species	1	48.5479714	-109.6821812	Stationary	1	0
+S147772333	2023-08-21	L26690214	730 1st Street, Havre, Montana, US (48.553, -109.67)	gull sp.	Larinae sp.	6619	spuh	2	48.5527743	-109.6704233	Traveling	1	0
+S136280868	2023-05-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Turkey Vulture	Cathartes aura	7815	species	4	48.5479714	-109.6821812	Stationary	1	0
+S142119586	2023-06-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	2	48.5479714	-109.6821812	Stationary	1	0
+S134370930	2023-04-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Dark-eyed Junco	Junco hyemalis	33124	species	1	48.5479714	-109.6821812	Stationary	1	0
+S142119586	2023-06-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Common Grackle	Quiscalus quiscula	33853	species	1	48.5479714	-109.6821812	Stationary	1	0
+S141168553	2023-06-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Turkey Vulture	Cathartes aura	7815	species	2	48.5479714	-109.6821812	Stationary	1	0
+S141168553	2023-06-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Robin	Turdus migratorius	28633	species	2	48.5479714	-109.6821812	Stationary	1	0
+S129381391	2023-02-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
+S154211018	2023-11-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	48.5479714	-109.6821812	Stationary	1	0
+S132014951	2023-03-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	20	48.5479714	-109.6821812	Stationary	1	0
+S140508811	2023-06-04	L24946351	Pepin Park, Havre US-MT 48.54897, -109.67199	American Crow	Corvus brachyrhynchos	21557	species	2	48.5489730	-109.6719940	Stationary	1	0
+S137553449	2023-05-13	L24313344	Havre, MT	American Robin	Turdus migratorius	28633	species	1	48.5466088	-109.6761625	Traveling	1	0
+S149215328	2023-09-07	L26980691	918 1st Street, Havre, Montana, US (48.552, -109.668)5gv	Rock Pigeon	Columba livia	1868	domestic	2	48.5520741	-109.6677145	Traveling	1	0
+S135199547	2023-04-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	48.5479714	-109.6821812	Stationary	1	0
+S131211302	2023-03-18	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	50	48.5479714	-109.6821812	Stationary	1	0
+S137774316	2023-05-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mourning Dove	Zenaida macroura	2412	species	1	48.5479714	-109.6821812	Stationary	1	0
+S129610270	2023-02-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	22	48.5479714	-109.6821812	Stationary	1	0
+S134370930	2023-04-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Common Grackle	Quiscalus quiscula	33853	species	20	48.5479714	-109.6821812	Stationary	1	1
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	20	48.5479714	-109.6821812	Stationary	1	0
+S137553449	2023-05-13	L24313344	Havre, MT	Horned Lark	Eremophila alpestris	22710	species	1	48.5466088	-109.6761625	Traveling	1	0
+S131211302	2023-03-18	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S141168553	2023-06-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	Brown Creeper	Certhia americana	27026	species	1	48.5436600	-109.6912534	Traveling	1	0
+S136280868	2023-05-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	1	48.5479714	-109.6821812	Stationary	1	0
+S139065379	2023-05-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.5479714	-109.6821812	Stationary	1	0
+S129194168	2023-02-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	42	48.5479714	-109.6821812	Stationary	1	1
+S147772333	2023-08-21	L26690214	730 1st Street, Havre, Montana, US (48.553, -109.67)	Rock Pigeon	Columba livia	1868	domestic	75	48.5527743	-109.6704233	Traveling	1	0
+S148648489	2023-08-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Redstart	Setophaga ruticilla	34058	species	1	48.5479714	-109.6821812	Stationary	1	0
+S139065379	2023-05-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	2	48.5479714	-109.6821812	Stationary	1	0
+S129610270	2023-02-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	30	48.5479714	-109.6821812	Stationary	1	1
+S139065379	2023-05-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
+S131211302	2023-03-18	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Purple Finch	Haemorhous purpureus	32324	species	1	48.5479714	-109.6821812	Stationary	1	1
+S145348687	2023-07-22	L26130545	1345 First St, Havre US-MT 48.55175, -109.66341	Rock Pigeon	Columba livia	1868	domestic	3	48.5517470	-109.6634110	Traveling	1	0
+S148648489	2023-08-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Crow	Corvus brachyrhynchos	21557	species	8	48.5479714	-109.6821812	Stationary	1	0
+S131291924	2023-03-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	48.5479714	-109.6821812	Stationary	1	0
+S138153366	2023-05-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5479714	-109.6821812	Stationary	1	0
+S136280868	2023-05-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	European Starling	Sturnus vulgaris	27813	species	2	48.5479714	-109.6821812	Stationary	1	0
+S134370930	2023-04-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5479714	-109.6821812	Stationary	1	0
+S138153366	2023-05-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	European Starling	Sturnus vulgaris	27813	species	1	48.5479714	-109.6821812	Stationary	1	0
+S154211018	2023-11-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	12	48.5479714	-109.6821812	Stationary	1	0
+S154211018	2023-11-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	32	48.5479714	-109.6821812	Stationary	1	0
+S137774316	2023-05-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	2	48.5479714	-109.6821812	Stationary	1	0
+S135199547	2023-04-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Purple Finch	Haemorhous purpureus	32324	species	1	48.5479714	-109.6821812	Stationary	1	1
+S150045695	2023-09-16	L27116857	Havre Amtrak Platform	House Sparrow	Passer domesticus	31534	species	15	48.5547935	-109.6793767	Stationary	1	0
+S129381391	2023-02-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
+S135199547	2023-04-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	5	48.5479714	-109.6821812	Stationary	1	1
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	Dark-eyed Junco	Junco hyemalis	33124	species	6	48.5436600	-109.6912534	Traveling	1	0
+S129381391	2023-02-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	30	48.5479714	-109.6821812	Stationary	1	1
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	48.5479714	-109.6821812	Stationary	1	1
+S148648489	2023-08-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	48.5479714	-109.6821812	Stationary	1	0
+S129610270	2023-02-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	17	48.5479714	-109.6821812	Stationary	1	0
+S137553449	2023-05-13	L24313344	Havre, MT	Rock Pigeon	Columba livia	1868	domestic	30	48.5466088	-109.6761625	Traveling	1	0
+S131211302	2023-03-18	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	35	48.5479714	-109.6821812	Stationary	1	1
+S132014951	2023-03-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	Common Grackle	Quiscalus quiscula	33853	species	1	48.5436600	-109.6912534	Traveling	1	0
+S138153366	2023-05-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern House Wren	Troglodytes aedon	27191	species	2	48.5479714	-109.6821812	Stationary	1	0
+S135915631	2023-05-03	L7850012	Havre--First Bank Park	Common Grackle	Quiscalus quiscula	33853	species	2	48.5436600	-109.6912534	Traveling	1	0
+S135915631	2023-05-03	L7850012	Havre--First Bank Park	Mourning Dove	Zenaida macroura	2412	species	4	48.5436600	-109.6912534	Traveling	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Olive-sided Flycatcher	Contopus cooperi	16890	species	1	48.5479714	-109.6821812	Stationary	1	0
+S140508811	2023-06-04	L24946351	Pepin Park, Havre US-MT 48.54897, -109.67199	Northern Flicker	Colaptes auratus	11900	species	1	48.5489730	-109.6719940	Stationary	1	0
+S145348687	2023-07-22	L26130545	1345 First St, Havre US-MT 48.55175, -109.66341	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5517470	-109.6634110	Traveling	1	0
+S134370930	2023-04-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	22	48.5479714	-109.6821812	Stationary	1	0
+S142119586	2023-06-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Chimney Swift	Chaetura pelagica	3896	species	2	48.5479714	-109.6821812	Stationary	1	0
+S131451972	2023-03-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Common Grackle	Quiscalus quiscula	33853	species	3	48.5479714	-109.6821812	Stationary	1	0
+S138153366	2023-05-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	4	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Gray Catbird	Dumetella carolinensis	28000	species	1	48.5479714	-109.6821812	Stationary	1	0
+S137774316	2023-05-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	European Starling	Sturnus vulgaris	27813	species	2	48.5479714	-109.6821812	Stationary	1	0
+S129381391	2023-02-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Song Sparrow	Melospiza melodia	33277	species	1	48.5479714	-109.6821812	Stationary	1	1
+S132014951	2023-03-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	Ring-billed Gull	Larus delawarensis	6521	species	4	48.5436600	-109.6912534	Traveling	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Turkey Vulture	Cathartes aura	7815	species	7	48.5479714	-109.6821812	Stationary	1	0
+S136280868	2023-05-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	European Starling	Sturnus vulgaris	27813	species	15	48.5479714	-109.6821812	Stationary	1	0
+S154211018	2023-11-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	10	48.5479714	-109.6821812	Stationary	1	0
+S147772333	2023-08-21	L26690214	730 1st Street, Havre, Montana, US (48.553, -109.67)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5527743	-109.6704233	Traveling	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	Prairie Falcon	Falco mexicanus	12136	species	1	48.5436600	-109.6912534	Traveling	1	0
+S129610270	2023-02-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	European Starling	Sturnus vulgaris	27813	species	1	48.5479714	-109.6821812	Stationary	1	0
+S139065379	2023-05-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Chimney Swift	Chaetura pelagica	3896	species	1	48.5479714	-109.6821812	Stationary	1	0
+S132014951	2023-03-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Dark-eyed Junco	Junco hyemalis	33124	species	1	48.5479714	-109.6821812	Stationary	1	0
+S145348687	2023-07-22	L26130545	1345 First St, Havre US-MT 48.55175, -109.66341	House Sparrow	Passer domesticus	31534	species	10	48.5517470	-109.6634110	Traveling	1	0
+S135915631	2023-05-03	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	10	48.5436600	-109.6912534	Traveling	1	0
+S136280868	2023-05-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	4	48.5479714	-109.6821812	Stationary	1	0
+S147772333	2023-08-21	L26690214	730 1st Street, Havre, Montana, US (48.553, -109.67)	House Sparrow	Passer domesticus	31534	species	10	48.5527743	-109.6704233	Traveling	1	0
+S148648489	2023-08-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5479714	-109.6821812	Stationary	1	0
+S129381391	2023-02-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	26	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	Rock Pigeon	Columba livia	1868	domestic	3	48.5436600	-109.6912534	Traveling	1	0
+S135199547	2023-04-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Common Grackle	Quiscalus quiscula	33853	species	2	48.5479714	-109.6821812	Stationary	1	0
+S135915631	2023-05-03	L7850012	Havre--First Bank Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	48.5436600	-109.6912534	Traveling	1	0
+S138153366	2023-05-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S135199547	2023-04-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	8	48.5479714	-109.6821812	Stationary	1	0
+S147772333	2023-08-21	L26690214	730 1st Street, Havre, Montana, US (48.553, -109.67)	European Starling	Sturnus vulgaris	27813	species	15	48.5527743	-109.6704233	Traveling	1	0
+S150045695	2023-09-16	L27116857	Havre Amtrak Platform	Rock Pigeon	Columba livia	1868	domestic	3	48.5547935	-109.6793767	Stationary	1	0
+S142119586	2023-06-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Robin	Turdus migratorius	28633	species	1	48.5479714	-109.6821812	Stationary	1	0
+S140508811	2023-06-04	L24946351	Pepin Park, Havre US-MT 48.54897, -109.67199	American Robin	Turdus migratorius	28633	species	1	48.5489730	-109.6719940	Stationary	1	0
+S134370930	2023-04-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.5479714	-109.6821812	Stationary	1	0
+S136280868	2023-05-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern Flicker	Colaptes auratus	11900	species	1	48.5479714	-109.6821812	Stationary	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11900	species	1	48.5436600	-109.6912534	Traveling	1	0
+S129387562	2023-02-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Sharp-shinned Hawk	Accipiter striatus	8257	issf	1	48.5479714	-109.6821812	Stationary	1	1
+S135199547	2023-04-27	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	9	48.5479714	-109.6821812	Stationary	1	0
+S141168553	2023-06-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
+S131211302	2023-03-18	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	2	48.5479714	-109.6821812	Stationary	1	0
+S154211018	2023-11-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S129194168	2023-02-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	23	48.5479714	-109.6821812	Stationary	1	0
+S129610270	2023-02-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5479714	-109.6821812	Stationary	1	0
+S129610270	2023-02-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	2	48.5479714	-109.6821812	Stationary	1	0
+S140508811	2023-06-04	L24946351	Pepin Park, Havre US-MT 48.54897, -109.67199	European Starling	Sturnus vulgaris	27813	species	6	48.5489730	-109.6719940	Stationary	1	0
+S145348687	2023-07-22	L26130545	1345 First St, Havre US-MT 48.55175, -109.66341	American Robin	Turdus migratorius	28633	species	1	48.5517470	-109.6634110	Traveling	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	House Finch	Haemorhous mexicanus	32310	species	2	48.5436600	-109.6912534	Traveling	1	0
+S154211018	2023-11-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	2	48.5479714	-109.6821812	Stationary	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	White-throated Sparrow	Zonotrichia albicollis	33201	species	1	48.5436600	-109.6912534	Traveling	1	0
+S139065379	2023-05-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern House Wren	Troglodytes aedon	27191	species	1	48.5479714	-109.6821812	Stationary	1	0
+S129381391	2023-02-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
+S138153366	2023-05-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Robin	Turdus migratorius	28633	species	3	48.5479714	-109.6821812	Stationary	1	0
+S129194168	2023-02-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.5479714	-109.6821812	Stationary	1	0
+S142119586	2023-06-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
+S148648489	2023-08-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Kestrel	Falco sparverius	12028	species	1	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
+S129194168	2023-02-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
+S151504333	2023-10-05	L7850012	Havre--First Bank Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5436600	-109.6912534	Traveling	1	0
+S142119586	2023-06-19	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	5	48.5479714	-109.6821812	Stationary	1	0
+S141168553	2023-06-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
+S137774316	2023-05-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
+S139065379	2023-05-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	European Starling	Sturnus vulgaris	27813	species	1	48.5479714	-109.6821812	Stationary	1	0
+S149633727	2023-09-11	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Swainson's Thrush	Catharus ustulatus	28324	species	1	48.5479714	-109.6821812	Stationary	1	0
+S147501842	2023-08-17	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Rufous Hummingbird	Selasphorus rufus	4826	species	1	48.5479714	-109.6821812	Stationary	1	1
+S203110956	2024-11-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11906	issf	1	48.5436600	-109.6912534	Traveling	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	Western Meadowlark	Sturnella neglecta	33565	species	4	48.5373133	-109.6659683	Traveling	1	0
+S207358966	2024-12-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Dark-eyed Junco	Junco hyemalis	33129	issf	1	48.5479714	-109.6821812	Stationary	1	1
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	Common Raven	Corvus corax	21624	species	2	48.5436600	-109.6912534	Traveling	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	Grasshopper Sparrow	Ammodramus savannarum	32943	species	1	48.5373133	-109.6659683	Traveling	1	0
+S185740666	2024-07-06	L34406941	Havre US-MT	House Sparrow	Passer domesticus	31534	species	1	48.5548900	-109.6894390	Stationary	1	0
+S176774236	2024-05-24	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	7	48.5436600	-109.6912534	Traveling	1	0
+S187761921	2024-07-13	L34901978	Bill Baltrusch Nature Trail	Mourning Dove	Zenaida macroura	2412	species	5	48.5358000	-109.6656000	Traveling	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Traveling	1	0
+S201688462	2024-11-07	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5479714	-109.6821812	Stationary	1	0
+S204297732	2024-12-02	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
+S201494536	2024-11-05	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	10	48.5479714	-109.6821812	Stationary	1	0
+S203110956	2024-11-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S201494536	2024-11-05	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
+S193896202	2024-09-03	L7850012	Havre--First Bank Park	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5436600	-109.6912534	Traveling	1	0
+S202269233	2024-11-12	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	14	48.5479714	-109.6821812	Stationary	1	0
+S202269233	2024-11-12	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	48.5479714	-109.6821812	Stationary	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Tree Swallow	Tachycineta bicolor	24064	species	2	48.5479714	-109.6821812	Traveling	1	0
+S204297732	2024-12-02	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5479714	-109.6821812	Stationary	1	0
+S176774236	2024-05-24	L7850012	Havre--First Bank Park	House Sparrow	Passer domesticus	31534	species	14	48.5436600	-109.6912534	Traveling	1	0
+S193896202	2024-09-03	L7850012	Havre--First Bank Park	Mourning Dove	Zenaida macroura	2412	species	2	48.5436600	-109.6912534	Traveling	1	0
+S187761921	2024-07-13	L34901978	Bill Baltrusch Nature Trail	Say's Phoebe	Sayornis saya	17010	species	1	48.5358000	-109.6656000	Traveling	1	0
+S176774236	2024-05-24	L7850012	Havre--First Bank Park	Mourning Dove	Zenaida macroura	2412	species	1	48.5436600	-109.6912534	Traveling	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Western Kingbird	Tyrannus verticalis	17467	species	3	48.5479714	-109.6821812	Traveling	1	0
+S164748451	2024-03-13	L24313344	Havre, MT	Horned Lark	Eremophila alpestris	22710	species	11	48.5466088	-109.6761625	Traveling	1	0
+S193896202	2024-09-03	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	5	48.5436600	-109.6912534	Traveling	1	0
+S193896202	2024-09-03	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11900	species	1	48.5436600	-109.6912534	Traveling	1	0
+S203110956	2024-11-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
+S202269233	2024-11-12	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.5479714	-109.6821812	Stationary	1	0
+S201688462	2024-11-07	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	9	48.5479714	-109.6821812	Stationary	1	0
+S202269233	2024-11-12	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.5479714	-109.6821812	Stationary	1	0
+S204297732	2024-12-02	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Merlin	Falco columbarius	12071	issf	1	48.5479714	-109.6821812	Stationary	1	0
+S203528562	2024-11-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	28	48.5479714	-109.6821812	Stationary	1	0
+S207358966	2024-12-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	16	48.5479714	-109.6821812	Stationary	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	Lark Sparrow	Chondestes grammacus	33029	species	1	48.5373133	-109.6659683	Traveling	1	0
+S191569271	2024-08-15	L35794932	Havre Amtrak Station	House Sparrow	Passer domesticus	31534	species	4	48.5539954	-109.6779475	Traveling	1	0
+S187761921	2024-07-13	L34901978	Bill Baltrusch Nature Trail	Western Meadowlark	Sturnella neglecta	33565	species	11	48.5358000	-109.6656000	Traveling	1	0
+S201494536	2024-11-05	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S174690601	2024-05-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern House Wren	Troglodytes aedon	27191	species	1	48.5479714	-109.6821812	Stationary	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.5436600	-109.6912534	Traveling	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	European Starling	Sturnus vulgaris	27813	species	7	48.5479714	-109.6821812	Traveling	1	0
+S176774236	2024-05-24	L7850012	Havre--First Bank Park	American Crow	Corvus brachyrhynchos	21557	species	2	48.5436600	-109.6912534	Traveling	1	0
+S203528562	2024-11-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Dark-eyed Junco	Junco hyemalis	33129	issf	2	48.5479714	-109.6821812	Stationary	1	1
+S167558661	2024-04-03	L30413801	Rod's Drive In	Merlin	Falco columbarius	12062	species	1	48.5350373	-109.6781820	Stationary	1	0
+S204124190	2024-11-30	L38364442	Havre (town)	Canada Goose	Branta canadensis	342	species	350	48.5499370	-109.6751000	Traveling	1	0
+S203528562	2024-11-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	48.5479714	-109.6821812	Stationary	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Franklin's Gull	Leucophaeus pipixcan	6494	species	3	48.5479714	-109.6821812	Traveling	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	Say's Phoebe	Sayornis saya	17010	species	1	48.5373133	-109.6659683	Traveling	1	0
+S174690601	2024-05-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Swainson's Thrush	Catharus ustulatus	28324	species	1	48.5479714	-109.6821812	Stationary	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	48.5479714	-109.6821812	Traveling	1	0
+S203110956	2024-11-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	18	48.5479714	-109.6821812	Stationary	1	0
+S201688462	2024-11-07	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Robin	Turdus migratorius	28633	species	7	48.5479714	-109.6821812	Traveling	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	Rock Wren	Salpinctes obsoletus	27150	species	1	48.5373133	-109.6659683	Traveling	1	0
+S201688462	2024-11-07	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S164748451	2024-03-13	L24313344	Havre, MT	Rock Pigeon	Columba livia	1868	domestic	120	48.5466088	-109.6761625	Traveling	1	1
+S191569271	2024-08-15	L35794932	Havre Amtrak Station	Rock Pigeon	Columba livia	1868	domestic	9	48.5539954	-109.6779475	Traveling	1	0
+S176774236	2024-05-24	L7850012	Havre--First Bank Park	European Starling	Sturnus vulgaris	27813	species	11	48.5436600	-109.6912534	Traveling	1	0
+S193896202	2024-09-03	L7850012	Havre--First Bank Park	American Goldfinch	Spinus tristis	32617	species	2	48.5436600	-109.6912534	Traveling	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Ring-billed Gull	Larus delawarensis	6521	species	1	48.5479714	-109.6821812	Traveling	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Chimney Swift	Chaetura pelagica	3896	species	4	48.5479714	-109.6821812	Traveling	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5436600	-109.6912534	Traveling	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	5	48.5436600	-109.6912534	Traveling	1	0
+S201688462	2024-11-07	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	7	48.5479714	-109.6821812	Stationary	1	0
+S203110956	2024-11-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mourning Dove	Zenaida macroura	2412	species	12	48.5479714	-109.6821812	Traveling	1	0
+S204642142	2024-12-06	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	48.5479714	-109.6821812	Stationary	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	Swainson's Hawk	Buteo swainsoni	8504	species	1	48.5436600	-109.6912534	Traveling	1	0
+S164748451	2024-03-13	L24313344	Havre, MT	House Sparrow	Passer domesticus	31534	species	8	48.5466088	-109.6761625	Traveling	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	European Starling	Sturnus vulgaris	27813	species	1	48.5436600	-109.6912534	Traveling	1	0
+S201494536	2024-11-05	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	6	48.5479714	-109.6821812	Stationary	1	0
+S204297732	2024-12-02	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
+S202269233	2024-11-12	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-throated Sparrow	Zonotrichia albicollis	33201	species	1	48.5479714	-109.6821812	Stationary	1	1
+S202269233	2024-11-12	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Dark-eyed Junco	Junco hyemalis	33126	issf	1	48.5479714	-109.6821812	Stationary	1	1
+S167558661	2024-04-03	L30413801	Rod's Drive In	House Sparrow	Passer domesticus	31534	species	8	48.5350373	-109.6781820	Stationary	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	Brown-headed Cowbird	Molothrus ater	33833	species	1	48.5436600	-109.6912534	Traveling	1	0
+S207358966	2024-12-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	150	48.5479714	-109.6821812	Stationary	1	0
+S202269233	2024-11-12	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	30	48.5479714	-109.6821812	Stationary	1	0
+S201494536	2024-11-05	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Goldfinch	Spinus tristis	32617	species	1	48.5479714	-109.6821812	Stationary	1	1
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	European Starling	Sturnus vulgaris	27813	species	10	48.5373133	-109.6659683	Traveling	1	0
+S204297732	2024-12-02	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S176774236	2024-05-24	L7850012	Havre--First Bank Park	Common Grackle	Quiscalus quiscula	33853	species	1	48.5436600	-109.6912534	Traveling	1	0
+S207358966	2024-12-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	65	48.5479714	-109.6821812	Stationary	1	1
+S204297732	2024-12-02	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	7	48.5479714	-109.6821812	Stationary	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.5436600	-109.6912534	Traveling	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	House Finch	Haemorhous mexicanus	32310	species	5	48.5436600	-109.6912534	Traveling	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	Mourning Dove	Zenaida macroura	2412	species	2	48.5373133	-109.6659683	Traveling	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	House Sparrow	Passer domesticus	31534	species	1	48.5373133	-109.6659683	Traveling	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	Franklin's Gull	Leucophaeus pipixcan	6494	species	1	48.5373133	-109.6659683	Traveling	1	0
+S187761921	2024-07-13	L34901978	Bill Baltrusch Nature Trail	House Sparrow	Passer domesticus	31534	species	1	48.5358000	-109.6656000	Traveling	1	0
+S187761921	2024-07-13	L34901978	Bill Baltrusch Nature Trail	American Robin	Turdus migratorius	28633	species	4	48.5358000	-109.6656000	Traveling	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	House Sparrow	Passer domesticus	31534	species	41	48.5436600	-109.6912534	Traveling	1	0
+S201688462	2024-11-07	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	20	48.5479714	-109.6821812	Stationary	1	0
+S187761921	2024-07-13	L34901978	Bill Baltrusch Nature Trail	Horned Lark	Eremophila alpestris	22710	species	2	48.5358000	-109.6656000	Traveling	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	Mourning Dove	Zenaida macroura	2412	species	9	48.5436600	-109.6912534	Traveling	1	0
+S187759477	2024-07-13	L7850012	Havre--First Bank Park	American Crow	Corvus brachyrhynchos	21557	species	7	48.5436600	-109.6912534	Traveling	1	0
+S203528562	2024-11-24	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	29	48.5479714	-109.6821812	Stationary	1	0
+S180519291	2024-06-09	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern Flicker	Colaptes auratus	11900	species	1	48.5479714	-109.6821812	Traveling	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	Western Kingbird	Tyrannus verticalis	17467	species	2	48.5373133	-109.6659683	Traveling	1	0
+S174690601	2024-05-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Pine Siskin	Spinus pinus	32595	species	2	48.5479714	-109.6821812	Stationary	1	0
+S174690601	2024-05-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
+S185740666	2024-07-06	L34406941	Havre US-MT	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5548900	-109.6894390	Stationary	1	0
+S167558661	2024-04-03	L30413801	Rod's Drive In	House Finch	Haemorhous mexicanus	32310	species	1	48.5350373	-109.6781820	Stationary	1	0
+S186656470	2024-07-12	L34632010	Bill Baltrusch Nature Trail	American Robin	Turdus migratorius	28633	species	1	48.5373133	-109.6659683	Traveling	1	0
+S203110956	2024-11-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	30	48.5479714	-109.6821812	Stationary	1	0
+S193896202	2024-09-03	L7850012	Havre--First Bank Park	Common Raven	Corvus corax	21624	species	1	48.5436600	-109.6912534	Traveling	1	0
+S207358966	2024-12-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Pine Siskin	Spinus pinus	32595	species	1	48.5479714	-109.6821812	Stationary	1	0
+S202269233	2024-11-12	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	18	48.5479714	-109.6821812	Stationary	1	0
+S207358966	2024-12-31	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Purple Finch	Haemorhous purpureus	32324	species	1	48.5479714	-109.6821812	Stationary	1	1
+S203110956	2024-11-20	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Purple Finch	Haemorhous purpureus	32324	species	1	48.5479714	-109.6821812	Stationary	1	1
+S235977898	2025-05-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	2	48.5479714	-109.6821812	Stationary	1	0
+S213283634	2025-02-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	60	48.5479714	-109.6821812	Stationary	1	0
+S213283634	2025-02-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.5479714	-109.6821812	Stationary	1	0
+S233047341	2025-05-04	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	4	48.5479714	-109.6821812	Stationary	1	0
+S276071977	2025-09-28	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-throated Sparrow	Zonotrichia albicollis	33201	species	5	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Common Yellowthroat	Geothlypis trichas	34028	species	2	48.5436600	-109.6912534	Traveling	1	0
+S240977798	2025-05-21	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Robin	Turdus migratorius	28633	species	1	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	15	48.5436600	-109.6912534	Traveling	1	1
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	European Starling	Sturnus vulgaris	27813	species	15	48.5436600	-109.6912534	Traveling	1	0
+S279594784	2025-10-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Hermit Thrush	Catharus guttatus	28333	species	1	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Mourning Dove	Zenaida macroura	2412	species	7	48.5436600	-109.6912534	Traveling	1	0
+S275438344	2025-09-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Fox Sparrow	Passerella iliaca	33099	species	1	48.5479714	-109.6821812	Stationary	1	1
+S213283634	2025-02-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	22	48.5479714	-109.6821812	Stationary	1	0
+S275438344	2025-09-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Alder/Willow Flycatcher (Traill's Flycatcher)	Empidonax alnorum/traillii	16958	slash	1	48.5436600	-109.6912534	Traveling	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Spizella sp.	Spizella sp.	33014	spuh	5	48.5436600	-109.6912534	Traveling	1	0
+S241337082	2025-05-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Least Flycatcher	Empidonax minimus	16963	species	1	48.5479714	-109.6821812	Stationary	1	0
+S233047341	2025-05-04	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Orange-crowned Warbler	Leiothlypis celata	33973	species	4	48.5479714	-109.6821812	Stationary	1	1
+S227217723	2025-04-19	L42985343	300388 Main Street, Havre, Montana, US (48.554, -109.677)	Turkey Vulture	Cathartes aura	7815	species	18	48.5540532	-109.6767982	Stationary	1	1
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	House Finch	Haemorhous mexicanus	32310	species	6	48.5436600	-109.6912534	Traveling	1	0
+S275438344	2025-09-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.5479714	-109.6821812	Stationary	1	0
+S226174859	2025-04-16	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Olive-sided Flycatcher	Contopus cooperi	16890	species	1	48.5436600	-109.6912534	Traveling	1	0
+S249330542	2025-06-11	L47393558	120 Main Street, Havre, Montana, US (48.555, -109.68)	Rock Pigeon	Columba livia	1868	domestic	3	48.5545330	-109.6800241	Traveling	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Common Grackle	Quiscalus quiscula	33853	species	20	48.5436600	-109.6912534	Traveling	1	0
+S213283634	2025-02-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mountain Chickadee	Poecile gambeli	22077	species	1	48.5479714	-109.6821812	Stationary	1	0
+S276071977	2025-09-28	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	48.5479714	-109.6821812	Stationary	1	0
+S240977798	2025-05-21	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Goldfinch	Spinus tristis	32617	species	1	48.5479714	-109.6821812	Stationary	1	0
+S249330542	2025-06-11	L47393558	120 Main Street, Havre, Montana, US (48.555, -109.68)	Common Nighthawk	Chordeiles minor	3492	species	1	48.5545330	-109.6800241	Traveling	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5436600	-109.6912534	Traveling	1	0
+S235977898	2025-05-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	American Robin	Turdus migratorius	28633	species	1	48.5479714	-109.6821812	Stationary	1	0
+S276071977	2025-09-28	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Wilson's Warbler	Cardellina pusilla	34346	species	1	48.5479714	-109.6821812	Stationary	1	0
+S249330542	2025-06-11	L47393558	120 Main Street, Havre, Montana, US (48.555, -109.68)	American Robin	Turdus migratorius	28633	species	1	48.5545330	-109.6800241	Traveling	1	0
+S235977898	2025-05-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S227217723	2025-04-19	L42985343	300388 Main Street, Havre, Montana, US (48.554, -109.677)	Rock Pigeon	Columba livia	1868	domestic	20	48.5540532	-109.6767982	Stationary	1	0
+S233047341	2025-05-04	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S233047341	2025-05-04	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	1	48.5479714	-109.6821812	Stationary	1	0
+S276071977	2025-09-28	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S235977898	2025-05-10	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.5479714	-109.6821812	Stationary	1	0
+S241337082	2025-05-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	American Kestrel	Falco sparverius	12028	species	1	48.5436600	-109.6912534	Traveling	1	0
+S226174859	2025-04-16	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	48.5436600	-109.6912534	Traveling	1	0
+S240977798	2025-05-21	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Northern House Wren	Troglodytes aedon	27191	species	1	48.5479714	-109.6821812	Stationary	1	0
+S227217723	2025-04-19	L42985343	300388 Main Street, Havre, Montana, US (48.554, -109.677)	House Sparrow	Passer domesticus	31534	species	3	48.5540532	-109.6767982	Stationary	1	0
+S275438344	2025-09-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	4	48.5479714	-109.6821812	Stationary	1	0
+S286544338	2025-11-28	L38364442	Havre (town)	Rock Pigeon	Columba livia	1868	domestic	1	48.5499370	-109.6751000	Traveling	1	0
+S213283634	2025-02-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	American Redstart	Setophaga ruticilla	34058	species	1	48.5436600	-109.6912534	Traveling	1	0
+S230954900	2025-04-29	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.5479714	-109.6821812	Stationary	1	0
+S213685162	2025-02-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	85	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	2	48.5436600	-109.6912534	Traveling	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Killdeer	Charadrius vociferus	5827	species	4	48.5436600	-109.6912534	Traveling	1	0
+S213685162	2025-02-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	30	48.5479714	-109.6821812	Stationary	1	1
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Song Sparrow	Melospiza melodia	33277	species	1	48.5436600	-109.6912534	Traveling	1	0
+S230954900	2025-04-29	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	3	48.5479714	-109.6821812	Stationary	1	0
+S213685162	2025-02-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	25	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Northern Flicker	Colaptes auratus	11900	species	3	48.5436600	-109.6912534	Traveling	1	0
+S240977798	2025-05-21	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.5436600	-109.6912534	Traveling	1	0
+S213685162	2025-02-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Pine Siskin	Spinus pinus	32595	species	1	48.5479714	-109.6821812	Stationary	1	0
+S226174859	2025-04-16	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mourning Dove	Zenaida macroura	2412	species	2	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Purple Finch	Haemorhous purpureus	32324	species	4	48.5436600	-109.6912534	Traveling	1	1
+S249330542	2025-06-11	L47393558	120 Main Street, Havre, Montana, US (48.555, -109.68)	House Sparrow	Passer domesticus	31534	species	2	48.5545330	-109.6800241	Traveling	1	0
+S241337082	2025-05-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	3	48.5479714	-109.6821812	Stationary	1	0
+S249330542	2025-06-11	L47393558	120 Main Street, Havre, Montana, US (48.555, -109.68)	Mourning Dove	Zenaida macroura	2412	species	1	48.5545330	-109.6800241	Traveling	1	0
+S241337082	2025-05-22	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Chipping Sparrow	Spizella passerina	32990	species	1	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.5436600	-109.6912534	Traveling	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Chipping Sparrow	Spizella passerina	32990	species	1	48.5436600	-109.6912534	Traveling	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Yellow-rumped Warbler	Setophaga coronata	34160	issf	5	48.5436600	-109.6912534	Traveling	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	Blackpoll Warbler	Setophaga striata	34138	species	1	48.5436600	-109.6912534	Traveling	1	0
+S233047341	2025-05-04	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Mourning Dove	Zenaida macroura	2412	species	2	48.5479714	-109.6821812	Stationary	1	0
+S275438344	2025-09-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	4	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	American Robin	Turdus migratorius	28633	species	20	48.5436600	-109.6912534	Traveling	1	0
+S213283634	2025-02-14	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Finch	Haemorhous mexicanus	32310	species	30	48.5479714	-109.6821812	Stationary	1	1
+S240977798	2025-05-21	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Least Flycatcher	Empidonax minimus	16963	species	1	48.5479714	-109.6821812	Stationary	1	0
+S275438344	2025-09-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	48.5479714	-109.6821812	Stationary	1	0
+S263219060	2025-07-27	L50586554	235 Main St, Havre US-MT 48.55465, -109.67902	Rock Pigeon	Columba livia	1868	domestic	3	48.5546490	-109.6790220	Traveling	1	0
+S265093884	2025-08-04	L51029235	Amtrak Station, Havre, Montana, US (48.556, -109.689)	Rock Pigeon	Columba livia	1868	domestic	15	48.5556482	-109.6891461	Traveling	1	0
+S213685162	2025-02-15	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Dark-eyed Junco	Junco hyemalis	33129	issf	1	48.5479714	-109.6821812	Stationary	1	1
+S233047341	2025-05-04	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.5479714	-109.6821812	Stationary	1	0
+S276071977	2025-09-28	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Harris's Sparrow	Zonotrichia querula	33198	species	1	48.5479714	-109.6821812	Stationary	1	0
+S275438344	2025-09-25	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.5479714	-109.6821812	Stationary	1	0
+S276071977	2025-09-28	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	House Sparrow	Passer domesticus	31534	species	8	48.5479714	-109.6821812	Stationary	1	0
+S271678320	2025-09-05	L7850012	Havre--First Bank Park	House Sparrow	Passer domesticus	31534	species	10	48.5436600	-109.6912534	Traveling	1	0
+S276071977	2025-09-28	L8882181	615 1st Avenue, Havre, Montana, US (48.548, -109.682)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	8	48.5479714	-109.6821812	Stationary	1	0

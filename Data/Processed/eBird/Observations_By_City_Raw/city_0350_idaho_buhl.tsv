@@ -1,12 +1,12 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S47858700	2018-08-14	House Sparrow	Passer domesticus	31534	species	20	42.5945730	-114.7534020	Stationary	1	0
-S47858700	2018-08-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	42.5945730	-114.7534020	Stationary	1	0
-S47858700	2018-08-14	Great Horned Owl	Bubo virginianus	8910	species	1	42.5945730	-114.7534020	Stationary	1	0
-S51173603	2019-01-01	Rock Pigeon	Columba livia	1868	domestic	112	42.6016960	-114.7634700	Traveling	1	0
-S51173603	2019-01-01	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	42.6016960	-114.7634700	Traveling	1	0
-S51173603	2019-01-01	European Starling	Sturnus vulgaris	27813	species	12	42.6016960	-114.7634700	Traveling	1	0
-S93003659	2021-08-09	California Quail	Callipepla californica	1094	species	1	42.6008759	-114.7622582	Traveling	1	0
-S93003659	2021-08-09	Turkey Vulture	Cathartes aura	7815	species	3	42.6008759	-114.7622582	Traveling	1	0
-S93003659	2021-08-09	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	42.6008759	-114.7622582	Traveling	1	0
-S93003659	2021-08-09	Rock Pigeon	Columba livia	1868	domestic	2	42.6008759	-114.7622582	Traveling	1	0
-S93003659	2021-08-09	Black-billed Magpie	Pica hudsonia	21476	species	2	42.6008759	-114.7622582	Traveling	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S47858700	2018-08-14	L7824191	606 Broadway Ave S, Buhl US-ID (42.5946,-114.7534)	House Sparrow	Passer domesticus	31534	species	20	42.5945730	-114.7534020	Stationary	1	0
+S47858700	2018-08-14	L7824191	606 Broadway Ave S, Buhl US-ID (42.5946,-114.7534)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	42.5945730	-114.7534020	Stationary	1	0
+S47858700	2018-08-14	L7824191	606 Broadway Ave S, Buhl US-ID (42.5946,-114.7534)	Great Horned Owl	Bubo virginianus	8910	species	1	42.5945730	-114.7534020	Stationary	1	0
+S51173603	2019-01-01	L8343009	Buhl (town)	Rock Pigeon	Columba livia	1868	domestic	112	42.6016960	-114.7634700	Traveling	1	0
+S51173603	2019-01-01	L8343009	Buhl (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	42.6016960	-114.7634700	Traveling	1	0
+S51173603	2019-01-01	L8343009	Buhl (town)	European Starling	Sturnus vulgaris	27813	species	12	42.6016960	-114.7634700	Traveling	1	0
+S93003659	2021-08-09	L16057989	300 U.S. 30, Buhl, Idaho, US (42.601, -114.762)	California Quail	Callipepla californica	1094	species	1	42.6008759	-114.7622582	Traveling	1	0
+S93003659	2021-08-09	L16057989	300 U.S. 30, Buhl, Idaho, US (42.601, -114.762)	Turkey Vulture	Cathartes aura	7815	species	3	42.6008759	-114.7622582	Traveling	1	0
+S93003659	2021-08-09	L16057989	300 U.S. 30, Buhl, Idaho, US (42.601, -114.762)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	42.6008759	-114.7622582	Traveling	1	0
+S93003659	2021-08-09	L16057989	300 U.S. 30, Buhl, Idaho, US (42.601, -114.762)	Rock Pigeon	Columba livia	1868	domestic	2	42.6008759	-114.7622582	Traveling	1	0
+S93003659	2021-08-09	L16057989	300 U.S. 30, Buhl, Idaho, US (42.601, -114.762)	Black-billed Magpie	Pica hudsonia	21476	species	2	42.6008759	-114.7622582	Traveling	1	0

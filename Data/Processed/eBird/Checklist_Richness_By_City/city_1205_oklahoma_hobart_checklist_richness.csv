@@ -1,2 +1,2 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24033442,2015-06-19,2015,1205,"Hobart, OK",Hobart,Oklahoma,Kiowa,4489060.74507869,10,1.931,1,35.02933,-99.09422,11,11,city_1205_oklahoma_hobart
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24033442,L3746557,Hobart,2015-06-19,2015,1205,"Hobart, OK",Hobart,Oklahoma,Kiowa,4489060.74507869,10,1.931,1,35.02933,-99.09422,11,11,city_1205_oklahoma_hobart

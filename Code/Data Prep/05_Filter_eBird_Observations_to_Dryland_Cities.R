@@ -1,5 +1,5 @@
 # ============================================================
-# 05_Filter_eBird_Observations_to_Dryland_CitiesL.R
+# 05_Filter_eBird_Observations_to_Dryland_Cities_WITH_HOTSPOTS.R
 #
 # Purpose:
 # Use the dryland-city checklist metadata from Script 04 to filter
@@ -11,7 +11,9 @@
 #   2. Checklist richness is written as one file per city.
 #   3. City-year unique species richness is written as one file per city.
 #   4. If the script stops halfway through, rerun it and it skips completed cities.
-#   5. Combined outputs are rebuilt at the end from the per-city files.
+#   5. locality_id and locality are retained for each checklist.
+#   6. Combined outputs are rebuilt at the end from the per-city files.
+#   7. Hotspot/locality lists are written for GEE extraction.
 # ============================================================
 
 library(data.table)
@@ -20,24 +22,60 @@ library(readr)
 library(stringr)
 
 # ------------------------------------------------------------
+# macOS / RStudio warning control
+# ------------------------------------------------------------
+
+# These warnings can appear repeatedly on Apple Silicon Macs when RStudio
+# launches external commands. They are usually harmless, but can flood the
+# console and make long runs difficult to monitor.
+Sys.unsetenv("MallocStackLogging")
+Sys.unsetenv("MallocStackLoggingNoCompact")
+Sys.setenv(MallocStackLogging = "0")
+Sys.setenv(MallocStackLoggingNoCompact = "0")
+
+# ------------------------------------------------------------
 # 0. Run settings
 # ------------------------------------------------------------
 
 # Keep FALSE unless you intentionally want to delete raw city files
 # and rerun the full expensive AWK split.
-reset_raw_city_outputs <- FALSE
+reset_raw_city_outputs <- TRUE
 
 # TRUE deletes only summary outputs, not raw city files.
 # Use TRUE if you changed the summary logic and want to rebuild city summaries.
-reset_summary_outputs <- TRUE
+reset_summary_outputs <- FALSE
 
 # If raw city files already exist, skip the AWK split and go straight
 # to city-level summary processing.
-skip_awk_if_raw_city_files_exist <- TRUE
+skip_awk_if_raw_city_files_exist <- FALSE
 
 # Creating metadata-expanded observation files duplicates checklist metadata
 # onto every observation row and is usually not needed.
 write_metadata_observation_files <- FALSE
+
+# Optional helper: run this in a separate R session while Script 05 is running
+# to check whether raw files are still being written.
+check_raw_split_progress <- function() {
+  raw_files <- list.files(
+    "Data/Processed/eBird/Observations_By_City_Raw",
+    pattern = "\\.tsv$",
+    full.names = TRUE
+  )
+  
+  info <- file.info(raw_files)
+  
+  cat("Number of raw city files:", length(raw_files), "\n")
+  cat("Total size GB:", round(sum(info$size, na.rm = TRUE) / 1024^3, 2), "\n")
+  cat("Most recent modified:", max(info$mtime, na.rm = TRUE), "\n")
+  
+  invisible(
+    data.frame(
+      file = basename(raw_files),
+      size_mb = round(info$size / 1024^2, 2),
+      modified = info$mtime
+    )[order(-info$mtime), ]
+  )
+}
 
 # ------------------------------------------------------------
 # 1. File paths
@@ -68,9 +106,12 @@ checklist_richness_out <- file.path(ebird_out_dir, "dryland_city_checklist_speci
 city_year_unique_species_out <- file.path(ebird_out_dir, "dryland_city_year_unique_species_from_observations_2015_2025.csv")
 city_year_richness_out <- file.path(ebird_out_dir, "dryland_city_year_species_richness_2015_2025.csv")
 processing_status_out <- file.path(ebird_out_dir, "dryland_city_processing_status_2015_2025.csv")
+hotspot_list_out <- file.path(ebird_out_dir, "dryland_city_hotspot_list_for_GEE_2015_2025.csv")
+hotspot_latlong_out <- file.path(ebird_out_dir, "dryland_city_hotspot_latlong_for_GEE_2015_2025.csv")
 
 awk_script_path <- file.path(ebird_out_dir, "split_ebd_observations_by_city.awk")
 awk_log_path <- file.path(ebird_out_dir, "split_ebd_observations_by_city_log.txt")
+awk_quiet_log_path <- file.path(ebird_out_dir, "split_ebd_observations_by_city_console_messages.txt")
 
 # ------------------------------------------------------------
 # 1.1 Optional resets
@@ -91,8 +132,11 @@ if (reset_raw_city_outputs) {
       city_year_unique_species_out,
       city_year_richness_out,
       processing_status_out,
+      hotspot_list_out,
+      hotspot_latlong_out,
       awk_script_path,
-      awk_log_path
+      awk_log_path,
+      awk_quiet_log_path
     ),
     force = TRUE
   )
@@ -107,7 +151,9 @@ if (reset_summary_outputs && !reset_raw_city_outputs) {
       checklist_richness_out,
       city_year_unique_species_out,
       city_year_richness_out,
-      processing_status_out
+      processing_status_out,
+      hotspot_list_out,
+      hotspot_latlong_out
     ),
     force = TRUE
   )
@@ -128,6 +174,8 @@ print(nrow(dryland_checklists))
 
 required_checklist_cols <- c(
   "checklist_id",
+  "locality_id",
+  "locality",
   "observation_date",
   "city_id",
   "NAME10",
@@ -150,6 +198,12 @@ if (length(missing_checklist_cols) > 0) {
     paste(missing_checklist_cols, collapse = ", ")
   )
 }
+
+cat("\nRows with locality_id in checklist metadata:\n")
+print(sum(!is.na(dryland_checklists$locality_id) & dryland_checklists$locality_id != ""))
+
+cat("\nUnique locality IDs in checklist metadata:\n")
+print(uniqueN(dryland_checklists$locality_id[!is.na(dryland_checklists$locality_id) & dryland_checklists$locality_id != ""]))
 
 # ------------------------------------------------------------
 # 3. Create safe city file names and checklist-to-city map
@@ -200,6 +254,8 @@ checklist_metadata_small <- dryland_checklists %>%
   as_tibble() %>%
   select(
     checklist_id,
+    locality_id,
+    locality,
     observation_date,
     city_id,
     NAME10,
@@ -289,6 +345,8 @@ FNR == 1 {
 
   id_col = col["SAMPLING EVENT IDENTIFIER"]
   date_col = col["OBSERVATION DATE"]
+  locality_id_col = col["LOCALITY ID"]
+  locality_col = col["LOCALITY"]
   common_col = col["COMMON NAME"]
   sci_col = col["SCIENTIFIC NAME"]
   tax_col = col["TAXONOMIC ORDER"]
@@ -309,6 +367,16 @@ FNR == 1 {
 
   if (date_col == 0) {
     print "Missing OBSERVATION DATE" > "/dev/stderr"
+    missing = 1
+  }
+
+  if (locality_id_col == 0) {
+    print "Missing LOCALITY ID" > "/dev/stderr"
+    missing = 1
+  }
+
+  if (locality_col == 0) {
+    print "Missing LOCALITY" > "/dev/stderr"
     missing = 1
   }
 
@@ -337,6 +405,8 @@ FNR == 1 {
 
   header = "checklist_id"
   header = header OFS "observation_date"
+  header = header OFS "locality_id"
+  header = header OFS "locality"
   header = header OFS "common_name"
   header = header OFS "scientific_name"
   header = header OFS "taxonomic_order"
@@ -363,6 +433,8 @@ FNR == 1 {
       close(outfile)
     }
 
+    locality_id_val = ""
+    locality_val = ""
     tax_val = ""
     category_val = ""
     lat_val = ""
@@ -370,6 +442,14 @@ FNR == 1 {
     protocol_val = ""
     approved_val = ""
     reviewed_val = ""
+
+    if (locality_id_col > 0) {
+      locality_id_val = $locality_id_col
+    }
+
+    if (locality_col > 0) {
+      locality_val = $locality_col
+    }
 
     if (tax_col > 0) {
       tax_val = $tax_col
@@ -401,6 +481,8 @@ FNR == 1 {
 
     row = checklist_id
     row = row OFS $date_col
+    row = row OFS locality_id_val
+    row = row OFS locality_val
     row = row OFS $common_col
     row = row OFS $sci_col
     row = row OFS tax_val
@@ -421,11 +503,12 @@ FNR == 1 {
 writeLines(awk_script, awk_script_path)
 
 filter_cmd <- paste(
+  "env -u MallocStackLogging -u MallocStackLoggingNoCompact",
   "/usr/bin/tar -O -x -f",
   shQuote(tar_path),
   shQuote(ebd_member),
   "| gzip -cd",
-  paste0("| awk -v outdir=", shQuote(city_raw_out_dir)),
+  paste0("| env -u MallocStackLogging -u MallocStackLoggingNoCompact awk -v outdir=", shQuote(city_raw_out_dir)),
   "-f",
   shQuote(awk_script_path),
   shQuote(checklist_city_map_out),
@@ -434,11 +517,21 @@ filter_cmd <- paste(
   shQuote(awk_log_path)
 )
 
+# Wrap the external command in bash and redirect console chatter.
+# The AWK-specific stderr log is still written to awk_log_path above.
+shell_cmd <- paste(
+  "bash -lc",
+  shQuote(paste0(filter_cmd, " > ", shQuote(awk_quiet_log_path), " 2>&1"))
+)
+
 cat("\nFiltering and splitting full EBD observation file by city.\n")
 cat("This may take a long time because it streams the full EBD file.\n")
-cat(filter_cmd, "\n")
+cat("\nExternal command console messages will be written to:\n")
+cat(awk_quiet_log_path, "\n")
+cat("\nAWK diagnostic log will be written to:\n")
+cat(awk_log_path, "\n")
 
-exit_code <- system(filter_cmd)
+exit_code <- system(shell_cmd)
 
 cat("\nAWK exit code:\n")
 print(exit_code)
@@ -455,8 +548,20 @@ if (file.exists(awk_log_path)) {
   cat("No AWK log file found.\n")
 }
 
+cat("\nExternal command console log preview:\n")
+if (file.exists(awk_quiet_log_path)) {
+  quiet_log <- readLines(awk_quiet_log_path, warn = FALSE)
+  if (length(quiet_log) > 0) {
+    print(tail(quiet_log, 25))
+  } else {
+    cat("No external console messages.\n")
+  }
+} else {
+  cat("No external console log file found.\n")
+}
+
 if (!identical(exit_code, 0L)) {
-  stop("AWK filtering did not complete successfully. Check the log above.")
+  stop("AWK filtering did not complete successfully. Check the logs above.")
 }
 }
 
@@ -471,6 +576,14 @@ print(length(city_raw_files))
 
 if (length(city_raw_files) == 0) {
   stop("Zero raw city files were found. Do not continue. Check checklist IDs, EBD member, and AWK log.")
+}
+
+raw_test <- fread(city_raw_files[1], nrows = 5)
+cat("\nRaw city file columns from first file:\n")
+print(names(raw_test))
+
+if (!all(c("locality_id", "locality") %in% names(raw_test))) {
+  stop("Raw city files do not contain locality_id/locality. Do not continue.")
 }
 
 city_file_sizes <- data.table(
@@ -602,7 +715,7 @@ for (i in seq_len(nrow(city_manifest_dt))) {
   
   obs <- fread(raw_file)
   
-  required_obs_cols <- c("checklist_id", "observation_date", "scientific_name", "category")
+  required_obs_cols <- c("checklist_id", "observation_date", "locality_id", "locality", "scientific_name", "category")
   missing_obs_cols <- setdiff(required_obs_cols, names(obs))
   
   if (length(missing_obs_cols) > 0) {
@@ -664,6 +777,8 @@ for (i in seq_len(nrow(city_manifest_dt))) {
     ,
     .(
       checklist_id,
+      locality_id,
+      locality,
       observation_date,
       year,
       city_id,
@@ -791,6 +906,59 @@ print(nrow(checklist_richness))
 cat("\nCombined checklist richness written to:\n")
 cat(checklist_richness_out, "\n")
 
+# ------------------------------------------------------------
+# 9.1 Build hotspot/location list for GEE
+# ------------------------------------------------------------
+
+hotspot_list <- checklist_richness[
+  !is.na(locality_id) & locality_id != "",
+  .(
+    n_checklists = as.integer(uniqueN(checklist_id)),
+    first_date = min(observation_date, na.rm = TRUE),
+    last_date = max(observation_date, na.rm = TRUE),
+    mean_latitude = mean(latitude_checklist, na.rm = TRUE),
+    mean_longitude = mean(longitude_checklist, na.rm = TRUE)
+  ),
+  by = .(
+    city_id,
+    NAME10,
+    city_ascii,
+    state_name,
+    county_name,
+    dryland_percent,
+    locality_id,
+    locality
+  )
+]
+
+setorder(hotspot_list, state_name, city_ascii, locality)
+fwrite(hotspot_list, hotspot_list_out)
+
+hotspot_latlong <- hotspot_list[
+  ,
+  .(
+    latitude = mean(mean_latitude, na.rm = TRUE),
+    longitude = mean(mean_longitude, na.rm = TRUE),
+    n_checklists = sum(n_checklists, na.rm = TRUE)
+  ),
+  by = .(locality_id, locality)
+]
+
+setorder(hotspot_latlong, locality_id)
+fwrite(hotspot_latlong, hotspot_latlong_out)
+
+cat("\nHotspot list written to:\n")
+cat(hotspot_list_out, "\n")
+
+cat("\nSimple hotspot lat/long file written to:\n")
+cat(hotspot_latlong_out, "\n")
+
+cat("\nRows with locality_id in combined checklist richness:\n")
+print(sum(!is.na(checklist_richness$locality_id) & checklist_richness$locality_id != ""))
+
+cat("\nUnique locality IDs in combined checklist richness:\n")
+print(uniqueN(checklist_richness$locality_id[!is.na(checklist_richness$locality_id) & checklist_richness$locality_id != ""]))
+
 rm(checklist_richness_list)
 gc()
 
@@ -837,6 +1005,7 @@ city_year_effort_summary <- checklist_richness[
   ,
   .(
     n_checklists = as.integer(uniqueN(checklist_id)),
+    n_localities = as.integer(uniqueN(locality_id[!is.na(locality_id) & locality_id != ""])),
     mean_checklist_richness = as.numeric(mean(species_richness, na.rm = TRUE)),
     median_checklist_richness = as.numeric(median(species_richness, na.rm = TRUE)),
     summed_checklist_richness = as.numeric(sum(species_richness, na.rm = TRUE)),
@@ -919,6 +1088,10 @@ cat("Combined city-year unique species intermediate:\n")
 cat(city_year_unique_species_out, "\n")
 cat("Final city-year richness summary:\n")
 cat(city_year_richness_out, "\n")
+cat("Hotspot list for GEE:\n")
+cat(hotspot_list_out, "\n")
+cat("Simple hotspot lat/long file for GEE:\n")
+cat(hotspot_latlong_out, "\n")
 
 if (write_metadata_observation_files) {
   cat("City metadata observation folder:\n")

@@ -1,63 +1,63 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S26476611,2015-12-27,2015,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,145,9.656,1,33.3573447,-112.6005936,38,38,city_0340_arizona_buckeye
-S31939313,2016-10-06,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,10,32.187,1,33.3632619,-112.587906,6,6,city_0340_arizona_buckeye
-S28418945,2016-03-18,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,90,22.531,1,33.37034,-112.58372,20,20,city_0340_arizona_buckeye
-S28870903,2016-04-09,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,90,8.047,1,33.3797452,-112.5387633,26,26,city_0340_arizona_buckeye
-S32268008,2016-10-27,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,80,,1,33.38736,-112.5918496,11,11,city_0340_arizona_buckeye
-S33114173,2016-10-27,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,80,,1,33.38736,-112.5918496,11,11,city_0340_arizona_buckeye
-S35057181,2017-03-07,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,100,12.875,1,33.356009,-112.5944481,21,21,city_0340_arizona_buckeye
-S35213457,2017-03-11,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,60,,1,33.41028,-112.584726,8,8,city_0340_arizona_buckeye
-S35279511,2017-03-19,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.3920263,-112.570948,2,2,city_0340_arizona_buckeye
-S35335740,2017-03-21,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,15,,1,33.3635649,-112.5703704,5,5,city_0340_arizona_buckeye
-S33350171,2017-01-01,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,6,0.322,1,33.3781248,-112.602036,2,2,city_0340_arizona_buckeye
-S35845816,2017-04-10,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,7,0.483,1,33.3632744,-112.5699387,1,1,city_0340_arizona_buckeye
-S41503113,2018-01-01,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,74,3.138,1,33.4160351,-112.6071113,15,15,city_0340_arizona_buckeye
-S43363862,2018-03-03,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,180,,1,33.4160351,-112.6071113,12,12,city_0340_arizona_buckeye
-S43157646,2018-02-24,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,165,24.14,1,33.3696555,-112.5834274,20,20,city_0340_arizona_buckeye
-S41554010,2018-01-02,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,133,,1,33.4160351,-112.6071113,8,8,city_0340_arizona_buckeye
-S42652105,2018-02-10,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,40,,1,33.4160351,-112.6071113,7,7,city_0340_arizona_buckeye
-S43733123,2018-03-17,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,30,,1,33.4160351,-112.6071113,9,9,city_0340_arizona_buckeye
-S45399740,2018-04-29,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,15,2.5,1,33.3773441,-112.5716257,9,9,city_0340_arizona_buckeye
-S41499397,2018-01-01,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,36,,1,33.4160351,-112.6071113,6,6,city_0340_arizona_buckeye
-S41628619,2018-01-04,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,19,0.756,1,33.4129092,-112.5972027,8,8,city_0340_arizona_buckeye
-S45084038,2018-04-29,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4319546,-112.5932078,2,2,city_0340_arizona_buckeye
-S42128131,2018-01-21,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4160351,-112.6071113,4,4,city_0340_arizona_buckeye
-S213551830,2019-05-04,2019,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,25,,1,33.4320083,-112.5931034,5,5,city_0340_arizona_buckeye
-S55342886,2019-04-24,2019,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,12,1.815,1,33.363203,-112.567038,7,7,city_0340_arizona_buckeye
-S52068996,2019-01-26,2019,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,25,,1,33.363261,-112.5719066,13,13,city_0340_arizona_buckeye
-S57635024,2019-06-23,2019,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,12,0.101,1,33.431284,-112.591402,3,3,city_0340_arizona_buckeye
-S65905213,2020-03-07,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,6,,1,33.370699,-112.623101,9,9,city_0340_arizona_buckeye
-S75013217,2020-10-17,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,28,,1,33.3828044,-112.5879372,7,7,city_0340_arizona_buckeye
-S76081738,2020-11-07,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,39,,1,33.3828044,-112.5879372,10,10,city_0340_arizona_buckeye
-S76821363,2020-11-28,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,20,,1,33.377586,-112.603116,7,7,city_0340_arizona_buckeye
-S65527192,2020-03-07,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,6,,1,33.370699,-112.623101,9,9,city_0340_arizona_buckeye
-S77638920,2020-12-18,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,18,,1,33.3618185,-112.5913234,5,5,city_0340_arizona_buckeye
-S74158036,2020-09-26,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,30,,1,33.3828044,-112.5879372,4,4,city_0340_arizona_buckeye
-S81410615,2021-02-14,2021,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,40,,1,33.3590484,-112.6036594,9,9,city_0340_arizona_buckeye
-S83623531,2021-03-18,2021,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,15,0.322,1,33.400928,-112.578684,10,10,city_0340_arizona_buckeye
-S93315211,2021-08-15,2021,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4295252,-112.5917959,2,2,city_0340_arizona_buckeye
-S87591528,2021-05-06,2021,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,10,0.161,1,33.431677,-112.593387,3,3,city_0340_arizona_buckeye
-S109076266,2022-04-30,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,13,,1,33.389795,-112.590131,5,5,city_0340_arizona_buckeye
-S100656011,2022-01-13,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4124921,-112.5830628,4,4,city_0340_arizona_buckeye
-S108689791,2022-04-30,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,8,,1,33.431677,-112.593387,5,5,city_0340_arizona_buckeye
-S102274704,2022-02-08,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,21,0.067,1,33.394548,-112.55679,11,11,city_0340_arizona_buckeye
-S104040036,2022-02-28,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,32,0.11,1,33.373612,-112.577076,4,4,city_0340_arizona_buckeye
-S157514397,2023-12-30,2023,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,0.805,1,33.370284,-112.623256,3,3,city_0340_arizona_buckeye
-S156191529,2023-12-12,2023,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,6,,1,33.355952,-112.605257,8,8,city_0340_arizona_buckeye
-S144447388,2023-07-13,2023,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,15,,1,33.405198,-112.559799,4,4,city_0340_arizona_buckeye
-S129528896,2023-02-24,2023,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4066317,-112.5563661,1,1,city_0340_arizona_buckeye
-S177840625,2024-05-28,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,30,,1,33.405198,-112.559799,13,13,city_0340_arizona_buckeye
-S163271445,2024-02-29,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,90,3.099,1,33.3704,-112.565407,13,13,city_0340_arizona_buckeye
-S174889658,2024-05-16,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,7,1.063,1,33.370952,-112.59968,8,8,city_0340_arizona_buckeye
-S207220382,2024-12-30,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,12,,1,33.370665,-112.623271,5,5,city_0340_arizona_buckeye
-S161762503,2024-02-16,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,11,,1,33.370643,-112.623351,6,6,city_0340_arizona_buckeye
-S204019085,2024-11-29,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,7,0.69,1,33.36317,-112.565843,7,7,city_0340_arizona_buckeye
-S177972024,2024-05-29,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.396765,-112.589429,3,3,city_0340_arizona_buckeye
-S182185291,2024-06-17,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,10,0.161,1,33.3842067,-112.5905943,1,1,city_0340_arizona_buckeye
-S206244900,2024-12-22,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.3559219,-112.6071999,1,1,city_0340_arizona_buckeye
-S211045758,2025-01-28,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,18,,1,33.3631964,-112.5686197,8,8,city_0340_arizona_buckeye
-S211041065,2025-01-28,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.3736943,-112.6072585,2,2,city_0340_arizona_buckeye
-S211874655,2025-02-03,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,16,,1,33.360982,-112.590944,3,3,city_0340_arizona_buckeye
-S210943668,2025-01-27,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,10,,1,33.363161,-112.569444,9,9,city_0340_arizona_buckeye
-S209662217,2025-01-17,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,25,1.609,1,33.3736943,-112.6072585,11,11,city_0340_arizona_buckeye
-S280213890,2025-10-15,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,30,,1,33.4098583,-112.580049,2,2,city_0340_arizona_buckeye
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S26476611,L1299862,Buckeye Farm Lands,2015-12-27,2015,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,145,9.656,1,33.3573447,-112.6005936,38,38,city_0340_arizona_buckeye
+S31939313,L4974202,buckeye,2016-10-06,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,10,32.187,1,33.3632619,-112.587906,6,6,city_0340_arizona_buckeye
+S28418945,L243264,Buckeye,2016-03-18,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,90,22.531,1,33.37034,-112.58372,20,20,city_0340_arizona_buckeye
+S28870903,L4475354,US-Arizona-Buckeye-7303 S Rainbow Rd - 33.379x-112.539,2016-04-09,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,90,8.047,1,33.3797452,-112.5387633,26,26,city_0340_arizona_buckeye
+S32268008,L3988550,Grace Fellowship Academy/Church,2016-10-27,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,80,,1,33.38736,-112.5918496,11,11,city_0340_arizona_buckeye
+S33114173,L3988550,Grace Fellowship Academy/Church,2016-10-27,2016,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,80,,1,33.38736,-112.5918496,11,11,city_0340_arizona_buckeye
+S35057181,L5554614,Buckeye and vicinity,2017-03-07,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,100,12.875,1,33.356009,-112.5944481,21,21,city_0340_arizona_buckeye
+S35213457,L5579220,US-AZ-Buckeye-24818 W Jones Way - 33.4103x-112.5847,2017-03-11,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,60,,1,33.41028,-112.584726,8,8,city_0340_arizona_buckeye
+S35279511,L5590777,US-Arizona-Buckeye-23920-24284 West Southern Avenue - 33.392x-112.571,2017-03-19,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.3920263,-112.570948,2,2,city_0340_arizona_buckeye
+S35335740,L5600572,Beloat Road - Flooded Field,2017-03-21,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,15,,1,33.3635649,-112.5703704,5,5,city_0340_arizona_buckeye
+S33350171,L5205697,US-Arizona-Buckeye-25164-25488 West Baseline Road - 33.378x-112.602,2017-01-01,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,6,0.322,1,33.3781248,-112.602036,2,2,city_0340_arizona_buckeye
+S35845816,L5678078,"33.363x-112.57 - Apr 10, 2017 7:43 AM",2017-04-10,2017,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,7,0.483,1,33.3632744,-112.5699387,1,1,city_0340_arizona_buckeye
+S41503113,L6366717,House-Miller & Broadway,2018-01-01,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,74,3.138,1,33.4160351,-112.6071113,15,15,city_0340_arizona_buckeye
+S43363862,L6366717,House-Miller & Broadway,2018-03-03,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,180,,1,33.4160351,-112.6071113,12,12,city_0340_arizona_buckeye
+S43157646,L3330430,"Arlington Valley, Buckeye, AZ",2018-02-24,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,165,24.14,1,33.3696555,-112.5834274,20,20,city_0340_arizona_buckeye
+S41554010,L6366717,House-Miller & Broadway,2018-01-02,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,133,,1,33.4160351,-112.6071113,8,8,city_0340_arizona_buckeye
+S42652105,L6366717,House-Miller & Broadway,2018-02-10,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,40,,1,33.4160351,-112.6071113,7,7,city_0340_arizona_buckeye
+S43733123,L6366717,House-Miller & Broadway,2018-03-17,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,30,,1,33.4160351,-112.6071113,9,9,city_0340_arizona_buckeye
+S45399740,L7363322,AZ Buckeye (town),2018-04-29,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,15,2.5,1,33.3773441,-112.5716257,9,9,city_0340_arizona_buckeye
+S41499397,L6366717,House-Miller & Broadway,2018-01-01,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,36,,1,33.4160351,-112.6071113,6,6,city_0340_arizona_buckeye
+S41628619,L6668213,"West Warner Street, Buckeye, Arizona, US (33.413, -112.597)",2018-01-04,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,19,0.756,1,33.4129092,-112.5972027,8,8,city_0340_arizona_buckeye
+S45084038,L7306456,W. Yuma Road,2018-04-29,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4319546,-112.5932078,2,2,city_0340_arizona_buckeye
+S42128131,L6366717,House-Miller & Broadway,2018-01-21,2018,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4160351,-112.6071113,4,4,city_0340_arizona_buckeye
+S213551830,L40266210,Days Inn Buckeye,2019-05-04,2019,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,25,,1,33.4320083,-112.5931034,5,5,city_0340_arizona_buckeye
+S55342886,L9111184,W Beloat Rd,2019-04-24,2019,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,12,1.815,1,33.363203,-112.567038,7,7,city_0340_arizona_buckeye
+S52068996,L8500591,"24307 West Beloat Road, Buckeye, Arizona, US (33.363, -112.572)",2019-01-26,2019,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,25,,1,33.363261,-112.5719066,13,13,city_0340_arizona_buckeye
+S57635024,L9523461,"1610 S Miller Rd, Buckeye US-AZ (33.4313,-112.5914)",2019-06-23,2019,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,12,0.101,1,33.431284,-112.591402,3,3,city_0340_arizona_buckeye
+S65905213,L10915034,"26602 W Mc 85, Buckeye US-AZ 33.37070, -112.62310",2020-03-07,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,6,,1,33.370699,-112.623101,9,9,city_0340_arizona_buckeye
+S75013217,L12384200,Buckeye,2020-10-17,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,28,,1,33.3828044,-112.5879372,7,7,city_0340_arizona_buckeye
+S76081738,L12384200,Buckeye,2020-11-07,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,39,,1,33.3828044,-112.5879372,10,10,city_0340_arizona_buckeye
+S76821363,L12828766,"W Beloat Rd and Rooks Rd, Buckeye US-AZ (33.3776,-112.6031)",2020-11-28,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,20,,1,33.377586,-112.603116,7,7,city_0340_arizona_buckeye
+S65527192,L10915034,"26602 W Mc 85, Buckeye US-AZ 33.37070, -112.62310",2020-03-07,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,6,,1,33.370699,-112.623101,9,9,city_0340_arizona_buckeye
+S77638920,L12966568,"25157 West Beloat Road, Buckeye, Arizona, US (33.362, -112.591)",2020-12-18,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,18,,1,33.3618185,-112.5913234,5,5,city_0340_arizona_buckeye
+S74158036,L12384200,Buckeye,2020-09-26,2020,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,30,,1,33.3828044,-112.5879372,4,4,city_0340_arizona_buckeye
+S81410615,L13667824,"Buckeye, Arizona, US (33.359, -112.604)",2021-02-14,2021,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,40,,1,33.3590484,-112.6036594,9,9,city_0340_arizona_buckeye
+S83623531,L14072181,Buckeye Park,2021-03-18,2021,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,15,0.322,1,33.400928,-112.578684,10,10,city_0340_arizona_buckeye
+S93315211,L16125097,"Quiktrip at I-10 and Miller Rd (Buckeye, AZ)",2021-08-15,2021,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4295252,-112.5917959,2,2,city_0340_arizona_buckeye
+S87591528,L14838405,"Buckeye Days Inn (33.4317,-112.5934)",2021-05-06,2021,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,10,0.161,1,33.431677,-112.593387,3,3,city_0340_arizona_buckeye
+S109076266,L18870154,"Miller Road Mall (33.38980, -112.59013)",2022-04-30,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,13,,1,33.389795,-112.590131,5,5,city_0340_arizona_buckeye
+S100656011,L17417383,"24736 West Illini Street, Buckeye, Arizona, US (33.412, -112.583)",2022-01-13,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4124921,-112.5830628,4,4,city_0340_arizona_buckeye
+S108689791,L14838405,"Buckeye Days Inn (33.4317,-112.5934)",2022-04-30,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,8,,1,33.431677,-112.593387,5,5,city_0340_arizona_buckeye
+S102274704,L17682773,"23543 W Wayland Dr, Buckeye US-AZ 33.39455, -112.55679",2022-02-08,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,21,0.067,1,33.394548,-112.55679,11,11,city_0340_arizona_buckeye
+S104040036,L17978845,"Buckeye Union High School, Buckeye US-AZ 33.37361, -112.57708",2022-02-28,2022,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,32,0.11,1,33.373612,-112.577076,4,4,city_0340_arizona_buckeye
+S157514397,L28519247,"26602 W MC 85, Buckeye US-AZ 33.37028, -112.62326",2023-12-30,2023,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,0.805,1,33.370284,-112.623256,3,3,city_0340_arizona_buckeye
+S156191529,L14280913,"24808–24998 W Hazen Rd, Buckeye US-AZ 33.35595, -112.60526",2023-12-12,2023,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,6,,1,33.355952,-112.605257,8,8,city_0340_arizona_buckeye
+S144447388,L12983731,23654 W Levi Dr,2023-07-13,2023,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,15,,1,33.405198,-112.559799,4,4,city_0340_arizona_buckeye
+S129528896,L1879395,"Watson Road and Broadway Road, Buckeye",2023-02-24,2023,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.4066317,-112.5563661,1,1,city_0340_arizona_buckeye
+S177840625,L12983731,23654 W Levi Dr,2024-05-28,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,30,,1,33.405198,-112.559799,13,13,city_0340_arizona_buckeye
+S163271445,L29570684,"9345 S 239th Ave, Buckeye US-AZ 33.37040, -112.56541",2024-02-29,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,90,3.099,1,33.3704,-112.565407,13,13,city_0340_arizona_buckeye
+S174889658,L31846394,"25560 W MC 85, Buckeye US-AZ 33.37095, -112.59968",2024-05-16,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,7,1.063,1,33.370952,-112.59968,8,8,city_0340_arizona_buckeye
+S207220382,L39008000,"26602 W MC 85, Buckeye US-AZ 33.37067, -112.62327",2024-12-30,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,12,,1,33.370665,-112.623271,5,5,city_0340_arizona_buckeye
+S161762503,L29302304,"26602 W MC 85, Buckeye US-AZ 33.37064, -112.62335",2024-02-16,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,11,,1,33.370643,-112.623351,6,6,city_0340_arizona_buckeye
+S204019085,L38340804,"W Beloat Rd, Buckeye US-AZ",2024-11-29,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,7,0.69,1,33.36317,-112.565843,7,7,city_0340_arizona_buckeye
+S177972024,L32527707,"25066 W Dove Trail, Buckeye US-AZ 33.39676, -112.58943",2024-05-29,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.396765,-112.589429,3,3,city_0340_arizona_buckeye
+S182185291,L33530373,Guadalupe Triangle,2024-06-17,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,10,0.161,1,33.3842067,-112.5905943,1,1,city_0340_arizona_buckeye
+S206244900,L38781971,"25998 West Hazen Road, Buckeye, Arizona, US (33.356, -112.607)",2024-12-22,2024,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.3559219,-112.6071999,1,1,city_0340_arizona_buckeye
+S211045758,L39781792,W Beloit Rd,2025-01-28,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,18,,1,33.3631964,-112.5686197,8,8,city_0340_arizona_buckeye
+S211041065,L39499844,"Hazen Rd, east of MC 85",2025-01-28,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,5,,1,33.3736943,-112.6072585,2,2,city_0340_arizona_buckeye
+S211874655,L39951407,"S Miller Rd, Buckeye US-AZ 33.36098, -112.59094",2025-02-03,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,16,,1,33.360982,-112.590944,3,3,city_0340_arizona_buckeye
+S210943668,L39762180,"W Beloat Rd, Buckeye US-AZ 33.36316, -112.56944",2025-01-27,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,10,,1,33.363161,-112.569444,9,9,city_0340_arizona_buckeye
+S209662217,L39499844,"Hazen Rd, east of MC 85",2025-01-17,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,25,1.609,1,33.3736943,-112.6072585,11,11,city_0340_arizona_buckeye
+S280213890,L54218374,Buckeye,2025-10-15,2025,340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,27301882.383658,30,,1,33.4098583,-112.580049,2,2,city_0340_arizona_buckeye

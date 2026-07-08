@@ -1,6 +1,6 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S30628359,2016-07-10,2016,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,31,8.851,1,26.265679,-98.554877,15,15,city_2502_texas_sullivan_city
-S50775422,2018-12-18,2018,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,24,26.969,1,26.284509,-98.581318,9,9,city_2502_texas_sullivan_city
-S52311874,2019-02-02,2019,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,5,,1,26.275264,-98.5586412,3,3,city_2502_texas_sullivan_city
-S121588231,2022-10-30,2022,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,6,8.358,1,26.274395,-98.555561,3,3,city_2502_texas_sullivan_city
-S131441112,2023-03-21,2023,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,7,7.876,1,26.274239,-98.555023,4,4,city_2502_texas_sullivan_city
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S30628359,L4775715,US-TX-Sullivan City-602 FM 886 - 26.2657x-98.5549,2016-07-10,2016,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,31,8.851,1,26.265679,-98.554877,15,15,city_2502_texas_sullivan_city
+S50775422,L8271837,"8001–8011 E US Highway 83, Rio Grande City US-TX (26.2845,-98.5813)",2018-12-18,2018,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,24,26.969,1,26.284509,-98.581318,9,9,city_2502_texas_sullivan_city
+S52311874,L8545554,"458 Cenizo Street, Sullivan City, Texas, US (26.275, -98.559)",2019-02-02,2019,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,5,,1,26.275264,-98.5586412,3,3,city_2502_texas_sullivan_city
+S121588231,L8372928,"647–721 E Expressway 83, Sullivan City US-TX (26.2744,-98.5556)",2022-10-30,2022,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,6,8.358,1,26.274395,-98.555561,3,3,city_2502_texas_sullivan_city
+S131441112,L23151974,"US-83 W, Sullivan City US-TX 26.27424, -98.55502",2023-03-21,2023,2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,9120445.62892182,7,7.876,1,26.274239,-98.555023,4,4,city_2502_texas_sullivan_city

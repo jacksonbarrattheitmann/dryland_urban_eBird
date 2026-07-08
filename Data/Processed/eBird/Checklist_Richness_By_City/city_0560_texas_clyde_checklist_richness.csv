@@ -1,11 +1,11 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24378695,2015-07-25,2015,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,30,,1,32.3870194,-99.4861686,10,10,city_0560_texas_clyde
-S27256549,2016-02-01,2016,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,,1,32.4098619,-99.4975777,2,2,city_0560_texas_clyde
-S27256708,2016-02-01,2016,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,,1,32.4098838,-99.4975165,2,2,city_0560_texas_clyde
-S38314360,2017-07-20,2017,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,1,1,32.4108,-99.488605,2,2,city_0560_texas_clyde
-S38241844,2017-07-20,2017,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,1,1,32.4108,-99.488605,2,2,city_0560_texas_clyde
-S62780576,2019-12-27,2019,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,14,17.703,1,32.4032025,-99.5075806,11,11,city_0560_texas_clyde
-S61464936,2019-11-15,2019,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,6,2.266,1,32.4077267,-99.5077742,10,10,city_0560_texas_clyde
-S63268907,2020-01-11,2020,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,,1,32.402037,-99.508047,4,4,city_0560_texas_clyde
-S100101797,2022-01-04,2022,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,29,0.463,1,32.401788,-99.516747,6,6,city_0560_texas_clyde
-S105245301,2022-03-20,2022,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,7,0.188,1,32.395163,-99.488037,4,4,city_0560_texas_clyde
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24378695,L3811783,"BEYER FARM, CALLAHAN, TEXAS",2015-07-25,2015,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,30,,1,32.3870194,-99.4861686,10,10,city_0560_texas_clyde
+S27256549,L4211052,"clyde senior center, clyde, tx. callahan county",2016-02-01,2016,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,,1,32.4098619,-99.4975777,2,2,city_0560_texas_clyde
+S27256708,L4211063,"LAKE FORT PHANTOM HILL ABILENE TX, UNITED STATES",2016-02-01,2016,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,,1,32.4098838,-99.4975165,2,2,city_0560_texas_clyde
+S38314360,L6107646,"725 S Access Rd, Clyde US-TX (32.4108,-99.4886)",2017-07-20,2017,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,1,1,32.4108,-99.488605,2,2,city_0560_texas_clyde
+S38241844,L6107646,"725 S Access Rd, Clyde US-TX (32.4108,-99.4886)",2017-07-20,2017,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,1,1,32.4108,-99.488605,2,2,city_0560_texas_clyde
+S62780576,L10376751,FM 604 Callahan Co.,2019-12-27,2019,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,14,17.703,1,32.4032025,-99.5075806,11,11,city_0560_texas_clyde
+S61464936,L10155759,Clyde,2019-11-15,2019,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,6,2.266,1,32.4077267,-99.5077742,10,10,city_0560_texas_clyde
+S63268907,L5613974,Clyde Pond - 32.4020x-99.5080,2020-01-11,2020,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,5,,1,32.402037,-99.508047,4,4,city_0560_texas_clyde
+S100101797,L17324541,"Sunset Dr, Clyde, TX (32.4018,-99.5167)",2022-01-04,2022,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,29,0.463,1,32.401788,-99.516747,6,6,city_0560_texas_clyde
+S105245301,L18192183,"Clyde Public Park, Clyde US-TX 32.39516, -99.48804",2022-03-20,2022,560,"Clyde, TX",Clyde,Texas,Callahan,7363137.55297468,7,0.188,1,32.395163,-99.488037,4,4,city_0560_texas_clyde

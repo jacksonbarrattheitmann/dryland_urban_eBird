@@ -1,14 +1,14 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S21415558,2015-01-19,2015,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,120,,1,34.0351945,-98.9205457,7,7,city_0817_texas_electra
-S21515355,2015-01-24,2015,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,180,,1,34.0351945,-98.9205457,7,7,city_0817_texas_electra
-S21395364,2015-01-18,2015,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,120,,1,34.0351945,-98.9205457,6,6,city_0817_texas_electra
-S21397525,2015-01-18,2015,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,115,,1,34.0351945,-98.9205457,4,4,city_0817_texas_electra
-S48059855,2018-08-25,2018,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,11,,1,34.032592,-98.924077,3,3,city_0817_texas_electra
-S46146500,2018-05-29,2018,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,30,,1,34.0283402,-98.9290752,8,8,city_0817_texas_electra
-S56519253,2019-05-19,2019,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,45,,1,34.0283402,-98.9290752,11,11,city_0817_texas_electra
-S56678174,2019-05-24,2019,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,20,,1,34.0283402,-98.9290752,9,9,city_0817_texas_electra
-S76077819,2020-11-10,2020,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,17,4.324,1,34.026299,-98.912034,9,9,city_0817_texas_electra
-S133030863,2023-04-08,2023,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,8,,1,34.024401,-98.927726,5,5,city_0817_texas_electra
-S261892438,2025-07-22,2025,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,5,1.925,1,34.034802,-98.93173,8,8,city_0817_texas_electra
-S260317194,2025-07-14,2025,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,23,1.128,1,34.043753,-98.918093,9,9,city_0817_texas_electra
-S278642828,2025-10-11,2025,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,6,0.073,1,34.029384,-98.911132,5,5,city_0817_texas_electra
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21415558,L3300413,Walker Backward,2015-01-19,2015,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,120,,1,34.0351945,-98.9205457,7,7,city_0817_texas_electra
+S21515355,L3300413,Walker Backward,2015-01-24,2015,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,180,,1,34.0351945,-98.9205457,7,7,city_0817_texas_electra
+S21395364,L3300413,Walker Backward,2015-01-18,2015,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,120,,1,34.0351945,-98.9205457,6,6,city_0817_texas_electra
+S21397525,L3300413,Walker Backward,2015-01-18,2015,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,115,,1,34.0351945,-98.9205457,4,4,city_0817_texas_electra
+S48059855,L7859279,"601 W Cleveland Ave, Electra US-TX (34.0326,-98.9241)",2018-08-25,2018,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,11,,1,34.032592,-98.924077,3,3,city_0817_texas_electra
+S46146500,L7490488,electra,2018-05-29,2018,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,30,,1,34.0283402,-98.9290752,8,8,city_0817_texas_electra
+S56519253,L7490488,electra,2019-05-19,2019,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,45,,1,34.0283402,-98.9290752,11,11,city_0817_texas_electra
+S56678174,L7490488,electra,2019-05-24,2019,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,20,,1,34.0283402,-98.9290752,9,9,city_0817_texas_electra
+S76077819,L12700921,TX: Wichita Co.; Electra,2020-11-10,2020,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,17,4.324,1,34.026299,-98.912034,9,9,city_0817_texas_electra
+S133030863,L15574303,"701–703 West Ave, Electra US-TX (34.0244,-98.9277)",2023-04-08,2023,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,8,,1,34.024401,-98.927726,5,5,city_0817_texas_electra
+S261892438,L50266731,"Electra US-TX 34.03480, -98.93173",2025-07-22,2025,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,5,1.925,1,34.034802,-98.93173,8,8,city_0817_texas_electra
+S260317194,L49892028,"602 US Highway 287, Electra US-TX 34.04375, -98.91809",2025-07-14,2025,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,23,1.128,1,34.043753,-98.918093,9,9,city_0817_texas_electra
+S278642828,L53871493,"Electra City Park, Electra US-TX 34.02938, -98.91113",2025-10-11,2025,817,"Electra, TX",Electra,Texas,Wichita,4298582.56547127,6,0.073,1,34.029384,-98.911132,5,5,city_0817_texas_electra

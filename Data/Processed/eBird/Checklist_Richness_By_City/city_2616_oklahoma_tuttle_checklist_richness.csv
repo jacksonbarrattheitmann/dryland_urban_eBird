@@ -1,3 +1,3 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S79562344,2021-01-19,2021,2616,"Tuttle, OK",Tuttle,Oklahoma,Grady,10030974.6560531,45,4.828,1,35.2765278,-97.699967,19,19,city_2616_oklahoma_tuttle
-S135161372,2023-04-27,2023,2616,"Tuttle, OK",Tuttle,Oklahoma,Grady,10030974.6560531,6,,1,35.260331,-97.701481,12,12,city_2616_oklahoma_tuttle
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S79562344,L6613529,"6059-6223 East Rock Creek Road, Tuttle, Oklahoma, US (35.277, -97.7)",2021-01-19,2021,2616,"Tuttle, OK",Tuttle,Oklahoma,Grady,10030974.6560531,45,4.828,1,35.2765278,-97.699967,19,19,city_2616_oklahoma_tuttle
+S135161372,L23859241,"907 red rock estates Dr, Blanchard ok73010",2023-04-27,2023,2616,"Tuttle, OK",Tuttle,Oklahoma,Grady,10030974.6560531,6,,1,35.260331,-97.701481,12,12,city_2616_oklahoma_tuttle

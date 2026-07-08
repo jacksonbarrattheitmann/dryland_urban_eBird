@@ -1,245 +1,245 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S21717998,2015-02-07,2015,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,,1,34.9393322,-104.6911156,11,11,city_2335_new_mexico_santa_rosa
-S23700016,2015-05-29,2015,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,23,,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
-S29986242,2016-05-30,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.805,1,34.9406387,-104.6777438,25,25,city_2335_new_mexico_santa_rosa
-S30374357,2016-06-24,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.483,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
-S32053792,2016-10-15,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,17,0.161,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
-S32541604,2016-11-13,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.946614,-104.688714,5,5,city_2335_new_mexico_santa_rosa
-S28415073,2016-03-18,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9393322,-104.6911156,3,3,city_2335_new_mexico_santa_rosa
-S31042001,2016-08-09,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,,1,34.9400555,-104.6784639,8,8,city_2335_new_mexico_santa_rosa
-S60993842,2016-06-25,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.941164,-104.678011,2,2,city_2335_new_mexico_santa_rosa
-S28417861,2016-03-18,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.241,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
-S38442128,2017-08-01,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,,1,34.94791,-104.64725,4,4,city_2335_new_mexico_santa_rosa
-S40708343,2017-11-24,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S37836422,2017-06-21,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,66,0.41,1,34.93866,-104.68254,11,11,city_2335_new_mexico_santa_rosa
-S40746902,2017-11-26,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,72,0.708,1,34.9393322,-104.6911156,18,18,city_2335_new_mexico_santa_rosa
-S38714172,2017-08-19,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,0.322,1,34.9393322,-104.6911156,12,12,city_2335_new_mexico_santa_rosa
-S37729102,2017-06-21,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
-S33644448,2017-01-13,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,0.402,1,34.9398337,-104.6781414,12,12,city_2335_new_mexico_santa_rosa
-S37861631,2017-06-28,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,127,12.875,1,34.947522,-104.648049,13,13,city_2335_new_mexico_santa_rosa
-S39601628,2017-10-07,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,0.402,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
-S35266535,2017-03-18,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,38,0.402,1,34.9407656,-104.6775605,8,8,city_2335_new_mexico_santa_rosa
-S40762582,2017-11-26,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.142,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
-S34153611,2017-02-04,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946614,-104.688714,1,1,city_2335_new_mexico_santa_rosa
-S46460766,2018-06-10,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,0.348,1,34.942549,-104.677547,13,13,city_2335_new_mexico_santa_rosa
-S44574165,2018-04-14,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,63,0.805,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
-S50843291,2018-12-21,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,0.827,1,34.939693,-104.678915,7,7,city_2335_new_mexico_santa_rosa
-S43789832,2018-03-17,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.93866,-104.68254,2,2,city_2335_new_mexico_santa_rosa
-S49020619,2018-10-07,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.144,1,34.9393322,-104.6911156,1,1,city_2335_new_mexico_santa_rosa
-S57924853,2019-07-03,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,22,0.853,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
-S54941574,2019-04-14,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946932,-104.652103,1,1,city_2335_new_mexico_santa_rosa
-S56205224,2019-04-14,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946932,-104.652103,1,1,city_2335_new_mexico_santa_rosa
-S61653592,2019-11-22,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,1.609,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
-S61467054,2019-11-15,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,24,0.402,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
-S61661468,2019-11-22,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.9398337,-104.6781414,8,8,city_2335_new_mexico_santa_rosa
-S57445717,2019-06-16,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,,1,34.9393464,-104.6772638,5,5,city_2335_new_mexico_santa_rosa
-S68662627,2020-05-09,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.051,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
-S73317038,2020-09-07,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,40,21.873,1,34.947378,-104.65184,1,1,city_2335_new_mexico_santa_rosa
-S77579887,2020-12-14,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0.322,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S76269765,2020-11-14,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9363716,-104.6807394,15,15,city_2335_new_mexico_santa_rosa
-S77535771,2020-12-15,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,1.374,1,34.940935,-104.6877842,6,6,city_2335_new_mexico_santa_rosa
-S68822581,2020-05-10,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,2.781,1,34.928597,-104.691756,7,7,city_2335_new_mexico_santa_rosa
-S76138700,2020-11-04,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.944836,-104.665321,2,2,city_2335_new_mexico_santa_rosa
-S76728124,2020-11-26,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,86,4.346,1,34.9404707,-104.677757,13,13,city_2335_new_mexico_santa_rosa
-S74760585,2020-10-12,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,22,0.644,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S68663776,2020-05-09,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,2.414,1,34.928597,-104.691756,14,14,city_2335_new_mexico_santa_rosa
-S68216530,2020-05-01,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,0.084,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
-S77509323,2020-12-15,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,1.374,1,34.940935,-104.6877842,6,6,city_2335_new_mexico_santa_rosa
-S76656422,2020-11-18,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9376383,-104.6934117,3,3,city_2335_new_mexico_santa_rosa
-S74560362,2020-10-08,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.9393322,-104.6911156,2,2,city_2335_new_mexico_santa_rosa
-S94209032,2021-09-05,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0,1,34.9404707,-104.677757,14,14,city_2335_new_mexico_santa_rosa
-S80286981,2021-02-01,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.11,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
-S79609994,2021-01-20,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,,1,34.9363716,-104.6807394,13,13,city_2335_new_mexico_santa_rosa
-S99388655,2021-12-23,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.374,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S97407166,2021-11-10,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.853,1,34.9404707,-104.677757,3,3,city_2335_new_mexico_santa_rosa
-S88029312,2021-05-12,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
-S99694977,2021-12-30,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,13,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S98951027,2021-12-16,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.161,1,34.9404707,-104.677757,5,5,city_2335_new_mexico_santa_rosa
-S91291425,2021-07-05,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,1.658,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S86956120,2021-05-02,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,94,,1,34.9363716,-104.6807394,16,16,city_2335_new_mexico_santa_rosa
-S91129575,2021-07-02,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,36,0.731,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S89854576,2021-06-08,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,,1,34.944498,-104.665662,4,4,city_2335_new_mexico_santa_rosa
-S78626656,2021-01-03,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
-S79152972,2021-01-12,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S93831169,2021-08-28,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.116,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
-S94335740,2021-09-07,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,0.207,1,34.941352,-104.686359,1,1,city_2335_new_mexico_santa_rosa
-S78858416,2021-01-06,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,30,16.093,1,34.9436796,-104.6830996,3,3,city_2335_new_mexico_santa_rosa
-S94476583,2021-09-10,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,0.218,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
-S95180200,2021-09-25,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.066,1,34.9393322,-104.6911156,1,1,city_2335_new_mexico_santa_rosa
-S100245349,2022-01-06,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,1.307,1,34.9404707,-104.677757,12,12,city_2335_new_mexico_santa_rosa
-S106830505,2022-04-11,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,120,,1,34.9404707,-104.677757,7,7,city_2335_new_mexico_santa_rosa
-S100771591,2022-01-15,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,17,0.97,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S104590519,2022-03-10,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.9393322,-104.6911156,6,6,city_2335_new_mexico_santa_rosa
-S106122288,2022-04-02,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S118796395,2022-09-15,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,46,0.563,1,34.9393322,-104.6911156,24,24,city_2335_new_mexico_santa_rosa
-S120244818,2022-10-08,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.115,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
-S109810289,2022-05-12,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.209,1,34.9393322,-104.6911156,12,12,city_2335_new_mexico_santa_rosa
-S124031229,2022-12-15,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,119,3.203,1,34.9393322,-104.6911156,25,25,city_2335_new_mexico_santa_rosa
-S100460620,2022-01-09,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,50,0.203,1,34.937812,-104.683478,8,8,city_2335_new_mexico_santa_rosa
-S100465647,2022-01-09,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,41,0.223,1,34.937562,-104.683119,4,4,city_2335_new_mexico_santa_rosa
-S115925459,2022-07-28,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,64,,1,34.945107,-104.665842,11,11,city_2335_new_mexico_santa_rosa
-S123973705,2022-12-14,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,16,,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S123041232,2022-11-26,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,11.066,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
-S112895134,2022-06-12,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.9393322,-104.6911156,6,6,city_2335_new_mexico_santa_rosa
-S100769938,2022-01-15,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.937494,-104.682895,10,10,city_2335_new_mexico_santa_rosa
-S118477914,2022-09-10,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,68,,1,34.947299,-104.648502,5,5,city_2335_new_mexico_santa_rosa
-S106661436,2022-04-02,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9440025,-104.6821054,4,4,city_2335_new_mexico_santa_rosa
-S118338859,2022-09-08,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,0.188,1,34.9393322,-104.6911156,6,6,city_2335_new_mexico_santa_rosa
-S100255448,2022-01-06,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
-S116184811,2022-08-01,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,0.316,1,34.9404707,-104.677757,5,5,city_2335_new_mexico_santa_rosa
-S109930457,2022-05-13,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,0.14,1,34.9393322,-104.6911156,12,12,city_2335_new_mexico_santa_rosa
-S105109000,2022-03-18,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,60,,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
-S117232757,2022-08-19,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.101,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
-S116183542,2022-08-01,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,30,,1,34.9449554,-104.6654723,3,3,city_2335_new_mexico_santa_rosa
-S106120818,2022-04-02,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S112894984,2022-06-12,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946614,-104.688714,4,4,city_2335_new_mexico_santa_rosa
-S122949116,2022-11-24,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.947517,-104.648538,3,3,city_2335_new_mexico_santa_rosa
-S119357860,2022-09-24,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,13,0.177,1,34.9404707,-104.677757,2,2,city_2335_new_mexico_santa_rosa
-S104466640,2022-03-08,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,,1,34.9443847,-104.6693535,2,2,city_2335_new_mexico_santa_rosa
-S126651192,2023-01-21,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0.357,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
-S154370993,2023-11-13,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
-S157356224,2023-12-28,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,,1,34.9404707,-104.677757,7,7,city_2335_new_mexico_santa_rosa
-S138152837,2023-05-17,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,39,0.331,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
-S138072030,2023-05-16,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,70,0.491,1,34.9393322,-104.6911156,27,27,city_2335_new_mexico_santa_rosa
-S138391790,2023-05-19,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,93,2.575,1,34.9393322,-104.6911156,22,22,city_2335_new_mexico_santa_rosa
-S137286154,2023-05-12,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,66,0.503,1,34.9393322,-104.6911156,21,21,city_2335_new_mexico_santa_rosa
-S138354243,2023-05-19,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,21,0.219,1,34.9393322,-104.6911156,17,17,city_2335_new_mexico_santa_rosa
-S134672443,2023-04-22,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,0.09,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
-S125991314,2023-01-12,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.353,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
-S137009277,2023-05-09,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,1.609,1,34.9393322,-104.6911156,2,2,city_2335_new_mexico_santa_rosa
-S136702468,2023-04-18,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,0.805,1,34.934116,-104.691808,3,3,city_2335_new_mexico_santa_rosa
-S147573686,2023-07-13,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,40,,1,34.935651,-104.684258,6,6,city_2335_new_mexico_santa_rosa
-S154465165,2023-11-14,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.944661,-104.670448,3,3,city_2335_new_mexico_santa_rosa
-S128345660,2023-02-14,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,2.668,1,34.9404707,-104.677757,20,20,city_2335_new_mexico_santa_rosa
-S149779114,2023-09-13,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,55,0.829,1,34.9393322,-104.6911156,30,30,city_2335_new_mexico_santa_rosa
-S135610683,2023-04-30,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0.225,1,34.9393322,-104.6911156,11,11,city_2335_new_mexico_santa_rosa
-S157357442,2023-12-28,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,0.161,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
-S143256719,2023-07-01,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,,1,34.9423359,-104.6911369,5,5,city_2335_new_mexico_santa_rosa
-S153619307,2023-11-02,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,44,0.602,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
-S135826019,2023-05-02,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,0.805,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
-S138007711,2023-05-15,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.161,1,34.9393322,-104.6911156,12,12,city_2335_new_mexico_santa_rosa
-S134918666,2023-04-24,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,0.317,1,34.9393322,-104.6911156,15,15,city_2335_new_mexico_santa_rosa
-S125118466,2023-01-01,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,50,,1,34.937296,-104.683217,15,15,city_2335_new_mexico_santa_rosa
-S130186010,2023-03-04,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,37,1.127,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
-S130150749,2023-03-03,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.803,1,34.9404707,-104.677757,4,4,city_2335_new_mexico_santa_rosa
-S157247875,2023-12-27,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,16,0.573,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
-S133344528,2023-04-10,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,60,1.111,1,34.9393322,-104.6911156,21,21,city_2335_new_mexico_santa_rosa
-S133969392,2023-04-16,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,51,0.172,1,34.9393322,-104.6911156,17,17,city_2335_new_mexico_santa_rosa
-S141153728,2023-06-10,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,0.605,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
-S136506168,2023-05-07,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,57,1.191,1,34.9393322,-104.6911156,28,28,city_2335_new_mexico_santa_rosa
-S149400697,2023-09-08,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,41,0.328,1,34.9393322,-104.6911156,25,25,city_2335_new_mexico_santa_rosa
-S129644600,2023-02-25,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,51,2.035,1,34.9404707,-104.677757,13,13,city_2335_new_mexico_santa_rosa
-S137711668,2023-05-14,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9361051,-104.6954205,13,13,city_2335_new_mexico_santa_rosa
-S157535024,2023-12-30,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S136825579,2023-05-09,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.211,1,34.9393322,-104.6911156,11,11,city_2335_new_mexico_santa_rosa
-S152491400,2023-10-17,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,0.177,1,34.9393322,-104.6911156,3,3,city_2335_new_mexico_santa_rosa
-S133985482,2023-04-16,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.054,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
-S136702346,2023-04-18,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,19,0.351,1,34.9404707,-104.677757,4,4,city_2335_new_mexico_santa_rosa
-S126808086,2023-01-23,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.209,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S129890368,2023-02-24,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,,1,34.9375765,-104.6924594,3,3,city_2335_new_mexico_santa_rosa
-S146679622,2023-08-07,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.946978,-104.648017,2,2,city_2335_new_mexico_santa_rosa
-S183520354,2024-06-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,46,1.593,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
-S167783435,2024-04-08,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0.869,1,34.9404707,-104.677757,14,14,city_2335_new_mexico_santa_rosa
-S197687715,2024-10-05,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,24,0.122,1,34.9393322,-104.6911156,11,11,city_2335_new_mexico_santa_rosa
-S174750668,2024-05-12,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,92,0.602,1,34.9393322,-104.6911156,56,56,city_2335_new_mexico_santa_rosa
-S177867711,2024-05-28,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.656,1,34.9393322,-104.6911156,23,23,city_2335_new_mexico_santa_rosa
-S172848506,2024-05-08,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,84,3.399,1,34.9393322,-104.6911156,27,27,city_2335_new_mexico_santa_rosa
-S177655251,2024-05-27,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,67,1.304,1,34.9393322,-104.6911156,23,23,city_2335_new_mexico_santa_rosa
-S173042191,2024-05-09,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,23,0.418,1,34.9393322,-104.6911156,19,19,city_2335_new_mexico_santa_rosa
-S194781907,2024-09-11,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,47,0.312,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
-S174591329,2024-05-14,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,65,0.334,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
-S174066524,2024-05-12,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,110,3.219,1,34.9398325,-104.6878605,34,34,city_2335_new_mexico_santa_rosa
-S176729674,2024-05-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,,1,34.94362,-104.682004,13,13,city_2335_new_mexico_santa_rosa
-S177377583,2024-05-26,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,42,0.644,1,34.9398325,-104.6878605,20,20,city_2335_new_mexico_santa_rosa
-S162814698,2024-02-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,57,2.535,1,34.9404707,-104.677757,13,13,city_2335_new_mexico_santa_rosa
-S203532598,2024-11-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,40,1.287,1,34.9404707,-104.677757,15,15,city_2335_new_mexico_santa_rosa
-S157888733,2024-01-02,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,26,0.596,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
-S197822061,2024-10-06,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,28,0.193,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
-S176740350,2024-05-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.053,1,34.9393322,-104.6911156,15,15,city_2335_new_mexico_santa_rosa
-S172335186,2024-05-05,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,90,,1,34.937296,-104.683217,39,39,city_2335_new_mexico_santa_rosa
-S206159653,2024-12-21,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,89,0.526,1,34.9393322,-104.6911156,21,21,city_2335_new_mexico_santa_rosa
-S205873894,2024-12-18,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,88,0.61,1,34.9393322,-104.6911156,22,22,city_2335_new_mexico_santa_rosa
-S165546509,2024-03-20,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946902,-104.6522068,3,3,city_2335_new_mexico_santa_rosa
-S169957867,2024-04-23,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,60,0.805,1,34.9398325,-104.6878605,24,24,city_2335_new_mexico_santa_rosa
-S189405160,2024-07-29,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.322,1,34.9398325,-104.6878605,15,15,city_2335_new_mexico_santa_rosa
-S177529620,2024-05-27,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,,1,34.94362,-104.682004,10,10,city_2335_new_mexico_santa_rosa
-S204574026,2024-12-05,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946614,-104.688714,4,4,city_2335_new_mexico_santa_rosa
-S168396591,2024-04-13,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.696,1,34.9404707,-104.677757,13,13,city_2335_new_mexico_santa_rosa
-S159580883,2024-01-22,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,29,1.094,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
-S204574311,2024-12-05,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.161,1,34.9393322,-104.6911156,3,3,city_2335_new_mexico_santa_rosa
-S190902069,2024-08-10,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.145,1,34.948181,-104.643728,2,2,city_2335_new_mexico_santa_rosa
-S202288232,2024-11-12,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9410095,-104.686231,1,1,city_2335_new_mexico_santa_rosa
-S191848367,2024-08-17,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.204,1,34.9404707,-104.677757,5,5,city_2335_new_mexico_santa_rosa
-S173791167,2024-05-11,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.932445,-104.679502,12,12,city_2335_new_mexico_santa_rosa
-S204574241,2024-12-04,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.161,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
-S166734860,2024-03-31,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.9404707,-104.677757,4,4,city_2335_new_mexico_santa_rosa
-S192050146,2024-08-19,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,0.402,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
-S189624021,2024-07-30,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,26,,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
-S171029414,2024-04-29,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,62,0.805,1,34.9398325,-104.6878605,24,24,city_2335_new_mexico_santa_rosa
-S175499110,2024-05-18,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,32,1.143,1,34.947092,-104.648006,9,9,city_2335_new_mexico_santa_rosa
-S169701864,2024-04-21,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.28,1,34.946576,-104.652019,4,4,city_2335_new_mexico_santa_rosa
-S167745845,2024-04-08,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9404707,-104.677757,5,5,city_2335_new_mexico_santa_rosa
-S161053751,2024-02-09,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,,1,34.9444248,-104.6828084,4,4,city_2335_new_mexico_santa_rosa
-S206131453,2024-12-21,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,22,0.542,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
-S175493016,2024-05-18,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,32,1.143,1,34.947092,-104.648006,9,9,city_2335_new_mexico_santa_rosa
-S194784255,2024-09-11,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,46,0.312,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
-S167947007,2024-04-09,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,16,1.563,1,34.9404707,-104.677757,12,12,city_2335_new_mexico_santa_rosa
-S290140043,2025-12-25,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,16,0.797,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
-S216365238,2025-03-02,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.299,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S212180411,2025-02-06,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,,1,34.9404707,-104.677757,12,12,city_2335_new_mexico_santa_rosa
-S291084677,2025-12-29,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,0.384,1,34.9404707,-104.677757,7,7,city_2335_new_mexico_santa_rosa
-S283784479,2025-11-08,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,38,1.298,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
-S209332985,2025-01-14,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,37,0.869,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
-S243412442,2025-05-27,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.438,1,34.9393322,-104.6911156,14,14,city_2335_new_mexico_santa_rosa
-S276149938,2025-09-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,39,0.917,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
-S245214955,2025-05-31,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.329,1,34.9393322,-104.6911156,20,20,city_2335_new_mexico_santa_rosa
-S277924539,2025-10-07,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,31,0.402,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
-S239392811,2025-05-17,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,24,0.521,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
-S237057054,2025-05-12,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.483,1,34.9398325,-104.6878605,16,16,city_2335_new_mexico_santa_rosa
-S242927503,2025-05-22,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.946902,-104.6522068,2,2,city_2335_new_mexico_santa_rosa
-S268060676,2025-08-18,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,37,0.739,1,34.947092,-104.648006,7,7,city_2335_new_mexico_santa_rosa
-S234306856,2025-05-07,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,0.223,1,34.9404707,-104.677757,3,3,city_2335_new_mexico_santa_rosa
-S215722346,2025-02-27,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,21,0.498,1,34.9404707,-104.677757,14,14,city_2335_new_mexico_santa_rosa
-S228237497,2025-04-22,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.563,1,34.9404707,-104.677757,12,12,city_2335_new_mexico_santa_rosa
-S211039718,2025-01-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,13,1.561,1,34.9404707,-104.677757,17,17,city_2335_new_mexico_santa_rosa
-S266689789,2025-08-08,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,43,0.988,1,34.9404707,-104.677757,7,7,city_2335_new_mexico_santa_rosa
-S244921782,2025-05-31,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,0.223,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
-S212330635,2025-02-07,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,1.384,1,34.9404707,-104.677757,16,16,city_2335_new_mexico_santa_rosa
-S212094394,2025-02-05,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,74,1.545,1,34.9404707,-104.677757,20,20,city_2335_new_mexico_santa_rosa
-S214929431,2025-02-22,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,49,2.419,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
-S220964385,2025-03-26,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,29,1.289,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S223002912,2025-04-04,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,32,5.395,1,34.9393322,-104.6911156,18,18,city_2335_new_mexico_santa_rosa
-S234383458,2025-05-07,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.3,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
-S275285107,2025-09-24,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,28,0.349,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
-S289110604,2025-12-18,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,45,0.161,1,34.9398325,-104.6878605,17,17,city_2335_new_mexico_santa_rosa
-S227821471,2025-04-21,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,37,0.161,1,34.9398325,-104.6878605,20,20,city_2335_new_mexico_santa_rosa
-S264593248,2025-08-02,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.943216,-104.677566,4,4,city_2335_new_mexico_santa_rosa
-S215765700,2025-02-27,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,26,0.901,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
-S214542414,2025-02-20,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,,1,34.9404707,-104.677757,15,15,city_2335_new_mexico_santa_rosa
-S238994718,2025-05-16,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,0.293,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
-S241618097,2025-05-23,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,22,0.063,1,34.9393322,-104.6911156,19,19,city_2335_new_mexico_santa_rosa
-S233222162,2025-05-04,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,65,1.609,1,34.9398325,-104.6878605,23,23,city_2335_new_mexico_santa_rosa
-S263477083,2025-07-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,41,0.79,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
-S289239190,2025-12-19,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
-S287169026,2025-12-03,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.401,1,34.9393322,-104.6911156,18,18,city_2335_new_mexico_santa_rosa
-S220954730,2025-03-26,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,0.401,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
-S212199682,2025-02-06,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9398325,-104.6878605,5,5,city_2335_new_mexico_santa_rosa
-S262630213,2025-07-23,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.946902,-104.6522068,2,2,city_2335_new_mexico_santa_rosa
-S283798936,2025-11-09,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.541,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
-S289126504,2025-12-18,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.191,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
-S268135031,2025-08-18,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9393322,-104.6911156,3,3,city_2335_new_mexico_santa_rosa
-S241747627,2025-05-23,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.322,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
-S244392761,2025-05-29,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,52,1.368,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
-S241032394,2025-05-21,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,41,1.609,1,34.9398325,-104.6878605,19,19,city_2335_new_mexico_santa_rosa
-S286526150,2025-11-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,1.609,1,34.9398325,-104.6878605,16,16,city_2335_new_mexico_santa_rosa
-S288474930,2025-12-13,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
-S271095043,2025-09-02,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,28,0.347,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
-S230067345,2025-04-27,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,0.157,1,34.9422411,-104.6915264,1,1,city_2335_new_mexico_santa_rosa
-S230533384,2025-04-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,34,,1,34.9468787,-104.6516396,1,1,city_2335_new_mexico_santa_rosa
-S218748318,2025-03-15,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,23,0.708,1,34.9404707,-104.677757,3,3,city_2335_new_mexico_santa_rosa
-S264624760,2025-08-01,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9393322,-104.6911156,1,1,city_2335_new_mexico_santa_rosa
-S226206588,2025-04-16,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,0.383,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
-S288748400,2025-12-15,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,23,42.312,1,34.9393322,-104.6911156,2,2,city_2335_new_mexico_santa_rosa
-S210746086,2025-01-26,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9470083,-104.6481675,2,2,city_2335_new_mexico_santa_rosa
-S258242917,2025-07-08,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9393322,-104.6911156,1,1,city_2335_new_mexico_santa_rosa
-S208861977,2025-01-11,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,30,55.322,1,34.939954,-104.6902357,2,2,city_2335_new_mexico_santa_rosa
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21717998,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2015-02-07,2015,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,,1,34.9393322,-104.6911156,11,11,city_2335_new_mexico_santa_rosa
+S23700016,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2015-05-29,2015,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,23,,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
+S29986242,L4655116,US-NM-GUA-Lake Park,2016-05-30,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.805,1,34.9406387,-104.6777438,25,25,city_2335_new_mexico_santa_rosa
+S30374357,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2016-06-24,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.483,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
+S32053792,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2016-10-15,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,17,0.161,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
+S32541604,L9065549,Fifth Street Pond,2016-11-13,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.946614,-104.688714,5,5,city_2335_new_mexico_santa_rosa
+S28415073,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2016-03-18,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9393322,-104.6911156,3,3,city_2335_new_mexico_santa_rosa
+S31042001,L4848460,"Lake Park, Santa Rosa, NM",2016-08-09,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,,1,34.9400555,-104.6784639,8,8,city_2335_new_mexico_santa_rosa
+S60993842,L10088438,"88435, Santa Rosa US-NM (34.9412,-104.6780)",2016-06-25,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.941164,-104.678011,2,2,city_2335_new_mexico_santa_rosa
+S28417861,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2016-03-18,2016,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.241,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
+S38442128,L6145803,"2524 Historic Route 66, Santa Rosa US-NM (34.9479,-104.6472)",2017-08-01,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,,1,34.94791,-104.64725,4,4,city_2335_new_mexico_santa_rosa
+S40708343,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2017-11-24,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S37836422,L197965,Santa Rosa,2017-06-21,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,66,0.41,1,34.93866,-104.68254,11,11,city_2335_new_mexico_santa_rosa
+S40746902,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2017-11-26,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,72,0.708,1,34.9393322,-104.6911156,18,18,city_2335_new_mexico_santa_rosa
+S38714172,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2017-08-19,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,0.322,1,34.9393322,-104.6911156,12,12,city_2335_new_mexico_santa_rosa
+S37729102,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2017-06-21,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
+S33644448,L5253731,"NM, Guadalupe Co. - Santa Rosa -- Park Lake",2017-01-13,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,0.402,1,34.9398337,-104.6781414,12,12,city_2335_new_mexico_santa_rosa
+S37861631,L6031259,"2524 Historic Route 66, Santa Rosa US-NM (34.9475,-104.6480)",2017-06-28,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,127,12.875,1,34.947522,-104.648049,13,13,city_2335_new_mexico_santa_rosa
+S39601628,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2017-10-07,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,0.402,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
+S35266535,L5588495,US-New Mexico-Santa Rosa park,2017-03-18,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,38,0.402,1,34.9407656,-104.6775605,8,8,city_2335_new_mexico_santa_rosa
+S40762582,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2017-11-26,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.142,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
+S34153611,L9065549,Fifth Street Pond,2017-02-04,2017,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946614,-104.688714,1,1,city_2335_new_mexico_santa_rosa
+S46460766,L7554001,"1000–1048 Lake Dr, Santa Rosa US-NM (34.9425,-104.6775)",2018-06-10,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,0.348,1,34.942549,-104.677547,13,13,city_2335_new_mexico_santa_rosa
+S44574165,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2018-04-14,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,63,0.805,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
+S50843291,L8283169,"801–899 Blue Hole Rd, Santa Rosa US-NM (34.9397,-104.6789)",2018-12-21,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,0.827,1,34.939693,-104.678915,7,7,city_2335_new_mexico_santa_rosa
+S43789832,L197965,Santa Rosa,2018-03-17,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.93866,-104.68254,2,2,city_2335_new_mexico_santa_rosa
+S49020619,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2018-10-07,2018,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.144,1,34.9393322,-104.6911156,1,1,city_2335_new_mexico_santa_rosa
+S57924853,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2019-07-03,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,22,0.853,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
+S54941574,L9040928,"2464 Will Rogers Dr, Santa Rosa US-NM (34.9469,-104.6521)",2019-04-14,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946932,-104.652103,1,1,city_2335_new_mexico_santa_rosa
+S56205224,L9040928,"2464 Will Rogers Dr, Santa Rosa US-NM (34.9469,-104.6521)",2019-04-14,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946932,-104.652103,1,1,city_2335_new_mexico_santa_rosa
+S61653592,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2019-11-22,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,1.609,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
+S61467054,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2019-11-15,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,24,0.402,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
+S61661468,L5253731,"NM, Guadalupe Co. - Santa Rosa -- Park Lake",2019-11-22,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.9398337,-104.6781414,8,8,city_2335_new_mexico_santa_rosa
+S57445717,L9483798,"913 Blue Hole Road, Santa Rosa, New Mexico, US (34.939, -104.677)",2019-06-16,2019,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,,1,34.9393464,-104.6772638,5,5,city_2335_new_mexico_santa_rosa
+S68662627,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2020-05-09,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.051,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
+S73317038,L12244070,"2505–2513 Historic Route 66, Santa Rosa US-NM 34.94738, -104.65184",2020-09-07,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,40,21.873,1,34.947378,-104.65184,1,1,city_2335_new_mexico_santa_rosa
+S77579887,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2020-12-14,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0.322,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S76269765,L12733844,"452 Casaus Ave Santa Rosa, NM 88435",2020-11-14,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9363716,-104.6807394,15,15,city_2335_new_mexico_santa_rosa
+S77535771,L12944273,"130 South 3rd Street, Santa Rosa, New Mexico, US (34.941, -104.688)",2020-12-15,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,1.374,1,34.940935,-104.6877842,6,6,city_2335_new_mexico_santa_rosa
+S68822581,L11374932,"River Rd, Santa Rosa US-NM",2020-05-10,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,2.781,1,34.928597,-104.691756,7,7,city_2335_new_mexico_santa_rosa
+S76138700,L12711232,"2306 Historic Route 66, Santa Rosa US-NM (34.9448,-104.6653)",2020-11-04,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.944836,-104.665321,2,2,city_2335_new_mexico_santa_rosa
+S76728124,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2020-11-26,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,86,4.346,1,34.9404707,-104.677757,13,13,city_2335_new_mexico_santa_rosa
+S74760585,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2020-10-12,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,22,0.644,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S68663776,L11374932,"River Rd, Santa Rosa US-NM",2020-05-09,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,2.414,1,34.928597,-104.691756,14,14,city_2335_new_mexico_santa_rosa
+S68216530,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2020-05-01,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,0.084,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
+S77509323,L12944273,"130 South 3rd Street, Santa Rosa, New Mexico, US (34.941, -104.688)",2020-12-15,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,1.374,1,34.940935,-104.6877842,6,6,city_2335_new_mexico_santa_rosa
+S76656422,L12798857,"US 54 @ US 84, Santa Rosa",2020-11-18,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9376383,-104.6934117,3,3,city_2335_new_mexico_santa_rosa
+S74560362,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2020-10-08,2020,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.9393322,-104.6911156,2,2,city_2335_new_mexico_santa_rosa
+S94209032,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-09-05,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0,1,34.9404707,-104.677757,14,14,city_2335_new_mexico_santa_rosa
+S80286981,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-02-01,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.11,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
+S79609994,L12733844,"452 Casaus Ave Santa Rosa, NM 88435",2021-01-20,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,,1,34.9363716,-104.6807394,13,13,city_2335_new_mexico_santa_rosa
+S99388655,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-12-23,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.374,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S97407166,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-11-10,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.853,1,34.9404707,-104.677757,3,3,city_2335_new_mexico_santa_rosa
+S88029312,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2021-05-12,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
+S99694977,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-12-30,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,13,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S98951027,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-12-16,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.161,1,34.9404707,-104.677757,5,5,city_2335_new_mexico_santa_rosa
+S91291425,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-07-05,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,1.658,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S86956120,L12733844,"452 Casaus Ave Santa Rosa, NM 88435",2021-05-02,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,94,,1,34.9363716,-104.6807394,16,16,city_2335_new_mexico_santa_rosa
+S91129575,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-07-02,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,36,0.731,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S89854576,L15298951,"2306 Historic Route 66, Santa Rosa US-NM 34.94450, -104.66566",2021-06-08,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,,1,34.944498,-104.665662,4,4,city_2335_new_mexico_santa_rosa
+S78626656,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-01-03,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
+S79152972,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2021-01-12,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S93831169,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2021-08-28,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.116,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
+S94335740,L16320486,"150 S Fourth St, Santa Rosa US-NM 34.94135, -104.68636",2021-09-07,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,0.207,1,34.941352,-104.686359,1,1,city_2335_new_mexico_santa_rosa
+S78858416,L13199188,Santa Rosa NM,2021-01-06,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,30,16.093,1,34.9436796,-104.6830996,3,3,city_2335_new_mexico_santa_rosa
+S94476583,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2021-09-10,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,0.218,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
+S95180200,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2021-09-25,2021,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.066,1,34.9393322,-104.6911156,1,1,city_2335_new_mexico_santa_rosa
+S100245349,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-01-06,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,1.307,1,34.9404707,-104.677757,12,12,city_2335_new_mexico_santa_rosa
+S106830505,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-04-11,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,120,,1,34.9404707,-104.677757,7,7,city_2335_new_mexico_santa_rosa
+S100771591,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-01-15,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,17,0.97,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S104590519,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-03-10,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.9393322,-104.6911156,6,6,city_2335_new_mexico_santa_rosa
+S106122288,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-04-02,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S118796395,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-09-15,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,46,0.563,1,34.9393322,-104.6911156,24,24,city_2335_new_mexico_santa_rosa
+S120244818,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-10-08,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.115,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
+S109810289,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-05-12,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.209,1,34.9393322,-104.6911156,12,12,city_2335_new_mexico_santa_rosa
+S124031229,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-12-15,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,119,3.203,1,34.9393322,-104.6911156,25,25,city_2335_new_mexico_santa_rosa
+S100460620,L17385174,"Fourth Street, Santa Rosa US-NM 34.93781, -104.68348",2022-01-09,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,50,0.203,1,34.937812,-104.683478,8,8,city_2335_new_mexico_santa_rosa
+S100465647,L17385753,"537 S Fourth St, Santa Rosa US-NM 34.93756, -104.68312",2022-01-09,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,41,0.223,1,34.937562,-104.683119,4,4,city_2335_new_mexico_santa_rosa
+S115925459,L20332416,"2302 Historic Route 66, Santa Rosa US-NM 34.94511, -104.66584",2022-07-28,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,64,,1,34.945107,-104.665842,11,11,city_2335_new_mexico_santa_rosa
+S123973705,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-12-14,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,16,,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S123041232,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-11-26,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,11.066,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
+S112895134,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-06-12,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,,1,34.9393322,-104.6911156,6,6,city_2335_new_mexico_santa_rosa
+S100769938,L17437147,4th,2022-01-15,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.937494,-104.682895,10,10,city_2335_new_mexico_santa_rosa
+S118477914,L20843308,"2516 Historic Route 66, Santa Rosa US-NM 34.94730, -104.64850",2022-09-10,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,68,,1,34.947299,-104.648502,5,5,city_2335_new_mexico_santa_rosa
+S106661436,L18440075,Route 66 Inn,2022-04-02,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9440025,-104.6821054,4,4,city_2335_new_mexico_santa_rosa
+S118338859,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-09-08,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,0.188,1,34.9393322,-104.6911156,6,6,city_2335_new_mexico_santa_rosa
+S100255448,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-01-06,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
+S116184811,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-08-01,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,0.316,1,34.9404707,-104.677757,5,5,city_2335_new_mexico_santa_rosa
+S109930457,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-05-13,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,0.14,1,34.9393322,-104.6911156,12,12,city_2335_new_mexico_santa_rosa
+S105109000,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-03-18,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,60,,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
+S117232757,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2022-08-19,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.101,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
+S116183542,L20390913,"Santa Rosa, New Mexico, US (34.945, -104.665)",2022-08-01,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,30,,1,34.9449554,-104.6654723,3,3,city_2335_new_mexico_santa_rosa
+S106120818,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-04-02,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S112894984,L9065549,Fifth Street Pond,2022-06-12,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946614,-104.688714,4,4,city_2335_new_mexico_santa_rosa
+S122949116,L21626923,"2516 U.S. Route 66, Santa Rosa, New Mexico, US (34.948, -104.649)",2022-11-24,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.947517,-104.648538,3,3,city_2335_new_mexico_santa_rosa
+S119357860,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2022-09-24,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,13,0.177,1,34.9404707,-104.677757,2,2,city_2335_new_mexico_santa_rosa
+S104466640,L18055734,"1504 Will Rogers Drive, Santa Rosa, New Mexico, US (34.944, -104.669)",2022-03-08,2022,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,,1,34.9443847,-104.6693535,2,2,city_2335_new_mexico_santa_rosa
+S126651192,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-01-21,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0.357,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
+S154370993,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-11-13,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
+S157356224,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-12-28,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,,1,34.9404707,-104.677757,7,7,city_2335_new_mexico_santa_rosa
+S138152837,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-17,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,39,0.331,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
+S138072030,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-16,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,70,0.491,1,34.9393322,-104.6911156,27,27,city_2335_new_mexico_santa_rosa
+S138391790,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-19,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,93,2.575,1,34.9393322,-104.6911156,22,22,city_2335_new_mexico_santa_rosa
+S137286154,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-12,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,66,0.503,1,34.9393322,-104.6911156,21,21,city_2335_new_mexico_santa_rosa
+S138354243,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-19,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,21,0.219,1,34.9393322,-104.6911156,17,17,city_2335_new_mexico_santa_rosa
+S134672443,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-04-22,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,0.09,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
+S125991314,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-01-12,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.353,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
+S137009277,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-09,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,1.609,1,34.9393322,-104.6911156,2,2,city_2335_new_mexico_santa_rosa
+S136702468,L24158614,"513 River Rd, Santa Rosa US-NM 34.93412, -104.69181",2023-04-18,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,0.805,1,34.934116,-104.691808,3,3,city_2335_new_mexico_santa_rosa
+S147573686,L26646087,"617 S Second St, Santa Rosa US-NM 34.93565, -104.68426",2023-07-13,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,40,,1,34.935651,-104.684258,6,6,city_2335_new_mexico_santa_rosa
+S154465165,L27946616,"2252 Historic Route 66, Santa Rosa US-NM 34.94466, -104.67045",2023-11-14,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.944661,-104.670448,3,3,city_2335_new_mexico_santa_rosa
+S128345660,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-02-14,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,2.668,1,34.9404707,-104.677757,20,20,city_2335_new_mexico_santa_rosa
+S149779114,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-09-13,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,55,0.829,1,34.9393322,-104.6911156,30,30,city_2335_new_mexico_santa_rosa
+S135610683,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-04-30,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0.225,1,34.9393322,-104.6911156,11,11,city_2335_new_mexico_santa_rosa
+S157357442,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-12-28,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,0.161,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
+S143256719,L25612107,Joe Gutierrez Park,2023-07-01,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,,1,34.9423359,-104.6911369,5,5,city_2335_new_mexico_santa_rosa
+S153619307,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-11-02,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,44,0.602,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
+S135826019,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-02,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,0.805,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
+S138007711,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-15,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.161,1,34.9393322,-104.6911156,12,12,city_2335_new_mexico_santa_rosa
+S134918666,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-04-24,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,0.317,1,34.9393322,-104.6911156,15,15,city_2335_new_mexico_santa_rosa
+S125118466,L17339944,Home,2023-01-01,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,50,,1,34.937296,-104.683217,15,15,city_2335_new_mexico_santa_rosa
+S130186010,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-03-04,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,37,1.127,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
+S130150749,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-03-03,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,9,0.803,1,34.9404707,-104.677757,4,4,city_2335_new_mexico_santa_rosa
+S157247875,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-12-27,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,16,0.573,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
+S133344528,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-04-10,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,60,1.111,1,34.9393322,-104.6911156,21,21,city_2335_new_mexico_santa_rosa
+S133969392,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-04-16,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,51,0.172,1,34.9393322,-104.6911156,17,17,city_2335_new_mexico_santa_rosa
+S141153728,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-06-10,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,15,0.605,1,34.9393322,-104.6911156,7,7,city_2335_new_mexico_santa_rosa
+S136506168,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-07,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,57,1.191,1,34.9393322,-104.6911156,28,28,city_2335_new_mexico_santa_rosa
+S149400697,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-09-08,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,41,0.328,1,34.9393322,-104.6911156,25,25,city_2335_new_mexico_santa_rosa
+S129644600,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-02-25,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,51,2.035,1,34.9404707,-104.677757,13,13,city_2335_new_mexico_santa_rosa
+S137711668,L24342657,"RR Black Street, Santa Rosa, New Mexico, US (34.936, -104.695)",2023-05-14,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9361051,-104.6954205,13,13,city_2335_new_mexico_santa_rosa
+S157535024,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-12-30,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S136825579,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-05-09,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.211,1,34.9393322,-104.6911156,11,11,city_2335_new_mexico_santa_rosa
+S152491400,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-10-17,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,0.177,1,34.9393322,-104.6911156,3,3,city_2335_new_mexico_santa_rosa
+S133985482,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2023-04-16,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.054,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
+S136702346,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-04-18,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,19,0.351,1,34.9404707,-104.677757,4,4,city_2335_new_mexico_santa_rosa
+S126808086,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2023-01-23,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.209,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S129890368,L22859828,America's Best Value Inn parking Lot,2023-02-24,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,,1,34.9375765,-104.6924594,3,3,city_2335_new_mexico_santa_rosa
+S146679622,L26449318,"Holiday Inn Express Santa Rosa, 2516 Historic Route 66, Santa Rosa US-NM (34.9470,-104.6480)",2023-08-07,2023,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.946978,-104.648017,2,2,city_2335_new_mexico_santa_rosa
+S183520354,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-06-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,46,1.593,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
+S167783435,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-04-08,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,20,0.869,1,34.9404707,-104.677757,14,14,city_2335_new_mexico_santa_rosa
+S197687715,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-10-05,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,24,0.122,1,34.9393322,-104.6911156,11,11,city_2335_new_mexico_santa_rosa
+S174750668,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-05-12,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,92,0.602,1,34.9393322,-104.6911156,56,56,city_2335_new_mexico_santa_rosa
+S177867711,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-05-28,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.656,1,34.9393322,-104.6911156,23,23,city_2335_new_mexico_santa_rosa
+S172848506,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-05-08,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,84,3.399,1,34.9393322,-104.6911156,27,27,city_2335_new_mexico_santa_rosa
+S177655251,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-05-27,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,67,1.304,1,34.9393322,-104.6911156,23,23,city_2335_new_mexico_santa_rosa
+S173042191,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-05-09,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,23,0.418,1,34.9393322,-104.6911156,19,19,city_2335_new_mexico_santa_rosa
+S194781907,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-09-11,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,47,0.312,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
+S174591329,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-05-14,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,65,0.334,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
+S174066524,L30354305,Santa Rosa (railroad bridge over Pecos),2024-05-12,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,110,3.219,1,34.9398325,-104.6878605,34,34,city_2335_new_mexico_santa_rosa
+S176729674,L32238701,"1830 Historic Route 66, Santa Rosa US-NM 34.94362, -104.68200",2024-05-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,,1,34.94362,-104.682004,13,13,city_2335_new_mexico_santa_rosa
+S177377583,L30354305,Santa Rosa (railroad bridge over Pecos),2024-05-26,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,42,0.644,1,34.9398325,-104.6878605,20,20,city_2335_new_mexico_santa_rosa
+S162814698,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-02-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,57,2.535,1,34.9404707,-104.677757,13,13,city_2335_new_mexico_santa_rosa
+S203532598,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-11-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,40,1.287,1,34.9404707,-104.677757,15,15,city_2335_new_mexico_santa_rosa
+S157888733,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-01-02,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,26,0.596,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
+S197822061,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-10-06,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,28,0.193,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
+S176740350,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-05-24,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.053,1,34.9393322,-104.6911156,15,15,city_2335_new_mexico_santa_rosa
+S172335186,L17339944,Home,2024-05-05,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,90,,1,34.937296,-104.683217,39,39,city_2335_new_mexico_santa_rosa
+S206159653,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-12-21,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,89,0.526,1,34.9393322,-104.6911156,21,21,city_2335_new_mexico_santa_rosa
+S205873894,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-12-18,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,88,0.61,1,34.9393322,-104.6911156,22,22,city_2335_new_mexico_santa_rosa
+S165546509,L29998597,Santa Rosa - Pilot Travel Center,2024-03-20,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946902,-104.6522068,3,3,city_2335_new_mexico_santa_rosa
+S169957867,L30354305,Santa Rosa (railroad bridge over Pecos),2024-04-23,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,60,0.805,1,34.9398325,-104.6878605,24,24,city_2335_new_mexico_santa_rosa
+S189405160,L30354305,Santa Rosa (railroad bridge over Pecos),2024-07-29,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.322,1,34.9398325,-104.6878605,15,15,city_2335_new_mexico_santa_rosa
+S177529620,L32238701,"1830 Historic Route 66, Santa Rosa US-NM 34.94362, -104.68200",2024-05-27,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,,1,34.94362,-104.682004,10,10,city_2335_new_mexico_santa_rosa
+S204574026,L9065549,Fifth Street Pond,2024-12-05,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.946614,-104.688714,4,4,city_2335_new_mexico_santa_rosa
+S168396591,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-04-13,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.696,1,34.9404707,-104.677757,13,13,city_2335_new_mexico_santa_rosa
+S159580883,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-01-22,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,29,1.094,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
+S204574311,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-12-05,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.161,1,34.9393322,-104.6911156,3,3,city_2335_new_mexico_santa_rosa
+S190902069,L35641784,"3630 Historic Route 66, Santa Rosa US-NM 34.94818, -104.64373",2024-08-10,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.145,1,34.948181,-104.643728,2,2,city_2335_new_mexico_santa_rosa
+S202288232,L37995488,"200 South 4th Street, Santa Rosa, New Mexico, US (34.941, -104.686)",2024-11-12,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9410095,-104.686231,1,1,city_2335_new_mexico_santa_rosa
+S191848367,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-08-17,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.204,1,34.9404707,-104.677757,5,5,city_2335_new_mexico_santa_rosa
+S173791167,L31630765,"1022–1024 S Third St, Santa Rosa US-NM 34.93244, -104.67950",2024-05-11,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,,1,34.932445,-104.679502,12,12,city_2335_new_mexico_santa_rosa
+S204574241,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-12-04,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.161,1,34.9393322,-104.6911156,4,4,city_2335_new_mexico_santa_rosa
+S166734860,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-03-31,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,,1,34.9404707,-104.677757,4,4,city_2335_new_mexico_santa_rosa
+S192050146,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-08-19,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,0.402,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
+S189624021,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-07-30,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,26,,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
+S171029414,L30354305,Santa Rosa (railroad bridge over Pecos),2024-04-29,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,62,0.805,1,34.9398325,-104.6878605,24,24,city_2335_new_mexico_santa_rosa
+S175499110,L31975761,Santa Rosa - Tesla Supercharger,2024-05-18,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,32,1.143,1,34.947092,-104.648006,9,9,city_2335_new_mexico_santa_rosa
+S169701864,L30844237,"2464 Historic Route 66, Santa Rosa US-NM 34.94658, -104.65202",2024-04-21,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,0.28,1,34.946576,-104.652019,4,4,city_2335_new_mexico_santa_rosa
+S167745845,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-04-08,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9404707,-104.677757,5,5,city_2335_new_mexico_santa_rosa
+S161053751,L29172637,"1775 U.S. Route 66, Santa Rosa, New Mexico, US (34.944, -104.683)",2024-02-09,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,,1,34.9444248,-104.6828084,4,4,city_2335_new_mexico_santa_rosa
+S206131453,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-12-21,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,22,0.542,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
+S175493016,L31975761,Santa Rosa - Tesla Supercharger,2024-05-18,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,32,1.143,1,34.947092,-104.648006,9,9,city_2335_new_mexico_santa_rosa
+S194784255,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2024-09-11,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,46,0.312,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
+S167947007,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2024-04-09,2024,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,16,1.563,1,34.9404707,-104.677757,12,12,city_2335_new_mexico_santa_rosa
+S290140043,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-12-25,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,16,0.797,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
+S216365238,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-03-02,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,0.299,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S212180411,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-02-06,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,,1,34.9404707,-104.677757,12,12,city_2335_new_mexico_santa_rosa
+S291084677,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-12-29,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,0.384,1,34.9404707,-104.677757,7,7,city_2335_new_mexico_santa_rosa
+S283784479,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-11-08,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,38,1.298,1,34.9404707,-104.677757,8,8,city_2335_new_mexico_santa_rosa
+S209332985,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-01-14,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,37,0.869,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
+S243412442,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-05-27,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.438,1,34.9393322,-104.6911156,14,14,city_2335_new_mexico_santa_rosa
+S276149938,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-09-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,39,0.917,1,34.9393322,-104.6911156,13,13,city_2335_new_mexico_santa_rosa
+S245214955,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-05-31,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.329,1,34.9393322,-104.6911156,20,20,city_2335_new_mexico_santa_rosa
+S277924539,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-10-07,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,31,0.402,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
+S239392811,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-05-17,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,24,0.521,1,34.9393322,-104.6911156,16,16,city_2335_new_mexico_santa_rosa
+S237057054,L30354305,Santa Rosa (railroad bridge over Pecos),2025-05-12,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.483,1,34.9398325,-104.6878605,16,16,city_2335_new_mexico_santa_rosa
+S242927503,L29998597,Santa Rosa - Pilot Travel Center,2025-05-22,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.946902,-104.6522068,2,2,city_2335_new_mexico_santa_rosa
+S268060676,L31975761,Santa Rosa - Tesla Supercharger,2025-08-18,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,37,0.739,1,34.947092,-104.648006,7,7,city_2335_new_mexico_santa_rosa
+S234306856,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-05-07,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,6,0.223,1,34.9404707,-104.677757,3,3,city_2335_new_mexico_santa_rosa
+S215722346,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-02-27,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,21,0.498,1,34.9404707,-104.677757,14,14,city_2335_new_mexico_santa_rosa
+S228237497,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-04-22,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,27,0.563,1,34.9404707,-104.677757,12,12,city_2335_new_mexico_santa_rosa
+S211039718,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-01-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,13,1.561,1,34.9404707,-104.677757,17,17,city_2335_new_mexico_santa_rosa
+S266689789,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-08-08,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,43,0.988,1,34.9404707,-104.677757,7,7,city_2335_new_mexico_santa_rosa
+S244921782,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-05-31,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,0.223,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
+S212330635,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-02-07,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,1.384,1,34.9404707,-104.677757,16,16,city_2335_new_mexico_santa_rosa
+S212094394,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-02-05,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,74,1.545,1,34.9404707,-104.677757,20,20,city_2335_new_mexico_santa_rosa
+S214929431,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-02-22,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,49,2.419,1,34.9404707,-104.677757,11,11,city_2335_new_mexico_santa_rosa
+S220964385,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-03-26,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,29,1.289,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S223002912,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-04-04,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,32,5.395,1,34.9393322,-104.6911156,18,18,city_2335_new_mexico_santa_rosa
+S234383458,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-05-07,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.3,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
+S275285107,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-09-24,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,28,0.349,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
+S289110604,L30354305,Santa Rosa (railroad bridge over Pecos),2025-12-18,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,45,0.161,1,34.9398325,-104.6878605,17,17,city_2335_new_mexico_santa_rosa
+S227821471,L30354305,Santa Rosa (railroad bridge over Pecos),2025-04-21,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,37,0.161,1,34.9398325,-104.6878605,20,20,city_2335_new_mexico_santa_rosa
+S264593248,L50913281,Kiddie park playground,2025-08-02,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.943216,-104.677566,4,4,city_2335_new_mexico_santa_rosa
+S215765700,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-02-27,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,26,0.901,1,34.9404707,-104.677757,6,6,city_2335_new_mexico_santa_rosa
+S214542414,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-02-20,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,11,,1,34.9404707,-104.677757,15,15,city_2335_new_mexico_santa_rosa
+S238994718,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-05-16,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,18,0.293,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
+S241618097,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-05-23,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,22,0.063,1,34.9393322,-104.6911156,19,19,city_2335_new_mexico_santa_rosa
+S233222162,L30354305,Santa Rosa (railroad bridge over Pecos),2025-05-04,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,65,1.609,1,34.9398325,-104.6878605,23,23,city_2335_new_mexico_santa_rosa
+S263477083,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-07-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,41,0.79,1,34.9404707,-104.677757,10,10,city_2335_new_mexico_santa_rosa
+S289239190,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-12-19,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
+S287169026,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-12-03,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,25,0.401,1,34.9393322,-104.6911156,18,18,city_2335_new_mexico_santa_rosa
+S220954730,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-03-26,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,35,0.401,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
+S212199682,L30354305,Santa Rosa (railroad bridge over Pecos),2025-02-06,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9398325,-104.6878605,5,5,city_2335_new_mexico_santa_rosa
+S262630213,L29998597,Santa Rosa - Pilot Travel Center,2025-07-23,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.946902,-104.6522068,2,2,city_2335_new_mexico_santa_rosa
+S283798936,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-11-09,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.541,1,34.9393322,-104.6911156,10,10,city_2335_new_mexico_santa_rosa
+S289126504,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-12-18,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,0.191,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
+S268135031,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-08-18,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9393322,-104.6911156,3,3,city_2335_new_mexico_santa_rosa
+S241747627,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-05-23,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,33,0.322,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
+S244392761,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-05-29,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,52,1.368,1,34.9393322,-104.6911156,9,9,city_2335_new_mexico_santa_rosa
+S241032394,L30354305,Santa Rosa (railroad bridge over Pecos),2025-05-21,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,41,1.609,1,34.9398325,-104.6878605,19,19,city_2335_new_mexico_santa_rosa
+S286526150,L30354305,Santa Rosa (railroad bridge over Pecos),2025-11-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,8,1.609,1,34.9398325,-104.6878605,16,16,city_2335_new_mexico_santa_rosa
+S288474930,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-12-13,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,14,,1,34.9404707,-104.677757,9,9,city_2335_new_mexico_santa_rosa
+S271095043,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-09-02,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,28,0.347,1,34.9393322,-104.6911156,8,8,city_2335_new_mexico_santa_rosa
+S230067345,L43561599,"150 Jasmine Road, Santa Rosa, New Mexico, US (34.942, -104.692)",2025-04-27,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,7,0.157,1,34.9422411,-104.6915264,1,1,city_2335_new_mexico_santa_rosa
+S230533384,L43650483,"2471 U.S. Route 66, Santa Rosa, New Mexico, US (34.947, -104.652)",2025-04-28,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,34,,1,34.9468787,-104.6516396,1,1,city_2335_new_mexico_santa_rosa
+S218748318,L10671386,"Park Lake, Rito Creek, & Santa Rosa Ponds",2025-03-15,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,23,0.708,1,34.9404707,-104.677757,3,3,city_2335_new_mexico_santa_rosa
+S264624760,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-08-01,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9393322,-104.6911156,1,1,city_2335_new_mexico_santa_rosa
+S226206588,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-04-16,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,12,0.383,1,34.9393322,-104.6911156,5,5,city_2335_new_mexico_santa_rosa
+S288748400,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-12-15,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,23,42.312,1,34.9393322,-104.6911156,2,2,city_2335_new_mexico_santa_rosa
+S210746086,L39721893,"2516 U.S. Route 66, Santa Rosa, New Mexico, US (34.947, -104.648)",2025-01-26,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,5,,1,34.9470083,-104.6481675,2,2,city_2335_new_mexico_santa_rosa
+S258242917,L1508844,Pecos River--US-66 Bridge in Santa Rosa,2025-07-08,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,10,,1,34.9393322,-104.6911156,1,1,city_2335_new_mexico_santa_rosa
+S208861977,L39339581,"1079 U.S. Route 66, Santa Rosa, New Mexico, US (34.94, -104.69)",2025-01-11,2025,2335,"Santa Rosa, NM",Santa Rosa,New Mexico,Guadalupe,5649712.76199634,30,55.322,1,34.939954,-104.6902357,2,2,city_2335_new_mexico_santa_rosa

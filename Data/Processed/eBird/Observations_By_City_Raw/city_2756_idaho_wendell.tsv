@@ -1,5 +1,5 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S87687609	2021-05-09	House Sparrow	Passer domesticus	31534	species	8	42.7751635	-114.7152428	Stationary	1	0
-S87687609	2021-05-09	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	42.7751635	-114.7152428	Stationary	1	0
-S87687609	2021-05-09	American Robin	Turdus migratorius	28633	species	1	42.7751635	-114.7152428	Stationary	1	0
-S87687609	2021-05-09	House Finch	Haemorhous mexicanus	32310	species	1	42.7751635	-114.7152428	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S87687609	2021-05-09	L14856609	Mickey & Larry's house 800 Ambrose Avenue, Wendell, Idaho, US (42.775, -114.715)	House Sparrow	Passer domesticus	31534	species	8	42.7751635	-114.7152428	Stationary	1	0
+S87687609	2021-05-09	L14856609	Mickey & Larry's house 800 Ambrose Avenue, Wendell, Idaho, US (42.775, -114.715)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	42.7751635	-114.7152428	Stationary	1	0
+S87687609	2021-05-09	L14856609	Mickey & Larry's house 800 Ambrose Avenue, Wendell, Idaho, US (42.775, -114.715)	American Robin	Turdus migratorius	28633	species	1	42.7751635	-114.7152428	Stationary	1	0
+S87687609	2021-05-09	L14856609	Mickey & Larry's house 800 Ambrose Avenue, Wendell, Idaho, US (42.775, -114.715)	House Finch	Haemorhous mexicanus	32310	species	1	42.7751635	-114.7152428	Stationary	1	0

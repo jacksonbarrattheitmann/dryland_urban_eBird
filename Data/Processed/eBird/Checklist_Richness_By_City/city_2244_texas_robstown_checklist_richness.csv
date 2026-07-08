@@ -1,13 +1,13 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23638472,2015-04-26,2015,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,90,48.28,1,27.7903,-97.66887,10,10,city_2244_texas_robstown
-S24555305,2015-08-07,2015,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,60,40.234,1,27.7903,-97.66887,5,5,city_2244_texas_robstown
-S22470071,2015-03-22,2015,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,16,0.161,1,27.7890865,-97.6518917,8,8,city_2244_texas_robstown
-S31851175,2016-10-02,2016,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,5,,1,27.7859151,-97.6549374,6,6,city_2244_texas_robstown
-S35305924,2017-03-20,2017,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,22,,1,27.7883938,-97.6551563,3,3,city_2244_texas_robstown
-S66084064,2020-03-22,2020,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,17,28.768,1,27.792132,-97.653551,11,11,city_2244_texas_robstown
-S79133835,2021-01-12,2021,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,6,6.178,1,27.776551,-97.667265,5,5,city_2244_texas_robstown
-S90055557,2021-06-12,2021,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,5,9.974,1,27.792466,-97.654062,10,10,city_2244_texas_robstown
-S134112975,2023-04-17,2023,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,23,0.322,1,27.7993098,-97.675443,8,8,city_2244_texas_robstown
-S161855855,2024-02-17,2024,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,16,1.384,1,27.7857725,-97.6555637,6,6,city_2244_texas_robstown
-S171567678,2024-05-02,2024,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,14,0.045,1,27.7863353,-97.6547805,6,6,city_2244_texas_robstown
-S158909263,2024-01-14,2024,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,11,18.318,1,27.7863353,-97.6547805,7,7,city_2244_texas_robstown
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23638472,L390819,Robstown,2015-04-26,2015,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,90,48.28,1,27.7903,-97.66887,10,10,city_2244_texas_robstown
+S24555305,L390819,Robstown,2015-08-07,2015,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,60,40.234,1,27.7903,-97.66887,5,5,city_2244_texas_robstown
+S22470071,L3119035,Robstown - Richard M. Borchard Regional Fairgrounds,2015-03-22,2015,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,16,0.161,1,27.7890865,-97.6518917,8,8,city_2244_texas_robstown
+S31851175,L4962439,Robstown--I-69E - US-77 / Industrial Blvd,2016-10-02,2016,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,5,,1,27.7859151,-97.6549374,6,6,city_2244_texas_robstown
+S35305924,L5595161,US-Texas-Robstown-101 Texas 44 - 27.788x-97.655,2017-03-20,2017,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,22,,1,27.7883938,-97.6551563,3,3,city_2244_texas_robstown
+S66084064,L11007025,TX44- Nueces county,2020-03-22,2020,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,17,28.768,1,27.792132,-97.653551,11,11,city_2244_texas_robstown
+S79133835,L13251340,"US-77 S, Robstown US-TX 27.77655, -97.66727",2021-01-12,2021,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,6,6.178,1,27.776551,-97.667265,5,5,city_2244_texas_robstown
+S90055557,L15346006,"SH-44 E, Robstown US-TX 27.79247, -97.65406",2021-06-12,2021,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,5,9.974,1,27.792466,-97.654062,10,10,city_2244_texas_robstown
+S134112975,L23663553,"516 West Ligustrum Boulevard, Robstown, Texas, US (27.799, -97.675)",2023-04-17,2023,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,23,0.322,1,27.7993098,-97.675443,8,8,city_2244_texas_robstown
+S161855855,L29317525,"301 U.S. 77, Robstown, Texas, US (27.786, -97.656)",2024-02-17,2024,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,16,1.384,1,27.7857725,-97.6555637,6,6,city_2244_texas_robstown
+S171567678,L8000230,Nueces County (US 77 Robstown),2024-05-02,2024,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,14,0.045,1,27.7863353,-97.6547805,6,6,city_2244_texas_robstown
+S158909263,L8000230,Nueces County (US 77 Robstown),2024-01-14,2024,2244,"Robstown, TX",Robstown,Texas,Nueces,8991636.2169309,11,18.318,1,27.7863353,-97.6547805,7,7,city_2244_texas_robstown

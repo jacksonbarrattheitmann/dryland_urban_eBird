@@ -1,7 +1,7 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S46419452,2018-06-09,2018,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,20,,1,32.398487,-98.841236,6,6,city_0791_texas_eastland
-S46155655,2018-05-30,2018,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,23,,1,32.398487,-98.841236,4,4,city_0791_texas_eastland
-S70754703,2020-06-20,2020,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,10,4.435,1,32.391766,-98.816441,10,10,city_0791_texas_eastland
-S111977993,2022-06-02,2022,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,30,,1,32.3985829,-98.8412382,17,17,city_0791_texas_eastland
-S113631208,2022-06-23,2022,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,31,4.28,1,32.40181,-98.829843,7,7,city_0791_texas_eastland
-S250336188,2025-06-14,2025,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,15,3.144,1,32.400427,-98.818132,8,8,city_0791_texas_eastland
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S46419452,L7456790,Backyard,2018-06-09,2018,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,20,,1,32.398487,-98.841236,6,6,city_0791_texas_eastland
+S46155655,L7456790,Backyard,2018-05-30,2018,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,23,,1,32.398487,-98.841236,4,4,city_0791_texas_eastland
+S70754703,L11758776,"1009 S Bassett St, Eastland US-TX 32.39177, -98.81644",2020-06-20,2020,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,10,4.435,1,32.391766,-98.816441,10,10,city_0791_texas_eastland
+S111977993,L19373415,"413 South Hillcrest Avenue, Eastland, Texas, US (32.399, -98.841)",2022-06-02,2022,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,30,,1,32.3985829,-98.8412382,17,17,city_0791_texas_eastland
+S113631208,L19795587,"1105 W Main St, Eastland US-TX 32.40181, -98.82984",2022-06-23,2022,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,31,4.28,1,32.40181,-98.829843,7,7,city_0791_texas_eastland
+S250336188,L47618080,"211 S Seaman St, Eastland US-TX 32.40043, -98.81813",2025-06-14,2025,791,"Eastland, TX",Eastland,Texas,Eastland,4259366.73931077,15,3.144,1,32.400427,-98.818132,8,8,city_0791_texas_eastland

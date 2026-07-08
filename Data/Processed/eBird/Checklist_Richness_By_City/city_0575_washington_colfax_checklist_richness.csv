@@ -1,55 +1,55 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S33290823,2016-12-30,2016,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.8974588,-117.3597579,3,3,city_0575_washington_colfax
-S43334638,2018-03-03,2018,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.887735,-117.36512,2,2,city_0575_washington_colfax
-S50873678,2018-12-22,2018,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,3.14,1,46.88862,-117.364208,8,8,city_0575_washington_colfax
-S50872118,2018-12-22,2018,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,3.14,1,46.88862,-117.364208,8,8,city_0575_washington_colfax
-S43334885,2018-03-03,2018,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.887735,-117.36512,3,3,city_0575_washington_colfax
-S52266333,2019-02-01,2019,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,7.009,1,46.88862,-117.364208,7,7,city_0575_washington_colfax
-S70909658,2019-07-27,2019,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,3.219,1,46.8839949,-117.3647334,2,2,city_0575_washington_colfax
-S66829793,2020-04-08,2020,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,3.585,1,46.886428,-117.364471,7,7,city_0575_washington_colfax
-S75345160,2020-10-24,2020,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.8905912,-117.3722985,1,1,city_0575_washington_colfax
-S86646716,2021-04-29,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,11,0.606,1,46.892006,-117.361406,6,6,city_0575_washington_colfax
-S86418366,2021-04-26,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,12,0.638,1,46.891962,-117.361822,6,6,city_0575_washington_colfax
-S86492815,2021-04-27,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,0.594,1,46.892426,-117.361217,6,6,city_0575_washington_colfax
-S87245860,2021-05-06,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,10,0.609,1,46.891926,-117.361535,3,3,city_0575_washington_colfax
-S86721005,2021-04-30,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,11,0.661,1,46.891926,-117.361535,5,5,city_0575_washington_colfax
-S86567979,2021-04-28,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,11,0.658,1,46.892265,-117.361401,6,6,city_0575_washington_colfax
-S88080349,2021-05-14,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,0.608,1,46.891926,-117.361535,7,7,city_0575_washington_colfax
-S88526031,2021-05-19,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,0.591,1,46.891926,-117.361535,6,6,city_0575_washington_colfax
-S86249494,2021-04-22,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,,1,46.882917,-117.364975,2,2,city_0575_washington_colfax
-S93183727,2021-07-01,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,26,0.477,1,46.895945,-117.358293,6,6,city_0575_washington_colfax
-S87008391,2021-05-03,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,0.619,1,46.891926,-117.361535,7,7,city_0575_washington_colfax
-S84717049,2021-04-03,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,7,0.127,1,46.895945,-117.358293,6,6,city_0575_washington_colfax
-S88383095,2021-05-17,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,0.582,1,46.891926,-117.361535,4,4,city_0575_washington_colfax
-S88594283,2021-05-20,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,0.555,1,46.891926,-117.361535,4,4,city_0575_washington_colfax
-S83022089,2021-03-08,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.8823521,-117.3647744,2,2,city_0575_washington_colfax
-S114502197,2022-07-05,2022,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.888683,-117.364052,2,2,city_0575_washington_colfax
-S137559898,2023-05-13,2023,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,6,,1,46.873038,-117.349564,11,11,city_0575_washington_colfax
-S156902073,2023-12-19,2023,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,0.275,1,46.8871778,-117.3640269,2,2,city_0575_washington_colfax
-S186489089,2024-07-11,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,71,,1,46.871792,-117.346635,14,14,city_0575_washington_colfax
-S185107816,2024-07-03,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,14,0.077,1,46.871792,-117.346635,12,12,city_0575_washington_colfax
-S188264234,2024-07-22,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,53,0.149,1,46.871792,-117.346635,21,21,city_0575_washington_colfax
-S185090015,2024-07-03,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,16,,1,46.871792,-117.346635,11,11,city_0575_washington_colfax
-S188820790,2024-07-25,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,77,0.182,1,46.871792,-117.346635,17,17,city_0575_washington_colfax
-S185250217,2024-07-04,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,47,0.219,1,46.871792,-117.346635,17,17,city_0575_washington_colfax
-S193291747,2024-08-30,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,4.02,1,46.8774217,-117.3613783,4,4,city_0575_washington_colfax
-S160729498,2024-02-05,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,1.438,1,46.8774217,-117.3613783,3,3,city_0575_washington_colfax
-S185030786,2024-07-02,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,24,0.126,1,46.871792,-117.346635,9,9,city_0575_washington_colfax
-S168680803,2024-04-14,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,22,0.515,1,46.8859133,-117.3645592,2,2,city_0575_washington_colfax
-S168700548,2024-04-14,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,43,1.014,1,46.8859133,-117.3645592,3,3,city_0575_washington_colfax
-S192482395,2024-08-23,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,3.707,1,46.8774217,-117.3613783,2,2,city_0575_washington_colfax
-S187206728,2024-07-15,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,31,0.151,1,46.871792,-117.346635,15,15,city_0575_washington_colfax
-S188114351,2024-07-21,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,6,,1,46.871792,-117.346635,5,5,city_0575_washington_colfax
-S192876535,2024-08-26,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,2.146,1,46.8774217,-117.3613783,1,1,city_0575_washington_colfax
-S191328646,2024-08-13,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,4.103,1,46.8905912,-117.3722985,7,7,city_0575_washington_colfax
-S203305356,2024-11-22,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,15.524,1,46.8774217,-117.3613783,4,4,city_0575_washington_colfax
-S205681734,2024-12-16,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,21,30.655,1,46.8774217,-117.3613783,2,2,city_0575_washington_colfax
-S193185133,2024-08-29,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,6,3.616,1,46.8774217,-117.3613783,2,2,city_0575_washington_colfax
-S288901911,2025-12-16,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,52,74.961,1,46.8905912,-117.3722985,5,5,city_0575_washington_colfax
-S260384999,2025-07-16,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,21,0.465,1,46.895945,-117.358293,13,13,city_0575_washington_colfax
-S289250930,2025-12-19,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,111,62.626,1,46.8905912,-117.3722985,7,7,city_0575_washington_colfax
-S288771833,2025-12-15,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,40,22.436,1,46.8905912,-117.3722985,3,3,city_0575_washington_colfax
-S285510395,2025-11-21,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,12.988,1,46.8905912,-117.3722985,2,2,city_0575_washington_colfax
-S212634195,2025-02-09,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,17,5.074,1,46.8905912,-117.3722985,5,5,city_0575_washington_colfax
-S286290238,2025-11-26,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,7.61,1,46.8905912,-117.3722985,2,2,city_0575_washington_colfax
-S260379198,2025-07-16,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,32,1.777,1,46.884548,-117.365349,5,5,city_0575_washington_colfax
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S33290823,L5194036,US-Washington-Colfax-301-399 Cedar Street - 46.897x-117.36,2016-12-30,2016,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.8974588,-117.3597579,3,3,city_0575_washington_colfax
+S43334638,L7012065,Colfax (town),2018-03-03,2018,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.887735,-117.36512,2,2,city_0575_washington_colfax
+S50873678,L8288602,Colfax,2018-12-22,2018,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,3.14,1,46.88862,-117.364208,8,8,city_0575_washington_colfax
+S50872118,L8288602,Colfax,2018-12-22,2018,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,3.14,1,46.88862,-117.364208,8,8,city_0575_washington_colfax
+S43334885,L7012065,Colfax (town),2018-03-03,2018,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.887735,-117.36512,3,3,city_0575_washington_colfax
+S52266333,L8288602,Colfax,2019-02-01,2019,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,7.009,1,46.88862,-117.364208,7,7,city_0575_washington_colfax
+S70909658,L11790031,Colfax,2019-07-27,2019,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,3.219,1,46.8839949,-117.3647334,2,2,city_0575_washington_colfax
+S66829793,L11112108,WA-Whitman—Colfax (town),2020-04-08,2020,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,3.585,1,46.886428,-117.364471,7,7,city_0575_washington_colfax
+S75345160,L8822407,Colfax Sewage Pond,2020-10-24,2020,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.8905912,-117.3722985,1,1,city_0575_washington_colfax
+S86646716,L14660107,"1100–1198 N Morton St, Colfax US-WA 46.89201, -117.36141",2021-04-29,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,11,0.606,1,46.892006,-117.361406,6,6,city_0575_washington_colfax
+S86418366,L14622151,"1103 N Morton St, Colfax US-WA 46.89196, -117.36182",2021-04-26,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,12,0.638,1,46.891962,-117.361822,6,6,city_0575_washington_colfax
+S86492815,L14634786,"1100–1198 N Morton St, Colfax US-WA 46.89243, -117.36122",2021-04-27,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,0.594,1,46.892426,-117.361217,6,6,city_0575_washington_colfax
+S87245860,L14672682,"N Morton St, Colfax US-WA",2021-05-06,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,10,0.609,1,46.891926,-117.361535,3,3,city_0575_washington_colfax
+S86721005,L14672682,"N Morton St, Colfax US-WA",2021-04-30,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,11,0.661,1,46.891926,-117.361535,5,5,city_0575_washington_colfax
+S86567979,L14647396,"1109 N Morton St, Colfax US-WA 46.89227, -117.36140",2021-04-28,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,11,0.658,1,46.892265,-117.361401,6,6,city_0575_washington_colfax
+S88080349,L14672682,"N Morton St, Colfax US-WA",2021-05-14,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,0.608,1,46.891926,-117.361535,7,7,city_0575_washington_colfax
+S88526031,L14672682,"N Morton St, Colfax US-WA",2021-05-19,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,0.591,1,46.891926,-117.361535,6,6,city_0575_washington_colfax
+S86249494,L14589788,"303 N Main St, Colfax US-WA 46.88292, -117.36498",2021-04-22,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,,1,46.882917,-117.364975,2,2,city_0575_washington_colfax
+S93183727,L14286120,Schmuck Park,2021-07-01,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,26,0.477,1,46.895945,-117.358293,6,6,city_0575_washington_colfax
+S87008391,L14672682,"N Morton St, Colfax US-WA",2021-05-03,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,0.619,1,46.891926,-117.361535,7,7,city_0575_washington_colfax
+S84717049,L14286120,Schmuck Park,2021-04-03,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,7,0.127,1,46.895945,-117.358293,6,6,city_0575_washington_colfax
+S88383095,L14672682,"N Morton St, Colfax US-WA",2021-05-17,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,0.582,1,46.891926,-117.361535,4,4,city_0575_washington_colfax
+S88594283,L14672682,"N Morton St, Colfax US-WA",2021-05-20,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,0.555,1,46.891926,-117.361535,4,4,city_0575_washington_colfax
+S83022089,L13964720,"213 North Main Street, Colfax, Washington, US (46.882, -117.365)",2021-03-08,2021,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.8823521,-117.3647744,2,2,city_0575_washington_colfax
+S114502197,L20003634,"804 N Main St, Colfax US-WA 46.88868, -117.36405",2022-07-05,2022,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,,1,46.888683,-117.364052,2,2,city_0575_washington_colfax
+S137559898,L24314420,"816 E Valleyview Ave, Colfax US-WA 46.87304, -117.34956",2023-05-13,2023,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,6,,1,46.873038,-117.349564,11,11,city_0575_washington_colfax
+S156902073,L28389635,"632 North Main Street, Colfax, Washington, US (46.887, -117.364)",2023-12-19,2023,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,0.275,1,46.8871778,-117.3640269,2,2,city_0575_washington_colfax
+S186489089,L34228753,Colfax,2024-07-11,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,71,,1,46.871792,-117.346635,14,14,city_0575_washington_colfax
+S185107816,L34228753,Colfax,2024-07-03,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,14,0.077,1,46.871792,-117.346635,12,12,city_0575_washington_colfax
+S188264234,L34228753,Colfax,2024-07-22,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,53,0.149,1,46.871792,-117.346635,21,21,city_0575_washington_colfax
+S185090015,L34228753,Colfax,2024-07-03,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,16,,1,46.871792,-117.346635,11,11,city_0575_washington_colfax
+S188820790,L34228753,Colfax,2024-07-25,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,77,0.182,1,46.871792,-117.346635,17,17,city_0575_washington_colfax
+S185250217,L34228753,Colfax,2024-07-04,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,47,0.219,1,46.871792,-117.346635,17,17,city_0575_washington_colfax
+S193291747,L17686554,Colfax--South Fork Palouse River at Cooper St.,2024-08-30,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,4.02,1,46.8774217,-117.3613783,4,4,city_0575_washington_colfax
+S160729498,L17686554,Colfax--South Fork Palouse River at Cooper St.,2024-02-05,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,1.438,1,46.8774217,-117.3613783,3,3,city_0575_washington_colfax
+S185030786,L34228753,Colfax,2024-07-02,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,24,0.126,1,46.871792,-117.346635,9,9,city_0575_washington_colfax
+S168680803,L30646897,"601 North Main Street, Colfax, Washington, US (46.886, -117.365)",2024-04-14,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,22,0.515,1,46.8859133,-117.3645592,2,2,city_0575_washington_colfax
+S168700548,L30646897,"601 North Main Street, Colfax, Washington, US (46.886, -117.365)",2024-04-14,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,43,1.014,1,46.8859133,-117.3645592,3,3,city_0575_washington_colfax
+S192482395,L17686554,Colfax--South Fork Palouse River at Cooper St.,2024-08-23,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,3.707,1,46.8774217,-117.3613783,2,2,city_0575_washington_colfax
+S187206728,L34228753,Colfax,2024-07-15,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,31,0.151,1,46.871792,-117.346635,15,15,city_0575_washington_colfax
+S188114351,L34228753,Colfax,2024-07-21,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,6,,1,46.871792,-117.346635,5,5,city_0575_washington_colfax
+S192876535,L17686554,Colfax--South Fork Palouse River at Cooper St.,2024-08-26,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,2.146,1,46.8774217,-117.3613783,1,1,city_0575_washington_colfax
+S191328646,L8822407,Colfax Sewage Pond,2024-08-13,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,4.103,1,46.8905912,-117.3722985,7,7,city_0575_washington_colfax
+S203305356,L17686554,Colfax--South Fork Palouse River at Cooper St.,2024-11-22,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,9,15.524,1,46.8774217,-117.3613783,4,4,city_0575_washington_colfax
+S205681734,L17686554,Colfax--South Fork Palouse River at Cooper St.,2024-12-16,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,21,30.655,1,46.8774217,-117.3613783,2,2,city_0575_washington_colfax
+S193185133,L17686554,Colfax--South Fork Palouse River at Cooper St.,2024-08-29,2024,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,6,3.616,1,46.8774217,-117.3613783,2,2,city_0575_washington_colfax
+S288901911,L8822407,Colfax Sewage Pond,2025-12-16,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,52,74.961,1,46.8905912,-117.3722985,5,5,city_0575_washington_colfax
+S260384999,L14286120,Schmuck Park,2025-07-16,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,21,0.465,1,46.895945,-117.358293,13,13,city_0575_washington_colfax
+S289250930,L8822407,Colfax Sewage Pond,2025-12-19,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,111,62.626,1,46.8905912,-117.3722985,7,7,city_0575_washington_colfax
+S288771833,L8822407,Colfax Sewage Pond,2025-12-15,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,40,22.436,1,46.8905912,-117.3722985,3,3,city_0575_washington_colfax
+S285510395,L8822407,Colfax Sewage Pond,2025-11-21,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,8,12.988,1,46.8905912,-117.3722985,2,2,city_0575_washington_colfax
+S212634195,L8822407,Colfax Sewage Pond,2025-02-09,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,17,5.074,1,46.8905912,-117.3722985,5,5,city_0575_washington_colfax
+S286290238,L8822407,Colfax Sewage Pond,2025-11-26,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,5,7.61,1,46.8905912,-117.3722985,2,2,city_0575_washington_colfax
+S260379198,L49907508,"Eels Park, Colfax US-WA 46.88455, -117.36535",2025-07-16,2025,575,"Colfax, WA",Colfax,Washington,Whitman,3395028.51928569,32,1.777,1,46.884548,-117.365349,5,5,city_0575_washington_colfax

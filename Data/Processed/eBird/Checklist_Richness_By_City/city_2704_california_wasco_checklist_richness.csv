@@ -1,10 +1,10 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S28007093,2016-03-06,2016,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,5,,1,35.601553,-119.330229,5,5,city_2704_california_wasco
-S86069224,2021-04-21,2021,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,8,0.472,1,35.6032769,-119.3834509,5,5,city_2704_california_wasco
-S124087689,2022-12-14,2022,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,17,0.161,1,35.6027524,-119.3838783,15,15,city_2704_california_wasco
-S119199794,2022-09-22,2022,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,28,0.428,1,35.603043,-119.383492,8,8,city_2704_california_wasco
-S111897532,2022-05-31,2022,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,6,,1,35.6011799,-119.3426866,4,4,city_2704_california_wasco
-S145719460,2023-07-26,2023,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,9,0.161,1,35.6027524,-119.3838783,7,7,city_2704_california_wasco
-S127368502,2023-01-31,2023,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,13,0.1,1,35.586885,-119.4026495,16,16,city_2704_california_wasco
-S217308527,2025-03-07,2025,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,5,,1,35.586885,-119.4026495,16,16,city_2704_california_wasco
-S208556134,2025-01-08,2025,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,12,0.91,1,35.603796,-119.384637,4,4,city_2704_california_wasco
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S28007093,L4343720,US-CA-Wasco-500-632 Highway 46 - 35.6016x-119.3302,2016-03-06,2016,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,5,,1,35.601553,-119.330229,5,5,city_2704_california_wasco
+S86069224,L14555907,"Wasco Cemetery, US-CA 35.60385, -119.38425",2021-04-21,2021,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,8,0.472,1,35.6032769,-119.3834509,5,5,city_2704_california_wasco
+S124087689,L21815933,Wasco Cemetery,2022-12-14,2022,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,17,0.161,1,35.6027524,-119.3838783,15,15,city_2704_california_wasco
+S119199794,L20967313,"Wasco Memorial Park, Wasco US-CA 35.60304, -119.38349",2022-09-22,2022,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,28,0.428,1,35.603043,-119.383492,8,8,city_2704_california_wasco
+S111897532,L19407166,"Wasco, California, US (35.601, -119.343)",2022-05-31,2022,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,6,,1,35.6011799,-119.3426866,4,4,city_2704_california_wasco
+S145719460,L21815933,Wasco Cemetery,2023-07-26,2023,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,9,0.161,1,35.6027524,-119.3838783,7,7,city_2704_california_wasco
+S127368502,L22422055,"Scofield Avenue, Wasco",2023-01-31,2023,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,13,0.1,1,35.586885,-119.4026495,16,16,city_2704_california_wasco
+S217308527,L22422055,"Scofield Avenue, Wasco",2025-03-07,2025,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,5,,1,35.586885,-119.4026495,16,16,city_2704_california_wasco
+S208556134,L39280206,"Wasco Memorial Park, Wasco US-CA 35.60380, -119.38464",2025-01-08,2025,2704,"Wasco, CA",Wasco,California,Kern,15742499.1195967,12,0.91,1,35.603796,-119.384637,4,4,city_2704_california_wasco

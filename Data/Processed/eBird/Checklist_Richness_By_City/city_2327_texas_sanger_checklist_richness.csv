@@ -1,11 +1,11 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S65913451,2020-03-17,2020,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,24,1.609,1,33.35602,-97.168727,17,17,city_2327_texas_sanger
-S77942262,2020-12-24,2020,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,7,10.401,1,33.3567926,-97.1795599,4,4,city_2327_texas_sanger
-S78168368,2020-12-28,2020,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,5,9.091,1,33.3567926,-97.1795599,3,3,city_2327_texas_sanger
-S85252393,2021-04-10,2021,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,6,11.187,1,33.3567926,-97.1795599,3,3,city_2327_texas_sanger
-S85472576,2021-04-13,2021,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,5,9.343,1,33.3567926,-97.1795599,6,6,city_2327_texas_sanger
-S86056232,2021-04-21,2021,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,6,10.543,1,33.3567926,-97.1795599,3,3,city_2327_texas_sanger
-S82815779,2021-03-05,2021,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,8,13.661,1,33.3567926,-97.1795599,4,4,city_2327_texas_sanger
-S105397886,2022-03-22,2022,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,21,,1,33.3606879,-97.1797351,7,7,city_2327_texas_sanger
-S144516262,2023-07-14,2023,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,15,0.387,1,33.362352,-97.172729,7,7,city_2327_texas_sanger
-S178250635,2024-05-30,2024,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,13,1.74,1,33.359681,-97.173265,7,7,city_2327_texas_sanger
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S65913451,L10980848,"Sanger, TX - Railroad Ave",2020-03-17,2020,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,24,1.609,1,33.35602,-97.168727,17,17,city_2327_texas_sanger
+S77942262,L13025478,"I35, Sanger",2020-12-24,2020,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,7,10.401,1,33.3567926,-97.1795599,4,4,city_2327_texas_sanger
+S78168368,L13025478,"I35, Sanger",2020-12-28,2020,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,5,9.091,1,33.3567926,-97.1795599,3,3,city_2327_texas_sanger
+S85252393,L13025478,"I35, Sanger",2021-04-10,2021,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,6,11.187,1,33.3567926,-97.1795599,3,3,city_2327_texas_sanger
+S85472576,L13025478,"I35, Sanger",2021-04-13,2021,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,5,9.343,1,33.3567926,-97.1795599,6,6,city_2327_texas_sanger
+S86056232,L13025478,"I35, Sanger",2021-04-21,2021,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,6,10.543,1,33.3567926,-97.1795599,3,3,city_2327_texas_sanger
+S82815779,L13025478,"I35, Sanger",2021-03-05,2021,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,8,13.661,1,33.3567926,-97.1795599,4,4,city_2327_texas_sanger
+S105397886,L18218019,"8701 Sierra Trail, Sanger, Texas, US (33.361, -97.18)",2022-03-22,2022,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,21,,1,33.3606879,-97.1797351,7,7,city_2327_texas_sanger
+S144516262,L25925395,Sanger town square,2023-07-14,2023,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,15,0.387,1,33.362352,-97.172729,7,7,city_2327_texas_sanger
+S178250635,L32591787,"400 Locust St, Sanger US-TX 33.35968, -97.17326",2024-05-30,2024,2327,"Sanger, TX",Sanger,Texas,Denton,7816873.08956276,13,1.74,1,33.359681,-97.173265,7,7,city_2327_texas_sanger

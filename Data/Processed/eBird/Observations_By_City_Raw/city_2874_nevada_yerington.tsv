@@ -1,29 +1,29 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S29172797	2016-04-24	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	American Goldfinch	Spinus tristis	32617	species	2	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	California Quail	Callipepla californica	1094	species	4	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	Brown-headed Cowbird	Molothrus ater	33833	species	4	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	Bank Swallow	Riparia riparia	24051	species	3	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	Yellow-rumped Warbler	Setophaga coronata	34161	issf	3	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	Barn Swallow	Hirundo rustica	24187	species	2	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	House Sparrow	Passer domesticus	31534	species	6	38.9965959	-119.1696243	Traveling	1	0
-S29172797	2016-04-24	Northern House Wren	Troglodytes aedon	27191	species	3	38.9965959	-119.1696243	Traveling	1	0
-S78165016	2020-12-28	Song Sparrow	Melospiza melodia	33277	species	2	38.9836235	-119.1599350	Stationary	1	0
-S63207607	2020-01-09	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	38.9872469	-119.1625053	Stationary	1	0
-S63207607	2020-01-09	Downy Woodpecker	Dryobates pubescens	11400	species	1	38.9872469	-119.1625053	Stationary	1	0
-S66850272	2020-04-08	Turkey Vulture	Cathartes aura	7815	species	46	38.9807190	-119.1655802	Stationary	1	1
-S78165016	2020-12-28	Northern Flicker	Colaptes auratus	11900	species	6	38.9836235	-119.1599350	Stationary	1	0
-S78165016	2020-12-28	Dark-eyed Junco	Junco hyemalis	33124	species	4	38.9836235	-119.1599350	Stationary	1	0
-S63207607	2020-01-09	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	38.9872469	-119.1625053	Stationary	1	0
-S63207607	2020-01-09	American Robin	Turdus migratorius	28633	species	1	38.9872469	-119.1625053	Stationary	1	0
-S163643819	2024-03-03	Dark-eyed Junco	Junco hyemalis	33124	species	10	38.9783969	-119.1712424	Stationary	1	0
-S208184472	2025-01-05	House Sparrow	Passer domesticus	31534	species	6	38.9783969	-119.1712424	Stationary	1	0
-S208184472	2025-01-05	House Finch	Haemorhous mexicanus	32310	species	6	38.9783969	-119.1712424	Stationary	1	0
-S208184472	2025-01-05	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	38.9783969	-119.1712424	Stationary	1	0
-S208184472	2025-01-05	Bewick's Wren	Thryomanes bewickii	27362	species	1	38.9783969	-119.1712424	Stationary	1	0
-S208184472	2025-01-05	Western Bluebird	Sialia mexicana	28136	species	3	38.9783969	-119.1712424	Stationary	1	0
-S208184472	2025-01-05	new world sparrow sp.	Passerellidae sp.	33520	spuh	1	38.9783969	-119.1712424	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	American Goldfinch	Spinus tristis	32617	species	2	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	California Quail	Callipepla californica	1094	species	4	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Brown-headed Cowbird	Molothrus ater	33833	species	4	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Bank Swallow	Riparia riparia	24051	species	3	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Yellow-rumped Warbler	Setophaga coronata	34161	issf	3	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Barn Swallow	Hirundo rustica	24187	species	2	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	House Sparrow	Passer domesticus	31534	species	6	38.9965959	-119.1696243	Traveling	1	0
+S29172797	2016-04-24	L4520810	Yerington--Greenville RV Park and Adjacent Field	Northern House Wren	Troglodytes aedon	27191	species	3	38.9965959	-119.1696243	Traveling	1	0
+S78165016	2020-12-28	L13039550	Back yard	Song Sparrow	Melospiza melodia	33277	species	2	38.9836235	-119.1599350	Stationary	1	0
+S63207607	2020-01-09	L3123950	Yerington Inn Motel, Yerington	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	38.9872469	-119.1625053	Stationary	1	0
+S63207607	2020-01-09	L3123950	Yerington Inn Motel, Yerington	Downy Woodpecker	Dryobates pubescens	11400	species	1	38.9872469	-119.1625053	Stationary	1	0
+S66850272	2020-04-08	L11115057	Orchard Street and South West Street	Turkey Vulture	Cathartes aura	7815	species	46	38.9807190	-119.1655802	Stationary	1	1
+S78165016	2020-12-28	L13039550	Back yard	Northern Flicker	Colaptes auratus	11900	species	6	38.9836235	-119.1599350	Stationary	1	0
+S78165016	2020-12-28	L13039550	Back yard	Dark-eyed Junco	Junco hyemalis	33124	species	4	38.9836235	-119.1599350	Stationary	1	0
+S63207607	2020-01-09	L3123950	Yerington Inn Motel, Yerington	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	38.9872469	-119.1625053	Stationary	1	0
+S63207607	2020-01-09	L3123950	Yerington Inn Motel, Yerington	American Robin	Turdus migratorius	28633	species	1	38.9872469	-119.1625053	Stationary	1	0
+S163643819	2024-03-03	L29642070	South end of Yerington	Dark-eyed Junco	Junco hyemalis	33124	species	10	38.9783969	-119.1712424	Stationary	1	0
+S208184472	2025-01-05	L29642070	South end of Yerington	House Sparrow	Passer domesticus	31534	species	6	38.9783969	-119.1712424	Stationary	1	0
+S208184472	2025-01-05	L29642070	South end of Yerington	House Finch	Haemorhous mexicanus	32310	species	6	38.9783969	-119.1712424	Stationary	1	0
+S208184472	2025-01-05	L29642070	South end of Yerington	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	38.9783969	-119.1712424	Stationary	1	0
+S208184472	2025-01-05	L29642070	South end of Yerington	Bewick's Wren	Thryomanes bewickii	27362	species	1	38.9783969	-119.1712424	Stationary	1	0
+S208184472	2025-01-05	L29642070	South end of Yerington	Western Bluebird	Sialia mexicana	28136	species	3	38.9783969	-119.1712424	Stationary	1	0
+S208184472	2025-01-05	L29642070	South end of Yerington	new world sparrow sp.	Passerellidae sp.	33520	spuh	1	38.9783969	-119.1712424	Stationary	1	0

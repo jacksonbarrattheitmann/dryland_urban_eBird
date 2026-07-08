@@ -1,17 +1,17 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23862463,2015-05-03,2015,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,29,1.609,1,48.0855724,-105.6368279,6,6,city_2843_montana_wolf_point
-S23862454,2015-05-03,2015,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,20,1.127,1,48.0927103,-105.6427503,5,5,city_2843_montana_wolf_point
-S24157313,2015-06-27,2015,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,5,,1,48.0920405,-105.6363773,3,3,city_2843_montana_wolf_point
-S37257700,2017-05-29,2017,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,7,,1,48.0954229,-105.6342745,10,10,city_2843_montana_wolf_point
-S60058476,2019-09-23,2019,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,8,2.414,1,48.09129,-105.645239,2,2,city_2843_montana_wolf_point
-S111672337,2022-05-28,2022,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,40,0.483,1,48.0944453,-105.6399581,9,9,city_2843_montana_wolf_point
-S120109315,2022-10-06,2022,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,15,1.358,1,48.0903,-105.6408,3,3,city_2843_montana_wolf_point
-S120122933,2022-10-07,2022,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,18,0.502,1,48.0903,-105.6408,2,2,city_2843_montana_wolf_point
-S149756334,2023-09-12,2023,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,15,,1,48.0903,-105.6408,6,6,city_2843_montana_wolf_point
-S149894477,2023-09-13,2023,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,20,0.483,1,48.0953808,-105.6348753,15,15,city_2843_montana_wolf_point
-S149893991,2023-09-13,2023,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,15,0.483,1,48.0903,-105.6408,12,12,city_2843_montana_wolf_point
-S149756455,2023-09-12,2023,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,10,0.322,1,48.0953808,-105.6348753,3,3,city_2843_montana_wolf_point
-S172992902,2024-05-09,2024,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,11,0.901,1,48.0903,-105.6408,5,5,city_2843_montana_wolf_point
-S173897788,2024-05-12,2024,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,15,0.127,1,48.090652,-105.635972,10,10,city_2843_montana_wolf_point
-S273017228,2025-09-12,2025,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,18,,1,48.0953808,-105.6348753,6,6,city_2843_montana_wolf_point
-S273220747,2025-09-13,2025,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,10,,1,48.0903,-105.6408,3,3,city_2843_montana_wolf_point
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23862463,L3713076,Wolf Point--southern residential area,2015-05-03,2015,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,29,1.609,1,48.0855724,-105.6368279,6,6,city_2843_montana_wolf_point
+S23862454,L3713073,Central Wolf Point,2015-05-03,2015,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,20,1.127,1,48.0927103,-105.6427503,5,5,city_2843_montana_wolf_point
+S24157313,L3770966,Gas Station Wolf Point,2015-06-27,2015,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,5,,1,48.0920405,-105.6363773,3,3,city_2843_montana_wolf_point
+S37257700,L6250940,Nellies Park,2017-05-29,2017,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,7,,1,48.0954229,-105.6342745,10,10,city_2843_montana_wolf_point
+S60058476,L9950018,"509 Alder St, Wolf Point US-MT (48.0913,-105.6452)",2019-09-23,2019,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,8,2.414,1,48.09129,-105.645239,2,2,city_2843_montana_wolf_point
+S111672337,L19360113,"Wolf Point, Montana",2022-05-28,2022,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,40,0.483,1,48.0944453,-105.6399581,9,9,city_2843_montana_wolf_point
+S120109315,L17585852,Wolf Point (town),2022-10-06,2022,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,15,1.358,1,48.0903,-105.6408,3,3,city_2843_montana_wolf_point
+S120122933,L17585852,Wolf Point (town),2022-10-07,2022,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,18,0.502,1,48.0903,-105.6408,2,2,city_2843_montana_wolf_point
+S149756334,L17585852,Wolf Point (town),2023-09-12,2023,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,15,,1,48.0903,-105.6408,6,6,city_2843_montana_wolf_point
+S149894477,L15169418,Wolf Point--Nellies Park,2023-09-13,2023,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,20,0.483,1,48.0953808,-105.6348753,15,15,city_2843_montana_wolf_point
+S149893991,L17585852,Wolf Point (town),2023-09-13,2023,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,15,0.483,1,48.0903,-105.6408,12,12,city_2843_montana_wolf_point
+S149756455,L15169418,Wolf Point--Nellies Park,2023-09-12,2023,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,10,0.322,1,48.0953808,-105.6348753,3,3,city_2843_montana_wolf_point
+S172992902,L17585852,Wolf Point (town),2024-05-09,2024,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,11,0.901,1,48.0903,-105.6408,5,5,city_2843_montana_wolf_point
+S173897788,L31649671,Sherman hotel,2024-05-12,2024,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,15,0.127,1,48.090652,-105.635972,10,10,city_2843_montana_wolf_point
+S273017228,L15169418,Wolf Point--Nellies Park,2025-09-12,2025,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,18,,1,48.0953808,-105.6348753,6,6,city_2843_montana_wolf_point
+S273220747,L17585852,Wolf Point (town),2025-09-13,2025,2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,3163149.23288657,10,,1,48.0903,-105.6408,3,3,city_2843_montana_wolf_point

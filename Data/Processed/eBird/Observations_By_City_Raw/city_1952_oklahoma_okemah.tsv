@@ -1,37 +1,37 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S37312345	2017-04-11	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	35.4238946	-96.3005133	Stationary	1	0
-S37312345	2017-04-11	European Starling	Sturnus vulgaris	27813	species	4	35.4238946	-96.3005133	Stationary	1	0
-S37312345	2017-04-11	House Sparrow	Passer domesticus	31534	species	1	35.4238946	-96.3005133	Stationary	1	0
-S60532913	2019-10-11	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	35.4237940	-96.3001520	Stationary	1	0
-S60532913	2019-10-11	Common Grackle	Quiscalus quiscula	33853	species	16	35.4237940	-96.3001520	Stationary	1	0
-S86291378	2021-04-24	American Robin	Turdus migratorius	28633	species	4	35.4303704	-96.3043794	Traveling	1	0
-S86291378	2021-04-24	Rock Pigeon	Columba livia	1868	domestic	40	35.4303704	-96.3043794	Traveling	1	0
-S86291378	2021-04-24	Mourning Dove	Zenaida macroura	2412	species	2	35.4303704	-96.3043794	Traveling	1	0
-S86291378	2021-04-24	Pine Siskin	Spinus pinus	32595	species	2	35.4303704	-96.3043794	Traveling	1	0
-S86291378	2021-04-24	European Starling	Sturnus vulgaris	27813	species	25	35.4303704	-96.3043794	Traveling	1	0
-S86291378	2021-04-24	Northern Cardinal	Cardinalis cardinalis	34515	species	2	35.4303704	-96.3043794	Traveling	1	0
-S86291378	2021-04-24	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	35.4303704	-96.3043794	Traveling	1	0
-S86291378	2021-04-24	Blue Jay	Cyanocitta cristata	21294	species	1	35.4303704	-96.3043794	Traveling	1	0
-S137655295	2023-05-14	Blue Jay	Cyanocitta cristata	21294	species	3	35.4315582	-96.2996698	Traveling	1	0
-S137655295	2023-05-14	Chimney Swift	Chaetura pelagica	3896	species	5	35.4315582	-96.2996698	Traveling	1	0
-S137655295	2023-05-14	Black Vulture	Coragyps atratus	7811	species	1	35.4315582	-96.2996698	Traveling	1	0
-S137655295	2023-05-14	Northern Cardinal	Cardinalis cardinalis	34515	species	3	35.4315582	-96.2996698	Traveling	1	0
-S137655295	2023-05-14	Common Grackle	Quiscalus quiscula	33853	species	2	35.4315582	-96.2996698	Traveling	1	0
-S135886039	2023-05-01	House Sparrow	Passer domesticus	31534	species	2	35.4238887	-96.3004017	Stationary	1	0
-S137655295	2023-05-14	American Robin	Turdus migratorius	28633	species	1	35.4315582	-96.2996698	Traveling	1	0
-S137655295	2023-05-14	Western Kingbird	Tyrannus verticalis	17467	species	2	35.4315582	-96.2996698	Traveling	1	0
-S135886039	2023-05-01	Common Grackle	Quiscalus quiscula	33853	species	1	35.4238887	-96.3004017	Stationary	1	0
-S137655295	2023-05-14	House Sparrow	Passer domesticus	31534	species	2	35.4315582	-96.2996698	Traveling	1	0
-S135886039	2023-05-01	European Starling	Sturnus vulgaris	27813	species	2	35.4238887	-96.3004017	Stationary	1	0
-S137655295	2023-05-14	Northern Mockingbird	Mimus polyglottos	28114	species	2	35.4315582	-96.2996698	Traveling	1	0
-S137655295	2023-05-14	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	35.4315582	-96.2996698	Traveling	1	0
-S137655295	2023-05-14	European Starling	Sturnus vulgaris	27813	species	14	35.4315582	-96.2996698	Traveling	1	0
-S135886039	2023-05-01	Rock Pigeon	Columba livia	1868	domestic	2	35.4238887	-96.3004017	Stationary	1	0
-S137655295	2023-05-14	Rock Pigeon	Columba livia	1868	domestic	2	35.4315582	-96.2996698	Traveling	1	0
-S168073804	2024-04-10	Rock Pigeon	Columba livia	1868	domestic	2	35.4291907	-96.2964376	Stationary	1	0
-S168073804	2024-04-10	House Sparrow	Passer domesticus	31534	species	3	35.4291907	-96.2964376	Stationary	1	0
-S168073804	2024-04-10	American Crow	Corvus brachyrhynchos	21557	species	3	35.4291907	-96.2964376	Stationary	1	0
-S168073804	2024-04-10	European Starling	Sturnus vulgaris	27813	species	12	35.4291907	-96.2964376	Stationary	1	0
-S168073804	2024-04-10	Turkey Vulture	Cathartes aura	7815	species	4	35.4291907	-96.2964376	Stationary	1	0
-S168073804	2024-04-10	Common Grackle	Quiscalus quiscula	33853	species	3	35.4291907	-96.2964376	Stationary	1	0
-S168073804	2024-04-10	Savannah Sparrow	Passerculus sandwichensis	33244	species	2	35.4291907	-96.2964376	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S37312345	2017-04-11	L5917827	Mc Donald's restaurant, Okomah	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	35.4238946	-96.3005133	Stationary	1	0
+S37312345	2017-04-11	L5917827	Mc Donald's restaurant, Okomah	European Starling	Sturnus vulgaris	27813	species	4	35.4238946	-96.3005133	Stationary	1	0
+S37312345	2017-04-11	L5917827	Mc Donald's restaurant, Okomah	House Sparrow	Passer domesticus	31534	species	1	35.4238946	-96.3005133	Stationary	1	0
+S60532913	2019-10-11	L10018401	609 S Woody Guthrie St, Okemah US-OK (35.4238,-96.3002)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	35.4237940	-96.3001520	Stationary	1	0
+S60532913	2019-10-11	L10018401	609 S Woody Guthrie St, Okemah US-OK (35.4238,-96.3002)	Common Grackle	Quiscalus quiscula	33853	species	16	35.4237940	-96.3001520	Stationary	1	0
+S86291378	2021-04-24	L14598331	128 South 4th Street, Okemah, Oklahoma, US (35.43, -96.304)	American Robin	Turdus migratorius	28633	species	4	35.4303704	-96.3043794	Traveling	1	0
+S86291378	2021-04-24	L14598331	128 South 4th Street, Okemah, Oklahoma, US (35.43, -96.304)	Rock Pigeon	Columba livia	1868	domestic	40	35.4303704	-96.3043794	Traveling	1	0
+S86291378	2021-04-24	L14598331	128 South 4th Street, Okemah, Oklahoma, US (35.43, -96.304)	Mourning Dove	Zenaida macroura	2412	species	2	35.4303704	-96.3043794	Traveling	1	0
+S86291378	2021-04-24	L14598331	128 South 4th Street, Okemah, Oklahoma, US (35.43, -96.304)	Pine Siskin	Spinus pinus	32595	species	2	35.4303704	-96.3043794	Traveling	1	0
+S86291378	2021-04-24	L14598331	128 South 4th Street, Okemah, Oklahoma, US (35.43, -96.304)	European Starling	Sturnus vulgaris	27813	species	25	35.4303704	-96.3043794	Traveling	1	0
+S86291378	2021-04-24	L14598331	128 South 4th Street, Okemah, Oklahoma, US (35.43, -96.304)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	35.4303704	-96.3043794	Traveling	1	0
+S86291378	2021-04-24	L14598331	128 South 4th Street, Okemah, Oklahoma, US (35.43, -96.304)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	35.4303704	-96.3043794	Traveling	1	0
+S86291378	2021-04-24	L14598331	128 South 4th Street, Okemah, Oklahoma, US (35.43, -96.304)	Blue Jay	Cyanocitta cristata	21294	species	1	35.4303704	-96.3043794	Traveling	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Blue Jay	Cyanocitta cristata	21294	species	3	35.4315582	-96.2996698	Traveling	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Chimney Swift	Chaetura pelagica	3896	species	5	35.4315582	-96.2996698	Traveling	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Black Vulture	Coragyps atratus	7811	species	1	35.4315582	-96.2996698	Traveling	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Northern Cardinal	Cardinalis cardinalis	34515	species	3	35.4315582	-96.2996698	Traveling	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Common Grackle	Quiscalus quiscula	33853	species	2	35.4315582	-96.2996698	Traveling	1	0
+S135886039	2023-05-01	L24000070	Okemah - Phillps 66 Gas Station/McDonalds	House Sparrow	Passer domesticus	31534	species	2	35.4238887	-96.3004017	Stationary	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	American Robin	Turdus migratorius	28633	species	1	35.4315582	-96.2996698	Traveling	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Western Kingbird	Tyrannus verticalis	17467	species	2	35.4315582	-96.2996698	Traveling	1	0
+S135886039	2023-05-01	L24000070	Okemah - Phillps 66 Gas Station/McDonalds	Common Grackle	Quiscalus quiscula	33853	species	1	35.4238887	-96.3004017	Stationary	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	House Sparrow	Passer domesticus	31534	species	2	35.4315582	-96.2996698	Traveling	1	0
+S135886039	2023-05-01	L24000070	Okemah - Phillps 66 Gas Station/McDonalds	European Starling	Sturnus vulgaris	27813	species	2	35.4238887	-96.3004017	Stationary	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Northern Mockingbird	Mimus polyglottos	28114	species	2	35.4315582	-96.2996698	Traveling	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	35.4315582	-96.2996698	Traveling	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	European Starling	Sturnus vulgaris	27813	species	14	35.4315582	-96.2996698	Traveling	1	0
+S135886039	2023-05-01	L24000070	Okemah - Phillps 66 Gas Station/McDonalds	Rock Pigeon	Columba livia	1868	domestic	2	35.4238887	-96.3004017	Stationary	1	0
+S137655295	2023-05-14	L24330929	Okemah, OK	Rock Pigeon	Columba livia	1868	domestic	2	35.4315582	-96.2996698	Traveling	1	0
+S168073804	2024-04-10	L30521029	Okemah Town	Rock Pigeon	Columba livia	1868	domestic	2	35.4291907	-96.2964376	Stationary	1	0
+S168073804	2024-04-10	L30521029	Okemah Town	House Sparrow	Passer domesticus	31534	species	3	35.4291907	-96.2964376	Stationary	1	0
+S168073804	2024-04-10	L30521029	Okemah Town	American Crow	Corvus brachyrhynchos	21557	species	3	35.4291907	-96.2964376	Stationary	1	0
+S168073804	2024-04-10	L30521029	Okemah Town	European Starling	Sturnus vulgaris	27813	species	12	35.4291907	-96.2964376	Stationary	1	0
+S168073804	2024-04-10	L30521029	Okemah Town	Turkey Vulture	Cathartes aura	7815	species	4	35.4291907	-96.2964376	Stationary	1	0
+S168073804	2024-04-10	L30521029	Okemah Town	Common Grackle	Quiscalus quiscula	33853	species	3	35.4291907	-96.2964376	Stationary	1	0
+S168073804	2024-04-10	L30521029	Okemah Town	Savannah Sparrow	Passerculus sandwichensis	33244	species	2	35.4291907	-96.2964376	Stationary	1	0

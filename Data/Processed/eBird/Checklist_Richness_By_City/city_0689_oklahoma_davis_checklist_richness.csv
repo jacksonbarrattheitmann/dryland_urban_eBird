@@ -1,127 +1,127 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22149961,2015-03-02,2015,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,3.219,1,34.5011244,-97.1205139,7,7,city_0689_oklahoma_davis
-S24036196,2015-06-24,2015,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,6.437,1,34.5011244,-97.1205139,18,18,city_0689_oklahoma_davis
-S45922762,2018-05-22,2018,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,60,,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
-S45889984,2018-05-21,2018,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,18,,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
-S55643013,2019-05-01,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,60,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S57391506,2019-06-15,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,0.483,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
-S57028127,2019-06-03,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.644,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
-S55788186,2019-05-04,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,45,0.805,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
-S56441054,2019-05-18,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
-S56343073,2019-05-16,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
-S57754203,2019-06-28,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.644,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
-S55708612,2019-05-03,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,40,0.282,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
-S55164133,2019-04-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,40,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S55257672,2019-04-22,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,90,,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
-S56993028,2019-06-02,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,50,0.805,1,34.4985798,-97.1086995,27,27,city_0689_oklahoma_davis
-S57824552,2019-06-30,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S58488673,2019-07-26,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,,1,34.4985798,-97.1086995,5,5,city_0689_oklahoma_davis
-S56970968,2019-06-01,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,0.563,1,34.4985798,-97.1086995,22,22,city_0689_oklahoma_davis
-S56555715,2019-05-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,40,0.161,1,34.498932,-97.108913,10,10,city_0689_oklahoma_davis
-S55695979,2019-05-02,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,45,,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
-S57379135,2019-06-14,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,38,0.644,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
-S55909338,2019-05-06,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,40,,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
-S57014394,2019-06-02,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,35,0.644,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
-S56345771,2019-05-16,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,0.644,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
-S56943827,2019-05-31,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,33,0.563,1,34.4985798,-97.1086995,20,20,city_0689_oklahoma_davis
-S57481560,2019-06-18,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,0.483,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S58414076,2019-07-23,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
-S57094287,2019-06-04,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.805,1,34.498692,-97.109002,5,5,city_0689_oklahoma_davis
-S57745209,2019-06-27,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,0.644,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
-S56526384,2019-05-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S55192531,2019-04-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,71,,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S57418626,2019-06-16,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,44,0.644,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
-S55668642,2019-05-02,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,35,,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
-S56547652,2019-05-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.805,1,34.498706,-97.108438,13,13,city_0689_oklahoma_davis
-S55232197,2019-04-21,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,42,0.28,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
-S57321392,2019-06-12,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,29,0.644,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S55887964,2019-05-05,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,90,1.287,1,34.4985798,-97.1086995,27,27,city_0689_oklahoma_davis
-S57335937,2019-06-13,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,28,0.483,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
-S56725503,2019-05-25,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,0.322,1,34.498227,-97.10825,5,5,city_0689_oklahoma_davis
-S57837814,2019-07-01,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,0.644,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
-S56553749,2019-05-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,11,0.161,1,34.498344,-97.108152,3,3,city_0689_oklahoma_davis
-S58451813,2019-07-25,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,4,4,city_0689_oklahoma_davis
-S67359088,2020-04-17,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,0.147,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S67402476,2020-04-18,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,27,0.772,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S77131516,2020-12-06,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,,1,34.4985798,-97.1086995,6,6,city_0689_oklahoma_davis
-S67637094,2020-04-22,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,11,0.322,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S77091441,2020-12-05,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,22,0.161,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S76704982,2020-11-26,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,0.23,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S77445060,2020-12-13,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,0.099,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
-S77282026,2020-12-09,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,47,0.386,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S77269399,2020-12-09,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,17,0.386,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
-S77344903,2020-12-11,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,0.354,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S77066539,2020-12-04,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,23,0.435,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S76591231,2020-11-23,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,16,0.306,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S77565100,2020-12-16,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
-S67555446,2020-04-20,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,0.435,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
-S76795734,2020-11-28,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,23,0.11,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S77376785,2020-12-12,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,28,0.146,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
-S77424181,2020-12-13,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
-S77111225,2020-12-05,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,35,0.579,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S64833796,2020-02-21,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,0.118,1,34.4985798,-97.1086995,6,6,city_0689_oklahoma_davis
-S76542998,2020-11-22,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,24,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S66619940,2020-04-04,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,0.418,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S65518887,2020-03-07,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,0.145,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S77349695,2020-12-11,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.451,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S77356662,2020-12-11,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,0.145,1,34.4985798,-97.1086995,8,8,city_0689_oklahoma_davis
-S77389960,2020-12-12,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,6,,1,34.4985798,-97.1086995,8,8,city_0689_oklahoma_davis
-S86819947,2021-05-01,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,26,0.239,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
-S84664529,2021-04-03,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,0.515,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S84589062,2021-04-02,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,0.338,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
-S79191987,2021-01-13,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,16,0.29,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S81333771,2021-02-14,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
-S87158186,2021-05-05,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,23,0.322,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
-S79217130,2021-01-14,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,6,6,city_0689_oklahoma_davis
-S81813560,2021-02-17,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
-S81567128,2021-02-15,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,31,,1,34.4985798,-97.1086995,8,8,city_0689_oklahoma_davis
-S87416174,2021-05-08,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,13,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S82873600,2021-03-06,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,23,0.595,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S79187583,2021-01-13,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,6,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
-S81021189,2021-02-12,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,3,3,city_0689_oklahoma_davis
-S87057540,2021-05-03,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S105134817,2022-03-19,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,15,,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
-S108961490,2022-05-04,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,0.05,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
-S110427197,2022-05-16,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,15,,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S107494922,2022-04-19,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,0.113,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S104137564,2022-03-04,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,6,6,city_0689_oklahoma_davis
-S109160777,2022-05-06,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,22,,1,34.4985798,-97.1086995,23,23,city_0689_oklahoma_davis
-S107124770,2022-04-15,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,0.161,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
-S107279450,2022-04-17,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,24,,1,34.4985798,-97.1086995,25,25,city_0689_oklahoma_davis
-S109834404,2022-05-12,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,15,0.097,1,34.4985798,-97.1086995,4,4,city_0689_oklahoma_davis
-S105003101,2022-03-17,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,0.129,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
-S107177930,2022-04-16,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S104233238,2022-03-05,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
-S109042229,2022-05-05,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,17,,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
-S107239207,2022-04-16,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
-S107003581,2022-04-14,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
-S107198421,2022-04-16,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S106272473,2022-04-04,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,13,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S105081879,2022-03-18,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S106073579,2022-04-02,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S107375528,2022-04-18,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,33,,1,34.4985798,-97.1086995,26,26,city_0689_oklahoma_davis
-S106220435,2022-04-03,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,0.177,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S104157431,2022-03-04,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
-S107087071,2022-04-15,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,18,0.147,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S104367474,2022-03-07,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,8,8,city_0689_oklahoma_davis
-S103516415,2022-02-22,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
-S106004979,2022-04-01,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
-S103648920,2022-02-24,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
-S106125540,2022-04-02,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,0.29,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
-S104205461,2022-03-05,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4986298,-97.1241729,13,13,city_0689_oklahoma_davis
-S109273962,2022-05-07,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,11,,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
-S106077285,2022-04-02,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
-S104329663,2022-03-06,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,6,,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
-S110202548,2022-05-15,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S103689314,2022-02-25,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
-S107347342,2022-04-17,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,13,,1,34.4985798,-97.1086995,20,20,city_0689_oklahoma_davis
-S107148912,2022-04-15,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,2,2,city_0689_oklahoma_davis
-S105948998,2022-03-31,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,0.129,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
-S131687423,2023-03-24,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.497199,-97.126861,7,7,city_0689_oklahoma_davis
-S137134537,2023-05-11,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
-S135810768,2023-05-02,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S132469146,2023-04-02,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S139993222,2023-05-31,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
-S132580346,2023-04-03,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,0.117,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
-S136925437,2023-05-10,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
-S163748036,2024-03-04,2024,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,11,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22149961,L3452089,"OK, Murray Co., Davis",2015-03-02,2015,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,3.219,1,34.5011244,-97.1205139,7,7,city_0689_oklahoma_davis
+S24036196,L3452089,"OK, Murray Co., Davis",2015-06-24,2015,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,6.437,1,34.5011244,-97.1205139,18,18,city_0689_oklahoma_davis
+S45922762,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2018-05-22,2018,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,60,,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
+S45889984,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2018-05-21,2018,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,18,,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
+S55643013,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-01,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,60,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S57391506,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-15,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,0.483,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
+S57028127,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-03,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.644,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
+S55788186,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-04,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,45,0.805,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
+S56441054,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-18,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
+S56343073,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-16,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
+S57754203,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-28,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.644,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
+S55708612,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-03,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,40,0.282,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
+S55164133,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-04-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,40,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S55257672,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-04-22,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,90,,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
+S56993028,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-02,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,50,0.805,1,34.4985798,-97.1086995,27,27,city_0689_oklahoma_davis
+S57824552,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-30,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S58488673,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-07-26,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,,1,34.4985798,-97.1086995,5,5,city_0689_oklahoma_davis
+S56970968,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-01,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,0.563,1,34.4985798,-97.1086995,22,22,city_0689_oklahoma_davis
+S56555715,L9310279,"648 Hanover Rd, Davis US-OK (34.4989,-97.1089)",2019-05-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,40,0.161,1,34.498932,-97.108913,10,10,city_0689_oklahoma_davis
+S55695979,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-02,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,45,,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
+S57379135,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-14,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,38,0.644,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
+S55909338,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-06,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,40,,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
+S57014394,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-02,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,35,0.644,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
+S56345771,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-16,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,0.644,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
+S56943827,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-31,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,33,0.563,1,34.4985798,-97.1086995,20,20,city_0689_oklahoma_davis
+S57481560,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-18,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,0.483,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S58414076,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-07-23,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
+S57094287,L9409916,"648 Hanover Rd, Davis US-OK (34.4987,-97.1090)",2019-06-04,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.805,1,34.498692,-97.109002,5,5,city_0689_oklahoma_davis
+S57745209,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-27,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,0.644,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
+S56526384,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S55192531,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-04-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,71,,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S57418626,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-16,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,44,0.644,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
+S55668642,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-02,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,35,,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
+S56547652,L9309169,"648 Hanover Rd, Davis US-OK (34.4987,-97.1084)",2019-05-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.805,1,34.498706,-97.108438,13,13,city_0689_oklahoma_davis
+S55232197,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-04-21,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,42,0.28,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
+S57321392,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-12,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,29,0.644,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S55887964,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-05-05,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,90,1.287,1,34.4985798,-97.1086995,27,27,city_0689_oklahoma_davis
+S57335937,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-06-13,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,28,0.483,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
+S56725503,L9340683,"400–698 Hanover Rd, Davis US-OK (34.4982,-97.1083)",2019-05-25,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,0.322,1,34.498227,-97.10825,5,5,city_0689_oklahoma_davis
+S57837814,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-07-01,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,0.644,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
+S56553749,L9310094,"400–698 Hanover Rd, Davis US-OK (34.4983,-97.1082)",2019-05-20,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,11,0.161,1,34.498344,-97.108152,3,3,city_0689_oklahoma_davis
+S58451813,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2019-07-25,2019,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,4,4,city_0689_oklahoma_davis
+S67359088,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-04-17,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,0.147,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S67402476,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-04-18,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,27,0.772,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S77131516,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-06,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,,1,34.4985798,-97.1086995,6,6,city_0689_oklahoma_davis
+S67637094,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-04-22,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,11,0.322,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S77091441,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-05,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,22,0.161,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S76704982,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-11-26,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,0.23,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S77445060,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-13,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,0.099,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
+S77282026,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-09,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,47,0.386,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S77269399,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-09,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,17,0.386,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
+S77344903,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-11,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,0.354,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S77066539,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-04,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,23,0.435,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S76591231,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-11-23,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,16,0.306,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S77565100,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-16,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
+S67555446,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-04-20,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,0.435,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
+S76795734,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-11-28,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,23,0.11,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S77376785,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-12,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,28,0.146,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
+S77424181,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-13,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
+S77111225,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-05,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,35,0.579,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S64833796,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-02-21,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,0.118,1,34.4985798,-97.1086995,6,6,city_0689_oklahoma_davis
+S76542998,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-11-22,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,24,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S66619940,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-04-04,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,0.418,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S65518887,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-03-07,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,0.145,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S77349695,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-11,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,30,0.451,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S77356662,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-11,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,0.145,1,34.4985798,-97.1086995,8,8,city_0689_oklahoma_davis
+S77389960,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2020-12-12,2020,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,6,,1,34.4985798,-97.1086995,8,8,city_0689_oklahoma_davis
+S86819947,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-05-01,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,26,0.239,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
+S84664529,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-04-03,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,0.515,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S84589062,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-04-02,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,0.338,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
+S79191987,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-01-13,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,16,0.29,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S81333771,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-02-14,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
+S87158186,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-05-05,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,23,0.322,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
+S79217130,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-01-14,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,6,6,city_0689_oklahoma_davis
+S81813560,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-02-17,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
+S81567128,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-02-15,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,31,,1,34.4985798,-97.1086995,8,8,city_0689_oklahoma_davis
+S87416174,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-05-08,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,13,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S82873600,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-03-06,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,23,0.595,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S79187583,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-01-13,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,6,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
+S81021189,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-02-12,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,3,3,city_0689_oklahoma_davis
+S87057540,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2021-05-03,2021,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S105134817,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-19,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,15,,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
+S108961490,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-05-04,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,0.05,1,34.4985798,-97.1086995,18,18,city_0689_oklahoma_davis
+S110427197,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-05-16,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,15,,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S107494922,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-19,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,0.113,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S104137564,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-04,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,6,6,city_0689_oklahoma_davis
+S109160777,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-05-06,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,22,,1,34.4985798,-97.1086995,23,23,city_0689_oklahoma_davis
+S107124770,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-15,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,0.161,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
+S107279450,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-17,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,24,,1,34.4985798,-97.1086995,25,25,city_0689_oklahoma_davis
+S109834404,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-05-12,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,15,0.097,1,34.4985798,-97.1086995,4,4,city_0689_oklahoma_davis
+S105003101,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-17,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,25,0.129,1,34.4985798,-97.1086995,16,16,city_0689_oklahoma_davis
+S107177930,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-16,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S104233238,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-05,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,20,,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
+S109042229,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-05-05,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,17,,1,34.4985798,-97.1086995,21,21,city_0689_oklahoma_davis
+S107239207,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-16,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
+S107003581,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-14,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
+S107198421,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-16,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S106272473,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-04,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,13,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S105081879,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-18,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S106073579,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-02,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S107375528,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-18,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,33,,1,34.4985798,-97.1086995,26,26,city_0689_oklahoma_davis
+S106220435,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-03,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,0.177,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S104157431,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-04,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
+S107087071,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-15,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,18,0.147,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S104367474,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-07,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,8,8,city_0689_oklahoma_davis
+S103516415,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-02-22,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
+S106004979,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-01,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,10,,1,34.4985798,-97.1086995,13,13,city_0689_oklahoma_davis
+S103648920,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-02-24,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
+S106125540,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-02,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,0.29,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
+S104205461,L18008404,"208 West Rex Street, Davis, Oklahoma, US (34.499, -97.124)",2022-03-05,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,5,,1,34.4986298,-97.1241729,13,13,city_0689_oklahoma_davis
+S109273962,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-05-07,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,11,,1,34.4985798,-97.1086995,14,14,city_0689_oklahoma_davis
+S106077285,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-02,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.4985798,-97.1086995,15,15,city_0689_oklahoma_davis
+S104329663,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-06,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,6,,1,34.4985798,-97.1086995,10,10,city_0689_oklahoma_davis
+S110202548,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-05-15,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S103689314,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-02-25,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,8,,1,34.4985798,-97.1086995,9,9,city_0689_oklahoma_davis
+S107347342,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-17,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,13,,1,34.4985798,-97.1086995,20,20,city_0689_oklahoma_davis
+S107148912,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-04-15,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,2,2,city_0689_oklahoma_davis
+S105948998,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2022-03-31,2022,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,0.129,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis
+S131687423,L23197330,Davis  Empty Lot,2023-03-24,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,12,,1,34.497199,-97.126861,7,7,city_0689_oklahoma_davis
+S137134537,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2023-05-11,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,21,,1,34.4985798,-97.1086995,11,11,city_0689_oklahoma_davis
+S135810768,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2023-05-02,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,7,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S132469146,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2023-04-02,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S139993222,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2023-05-31,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,19,,1,34.4985798,-97.1086995,19,19,city_0689_oklahoma_davis
+S132580346,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2023-04-03,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,14,0.117,1,34.4985798,-97.1086995,17,17,city_0689_oklahoma_davis
+S136925437,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2023-05-10,2023,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,9,,1,34.4985798,-97.1086995,12,12,city_0689_oklahoma_davis
+S163748036,L7385683,"648 Hanover Road, Davis, Oklahoma, US (34.499, -97.109)",2024-03-04,2024,689,"Davis, OK",Davis,Oklahoma,Murray,4423986.64230801,11,,1,34.4985798,-97.1086995,7,7,city_0689_oklahoma_davis

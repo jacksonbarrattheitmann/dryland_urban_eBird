@@ -1,13 +1,13 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S71698157,2020-07-21,2020,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,5,,1,42.923668,-114.713151,4,4,city_1035_idaho_gooding
-S87300378,2021-05-06,2021,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,13,,1,42.931673,-114.719684,1,1,city_1035_idaho_gooding
-S117900202,2022-09-01,2022,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,18,,1,42.9343652,-114.7067448,9,9,city_1035_idaho_gooding
-S138235114,2023-05-18,2023,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,59,0.161,1,42.9343652,-114.7067448,11,11,city_1035_idaho_gooding
-S127542279,2023-02-03,2023,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,6,,1,42.934711,-114.705333,6,6,city_1035_idaho_gooding
-S125486254,2023-01-05,2023,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,15,24.14,1,42.9430051,-114.7125872,1,1,city_1035_idaho_gooding
-S145288827,2023-07-22,2023,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,51,,1,42.9335791,-114.7058866,16,16,city_1035_idaho_gooding
-S157904632,2024-01-02,2024,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,5,,1,42.9343652,-114.7067448,1,1,city_1035_idaho_gooding
-S244566643,2025-05-30,2025,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,44,3.119,1,42.932516,-114.72024,17,17,city_1035_idaho_gooding
-S242193334,2025-05-24,2025,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,60,,1,42.933862,-114.721232,7,7,city_1035_idaho_gooding
-S243053865,2025-05-26,2025,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,40,2.163,1,42.934239,-114.721015,7,7,city_1035_idaho_gooding
-S269327401,2025-08-24,2025,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,7,0.122,1,42.936681,-114.715667,3,3,city_1035_idaho_gooding
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S71698157,L11938278,"1899 University Ave W, Gooding US-ID 42.92367, -114.71315",2020-07-21,2020,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,5,,1,42.923668,-114.713151,4,4,city_1035_idaho_gooding
+S87300378,L14779019,"619 Elm Cir, Gooding US-ID 42.93167, -114.71968",2021-05-06,2021,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,13,,1,42.931673,-114.719684,1,1,city_1035_idaho_gooding
+S117900202,L20735468,"605 11th Avenue East, Gooding, Idaho, US (42.934, -114.707)",2022-09-01,2022,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,18,,1,42.9343652,-114.7067448,9,9,city_1035_idaho_gooding
+S138235114,L20735468,"605 11th Avenue East, Gooding, Idaho, US (42.934, -114.707)",2023-05-18,2023,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,59,0.161,1,42.9343652,-114.7067448,11,11,city_1035_idaho_gooding
+S127542279,L22451574,"605 11th Avenue East, Gooding, Idaho, US (42.935, -114.705)",2023-02-03,2023,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,6,,1,42.934711,-114.705333,6,6,city_1035_idaho_gooding
+S125486254,L22084106,"Gooding Municipal Airport, Gooding, Idaho, US (42.943, -114.713)",2023-01-05,2023,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,15,24.14,1,42.9430051,-114.7125872,1,1,city_1035_idaho_gooding
+S145288827,L26114572,"605 11th Avenue East, Gooding, Idaho, US (42.934, -114.706)",2023-07-22,2023,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,51,,1,42.9335791,-114.7058866,16,16,city_1035_idaho_gooding
+S157904632,L20735468,"605 11th Avenue East, Gooding, Idaho, US (42.934, -114.707)",2024-01-02,2024,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,5,,1,42.9343652,-114.7067448,1,1,city_1035_idaho_gooding
+S244566643,L46360829,Backyard,2025-05-30,2025,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,44,3.119,1,42.932516,-114.72024,17,17,city_1035_idaho_gooding
+S242193334,L29713907,Home,2025-05-24,2025,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,60,,1,42.933862,-114.721232,7,7,city_1035_idaho_gooding
+S243053865,L46056138,New home,2025-05-26,2025,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,40,2.163,1,42.934239,-114.721015,7,7,city_1035_idaho_gooding
+S269327401,L51989591,West Park,2025-08-24,2025,1035,"Gooding, ID",Gooding,Idaho,Gooding,3497662.04366607,7,0.122,1,42.936681,-114.715667,3,3,city_1035_idaho_gooding

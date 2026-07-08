@@ -1,13 +1,13 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23543986,2015-05-15,2015,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,60,16.093,1,32.38822,-100.86439,17,17,city_0578_texas_colorado_city
-S58240579,2019-07-12,2019,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,20,4.828,1,32.4038917,-100.8596472,7,7,city_0578_texas_colorado_city
-S54897134,2019-04-12,2019,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,6,4.262,1,32.390349,-100.868922,6,6,city_0578_texas_colorado_city
-S61520925,2019-11-16,2019,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,15,8.047,1,32.3882104,-100.8590627,15,15,city_0578_texas_colorado_city
-S70859521,2020-06-26,2020,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,24,5.23,1,32.3876294,-100.8599047,10,10,city_0578_texas_colorado_city
-S65446246,2020-03-02,2020,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,5,,1,32.3962692,-100.8610582,4,4,city_0578_texas_colorado_city
-S123466394,2021-08-20,2021,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,30,1.609,1,32.4034248,-100.859951,8,8,city_0578_texas_colorado_city
-S145454065,2023-07-23,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,7,,1,32.404727,-100.860899,8,8,city_0578_texas_colorado_city
-S156745638,2023-12-20,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,8,,1,32.389475,-100.8561731,10,10,city_0578_texas_colorado_city
-S145440941,2023-07-23,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,7,,1,32.404727,-100.860899,5,5,city_0578_texas_colorado_city
-S145626302,2023-07-25,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,35,,1,32.404727,-100.860899,8,8,city_0578_texas_colorado_city
-S128214184,2023-02-07,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,15,2.414,1,32.3885962,-100.8616605,3,3,city_0578_texas_colorado_city
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23543986,L288626,Colorado City,2015-05-15,2015,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,60,16.093,1,32.38822,-100.86439,17,17,city_0578_texas_colorado_city
+S58240579,L9653237,Colorado City city limits,2019-07-12,2019,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,20,4.828,1,32.4038917,-100.8596472,7,7,city_0578_texas_colorado_city
+S54897134,L9032802,Colorado City town area US-TX,2019-04-12,2019,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,6,4.262,1,32.390349,-100.868922,6,6,city_0578_texas_colorado_city
+S61520925,L10165154,Colorado City - Business I-20,2019-11-16,2019,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,15,8.047,1,32.3882104,-100.8590627,15,15,city_0578_texas_colorado_city
+S70859521,L11779484,"145 Bolden Street, Colorado City, Texas, US (32.388, -100.86)",2020-06-26,2020,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,24,5.23,1,32.3876294,-100.8599047,10,10,city_0578_texas_colorado_city
+S65446246,L5744073,Colorado City (town),2020-03-02,2020,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,5,,1,32.3962692,-100.8610582,4,4,city_0578_texas_colorado_city
+S123466394,L21715905,Colorado City,2021-08-20,2021,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,30,1.609,1,32.4034248,-100.859951,8,8,city_0578_texas_colorado_city
+S145454065,L26153455,"1743 Vine St, Colorado City US-TX (32.4047,-100.8609)",2023-07-23,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,7,,1,32.404727,-100.860899,8,8,city_0578_texas_colorado_city
+S156745638,L28359294,"226 South Austin Street, Colorado City, Texas, US (32.389, -100.856)",2023-12-20,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,8,,1,32.389475,-100.8561731,10,10,city_0578_texas_colorado_city
+S145440941,L26153455,"1743 Vine St, Colorado City US-TX (32.4047,-100.8609)",2023-07-23,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,7,,1,32.404727,-100.860899,5,5,city_0578_texas_colorado_city
+S145626302,L26153455,"1743 Vine St, Colorado City US-TX (32.4047,-100.8609)",2023-07-25,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,35,,1,32.404727,-100.860899,8,8,city_0578_texas_colorado_city
+S128214184,L22572502,Colorado City streets,2023-02-07,2023,578,"Colorado City, TX",Colorado City,Texas,Mitchell,6834002.15972666,15,2.414,1,32.3885962,-100.8616605,3,3,city_0578_texas_colorado_city

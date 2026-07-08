@@ -1,4 +1,4 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S74539519,2020-10-07,2020,2469,"Stamford, TX",Stamford,Texas,Jones,4771938.14797784,6,0.612,1,32.9427933,-99.7933208,4,4,city_2469_texas_stamford
-S157443188,2023-12-29,2023,2469,"Stamford, TX",Stamford,Texas,Jones,4771938.14797784,8,0.076,1,32.9428992,-99.7878483,4,4,city_2469_texas_stamford
-S217078909,2025-03-07,2025,2469,"Stamford, TX",Stamford,Texas,Jones,4771938.14797784,5,1.317,1,32.942765,-99.785214,7,7,city_2469_texas_stamford
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S74539519,L12446504,"806 East Wesleyan Street, Stamford, Texas, US (32.943, -99.793)",2020-10-07,2020,2469,"Stamford, TX",Stamford,Texas,Jones,4771938.14797784,6,0.612,1,32.9427933,-99.7933208,4,4,city_2469_texas_stamford
+S157443188,L28503572,"1016 East Wesleyan Street, Stamford, Texas, US (32.943, -99.788)",2023-12-29,2023,2469,"Stamford, TX",Stamford,Texas,Jones,4771938.14797784,8,0.076,1,32.9428992,-99.7878483,4,4,city_2469_texas_stamford
+S217078909,L40937036,"S Columbia St, Stamford US-TX 32.94276, -99.78521",2025-03-07,2025,2469,"Stamford, TX",Stamford,Texas,Jones,4771938.14797784,5,1.317,1,32.942765,-99.785214,7,7,city_2469_texas_stamford

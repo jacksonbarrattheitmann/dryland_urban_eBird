@@ -1,10 +1,10 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25827855,2015-11-14,2015,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,10,,1,36.338384,-121.257045,2,2,city_1074_california_greenfield
-S98808044,2021-12-11,2021,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,48,,1,36.3165385,-121.2447743,4,4,city_1074_california_greenfield
-S122804999,2022-11-21,2022,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,78,3.627,1,36.3140666,-121.2434413,14,14,city_1074_california_greenfield
-S110015609,2022-05-14,2022,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,15,,1,36.3174856,-121.2399557,10,10,city_1074_california_greenfield
-S123331633,2022-12-02,2022,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,14,,1,36.3174856,-121.2399557,8,8,city_1074_california_greenfield
-S156951788,2023-12-23,2023,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,5,,1,36.330006,-121.241315,1,1,city_1074_california_greenfield
-S166534972,2024-03-30,2024,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,17,0.943,1,36.319134,-121.236296,1,1,city_1074_california_greenfield
-S285707661,2025-11-17,2025,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,20,,1,36.3208893,-121.2527863,4,4,city_1074_california_greenfield
-S283187574,2025-11-06,2025,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,5,,1,36.3208893,-121.2527863,3,3,city_1074_california_greenfield
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S25827855,L4006910,US-CA-Greenfield-40036-40098 Thorne Rd - 36.3384x-121.2570,2015-11-14,2015,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,10,,1,36.338384,-121.257045,2,2,city_1074_california_greenfield
+S98808044,L17088042,"17 11th Street, Greenfield, California, US (36.317, -121.245)",2021-12-11,2021,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,48,,1,36.3165385,-121.2447743,4,4,city_1074_california_greenfield
+S122804999,L21601510,"1018 Heidi Drive, Greenfield, California, US (36.314, -121.243)",2022-11-21,2022,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,78,3.627,1,36.3140666,-121.2434413,14,14,city_1074_california_greenfield
+S110015609,L18771998,"20 El Camino Real, Greenfield, California, US (36.317, -121.24)",2022-05-14,2022,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,15,,1,36.3174856,-121.2399557,10,10,city_1074_california_greenfield
+S123331633,L18771998,"20 El Camino Real, Greenfield, California, US (36.317, -121.24)",2022-12-02,2022,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,14,,1,36.3174856,-121.2399557,8,8,city_1074_california_greenfield
+S156951788,L28399604,"367 Walnut Ave, Greenfield US-CA 36.33001, -121.24132",2023-12-23,2023,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,5,,1,36.330006,-121.241315,1,1,city_1074_california_greenfield
+S166534972,L30199427,"13–63 Walker Ln, Greenfield US-CA 36.31913, -121.23630",2024-03-30,2024,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,17,0.943,1,36.319134,-121.236296,1,1,city_1074_california_greenfield
+S285707661,L43425637,Pinn Ave,2025-11-17,2025,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,20,,1,36.3208893,-121.2527863,4,4,city_1074_california_greenfield
+S283187574,L43425637,Pinn Ave,2025-11-06,2025,1074,"Greenfield, CA",Greenfield,California,Monterey,7111411.59387919,5,,1,36.3208893,-121.2527863,3,3,city_1074_california_greenfield

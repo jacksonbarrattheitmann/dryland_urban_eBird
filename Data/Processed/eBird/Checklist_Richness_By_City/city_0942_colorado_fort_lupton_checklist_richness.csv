@@ -1,13 +1,13 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S31558557,2016-09-11,2016,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,15,,1,40.0796525,-104.816414,4,4,city_0942_colorado_fort_lupton
-S37232171,2017-05-29,2017,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0796979,-104.8164152,3,3,city_0942_colorado_fort_lupton
-S33331486,2017-01-01,2017,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,10,,1,40.0796525,-104.816414,1,1,city_0942_colorado_fort_lupton
-S50872347,2018-12-22,2018,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0796525,-104.816414,2,2,city_0942_colorado_fort_lupton
-S47415029,2018-07-22,2018,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0796525,-104.816414,3,3,city_0942_colorado_fort_lupton
-S50894332,2018-12-23,2018,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,25,,1,40.0796525,-104.816414,4,4,city_0942_colorado_fort_lupton
-S50921867,2018-12-24,2018,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,12,,1,40.0796525,-104.816414,1,1,city_0942_colorado_fort_lupton
-S77156985,2020-12-06,2020,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0439654,-104.8161792,13,13,city_0942_colorado_fort_lupton
-S64243971,2020-02-08,2020,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,18,3.766,1,40.108706,-104.7588927,5,5,city_0942_colorado_fort_lupton
-S62866467,2020-01-01,2020,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0945056,-104.8152903,1,1,city_0942_colorado_fort_lupton
-S128787249,2023-02-18,2023,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,20,2.454,1,40.091978,-104.803968,3,3,city_0942_colorado_fort_lupton
-S132240544,2023-03-30,2023,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,31,2.157,1,40.090493,-104.815444,2,2,city_0942_colorado_fort_lupton
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S31558557,L3830578,"Ft Lupton, CO (Vickie's)",2016-09-11,2016,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,15,,1,40.0796525,-104.816414,4,4,city_0942_colorado_fort_lupton
+S37232171,L5201949,US-Colorado-Fort Lupton-200 1st Street - 40.08x-104.816,2017-05-29,2017,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0796979,-104.8164152,3,3,city_0942_colorado_fort_lupton
+S33331486,L3830578,"Ft Lupton, CO (Vickie's)",2017-01-01,2017,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,10,,1,40.0796525,-104.816414,1,1,city_0942_colorado_fort_lupton
+S50872347,L3830578,"Ft Lupton, CO (Vickie's)",2018-12-22,2018,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0796525,-104.816414,2,2,city_0942_colorado_fort_lupton
+S47415029,L3830578,"Ft Lupton, CO (Vickie's)",2018-07-22,2018,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0796525,-104.816414,3,3,city_0942_colorado_fort_lupton
+S50894332,L3830578,"Ft Lupton, CO (Vickie's)",2018-12-23,2018,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,25,,1,40.0796525,-104.816414,4,4,city_0942_colorado_fort_lupton
+S50921867,L3830578,"Ft Lupton, CO (Vickie's)",2018-12-24,2018,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,12,,1,40.0796525,-104.816414,1,1,city_0942_colorado_fort_lupton
+S77156985,L12886003,"12672 WCR 8, Fort Lupton",2020-12-06,2020,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0439654,-104.8161792,13,13,city_0942_colorado_fort_lupton
+S64243971,L10705028,"Aristocrat Ranchettes subdivision, Fort Lupton",2020-02-08,2020,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,18,3.766,1,40.108706,-104.7588927,5,5,city_0942_colorado_fort_lupton
+S62866467,L10394476,"1352 Factory Drive, Fort Lupton",2020-01-01,2020,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,5,,1,40.0945056,-104.8152903,1,1,city_0942_colorado_fort_lupton
+S128787249,L22671272,"1210 Lancaster Ave, Fort Lupton US-CO 40.09198, -104.80397",2023-02-18,2023,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,20,2.454,1,40.091978,-104.803968,3,3,city_0942_colorado_fort_lupton
+S132240544,L3109429,Fulton Ave Fort Lupton CO,2023-03-30,2023,942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,13815346.6901589,31,2.157,1,40.090493,-104.815444,2,2,city_0942_colorado_fort_lupton

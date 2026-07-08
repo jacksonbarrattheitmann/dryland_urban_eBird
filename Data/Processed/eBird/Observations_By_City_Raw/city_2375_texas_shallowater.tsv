@@ -1,20 +1,20 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S57604229	2019-06-22	Burrowing Owl	Athene cunicularia	9133	species	3	33.6808160	-101.9945170	Traveling	1	0
-S57604229	2019-06-22	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.6808160	-101.9945170	Traveling	1	0
-S57604229	2019-06-22	Western Kingbird	Tyrannus verticalis	17467	species	3	33.6808160	-101.9945170	Traveling	1	0
-S57604229	2019-06-22	Northern Cardinal	Cardinalis cardinalis	34515	species	1	33.6808160	-101.9945170	Traveling	1	0
-S57604229	2019-06-22	Rock Pigeon	Columba livia	1868	domestic	1	33.6808160	-101.9945170	Traveling	1	0
-S57604229	2019-06-22	European Starling	Sturnus vulgaris	27813	species	4	33.6808160	-101.9945170	Traveling	1	0
-S57604229	2019-06-22	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	2	33.6808160	-101.9945170	Traveling	1	0
-S57604229	2019-06-22	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	33.6808160	-101.9945170	Traveling	1	0
-S65913359	2020-03-14	Burrowing Owl	Athene cunicularia	9133	species	1	33.6757650	-101.9830900	Traveling	1	0
-S65913359	2020-03-14	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.6757650	-101.9830900	Traveling	1	0
-S65913359	2020-03-14	Mourning Dove	Zenaida macroura	2412	species	1	33.6757650	-101.9830900	Traveling	1	0
-S65913359	2020-03-14	Northern Cardinal	Cardinalis cardinalis	34515	species	2	33.6757650	-101.9830900	Traveling	1	0
-S65913359	2020-03-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	33.6757650	-101.9830900	Traveling	1	0
-S65913359	2020-03-14	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	33.6757650	-101.9830900	Traveling	1	0
-S65913359	2020-03-14	American Kestrel	Falco sparverius	12028	species	1	33.6757650	-101.9830900	Traveling	1	0
-S65913359	2020-03-14	Rock Pigeon	Columba livia	1868	domestic	6	33.6757650	-101.9830900	Traveling	1	0
-S147978520	2023-08-24	American Robin	Turdus migratorius	28633	species	5	33.6844770	-101.9952870	Stationary	1	0
-S147978520	2023-08-24	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	33.6844770	-101.9952870	Stationary	1	0
-S147978520	2023-08-24	Blue Jay	Cyanocitta cristata	21294	species	1	33.6844770	-101.9952870	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S57604229	2019-06-22	L9517262	8280–8376 Highway 84, Shallowater US-TX (33.6808,-101.9945)	Burrowing Owl	Athene cunicularia	9133	species	3	33.6808160	-101.9945170	Traveling	1	0
+S57604229	2019-06-22	L9517262	8280–8376 Highway 84, Shallowater US-TX (33.6808,-101.9945)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.6808160	-101.9945170	Traveling	1	0
+S57604229	2019-06-22	L9517262	8280–8376 Highway 84, Shallowater US-TX (33.6808,-101.9945)	Western Kingbird	Tyrannus verticalis	17467	species	3	33.6808160	-101.9945170	Traveling	1	0
+S57604229	2019-06-22	L9517262	8280–8376 Highway 84, Shallowater US-TX (33.6808,-101.9945)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	33.6808160	-101.9945170	Traveling	1	0
+S57604229	2019-06-22	L9517262	8280–8376 Highway 84, Shallowater US-TX (33.6808,-101.9945)	Rock Pigeon	Columba livia	1868	domestic	1	33.6808160	-101.9945170	Traveling	1	0
+S57604229	2019-06-22	L9517262	8280–8376 Highway 84, Shallowater US-TX (33.6808,-101.9945)	European Starling	Sturnus vulgaris	27813	species	4	33.6808160	-101.9945170	Traveling	1	0
+S57604229	2019-06-22	L9517262	8280–8376 Highway 84, Shallowater US-TX (33.6808,-101.9945)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	2	33.6808160	-101.9945170	Traveling	1	0
+S57604229	2019-06-22	L9517262	8280–8376 Highway 84, Shallowater US-TX (33.6808,-101.9945)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	33.6808160	-101.9945170	Traveling	1	0
+S65913359	2020-03-14	L10980825	US-84 W, Shallowater US-TX 33.67577, -101.98309	Burrowing Owl	Athene cunicularia	9133	species	1	33.6757650	-101.9830900	Traveling	1	0
+S65913359	2020-03-14	L10980825	US-84 W, Shallowater US-TX 33.67577, -101.98309	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.6757650	-101.9830900	Traveling	1	0
+S65913359	2020-03-14	L10980825	US-84 W, Shallowater US-TX 33.67577, -101.98309	Mourning Dove	Zenaida macroura	2412	species	1	33.6757650	-101.9830900	Traveling	1	0
+S65913359	2020-03-14	L10980825	US-84 W, Shallowater US-TX 33.67577, -101.98309	Northern Cardinal	Cardinalis cardinalis	34515	species	2	33.6757650	-101.9830900	Traveling	1	0
+S65913359	2020-03-14	L10980825	US-84 W, Shallowater US-TX 33.67577, -101.98309	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	33.6757650	-101.9830900	Traveling	1	0
+S65913359	2020-03-14	L10980825	US-84 W, Shallowater US-TX 33.67577, -101.98309	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	33.6757650	-101.9830900	Traveling	1	0
+S65913359	2020-03-14	L10980825	US-84 W, Shallowater US-TX 33.67577, -101.98309	American Kestrel	Falco sparverius	12028	species	1	33.6757650	-101.9830900	Traveling	1	0
+S65913359	2020-03-14	L10980825	US-84 W, Shallowater US-TX 33.67577, -101.98309	Rock Pigeon	Columba livia	1868	domestic	6	33.6757650	-101.9830900	Traveling	1	0
+S147978520	2023-08-24	L26733141	405 Clovis Rd, Shallowater US-TX 33.68448, -101.99529	American Robin	Turdus migratorius	28633	species	5	33.6844770	-101.9952870	Stationary	1	0
+S147978520	2023-08-24	L26733141	405 Clovis Rd, Shallowater US-TX 33.68448, -101.99529	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	33.6844770	-101.9952870	Stationary	1	0
+S147978520	2023-08-24	L26733141	405 Clovis Rd, Shallowater US-TX 33.68448, -101.99529	Blue Jay	Cyanocitta cristata	21294	species	1	33.6844770	-101.9952870	Stationary	1	0

@@ -1,13 +1,13 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S48602393,2018-09-14,2018,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,5,4.828,1,39.1550268,-111.8170698,3,3,city_1105_utah_gunnison
-S45214900,2018-05-03,2018,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,30,,1,39.150967,-111.813729,5,5,city_1105_utah_gunnison
-S47133508,2018-03-22,2018,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,10,2.253,1,39.151853,-111.8190193,3,3,city_1105_utah_gunnison
-S61804807,2019-11-27,2019,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,22,6.49,1,39.153602,-111.827984,6,6,city_1105_utah_gunnison
-S53831451,2019-01-26,2019,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,10,3.219,1,39.151853,-111.8190193,3,3,city_1105_utah_gunnison
-S94515185,2021-09-11,2021,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,5,8.047,1,39.136821,-111.818921,5,5,city_1105_utah_gunnison
-S105857459,2022-03-28,2022,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,20,3.38,1,39.151853,-111.8190193,6,6,city_1105_utah_gunnison
-S120052953,2022-10-06,2022,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,6,0.972,1,39.124661,-111.817477,4,4,city_1105_utah_gunnison
-S101722115,2022-01-30,2022,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,7,4.833,1,39.153906,-111.824857,2,2,city_1105_utah_gunnison
-S192658386,2024-08-24,2024,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,30,1.609,1,39.14696,-111.813023,7,7,city_1105_utah_gunnison
-S170655398,2024-04-20,2024,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,20,0.402,1,39.1593162,-111.8188047,10,10,city_1105_utah_gunnison
-S243503738,2025-05-27,2025,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,44,0.453,1,39.158587,-111.819358,8,8,city_1105_utah_gunnison
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S48602393,L7939947,Gunnison town,2018-09-14,2018,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,5,4.828,1,39.1550268,-111.8170698,3,3,city_1105_utah_gunnison
+S45214900,L7327795,"127 E 300 S, Gunnison US-UT (39.1510,-111.8137)",2018-05-03,2018,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,30,,1,39.150967,-111.813729,5,5,city_1105_utah_gunnison
+S47133508,L5623798,Gunnison town area,2018-03-22,2018,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,10,2.253,1,39.151853,-111.8190193,3,3,city_1105_utah_gunnison
+S61804807,L10206928,"Gunnison, UT",2019-11-27,2019,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,22,6.49,1,39.153602,-111.827984,6,6,city_1105_utah_gunnison
+S53831451,L5623798,Gunnison town area,2019-01-26,2019,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,10,3.219,1,39.151853,-111.8190193,3,3,city_1105_utah_gunnison
+S94515185,L16352781,"540 N Main St, Centerfield US-UT 39.13682, -111.81892",2021-09-11,2021,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,5,8.047,1,39.136821,-111.818921,5,5,city_1105_utah_gunnison
+S105857459,L5623798,Gunnison town area,2022-03-28,2022,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,20,3.38,1,39.151853,-111.8190193,6,6,city_1105_utah_gunnison
+S120052953,L21130393,"110 S 100 E, Centerfield US-UT 39.12466, -111.81748",2022-10-06,2022,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,6,0.972,1,39.124661,-111.817477,4,4,city_1105_utah_gunnison
+S101722115,L17596249,"98 S 200 W, Gunnison US-UT 39.15391, -111.82486",2022-01-30,2022,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,7,4.833,1,39.153906,-111.824857,2,2,city_1105_utah_gunnison
+S192658386,L36043654,Home,2024-08-24,2024,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,30,1.609,1,39.14696,-111.813023,7,7,city_1105_utah_gunnison
+S170655398,L15539734,Gunnison Park,2024-04-20,2024,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,20,0.402,1,39.1593162,-111.8188047,10,10,city_1105_utah_gunnison
+S243503738,L46145501,Gunnison Park,2025-05-27,2025,1105,"Gunnison, UT",Gunnison,Utah,Sanpete,6065319.67993765,44,0.453,1,39.158587,-111.819358,8,8,city_1105_utah_gunnison

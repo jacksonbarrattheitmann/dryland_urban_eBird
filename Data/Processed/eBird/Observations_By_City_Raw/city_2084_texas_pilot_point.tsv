@@ -1,80 +1,80 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S42206351	2018-01-23	Greater Roadrunner	Geococcyx californianus	3038	species	X	33.4000000	-96.9617000	Traveling	1	0
-S42206351	2018-01-23	Cooper's Hawk	Astur cooperii	8278	species	X	33.4000000	-96.9617000	Traveling	1	0
-S42206351	2018-01-23	Red-tailed Hawk	Buteo jamaicensis	8506	species	X	33.4000000	-96.9617000	Traveling	1	0
-S42206351	2018-01-23	Loggerhead Shrike	Lanius ludovicianus	21091	species	X	33.4000000	-96.9617000	Traveling	1	0
-S42206351	2018-01-23	Western/Eastern Meadowlark	Sturnella neglecta/magna	33586	slash	X	33.4000000	-96.9617000	Traveling	1	0
-S42206351	2018-01-23	European Starling	Sturnus vulgaris	27813	species	X	33.4000000	-96.9617000	Traveling	1	0
-S54618096	2019-04-06	Barn Swallow	Hirundo rustica	24187	species	4	33.4100990	-96.9512900	Stationary	1	0
-S54618096	2019-04-06	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.4100990	-96.9512900	Stationary	1	0
-S62441554	2019-12-19	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.4000000	-96.9617000	Traveling	1	0
-S55796548	2019-03-16	American Goldfinch	Spinus tristis	32617	species	4	33.4099710	-96.9511250	Stationary	1	0
-S62441554	2019-12-19	Black Vulture	Coragyps atratus	7811	species	1	33.4000000	-96.9617000	Traveling	1	0
-S55796548	2019-03-16	Dark-eyed Junco	Junco hyemalis	33124	species	2	33.4099710	-96.9511250	Stationary	1	0
-S55796548	2019-03-16	Inca Dove	Columbina inca	2242	species	2	33.4099710	-96.9511250	Stationary	1	0
-S54618096	2019-04-06	White-winged Dove	Zenaida asiatica	2389	species	1	33.4100990	-96.9512900	Stationary	1	0
-S62441554	2019-12-19	Savannah Sparrow	Passerculus sandwichensis	33244	species	4	33.4000000	-96.9617000	Traveling	1	0
-S54618096	2019-04-06	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	33.4100990	-96.9512900	Stationary	1	0
-S62441554	2019-12-19	Carolina Wren	Thryothorus ludovicianus	27348	species	1	33.4000000	-96.9617000	Traveling	1	0
-S62441554	2019-12-19	Gadwall	Mareca strepera	505	species	5	33.4000000	-96.9617000	Traveling	1	0
-S54618096	2019-04-06	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.4100990	-96.9512900	Stationary	1	0
-S55796548	2019-03-16	House Finch	Haemorhous mexicanus	32310	species	2	33.4099710	-96.9511250	Stationary	1	0
-S62441554	2019-12-19	Turkey Vulture	Cathartes aura	7815	species	3	33.4000000	-96.9617000	Traveling	1	0
-S77204910	2020-12-07	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	33.3965100	-96.9605800	Stationary	1	0
-S162005925	2024-02-18	House Sparrow	Passer domesticus	31534	species	7	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	American Robin	Turdus migratorius	28633	species	2	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	European Starling	Sturnus vulgaris	27813	species	13	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	White-winged Dove	Zenaida asiatica	2389	species	2	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	Carolina Chickadee	Poecile carolinensis	22060	species	6	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	Mississippi Kite	Ictinia mississippiensis	8388	species	1	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	Northern Cardinal	Cardinalis cardinalis	34515	species	7	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	Turkey Vulture	Cathartes aura	7815	species	2	33.3947590	-96.9594240	Stationary	1	0
-S177152946	2024-05-25	Carolina Wren	Thryothorus ludovicianus	27348	species	1	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	Eastern Bluebird	Sialia sialis	28126	species	2	33.3949625	-96.9503613	Stationary	1	0
-S162005925	2024-02-18	Black Vulture	Coragyps atratus	7811	species	6	33.3949625	-96.9503613	Stationary	1	0
-S162005925	2024-02-18	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.3949625	-96.9503613	Stationary	1	0
-S162005925	2024-02-18	Loggerhead Shrike	Lanius ludovicianus	21091	species	2	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	Chimney Swift	Chaetura pelagica	3896	species	3	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	American Robin	Turdus migratorius	28633	species	6	33.3949625	-96.9503613	Stationary	1	0
-S162005925	2024-02-18	Bewick's Wren	Thryomanes bewickii	27362	species	5	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	Blue Jay	Cyanocitta cristata	21294	species	1	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	Tufted Titmouse	Baeolophus bicolor	22160	species	4	33.3949625	-96.9503613	Stationary	1	0
-S162005925	2024-02-18	Song Sparrow	Melospiza melodia	33277	species	6	33.3949625	-96.9503613	Stationary	1	0
-S162005925	2024-02-18	Red-shouldered Hawk	Buteo lineatus	8487	species	2	33.3949625	-96.9503613	Stationary	1	0
-S162005925	2024-02-18	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	Common Nighthawk	Chordeiles minor	3492	species	1	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	Common Grackle	Quiscalus quiscula	33853	species	5	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	Northern Cardinal	Cardinalis cardinalis	34515	species	1	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	Blue Jay	Cyanocitta cristata	21294	species	4	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	Baltimore Oriole	Icterus galbula	33770	species	1	33.3947590	-96.9594240	Stationary	1	0
-S162005925	2024-02-18	Sora	Porzana carolina	5455	species	2	33.3949625	-96.9503613	Stationary	1	0
-S177152946	2024-05-25	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	33.3947590	-96.9594240	Stationary	1	0
-S217874274	2025-03-11	Mourning Dove	Zenaida macroura	2412	species	2	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	Dark-eyed Junco	Junco hyemalis	33124	species	7	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	Brown-headed Cowbird	Molothrus ater	33833	species	5	33.3949625	-96.9503613	Stationary	1	0
-S213781851	2025-02-16	Tufted Titmouse	Baeolophus bicolor	22160	species	2	33.3949625	-96.9503613	Stationary	1	0
-S213781851	2025-02-16	Common Yellowthroat	Geothlypis trichas	34028	species	1	33.3949625	-96.9503613	Stationary	1	0
-S213781851	2025-02-16	Canada Goose	Branta canadensis	342	species	18	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	White-winged Dove	Zenaida asiatica	2389	species	4	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	Dark-eyed Junco	Junco hyemalis	33124	species	7	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	Common Grackle	Quiscalus quiscula	33853	species	9	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	American Crow	Corvus brachyrhynchos	21557	species	4	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	House Finch	Haemorhous mexicanus	32310	species	3	33.3949625	-96.9503613	Stationary	1	0
-S213781851	2025-02-16	American Pipit	Anthus rubescens	31883	species	1	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	American Robin	Turdus migratorius	28633	species	7	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	House Sparrow	Passer domesticus	31534	species	6	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	Northern Cardinal	Cardinalis cardinalis	34515	species	7	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	European Starling	Sturnus vulgaris	27813	species	15	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	Northern Cardinal	Cardinalis cardinalis	34515	species	6	33.3949625	-96.9503613	Stationary	1	0
-S213781851	2025-02-16	Bewick's Wren	Thryomanes bewickii	27362	species	4	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	American Robin	Turdus migratorius	28633	species	6	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	House Finch	Haemorhous mexicanus	32310	species	3	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	Carolina Chickadee	Poecile carolinensis	22060	species	3	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	33.3949625	-96.9503613	Stationary	1	0
-S213781851	2025-02-16	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	Northern Mockingbird	Mimus polyglottos	28114	species	3	33.3949625	-96.9503613	Stationary	1	0
-S213781851	2025-02-16	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	Blue Jay	Cyanocitta cristata	21294	species	5	33.3949625	-96.9503613	Stationary	1	0
-S217874274	2025-03-11	Barn Swallow	Hirundo rustica	24187	species	2	33.3949625	-96.9503613	Stationary	1	0
-S213765108	2025-02-16	House Sparrow	Passer domesticus	31534	species	6	33.3949625	-96.9503613	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S42206351	2018-01-23	L283419	Ray Roberts Lake--Pilot Point	Greater Roadrunner	Geococcyx californianus	3038	species	X	33.4000000	-96.9617000	Traveling	1	0
+S42206351	2018-01-23	L283419	Ray Roberts Lake--Pilot Point	Cooper's Hawk	Astur cooperii	8278	species	X	33.4000000	-96.9617000	Traveling	1	0
+S42206351	2018-01-23	L283419	Ray Roberts Lake--Pilot Point	Red-tailed Hawk	Buteo jamaicensis	8506	species	X	33.4000000	-96.9617000	Traveling	1	0
+S42206351	2018-01-23	L283419	Ray Roberts Lake--Pilot Point	Loggerhead Shrike	Lanius ludovicianus	21091	species	X	33.4000000	-96.9617000	Traveling	1	0
+S42206351	2018-01-23	L283419	Ray Roberts Lake--Pilot Point	Western/Eastern Meadowlark	Sturnella neglecta/magna	33586	slash	X	33.4000000	-96.9617000	Traveling	1	0
+S42206351	2018-01-23	L283419	Ray Roberts Lake--Pilot Point	European Starling	Sturnus vulgaris	27813	species	X	33.4000000	-96.9617000	Traveling	1	0
+S54618096	2019-04-06	L8986817	1300 High Point Dr, Pilot Point US-TX (33.4101,-96.9513)	Barn Swallow	Hirundo rustica	24187	species	4	33.4100990	-96.9512900	Stationary	1	0
+S54618096	2019-04-06	L8986817	1300 High Point Dr, Pilot Point US-TX (33.4101,-96.9513)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.4100990	-96.9512900	Stationary	1	0
+S62441554	2019-12-19	L283419	Ray Roberts Lake--Pilot Point	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.4000000	-96.9617000	Traveling	1	0
+S55796548	2019-03-16	L9186718	1300 High Point Dr, Pilot Point US-TX (33.4100,-96.9511)	American Goldfinch	Spinus tristis	32617	species	4	33.4099710	-96.9511250	Stationary	1	0
+S62441554	2019-12-19	L283419	Ray Roberts Lake--Pilot Point	Black Vulture	Coragyps atratus	7811	species	1	33.4000000	-96.9617000	Traveling	1	0
+S55796548	2019-03-16	L9186718	1300 High Point Dr, Pilot Point US-TX (33.4100,-96.9511)	Dark-eyed Junco	Junco hyemalis	33124	species	2	33.4099710	-96.9511250	Stationary	1	0
+S55796548	2019-03-16	L9186718	1300 High Point Dr, Pilot Point US-TX (33.4100,-96.9511)	Inca Dove	Columbina inca	2242	species	2	33.4099710	-96.9511250	Stationary	1	0
+S54618096	2019-04-06	L8986817	1300 High Point Dr, Pilot Point US-TX (33.4101,-96.9513)	White-winged Dove	Zenaida asiatica	2389	species	1	33.4100990	-96.9512900	Stationary	1	0
+S62441554	2019-12-19	L283419	Ray Roberts Lake--Pilot Point	Savannah Sparrow	Passerculus sandwichensis	33244	species	4	33.4000000	-96.9617000	Traveling	1	0
+S54618096	2019-04-06	L8986817	1300 High Point Dr, Pilot Point US-TX (33.4101,-96.9513)	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	33.4100990	-96.9512900	Stationary	1	0
+S62441554	2019-12-19	L283419	Ray Roberts Lake--Pilot Point	Carolina Wren	Thryothorus ludovicianus	27348	species	1	33.4000000	-96.9617000	Traveling	1	0
+S62441554	2019-12-19	L283419	Ray Roberts Lake--Pilot Point	Gadwall	Mareca strepera	505	species	5	33.4000000	-96.9617000	Traveling	1	0
+S54618096	2019-04-06	L8986817	1300 High Point Dr, Pilot Point US-TX (33.4101,-96.9513)	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.4100990	-96.9512900	Stationary	1	0
+S55796548	2019-03-16	L9186718	1300 High Point Dr, Pilot Point US-TX (33.4100,-96.9511)	House Finch	Haemorhous mexicanus	32310	species	2	33.4099710	-96.9511250	Stationary	1	0
+S62441554	2019-12-19	L283419	Ray Roberts Lake--Pilot Point	Turkey Vulture	Cathartes aura	7815	species	3	33.4000000	-96.9617000	Traveling	1	0
+S77204910	2020-12-07	L301095	Pilot Point	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	33.3965100	-96.9605800	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	House Sparrow	Passer domesticus	31534	species	7	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	American Robin	Turdus migratorius	28633	species	2	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	European Starling	Sturnus vulgaris	27813	species	13	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	White-winged Dove	Zenaida asiatica	2389	species	2	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Carolina Chickadee	Poecile carolinensis	22060	species	6	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Mississippi Kite	Ictinia mississippiensis	8388	species	1	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Northern Cardinal	Cardinalis cardinalis	34515	species	7	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Turkey Vulture	Cathartes aura	7815	species	2	33.3947590	-96.9594240	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Carolina Wren	Thryothorus ludovicianus	27348	species	1	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Eastern Bluebird	Sialia sialis	28126	species	2	33.3949625	-96.9503613	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Black Vulture	Coragyps atratus	7811	species	6	33.3949625	-96.9503613	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.3949625	-96.9503613	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Loggerhead Shrike	Lanius ludovicianus	21091	species	2	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Chimney Swift	Chaetura pelagica	3896	species	3	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	American Robin	Turdus migratorius	28633	species	6	33.3949625	-96.9503613	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Bewick's Wren	Thryomanes bewickii	27362	species	5	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Blue Jay	Cyanocitta cristata	21294	species	1	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Tufted Titmouse	Baeolophus bicolor	22160	species	4	33.3949625	-96.9503613	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Song Sparrow	Melospiza melodia	33277	species	6	33.3949625	-96.9503613	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Red-shouldered Hawk	Buteo lineatus	8487	species	2	33.3949625	-96.9503613	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Common Nighthawk	Chordeiles minor	3492	species	1	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Common Grackle	Quiscalus quiscula	33853	species	5	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Northern Cardinal	Cardinalis cardinalis	34515	species	1	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Blue Jay	Cyanocitta cristata	21294	species	4	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Baltimore Oriole	Icterus galbula	33770	species	1	33.3947590	-96.9594240	Stationary	1	0
+S162005925	2024-02-18	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Sora	Porzana carolina	5455	species	2	33.3949625	-96.9503613	Stationary	1	0
+S177152946	2024-05-25	L32340152	Old City Park, Pilot Point US-TX 33.39476, -96.95942	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	33.3947590	-96.9594240	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Mourning Dove	Zenaida macroura	2412	species	2	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Dark-eyed Junco	Junco hyemalis	33124	species	7	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Brown-headed Cowbird	Molothrus ater	33833	species	5	33.3949625	-96.9503613	Stationary	1	0
+S213781851	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Tufted Titmouse	Baeolophus bicolor	22160	species	2	33.3949625	-96.9503613	Stationary	1	0
+S213781851	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Common Yellowthroat	Geothlypis trichas	34028	species	1	33.3949625	-96.9503613	Stationary	1	0
+S213781851	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Canada Goose	Branta canadensis	342	species	18	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	White-winged Dove	Zenaida asiatica	2389	species	4	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Dark-eyed Junco	Junco hyemalis	33124	species	7	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Common Grackle	Quiscalus quiscula	33853	species	9	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	American Crow	Corvus brachyrhynchos	21557	species	4	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	House Finch	Haemorhous mexicanus	32310	species	3	33.3949625	-96.9503613	Stationary	1	0
+S213781851	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	American Pipit	Anthus rubescens	31883	species	1	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	American Robin	Turdus migratorius	28633	species	7	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	House Sparrow	Passer domesticus	31534	species	6	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Northern Cardinal	Cardinalis cardinalis	34515	species	7	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	European Starling	Sturnus vulgaris	27813	species	15	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Northern Cardinal	Cardinalis cardinalis	34515	species	6	33.3949625	-96.9503613	Stationary	1	0
+S213781851	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Bewick's Wren	Thryomanes bewickii	27362	species	4	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	American Robin	Turdus migratorius	28633	species	6	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	House Finch	Haemorhous mexicanus	32310	species	3	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Carolina Chickadee	Poecile carolinensis	22060	species	3	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	33.3949625	-96.9503613	Stationary	1	0
+S213781851	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Northern Mockingbird	Mimus polyglottos	28114	species	3	33.3949625	-96.9503613	Stationary	1	0
+S213781851	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Blue Jay	Cyanocitta cristata	21294	species	5	33.3949625	-96.9503613	Stationary	1	0
+S217874274	2025-03-11	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	Barn Swallow	Hirundo rustica	24187	species	2	33.3949625	-96.9503613	Stationary	1	0
+S213765108	2025-02-16	L29343412	611 East Liberty Street, Pilot Point, Texas, US (33.395, -96.95)  Grace Point Nazarene Church	House Sparrow	Passer domesticus	31534	species	6	33.3949625	-96.9503613	Stationary	1	0

@@ -1,13 +1,13 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22548350,2015-03-27,2015,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,15,,1,46.2092671,-120.0038049,7,7,city_1570_washington_mabton
-S28423539,2016-03-19,2016,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,10,,1,46.2092671,-120.0038049,4,4,city_1570_washington_mabton
-S36763588,2017-05-12,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,5,,1,46.2092671,-120.0038049,11,11,city_1570_washington_mabton
-S37156389,2017-05-26,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,10,0.805,1,46.209659,-120.003235,7,7,city_1570_washington_mabton
-S36934789,2017-05-17,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,12,0.805,1,46.209659,-120.003235,7,7,city_1570_washington_mabton
-S41069909,2017-12-13,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,15,,1,46.2092671,-120.0038049,6,6,city_1570_washington_mabton
-S37136374,2017-05-25,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,11,0.805,1,46.209659,-120.003235,8,8,city_1570_washington_mabton
-S45288565,2018-05-05,2018,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,17,,1,46.2092671,-120.0038049,13,13,city_1570_washington_mabton
-S45399545,2018-05-05,2018,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,22,1.127,1,46.209659,-120.003235,16,16,city_1570_washington_mabton
-S45250349,2018-05-04,2018,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,80,,1,46.2092671,-120.0038049,19,19,city_1570_washington_mabton
-S89578329,2021-05-10,2021,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,45,0.644,1,46.2141692,-119.9961467,1,1,city_1570_washington_mabton
-S89554698,2021-05-06,2021,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,25,,1,46.217446,-119.993241,1,1,city_1570_washington_mabton
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22548350,L2766323,Mejia & Cerrillo residence,2015-03-27,2015,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,15,,1,46.2092671,-120.0038049,7,7,city_1570_washington_mabton
+S28423539,L2766323,Mejia & Cerrillo residence,2016-03-19,2016,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,10,,1,46.2092671,-120.0038049,4,4,city_1570_washington_mabton
+S36763588,L2766323,Mejia & Cerrillo residence,2017-05-12,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,5,,1,46.2092671,-120.0038049,11,11,city_1570_washington_mabton
+S37156389,L5805293,Mabton (town),2017-05-26,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,10,0.805,1,46.209659,-120.003235,7,7,city_1570_washington_mabton
+S36934789,L5805293,Mabton (town),2017-05-17,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,12,0.805,1,46.209659,-120.003235,7,7,city_1570_washington_mabton
+S41069909,L2766323,Mejia & Cerrillo residence,2017-12-13,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,15,,1,46.2092671,-120.0038049,6,6,city_1570_washington_mabton
+S37136374,L5805293,Mabton (town),2017-05-25,2017,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,11,0.805,1,46.209659,-120.003235,8,8,city_1570_washington_mabton
+S45288565,L2766323,Mejia & Cerrillo residence,2018-05-05,2018,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,17,,1,46.2092671,-120.0038049,13,13,city_1570_washington_mabton
+S45399545,L5805293,Mabton (town),2018-05-05,2018,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,22,1.127,1,46.209659,-120.003235,16,16,city_1570_washington_mabton
+S45250349,L2766323,Mejia & Cerrillo residence,2018-05-04,2018,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,80,,1,46.2092671,-120.0038049,19,19,city_1570_washington_mabton
+S89578329,L15234021,Feezell Park,2021-05-10,2021,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,45,0.644,1,46.2141692,-119.9961467,1,1,city_1570_washington_mabton
+S89554698,L15205560,Backyard,2021-05-06,2021,1570,"Mabton, WA",Mabton,Washington,Yakima,1835109.39842602,25,,1,46.217446,-119.993241,1,1,city_1570_washington_mabton

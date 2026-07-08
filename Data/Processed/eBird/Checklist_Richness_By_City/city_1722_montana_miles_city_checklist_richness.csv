@@ -1,307 +1,307 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24584602,2015-08-11,2015,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4058181,-105.8312988,8,8,city_1722_montana_miles_city
-S29325813,2016-05-01,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,82,1.609,1,46.40088,-105.856029,24,24,city_1722_montana_miles_city
-S31168039,2016-08-18,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4210709,-105.8563392,14,14,city_1722_montana_miles_city
-S31170448,2016-08-18,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,1.609,1,46.40391,-105.85555,21,21,city_1722_montana_miles_city
-S30376507,2016-06-24,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,85,3.219,1,46.388199,-105.826595,19,19,city_1722_montana_miles_city
-S29299288,2016-04-30,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,1.609,1,46.40088,-105.856029,18,18,city_1722_montana_miles_city
-S30368572,2016-06-24,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,35,0.241,1,46.388622,-105.815341,10,10,city_1722_montana_miles_city
-S29012042,2016-04-17,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4083,-105.84056,2,2,city_1722_montana_miles_city
-S39153685,2017-09-10,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,165,0.966,1,46.4078024,-105.8640892,31,31,city_1722_montana_miles_city
-S36679293,2017-05-09,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,65,0.966,1,46.393102,-105.824121,12,12,city_1722_montana_miles_city
-S38061818,2017-07-09,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.40391,-105.85555,14,14,city_1722_montana_miles_city
-S37141271,2017-05-23,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,120,,1,46.40391,-105.85555,11,11,city_1722_montana_miles_city
-S39078913,2017-09-08,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,82,0.483,1,46.4078024,-105.8640892,22,22,city_1722_montana_miles_city
-S40743570,2017-11-26,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,1.609,1,46.406983,-105.8351,2,2,city_1722_montana_miles_city
-S34381788,2017-02-13,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.403844,-105.85753,3,3,city_1722_montana_miles_city
-S35362680,2017-03-22,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.4086347,-105.832506,1,1,city_1722_montana_miles_city
-S48497017,2018-09-12,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,57,2.269,1,46.40391,-105.85555,24,24,city_1722_montana_miles_city
-S48455408,2018-09-12,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,57,2.269,1,46.40391,-105.85555,25,25,city_1722_montana_miles_city
-S48180620,2018-08-30,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,53,0.851,1,46.406848,-105.85864,4,4,city_1722_montana_miles_city
-S45998891,2018-05-24,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,57,1.77,1,46.4078024,-105.8640892,25,25,city_1722_montana_miles_city
-S45282585,2018-05-05,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,27,,1,46.407086,-105.8592041,7,7,city_1722_montana_miles_city
-S45566307,2018-05-11,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.241,1,46.405129,-105.8575287,8,8,city_1722_montana_miles_city
-S46132328,2018-05-25,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,0.161,1,46.4078024,-105.8640892,16,16,city_1722_montana_miles_city
-S48110873,2018-08-27,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,35,,1,46.4086347,-105.832506,7,7,city_1722_montana_miles_city
-S45567694,2018-05-11,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,28,0.802,1,46.4078024,-105.8640892,13,13,city_1722_montana_miles_city
-S45590012,2018-05-12,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,,1,46.4086349,-105.8326059,8,8,city_1722_montana_miles_city
-S45568698,2018-05-11,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,6.437,1,46.40391,-105.85555,13,13,city_1722_montana_miles_city
-S45979285,2018-05-24,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,37,3.912,1,46.379847,-105.82351,8,8,city_1722_montana_miles_city
-S42275003,2018-01-27,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,69,2.296,1,46.388603,-105.837063,4,4,city_1722_montana_miles_city
-S43324650,2018-03-02,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,41,2.189,1,46.4053793,-105.827491,4,4,city_1722_montana_miles_city
-S48805439,2018-09-28,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,55,1.609,1,46.4058181,-105.8312988,8,8,city_1722_montana_miles_city
-S48319198,2018-09-02,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,,1,46.4086347,-105.832506,5,5,city_1722_montana_miles_city
-S48043314,2018-08-24,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.4086347,-105.832506,3,3,city_1722_montana_miles_city
-S48559084,2018-09-13,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,16,0.161,1,46.4054629,-105.8602053,5,5,city_1722_montana_miles_city
-S43498840,2018-03-09,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4086349,-105.8326059,2,2,city_1722_montana_miles_city
-S43311078,2018-03-02,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,0.822,1,46.388603,-105.837063,4,4,city_1722_montana_miles_city
-S44573230,2018-04-14,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4086349,-105.8326059,3,3,city_1722_montana_miles_city
-S43314611,2018-03-02,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,1.063,1,46.4053793,-105.827491,5,5,city_1722_montana_miles_city
-S48180739,2018-08-30,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,,1,46.406848,-105.85864,5,5,city_1722_montana_miles_city
-S48559071,2018-09-12,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,28,0.869,1,46.4054629,-105.8602053,5,5,city_1722_montana_miles_city
-S56013344,2019-05-08,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,1.51,1,46.4078024,-105.8640892,16,16,city_1722_montana_miles_city
-S59848213,2019-09-16,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.14,1,46.39913,-105.822884,5,5,city_1722_montana_miles_city
-S57134148,2019-06-06,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,3.176,1,46.417739,-105.858039,16,16,city_1722_montana_miles_city
-S56806833,2019-05-27,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,70,1.143,1,46.4078024,-105.8640892,28,28,city_1722_montana_miles_city
-S56119180,2019-05-11,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,56,,1,46.406085,-105.858415,10,10,city_1722_montana_miles_city
-S57996207,2019-07-03,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.805,1,46.406367,-105.849804,1,1,city_1722_montana_miles_city
-S54018095,2019-03-15,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,16.093,1,46.4083458,-105.8407841,4,4,city_1722_montana_miles_city
-S58556568,2019-07-29,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,28,10.151,1,46.396221,-105.821166,1,1,city_1722_montana_miles_city
-S57098136,2019-06-04,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,0.402,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S71892821,2020-07-28,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.435,1,46.3936934,-105.819192,5,5,city_1722_montana_miles_city
-S73430023,2020-09-10,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,36,2.2,1,46.404818,-105.851123,8,8,city_1722_montana_miles_city
-S73427658,2020-09-10,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,183,0.343,1,46.405356,-105.827071,3,3,city_1722_montana_miles_city
-S70720978,2020-06-22,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,41,0.252,1,46.3886114,-105.8266902,17,17,city_1722_montana_miles_city
-S73965286,2020-09-23,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,107,,1,46.405244,-105.826336,3,3,city_1722_montana_miles_city
-S70841304,2020-06-26,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,47,1.894,1,46.3886114,-105.8266902,23,23,city_1722_montana_miles_city
-S69813229,2020-05-29,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,0.805,1,46.40391,-105.85555,16,16,city_1722_montana_miles_city
-S65821120,2020-03-15,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.408604,-105.832396,4,4,city_1722_montana_miles_city
-S73688898,2020-09-16,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,1.331,1,46.40391,-105.85555,6,6,city_1722_montana_miles_city
-S63908992,2020-01-29,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.386,1,46.3922732,-105.8174594,2,2,city_1722_montana_miles_city
-S71674915,2020-07-20,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,,1,46.40391,-105.85555,3,3,city_1722_montana_miles_city
-S71931435,2020-07-29,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,1.326,1,46.396366,-105.822279,2,2,city_1722_montana_miles_city
-S73858032,2020-09-20,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
-S88731370,2021-05-22,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.40367,-105.813109,7,7,city_1722_montana_miles_city
-S94843067,2021-09-18,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.3942105,-105.821012,2,2,city_1722_montana_miles_city
-S95513747,2021-09-30,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,,1,46.405134,-105.856047,11,11,city_1722_montana_miles_city
-S91234202,2021-07-04,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,44,0.631,1,46.4078024,-105.8640892,30,30,city_1722_montana_miles_city
-S91513497,2021-07-09,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.076,1,46.4078024,-105.8640892,10,10,city_1722_montana_miles_city
-S89553758,2021-06-03,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,0.471,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S93871240,2021-08-27,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,154,1.172,1,46.4078024,-105.8640892,38,38,city_1722_montana_miles_city
-S95061174,2021-09-23,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,0.209,1,46.40391,-105.85555,11,11,city_1722_montana_miles_city
-S87089841,2021-05-03,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.40863,-105.832541,8,8,city_1722_montana_miles_city
-S88240138,2021-05-15,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,125,0.531,1,46.3971548,-105.8579549,8,8,city_1722_montana_miles_city
-S88448761,2021-05-18,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.403677,-105.813275,8,8,city_1722_montana_miles_city
-S87501803,2021-05-08,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,,1,46.403945,-105.813778,6,6,city_1722_montana_miles_city
-S94896748,2021-09-19,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,,1,46.40391,-105.85555,9,9,city_1722_montana_miles_city
-S87718559,2021-05-10,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.403689,-105.813275,7,7,city_1722_montana_miles_city
-S93691701,2021-08-19,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,48.28,1,46.3965509,-105.8125212,1,1,city_1722_montana_miles_city
-S95104170,2021-09-24,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,,1,46.40391,-105.85555,8,8,city_1722_montana_miles_city
-S83465428,2021-03-15,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.4151455,-105.8462102,7,7,city_1722_montana_miles_city
-S87497517,2021-05-08,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,,1,46.403645,-105.813331,4,4,city_1722_montana_miles_city
-S87430941,2021-05-08,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.403639,-105.813207,4,4,city_1722_montana_miles_city
-S95061060,2021-09-23,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,69,0.902,1,46.4078024,-105.8640892,12,12,city_1722_montana_miles_city
-S95025685,2021-09-22,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.40391,-105.85555,6,6,city_1722_montana_miles_city
-S95514011,2021-09-30,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,0.473,1,46.404111,-105.853071,7,7,city_1722_montana_miles_city
-S94826324,2021-09-18,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.40391,-105.85555,10,10,city_1722_montana_miles_city
-S94384705,2021-09-08,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.405135,-105.826354,3,3,city_1722_montana_miles_city
-S97132996,2021-11-03,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.612,1,46.404187,-105.8226,2,2,city_1722_montana_miles_city
-S92239097,2021-07-24,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.408,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
-S111000005,2022-05-22,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,,1,46.39977,-105.86805,16,16,city_1722_montana_miles_city
-S107533707,2022-04-19,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
-S110620449,2022-05-18,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,,1,46.4098398,-105.8366463,9,9,city_1722_montana_miles_city
-S109615276,2022-05-10,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,33,,1,46.4098398,-105.8366463,10,10,city_1722_montana_miles_city
-S110626906,2022-05-18,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,2.263,1,46.406679,-105.832497,12,12,city_1722_montana_miles_city
-S111905332,2022-06-01,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,0.777,1,46.390006,-105.82622,15,15,city_1722_montana_miles_city
-S115971684,2022-07-29,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.411345,-105.836192,5,5,city_1722_montana_miles_city
-S119907671,2022-10-03,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,16,,1,46.403583,-105.820975,4,4,city_1722_montana_miles_city
-S119611131,2022-09-28,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,42,0.38,1,46.3809186,-105.8382193,8,8,city_1722_montana_miles_city
-S112554729,2022-06-09,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.40391,-105.85555,5,5,city_1722_montana_miles_city
-S117015047,2022-08-15,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,,1,46.40391,-105.85555,12,12,city_1722_montana_miles_city
-S117932620,2022-09-01,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,1.127,1,46.4078024,-105.8640892,9,9,city_1722_montana_miles_city
-S110048712,2022-05-14,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,39,0.257,1,46.406679,-105.832497,12,12,city_1722_montana_miles_city
-S110039506,2022-05-14,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,23,0.725,1,46.4098398,-105.8366463,12,12,city_1722_montana_miles_city
-S116130458,2022-07-31,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,143,0.565,1,46.380201,-105.840951,14,14,city_1722_montana_miles_city
-S122512529,2022-11-16,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,2,2,city_1722_montana_miles_city
-S116598167,2022-08-09,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,36,2.414,1,46.3889332,-105.8243734,14,14,city_1722_montana_miles_city
-S115724283,2022-07-25,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.3961422,-105.8209118,5,5,city_1722_montana_miles_city
-S118507175,2022-09-11,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,37,7.904,1,46.405487,-105.852519,2,2,city_1722_montana_miles_city
-S116147957,2022-08-01,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,17,,1,46.380201,-105.840951,10,10,city_1722_montana_miles_city
-S120502159,2022-10-09,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,,1,46.408658,-105.83251,1,1,city_1722_montana_miles_city
-S111123242,2022-05-23,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
-S117932549,2022-09-01,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,52,1.931,1,46.40391,-105.85555,11,11,city_1722_montana_miles_city
-S112162710,2022-06-04,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4098398,-105.8366463,4,4,city_1722_montana_miles_city
-S112900095,2022-06-13,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,3.716,1,46.39977,-105.86805,8,8,city_1722_montana_miles_city
-S113404362,2022-06-18,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,2.736,1,46.3961954,-105.8234231,2,2,city_1722_montana_miles_city
-S117227899,2022-08-19,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,0.271,1,46.408052,-105.82806,5,5,city_1722_montana_miles_city
-S117015061,2022-08-14,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.523,1,46.40391,-105.85555,2,2,city_1722_montana_miles_city
-S112249650,2022-06-05,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,59,3.44,1,46.40391,-105.85555,6,6,city_1722_montana_miles_city
-S108225914,2022-04-27,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.119,1,46.405244,-105.826336,5,5,city_1722_montana_miles_city
-S109997204,2022-05-14,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.39977,-105.86805,6,6,city_1722_montana_miles_city
-S122557723,2022-11-17,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,1,1,city_1722_montana_miles_city
-S117227920,2022-08-19,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,17,0.186,1,46.4210709,-105.8563392,3,3,city_1722_montana_miles_city
-S113178093,2022-06-17,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.161,1,46.3961954,-105.8234231,2,2,city_1722_montana_miles_city
-S149443326,2023-09-09,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,27,0.245,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
-S137893322,2023-05-12,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.3886114,-105.8266902,11,11,city_1722_montana_miles_city
-S155895028,2023-12-07,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,2.809,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
-S156628507,2023-12-18,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,64,2.421,1,46.4078024,-105.8640892,9,9,city_1722_montana_miles_city
-S137896467,2023-05-14,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4151455,-105.8462102,13,13,city_1722_montana_miles_city
-S141029553,2023-06-09,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
-S132053635,2023-03-28,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,3,3,city_1722_montana_miles_city
-S133762394,2023-04-14,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
-S134913825,2023-04-24,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
-S140785315,2023-06-07,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,1.025,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S131547673,2023-03-22,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,5,5,city_1722_montana_miles_city
-S133249101,2023-04-09,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4098398,-105.8366463,4,4,city_1722_montana_miles_city
-S130006027,2023-03-02,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,2,2,city_1722_montana_miles_city
-S126866182,2023-01-24,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,1.304,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S138926206,2023-05-22,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,17,1.855,1,46.40391,-105.85555,17,17,city_1722_montana_miles_city
-S160562823,2023-06-24,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,37,1.864,1,46.406175,-105.832427,8,8,city_1722_montana_miles_city
-S134226134,2023-04-18,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.4098398,-105.8366463,7,7,city_1722_montana_miles_city
-S133898532,2023-04-15,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
-S126849508,2023-01-24,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,2,2,city_1722_montana_miles_city
-S136533908,2023-05-07,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,,1,46.409112,-105.85398,6,6,city_1722_montana_miles_city
-S130831201,2023-03-13,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,1,1,city_1722_montana_miles_city
-S147496569,2023-08-17,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,0.805,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
-S131028388,2023-03-16,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,2,2,city_1722_montana_miles_city
-S142034388,2023-06-15,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.3886114,-105.8266902,2,2,city_1722_montana_miles_city
-S177806097,2024-05-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,0.344,1,46.3886114,-105.8266902,13,13,city_1722_montana_miles_city
-S174558057,2024-05-14,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,0.583,1,46.406342,-105.832936,5,5,city_1722_montana_miles_city
-S193391815,2024-08-31,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,68,,1,46.4078024,-105.8640892,11,11,city_1722_montana_miles_city
-S178388811,2024-05-31,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,2.52,1,46.4078024,-105.8640892,26,26,city_1722_montana_miles_city
-S205821230,2024-12-18,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,32,2.536,1,46.4078024,-105.8640892,14,14,city_1722_montana_miles_city
-S177258020,2024-05-26,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,86,1.609,1,46.4078024,-105.8640892,45,45,city_1722_montana_miles_city
-S177564323,2024-05-27,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,0.487,1,46.406155,-105.830582,12,12,city_1722_montana_miles_city
-S185633253,2024-07-06,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.825,1,46.402073,-105.856628,6,6,city_1722_montana_miles_city
-S189733338,2024-07-31,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,0.277,1,46.392907,-105.821263,8,8,city_1722_montana_miles_city
-S189184199,2024-07-27,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,80,1.216,1,46.406774,-105.863622,4,4,city_1722_montana_miles_city
-S202960145,2024-09-18,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,150,,1,46.4063211,-105.8593655,11,11,city_1722_montana_miles_city
-S202962145,2024-09-16,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.4063211,-105.8593655,15,15,city_1722_montana_miles_city
-S202961801,2024-09-17,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,90,,1,46.4063211,-105.8593655,15,15,city_1722_montana_miles_city
-S202958849,2024-09-20,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.4063211,-105.8593655,19,19,city_1722_montana_miles_city
-S167096435,2024-04-03,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,1.767,1,46.406679,-105.832497,6,6,city_1722_montana_miles_city
-S173473848,2024-05-11,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,70,,1,46.406614,-105.8591131,11,11,city_1722_montana_miles_city
-S173316271,2024-05-10,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.406614,-105.8591131,13,13,city_1722_montana_miles_city
-S174401271,2024-05-13,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,41,4.828,1,46.408184,-105.834421,8,8,city_1722_montana_miles_city
-S169033161,2024-04-17,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,72,2.908,1,46.380285,-105.839865,16,16,city_1722_montana_miles_city
-S177883283,2024-05-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,,1,46.4078024,-105.8640892,12,12,city_1722_montana_miles_city
-S177553649,2024-05-27,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,118,1.116,1,46.40391,-105.85555,36,36,city_1722_montana_miles_city
-S199352015,2024-10-17,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
-S199255949,2024-10-16,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,108,2.414,1,46.3886114,-105.8266902,16,16,city_1722_montana_miles_city
-S173431441,2024-05-11,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,,1,46.406614,-105.8591131,18,18,city_1722_montana_miles_city
-S166254410,2024-03-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,73,2.685,1,46.4078024,-105.8640892,12,12,city_1722_montana_miles_city
-S189237522,2024-07-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,50,0.609,1,46.405572,-105.860629,7,7,city_1722_montana_miles_city
-S180175358,2024-06-06,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,0.061,1,46.403759,-105.821755,11,11,city_1722_montana_miles_city
-S160857764,2024-02-07,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,,1,46.4210709,-105.8563392,5,5,city_1722_montana_miles_city
-S199382715,2024-10-18,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,26,0.3,1,46.40391,-105.85555,9,9,city_1722_montana_miles_city
-S168430363,2024-04-13,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,,1,46.4098398,-105.8366463,4,4,city_1722_montana_miles_city
-S163298037,2024-02-29,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,,1,46.4098398,-105.8366463,2,2,city_1722_montana_miles_city
-S163258677,2024-02-29,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.414,1,46.416676,-105.822746,4,4,city_1722_montana_miles_city
-S196980883,2024-09-29,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,8.047,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
-S177165857,2024-05-25,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.406101,-105.859572,6,6,city_1722_montana_miles_city
-S207058538,2024-12-29,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.135,1,46.4210709,-105.8563392,4,4,city_1722_montana_miles_city
-S166258371,2024-03-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,31,0.658,1,46.398328,-105.851511,8,8,city_1722_montana_miles_city
-S175283252,2024-05-18,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,1.403,1,46.393907,-105.830827,4,4,city_1722_montana_miles_city
-S188459375,2024-07-23,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,28,0.354,1,46.40391,-105.85555,16,16,city_1722_montana_miles_city
-S161871965,2024-02-17,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,1.464,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S168289110,2024-04-12,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,16,0.301,1,46.380285,-105.839865,3,3,city_1722_montana_miles_city
-S164199306,2024-03-09,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,1.509,1,46.4078024,-105.8640892,4,4,city_1722_montana_miles_city
-S206922913,2024-12-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,0.924,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S183639495,2024-06-25,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,,1,46.409788,-105.837032,5,5,city_1722_montana_miles_city
-S202959482,2024-09-19,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.4063211,-105.8593655,6,6,city_1722_montana_miles_city
-S160937673,2024-02-08,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,27,1.128,1,46.4058181,-105.8312988,2,2,city_1722_montana_miles_city
-S196530223,2024-09-26,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,,1,46.390851,-105.823772,2,2,city_1722_montana_miles_city
-S207075274,2024-12-27,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,0.5,1,46.40391,-105.85555,3,3,city_1722_montana_miles_city
-S242418172,2025-05-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,2.092,1,46.3886114,-105.8266902,21,21,city_1722_montana_miles_city
-S265435442,2025-08-06,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,99,1.334,1,46.4078024,-105.8640892,16,16,city_1722_montana_miles_city
-S209440004,2025-01-15,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,25,1.974,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
-S210658276,2025-01-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,1.154,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S241558587,2025-05-23,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,122,0.949,1,46.4078024,-105.8640892,41,41,city_1722_montana_miles_city
-S240597858,2025-05-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,138,2.312,1,46.4078024,-105.8640892,43,43,city_1722_montana_miles_city
-S241967295,2025-05-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,89,1.26,1,46.4078024,-105.8640892,30,30,city_1722_montana_miles_city
-S209026687,2025-01-12,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,26,1.265,1,46.4078024,-105.8640892,7,7,city_1722_montana_miles_city
-S216796650,2025-03-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S210520021,2025-01-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,1.857,1,46.4078024,-105.8640892,7,7,city_1722_montana_miles_city
-S237980081,2025-05-14,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,33,1.931,1,46.4078024,-105.8640892,26,26,city_1722_montana_miles_city
-S210774903,2025-01-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,2.092,1,46.4078024,-105.8640892,10,10,city_1722_montana_miles_city
-S214146363,2025-02-17,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,1.143,1,46.4130783,-105.8595183,6,6,city_1722_montana_miles_city
-S213632172,2025-02-15,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,39,0.696,1,46.4179483,-105.8613267,9,9,city_1722_montana_miles_city
-S240567771,2025-05-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,25,,1,46.4066427,-105.8593136,17,17,city_1722_montana_miles_city
-S272575372,2025-09-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,31,,1,46.389867,-105.821569,24,24,city_1722_montana_miles_city
-S274923018,2025-09-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,40,0.4,1,46.40391,-105.85555,20,20,city_1722_montana_miles_city
-S209761689,2025-01-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,2.511,1,46.40391,-105.85555,5,5,city_1722_montana_miles_city
-S247349336,2025-06-06,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.065,1,46.40391,-105.85555,7,7,city_1722_montana_miles_city
-S251185299,2025-06-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,43,2,1,46.40391,-105.85555,22,22,city_1722_montana_miles_city
-S226796951,2025-04-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,,1,46.4098398,-105.8366463,6,6,city_1722_montana_miles_city
-S219665389,2025-03-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,65,0.854,1,46.398328,-105.851511,4,4,city_1722_montana_miles_city
-S212120062,2025-02-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,1.138,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
-S211059582,2025-01-28,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,1.154,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S242599747,2025-05-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,32,0.97,1,46.4078024,-105.8640892,29,29,city_1722_montana_miles_city
-S215755032,2025-02-27,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,0.71,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S240782892,2025-05-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,77,1.5,1,46.4078024,-105.8640892,26,26,city_1722_montana_miles_city
-S289207050,2025-12-19,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,57,3.633,1,46.408427,-105.840281,9,9,city_1722_montana_miles_city
-S214458308,2025-02-19,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,31,7.448,1,46.4179483,-105.8613267,5,5,city_1722_montana_miles_city
-S214600521,2025-02-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,32,7.828,1,46.4179483,-105.8613267,7,7,city_1722_montana_miles_city
-S216315458,2025-03-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,7.387,1,46.4181248,-105.8608488,4,4,city_1722_montana_miles_city
-S232110417,2025-05-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.3982875,-105.8642174,7,7,city_1722_montana_miles_city
-S265327555,2025-08-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,115,1.965,1,46.4055251,-105.8600578,22,22,city_1722_montana_miles_city
-S267657685,2025-08-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,105,2.072,1,46.40391,-105.85555,7,7,city_1722_montana_miles_city
-S253300758,2025-06-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,0.794,1,46.4058181,-105.8312988,8,8,city_1722_montana_miles_city
-S240736048,2025-05-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,37,0.039,1,46.3886114,-105.8266902,10,10,city_1722_montana_miles_city
-S211887034,2025-02-03,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,1.147,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S207540055,2025-01-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S215604255,2025-02-26,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.693,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S212775761,2025-02-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,1.089,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S241981360,2025-05-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,110,1.606,1,46.4078024,-105.8640892,28,28,city_1722_montana_miles_city
-S241527755,2025-05-23,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,53,1.373,1,46.4078024,-105.8640892,29,29,city_1722_montana_miles_city
-S208653048,2025-01-09,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,23,1.838,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S211688201,2025-02-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,1.178,1,46.4078024,-105.8640892,7,7,city_1722_montana_miles_city
-S214326203,2025-02-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,,1,46.4179483,-105.8613267,2,2,city_1722_montana_miles_city
-S243228423,2025-05-26,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,51,0.805,1,46.4270168,-105.8443002,17,17,city_1722_montana_miles_city
-S258158607,2025-07-08,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.116,1,46.401188,-105.818965,8,8,city_1722_montana_miles_city
-S261067527,2025-07-19,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,39,,1,46.40638,-105.858639,6,6,city_1722_montana_miles_city
-S275288580,2025-09-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,,1,46.4041165,-105.8191538,2,2,city_1722_montana_miles_city
-S240896902,2025-05-21,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,0.814,1,46.40391,-105.85555,25,25,city_1722_montana_miles_city
-S216310042,2025-03-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,1.448,1,46.4078024,-105.8640892,4,4,city_1722_montana_miles_city
-S210401886,2025-01-23,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.687,1,46.4078024,-105.8640892,9,9,city_1722_montana_miles_city
-S208886051,2025-01-11,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,1.169,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
-S215757793,2025-02-27,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,6.051,1,46.4181248,-105.8608488,3,3,city_1722_montana_miles_city
-S260944908,2025-07-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,171,0.493,1,46.40638,-105.858639,10,10,city_1722_montana_miles_city
-S209316468,2025-01-14,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,1.214,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
-S212006353,2025-02-04,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,1.266,1,46.4078024,-105.8640892,4,4,city_1722_montana_miles_city
-S212349999,2025-02-07,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,1.145,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
-S208180105,2025-01-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.602,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S212234056,2025-02-06,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.645,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S209658547,2025-01-17,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,2.156,1,46.4078024,-105.8640892,9,9,city_1722_montana_miles_city
-S210077367,2025-01-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,14,1.095,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
-S280524025,2025-10-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,34,2.065,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
-S221186042,2025-03-27,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
-S212458893,2025-02-08,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,1.072,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S207487721,2025-01-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,1.125,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S213289973,2025-02-14,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,0.621,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
-S207490937,2025-01-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4179483,-105.8613267,3,3,city_1722_montana_miles_city
-S212777600,2025-02-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,14,0.885,1,46.4179483,-105.8613267,8,8,city_1722_montana_miles_city
-S216495664,2025-03-03,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,,1,46.4181248,-105.8608488,7,7,city_1722_montana_miles_city
-S249054532,2025-06-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.40391,-105.85555,9,9,city_1722_montana_miles_city
-S220609112,2025-03-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,17,0.4,1,46.40391,-105.85555,1,1,city_1722_montana_miles_city
-S215282104,2025-02-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,1.185,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S207748609,2025-01-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,21,1.413,1,46.4078024,-105.8640892,4,4,city_1722_montana_miles_city
-S232185613,2025-05-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,21,,1,46.4098398,-105.8366463,6,6,city_1722_montana_miles_city
-S218154521,2025-03-12,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,26,,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
-S208328172,2025-01-06,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,14,2.085,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S210200992,2025-01-21,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.177,1,46.4179483,-105.8613267,5,5,city_1722_montana_miles_city
-S286099002,2025-11-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.3,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
-S209545451,2025-01-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,2.027,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S217341892,2025-03-08,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4098398,-105.8366463,4,4,city_1722_montana_miles_city
-S208550327,2025-01-08,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,2.383,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
-S208156925,2025-01-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,26,2.01,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
-S209201654,2025-01-13,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,0.694,1,46.4179483,-105.8613267,4,4,city_1722_montana_miles_city
-S214871019,2025-02-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.426,1,46.4179483,-105.8613267,5,5,city_1722_montana_miles_city
-S210769251,2025-01-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.40391,-105.85555,2,2,city_1722_montana_miles_city
-S208854210,2025-01-11,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.815,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
-S208745700,2025-01-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,27,2.007,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
-S216493540,2025-03-03,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.705,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S216081240,2025-03-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4181248,-105.8608488,4,4,city_1722_montana_miles_city
-S239376506,2025-05-17,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,0.214,1,46.396353,-105.834263,3,3,city_1722_montana_miles_city
-S207883601,2025-01-03,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,1.304,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S213142560,2025-02-13,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,0.723,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S209763777,2025-01-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,0.745,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S212636529,2025-02-09,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,1.574,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S214866974,2025-02-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,1.517,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S211512883,2025-02-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,1.919,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S284946793,2025-11-13,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,0.805,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
-S210953562,2025-01-27,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,2.019,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S211296929,2025-01-30,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,1.049,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S213831971,2025-02-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,1.539,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
-S213838890,2025-02-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4179483,-105.8613267,5,5,city_1722_montana_miles_city
-S216347215,2025-03-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
-S210079412,2025-01-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,5.994,1,46.4210709,-105.8563392,1,1,city_1722_montana_miles_city
-S208026183,2025-01-04,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,0.66,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
-S215061528,2025-02-23,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,1.989,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
-S213030887,2025-02-12,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,0.608,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S208748085,2025-01-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.098,1,46.4210709,-105.8563392,2,2,city_1722_montana_miles_city
-S212638791,2025-02-09,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,0.173,1,46.4179483,-105.8613267,3,3,city_1722_montana_miles_city
-S210313526,2025-01-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,1.257,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
-S265738769,2025-08-07,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.3938953,-105.8206659,1,1,city_1722_montana_miles_city
-S275463337,2025-09-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,,1,46.403805,-105.8393904,1,1,city_1722_montana_miles_city
-S217044856,2025-03-07,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4181248,-105.8608488,2,2,city_1722_montana_miles_city
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24584602,L1050049,Miles City - Wibaux Park,2015-08-11,2015,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4058181,-105.8312988,8,8,city_1722_montana_miles_city
+S29325813,L4547493,US-MT-Miles City-Yellowstone Blvd - 46.4009x-105.8560,2016-05-01,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,82,1.609,1,46.40088,-105.856029,24,24,city_1722_montana_miles_city
+S31168039,L4544562,Roche Jaune FAS,2016-08-18,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4210709,-105.8563392,14,14,city_1722_montana_miles_city
+S31170448,L777599,Miles City--Riverside Park and Cook Lake,2016-08-18,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,1.609,1,46.40391,-105.85555,21,21,city_1722_montana_miles_city
+S30376507,L4732627,US-MT-Miles City-59301 - 46.3882x-105.8266,2016-06-24,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,85,3.219,1,46.388199,-105.826595,19,19,city_1722_montana_miles_city
+S29299288,L4547493,US-MT-Miles City-Yellowstone Blvd - 46.4009x-105.8560,2016-04-30,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,1.609,1,46.40088,-105.856029,18,18,city_1722_montana_miles_city
+S30368572,L4731150,US-MT-Miles City-142 Prospect Dr - 46.3886x-105.8153,2016-06-24,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,35,0.241,1,46.388622,-105.815341,10,10,city_1722_montana_miles_city
+S29012042,L381298,Miles City,2016-04-17,2016,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4083,-105.84056,2,2,city_1722_montana_miles_city
+S39153685,L3076444,Tongue River-Yellowstone River Confluence,2017-09-10,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,165,0.966,1,46.4078024,-105.8640892,31,31,city_1722_montana_miles_city
+S36679293,L5807112,US-MT-Miles City-1615 S Haynes Ave - 46.3931x-105.8241,2017-05-09,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,65,0.966,1,46.393102,-105.824121,12,12,city_1722_montana_miles_city
+S38061818,L777599,Miles City--Riverside Park and Cook Lake,2017-07-09,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.40391,-105.85555,14,14,city_1722_montana_miles_city
+S37141271,L777599,Miles City--Riverside Park and Cook Lake,2017-05-23,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,120,,1,46.40391,-105.85555,11,11,city_1722_montana_miles_city
+S39078913,L3076444,Tongue River-Yellowstone River Confluence,2017-09-08,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,82,0.483,1,46.4078024,-105.8640892,22,22,city_1722_montana_miles_city
+S40743570,L6510201,"110 S Jordan Ave, Miles City US-MT (46.4070,-105.8351)",2017-11-26,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,1.609,1,46.406983,-105.8351,2,2,city_1722_montana_miles_city
+S34381788,L5441703,Montana: Miles City Hotel,2017-02-13,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.403844,-105.85753,3,3,city_1722_montana_miles_city
+S35362680,L5604508,US-Montana-Miles City-Spotted Eagle,2017-03-22,2017,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.4086347,-105.832506,1,1,city_1722_montana_miles_city
+S48497017,L777599,Miles City--Riverside Park and Cook Lake,2018-09-12,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,57,2.269,1,46.40391,-105.85555,24,24,city_1722_montana_miles_city
+S48455408,L777599,Miles City--Riverside Park and Cook Lake,2018-09-12,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,57,2.269,1,46.40391,-105.85555,25,25,city_1722_montana_miles_city
+S48180620,L7871222,"1 Palmer St, Miles City US-MT (46.4068,-105.8586). KOA",2018-08-30,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,53,0.851,1,46.406848,-105.85864,4,4,city_1722_montana_miles_city
+S45998891,L3076444,Tongue River-Yellowstone River Confluence,2018-05-24,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,57,1.77,1,46.4078024,-105.8640892,25,25,city_1722_montana_miles_city
+S45282585,L7339673,"11-99 Orr Street, Miles City, Montana, US (46.407, -105.859)",2018-05-05,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,27,,1,46.407086,-105.8592041,7,7,city_1722_montana_miles_city
+S45566307,L7389680,"57-99 Pleasant Street, Miles City, Montana, US (46.405, -105.858)Cook Lake",2018-05-11,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.241,1,46.405129,-105.8575287,8,8,city_1722_montana_miles_city
+S46132328,L3076444,Tongue River-Yellowstone River Confluence,2018-05-25,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,0.161,1,46.4078024,-105.8640892,16,16,city_1722_montana_miles_city
+S48110873,L5769916,"US-Montana-Miles City-2217 Main Street - 46.409x-105.833 - Apr 30, 2017 19:31",2018-08-27,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,35,,1,46.4086347,-105.832506,7,7,city_1722_montana_miles_city
+S45567694,L3076444,Tongue River-Yellowstone River Confluence,2018-05-11,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,28,0.802,1,46.4078024,-105.8640892,13,13,city_1722_montana_miles_city
+S45590012,L7039711,"2203-2217 Main Street, Miles City, Montana, US (46.409, -105.833)",2018-05-12,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,,1,46.4086349,-105.8326059,8,8,city_1722_montana_miles_city
+S45568698,L777599,Miles City--Riverside Park and Cook Lake,2018-05-11,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,6.437,1,46.40391,-105.85555,13,13,city_1722_montana_miles_city
+S45979285,L7458665,"279 Cemetery Rd, Miles City US-MT (46.3798,-105.8235)",2018-05-24,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,37,3.912,1,46.379847,-105.82351,8,8,city_1722_montana_miles_city
+S42275003,L4779330,US-MT-Miles City-I-94 W - 46.3886x-105.8371,2018-01-27,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,69,2.296,1,46.388603,-105.837063,4,4,city_1722_montana_miles_city
+S43324650,L7008361,"Miles Community College, Miles City, Montana, US (46.405, -105.827)",2018-03-02,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,41,2.189,1,46.4053793,-105.827491,4,4,city_1722_montana_miles_city
+S48805439,L1050049,Miles City - Wibaux Park,2018-09-28,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,55,1.609,1,46.4058181,-105.8312988,8,8,city_1722_montana_miles_city
+S48319198,L5769916,"US-Montana-Miles City-2217 Main Street - 46.409x-105.833 - Apr 30, 2017 19:31",2018-09-02,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,,1,46.4086347,-105.832506,5,5,city_1722_montana_miles_city
+S48043314,L5769916,"US-Montana-Miles City-2217 Main Street - 46.409x-105.833 - Apr 30, 2017 19:31",2018-08-24,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.4086347,-105.832506,3,3,city_1722_montana_miles_city
+S48559084,L7934140,"Miles City KOA, Montana, US",2018-09-13,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,16,0.161,1,46.4054629,-105.8602053,5,5,city_1722_montana_miles_city
+S43498840,L7039711,"2203-2217 Main Street, Miles City, Montana, US (46.409, -105.833)",2018-03-09,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4086349,-105.8326059,2,2,city_1722_montana_miles_city
+S43311078,L4779330,US-MT-Miles City-I-94 W - 46.3886x-105.8371,2018-03-02,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,0.822,1,46.388603,-105.837063,4,4,city_1722_montana_miles_city
+S44573230,L7039711,"2203-2217 Main Street, Miles City, Montana, US (46.409, -105.833)",2018-04-14,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4086349,-105.8326059,3,3,city_1722_montana_miles_city
+S43314611,L7008361,"Miles Community College, Miles City, Montana, US (46.405, -105.827)",2018-03-02,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,1.063,1,46.4053793,-105.827491,5,5,city_1722_montana_miles_city
+S48180739,L7871222,"1 Palmer St, Miles City US-MT (46.4068,-105.8586). KOA",2018-08-30,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,,1,46.406848,-105.85864,5,5,city_1722_montana_miles_city
+S48559071,L7934140,"Miles City KOA, Montana, US",2018-09-12,2018,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,28,0.869,1,46.4054629,-105.8602053,5,5,city_1722_montana_miles_city
+S56013344,L3076444,Tongue River-Yellowstone River Confluence,2019-05-08,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,1.51,1,46.4078024,-105.8640892,16,16,city_1722_montana_miles_city
+S59848213,L9922335,Tompy St.,2019-09-16,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.14,1,46.39913,-105.822884,5,5,city_1722_montana_miles_city
+S57134148,L9417881,"421 Felton St, Miles City US-MT (46.4177,-105.8580)",2019-06-06,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,3.176,1,46.417739,-105.858039,16,16,city_1722_montana_miles_city
+S56806833,L3076444,Tongue River-Yellowstone River Confluence,2019-05-27,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,70,1.143,1,46.4078024,-105.8640892,28,28,city_1722_montana_miles_city
+S56119180,L9241751,KOA Miles City US-MT,2019-05-11,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,56,,1,46.406085,-105.858415,10,10,city_1722_montana_miles_city
+S57996207,L9602146,Miles City Main Street,2019-07-03,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.805,1,46.406367,-105.849804,1,1,city_1722_montana_miles_city
+S54018095,L8882045,"Miles City, Montana",2019-03-15,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,16.093,1,46.4083458,-105.8407841,4,4,city_1722_montana_miles_city
+S58556568,L9714984,"1314 Highway 59 S, Miles City US-MT (46.3962,-105.8212)",2019-07-29,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,28,10.151,1,46.396221,-105.821166,1,1,city_1722_montana_miles_city
+S57098136,L3076444,Tongue River-Yellowstone River Confluence,2019-06-04,2019,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,0.402,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S71892821,L11975141,"3111 Steel Street, Miles City, Montana, US (46.394, -105.819)",2020-07-28,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.435,1,46.3936934,-105.819192,5,5,city_1722_montana_miles_city
+S73430023,L12262197,"Riverside Park, Miles City US-MT 46.40482, -105.85112",2020-09-10,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,36,2.2,1,46.404818,-105.851123,8,8,city_1722_montana_miles_city
+S73427658,L12261784,"Miles Community College, Miles City US-MT 46.40536, -105.82707",2020-09-10,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,183,0.343,1,46.405356,-105.827071,3,3,city_1722_montana_miles_city
+S70720978,L24377294,Custer County Cemetery,2020-06-22,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,41,0.252,1,46.3886114,-105.8266902,17,17,city_1722_montana_miles_city
+S73965286,L12351844,"Miles Community College, Miles City US-MT 46.40524, -105.82634",2020-09-23,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,107,,1,46.405244,-105.826336,3,3,city_1722_montana_miles_city
+S70841304,L24377294,Custer County Cemetery,2020-06-26,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,47,1.894,1,46.3886114,-105.8266902,23,23,city_1722_montana_miles_city
+S69813229,L777599,Miles City--Riverside Park and Cook Lake,2020-05-29,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,0.805,1,46.40391,-105.85555,16,16,city_1722_montana_miles_city
+S65821120,L5593266,US-Montana-Miles City-2217 Main Street - 46.409x-105.832,2020-03-15,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.408604,-105.832396,4,4,city_1722_montana_miles_city
+S73688898,L777599,Miles City--Riverside Park and Cook Lake,2020-09-16,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,1.331,1,46.40391,-105.85555,6,6,city_1722_montana_miles_city
+S63908992,L10645176,"23 Pioneer Circle, Miles City, Montana, US (46.392, -105.817)",2020-01-29,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.386,1,46.3922732,-105.8174594,2,2,city_1722_montana_miles_city
+S71674915,L777599,Miles City--Riverside Park and Cook Lake,2020-07-20,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,,1,46.40391,-105.85555,3,3,city_1722_montana_miles_city
+S71931435,L11982053,"1308 S Haynes Ave, Miles City US-MT 46.39637, -105.82228",2020-07-29,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,1.326,1,46.396366,-105.822279,2,2,city_1722_montana_miles_city
+S73858032,L3076444,Tongue River-Yellowstone River Confluence,2020-09-20,2020,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
+S88731370,L15052751,"3505 Stower St, Miles City US-MT 46.40367, -105.81311",2021-05-22,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.40367,-105.813109,7,7,city_1722_montana_miles_city
+S94843067,L16411263,"3111 Steel Street, Miles City, Montana, US (46.394, -105.821)",2021-09-18,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.3942105,-105.821012,2,2,city_1722_montana_miles_city
+S95513747,L16531976,"Miles City, MT--Cook Lake",2021-09-30,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,,1,46.405134,-105.856047,11,11,city_1722_montana_miles_city
+S91234202,L3076444,Tongue River-Yellowstone River Confluence,2021-07-04,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,44,0.631,1,46.4078024,-105.8640892,30,30,city_1722_montana_miles_city
+S91513497,L3076444,Tongue River-Yellowstone River Confluence,2021-07-09,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.076,1,46.4078024,-105.8640892,10,10,city_1722_montana_miles_city
+S89553758,L3076444,Tongue River-Yellowstone River Confluence,2021-06-03,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,0.471,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S93871240,L3076444,Tongue River-Yellowstone River Confluence,2021-08-27,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,154,1.172,1,46.4078024,-105.8640892,38,38,city_1722_montana_miles_city
+S95061174,L777599,Miles City--Riverside Park and Cook Lake,2021-09-23,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,0.209,1,46.40391,-105.85555,11,11,city_1722_montana_miles_city
+S87089841,L11139908,"2217 Main St, Miles City US-MT 46.40863, -105.83254",2021-05-03,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.40863,-105.832541,8,8,city_1722_montana_miles_city
+S88240138,L14957226,"52 Garryowen Road, Miles City, Montana, US (46.397, -105.858)",2021-05-15,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,125,0.531,1,46.3971548,-105.8579549,8,8,city_1722_montana_miles_city
+S88448761,L14996956,"3505 Stower St, Miles City US-MT 46.40368, -105.81327",2021-05-18,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.403677,-105.813275,8,8,city_1722_montana_miles_city
+S87501803,L14820284,"511 Marilyn Ave, Miles City US-MT 46.40394, -105.81378",2021-05-08,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,,1,46.403945,-105.813778,6,6,city_1722_montana_miles_city
+S94896748,L777599,Miles City--Riverside Park and Cook Lake,2021-09-19,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,,1,46.40391,-105.85555,9,9,city_1722_montana_miles_city
+S87718559,L14862435,"3505 Stower St, Miles City US-MT 46.40369, -105.81327",2021-05-10,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.403689,-105.813275,7,7,city_1722_montana_miles_city
+S93691701,L16201519,Custer County roadsides,2021-08-19,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,48.28,1,46.3965509,-105.8125212,1,1,city_1722_montana_miles_city
+S95104170,L777599,Miles City--Riverside Park and Cook Lake,2021-09-24,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,,1,46.40391,-105.85555,8,8,city_1722_montana_miles_city
+S83465428,L14044827,"Garland Street, Miles City, MT",2021-03-15,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.4151455,-105.8462102,7,7,city_1722_montana_miles_city
+S87497517,L14819270,"3505 Stower St, Miles City US-MT 46.40365, -105.81333",2021-05-08,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,,1,46.403645,-105.813331,4,4,city_1722_montana_miles_city
+S87430941,L14804780,"3505 Stower St, Miles City US-MT 46.40364, -105.81321",2021-05-08,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.403639,-105.813207,4,4,city_1722_montana_miles_city
+S95061060,L3076444,Tongue River-Yellowstone River Confluence,2021-09-23,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,69,0.902,1,46.4078024,-105.8640892,12,12,city_1722_montana_miles_city
+S95025685,L777599,Miles City--Riverside Park and Cook Lake,2021-09-22,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.40391,-105.85555,6,6,city_1722_montana_miles_city
+S95514011,L16532027,"Miles City,MT--Scanlan Lake",2021-09-30,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,0.473,1,46.404111,-105.853071,7,7,city_1722_montana_miles_city
+S94826324,L777599,Miles City--Riverside Park and Cook Lake,2021-09-18,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.40391,-105.85555,10,10,city_1722_montana_miles_city
+S94384705,L16329288,"Miles Community College, Miles City US-MT 46.40514, -105.82635",2021-09-08,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.405135,-105.826354,3,3,city_1722_montana_miles_city
+S97132996,L3386765,Miles City,2021-11-03,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.612,1,46.404187,-105.8226,2,2,city_1722_montana_miles_city
+S92239097,L3076444,Tongue River-Yellowstone River Confluence,2021-07-24,2021,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.408,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
+S111000005,L14629605,Stockyard Ponds,2022-05-22,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,,1,46.39977,-105.86805,16,16,city_1722_montana_miles_city
+S107533707,L18596936,Custer Ave,2022-04-19,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
+S110620449,L18596936,Custer Ave,2022-05-18,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,,1,46.4098398,-105.8366463,9,9,city_1722_montana_miles_city
+S109615276,L18596936,Custer Ave,2022-05-10,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,33,,1,46.4098398,-105.8366463,10,10,city_1722_montana_miles_city
+S110626906,L19041958,Wibaux Park,2022-05-18,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,2.263,1,46.406679,-105.832497,12,12,city_1722_montana_miles_city
+S111905332,L19408775,"99 Cemetery Rd, Miles City US-MT 46.39001, -105.82622",2022-06-01,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,0.777,1,46.390006,-105.82622,15,15,city_1722_montana_miles_city
+S115971684,L20342860,"301 N Jordan Ave, Miles City US-MT 46.41135, -105.83619",2022-07-29,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.411345,-105.836192,5,5,city_1722_montana_miles_city
+S119907671,L21102023,"3205 Stower St, Miles City US-MT 46.40358, -105.82098",2022-10-03,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,16,,1,46.403583,-105.820975,4,4,city_1722_montana_miles_city
+S119611131,L21046202,Tongue River Winery,2022-09-28,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,42,0.38,1,46.3809186,-105.8382193,8,8,city_1722_montana_miles_city
+S112554729,L777599,Miles City--Riverside Park and Cook Lake,2022-06-09,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.40391,-105.85555,5,5,city_1722_montana_miles_city
+S117015047,L777599,Miles City--Riverside Park and Cook Lake,2022-08-15,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,,1,46.40391,-105.85555,12,12,city_1722_montana_miles_city
+S117932620,L3076444,Tongue River-Yellowstone River Confluence,2022-09-01,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,1.127,1,46.4078024,-105.8640892,9,9,city_1722_montana_miles_city
+S110048712,L19041958,Wibaux Park,2022-05-14,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,39,0.257,1,46.406679,-105.832497,12,12,city_1722_montana_miles_city
+S110039506,L18596936,Custer Ave,2022-05-14,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,23,0.725,1,46.4098398,-105.8366463,12,12,city_1722_montana_miles_city
+S116130458,L20379454,"120–198 Morning Star Ln, Miles City US-MT 46.38020, -105.84095",2022-07-31,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,143,0.565,1,46.380201,-105.840951,14,14,city_1722_montana_miles_city
+S122512529,L20892740,Haynes Ave,2022-11-16,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,2,2,city_1722_montana_miles_city
+S116598167,L4796704,Custer County Cemetery,2022-08-09,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,36,2.414,1,46.3889332,-105.8243734,14,14,city_1722_montana_miles_city
+S115724283,L20285579,"1314 South Haynes Avenue, Miles City, Montana, US (46.396, -105.821)",2022-07-25,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.3961422,-105.8209118,5,5,city_1722_montana_miles_city
+S118507175,L20848462,"407 Main St, Miles City US-MT 46.40549, -105.85252",2022-09-11,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,37,7.904,1,46.405487,-105.852519,2,2,city_1722_montana_miles_city
+S116147957,L20379454,"120–198 Morning Star Ln, Miles City US-MT 46.38020, -105.84095",2022-08-01,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,17,,1,46.380201,-105.840951,10,10,city_1722_montana_miles_city
+S120502159,L14812187,"2217 Main St, Miles City US-MT 46.40866, -105.83251",2022-10-09,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,,1,46.408658,-105.83251,1,1,city_1722_montana_miles_city
+S111123242,L18596936,Custer Ave,2022-05-23,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
+S117932549,L777599,Miles City--Riverside Park and Cook Lake,2022-09-01,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,52,1.931,1,46.40391,-105.85555,11,11,city_1722_montana_miles_city
+S112162710,L18596936,Custer Ave,2022-06-04,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4098398,-105.8366463,4,4,city_1722_montana_miles_city
+S112900095,L14629605,Stockyard Ponds,2022-06-13,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,3.716,1,46.39977,-105.86805,8,8,city_1722_montana_miles_city
+S113404362,L19696852,"Miles City, MT",2022-06-18,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,2.736,1,46.3961954,-105.8234231,2,2,city_1722_montana_miles_city
+S117227899,L20608964,"2500 Main St, Miles City US-MT 46.40805, -105.82806",2022-08-19,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,0.271,1,46.408052,-105.82806,5,5,city_1722_montana_miles_city
+S117015061,L777599,Miles City--Riverside Park and Cook Lake,2022-08-14,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.523,1,46.40391,-105.85555,2,2,city_1722_montana_miles_city
+S112249650,L777599,Miles City--Riverside Park and Cook Lake,2022-06-05,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,59,3.44,1,46.40391,-105.85555,6,6,city_1722_montana_miles_city
+S108225914,L12351844,"Miles Community College, Miles City US-MT 46.40524, -105.82634",2022-04-27,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.119,1,46.405244,-105.826336,5,5,city_1722_montana_miles_city
+S109997204,L14629605,Stockyard Ponds,2022-05-14,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.39977,-105.86805,6,6,city_1722_montana_miles_city
+S122557723,L20892740,Haynes Ave,2022-11-17,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,1,1,city_1722_montana_miles_city
+S117227920,L4544562,Roche Jaune FAS,2022-08-19,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,17,0.186,1,46.4210709,-105.8563392,3,3,city_1722_montana_miles_city
+S113178093,L19696852,"Miles City, MT",2022-06-17,2022,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.161,1,46.3961954,-105.8234231,2,2,city_1722_montana_miles_city
+S149443326,L18596936,Custer Ave,2023-09-09,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,27,0.245,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
+S137893322,L24377294,Custer County Cemetery,2023-05-12,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.3886114,-105.8266902,11,11,city_1722_montana_miles_city
+S155895028,L3076444,Tongue River-Yellowstone River Confluence,2023-12-07,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,2.809,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
+S156628507,L3076444,Tongue River-Yellowstone River Confluence,2023-12-18,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,64,2.421,1,46.4078024,-105.8640892,9,9,city_1722_montana_miles_city
+S137896467,L14044827,"Garland Street, Miles City, MT",2023-05-14,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,,1,46.4151455,-105.8462102,13,13,city_1722_montana_miles_city
+S141029553,L18596936,Custer Ave,2023-06-09,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
+S132053635,L20892740,Haynes Ave,2023-03-28,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,3,3,city_1722_montana_miles_city
+S133762394,L18596936,Custer Ave,2023-04-14,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
+S134913825,L18596936,Custer Ave,2023-04-24,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
+S140785315,L3076444,Tongue River-Yellowstone River Confluence,2023-06-07,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,1.025,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S131547673,L20892740,Haynes Ave,2023-03-22,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,5,5,city_1722_montana_miles_city
+S133249101,L18596936,Custer Ave,2023-04-09,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4098398,-105.8366463,4,4,city_1722_montana_miles_city
+S130006027,L20892740,Haynes Ave,2023-03-02,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,2,2,city_1722_montana_miles_city
+S126866182,L3076444,Tongue River-Yellowstone River Confluence,2023-01-24,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,1.304,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S138926206,L777599,Miles City--Riverside Park and Cook Lake,2023-05-22,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,17,1.855,1,46.40391,-105.85555,17,17,city_1722_montana_miles_city
+S160562823,L29083356,"Wibaux Park, Miles City US-MT 46.40617, -105.83243",2023-06-24,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,37,1.864,1,46.406175,-105.832427,8,8,city_1722_montana_miles_city
+S134226134,L18596936,Custer Ave,2023-04-18,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.4098398,-105.8366463,7,7,city_1722_montana_miles_city
+S133898532,L18596936,Custer Ave,2023-04-15,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
+S126849508,L20892740,Haynes Ave,2023-01-24,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,2,2,city_1722_montana_miles_city
+S136533908,L24123573,Orr Street,2023-05-07,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,,1,46.409112,-105.85398,6,6,city_1722_montana_miles_city
+S130831201,L20892740,Haynes Ave,2023-03-13,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,1,1,city_1722_montana_miles_city
+S147496569,L777599,Miles City--Riverside Park and Cook Lake,2023-08-17,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,0.805,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
+S131028388,L20892740,Haynes Ave,2023-03-16,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.736,1,46.416676,-105.822746,2,2,city_1722_montana_miles_city
+S142034388,L24377294,Custer County Cemetery,2023-06-15,2023,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,,1,46.3886114,-105.8266902,2,2,city_1722_montana_miles_city
+S177806097,L24377294,Custer County Cemetery,2024-05-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,0.344,1,46.3886114,-105.8266902,13,13,city_1722_montana_miles_city
+S174558057,L31324151,Wibaux Park,2024-05-14,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,0.583,1,46.406342,-105.832936,5,5,city_1722_montana_miles_city
+S193391815,L3076444,Tongue River-Yellowstone River Confluence,2024-08-31,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,68,,1,46.4078024,-105.8640892,11,11,city_1722_montana_miles_city
+S178388811,L3076444,Tongue River-Yellowstone River Confluence,2024-05-31,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,60,2.52,1,46.4078024,-105.8640892,26,26,city_1722_montana_miles_city
+S205821230,L3076444,Tongue River-Yellowstone River Confluence,2024-12-18,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,32,2.536,1,46.4078024,-105.8640892,14,14,city_1722_montana_miles_city
+S177258020,L3076444,Tongue River-Yellowstone River Confluence,2024-05-26,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,86,1.609,1,46.4078024,-105.8640892,45,45,city_1722_montana_miles_city
+S177564323,L32435645,"Wibaux Park, Miles City US-MT 46.40615, -105.83058",2024-05-27,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,24,0.487,1,46.406155,-105.830582,12,12,city_1722_montana_miles_city
+S185633253,L34377778,"Dike Rd, Miles City US-MT (46.4021,-105.8566)",2024-07-06,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.825,1,46.402073,-105.856628,6,6,city_1722_montana_miles_city
+S189733338,L35359852,"1720 S Haynes Ave, Miles City US-MT 46.39291, -105.82126",2024-07-31,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,0.277,1,46.392907,-105.821263,8,8,city_1722_montana_miles_city
+S189184199,L35234634,"Auto selected 46.40677, -105.86362",2024-07-27,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,80,1.216,1,46.406774,-105.863622,4,4,city_1722_montana_miles_city
+S202960145,L38124435,MILES CITY KOA,2024-09-18,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,150,,1,46.4063211,-105.8593655,11,11,city_1722_montana_miles_city
+S202962145,L38124435,MILES CITY KOA,2024-09-16,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.4063211,-105.8593655,15,15,city_1722_montana_miles_city
+S202961801,L38124435,MILES CITY KOA,2024-09-17,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,90,,1,46.4063211,-105.8593655,15,15,city_1722_montana_miles_city
+S202958849,L38124435,MILES CITY KOA,2024-09-20,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.4063211,-105.8593655,19,19,city_1722_montana_miles_city
+S167096435,L19041958,Wibaux Park,2024-04-03,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,1.767,1,46.406679,-105.832497,6,6,city_1722_montana_miles_city
+S173473848,L31535082,"5 Palmer Street, Miles City, Montana, US (46.407, -105.859)",2024-05-11,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,70,,1,46.406614,-105.8591131,11,11,city_1722_montana_miles_city
+S173316271,L31535082,"5 Palmer Street, Miles City, Montana, US (46.407, -105.859)",2024-05-10,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.406614,-105.8591131,13,13,city_1722_montana_miles_city
+S174401271,L31752349,"5 S Merriam Ave, Miles City US-MT (46.4082,-105.8344)",2024-05-13,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,41,4.828,1,46.408184,-105.834421,8,8,city_1722_montana_miles_city
+S169033161,L30564660,Tongue River Winery (Private Property),2024-04-17,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,72,2.908,1,46.380285,-105.839865,16,16,city_1722_montana_miles_city
+S177883283,L3076444,Tongue River-Yellowstone River Confluence,2024-05-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,,1,46.4078024,-105.8640892,12,12,city_1722_montana_miles_city
+S177553649,L777599,Miles City--Riverside Park and Cook Lake,2024-05-27,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,118,1.116,1,46.40391,-105.85555,36,36,city_1722_montana_miles_city
+S199352015,L777599,Miles City--Riverside Park and Cook Lake,2024-10-17,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
+S199255949,L24377294,Custer County Cemetery,2024-10-16,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,108,2.414,1,46.3886114,-105.8266902,16,16,city_1722_montana_miles_city
+S173431441,L31535082,"5 Palmer Street, Miles City, Montana, US (46.407, -105.859)",2024-05-11,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,,1,46.406614,-105.8591131,18,18,city_1722_montana_miles_city
+S166254410,L3076444,Tongue River-Yellowstone River Confluence,2024-03-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,73,2.685,1,46.4078024,-105.8640892,12,12,city_1722_montana_miles_city
+S189237522,L35246238,"Dike Rd, Miles City US-MT 46.40557, -105.86063",2024-07-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,50,0.609,1,46.405572,-105.860629,7,7,city_1722_montana_miles_city
+S180175358,L33032547,"502 S Haynes Ave, Miles City US-MT 46.40376, -105.82175",2024-06-06,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,0.061,1,46.403759,-105.821755,11,11,city_1722_montana_miles_city
+S160857764,L4544562,Roche Jaune FAS,2024-02-07,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,,1,46.4210709,-105.8563392,5,5,city_1722_montana_miles_city
+S199382715,L777599,Miles City--Riverside Park and Cook Lake,2024-10-18,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,26,0.3,1,46.40391,-105.85555,9,9,city_1722_montana_miles_city
+S168430363,L18596936,Custer Ave,2024-04-13,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,,1,46.4098398,-105.8366463,4,4,city_1722_montana_miles_city
+S163298037,L18596936,Custer Ave,2024-02-29,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,,1,46.4098398,-105.8366463,2,2,city_1722_montana_miles_city
+S163258677,L20892740,Haynes Ave,2024-02-29,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,30,2.414,1,46.416676,-105.822746,4,4,city_1722_montana_miles_city
+S196980883,L3076444,Tongue River-Yellowstone River Confluence,2024-09-29,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,8.047,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
+S177165857,L32343380,Miles City KOA,2024-05-25,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.406101,-105.859572,6,6,city_1722_montana_miles_city
+S207058538,L4544562,Roche Jaune FAS,2024-12-29,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.135,1,46.4210709,-105.8563392,4,4,city_1722_montana_miles_city
+S166258371,L30139463,Tongue River,2024-03-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,31,0.658,1,46.398328,-105.851511,8,8,city_1722_montana_miles_city
+S175283252,L31928731,Hospital Loop,2024-05-18,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,1.403,1,46.393907,-105.830827,4,4,city_1722_montana_miles_city
+S188459375,L777599,Miles City--Riverside Park and Cook Lake,2024-07-23,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,28,0.354,1,46.40391,-105.85555,16,16,city_1722_montana_miles_city
+S161871965,L3076444,Tongue River-Yellowstone River Confluence,2024-02-17,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,1.464,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S168289110,L30564660,Tongue River Winery (Private Property),2024-04-12,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,16,0.301,1,46.380285,-105.839865,3,3,city_1722_montana_miles_city
+S164199306,L3076444,Tongue River-Yellowstone River Confluence,2024-03-09,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,1.509,1,46.4078024,-105.8640892,4,4,city_1722_montana_miles_city
+S206922913,L3076444,Tongue River-Yellowstone River Confluence,2024-12-28,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,0.924,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S183639495,L32133654,"109 N Custer Ave, Miles City US-MT 46.40979, -105.83703",2024-06-25,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,,1,46.409788,-105.837032,5,5,city_1722_montana_miles_city
+S202959482,L38124435,MILES CITY KOA,2024-09-19,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,180,,1,46.4063211,-105.8593655,6,6,city_1722_montana_miles_city
+S160937673,L1050049,Miles City - Wibaux Park,2024-02-08,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,27,1.128,1,46.4058181,-105.8312988,2,2,city_1722_montana_miles_city
+S196530223,L36864053,Truck Stop On 94,2024-09-26,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,,1,46.390851,-105.823772,2,2,city_1722_montana_miles_city
+S207075274,L777599,Miles City--Riverside Park and Cook Lake,2024-12-27,2024,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,0.5,1,46.40391,-105.85555,3,3,city_1722_montana_miles_city
+S242418172,L24377294,Custer County Cemetery,2025-05-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,2.092,1,46.3886114,-105.8266902,21,21,city_1722_montana_miles_city
+S265435442,L3076444,Tongue River-Yellowstone River Confluence,2025-08-06,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,99,1.334,1,46.4078024,-105.8640892,16,16,city_1722_montana_miles_city
+S209440004,L3076444,Tongue River-Yellowstone River Confluence,2025-01-15,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,25,1.974,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
+S210658276,L3076444,Tongue River-Yellowstone River Confluence,2025-01-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,1.154,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S241558587,L3076444,Tongue River-Yellowstone River Confluence,2025-05-23,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,122,0.949,1,46.4078024,-105.8640892,41,41,city_1722_montana_miles_city
+S240597858,L3076444,Tongue River-Yellowstone River Confluence,2025-05-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,138,2.312,1,46.4078024,-105.8640892,43,43,city_1722_montana_miles_city
+S241967295,L3076444,Tongue River-Yellowstone River Confluence,2025-05-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,89,1.26,1,46.4078024,-105.8640892,30,30,city_1722_montana_miles_city
+S209026687,L3076444,Tongue River-Yellowstone River Confluence,2025-01-12,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,26,1.265,1,46.4078024,-105.8640892,7,7,city_1722_montana_miles_city
+S216796650,L3076444,Tongue River-Yellowstone River Confluence,2025-03-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S210520021,L3076444,Tongue River-Yellowstone River Confluence,2025-01-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,1.857,1,46.4078024,-105.8640892,7,7,city_1722_montana_miles_city
+S237980081,L3076444,Tongue River-Yellowstone River Confluence,2025-05-14,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,33,1.931,1,46.4078024,-105.8640892,26,26,city_1722_montana_miles_city
+S210774903,L3076444,Tongue River-Yellowstone River Confluence,2025-01-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,2.092,1,46.4078024,-105.8640892,10,10,city_1722_montana_miles_city
+S214146363,L38938837,"801 North 3rd Street, Miles City, Montana, US (46.413, -105.86)",2025-02-17,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,1.143,1,46.4130783,-105.8595183,6,6,city_1722_montana_miles_city
+S213632172,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-02-15,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,39,0.696,1,46.4179483,-105.8613267,9,9,city_1722_montana_miles_city
+S240567771,L45529508,"1 Palmer Street, Miles City, Montana, US Miles City KOA",2025-05-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,25,,1,46.4066427,-105.8593136,17,17,city_1722_montana_miles_city
+S272575372,L52651749,"2006 S Haynes Ave, Miles City US-MT 46.38987, -105.82157",2025-09-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,31,,1,46.389867,-105.821569,24,24,city_1722_montana_miles_city
+S274923018,L777599,Miles City--Riverside Park and Cook Lake,2025-09-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,40,0.4,1,46.40391,-105.85555,20,20,city_1722_montana_miles_city
+S209761689,L777599,Miles City--Riverside Park and Cook Lake,2025-01-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,2.511,1,46.40391,-105.85555,5,5,city_1722_montana_miles_city
+S247349336,L777599,Miles City--Riverside Park and Cook Lake,2025-06-06,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.065,1,46.40391,-105.85555,7,7,city_1722_montana_miles_city
+S251185299,L777599,Miles City--Riverside Park and Cook Lake,2025-06-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,43,2,1,46.40391,-105.85555,22,22,city_1722_montana_miles_city
+S226796951,L18596936,Custer Ave,2025-04-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,,1,46.4098398,-105.8366463,6,6,city_1722_montana_miles_city
+S219665389,L30139463,Tongue River,2025-03-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,65,0.854,1,46.398328,-105.851511,4,4,city_1722_montana_miles_city
+S212120062,L3076444,Tongue River-Yellowstone River Confluence,2025-02-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,22,1.138,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
+S211059582,L3076444,Tongue River-Yellowstone River Confluence,2025-01-28,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,1.154,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S242599747,L3076444,Tongue River-Yellowstone River Confluence,2025-05-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,32,0.97,1,46.4078024,-105.8640892,29,29,city_1722_montana_miles_city
+S215755032,L3076444,Tongue River-Yellowstone River Confluence,2025-02-27,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,0.71,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S240782892,L3076444,Tongue River-Yellowstone River Confluence,2025-05-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,77,1.5,1,46.4078024,-105.8640892,26,26,city_1722_montana_miles_city
+S289207050,L35545046,"1611 Main St, Miles City US-MT 46.40843, -105.84028",2025-12-19,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,57,3.633,1,46.408427,-105.840281,9,9,city_1722_montana_miles_city
+S214458308,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-02-19,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,31,7.448,1,46.4179483,-105.8613267,5,5,city_1722_montana_miles_city
+S214600521,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-02-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,32,7.828,1,46.4179483,-105.8613267,7,7,city_1722_montana_miles_city
+S216315458,L40678566,"1211 North 3rd Street, Miles City, Montana, US",2025-03-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,29,7.387,1,46.4181248,-105.8608488,4,4,city_1722_montana_miles_city
+S232110417,L43930984,Eastern Montana Fairgrounds. Miles City,2025-05-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.3982875,-105.8642174,7,7,city_1722_montana_miles_city
+S265327555,L51083472,"Miles City, Montana, US (46,406, -105,86)",2025-08-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,115,1.965,1,46.4055251,-105.8600578,22,22,city_1722_montana_miles_city
+S267657685,L777599,Miles City--Riverside Park and Cook Lake,2025-08-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,105,2.072,1,46.40391,-105.85555,7,7,city_1722_montana_miles_city
+S253300758,L1050049,Miles City - Wibaux Park,2025-06-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,45,0.794,1,46.4058181,-105.8312988,8,8,city_1722_montana_miles_city
+S240736048,L24377294,Custer County Cemetery,2025-05-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,37,0.039,1,46.3886114,-105.8266902,10,10,city_1722_montana_miles_city
+S211887034,L3076444,Tongue River-Yellowstone River Confluence,2025-02-03,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,1.147,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S207540055,L3076444,Tongue River-Yellowstone River Confluence,2025-01-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S215604255,L3076444,Tongue River-Yellowstone River Confluence,2025-02-26,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.693,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S212775761,L3076444,Tongue River-Yellowstone River Confluence,2025-02-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,1.089,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S241981360,L3076444,Tongue River-Yellowstone River Confluence,2025-05-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,110,1.606,1,46.4078024,-105.8640892,28,28,city_1722_montana_miles_city
+S241527755,L3076444,Tongue River-Yellowstone River Confluence,2025-05-23,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,53,1.373,1,46.4078024,-105.8640892,29,29,city_1722_montana_miles_city
+S208653048,L3076444,Tongue River-Yellowstone River Confluence,2025-01-09,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,23,1.838,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S211688201,L3076444,Tongue River-Yellowstone River Confluence,2025-02-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,1.178,1,46.4078024,-105.8640892,7,7,city_1722_montana_miles_city
+S214326203,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-02-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,,1,46.4179483,-105.8613267,2,2,city_1722_montana_miles_city
+S243228423,L46095642,"Dike Road, Miles City, Montana, US (46.427, -105.844)",2025-05-26,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,51,0.805,1,46.4270168,-105.8443002,17,17,city_1722_montana_miles_city
+S258158607,L49389630,Miles City—Notbohm Motors,2025-07-08,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.116,1,46.401188,-105.818965,8,8,city_1722_montana_miles_city
+S261067527,L50040705,"Miles City KOA, 1 Palmer St, Miles City US-MT 46.40638, -105.85864",2025-07-19,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,39,,1,46.40638,-105.858639,6,6,city_1722_montana_miles_city
+S275288580,L53226824,Walmart parking lot,2025-09-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,,1,46.4041165,-105.8191538,2,2,city_1722_montana_miles_city
+S240896902,L777599,Miles City--Riverside Park and Cook Lake,2025-05-21,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,0.814,1,46.40391,-105.85555,25,25,city_1722_montana_miles_city
+S216310042,L3076444,Tongue River-Yellowstone River Confluence,2025-03-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,1.448,1,46.4078024,-105.8640892,4,4,city_1722_montana_miles_city
+S210401886,L3076444,Tongue River-Yellowstone River Confluence,2025-01-23,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.687,1,46.4078024,-105.8640892,9,9,city_1722_montana_miles_city
+S208886051,L3076444,Tongue River-Yellowstone River Confluence,2025-01-11,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,1.169,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
+S215757793,L40678566,"1211 North 3rd Street, Miles City, Montana, US",2025-02-27,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,6.051,1,46.4181248,-105.8608488,3,3,city_1722_montana_miles_city
+S260944908,L50040705,"Miles City KOA, 1 Palmer St, Miles City US-MT 46.40638, -105.85864",2025-07-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,171,0.493,1,46.40638,-105.858639,10,10,city_1722_montana_miles_city
+S209316468,L3076444,Tongue River-Yellowstone River Confluence,2025-01-14,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,1.214,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
+S212006353,L3076444,Tongue River-Yellowstone River Confluence,2025-02-04,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,1.266,1,46.4078024,-105.8640892,4,4,city_1722_montana_miles_city
+S212349999,L3076444,Tongue River-Yellowstone River Confluence,2025-02-07,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,1.145,1,46.4078024,-105.8640892,5,5,city_1722_montana_miles_city
+S208180105,L3076444,Tongue River-Yellowstone River Confluence,2025-01-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.602,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S212234056,L3076444,Tongue River-Yellowstone River Confluence,2025-02-06,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.645,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S209658547,L3076444,Tongue River-Yellowstone River Confluence,2025-01-17,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,2.156,1,46.4078024,-105.8640892,9,9,city_1722_montana_miles_city
+S210077367,L3076444,Tongue River-Yellowstone River Confluence,2025-01-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,14,1.095,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
+S280524025,L777599,Miles City--Riverside Park and Cook Lake,2025-10-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,34,2.065,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
+S221186042,L18596936,Custer Ave,2025-03-27,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
+S212458893,L3076444,Tongue River-Yellowstone River Confluence,2025-02-08,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,1.072,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S207487721,L3076444,Tongue River-Yellowstone River Confluence,2025-01-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,18,1.125,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S213289973,L3076444,Tongue River-Yellowstone River Confluence,2025-02-14,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,0.621,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
+S207490937,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-01-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4179483,-105.8613267,3,3,city_1722_montana_miles_city
+S212777600,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-02-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,14,0.885,1,46.4179483,-105.8613267,8,8,city_1722_montana_miles_city
+S216495664,L40678566,"1211 North 3rd Street, Miles City, Montana, US",2025-03-03,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,,1,46.4181248,-105.8608488,7,7,city_1722_montana_miles_city
+S249054532,L777599,Miles City--Riverside Park and Cook Lake,2025-06-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.40391,-105.85555,9,9,city_1722_montana_miles_city
+S220609112,L777599,Miles City--Riverside Park and Cook Lake,2025-03-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,17,0.4,1,46.40391,-105.85555,1,1,city_1722_montana_miles_city
+S215282104,L3076444,Tongue River-Yellowstone River Confluence,2025-02-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,1.185,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S207748609,L3076444,Tongue River-Yellowstone River Confluence,2025-01-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,21,1.413,1,46.4078024,-105.8640892,4,4,city_1722_montana_miles_city
+S232185613,L18596936,Custer Ave,2025-05-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,21,,1,46.4098398,-105.8366463,6,6,city_1722_montana_miles_city
+S218154521,L18596936,Custer Ave,2025-03-12,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,26,,1,46.4098398,-105.8366463,3,3,city_1722_montana_miles_city
+S208328172,L3076444,Tongue River-Yellowstone River Confluence,2025-01-06,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,14,2.085,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S210200992,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-01-21,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.177,1,46.4179483,-105.8613267,5,5,city_1722_montana_miles_city
+S286099002,L777599,Miles City--Riverside Park and Cook Lake,2025-11-24,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,0.3,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
+S209545451,L3076444,Tongue River-Yellowstone River Confluence,2025-01-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,2.027,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S217341892,L18596936,Custer Ave,2025-03-08,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4098398,-105.8366463,4,4,city_1722_montana_miles_city
+S208550327,L3076444,Tongue River-Yellowstone River Confluence,2025-01-08,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,2.383,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
+S208156925,L3076444,Tongue River-Yellowstone River Confluence,2025-01-05,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,26,2.01,1,46.4078024,-105.8640892,8,8,city_1722_montana_miles_city
+S209201654,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-01-13,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,0.694,1,46.4179483,-105.8613267,4,4,city_1722_montana_miles_city
+S214871019,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-02-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,15,0.426,1,46.4179483,-105.8613267,5,5,city_1722_montana_miles_city
+S210769251,L777599,Miles City--Riverside Park and Cook Lake,2025-01-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.40391,-105.85555,2,2,city_1722_montana_miles_city
+S208854210,L3076444,Tongue River-Yellowstone River Confluence,2025-01-11,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.815,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
+S208745700,L3076444,Tongue River-Yellowstone River Confluence,2025-01-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,27,2.007,1,46.4078024,-105.8640892,6,6,city_1722_montana_miles_city
+S216493540,L3076444,Tongue River-Yellowstone River Confluence,2025-03-03,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,0.705,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S216081240,L40678566,"1211 North 3rd Street, Miles City, Montana, US",2025-03-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4181248,-105.8608488,4,4,city_1722_montana_miles_city
+S239376506,L45288941,"30 Spruce Dr, Miles City US-MT 46.39635, -105.83426",2025-05-17,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,38,0.214,1,46.396353,-105.834263,3,3,city_1722_montana_miles_city
+S207883601,L3076444,Tongue River-Yellowstone River Confluence,2025-01-03,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,1.304,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S213142560,L3076444,Tongue River-Yellowstone River Confluence,2025-02-13,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,0.723,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S209763777,L3076444,Tongue River-Yellowstone River Confluence,2025-01-18,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,0.745,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S212636529,L3076444,Tongue River-Yellowstone River Confluence,2025-02-09,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,1.574,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S214866974,L3076444,Tongue River-Yellowstone River Confluence,2025-02-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,1.517,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S211512883,L3076444,Tongue River-Yellowstone River Confluence,2025-02-01,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,1.919,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S284946793,L777599,Miles City--Riverside Park and Cook Lake,2025-11-13,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,20,0.805,1,46.40391,-105.85555,4,4,city_1722_montana_miles_city
+S210953562,L3076444,Tongue River-Yellowstone River Confluence,2025-01-27,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,13,2.019,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S211296929,L3076444,Tongue River-Yellowstone River Confluence,2025-01-30,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,1.049,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S213831971,L3076444,Tongue River-Yellowstone River Confluence,2025-02-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,11,1.539,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
+S213838890,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-02-16,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,,1,46.4179483,-105.8613267,5,5,city_1722_montana_miles_city
+S216347215,L18596936,Custer Ave,2025-03-02,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,,1,46.4098398,-105.8366463,5,5,city_1722_montana_miles_city
+S210079412,L4544562,Roche Jaune FAS,2025-01-20,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,12,5.994,1,46.4210709,-105.8563392,1,1,city_1722_montana_miles_city
+S208026183,L3076444,Tongue River-Yellowstone River Confluence,2025-01-04,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,0.66,1,46.4078024,-105.8640892,3,3,city_1722_montana_miles_city
+S215061528,L3076444,Tongue River-Yellowstone River Confluence,2025-02-23,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,10,1.989,1,46.4078024,-105.8640892,1,1,city_1722_montana_miles_city
+S213030887,L3076444,Tongue River-Yellowstone River Confluence,2025-02-12,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,7,0.608,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S208748085,L4544562,Roche Jaune FAS,2025-01-10,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,9,0.098,1,46.4210709,-105.8563392,2,2,city_1722_montana_miles_city
+S212638791,L39066057,"1211 North 3rd Street, Miles City, Montana, US (46.418, -105.861)",2025-02-09,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,0.173,1,46.4179483,-105.8613267,3,3,city_1722_montana_miles_city
+S210313526,L3076444,Tongue River-Yellowstone River Confluence,2025-01-22,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,8,1.257,1,46.4078024,-105.8640892,2,2,city_1722_montana_miles_city
+S265738769,L51177239,"3111 Steel Street, Miles City, Montana, US (46.394, -105.821)",2025-08-07,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.3938953,-105.8206659,1,1,city_1722_montana_miles_city
+S275463337,L53263198,"1709 Batchelor Street, Miles City, Montana, US (46.404, -105.839)",2025-09-25,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,6,,1,46.403805,-105.8393904,1,1,city_1722_montana_miles_city
+S217044856,L40678566,"1211 North 3rd Street, Miles City, Montana, US",2025-03-07,2025,1722,"Miles City, MT",Miles City,Montana,Custer,18290643.7632001,5,,1,46.4181248,-105.8608488,2,2,city_1722_montana_miles_city

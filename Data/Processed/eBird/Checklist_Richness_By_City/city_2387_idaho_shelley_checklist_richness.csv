@@ -1,17 +1,17 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S48484717,2018-09-13,2018,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,8,,1,43.3678886,-112.1211539,2,2,city_2387_idaho_shelley
-S50636958,2018-12-13,2018,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,5,,1,43.381118,-112.12564,1,1,city_2387_idaho_shelley
-S56816874,2019-05-27,2019,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,9,,1,43.3678886,-112.1211539,9,9,city_2387_idaho_shelley
-S56771603,2019-05-26,2019,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,8,,1,43.3680014,-112.1212064,4,4,city_2387_idaho_shelley
-S68692204,2020-05-09,2020,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,11,,1,43.3869861,-112.132988,14,14,city_2387_idaho_shelley
-S66698567,2020-04-05,2020,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,29,2.478,1,43.3869861,-112.132988,11,11,city_2387_idaho_shelley
-S82289708,2021-02-24,2021,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,5,0.05,1,43.3739164,-112.1458421,1,1,city_2387_idaho_shelley
-S149857178,2023-09-14,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,18,,1,43.3811978,-112.1234213,8,8,city_2387_idaho_shelley
-S150193556,2023-09-15,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,18,,1,43.3811978,-112.1234213,5,5,city_2387_idaho_shelley
-S150193761,2023-09-18,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,13,,1,43.3811978,-112.1234213,7,7,city_2387_idaho_shelley
-S150262115,2023-09-19,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,11,,1,43.3811978,-112.1234213,7,7,city_2387_idaho_shelley
-S156770256,2023-12-20,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,43,3.621,1,43.3813435,-112.121738,7,7,city_2387_idaho_shelley
-S160137327,2024-01-29,2024,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,25,,1,43.3813435,-112.121738,7,7,city_2387_idaho_shelley
-S161416598,2024-02-13,2024,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,6,,1,43.3811978,-112.1234213,8,8,city_2387_idaho_shelley
-S164714620,2024-03-13,2024,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,5,,1,43.3811978,-112.1234213,5,5,city_2387_idaho_shelley
-S239488281,2025-05-17,2025,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,10,,1,43.3869861,-112.132988,7,7,city_2387_idaho_shelley
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S48484717,L7922411,Home,2018-09-13,2018,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,8,,1,43.3678886,-112.1211539,2,2,city_2387_idaho_shelley
+S50636958,L8248256,"101 S Emerson Ave, Shelley US-ID (43.3811,-112.1256)",2018-12-13,2018,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,5,,1,43.381118,-112.12564,1,1,city_2387_idaho_shelley
+S56816874,L7922411,Home,2019-05-27,2019,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,9,,1,43.3678886,-112.1211539,9,9,city_2387_idaho_shelley
+S56771603,L9349647,Home,2019-05-26,2019,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,8,,1,43.3680014,-112.1212064,4,4,city_2387_idaho_shelley
+S68692204,L3948721,Shelley (town),2020-05-09,2020,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,11,,1,43.3869861,-112.132988,14,14,city_2387_idaho_shelley
+S66698567,L3948721,Shelley (town),2020-04-05,2020,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,29,2.478,1,43.3869861,-112.132988,11,11,city_2387_idaho_shelley
+S82289708,L13829053,"1030 West Fir Street, Shelley, Idaho, US (43.374, -112.146)",2021-02-24,2021,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,5,0.05,1,43.3739164,-112.1458421,1,1,city_2387_idaho_shelley
+S149857178,L27080064,My Shelley home,2023-09-14,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,18,,1,43.3811978,-112.1234213,8,8,city_2387_idaho_shelley
+S150193556,L27080064,My Shelley home,2023-09-15,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,18,,1,43.3811978,-112.1234213,5,5,city_2387_idaho_shelley
+S150193761,L27080064,My Shelley home,2023-09-18,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,13,,1,43.3811978,-112.1234213,7,7,city_2387_idaho_shelley
+S150262115,L27080064,My Shelley home,2023-09-19,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,11,,1,43.3811978,-112.1234213,7,7,city_2387_idaho_shelley
+S156770256,L28363920,My Shelly block loop,2023-12-20,2023,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,43,3.621,1,43.3813435,-112.121738,7,7,city_2387_idaho_shelley
+S160137327,L28363920,My Shelly block loop,2024-01-29,2024,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,25,,1,43.3813435,-112.121738,7,7,city_2387_idaho_shelley
+S161416598,L27080064,My Shelley home,2024-02-13,2024,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,6,,1,43.3811978,-112.1234213,8,8,city_2387_idaho_shelley
+S164714620,L27080064,My Shelley home,2024-03-13,2024,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,5,,1,43.3811978,-112.1234213,5,5,city_2387_idaho_shelley
+S239488281,L3948721,Shelley (town),2025-05-17,2025,2387,"Shelley, ID",Shelley,Idaho,Bingham,5256612.5847318,10,,1,43.3869861,-112.132988,7,7,city_2387_idaho_shelley

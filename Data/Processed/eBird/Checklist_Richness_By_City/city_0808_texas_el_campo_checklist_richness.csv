@@ -1,26 +1,26 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S21771461,2015-02-11,2015,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,6,8.047,1,29.202682,-96.244591,3,3,city_0808_texas_el_campo
-S27468730,2016-02-12,2016,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,15,,1,29.203086,-96.2659166,4,4,city_0808_texas_el_campo
-S27477794,2016-02-13,2016,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,15,,1,29.203086,-96.2659166,4,4,city_0808_texas_el_campo
-S31183474,2016-08-21,2016,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,20,4.023,1,29.208883,-96.273246,12,12,city_0808_texas_el_campo
-S29400277,2016-05-04,2016,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,10,1.609,1,29.181263,-96.260972,8,8,city_0808_texas_el_campo
-S38442394,2017-08-02,2017,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,16,3.541,1,29.1785,-96.262,7,7,city_0808_texas_el_campo
-S40674799,2017-11-22,2017,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,15,0.483,1,29.2097871,-96.2707713,2,2,city_0808_texas_el_campo
-S46440915,2018-06-09,2018,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,42,6.437,1,29.1928556,-96.2714767,13,13,city_0808_texas_el_campo
-S44635529,2018-04-16,2018,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,14,,1,29.202466,-96.245092,6,6,city_0808_texas_el_campo
-S54770478,2019-04-09,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,19,,1,29.2098818,-96.2717986,14,14,city_0808_texas_el_campo
-S51792632,2019-01-18,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,6,0.33,1,29.205737,-96.259506,6,6,city_0808_texas_el_campo
-S56797580,2019-05-27,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,22,0.322,1,29.2091713,-96.273161,10,10,city_0808_texas_el_campo
-S61180638,2019-11-04,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,6,11.904,1,29.175228,-96.273048,4,4,city_0808_texas_el_campo
-S56796950,2019-05-27,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,15,3.639,1,29.2006216,-96.2609189,8,8,city_0808_texas_el_campo
-S56798698,2019-05-27,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,10,0.225,1,29.1900139,-96.2716176,4,4,city_0808_texas_el_campo
-S70449557,2020-06-14,2020,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,33,7.984,1,29.17636,-96.276782,17,17,city_0808_texas_el_campo
-S67412621,2020-04-18,2020,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,5,2.058,1,29.202682,-96.244591,5,5,city_0808_texas_el_campo
-S66111507,2020-03-22,2020,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,24,,1,29.215977,-96.262763,4,4,city_0808_texas_el_campo
-S90530012,2021-06-20,2021,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,5,,1,29.2086398,-96.2792275,3,3,city_0808_texas_el_campo
-S97192156,2021-11-06,2021,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,10,3.372,1,29.179054,-96.261546,7,7,city_0808_texas_el_campo
-S114714207,2022-07-09,2022,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,60,3.219,1,29.1895896,-96.2697042,18,18,city_0808_texas_el_campo
-S155639200,2023-12-02,2023,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,8,16.234,1,29.1751536,-96.2803561,4,4,city_0808_texas_el_campo
-S136972926,2023-05-10,2023,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,53,2.686,1,29.186512,-96.275565,22,22,city_0808_texas_el_campo
-S127021435,2023-01-27,2023,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,17,,1,29.2185206,-96.288688,3,3,city_0808_texas_el_campo
-S216901058,2025-03-06,2025,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,11,,1,29.178842,-96.261602,3,3,city_0808_texas_el_campo
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21771461,L2286848,El Campo area,2015-02-11,2015,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,6,8.047,1,29.202682,-96.244591,3,3,city_0808_texas_el_campo
+S27468730,L4242046,My backyard,2016-02-12,2016,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,15,,1,29.203086,-96.2659166,4,4,city_0808_texas_el_campo
+S27477794,L4242046,My backyard,2016-02-13,2016,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,15,,1,29.203086,-96.2659166,4,4,city_0808_texas_el_campo
+S31183474,L2703291,US-TX-Danevang,2016-08-21,2016,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,20,4.023,1,29.208883,-96.273246,12,12,city_0808_texas_el_campo
+S29400277,L4561997,US-TX-El Campo-1602 S Mechanic St - 29.1813x-96.2610,2016-05-04,2016,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,10,1.609,1,29.181263,-96.260972,8,8,city_0808_texas_el_campo
+S38442394,L6145846,"1620 S Mechanic St, El Campo US-TX (29.1785,-96.2620)",2017-08-02,2017,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,16,3.541,1,29.1785,-96.262,7,7,city_0808_texas_el_campo
+S40674799,L6498897,El Campo--Friendship Park,2017-11-22,2017,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,15,0.483,1,29.2097871,-96.2707713,2,2,city_0808_texas_el_campo
+S46440915,L7549526,"El Campo,Wharton Co",2018-06-09,2018,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,42,6.437,1,29.1928556,-96.2714767,13,13,city_0808_texas_el_campo
+S44635529,L7232891,"Mikeska’s BBQ on I-59, El Campo US-TX (29.2025,-96.2451)",2018-04-16,2018,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,14,,1,29.202466,-96.245092,6,6,city_0808_texas_el_campo
+S54770478,L9012002,Wharton Co. - Friendship Park,2019-04-09,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,19,,1,29.2098818,-96.2717986,14,14,city_0808_texas_el_campo
+S51792632,L8450034,Rotary Park,2019-01-18,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,6,0.33,1,29.205737,-96.259506,6,6,city_0808_texas_el_campo
+S56797580,L9354484,"Friendship Park, El Campo, Texas, US (29.209, -96.273)",2019-05-27,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,22,0.322,1,29.2091713,-96.273161,10,10,city_0808_texas_el_campo
+S61180638,L10114382,"25634–25672 US-59 S, El Campo US-TX (29.1752,-96.2730)",2019-11-04,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,6,11.904,1,29.175228,-96.273048,4,4,city_0808_texas_el_campo
+S56796950,L9354366,"El Campo, Texas, US (29.201, -96.261)",2019-05-27,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,15,3.639,1,29.2006216,-96.2609189,8,8,city_0808_texas_el_campo
+S56798698,L9354715,"City Park, El Campo, Texas, US (29.19, -96.272)",2019-05-27,2019,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,10,0.225,1,29.1900139,-96.2716176,4,4,city_0808_texas_el_campo
+S70449557,L11698886,"25880 US-59 S, El Campo US-TX 29.17636, -96.27678",2020-06-14,2020,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,33,7.984,1,29.17636,-96.276782,17,17,city_0808_texas_el_campo
+S67412621,L2286848,El Campo area,2020-04-18,2020,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,5,2.058,1,29.202682,-96.244591,5,5,city_0808_texas_el_campo
+S66111507,L11011568,"1154 County Road 479, El Campo US-TX 29.21598, -96.26276",2020-03-22,2020,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,24,,1,29.215977,-96.262763,4,4,city_0808_texas_el_campo
+S90530012,L15462095,TX: El Campo,2021-06-20,2021,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,5,,1,29.2086398,-96.2792275,3,3,city_0808_texas_el_campo
+S97192156,L16826780,"1710 S Mechanic St, El Campo US-TX 29.17905, -96.26155",2021-11-06,2021,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,10,3.372,1,29.179054,-96.261546,7,7,city_0808_texas_el_campo
+S114714207,L20054236,"501 Tegner Street, El Campo, Texas, US (29.19, -96.27)",2022-07-09,2022,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,60,3.219,1,29.1895896,-96.2697042,18,18,city_0808_texas_el_campo
+S155639200,L4540368,US-Texas-El Campo-26044-26214 U.S. 59 - 29.175x-96.28,2023-12-02,2023,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,8,16.234,1,29.1751536,-96.2803561,4,4,city_0808_texas_el_campo
+S136972926,L24208564,"506 Roth St, El Campo US-TX 29.18651, -96.27557",2023-05-10,2023,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,53,2.686,1,29.186512,-96.275565,22,22,city_0808_texas_el_campo
+S127021435,L22360494,"2403 West Loop, El Campo, Texas, US (29.219, -96.289)",2023-01-27,2023,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,17,,1,29.2185206,-96.288688,3,3,city_0808_texas_el_campo
+S216901058,L40903033,"1710 SH-71, El Campo US-TX 29.17884, -96.26160",2025-03-06,2025,808,"El Campo, TX",El Campo,Texas,Wharton,16497100.4726273,11,,1,29.178842,-96.261602,3,3,city_0808_texas_el_campo

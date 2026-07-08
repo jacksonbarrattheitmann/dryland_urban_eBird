@@ -1,5 +1,5 @@
 # ============================================================
-# 06_Get_WorldClim_Annual_Aridity_Dryland_Cities.R
+# 06_Get_WorldClim_Annual_Aridity_Dryland_Cities_WITH_HOTSPOTS.R
 #
 # Purpose:
 # Download/extract WorldClim historical monthly weather data,
@@ -11,7 +11,9 @@
 #   2. It joins aridity to the combined checklist-level richness file.
 #   3. It joins aridity to each per-city checklist richness file.
 #   4. It joins aridity to each per-city city-year richness file.
-#   5. It does NOT require the old giant observation-level file:
+#   5. It copies the hotspot/locality files created by Script 05
+#      into the For Analysis folder.
+#   6. It does NOT require the old giant observation-level file:
 #      dryland_city_observations_with_city_2015_2025.tsv
 #
 # Aridity metric:
@@ -46,7 +48,10 @@ recalculate_aridity <- FALSE
 
 # TRUE = rebuild aridity-enhanced per-city files.
 # FALSE = skip per-city files that already exist.
-overwrite_per_city_aridity_outputs <- FALSE
+#
+# Use TRUE for this first run after adding locality_id/locality,
+# because older per-city aridity files may not include the new fields.
+overwrite_per_city_aridity_outputs <- TRUE
 
 # ------------------------------------------------------------
 # 1. File paths
@@ -60,6 +65,10 @@ city_year_richness_path <- "Data/Processed/eBird/dryland_city_year_species_richn
 checklist_richness_path <- "Data/Processed/eBird/dryland_city_checklist_species_richness_2015_2025.csv"
 
 city_manifest_path <- "Data/Processed/eBird/dryland_city_observation_file_manifest_2015_2025.csv"
+
+hotspot_list_path <- "Data/Processed/eBird/dryland_city_hotspot_list_for_GEE_2015_2025.csv"
+
+hotspot_latlong_path <- "Data/Processed/eBird/dryland_city_hotspot_latlong_for_GEE_2015_2025.csv"
 
 checklist_richness_by_city_dir <- "Data/Processed/eBird/Checklist_Richness_By_City"
 
@@ -113,6 +122,16 @@ checklist_without_aridity_for_analysis_out <- file.path(
   "dryland_city_checklist_species_richness_2015_2025.csv"
 )
 
+hotspot_list_for_analysis_out <- file.path(
+  for_analysis_dir,
+  "dryland_city_hotspot_list_for_GEE_2015_2025.csv"
+)
+
+hotspot_latlong_for_analysis_out <- file.path(
+  for_analysis_dir,
+  "dryland_city_hotspot_latlong_for_GEE_2015_2025.csv"
+)
+
 city_year_richness_aridity_out <- file.path(
   for_analysis_dir,
   "dryland_city_year_species_richness_aridity_2015_2025.csv"
@@ -140,7 +159,9 @@ per_city_aridity_status_out <- file.path(
 required_files <- c(
   city_year_richness_path,
   checklist_richness_path,
-  city_manifest_path
+  city_manifest_path,
+  hotspot_list_path,
+  hotspot_latlong_path
 )
 
 missing_required_files <- required_files[!file.exists(required_files)]
@@ -159,6 +180,54 @@ if (!dir.exists(checklist_richness_by_city_dir)) {
 if (!dir.exists(city_year_unique_by_city_dir)) {
   stop("Missing per-city city-year folder: ", city_year_unique_by_city_dir)
 }
+
+# Confirm the revised Script 05 outputs include hotspot/locality fields.
+checklist_header <- fread(checklist_richness_path, nrows = 0)
+
+required_checklist_hotspot_cols <- c(
+  "checklist_id",
+  "locality_id",
+  "locality",
+  "latitude_checklist",
+  "longitude_checklist"
+)
+
+missing_checklist_hotspot_cols <- setdiff(
+  required_checklist_hotspot_cols,
+  names(checklist_header)
+)
+
+if (length(missing_checklist_hotspot_cols) > 0) {
+  stop(
+    "The checklist richness file is missing hotspot/locality columns. ",
+    "Rerun revised Script 05 first. Missing columns: ",
+    paste(missing_checklist_hotspot_cols, collapse = ", ")
+  )
+}
+
+hotspot_latlong_header <- fread(hotspot_latlong_path, nrows = 0)
+
+required_hotspot_latlong_cols <- c(
+  "locality_id",
+  "locality",
+  "latitude",
+  "longitude",
+  "n_checklists"
+)
+
+missing_hotspot_latlong_cols <- setdiff(
+  required_hotspot_latlong_cols,
+  names(hotspot_latlong_header)
+)
+
+if (length(missing_hotspot_latlong_cols) > 0) {
+  stop(
+    "The simple hotspot lat/long file is missing required columns: ",
+    paste(missing_hotspot_latlong_cols, collapse = ", ")
+  )
+}
+
+cat("\nHotspot/locality outputs from Script 05 confirmed.\n")
 
 # ------------------------------------------------------------
 # 3. Build or reuse city-year aridity
@@ -493,9 +562,25 @@ file.copy(
   overwrite = TRUE
 )
 
+file.copy(
+  from = hotspot_list_path,
+  to = hotspot_list_for_analysis_out,
+  overwrite = TRUE
+)
+
+file.copy(
+  from = hotspot_latlong_path,
+  to = hotspot_latlong_for_analysis_out,
+  overwrite = TRUE
+)
+
 cat("\nCopied non-aridity combined eBird files to For Analysis:\n")
 cat(city_year_without_aridity_for_analysis_out, "\n")
 cat(checklist_without_aridity_for_analysis_out, "\n")
+
+cat("\nCopied hotspot/locality files to For Analysis:\n")
+cat(hotspot_list_for_analysis_out, "\n")
+cat(hotspot_latlong_for_analysis_out, "\n")
 
 # ------------------------------------------------------------
 # 6. Join aridity to combined city-year eBird richness
@@ -560,6 +645,19 @@ write_csv(
 
 cat("\nChecklist richness + aridity output written:\n")
 cat(checklist_richness_aridity_out, "\n")
+
+cat("\nLocality columns retained in checklist richness + aridity:\n")
+print(
+  grep(
+    "locality|hotspot|location",
+    names(checklist_richness_aridity),
+    ignore.case = TRUE,
+    value = TRUE
+  )
+)
+
+cat("\nRows with locality_id in checklist richness + aridity:\n")
+print(sum(!is.na(checklist_richness_aridity$locality_id) & checklist_richness_aridity$locality_id != ""))
 
 # ------------------------------------------------------------
 # 8. Join aridity to each per-city checklist richness file
@@ -798,6 +896,8 @@ final_files <- c(
   city_year_aridity_for_analysis_out,
   city_year_without_aridity_for_analysis_out,
   checklist_without_aridity_for_analysis_out,
+  hotspot_list_for_analysis_out,
+  hotspot_latlong_for_analysis_out,
   city_year_richness_aridity_out,
   checklist_richness_aridity_out,
   per_city_aridity_status_out
@@ -810,6 +910,18 @@ print(
     size_mb = round(file.info(final_files)$size / 1024^2, 2)
   )
 )
+
+cat("\nPreview of hotspot lat/long file for GEE:\n")
+
+hotspot_latlong_preview <- fread(hotspot_latlong_for_analysis_out)
+
+print(head(hotspot_latlong_preview, 20))
+
+cat("\nRows in hotspot lat/long file for GEE:\n")
+print(nrow(hotspot_latlong_preview))
+
+cat("\nUnique locality IDs in hotspot lat/long file for GEE:\n")
+print(uniqueN(hotspot_latlong_preview$locality_id))
 
 cat("\nPreview of city-year richness + aridity:\n")
 
@@ -841,3 +953,7 @@ cat(city_year_richness_aridity_out, "\n")
 cat(checklist_richness_aridity_out, "\n")
 cat(checklist_richness_aridity_by_city_dir, "\n")
 cat(city_year_aridity_by_city_dir, "\n")
+
+cat("\nHotspot/locality outputs copied to For Analysis:\n")
+cat(hotspot_list_for_analysis_out, "\n")
+cat(hotspot_latlong_for_analysis_out, "\n")

@@ -1,26 +1,26 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24033050,2015-06-19,2015,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,9,2.253,1,35.51556,-98.96504,13,13,city_0552_oklahoma_clinton
-S28076601,2016-03-10,2016,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,28,8.047,1,35.5009767,-98.9896717,13,13,city_0552_oklahoma_clinton
-S50410880,2016-02-28,2016,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,10,,1,35.498203,-98.9839877,7,7,city_0552_oklahoma_clinton
-S34978073,2017-03-03,2017,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.501385,-98.974825,7,7,city_0552_oklahoma_clinton
-S37158231,2017-05-25,2017,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.506049,-98.974067,11,11,city_0552_oklahoma_clinton
-S38318792,2017-07-19,2017,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,24,,1,35.5148339,-98.9688038,5,5,city_0552_oklahoma_clinton
-S45288124,2018-05-05,2018,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.501324,-98.975147,8,8,city_0552_oklahoma_clinton
-S56096172,2019-05-10,2019,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,11,0.897,1,35.513545,-98.965959,11,11,city_0552_oklahoma_clinton
-S54569926,2019-04-03,2019,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,15,,1,35.5148339,-98.9688038,2,2,city_0552_oklahoma_clinton
-S59333633,2019-08-28,2019,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,120,16.093,1,35.51565,-98.963973,3,3,city_0552_oklahoma_clinton
-S62226395,2019-12-04,2019,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,25,,1,35.515007,-98.968776,1,1,city_0552_oklahoma_clinton
-S64355352,2020-02-11,2020,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.4997371,-98.9776607,5,5,city_0552_oklahoma_clinton
-S93489970,2021-08-20,2021,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,14,7.926,1,35.514794,-98.961223,3,3,city_0552_oklahoma_clinton
-S83636174,2021-03-18,2021,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,9,0.696,1,35.501282,-98.987915,3,3,city_0552_oklahoma_clinton
-S78648152,2021-01-04,2021,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,10,,1,35.50103,-98.988282,1,1,city_0552_oklahoma_clinton
-S113328426,2022-06-17,2022,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,28,0.602,1,35.4945184,-98.9610477,19,19,city_0552_oklahoma_clinton
-S128778272,2023-02-18,2023,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,15,0.314,1,35.5128582,-98.9928516,4,4,city_0552_oklahoma_clinton
-S129908578,2023-03-01,2023,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,7,1.563,1,35.515184,-98.977248,5,5,city_0552_oklahoma_clinton
-S149427242,2023-09-09,2023,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,30,0.319,1,35.498835,-98.984269,7,7,city_0552_oklahoma_clinton
-S173173993,2024-05-10,2024,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,15,0.203,1,35.5128582,-98.9928516,10,10,city_0552_oklahoma_clinton
-S168251767,2024-04-12,2024,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,18,28.162,1,35.496621,-98.964716,7,7,city_0552_oklahoma_clinton
-S164565042,2024-03-12,2024,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,45,1.609,1,35.5125441,-98.9643931,6,6,city_0552_oklahoma_clinton
-S229025409,2025-04-24,2025,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,11,0.213,1,35.507436,-98.983429,12,12,city_0552_oklahoma_clinton
-S289320745,2025-12-20,2025,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,0.087,1,35.498322,-98.9842,4,4,city_0552_oklahoma_clinton
-S254121894,2025-06-25,2025,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.496398,-98.990551,1,1,city_0552_oklahoma_clinton
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24033050,L3746466,Clinton,2015-06-19,2015,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,9,2.253,1,35.51556,-98.96504,13,13,city_0552_oklahoma_clinton
+S28076601,L4354002,US-Oklahoma-Clinton-2247 W Gary Blvd - 35.501x-98.99,2016-03-10,2016,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,28,8.047,1,35.5009767,-98.9896717,13,13,city_0552_oklahoma_clinton
+S50410880,L8213337,"OK, Cus.Co., Clinton, I-40 area",2016-02-28,2016,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,10,,1,35.498203,-98.9839877,7,7,city_0552_oklahoma_clinton
+S34978073,L5542130,US-OK-Clinton-1200 S 10th St - 35.5014x-98.9748,2017-03-03,2017,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.501385,-98.974825,7,7,city_0552_oklahoma_clinton
+S37158231,L5887764,McLain Rogers Park,2017-05-25,2017,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.506049,-98.974067,11,11,city_0552_oklahoma_clinton
+S38318792,L6123039,"T. W. SHEARS, CLINTON OK.",2017-07-19,2017,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,24,,1,35.5148339,-98.9688038,5,5,city_0552_oklahoma_clinton
+S45288124,L7340993,Clinton—Days Inn,2018-05-05,2018,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.501324,-98.975147,8,8,city_0552_oklahoma_clinton
+S56096172,L9237664,"Clinton, OK—downtown area",2019-05-10,2019,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,11,0.897,1,35.513545,-98.965959,11,11,city_0552_oklahoma_clinton
+S54569926,L6123039,"T. W. SHEARS, CLINTON OK.",2019-04-03,2019,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,15,,1,35.5148339,-98.9688038,2,2,city_0552_oklahoma_clinton
+S59333633,L9849234,"301 W Gary Blvd, Clinton US-OK (35.5157,-98.9640)",2019-08-28,2019,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,120,16.093,1,35.51565,-98.963973,3,3,city_0552_oklahoma_clinton
+S62226395,L10277118,"700 W Gary Blvd, Clinton US-OK (35.5150,-98.9688)",2019-12-04,2019,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,25,,1,35.515007,-98.968776,1,1,city_0552_oklahoma_clinton
+S64355352,L10724428,"1410 Shelley Avenue, Clinton, Oklahoma, US (35.5, -98.978)",2020-02-11,2020,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.4997371,-98.9776607,5,5,city_0552_oklahoma_clinton
+S93489970,L16160550,"106 W Gary Blvd, Clinton US-OK 35.51479, -98.96122",2021-08-20,2021,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,14,7.926,1,35.514794,-98.961223,3,3,city_0552_oklahoma_clinton
+S83636174,L14074325,"2301 Red Wheat Dr, Clinton US-OK 35.50128, -98.98792",2021-03-18,2021,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,9,0.696,1,35.501282,-98.987915,3,3,city_0552_oklahoma_clinton
+S78648152,L13161632,"2301 Red Wheat Dr, Clinton US-OK 35.50103, -98.98828",2021-01-04,2021,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,10,,1,35.50103,-98.988282,1,1,city_0552_oklahoma_clinton
+S113328426,L19734475,"211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)",2022-06-17,2022,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,28,0.602,1,35.4945184,-98.9610477,19,19,city_0552_oklahoma_clinton
+S128778272,L18068991,Wheatland Ridge Apartments,2023-02-18,2023,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,15,0.314,1,35.5128582,-98.9928516,4,4,city_0552_oklahoma_clinton
+S129908578,L22862907,"N 14th St, Clinton US-OK (35.5152,-98.9772)",2023-03-01,2023,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,7,1.563,1,35.515184,-98.977248,5,5,city_0552_oklahoma_clinton
+S149427242,L20884189,"2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427",2023-09-09,2023,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,30,0.319,1,35.498835,-98.984269,7,7,city_0552_oklahoma_clinton
+S173173993,L18068991,Wheatland Ridge Apartments,2024-05-10,2024,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,15,0.203,1,35.5128582,-98.9928516,10,10,city_0552_oklahoma_clinton
+S168251767,L30556613,"1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472",2024-04-12,2024,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,18,28.162,1,35.496621,-98.964716,7,7,city_0552_oklahoma_clinton
+S164565042,L29814402,Fresco Center,2024-03-12,2024,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,45,1.609,1,35.5125441,-98.9643931,6,6,city_0552_oklahoma_clinton
+S229025409,L43355104,SW Elementary,2025-04-24,2025,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,11,0.213,1,35.507436,-98.983429,12,12,city_0552_oklahoma_clinton
+S289320745,L56133221,"2000 Lexington Ave, Clinton US-OK (35.4983,-98.9842)",2025-12-20,2025,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,0.087,1,35.498322,-98.9842,4,4,city_0552_oklahoma_clinton
+S254121894,L48466066,"2569–2575 Red Wheat Dr, Clinton US-OK 35.49640, -98.99055",2025-06-25,2025,552,"Clinton, OK",Clinton,Oklahoma,Custer,9159150.19888976,5,,1,35.496398,-98.990551,1,1,city_0552_oklahoma_clinton

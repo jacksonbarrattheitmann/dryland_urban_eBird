@@ -1,23 +1,31 @@
 # ============================================================
-# 04_Filter_eBird_Sampling_Events_to_Dryland_Cities.R
+# 04_Filter_eBird_Sampling_Events_to_Dryland_Cities_WITH_HOTSPOTS.R
 #
 # Purpose:
 # Filter eBird Sampling Event Data to complete checklists from
 # 2015-2025 that fall inside dryland city polygons.
 #
+# This revised version preserves eBird hotspot/location fields:
+#   - locality_id = LOCALITY ID
+#   - locality    = LOCALITY
+#
+# These fields are needed downstream so each checklist can be linked
+# to an eBird hotspot/location for modelling and GEE extraction.
+#
 # Notes:
-# The Sampling Event Data file used here does not include a
-# protocol column, so this script does NOT filter to stationary
-# checklists. It filters by checklist completeness, observer number,
-# duration, valid coordinates, and dryland city polygon location.
+# The Sampling Event Data file used here does not include a protocol
+# column, so this script does NOT filter to stationary checklists.
+# It filters by checklist completeness, observer number, duration,
+# valid coordinates, and dryland city polygon location.
 #
 # Approach:
 # 1. Stream the large gzipped Sampling Event Data file with fread().
 # 2. Keep only the columns needed for filtering and spatial joining.
-# 3. Apply table filters.
-# 4. Convert checklist coordinates to spatial points.
-# 5. Spatially join checklists to dryland city polygons.
-# 6. Save checklist table, checklist IDs, and city-level summary.
+# 3. Preserve LOCALITY ID and LOCALITY if present.
+# 4. Apply table filters.
+# 5. Convert checklist coordinates to spatial points.
+# 6. Spatially join checklists to dryland city polygons.
+# 7. Save checklist table, checklist IDs, hotspot list, and city summary.
 # ============================================================
 
 library(sf)
@@ -51,10 +59,16 @@ summary_by_city_out <- file.path(
   "dryland_city_checklist_summary_2015_2025.csv"
 )
 
+hotspot_list_out <- file.path(
+  ebird_out_dir,
+  "dryland_city_hotspot_list_for_GEE_2015_2025.csv"
+)
+
 file.remove(
   checklists_out,
   checklist_ids_out,
-  summary_by_city_out
+  summary_by_city_out,
+  hotspot_list_out
 )
 
 # ------------------------------------------------------------
@@ -89,7 +103,66 @@ cat("\nDryland city bounding box:\n")
 print(bb)
 
 # ------------------------------------------------------------
-# 3. Stream and read needed Sampling Event Data columns
+# 3. Inspect Sampling Event Data column names
+# ------------------------------------------------------------
+
+# fread(select = ...) errors if a requested column does not exist.
+# So we first read the header only, then select only columns that exist.
+sed_header <- fread(
+  cmd = paste("gzip -cd", shQuote(sed_path)),
+  sep = "\t",
+  quote = "",
+  nrows = 0,
+  showProgress = FALSE
+)
+
+sed_names <- names(sed_header)
+
+cat("\nSampling Event Data columns related to locality/location:\n")
+print(
+  grep(
+    "LOCALITY|LOCATION|HOTSPOT",
+    sed_names,
+    ignore.case = TRUE,
+    value = TRUE
+  )
+)
+
+required_sed_cols <- c(
+  "SAMPLING EVENT IDENTIFIER",
+  "OBSERVATION DATE",
+  "LATITUDE",
+  "LONGITUDE",
+  "ALL SPECIES REPORTED",
+  "DURATION MINUTES",
+  "EFFORT DISTANCE KM",
+  "NUMBER OBSERVERS"
+)
+
+optional_sed_cols <- c(
+  "LOCALITY ID",
+  "LOCALITY"
+)
+
+missing_required_sed_cols <- setdiff(required_sed_cols, sed_names)
+
+if (length(missing_required_sed_cols) > 0) {
+  stop(
+    "The Sampling Event Data file is missing required columns:\n",
+    paste(missing_required_sed_cols, collapse = "\n")
+  )
+}
+
+sed_cols_to_read <- c(
+  required_sed_cols,
+  intersect(optional_sed_cols, sed_names)
+)
+
+cat("\nColumns selected from Sampling Event Data:\n")
+print(sed_cols_to_read)
+
+# ------------------------------------------------------------
+# 4. Stream and read needed Sampling Event Data columns
 # ------------------------------------------------------------
 
 # This streams the compressed file instead of manually decompressing it.
@@ -101,51 +174,76 @@ sampling_events <- fread(
   sep = "\t",
   quote = "",
   showProgress = TRUE,
-  select = c(
-    "SAMPLING EVENT IDENTIFIER",
-    "OBSERVATION DATE",
-    "LATITUDE",
-    "LONGITUDE",
-    "ALL SPECIES REPORTED",
-    "DURATION MINUTES",
-    "EFFORT DISTANCE KM",
-    "NUMBER OBSERVERS"
-  )
+  select = sed_cols_to_read
 )
 
 cat("\nSampling rows read:\n")
 print(nrow(sampling_events))
 
 # ------------------------------------------------------------
-# 4. Rename columns
+# 5. Rename columns
 # ------------------------------------------------------------
+
+rename_old <- c(
+  "SAMPLING EVENT IDENTIFIER",
+  "OBSERVATION DATE",
+  "LATITUDE",
+  "LONGITUDE",
+  "ALL SPECIES REPORTED",
+  "DURATION MINUTES",
+  "EFFORT DISTANCE KM",
+  "NUMBER OBSERVERS"
+)
+
+rename_new <- c(
+  "checklist_id",
+  "observation_date",
+  "latitude",
+  "longitude",
+  "all_species_reported",
+  "duration_minutes",
+  "effort_distance_km",
+  "number_observers"
+)
+
+if ("LOCALITY ID" %in% names(sampling_events)) {
+  rename_old <- c(rename_old, "LOCALITY ID")
+  rename_new <- c(rename_new, "locality_id")
+}
+
+if ("LOCALITY" %in% names(sampling_events)) {
+  rename_old <- c(rename_old, "LOCALITY")
+  rename_new <- c(rename_new, "locality")
+}
 
 setnames(
   sampling_events,
-  old = c(
-    "SAMPLING EVENT IDENTIFIER",
-    "OBSERVATION DATE",
-    "LATITUDE",
-    "LONGITUDE",
-    "ALL SPECIES REPORTED",
-    "DURATION MINUTES",
-    "EFFORT DISTANCE KM",
-    "NUMBER OBSERVERS"
-  ),
-  new = c(
-    "checklist_id",
-    "observation_date",
-    "latitude",
-    "longitude",
-    "all_species_reported",
-    "duration_minutes",
-    "effort_distance_km",
-    "number_observers"
+  old = rename_old,
+  new = rename_new
+)
+
+# If the SED file did not contain locality fields, create them as NA
+# so downstream scripts still have stable column names.
+if (!"locality_id" %in% names(sampling_events)) {
+  sampling_events[, locality_id := NA_character_]
+}
+
+if (!"locality" %in% names(sampling_events)) {
+  sampling_events[, locality := NA_character_]
+}
+
+cat("\nLocality fields after renaming:\n")
+print(
+  grep(
+    "locality|hotspot|location",
+    names(sampling_events),
+    ignore.case = TRUE,
+    value = TRUE
   )
 )
 
 # ------------------------------------------------------------
-# 5. Apply table filters
+# 6. Apply table filters
 # ------------------------------------------------------------
 
 # Filters:
@@ -186,11 +284,13 @@ sampling_events <- as_tibble(sampling_events) %>%
     longitude = as.numeric(longitude),
     duration_minutes = as.numeric(duration_minutes),
     effort_distance_km = as.numeric(effort_distance_km),
-    number_observers = as.numeric(number_observers)
+    number_observers = as.numeric(number_observers),
+    locality_id = as.character(locality_id),
+    locality = as.character(locality)
   )
 
 # ------------------------------------------------------------
-# 6. Spatially join checklists to dryland city polygons
+# 7. Spatially join checklists to dryland city polygons
 # ------------------------------------------------------------
 
 sampling_points <- sampling_events %>%
@@ -215,7 +315,7 @@ if (nrow(dryland_city_checklists) == 0) {
 }
 
 # ------------------------------------------------------------
-# 7. Save checklist table and checklist IDs
+# 8. Save checklist table and checklist IDs
 # ------------------------------------------------------------
 
 dryland_city_checklists_table <- dryland_city_checklists %>%
@@ -223,6 +323,8 @@ dryland_city_checklists_table <- dryland_city_checklists %>%
   arrange(state_name, city_ascii, observation_date) %>%
   dplyr::select(
     checklist_id,
+    locality_id,
+    locality,
     observation_date,
     all_species_reported,
     duration_minutes,
@@ -252,7 +354,38 @@ write_csv(
 )
 
 # ------------------------------------------------------------
-# 8. Save summary by city
+# 9. Save hotspot/location list for GEE
+# ------------------------------------------------------------
+
+dryland_hotspots_for_GEE <- dryland_city_checklists_table %>%
+  filter(!is.na(locality_id), locality_id != "") %>%
+  group_by(
+    city_id,
+    NAME10,
+    city_ascii,
+    state_name,
+    county_name,
+    dryland_percent,
+    locality_id,
+    locality
+  ) %>%
+  summarise(
+    n_checklists = n_distinct(checklist_id),
+    first_date = min(observation_date, na.rm = TRUE),
+    last_date = max(observation_date, na.rm = TRUE),
+    mean_latitude = mean(latitude, na.rm = TRUE),
+    mean_longitude = mean(longitude, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  arrange(state_name, city_ascii, locality)
+
+write_csv(
+  dryland_hotspots_for_GEE,
+  hotspot_list_out
+)
+
+# ------------------------------------------------------------
+# 10. Save summary by city
 # ------------------------------------------------------------
 
 dryland_city_summary <- dryland_city_checklists_table %>%
@@ -267,6 +400,7 @@ dryland_city_summary <- dryland_city_checklists_table %>%
   summarise(
     n_checklists = n_distinct(checklist_id),
     n_unique_locations = n_distinct(latitude, longitude),
+    n_unique_locality_ids = n_distinct(locality_id[!is.na(locality_id) & locality_id != ""]),
     first_date = min(observation_date, na.rm = TRUE),
     last_date = max(observation_date, na.rm = TRUE),
     .groups = "drop"
@@ -279,7 +413,7 @@ write_csv(
 )
 
 # ------------------------------------------------------------
-# 9. Final checks
+# 11. Final checks
 # ------------------------------------------------------------
 
 cat("\nDryland city checklists retained:\n")
@@ -287,6 +421,17 @@ print(nrow(dryland_city_checklists_table))
 
 cat("\nUnique checklist IDs retained:\n")
 print(nrow(dryland_checklist_ids))
+
+cat("\nRows with locality_id:\n")
+print(sum(!is.na(dryland_city_checklists_table$locality_id) & dryland_city_checklists_table$locality_id != ""))
+
+cat("\nUnique locality IDs retained:\n")
+print(
+  dryland_city_checklists_table %>%
+    filter(!is.na(locality_id), locality_id != "") %>%
+    distinct(locality_id) %>%
+    nrow()
+)
 
 cat("\nDryland cities with at least one checklist:\n")
 dryland_city_checklists_table %>%
@@ -296,3 +441,9 @@ dryland_city_checklists_table %>%
 
 cat("\nTop dryland cities by checklist count:\n")
 print(head(dryland_city_summary, 25))
+
+cat("\nOutput files written:\n")
+print(checklists_out)
+print(checklist_ids_out)
+print(summary_by_city_out)
+print(hotspot_list_out)

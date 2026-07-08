@@ -1,27 +1,27 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S198537575	2024-10-12	Carolina Wren	Thryothorus ludovicianus	27348	species	1	35.0579220	-98.2616690	Traveling	1	0
-S198537575	2024-10-12	Bewick's Wren	Thryomanes bewickii	27362	species	1	35.0579220	-98.2616690	Traveling	1	0
-S190874546	2024-08-10	Mourning Dove	Zenaida macroura	2412	species	2	35.0817900	-98.2440200	Traveling	1	0
-S198537575	2024-10-12	Blue Jay	Cyanocitta cristata	21294	species	1	35.0579220	-98.2616690	Traveling	1	0
-S190874546	2024-08-10	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.0817900	-98.2440200	Traveling	1	0
-S198537575	2024-10-12	Turkey Vulture	Cathartes aura	7815	species	150	35.0579220	-98.2616690	Traveling	1	1
-S198537575	2024-10-12	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	5	35.0579220	-98.2616690	Traveling	1	0
-S198537575	2024-10-12	Northern Cardinal	Cardinalis cardinalis	34515	species	1	35.0579220	-98.2616690	Traveling	1	0
-S190874546	2024-08-10	Mississippi Kite	Ictinia mississippiensis	8388	species	2	35.0817900	-98.2440200	Traveling	1	0
-S198537575	2024-10-12	Northern Mockingbird	Mimus polyglottos	28114	species	2	35.0579220	-98.2616690	Traveling	1	0
-S190874546	2024-08-10	European Starling	Sturnus vulgaris	27813	species	10	35.0817900	-98.2440200	Traveling	1	0
-S198537575	2024-10-12	European Starling	Sturnus vulgaris	27813	species	1	35.0579220	-98.2616690	Traveling	1	0
-S198537575	2024-10-12	American Crow	Corvus brachyrhynchos	21557	species	1	35.0579220	-98.2616690	Traveling	1	0
-S198537575	2024-10-12	House Sparrow	Passer domesticus	31534	species	1	35.0579220	-98.2616690	Traveling	1	0
-S275411990	2025-09-25	Northern Mockingbird	Mimus polyglottos	28114	species	1	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	Carolina Chickadee	Poecile carolinensis	22060	species	1	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	European Starling	Sturnus vulgaris	27813	species	2	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	American Crow	Corvus brachyrhynchos	21557	species	1	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	Carolina Wren	Thryothorus ludovicianus	27348	species	1	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	American Goldfinch	Spinus tristis	32617	species	1	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	Northern Cardinal	Cardinalis cardinalis	34515	species	2	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	Northern Flicker	Colaptes auratus	11900	species	1	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	House Sparrow	Passer domesticus	31534	species	5	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	Tufted Titmouse	Baeolophus bicolor	22160	species	1	35.0769480	-98.2396530	Traveling	1	0
-S275411990	2025-09-25	Mourning Dove	Zenaida macroura	2412	species	2	35.0769480	-98.2396530	Traveling	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S198537575	2024-10-12	L37264571	Anadarko	Carolina Wren	Thryothorus ludovicianus	27348	species	1	35.0579220	-98.2616690	Traveling	1	0
+S198537575	2024-10-12	L37264571	Anadarko	Bewick's Wren	Thryomanes bewickii	27362	species	1	35.0579220	-98.2616690	Traveling	1	0
+S190874546	2024-08-10	L35634976	100 Prairie Village Ave, Anadarko US-OK 35.08179, -98.24402	Mourning Dove	Zenaida macroura	2412	species	2	35.0817900	-98.2440200	Traveling	1	0
+S198537575	2024-10-12	L37264571	Anadarko	Blue Jay	Cyanocitta cristata	21294	species	1	35.0579220	-98.2616690	Traveling	1	0
+S190874546	2024-08-10	L35634976	100 Prairie Village Ave, Anadarko US-OK 35.08179, -98.24402	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.0817900	-98.2440200	Traveling	1	0
+S198537575	2024-10-12	L37264571	Anadarko	Turkey Vulture	Cathartes aura	7815	species	150	35.0579220	-98.2616690	Traveling	1	1
+S198537575	2024-10-12	L37264571	Anadarko	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	5	35.0579220	-98.2616690	Traveling	1	0
+S198537575	2024-10-12	L37264571	Anadarko	Northern Cardinal	Cardinalis cardinalis	34515	species	1	35.0579220	-98.2616690	Traveling	1	0
+S190874546	2024-08-10	L35634976	100 Prairie Village Ave, Anadarko US-OK 35.08179, -98.24402	Mississippi Kite	Ictinia mississippiensis	8388	species	2	35.0817900	-98.2440200	Traveling	1	0
+S198537575	2024-10-12	L37264571	Anadarko	Northern Mockingbird	Mimus polyglottos	28114	species	2	35.0579220	-98.2616690	Traveling	1	0
+S190874546	2024-08-10	L35634976	100 Prairie Village Ave, Anadarko US-OK 35.08179, -98.24402	European Starling	Sturnus vulgaris	27813	species	10	35.0817900	-98.2440200	Traveling	1	0
+S198537575	2024-10-12	L37264571	Anadarko	European Starling	Sturnus vulgaris	27813	species	1	35.0579220	-98.2616690	Traveling	1	0
+S198537575	2024-10-12	L37264571	Anadarko	American Crow	Corvus brachyrhynchos	21557	species	1	35.0579220	-98.2616690	Traveling	1	0
+S198537575	2024-10-12	L37264571	Anadarko	House Sparrow	Passer domesticus	31534	species	1	35.0579220	-98.2616690	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	Northern Mockingbird	Mimus polyglottos	28114	species	1	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	Carolina Chickadee	Poecile carolinensis	22060	species	1	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	European Starling	Sturnus vulgaris	27813	species	2	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	American Crow	Corvus brachyrhynchos	21557	species	1	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	Carolina Wren	Thryothorus ludovicianus	27348	species	1	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	American Goldfinch	Spinus tristis	32617	species	1	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	Northern Cardinal	Cardinalis cardinalis	34515	species	2	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	Northern Flicker	Colaptes auratus	11900	species	1	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	House Sparrow	Passer domesticus	31534	species	5	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	Tufted Titmouse	Baeolophus bicolor	22160	species	1	35.0769480	-98.2396530	Traveling	1	0
+S275411990	2025-09-25	L53251797	Andarko Heritage Museum	Mourning Dove	Zenaida macroura	2412	species	2	35.0769480	-98.2396530	Traveling	1	0

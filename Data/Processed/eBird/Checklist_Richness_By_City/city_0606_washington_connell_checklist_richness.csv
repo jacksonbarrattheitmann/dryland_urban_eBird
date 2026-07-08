@@ -1,37 +1,37 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25142672,2015-09-23,2015,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,11,,1,46.694429,-118.837377,18,18,city_0606_washington_connell
-S25219629,2015-09-28,2015,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,30,,1,46.6938431,-118.8379526,14,14,city_0606_washington_connell
-S27827576,2016-02-26,2016,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,10,,1,46.694429,-118.837377,10,10,city_0606_washington_connell
-S27838425,2016-02-26,2016,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,10,,1,46.694429,-118.837377,10,10,city_0606_washington_connell
-S39494387,2017-10-01,2017,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,46,2.414,1,46.660754,-118.851214,8,8,city_0606_washington_connell
-S44205165,2018-04-02,2018,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,7,4.828,1,46.660207,-118.861341,5,5,city_0606_washington_connell
-S44777901,2018-04-21,2018,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,15,0.09,1,46.6566731,-118.8558476,12,12,city_0606_washington_connell
-S59516303,2019-09-04,2019,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,6,,1,46.690684,-118.845897,8,8,city_0606_washington_connell
-S59516734,2019-09-04,2019,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,21,1.985,1,46.690684,-118.845897,13,13,city_0606_washington_connell
-S55389461,2019-04-25,2019,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,11,16.758,1,46.694429,-118.837377,16,16,city_0606_washington_connell
-S59441034,2019-09-01,2019,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,10,,1,46.690684,-118.845897,11,11,city_0606_washington_connell
-S72352853,2020-08-12,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,40,2,1,46.690684,-118.845897,23,23,city_0606_washington_connell
-S69623843,2020-05-25,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,7,,1,46.690684,-118.845897,14,14,city_0606_washington_connell
-S73715535,2020-09-17,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,40,3,1,46.690684,-118.845897,23,23,city_0606_washington_connell
-S72159448,2020-08-06,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,12,,1,46.690684,-118.845897,13,13,city_0606_washington_connell
-S71094565,2020-07-03,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,7,1.125,1,46.690684,-118.845897,7,7,city_0606_washington_connell
-S69234218,2020-05-17,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,25,,1,46.690684,-118.845897,19,19,city_0606_washington_connell
-S68733790,2020-05-09,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,13,,1,46.690684,-118.845897,14,14,city_0606_washington_connell
-S74985947,2020-10-17,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,15,,1,46.690684,-118.845897,10,10,city_0606_washington_connell
-S76679552,2020-11-25,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,,1,46.690684,-118.845897,8,8,city_0606_washington_connell
-S91454092,2021-07-08,2021,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,19,1.99,1,46.690684,-118.845897,5,5,city_0606_washington_connell
-S89082615,2021-05-27,2021,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,20,,1,46.6511054,-118.8574798,6,6,city_0606_washington_connell
-S91791128,2021-07-15,2021,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,10,1.706,1,46.690684,-118.845897,6,6,city_0606_washington_connell
-S84239955,2021-03-27,2021,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,8,15.332,1,46.689357,-118.8393,5,5,city_0606_washington_connell
-S130804537,2023-03-12,2023,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,27,3.927,1,46.6639578,-118.8648334,10,10,city_0606_washington_connell
-S148060871,2023-08-25,2023,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,15,,1,46.6643197,-118.8645013,3,3,city_0606_washington_connell
-S170642902,2023-10-07,2023,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,30,0.032,1,46.6615368,-118.8611115,7,7,city_0606_washington_connell
-S148091031,2023-08-25,2023,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,,1,46.6643197,-118.8645013,4,4,city_0606_washington_connell
-S278762611,2025-10-11,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,56,2.244,1,46.690757,-118.846068,9,9,city_0606_washington_connell
-S264022800,2025-07-31,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,71,1.555,1,46.690684,-118.845897,36,36,city_0606_washington_connell
-S265458363,2025-08-06,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,24,1.283,1,46.692868,-118.843085,21,21,city_0606_washington_connell
-S269298292,2025-08-24,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,22,,1,46.690757,-118.846068,11,11,city_0606_washington_connell
-S268831165,2025-08-22,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,,1,46.65661,-118.857409,3,3,city_0606_washington_connell
-S286801236,2025-11-24,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,31,,1,46.664378,-118.864602,2,2,city_0606_washington_connell
-S218560938,2025-03-05,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,2.321,1,46.6625106,-118.8599527,4,4,city_0606_washington_connell
-S220947237,2025-03-19,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,10.531,1,46.6902225,-118.8389425,1,1,city_0606_washington_connell
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S25142672,L3923403,Connell Sewage Lagoons,2015-09-23,2015,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,11,,1,46.694429,-118.837377,18,18,city_0606_washington_connell
+S25219629,L3932848,Connell water treatment pond.,2015-09-28,2015,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,30,,1,46.6938431,-118.8379526,14,14,city_0606_washington_connell
+S27827576,L3923403,Connell Sewage Lagoons,2016-02-26,2016,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,10,,1,46.694429,-118.837377,10,10,city_0606_washington_connell
+S27838425,L3923403,Connell Sewage Lagoons,2016-02-26,2016,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,10,,1,46.694429,-118.837377,10,10,city_0606_washington_connell
+S39494387,L6314233,Cornell WA bike path,2017-10-01,2017,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,46,2.414,1,46.660754,-118.851214,8,8,city_0606_washington_connell
+S44205165,L7163149,"103 S Columbia Ave, Connell US-WA (46.6602,-118.8613)",2018-04-02,2018,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,7,4.828,1,46.660207,-118.861341,5,5,city_0606_washington_connell
+S44777901,L7255924,"418-420 Birch Street, Connell, Washington, US (46.657, -118.856)",2018-04-21,2018,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,15,0.09,1,46.6566731,-118.8558476,12,12,city_0606_washington_connell
+S59516303,L9866433,Connell Sewer Treatment Ponds,2019-09-04,2019,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,6,,1,46.690684,-118.845897,8,8,city_0606_washington_connell
+S59516734,L9866433,Connell Sewer Treatment Ponds,2019-09-04,2019,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,21,1.985,1,46.690684,-118.845897,13,13,city_0606_washington_connell
+S55389461,L3923403,Connell Sewage Lagoons,2019-04-25,2019,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,11,16.758,1,46.694429,-118.837377,16,16,city_0606_washington_connell
+S59441034,L9866433,Connell Sewer Treatment Ponds,2019-09-01,2019,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,10,,1,46.690684,-118.845897,11,11,city_0606_washington_connell
+S72352853,L9866433,Connell Sewer Treatment Ponds,2020-08-12,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,40,2,1,46.690684,-118.845897,23,23,city_0606_washington_connell
+S69623843,L9866433,Connell Sewer Treatment Ponds,2020-05-25,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,7,,1,46.690684,-118.845897,14,14,city_0606_washington_connell
+S73715535,L9866433,Connell Sewer Treatment Ponds,2020-09-17,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,40,3,1,46.690684,-118.845897,23,23,city_0606_washington_connell
+S72159448,L9866433,Connell Sewer Treatment Ponds,2020-08-06,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,12,,1,46.690684,-118.845897,13,13,city_0606_washington_connell
+S71094565,L9866433,Connell Sewer Treatment Ponds,2020-07-03,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,7,1.125,1,46.690684,-118.845897,7,7,city_0606_washington_connell
+S69234218,L9866433,Connell Sewer Treatment Ponds,2020-05-17,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,25,,1,46.690684,-118.845897,19,19,city_0606_washington_connell
+S68733790,L9866433,Connell Sewer Treatment Ponds,2020-05-09,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,13,,1,46.690684,-118.845897,14,14,city_0606_washington_connell
+S74985947,L9866433,Connell Sewer Treatment Ponds,2020-10-17,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,15,,1,46.690684,-118.845897,10,10,city_0606_washington_connell
+S76679552,L9866433,Connell Sewer Treatment Ponds,2020-11-25,2020,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,,1,46.690684,-118.845897,8,8,city_0606_washington_connell
+S91454092,L9866433,Connell Sewer Treatment Ponds,2021-07-08,2021,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,19,1.99,1,46.690684,-118.845897,5,5,city_0606_washington_connell
+S89082615,L15124946,"351 East Hawthorn Street, Connell, Washington, US (46.651, -118.857)",2021-05-27,2021,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,20,,1,46.6511054,-118.8574798,6,6,city_0606_washington_connell
+S91791128,L9866433,Connell Sewer Treatment Ponds,2021-07-15,2021,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,10,1.706,1,46.690684,-118.845897,6,6,city_0606_washington_connell
+S84239955,L14186202,"US-395 S, Connell US-WA 46.68936, -118.83930",2021-03-27,2021,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,8,15.332,1,46.689357,-118.8393,5,5,city_0606_washington_connell
+S130804537,L15780413,"Clark Street, Connell",2023-03-12,2023,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,27,3.927,1,46.6639578,-118.8648334,10,10,city_0606_washington_connell
+S148060871,L26750396,"353 West Davis Street, Connell, Washington, US (46.664, -118.865)",2023-08-25,2023,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,15,,1,46.6643197,-118.8645013,3,3,city_0606_washington_connell
+S170642902,L31026554,"Connell, Washington, US (46.662, -118.861)",2023-10-07,2023,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,30,0.032,1,46.6615368,-118.8611115,7,7,city_0606_washington_connell
+S148091031,L26750396,"353 West Davis Street, Connell, Washington, US (46.664, -118.865)",2023-08-25,2023,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,,1,46.6643197,-118.8645013,4,4,city_0606_washington_connell
+S278762611,L51981991,"Connell Sewage Lagoon, Connell US-WA",2025-10-11,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,56,2.244,1,46.690757,-118.846068,9,9,city_0606_washington_connell
+S264022800,L9866433,Connell Sewer Treatment Ponds,2025-07-31,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,71,1.555,1,46.690684,-118.845897,36,36,city_0606_washington_connell
+S265458363,L51113002,"Treatment Ponds, Connell US-WA",2025-08-06,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,24,1.283,1,46.692868,-118.843085,21,21,city_0606_washington_connell
+S269298292,L51981991,"Connell Sewage Lagoon, Connell US-WA",2025-08-24,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,22,,1,46.690757,-118.846068,11,11,city_0606_washington_connell
+S268831165,L51876885,"Pioneer Park, Connell US-WA 46.65661, -118.85741",2025-08-22,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,,1,46.65661,-118.857409,3,3,city_0606_washington_connell
+S286801236,L25064664,"353 W Davis St, Connell US-WA (46.6644,-118.8646)",2025-11-24,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,31,,1,46.664378,-118.864602,2,2,city_0606_washington_connell
+S218560938,L33865961,Connell (town),2025-03-05,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,2.321,1,46.6625106,-118.8599527,4,4,city_0606_washington_connell
+S220947237,L41703460,"Thomas S. ‘Tom’ Foley Memorial Highway, Connell, Washington, US (46.69, -118.839)",2025-03-19,2025,606,"Connell, WA",Connell,Washington,Franklin,6892949.73096234,5,10.531,1,46.6902225,-118.8389425,1,1,city_0606_washington_connell

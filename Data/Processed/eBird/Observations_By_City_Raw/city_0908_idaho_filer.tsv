@@ -1,28 +1,28 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S29815494	2016-05-21	American Robin	Turdus migratorius	28633	species	2	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	Lesser Goldfinch	Spinus psaltria	32609	species	1	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	European Starling	Sturnus vulgaris	27813	species	12	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	Chipping Sparrow	Spizella passerina	32990	species	2	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	Barn Swallow	Hirundo rustica	24187	species	7	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	Tree Swallow	Tachycineta bicolor	24064	species	5	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	Wilson's Warbler	Cardellina pusilla	34346	species	1	42.5683540	-114.6044420	Traveling	1	0
-S29815494	2016-05-21	MacGillivray's Warbler	Geothlypis tolmiei	34005	species	1	42.5683540	-114.6044420	Traveling	1	0
-S37087891	2017-05-22	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	42.5669270	-114.6057140	Traveling	1	0
-S37087891	2017-05-22	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	42.5669270	-114.6057140	Traveling	1	0
-S37087891	2017-05-22	House Sparrow	Passer domesticus	31534	species	4	42.5669270	-114.6057140	Traveling	1	0
-S37087891	2017-05-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	42.5669270	-114.6057140	Traveling	1	0
-S37087891	2017-05-22	Mourning Dove	Zenaida macroura	2412	species	1	42.5669270	-114.6057140	Traveling	1	0
-S37087891	2017-05-22	Western Tanager	Piranga ludoviciana	34439	species	2	42.5669270	-114.6057140	Traveling	1	0
-S37087891	2017-05-22	American Robin	Turdus migratorius	28633	species	4	42.5669270	-114.6057140	Traveling	1	0
-S75608682	2020-10-30	Black-billed Magpie	Pica hudsonia	21476	species	1	42.5672370	-114.6281080	Traveling	1	0
-S75608682	2020-10-30	passerine sp.	Passeriformes sp.	35852	spuh	1	42.5672370	-114.6281080	Traveling	1	0
-S75608682	2020-10-30	Common Raven	Corvus corax	21624	species	1	42.5672370	-114.6281080	Traveling	1	0
-S111035607	2022-05-22	American Robin	Turdus migratorius	28633	species	4	42.5702990	-114.6020090	Traveling	1	0
-S111035607	2022-05-22	Killdeer	Charadrius vociferus	5827	species	3	42.5702990	-114.6020090	Traveling	1	0
-S111035607	2022-05-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	42.5702990	-114.6020090	Traveling	1	0
-S111035607	2022-05-22	Western Tanager	Piranga ludoviciana	34439	species	2	42.5702990	-114.6020090	Traveling	1	0
-S111035607	2022-05-22	European Starling	Sturnus vulgaris	27813	species	6	42.5702990	-114.6020090	Traveling	1	0
-S111035607	2022-05-22	American Kestrel	Falco sparverius	12028	species	1	42.5702990	-114.6020090	Traveling	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	American Robin	Turdus migratorius	28633	species	2	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	Lesser Goldfinch	Spinus psaltria	32609	species	1	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	European Starling	Sturnus vulgaris	27813	species	12	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	Chipping Sparrow	Spizella passerina	32990	species	2	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	Barn Swallow	Hirundo rustica	24187	species	7	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	Tree Swallow	Tachycineta bicolor	24064	species	5	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	Wilson's Warbler	Cardellina pusilla	34346	species	1	42.5683540	-114.6044420	Traveling	1	0
+S29815494	2016-05-21	L4625374	US-ID-Filer-100-198 6th St - 42.5684x-114.6044	MacGillivray's Warbler	Geothlypis tolmiei	34005	species	1	42.5683540	-114.6044420	Traveling	1	0
+S37087891	2017-05-22	L5875535	US-ID-Filer-551-699 Park Ave - 42.5669x-114.6057	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	42.5669270	-114.6057140	Traveling	1	0
+S37087891	2017-05-22	L5875535	US-ID-Filer-551-699 Park Ave - 42.5669x-114.6057	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	42.5669270	-114.6057140	Traveling	1	0
+S37087891	2017-05-22	L5875535	US-ID-Filer-551-699 Park Ave - 42.5669x-114.6057	House Sparrow	Passer domesticus	31534	species	4	42.5669270	-114.6057140	Traveling	1	0
+S37087891	2017-05-22	L5875535	US-ID-Filer-551-699 Park Ave - 42.5669x-114.6057	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	42.5669270	-114.6057140	Traveling	1	0
+S37087891	2017-05-22	L5875535	US-ID-Filer-551-699 Park Ave - 42.5669x-114.6057	Mourning Dove	Zenaida macroura	2412	species	1	42.5669270	-114.6057140	Traveling	1	0
+S37087891	2017-05-22	L5875535	US-ID-Filer-551-699 Park Ave - 42.5669x-114.6057	Western Tanager	Piranga ludoviciana	34439	species	2	42.5669270	-114.6057140	Traveling	1	0
+S37087891	2017-05-22	L5875535	US-ID-Filer-551-699 Park Ave - 42.5669x-114.6057	American Robin	Turdus migratorius	28633	species	4	42.5669270	-114.6057140	Traveling	1	0
+S75608682	2020-10-30	L12624055	Cedar Draw Park, Filer US-ID (42.5672,-114.6281)	Black-billed Magpie	Pica hudsonia	21476	species	1	42.5672370	-114.6281080	Traveling	1	0
+S75608682	2020-10-30	L12624055	Cedar Draw Park, Filer US-ID (42.5672,-114.6281)	passerine sp.	Passeriformes sp.	35852	spuh	1	42.5672370	-114.6281080	Traveling	1	0
+S75608682	2020-10-30	L12624055	Cedar Draw Park, Filer US-ID (42.5672,-114.6281)	Common Raven	Corvus corax	21624	species	1	42.5672370	-114.6281080	Traveling	1	0
+S111035607	2022-05-22	L19228105	Main St, Filer US-ID 42.57030, -114.60201	American Robin	Turdus migratorius	28633	species	4	42.5702990	-114.6020090	Traveling	1	0
+S111035607	2022-05-22	L19228105	Main St, Filer US-ID 42.57030, -114.60201	Killdeer	Charadrius vociferus	5827	species	3	42.5702990	-114.6020090	Traveling	1	0
+S111035607	2022-05-22	L19228105	Main St, Filer US-ID 42.57030, -114.60201	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	42.5702990	-114.6020090	Traveling	1	0
+S111035607	2022-05-22	L19228105	Main St, Filer US-ID 42.57030, -114.60201	Western Tanager	Piranga ludoviciana	34439	species	2	42.5702990	-114.6020090	Traveling	1	0
+S111035607	2022-05-22	L19228105	Main St, Filer US-ID 42.57030, -114.60201	European Starling	Sturnus vulgaris	27813	species	6	42.5702990	-114.6020090	Traveling	1	0
+S111035607	2022-05-22	L19228105	Main St, Filer US-ID 42.57030, -114.60201	American Kestrel	Falco sparverius	12028	species	1	42.5702990	-114.6020090	Traveling	1	0

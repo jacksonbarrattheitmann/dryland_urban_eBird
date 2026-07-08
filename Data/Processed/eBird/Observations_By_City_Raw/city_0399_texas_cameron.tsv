@@ -1,251 +1,251 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S21770114	2015-02-11	House Finch	Haemorhous mexicanus	32310	species	3	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Tufted Titmouse	Baeolophus bicolor	22160	species	2	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Carolina Chickadee	Poecile carolinensis	22060	species	1	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	House Sparrow	Passer domesticus	31534	species	5	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Black Vulture	Coragyps atratus	7811	species	4	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Downy Woodpecker	Dryobates pubescens	11400	species	1	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Killdeer	Charadrius vociferus	5827	species	1	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Red-shouldered Hawk	Buteo lineatus	8487	species	1	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Yellow-rumped Warbler	Setophaga coronata	34159	species	7	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Mourning Dove	Zenaida macroura	2412	species	1	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Chipping Sparrow	Spizella passerina	32990	species	54	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	Blue Jay	Cyanocitta cristata	21294	species	2	30.8500687	-96.9745588	Stationary	1	0
-S21770114	2015-02-11	European Starling	Sturnus vulgaris	27813	species	3	30.8500687	-96.9745588	Stationary	1	0
-S38703346	2017-08-18	Mourning Dove	Zenaida macroura	2412	species	2	30.8650996	-96.9735718	Traveling	1	0
-S38703346	2017-08-18	European Starling	Sturnus vulgaris	27813	species	2	30.8650996	-96.9735718	Traveling	1	0
-S38703346	2017-08-18	Turkey Vulture	Cathartes aura	7815	species	5	30.8650996	-96.9735718	Traveling	1	0
-S38703346	2017-08-18	Barn Swallow	Hirundo rustica	24187	species	3	30.8650996	-96.9735718	Traveling	1	0
-S56965960	2019-06-01	Blue Jay	Cyanocitta cristata	21294	species	1	30.8503081	-96.9767867	Stationary	1	0
-S51831991	2019-01-19	American Crow	Corvus brachyrhynchos	21557	species	5	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	American Pipit	Anthus rubescens	31883	species	23	30.8645380	-96.9653910	Traveling	1	0
-S56965960	2019-06-01	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	30.8503081	-96.9767867	Stationary	1	0
-S51831991	2019-01-19	Lark Sparrow	Chondestes grammacus	33029	species	1	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	Carolina Chickadee	Poecile carolinensis	22060	species	2	30.8645380	-96.9653910	Traveling	1	0
-S56965960	2019-06-01	Common Grackle	Quiscalus quiscula	33853	species	4	30.8503081	-96.9767867	Stationary	1	0
-S51831991	2019-01-19	Savannah Sparrow	Passerculus sandwichensis	33244	species	8	30.8645380	-96.9653910	Traveling	1	0
-S56965960	2019-06-01	Barn Swallow	Hirundo rustica	24187	species	7	30.8503081	-96.9767867	Stationary	1	0
-S51831991	2019-01-19	Black Vulture	Coragyps atratus	7811	species	4	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	American Goldfinch	Spinus tristis	32617	species	35	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	Gadwall	Mareca strepera	505	species	3	30.8645380	-96.9653910	Traveling	1	0
-S54489401	2019-04-02	House Sparrow	Passer domesticus	31534	species	3	30.8424320	-96.9843560	Traveling	1	0
-S51831991	2019-01-19	Eastern Meadowlark	Sturnella magna	33568	species	16	30.8645380	-96.9653910	Traveling	1	0
-S54489401	2019-04-02	Turkey Vulture	Cathartes aura	7815	species	3	30.8424320	-96.9843560	Traveling	1	0
-S51831991	2019-01-19	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	European Starling	Sturnus vulgaris	27813	species	65	30.8645380	-96.9653910	Traveling	1	0
-S54489401	2019-04-02	Barn Swallow	Hirundo rustica	24187	species	5	30.8424320	-96.9843560	Traveling	1	0
-S51831991	2019-01-19	Turkey Vulture	Cathartes aura	7815	species	18	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	Mallard	Anas platyrhynchos	545	species	2	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	Double-crested Cormorant	Nannopterum auritum	7424	species	1	30.8645380	-96.9653910	Traveling	1	0
-S54489401	2019-04-02	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	69	30.8424320	-96.9843560	Traveling	1	1
-S56965960	2019-06-01	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	30.8503081	-96.9767867	Stationary	1	0
-S51831991	2019-01-19	Pied-billed Grebe	Podilymbus podiceps	6855	species	1	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	Field Sparrow	Spizella pusilla	33002	species	5	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	Crested Caracara	Caracara plancus	11963	issf	2	30.8645380	-96.9653910	Traveling	1	0
-S54489401	2019-04-02	Savannah Sparrow	Passerculus sandwichensis	33244	species	1	30.8424320	-96.9843560	Traveling	1	0
-S54489401	2019-04-02	Black Vulture	Coragyps atratus	7811	species	1	30.8424320	-96.9843560	Traveling	1	0
-S54489401	2019-04-02	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8424320	-96.9843560	Traveling	1	0
-S54489401	2019-04-02	Eastern Phoebe	Sayornis phoebe	17007	species	2	30.8424320	-96.9843560	Traveling	1	0
-S51831991	2019-01-19	American Kestrel	Falco sparverius	12028	species	3	30.8645380	-96.9653910	Traveling	1	0
-S51831991	2019-01-19	Killdeer	Charadrius vociferus	5827	species	3	30.8645380	-96.9653910	Traveling	1	0
-S54489401	2019-04-02	Chipping Sparrow	Spizella passerina	32990	species	7	30.8424320	-96.9843560	Traveling	1	0
-S51831991	2019-01-19	Purple Finch	Haemorhous purpureus	32324	species	1	30.8645380	-96.9653910	Traveling	1	1
-S66906972	2020-04-10	Downy Woodpecker	Dryobates pubescens	11400	species	1	30.8526800	-96.9738610	Traveling	1	0
-S66906972	2020-04-10	Barn Swallow	Hirundo rustica	24187	species	5	30.8526800	-96.9738610	Traveling	1	0
-S71939203	2020-07-26	Bewick's Wren	Thryomanes bewickii	27362	species	2	30.8615296	-96.9637974	Traveling	1	0
-S70214465	2020-06-08	Black Vulture	Coragyps atratus	7811	species	1	30.8497181	-96.9759510	Traveling	1	0
-S70240247	2020-06-06	American Robin	Turdus migratorius	28633	species	1	30.8615296	-96.9637974	Traveling	1	0
-S69859209	2020-05-30	Killdeer	Charadrius vociferus	5827	species	1	30.8497181	-96.9759510	Traveling	1	0
-S70214595	2020-06-08	Blue Jay	Cyanocitta cristata	21294	species	1	30.8521843	-96.9646877	Traveling	1	0
-S66906972	2020-04-10	White-winged Dove	Zenaida asiatica	2389	species	1	30.8526800	-96.9738610	Traveling	1	0
-S63474130	2020-01-17	Common Grackle	Quiscalus quiscula	33853	species	2	30.8591770	-96.9744050	Traveling	1	0
-S66906972	2020-04-10	Yellow-rumped Warbler	Setophaga coronata	34159	species	4	30.8526800	-96.9738610	Traveling	1	0
-S70646068	2020-06-15	American Robin	Turdus migratorius	28633	species	1	30.8615296	-96.9637974	Traveling	1	0
-S70214465	2020-06-08	White-winged Dove	Zenaida asiatica	2389	species	1	30.8497181	-96.9759510	Traveling	1	0
-S71788528	2020-07-23	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	30.8615296	-96.9637974	Traveling	1	0
-S65470740	2020-03-05	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	30.8640740	-96.9850220	Traveling	1	0
-S69859209	2020-05-30	Rock Pigeon	Columba livia	1868	domestic	3	30.8497181	-96.9759510	Traveling	1	0
-S69859209	2020-05-30	Barn Swallow	Hirundo rustica	24187	species	2	30.8497181	-96.9759510	Traveling	1	0
-S69859209	2020-05-30	Purple Martin	Progne subis	24081	species	2	30.8497181	-96.9759510	Traveling	1	0
-S66906972	2020-04-10	Chimney Swift	Chaetura pelagica	3896	species	1	30.8526800	-96.9738610	Traveling	1	0
-S71939203	2020-07-26	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	30.8615296	-96.9637974	Traveling	1	0
-S71939203	2020-07-26	American Robin	Turdus migratorius	28633	species	4	30.8615296	-96.9637974	Traveling	1	0
-S63474130	2020-01-17	House Sparrow	Passer domesticus	31534	species	2	30.8591770	-96.9744050	Traveling	1	0
-S63474130	2020-01-17	European Starling	Sturnus vulgaris	27813	species	20	30.8591770	-96.9744050	Traveling	1	0
-S66906972	2020-04-10	Carolina Wren	Thryothorus ludovicianus	27348	species	1	30.8526800	-96.9738610	Traveling	1	0
-S70240399	2020-06-07	American Robin	Turdus migratorius	28633	species	2	30.8615296	-96.9637974	Traveling	1	0
-S66906972	2020-04-10	House Sparrow	Passer domesticus	31534	species	7	30.8526800	-96.9738610	Traveling	1	0
-S70646068	2020-06-15	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8615296	-96.9637974	Traveling	1	0
-S70214595	2020-06-08	Red-shouldered Hawk	Buteo lineatus	8487	species	1	30.8521843	-96.9646877	Traveling	1	0
-S70214595	2020-06-08	Turkey Vulture	Cathartes aura	7815	species	1	30.8521843	-96.9646877	Traveling	1	0
-S70214465	2020-06-08	Western Kingbird	Tyrannus verticalis	17467	species	2	30.8497181	-96.9759510	Traveling	1	0
-S66906972	2020-04-10	Northern Cardinal	Cardinalis cardinalis	34515	species	5	30.8526800	-96.9738610	Traveling	1	0
-S71939203	2020-07-26	House Sparrow	Passer domesticus	31534	species	2	30.8615296	-96.9637974	Traveling	1	0
-S66906972	2020-04-10	American Robin	Turdus migratorius	28633	species	1	30.8526800	-96.9738610	Traveling	1	0
-S69859209	2020-05-30	House Finch	Haemorhous mexicanus	32310	species	1	30.8497181	-96.9759510	Traveling	1	0
-S65470740	2020-03-05	Mourning Dove	Zenaida macroura	2412	species	2	30.8640740	-96.9850220	Traveling	1	0
-S70214595	2020-06-08	Barn Swallow	Hirundo rustica	24187	species	1	30.8521843	-96.9646877	Traveling	1	0
-S66906972	2020-04-10	Mourning Dove	Zenaida macroura	2412	species	2	30.8526800	-96.9738610	Traveling	1	0
-S65470740	2020-03-05	Turkey Vulture	Cathartes aura	7815	species	1	30.8640740	-96.9850220	Traveling	1	0
-S65470740	2020-03-05	Chipping Sparrow	Spizella passerina	32990	species	8	30.8640740	-96.9850220	Traveling	1	0
-S70214465	2020-06-08	Barn Swallow	Hirundo rustica	24187	species	1	30.8497181	-96.9759510	Traveling	1	0
-S70214465	2020-06-08	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	30.8497181	-96.9759510	Traveling	1	0
-S69859209	2020-05-30	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	30.8497181	-96.9759510	Traveling	1	0
-S66906972	2020-04-10	European Starling	Sturnus vulgaris	27813	species	8	30.8526800	-96.9738610	Traveling	1	0
-S69859209	2020-05-30	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8497181	-96.9759510	Traveling	1	0
-S71788528	2020-07-23	Bewick's Wren	Thryomanes bewickii	27362	species	2	30.8615296	-96.9637974	Traveling	1	0
-S71611593	2020-07-18	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8615296	-96.9637974	Traveling	1	0
-S70240247	2020-06-06	Northern Cardinal	Cardinalis cardinalis	34515	species	1	30.8615296	-96.9637974	Traveling	1	0
-S70214465	2020-06-08	Mourning Dove	Zenaida macroura	2412	species	1	30.8497181	-96.9759510	Traveling	1	0
-S63474130	2020-01-17	Black Vulture	Coragyps atratus	7811	species	2	30.8591770	-96.9744050	Traveling	1	0
-S70214595	2020-06-08	Black Vulture	Coragyps atratus	7811	species	1	30.8521843	-96.9646877	Traveling	1	0
-S71611593	2020-07-18	American Robin	Turdus migratorius	28633	species	4	30.8615296	-96.9637974	Traveling	1	0
-S70214595	2020-06-08	Northern Cardinal	Cardinalis cardinalis	34515	species	1	30.8521843	-96.9646877	Traveling	1	0
-S69859209	2020-05-30	Black Vulture	Coragyps atratus	7811	species	2	30.8497181	-96.9759510	Traveling	1	0
-S69859209	2020-05-30	White-winged Dove	Zenaida asiatica	2389	species	1	30.8497181	-96.9759510	Traveling	1	0
-S69859209	2020-05-30	Turkey Vulture	Cathartes aura	7815	species	1	30.8497181	-96.9759510	Traveling	1	0
-S69859209	2020-05-30	House Sparrow	Passer domesticus	31534	species	3	30.8497181	-96.9759510	Traveling	1	0
-S71788528	2020-07-23	American Robin	Turdus migratorius	28633	species	3	30.8615296	-96.9637974	Traveling	1	0
-S65470740	2020-03-05	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8640740	-96.9850220	Traveling	1	0
-S65470740	2020-03-05	American Robin	Turdus migratorius	28633	species	4	30.8640740	-96.9850220	Traveling	1	0
-S69859209	2020-05-30	Red-shouldered Hawk	Buteo lineatus	8487	species	1	30.8497181	-96.9759510	Traveling	1	0
-S69859209	2020-05-30	Common Grackle	Quiscalus quiscula	33853	species	1	30.8497181	-96.9759510	Traveling	1	0
-S71611593	2020-07-18	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	30.8615296	-96.9637974	Traveling	1	0
-S70214595	2020-06-08	European Starling	Sturnus vulgaris	27813	species	2	30.8521843	-96.9646877	Traveling	1	0
-S65470740	2020-03-05	Eastern Phoebe	Sayornis phoebe	17007	species	2	30.8640740	-96.9850220	Traveling	1	0
-S66906972	2020-04-10	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8526800	-96.9738610	Traveling	1	0
-S69859209	2020-05-30	Western Kingbird	Tyrannus verticalis	17467	species	3	30.8497181	-96.9759510	Traveling	1	0
-S70214465	2020-06-08	Turkey Vulture	Cathartes aura	7815	species	1	30.8497181	-96.9759510	Traveling	1	0
-S70214595	2020-06-08	swallow sp.	Hirundinidae sp.	24305	spuh	5	30.8521843	-96.9646877	Traveling	1	0
-S70214595	2020-06-08	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8521843	-96.9646877	Traveling	1	0
-S70214595	2020-06-08	White-winged Dove	Zenaida asiatica	2389	species	1	30.8521843	-96.9646877	Traveling	1	0
-S65470740	2020-03-05	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	30.8640740	-96.9850220	Traveling	1	0
-S66906972	2020-04-10	Common Grackle	Quiscalus quiscula	33853	species	1	30.8526800	-96.9738610	Traveling	1	0
-S66906972	2020-04-10	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	4	30.8526800	-96.9738610	Traveling	1	0
-S89681211	2021-06-02	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	30.8616960	-96.9635020	Stationary	1	0
-S81493417	2021-02-13	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8616960	-96.9635020	Stationary	1	0
-S78395354	2021-01-01	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8505690	-96.9766180	Traveling	1	0
-S82747840	2021-03-04	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	30.8525800	-96.9739140	Stationary	1	0
-S81493417	2021-02-13	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	30.8616960	-96.9635020	Stationary	1	0
-S89681211	2021-06-02	Blue Jay	Cyanocitta cristata	21294	species	2	30.8616960	-96.9635020	Stationary	1	0
-S81009896	2021-02-12	Eastern Phoebe	Sayornis phoebe	17007	species	3	30.8616960	-96.9635020	Stationary	1	0
-S82747840	2021-03-04	American Robin	Turdus migratorius	28633	species	5	30.8525800	-96.9739140	Stationary	1	0
-S82747840	2021-03-04	Carolina Wren	Thryothorus ludovicianus	27348	species	1	30.8525800	-96.9739140	Stationary	1	0
-S93080626	2021-08-11	Crested Caracara	Caracara plancus	11963	issf	1	30.8515361	-96.9685892	Traveling	1	0
-S82747840	2021-03-04	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8525800	-96.9739140	Stationary	1	0
-S78395354	2021-01-01	House Sparrow	Passer domesticus	31534	species	12	30.8505690	-96.9766180	Traveling	1	0
-S81495225	2021-02-07	American Robin	Turdus migratorius	28633	species	12	30.8616960	-96.9635020	Stationary	1	0
-S82747840	2021-03-04	American Goldfinch	Spinus tristis	32617	species	1	30.8525800	-96.9739140	Stationary	1	0
-S81495225	2021-02-07	Eastern Phoebe	Sayornis phoebe	17007	species	1	30.8616960	-96.9635020	Stationary	1	0
-S93080626	2021-08-11	Black Vulture	Coragyps atratus	7811	species	3	30.8515361	-96.9685892	Traveling	1	0
-S81494198	2021-02-14	Eastern Phoebe	Sayornis phoebe	17007	species	3	30.8616960	-96.9635020	Stationary	1	0
-S93080626	2021-08-11	Turkey Vulture	Cathartes aura	7815	species	16	30.8515361	-96.9685892	Traveling	1	0
-S81495225	2021-02-07	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8616960	-96.9635020	Stationary	1	0
-S82747840	2021-03-04	House Sparrow	Passer domesticus	31534	species	2	30.8525800	-96.9739140	Stationary	1	0
-S81009896	2021-02-12	Chipping Sparrow	Spizella passerina	32990	species	1	30.8616960	-96.9635020	Stationary	1	0
-S93080626	2021-08-11	Common Grackle	Quiscalus quiscula	33853	species	1	30.8515361	-96.9685892	Traveling	1	0
-S81493417	2021-02-13	American Robin	Turdus migratorius	28633	species	4	30.8616960	-96.9635020	Stationary	1	0
-S82747840	2021-03-04	Tufted Titmouse	Baeolophus bicolor	22160	species	1	30.8525800	-96.9739140	Stationary	1	0
-S93080626	2021-08-11	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8515361	-96.9685892	Traveling	1	0
-S81493417	2021-02-13	Eastern Phoebe	Sayornis phoebe	17007	species	4	30.8616960	-96.9635020	Stationary	1	0
-S93080626	2021-08-11	European Starling	Sturnus vulgaris	27813	species	1	30.8515361	-96.9685892	Traveling	1	0
-S81009896	2021-02-12	Crested Caracara	Caracara plancus	11963	issf	2	30.8616960	-96.9635020	Stationary	1	0
-S81494198	2021-02-14	American Robin	Turdus migratorius	28633	species	1	30.8616960	-96.9635020	Stationary	1	0
-S78395354	2021-01-01	American Kestrel	Falco sparverius	12028	species	1	30.8505690	-96.9766180	Traveling	1	0
-S93080626	2021-08-11	Mississippi Kite	Ictinia mississippiensis	8388	species	1	30.8515361	-96.9685892	Traveling	1	0
-S78395354	2021-01-01	Black Vulture	Coragyps atratus	7811	species	2	30.8505690	-96.9766180	Traveling	1	0
-S89681211	2021-06-02	Mourning Dove	Zenaida macroura	2412	species	3	30.8616960	-96.9635020	Stationary	1	0
-S89681211	2021-06-02	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	30.8616960	-96.9635020	Stationary	1	0
-S116026364	2022-07-30	European Starling	Sturnus vulgaris	27813	species	1	30.8602119	-96.9735228	Traveling	1	0
-S109869120	2022-05-13	Black Vulture	Coragyps atratus	7811	species	1	30.8518840	-96.9762250	Traveling	1	0
-S114722270	2022-07-09	Barn Swallow	Hirundo rustica	24187	species	4	30.8504330	-96.9758850	Traveling	1	0
-S116026364	2022-07-30	House Sparrow	Passer domesticus	31534	species	6	30.8602119	-96.9735228	Traveling	1	0
-S109869120	2022-05-13	Common Grackle	Quiscalus quiscula	33853	species	3	30.8518840	-96.9762250	Traveling	1	0
-S116026364	2022-07-30	Tufted Titmouse	Baeolophus bicolor	22160	species	1	30.8602119	-96.9735228	Traveling	1	0
-S114722270	2022-07-09	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8504330	-96.9758850	Traveling	1	0
-S116026364	2022-07-30	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8602119	-96.9735228	Traveling	1	0
-S109869120	2022-05-13	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	5	30.8518840	-96.9762250	Traveling	1	0
-S114722270	2022-07-09	Mourning Dove	Zenaida macroura	2412	species	2	30.8504330	-96.9758850	Traveling	1	0
-S109869120	2022-05-13	Northern Cardinal	Cardinalis cardinalis	34515	species	3	30.8518840	-96.9762250	Traveling	1	0
-S116026364	2022-07-30	Carolina Wren	Thryothorus ludovicianus	27348	species	1	30.8602119	-96.9735228	Traveling	1	0
-S109869120	2022-05-13	House Sparrow	Passer domesticus	31534	species	15	30.8518840	-96.9762250	Traveling	1	0
-S116026364	2022-07-30	Carolina Chickadee	Poecile carolinensis	22060	species	1	30.8602119	-96.9735228	Traveling	1	0
-S109869120	2022-05-13	Mourning Dove	Zenaida macroura	2412	species	4	30.8518840	-96.9762250	Traveling	1	0
-S109869120	2022-05-13	White-winged Dove	Zenaida asiatica	2389	species	1	30.8518840	-96.9762250	Traveling	1	0
-S109869120	2022-05-13	European Starling	Sturnus vulgaris	27813	species	13	30.8518840	-96.9762250	Traveling	1	0
-S109869120	2022-05-13	Turkey Vulture	Cathartes aura	7815	species	2	30.8518840	-96.9762250	Traveling	1	0
-S116026364	2022-07-30	American Crow	Corvus brachyrhynchos	21557	species	1	30.8602119	-96.9735228	Traveling	1	0
-S116026364	2022-07-30	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	30.8602119	-96.9735228	Traveling	1	0
-S114722270	2022-07-09	Turkey Vulture	Cathartes aura	7815	species	2	30.8504330	-96.9758850	Traveling	1	0
-S116026364	2022-07-30	Northern Cardinal	Cardinalis cardinalis	34515	species	3	30.8602119	-96.9735228	Traveling	1	0
-S114722270	2022-07-09	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8504330	-96.9758850	Traveling	1	0
-S114722270	2022-07-09	House Sparrow	Passer domesticus	31534	species	2	30.8504330	-96.9758850	Traveling	1	0
-S109869120	2022-05-13	Barn Swallow	Hirundo rustica	24195	issf	6	30.8518840	-96.9762250	Traveling	1	0
-S116026364	2022-07-30	Mississippi Kite	Ictinia mississippiensis	8388	species	1	30.8602119	-96.9735228	Traveling	1	0
-S114722270	2022-07-09	Carolina Chickadee	Poecile carolinensis	22060	species	4	30.8504330	-96.9758850	Traveling	1	0
-S109869120	2022-05-13	Western Kingbird	Tyrannus verticalis	17467	species	5	30.8518840	-96.9762250	Traveling	1	0
-S109869120	2022-05-13	Northern Mockingbird	Mimus polyglottos	28114	species	4	30.8518840	-96.9762250	Traveling	1	0
-S155289693	2023-11-26	House Sparrow	Passer domesticus	31534	species	1	30.8479047	-96.9670651	Traveling	1	0
-S134005555	2023-04-15	House Sparrow	Passer domesticus	31534	species	6	30.8494830	-96.9769840	Stationary	1	0
-S134005555	2023-04-15	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8494830	-96.9769840	Stationary	1	0
-S155289693	2023-11-26	Red-winged Blackbird	Agelaius phoeniceus	33779	species	220	30.8479047	-96.9670651	Traveling	1	0
-S155289693	2023-11-26	American Kestrel	Falco sparverius	12028	species	1	30.8479047	-96.9670651	Traveling	1	0
-S155289693	2023-11-26	Pied-billed Grebe	Podilymbus podiceps	6855	species	3	30.8479047	-96.9670651	Traveling	1	0
-S134005555	2023-04-15	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	2	30.8494830	-96.9769840	Stationary	1	0
-S155289693	2023-11-26	Crested Caracara	Caracara plancus	11962	species	1	30.8479047	-96.9670651	Traveling	1	0
-S155289693	2023-11-26	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	30.8479047	-96.9670651	Traveling	1	0
-S155289693	2023-11-26	Northern Mockingbird	Mimus polyglottos	28114	species	3	30.8479047	-96.9670651	Traveling	1	0
-S155289693	2023-11-26	Black Vulture	Coragyps atratus	7811	species	16	30.8479047	-96.9670651	Traveling	1	0
-S155289693	2023-11-26	American Crow	Corvus brachyrhynchos	21557	species	3	30.8479047	-96.9670651	Traveling	1	0
-S155289693	2023-11-26	Turkey Vulture	Cathartes aura	7815	species	4	30.8479047	-96.9670651	Traveling	1	0
-S155289693	2023-11-26	Eastern Bluebird	Sialia sialis	28126	species	1	30.8479047	-96.9670651	Traveling	1	0
-S167767955	2024-04-08	House Sparrow	Passer domesticus	31534	species	4	30.8498640	-96.9769330	Traveling	1	0
-S167767955	2024-04-08	Turkey Vulture	Cathartes aura	7815	species	1	30.8498640	-96.9769330	Traveling	1	0
-S167767955	2024-04-08	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8498640	-96.9769330	Traveling	1	0
-S167767955	2024-04-08	Rock Pigeon	Columba livia	1868	domestic	5	30.8498640	-96.9769330	Traveling	1	0
-S276831888	2025-10-02	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	House Sparrow	Passer domesticus	31534	species	12	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	Eastern Phoebe	Sayornis phoebe	17007	species	1	30.8500480	-96.9761310	Traveling	1	0
-S244655131	2025-05-30	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8527400	-96.9737580	Stationary	1	0
-S258772419	2025-07-10	American Robin	Turdus migratorius	28633	species	1	30.8510067	-96.9789577	Traveling	1	0
-S243150928	2025-05-24	European Starling	Sturnus vulgaris	27813	species	2	30.8510067	-96.9789577	Traveling	1	0
-S239292243	2025-05-17	White-winged Dove	Zenaida asiatica	2389	species	2	30.8670397	-96.9730392	Stationary	1	0
-S239292243	2025-05-17	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	30.8670397	-96.9730392	Stationary	1	0
-S276831888	2025-10-02	Turkey Vulture	Cathartes aura	7815	species	1	30.8500480	-96.9761310	Traveling	1	0
-S243150928	2025-05-24	House Sparrow	Passer domesticus	31534	species	16	30.8510067	-96.9789577	Traveling	1	0
-S276831888	2025-10-02	Northern Cardinal	Cardinalis cardinalis	34515	species	4	30.8500480	-96.9761310	Traveling	1	0
-S244655131	2025-05-30	House Sparrow	Passer domesticus	31534	species	4	30.8527400	-96.9737580	Stationary	1	0
-S276831888	2025-10-02	European Starling	Sturnus vulgaris	27813	species	1	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	Northern Mockingbird	Mimus polyglottos	28114	species	7	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	Black Vulture	Coragyps atratus	7811	species	5	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	Inca Dove	Columbina inca	2242	species	1	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	White-winged Dove	Zenaida asiatica	2389	species	25	30.8500480	-96.9761310	Traveling	1	0
-S243150928	2025-05-24	Turkey Vulture	Cathartes aura	7815	species	1	30.8510067	-96.9789577	Traveling	1	0
-S239292243	2025-05-17	Western Kingbird	Tyrannus verticalis	17467	species	1	30.8670397	-96.9730392	Stationary	1	0
-S276831888	2025-10-02	Dickcissel	Spiza americana	34627	species	1	30.8500480	-96.9761310	Traveling	1	0
-S243150928	2025-05-24	White-winged Dove	Zenaida asiatica	2389	species	2	30.8510067	-96.9789577	Traveling	1	0
-S276831888	2025-10-02	Blue Jay	Cyanocitta cristata	21294	species	3	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	Killdeer	Charadrius vociferus	5827	species	1	30.8500480	-96.9761310	Traveling	1	0
-S258772419	2025-07-10	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8510067	-96.9789577	Traveling	1	0
-S239292243	2025-05-17	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8670397	-96.9730392	Stationary	1	0
-S243150928	2025-05-24	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	30.8510067	-96.9789577	Traveling	1	0
-S258772419	2025-07-10	Mourning Dove	Zenaida macroura	2412	species	1	30.8510067	-96.9789577	Traveling	1	0
-S276831888	2025-10-02	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	Carolina Wren	Thryothorus ludovicianus	27348	species	1	30.8500480	-96.9761310	Traveling	1	0
-S244655131	2025-05-30	European Starling	Sturnus vulgaris	27813	species	2	30.8527400	-96.9737580	Stationary	1	0
-S239292243	2025-05-17	Chimney Swift	Chaetura pelagica	3896	species	1	30.8670397	-96.9730392	Stationary	1	0
-S258772419	2025-07-10	House Sparrow	Passer domesticus	31534	species	7	30.8510067	-96.9789577	Traveling	1	0
-S244655131	2025-05-30	Barn Swallow	Hirundo rustica	24187	species	1	30.8527400	-96.9737580	Stationary	1	0
-S239292243	2025-05-17	House Sparrow	Passer domesticus	31534	species	6	30.8670397	-96.9730392	Stationary	1	0
-S239292243	2025-05-17	Turkey Vulture	Cathartes aura	7815	species	1	30.8670397	-96.9730392	Stationary	1	0
-S276831888	2025-10-02	Rock Pigeon	Columba livia	1868	domestic	20	30.8500480	-96.9761310	Traveling	1	0
-S239292243	2025-05-17	European Starling	Sturnus vulgaris	27813	species	2	30.8670397	-96.9730392	Stationary	1	0
-S276831888	2025-10-02	Carolina Chickadee	Poecile carolinensis	22060	species	2	30.8500480	-96.9761310	Traveling	1	0
-S276831888	2025-10-02	Mourning Dove	Zenaida macroura	2412	species	1	30.8500480	-96.9761310	Traveling	1	0
-S239292243	2025-05-17	Mississippi Kite	Ictinia mississippiensis	8388	species	2	30.8670397	-96.9730392	Stationary	1	0
-S276831888	2025-10-02	Downy Woodpecker	Dryobates pubescens	11400	species	2	30.8500480	-96.9761310	Traveling	1	0
-S258772419	2025-07-10	Mississippi Kite	Ictinia mississippiensis	8388	species	4	30.8510067	-96.9789577	Traveling	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S21770114	2015-02-11	L3353551	pecan house	House Finch	Haemorhous mexicanus	32310	species	3	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Tufted Titmouse	Baeolophus bicolor	22160	species	2	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Carolina Chickadee	Poecile carolinensis	22060	species	1	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	House Sparrow	Passer domesticus	31534	species	5	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Black Vulture	Coragyps atratus	7811	species	4	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Downy Woodpecker	Dryobates pubescens	11400	species	1	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Killdeer	Charadrius vociferus	5827	species	1	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Red-shouldered Hawk	Buteo lineatus	8487	species	1	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Yellow-rumped Warbler	Setophaga coronata	34159	species	7	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Mourning Dove	Zenaida macroura	2412	species	1	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Chipping Sparrow	Spizella passerina	32990	species	54	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	Blue Jay	Cyanocitta cristata	21294	species	2	30.8500687	-96.9745588	Stationary	1	0
+S21770114	2015-02-11	L3353551	pecan house	European Starling	Sturnus vulgaris	27813	species	3	30.8500687	-96.9745588	Stationary	1	0
+S38703346	2017-08-18	L2321029	Milam Co, Tx	Mourning Dove	Zenaida macroura	2412	species	2	30.8650996	-96.9735718	Traveling	1	0
+S38703346	2017-08-18	L2321029	Milam Co, Tx	European Starling	Sturnus vulgaris	27813	species	2	30.8650996	-96.9735718	Traveling	1	0
+S38703346	2017-08-18	L2321029	Milam Co, Tx	Turkey Vulture	Cathartes aura	7815	species	5	30.8650996	-96.9735718	Traveling	1	0
+S38703346	2017-08-18	L2321029	Milam Co, Tx	Barn Swallow	Hirundo rustica	24187	species	3	30.8650996	-96.9735718	Traveling	1	0
+S56965960	2019-06-01	L9387262	104 West 1st Street, Cameron, Texas, US (30.85, -96.977)	Blue Jay	Cyanocitta cristata	21294	species	1	30.8503081	-96.9767867	Stationary	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	American Crow	Corvus brachyrhynchos	21557	species	5	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	American Pipit	Anthus rubescens	31883	species	23	30.8645380	-96.9653910	Traveling	1	0
+S56965960	2019-06-01	L9387262	104 West 1st Street, Cameron, Texas, US (30.85, -96.977)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	30.8503081	-96.9767867	Stationary	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Lark Sparrow	Chondestes grammacus	33029	species	1	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Carolina Chickadee	Poecile carolinensis	22060	species	2	30.8645380	-96.9653910	Traveling	1	0
+S56965960	2019-06-01	L9387262	104 West 1st Street, Cameron, Texas, US (30.85, -96.977)	Common Grackle	Quiscalus quiscula	33853	species	4	30.8503081	-96.9767867	Stationary	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Savannah Sparrow	Passerculus sandwichensis	33244	species	8	30.8645380	-96.9653910	Traveling	1	0
+S56965960	2019-06-01	L9387262	104 West 1st Street, Cameron, Texas, US (30.85, -96.977)	Barn Swallow	Hirundo rustica	24187	species	7	30.8503081	-96.9767867	Stationary	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Black Vulture	Coragyps atratus	7811	species	4	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	American Goldfinch	Spinus tristis	32617	species	35	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Gadwall	Mareca strepera	505	species	3	30.8645380	-96.9653910	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	House Sparrow	Passer domesticus	31534	species	3	30.8424320	-96.9843560	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Eastern Meadowlark	Sturnella magna	33568	species	16	30.8645380	-96.9653910	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	Turkey Vulture	Cathartes aura	7815	species	3	30.8424320	-96.9843560	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	European Starling	Sturnus vulgaris	27813	species	65	30.8645380	-96.9653910	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	Barn Swallow	Hirundo rustica	24187	species	5	30.8424320	-96.9843560	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Turkey Vulture	Cathartes aura	7815	species	18	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Mallard	Anas platyrhynchos	545	species	2	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Double-crested Cormorant	Nannopterum auritum	7424	species	1	30.8645380	-96.9653910	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	69	30.8424320	-96.9843560	Traveling	1	1
+S56965960	2019-06-01	L9387262	104 West 1st Street, Cameron, Texas, US (30.85, -96.977)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	30.8503081	-96.9767867	Stationary	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Pied-billed Grebe	Podilymbus podiceps	6855	species	1	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Field Sparrow	Spizella pusilla	33002	species	5	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Crested Caracara	Caracara plancus	11963	issf	2	30.8645380	-96.9653910	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	Savannah Sparrow	Passerculus sandwichensis	33244	species	1	30.8424320	-96.9843560	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	Black Vulture	Coragyps atratus	7811	species	1	30.8424320	-96.9843560	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8424320	-96.9843560	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	Eastern Phoebe	Sayornis phoebe	17007	species	2	30.8424320	-96.9843560	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	American Kestrel	Falco sparverius	12028	species	3	30.8645380	-96.9653910	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Killdeer	Charadrius vociferus	5827	species	3	30.8645380	-96.9653910	Traveling	1	0
+S54489401	2019-04-02	L8961993	1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)	Chipping Sparrow	Spizella passerina	32990	species	7	30.8424320	-96.9843560	Traveling	1	0
+S51831991	2019-01-19	L8457544	703 E 21st St, Cameron US-TX (30.8645,-96.9654)	Purple Finch	Haemorhous purpureus	32324	species	1	30.8645380	-96.9653910	Traveling	1	1
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Downy Woodpecker	Dryobates pubescens	11400	species	1	30.8526800	-96.9738610	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Barn Swallow	Hirundo rustica	24187	species	5	30.8526800	-96.9738610	Traveling	1	0
+S71939203	2020-07-26	L11592688	yard	Bewick's Wren	Thryomanes bewickii	27362	species	2	30.8615296	-96.9637974	Traveling	1	0
+S70214465	2020-06-08	L11586473	Milam County Courthouse	Black Vulture	Coragyps atratus	7811	species	1	30.8497181	-96.9759510	Traveling	1	0
+S70240247	2020-06-06	L11592688	yard	American Robin	Turdus migratorius	28633	species	1	30.8615296	-96.9637974	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Killdeer	Charadrius vociferus	5827	species	1	30.8497181	-96.9759510	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	Blue Jay	Cyanocitta cristata	21294	species	1	30.8521843	-96.9646877	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	White-winged Dove	Zenaida asiatica	2389	species	1	30.8526800	-96.9738610	Traveling	1	0
+S63474130	2020-01-17	L10502894	1202 N Houston Ave, Cameron US-TX (30.8592,-96.9744)	Common Grackle	Quiscalus quiscula	33853	species	2	30.8591770	-96.9744050	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Yellow-rumped Warbler	Setophaga coronata	34159	species	4	30.8526800	-96.9738610	Traveling	1	0
+S70646068	2020-06-15	L11592688	yard	American Robin	Turdus migratorius	28633	species	1	30.8615296	-96.9637974	Traveling	1	0
+S70214465	2020-06-08	L11586473	Milam County Courthouse	White-winged Dove	Zenaida asiatica	2389	species	1	30.8497181	-96.9759510	Traveling	1	0
+S71788528	2020-07-23	L11592688	yard	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	30.8615296	-96.9637974	Traveling	1	0
+S65470740	2020-03-05	L10904872	76520, Cameron US-TX (30.8641,-96.9850)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	30.8640740	-96.9850220	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Rock Pigeon	Columba livia	1868	domestic	3	30.8497181	-96.9759510	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Barn Swallow	Hirundo rustica	24187	species	2	30.8497181	-96.9759510	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Purple Martin	Progne subis	24081	species	2	30.8497181	-96.9759510	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Chimney Swift	Chaetura pelagica	3896	species	1	30.8526800	-96.9738610	Traveling	1	0
+S71939203	2020-07-26	L11592688	yard	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	30.8615296	-96.9637974	Traveling	1	0
+S71939203	2020-07-26	L11592688	yard	American Robin	Turdus migratorius	28633	species	4	30.8615296	-96.9637974	Traveling	1	0
+S63474130	2020-01-17	L10502894	1202 N Houston Ave, Cameron US-TX (30.8592,-96.9744)	House Sparrow	Passer domesticus	31534	species	2	30.8591770	-96.9744050	Traveling	1	0
+S63474130	2020-01-17	L10502894	1202 N Houston Ave, Cameron US-TX (30.8592,-96.9744)	European Starling	Sturnus vulgaris	27813	species	20	30.8591770	-96.9744050	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Carolina Wren	Thryothorus ludovicianus	27348	species	1	30.8526800	-96.9738610	Traveling	1	0
+S70240399	2020-06-07	L11592688	yard	American Robin	Turdus migratorius	28633	species	2	30.8615296	-96.9637974	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	House Sparrow	Passer domesticus	31534	species	7	30.8526800	-96.9738610	Traveling	1	0
+S70646068	2020-06-15	L11592688	yard	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8615296	-96.9637974	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	Red-shouldered Hawk	Buteo lineatus	8487	species	1	30.8521843	-96.9646877	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	Turkey Vulture	Cathartes aura	7815	species	1	30.8521843	-96.9646877	Traveling	1	0
+S70214465	2020-06-08	L11586473	Milam County Courthouse	Western Kingbird	Tyrannus verticalis	17467	species	2	30.8497181	-96.9759510	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Northern Cardinal	Cardinalis cardinalis	34515	species	5	30.8526800	-96.9738610	Traveling	1	0
+S71939203	2020-07-26	L11592688	yard	House Sparrow	Passer domesticus	31534	species	2	30.8615296	-96.9637974	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	American Robin	Turdus migratorius	28633	species	1	30.8526800	-96.9738610	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	House Finch	Haemorhous mexicanus	32310	species	1	30.8497181	-96.9759510	Traveling	1	0
+S65470740	2020-03-05	L10904872	76520, Cameron US-TX (30.8641,-96.9850)	Mourning Dove	Zenaida macroura	2412	species	2	30.8640740	-96.9850220	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	Barn Swallow	Hirundo rustica	24187	species	1	30.8521843	-96.9646877	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Mourning Dove	Zenaida macroura	2412	species	2	30.8526800	-96.9738610	Traveling	1	0
+S65470740	2020-03-05	L10904872	76520, Cameron US-TX (30.8641,-96.9850)	Turkey Vulture	Cathartes aura	7815	species	1	30.8640740	-96.9850220	Traveling	1	0
+S65470740	2020-03-05	L10904872	76520, Cameron US-TX (30.8641,-96.9850)	Chipping Sparrow	Spizella passerina	32990	species	8	30.8640740	-96.9850220	Traveling	1	0
+S70214465	2020-06-08	L11586473	Milam County Courthouse	Barn Swallow	Hirundo rustica	24187	species	1	30.8497181	-96.9759510	Traveling	1	0
+S70214465	2020-06-08	L11586473	Milam County Courthouse	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	30.8497181	-96.9759510	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	30.8497181	-96.9759510	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	European Starling	Sturnus vulgaris	27813	species	8	30.8526800	-96.9738610	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8497181	-96.9759510	Traveling	1	0
+S71788528	2020-07-23	L11592688	yard	Bewick's Wren	Thryomanes bewickii	27362	species	2	30.8615296	-96.9637974	Traveling	1	0
+S71611593	2020-07-18	L11592688	yard	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8615296	-96.9637974	Traveling	1	0
+S70240247	2020-06-06	L11592688	yard	Northern Cardinal	Cardinalis cardinalis	34515	species	1	30.8615296	-96.9637974	Traveling	1	0
+S70214465	2020-06-08	L11586473	Milam County Courthouse	Mourning Dove	Zenaida macroura	2412	species	1	30.8497181	-96.9759510	Traveling	1	0
+S63474130	2020-01-17	L10502894	1202 N Houston Ave, Cameron US-TX (30.8592,-96.9744)	Black Vulture	Coragyps atratus	7811	species	2	30.8591770	-96.9744050	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	Black Vulture	Coragyps atratus	7811	species	1	30.8521843	-96.9646877	Traveling	1	0
+S71611593	2020-07-18	L11592688	yard	American Robin	Turdus migratorius	28633	species	4	30.8615296	-96.9637974	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	Northern Cardinal	Cardinalis cardinalis	34515	species	1	30.8521843	-96.9646877	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Black Vulture	Coragyps atratus	7811	species	2	30.8497181	-96.9759510	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	White-winged Dove	Zenaida asiatica	2389	species	1	30.8497181	-96.9759510	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Turkey Vulture	Cathartes aura	7815	species	1	30.8497181	-96.9759510	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	House Sparrow	Passer domesticus	31534	species	3	30.8497181	-96.9759510	Traveling	1	0
+S71788528	2020-07-23	L11592688	yard	American Robin	Turdus migratorius	28633	species	3	30.8615296	-96.9637974	Traveling	1	0
+S65470740	2020-03-05	L10904872	76520, Cameron US-TX (30.8641,-96.9850)	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8640740	-96.9850220	Traveling	1	0
+S65470740	2020-03-05	L10904872	76520, Cameron US-TX (30.8641,-96.9850)	American Robin	Turdus migratorius	28633	species	4	30.8640740	-96.9850220	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Red-shouldered Hawk	Buteo lineatus	8487	species	1	30.8497181	-96.9759510	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Common Grackle	Quiscalus quiscula	33853	species	1	30.8497181	-96.9759510	Traveling	1	0
+S71611593	2020-07-18	L11592688	yard	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	30.8615296	-96.9637974	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	European Starling	Sturnus vulgaris	27813	species	2	30.8521843	-96.9646877	Traveling	1	0
+S65470740	2020-03-05	L10904872	76520, Cameron US-TX (30.8641,-96.9850)	Eastern Phoebe	Sayornis phoebe	17007	species	2	30.8640740	-96.9850220	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8526800	-96.9738610	Traveling	1	0
+S69859209	2020-05-30	L11586473	Milam County Courthouse	Western Kingbird	Tyrannus verticalis	17467	species	3	30.8497181	-96.9759510	Traveling	1	0
+S70214465	2020-06-08	L11586473	Milam County Courthouse	Turkey Vulture	Cathartes aura	7815	species	1	30.8497181	-96.9759510	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	swallow sp.	Hirundinidae sp.	24305	spuh	5	30.8521843	-96.9646877	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8521843	-96.9646877	Traveling	1	0
+S70214595	2020-06-08	L11653113	Orchard Park	White-winged Dove	Zenaida asiatica	2389	species	1	30.8521843	-96.9646877	Traveling	1	0
+S65470740	2020-03-05	L10904872	76520, Cameron US-TX (30.8641,-96.9850)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	30.8640740	-96.9850220	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Common Grackle	Quiscalus quiscula	33853	species	1	30.8526800	-96.9738610	Traveling	1	0
+S66906972	2020-04-10	L11121822	N Lamar Ave, Cameron US-TX 30.85268, -96.97386	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	4	30.8526800	-96.9738610	Traveling	1	0
+S89681211	2021-06-02	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	30.8616960	-96.9635020	Stationary	1	0
+S81493417	2021-02-13	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8616960	-96.9635020	Stationary	1	0
+S78395354	2021-01-01	L13111112	101–199 W First St, Cameron US-TX 30.85057, -96.97662	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8505690	-96.9766180	Traveling	1	0
+S82747840	2021-03-04	L13914837	N Lamar Ave, Cameron US-TX 30.85258, -96.97391	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	30.8525800	-96.9739140	Stationary	1	0
+S81493417	2021-02-13	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	30.8616960	-96.9635020	Stationary	1	0
+S89681211	2021-06-02	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Blue Jay	Cyanocitta cristata	21294	species	2	30.8616960	-96.9635020	Stationary	1	0
+S81009896	2021-02-12	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Eastern Phoebe	Sayornis phoebe	17007	species	3	30.8616960	-96.9635020	Stationary	1	0
+S82747840	2021-03-04	L13914837	N Lamar Ave, Cameron US-TX 30.85258, -96.97391	American Robin	Turdus migratorius	28633	species	5	30.8525800	-96.9739140	Stationary	1	0
+S82747840	2021-03-04	L13914837	N Lamar Ave, Cameron US-TX 30.85258, -96.97391	Carolina Wren	Thryothorus ludovicianus	27348	species	1	30.8525800	-96.9739140	Stationary	1	0
+S93080626	2021-08-11	L16074297	190 Cameron	Crested Caracara	Caracara plancus	11963	issf	1	30.8515361	-96.9685892	Traveling	1	0
+S82747840	2021-03-04	L13914837	N Lamar Ave, Cameron US-TX 30.85258, -96.97391	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8525800	-96.9739140	Stationary	1	0
+S78395354	2021-01-01	L13111112	101–199 W First St, Cameron US-TX 30.85057, -96.97662	House Sparrow	Passer domesticus	31534	species	12	30.8505690	-96.9766180	Traveling	1	0
+S81495225	2021-02-07	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	American Robin	Turdus migratorius	28633	species	12	30.8616960	-96.9635020	Stationary	1	0
+S82747840	2021-03-04	L13914837	N Lamar Ave, Cameron US-TX 30.85258, -96.97391	American Goldfinch	Spinus tristis	32617	species	1	30.8525800	-96.9739140	Stationary	1	0
+S81495225	2021-02-07	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Eastern Phoebe	Sayornis phoebe	17007	species	1	30.8616960	-96.9635020	Stationary	1	0
+S93080626	2021-08-11	L16074297	190 Cameron	Black Vulture	Coragyps atratus	7811	species	3	30.8515361	-96.9685892	Traveling	1	0
+S81494198	2021-02-14	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Eastern Phoebe	Sayornis phoebe	17007	species	3	30.8616960	-96.9635020	Stationary	1	0
+S93080626	2021-08-11	L16074297	190 Cameron	Turkey Vulture	Cathartes aura	7815	species	16	30.8515361	-96.9685892	Traveling	1	0
+S81495225	2021-02-07	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8616960	-96.9635020	Stationary	1	0
+S82747840	2021-03-04	L13914837	N Lamar Ave, Cameron US-TX 30.85258, -96.97391	House Sparrow	Passer domesticus	31534	species	2	30.8525800	-96.9739140	Stationary	1	0
+S81009896	2021-02-12	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Chipping Sparrow	Spizella passerina	32990	species	1	30.8616960	-96.9635020	Stationary	1	0
+S93080626	2021-08-11	L16074297	190 Cameron	Common Grackle	Quiscalus quiscula	33853	species	1	30.8515361	-96.9685892	Traveling	1	0
+S81493417	2021-02-13	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	American Robin	Turdus migratorius	28633	species	4	30.8616960	-96.9635020	Stationary	1	0
+S82747840	2021-03-04	L13914837	N Lamar Ave, Cameron US-TX 30.85258, -96.97391	Tufted Titmouse	Baeolophus bicolor	22160	species	1	30.8525800	-96.9739140	Stationary	1	0
+S93080626	2021-08-11	L16074297	190 Cameron	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8515361	-96.9685892	Traveling	1	0
+S81493417	2021-02-13	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Eastern Phoebe	Sayornis phoebe	17007	species	4	30.8616960	-96.9635020	Stationary	1	0
+S93080626	2021-08-11	L16074297	190 Cameron	European Starling	Sturnus vulgaris	27813	species	1	30.8515361	-96.9685892	Traveling	1	0
+S81009896	2021-02-12	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Crested Caracara	Caracara plancus	11963	issf	2	30.8616960	-96.9635020	Stationary	1	0
+S81494198	2021-02-14	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	American Robin	Turdus migratorius	28633	species	1	30.8616960	-96.9635020	Stationary	1	0
+S78395354	2021-01-01	L13111112	101–199 W First St, Cameron US-TX 30.85057, -96.97662	American Kestrel	Falco sparverius	12028	species	1	30.8505690	-96.9766180	Traveling	1	0
+S93080626	2021-08-11	L16074297	190 Cameron	Mississippi Kite	Ictinia mississippiensis	8388	species	1	30.8515361	-96.9685892	Traveling	1	0
+S78395354	2021-01-01	L13111112	101–199 W First St, Cameron US-TX 30.85057, -96.97662	Black Vulture	Coragyps atratus	7811	species	2	30.8505690	-96.9766180	Traveling	1	0
+S89681211	2021-06-02	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Mourning Dove	Zenaida macroura	2412	species	3	30.8616960	-96.9635020	Stationary	1	0
+S89681211	2021-06-02	L13597600	906 E 18th St, Cameron US-TX 30.86170, -96.96350	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	30.8616960	-96.9635020	Stationary	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	European Starling	Sturnus vulgaris	27813	species	1	30.8602119	-96.9735228	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Black Vulture	Coragyps atratus	7811	species	1	30.8518840	-96.9762250	Traveling	1	0
+S114722270	2022-07-09	L20056266	Milam Courthouse Cameron US-TX 30.85043, -96.97589	Barn Swallow	Hirundo rustica	24187	species	4	30.8504330	-96.9758850	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	House Sparrow	Passer domesticus	31534	species	6	30.8602119	-96.9735228	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Common Grackle	Quiscalus quiscula	33853	species	3	30.8518840	-96.9762250	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	Tufted Titmouse	Baeolophus bicolor	22160	species	1	30.8602119	-96.9735228	Traveling	1	0
+S114722270	2022-07-09	L20056266	Milam Courthouse Cameron US-TX 30.85043, -96.97589	Northern Cardinal	Cardinalis cardinalis	34515	species	2	30.8504330	-96.9758850	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	Northern Mockingbird	Mimus polyglottos	28114	species	2	30.8602119	-96.9735228	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	5	30.8518840	-96.9762250	Traveling	1	0
+S114722270	2022-07-09	L20056266	Milam Courthouse Cameron US-TX 30.85043, -96.97589	Mourning Dove	Zenaida macroura	2412	species	2	30.8504330	-96.9758850	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Northern Cardinal	Cardinalis cardinalis	34515	species	3	30.8518840	-96.9762250	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	30.8602119	-96.9735228	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	House Sparrow	Passer domesticus	31534	species	15	30.8518840	-96.9762250	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	Carolina Chickadee	Poecile carolinensis	22060	species	1	30.8602119	-96.9735228	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Mourning Dove	Zenaida macroura	2412	species	4	30.8518840	-96.9762250	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	White-winged Dove	Zenaida asiatica	2389	species	1	30.8518840	-96.9762250	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	European Starling	Sturnus vulgaris	27813	species	13	30.8518840	-96.9762250	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Turkey Vulture	Cathartes aura	7815	species	2	30.8518840	-96.9762250	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	American Crow	Corvus brachyrhynchos	21557	species	1	30.8602119	-96.9735228	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	30.8602119	-96.9735228	Traveling	1	0
+S114722270	2022-07-09	L20056266	Milam Courthouse Cameron US-TX 30.85043, -96.97589	Turkey Vulture	Cathartes aura	7815	species	2	30.8504330	-96.9758850	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	Northern Cardinal	Cardinalis cardinalis	34515	species	3	30.8602119	-96.9735228	Traveling	1	0
+S114722270	2022-07-09	L20056266	Milam Courthouse Cameron US-TX 30.85043, -96.97589	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8504330	-96.9758850	Traveling	1	0
+S114722270	2022-07-09	L20056266	Milam Courthouse Cameron US-TX 30.85043, -96.97589	House Sparrow	Passer domesticus	31534	species	2	30.8504330	-96.9758850	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Barn Swallow	Hirundo rustica	24195	issf	6	30.8518840	-96.9762250	Traveling	1	0
+S116026364	2022-07-30	L20355233	1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)	Mississippi Kite	Ictinia mississippiensis	8388	species	1	30.8602119	-96.9735228	Traveling	1	0
+S114722270	2022-07-09	L20056266	Milam Courthouse Cameron US-TX 30.85043, -96.97589	Carolina Chickadee	Poecile carolinensis	22060	species	4	30.8504330	-96.9758850	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Western Kingbird	Tyrannus verticalis	17467	species	5	30.8518840	-96.9762250	Traveling	1	0
+S109869120	2022-05-13	L19008299	204 N Central Ave, Cameron US-TX 30.85188, -96.97623	Northern Mockingbird	Mimus polyglottos	28114	species	4	30.8518840	-96.9762250	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	House Sparrow	Passer domesticus	31534	species	1	30.8479047	-96.9670651	Traveling	1	0
+S134005555	2023-04-15	L23643614	206 coffee shop on S Central Ave, Cameron US-TX	House Sparrow	Passer domesticus	31534	species	6	30.8494830	-96.9769840	Stationary	1	0
+S134005555	2023-04-15	L23643614	206 coffee shop on S Central Ave, Cameron US-TX	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8494830	-96.9769840	Stationary	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	220	30.8479047	-96.9670651	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	American Kestrel	Falco sparverius	12028	species	1	30.8479047	-96.9670651	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	Pied-billed Grebe	Podilymbus podiceps	6855	species	3	30.8479047	-96.9670651	Traveling	1	0
+S134005555	2023-04-15	L23643614	206 coffee shop on S Central Ave, Cameron US-TX	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	2	30.8494830	-96.9769840	Stationary	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	Crested Caracara	Caracara plancus	11962	species	1	30.8479047	-96.9670651	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	30.8479047	-96.9670651	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	Northern Mockingbird	Mimus polyglottos	28114	species	3	30.8479047	-96.9670651	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	Black Vulture	Coragyps atratus	7811	species	16	30.8479047	-96.9670651	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	American Crow	Corvus brachyrhynchos	21557	species	3	30.8479047	-96.9670651	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	Turkey Vulture	Cathartes aura	7815	species	4	30.8479047	-96.9670651	Traveling	1	0
+S155289693	2023-11-26	L28098856	1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)	Eastern Bluebird	Sialia sialis	28126	species	1	30.8479047	-96.9670651	Traveling	1	0
+S167767955	2024-04-08	L30459889	105 W Main St, Cameron US-TX 30.84986, -96.97693	House Sparrow	Passer domesticus	31534	species	4	30.8498640	-96.9769330	Traveling	1	0
+S167767955	2024-04-08	L30459889	105 W Main St, Cameron US-TX 30.84986, -96.97693	Turkey Vulture	Cathartes aura	7815	species	1	30.8498640	-96.9769330	Traveling	1	0
+S167767955	2024-04-08	L30459889	105 W Main St, Cameron US-TX 30.84986, -96.97693	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8498640	-96.9769330	Traveling	1	0
+S167767955	2024-04-08	L30459889	105 W Main St, Cameron US-TX 30.84986, -96.97693	Rock Pigeon	Columba livia	1868	domestic	5	30.8498640	-96.9769330	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	House Sparrow	Passer domesticus	31534	species	12	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Eastern Phoebe	Sayornis phoebe	17007	species	1	30.8500480	-96.9761310	Traveling	1	0
+S244655131	2025-05-30	L10650690	N Lamar Ave, Cameron US-TX (30.8527,-96.9738)	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8527400	-96.9737580	Stationary	1	0
+S258772419	2025-07-10	L22968782	Cameron	American Robin	Turdus migratorius	28633	species	1	30.8510067	-96.9789577	Traveling	1	0
+S243150928	2025-05-24	L22968782	Cameron	European Starling	Sturnus vulgaris	27813	species	2	30.8510067	-96.9789577	Traveling	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	White-winged Dove	Zenaida asiatica	2389	species	2	30.8670397	-96.9730392	Stationary	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	30.8670397	-96.9730392	Stationary	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Turkey Vulture	Cathartes aura	7815	species	1	30.8500480	-96.9761310	Traveling	1	0
+S243150928	2025-05-24	L22968782	Cameron	House Sparrow	Passer domesticus	31534	species	16	30.8510067	-96.9789577	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Northern Cardinal	Cardinalis cardinalis	34515	species	4	30.8500480	-96.9761310	Traveling	1	0
+S244655131	2025-05-30	L10650690	N Lamar Ave, Cameron US-TX (30.8527,-96.9738)	House Sparrow	Passer domesticus	31534	species	4	30.8527400	-96.9737580	Stationary	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	European Starling	Sturnus vulgaris	27813	species	1	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Northern Mockingbird	Mimus polyglottos	28114	species	7	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Black Vulture	Coragyps atratus	7811	species	5	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Inca Dove	Columbina inca	2242	species	1	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	White-winged Dove	Zenaida asiatica	2389	species	25	30.8500480	-96.9761310	Traveling	1	0
+S243150928	2025-05-24	L22968782	Cameron	Turkey Vulture	Cathartes aura	7815	species	1	30.8510067	-96.9789577	Traveling	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	Western Kingbird	Tyrannus verticalis	17467	species	1	30.8670397	-96.9730392	Stationary	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Dickcissel	Spiza americana	34627	species	1	30.8500480	-96.9761310	Traveling	1	0
+S243150928	2025-05-24	L22968782	Cameron	White-winged Dove	Zenaida asiatica	2389	species	2	30.8510067	-96.9789577	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Blue Jay	Cyanocitta cristata	21294	species	3	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Killdeer	Charadrius vociferus	5827	species	1	30.8500480	-96.9761310	Traveling	1	0
+S258772419	2025-07-10	L22968782	Cameron	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8510067	-96.9789577	Traveling	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	Northern Mockingbird	Mimus polyglottos	28114	species	1	30.8670397	-96.9730392	Stationary	1	0
+S243150928	2025-05-24	L22968782	Cameron	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	30.8510067	-96.9789577	Traveling	1	0
+S258772419	2025-07-10	L22968782	Cameron	Mourning Dove	Zenaida macroura	2412	species	1	30.8510067	-96.9789577	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	30.8500480	-96.9761310	Traveling	1	0
+S244655131	2025-05-30	L10650690	N Lamar Ave, Cameron US-TX (30.8527,-96.9738)	European Starling	Sturnus vulgaris	27813	species	2	30.8527400	-96.9737580	Stationary	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	Chimney Swift	Chaetura pelagica	3896	species	1	30.8670397	-96.9730392	Stationary	1	0
+S258772419	2025-07-10	L22968782	Cameron	House Sparrow	Passer domesticus	31534	species	7	30.8510067	-96.9789577	Traveling	1	0
+S244655131	2025-05-30	L10650690	N Lamar Ave, Cameron US-TX (30.8527,-96.9738)	Barn Swallow	Hirundo rustica	24187	species	1	30.8527400	-96.9737580	Stationary	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	House Sparrow	Passer domesticus	31534	species	6	30.8670397	-96.9730392	Stationary	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	Turkey Vulture	Cathartes aura	7815	species	1	30.8670397	-96.9730392	Stationary	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Rock Pigeon	Columba livia	1868	domestic	20	30.8500480	-96.9761310	Traveling	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	European Starling	Sturnus vulgaris	27813	species	2	30.8670397	-96.9730392	Stationary	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Carolina Chickadee	Poecile carolinensis	22060	species	2	30.8500480	-96.9761310	Traveling	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Mourning Dove	Zenaida macroura	2412	species	1	30.8500480	-96.9761310	Traveling	1	0
+S239292243	2025-05-17	L45269181	2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)	Mississippi Kite	Ictinia mississippiensis	8388	species	2	30.8670397	-96.9730392	Stationary	1	0
+S276831888	2025-10-02	L53535391	102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)	Downy Woodpecker	Dryobates pubescens	11400	species	2	30.8500480	-96.9761310	Traveling	1	0
+S258772419	2025-07-10	L22968782	Cameron	Mississippi Kite	Ictinia mississippiensis	8388	species	4	30.8510067	-96.9789577	Traveling	1	0

@@ -20,6 +20,8 @@ FNR == 1 {
 
   id_col = col["SAMPLING EVENT IDENTIFIER"]
   date_col = col["OBSERVATION DATE"]
+  locality_id_col = col["LOCALITY ID"]
+  locality_col = col["LOCALITY"]
   common_col = col["COMMON NAME"]
   sci_col = col["SCIENTIFIC NAME"]
   tax_col = col["TAXONOMIC ORDER"]
@@ -40,6 +42,16 @@ FNR == 1 {
 
   if (date_col == 0) {
     print "Missing OBSERVATION DATE" > "/dev/stderr"
+    missing = 1
+  }
+
+  if (locality_id_col == 0) {
+    print "Missing LOCALITY ID" > "/dev/stderr"
+    missing = 1
+  }
+
+  if (locality_col == 0) {
+    print "Missing LOCALITY" > "/dev/stderr"
     missing = 1
   }
 
@@ -68,6 +80,8 @@ FNR == 1 {
 
   header = "checklist_id"
   header = header OFS "observation_date"
+  header = header OFS "locality_id"
+  header = header OFS "locality"
   header = header OFS "common_name"
   header = header OFS "scientific_name"
   header = header OFS "taxonomic_order"
@@ -94,6 +108,8 @@ FNR == 1 {
       close(outfile)
     }
 
+    locality_id_val = ""
+    locality_val = ""
     tax_val = ""
     category_val = ""
     lat_val = ""
@@ -101,6 +117,14 @@ FNR == 1 {
     protocol_val = ""
     approved_val = ""
     reviewed_val = ""
+
+    if (locality_id_col > 0) {
+      locality_id_val = $locality_id_col
+    }
+
+    if (locality_col > 0) {
+      locality_val = $locality_col
+    }
 
     if (tax_col > 0) {
       tax_val = $tax_col
@@ -132,6 +156,8 @@ FNR == 1 {
 
     row = checklist_id
     row = row OFS $date_col
+    row = row OFS locality_id_val
+    row = row OFS locality_val
     row = row OFS $common_col
     row = row OFS $sci_col
     row = row OFS tax_val

@@ -1,18 +1,18 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S21929265,2015-02-15,2015,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,15,,1,44.3442305,-98.2057571,8,8,city_1256_south_dakota_huron
-S21934620,2015-02-16,2015,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,60,,1,44.3605098,-98.2074094,7,7,city_1256_south_dakota_huron
-S32321184,2016-10-29,2016,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,60,,1,44.36328,-98.21427,12,12,city_1256_south_dakota_huron
-S32613837,2016-11-16,2016,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,35,,1,44.36328,-98.21427,8,8,city_1256_south_dakota_huron
-S33603066,2017-01-11,2017,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,45,,1,44.36328,-98.21427,10,10,city_1256_south_dakota_huron
-S44797237,2018-04-21,2018,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,22,0.322,1,44.3685828,-98.2014575,11,11,city_1256_south_dakota_huron
-S42022586,2018-01-07,2018,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,60,,1,44.36328,-98.21427,12,12,city_1256_south_dakota_huron
-S45317687,2018-05-05,2018,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,33,0.966,1,44.346962,-98.210491,7,7,city_1256_south_dakota_huron
-S91812763,2021-07-15,2021,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,6,,1,44.3573062,-98.2184071,1,1,city_1256_south_dakota_huron
-S105987524,2022-03-31,2022,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,24,0.167,1,44.3638137,-98.2306231,10,10,city_1256_south_dakota_huron
-S106954101,2022-04-13,2022,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,15,,1,44.3596503,-98.2149773,2,2,city_1256_south_dakota_huron
-S150486051,2023-09-22,2023,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,6,,1,44.3666535,-98.2017504,9,9,city_1256_south_dakota_huron
-S206009847,2024-12-20,2024,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,20,,1,44.3544209,-98.2188714,2,2,city_1256_south_dakota_huron
-S276009077,2025-09-28,2025,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,10,,1,44.344354,-98.225335,7,7,city_1256_south_dakota_huron
-S275789220,2025-09-27,2025,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,40,,1,44.344204,-98.225,11,11,city_1256_south_dakota_huron
-S207669213,2025-01-02,2025,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,5,,1,44.354538,-98.218773,4,4,city_1256_south_dakota_huron
-S290606186,2025-12-27,2025,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,12,0.079,1,44.3718127,-98.2054704,1,1,city_1256_south_dakota_huron
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21929265,L1952303,Huron,2015-02-15,2015,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,15,,1,44.3442305,-98.2057571,8,8,city_1256_south_dakota_huron
+S21934620,L3392320,"Huron, SD",2015-02-16,2015,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,60,,1,44.3605098,-98.2074094,7,7,city_1256_south_dakota_huron
+S32321184,L194786,Huron,2016-10-29,2016,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,60,,1,44.36328,-98.21427,12,12,city_1256_south_dakota_huron
+S32613837,L194786,Huron,2016-11-16,2016,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,35,,1,44.36328,-98.21427,8,8,city_1256_south_dakota_huron
+S33603066,L194786,Huron,2017-01-11,2017,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,45,,1,44.36328,-98.21427,10,10,city_1256_south_dakota_huron
+S44797237,L7259354,"Easy Street, Huron, South Dakota, US (44.369, -98.201)",2018-04-21,2018,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,22,0.322,1,44.3685828,-98.2014575,11,11,city_1256_south_dakota_huron
+S42022586,L194786,Huron,2018-01-07,2018,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,60,,1,44.36328,-98.21427,12,12,city_1256_south_dakota_huron
+S45317687,L7348073,Prospect Park,2018-05-05,2018,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,33,0.966,1,44.346962,-98.210491,7,7,city_1256_south_dakota_huron
+S91812763,L15779676,"345 9th Street Southwest, Huron, South Dakota, US (44.357, -98.218)",2021-07-15,2021,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,6,,1,44.3573062,-98.2184071,1,1,city_1256_south_dakota_huron
+S105987524,L18321432,"Huron GFP,-South Dakota, US (44.364, -98.231)",2022-03-31,2022,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,24,0.167,1,44.3638137,-98.2306231,10,10,city_1256_south_dakota_huron
+S106954101,L18490600,"521 Dakota S Campbell Park, Huron, South Dakota, US (44.36, -98.215)",2022-04-13,2022,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,15,,1,44.3596503,-98.2149773,2,2,city_1256_south_dakota_huron
+S150486051,L27198752,"126 Ravine Park Road, Huron, South Dakota, US (44.367, -98.202)",2023-09-22,2023,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,6,,1,44.3666535,-98.2017504,9,9,city_1256_south_dakota_huron
+S206009847,L38729308,"1048 Ohio Avenue Southwest, Huron, South Dakota, US (44.354, -98.219)",2024-12-20,2024,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,20,,1,44.3544209,-98.2188714,2,2,city_1256_south_dakota_huron
+S276009077,L15616672,"1880 Cardinal Ln, Huron US-SD 44.34435, -98.22533",2025-09-28,2025,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,10,,1,44.344354,-98.225335,7,7,city_1256_south_dakota_huron
+S275789220,L53294675,"1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500",2025-09-27,2025,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,40,,1,44.344204,-98.225,11,11,city_1256_south_dakota_huron
+S207669213,L39104611,"1030 Ohio Ave SW, Huron US-SD 44.35454, -98.21877",2025-01-02,2025,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,5,,1,44.354538,-98.218773,4,4,city_1256_south_dakota_huron
+S290606186,L56424105,Crown Park (Huron),2025-12-27,2025,1256,"Huron, SD",Huron,South Dakota,Beadle,18613404.3184616,12,0.079,1,44.3718127,-98.2054704,1,1,city_1256_south_dakota_huron

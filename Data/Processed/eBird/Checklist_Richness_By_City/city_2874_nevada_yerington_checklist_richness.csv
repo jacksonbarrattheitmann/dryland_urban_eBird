@@ -1,7 +1,7 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S29172797,2016-04-24,2016,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,10,0.4,1,38.9965959,-119.1696243,12,12,city_2874_nevada_yerington
-S78165016,2020-12-28,2020,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,10,,1,38.9836235,-119.159935,3,3,city_2874_nevada_yerington
-S63207607,2020-01-09,2020,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,6,,1,38.9872469,-119.1625053,4,4,city_2874_nevada_yerington
-S66850272,2020-04-08,2020,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,5,,1,38.980719,-119.1655802,1,1,city_2874_nevada_yerington
-S163643819,2024-03-03,2024,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,60,,1,38.9783969,-119.1712424,1,1,city_2874_nevada_yerington
-S208184472,2025-01-05,2025,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,15,,1,38.9783969,-119.1712424,5,5,city_2874_nevada_yerington
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S29172797,L4520810,Yerington--Greenville RV Park and Adjacent Field,2016-04-24,2016,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,10,0.4,1,38.9965959,-119.1696243,12,12,city_2874_nevada_yerington
+S78165016,L13039550,Back yard,2020-12-28,2020,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,10,,1,38.9836235,-119.159935,3,3,city_2874_nevada_yerington
+S63207607,L3123950,"Yerington Inn Motel, Yerington",2020-01-09,2020,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,6,,1,38.9872469,-119.1625053,4,4,city_2874_nevada_yerington
+S66850272,L11115057,Orchard Street and South West Street,2020-04-08,2020,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,5,,1,38.980719,-119.1655802,1,1,city_2874_nevada_yerington
+S163643819,L29642070,South end of Yerington,2024-03-03,2024,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,60,,1,38.9783969,-119.1712424,1,1,city_2874_nevada_yerington
+S208184472,L29642070,South end of Yerington,2025-01-05,2025,2874,"Yerington, NV",Yerington,Nevada,Lyon,3826857.63694951,15,,1,38.9783969,-119.1712424,5,5,city_2874_nevada_yerington

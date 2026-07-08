@@ -1,100 +1,100 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24629414,2015-08-13,2015,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,1.609,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
-S22388609,2015-03-14,2015,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,4.345,1,36.0624217,-102.5182343,4,4,city_0677_texas_dalhart
-S70212070,2017-05-17,2017,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,3.219,1,36.0624217,-102.5182343,9,9,city_0677_texas_dalhart
-S98688778,2017-12-15,2017,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,12,0.805,1,36.0523077,-102.5137028,6,6,city_0677_texas_dalhart
-S35164555,2017-03-13,2017,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,25,1.207,1,36.0624217,-102.5182343,7,7,city_0677_texas_dalhart
-S34437874,2017-02-17,2017,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,9.656,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
-S43603287,2018-03-12,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,99,16.19,1,36.0624217,-102.5182343,23,23,city_0677_texas_dalhart
-S49319136,2018-07-23,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,0.286,1,36.0728457,-102.505923,6,6,city_0677_texas_dalhart
-S47118749,2018-07-10,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,15.56,1,36.051648,-102.501592,5,5,city_0677_texas_dalhart
-S47359499,2018-07-22,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,54,12.955,1,36.0624217,-102.5182343,13,13,city_0677_texas_dalhart
-S48042678,2018-08-24,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,6,5.276,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
-S56748383,2019-05-26,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,3.927,1,36.0624217,-102.5182343,10,10,city_0677_texas_dalhart
-S55312037,2019-04-23,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,32,0.388,1,36.0725921,-102.5068177,6,6,city_0677_texas_dalhart
-S59206985,2019-08-23,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
-S51730254,2019-01-16,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,,1,36.073151,-102.507952,5,5,city_0677_texas_dalhart
-S51614981,2019-01-10,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,75,24.14,1,36.05943,-102.51347,19,19,city_0677_texas_dalhart
-S55333998,2019-04-24,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,5.663,1,36.0624217,-102.5182343,15,15,city_0677_texas_dalhart
-S53179399,2019-02-26,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,37,2.414,1,36.0624217,-102.5182343,12,12,city_0677_texas_dalhart
-S59120222,2019-08-19,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,0.483,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
-S54241625,2019-03-26,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,2.414,1,36.0624217,-102.5182343,9,9,city_0677_texas_dalhart
-S51392139,2019-01-06,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,6,5.423,1,36.0599115,-102.5135271,7,7,city_0677_texas_dalhart
-S54231677,2019-03-25,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,,1,36.0524257,-102.5135186,5,5,city_0677_texas_dalhart
-S51395823,2019-01-06,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,6,7.867,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
-S56315491,2019-05-15,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,1.79,1,36.070836,-102.52986,4,4,city_0677_texas_dalhart
-S59249778,2019-08-25,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,,1,36.054265,-102.503022,4,4,city_0677_texas_dalhart
-S75118647,2020-10-19,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,119,1.687,1,36.054451,-102.514158,21,21,city_0677_texas_dalhart
-S76946113,2020-12-01,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,0.124,1,36.0695511,-102.511764,12,12,city_0677_texas_dalhart
-S80020341,2020-12-12,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,40,1.609,1,36.0523077,-102.5137028,15,15,city_0677_texas_dalhart
-S74866169,2020-10-13,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,80,3.219,1,36.0624217,-102.5182343,14,14,city_0677_texas_dalhart
-S76863358,2020-11-29,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,1.162,1,36.053258,-102.515466,8,8,city_0677_texas_dalhart
-S76942582,2020-12-01,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,1.175,1,36.0512146,-102.5217732,8,8,city_0677_texas_dalhart
-S76571150,2020-11-22,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,75,2.934,1,36.0624217,-102.5182343,14,14,city_0677_texas_dalhart
-S68042724,2020-04-29,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
-S79904051,2020-12-12,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,0.161,1,36.0521381,-102.5138179,6,6,city_0677_texas_dalhart
-S74336894,2020-10-02,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,2.447,1,36.052813,-102.503354,2,2,city_0677_texas_dalhart
-S71246250,2020-07-07,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,18,0.165,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
-S73538848,2020-09-11,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
-S71547225,2020-07-16,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,16.344,1,36.051688,-102.501919,4,4,city_0677_texas_dalhart
-S74353169,2020-10-03,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,2.92,1,36.069085,-102.513413,3,3,city_0677_texas_dalhart
-S76850659,2020-11-29,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,0.516,1,36.051592,-102.523399,6,6,city_0677_texas_dalhart
-S76865391,2020-11-29,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,28,3.036,1,36.0624217,-102.5182343,4,4,city_0677_texas_dalhart
-S74501710,2020-10-06,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,14,0.322,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
-S78854110,2021-01-05,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,3.219,1,36.0624217,-102.5182343,9,9,city_0677_texas_dalhart
-S86097150,2021-04-22,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,12,,1,36.063619,-102.5092,7,7,city_0677_texas_dalhart
-S94030426,2021-09-01,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
-S88566886,2021-05-19,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,1.609,1,36.0523077,-102.5137028,3,3,city_0677_texas_dalhart
-S82791248,2021-03-05,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,11,9.112,1,36.070765,-102.527062,3,3,city_0677_texas_dalhart
-S98745520,2021-12-11,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,6,,1,36.0702672,-102.5104325,3,3,city_0677_texas_dalhart
-S78707561,2021-01-05,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,3.219,1,36.0624217,-102.5182343,9,9,city_0677_texas_dalhart
-S90857544,2021-06-27,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,22,2.269,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
-S78858547,2021-01-07,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,16.093,1,36.0590975,-102.5275693,4,4,city_0677_texas_dalhart
-S85721895,2021-04-17,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,11,,1,36.0624217,-102.5182343,7,7,city_0677_texas_dalhart
-S90847356,2021-06-26,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,219,4.442,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
-S106568963,2022-04-08,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,40,0.28,1,36.0738086,-102.507474,7,7,city_0677_texas_dalhart
-S112628300,2022-06-10,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,11,0.305,1,36.058835,-102.52511,10,10,city_0677_texas_dalhart
-S107840453,2022-04-23,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,,1,36.0695423,-102.5148268,5,5,city_0677_texas_dalhart
-S107739378,2022-04-06,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,0.483,1,36.0695423,-102.5148268,6,6,city_0677_texas_dalhart
-S107728387,2022-04-22,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,23,0.499,1,36.0695423,-102.5148268,6,6,city_0677_texas_dalhart
-S108690003,2022-04-30,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,,1,36.0745148,-102.5067895,7,7,city_0677_texas_dalhart
-S101591997,2022-01-28,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,0.499,1,36.0589153,-102.5250829,2,2,city_0677_texas_dalhart
-S137482162,2023-05-13,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,20,0.161,1,36.068204,-102.512001,24,24,city_0677_texas_dalhart
-S146462058,2023-08-02,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,35,,1,36.0686193,-102.5158548,7,7,city_0677_texas_dalhart
-S125742040,2023-01-08,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,63,13.848,1,36.0624217,-102.5182343,7,7,city_0677_texas_dalhart
-S148378235,2023-08-29,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,20,0.675,1,36.073151,-102.507952,9,9,city_0677_texas_dalhart
-S134394902,2023-04-20,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,17,0.182,1,36.058713,-102.525112,7,7,city_0677_texas_dalhart
-S149029675,2023-09-04,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
-S137497543,2023-05-13,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,,1,36.058815,-102.525091,11,11,city_0677_texas_dalhart
-S142127099,2023-06-19,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,0.119,1,36.055893,-102.506962,8,8,city_0677_texas_dalhart
-S151819917,2023-10-09,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,2.732,1,36.073897,-102.518149,4,4,city_0677_texas_dalhart
-S130922600,2023-03-14,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,11,0.306,1,36.058833,-102.5249631,4,4,city_0677_texas_dalhart
-S151743966,2023-10-08,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,0.148,1,36.070548,-102.510165,7,7,city_0677_texas_dalhart
-S129329867,2023-02-21,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
-S153137125,2023-10-20,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,8.725,1,36.062142,-102.516776,3,3,city_0677_texas_dalhart
-S140976029,2023-06-09,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,0.103,1,36.0624217,-102.5182343,5,5,city_0677_texas_dalhart
-S146461677,2023-08-03,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,20,1.207,1,36.0624217,-102.5182343,5,5,city_0677_texas_dalhart
-S147491128,2023-08-17,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
-S148596473,2023-08-31,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,0.535,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
-S172975833,2024-05-08,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,8.047,1,36.0523077,-102.5137028,13,13,city_0677_texas_dalhart
-S183178815,2024-06-22,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,22,,1,36.064622,-102.520992,9,9,city_0677_texas_dalhart
-S164535056,2024-03-12,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,12.422,1,36.056447,-102.537773,4,4,city_0677_texas_dalhart
-S184238255,2024-06-28,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,22,13.501,1,36.050779,-102.500319,6,6,city_0677_texas_dalhart
-S207083009,2024-12-29,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,131,7.649,1,36.0624217,-102.5182343,14,14,city_0677_texas_dalhart
-S167188526,2024-04-04,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,7.747,1,36.0644958,-102.5203695,4,4,city_0677_texas_dalhart
-S163335406,2024-03-01,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,,1,36.058802,-102.525092,6,6,city_0677_texas_dalhart
-S180640694,2024-06-09,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,,1,36.061364,-102.522417,11,11,city_0677_texas_dalhart
-S204860069,2024-12-08,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
-S166734779,2024-03-31,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,31,0.161,1,36.0583717,-102.5254062,2,2,city_0677_texas_dalhart
-S167372888,2024-04-04,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,1,1,city_0677_texas_dalhart
-S204858844,2024-12-08,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,1.207,1,36.0523077,-102.5137028,4,4,city_0677_texas_dalhart
-S167372889,2024-04-04,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,1,1,city_0677_texas_dalhart
-S241245982,2025-05-22,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,16,0.832,1,36.0523077,-102.5137028,14,14,city_0677_texas_dalhart
-S254494261,2025-06-27,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,1.993,1,36.0624217,-102.5182343,14,14,city_0677_texas_dalhart
-S251165395,2025-06-15,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,,1,36.061364,-102.522417,10,10,city_0677_texas_dalhart
-S237474487,2025-05-13,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
-S267963358,2025-08-17,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,2.121,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
-S237355538,2025-05-13,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,21,0.21,1,36.063587,-102.509114,9,9,city_0677_texas_dalhart
-S277682464,2025-10-06,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,0.715,1,36.05834,-102.525576,6,6,city_0677_texas_dalhart
-S285603277,2025-11-22,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,4.828,1,36.059292,-102.513022,7,7,city_0677_texas_dalhart
-S286804093,2025-11-30,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24629414,L816769,Dalhart (Dallam Co. portion of town),2015-08-13,2015,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,1.609,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
+S22388609,L816769,Dalhart (Dallam Co. portion of town),2015-03-14,2015,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,4.345,1,36.0624217,-102.5182343,4,4,city_0677_texas_dalhart
+S70212070,L816769,Dalhart (Dallam Co. portion of town),2017-05-17,2017,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,3.219,1,36.0624217,-102.5182343,9,9,city_0677_texas_dalhart
+S98688778,L13558240,Dalhart (Hartley Co. portion of town),2017-12-15,2017,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,12,0.805,1,36.0523077,-102.5137028,6,6,city_0677_texas_dalhart
+S35164555,L816769,Dalhart (Dallam Co. portion of town),2017-03-13,2017,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,25,1.207,1,36.0624217,-102.5182343,7,7,city_0677_texas_dalhart
+S34437874,L816769,Dalhart (Dallam Co. portion of town),2017-02-17,2017,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,9.656,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
+S43603287,L816769,Dalhart (Dallam Co. portion of town),2018-03-12,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,99,16.19,1,36.0624217,-102.5182343,23,23,city_0677_texas_dalhart
+S49319136,L8049841,"Corral Rv Park, Dalhart, Texas, US (36.073, -102.506)",2018-07-23,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,0.286,1,36.0728457,-102.505923,6,6,city_0677_texas_dalhart
+S47118749,L7694110,"1401 S Highway 87, Dalhart US-TX (36.0516,-102.5016)",2018-07-10,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,15.56,1,36.051648,-102.501592,5,5,city_0677_texas_dalhart
+S47359499,L816769,Dalhart (Dallam Co. portion of town),2018-07-22,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,54,12.955,1,36.0624217,-102.5182343,13,13,city_0677_texas_dalhart
+S48042678,L816769,Dalhart (Dallam Co. portion of town),2018-08-24,2018,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,6,5.276,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
+S56748383,L816769,Dalhart (Dallam Co. portion of town),2019-05-26,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,3.927,1,36.0624217,-102.5182343,10,10,city_0677_texas_dalhart
+S55312037,L9106273,"918 U.S. 54, Dalhart, Texas, US (36.073, -102.507)",2019-04-23,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,32,0.388,1,36.0725921,-102.5068177,6,6,city_0677_texas_dalhart
+S59206985,L816769,Dalhart (Dallam Co. portion of town),2019-08-23,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
+S51730254,L8439066,"1020 Liberal St, Dalhart US-TX (36.0732,-102.5080)",2019-01-16,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,,1,36.073151,-102.507952,5,5,city_0677_texas_dalhart
+S51614981,L655170,Dalhart,2019-01-10,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,75,24.14,1,36.05943,-102.51347,19,19,city_0677_texas_dalhart
+S55333998,L816769,Dalhart (Dallam Co. portion of town),2019-04-24,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,5.663,1,36.0624217,-102.5182343,15,15,city_0677_texas_dalhart
+S53179399,L816769,Dalhart (Dallam Co. portion of town),2019-02-26,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,37,2.414,1,36.0624217,-102.5182343,12,12,city_0677_texas_dalhart
+S59120222,L816769,Dalhart (Dallam Co. portion of town),2019-08-19,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,0.483,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
+S54241625,L816769,Dalhart (Dallam Co. portion of town),2019-03-26,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,2.414,1,36.0624217,-102.5182343,9,9,city_0677_texas_dalhart
+S51392139,L8382776,"607 Tennessee Avenue, Dalhart, Texas, US (36.06, -102.514)",2019-01-06,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,6,5.423,1,36.0599115,-102.5135271,7,7,city_0677_texas_dalhart
+S54231677,L8918464,"821 Texas Street, Dalhart, Texas, US (36.052, -102.514)",2019-03-25,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,,1,36.0524257,-102.5135186,5,5,city_0677_texas_dalhart
+S51395823,L816769,Dalhart (Dallam Co. portion of town),2019-01-06,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,6,7.867,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
+S56315491,L9273124,"N Highway 87, Dalhart US-TX (36.0708,-102.5299)",2019-05-15,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,9,1.79,1,36.070836,-102.52986,4,4,city_0677_texas_dalhart
+S59249778,L9837204,"1711 E 13th St, Dalhart US-TX (36.0543,-102.5030)",2019-08-25,2019,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,,1,36.054265,-102.503022,4,4,city_0677_texas_dalhart
+S75118647,L12548676,"1121 Maple Ave, Dalhart US-TX 36.05445, -102.51416",2020-10-19,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,119,1.687,1,36.054451,-102.514158,21,21,city_0677_texas_dalhart
+S76946113,L12850298,Ponds Behind Hotels And Steakhouse,2020-12-01,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,0.124,1,36.0695511,-102.511764,12,12,city_0677_texas_dalhart
+S80020341,L13558240,Dalhart (Hartley Co. portion of town),2020-12-12,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,40,1.609,1,36.0523077,-102.5137028,15,15,city_0677_texas_dalhart
+S74866169,L816769,Dalhart (Dallam Co. portion of town),2020-10-13,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,80,3.219,1,36.0624217,-102.5182343,14,14,city_0677_texas_dalhart
+S76863358,L12836869,"1301 Elm Ave, Dalhart US-TX 36.05326, -102.51547",2020-11-29,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,1.162,1,36.053258,-102.515466,8,8,city_0677_texas_dalhart
+S76942582,L12849755,"1411 Denver Avenue, Dalhart, Texas, US (36.051, -102.522)",2020-12-01,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,1.175,1,36.0512146,-102.5217732,8,8,city_0677_texas_dalhart
+S76571150,L816769,Dalhart (Dallam Co. portion of town),2020-11-22,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,75,2.934,1,36.0624217,-102.5182343,14,14,city_0677_texas_dalhart
+S68042724,L816769,Dalhart (Dallam Co. portion of town),2020-04-29,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
+S79904051,L13559402,Dalhart (Hartley Co.),2020-12-12,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,0.161,1,36.0521381,-102.5138179,6,6,city_0677_texas_dalhart
+S74336894,L12411876,"1315 US-87, Dalhart US-TX 36.05281, -102.50335",2020-10-02,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,2.447,1,36.052813,-102.503354,2,2,city_0677_texas_dalhart
+S71246250,L816769,Dalhart (Dallam Co. portion of town),2020-07-07,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,18,0.165,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
+S73538848,L816769,Dalhart (Dallam Co. portion of town),2020-09-11,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
+S71547225,L11907788,"1901 E 16th St, Dalhart US-TX (36.0517,-102.5019)",2020-07-16,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,16.344,1,36.051688,-102.501919,4,4,city_0677_texas_dalhart
+S74353169,L12414627,"Dallam TX 403 Tanglewood Rd, Dalhart US-TX 36.06908, -102.51341",2020-10-03,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,2.92,1,36.069085,-102.513413,3,3,city_0677_texas_dalhart
+S76850659,L12834592,"1414 Denrock Ave, Dalhart US-TX (36.0516,-102.5234)",2020-11-29,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,0.516,1,36.051592,-102.523399,6,6,city_0677_texas_dalhart
+S76865391,L816769,Dalhart (Dallam Co. portion of town),2020-11-29,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,28,3.036,1,36.0624217,-102.5182343,4,4,city_0677_texas_dalhart
+S74501710,L816769,Dalhart (Dallam Co. portion of town),2020-10-06,2020,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,14,0.322,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
+S78854110,L816769,Dalhart (Dallam Co. portion of town),2021-01-05,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,3.219,1,36.0624217,-102.5182343,9,9,city_0677_texas_dalhart
+S86097150,L14560836,"Kendrick Ave, Dalhart US-TX 36.06362, -102.50920",2021-04-22,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,12,,1,36.063619,-102.5092,7,7,city_0677_texas_dalhart
+S94030426,L816769,Dalhart (Dallam Co. portion of town),2021-09-01,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
+S88566886,L13558240,Dalhart (Hartley Co. portion of town),2021-05-19,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,1.609,1,36.0523077,-102.5137028,3,3,city_0677_texas_dalhart
+S82791248,L13921212,"701 Dallam St, Dalhart US-TX 36.07077, -102.52706",2021-03-05,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,11,9.112,1,36.070765,-102.527062,3,3,city_0677_texas_dalhart
+S98745520,L17077107,"920 Liberal Street, Dalhart, Texas, US (36.07, -102.51)",2021-12-11,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,6,,1,36.0702672,-102.5104325,3,3,city_0677_texas_dalhart
+S78707561,L816769,Dalhart (Dallam Co. portion of town),2021-01-05,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,3.219,1,36.0624217,-102.5182343,9,9,city_0677_texas_dalhart
+S90857544,L816769,Dalhart (Dallam Co. portion of town),2021-06-27,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,22,2.269,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
+S78858547,L13199213,Dalhart TX,2021-01-07,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,16.093,1,36.0590975,-102.5275693,4,4,city_0677_texas_dalhart
+S85721895,L816769,Dalhart (Dallam Co. portion of town),2021-04-17,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,11,,1,36.0624217,-102.5182343,7,7,city_0677_texas_dalhart
+S90847356,L816769,Dalhart (Dallam Co. portion of town),2021-06-26,2021,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,219,4.442,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
+S106568963,L18422519,"918 U.S. 54, Dalhart, Texas, US (36.074, -102.507)",2022-04-08,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,40,0.28,1,36.0738086,-102.507474,7,7,city_0677_texas_dalhart
+S112628300,L19569866,"Dalhart - Veterans Memorial Park (36.0588,-102.5251)",2022-06-10,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,11,0.305,1,36.058835,-102.52511,10,10,city_0677_texas_dalhart
+S107840453,L18631827,"801 Liberal Street, Dalhart, Texas, US (36.07, -102.515)",2022-04-23,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,,1,36.0695423,-102.5148268,5,5,city_0677_texas_dalhart
+S107739378,L18631827,"801 Liberal Street, Dalhart, Texas, US (36.07, -102.515)",2022-04-06,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,30,0.483,1,36.0695423,-102.5148268,6,6,city_0677_texas_dalhart
+S107728387,L18631827,"801 Liberal Street, Dalhart, Texas, US (36.07, -102.515)",2022-04-22,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,23,0.499,1,36.0695423,-102.5148268,6,6,city_0677_texas_dalhart
+S108690003,L18804568,"Corral RV Park, Dalhart Texas",2022-04-30,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,,1,36.0745148,-102.5067895,7,7,city_0677_texas_dalhart
+S101591997,L17573140,Veterans Memorial Park,2022-01-28,2022,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,0.499,1,36.0589153,-102.5250829,2,2,city_0677_texas_dalhart
+S137482162,L24300076,Oakwood Place corner woodlot and ponds,2023-05-13,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,20,0.161,1,36.068204,-102.512001,24,24,city_0677_texas_dalhart
+S146462058,L26397428,Texas-Dallam Co.-Dalhart-Days Inn,2023-08-02,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,35,,1,36.0686193,-102.5158548,7,7,city_0677_texas_dalhart
+S125742040,L816769,Dalhart (Dallam Co. portion of town),2023-01-08,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,63,13.848,1,36.0624217,-102.5182343,7,7,city_0677_texas_dalhart
+S148378235,L8439066,"1020 Liberal St, Dalhart US-TX (36.0732,-102.5080)",2023-08-29,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,20,0.675,1,36.073151,-102.507952,9,9,city_0677_texas_dalhart
+S134394902,L23714015,"Veterans Memorial Park, Dalhart US-TX (36.0587,-102.5251)",2023-04-20,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,17,0.182,1,36.058713,-102.525112,7,7,city_0677_texas_dalhart
+S149029675,L816769,Dalhart (Dallam Co. portion of town),2023-09-04,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
+S137497543,L24303142,Dalhart Veterans Memorial Park,2023-05-13,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,,1,36.058815,-102.525091,11,11,city_0677_texas_dalhart
+S142127099,L25336015,Valero (Dalhart),2023-06-19,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,0.119,1,36.055893,-102.506962,8,8,city_0677_texas_dalhart
+S151819917,L27437756,"801–849 Colorado St, Dalhart US-TX 36.07390, -102.51815",2023-10-09,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,2.732,1,36.073897,-102.518149,4,4,city_0677_texas_dalhart
+S130922600,L23051495,"Veterans Memorial Park - Dalhart, Texas",2023-03-14,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,11,0.306,1,36.058833,-102.5249631,4,4,city_0677_texas_dalhart
+S151743966,L27437523,"920 Liberal St, Dalhart US-TX 36.07055, -102.51016",2023-10-08,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,0.148,1,36.070548,-102.510165,7,7,city_0677_texas_dalhart
+S129329867,L816769,Dalhart (Dallam Co. portion of town),2023-02-21,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
+S153137125,L27695890,"401 Railroad St, Dalhart US-TX 36.06214, -102.51678",2023-10-20,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,8.725,1,36.062142,-102.516776,3,3,city_0677_texas_dalhart
+S140976029,L816769,Dalhart (Dallam Co. portion of town),2023-06-09,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,0.103,1,36.0624217,-102.5182343,5,5,city_0677_texas_dalhart
+S146461677,L816769,Dalhart (Dallam Co. portion of town),2023-08-03,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,20,1.207,1,36.0624217,-102.5182343,5,5,city_0677_texas_dalhart
+S147491128,L816769,Dalhart (Dallam Co. portion of town),2023-08-17,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart
+S148596473,L816769,Dalhart (Dallam Co. portion of town),2023-08-31,2023,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,0.535,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
+S172975833,L13558240,Dalhart (Hartley Co. portion of town),2024-05-08,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,8.047,1,36.0523077,-102.5137028,13,13,city_0677_texas_dalhart
+S183178815,L33772035,"122 Liberal St, Dalhart US-TX 36.06462, -102.52099",2024-06-22,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,22,,1,36.064622,-102.520992,9,9,city_0677_texas_dalhart
+S164535056,L29808379,"936–940 US-54, Dalhart US-TX 36.05645, -102.53777",2024-03-12,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,12.422,1,36.056447,-102.537773,4,4,city_0677_texas_dalhart
+S184238255,L34027193,"1601 US-87, Dalhart US-TX 36.05078, -102.50032",2024-06-28,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,22,13.501,1,36.050779,-102.500319,6,6,city_0677_texas_dalhart
+S207083009,L816769,Dalhart (Dallam Co. portion of town),2024-12-29,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,131,7.649,1,36.0624217,-102.5182343,14,14,city_0677_texas_dalhart
+S167188526,L30331514,"122 Liberal Street, Dalhart, Texas, US (36.064, -102.52)",2024-04-04,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,7.747,1,36.0644958,-102.5203695,4,4,city_0677_texas_dalhart
+S163335406,L29582622,"Veterans Memorial Park, Dalhart US-TX (36.0588,-102.5251)",2024-03-01,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,7,,1,36.058802,-102.525092,6,6,city_0677_texas_dalhart
+S180640694,L33144491,"Dallam County Courthouse (36.06136, -102.52242)",2024-06-09,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,,1,36.061364,-102.522417,11,11,city_0677_texas_dalhart
+S204860069,L816769,Dalhart (Dallam Co. portion of town),2024-12-08,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,2,2,city_0677_texas_dalhart
+S166734779,L30241864,"VeteransMemorial Park, Dalhart, TX",2024-03-31,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,31,0.161,1,36.0583717,-102.5254062,2,2,city_0677_texas_dalhart
+S167372888,L816769,Dalhart (Dallam Co. portion of town),2024-04-04,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,1,1,city_0677_texas_dalhart
+S204858844,L13558240,Dalhart (Hartley Co. portion of town),2024-12-08,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,1.207,1,36.0523077,-102.5137028,4,4,city_0677_texas_dalhart
+S167372889,L816769,Dalhart (Dallam Co. portion of town),2024-04-04,2024,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,1,1,city_0677_texas_dalhart
+S241245982,L13558240,Dalhart (Hartley Co. portion of town),2025-05-22,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,16,0.832,1,36.0523077,-102.5137028,14,14,city_0677_texas_dalhart
+S254494261,L816769,Dalhart (Dallam Co. portion of town),2025-06-27,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,10,1.993,1,36.0624217,-102.5182343,14,14,city_0677_texas_dalhart
+S251165395,L33144491,"Dallam County Courthouse (36.06136, -102.52242)",2025-06-15,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,,1,36.061364,-102.522417,10,10,city_0677_texas_dalhart
+S237474487,L816769,Dalhart (Dallam Co. portion of town),2025-05-13,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,15,,1,36.0624217,-102.5182343,6,6,city_0677_texas_dalhart
+S267963358,L816769,Dalhart (Dallam Co. portion of town),2025-08-17,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,8,2.121,1,36.0624217,-102.5182343,8,8,city_0677_texas_dalhart
+S237355538,L44900247,"Kelly Hill Park, Dalhart",2025-05-13,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,21,0.21,1,36.063587,-102.509114,9,9,city_0677_texas_dalhart
+S277682464,L53706925,"Veterans Memorial Park, Dalhart US-TX 36.05834, -102.52558",2025-10-06,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,19,0.715,1,36.05834,-102.525576,6,6,city_0677_texas_dalhart
+S285603277,L55344501,"701 Railroad St, Dalhart US-TX 36.05929, -102.51302",2025-11-22,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,4.828,1,36.059292,-102.513022,7,7,city_0677_texas_dalhart
+S286804093,L816769,Dalhart (Dallam Co. portion of town),2025-11-30,2025,677,"Dalhart, TX",Dalhart,Texas,Dallam,8308101.55114172,5,,1,36.0624217,-102.5182343,3,3,city_0677_texas_dalhart

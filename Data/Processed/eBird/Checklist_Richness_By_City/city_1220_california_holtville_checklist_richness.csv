@@ -1,15 +1,15 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S65741187,2018-04-21,2018,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,32,0.805,1,32.8076052,-115.3866251,12,12,city_1220_california_holtville
-S52699108,2019-02-14,2019,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,21,0.467,1,32.808071,-115.3810712,9,9,city_1220_california_holtville
-S66596867,2020-04-03,2020,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,80,4.828,1,32.81115,-115.37982,2,2,city_1220_california_holtville
-S93562987,2021-08-21,2021,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,24,1.207,1,32.8076052,-115.3866251,7,7,city_1220_california_holtville
-S86302324,2021-04-24,2021,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,40,0.724,1,32.8076052,-115.3866251,15,15,city_1220_california_holtville
-S108986439,2022-05-03,2022,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,18,0.253,1,32.8076052,-115.3866251,14,14,city_1220_california_holtville
-S129370334,2023-02-17,2023,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,12,1.609,1,32.8055384,-115.3751849,10,10,city_1220_california_holtville
-S160439295,2024-02-02,2024,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,68,2.2,1,32.8076052,-115.3866251,21,21,city_1220_california_holtville
-S160463855,2024-02-02,2024,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,5,0.4,1,32.8117971,-115.3813237,3,3,city_1220_california_holtville
-S208112858,2025-01-03,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,25,0.402,1,32.8076052,-115.3866251,9,9,city_1220_california_holtville
-S223665644,2025-04-06,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,15,4.828,1,32.8076052,-115.3866251,11,11,city_1220_california_holtville
-S232761087,2025-05-03,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,19,,1,32.8076052,-115.3866251,13,13,city_1220_california_holtville
-S268509861,2025-08-20,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,8,0.176,1,32.8076052,-115.3866251,5,5,city_1220_california_holtville
-S275979138,2025-09-27,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,20,0.563,1,32.8076052,-115.3866251,3,3,city_1220_california_holtville
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S65741187,L10952734,"Earl Walker Park, Holtville",2018-04-21,2018,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,32,0.805,1,32.8076052,-115.3866251,12,12,city_1220_california_holtville
+S52699108,L8610180,"222 West 4th Street, Holtville, California, US (32.808, -115.381)",2019-02-14,2019,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,21,0.467,1,32.808071,-115.3810712,9,9,city_1220_california_holtville
+S66596867,L357113,Holtville,2020-04-03,2020,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,80,4.828,1,32.81115,-115.37982,2,2,city_1220_california_holtville
+S93562987,L10952734,"Earl Walker Park, Holtville",2021-08-21,2021,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,24,1.207,1,32.8076052,-115.3866251,7,7,city_1220_california_holtville
+S86302324,L10952734,"Earl Walker Park, Holtville",2021-04-24,2021,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,40,0.724,1,32.8076052,-115.3866251,15,15,city_1220_california_holtville
+S108986439,L10952734,"Earl Walker Park, Holtville",2022-05-03,2022,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,18,0.253,1,32.8076052,-115.3866251,14,14,city_1220_california_holtville
+S129370334,L22766392,"Holtville, Walnut Avenue",2023-02-17,2023,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,12,1.609,1,32.8055384,-115.3751849,10,10,city_1220_california_holtville
+S160439295,L10952734,"Earl Walker Park, Holtville",2024-02-02,2024,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,68,2.2,1,32.8076052,-115.3866251,21,21,city_1220_california_holtville
+S160463855,L29063868,Holt Park,2024-02-02,2024,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,5,0.4,1,32.8117971,-115.3813237,3,3,city_1220_california_holtville
+S208112858,L10952734,"Earl Walker Park, Holtville",2025-01-03,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,25,0.402,1,32.8076052,-115.3866251,9,9,city_1220_california_holtville
+S223665644,L10952734,"Earl Walker Park, Holtville",2025-04-06,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,15,4.828,1,32.8076052,-115.3866251,11,11,city_1220_california_holtville
+S232761087,L10952734,"Earl Walker Park, Holtville",2025-05-03,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,19,,1,32.8076052,-115.3866251,13,13,city_1220_california_holtville
+S268509861,L10952734,"Earl Walker Park, Holtville",2025-08-20,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,8,0.176,1,32.8076052,-115.3866251,5,5,city_1220_california_holtville
+S275979138,L10952734,"Earl Walker Park, Holtville",2025-09-27,2025,1220,"Holtville, CA",Holtville,California,Imperial,5693237.69992199,20,0.563,1,32.8076052,-115.3866251,3,3,city_1220_california_holtville

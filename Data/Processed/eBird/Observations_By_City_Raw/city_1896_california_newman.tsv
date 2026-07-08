@@ -1,31 +1,31 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S21884998	2015-02-14	American Crow	Corvus brachyrhynchos	21557	species	1	37.3138400	-121.0210400	Stationary	1	0
-S21955419	2015-02-16	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	15	37.3207894	-121.0155630	Stationary	1	0
-S21884453	2015-02-13	American Crow	Corvus brachyrhynchos	21557	species	4	37.3207894	-121.0155630	Stationary	1	0
-S21884453	2015-02-13	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	18	37.3207894	-121.0155630	Stationary	1	0
-S21884998	2015-02-14	Rock Pigeon	Columba livia	1868	domestic	3	37.3138400	-121.0210400	Stationary	1	0
-S21884998	2015-02-14	Northern Mockingbird	Mimus polyglottos	28114	species	2	37.3138400	-121.0210400	Stationary	1	0
-S21884998	2015-02-14	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	15	37.3138400	-121.0210400	Stationary	1	0
-S21884998	2015-02-14	House Finch	Haemorhous mexicanus	32310	species	1	37.3138400	-121.0210400	Stationary	1	0
-S21884453	2015-02-13	House Finch	Haemorhous mexicanus	32310	species	3	37.3207894	-121.0155630	Stationary	1	0
-S21955419	2015-02-16	House Sparrow	Passer domesticus	31534	species	5	37.3207894	-121.0155630	Stationary	1	0
-S29534324	2016-05-05	Northern Mockingbird	Mimus polyglottos	28114	species	3	37.3207894	-121.0155630	Stationary	1	0
-S29534324	2016-05-05	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	37.3207894	-121.0155630	Stationary	1	1
-S29688711	2016-05-05	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.3207894	-121.0155630	Stationary	1	0
-S81239907	2021-02-13	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	37.3207894	-121.0155630	Stationary	1	0
-S81239907	2021-02-13	Anna's Hummingbird	Calypte anna	4814	species	2	37.3207894	-121.0155630	Stationary	1	0
-S81239907	2021-02-13	Lesser Goldfinch	Spinus psaltria	32609	species	7	37.3207894	-121.0155630	Stationary	1	0
-S81239907	2021-02-13	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	37.3207894	-121.0155630	Stationary	1	0
-S128993737	2023-02-18	Yellow-rumped Warbler	Setophaga coronata	34159	species	X	37.3207894	-121.0155630	Stationary	1	0
-S129142962	2023-02-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.3207894	-121.0155630	Stationary	1	0
-S129144768	2023-02-19	California Scrub-Jay	Aphelocoma californica	21303	species	1	37.3207894	-121.0155630	Stationary	1	0
-S128993737	2023-02-18	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	37.3207894	-121.0155630	Stationary	1	0
-S129144768	2023-02-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.3207894	-121.0155630	Stationary	1	0
-S129142962	2023-02-19	California Scrub-Jay	Aphelocoma californica	21303	species	1	37.3207894	-121.0155630	Stationary	1	0
-S129144768	2023-02-19	Anna's Hummingbird	Calypte anna	4814	species	1	37.3207894	-121.0155630	Stationary	1	0
-S129142962	2023-02-19	Anna's Hummingbird	Calypte anna	4814	species	1	37.3207894	-121.0155630	Stationary	1	0
-S129248861	2023-02-20	House Finch	Haemorhous mexicanus	32310	species	X	37.3207894	-121.0155630	Stationary	1	0
-S272261531	2025-09-08	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.3207894	-121.0155630	Stationary	1	0
-S272261531	2025-09-08	Rock Pigeon	Columba livia	1868	domestic	4	37.3207894	-121.0155630	Stationary	1	0
-S272261531	2025-09-08	California Scrub-Jay	Aphelocoma californica	21303	species	2	37.3207894	-121.0155630	Stationary	1	0
-S272261531	2025-09-08	Northern Mockingbird	Mimus polyglottos	28114	species	1	37.3207894	-121.0155630	Stationary	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S21884998	2015-02-14	L282185	Newman	American Crow	Corvus brachyrhynchos	21557	species	1	37.3138400	-121.0210400	Stationary	1	0
+S21955419	2015-02-16	L1968067	Debs Home	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	15	37.3207894	-121.0155630	Stationary	1	0
+S21884453	2015-02-13	L1968067	Debs Home	American Crow	Corvus brachyrhynchos	21557	species	4	37.3207894	-121.0155630	Stationary	1	0
+S21884453	2015-02-13	L1968067	Debs Home	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	18	37.3207894	-121.0155630	Stationary	1	0
+S21884998	2015-02-14	L282185	Newman	Rock Pigeon	Columba livia	1868	domestic	3	37.3138400	-121.0210400	Stationary	1	0
+S21884998	2015-02-14	L282185	Newman	Northern Mockingbird	Mimus polyglottos	28114	species	2	37.3138400	-121.0210400	Stationary	1	0
+S21884998	2015-02-14	L282185	Newman	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	15	37.3138400	-121.0210400	Stationary	1	0
+S21884998	2015-02-14	L282185	Newman	House Finch	Haemorhous mexicanus	32310	species	1	37.3138400	-121.0210400	Stationary	1	0
+S21884453	2015-02-13	L1968067	Debs Home	House Finch	Haemorhous mexicanus	32310	species	3	37.3207894	-121.0155630	Stationary	1	0
+S21955419	2015-02-16	L1968067	Debs Home	House Sparrow	Passer domesticus	31534	species	5	37.3207894	-121.0155630	Stationary	1	0
+S29534324	2016-05-05	L1968067	Debs Home	Northern Mockingbird	Mimus polyglottos	28114	species	3	37.3207894	-121.0155630	Stationary	1	0
+S29534324	2016-05-05	L1968067	Debs Home	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	37.3207894	-121.0155630	Stationary	1	1
+S29688711	2016-05-05	L1968067	Debs Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.3207894	-121.0155630	Stationary	1	0
+S81239907	2021-02-13	L1968067	Debs Home	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	37.3207894	-121.0155630	Stationary	1	0
+S81239907	2021-02-13	L1968067	Debs Home	Anna's Hummingbird	Calypte anna	4814	species	2	37.3207894	-121.0155630	Stationary	1	0
+S81239907	2021-02-13	L1968067	Debs Home	Lesser Goldfinch	Spinus psaltria	32609	species	7	37.3207894	-121.0155630	Stationary	1	0
+S81239907	2021-02-13	L1968067	Debs Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	37.3207894	-121.0155630	Stationary	1	0
+S128993737	2023-02-18	L1968067	Debs Home	Yellow-rumped Warbler	Setophaga coronata	34159	species	X	37.3207894	-121.0155630	Stationary	1	0
+S129142962	2023-02-19	L1968067	Debs Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.3207894	-121.0155630	Stationary	1	0
+S129144768	2023-02-19	L1968067	Debs Home	California Scrub-Jay	Aphelocoma californica	21303	species	1	37.3207894	-121.0155630	Stationary	1	0
+S128993737	2023-02-18	L1968067	Debs Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	37.3207894	-121.0155630	Stationary	1	0
+S129144768	2023-02-19	L1968067	Debs Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.3207894	-121.0155630	Stationary	1	0
+S129142962	2023-02-19	L1968067	Debs Home	California Scrub-Jay	Aphelocoma californica	21303	species	1	37.3207894	-121.0155630	Stationary	1	0
+S129144768	2023-02-19	L1968067	Debs Home	Anna's Hummingbird	Calypte anna	4814	species	1	37.3207894	-121.0155630	Stationary	1	0
+S129142962	2023-02-19	L1968067	Debs Home	Anna's Hummingbird	Calypte anna	4814	species	1	37.3207894	-121.0155630	Stationary	1	0
+S129248861	2023-02-20	L1968067	Debs Home	House Finch	Haemorhous mexicanus	32310	species	X	37.3207894	-121.0155630	Stationary	1	0
+S272261531	2025-09-08	L1968067	Debs Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.3207894	-121.0155630	Stationary	1	0
+S272261531	2025-09-08	L1968067	Debs Home	Rock Pigeon	Columba livia	1868	domestic	4	37.3207894	-121.0155630	Stationary	1	0
+S272261531	2025-09-08	L1968067	Debs Home	California Scrub-Jay	Aphelocoma californica	21303	species	2	37.3207894	-121.0155630	Stationary	1	0
+S272261531	2025-09-08	L1968067	Debs Home	Northern Mockingbird	Mimus polyglottos	28114	species	1	37.3207894	-121.0155630	Stationary	1	0

@@ -1,12 +1,12 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S26580929,2016-01-01,2016,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,145,,1,46.33921,-120.1891422,9,9,city_1052_washington_granger
-S26574858,2016-01-01,2016,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,5,,1,46.33921,-120.1891422,1,1,city_1052_washington_granger
-S69440049,2020-05-21,2020,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,25,0.535,1,46.335794,-120.194818,5,5,city_1052_washington_granger
-S69889690,2020-05-31,2020,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,57,0.252,1,46.3353461,-120.1933211,4,4,city_1052_washington_granger
-S69647255,2020-05-25,2020,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,13,0.194,1,46.335794,-120.194818,3,3,city_1052_washington_granger
-S71712368,2020-07-21,2020,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,5,0.126,1,46.3353461,-120.1933211,2,2,city_1052_washington_granger
-S103254912,2022-02-20,2022,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,35,2.723,1,46.336153,-120.192765,3,3,city_1052_washington_granger
-S119201420,2022-09-22,2022,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,24,0.454,1,46.3353461,-120.1933211,3,3,city_1052_washington_granger
-S139962674,2023-05-30,2023,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,57,1.609,1,46.3353461,-120.1933211,22,22,city_1052_washington_granger
-S160562158,2024-02-03,2024,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,21,1.034,1,46.3353461,-120.1933211,11,11,city_1052_washington_granger
-S269898215,2025-08-27,2025,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,5,10.2,1,46.346819,-120.179585,3,3,city_1052_washington_granger
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S26580929,L1952573,"318 D St. Granger, WA",2016-01-01,2016,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,145,,1,46.33921,-120.1891422,9,9,city_1052_washington_granger
+S26574858,L1952573,"318 D St. Granger, WA",2016-01-01,2016,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,5,,1,46.33921,-120.1891422,1,1,city_1052_washington_granger
+S69440049,L11513582,"98932, Granger US-WA 46.33579, -120.19482",2020-05-21,2020,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,25,0.535,1,46.335794,-120.194818,5,5,city_1052_washington_granger
+S69889690,L2736531,Hisey Park,2020-05-31,2020,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,57,0.252,1,46.3353461,-120.1933211,4,4,city_1052_washington_granger
+S69647255,L11513582,"98932, Granger US-WA 46.33579, -120.19482",2020-05-25,2020,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,13,0.194,1,46.335794,-120.194818,3,3,city_1052_washington_granger
+S71712368,L2736531,Hisey Park,2020-07-21,2020,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,5,0.126,1,46.3353461,-120.1933211,2,2,city_1052_washington_granger
+S103254912,L17847375,"Hisey Park, Granger US-WA 46.33615, -120.19277",2022-02-20,2022,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,35,2.723,1,46.336153,-120.192765,3,3,city_1052_washington_granger
+S119201420,L2736531,Hisey Park,2022-09-22,2022,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,24,0.454,1,46.3353461,-120.1933211,3,3,city_1052_washington_granger
+S139962674,L2736531,Hisey Park,2023-05-30,2023,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,57,1.609,1,46.3353461,-120.1933211,22,22,city_1052_washington_granger
+S160562158,L2736531,Hisey Park,2024-02-03,2024,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,21,1.034,1,46.3353461,-120.1933211,11,11,city_1052_washington_granger
+S269898215,L52106310,"Washington, I-82 E, Granger US-WA 46.34682, -120.17958",2025-08-27,2025,1052,"Granger, WA",Granger,Washington,Yakima,2299159.36883529,5,10.2,1,46.346819,-120.179585,3,3,city_1052_washington_granger

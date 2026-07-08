@@ -1,16 +1,16 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S74539519	2020-10-07	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	32.9427933	-99.7933208	Traveling	1	0
-S74539519	2020-10-07	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	32.9427933	-99.7933208	Traveling	1	0
-S74539519	2020-10-07	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	32.9427933	-99.7933208	Traveling	1	0
-S74539519	2020-10-07	Common Grackle	Quiscalus quiscula	33853	species	45	32.9427933	-99.7933208	Traveling	1	0
-S157443188	2023-12-29	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	32.9428992	-99.7878483	Traveling	1	0
-S157443188	2023-12-29	White-winged Dove	Zenaida asiatica	2389	species	10	32.9428992	-99.7878483	Traveling	1	0
-S157443188	2023-12-29	Gadwall	Mareca strepera	505	species	17	32.9428992	-99.7878483	Traveling	1	0
-S157443188	2023-12-29	Northern Shoveler	Spatula clypeata	501	species	3	32.9428992	-99.7878483	Traveling	1	0
-S217078909	2025-03-07	Brown-headed Cowbird	Molothrus ater	33833	species	10	32.9427650	-99.7852140	Traveling	1	0
-S217078909	2025-03-07	Great-tailed Grackle	Quiscalus mexicanus	33864	species	30	32.9427650	-99.7852140	Traveling	1	0
-S217078909	2025-03-07	American Crow	Corvus brachyrhynchos	21557	species	1	32.9427650	-99.7852140	Traveling	1	0
-S217078909	2025-03-07	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	1	32.9427650	-99.7852140	Traveling	1	0
-S217078909	2025-03-07	Barn Swallow	Hirundo rustica	24187	species	1	32.9427650	-99.7852140	Traveling	1	0
-S217078909	2025-03-07	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	32.9427650	-99.7852140	Traveling	1	0
-S217078909	2025-03-07	American Coot	Fulica americana	5500	species	3	32.9427650	-99.7852140	Traveling	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S74539519	2020-10-07	L12446504	806 East Wesleyan Street, Stamford, Texas, US (32.943, -99.793)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	32.9427933	-99.7933208	Traveling	1	0
+S74539519	2020-10-07	L12446504	806 East Wesleyan Street, Stamford, Texas, US (32.943, -99.793)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	32.9427933	-99.7933208	Traveling	1	0
+S74539519	2020-10-07	L12446504	806 East Wesleyan Street, Stamford, Texas, US (32.943, -99.793)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	32.9427933	-99.7933208	Traveling	1	0
+S74539519	2020-10-07	L12446504	806 East Wesleyan Street, Stamford, Texas, US (32.943, -99.793)	Common Grackle	Quiscalus quiscula	33853	species	45	32.9427933	-99.7933208	Traveling	1	0
+S157443188	2023-12-29	L28503572	1016 East Wesleyan Street, Stamford, Texas, US (32.943, -99.788)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	32.9428992	-99.7878483	Traveling	1	0
+S157443188	2023-12-29	L28503572	1016 East Wesleyan Street, Stamford, Texas, US (32.943, -99.788)	White-winged Dove	Zenaida asiatica	2389	species	10	32.9428992	-99.7878483	Traveling	1	0
+S157443188	2023-12-29	L28503572	1016 East Wesleyan Street, Stamford, Texas, US (32.943, -99.788)	Gadwall	Mareca strepera	505	species	17	32.9428992	-99.7878483	Traveling	1	0
+S157443188	2023-12-29	L28503572	1016 East Wesleyan Street, Stamford, Texas, US (32.943, -99.788)	Northern Shoveler	Spatula clypeata	501	species	3	32.9428992	-99.7878483	Traveling	1	0
+S217078909	2025-03-07	L40937036	S Columbia St, Stamford US-TX 32.94276, -99.78521	Brown-headed Cowbird	Molothrus ater	33833	species	10	32.9427650	-99.7852140	Traveling	1	0
+S217078909	2025-03-07	L40937036	S Columbia St, Stamford US-TX 32.94276, -99.78521	Great-tailed Grackle	Quiscalus mexicanus	33864	species	30	32.9427650	-99.7852140	Traveling	1	0
+S217078909	2025-03-07	L40937036	S Columbia St, Stamford US-TX 32.94276, -99.78521	American Crow	Corvus brachyrhynchos	21557	species	1	32.9427650	-99.7852140	Traveling	1	0
+S217078909	2025-03-07	L40937036	S Columbia St, Stamford US-TX 32.94276, -99.78521	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	1	32.9427650	-99.7852140	Traveling	1	0
+S217078909	2025-03-07	L40937036	S Columbia St, Stamford US-TX 32.94276, -99.78521	Barn Swallow	Hirundo rustica	24187	species	1	32.9427650	-99.7852140	Traveling	1	0
+S217078909	2025-03-07	L40937036	S Columbia St, Stamford US-TX 32.94276, -99.78521	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	32.9427650	-99.7852140	Traveling	1	0
+S217078909	2025-03-07	L40937036	S Columbia St, Stamford US-TX 32.94276, -99.78521	American Coot	Fulica americana	5500	species	3	32.9427650	-99.7852140	Traveling	1	0

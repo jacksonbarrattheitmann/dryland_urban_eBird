@@ -1,511 +1,511 @@
-checklist_id,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25453241,2015-10-17,2015,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
-S41280626,2017-12-23,2017,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,114,1.207,1,33.0767091,-106.0047412,27,27,city_2604_new_mexico_tularosa
-S34966777,2017-03-04,2017,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,31,1.609,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
-S40873190,2017-12-02,2017,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,33,1.207,1,33.0739069,-106.0202143,25,25,city_2604_new_mexico_tularosa
-S35237978,2017-03-17,2017,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,4.023,1,33.0707522,-106.0200398,8,8,city_2604_new_mexico_tularosa
-S50858450,2018-12-22,2018,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,6,0.161,1,33.074374,-106.018074,10,10,city_2604_new_mexico_tularosa
-S43672862,2018-03-14,2018,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0707522,-106.0200398,4,4,city_2604_new_mexico_tularosa
-S50985011,2018-12-22,2018,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,3.15,1,33.07403,-106.0115433,11,11,city_2604_new_mexico_tularosa
-S55646250,2019-05-01,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,4.989,1,33.0707522,-106.0200398,5,5,city_2604_new_mexico_tularosa
-S62455161,2019-12-19,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,2.414,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S53306413,2019-03-01,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,4.828,1,33.0786172,-106.0196881,6,6,city_2604_new_mexico_tularosa
-S53040449,2019-02-22,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,3.219,1,33.0786172,-106.0196881,4,4,city_2604_new_mexico_tularosa
-S55656000,2019-05-01,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.082349,-106.00406,3,3,city_2604_new_mexico_tularosa
-S62646396,2019-12-26,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.184,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S57592753,2019-06-22,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,13,,1,33.07368,-106.019348,6,6,city_2604_new_mexico_tularosa
-S55647026,2019-05-01,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.082349,-106.00406,4,4,city_2604_new_mexico_tularosa
-S61526697,2019-11-17,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,3.219,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S74248400,2020-09-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,0.161,1,33.070657,-106.020068,5,5,city_2604_new_mexico_tularosa
-S72953573,2020-08-29,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,4.828,1,33.0739069,-106.0202143,23,23,city_2604_new_mexico_tularosa
-S76749050,2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,37,,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S75278229,2020-10-23,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,95,8.047,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
-S72757358,2020-08-23,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,4.828,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
-S72252948,2020-08-09,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,4.828,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
-S68971401,2020-05-13,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,51,4.023,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S71901600,2020-07-28,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,3.219,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
-S68473435,2020-05-05,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,1.77,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S76752087,2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S75655993,2020-10-31,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,4.828,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
-S73365395,2020-09-08,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S73798860,2020-09-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,4.828,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
-S73681529,2020-09-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,110,4.828,1,33.0739069,-106.0202143,28,28,city_2604_new_mexico_tularosa
-S75195084,2020-10-21,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,12.875,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S71646089,2020-07-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,180,,1,33.0707522,-106.0200398,9,9,city_2604_new_mexico_tularosa
-S75878567,2020-11-05,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
-S71662366,2020-07-20,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.07071,-106.019829,9,9,city_2604_new_mexico_tularosa
-S70839710,2020-06-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.023,1,33.070622,-106.020054,9,9,city_2604_new_mexico_tularosa
-S71566512,2020-07-17,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,31,,1,33.070825,-106.019813,5,5,city_2604_new_mexico_tularosa
-S71627902,2020-07-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070677,-106.020187,7,7,city_2604_new_mexico_tularosa
-S77496665,2020-12-14,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0712805,-106.0281646,4,4,city_2604_new_mexico_tularosa
-S78003287,2020-12-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,1.609,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S75619723,2020-10-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,3.219,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
-S77681265,2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,6.437,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S76996328,2020-12-02,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,1.609,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S73273014,2020-09-06,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,86,6.437,1,33.0739069,-106.0202143,28,28,city_2604_new_mexico_tularosa
-S76820122,2020-11-28,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,210,,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S72812828,2020-08-25,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,3.219,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
-S78035075,2020-12-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,3.219,1,33.0739069,-106.0202143,19,19,city_2604_new_mexico_tularosa
-S66052332,2020-03-21,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,3.541,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S74084736,2020-09-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,6.437,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
-S67188558,2020-04-14,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,1.609,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S78035598,2020-12-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,6.437,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S77680692,2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,4.828,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
-S72136632,2020-08-05,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,3.219,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S72445465,2020-08-15,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,3.219,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S74132392,2020-09-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,85,6.437,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
-S70631067,2020-06-20,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.023,1,33.070619,-106.020065,7,7,city_2604_new_mexico_tularosa
-S70548209,2020-06-17,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.023,1,33.070637,-106.020072,6,6,city_2604_new_mexico_tularosa
-S71541613,2020-07-15,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070652,-106.019992,3,3,city_2604_new_mexico_tularosa
-S71069982,2020-07-02,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,3.219,1,33.0765933,-106.022328,5,5,city_2604_new_mexico_tularosa
-S71531042,2020-07-15,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070652,-106.019992,3,3,city_2604_new_mexico_tularosa
-S72185699,2020-08-07,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,4.828,1,33.0739069,-106.0202143,19,19,city_2604_new_mexico_tularosa
-S77705556,2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,12.875,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
-S74459378,2020-10-05,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.828,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
-S73318114,2020-09-07,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,95,4.828,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
-S73350947,2020-09-08,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,4.828,1,33.0739069,-106.0202143,29,29,city_2604_new_mexico_tularosa
-S74825755,2020-10-14,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,4.828,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S71958931,2020-07-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,3.219,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S70915258,2020-06-28,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,4.023,1,33.070678,-106.019973,5,5,city_2604_new_mexico_tularosa
-S72488415,2020-08-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,,1,33.07074,-106.019769,6,6,city_2604_new_mexico_tularosa
-S77512225,2020-12-15,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070741,-106.020053,4,4,city_2604_new_mexico_tularosa
-S75632765,2020-10-31,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S73882892,2020-09-21,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,41,4.828,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S68104465,2020-04-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,4.023,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S68403532,2020-05-04,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,4.023,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S74758432,2020-10-12,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.828,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
-S76493481,2020-11-17,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.0707522,-106.0200398,5,5,city_2604_new_mexico_tularosa
-S71840059,2020-07-25,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070613,-106.020055,4,4,city_2604_new_mexico_tularosa
-S76454956,2020-11-20,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070605,-106.020131,9,9,city_2604_new_mexico_tularosa
-S77775057,2020-12-20,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,,1,33.070698,-106.02013,8,8,city_2604_new_mexico_tularosa
-S66444081,2020-03-31,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.082349,-106.00406,4,4,city_2604_new_mexico_tularosa
-S71619431,2020-07-18,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,85,,1,33.070635,-106.020153,7,7,city_2604_new_mexico_tularosa
-S77581761,2020-12-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,1.609,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S76749083,2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S75620127,2020-10-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,6.437,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S76151124,2020-11-12,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
-S76749612,2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.071567,-106.027991,6,6,city_2604_new_mexico_tularosa
-S75409909,2020-10-25,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,,1,33.070619,-106.020055,4,4,city_2604_new_mexico_tularosa
-S76692469,2020-11-25,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
-S77269890,2020-12-09,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070741,-106.020053,5,5,city_2604_new_mexico_tularosa
-S78221189,2020-12-29,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070764,-106.020064,8,8,city_2604_new_mexico_tularosa
-S76731259,2020-11-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,2.414,1,33.0723937,-106.0196757,8,8,city_2604_new_mexico_tularosa
-S65711485,2020-03-12,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
-S78234022,2020-12-29,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,8.047,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
-S70359707,2020-06-12,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,3.541,1,33.070623,-106.020051,5,5,city_2604_new_mexico_tularosa
-S72071979,2020-08-03,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.070778,-106.02003,5,5,city_2604_new_mexico_tularosa
-S76771945,2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.0723937,-106.0196757,3,3,city_2604_new_mexico_tularosa
-S75532867,2020-10-28,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070651,-106.020046,8,8,city_2604_new_mexico_tularosa
-S69138487,2020-05-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,3.541,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S76323918,2020-11-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070605,-106.020131,4,4,city_2604_new_mexico_tularosa
-S70383049,2020-06-13,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.023,1,33.070605,-106.020077,4,4,city_2604_new_mexico_tularosa
-S67679805,2020-04-23,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070625,-106.020116,3,3,city_2604_new_mexico_tularosa
-S72250235,2020-08-09,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070669,-106.020132,5,5,city_2604_new_mexico_tularosa
-S77704091,2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,3.219,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
-S70794531,2020-06-24,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.082349,-106.00406,4,4,city_2604_new_mexico_tularosa
-S75962835,2020-11-07,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070669,-106.020051,5,5,city_2604_new_mexico_tularosa
-S65870781,2020-03-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,130,,1,33.0739069,-106.0202143,1,1,city_2604_new_mexico_tularosa
-S71539832,2020-07-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070652,-106.019992,4,4,city_2604_new_mexico_tularosa
-S77660415,2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.0739069,-106.0202143,1,1,city_2604_new_mexico_tularosa
-S85554325,2021-04-14,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.805,1,33.0723937,-106.0196757,4,4,city_2604_new_mexico_tularosa
-S82987476,2021-03-07,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,0.5,1,33.070699,-106.020079,15,15,city_2604_new_mexico_tularosa
-S82210219,2021-02-23,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070685,-106.020113,5,5,city_2604_new_mexico_tularosa
-S85858198,2021-04-18,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,85,,1,33.0733588,-106.0208297,21,21,city_2604_new_mexico_tularosa
-S82988278,2021-03-07,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,21,,1,33.0733588,-106.0208297,13,13,city_2604_new_mexico_tularosa
-S81842724,2021-02-17,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070811,-106.019963,6,6,city_2604_new_mexico_tularosa
-S84104539,2021-03-25,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,2.414,1,33.0733588,-106.0208297,10,10,city_2604_new_mexico_tularosa
-S83878456,2021-03-22,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070689,-106.020007,5,5,city_2604_new_mexico_tularosa
-S85070532,2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0720679,-106.0213027,12,12,city_2604_new_mexico_tularosa
-S82444634,2021-02-27,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,2.048,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S89560702,2021-06-03,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,6.437,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S91540312,2021-07-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,6.437,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
-S82946107,2021-03-07,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,3.219,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S79844915,2021-01-24,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,6.437,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S79456232,2021-01-17,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,12.875,1,33.0739069,-106.0202143,21,21,city_2604_new_mexico_tularosa
-S87565447,2021-05-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,123,,1,33.0744437,-106.0066967,6,6,city_2604_new_mexico_tularosa
-S89840215,2021-06-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
-S80092306,2021-01-29,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,0.161,1,33.0723937,-106.0196757,5,5,city_2604_new_mexico_tularosa
-S90101662,2021-06-13,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.070605,-106.020131,8,8,city_2604_new_mexico_tularosa
-S79873060,2021-01-25,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,9,,1,33.070754,-106.020101,7,7,city_2604_new_mexico_tularosa
-S78369248,2021-01-01,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070667,-106.020054,6,6,city_2604_new_mexico_tularosa
-S79564042,2021-01-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070754,-106.020101,5,5,city_2604_new_mexico_tularosa
-S85070342,2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0733588,-106.0208297,9,9,city_2604_new_mexico_tularosa
-S89226417,2021-05-29,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,6.437,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S82527149,2021-02-28,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,0.306,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
-S87128685,2021-05-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,72,,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S86117210,2021-04-22,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,41,,1,33.0739069,-106.0202143,19,19,city_2604_new_mexico_tularosa
-S80367887,2021-02-03,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,0,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S86500656,2021-04-27,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,51,6.437,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
-S80141093,2021-01-30,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,1.609,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S92951716,2021-08-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,6.437,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
-S89048164,2021-05-26,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070678,-106.019973,5,5,city_2604_new_mexico_tularosa
-S78499688,2021-01-02,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.0723937,-106.0196757,7,7,city_2604_new_mexico_tularosa
-S78797304,2021-01-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.0723937,-106.0196757,11,11,city_2604_new_mexico_tularosa
-S79203431,2021-01-13,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070712,-106.020041,6,6,city_2604_new_mexico_tularosa
-S83167262,2021-03-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070651,-106.020181,5,5,city_2604_new_mexico_tularosa
-S91296754,2021-07-05,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,1.931,1,33.070598,-106.020031,5,5,city_2604_new_mexico_tularosa
-S96319941,2021-10-18,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070636,-106.019996,1,1,city_2604_new_mexico_tularosa
-S81772359,2021-02-16,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,6.437,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S85821748,2021-04-18,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,3.219,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S81478795,2021-02-14,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,240,,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S92758190,2021-08-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,6.437,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S82765964,2021-03-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.0708897,-106.0204317,5,5,city_2604_new_mexico_tularosa
-S87786077,2021-05-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,71,,1,33.0744437,-106.0066967,6,6,city_2604_new_mexico_tularosa
-S83572019,2021-03-17,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,2.414,1,33.0765933,-106.022328,11,11,city_2604_new_mexico_tularosa
-S91432963,2021-07-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,23,1.77,1,33.0765933,-106.022328,7,7,city_2604_new_mexico_tularosa
-S80038916,2021-01-28,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0723937,-106.0196757,7,7,city_2604_new_mexico_tularosa
-S81033127,2021-02-12,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
-S83406523,2021-03-14,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,,1,33.070689,-106.020007,8,8,city_2604_new_mexico_tularosa
-S82827371,2021-03-05,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070748,-106.019987,7,7,city_2604_new_mexico_tularosa
-S85671855,2021-04-16,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070756,-106.019922,5,5,city_2604_new_mexico_tularosa
-S92793399,2021-08-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070806,-106.019848,4,4,city_2604_new_mexico_tularosa
-S87433892,2021-05-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070674,-106.020006,4,4,city_2604_new_mexico_tularosa
-S91176967,2021-07-03,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,6.437,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S79547634,2021-01-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,1.609,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S80337668,2021-02-02,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,2.414,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S81705002,2021-02-15,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,180,,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
-S78960658,2021-01-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,6.437,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S87903073,2021-05-12,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0744437,-106.0066967,6,6,city_2604_new_mexico_tularosa
-S84116259,2021-03-21,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
-S96006094,2021-10-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,5,5,city_2604_new_mexico_tularosa
-S91390805,2021-07-07,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,1.77,1,33.0765933,-106.022328,7,7,city_2604_new_mexico_tularosa
-S84103178,2021-03-25,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070699,-106.020079,11,11,city_2604_new_mexico_tularosa
-S84104898,2021-03-21,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070699,-106.020079,8,8,city_2604_new_mexico_tularosa
-S84987141,2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,0.483,1,33.0723937,-106.0196757,3,3,city_2604_new_mexico_tularosa
-S78666295,2021-01-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070667,-106.020054,6,6,city_2604_new_mexico_tularosa
-S79148687,2021-01-12,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,,1,33.070712,-106.020041,9,9,city_2604_new_mexico_tularosa
-S79289472,2021-01-15,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070712,-106.020041,5,5,city_2604_new_mexico_tularosa
-S85070111,2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070699,-106.020079,14,14,city_2604_new_mexico_tularosa
-S81725427,2021-02-16,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S80405486,2021-02-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070754,-106.020101,5,5,city_2604_new_mexico_tularosa
-S84986607,2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070741,-106.020077,5,5,city_2604_new_mexico_tularosa
-S85896449,2021-04-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070704,-106.019998,4,4,city_2604_new_mexico_tularosa
-S89680026,2021-06-05,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,6.437,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S82160909,2021-02-22,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,1.609,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S85925183,2021-04-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.0712805,-106.0281646,8,8,city_2604_new_mexico_tularosa
-S81963796,2021-02-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070764,-106.020064,5,5,city_2604_new_mexico_tularosa
-S79617502,2021-01-20,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070754,-106.020101,5,5,city_2604_new_mexico_tularosa
-S82464499,2021-02-27,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,8.047,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
-S78938812,2021-01-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,1.609,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S89952453,2021-06-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,3.219,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
-S87699548,2021-05-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.322,1,33.0727203,-106.0200812,3,3,city_2604_new_mexico_tularosa
-S80134857,2021-01-30,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,4.828,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S79521246,2021-01-18,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,6.437,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S79983111,2021-01-27,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0723937,-106.0196757,5,5,city_2604_new_mexico_tularosa
-S87458394,2021-05-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,82,,1,33.0744437,-106.0066967,5,5,city_2604_new_mexico_tularosa
-S98717940,2021-12-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070689,-106.020007,4,4,city_2604_new_mexico_tularosa
-S96092820,2021-10-13,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,10.139,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S86086679,2021-04-22,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070778,-106.02003,5,5,city_2604_new_mexico_tularosa
-S82414161,2021-02-26,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070748,-106.019987,5,5,city_2604_new_mexico_tularosa
-S85132424,2021-04-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.070738,-106.019987,5,5,city_2604_new_mexico_tularosa
-S92991547,2021-08-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,,1,33.070622,-106.020126,3,3,city_2604_new_mexico_tularosa
-S83242787,2021-03-12,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,12,,1,33.0739069,-106.0202143,2,2,city_2604_new_mexico_tularosa
-S83065466,2021-03-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070651,-106.020181,6,6,city_2604_new_mexico_tularosa
-S96097343,2021-10-13,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,9,,1,33.0748206,-106.024201,2,2,city_2604_new_mexico_tularosa
-S79588681,2021-01-20,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070754,-106.020101,1,1,city_2604_new_mexico_tularosa
-S83478537,2021-03-15,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070689,-106.020007,6,6,city_2604_new_mexico_tularosa
-S81685228,2021-02-15,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.805,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S79567094,2021-01-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070754,-106.020101,5,5,city_2604_new_mexico_tularosa
-S107057780,2022-04-13,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,,1,33.070678,-106.019973,5,5,city_2604_new_mexico_tularosa
-S109823300,2022-05-12,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,9,,1,33.070827,-106.019902,13,13,city_2604_new_mexico_tularosa
-S124476627,2022-12-23,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,9.22,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S124584035,2022-12-25,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,47,5.74,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
-S120857047,2022-10-17,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,19,4.828,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
-S124108985,2022-12-17,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,27,6.272,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
-S104691207,2022-03-12,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,68,24.945,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
-S105372347,2022-03-22,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,8.047,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S103115928,2022-02-19,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,210,,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S123972654,2022-12-14,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,22,8.047,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S116019480,2022-07-30,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,32,0.1,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
-S101675136,2022-01-29,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,33,8.047,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
-S110157829,2022-05-14,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,47,7.979,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
-S121956378,2022-11-06,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
-S109212638,2022-05-07,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,62,8.007,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
-S114183077,2022-07-01,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,43.918,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S111486080,2022-05-28,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,57,8.632,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
-S103443769,2022-02-21,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S124893814,2022-12-30,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070677,-106.020187,5,5,city_2604_new_mexico_tularosa
-S101887632,2022-02-01,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070636,-106.019996,2,2,city_2604_new_mexico_tularosa
-S103294033,2022-02-20,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
-S109994481,2022-05-14,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,5.356,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S122197255,2022-11-10,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,5,5,city_2604_new_mexico_tularosa
-S124385471,2022-12-21,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,42,2.414,1,33.070748,-106.019987,6,6,city_2604_new_mexico_tularosa
-S124514012,2022-12-23,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
-S125063158,2022-12-31,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,3.094,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S100312874,2022-01-07,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,8.047,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S106178845,2022-04-03,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,0.74,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
-S111216213,2022-05-24,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070811,-106.019963,3,3,city_2604_new_mexico_tularosa
-S123248928,2022-11-30,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.0707522,-106.0200398,4,4,city_2604_new_mexico_tularosa
-S123119693,2022-11-26,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0726528,-106.0201107,7,7,city_2604_new_mexico_tularosa
-S111292622,2022-05-25,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.070811,-106.019963,3,3,city_2604_new_mexico_tularosa
-S101204629,2022-01-22,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,8.047,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S101476406,2022-01-26,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,2,2,city_2604_new_mexico_tularosa
-S124821141,2022-12-28,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.07078,-106.019981,3,3,city_2604_new_mexico_tularosa
-S125015741,2022-12-31,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.027,1,33.0723937,-106.0196757,1,1,city_2604_new_mexico_tularosa
-S124617491,2022-12-26,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.0739069,-106.0202143,1,1,city_2604_new_mexico_tularosa
-S125145044,2023-01-01,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070623,-106.020051,7,7,city_2604_new_mexico_tularosa
-S152749927,2023-10-21,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,49,8.831,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
-S139909622,2023-05-30,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,22,4.828,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S140901428,2023-06-08,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,92,2.414,1,33.0739069,-106.0202143,21,21,city_2604_new_mexico_tularosa
-S149153055,2023-09-06,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S144094033,2023-07-09,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,1.722,1,33.0755067,-106.0088832,17,17,city_2604_new_mexico_tularosa
-S154465407,2023-11-14,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,0.298,1,33.072496,-106.019843,4,4,city_2604_new_mexico_tularosa
-S149032474,2023-09-04,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0726528,-106.0201107,5,5,city_2604_new_mexico_tularosa
-S155175153,2023-11-25,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,16,3.493,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S134401564,2023-04-20,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,13,0.091,1,33.0784443,-106.0181516,5,5,city_2604_new_mexico_tularosa
-S139774138,2023-05-29,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,62,8.645,1,33.0739069,-106.0202143,24,24,city_2604_new_mexico_tularosa
-S144089594,2023-07-09,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,31,0.853,1,33.0786462,-106.0102411,8,8,city_2604_new_mexico_tularosa
-S134976456,2023-04-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
-S157195893,2023-12-26,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
-S130381349,2023-03-07,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
-S136955916,2023-05-10,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.07078,-106.019981,4,4,city_2604_new_mexico_tularosa
-S134865071,2023-04-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,0.409,1,33.0723937,-106.0196757,6,6,city_2604_new_mexico_tularosa
-S139326951,2023-05-26,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.070689,-106.020007,5,5,city_2604_new_mexico_tularosa
-S130072426,2023-03-03,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,0.805,1,33.0712805,-106.0281646,6,6,city_2604_new_mexico_tularosa
-S125659757,2023-01-07,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,3.219,1,33.0720679,-106.0213027,5,5,city_2604_new_mexico_tularosa
-S125562871,2023-01-06,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,6.513,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S130236224,2023-03-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,58,10.298,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S140711733,2023-06-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
-S155705209,2023-12-03,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
-S155760341,2023-12-04,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
-S130133981,2023-03-04,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,19,0.689,1,33.0712805,-106.0281646,11,11,city_2604_new_mexico_tularosa
-S125781487,2023-01-09,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.07078,-106.019981,7,7,city_2604_new_mexico_tularosa
-S140512897,2023-06-04,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.07078,-106.019981,5,5,city_2604_new_mexico_tularosa
-S127701518,2023-02-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,71,1.448,1,33.0739069,-106.0202143,19,19,city_2604_new_mexico_tularosa
-S129797309,2023-02-27,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,88,1.931,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
-S128460263,2023-02-16,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,9.656,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S147022514,2023-08-11,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
-S126383147,2023-01-17,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,52,,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
-S156294832,2023-12-14,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
-S130665534,2023-03-11,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,8.283,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
-S155311176,2023-11-27,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,,1,33.070811,-106.019963,5,5,city_2604_new_mexico_tularosa
-S130219880,2023-03-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,0.491,1,33.0712805,-106.0281646,11,11,city_2604_new_mexico_tularosa
-S151980689,2023-10-10,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,0.558,1,33.070832,-106.019854,3,3,city_2604_new_mexico_tularosa
-S134906966,2023-04-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
-S144567591,2023-07-14,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,4.466,1,33.078509,-106.018269,5,5,city_2604_new_mexico_tularosa
-S125346833,2023-01-03,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,,1,33.07078,-106.019981,4,4,city_2604_new_mexico_tularosa
-S127676677,2023-02-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,22,,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S125905398,2023-01-10,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.07078,-106.019981,2,2,city_2604_new_mexico_tularosa
-S149153393,2023-09-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S152991233,2023-10-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,56,,1,33.070825,-106.019813,4,4,city_2604_new_mexico_tularosa
-S151372921,2023-10-03,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,,1,33.070832,-106.019854,3,3,city_2604_new_mexico_tularosa
-S154169834,2023-11-10,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070827,-106.019902,3,3,city_2604_new_mexico_tularosa
-S145112275,2023-07-20,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
-S156273054,2023-12-13,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070811,-106.019963,5,5,city_2604_new_mexico_tularosa
-S154344687,2023-11-12,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070811,-106.019963,1,1,city_2604_new_mexico_tularosa
-S143102779,2023-06-29,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,6,,1,33.0746727,-106.0297165,4,4,city_2604_new_mexico_tularosa
-S132757638,2023-04-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,16,,1,33.070827,-106.019902,5,5,city_2604_new_mexico_tularosa
-S136226357,2023-05-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,27,,1,33.0746727,-106.0297165,4,4,city_2604_new_mexico_tularosa
-S125661331,2023-01-07,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,1.609,1,33.0766703,-106.0227603,4,4,city_2604_new_mexico_tularosa
-S139149884,2023-05-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070605,-106.020131,4,4,city_2604_new_mexico_tularosa
-S140606751,2023-06-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,16,,1,33.070756,-106.019922,5,5,city_2604_new_mexico_tularosa
-S125063528,2023-01-01,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
-S205372491,2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,43,3.723,1,33.069542,-106.0314,6,6,city_2604_new_mexico_tularosa
-S171227851,2024-04-30,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,,1,33.0744437,-106.0066967,5,5,city_2604_new_mexico_tularosa
-S161159683,2024-02-10,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
-S177587706,2024-05-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,14,14,city_2604_new_mexico_tularosa
-S170407921,2024-04-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
-S175072373,2024-05-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070623,-106.020051,16,16,city_2604_new_mexico_tularosa
-S159866893,2024-01-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070778,-106.02003,8,8,city_2604_new_mexico_tularosa
-S178020924,2024-05-29,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,7.242,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
-S206511216,2024-12-24,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,14.484,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S173551010,2024-05-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,5.001,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S205362559,2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,43,1.967,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S160943629,2024-02-08,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,23,6.688,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
-S178213932,2024-05-30,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,53,8.061,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
-S205414833,2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,6.437,1,33.074781,-106.028024,12,12,city_2604_new_mexico_tularosa
-S168200672,2024-04-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
-S174057972,2024-05-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,16,16,city_2604_new_mexico_tularosa
-S167103284,2024-04-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070678,-106.019973,4,4,city_2604_new_mexico_tularosa
-S172916791,2024-05-08,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,9,9,city_2604_new_mexico_tularosa
-S162112983,2024-02-18,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
-S179819778,2024-06-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,15,15,city_2604_new_mexico_tularosa
-S158352838,2024-01-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
-S160448406,2024-02-02,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070778,-106.02003,4,4,city_2604_new_mexico_tularosa
-S167197916,2024-04-04,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,28,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S206248141,2024-12-22,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
-S202859340,2024-11-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,14.484,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S198800568,2024-10-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
-S179179390,2024-06-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,3.219,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
-S194488073,2024-09-08,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,7.242,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S167163201,2024-04-04,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,119,0.052,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S185138522,2024-07-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,16,1.053,1,33.075768,-106.015802,8,8,city_2604_new_mexico_tularosa
-S159639346,2024-01-23,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070778,-106.02003,4,4,city_2604_new_mexico_tularosa
-S162075885,2024-02-18,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070778,-106.02003,3,3,city_2604_new_mexico_tularosa
-S161337899,2024-02-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070778,-106.02003,8,8,city_2604_new_mexico_tularosa
-S170696267,2024-04-28,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S165281108,2024-03-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
-S185638447,2024-07-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
-S189955087,2024-08-02,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,94,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
-S166292728,2024-03-28,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,0,1,33.070689,-106.020007,8,8,city_2604_new_mexico_tularosa
-S159507920,2024-01-21,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.07078,-106.019981,5,5,city_2604_new_mexico_tularosa
-S167278441,2024-04-05,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
-S205393399,2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,52,2.575,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S173636694,2024-05-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S204372147,2024-12-01,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,14.484,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S183953435,2024-06-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,52,2.328,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S160712687,2024-02-05,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
-S159963330,2024-01-27,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
-S159296750,2024-01-19,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.07078,-106.019981,7,7,city_2604_new_mexico_tularosa
-S197829575,2024-10-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070756,-106.019922,3,3,city_2604_new_mexico_tularosa
-S205862080,2024-12-18,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
-S159390127,2024-01-20,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,5.012,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S158823069,2024-01-13,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,47,9.005,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S205774548,2024-12-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,121,,1,33.070754,-106.020101,6,6,city_2604_new_mexico_tularosa
-S170934787,2024-04-29,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,56,,1,33.070781,-106.020091,10,10,city_2604_new_mexico_tularosa
-S203181133,2024-11-21,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,6.223,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S178645312,2024-06-01,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,6.437,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S161120756,2024-02-10,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,6.437,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S206817288,2024-12-27,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,11,11,city_2604_new_mexico_tularosa
-S202859101,2024-11-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
-S173774190,2024-05-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070703,-106.020021,8,8,city_2604_new_mexico_tularosa
-S166220637,2024-03-28,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
-S158770334,2024-01-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.07078,-106.019981,4,4,city_2604_new_mexico_tularosa
-S158667055,2024-01-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,155,,1,33.070811,-106.019963,5,5,city_2604_new_mexico_tularosa
-S206511522,2024-12-24,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
-S158635233,2024-01-10,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
-S160885262,2024-02-07,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070778,-106.02003,4,4,city_2604_new_mexico_tularosa
-S164882806,2024-03-15,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
-S159410677,2024-01-20,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.07078,-106.019981,1,1,city_2604_new_mexico_tularosa
-S179154036,2024-06-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070712,-106.020041,7,7,city_2604_new_mexico_tularosa
-S204371962,2024-12-01,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,6,6,city_2604_new_mexico_tularosa
-S170336923,2024-04-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
-S205356342,2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,0.196,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S173798134,2024-05-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,0.117,1,33.079474,-106.011059,8,8,city_2604_new_mexico_tularosa
-S160213067,2024-01-29,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.070778,-106.02003,3,3,city_2604_new_mexico_tularosa
-S202675502,2024-11-16,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,23,6.437,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S159711045,2024-01-24,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
-S205554116,2024-12-15,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070754,-106.020101,6,6,city_2604_new_mexico_tularosa
-S163924690,2024-03-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
-S205944999,2024-12-19,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,7.23,1,33.0755055,-106.0191825,2,2,city_2604_new_mexico_tularosa
-S164182872,2024-03-09,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070678,-106.019973,3,3,city_2604_new_mexico_tularosa
-S165953432,2024-03-25,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,12,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
-S158823115,2024-01-13,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,,1,33.0712805,-106.0281646,3,3,city_2604_new_mexico_tularosa
-S159135469,2024-01-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.07078,-106.019981,1,1,city_2604_new_mexico_tularosa
-S173870886,2024-05-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
-S164500172,2024-03-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
-S161032769,2024-02-09,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070778,-106.02003,1,1,city_2604_new_mexico_tularosa
-S170051854,2024-04-24,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,155,,1,33.070781,-106.020091,2,2,city_2604_new_mexico_tularosa
-S198846162,2024-10-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,17,,1,33.070712,-106.020041,1,1,city_2604_new_mexico_tularosa
-S167086464,2024-04-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070678,-106.019973,4,4,city_2604_new_mexico_tularosa
-S203132093,2024-11-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070811,-106.019963,2,2,city_2604_new_mexico_tularosa
-S203159699,2024-11-21,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,6,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
-S160927981,2024-02-08,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070778,-106.02003,1,1,city_2604_new_mexico_tularosa
-S200436844,2024-10-27,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070712,-106.020041,1,1,city_2604_new_mexico_tularosa
-S227380161,2025-04-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,0.119,1,33.070678,-106.019973,12,12,city_2604_new_mexico_tularosa
-S236285423,2025-05-10,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,18,18,city_2604_new_mexico_tularosa
-S278629145,2025-10-11,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0726528,-106.0201107,14,14,city_2604_new_mexico_tularosa
-S209041389,2025-01-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0726528,-106.0201107,11,11,city_2604_new_mexico_tularosa
-S227235876,2025-04-19,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,16,16,city_2604_new_mexico_tularosa
-S289721074,2025-12-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0726528,-106.0201107,14,14,city_2604_new_mexico_tularosa
-S249044190,2025-06-10,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
-S244320676,2025-05-29,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.644,1,33.0723937,-106.0196757,4,4,city_2604_new_mexico_tularosa
-S219513067,2025-03-19,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
-S233134732,2025-05-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,19,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
-S245186305,2025-05-31,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
-S216865598,2025-03-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S241507043,2025-05-23,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S216623573,2025-03-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
-S234552080,2025-05-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,,1,33.070712,-106.020041,7,7,city_2604_new_mexico_tularosa
-S228159970,2025-04-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,88,,1,33.070712,-106.020041,10,10,city_2604_new_mexico_tularosa
-S232011696,2025-04-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,88,,1,33.070712,-106.020041,10,10,city_2604_new_mexico_tularosa
-S210402524,2025-01-23,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,89,,1,33.070712,-106.020041,9,9,city_2604_new_mexico_tularosa
-S224924824,2025-04-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,32,5.087,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
-S209637799,2025-01-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,8.04,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S245478992,2025-06-01,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,8.047,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
-S279898508,2025-10-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,0.105,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S245046567,2025-05-31,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,8.047,1,33.0739069,-106.0202143,25,25,city_2604_new_mexico_tularosa
-S233662435,2025-05-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,14.484,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S238159449,2025-05-15,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,28,3.104,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
-S246000044,2025-06-02,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,27,5.219,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S236392921,2025-05-11,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,1.818,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S233870377,2025-05-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,,1,33.0726528,-106.0201107,17,17,city_2604_new_mexico_tularosa
-S233661845,2025-05-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.0726528,-106.0201107,15,15,city_2604_new_mexico_tularosa
-S237299237,2025-05-13,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,14,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S219232095,2025-03-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S287317338,2025-12-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,0.805,1,33.0723937,-106.0196757,4,4,city_2604_new_mexico_tularosa
-S210464010,2025-01-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,,1,33.070712,-106.020041,6,6,city_2604_new_mexico_tularosa
-S239790873,2025-05-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,33,5.633,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S235496589,2025-05-10,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,2.412,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S212447820,2025-02-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,29,6.796,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
-S221023806,2025-03-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,3.166,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S211856064,2025-02-03,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,6.437,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S239256207,2025-05-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,39,1.804,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S263779325,2025-07-29,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
-S265050024,2025-08-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
-S220918249,2025-03-26,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
-S223569745,2025-04-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
-S265837172,2025-08-07,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
-S210086156,2025-01-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,9,9,city_2604_new_mexico_tularosa
-S247344085,2025-06-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,23,1.29,1,33.0730829,-106.0213865,11,11,city_2604_new_mexico_tularosa
-S209213639,2025-01-13,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
-S219964094,2025-03-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,47,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S288898036,2025-12-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,28,1.228,1,33.0730829,-106.0213865,9,9,city_2604_new_mexico_tularosa
-S215715747,2025-02-27,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,29,5.141,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
-S280374998,2025-10-19,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,67,7.132,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S211851708,2025-02-02,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,14.484,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S233661011,2025-05-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,33,2.523,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
-S280811618,2025-10-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,1.943,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
-S217260921,2025-03-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,41,6.306,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S223570267,2025-04-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,14.484,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
-S220337203,2025-03-23,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,7.043,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
-S242007331,2025-05-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,7.242,1,33.0739069,-106.0202143,21,21,city_2604_new_mexico_tularosa
-S286232698,2025-11-26,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,12.875,1,33.0739069,-106.0202143,21,21,city_2604_new_mexico_tularosa
-S289006529,2025-12-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.402,1,33.072496,-106.019843,4,4,city_2604_new_mexico_tularosa
-S286371647,2025-11-27,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,,1,33.0726528,-106.0201107,16,16,city_2604_new_mexico_tularosa
-S279785459,2025-10-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,13,,1,33.070678,-106.019973,3,3,city_2604_new_mexico_tularosa
-S238121505,2025-05-15,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070781,-106.020091,9,9,city_2604_new_mexico_tularosa
-S239164522,2025-05-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
-S225070787,2025-04-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,,1,33.0726528,-106.0201107,20,20,city_2604_new_mexico_tularosa
-S216460186,2025-03-03,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
-S289070865,2025-12-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,,1,33.070712,-106.020041,5,5,city_2604_new_mexico_tularosa
-S209760608,2025-01-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,3.698,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S280121636,2025-10-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,41,5.295,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S221411515,2025-03-28,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0792322,-106.0103018,5,5,city_2604_new_mexico_tularosa
-S246298642,2025-06-02,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
-S218484380,2025-03-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
-S210259515,2025-01-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,,1,33.070712,-106.020041,7,7,city_2604_new_mexico_tularosa
-S211231748,2025-01-30,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,160,,1,33.070781,-106.020091,9,9,city_2604_new_mexico_tularosa
-S216910419,2025-03-02,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
-S211160707,2025-01-29,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,125,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
-S236674564,2025-05-11,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070781,-106.020091,10,10,city_2604_new_mexico_tularosa
-S210674108,2025-01-25,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,0.751,1,33.0730829,-106.0213865,6,6,city_2604_new_mexico_tularosa
-S227801341,2025-04-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070689,-106.020007,2,2,city_2604_new_mexico_tularosa
-S236923476,2025-05-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,52,4.573,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
-S213809480,2025-02-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,27,7.482,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S213952727,2025-02-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,17,8.047,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S280515598,2025-10-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,2.041,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
-S213467333,2025-02-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
-S287970686,2025-12-09,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,57,,1,33.070712,-106.020041,5,5,city_2604_new_mexico_tularosa
-S287851866,2025-12-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,68,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
-S287510046,2025-12-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
-S231812359,2025-05-01,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,32,6.437,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
-S210492370,2025-01-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,6.039,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S284436079,2025-11-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,15,15,city_2604_new_mexico_tularosa
-S247725288,2025-06-07,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,1.587,1,33.0730829,-106.0213865,9,9,city_2604_new_mexico_tularosa
-S288143274,2025-12-11,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,99,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
-S227235566,2025-04-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,14.484,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
-S284809823,2025-11-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,4.71,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
-S223982201,2025-04-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,165,,1,33.070678,-106.019973,4,4,city_2604_new_mexico_tularosa
-S241947634,2025-05-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
-S220556602,2025-03-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,38,1.983,1,33.0730829,-106.0213865,12,12,city_2604_new_mexico_tularosa
-S211851384,2025-02-01,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
-S236850426,2025-05-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,62,,1,33.070781,-106.020091,12,12,city_2604_new_mexico_tularosa
-S219694621,2025-03-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,29,7.725,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
-S285048289,2025-11-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S237734726,2025-05-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
-S288243990,2025-12-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,6,,1,33.070781,-106.020091,2,2,city_2604_new_mexico_tularosa
-S288418290,2025-12-13,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,13,1.783,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S288649039,2025-12-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,0.278,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
-S227922791,2025-04-21,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
-S241542373,2025-05-23,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,1.276,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
-S210611450,2025-01-25,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,131,,1,33.070678,-106.019973,7,7,city_2604_new_mexico_tularosa
-S226818571,2025-04-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
-S230239008,2025-04-27,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,1.609,1,33.07956,-106.0122085,2,2,city_2604_new_mexico_tularosa
-S288731391,2025-12-15,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,0.402,1,33.0723937,-106.0196757,4,4,city_2604_new_mexico_tularosa
-S227608250,2025-04-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070689,-106.020007,2,2,city_2604_new_mexico_tularosa
-S281220003,2025-10-25,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,12,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
-S213469304,2025-02-15,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0726528,-106.0201107,1,1,city_2604_new_mexico_tularosa
-S288016419,2025-12-10,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
-S210800768,2025-01-26,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0736214,-106.0264714,1,1,city_2604_new_mexico_tularosa
-S284958895,2025-11-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070712,-106.020041,1,1,city_2604_new_mexico_tularosa
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S25453241,L2276418,Tularosa (town),2015-10-17,2015,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
+S41280626,L6600558,Posey Ln and Old Mescalero Road,2017-12-23,2017,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,114,1.207,1,33.0767091,-106.0047412,27,27,city_2604_new_mexico_tularosa
+S34966777,L2276418,Tularosa (town),2017-03-04,2017,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,31,1.609,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
+S40873190,L2276418,Tularosa (town),2017-12-02,2017,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,33,1.207,1,33.0739069,-106.0202143,25,25,city_2604_new_mexico_tularosa
+S35237978,L5284482,"502 7th Street, Tularosa, NM  88352",2017-03-17,2017,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,4.023,1,33.0707522,-106.0200398,8,8,city_2604_new_mexico_tularosa
+S50858450,L8285755,Third and Encino St,2018-12-22,2018,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,6,0.161,1,33.074374,-106.018074,10,10,city_2604_new_mexico_tularosa
+S43672862,L5284482,"502 7th Street, Tularosa, NM  88352",2018-03-14,2018,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0707522,-106.0200398,4,4,city_2604_new_mexico_tularosa
+S50985011,L4152332,Tularosa (eastern residential streets),2018-12-22,2018,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,3.15,1,33.07403,-106.0115433,11,11,city_2604_new_mexico_tularosa
+S55646250,L5284482,"502 7th Street, Tularosa, NM  88352",2019-05-01,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,4.989,1,33.0707522,-106.0200398,5,5,city_2604_new_mexico_tularosa
+S62455161,L2276418,Tularosa (town),2019-12-19,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,2.414,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S53306413,L8374170,"96 Central Avenue, Tularosa, New Mexico, US (33.079, -106.02)",2019-03-01,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,4.828,1,33.0786172,-106.0196881,6,6,city_2604_new_mexico_tularosa
+S53040449,L8374170,"96 Central Avenue, Tularosa, New Mexico, US (33.079, -106.02)",2019-02-22,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,3.219,1,33.0786172,-106.0196881,4,4,city_2604_new_mexico_tularosa
+S55656000,L9158723,"1420 Apple Ave, Tularosa US-NM (33.0823,-106.0041)",2019-05-01,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.082349,-106.00406,3,3,city_2604_new_mexico_tularosa
+S62646396,L2276418,Tularosa (town),2019-12-26,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.184,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S57592753,L9514736,"James Vigil Park (33.0737,-106.0193)",2019-06-22,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,13,,1,33.07368,-106.019348,6,6,city_2604_new_mexico_tularosa
+S55647026,L9158723,"1420 Apple Ave, Tularosa US-NM (33.0823,-106.0041)",2019-05-01,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.082349,-106.00406,4,4,city_2604_new_mexico_tularosa
+S61526697,L2276418,Tularosa (town),2019-11-17,2019,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,3.219,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S74248400,L12398154,"502 Seventh St, Tularosa US-NM 33.07066, -106.02007",2020-09-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,0.161,1,33.070657,-106.020068,5,5,city_2604_new_mexico_tularosa
+S72953573,L2276418,Tularosa (town),2020-08-29,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,4.828,1,33.0739069,-106.0202143,23,23,city_2604_new_mexico_tularosa
+S76749050,L2276418,Tularosa (town),2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,37,,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S75278229,L2276418,Tularosa (town),2020-10-23,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,95,8.047,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
+S72757358,L2276418,Tularosa (town),2020-08-23,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,4.828,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
+S72252948,L2276418,Tularosa (town),2020-08-09,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,4.828,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
+S68971401,L2276418,Tularosa (town),2020-05-13,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,51,4.023,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S71901600,L2276418,Tularosa (town),2020-07-28,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,3.219,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
+S68473435,L2276418,Tularosa (town),2020-05-05,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,1.77,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S76752087,L2276418,Tularosa (town),2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S75655993,L2276418,Tularosa (town),2020-10-31,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,4.828,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
+S73365395,L2276418,Tularosa (town),2020-09-08,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S73798860,L2276418,Tularosa (town),2020-09-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,4.828,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
+S73681529,L2276418,Tularosa (town),2020-09-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,110,4.828,1,33.0739069,-106.0202143,28,28,city_2604_new_mexico_tularosa
+S75195084,L2276418,Tularosa (town),2020-10-21,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,12.875,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S71646089,L5284482,"502 7th Street, Tularosa, NM  88352",2020-07-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,180,,1,33.0707522,-106.0200398,9,9,city_2604_new_mexico_tularosa
+S75878567,L11653197,704 6th Street Tularosa,2020-11-05,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
+S71662366,L11931479,"502 Seventh St, Tularosa US-NM 33.07071, -106.01983",2020-07-20,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.07071,-106.019829,9,9,city_2604_new_mexico_tularosa
+S70839710,L11775402,"502 Seventh St, Tularosa US-NM 33.07062, -106.02005",2020-06-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.023,1,33.070622,-106.020054,9,9,city_2604_new_mexico_tularosa
+S71566512,L11911393,"502 Seventh St, Tularosa US-NM 33.07082, -106.01981",2020-07-17,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,31,,1,33.070825,-106.019813,5,5,city_2604_new_mexico_tularosa
+S71627902,L11923876,"502 Seventh St, Tularosa US-NM 33.07068, -106.02019",2020-07-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070677,-106.020187,7,7,city_2604_new_mexico_tularosa
+S77496665,L12819588,"NM Tularosa, La Luz & Clayton St",2020-12-14,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0712805,-106.0281646,4,4,city_2604_new_mexico_tularosa
+S78003287,L2276418,Tularosa (town),2020-12-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,1.609,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S75619723,L2276418,Tularosa (town),2020-10-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,3.219,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
+S77681265,L2276418,Tularosa (town),2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,6.437,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S76996328,L2276418,Tularosa (town),2020-12-02,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,1.609,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S73273014,L2276418,Tularosa (town),2020-09-06,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,86,6.437,1,33.0739069,-106.0202143,28,28,city_2604_new_mexico_tularosa
+S76820122,L2276418,Tularosa (town),2020-11-28,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,210,,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S72812828,L2276418,Tularosa (town),2020-08-25,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,3.219,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
+S78035075,L2276418,Tularosa (town),2020-12-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,3.219,1,33.0739069,-106.0202143,19,19,city_2604_new_mexico_tularosa
+S66052332,L2276418,Tularosa (town),2020-03-21,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,3.541,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S74084736,L2276418,Tularosa (town),2020-09-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,6.437,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
+S67188558,L2276418,Tularosa (town),2020-04-14,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,1.609,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S78035598,L2276418,Tularosa (town),2020-12-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,6.437,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S77680692,L2276418,Tularosa (town),2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,4.828,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
+S72136632,L2276418,Tularosa (town),2020-08-05,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,3.219,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S72445465,L2276418,Tularosa (town),2020-08-15,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,3.219,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S74132392,L2276418,Tularosa (town),2020-09-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,85,6.437,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
+S70631067,L11734058,"502 Seventh St, Tularosa US-NM 33.07062, -106.02007",2020-06-20,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.023,1,33.070619,-106.020065,7,7,city_2604_new_mexico_tularosa
+S70548209,L11717882,"502 Seventh St, Tularosa US-NM 33.07064, -106.02007",2020-06-17,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.023,1,33.070637,-106.020072,6,6,city_2604_new_mexico_tularosa
+S71541613,L11825561,"502 Seventh St, Tularosa US-NM 33.07065, -106.01999",2020-07-15,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070652,-106.019992,3,3,city_2604_new_mexico_tularosa
+S71069982,L11818215,"NM Alamo & 6th St, Tularosa",2020-07-02,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,3.219,1,33.0765933,-106.022328,5,5,city_2604_new_mexico_tularosa
+S71531042,L11825561,"502 Seventh St, Tularosa US-NM 33.07065, -106.01999",2020-07-15,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070652,-106.019992,3,3,city_2604_new_mexico_tularosa
+S72185699,L2276418,Tularosa (town),2020-08-07,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,4.828,1,33.0739069,-106.0202143,19,19,city_2604_new_mexico_tularosa
+S77705556,L2276418,Tularosa (town),2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,12.875,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
+S74459378,L2276418,Tularosa (town),2020-10-05,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.828,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
+S73318114,L2276418,Tularosa (town),2020-09-07,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,95,4.828,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
+S73350947,L2276418,Tularosa (town),2020-09-08,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,4.828,1,33.0739069,-106.0202143,29,29,city_2604_new_mexico_tularosa
+S74825755,L2276418,Tularosa (town),2020-10-14,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,4.828,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S71958931,L2276418,Tularosa (town),2020-07-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,3.219,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S70915258,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2020-06-28,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,4.023,1,33.070678,-106.019973,5,5,city_2604_new_mexico_tularosa
+S72488415,L12083783,"502 Seventh St, Tularosa US-NM 33.07074, -106.01977",2020-08-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,,1,33.07074,-106.019769,6,6,city_2604_new_mexico_tularosa
+S77512225,L12897737,"502 Seventh St, Tularosa US-NM 33.07074, -106.02005",2020-12-15,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070741,-106.020053,4,4,city_2604_new_mexico_tularosa
+S75632765,L2276418,Tularosa (town),2020-10-31,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S73882892,L2276418,Tularosa (town),2020-09-21,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,41,4.828,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S68104465,L2276418,Tularosa (town),2020-04-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,4.023,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S68403532,L2276418,Tularosa (town),2020-05-04,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,4.023,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S74758432,L2276418,Tularosa (town),2020-10-12,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.828,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
+S76493481,L5284482,"502 7th Street, Tularosa, NM  88352",2020-11-17,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.0707522,-106.0200398,5,5,city_2604_new_mexico_tularosa
+S71840059,L11965212,"502 Seventh St, Tularosa US-NM 33.07061, -106.02006",2020-07-25,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070613,-106.020055,4,4,city_2604_new_mexico_tularosa
+S76454956,L12697910,"NM Tulie Home, 502 Seventh St,  US-NM 33.07060, -106.02013",2020-11-20,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070605,-106.020131,9,9,city_2604_new_mexico_tularosa
+S77775057,L12995774,"502 Seventh St, Tularosa US-NM 33.07070, -106.02013",2020-12-20,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,,1,33.070698,-106.02013,8,8,city_2604_new_mexico_tularosa
+S66444081,L9158723,"1420 Apple Ave, Tularosa US-NM (33.0823,-106.0041)",2020-03-31,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.082349,-106.00406,4,4,city_2604_new_mexico_tularosa
+S71619431,L11922142,"502 Seventh St, Tularosa US-NM 33.07064, -106.02015",2020-07-18,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,85,,1,33.070635,-106.020153,7,7,city_2604_new_mexico_tularosa
+S77581761,L2276418,Tularosa (town),2020-12-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,1.609,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S76749083,L2276418,Tularosa (town),2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S75620127,L2276418,Tularosa (town),2020-10-30,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,6.437,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S76151124,L2276418,Tularosa (town),2020-11-12,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
+S76749612,L12815109,"901–949 La Luz Ave, Tularosa US-NM 33.07157, -106.02799",2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.071567,-106.027991,6,6,city_2604_new_mexico_tularosa
+S75409909,L12593344,"502 Seventh St, Tularosa US-NM 33.07062, -106.02005",2020-10-25,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,,1,33.070619,-106.020055,4,4,city_2604_new_mexico_tularosa
+S76692469,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2020-11-25,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
+S77269890,L12897737,"502 Seventh St, Tularosa US-NM 33.07074, -106.02005",2020-12-09,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070741,-106.020053,5,5,city_2604_new_mexico_tularosa
+S78221189,L13027291,"502 Seventh St, Tularosa US-NM 33.07076, -106.02006",2020-12-29,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070764,-106.020064,8,8,city_2604_new_mexico_tularosa
+S76731259,L12663779,NM Tularosa Public Library,2020-11-26,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,2.414,1,33.0723937,-106.0196757,8,8,city_2604_new_mexico_tularosa
+S65711485,L2276418,Tularosa (town),2020-03-12,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
+S78234022,L2276418,Tularosa (town),2020-12-29,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,8.047,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
+S70359707,L11590763,"502 Seventh St, Tularosa US-NM 33.07062, -106.02005",2020-06-12,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,3.541,1,33.070623,-106.020051,5,5,city_2604_new_mexico_tularosa
+S72071979,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2020-08-03,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.070778,-106.02003,5,5,city_2604_new_mexico_tularosa
+S76771945,L12663779,NM Tularosa Public Library,2020-11-27,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.0723937,-106.0196757,3,3,city_2604_new_mexico_tularosa
+S75532867,L12612167,"502 Seventh St, Tularosa US-NM 33.07065, -106.02005",2020-10-28,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070651,-106.020046,8,8,city_2604_new_mexico_tularosa
+S69138487,L2276418,Tularosa (town),2020-05-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,3.541,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S76323918,L12697910,"NM Tulie Home, 502 Seventh St,  US-NM 33.07060, -106.02013",2020-11-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070605,-106.020131,4,4,city_2604_new_mexico_tularosa
+S70383049,L11684456,"502 Seventh St, Tularosa US-NM 33.07061, -106.02008",2020-06-13,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,4.023,1,33.070605,-106.020077,4,4,city_2604_new_mexico_tularosa
+S67679805,L11225633,"502 Seventh St, Tularosa US-NM 33.07063, -106.02012",2020-04-23,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070625,-106.020116,3,3,city_2604_new_mexico_tularosa
+S72250235,L12039487,"502 Seventh St, Tularosa US-NM 33.07067, -106.02013",2020-08-09,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070669,-106.020132,5,5,city_2604_new_mexico_tularosa
+S77704091,L2276418,Tularosa (town),2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,3.219,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
+S70794531,L9158723,"1420 Apple Ave, Tularosa US-NM (33.0823,-106.0041)",2020-06-24,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.082349,-106.00406,4,4,city_2604_new_mexico_tularosa
+S75962835,L12667967,"502 Seventh St, Tularosa US-NM 33.07067, -106.02005",2020-11-07,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070669,-106.020051,5,5,city_2604_new_mexico_tularosa
+S65870781,L2276418,Tularosa (town),2020-03-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,130,,1,33.0739069,-106.0202143,1,1,city_2604_new_mexico_tularosa
+S71539832,L11825561,"502 Seventh St, Tularosa US-NM 33.07065, -106.01999",2020-07-16,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070652,-106.019992,4,4,city_2604_new_mexico_tularosa
+S77660415,L2276418,Tularosa (town),2020-12-19,2020,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.0739069,-106.0202143,1,1,city_2604_new_mexico_tularosa
+S85554325,L12663779,NM Tularosa Public Library,2021-04-14,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.805,1,33.0723937,-106.0196757,4,4,city_2604_new_mexico_tularosa
+S82987476,L12664453,"502 Seventh St, Tularosa US-NM 33.07070, -106.02008",2021-03-07,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,0.5,1,33.070699,-106.020079,15,15,city_2604_new_mexico_tularosa
+S82210219,L13814939,"502 Seventh St, Tularosa US-NM 33.07069, -106.02011",2021-02-23,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070685,-106.020113,5,5,city_2604_new_mexico_tularosa
+S85858198,L13928308,"Encino St. Tularosa, NM",2021-04-18,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,85,,1,33.0733588,-106.0208297,21,21,city_2604_new_mexico_tularosa
+S82988278,L13928308,"Encino St. Tularosa, NM",2021-03-07,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,21,,1,33.0733588,-106.0208297,13,13,city_2604_new_mexico_tularosa
+S81842724,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2021-02-17,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070811,-106.019963,6,6,city_2604_new_mexico_tularosa
+S84104539,L13928308,"Encino St. Tularosa, NM",2021-03-25,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,2.414,1,33.0733588,-106.0208297,10,10,city_2604_new_mexico_tularosa
+S83878456,L13992939,"NM Tulie home 502 Seventh St,  US-NM 33.07069, -106.02001",2021-03-22,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070689,-106.020007,5,5,city_2604_new_mexico_tularosa
+S85070532,L14211534,700 Fresno st.,2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0720679,-106.0213027,12,12,city_2604_new_mexico_tularosa
+S82444634,L2276418,Tularosa (town),2021-02-27,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,2.048,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S89560702,L2276418,Tularosa (town),2021-06-03,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,6.437,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S91540312,L2276418,Tularosa (town),2021-07-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,6.437,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
+S82946107,L2276418,Tularosa (town),2021-03-07,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,3.219,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S79844915,L2276418,Tularosa (town),2021-01-24,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,6.437,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S79456232,L2276418,Tularosa (town),2021-01-17,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,12.875,1,33.0739069,-106.0202143,21,21,city_2604_new_mexico_tularosa
+S87565447,L10804134,113 Cortez Dr Tularosa,2021-05-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,123,,1,33.0744437,-106.0066967,6,6,city_2604_new_mexico_tularosa
+S89840215,L11653197,704 6th Street Tularosa,2021-06-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
+S80092306,L12663779,NM Tularosa Public Library,2021-01-29,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,0.161,1,33.0723937,-106.0196757,5,5,city_2604_new_mexico_tularosa
+S90101662,L12697910,"NM Tulie Home, 502 Seventh St,  US-NM 33.07060, -106.02013",2021-06-13,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.070605,-106.020131,8,8,city_2604_new_mexico_tularosa
+S79873060,L13331563,"NM Tulie home, 502 Seventh St, US-NM 33.07075, -106.02010",2021-01-25,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,9,,1,33.070754,-106.020101,7,7,city_2604_new_mexico_tularosa
+S78369248,L13105859,"502 Seventh St, Tularosa US-NM 33.07067, -106.02005",2021-01-01,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070667,-106.020054,6,6,city_2604_new_mexico_tularosa
+S79564042,L13331563,"NM Tulie home, 502 Seventh St, US-NM 33.07075, -106.02010",2021-01-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070754,-106.020101,5,5,city_2604_new_mexico_tularosa
+S85070342,L13928308,"Encino St. Tularosa, NM",2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0733588,-106.0208297,9,9,city_2604_new_mexico_tularosa
+S89226417,L2276418,Tularosa (town),2021-05-29,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,6.437,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S82527149,L2276418,Tularosa (town),2021-02-28,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,0.306,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
+S87128685,L2276418,Tularosa (town),2021-05-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,72,,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S86117210,L2276418,Tularosa (town),2021-04-22,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,41,,1,33.0739069,-106.0202143,19,19,city_2604_new_mexico_tularosa
+S80367887,L2276418,Tularosa (town),2021-02-03,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,0,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S86500656,L2276418,Tularosa (town),2021-04-27,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,51,6.437,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
+S80141093,L2276418,Tularosa (town),2021-01-30,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,1.609,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S92951716,L2276418,Tularosa (town),2021-08-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,6.437,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
+S89048164,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2021-05-26,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070678,-106.019973,5,5,city_2604_new_mexico_tularosa
+S78499688,L12663779,NM Tularosa Public Library,2021-01-02,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.0723937,-106.0196757,7,7,city_2604_new_mexico_tularosa
+S78797304,L12663779,NM Tularosa Public Library,2021-01-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.0723937,-106.0196757,11,11,city_2604_new_mexico_tularosa
+S79203431,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2021-01-13,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070712,-106.020041,6,6,city_2604_new_mexico_tularosa
+S83167262,L13972057,"502 Seventh St, Tularosa US-NM 33.07065, -106.02018",2021-03-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070651,-106.020181,5,5,city_2604_new_mexico_tularosa
+S91296754,L15651858,"502 Seventh St, Tularosa US-NM 33.07060, -106.02003",2021-07-05,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,1.931,1,33.070598,-106.020031,5,5,city_2604_new_mexico_tularosa
+S96319941,L16674267,"502 Seventh St, Tularosa US-NM 33.07064, -106.02000",2021-10-18,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070636,-106.019996,1,1,city_2604_new_mexico_tularosa
+S81772359,L2276418,Tularosa (town),2021-02-16,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,6.437,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S85821748,L2276418,Tularosa (town),2021-04-18,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,3.219,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S81478795,L2276418,Tularosa (town),2021-02-14,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,240,,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S92758190,L2276418,Tularosa (town),2021-08-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,6.437,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S82765964,L10207025,NM 502 7th St. Tularosa,2021-03-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.0708897,-106.0204317,5,5,city_2604_new_mexico_tularosa
+S87786077,L10804134,113 Cortez Dr Tularosa,2021-05-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,71,,1,33.0744437,-106.0066967,6,6,city_2604_new_mexico_tularosa
+S83572019,L11818215,"NM Alamo & 6th St, Tularosa",2021-03-17,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,2.414,1,33.0765933,-106.022328,11,11,city_2604_new_mexico_tularosa
+S91432963,L11818215,"NM Alamo & 6th St, Tularosa",2021-07-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,23,1.77,1,33.0765933,-106.022328,7,7,city_2604_new_mexico_tularosa
+S80038916,L12663779,NM Tularosa Public Library,2021-01-28,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0723937,-106.0196757,7,7,city_2604_new_mexico_tularosa
+S81033127,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2021-02-12,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
+S83406523,L13992939,"NM Tulie home 502 Seventh St,  US-NM 33.07069, -106.02001",2021-03-14,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,,1,33.070689,-106.020007,8,8,city_2604_new_mexico_tularosa
+S82827371,L13851732,"502 Seventh St, Tularosa US-NM 33.07075, -106.01999",2021-03-05,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070748,-106.019987,7,7,city_2604_new_mexico_tularosa
+S85671855,L14480220,"502 Seventh St, Tularosa US-NM 33.07076, -106.01992",2021-04-16,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070756,-106.019922,5,5,city_2604_new_mexico_tularosa
+S92793399,L14595524,"502 Seventh St, Tularosa US-NM 33.07081, -106.01985",2021-08-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070806,-106.019848,4,4,city_2604_new_mexico_tularosa
+S87433892,L14805419,"502 Seventh St, Tularosa US-NM 33.07067, -106.02001",2021-05-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070674,-106.020006,4,4,city_2604_new_mexico_tularosa
+S91176967,L2276418,Tularosa (town),2021-07-03,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,6.437,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S79547634,L2276418,Tularosa (town),2021-01-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,1.609,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S80337668,L2276418,Tularosa (town),2021-02-02,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,2.414,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S81705002,L2276418,Tularosa (town),2021-02-15,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,180,,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
+S78960658,L2276418,Tularosa (town),2021-01-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,6.437,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S87903073,L10804134,113 Cortez Dr Tularosa,2021-05-12,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0744437,-106.0066967,6,6,city_2604_new_mexico_tularosa
+S84116259,L11653197,704 6th Street Tularosa,2021-03-21,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
+S96006094,L11653197,704 6th Street Tularosa,2021-10-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,5,5,city_2604_new_mexico_tularosa
+S91390805,L11818215,"NM Alamo & 6th St, Tularosa",2021-07-07,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,1.77,1,33.0765933,-106.022328,7,7,city_2604_new_mexico_tularosa
+S84103178,L12664453,"502 Seventh St, Tularosa US-NM 33.07070, -106.02008",2021-03-25,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070699,-106.020079,11,11,city_2604_new_mexico_tularosa
+S84104898,L12664453,"502 Seventh St, Tularosa US-NM 33.07070, -106.02008",2021-03-21,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070699,-106.020079,8,8,city_2604_new_mexico_tularosa
+S84987141,L12663779,NM Tularosa Public Library,2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,0.483,1,33.0723937,-106.0196757,3,3,city_2604_new_mexico_tularosa
+S78666295,L13105859,"502 Seventh St, Tularosa US-NM 33.07067, -106.02005",2021-01-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070667,-106.020054,6,6,city_2604_new_mexico_tularosa
+S79148687,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2021-01-12,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,,1,33.070712,-106.020041,9,9,city_2604_new_mexico_tularosa
+S79289472,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2021-01-15,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070712,-106.020041,5,5,city_2604_new_mexico_tularosa
+S85070111,L12664453,"502 Seventh St, Tularosa US-NM 33.07070, -106.02008",2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070699,-106.020079,14,14,city_2604_new_mexico_tularosa
+S81725427,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2021-02-16,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S80405486,L13331563,"NM Tulie home, 502 Seventh St, US-NM 33.07075, -106.02010",2021-02-04,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070754,-106.020101,5,5,city_2604_new_mexico_tularosa
+S84986607,L14350516,"502 Seventh St, Tularosa US-NM 33.07074, -106.02008",2021-04-06,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070741,-106.020077,5,5,city_2604_new_mexico_tularosa
+S85896449,L14525231,"502 Seventh St, Tularosa US-NM 33.07070, -106.02000",2021-04-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070704,-106.019998,4,4,city_2604_new_mexico_tularosa
+S89680026,L2276418,Tularosa (town),2021-06-05,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,6.437,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S82160909,L2276418,Tularosa (town),2021-02-22,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,1.609,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S85925183,L12819588,"NM Tularosa, La Luz & Clayton St",2021-04-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.0712805,-106.0281646,8,8,city_2604_new_mexico_tularosa
+S81963796,L13027291,"502 Seventh St, Tularosa US-NM 33.07076, -106.02006",2021-02-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070764,-106.020064,5,5,city_2604_new_mexico_tularosa
+S79617502,L13331563,"NM Tulie home, 502 Seventh St, US-NM 33.07075, -106.02010",2021-01-20,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070754,-106.020101,5,5,city_2604_new_mexico_tularosa
+S82464499,L2276418,Tularosa (town),2021-02-27,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,8.047,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
+S78938812,L2276418,Tularosa (town),2021-01-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,1.609,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S89952453,L2276418,Tularosa (town),2021-06-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,3.219,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
+S87699548,L14517630,"NM Tularosa friends backyard 6th Street, Tularosa, NM",2021-05-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.322,1,33.0727203,-106.0200812,3,3,city_2604_new_mexico_tularosa
+S80134857,L2276418,Tularosa (town),2021-01-30,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,4.828,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S79521246,L2276418,Tularosa (town),2021-01-18,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,6.437,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S79983111,L12663779,NM Tularosa Public Library,2021-01-27,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0723937,-106.0196757,5,5,city_2604_new_mexico_tularosa
+S87458394,L10804134,113 Cortez Dr Tularosa,2021-05-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,82,,1,33.0744437,-106.0066967,5,5,city_2604_new_mexico_tularosa
+S98717940,L13992939,"NM Tulie home 502 Seventh St,  US-NM 33.07069, -106.02001",2021-12-10,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070689,-106.020007,4,4,city_2604_new_mexico_tularosa
+S96092820,L2276418,Tularosa (town),2021-10-13,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,10.139,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S86086679,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2021-04-22,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070778,-106.02003,5,5,city_2604_new_mexico_tularosa
+S82414161,L13851732,"502 Seventh St, Tularosa US-NM 33.07075, -106.01999",2021-02-26,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070748,-106.019987,5,5,city_2604_new_mexico_tularosa
+S85132424,L13322770,"502 Seventh St, Tularosa US-NM 33.07074, -106.01999",2021-04-08,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.070738,-106.019987,5,5,city_2604_new_mexico_tularosa
+S92991547,L16055140,"502 Seventh St, Tularosa US-NM 33.07062, -106.02013",2021-08-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,,1,33.070622,-106.020126,3,3,city_2604_new_mexico_tularosa
+S83242787,L2276418,Tularosa (town),2021-03-12,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,12,,1,33.0739069,-106.0202143,2,2,city_2604_new_mexico_tularosa
+S83065466,L13972057,"502 Seventh St, Tularosa US-NM 33.07065, -106.02018",2021-03-09,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070651,-106.020181,6,6,city_2604_new_mexico_tularosa
+S96097343,L16636973,"707 Bosque Street, Tularosa, New Mexico, US (33.075, -106.024)",2021-10-13,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,9,,1,33.0748206,-106.024201,2,2,city_2604_new_mexico_tularosa
+S79588681,L13331563,"NM Tulie home, 502 Seventh St, US-NM 33.07075, -106.02010",2021-01-20,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070754,-106.020101,1,1,city_2604_new_mexico_tularosa
+S83478537,L13992939,"NM Tulie home 502 Seventh St,  US-NM 33.07069, -106.02001",2021-03-15,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070689,-106.020007,6,6,city_2604_new_mexico_tularosa
+S81685228,L2276418,Tularosa (town),2021-02-15,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.805,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S79567094,L13331563,"NM Tulie home, 502 Seventh St, US-NM 33.07075, -106.02010",2021-01-19,2021,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070754,-106.020101,5,5,city_2604_new_mexico_tularosa
+S107057780,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2022-04-13,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,,1,33.070678,-106.019973,5,5,city_2604_new_mexico_tularosa
+S109823300,L14470158,"502 Seventh St, Tularosa US-NM 33.07083, -106.01990",2022-05-12,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,9,,1,33.070827,-106.019902,13,13,city_2604_new_mexico_tularosa
+S124476627,L2276418,Tularosa (town),2022-12-23,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,9.22,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S124584035,L2276418,Tularosa (town),2022-12-25,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,47,5.74,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
+S120857047,L2276418,Tularosa (town),2022-10-17,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,19,4.828,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
+S124108985,L2276418,Tularosa (town),2022-12-17,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,27,6.272,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
+S104691207,L2276418,Tularosa (town),2022-03-12,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,68,24.945,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
+S105372347,L2276418,Tularosa (town),2022-03-22,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,8.047,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S103115928,L2276418,Tularosa (town),2022-02-19,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,210,,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S123972654,L2276418,Tularosa (town),2022-12-14,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,22,8.047,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S116019480,L2276418,Tularosa (town),2022-07-30,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,32,0.1,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
+S101675136,L2276418,Tularosa (town),2022-01-29,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,33,8.047,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
+S110157829,L2276418,Tularosa (town),2022-05-14,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,47,7.979,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
+S121956378,L11653197,704 6th Street Tularosa,2022-11-06,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
+S109212638,L2276418,Tularosa (town),2022-05-07,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,62,8.007,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
+S114183077,L2276418,Tularosa (town),2022-07-01,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,43.918,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S111486080,L2276418,Tularosa (town),2022-05-28,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,57,8.632,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
+S103443769,L2276418,Tularosa (town),2022-02-21,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S124893814,L11923876,"502 Seventh St, Tularosa US-NM 33.07068, -106.02019",2022-12-30,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070677,-106.020187,5,5,city_2604_new_mexico_tularosa
+S101887632,L16674267,"502 Seventh St, Tularosa US-NM 33.07064, -106.02000",2022-02-01,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070636,-106.019996,2,2,city_2604_new_mexico_tularosa
+S103294033,L2276418,Tularosa (town),2022-02-20,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
+S109994481,L2276418,Tularosa (town),2022-05-14,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,5.356,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S122197255,L11653197,704 6th Street Tularosa,2022-11-10,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,5,5,city_2604_new_mexico_tularosa
+S124385471,L13851732,"502 Seventh St, Tularosa US-NM 33.07075, -106.01999",2022-12-21,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,42,2.414,1,33.070748,-106.019987,6,6,city_2604_new_mexico_tularosa
+S124514012,L11653197,704 6th Street Tularosa,2022-12-23,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,70,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
+S125063158,L2276418,Tularosa (town),2022-12-31,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,3.094,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S100312874,L2276418,Tularosa (town),2022-01-07,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,8.047,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S106178845,L2276418,Tularosa (town),2022-04-03,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,0.74,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
+S111216213,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2022-05-24,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070811,-106.019963,3,3,city_2604_new_mexico_tularosa
+S123248928,L5284482,"502 7th Street, Tularosa, NM  88352",2022-11-30,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.0707522,-106.0200398,4,4,city_2604_new_mexico_tularosa
+S123119693,L11653197,704 6th Street Tularosa,2022-11-26,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0726528,-106.0201107,7,7,city_2604_new_mexico_tularosa
+S111292622,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2022-05-25,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.070811,-106.019963,3,3,city_2604_new_mexico_tularosa
+S101204629,L2276418,Tularosa (town),2022-01-22,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,8.047,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S101476406,L2276418,Tularosa (town),2022-01-26,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,2,2,city_2604_new_mexico_tularosa
+S124821141,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2022-12-28,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.07078,-106.019981,3,3,city_2604_new_mexico_tularosa
+S125015741,L12663779,NM Tularosa Public Library,2022-12-31,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.027,1,33.0723937,-106.0196757,1,1,city_2604_new_mexico_tularosa
+S124617491,L2276418,Tularosa (town),2022-12-26,2022,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.0739069,-106.0202143,1,1,city_2604_new_mexico_tularosa
+S125145044,L11590763,"502 Seventh St, Tularosa US-NM 33.07062, -106.02005",2023-01-01,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070623,-106.020051,7,7,city_2604_new_mexico_tularosa
+S152749927,L2276418,Tularosa (town),2023-10-21,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,49,8.831,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
+S139909622,L2276418,Tularosa (town),2023-05-30,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,22,4.828,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S140901428,L2276418,Tularosa (town),2023-06-08,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,92,2.414,1,33.0739069,-106.0202143,21,21,city_2604_new_mexico_tularosa
+S149153055,L2276418,Tularosa (town),2023-09-06,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S144094033,L25822408,East Tularosa,2023-07-09,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,1.722,1,33.0755067,-106.0088832,17,17,city_2604_new_mexico_tularosa
+S154465407,L27946651,"Library, 515 Fresno St, Tularosa US-NM 33.07250, -106.01984",2023-11-14,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,0.298,1,33.072496,-106.019843,4,4,city_2604_new_mexico_tularosa
+S149032474,L11653197,704 6th Street Tularosa,2023-09-04,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0726528,-106.0201107,5,5,city_2604_new_mexico_tularosa
+S155175153,L2276418,Tularosa (town),2023-11-25,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,16,3.493,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S134401564,L23719897,Tularosa - behind the Subway,2023-04-20,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,13,0.091,1,33.0784443,-106.0181516,5,5,city_2604_new_mexico_tularosa
+S139774138,L2276418,Tularosa (town),2023-05-29,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,62,8.645,1,33.0739069,-106.0202143,24,24,city_2604_new_mexico_tularosa
+S144089594,L25821339,Veteran Park,2023-07-09,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,31,0.853,1,33.0786462,-106.0102411,8,8,city_2604_new_mexico_tularosa
+S134976456,L11653197,704 6th Street Tularosa,2023-04-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
+S157195893,L11653197,704 6th Street Tularosa,2023-12-26,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
+S130381349,L11653197,704 6th Street Tularosa,2023-03-07,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
+S136955916,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2023-05-10,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.07078,-106.019981,4,4,city_2604_new_mexico_tularosa
+S134865071,L12663779,NM Tularosa Public Library,2023-04-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,0.409,1,33.0723937,-106.0196757,6,6,city_2604_new_mexico_tularosa
+S139326951,L13992939,"NM Tulie home 502 Seventh St,  US-NM 33.07069, -106.02001",2023-05-26,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.070689,-106.020007,5,5,city_2604_new_mexico_tularosa
+S130072426,L12819588,"NM Tularosa, La Luz & Clayton St",2023-03-03,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,0.805,1,33.0712805,-106.0281646,6,6,city_2604_new_mexico_tularosa
+S125659757,L14211534,700 Fresno st.,2023-01-07,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,3.219,1,33.0720679,-106.0213027,5,5,city_2604_new_mexico_tularosa
+S125562871,L2276418,Tularosa (town),2023-01-06,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,6.513,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S130236224,L2276418,Tularosa (town),2023-03-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,58,10.298,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S140711733,L11653197,704 6th Street Tularosa,2023-06-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
+S155705209,L11653197,704 6th Street Tularosa,2023-12-03,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
+S155760341,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2023-12-04,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
+S130133981,L12819588,"NM Tularosa, La Luz & Clayton St",2023-03-04,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,19,0.689,1,33.0712805,-106.0281646,11,11,city_2604_new_mexico_tularosa
+S125781487,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2023-01-09,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.07078,-106.019981,7,7,city_2604_new_mexico_tularosa
+S140512897,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2023-06-04,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.07078,-106.019981,5,5,city_2604_new_mexico_tularosa
+S127701518,L2276418,Tularosa (town),2023-02-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,71,1.448,1,33.0739069,-106.0202143,19,19,city_2604_new_mexico_tularosa
+S129797309,L2276418,Tularosa (town),2023-02-27,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,88,1.931,1,33.0739069,-106.0202143,22,22,city_2604_new_mexico_tularosa
+S128460263,L2276418,Tularosa (town),2023-02-16,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,9.656,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S147022514,L2276418,Tularosa (town),2023-08-11,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
+S126383147,L2276418,Tularosa (town),2023-01-17,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,52,,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
+S156294832,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2023-12-14,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
+S130665534,L2276418,Tularosa (town),2023-03-11,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,8.283,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
+S155311176,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2023-11-27,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,,1,33.070811,-106.019963,5,5,city_2604_new_mexico_tularosa
+S130219880,L12819588,"NM Tularosa, La Luz & Clayton St",2023-03-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,0.491,1,33.0712805,-106.0281646,11,11,city_2604_new_mexico_tularosa
+S151980689,L14513245,"502 Seventh St, Tularosa US-NM 33.07083, -106.01985",2023-10-10,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,0.558,1,33.070832,-106.019854,3,3,city_2604_new_mexico_tularosa
+S134906966,L2276418,Tularosa (town),2023-04-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
+S144567591,L25938563,"100 Central Ave, Tularosa US-NM 33.07851, -106.01827",2023-07-14,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,4.466,1,33.078509,-106.018269,5,5,city_2604_new_mexico_tularosa
+S125346833,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2023-01-03,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,,1,33.07078,-106.019981,4,4,city_2604_new_mexico_tularosa
+S127676677,L2276418,Tularosa (town),2023-02-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,22,,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S125905398,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2023-01-10,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.07078,-106.019981,2,2,city_2604_new_mexico_tularosa
+S149153393,L2276418,Tularosa (town),2023-09-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S152991233,L11911393,"502 Seventh St, Tularosa US-NM 33.07082, -106.01981",2023-10-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,56,,1,33.070825,-106.019813,4,4,city_2604_new_mexico_tularosa
+S151372921,L14513245,"502 Seventh St, Tularosa US-NM 33.07083, -106.01985",2023-10-03,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,,1,33.070832,-106.019854,3,3,city_2604_new_mexico_tularosa
+S154169834,L14470158,"502 Seventh St, Tularosa US-NM 33.07083, -106.01990",2023-11-10,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070827,-106.019902,3,3,city_2604_new_mexico_tularosa
+S145112275,L2276418,Tularosa (town),2023-07-20,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
+S156273054,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2023-12-13,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070811,-106.019963,5,5,city_2604_new_mexico_tularosa
+S154344687,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2023-11-12,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070811,-106.019963,1,1,city_2604_new_mexico_tularosa
+S143102779,L23808926,yard,2023-06-29,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,6,,1,33.0746727,-106.0297165,4,4,city_2604_new_mexico_tularosa
+S132757638,L14470158,"502 Seventh St, Tularosa US-NM 33.07083, -106.01990",2023-04-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,16,,1,33.070827,-106.019902,5,5,city_2604_new_mexico_tularosa
+S136226357,L23808926,yard,2023-05-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,27,,1,33.0746727,-106.0297165,4,4,city_2604_new_mexico_tularosa
+S125661331,L22116765,Alamo Street Tularosa,2023-01-07,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,1.609,1,33.0766703,-106.0227603,4,4,city_2604_new_mexico_tularosa
+S139149884,L12697910,"NM Tulie Home, 502 Seventh St,  US-NM 33.07060, -106.02013",2023-05-24,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070605,-106.020131,4,4,city_2604_new_mexico_tularosa
+S140606751,L14480220,"502 Seventh St, Tularosa US-NM 33.07076, -106.01992",2023-06-05,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,16,,1,33.070756,-106.019922,5,5,city_2604_new_mexico_tularosa
+S125063528,L2276418,Tularosa (town),2023-01-01,2023,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0739069,-106.0202143,3,3,city_2604_new_mexico_tularosa
+S205372491,L10290959,"W. Higuera Rd, Higuera Ave, Galicia Way, Tularosa",2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,43,3.723,1,33.069542,-106.0314,6,6,city_2604_new_mexico_tularosa
+S171227851,L10804134,113 Cortez Dr Tularosa,2024-04-30,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,,1,33.0744437,-106.0066967,5,5,city_2604_new_mexico_tularosa
+S161159683,L11653197,704 6th Street Tularosa,2024-02-10,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
+S177587706,L11653197,704 6th Street Tularosa,2024-05-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,14,14,city_2604_new_mexico_tularosa
+S170407921,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-04-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
+S175072373,L11590763,"502 Seventh St, Tularosa US-NM 33.07062, -106.02005",2024-05-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070623,-106.020051,16,16,city_2604_new_mexico_tularosa
+S159866893,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-01-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070778,-106.02003,8,8,city_2604_new_mexico_tularosa
+S178020924,L2276418,Tularosa (town),2024-05-29,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,7.242,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
+S206511216,L2276418,Tularosa (town),2024-12-24,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,14.484,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S173551010,L2276418,Tularosa (town),2024-05-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,26,5.001,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S205362559,L2276418,Tularosa (town),2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,43,1.967,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S160943629,L2276418,Tularosa (town),2024-02-08,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,23,6.688,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
+S178213932,L2276418,Tularosa (town),2024-05-30,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,53,8.061,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
+S205414833,L38618175,"West side neighborhood, Tularosa",2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,6.437,1,33.074781,-106.028024,12,12,city_2604_new_mexico_tularosa
+S168200672,L11653197,704 6th Street Tularosa,2024-04-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
+S174057972,L11653197,704 6th Street Tularosa,2024-05-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,16,16,city_2604_new_mexico_tularosa
+S167103284,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2024-04-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070678,-106.019973,4,4,city_2604_new_mexico_tularosa
+S172916791,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-05-08,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,9,9,city_2604_new_mexico_tularosa
+S162112983,L11653197,704 6th Street Tularosa,2024-02-18,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
+S179819778,L11653197,704 6th Street Tularosa,2024-06-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,15,15,city_2604_new_mexico_tularosa
+S158352838,L11653197,704 6th Street Tularosa,2024-01-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
+S160448406,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-02-02,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070778,-106.02003,4,4,city_2604_new_mexico_tularosa
+S167197916,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-04-04,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,28,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S206248141,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-12-22,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
+S202859340,L2276418,Tularosa (town),2024-11-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,14.484,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S198800568,L2276418,Tularosa (town),2024-10-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
+S179179390,L2276418,Tularosa (town),2024-06-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,3.219,1,33.0739069,-106.0202143,20,20,city_2604_new_mexico_tularosa
+S194488073,L2276418,Tularosa (town),2024-09-08,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,7.242,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S167163201,L2276418,Tularosa (town),2024-04-04,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,119,0.052,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S185138522,L34255104,"Tularosa Childrens Park, Tularosa US-NM 33.07577, -106.01580",2024-07-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,16,1.053,1,33.075768,-106.015802,8,8,city_2604_new_mexico_tularosa
+S159639346,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-01-23,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070778,-106.02003,4,4,city_2604_new_mexico_tularosa
+S162075885,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-02-18,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070778,-106.02003,3,3,city_2604_new_mexico_tularosa
+S161337899,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-02-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070778,-106.02003,8,8,city_2604_new_mexico_tularosa
+S170696267,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-04-28,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S165281108,L11653197,704 6th Street Tularosa,2024-03-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
+S185638447,L11653197,704 6th Street Tularosa,2024-07-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
+S189955087,L11653197,704 6th Street Tularosa,2024-08-02,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,94,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
+S166292728,L13992939,"NM Tulie home 502 Seventh St,  US-NM 33.07069, -106.02001",2024-03-28,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,0,1,33.070689,-106.020007,8,8,city_2604_new_mexico_tularosa
+S159507920,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2024-01-21,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.07078,-106.019981,5,5,city_2604_new_mexico_tularosa
+S167278441,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-04-05,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
+S205393399,L2276418,Tularosa (town),2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,52,2.575,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S173636694,L2276418,Tularosa (town),2024-05-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S204372147,L2276418,Tularosa (town),2024-12-01,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,14.484,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S183953435,L2276418,Tularosa (town),2024-06-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,52,2.328,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S160712687,L11653197,704 6th Street Tularosa,2024-02-05,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
+S159963330,L11653197,704 6th Street Tularosa,2024-01-27,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
+S159296750,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2024-01-19,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.07078,-106.019981,7,7,city_2604_new_mexico_tularosa
+S197829575,L14480220,"502 Seventh St, Tularosa US-NM 33.07076, -106.01992",2024-10-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070756,-106.019922,3,3,city_2604_new_mexico_tularosa
+S205862080,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-12-18,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
+S159390127,L2276418,Tularosa (town),2024-01-20,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,5.012,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S158823069,L2276418,Tularosa (town),2024-01-13,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,47,9.005,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S205774548,L13331563,"NM Tulie home, 502 Seventh St, US-NM 33.07075, -106.02010",2024-12-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,121,,1,33.070754,-106.020101,6,6,city_2604_new_mexico_tularosa
+S170934787,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-04-29,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,56,,1,33.070781,-106.020091,10,10,city_2604_new_mexico_tularosa
+S203181133,L2276418,Tularosa (town),2024-11-21,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,6.223,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S178645312,L2276418,Tularosa (town),2024-06-01,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,6.437,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S161120756,L2276418,Tularosa (town),2024-02-10,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,6.437,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S206817288,L11653197,704 6th Street Tularosa,2024-12-27,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,11,11,city_2604_new_mexico_tularosa
+S202859101,L11653197,704 6th Street Tularosa,2024-11-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
+S173774190,L13015275,"502 Seventh St, Tularosa US-NM 33.07070, -106.02002",2024-05-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070703,-106.020021,8,8,city_2604_new_mexico_tularosa
+S166220637,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-03-28,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
+S158770334,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2024-01-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.07078,-106.019981,4,4,city_2604_new_mexico_tularosa
+S158667055,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2024-01-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,155,,1,33.070811,-106.019963,5,5,city_2604_new_mexico_tularosa
+S206511522,L11653197,704 6th Street Tularosa,2024-12-24,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
+S158635233,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2024-01-10,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
+S160885262,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-02-07,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.070778,-106.02003,4,4,city_2604_new_mexico_tularosa
+S164882806,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-03-15,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
+S159410677,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2024-01-20,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.07078,-106.019981,1,1,city_2604_new_mexico_tularosa
+S179154036,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2024-06-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070712,-106.020041,7,7,city_2604_new_mexico_tularosa
+S204371962,L11653197,704 6th Street Tularosa,2024-12-01,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,6,6,city_2604_new_mexico_tularosa
+S170336923,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-04-26,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
+S205356342,L2276418,Tularosa (town),2024-12-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,0.196,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S173798134,L31631989,Tularosa Veterans Park,2024-05-11,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,0.117,1,33.079474,-106.011059,8,8,city_2604_new_mexico_tularosa
+S160213067,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-01-29,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.070778,-106.02003,3,3,city_2604_new_mexico_tularosa
+S202675502,L2276418,Tularosa (town),2024-11-16,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,23,6.437,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S159711045,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2024-01-24,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
+S205554116,L13331563,"NM Tulie home, 502 Seventh St, US-NM 33.07075, -106.02010",2024-12-15,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070754,-106.020101,6,6,city_2604_new_mexico_tularosa
+S163924690,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2024-03-06,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,,1,33.070811,-106.019963,4,4,city_2604_new_mexico_tularosa
+S205944999,L38716327,"Tularosa, New Mexico",2024-12-19,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,7.23,1,33.0755055,-106.0191825,2,2,city_2604_new_mexico_tularosa
+S164182872,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2024-03-09,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.070678,-106.019973,3,3,city_2604_new_mexico_tularosa
+S165953432,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-03-25,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,12,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
+S158823115,L12819588,"NM Tularosa, La Luz & Clayton St",2024-01-13,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,,1,33.0712805,-106.0281646,3,3,city_2604_new_mexico_tularosa
+S159135469,L13229976,"502 Seventh St, Tularosa US-NM 33.07078, -106.01998",2024-01-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.07078,-106.019981,1,1,city_2604_new_mexico_tularosa
+S173870886,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-05-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
+S164500172,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-03-12,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
+S161032769,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-02-09,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070778,-106.02003,1,1,city_2604_new_mexico_tularosa
+S170051854,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-04-24,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,155,,1,33.070781,-106.020091,2,2,city_2604_new_mexico_tularosa
+S198846162,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2024-10-14,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,17,,1,33.070712,-106.020041,1,1,city_2604_new_mexico_tularosa
+S167086464,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2024-04-03,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.070678,-106.019973,4,4,city_2604_new_mexico_tularosa
+S203132093,L13740721,"502 Seventh St, Tularosa US-NM 33.07081, -106.01996",2024-11-17,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070811,-106.019963,2,2,city_2604_new_mexico_tularosa
+S203159699,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2024-11-21,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,6,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
+S160927981,L12007643,"502 Seventh St, Tularosa US-NM 33.07078, -106.02003",2024-02-08,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070778,-106.02003,1,1,city_2604_new_mexico_tularosa
+S200436844,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2024-10-27,2024,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070712,-106.020041,1,1,city_2604_new_mexico_tularosa
+S227380161,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2025-04-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,0.119,1,33.070678,-106.019973,12,12,city_2604_new_mexico_tularosa
+S236285423,L11653197,704 6th Street Tularosa,2025-05-10,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,18,18,city_2604_new_mexico_tularosa
+S278629145,L11653197,704 6th Street Tularosa,2025-10-11,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0726528,-106.0201107,14,14,city_2604_new_mexico_tularosa
+S209041389,L11653197,704 6th Street Tularosa,2025-01-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0726528,-106.0201107,11,11,city_2604_new_mexico_tularosa
+S227235876,L11653197,704 6th Street Tularosa,2025-04-19,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,16,16,city_2604_new_mexico_tularosa
+S289721074,L11653197,704 6th Street Tularosa,2025-12-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0726528,-106.0201107,14,14,city_2604_new_mexico_tularosa
+S249044190,L11653197,704 6th Street Tularosa,2025-06-10,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,12,12,city_2604_new_mexico_tularosa
+S244320676,L12663779,NM Tularosa Public Library,2025-05-29,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.644,1,33.0723937,-106.0196757,4,4,city_2604_new_mexico_tularosa
+S219513067,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-03-19,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
+S233134732,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,19,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
+S245186305,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-31,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
+S216865598,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-03-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S241507043,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-23,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S216623573,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-03-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
+S234552080,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-05-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,,1,33.070712,-106.020041,7,7,city_2604_new_mexico_tularosa
+S228159970,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-04-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,88,,1,33.070712,-106.020041,10,10,city_2604_new_mexico_tularosa
+S232011696,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-04-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,88,,1,33.070712,-106.020041,10,10,city_2604_new_mexico_tularosa
+S210402524,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-01-23,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,89,,1,33.070712,-106.020041,9,9,city_2604_new_mexico_tularosa
+S224924824,L2276418,Tularosa (town),2025-04-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,32,5.087,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
+S209637799,L2276418,Tularosa (town),2025-01-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,8.04,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S245478992,L2276418,Tularosa (town),2025-06-01,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,8.047,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
+S279898508,L2276418,Tularosa (town),2025-10-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,0.105,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S245046567,L2276418,Tularosa (town),2025-05-31,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,8.047,1,33.0739069,-106.0202143,25,25,city_2604_new_mexico_tularosa
+S233662435,L2276418,Tularosa (town),2025-05-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,14.484,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S238159449,L2276418,Tularosa (town),2025-05-15,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,28,3.104,1,33.0739069,-106.0202143,18,18,city_2604_new_mexico_tularosa
+S246000044,L2276418,Tularosa (town),2025-06-02,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,27,5.219,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S236392921,L2276418,Tularosa (town),2025-05-11,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,1.818,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S233870377,L11653197,704 6th Street Tularosa,2025-05-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,90,,1,33.0726528,-106.0201107,17,17,city_2604_new_mexico_tularosa
+S233661845,L11653197,704 6th Street Tularosa,2025-05-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,,1,33.0726528,-106.0201107,15,15,city_2604_new_mexico_tularosa
+S237299237,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-13,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,14,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S219232095,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-03-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S287317338,L12663779,NM Tularosa Public Library,2025-12-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,0.805,1,33.0723937,-106.0196757,4,4,city_2604_new_mexico_tularosa
+S210464010,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-01-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,,1,33.070712,-106.020041,6,6,city_2604_new_mexico_tularosa
+S239790873,L2276418,Tularosa (town),2025-05-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,33,5.633,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S235496589,L2276418,Tularosa (town),2025-05-10,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,2.412,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S212447820,L2276418,Tularosa (town),2025-02-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,29,6.796,1,33.0739069,-106.0202143,8,8,city_2604_new_mexico_tularosa
+S221023806,L2276418,Tularosa (town),2025-03-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,8,3.166,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S211856064,L2276418,Tularosa (town),2025-02-03,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,6.437,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S239256207,L2276418,Tularosa (town),2025-05-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,39,1.804,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S263779325,L11653197,704 6th Street Tularosa,2025-07-29,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
+S265050024,L11653197,704 6th Street Tularosa,2025-08-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
+S220918249,L11653197,704 6th Street Tularosa,2025-03-26,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
+S223569745,L11653197,704 6th Street Tularosa,2025-04-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,10,10,city_2604_new_mexico_tularosa
+S265837172,L11653197,704 6th Street Tularosa,2025-08-07,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
+S210086156,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-01-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,9,9,city_2604_new_mexico_tularosa
+S247344085,L13964872,NM Encino & 7th St Tularosa,2025-06-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,23,1.29,1,33.0730829,-106.0213865,11,11,city_2604_new_mexico_tularosa
+S209213639,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-01-13,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
+S219964094,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-03-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,47,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S288898036,L13964872,NM Encino & 7th St Tularosa,2025-12-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,28,1.228,1,33.0730829,-106.0213865,9,9,city_2604_new_mexico_tularosa
+S215715747,L2276418,Tularosa (town),2025-02-27,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,29,5.141,1,33.0739069,-106.0202143,7,7,city_2604_new_mexico_tularosa
+S280374998,L2276418,Tularosa (town),2025-10-19,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,67,7.132,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S211851708,L2276418,Tularosa (town),2025-02-02,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,14.484,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S233661011,L2276418,Tularosa (town),2025-05-04,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,33,2.523,1,33.0739069,-106.0202143,10,10,city_2604_new_mexico_tularosa
+S280811618,L2276418,Tularosa (town),2025-10-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,35,1.943,1,33.0739069,-106.0202143,11,11,city_2604_new_mexico_tularosa
+S217260921,L2276418,Tularosa (town),2025-03-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,41,6.306,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S223570267,L2276418,Tularosa (town),2025-04-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,14.484,1,33.0739069,-106.0202143,15,15,city_2604_new_mexico_tularosa
+S220337203,L2276418,Tularosa (town),2025-03-23,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,7.043,1,33.0739069,-106.0202143,14,14,city_2604_new_mexico_tularosa
+S242007331,L2276418,Tularosa (town),2025-05-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,7.242,1,33.0739069,-106.0202143,21,21,city_2604_new_mexico_tularosa
+S286232698,L2276418,Tularosa (town),2025-11-26,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,55,12.875,1,33.0739069,-106.0202143,21,21,city_2604_new_mexico_tularosa
+S289006529,L27946651,"Library, 515 Fresno St, Tularosa US-NM 33.07250, -106.01984",2025-12-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,0.402,1,33.072496,-106.019843,4,4,city_2604_new_mexico_tularosa
+S286371647,L11653197,704 6th Street Tularosa,2025-11-27,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,50,,1,33.0726528,-106.0201107,16,16,city_2604_new_mexico_tularosa
+S279785459,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2025-10-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,13,,1,33.070678,-106.019973,3,3,city_2604_new_mexico_tularosa
+S238121505,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-15,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070781,-106.020091,9,9,city_2604_new_mexico_tularosa
+S239164522,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,10,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
+S225070787,L11653197,704 6th Street Tularosa,2025-04-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,75,,1,33.0726528,-106.0201107,20,20,city_2604_new_mexico_tularosa
+S216460186,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-03-03,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070781,-106.020091,4,4,city_2604_new_mexico_tularosa
+S289070865,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-12-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,,1,33.070712,-106.020041,5,5,city_2604_new_mexico_tularosa
+S209760608,L2276418,Tularosa (town),2025-01-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,3.698,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S280121636,L2276418,Tularosa (town),2025-10-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,41,5.295,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S221411515,L41793349,"near Veteran's Park, Tularosa, New Mexico, USA",2025-03-28,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,,1,33.0792322,-106.0103018,5,5,city_2604_new_mexico_tularosa
+S246298642,L11653197,704 6th Street Tularosa,2025-06-02,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,,1,33.0726528,-106.0201107,13,13,city_2604_new_mexico_tularosa
+S218484380,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-03-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
+S210259515,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-01-22,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,44,,1,33.070712,-106.020041,7,7,city_2604_new_mexico_tularosa
+S211231748,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-01-30,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,160,,1,33.070781,-106.020091,9,9,city_2604_new_mexico_tularosa
+S216910419,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-03-02,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
+S211160707,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-01-29,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,125,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
+S236674564,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-11,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070781,-106.020091,10,10,city_2604_new_mexico_tularosa
+S210674108,L13964872,NM Encino & 7th St Tularosa,2025-01-25,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,0.751,1,33.0730829,-106.0213865,6,6,city_2604_new_mexico_tularosa
+S227801341,L13992939,"NM Tulie home 502 Seventh St,  US-NM 33.07069, -106.02001",2025-04-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070689,-106.020007,2,2,city_2604_new_mexico_tularosa
+S236923476,L2276418,Tularosa (town),2025-05-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,52,4.573,1,33.0739069,-106.0202143,17,17,city_2604_new_mexico_tularosa
+S213809480,L2276418,Tularosa (town),2025-02-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,27,7.482,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S213952727,L2276418,Tularosa (town),2025-02-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,17,8.047,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S280515598,L2276418,Tularosa (town),2025-10-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,20,2.041,1,33.0739069,-106.0202143,9,9,city_2604_new_mexico_tularosa
+S213467333,L11653197,704 6th Street Tularosa,2025-02-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
+S287970686,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-12-09,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,57,,1,33.070712,-106.020041,5,5,city_2604_new_mexico_tularosa
+S287851866,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-12-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,68,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
+S287510046,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-12-06,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
+S231812359,L2276418,Tularosa (town),2025-05-01,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,32,6.437,1,33.0739069,-106.0202143,13,13,city_2604_new_mexico_tularosa
+S210492370,L2276418,Tularosa (town),2025-01-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,40,6.039,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S284436079,L11653197,704 6th Street Tularosa,2025-11-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,45,,1,33.0726528,-106.0201107,15,15,city_2604_new_mexico_tularosa
+S247725288,L13964872,NM Encino & 7th St Tularosa,2025-06-07,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,1.587,1,33.0730829,-106.0213865,9,9,city_2604_new_mexico_tularosa
+S288143274,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-12-11,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,99,,1,33.070781,-106.020091,3,3,city_2604_new_mexico_tularosa
+S227235566,L2276418,Tularosa (town),2025-04-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,30,14.484,1,33.0739069,-106.0202143,16,16,city_2604_new_mexico_tularosa
+S284809823,L2276418,Tularosa (town),2025-11-16,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,24,4.71,1,33.0739069,-106.0202143,5,5,city_2604_new_mexico_tularosa
+S223982201,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2025-04-08,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,165,,1,33.070678,-106.019973,4,4,city_2604_new_mexico_tularosa
+S241947634,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070781,-106.020091,6,6,city_2604_new_mexico_tularosa
+S220556602,L13964872,NM Encino & 7th St Tularosa,2025-03-24,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,38,1.983,1,33.0730829,-106.0213865,12,12,city_2604_new_mexico_tularosa
+S211851384,L11653197,704 6th Street Tularosa,2025-02-01,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0726528,-106.0201107,8,8,city_2604_new_mexico_tularosa
+S236850426,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,62,,1,33.070781,-106.020091,12,12,city_2604_new_mexico_tularosa
+S219694621,L2276418,Tularosa (town),2025-03-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,29,7.725,1,33.0739069,-106.0202143,6,6,city_2604_new_mexico_tularosa
+S285048289,L2276418,Tularosa (town),2025-11-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,7,,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S237734726,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-05-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,120,,1,33.070781,-106.020091,5,5,city_2604_new_mexico_tularosa
+S288243990,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-12-12,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,6,,1,33.070781,-106.020091,2,2,city_2604_new_mexico_tularosa
+S288418290,L2276418,Tularosa (town),2025-12-13,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,13,1.783,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S288649039,L2276418,Tularosa (town),2025-12-14,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,11,0.278,1,33.0739069,-106.0202143,4,4,city_2604_new_mexico_tularosa
+S227922791,L11653197,704 6th Street Tularosa,2025-04-21,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0726528,-106.0201107,9,9,city_2604_new_mexico_tularosa
+S241542373,L2276418,Tularosa (town),2025-05-23,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,18,1.276,1,33.0739069,-106.0202143,12,12,city_2604_new_mexico_tularosa
+S210611450,L11212127,"Tulie Home,  Tularosa US-NM 33.07068, -106.01997",2025-01-25,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,131,,1,33.070678,-106.019973,7,7,city_2604_new_mexico_tularosa
+S226818571,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-04-18,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.070781,-106.020091,7,7,city_2604_new_mexico_tularosa
+S230239008,L13174561,Central ave. Tularosa NM,2025-04-27,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,1.609,1,33.07956,-106.0122085,2,2,city_2604_new_mexico_tularosa
+S288731391,L12663779,NM Tularosa Public Library,2025-12-15,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,25,0.402,1,33.0723937,-106.0196757,4,4,city_2604_new_mexico_tularosa
+S227608250,L13992939,"NM Tulie home 502 Seventh St,  US-NM 33.07069, -106.02001",2025-04-20,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,65,,1,33.070689,-106.020007,2,2,city_2604_new_mexico_tularosa
+S281220003,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-10-25,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,12,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
+S213469304,L11653197,704 6th Street Tularosa,2025-02-15,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,15,,1,33.0726528,-106.0201107,1,1,city_2604_new_mexico_tularosa
+S288016419,L12795667,"NM Tulie Home, 502 Seventh St, US-NM 33.07078, -106.02009",2025-12-10,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070781,-106.020091,1,1,city_2604_new_mexico_tularosa
+S210800768,L39732912,"football/track stadium, Tularosa, New Mexico, USA",2025-01-26,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,60,,1,33.0736214,-106.0264714,1,1,city_2604_new_mexico_tularosa
+S284958895,L13254198,"NM Tulie home, 502 Seventh St,  US-NM 33.07071, -106.02004",2025-11-17,2025,2604,"Tularosa, NM",Tularosa,New Mexico,Otero,4920781.74262681,5,,1,33.070712,-106.020041,1,1,city_2604_new_mexico_tularosa

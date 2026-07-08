@@ -1,760 +1,760 @@
-checklist_id	observation_date	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S22372601	2015-03-15	Rock Pigeon	Columba livia	1868	domestic	X	40.1987530	-100.6346010	Stationary	1	0
-S22372601	2015-03-15	European Starling	Sturnus vulgaris	27813	species	X	40.1987530	-100.6346010	Stationary	1	0
-S22372601	2015-03-15	Ring-billed Gull	Larus delawarensis	6521	species	X	40.1987530	-100.6346010	Stationary	1	0
-S22372601	2015-03-15	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.1987530	-100.6346010	Stationary	1	0
-S22372601	2015-03-15	Mallard	Anas platyrhynchos	545	species	X	40.1987530	-100.6346010	Stationary	1	0
-S22372601	2015-03-15	Canada Goose	Branta canadensis	342	species	X	40.1987530	-100.6346010	Stationary	1	0
-S37993432	2017-07-05	Northern Flicker	Colaptes auratus	11900	species	1	40.2014409	-100.6368765	Traveling	1	0
-S36388074	2017-04-29	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2108200	-100.6160330	Stationary	1	0
-S37993492	2017-07-05	Chimney Swift	Chaetura pelagica	3896	species	1	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	Killdeer	Charadrius vociferus	5827	species	1	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	European Starling	Sturnus vulgaris	27813	species	2	40.2014409	-100.6368765	Traveling	1	0
-S36388074	2017-04-29	European Starling	Sturnus vulgaris	27813	species	6	40.2108200	-100.6160330	Stationary	1	0
-S37993432	2017-07-05	Common Grackle	Quiscalus quiscula	33853	species	2	40.2014409	-100.6368765	Traveling	1	0
-S37993492	2017-07-05	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	40.2014409	-100.6368765	Traveling	1	1
-S36388074	2017-04-29	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2108200	-100.6160330	Stationary	1	0
-S36388074	2017-04-29	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2108200	-100.6160330	Stationary	1	0
-S37993492	2017-07-05	Mourning Dove	Zenaida macroura	2412	species	1	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	American Robin	Turdus migratorius	28633	species	3	40.2014409	-100.6368765	Traveling	1	0
-S37993492	2017-07-05	House Sparrow	Passer domesticus	31534	species	1	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	House Finch	Haemorhous mexicanus	32310	species	3	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	Chimney Swift	Chaetura pelagica	3896	species	1	40.2014409	-100.6368765	Traveling	1	0
-S36388074	2017-04-29	House Finch	Haemorhous mexicanus	32310	species	2	40.2108200	-100.6160330	Stationary	1	0
-S36388074	2017-04-29	Mourning Dove	Zenaida macroura	2412	species	2	40.2108200	-100.6160330	Stationary	1	0
-S41182529	2017-12-18	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2103910	-100.6221690	Traveling	1	0
-S36388074	2017-04-29	American Robin	Turdus migratorius	28633	species	4	40.2108200	-100.6160330	Stationary	1	0
-S37993432	2017-07-05	House Sparrow	Passer domesticus	31534	species	15	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	Turkey Vulture	Cathartes aura	7815	species	2	40.2014409	-100.6368765	Traveling	1	0
-S41182529	2017-12-18	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2103910	-100.6221690	Traveling	1	0
-S37993432	2017-07-05	Rock Pigeon	Columba livia	1868	domestic	2	40.2014409	-100.6368765	Traveling	1	0
-S37993492	2017-07-05	House Finch	Haemorhous mexicanus	32310	species	2	40.2014409	-100.6368765	Traveling	1	0
-S41182529	2017-12-18	American Robin	Turdus migratorius	28633	species	1	40.2103910	-100.6221690	Traveling	1	0
-S37993432	2017-07-05	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2014409	-100.6368765	Traveling	1	0
-S37993432	2017-07-05	Mourning Dove	Zenaida macroura	2412	species	2	40.2014409	-100.6368765	Traveling	1	0
-S46227452	2018-05-30	House Finch	Haemorhous mexicanus	32310	species	7	40.2046404	-100.6255603	Traveling	1	0
-S42582250	2018-02-07	House Sparrow	Passer domesticus	31534	species	10	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	Mourning Dove	Zenaida macroura	2412	species	12	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	European Starling	Sturnus vulgaris	27813	species	10	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2046404	-100.6255603	Traveling	1	0
-S49727233	2018-11-06	European Starling	Sturnus vulgaris	27813	species	1	40.2000180	-100.6336881	Traveling	1	0
-S46227452	2018-05-30	Mississippi Kite	Ictinia mississippiensis	8388	species	2	40.2046404	-100.6255603	Traveling	1	1
-S46227452	2018-05-30	American Robin	Turdus migratorius	28633	species	15	40.2046404	-100.6255603	Traveling	1	0
-S42582250	2018-02-07	American Robin	Turdus migratorius	28633	species	6	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	Chimney Swift	Chaetura pelagica	3896	species	7	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	Rock Pigeon	Columba livia	1868	domestic	2	40.2046404	-100.6255603	Traveling	1	0
-S49727233	2018-11-06	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2000180	-100.6336881	Traveling	1	0
-S42582250	2018-02-07	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	Western Kingbird	Tyrannus verticalis	17467	species	7	40.2046404	-100.6255603	Traveling	1	0
-S42582250	2018-02-07	Northern Flicker	Colaptes auratus	11900	species	5	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	40.2046404	-100.6255603	Traveling	1	0
-S49727233	2018-11-06	Rock Pigeon	Columba livia	1868	domestic	10	40.2000180	-100.6336881	Traveling	1	0
-S46227452	2018-05-30	House Sparrow	Passer domesticus	31534	species	10	40.2046404	-100.6255603	Traveling	1	0
-S42582250	2018-02-07	European Starling	Sturnus vulgaris	27813	species	20	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	Common Grackle	Quiscalus quiscula	33853	species	2	40.2046404	-100.6255603	Traveling	1	0
-S46227452	2018-05-30	Baltimore Oriole	Icterus galbula	33770	species	1	40.2046404	-100.6255603	Traveling	1	0
-S56690240	2019-05-24	Swainson's Thrush	Catharus ustulatus	28324	species	1	40.2126100	-100.6205490	Traveling	1	0
-S60497359	2019-10-09	House Sparrow	Passer domesticus	31534	species	2	40.1996935	-100.6506500	Stationary	1	0
-S56690240	2019-05-24	Northern House Wren	Troglodytes aedon	27192	issf	3	40.2126100	-100.6205490	Traveling	1	0
-S60497359	2019-10-09	Great-tailed Grackle	Quiscalus mexicanus	33864	species	13	40.1996935	-100.6506500	Stationary	1	0
-S56690240	2019-05-24	Eastern Phoebe	Sayornis phoebe	17007	species	2	40.2126100	-100.6205490	Traveling	1	0
-S60181590	2019-09-28	American Robin	Turdus migratorius	28633	species	3	40.1984440	-100.6223740	Traveling	1	0
-S56690240	2019-05-24	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	House Finch	Haemorhous mexicanus	32310	species	4	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Baltimore Oriole	Icterus galbula	33770	species	2	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	American Goldfinch	Spinus tristis	32617	species	3	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Northern Flicker	Colaptes auratus	11903	issf	1	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Northern Yellow Warbler	Setophaga aestiva	34087	species	12	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Common Grackle	Quiscalus quiscula	33857	issf	5	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Downy Woodpecker	Dryobates pubescens	11401	issf	1	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Blue Jay	Cyanocitta cristata	21294	species	1	40.2126100	-100.6205490	Traveling	1	0
-S60181590	2019-09-28	Rock Pigeon	Columba livia	1868	domestic	1	40.1984440	-100.6223740	Traveling	1	0
-S56690240	2019-05-24	Mourning Dove	Zenaida macroura	2412	species	8	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	American Robin	Turdus migratorius	28633	species	32	40.2126100	-100.6205490	Traveling	1	0
-S56690240	2019-05-24	European Starling	Sturnus vulgaris	27813	species	19	40.2126100	-100.6205490	Traveling	1	0
-S60497359	2019-10-09	European Starling	Sturnus vulgaris	27813	species	4	40.1996935	-100.6506500	Stationary	1	0
-S63215024	2020-01-09	Dark-eyed Junco	Junco hyemalis	33126	issf	5	40.2124820	-100.6204180	Traveling	1	0
-S63215024	2020-01-09	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2124820	-100.6204180	Traveling	1	0
-S63215024	2020-01-09	Dark-eyed Junco	Junco hyemalis	33138	issf	2	40.2124820	-100.6204180	Traveling	1	0
-S71839022	2020-07-25	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.2046404	-100.6255603	Traveling	1	0
-S63215024	2020-01-09	House Sparrow	Passer domesticus	31534	species	4	40.2124820	-100.6204180	Traveling	1	0
-S63215024	2020-01-09	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	40.2124820	-100.6204180	Traveling	1	0
-S63215024	2020-01-09	Dark-eyed Junco	Junco hyemalis	33124	species	7	40.2124820	-100.6204180	Traveling	1	0
-S71839022	2020-07-25	Blue Jay	Cyanocitta cristata	21294	species	1	40.2046404	-100.6255603	Traveling	1	0
-S63215024	2020-01-09	Dark-eyed Junco	Junco hyemalis	33130	issf	2	40.2124820	-100.6204180	Traveling	1	0
-S71839022	2020-07-25	Mourning Dove	Zenaida macroura	2412	species	11	40.2046404	-100.6255603	Traveling	1	0
-S71839022	2020-07-25	Mississippi Kite	Ictinia mississippiensis	8388	species	2	40.2046404	-100.6255603	Traveling	1	1
-S63215024	2020-01-09	American Goldfinch	Spinus tristis	32617	species	3	40.2124820	-100.6204180	Traveling	1	0
-S71839022	2020-07-25	Chimney Swift	Chaetura pelagica	3896	species	2	40.2046404	-100.6255603	Traveling	1	0
-S71839022	2020-07-25	House Sparrow	Passer domesticus	31534	species	12	40.2046404	-100.6255603	Traveling	1	0
-S63215024	2020-01-09	American Robin	Turdus migratorius	28633	species	9	40.2124820	-100.6204180	Traveling	1	0
-S71839022	2020-07-25	European Starling	Sturnus vulgaris	27813	species	1	40.2046404	-100.6255603	Traveling	1	0
-S63215024	2020-01-09	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2124820	-100.6204180	Traveling	1	0
-S63215024	2020-01-09	Hairy Woodpecker	Leuconotopicus villosus	11428	issf	1	40.2124820	-100.6204180	Traveling	1	0
-S63215024	2020-01-09	Black-capped Chickadee	Poecile atricapillus	22065	species	5	40.2124820	-100.6204180	Traveling	1	0
-S63215024	2020-01-09	White-breasted Nuthatch	Sitta carolinensis	26890	issf	2	40.2124820	-100.6204180	Traveling	1	0
-S71839022	2020-07-25	Rock Pigeon	Columba livia	1868	domestic	2	40.2046404	-100.6255603	Traveling	1	0
-S71839022	2020-07-25	American Robin	Turdus migratorius	28633	species	7	40.2046404	-100.6255603	Traveling	1	0
-S63215024	2020-01-09	Downy Woodpecker	Dryobates pubescens	11401	issf	2	40.2124820	-100.6204180	Traveling	1	0
-S71839022	2020-07-25	Western Kingbird	Tyrannus verticalis	17467	species	7	40.2046404	-100.6255603	Traveling	1	0
-S71839022	2020-07-25	Turkey Vulture	Cathartes aura	7815	species	1	40.2046404	-100.6255603	Traveling	1	0
-S94408750	2021-09-09	Rock Pigeon	Columba livia	1868	domestic	2	40.2114190	-100.6486510	Stationary	1	0
-S85281891	2021-04-10	House Finch	Haemorhous mexicanus	32310	species	8	40.2118550	-100.6486060	Traveling	1	0
-S85281891	2021-04-10	European Starling	Sturnus vulgaris	27813	species	60	40.2118550	-100.6486060	Traveling	1	0
-S85281891	2021-04-10	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	1	40.2118550	-100.6486060	Traveling	1	0
-S85281891	2021-04-10	Mourning Dove	Zenaida macroura	2412	species	3	40.2118550	-100.6486060	Traveling	1	0
-S83806137	2021-03-21	House Finch	Haemorhous mexicanus	32310	species	1	40.2046159	-100.6249716	Traveling	1	0
-S85281891	2021-04-10	Turkey Vulture	Cathartes aura	7815	species	12	40.2118550	-100.6486060	Traveling	1	0
-S83806137	2021-03-21	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2046159	-100.6249716	Traveling	1	0
-S94408750	2021-09-09	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2114190	-100.6486510	Stationary	1	0
-S85281891	2021-04-10	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	15	40.2118550	-100.6486060	Traveling	1	0
-S85281891	2021-04-10	American Goldfinch	Spinus tristis	32617	species	1	40.2118550	-100.6486060	Traveling	1	0
-S85281891	2021-04-10	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	40.2118550	-100.6486060	Traveling	1	0
-S94408750	2021-09-09	Mourning Dove	Zenaida macroura	2412	species	1	40.2114190	-100.6486510	Stationary	1	0
-S85281891	2021-04-10	Common Grackle	Quiscalus quiscula	33853	species	200	40.2118550	-100.6486060	Traveling	1	0
-S94408750	2021-09-09	European Starling	Sturnus vulgaris	27813	species	3	40.2114190	-100.6486510	Stationary	1	0
-S83806137	2021-03-21	American Robin	Turdus migratorius	28633	species	2	40.2046159	-100.6249716	Traveling	1	0
-S94408750	2021-09-09	House Sparrow	Passer domesticus	31534	species	2	40.2114190	-100.6486510	Stationary	1	0
-S85281891	2021-04-10	American Robin	Turdus migratorius	28633	species	30	40.2118550	-100.6486060	Traveling	1	0
-S83806137	2021-03-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2046159	-100.6249716	Traveling	1	0
-S85281891	2021-04-10	House Sparrow	Passer domesticus	31534	species	10	40.2118550	-100.6486060	Traveling	1	0
-S94408750	2021-09-09	House Finch	Haemorhous mexicanus	32310	species	1	40.2114190	-100.6486510	Stationary	1	0
-S106399691	2022-04-06	American Robin	Turdus migratorius	28633	species	3	40.1985763	-100.6295784	Traveling	1	0
-S114085511	2022-06-30	Mourning Dove	Zenaida macroura	2412	species	18	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	American Robin	Turdus migratorius	28633	species	21	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Dickcissel	Spiza americana	34627	species	1	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Western Meadowlark	Sturnella neglecta	33565	species	1	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Chimney Swift	Chaetura pelagica	3896	species	1	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	40.2091440	-100.6403640	Traveling	1	0
-S106399691	2022-04-06	Turkey Vulture	Cathartes aura	7815	species	1	40.1985763	-100.6295784	Traveling	1	0
-S114016842	2022-06-29	House Finch	Haemorhous mexicanus	32310	species	2	40.2115610	-100.6486390	Traveling	1	0
-S114085511	2022-06-30	House Finch	Haemorhous mexicanus	32310	species	4	40.2091440	-100.6403640	Traveling	1	0
-S106399691	2022-04-06	Western Meadowlark	Sturnella neglecta	33565	species	1	40.1985763	-100.6295784	Traveling	1	0
-S114016842	2022-06-29	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2115610	-100.6486390	Traveling	1	0
-S106399691	2022-04-06	European Starling	Sturnus vulgaris	27813	species	8	40.1985763	-100.6295784	Traveling	1	0
-S114016842	2022-06-29	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2115610	-100.6486390	Traveling	1	0
-S114085511	2022-06-30	House Sparrow	Passer domesticus	31534	species	14	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Northern Flicker	Colaptes auratus	11903	issf	3	40.2091440	-100.6403640	Traveling	1	0
-S114016842	2022-06-29	Common Grackle	Quiscalus quiscula	33853	species	3	40.2115610	-100.6486390	Traveling	1	0
-S106399691	2022-04-06	House Sparrow	Passer domesticus	31534	species	3	40.1985763	-100.6295784	Traveling	1	0
-S114085511	2022-06-30	European Starling	Sturnus vulgaris	27813	species	3	40.2091440	-100.6403640	Traveling	1	0
-S114016842	2022-06-29	European Starling	Sturnus vulgaris	27813	species	18	40.2115610	-100.6486390	Traveling	1	0
-S114016842	2022-06-29	American Robin	Turdus migratorius	28633	species	2	40.2115610	-100.6486390	Traveling	1	0
-S114085511	2022-06-30	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2091440	-100.6403640	Traveling	1	0
-S114016842	2022-06-29	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2115610	-100.6486390	Traveling	1	0
-S114085511	2022-06-30	Northern House Wren	Troglodytes aedon	27191	species	1	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Chipping Sparrow	Spizella passerina	32990	species	5	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Barn Swallow	Hirundo rustica	24187	species	1	40.2091440	-100.6403640	Traveling	1	0
-S106399691	2022-04-06	Rock Pigeon	Columba livia	1868	domestic	4	40.1985763	-100.6295784	Traveling	1	0
-S114016842	2022-06-29	Bell's Vireo	Vireo bellii	19197	species	1	40.2115610	-100.6486390	Traveling	1	0
-S114016842	2022-06-29	House Sparrow	Passer domesticus	31534	species	2	40.2115610	-100.6486390	Traveling	1	0
-S106399691	2022-04-06	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.1985763	-100.6295784	Traveling	1	0
-S114085511	2022-06-30	Common Grackle	Quiscalus quiscula	33853	species	10	40.2091440	-100.6403640	Traveling	1	0
-S114016842	2022-06-29	Western Meadowlark	Sturnella neglecta	33565	species	1	40.2115610	-100.6486390	Traveling	1	0
-S114085511	2022-06-30	Orchard Oriole	Icterus spurius	33679	species	2	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Western Kingbird	Tyrannus verticalis	17467	species	11	40.2091440	-100.6403640	Traveling	1	0
-S114085511	2022-06-30	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2091440	-100.6403640	Traveling	1	0
-S146718659	2023-08-07	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	40.2125690	-100.6204700	Traveling	1	0
-S137972688	2023-05-16	Chipping Sparrow	Spizella passerina	32990	species	2	40.2145290	-100.6202970	Stationary	1	0
-S138095443	2023-05-15	Blue Jay	Cyanocitta cristata	21294	species	1	40.2093251	-100.6419651	Stationary	1	0
-S138883800	2023-05-19	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	Chipping Sparrow	Spizella passerina	32990	species	3	40.2125690	-100.6204700	Traveling	1	0
-S137972688	2023-05-16	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
-S137972688	2023-05-16	American Robin	Turdus migratorius	28633	species	4	40.2145290	-100.6202970	Stationary	1	0
-S146613097	2023-08-06	Mourning Dove	Zenaida macroura	2412	species	2	40.2125690	-100.6204700	Traveling	1	0
-S138883800	2023-05-19	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2125690	-100.6204700	Traveling	1	0
-S143885267	2023-07-08	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2145290	-100.6202970	Stationary	1	0
-S148678409	2023-09-01	Blue Jay	Cyanocitta cristata	21294	species	2	40.2030270	-100.6409510	Stationary	1	0
-S146613097	2023-08-06	American Robin	Turdus migratorius	28633	species	2	40.2125690	-100.6204700	Traveling	1	0
-S137283959	2023-05-12	American Robin	Turdus migratorius	28633	species	5	40.2093251	-100.6419651	Stationary	1	0
-S146718659	2023-08-07	Great Crested Flycatcher	Myiarchus crinitus	17334	species	2	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
-S143885267	2023-07-08	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
-S148678409	2023-09-01	House Finch	Haemorhous mexicanus	32310	species	1	40.2030270	-100.6409510	Stationary	1	0
-S138095443	2023-05-15	House Finch	Haemorhous mexicanus	32310	species	8	40.2093251	-100.6419651	Stationary	1	0
-S137283959	2023-05-12	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	40.2093251	-100.6419651	Stationary	1	0
-S138095443	2023-05-15	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2093251	-100.6419651	Stationary	1	0
-S146718659	2023-08-07	American Robin	Turdus migratorius	28633	species	1	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	Blue Jay	Cyanocitta cristata	21294	species	5	40.2125690	-100.6204700	Traveling	1	0
-S135538653	2023-04-30	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
-S143885267	2023-07-08	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
-S137283959	2023-05-12	House Sparrow	Passer domesticus	31534	species	8	40.2093251	-100.6419651	Stationary	1	0
-S135917010	2023-05-03	Mourning Dove	Zenaida macroura	2412	species	2	40.2145290	-100.6202970	Stationary	1	0
-S137972688	2023-05-16	Common Grackle	Quiscalus quiscula	33853	species	3	40.2145290	-100.6202970	Stationary	1	0
-S135917010	2023-05-03	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2145290	-100.6202970	Stationary	1	0
-S137283959	2023-05-12	White-winged Dove	Zenaida asiatica	2389	species	1	40.2093251	-100.6419651	Stationary	1	1
-S138883800	2023-05-19	European Starling	Sturnus vulgaris	27813	species	3	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	Baltimore Oriole	Icterus galbula	33770	species	1	40.2125690	-100.6204700	Traveling	1	0
-S137283959	2023-05-12	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2093251	-100.6419651	Stationary	1	0
-S138883800	2023-05-19	American Robin	Turdus migratorius	28633	species	5	40.2125690	-100.6204700	Traveling	1	0
-S135538653	2023-04-30	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2145290	-100.6202970	Stationary	1	0
-S147594420	2023-08-19	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
-S147594420	2023-08-19	American Robin	Turdus migratorius	28633	species	3	40.2145290	-100.6202970	Stationary	1	0
-S136051203	2023-05-04	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
-S138095443	2023-05-15	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2093251	-100.6419651	Stationary	1	0
-S143885267	2023-07-08	Common Grackle	Quiscalus quiscula	33853	species	1	40.2145290	-100.6202970	Stationary	1	0
-S138095443	2023-05-15	American Robin	Turdus migratorius	28633	species	5	40.2093251	-100.6419651	Stationary	1	0
-S135538653	2023-04-30	House Finch	Haemorhous mexicanus	32310	species	3	40.2145290	-100.6202970	Stationary	1	0
-S136051203	2023-05-04	Northern House Wren	Troglodytes aedon	27191	species	2	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	Mourning Dove	Zenaida macroura	2412	species	3	40.2125690	-100.6204700	Traveling	1	0
-S136105165	2023-05-04	House Sparrow	Passer domesticus	31534	species	2	40.2093251	-100.6419651	Stationary	1	0
-S143885267	2023-07-08	Purple Martin	Progne subis	24081	species	1	40.2145290	-100.6202970	Stationary	1	0
-S136105165	2023-05-04	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2093251	-100.6419651	Stationary	1	0
-S135538653	2023-04-30	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
-S135917010	2023-05-03	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2145290	-100.6202970	Stationary	1	0
-S147594420	2023-08-19	Baltimore Oriole	Icterus galbula	33770	species	1	40.2145290	-100.6202970	Stationary	1	0
-S138095443	2023-05-15	House Sparrow	Passer domesticus	31534	species	5	40.2093251	-100.6419651	Stationary	1	0
-S138883800	2023-05-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2125690	-100.6204700	Traveling	1	0
-S138095443	2023-05-15	Baltimore Oriole	Icterus galbula	33770	species	1	40.2093251	-100.6419651	Stationary	1	0
-S138883800	2023-05-19	Downy Woodpecker	Dryobates pubescens	11400	species	2	40.2125690	-100.6204700	Traveling	1	0
-S146613097	2023-08-06	Common Grackle	Quiscalus quiscula	33853	species	1	40.2125690	-100.6204700	Traveling	1	0
-S147594420	2023-08-19	Blue Jay	Cyanocitta cristata	21294	species	7	40.2145290	-100.6202970	Stationary	1	0
-S138883800	2023-05-19	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
-S137972688	2023-05-16	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2145290	-100.6202970	Stationary	1	0
-S147594420	2023-08-19	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
-S143885267	2023-07-08	House Sparrow	Passer domesticus	31534	species	4	40.2145290	-100.6202970	Stationary	1	0
-S135538653	2023-04-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2145290	-100.6202970	Stationary	1	0
-S135917010	2023-05-03	House Sparrow	Passer domesticus	31534	species	4	40.2145290	-100.6202970	Stationary	1	0
-S138095443	2023-05-15	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2093251	-100.6419651	Stationary	1	0
-S136105165	2023-05-04	Common Grackle	Quiscalus quiscula	33853	species	2	40.2093251	-100.6419651	Stationary	1	0
-S135538653	2023-04-30	House Sparrow	Passer domesticus	31534	species	2	40.2145290	-100.6202970	Stationary	1	0
-S136051203	2023-05-04	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	40.2125690	-100.6204700	Traveling	1	0
-S132079843	2023-03-28	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	40.2125690	-100.6204700	Traveling	1	0
-S137972688	2023-05-16	European Starling	Sturnus vulgaris	27813	species	1	40.2145290	-100.6202970	Stationary	1	0
-S135917010	2023-05-03	Common Grackle	Quiscalus quiscula	33853	species	1	40.2145290	-100.6202970	Stationary	1	0
-S138883800	2023-05-19	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	40.2125690	-100.6204700	Traveling	1	0
-S147594420	2023-08-19	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2145290	-100.6202970	Stationary	1	0
-S143885267	2023-07-08	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2145290	-100.6202970	Stationary	1	0
-S137283959	2023-05-12	Franklin's Gull	Leucophaeus pipixcan	6494	species	20	40.2093251	-100.6419651	Stationary	1	0
-S136051203	2023-05-04	House Sparrow	Passer domesticus	31534	species	2	40.2125690	-100.6204700	Traveling	1	0
-S136105165	2023-05-04	Blue Jay	Cyanocitta cristata	21294	species	2	40.2093251	-100.6419651	Stationary	1	0
-S146613097	2023-08-06	Northern Flicker	Colaptes auratus	11900	species	1	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	American Goldfinch	Spinus tristis	32617	species	2	40.2125690	-100.6204700	Traveling	1	0
-S143885267	2023-07-08	Blue Jay	Cyanocitta cristata	21294	species	1	40.2145290	-100.6202970	Stationary	1	0
-S135538653	2023-04-30	Song Sparrow	Melospiza melodia	33277	species	2	40.2145290	-100.6202970	Stationary	1	0
-S138883800	2023-05-19	Common Grackle	Quiscalus quiscula	33853	species	4	40.2125690	-100.6204700	Traveling	1	0
-S135917010	2023-05-03	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2145290	-100.6202970	Stationary	1	0
-S143885267	2023-07-08	American Robin	Turdus migratorius	28633	species	2	40.2145290	-100.6202970	Stationary	1	0
-S137283959	2023-05-12	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2093251	-100.6419651	Stationary	1	0
-S132079843	2023-03-28	American Goldfinch	Spinus tristis	32617	species	1	40.2125690	-100.6204700	Traveling	1	0
-S147594420	2023-08-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2145290	-100.6202970	Stationary	1	0
-S148678409	2023-09-01	Baltimore Oriole	Icterus galbula	33770	species	1	40.2030270	-100.6409510	Stationary	1	0
-S147594420	2023-08-19	American Goldfinch	Spinus tristis	32617	species	1	40.2145290	-100.6202970	Stationary	1	0
-S135538653	2023-04-30	American Robin	Turdus migratorius	28633	species	3	40.2145290	-100.6202970	Stationary	1	0
-S143885267	2023-07-08	Mourning Dove	Zenaida macroura	2412	species	1	40.2145290	-100.6202970	Stationary	1	0
-S137283959	2023-05-12	Mourning Dove	Zenaida macroura	2412	species	4	40.2093251	-100.6419651	Stationary	1	0
-S136105165	2023-05-04	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2093251	-100.6419651	Stationary	1	0
-S132079843	2023-03-28	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
-S136105165	2023-05-04	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2093251	-100.6419651	Stationary	1	0
-S138883800	2023-05-19	Baltimore Oriole	Icterus galbula	33770	species	1	40.2125690	-100.6204700	Traveling	1	0
-S137972688	2023-05-16	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2145290	-100.6202970	Stationary	1	0
-S136105165	2023-05-04	Baltimore Oriole	Icterus galbula	33770	species	1	40.2093251	-100.6419651	Stationary	1	0
-S132079843	2023-03-28	Cooper's Hawk	Astur cooperii	8278	species	1	40.2125690	-100.6204700	Traveling	1	0
-S143885267	2023-07-08	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2145290	-100.6202970	Stationary	1	0
-S148678409	2023-09-01	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2030270	-100.6409510	Stationary	1	0
-S136105165	2023-05-04	House Finch	Haemorhous mexicanus	32310	species	2	40.2093251	-100.6419651	Stationary	1	0
-S148678409	2023-09-01	Mourning Dove	Zenaida macroura	2412	species	1	40.2030270	-100.6409510	Stationary	1	0
-S135917010	2023-05-03	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
-S137972688	2023-05-16	Baltimore Oriole	Icterus galbula	33770	species	1	40.2145290	-100.6202970	Stationary	1	0
-S147594420	2023-08-19	Gray Catbird	Dumetella carolinensis	28000	species	1	40.2145290	-100.6202970	Stationary	1	0
-S138883800	2023-05-19	Orchard Oriole	Icterus spurius	33679	species	1	40.2125690	-100.6204700	Traveling	1	0
-S138095443	2023-05-15	Common Grackle	Quiscalus quiscula	33853	species	3	40.2093251	-100.6419651	Stationary	1	0
-S146613097	2023-08-06	Chimney Swift	Chaetura pelagica	3896	species	1	40.2125690	-100.6204700	Traveling	1	0
-S135538653	2023-04-30	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	40.2145290	-100.6202970	Stationary	1	0
-S132079843	2023-03-28	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
-S132079843	2023-03-28	American Robin	Turdus migratorius	28633	species	12	40.2125690	-100.6204700	Traveling	1	0
-S137283959	2023-05-12	House Finch	Haemorhous mexicanus	32310	species	6	40.2093251	-100.6419651	Stationary	1	0
-S132079843	2023-03-28	Northern Flicker	Colaptes auratus	11900	species	1	40.2125690	-100.6204700	Traveling	1	0
-S132079843	2023-03-28	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
-S147594420	2023-08-19	House Sparrow	Passer domesticus	31534	species	5	40.2145290	-100.6202970	Stationary	1	0
-S138883800	2023-05-19	Northern House Wren	Troglodytes aedon	27191	species	9	40.2125690	-100.6204700	Traveling	1	0
-S148678409	2023-09-01	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2030270	-100.6409510	Stationary	1	0
-S146718659	2023-08-07	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	40.2125690	-100.6204700	Traveling	1	0
-S138095443	2023-05-15	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2093251	-100.6419651	Stationary	1	0
-S136105165	2023-05-04	American Robin	Turdus migratorius	28633	species	5	40.2093251	-100.6419651	Stationary	1	0
-S150525153	2023-09-22	Eastern Screech-Owl	Megascops asio	8866	species	1	40.2125690	-100.6204700	Traveling	1	0
-S136051203	2023-05-04	American Robin	Turdus migratorius	28633	species	7	40.2125690	-100.6204700	Traveling	1	0
-S143885267	2023-07-08	Western Kingbird	Tyrannus verticalis	17467	species	6	40.2145290	-100.6202970	Stationary	1	0
-S137972688	2023-05-16	House Sparrow	Passer domesticus	31534	species	5	40.2145290	-100.6202970	Stationary	1	0
-S147594420	2023-08-19	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2145290	-100.6202970	Stationary	1	0
-S135917010	2023-05-03	American Robin	Turdus migratorius	28633	species	3	40.2145290	-100.6202970	Stationary	1	0
-S135538653	2023-04-30	Common Grackle	Quiscalus quiscula	33853	species	3	40.2145290	-100.6202970	Stationary	1	0
-S196073034	2024-09-22	American Robin	Turdus migratorius	28633	species	4	40.2125690	-100.6204700	Traveling	1	0
-S196169759	2024-09-22	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	40.2125690	-100.6204700	Traveling	1	0
-S201196672	2024-11-02	American Goldfinch	Spinus tristis	32617	species	1	40.2125690	-100.6204700	Traveling	1	0
-S168573392	2024-04-14	Pine Siskin	Spinus pinus	32595	species	1	40.2125690	-100.6204700	Traveling	1	0
-S192036453	2024-08-19	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	40.2145290	-100.6202970	Stationary	1	0
-S172299775	2024-05-05	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2093251	-100.6419651	Stationary	1	0
-S201196672	2024-11-02	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	40.2125690	-100.6204700	Traveling	1	0
-S172299775	2024-05-05	Common Grackle	Quiscalus quiscula	33853	species	1	40.2093251	-100.6419651	Stationary	1	0
-S172884507	2024-05-08	American Robin	Turdus migratorius	28633	species	2	40.2093251	-100.6419651	Stationary	1	0
-S168573392	2024-04-14	Downy Woodpecker	Dryobates pubescens	11400	species	3	40.2125690	-100.6204700	Traveling	1	0
-S187330210	2024-07-16	Mississippi Kite	Ictinia mississippiensis	8388	species	3	40.2101770	-100.6418460	Traveling	1	1
-S192036453	2024-08-19	Common Grackle	Quiscalus quiscula	33853	species	2	40.2145290	-100.6202970	Stationary	1	0
-S158921095	2024-01-14	Dark-eyed Junco	Junco hyemalis	33126	issf	4	40.2101770	-100.6418460	Stationary	1	0
-S170453654	2024-04-26	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	40.1956430	-100.6204090	Historical	1	0
-S180664981	2024-06-10	Mississippi Kite	Ictinia mississippiensis	8388	species	1	40.1991380	-100.6151940	Traveling	1	1
-S171303340	2024-05-01	Northern Cardinal	Cardinalis cardinalis	34515	species	4	40.2093251	-100.6419651	Stationary	1	0
-S206641698	2024-12-26	Dark-eyed Junco	Junco hyemalis	33124	species	1	40.2125690	-100.6204700	Traveling	1	0
-S196169759	2024-09-22	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
-S187330210	2024-07-16	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2101770	-100.6418460	Traveling	1	0
-S170453654	2024-04-26	Blue Jay	Cyanocitta cristata	21294	species	2	40.1956430	-100.6204090	Historical	1	0
-S166332845	2024-03-29	European Starling	Sturnus vulgaris	27813	species	11	40.2041739	-100.6453711	Traveling	1	0
-S187237629	2024-07-16	European Starling	Sturnus vulgaris	27813	species	X	40.2103882	-100.6321793	Stationary	1	0
-S187179922	2024-07-14	Northern House Wren	Troglodytes aedon	27191	species	1	40.2103882	-100.6321793	Stationary	1	0
-S201196672	2024-11-02	European Starling	Sturnus vulgaris	27813	species	20	40.2125690	-100.6204700	Traveling	1	0
-S172523567	2024-05-06	Baltimore Oriole	Icterus galbula	33770	species	3	40.2093251	-100.6419651	Stationary	1	0
-S173305096	2024-05-10	Clay-colored Sparrow	Spizella pallida	32996	species	2	40.2125690	-100.6204700	Traveling	1	0
-S196169759	2024-09-22	American Robin	Turdus migratorius	28633	species	1	40.2125690	-100.6204700	Traveling	1	0
-S196073034	2024-09-22	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2125690	-100.6204700	Traveling	1	0
-S172299775	2024-05-05	Mourning Dove	Zenaida macroura	2412	species	2	40.2093251	-100.6419651	Stationary	1	0
-S163419985	2024-03-02	Dark-eyed Junco	Junco hyemalis	33124	species	2	40.2101770	-100.6418460	Stationary	1	0
-S170497249	2024-04-27	Clay-colored Sparrow	Spizella pallida	32996	species	1	40.2145290	-100.6202970	Stationary	1	0
-S170497249	2024-04-27	Ring-necked Pheasant	Phasianus colchicus	1477	species	2	40.2145290	-100.6202970	Stationary	1	0
-S171303340	2024-05-01	Mourning Dove	Zenaida macroura	2412	species	4	40.2093251	-100.6419651	Stationary	1	0
-S172523567	2024-05-06	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	40.2093251	-100.6419651	Stationary	1	0
-S172649833	2024-05-07	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	40.2093251	-100.6419651	Stationary	1	0
-S196072472	2024-09-22	European Starling	Sturnus vulgaris	27813	species	7	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
-S163419985	2024-03-02	Dark-eyed Junco	Junco hyemalis	33126	issf	3	40.2101770	-100.6418460	Stationary	1	0
-S168551398	2024-04-14	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	40.2145290	-100.6202970	Stationary	1	0
-S192036453	2024-08-19	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2145290	-100.6202970	Stationary	1	0
-S166270259	2024-03-28	Great-tailed Grackle	Quiscalus mexicanus	33869	issf	1	40.2041739	-100.6453711	Traveling	1	0
-S166237481	2024-03-28	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	11	40.2041739	-100.6453711	Traveling	1	0
-S180664981	2024-06-10	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.1991380	-100.6151940	Traveling	1	0
-S186668173	2024-07-12	Mourning Dove	Zenaida macroura	2412	species	1	40.2094269	-100.6166687	Traveling	1	0
-S206573838	2024-12-25	Mourning Dove	Zenaida macroura	2412	species	4	40.2083970	-100.6170954	Stationary	1	0
-S172523567	2024-05-06	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2093251	-100.6419651	Stationary	1	0
-S173305096	2024-05-10	Blue Jay	Cyanocitta cristata	21294	species	5	40.2125690	-100.6204700	Traveling	1	0
-S173654023	2024-05-11	Chipping Sparrow	Spizella passerina	32990	species	1	40.2145290	-100.6202970	Stationary	1	0
-S196169759	2024-09-22	Northern House Wren	Troglodytes aedon	27191	species	1	40.2125690	-100.6204700	Traveling	1	0
-S168573392	2024-04-14	Common Grackle	Quiscalus quiscula	33853	species	6	40.2125690	-100.6204700	Traveling	1	0
-S170453654	2024-04-26	Wood Duck	Aix sponsa	455	species	2	40.1956430	-100.6204090	Historical	1	0
-S187179922	2024-07-14	Common Grackle	Quiscalus quiscula	33853	species	X	40.2103882	-100.6321793	Stationary	1	0
-S179524666	2024-06-05	European Starling	Sturnus vulgaris	27813	species	6	40.1982404	-100.6152088	Stationary	1	0
-S187237629	2024-07-16	Eastern Kingbird	Tyrannus tyrannus	17472	species	X	40.2103882	-100.6321793	Stationary	1	0
-S171303340	2024-05-01	Common Grackle	Quiscalus quiscula	33853	species	2	40.2093251	-100.6419651	Stationary	1	0
-S172299775	2024-05-05	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	40.2093251	-100.6419651	Stationary	1	0
-S172523567	2024-05-06	White-winged Dove	Zenaida asiatica	2389	species	2	40.2093251	-100.6419651	Stationary	1	1
-S168573392	2024-04-14	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Common Grackle	Quiscalus quiscula	33853	species	3	40.2125690	-100.6204700	Traveling	1	0
-S158921095	2024-01-14	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2101770	-100.6418460	Stationary	1	0
-S187330210	2024-07-16	European Starling	Sturnus vulgaris	27813	species	1	40.2101770	-100.6418460	Traveling	1	0
-S170453654	2024-04-26	Pine Siskin	Spinus pinus	32595	species	2	40.1956430	-100.6204090	Historical	1	0
-S166237481	2024-03-28	Rock Pigeon	Columba livia	1868	domestic	5	40.2041739	-100.6453711	Traveling	1	0
-S187179922	2024-07-14	Northern Cardinal	Cardinalis cardinalis	34515	species	X	40.2103882	-100.6321793	Stationary	1	0
-S187237629	2024-07-16	Common Grackle	Quiscalus quiscula	33853	species	X	40.2103882	-100.6321793	Stationary	1	0
-S180664981	2024-06-10	Chimney Swift	Chaetura pelagica	3896	species	4	40.1991380	-100.6151940	Traveling	1	0
-S168573392	2024-04-14	House Sparrow	Passer domesticus	31534	species	2	40.2125690	-100.6204700	Traveling	1	0
-S196070545	2024-09-22	Mourning Dove	Zenaida macroura	2412	species	1	40.2125690	-100.6204700	Traveling	1	0
-S192036453	2024-08-19	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
-S168551398	2024-04-14	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
-S172523567	2024-05-06	Common Grackle	Quiscalus quiscula	33853	species	3	40.2093251	-100.6419651	Stationary	1	0
-S168573392	2024-04-14	American Goldfinch	Spinus tristis	32617	species	1	40.2125690	-100.6204700	Traveling	1	0
-S201196672	2024-11-02	Dark-eyed Junco	Junco hyemalis	33124	species	1	40.2125690	-100.6204700	Traveling	1	0
-S196073034	2024-09-22	European Starling	Sturnus vulgaris	27813	species	4	40.2125690	-100.6204700	Traveling	1	0
-S206641698	2024-12-26	European Starling	Sturnus vulgaris	27813	species	18	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Chipping Sparrow	Spizella passerina	32990	species	5	40.2125690	-100.6204700	Traveling	1	0
-S196586903	2024-09-21	Great-tailed Grackle	Quiscalus mexicanus	33864	species	130	40.2030038	-100.6437050	Historical	1	1
-S196165998	2024-09-22	Turkey Vulture	Cathartes aura	7815	species	3	40.2125690	-100.6204700	Traveling	1	0
-S172649833	2024-05-07	Common Grackle	Quiscalus quiscula	33853	species	2	40.2093251	-100.6419651	Stationary	1	0
-S172523567	2024-05-06	Chipping Sparrow	Spizella passerina	32990	species	1	40.2093251	-100.6419651	Stationary	1	0
-S196070545	2024-09-22	American Robin	Turdus migratorius	28633	species	5	40.2125690	-100.6204700	Traveling	1	0
-S187179922	2024-07-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.2103882	-100.6321793	Stationary	1	0
-S187179922	2024-07-14	European Starling	Sturnus vulgaris	27813	species	1	40.2103882	-100.6321793	Stationary	1	0
-S196165998	2024-09-22	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
-S171303340	2024-05-01	Clay-colored Sparrow	Spizella pallida	32996	species	2	40.2093251	-100.6419651	Stationary	1	0
-S168776932	2024-04-15	Blue Jay	Cyanocitta cristata	21294	species	1	40.2125690	-100.6204700	Traveling	1	0
-S168573392	2024-04-14	European Starling	Sturnus vulgaris	27813	species	3	40.2125690	-100.6204700	Traveling	1	0
-S201196672	2024-11-02	American Robin	Turdus migratorius	28633	species	60	40.2125690	-100.6204700	Traveling	1	0
-S196169759	2024-09-22	Brown Thrasher	Toxostoma rufum	28037	species	4	40.2125690	-100.6204700	Traveling	1	0
-S187330210	2024-07-16	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2101770	-100.6418460	Traveling	1	0
-S170453654	2024-04-26	Green-winged Teal	Anas crecca	612	species	4	40.1956430	-100.6204090	Historical	1	0
-S166300245	2024-03-28	American Robin	Turdus migratorius	28635	issf	1	40.2041739	-100.6453711	Traveling	1	0
-S170453654	2024-04-26	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.1956430	-100.6204090	Historical	1	0
-S166402105	2024-03-29	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2039858	-100.6376696	Stationary	1	0
-S196070545	2024-09-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2125690	-100.6204700	Traveling	1	0
-S192036453	2024-08-19	Mourning Dove	Zenaida macroura	2412	species	3	40.2145290	-100.6202970	Stationary	1	0
-S171303340	2024-05-01	House Sparrow	Passer domesticus	31534	species	2	40.2093251	-100.6419651	Stationary	1	0
-S196165998	2024-09-22	Brown Thrasher	Toxostoma rufum	28037	species	4	40.2125690	-100.6204700	Traveling	1	0
-S196165998	2024-09-22	Wild Turkey	Meleagris gallopavo	1274	species	4	40.2125690	-100.6204700	Traveling	1	0
-S196070545	2024-09-22	House Finch	Haemorhous mexicanus	32310	species	1	40.2125690	-100.6204700	Traveling	1	0
-S192036453	2024-08-19	House Finch	Haemorhous mexicanus	32310	species	6	40.2145290	-100.6202970	Stationary	1	0
-S170497249	2024-04-27	Mourning Dove	Zenaida macroura	2412	species	3	40.2145290	-100.6202970	Stationary	1	0
-S187237629	2024-07-16	Eastern Warbling Vireo	Vireo gilvus	19245	species	X	40.2103882	-100.6321793	Stationary	1	0
-S170453654	2024-04-26	Clay-colored Sparrow	Spizella pallida	32996	species	5	40.1956430	-100.6204090	Historical	1	0
-S170453654	2024-04-26	American Coot	Fulica americana	5500	species	6	40.1956430	-100.6204090	Historical	1	0
-S172299775	2024-05-05	Blue Jay	Cyanocitta cristata	21294	species	1	40.2093251	-100.6419651	Stationary	1	0
-S172884507	2024-05-08	Blue Jay	Cyanocitta cristata	21294	species	2	40.2093251	-100.6419651	Stationary	1	0
-S173305096	2024-05-10	American Goldfinch	Spinus tristis	32617	species	6	40.2125690	-100.6204700	Traveling	1	0
-S206641698	2024-12-26	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
-S172884507	2024-05-08	Common Grackle	Quiscalus quiscula	33853	species	2	40.2093251	-100.6419651	Stationary	1	0
-S172649833	2024-05-07	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2093251	-100.6419651	Stationary	1	0
-S170497249	2024-04-27	House Sparrow	Passer domesticus	31534	species	7	40.2145290	-100.6202970	Stationary	1	0
-S187330210	2024-07-16	Blue Jay	Cyanocitta cristata	21294	species	4	40.2101770	-100.6418460	Traveling	1	0
-S173654023	2024-05-11	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2145290	-100.6202970	Stationary	1	0
-S168551398	2024-04-14	House Sparrow	Passer domesticus	31534	species	10	40.2145290	-100.6202970	Stationary	1	0
-S196439464	2024-09-21	Great-tailed Grackle	Quiscalus mexicanus	33864	species	130	40.2030038	-100.6437050	Historical	1	1
-S196072472	2024-09-22	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2125690	-100.6204700	Traveling	1	0
-S168573392	2024-04-14	Northern House Wren	Troglodytes aedon	27191	species	2	40.2125690	-100.6204700	Traveling	1	0
-S201196672	2024-11-02	House Finch	Haemorhous mexicanus	32310	species	1	40.2125690	-100.6204700	Traveling	1	0
-S186668173	2024-07-12	Northern Cardinal	Cardinalis cardinalis	34515	species	X	40.2094269	-100.6166687	Traveling	1	0
-S166237481	2024-03-28	Common Grackle	Quiscalus quiscula	33853	species	1	40.2041739	-100.6453711	Traveling	1	0
-S206573838	2024-12-25	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2083970	-100.6170954	Stationary	1	0
-S206573838	2024-12-25	Ruby-crowned Kinglet	Corthylio calendula	26844	species	X	40.2083970	-100.6170954	Stationary	1	1
-S171303340	2024-05-01	Blue Jay	Cyanocitta cristata	21294	species	6	40.2093251	-100.6419651	Stationary	1	0
-S172884507	2024-05-08	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2093251	-100.6419651	Stationary	1	0
-S168573392	2024-04-14	Northern Flicker	Colaptes auratus	11900	species	2	40.2125690	-100.6204700	Traveling	1	0
-S168551398	2024-04-14	American Robin	Turdus migratorius	28633	species	6	40.2145290	-100.6202970	Stationary	1	0
-S192036453	2024-08-19	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2145290	-100.6202970	Stationary	1	0
-S163419985	2024-03-02	House Finch	Haemorhous mexicanus	32310	species	3	40.2101770	-100.6418460	Stationary	1	0
-S166237481	2024-03-28	American Robin	Turdus migratorius	28635	issf	8	40.2041739	-100.6453711	Traveling	1	0
-S180664981	2024-06-10	Rock Pigeon	Columba livia	1868	domestic	6	40.1991380	-100.6151940	Traveling	1	0
-S186668173	2024-07-12	Red-eyed Vireo	Vireo olivaceus	19267	species	X	40.2094269	-100.6166687	Traveling	1	0
-S196165998	2024-09-22	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
-S171303340	2024-05-01	Killdeer	Charadrius vociferus	5827	species	1	40.2093251	-100.6419651	Stationary	1	0
-S168573392	2024-04-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.2125690	-100.6204700	Traveling	1	0
-S196073034	2024-09-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2125690	-100.6204700	Traveling	1	0
-S171303340	2024-05-01	American Robin	Turdus migratorius	28633	species	1	40.2093251	-100.6419651	Stationary	1	0
-S196072472	2024-09-22	Northern Flicker	Colaptes auratus	11900	species	3	40.2125690	-100.6204700	Traveling	1	0
-S166402105	2024-03-29	American White Pelican	Pelecanus erythrorhynchos	7791	species	30	40.2039858	-100.6376696	Stationary	1	0
-S170497249	2024-04-27	American Robin	Turdus migratorius	28633	species	5	40.2145290	-100.6202970	Stationary	1	0
-S170497249	2024-04-27	Common Grackle	Quiscalus quiscula	33853	species	6	40.2145290	-100.6202970	Stationary	1	0
-S158921095	2024-01-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2101770	-100.6418460	Stationary	1	0
-S173654023	2024-05-11	Common Grackle	Quiscalus quiscula	33853	species	10	40.2145290	-100.6202970	Stationary	1	0
-S173654023	2024-05-11	House Sparrow	Passer domesticus	31534	species	7	40.2145290	-100.6202970	Stationary	1	0
-S170453654	2024-04-26	Mallard	Anas platyrhynchos	545	species	2	40.1956430	-100.6204090	Historical	1	0
-S186668173	2024-07-12	House Finch	Haemorhous mexicanus	32310	species	X	40.2094269	-100.6166687	Traveling	1	0
-S168573392	2024-04-14	Mourning Dove	Zenaida macroura	2412	species	7	40.2125690	-100.6204700	Traveling	1	0
-S206641698	2024-12-26	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
-S201196672	2024-11-02	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
-S166332845	2024-03-29	Rock Pigeon	Columba livia	1868	domestic	1	40.2041739	-100.6453711	Traveling	1	0
-S180664981	2024-06-10	House Sparrow	Passer domesticus	31534	species	3	40.1991380	-100.6151940	Traveling	1	0
-S166237481	2024-03-28	House Sparrow	Passer domesticus	31534	species	12	40.2041739	-100.6453711	Traveling	1	0
-S180664981	2024-06-10	Western Kingbird	Tyrannus verticalis	17467	species	2	40.1991380	-100.6151940	Traveling	1	0
-S206573838	2024-12-25	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2083970	-100.6170954	Stationary	1	0
-S173305096	2024-05-10	European Starling	Sturnus vulgaris	27813	species	3	40.2125690	-100.6204700	Traveling	1	0
-S163419985	2024-03-02	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2101770	-100.6418460	Stationary	1	0
-S196073034	2024-09-22	Blue Jay	Cyanocitta cristata	21294	species	2	40.2125690	-100.6204700	Traveling	1	0
-S206641698	2024-12-26	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2125690	-100.6204700	Traveling	1	0
-S170453654	2024-04-26	Pied-billed Grebe	Podilymbus podiceps	6855	species	1	40.1956430	-100.6204090	Historical	1	0
-S166237481	2024-03-28	Mourning Dove	Zenaida macroura	2412	species	1	40.2041739	-100.6453711	Traveling	1	0
-S163419985	2024-03-02	American Robin	Turdus migratorius	28633	species	4	40.2101770	-100.6418460	Stationary	1	0
-S196169759	2024-09-22	Turkey Vulture	Cathartes aura	7815	species	3	40.2125690	-100.6204700	Traveling	1	0
-S206573838	2024-12-25	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2083970	-100.6170954	Stationary	1	0
-S206573838	2024-12-25	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	40.2083970	-100.6170954	Stationary	1	0
-S170453654	2024-04-26	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.1956430	-100.6204090	Historical	1	0
-S172649833	2024-05-07	Mourning Dove	Zenaida macroura	2412	species	1	40.2093251	-100.6419651	Stationary	1	0
-S192036453	2024-08-19	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2145290	-100.6202970	Stationary	1	0
-S172884507	2024-05-08	Chipping Sparrow	Spizella passerina	32990	species	1	40.2093251	-100.6419651	Stationary	1	0
-S172884507	2024-05-08	European Starling	Sturnus vulgaris	27813	species	1	40.2093251	-100.6419651	Stationary	1	0
-S166332845	2024-03-29	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2041739	-100.6453711	Traveling	1	0
-S168551398	2024-04-14	Wild Turkey	Meleagris gallopavo	1274	species	2	40.2145290	-100.6202970	Stationary	1	0
-S166402105	2024-03-29	Turkey Vulture	Cathartes aura	7815	species	7	40.2039858	-100.6376696	Stationary	1	0
-S172299775	2024-05-05	House Finch	Haemorhous mexicanus	32310	species	4	40.2093251	-100.6419651	Stationary	1	0
-S168573392	2024-04-14	House Finch	Haemorhous mexicanus	32310	species	1	40.2125690	-100.6204700	Traveling	1	0
-S172649833	2024-05-07	House Sparrow	Passer domesticus	31534	species	4	40.2093251	-100.6419651	Stationary	1	0
-S172523567	2024-05-06	Purple Martin	Progne subis	24081	species	2	40.2093251	-100.6419651	Stationary	1	0
-S201196672	2024-11-02	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
-S172884507	2024-05-08	House Sparrow	Passer domesticus	31534	species	4	40.2093251	-100.6419651	Stationary	1	0
-S168551398	2024-04-14	Ring-necked Pheasant	Phasianus colchicus	1477	species	2	40.2145290	-100.6202970	Stationary	1	0
-S166270259	2024-03-28	House Sparrow	Passer domesticus	31534	species	1	40.2041739	-100.6453711	Traveling	1	0
-S179524666	2024-06-05	Mississippi Kite	Ictinia mississippiensis	8388	species	1	40.1982404	-100.6152088	Stationary	1	1
-S166237481	2024-03-28	Northern Flicker	Colaptes auratus	11900	species	1	40.2041739	-100.6453711	Traveling	1	0
-S186668173	2024-07-12	Turkey Vulture	Cathartes aura	7815	species	4	40.2094269	-100.6166687	Traveling	1	0
-S171303340	2024-05-01	Purple Martin	Progne subis	24081	species	2	40.2093251	-100.6419651	Stationary	1	0
-S196072472	2024-09-22	American Robin	Turdus migratorius	28633	species	6	40.2125690	-100.6204700	Traveling	1	0
-S196070545	2024-09-22	Nashville Warbler	Leiothlypis ruficapilla	33981	species	1	40.2125690	-100.6204700	Traveling	1	0
-S158921095	2024-01-14	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2101770	-100.6418460	Stationary	1	0
-S172299775	2024-05-05	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2093251	-100.6419651	Stationary	1	0
-S172649833	2024-05-07	Baltimore Oriole	Icterus galbula	33770	species	2	40.2093251	-100.6419651	Stationary	1	0
-S206641698	2024-12-26	House Sparrow	Passer domesticus	31534	species	2	40.2125690	-100.6204700	Traveling	1	0
-S170453654	2024-04-26	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	40.1956430	-100.6204090	Historical	1	0
-S187179922	2024-07-14	House Sparrow	Passer domesticus	31534	species	1	40.2103882	-100.6321793	Stationary	1	0
-S206573838	2024-12-25	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2083970	-100.6170954	Stationary	1	0
-S196165998	2024-09-22	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
-S168551398	2024-04-14	European Starling	Sturnus vulgaris	27813	species	4	40.2145290	-100.6202970	Stationary	1	0
-S172649833	2024-05-07	Chipping Sparrow	Spizella passerina	32990	species	1	40.2093251	-100.6419651	Stationary	1	0
-S173305096	2024-05-10	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2125690	-100.6204700	Traveling	1	0
-S201196672	2024-11-02	Northern Flicker	Colaptes auratus	11900	species	3	40.2125690	-100.6204700	Traveling	1	0
-S196165998	2024-09-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2125690	-100.6204700	Traveling	1	0
-S187179922	2024-07-14	American Robin	Turdus migratorius	28633	species	1	40.2103882	-100.6321793	Stationary	1	0
-S170453654	2024-04-26	Common Grackle	Quiscalus quiscula	33853	species	8	40.1956430	-100.6204090	Historical	1	0
-S196165998	2024-09-22	Northern House Wren	Troglodytes aedon	27191	species	1	40.2125690	-100.6204700	Traveling	1	0
-S173654023	2024-05-11	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2145290	-100.6202970	Stationary	1	0
-S196070545	2024-09-22	Northern Flicker	Colaptes auratus	11900	species	1	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	House Sparrow	Passer domesticus	31534	species	6	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Northern Yellow Warbler	Setophaga aestiva	34087	species	7	40.2125690	-100.6204700	Traveling	1	0
-S171303340	2024-05-01	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2093251	-100.6419651	Stationary	1	0
-S168551398	2024-04-14	Common Grackle	Quiscalus quiscula	33853	species	4	40.2145290	-100.6202970	Stationary	1	0
-S196586903	2024-09-21	Rock Pigeon	Columba livia	1868	domestic	1	40.2030038	-100.6437050	Historical	1	0
-S170453654	2024-04-26	Northern Flicker	Colaptes auratus	11900	species	1	40.1956430	-100.6204090	Historical	1	0
-S172649833	2024-05-07	Blue Jay	Cyanocitta cristata	21294	species	1	40.2093251	-100.6419651	Stationary	1	0
-S173305096	2024-05-10	Mourning Dove	Zenaida macroura	2412	species	4	40.2125690	-100.6204700	Traveling	1	0
-S187330210	2024-07-16	American Robin	Turdus migratorius	28633	species	9	40.2101770	-100.6418460	Traveling	1	0
-S187179922	2024-07-14	Song Sparrow	Melospiza melodia	33277	species	X	40.2103882	-100.6321793	Stationary	1	0
-S186668173	2024-07-12	Northern House Wren	Troglodytes aedon	27191	species	X	40.2094269	-100.6166687	Traveling	1	0
-S186668173	2024-07-12	American Robin	Turdus migratorius	28633	species	X	40.2094269	-100.6166687	Traveling	1	0
-S206641698	2024-12-26	Blue Jay	Cyanocitta cristata	21294	species	3	40.2125690	-100.6204700	Traveling	1	0
-S172523567	2024-05-06	House Sparrow	Passer domesticus	31534	species	6	40.2093251	-100.6419651	Stationary	1	0
-S196169759	2024-09-22	Blue Jay	Cyanocitta cristata	21294	species	4	40.2125690	-100.6204700	Traveling	1	0
-S170453654	2024-04-26	House Sparrow	Passer domesticus	31534	species	5	40.1956430	-100.6204090	Historical	1	0
-S166332845	2024-03-29	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	40.2041739	-100.6453711	Traveling	1	0
-S196073034	2024-09-22	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
-S168551398	2024-04-14	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2145290	-100.6202970	Stationary	1	0
-S192036453	2024-08-19	Blue Jay	Cyanocitta cristata	21294	species	6	40.2145290	-100.6202970	Stationary	1	0
-S163419985	2024-03-02	House Sparrow	Passer domesticus	31534	species	4	40.2101770	-100.6418460	Stationary	1	0
-S179524666	2024-06-05	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.1982404	-100.6152088	Stationary	1	0
-S168551398	2024-04-14	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2145290	-100.6202970	Stationary	1	0
-S171303340	2024-05-01	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2093251	-100.6419651	Stationary	1	0
-S173305096	2024-05-10	Baltimore Oriole	Icterus galbula	33770	species	2	40.2125690	-100.6204700	Traveling	1	0
-S196165998	2024-09-22	Blue Jay	Cyanocitta cristata	21294	species	4	40.2125690	-100.6204700	Traveling	1	0
-S196169759	2024-09-22	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
-S172649833	2024-05-07	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2093251	-100.6419651	Stationary	1	0
-S196072472	2024-09-22	Blue Jay	Cyanocitta cristata	21294	species	1	40.2125690	-100.6204700	Traveling	1	0
-S163419985	2024-03-02	European Starling	Sturnus vulgaris	27813	species	2	40.2101770	-100.6418460	Stationary	1	0
-S187330210	2024-07-16	House Sparrow	Passer domesticus	31534	species	2	40.2101770	-100.6418460	Traveling	1	0
-S166237481	2024-03-28	European Starling	Sturnus vulgaris	27813	species	12	40.2041739	-100.6453711	Traveling	1	0
-S166332845	2024-03-29	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2041739	-100.6453711	Traveling	1	0
-S170453654	2024-04-26	Ruddy Duck	Oxyura jamaicensis	778	species	6	40.1956430	-100.6204090	Historical	1	0
-S170453654	2024-04-26	Northern Shoveler	Spatula clypeata	501	species	6	40.1956430	-100.6204090	Historical	1	0
-S180664981	2024-06-10	Common Grackle	Quiscalus quiscula	33853	species	5	40.1991380	-100.6151940	Traveling	1	0
-S206573838	2024-12-25	Northern Flicker	Colaptes auratus	11900	species	1	40.2083970	-100.6170954	Stationary	1	0
-S196586903	2024-09-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2030038	-100.6437050	Historical	1	0
-S168573392	2024-04-14	Blue Jay	Cyanocitta cristata	21294	species	2	40.2125690	-100.6204700	Traveling	1	0
-S196072472	2024-09-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2125690	-100.6204700	Traveling	1	0
-S172523567	2024-05-06	House Finch	Haemorhous mexicanus	32310	species	4	40.2093251	-100.6419651	Stationary	1	0
-S172523567	2024-05-06	Mourning Dove	Zenaida macroura	2412	species	1	40.2093251	-100.6419651	Stationary	1	0
-S172299775	2024-05-05	Baltimore Oriole	Icterus galbula	33770	species	1	40.2093251	-100.6419651	Stationary	1	0
-S170453654	2024-04-26	Canada Goose	Branta canadensis	342	species	10	40.1956430	-100.6204090	Historical	1	0
-S172884507	2024-05-08	House Finch	Haemorhous mexicanus	32310	species	1	40.2093251	-100.6419651	Stationary	1	0
-S168776932	2024-04-15	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	40.2125690	-100.6204700	Traveling	1	0
-S168776932	2024-04-15	American Robin	Turdus migratorius	28633	species	5	40.2125690	-100.6204700	Traveling	1	0
-S170497249	2024-04-27	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2145290	-100.6202970	Stationary	1	0
-S170453654	2024-04-26	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	8	40.1956430	-100.6204090	Historical	1	0
-S196439464	2024-09-21	Rock Pigeon	Columba livia	1868	domestic	1	40.2030038	-100.6437050	Historical	1	0
-S201196672	2024-11-02	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Common Yellowthroat	Geothlypis trichas	34028	species	2	40.2125690	-100.6204700	Traveling	1	0
-S196169759	2024-09-22	Wild Turkey	Meleagris gallopavo	1274	species	4	40.2125690	-100.6204700	Traveling	1	0
-S168573392	2024-04-14	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	40.2125690	-100.6204700	Traveling	1	0
-S196165998	2024-09-22	American Robin	Turdus migratorius	28633	species	1	40.2125690	-100.6204700	Traveling	1	0
-S196072472	2024-09-22	Mourning Dove	Zenaida macroura	2412	species	1	40.2125690	-100.6204700	Traveling	1	0
-S170497249	2024-04-27	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2145290	-100.6202970	Stationary	1	0
-S168551398	2024-04-14	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
-S170497249	2024-04-27	House Finch	Haemorhous mexicanus	32310	species	4	40.2145290	-100.6202970	Stationary	1	0
-S170453654	2024-04-26	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.1956430	-100.6204090	Historical	1	0
-S179524666	2024-06-05	House Sparrow	Passer domesticus	31534	species	4	40.1982404	-100.6152088	Stationary	1	0
-S187179922	2024-07-14	Northern Flicker	Colaptes auratus	11900	species	X	40.2103882	-100.6321793	Stationary	1	0
-S196586903	2024-09-21	Killdeer	Charadrius vociferus	5827	species	1	40.2030038	-100.6437050	Historical	1	0
-S196439464	2024-09-21	Killdeer	Charadrius vociferus	5827	species	1	40.2030038	-100.6437050	Historical	1	0
-S196169759	2024-09-22	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
-S163419985	2024-03-02	Blue Jay	Cyanocitta cristata	21294	species	1	40.2101770	-100.6418460	Stationary	1	0
-S173305096	2024-05-10	American Robin	Turdus migratorius	28633	species	7	40.2125690	-100.6204700	Traveling	1	0
-S168573392	2024-04-14	American Robin	Turdus migratorius	28633	species	11	40.2125690	-100.6204700	Traveling	1	0
-S196070545	2024-09-22	Common Grackle	Quiscalus quiscula	33853	species	1	40.2125690	-100.6204700	Traveling	1	0
-S168573392	2024-04-14	Turkey Vulture	Cathartes aura	7815	species	7	40.2125690	-100.6204700	Traveling	1	0
-S170453654	2024-04-26	House Finch	Haemorhous mexicanus	32310	species	2	40.1956430	-100.6204090	Historical	1	0
-S196165998	2024-09-22	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
-S173654023	2024-05-11	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2145290	-100.6202970	Stationary	1	0
-S172884507	2024-05-08	Mourning Dove	Zenaida macroura	2412	species	1	40.2093251	-100.6419651	Stationary	1	0
-S172299775	2024-05-05	American Robin	Turdus migratorius	28633	species	1	40.2093251	-100.6419651	Stationary	1	0
-S196169759	2024-09-22	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2125690	-100.6204700	Traveling	1	0
-S196169759	2024-09-22	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Northern House Wren	Troglodytes aedon	27191	species	2	40.2125690	-100.6204700	Traveling	1	0
-S192036453	2024-08-19	Baltimore Oriole	Icterus galbula	33770	species	2	40.2145290	-100.6202970	Stationary	1	0
-S186668173	2024-07-12	Cooper's Hawk	Astur cooperii	8278	species	3	40.2094269	-100.6166687	Traveling	1	0
-S170453654	2024-04-26	Great Blue Heron	Ardea herodias	7753	species	2	40.1956430	-100.6204090	Historical	1	0
-S187179922	2024-07-14	Brown-headed Cowbird	Molothrus ater	33833	species	X	40.2103882	-100.6321793	Stationary	1	0
-S196439464	2024-09-21	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2030038	-100.6437050	Historical	1	0
-S172884507	2024-05-08	Baltimore Oriole	Icterus galbula	33770	species	2	40.2093251	-100.6419651	Stationary	1	0
-S173654023	2024-05-11	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
-S172299775	2024-05-05	House Sparrow	Passer domesticus	31534	species	3	40.2093251	-100.6419651	Stationary	1	0
-S196070545	2024-09-22	European Starling	Sturnus vulgaris	27813	species	11	40.2125690	-100.6204700	Traveling	1	0
-S172649833	2024-05-07	House Finch	Haemorhous mexicanus	32310	species	2	40.2093251	-100.6419651	Stationary	1	0
-S171303340	2024-05-01	Baltimore Oriole	Icterus galbula	33770	species	1	40.2093251	-100.6419651	Stationary	1	0
-S180664981	2024-06-10	European Starling	Sturnus vulgaris	27813	species	4	40.1991380	-100.6151940	Traveling	1	0
-S166332845	2024-03-29	American Robin	Turdus migratorius	28633	species	1	40.2041739	-100.6453711	Traveling	1	0
-S166332845	2024-03-29	Ring-billed Gull	Larus delawarensis	6521	species	5	40.2041739	-100.6453711	Traveling	1	0
-S170453654	2024-04-26	Spotted Sandpiper	Actitis macularius	6126	species	1	40.1956430	-100.6204090	Historical	1	0
-S179524666	2024-06-05	Chimney Swift	Chaetura pelagica	3896	species	1	40.1982404	-100.6152088	Stationary	1	0
-S187237629	2024-07-16	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.2103882	-100.6321793	Stationary	1	0
-S187237629	2024-07-16	House Finch	Haemorhous mexicanus	32310	species	X	40.2103882	-100.6321793	Stationary	1	0
-S186668173	2024-07-12	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2094269	-100.6166687	Traveling	1	0
-S173305096	2024-05-10	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2125690	-100.6204700	Traveling	1	0
-S173305096	2024-05-10	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
-S196165998	2024-09-22	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	40.2125690	-100.6204700	Traveling	1	0
-S186668173	2024-07-12	Chipping Sparrow	Spizella passerina	32990	species	X	40.2094269	-100.6166687	Traveling	1	0
-S192036453	2024-08-19	House Sparrow	Passer domesticus	31534	species	9	40.2145290	-100.6202970	Stationary	1	0
-S206573838	2024-12-25	House Sparrow	Passer domesticus	31534	species	5	40.2083970	-100.6170954	Stationary	1	0
-S166332845	2024-03-29	Osprey	Pandion haliaetus	7832	species	1	40.2041739	-100.6453711	Traveling	1	1
-S254414011	2025-06-26	European Starling	Sturnus vulgaris	27813	species	4	40.2103219	-100.6414305	Traveling	1	0
-S215286518	2025-02-24	European Starling	Sturnus vulgaris	27813	species	2	40.2125690	-100.6204700	Traveling	1	0
-S220254576	2025-03-23	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
-S265536309	2025-08-06	American Robin	Turdus migratorius	28633	species	1	40.2145290	-100.6202970	Stationary	1	0
-S225394419	2025-04-13	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2114210	-100.6173980	Traveling	1	0
-S218542212	2025-03-13	Horned Lark	Eremophila alpestris	22710	species	5	40.1987807	-100.6332853	Stationary	1	0
-S248989007	2025-06-10	House Sparrow	Passer domesticus	31534	species	2	40.2051850	-100.6256760	Traveling	1	0
-S255599000	2025-06-30	Indigo Bunting	Passerina cyanea	34607	species	3	40.2103910	-100.6221690	Traveling	1	0
-S266751080	2025-03-25	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
-S217024130	2025-03-07	Blue Jay	Cyanocitta cristata	21294	species	3	40.2125690	-100.6204700	Traveling	1	0
-S274755171	2025-09-21	Northern Flicker	Colaptes auratus	11912	intergrade	1	40.2125690	-100.6204700	Traveling	1	0
-S266751080	2025-03-25	Blue Jay	Cyanocitta cristata	21294	species	1	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2125690	-100.6204700	Traveling	1	0
-S274755171	2025-09-21	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
-S217024130	2025-03-07	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
-S266751080	2025-03-25	House Sparrow	Passer domesticus	31534	species	6	40.2125690	-100.6204700	Traveling	1	0
-S217024130	2025-03-07	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Eastern Phoebe	Sayornis phoebe	17007	species	1	40.2125690	-100.6204700	Traveling	1	0
-S208779960	2025-01-10	Ross's Goose	Anser rossii	272	species	1	40.1956430	-100.6204090	Stationary	1	0
-S282222827	2025-10-31	Sandhill Crane	Antigone canadensis	5697	species	125	40.2101750	-100.6182020	Stationary	1	0
-S274755171	2025-09-21	Turkey Vulture	Cathartes aura	7815	species	1	40.2125690	-100.6204700	Traveling	1	0
-S220254576	2025-03-23	European Starling	Sturnus vulgaris	27813	species	3	40.2125690	-100.6204700	Traveling	1	0
-S215286518	2025-02-24	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
-S220254576	2025-03-23	Northern Cardinal	Cardinalis cardinalis	34515	species	4	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	40.2125690	-100.6204700	Traveling	1	0
-S266751080	2025-03-25	Wild Turkey	Meleagris gallopavo	1274	species	5	40.2125690	-100.6204700	Traveling	1	0
-S255599000	2025-06-30	Downy Woodpecker	Dryobates pubescens	11400	species	4	40.2103910	-100.6221690	Traveling	1	0
-S254414011	2025-06-26	Chipping Sparrow	Spizella passerina	32990	species	1	40.2103219	-100.6414305	Traveling	1	0
-S215286518	2025-02-24	American Robin	Turdus migratorius	28633	species	2	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
-S265536309	2025-08-06	Blue Jay	Cyanocitta cristata	21294	species	1	40.2145290	-100.6202970	Stationary	1	0
-S225394419	2025-04-13	European Starling	Sturnus vulgaris	27813	species	5	40.2114210	-100.6173980	Traveling	1	0
-S248705529	2025-06-09	Baltimore Oriole	Icterus galbula	33770	species	1	40.2101750	-100.6182020	Stationary	1	0
-S218542212	2025-03-13	Northern Harrier	Circus hudsonius	8324	species	1	40.1987807	-100.6332853	Stationary	1	0
-S255662255	2025-06-30	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2067860	-100.6308450	Traveling	1	0
-S280563339	2025-10-20	Wild Turkey	Meleagris gallopavo	1274	species	15	40.2117270	-100.6192210	Traveling	1	0
-S255599000	2025-06-30	Eastern Warbling Vireo	Vireo gilvus	19245	species	2	40.2103910	-100.6221690	Traveling	1	0
-S255599000	2025-06-30	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2103910	-100.6221690	Traveling	1	0
-S220254576	2025-03-23	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2125690	-100.6204700	Traveling	1	0
-S220254576	2025-03-23	American Goldfinch	Spinus tristis	32617	species	2	40.2125690	-100.6204700	Traveling	1	0
-S265536309	2025-08-06	House Sparrow	Passer domesticus	31534	species	6	40.2145290	-100.6202970	Stationary	1	0
-S248705529	2025-06-09	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2101750	-100.6182020	Stationary	1	0
-S220254576	2025-03-23	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	40.2125690	-100.6204700	Traveling	1	0
-S265536309	2025-08-06	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2145290	-100.6202970	Stationary	1	0
-S248705529	2025-06-09	American Robin	Turdus migratorius	28633	species	5	40.2101750	-100.6182020	Stationary	1	0
-S255662255	2025-06-30	Mourning Dove	Zenaida macroura	2412	species	3	40.2067860	-100.6308450	Traveling	1	0
-S255662255	2025-06-30	Mississippi Kite	Ictinia mississippiensis	8388	species	2	40.2067860	-100.6308450	Traveling	1	0
-S248352137	2025-06-08	Mourning Dove	Zenaida macroura	2412	species	1	40.1992348	-100.6516460	Traveling	1	0
-S255662255	2025-06-30	Blue Jay	Cyanocitta cristata	21294	species	1	40.2067860	-100.6308450	Traveling	1	0
-S280563339	2025-10-20	Northern Flicker	Colaptes auratus	11900	species	1	40.2117270	-100.6192210	Traveling	1	0
-S242426329	2025-05-25	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
-S265536309	2025-08-06	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
-S248989007	2025-06-10	House Finch	Haemorhous mexicanus	32310	species	1	40.2051850	-100.6256760	Traveling	1	0
-S255599000	2025-06-30	Purple Martin	Progne subis	24081	species	2	40.2103910	-100.6221690	Traveling	1	0
-S274755171	2025-09-21	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Baltimore Oriole	Icterus galbula	33770	species	2	40.2125690	-100.6204700	Traveling	1	0
-S217024130	2025-03-07	American Robin	Turdus migratorius	28633	species	18	40.2125690	-100.6204700	Traveling	1	0
-S274755171	2025-09-21	Northern Flicker	Colaptes auratus	11900	species	1	40.2125690	-100.6204700	Traveling	1	0
-S223537879	2025-04-06	Hairy Woodpecker	Leuconotopicus villosus	11427	species	2	40.2114210	-100.6173980	Traveling	1	0
-S248989007	2025-06-10	Mississippi Kite	Ictinia mississippiensis	8388	species	5	40.2051850	-100.6256760	Traveling	1	1
-S255599000	2025-06-30	Great Crested Flycatcher	Myiarchus crinitus	17334	species	3	40.2103910	-100.6221690	Traveling	1	0
-S255662255	2025-06-30	American Robin	Turdus migratorius	28635	issf	4	40.2067860	-100.6308450	Traveling	1	0
-S280563339	2025-10-20	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2117270	-100.6192210	Traveling	1	0
-S255599000	2025-06-30	Chimney Swift	Chaetura pelagica	3896	species	2	40.2103910	-100.6221690	Traveling	1	0
-S274755171	2025-09-21	Mourning Dove	Zenaida macroura	2412	species	2	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2125690	-100.6204700	Traveling	1	0
-S217024130	2025-03-07	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	40.2125690	-100.6204700	Traveling	1	0
-S266751080	2025-03-25	European Starling	Sturnus vulgaris	27813	species	4	40.2125690	-100.6204700	Traveling	1	0
-S217024130	2025-03-07	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2125690	-100.6204700	Traveling	1	0
-S248989007	2025-06-10	American Robin	Turdus migratorius	28633	species	1	40.2051850	-100.6256760	Traveling	1	0
-S255599000	2025-06-30	Blue Jay	Cyanocitta cristata	21294	species	5	40.2103910	-100.6221690	Traveling	1	0
-S217024130	2025-03-07	Dark-eyed Junco	Junco hyemalis	33124	species	1	40.2125690	-100.6204700	Traveling	1	0
-S254414011	2025-06-26	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2103219	-100.6414305	Traveling	1	0
-S248705529	2025-06-09	Northern House Wren	Troglodytes aedon	27191	species	3	40.2101750	-100.6182020	Stationary	1	0
-S242426329	2025-05-25	Common Grackle	Quiscalus quiscula	33853	species	8	40.2125690	-100.6204700	Traveling	1	0
-S220254576	2025-03-23	House Sparrow	Passer domesticus	31534	species	5	40.2125690	-100.6204700	Traveling	1	0
-S225394419	2025-04-13	House Finch	Haemorhous mexicanus	32310	species	2	40.2114210	-100.6173980	Traveling	1	0
-S218542212	2025-03-13	Greater Prairie-Chicken	Tympanuchus cupido	1337	species	17	40.1987807	-100.6332853	Stationary	1	0
-S255599000	2025-06-30	White-breasted Nuthatch	Sitta carolinensis	26890	issf	1	40.2103910	-100.6221690	Traveling	1	0
-S254414011	2025-06-26	Common Grackle	Quiscalus quiscula	33853	species	2	40.2103219	-100.6414305	Traveling	1	0
-S254414011	2025-06-26	House Finch	Haemorhous mexicanus	32310	species	2	40.2103219	-100.6414305	Traveling	1	0
-S266751080	2025-03-25	Mourning Dove	Zenaida macroura	2412	species	6	40.2125690	-100.6204700	Traveling	1	0
-S274755171	2025-09-21	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2125690	-100.6204700	Traveling	1	0
-S266751080	2025-03-25	Turkey Vulture	Cathartes aura	7815	species	8	40.2125690	-100.6204700	Traveling	1	0
-S255662255	2025-06-30	House Sparrow	Passer domesticus	31534	species	4	40.2067860	-100.6308450	Traveling	1	0
-S265536309	2025-08-06	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2145290	-100.6202970	Stationary	1	0
-S215286518	2025-02-24	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
-S274755171	2025-09-21	Mississippi Kite	Ictinia mississippiensis	8388	species	1	40.2125690	-100.6204700	Traveling	1	1
-S242426329	2025-05-25	Mourning Dove	Zenaida macroura	2412	species	11	40.2125690	-100.6204700	Traveling	1	0
-S248989007	2025-06-10	Chimney Swift	Chaetura pelagica	3896	species	2	40.2051850	-100.6256760	Traveling	1	0
-S274755171	2025-09-21	Blue Jay	Cyanocitta cristata	21294	species	2	40.2125690	-100.6204700	Traveling	1	0
-S218542212	2025-03-13	Western Meadowlark	Sturnella neglecta	33565	species	3	40.1987807	-100.6332853	Stationary	1	0
-S255599000	2025-06-30	Baltimore Oriole	Icterus galbula	33770	species	3	40.2103910	-100.6221690	Traveling	1	0
-S254414011	2025-06-26	American Robin	Turdus migratorius	28633	species	4	40.2103219	-100.6414305	Traveling	1	0
-S266751080	2025-03-25	American Robin	Turdus migratorius	28633	species	19	40.2125690	-100.6204700	Traveling	1	0
-S223537879	2025-04-06	House Finch	Haemorhous mexicanus	32310	species	3	40.2114210	-100.6173980	Traveling	1	0
-S242426329	2025-05-25	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
-S215286518	2025-02-24	House Finch	Haemorhous mexicanus	32310	species	1	40.2125690	-100.6204700	Traveling	1	0
-S225394419	2025-04-13	Turkey Vulture	Cathartes aura	7815	species	4	40.2114210	-100.6173980	Traveling	1	0
-S220254576	2025-03-23	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	American Robin	Turdus migratorius	28633	species	14	40.2125690	-100.6204700	Traveling	1	0
-S274755171	2025-09-21	American Robin	Turdus migratorius	28633	species	12	40.2125690	-100.6204700	Traveling	1	0
-S248352137	2025-06-08	European Starling	Sturnus vulgaris	27813	species	5	40.1992348	-100.6516460	Traveling	1	0
-S280563339	2025-10-20	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2117270	-100.6192210	Traveling	1	0
-S242426329	2025-05-25	American Crow	Corvus brachyrhynchos	21557	species	1	40.2125690	-100.6204700	Traveling	1	0
-S274755171	2025-09-21	Carolina Wren	Thryothorus ludovicianus	27348	species	1	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Blue Jay	Cyanocitta cristata	21294	species	1	40.2125690	-100.6204700	Traveling	1	0
-S208779960	2025-01-10	Canada Goose	Branta canadensis	342	species	25	40.1956430	-100.6204090	Stationary	1	0
-S265536309	2025-08-06	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
-S223537879	2025-04-06	Turkey Vulture	Cathartes aura	7815	species	1	40.2114210	-100.6173980	Traveling	1	0
-S254414011	2025-06-26	Purple Martin	Progne subis	24081	species	4	40.2103219	-100.6414305	Traveling	1	0
-S217024130	2025-03-07	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	3	40.2125690	-100.6204700	Traveling	1	0
-S251514978	2025-06-17	Mississippi Kite	Ictinia mississippiensis	8388	species	9	40.2090199	-100.6422410	Traveling	1	1
-S254414011	2025-06-26	White-winged Dove	Zenaida asiatica	2389	species	1	40.2103219	-100.6414305	Traveling	1	1
-S254414011	2025-06-26	Mourning Dove	Zenaida macroura	2412	species	2	40.2103219	-100.6414305	Traveling	1	0
-S242426329	2025-05-25	Eastern Warbling Vireo	Vireo gilvus	19245	species	3	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	House Sparrow	Passer domesticus	31534	species	5	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Northern House Wren	Troglodytes aedon	27191	species	4	40.2125690	-100.6204700	Traveling	1	0
-S248705529	2025-06-09	Indigo Bunting	Passerina cyanea	34607	species	1	40.2101750	-100.6182020	Stationary	1	0
-S225394419	2025-04-13	Common Grackle	Quiscalus quiscula	33853	species	1	40.2114210	-100.6173980	Traveling	1	0
-S242426329	2025-05-25	European Starling	Sturnus vulgaris	27813	species	5	40.2125690	-100.6204700	Traveling	1	0
-S223537879	2025-04-06	American Robin	Turdus migratorius	28633	species	34	40.2114210	-100.6173980	Traveling	1	0
-S220254576	2025-03-23	Turkey Vulture	Cathartes aura	7815	species	7	40.2125690	-100.6204700	Traveling	1	0
-S217024130	2025-03-07	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	2	40.2125690	-100.6204700	Traveling	1	0
-S255599000	2025-06-30	Turkey Vulture	Cathartes aura	7815	species	9	40.2103910	-100.6221690	Traveling	1	0
-S255599000	2025-06-30	House Finch	Haemorhous mexicanus	32310	species	3	40.2103910	-100.6221690	Traveling	1	0
-S254414011	2025-06-26	Chimney Swift	Chaetura pelagica	3896	species	2	40.2103219	-100.6414305	Traveling	1	0
-S255599000	2025-06-30	Northern Cardinal	Cardinalis cardinalis	34515	species	5	40.2103910	-100.6221690	Traveling	1	0
-S255599000	2025-06-30	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2103910	-100.6221690	Traveling	1	0
-S326390557	2025-11-14	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	40.2125690	-100.6204700	Traveling	1	0
-S265536309	2025-08-06	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
-S225394419	2025-04-13	American Robin	Turdus migratorius	28633	species	16	40.2114210	-100.6173980	Traveling	1	0
-S326390557	2025-11-14	American Robin	Turdus migratorius	28633	species	4	40.2125690	-100.6204700	Traveling	1	0
-S220254576	2025-03-23	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
-S255599000	2025-06-30	European Starling	Sturnus vulgaris	27813	species	3	40.2103910	-100.6221690	Traveling	1	0
-S255599000	2025-06-30	Northern Flicker	Colaptes auratus	11900	species	1	40.2103910	-100.6221690	Traveling	1	0
-S220254576	2025-03-23	Mourning Dove	Zenaida macroura	2412	species	3	40.2125690	-100.6204700	Traveling	1	0
-S265536309	2025-08-06	Chimney Swift	Chaetura pelagica	3896	species	4	40.2145290	-100.6202970	Stationary	1	0
-S255599000	2025-06-30	American Robin	Turdus migratorius	28635	issf	17	40.2103910	-100.6221690	Traveling	1	0
-S326390557	2025-11-14	Downy Woodpecker	Dryobates pubescens	11400	species	2	40.2125690	-100.6204700	Traveling	1	0
-S285655785	2025-11-22	Hairy Woodpecker	Leuconotopicus villosus	11428	issf	1	40.2125690	-100.6204700	Traveling	1	0
-S266751080	2025-03-25	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
-S274755171	2025-09-21	House Finch	Haemorhous mexicanus	32310	species	10	40.2125690	-100.6204700	Traveling	1	0
-S265536309	2025-08-06	Purple Martin	Progne subis	24081	species	10	40.2145290	-100.6202970	Stationary	1	0
-S220254576	2025-03-23	American Robin	Turdus migratorius	28633	species	14	40.2125690	-100.6204700	Traveling	1	0
-S255599000	2025-06-30	Red-eyed Vireo	Vireo olivaceus	19267	species	3	40.2103910	-100.6221690	Traveling	1	0
-S255662255	2025-06-30	European Starling	Sturnus vulgaris	27813	species	3	40.2067860	-100.6308450	Traveling	1	0
-S242426329	2025-05-25	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	40.2125690	-100.6204700	Traveling	1	0
-S242426329	2025-05-25	Turkey Vulture	Cathartes aura	7815	species	5	40.2125690	-100.6204700	Traveling	1	0
-S266751080	2025-03-25	Northern Cardinal	Cardinalis cardinalis	34515	species	4	40.2125690	-100.6204700	Traveling	1	0
-S266751080	2025-03-25	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
-S285655785	2025-11-22	White-breasted Nuthatch	Sitta carolinensis	26890	issf	1	40.2125690	-100.6204700	Traveling	1	0
-S255599000	2025-06-30	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	40.2103910	-100.6221690	Traveling	1	0
-S265536309	2025-08-06	Common Grackle	Quiscalus quiscula	33853	species	2	40.2145290	-100.6202970	Stationary	1	0
-S255599000	2025-06-30	Mourning Dove	Zenaida macroura	2412	species	8	40.2103910	-100.6221690	Traveling	1	0
-S255599000	2025-06-30	Northern House Wren	Troglodytes aedon	27192	issf	12	40.2103910	-100.6221690	Traveling	1	0
+checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S22372601	2015-03-15	L3491461	US-NE-McCook-612-798 US-34	Rock Pigeon	Columba livia	1868	domestic	X	40.1987530	-100.6346010	Stationary	1	0
+S22372601	2015-03-15	L3491461	US-NE-McCook-612-798 US-34	European Starling	Sturnus vulgaris	27813	species	X	40.1987530	-100.6346010	Stationary	1	0
+S22372601	2015-03-15	L3491461	US-NE-McCook-612-798 US-34	Ring-billed Gull	Larus delawarensis	6521	species	X	40.1987530	-100.6346010	Stationary	1	0
+S22372601	2015-03-15	L3491461	US-NE-McCook-612-798 US-34	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.1987530	-100.6346010	Stationary	1	0
+S22372601	2015-03-15	L3491461	US-NE-McCook-612-798 US-34	Mallard	Anas platyrhynchos	545	species	X	40.1987530	-100.6346010	Stationary	1	0
+S22372601	2015-03-15	L3491461	US-NE-McCook-612-798 US-34	Canada Goose	Branta canadensis	342	species	X	40.1987530	-100.6346010	Stationary	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Northern Flicker	Colaptes auratus	11900	species	1	40.2014409	-100.6368765	Traveling	1	0
+S36388074	2017-04-29	L5761595	US-NE-McCook-1520 Centennial Dr - 40.2108x-100.6160	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2108200	-100.6160330	Stationary	1	0
+S37993492	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Chimney Swift	Chaetura pelagica	3896	species	1	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Killdeer	Charadrius vociferus	5827	species	1	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	European Starling	Sturnus vulgaris	27813	species	2	40.2014409	-100.6368765	Traveling	1	0
+S36388074	2017-04-29	L5761595	US-NE-McCook-1520 Centennial Dr - 40.2108x-100.6160	European Starling	Sturnus vulgaris	27813	species	6	40.2108200	-100.6160330	Stationary	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2014409	-100.6368765	Traveling	1	0
+S37993492	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	40.2014409	-100.6368765	Traveling	1	1
+S36388074	2017-04-29	L5761595	US-NE-McCook-1520 Centennial Dr - 40.2108x-100.6160	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2108200	-100.6160330	Stationary	1	0
+S36388074	2017-04-29	L5761595	US-NE-McCook-1520 Centennial Dr - 40.2108x-100.6160	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2108200	-100.6160330	Stationary	1	0
+S37993492	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Mourning Dove	Zenaida macroura	2412	species	1	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	American Robin	Turdus migratorius	28633	species	3	40.2014409	-100.6368765	Traveling	1	0
+S37993492	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	House Sparrow	Passer domesticus	31534	species	1	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	House Finch	Haemorhous mexicanus	32310	species	3	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Chimney Swift	Chaetura pelagica	3896	species	1	40.2014409	-100.6368765	Traveling	1	0
+S36388074	2017-04-29	L5761595	US-NE-McCook-1520 Centennial Dr - 40.2108x-100.6160	House Finch	Haemorhous mexicanus	32310	species	2	40.2108200	-100.6160330	Stationary	1	0
+S36388074	2017-04-29	L5761595	US-NE-McCook-1520 Centennial Dr - 40.2108x-100.6160	Mourning Dove	Zenaida macroura	2412	species	2	40.2108200	-100.6160330	Stationary	1	0
+S41182529	2017-12-18	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2103910	-100.6221690	Traveling	1	0
+S36388074	2017-04-29	L5761595	US-NE-McCook-1520 Centennial Dr - 40.2108x-100.6160	American Robin	Turdus migratorius	28633	species	4	40.2108200	-100.6160330	Stationary	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	House Sparrow	Passer domesticus	31534	species	15	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Turkey Vulture	Cathartes aura	7815	species	2	40.2014409	-100.6368765	Traveling	1	0
+S41182529	2017-12-18	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2103910	-100.6221690	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Rock Pigeon	Columba livia	1868	domestic	2	40.2014409	-100.6368765	Traveling	1	0
+S37993492	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	House Finch	Haemorhous mexicanus	32310	species	2	40.2014409	-100.6368765	Traveling	1	0
+S41182529	2017-12-18	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	American Robin	Turdus migratorius	28633	species	1	40.2103910	-100.6221690	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2014409	-100.6368765	Traveling	1	0
+S37993432	2017-07-05	L6058195	stakeout Scissor-tailed Flycatcher, McCook (2017)	Mourning Dove	Zenaida macroura	2412	species	2	40.2014409	-100.6368765	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	House Finch	Haemorhous mexicanus	32310	species	7	40.2046404	-100.6255603	Traveling	1	0
+S42582250	2018-02-07	L6836815	McCook	House Sparrow	Passer domesticus	31534	species	10	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Mourning Dove	Zenaida macroura	2412	species	12	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	European Starling	Sturnus vulgaris	27813	species	10	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2046404	-100.6255603	Traveling	1	0
+S49727233	2018-11-06	L8113926	McCook Memorial Auditorium	European Starling	Sturnus vulgaris	27813	species	1	40.2000180	-100.6336881	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Mississippi Kite	Ictinia mississippiensis	8388	species	2	40.2046404	-100.6255603	Traveling	1	1
+S46227452	2018-05-30	L6836815	McCook	American Robin	Turdus migratorius	28633	species	15	40.2046404	-100.6255603	Traveling	1	0
+S42582250	2018-02-07	L6836815	McCook	American Robin	Turdus migratorius	28633	species	6	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Chimney Swift	Chaetura pelagica	3896	species	7	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Rock Pigeon	Columba livia	1868	domestic	2	40.2046404	-100.6255603	Traveling	1	0
+S49727233	2018-11-06	L8113926	McCook Memorial Auditorium	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2000180	-100.6336881	Traveling	1	0
+S42582250	2018-02-07	L6836815	McCook	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Western Kingbird	Tyrannus verticalis	17467	species	7	40.2046404	-100.6255603	Traveling	1	0
+S42582250	2018-02-07	L6836815	McCook	Northern Flicker	Colaptes auratus	11900	species	5	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	40.2046404	-100.6255603	Traveling	1	0
+S49727233	2018-11-06	L8113926	McCook Memorial Auditorium	Rock Pigeon	Columba livia	1868	domestic	10	40.2000180	-100.6336881	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	House Sparrow	Passer domesticus	31534	species	10	40.2046404	-100.6255603	Traveling	1	0
+S42582250	2018-02-07	L6836815	McCook	European Starling	Sturnus vulgaris	27813	species	20	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Common Grackle	Quiscalus quiscula	33853	species	2	40.2046404	-100.6255603	Traveling	1	0
+S46227452	2018-05-30	L6836815	McCook	Baltimore Oriole	Icterus galbula	33770	species	1	40.2046404	-100.6255603	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Swainson's Thrush	Catharus ustulatus	28324	species	1	40.2126100	-100.6205490	Traveling	1	0
+S60497359	2019-10-09	L10012971	McCook Wal-Mart parking lot	House Sparrow	Passer domesticus	31534	species	2	40.1996935	-100.6506500	Stationary	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Northern House Wren	Troglodytes aedon	27192	issf	3	40.2126100	-100.6205490	Traveling	1	0
+S60497359	2019-10-09	L10012971	McCook Wal-Mart parking lot	Great-tailed Grackle	Quiscalus mexicanus	33864	species	13	40.1996935	-100.6506500	Stationary	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Eastern Phoebe	Sayornis phoebe	17007	species	2	40.2126100	-100.6205490	Traveling	1	0
+S60181590	2019-09-28	L9966903	(40.1984,-100.6224)	American Robin	Turdus migratorius	28633	species	3	40.1984440	-100.6223740	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	House Finch	Haemorhous mexicanus	32310	species	4	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Baltimore Oriole	Icterus galbula	33770	species	2	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	American Goldfinch	Spinus tristis	32617	species	3	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Northern Flicker	Colaptes auratus	11903	issf	1	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Northern Yellow Warbler	Setophaga aestiva	34087	species	12	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Common Grackle	Quiscalus quiscula	33857	issf	5	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Downy Woodpecker	Dryobates pubescens	11401	issf	1	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2126100	-100.6205490	Traveling	1	0
+S60181590	2019-09-28	L9966903	(40.1984,-100.6224)	Rock Pigeon	Columba livia	1868	domestic	1	40.1984440	-100.6223740	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Mourning Dove	Zenaida macroura	2412	species	8	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	American Robin	Turdus migratorius	28633	species	32	40.2126100	-100.6205490	Traveling	1	0
+S56690240	2019-05-24	L9333638	Kelley Park, McCook US-NE (40.2126,-100.6205)	European Starling	Sturnus vulgaris	27813	species	19	40.2126100	-100.6205490	Traveling	1	0
+S60497359	2019-10-09	L10012971	McCook Wal-Mart parking lot	European Starling	Sturnus vulgaris	27813	species	4	40.1996935	-100.6506500	Stationary	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Dark-eyed Junco	Junco hyemalis	33126	issf	5	40.2124820	-100.6204180	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2124820	-100.6204180	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Dark-eyed Junco	Junco hyemalis	33138	issf	2	40.2124820	-100.6204180	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.2046404	-100.6255603	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	House Sparrow	Passer domesticus	31534	species	4	40.2124820	-100.6204180	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	40.2124820	-100.6204180	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Dark-eyed Junco	Junco hyemalis	33124	species	7	40.2124820	-100.6204180	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	Blue Jay	Cyanocitta cristata	21294	species	1	40.2046404	-100.6255603	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Dark-eyed Junco	Junco hyemalis	33130	issf	2	40.2124820	-100.6204180	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	Mourning Dove	Zenaida macroura	2412	species	11	40.2046404	-100.6255603	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	Mississippi Kite	Ictinia mississippiensis	8388	species	2	40.2046404	-100.6255603	Traveling	1	1
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	American Goldfinch	Spinus tristis	32617	species	3	40.2124820	-100.6204180	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	Chimney Swift	Chaetura pelagica	3896	species	2	40.2046404	-100.6255603	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	House Sparrow	Passer domesticus	31534	species	12	40.2046404	-100.6255603	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	American Robin	Turdus migratorius	28633	species	9	40.2124820	-100.6204180	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	European Starling	Sturnus vulgaris	27813	species	1	40.2046404	-100.6255603	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2124820	-100.6204180	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Hairy Woodpecker	Leuconotopicus villosus	11428	issf	1	40.2124820	-100.6204180	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Black-capped Chickadee	Poecile atricapillus	22065	species	5	40.2124820	-100.6204180	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	White-breasted Nuthatch	Sitta carolinensis	26890	issf	2	40.2124820	-100.6204180	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	Rock Pigeon	Columba livia	1868	domestic	2	40.2046404	-100.6255603	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	American Robin	Turdus migratorius	28633	species	7	40.2046404	-100.6255603	Traveling	1	0
+S63215024	2020-01-09	L10461134	Kelley Park, McCook US-NE (40.2125,-100.6204)	Downy Woodpecker	Dryobates pubescens	11401	issf	2	40.2124820	-100.6204180	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	Western Kingbird	Tyrannus verticalis	17467	species	7	40.2046404	-100.6255603	Traveling	1	0
+S71839022	2020-07-25	L6836815	McCook	Turkey Vulture	Cathartes aura	7815	species	1	40.2046404	-100.6255603	Traveling	1	0
+S94408750	2021-09-09	L16333156	1301 US-83, McCook US-NE 40.21142, -100.64865	Rock Pigeon	Columba livia	1868	domestic	2	40.2114190	-100.6486510	Stationary	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	House Finch	Haemorhous mexicanus	32310	species	8	40.2118550	-100.6486060	Traveling	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	European Starling	Sturnus vulgaris	27813	species	60	40.2118550	-100.6486060	Traveling	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	1	40.2118550	-100.6486060	Traveling	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	Mourning Dove	Zenaida macroura	2412	species	3	40.2118550	-100.6486060	Traveling	1	0
+S83806137	2021-03-21	L14106830	105 East H Street, McCook, Nebraska, US (40.205, -100.625)	House Finch	Haemorhous mexicanus	32310	species	1	40.2046159	-100.6249716	Traveling	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	Turkey Vulture	Cathartes aura	7815	species	12	40.2118550	-100.6486060	Traveling	1	0
+S83806137	2021-03-21	L14106830	105 East H Street, McCook, Nebraska, US (40.205, -100.625)	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2046159	-100.6249716	Traveling	1	0
+S94408750	2021-09-09	L16333156	1301 US-83, McCook US-NE 40.21142, -100.64865	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2114190	-100.6486510	Stationary	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	15	40.2118550	-100.6486060	Traveling	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	American Goldfinch	Spinus tristis	32617	species	1	40.2118550	-100.6486060	Traveling	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	40.2118550	-100.6486060	Traveling	1	0
+S94408750	2021-09-09	L16333156	1301 US-83, McCook US-NE 40.21142, -100.64865	Mourning Dove	Zenaida macroura	2412	species	1	40.2114190	-100.6486510	Stationary	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	Common Grackle	Quiscalus quiscula	33853	species	200	40.2118550	-100.6486060	Traveling	1	0
+S94408750	2021-09-09	L16333156	1301 US-83, McCook US-NE 40.21142, -100.64865	European Starling	Sturnus vulgaris	27813	species	3	40.2114190	-100.6486510	Stationary	1	0
+S83806137	2021-03-21	L14106830	105 East H Street, McCook, Nebraska, US (40.205, -100.625)	American Robin	Turdus migratorius	28633	species	2	40.2046159	-100.6249716	Traveling	1	0
+S94408750	2021-09-09	L16333156	1301 US-83, McCook US-NE 40.21142, -100.64865	House Sparrow	Passer domesticus	31534	species	2	40.2114190	-100.6486510	Stationary	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	American Robin	Turdus migratorius	28633	species	30	40.2118550	-100.6486060	Traveling	1	0
+S83806137	2021-03-21	L14106830	105 East H Street, McCook, Nebraska, US (40.205, -100.625)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2046159	-100.6249716	Traveling	1	0
+S85281891	2021-04-10	L14409345	1301 US-83, McCook US-NE 40.21186, -100.64861	House Sparrow	Passer domesticus	31534	species	10	40.2118550	-100.6486060	Traveling	1	0
+S94408750	2021-09-09	L16333156	1301 US-83, McCook US-NE 40.21142, -100.64865	House Finch	Haemorhous mexicanus	32310	species	1	40.2114190	-100.6486510	Stationary	1	0
+S106399691	2022-04-06	L18394381	314 West B Street, McCook, Nebraska, US (40.199, -100.63)	American Robin	Turdus migratorius	28633	species	3	40.1985763	-100.6295784	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Mourning Dove	Zenaida macroura	2412	species	18	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	American Robin	Turdus migratorius	28633	species	21	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Dickcissel	Spiza americana	34627	species	1	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Western Meadowlark	Sturnella neglecta	33565	species	1	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Chimney Swift	Chaetura pelagica	3896	species	1	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	40.2091440	-100.6403640	Traveling	1	0
+S106399691	2022-04-06	L18394381	314 West B Street, McCook, Nebraska, US (40.199, -100.63)	Turkey Vulture	Cathartes aura	7815	species	1	40.1985763	-100.6295784	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	House Finch	Haemorhous mexicanus	32310	species	2	40.2115610	-100.6486390	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	House Finch	Haemorhous mexicanus	32310	species	4	40.2091440	-100.6403640	Traveling	1	0
+S106399691	2022-04-06	L18394381	314 West B Street, McCook, Nebraska, US (40.199, -100.63)	Western Meadowlark	Sturnella neglecta	33565	species	1	40.1985763	-100.6295784	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2115610	-100.6486390	Traveling	1	0
+S106399691	2022-04-06	L18394381	314 West B Street, McCook, Nebraska, US (40.199, -100.63)	European Starling	Sturnus vulgaris	27813	species	8	40.1985763	-100.6295784	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2115610	-100.6486390	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	House Sparrow	Passer domesticus	31534	species	14	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Northern Flicker	Colaptes auratus	11903	issf	3	40.2091440	-100.6403640	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	Common Grackle	Quiscalus quiscula	33853	species	3	40.2115610	-100.6486390	Traveling	1	0
+S106399691	2022-04-06	L18394381	314 West B Street, McCook, Nebraska, US (40.199, -100.63)	House Sparrow	Passer domesticus	31534	species	3	40.1985763	-100.6295784	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	European Starling	Sturnus vulgaris	27813	species	3	40.2091440	-100.6403640	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	European Starling	Sturnus vulgaris	27813	species	18	40.2115610	-100.6486390	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	American Robin	Turdus migratorius	28633	species	2	40.2115610	-100.6486390	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2091440	-100.6403640	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2115610	-100.6486390	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Northern House Wren	Troglodytes aedon	27191	species	1	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Chipping Sparrow	Spizella passerina	32990	species	5	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Barn Swallow	Hirundo rustica	24187	species	1	40.2091440	-100.6403640	Traveling	1	0
+S106399691	2022-04-06	L18394381	314 West B Street, McCook, Nebraska, US (40.199, -100.63)	Rock Pigeon	Columba livia	1868	domestic	4	40.1985763	-100.6295784	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	Bell's Vireo	Vireo bellii	19197	species	1	40.2115610	-100.6486390	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	House Sparrow	Passer domesticus	31534	species	2	40.2115610	-100.6486390	Traveling	1	0
+S106399691	2022-04-06	L18394381	314 West B Street, McCook, Nebraska, US (40.199, -100.63)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.1985763	-100.6295784	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Common Grackle	Quiscalus quiscula	33853	species	10	40.2091440	-100.6403640	Traveling	1	0
+S114016842	2022-06-29	L19884416	Cobblestone Hotel - McCook	Western Meadowlark	Sturnella neglecta	33565	species	1	40.2115610	-100.6486390	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Orchard Oriole	Icterus spurius	33679	species	2	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Western Kingbird	Tyrannus verticalis	17467	species	11	40.2091440	-100.6403640	Traveling	1	0
+S114085511	2022-06-30	L19903348	McCook	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2091440	-100.6403640	Traveling	1	0
+S146718659	2023-08-07	L20292535	Kelley Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	40.2125690	-100.6204700	Traveling	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Chipping Sparrow	Spizella passerina	32990	species	2	40.2145290	-100.6202970	Stationary	1	0
+S138095443	2023-05-15	L19317324	My front yard	Blue Jay	Cyanocitta cristata	21294	species	1	40.2093251	-100.6419651	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Chipping Sparrow	Spizella passerina	32990	species	3	40.2125690	-100.6204700	Traveling	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Robin	Turdus migratorius	28633	species	4	40.2145290	-100.6202970	Stationary	1	0
+S146613097	2023-08-06	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	2	40.2125690	-100.6204700	Traveling	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2125690	-100.6204700	Traveling	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2145290	-100.6202970	Stationary	1	0
+S148678409	2023-09-01	L26874421	402 Missouri Avenue Cir, McCook US-NE 40.20303, -my home100.64095	Blue Jay	Cyanocitta cristata	21294	species	2	40.2030270	-100.6409510	Stationary	1	0
+S146613097	2023-08-06	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	2	40.2125690	-100.6204700	Traveling	1	0
+S137283959	2023-05-12	L19317324	My front yard	American Robin	Turdus migratorius	28633	species	5	40.2093251	-100.6419651	Stationary	1	0
+S146718659	2023-08-07	L20292535	Kelley Park	Great Crested Flycatcher	Myiarchus crinitus	17334	species	2	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
+S148678409	2023-09-01	L26874421	402 Missouri Avenue Cir, McCook US-NE 40.20303, -my home100.64095	House Finch	Haemorhous mexicanus	32310	species	1	40.2030270	-100.6409510	Stationary	1	0
+S138095443	2023-05-15	L19317324	My front yard	House Finch	Haemorhous mexicanus	32310	species	8	40.2093251	-100.6419651	Stationary	1	0
+S137283959	2023-05-12	L19317324	My front yard	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	40.2093251	-100.6419651	Stationary	1	0
+S138095443	2023-05-15	L19317324	My front yard	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2093251	-100.6419651	Stationary	1	0
+S146718659	2023-08-07	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	1	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	5	40.2125690	-100.6204700	Traveling	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
+S137283959	2023-05-12	L19317324	My front yard	House Sparrow	Passer domesticus	31534	species	8	40.2093251	-100.6419651	Stationary	1	0
+S135917010	2023-05-03	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	2	40.2145290	-100.6202970	Stationary	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	3	40.2145290	-100.6202970	Stationary	1	0
+S135917010	2023-05-03	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2145290	-100.6202970	Stationary	1	0
+S137283959	2023-05-12	L19317324	My front yard	White-winged Dove	Zenaida asiatica	2389	species	1	40.2093251	-100.6419651	Stationary	1	1
+S138883800	2023-05-19	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	3	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Baltimore Oriole	Icterus galbula	33770	species	1	40.2125690	-100.6204700	Traveling	1	0
+S137283959	2023-05-12	L19317324	My front yard	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2093251	-100.6419651	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	5	40.2125690	-100.6204700	Traveling	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2145290	-100.6202970	Stationary	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Robin	Turdus migratorius	28633	species	3	40.2145290	-100.6202970	Stationary	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
+S138095443	2023-05-15	L19317324	My front yard	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2093251	-100.6419651	Stationary	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	1	40.2145290	-100.6202970	Stationary	1	0
+S138095443	2023-05-15	L19317324	My front yard	American Robin	Turdus migratorius	28633	species	5	40.2093251	-100.6419651	Stationary	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Finch	Haemorhous mexicanus	32310	species	3	40.2145290	-100.6202970	Stationary	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Northern House Wren	Troglodytes aedon	27191	species	2	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	3	40.2125690	-100.6204700	Traveling	1	0
+S136105165	2023-05-04	L19317324	My front yard	House Sparrow	Passer domesticus	31534	species	2	40.2093251	-100.6419651	Stationary	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Purple Martin	Progne subis	24081	species	1	40.2145290	-100.6202970	Stationary	1	0
+S136105165	2023-05-04	L19317324	My front yard	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2093251	-100.6419651	Stationary	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
+S135917010	2023-05-03	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2145290	-100.6202970	Stationary	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Baltimore Oriole	Icterus galbula	33770	species	1	40.2145290	-100.6202970	Stationary	1	0
+S138095443	2023-05-15	L19317324	My front yard	House Sparrow	Passer domesticus	31534	species	5	40.2093251	-100.6419651	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2125690	-100.6204700	Traveling	1	0
+S138095443	2023-05-15	L19317324	My front yard	Baltimore Oriole	Icterus galbula	33770	species	1	40.2093251	-100.6419651	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	2	40.2125690	-100.6204700	Traveling	1	0
+S146613097	2023-08-06	L20292535	Kelley Park	Common Grackle	Quiscalus quiscula	33853	species	1	40.2125690	-100.6204700	Traveling	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Blue Jay	Cyanocitta cristata	21294	species	7	40.2145290	-100.6202970	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2145290	-100.6202970	Stationary	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	4	40.2145290	-100.6202970	Stationary	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2145290	-100.6202970	Stationary	1	0
+S135917010	2023-05-03	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	4	40.2145290	-100.6202970	Stationary	1	0
+S138095443	2023-05-15	L19317324	My front yard	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2093251	-100.6419651	Stationary	1	0
+S136105165	2023-05-04	L19317324	My front yard	Common Grackle	Quiscalus quiscula	33853	species	2	40.2093251	-100.6419651	Stationary	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	2	40.2145290	-100.6202970	Stationary	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	40.2125690	-100.6204700	Traveling	1	0
+S132079843	2023-03-28	L20292535	Kelley Park	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	40.2125690	-100.6204700	Traveling	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	European Starling	Sturnus vulgaris	27813	species	1	40.2145290	-100.6202970	Stationary	1	0
+S135917010	2023-05-03	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	1	40.2145290	-100.6202970	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	40.2125690	-100.6204700	Traveling	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2145290	-100.6202970	Stationary	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2145290	-100.6202970	Stationary	1	0
+S137283959	2023-05-12	L19317324	My front yard	Franklin's Gull	Leucophaeus pipixcan	6494	species	20	40.2093251	-100.6419651	Stationary	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	House Sparrow	Passer domesticus	31534	species	2	40.2125690	-100.6204700	Traveling	1	0
+S136105165	2023-05-04	L19317324	My front yard	Blue Jay	Cyanocitta cristata	21294	species	2	40.2093251	-100.6419651	Stationary	1	0
+S146613097	2023-08-06	L20292535	Kelley Park	Northern Flicker	Colaptes auratus	11900	species	1	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	American Goldfinch	Spinus tristis	32617	species	2	40.2125690	-100.6204700	Traveling	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Blue Jay	Cyanocitta cristata	21294	species	1	40.2145290	-100.6202970	Stationary	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Song Sparrow	Melospiza melodia	33277	species	2	40.2145290	-100.6202970	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Common Grackle	Quiscalus quiscula	33853	species	4	40.2125690	-100.6204700	Traveling	1	0
+S135917010	2023-05-03	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2145290	-100.6202970	Stationary	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Robin	Turdus migratorius	28633	species	2	40.2145290	-100.6202970	Stationary	1	0
+S137283959	2023-05-12	L19317324	My front yard	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2093251	-100.6419651	Stationary	1	0
+S132079843	2023-03-28	L20292535	Kelley Park	American Goldfinch	Spinus tristis	32617	species	1	40.2125690	-100.6204700	Traveling	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2145290	-100.6202970	Stationary	1	0
+S148678409	2023-09-01	L26874421	402 Missouri Avenue Cir, McCook US-NE 40.20303, -my home100.64095	Baltimore Oriole	Icterus galbula	33770	species	1	40.2030270	-100.6409510	Stationary	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Goldfinch	Spinus tristis	32617	species	1	40.2145290	-100.6202970	Stationary	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Robin	Turdus migratorius	28633	species	3	40.2145290	-100.6202970	Stationary	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	1	40.2145290	-100.6202970	Stationary	1	0
+S137283959	2023-05-12	L19317324	My front yard	Mourning Dove	Zenaida macroura	2412	species	4	40.2093251	-100.6419651	Stationary	1	0
+S136105165	2023-05-04	L19317324	My front yard	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2093251	-100.6419651	Stationary	1	0
+S132079843	2023-03-28	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
+S136105165	2023-05-04	L19317324	My front yard	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2093251	-100.6419651	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Baltimore Oriole	Icterus galbula	33770	species	1	40.2125690	-100.6204700	Traveling	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2145290	-100.6202970	Stationary	1	0
+S136105165	2023-05-04	L19317324	My front yard	Baltimore Oriole	Icterus galbula	33770	species	1	40.2093251	-100.6419651	Stationary	1	0
+S132079843	2023-03-28	L20292535	Kelley Park	Cooper's Hawk	Astur cooperii	8278	species	1	40.2125690	-100.6204700	Traveling	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2145290	-100.6202970	Stationary	1	0
+S148678409	2023-09-01	L26874421	402 Missouri Avenue Cir, McCook US-NE 40.20303, -my home100.64095	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2030270	-100.6409510	Stationary	1	0
+S136105165	2023-05-04	L19317324	My front yard	House Finch	Haemorhous mexicanus	32310	species	2	40.2093251	-100.6419651	Stationary	1	0
+S148678409	2023-09-01	L26874421	402 Missouri Avenue Cir, McCook US-NE 40.20303, -my home100.64095	Mourning Dove	Zenaida macroura	2412	species	1	40.2030270	-100.6409510	Stationary	1	0
+S135917010	2023-05-03	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Baltimore Oriole	Icterus galbula	33770	species	1	40.2145290	-100.6202970	Stationary	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Gray Catbird	Dumetella carolinensis	28000	species	1	40.2145290	-100.6202970	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Orchard Oriole	Icterus spurius	33679	species	1	40.2125690	-100.6204700	Traveling	1	0
+S138095443	2023-05-15	L19317324	My front yard	Common Grackle	Quiscalus quiscula	33853	species	3	40.2093251	-100.6419651	Stationary	1	0
+S146613097	2023-08-06	L20292535	Kelley Park	Chimney Swift	Chaetura pelagica	3896	species	1	40.2125690	-100.6204700	Traveling	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	40.2145290	-100.6202970	Stationary	1	0
+S132079843	2023-03-28	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
+S132079843	2023-03-28	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	12	40.2125690	-100.6204700	Traveling	1	0
+S137283959	2023-05-12	L19317324	My front yard	House Finch	Haemorhous mexicanus	32310	species	6	40.2093251	-100.6419651	Stationary	1	0
+S132079843	2023-03-28	L20292535	Kelley Park	Northern Flicker	Colaptes auratus	11900	species	1	40.2125690	-100.6204700	Traveling	1	0
+S132079843	2023-03-28	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	5	40.2145290	-100.6202970	Stationary	1	0
+S138883800	2023-05-19	L20292535	Kelley Park	Northern House Wren	Troglodytes aedon	27191	species	9	40.2125690	-100.6204700	Traveling	1	0
+S148678409	2023-09-01	L26874421	402 Missouri Avenue Cir, McCook US-NE 40.20303, -my home100.64095	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2030270	-100.6409510	Stationary	1	0
+S146718659	2023-08-07	L20292535	Kelley Park	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	40.2125690	-100.6204700	Traveling	1	0
+S138095443	2023-05-15	L19317324	My front yard	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2093251	-100.6419651	Stationary	1	0
+S136105165	2023-05-04	L19317324	My front yard	American Robin	Turdus migratorius	28633	species	5	40.2093251	-100.6419651	Stationary	1	0
+S150525153	2023-09-22	L20292535	Kelley Park	Eastern Screech-Owl	Megascops asio	8866	species	1	40.2125690	-100.6204700	Traveling	1	0
+S136051203	2023-05-04	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	7	40.2125690	-100.6204700	Traveling	1	0
+S143885267	2023-07-08	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Western Kingbird	Tyrannus verticalis	17467	species	6	40.2145290	-100.6202970	Stationary	1	0
+S137972688	2023-05-16	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	5	40.2145290	-100.6202970	Stationary	1	0
+S147594420	2023-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2145290	-100.6202970	Stationary	1	0
+S135917010	2023-05-03	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Robin	Turdus migratorius	28633	species	3	40.2145290	-100.6202970	Stationary	1	0
+S135538653	2023-04-30	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	3	40.2145290	-100.6202970	Stationary	1	0
+S196073034	2024-09-22	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	4	40.2125690	-100.6204700	Traveling	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	40.2125690	-100.6204700	Traveling	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	American Goldfinch	Spinus tristis	32617	species	1	40.2125690	-100.6204700	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Pine Siskin	Spinus pinus	32595	species	1	40.2125690	-100.6204700	Traveling	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	40.2145290	-100.6202970	Stationary	1	0
+S172299775	2024-05-05	L19317324	My front yard	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2093251	-100.6419651	Stationary	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	40.2125690	-100.6204700	Traveling	1	0
+S172299775	2024-05-05	L19317324	My front yard	Common Grackle	Quiscalus quiscula	33853	species	1	40.2093251	-100.6419651	Stationary	1	0
+S172884507	2024-05-08	L19317324	My front yard	American Robin	Turdus migratorius	28633	species	2	40.2093251	-100.6419651	Stationary	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	3	40.2125690	-100.6204700	Traveling	1	0
+S187330210	2024-07-16	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Mississippi Kite	Ictinia mississippiensis	8388	species	3	40.2101770	-100.6418460	Traveling	1	1
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	2	40.2145290	-100.6202970	Stationary	1	0
+S158921095	2024-01-14	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Dark-eyed Junco	Junco hyemalis	33126	issf	4	40.2101770	-100.6418460	Stationary	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	40.1956430	-100.6204090	Historical	1	0
+S180664981	2024-06-10	L33150392	805 E B St, McCook US-NE 40.19914, -100.61519	Mississippi Kite	Ictinia mississippiensis	8388	species	1	40.1991380	-100.6151940	Traveling	1	1
+S171303340	2024-05-01	L19317324	My front yard	Northern Cardinal	Cardinalis cardinalis	34515	species	4	40.2093251	-100.6419651	Stationary	1	0
+S206641698	2024-12-26	L20292535	Kelley Park	Dark-eyed Junco	Junco hyemalis	33124	species	1	40.2125690	-100.6204700	Traveling	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
+S187330210	2024-07-16	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2101770	-100.6418460	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Blue Jay	Cyanocitta cristata	21294	species	2	40.1956430	-100.6204090	Historical	1	0
+S166332845	2024-03-29	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	European Starling	Sturnus vulgaris	27813	species	11	40.2041739	-100.6453711	Traveling	1	0
+S187237629	2024-07-16	L32823513	TheGFs	European Starling	Sturnus vulgaris	27813	species	X	40.2103882	-100.6321793	Stationary	1	0
+S187179922	2024-07-14	L32823513	TheGFs	Northern House Wren	Troglodytes aedon	27191	species	1	40.2103882	-100.6321793	Stationary	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	20	40.2125690	-100.6204700	Traveling	1	0
+S172523567	2024-05-06	L19317324	My front yard	Baltimore Oriole	Icterus galbula	33770	species	3	40.2093251	-100.6419651	Stationary	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Clay-colored Sparrow	Spizella pallida	32996	species	2	40.2125690	-100.6204700	Traveling	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	1	40.2125690	-100.6204700	Traveling	1	0
+S196073034	2024-09-22	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2125690	-100.6204700	Traveling	1	0
+S172299775	2024-05-05	L19317324	My front yard	Mourning Dove	Zenaida macroura	2412	species	2	40.2093251	-100.6419651	Stationary	1	0
+S163419985	2024-03-02	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Dark-eyed Junco	Junco hyemalis	33124	species	2	40.2101770	-100.6418460	Stationary	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Clay-colored Sparrow	Spizella pallida	32996	species	1	40.2145290	-100.6202970	Stationary	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Ring-necked Pheasant	Phasianus colchicus	1477	species	2	40.2145290	-100.6202970	Stationary	1	0
+S171303340	2024-05-01	L19317324	My front yard	Mourning Dove	Zenaida macroura	2412	species	4	40.2093251	-100.6419651	Stationary	1	0
+S172523567	2024-05-06	L19317324	My front yard	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	40.2093251	-100.6419651	Stationary	1	0
+S172649833	2024-05-07	L19317324	My front yard	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	40.2093251	-100.6419651	Stationary	1	0
+S196072472	2024-09-22	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	7	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
+S163419985	2024-03-02	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Dark-eyed Junco	Junco hyemalis	33126	issf	3	40.2101770	-100.6418460	Stationary	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	40.2145290	-100.6202970	Stationary	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2145290	-100.6202970	Stationary	1	0
+S166270259	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Great-tailed Grackle	Quiscalus mexicanus	33869	issf	1	40.2041739	-100.6453711	Traveling	1	0
+S166237481	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	11	40.2041739	-100.6453711	Traveling	1	0
+S180664981	2024-06-10	L33150392	805 E B St, McCook US-NE 40.19914, -100.61519	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.1991380	-100.6151940	Traveling	1	0
+S186668173	2024-07-12	L33202897	trail	Mourning Dove	Zenaida macroura	2412	species	1	40.2094269	-100.6166687	Traveling	1	0
+S206573838	2024-12-25	L38854289	Hosick	Mourning Dove	Zenaida macroura	2412	species	4	40.2083970	-100.6170954	Stationary	1	0
+S172523567	2024-05-06	L19317324	My front yard	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2093251	-100.6419651	Stationary	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	5	40.2125690	-100.6204700	Traveling	1	0
+S173654023	2024-05-11	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Chipping Sparrow	Spizella passerina	32990	species	1	40.2145290	-100.6202970	Stationary	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Northern House Wren	Troglodytes aedon	27191	species	1	40.2125690	-100.6204700	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Common Grackle	Quiscalus quiscula	33853	species	6	40.2125690	-100.6204700	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Wood Duck	Aix sponsa	455	species	2	40.1956430	-100.6204090	Historical	1	0
+S187179922	2024-07-14	L32823513	TheGFs	Common Grackle	Quiscalus quiscula	33853	species	X	40.2103882	-100.6321793	Stationary	1	0
+S179524666	2024-06-05	L32878279	810 East B Street, McCook, Nebraska, US (40.198, -100.615)	European Starling	Sturnus vulgaris	27813	species	6	40.1982404	-100.6152088	Stationary	1	0
+S187237629	2024-07-16	L32823513	TheGFs	Eastern Kingbird	Tyrannus tyrannus	17472	species	X	40.2103882	-100.6321793	Stationary	1	0
+S171303340	2024-05-01	L19317324	My front yard	Common Grackle	Quiscalus quiscula	33853	species	2	40.2093251	-100.6419651	Stationary	1	0
+S172299775	2024-05-05	L19317324	My front yard	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	1	40.2093251	-100.6419651	Stationary	1	0
+S172523567	2024-05-06	L19317324	My front yard	White-winged Dove	Zenaida asiatica	2389	species	2	40.2093251	-100.6419651	Stationary	1	1
+S168573392	2024-04-14	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Common Grackle	Quiscalus quiscula	33853	species	3	40.2125690	-100.6204700	Traveling	1	0
+S158921095	2024-01-14	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2101770	-100.6418460	Stationary	1	0
+S187330210	2024-07-16	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	European Starling	Sturnus vulgaris	27813	species	1	40.2101770	-100.6418460	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Pine Siskin	Spinus pinus	32595	species	2	40.1956430	-100.6204090	Historical	1	0
+S166237481	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Rock Pigeon	Columba livia	1868	domestic	5	40.2041739	-100.6453711	Traveling	1	0
+S187179922	2024-07-14	L32823513	TheGFs	Northern Cardinal	Cardinalis cardinalis	34515	species	X	40.2103882	-100.6321793	Stationary	1	0
+S187237629	2024-07-16	L32823513	TheGFs	Common Grackle	Quiscalus quiscula	33853	species	X	40.2103882	-100.6321793	Stationary	1	0
+S180664981	2024-06-10	L33150392	805 E B St, McCook US-NE 40.19914, -100.61519	Chimney Swift	Chaetura pelagica	3896	species	4	40.1991380	-100.6151940	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	House Sparrow	Passer domesticus	31534	species	2	40.2125690	-100.6204700	Traveling	1	0
+S196070545	2024-09-22	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	1	40.2125690	-100.6204700	Traveling	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
+S172523567	2024-05-06	L19317324	My front yard	Common Grackle	Quiscalus quiscula	33853	species	3	40.2093251	-100.6419651	Stationary	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	American Goldfinch	Spinus tristis	32617	species	1	40.2125690	-100.6204700	Traveling	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	Dark-eyed Junco	Junco hyemalis	33124	species	1	40.2125690	-100.6204700	Traveling	1	0
+S196073034	2024-09-22	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	4	40.2125690	-100.6204700	Traveling	1	0
+S206641698	2024-12-26	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	18	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Chipping Sparrow	Spizella passerina	32990	species	5	40.2125690	-100.6204700	Traveling	1	0
+S196586903	2024-09-21	L36846184	McCook, southwest part of town	Great-tailed Grackle	Quiscalus mexicanus	33864	species	130	40.2030038	-100.6437050	Historical	1	1
+S196165998	2024-09-22	L20292535	Kelley Park	Turkey Vulture	Cathartes aura	7815	species	3	40.2125690	-100.6204700	Traveling	1	0
+S172649833	2024-05-07	L19317324	My front yard	Common Grackle	Quiscalus quiscula	33853	species	2	40.2093251	-100.6419651	Stationary	1	0
+S172523567	2024-05-06	L19317324	My front yard	Chipping Sparrow	Spizella passerina	32990	species	1	40.2093251	-100.6419651	Stationary	1	0
+S196070545	2024-09-22	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	5	40.2125690	-100.6204700	Traveling	1	0
+S187179922	2024-07-14	L32823513	TheGFs	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.2103882	-100.6321793	Stationary	1	0
+S187179922	2024-07-14	L32823513	TheGFs	European Starling	Sturnus vulgaris	27813	species	1	40.2103882	-100.6321793	Stationary	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
+S171303340	2024-05-01	L19317324	My front yard	Clay-colored Sparrow	Spizella pallida	32996	species	2	40.2093251	-100.6419651	Stationary	1	0
+S168776932	2024-04-15	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	1	40.2125690	-100.6204700	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	3	40.2125690	-100.6204700	Traveling	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	60	40.2125690	-100.6204700	Traveling	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Brown Thrasher	Toxostoma rufum	28037	species	4	40.2125690	-100.6204700	Traveling	1	0
+S187330210	2024-07-16	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2101770	-100.6418460	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Green-winged Teal	Anas crecca	612	species	4	40.1956430	-100.6204090	Historical	1	0
+S166300245	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	American Robin	Turdus migratorius	28635	issf	1	40.2041739	-100.6453711	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.1956430	-100.6204090	Historical	1	0
+S166402105	2024-03-29	L30170594	712 West 10th Street, McCook, Nebraska, US (40.204, -100.638) High School Track	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2039858	-100.6376696	Stationary	1	0
+S196070545	2024-09-22	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2125690	-100.6204700	Traveling	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	3	40.2145290	-100.6202970	Stationary	1	0
+S171303340	2024-05-01	L19317324	My front yard	House Sparrow	Passer domesticus	31534	species	2	40.2093251	-100.6419651	Stationary	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Brown Thrasher	Toxostoma rufum	28037	species	4	40.2125690	-100.6204700	Traveling	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Wild Turkey	Meleagris gallopavo	1274	species	4	40.2125690	-100.6204700	Traveling	1	0
+S196070545	2024-09-22	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	1	40.2125690	-100.6204700	Traveling	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Finch	Haemorhous mexicanus	32310	species	6	40.2145290	-100.6202970	Stationary	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	3	40.2145290	-100.6202970	Stationary	1	0
+S187237629	2024-07-16	L32823513	TheGFs	Eastern Warbling Vireo	Vireo gilvus	19245	species	X	40.2103882	-100.6321793	Stationary	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Clay-colored Sparrow	Spizella pallida	32996	species	5	40.1956430	-100.6204090	Historical	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	American Coot	Fulica americana	5500	species	6	40.1956430	-100.6204090	Historical	1	0
+S172299775	2024-05-05	L19317324	My front yard	Blue Jay	Cyanocitta cristata	21294	species	1	40.2093251	-100.6419651	Stationary	1	0
+S172884507	2024-05-08	L19317324	My front yard	Blue Jay	Cyanocitta cristata	21294	species	2	40.2093251	-100.6419651	Stationary	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	American Goldfinch	Spinus tristis	32617	species	6	40.2125690	-100.6204700	Traveling	1	0
+S206641698	2024-12-26	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
+S172884507	2024-05-08	L19317324	My front yard	Common Grackle	Quiscalus quiscula	33853	species	2	40.2093251	-100.6419651	Stationary	1	0
+S172649833	2024-05-07	L19317324	My front yard	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2093251	-100.6419651	Stationary	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	7	40.2145290	-100.6202970	Stationary	1	0
+S187330210	2024-07-16	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Blue Jay	Cyanocitta cristata	21294	species	4	40.2101770	-100.6418460	Traveling	1	0
+S173654023	2024-05-11	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eastern Warbling Vireo	Vireo gilvus	19245	species	1	40.2145290	-100.6202970	Stationary	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	10	40.2145290	-100.6202970	Stationary	1	0
+S196439464	2024-09-21	L36846184	McCook, southwest part of town	Great-tailed Grackle	Quiscalus mexicanus	33864	species	130	40.2030038	-100.6437050	Historical	1	1
+S196072472	2024-09-22	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2125690	-100.6204700	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Northern House Wren	Troglodytes aedon	27191	species	2	40.2125690	-100.6204700	Traveling	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	1	40.2125690	-100.6204700	Traveling	1	0
+S186668173	2024-07-12	L33202897	trail	Northern Cardinal	Cardinalis cardinalis	34515	species	X	40.2094269	-100.6166687	Traveling	1	0
+S166237481	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2041739	-100.6453711	Traveling	1	0
+S206573838	2024-12-25	L38854289	Hosick	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2083970	-100.6170954	Stationary	1	0
+S206573838	2024-12-25	L38854289	Hosick	Ruby-crowned Kinglet	Corthylio calendula	26844	species	X	40.2083970	-100.6170954	Stationary	1	1
+S171303340	2024-05-01	L19317324	My front yard	Blue Jay	Cyanocitta cristata	21294	species	6	40.2093251	-100.6419651	Stationary	1	0
+S172884507	2024-05-08	L19317324	My front yard	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2093251	-100.6419651	Stationary	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Northern Flicker	Colaptes auratus	11900	species	2	40.2125690	-100.6204700	Traveling	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Robin	Turdus migratorius	28633	species	6	40.2145290	-100.6202970	Stationary	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2145290	-100.6202970	Stationary	1	0
+S163419985	2024-03-02	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	House Finch	Haemorhous mexicanus	32310	species	3	40.2101770	-100.6418460	Stationary	1	0
+S166237481	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	American Robin	Turdus migratorius	28635	issf	8	40.2041739	-100.6453711	Traveling	1	0
+S180664981	2024-06-10	L33150392	805 E B St, McCook US-NE 40.19914, -100.61519	Rock Pigeon	Columba livia	1868	domestic	6	40.1991380	-100.6151940	Traveling	1	0
+S186668173	2024-07-12	L33202897	trail	Red-eyed Vireo	Vireo olivaceus	19267	species	X	40.2094269	-100.6166687	Traveling	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
+S171303340	2024-05-01	L19317324	My front yard	Killdeer	Charadrius vociferus	5827	species	1	40.2093251	-100.6419651	Stationary	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.2125690	-100.6204700	Traveling	1	0
+S196073034	2024-09-22	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2125690	-100.6204700	Traveling	1	0
+S171303340	2024-05-01	L19317324	My front yard	American Robin	Turdus migratorius	28633	species	1	40.2093251	-100.6419651	Stationary	1	0
+S196072472	2024-09-22	L20292535	Kelley Park	Northern Flicker	Colaptes auratus	11900	species	3	40.2125690	-100.6204700	Traveling	1	0
+S166402105	2024-03-29	L30170594	712 West 10th Street, McCook, Nebraska, US (40.204, -100.638) High School Track	American White Pelican	Pelecanus erythrorhynchos	7791	species	30	40.2039858	-100.6376696	Stationary	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Robin	Turdus migratorius	28633	species	5	40.2145290	-100.6202970	Stationary	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	6	40.2145290	-100.6202970	Stationary	1	0
+S158921095	2024-01-14	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2101770	-100.6418460	Stationary	1	0
+S173654023	2024-05-11	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	10	40.2145290	-100.6202970	Stationary	1	0
+S173654023	2024-05-11	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	7	40.2145290	-100.6202970	Stationary	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Mallard	Anas platyrhynchos	545	species	2	40.1956430	-100.6204090	Historical	1	0
+S186668173	2024-07-12	L33202897	trail	House Finch	Haemorhous mexicanus	32310	species	X	40.2094269	-100.6166687	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	7	40.2125690	-100.6204700	Traveling	1	0
+S206641698	2024-12-26	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
+S166332845	2024-03-29	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Rock Pigeon	Columba livia	1868	domestic	1	40.2041739	-100.6453711	Traveling	1	0
+S180664981	2024-06-10	L33150392	805 E B St, McCook US-NE 40.19914, -100.61519	House Sparrow	Passer domesticus	31534	species	3	40.1991380	-100.6151940	Traveling	1	0
+S166237481	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	House Sparrow	Passer domesticus	31534	species	12	40.2041739	-100.6453711	Traveling	1	0
+S180664981	2024-06-10	L33150392	805 E B St, McCook US-NE 40.19914, -100.61519	Western Kingbird	Tyrannus verticalis	17467	species	2	40.1991380	-100.6151940	Traveling	1	0
+S206573838	2024-12-25	L38854289	Hosick	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2083970	-100.6170954	Stationary	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	3	40.2125690	-100.6204700	Traveling	1	0
+S163419985	2024-03-02	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2101770	-100.6418460	Stationary	1	0
+S196073034	2024-09-22	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	2	40.2125690	-100.6204700	Traveling	1	0
+S206641698	2024-12-26	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2125690	-100.6204700	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Pied-billed Grebe	Podilymbus podiceps	6855	species	1	40.1956430	-100.6204090	Historical	1	0
+S166237481	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Mourning Dove	Zenaida macroura	2412	species	1	40.2041739	-100.6453711	Traveling	1	0
+S163419985	2024-03-02	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	American Robin	Turdus migratorius	28633	species	4	40.2101770	-100.6418460	Stationary	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Turkey Vulture	Cathartes aura	7815	species	3	40.2125690	-100.6204700	Traveling	1	0
+S206573838	2024-12-25	L38854289	Hosick	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2083970	-100.6170954	Stationary	1	0
+S206573838	2024-12-25	L38854289	Hosick	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	40.2083970	-100.6170954	Stationary	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.1956430	-100.6204090	Historical	1	0
+S172649833	2024-05-07	L19317324	My front yard	Mourning Dove	Zenaida macroura	2412	species	1	40.2093251	-100.6419651	Stationary	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2145290	-100.6202970	Stationary	1	0
+S172884507	2024-05-08	L19317324	My front yard	Chipping Sparrow	Spizella passerina	32990	species	1	40.2093251	-100.6419651	Stationary	1	0
+S172884507	2024-05-08	L19317324	My front yard	European Starling	Sturnus vulgaris	27813	species	1	40.2093251	-100.6419651	Stationary	1	0
+S166332845	2024-03-29	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2041739	-100.6453711	Traveling	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Wild Turkey	Meleagris gallopavo	1274	species	2	40.2145290	-100.6202970	Stationary	1	0
+S166402105	2024-03-29	L30170594	712 West 10th Street, McCook, Nebraska, US (40.204, -100.638) High School Track	Turkey Vulture	Cathartes aura	7815	species	7	40.2039858	-100.6376696	Stationary	1	0
+S172299775	2024-05-05	L19317324	My front yard	House Finch	Haemorhous mexicanus	32310	species	4	40.2093251	-100.6419651	Stationary	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	1	40.2125690	-100.6204700	Traveling	1	0
+S172649833	2024-05-07	L19317324	My front yard	House Sparrow	Passer domesticus	31534	species	4	40.2093251	-100.6419651	Stationary	1	0
+S172523567	2024-05-06	L19317324	My front yard	Purple Martin	Progne subis	24081	species	2	40.2093251	-100.6419651	Stationary	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
+S172884507	2024-05-08	L19317324	My front yard	House Sparrow	Passer domesticus	31534	species	4	40.2093251	-100.6419651	Stationary	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Ring-necked Pheasant	Phasianus colchicus	1477	species	2	40.2145290	-100.6202970	Stationary	1	0
+S166270259	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	House Sparrow	Passer domesticus	31534	species	1	40.2041739	-100.6453711	Traveling	1	0
+S179524666	2024-06-05	L32878279	810 East B Street, McCook, Nebraska, US (40.198, -100.615)	Mississippi Kite	Ictinia mississippiensis	8388	species	1	40.1982404	-100.6152088	Stationary	1	1
+S166237481	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Northern Flicker	Colaptes auratus	11900	species	1	40.2041739	-100.6453711	Traveling	1	0
+S186668173	2024-07-12	L33202897	trail	Turkey Vulture	Cathartes aura	7815	species	4	40.2094269	-100.6166687	Traveling	1	0
+S171303340	2024-05-01	L19317324	My front yard	Purple Martin	Progne subis	24081	species	2	40.2093251	-100.6419651	Stationary	1	0
+S196072472	2024-09-22	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	6	40.2125690	-100.6204700	Traveling	1	0
+S196070545	2024-09-22	L20292535	Kelley Park	Nashville Warbler	Leiothlypis ruficapilla	33981	species	1	40.2125690	-100.6204700	Traveling	1	0
+S158921095	2024-01-14	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2101770	-100.6418460	Stationary	1	0
+S172299775	2024-05-05	L19317324	My front yard	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2093251	-100.6419651	Stationary	1	0
+S172649833	2024-05-07	L19317324	My front yard	Baltimore Oriole	Icterus galbula	33770	species	2	40.2093251	-100.6419651	Stationary	1	0
+S206641698	2024-12-26	L20292535	Kelley Park	House Sparrow	Passer domesticus	31534	species	2	40.2125690	-100.6204700	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	40.1956430	-100.6204090	Historical	1	0
+S187179922	2024-07-14	L32823513	TheGFs	House Sparrow	Passer domesticus	31534	species	1	40.2103882	-100.6321793	Stationary	1	0
+S206573838	2024-12-25	L38854289	Hosick	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2083970	-100.6170954	Stationary	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	European Starling	Sturnus vulgaris	27813	species	4	40.2145290	-100.6202970	Stationary	1	0
+S172649833	2024-05-07	L19317324	My front yard	Chipping Sparrow	Spizella passerina	32990	species	1	40.2093251	-100.6419651	Stationary	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2125690	-100.6204700	Traveling	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	Northern Flicker	Colaptes auratus	11900	species	3	40.2125690	-100.6204700	Traveling	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2125690	-100.6204700	Traveling	1	0
+S187179922	2024-07-14	L32823513	TheGFs	American Robin	Turdus migratorius	28633	species	1	40.2103882	-100.6321793	Stationary	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Common Grackle	Quiscalus quiscula	33853	species	8	40.1956430	-100.6204090	Historical	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Northern House Wren	Troglodytes aedon	27191	species	1	40.2125690	-100.6204700	Traveling	1	0
+S173654023	2024-05-11	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2145290	-100.6202970	Stationary	1	0
+S196070545	2024-09-22	L20292535	Kelley Park	Northern Flicker	Colaptes auratus	11900	species	1	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	House Sparrow	Passer domesticus	31534	species	6	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	7	40.2125690	-100.6204700	Traveling	1	0
+S171303340	2024-05-01	L19317324	My front yard	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2093251	-100.6419651	Stationary	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	4	40.2145290	-100.6202970	Stationary	1	0
+S196586903	2024-09-21	L36846184	McCook, southwest part of town	Rock Pigeon	Columba livia	1868	domestic	1	40.2030038	-100.6437050	Historical	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Northern Flicker	Colaptes auratus	11900	species	1	40.1956430	-100.6204090	Historical	1	0
+S172649833	2024-05-07	L19317324	My front yard	Blue Jay	Cyanocitta cristata	21294	species	1	40.2093251	-100.6419651	Stationary	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	4	40.2125690	-100.6204700	Traveling	1	0
+S187330210	2024-07-16	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	American Robin	Turdus migratorius	28633	species	9	40.2101770	-100.6418460	Traveling	1	0
+S187179922	2024-07-14	L32823513	TheGFs	Song Sparrow	Melospiza melodia	33277	species	X	40.2103882	-100.6321793	Stationary	1	0
+S186668173	2024-07-12	L33202897	trail	Northern House Wren	Troglodytes aedon	27191	species	X	40.2094269	-100.6166687	Traveling	1	0
+S186668173	2024-07-12	L33202897	trail	American Robin	Turdus migratorius	28633	species	X	40.2094269	-100.6166687	Traveling	1	0
+S206641698	2024-12-26	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	3	40.2125690	-100.6204700	Traveling	1	0
+S172523567	2024-05-06	L19317324	My front yard	House Sparrow	Passer domesticus	31534	species	6	40.2093251	-100.6419651	Stationary	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	4	40.2125690	-100.6204700	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	House Sparrow	Passer domesticus	31534	species	5	40.1956430	-100.6204090	Historical	1	0
+S166332845	2024-03-29	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	40.2041739	-100.6453711	Traveling	1	0
+S196073034	2024-09-22	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2145290	-100.6202970	Stationary	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Blue Jay	Cyanocitta cristata	21294	species	6	40.2145290	-100.6202970	Stationary	1	0
+S163419985	2024-03-02	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	House Sparrow	Passer domesticus	31534	species	4	40.2101770	-100.6418460	Stationary	1	0
+S179524666	2024-06-05	L32878279	810 East B Street, McCook, Nebraska, US (40.198, -100.615)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.1982404	-100.6152088	Stationary	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2145290	-100.6202970	Stationary	1	0
+S171303340	2024-05-01	L19317324	My front yard	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2093251	-100.6419651	Stationary	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Baltimore Oriole	Icterus galbula	33770	species	2	40.2125690	-100.6204700	Traveling	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	4	40.2125690	-100.6204700	Traveling	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
+S172649833	2024-05-07	L19317324	My front yard	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2093251	-100.6419651	Stationary	1	0
+S196072472	2024-09-22	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	1	40.2125690	-100.6204700	Traveling	1	0
+S163419985	2024-03-02	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	European Starling	Sturnus vulgaris	27813	species	2	40.2101770	-100.6418460	Stationary	1	0
+S187330210	2024-07-16	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	House Sparrow	Passer domesticus	31534	species	2	40.2101770	-100.6418460	Traveling	1	0
+S166237481	2024-03-28	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	European Starling	Sturnus vulgaris	27813	species	12	40.2041739	-100.6453711	Traveling	1	0
+S166332845	2024-03-29	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2041739	-100.6453711	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Ruddy Duck	Oxyura jamaicensis	778	species	6	40.1956430	-100.6204090	Historical	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Northern Shoveler	Spatula clypeata	501	species	6	40.1956430	-100.6204090	Historical	1	0
+S180664981	2024-06-10	L33150392	805 E B St, McCook US-NE 40.19914, -100.61519	Common Grackle	Quiscalus quiscula	33853	species	5	40.1991380	-100.6151940	Traveling	1	0
+S206573838	2024-12-25	L38854289	Hosick	Northern Flicker	Colaptes auratus	11900	species	1	40.2083970	-100.6170954	Stationary	1	0
+S196586903	2024-09-21	L36846184	McCook, southwest part of town	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2030038	-100.6437050	Historical	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	2	40.2125690	-100.6204700	Traveling	1	0
+S196072472	2024-09-22	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2125690	-100.6204700	Traveling	1	0
+S172523567	2024-05-06	L19317324	My front yard	House Finch	Haemorhous mexicanus	32310	species	4	40.2093251	-100.6419651	Stationary	1	0
+S172523567	2024-05-06	L19317324	My front yard	Mourning Dove	Zenaida macroura	2412	species	1	40.2093251	-100.6419651	Stationary	1	0
+S172299775	2024-05-05	L19317324	My front yard	Baltimore Oriole	Icterus galbula	33770	species	1	40.2093251	-100.6419651	Stationary	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Canada Goose	Branta canadensis	342	species	10	40.1956430	-100.6204090	Historical	1	0
+S172884507	2024-05-08	L19317324	My front yard	House Finch	Haemorhous mexicanus	32310	species	1	40.2093251	-100.6419651	Stationary	1	0
+S168776932	2024-04-15	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	40.2125690	-100.6204700	Traveling	1	0
+S168776932	2024-04-15	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	5	40.2125690	-100.6204700	Traveling	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2145290	-100.6202970	Stationary	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	8	40.1956430	-100.6204090	Historical	1	0
+S196439464	2024-09-21	L36846184	McCook, southwest part of town	Rock Pigeon	Columba livia	1868	domestic	1	40.2030038	-100.6437050	Historical	1	0
+S201196672	2024-11-02	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Common Yellowthroat	Geothlypis trichas	34028	species	2	40.2125690	-100.6204700	Traveling	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Wild Turkey	Meleagris gallopavo	1274	species	4	40.2125690	-100.6204700	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	40.2125690	-100.6204700	Traveling	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	1	40.2125690	-100.6204700	Traveling	1	0
+S196072472	2024-09-22	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	1	40.2125690	-100.6204700	Traveling	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2145290	-100.6202970	Stationary	1	0
+S168551398	2024-04-14	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
+S170497249	2024-04-27	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Finch	Haemorhous mexicanus	32310	species	4	40.2145290	-100.6202970	Stationary	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.1956430	-100.6204090	Historical	1	0
+S179524666	2024-06-05	L32878279	810 East B Street, McCook, Nebraska, US (40.198, -100.615)	House Sparrow	Passer domesticus	31534	species	4	40.1982404	-100.6152088	Stationary	1	0
+S187179922	2024-07-14	L32823513	TheGFs	Northern Flicker	Colaptes auratus	11900	species	X	40.2103882	-100.6321793	Stationary	1	0
+S196586903	2024-09-21	L36846184	McCook, southwest part of town	Killdeer	Charadrius vociferus	5827	species	1	40.2030038	-100.6437050	Historical	1	0
+S196439464	2024-09-21	L36846184	McCook, southwest part of town	Killdeer	Charadrius vociferus	5827	species	1	40.2030038	-100.6437050	Historical	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
+S163419985	2024-03-02	L23085353	1301–1399 W 12th St, McCook US-NE (40.2102,-100.6418)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2101770	-100.6418460	Stationary	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	7	40.2125690	-100.6204700	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	11	40.2125690	-100.6204700	Traveling	1	0
+S196070545	2024-09-22	L20292535	Kelley Park	Common Grackle	Quiscalus quiscula	33853	species	1	40.2125690	-100.6204700	Traveling	1	0
+S168573392	2024-04-14	L20292535	Kelley Park	Turkey Vulture	Cathartes aura	7815	species	7	40.2125690	-100.6204700	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	House Finch	Haemorhous mexicanus	32310	species	2	40.1956430	-100.6204090	Historical	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
+S173654023	2024-05-11	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2145290	-100.6202970	Stationary	1	0
+S172884507	2024-05-08	L19317324	My front yard	Mourning Dove	Zenaida macroura	2412	species	1	40.2093251	-100.6419651	Stationary	1	0
+S172299775	2024-05-05	L19317324	My front yard	American Robin	Turdus migratorius	28633	species	1	40.2093251	-100.6419651	Stationary	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2125690	-100.6204700	Traveling	1	0
+S196169759	2024-09-22	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Northern House Wren	Troglodytes aedon	27191	species	2	40.2125690	-100.6204700	Traveling	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Baltimore Oriole	Icterus galbula	33770	species	2	40.2145290	-100.6202970	Stationary	1	0
+S186668173	2024-07-12	L33202897	trail	Cooper's Hawk	Astur cooperii	8278	species	3	40.2094269	-100.6166687	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Great Blue Heron	Ardea herodias	7753	species	2	40.1956430	-100.6204090	Historical	1	0
+S187179922	2024-07-14	L32823513	TheGFs	Brown-headed Cowbird	Molothrus ater	33833	species	X	40.2103882	-100.6321793	Stationary	1	0
+S196439464	2024-09-21	L36846184	McCook, southwest part of town	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2030038	-100.6437050	Historical	1	0
+S172884507	2024-05-08	L19317324	My front yard	Baltimore Oriole	Icterus galbula	33770	species	2	40.2093251	-100.6419651	Stationary	1	0
+S173654023	2024-05-11	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
+S172299775	2024-05-05	L19317324	My front yard	House Sparrow	Passer domesticus	31534	species	3	40.2093251	-100.6419651	Stationary	1	0
+S196070545	2024-09-22	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	11	40.2125690	-100.6204700	Traveling	1	0
+S172649833	2024-05-07	L19317324	My front yard	House Finch	Haemorhous mexicanus	32310	species	2	40.2093251	-100.6419651	Stationary	1	0
+S171303340	2024-05-01	L19317324	My front yard	Baltimore Oriole	Icterus galbula	33770	species	1	40.2093251	-100.6419651	Stationary	1	0
+S180664981	2024-06-10	L33150392	805 E B St, McCook US-NE 40.19914, -100.61519	European Starling	Sturnus vulgaris	27813	species	4	40.1991380	-100.6151940	Traveling	1	0
+S166332845	2024-03-29	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	American Robin	Turdus migratorius	28633	species	1	40.2041739	-100.6453711	Traveling	1	0
+S166332845	2024-03-29	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Ring-billed Gull	Larus delawarensis	6521	species	5	40.2041739	-100.6453711	Traveling	1	0
+S170453654	2024-04-26	L30128632	Barnett Park	Spotted Sandpiper	Actitis macularius	6126	species	1	40.1956430	-100.6204090	Historical	1	0
+S179524666	2024-06-05	L32878279	810 East B Street, McCook, Nebraska, US (40.198, -100.615)	Chimney Swift	Chaetura pelagica	3896	species	1	40.1982404	-100.6152088	Stationary	1	0
+S187237629	2024-07-16	L32823513	TheGFs	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.2103882	-100.6321793	Stationary	1	0
+S187237629	2024-07-16	L32823513	TheGFs	House Finch	Haemorhous mexicanus	32310	species	X	40.2103882	-100.6321793	Stationary	1	0
+S186668173	2024-07-12	L33202897	trail	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2094269	-100.6166687	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2125690	-100.6204700	Traveling	1	0
+S173305096	2024-05-10	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
+S196165998	2024-09-22	L20292535	Kelley Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	40.2125690	-100.6204700	Traveling	1	0
+S186668173	2024-07-12	L33202897	trail	Chipping Sparrow	Spizella passerina	32990	species	X	40.2094269	-100.6166687	Traveling	1	0
+S192036453	2024-08-19	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	9	40.2145290	-100.6202970	Stationary	1	0
+S206573838	2024-12-25	L38854289	Hosick	House Sparrow	Passer domesticus	31534	species	5	40.2083970	-100.6170954	Stationary	1	0
+S166332845	2024-03-29	L30135051	Holiday Inn area, U.S. 83, McCook, Nebraska, US (40.204, -100.645)	Osprey	Pandion haliaetus	7832	species	1	40.2041739	-100.6453711	Traveling	1	1
+S254414011	2025-06-26	L1647914	NW McCook, Residential	European Starling	Sturnus vulgaris	27813	species	4	40.2103219	-100.6414305	Traveling	1	0
+S215286518	2025-02-24	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	2	40.2125690	-100.6204700	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	American Robin	Turdus migratorius	28633	species	1	40.2145290	-100.6202970	Stationary	1	0
+S225394419	2025-04-13	L35892300	Walking Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2114210	-100.6173980	Traveling	1	0
+S218542212	2025-03-13	L41217508	605 West B Street, McCook, Nebraska, US (40.199, -100.633)	Horned Lark	Eremophila alpestris	22710	species	5	40.1987807	-100.6332853	Stationary	1	0
+S248989007	2025-06-10	L47320251	Mccook Public Library	House Sparrow	Passer domesticus	31534	species	2	40.2051850	-100.6256760	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Indigo Bunting	Passerina cyanea	34607	species	3	40.2103910	-100.6221690	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	3	40.2125690	-100.6204700	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Northern Flicker	Colaptes auratus	11912	intergrade	1	40.2125690	-100.6204700	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	1	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2125690	-100.6204700	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	House Sparrow	Passer domesticus	31534	species	6	40.2125690	-100.6204700	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Eastern Phoebe	Sayornis phoebe	17007	species	1	40.2125690	-100.6204700	Traveling	1	0
+S208779960	2025-01-10	L30128632	Barnett Park	Ross's Goose	Anser rossii	272	species	1	40.1956430	-100.6204090	Stationary	1	0
+S282222827	2025-10-31	L38850084	Hosick Home	Sandhill Crane	Antigone canadensis	5697	species	125	40.2101750	-100.6182020	Stationary	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Turkey Vulture	Cathartes aura	7815	species	1	40.2125690	-100.6204700	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	3	40.2125690	-100.6204700	Traveling	1	0
+S215286518	2025-02-24	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	4	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	40.2125690	-100.6204700	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	Wild Turkey	Meleagris gallopavo	1274	species	5	40.2125690	-100.6204700	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Downy Woodpecker	Dryobates pubescens	11400	species	4	40.2103910	-100.6221690	Traveling	1	0
+S254414011	2025-06-26	L1647914	NW McCook, Residential	Chipping Sparrow	Spizella passerina	32990	species	1	40.2103219	-100.6414305	Traveling	1	0
+S215286518	2025-02-24	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	2	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2125690	-100.6204700	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Blue Jay	Cyanocitta cristata	21294	species	1	40.2145290	-100.6202970	Stationary	1	0
+S225394419	2025-04-13	L35892300	Walking Trail	European Starling	Sturnus vulgaris	27813	species	5	40.2114210	-100.6173980	Traveling	1	0
+S248705529	2025-06-09	L38850084	Hosick Home	Baltimore Oriole	Icterus galbula	33770	species	1	40.2101750	-100.6182020	Stationary	1	0
+S218542212	2025-03-13	L41217508	605 West B Street, McCook, Nebraska, US (40.199, -100.633)	Northern Harrier	Circus hudsonius	8324	species	1	40.1987807	-100.6332853	Stationary	1	0
+S255662255	2025-06-30	L48816996	911 W Fourth St, McCook US-NE 40.20679, -100.63085	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2067860	-100.6308450	Traveling	1	0
+S280563339	2025-10-20	L54293368	E Fifth St, McCook US-NE 40.21173, -100.61922	Wild Turkey	Meleagris gallopavo	1274	species	15	40.2117270	-100.6192210	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Eastern Warbling Vireo	Vireo gilvus	19245	species	2	40.2103910	-100.6221690	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2103910	-100.6221690	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2125690	-100.6204700	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	American Goldfinch	Spinus tristis	32617	species	2	40.2125690	-100.6204700	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Sparrow	Passer domesticus	31534	species	6	40.2145290	-100.6202970	Stationary	1	0
+S248705529	2025-06-09	L38850084	Hosick Home	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2101750	-100.6182020	Stationary	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	40.2125690	-100.6204700	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2145290	-100.6202970	Stationary	1	0
+S248705529	2025-06-09	L38850084	Hosick Home	American Robin	Turdus migratorius	28633	species	5	40.2101750	-100.6182020	Stationary	1	0
+S255662255	2025-06-30	L48816996	911 W Fourth St, McCook US-NE 40.20679, -100.63085	Mourning Dove	Zenaida macroura	2412	species	3	40.2067860	-100.6308450	Traveling	1	0
+S255662255	2025-06-30	L48816996	911 W Fourth St, McCook US-NE 40.20679, -100.63085	Mississippi Kite	Ictinia mississippiensis	8388	species	2	40.2067860	-100.6308450	Traveling	1	0
+S248352137	2025-06-08	L28496895	1900 West B Street, McCook, Nebraska, US (40.199, -100.652)	Mourning Dove	Zenaida macroura	2412	species	1	40.1992348	-100.6516460	Traveling	1	0
+S255662255	2025-06-30	L48816996	911 W Fourth St, McCook US-NE 40.20679, -100.63085	Blue Jay	Cyanocitta cristata	21294	species	1	40.2067860	-100.6308450	Traveling	1	0
+S280563339	2025-10-20	L54293368	E Fifth St, McCook US-NE 40.21173, -100.61922	Northern Flicker	Colaptes auratus	11900	species	1	40.2117270	-100.6192210	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Mourning Dove	Zenaida macroura	2412	species	4	40.2145290	-100.6202970	Stationary	1	0
+S248989007	2025-06-10	L47320251	Mccook Public Library	House Finch	Haemorhous mexicanus	32310	species	1	40.2051850	-100.6256760	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Purple Martin	Progne subis	24081	species	2	40.2103910	-100.6221690	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Baltimore Oriole	Icterus galbula	33770	species	2	40.2125690	-100.6204700	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	18	40.2125690	-100.6204700	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Northern Flicker	Colaptes auratus	11900	species	1	40.2125690	-100.6204700	Traveling	1	0
+S223537879	2025-04-06	L35892300	Walking Trail	Hairy Woodpecker	Leuconotopicus villosus	11427	species	2	40.2114210	-100.6173980	Traveling	1	0
+S248989007	2025-06-10	L47320251	Mccook Public Library	Mississippi Kite	Ictinia mississippiensis	8388	species	5	40.2051850	-100.6256760	Traveling	1	1
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Great Crested Flycatcher	Myiarchus crinitus	17334	species	3	40.2103910	-100.6221690	Traveling	1	0
+S255662255	2025-06-30	L48816996	911 W Fourth St, McCook US-NE 40.20679, -100.63085	American Robin	Turdus migratorius	28635	issf	4	40.2067860	-100.6308450	Traveling	1	0
+S280563339	2025-10-20	L54293368	E Fifth St, McCook US-NE 40.21173, -100.61922	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2117270	-100.6192210	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Chimney Swift	Chaetura pelagica	3896	species	2	40.2103910	-100.6221690	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	2	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Red-eyed Vireo	Vireo olivaceus	19267	species	1	40.2125690	-100.6204700	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	40.2125690	-100.6204700	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	4	40.2125690	-100.6204700	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2125690	-100.6204700	Traveling	1	0
+S248989007	2025-06-10	L47320251	Mccook Public Library	American Robin	Turdus migratorius	28633	species	1	40.2051850	-100.6256760	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Blue Jay	Cyanocitta cristata	21294	species	5	40.2103910	-100.6221690	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	Dark-eyed Junco	Junco hyemalis	33124	species	1	40.2125690	-100.6204700	Traveling	1	0
+S254414011	2025-06-26	L1647914	NW McCook, Residential	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2103219	-100.6414305	Traveling	1	0
+S248705529	2025-06-09	L38850084	Hosick Home	Northern House Wren	Troglodytes aedon	27191	species	3	40.2101750	-100.6182020	Stationary	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Common Grackle	Quiscalus quiscula	33853	species	8	40.2125690	-100.6204700	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	House Sparrow	Passer domesticus	31534	species	5	40.2125690	-100.6204700	Traveling	1	0
+S225394419	2025-04-13	L35892300	Walking Trail	House Finch	Haemorhous mexicanus	32310	species	2	40.2114210	-100.6173980	Traveling	1	0
+S218542212	2025-03-13	L41217508	605 West B Street, McCook, Nebraska, US (40.199, -100.633)	Greater Prairie-Chicken	Tympanuchus cupido	1337	species	17	40.1987807	-100.6332853	Stationary	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	White-breasted Nuthatch	Sitta carolinensis	26890	issf	1	40.2103910	-100.6221690	Traveling	1	0
+S254414011	2025-06-26	L1647914	NW McCook, Residential	Common Grackle	Quiscalus quiscula	33853	species	2	40.2103219	-100.6414305	Traveling	1	0
+S254414011	2025-06-26	L1647914	NW McCook, Residential	House Finch	Haemorhous mexicanus	32310	species	2	40.2103219	-100.6414305	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	6	40.2125690	-100.6204700	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	1	40.2125690	-100.6204700	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	Turkey Vulture	Cathartes aura	7815	species	8	40.2125690	-100.6204700	Traveling	1	0
+S255662255	2025-06-30	L48816996	911 W Fourth St, McCook US-NE 40.20679, -100.63085	House Sparrow	Passer domesticus	31534	species	4	40.2067860	-100.6308450	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2145290	-100.6202970	Stationary	1	0
+S215286518	2025-02-24	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	3	40.2125690	-100.6204700	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Mississippi Kite	Ictinia mississippiensis	8388	species	1	40.2125690	-100.6204700	Traveling	1	1
+S242426329	2025-05-25	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	11	40.2125690	-100.6204700	Traveling	1	0
+S248989007	2025-06-10	L47320251	Mccook Public Library	Chimney Swift	Chaetura pelagica	3896	species	2	40.2051850	-100.6256760	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	2	40.2125690	-100.6204700	Traveling	1	0
+S218542212	2025-03-13	L41217508	605 West B Street, McCook, Nebraska, US (40.199, -100.633)	Western Meadowlark	Sturnella neglecta	33565	species	3	40.1987807	-100.6332853	Stationary	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Baltimore Oriole	Icterus galbula	33770	species	3	40.2103910	-100.6221690	Traveling	1	0
+S254414011	2025-06-26	L1647914	NW McCook, Residential	American Robin	Turdus migratorius	28633	species	4	40.2103219	-100.6414305	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	19	40.2125690	-100.6204700	Traveling	1	0
+S223537879	2025-04-06	L35892300	Walking Trail	House Finch	Haemorhous mexicanus	32310	species	3	40.2114210	-100.6173980	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
+S215286518	2025-02-24	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	1	40.2125690	-100.6204700	Traveling	1	0
+S225394419	2025-04-13	L35892300	Walking Trail	Turkey Vulture	Cathartes aura	7815	species	4	40.2114210	-100.6173980	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	14	40.2125690	-100.6204700	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	12	40.2125690	-100.6204700	Traveling	1	0
+S248352137	2025-06-08	L28496895	1900 West B Street, McCook, Nebraska, US (40.199, -100.652)	European Starling	Sturnus vulgaris	27813	species	5	40.1992348	-100.6516460	Traveling	1	0
+S280563339	2025-10-20	L54293368	E Fifth St, McCook US-NE 40.21173, -100.61922	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2117270	-100.6192210	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	American Crow	Corvus brachyrhynchos	21557	species	1	40.2125690	-100.6204700	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	Carolina Wren	Thryothorus ludovicianus	27348	species	1	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Blue Jay	Cyanocitta cristata	21294	species	1	40.2125690	-100.6204700	Traveling	1	0
+S208779960	2025-01-10	L30128632	Barnett Park	Canada Goose	Branta canadensis	342	species	25	40.1956430	-100.6204090	Stationary	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	House Finch	Haemorhous mexicanus	32310	species	2	40.2145290	-100.6202970	Stationary	1	0
+S223537879	2025-04-06	L35892300	Walking Trail	Turkey Vulture	Cathartes aura	7815	species	1	40.2114210	-100.6173980	Traveling	1	0
+S254414011	2025-06-26	L1647914	NW McCook, Residential	Purple Martin	Progne subis	24081	species	4	40.2103219	-100.6414305	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	2	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	3	40.2125690	-100.6204700	Traveling	1	0
+S251514978	2025-06-17	L47877801	1202 West 12th Street, McCook, Nebraska, US (40.209, -100.642)	Mississippi Kite	Ictinia mississippiensis	8388	species	9	40.2090199	-100.6422410	Traveling	1	1
+S254414011	2025-06-26	L1647914	NW McCook, Residential	White-winged Dove	Zenaida asiatica	2389	species	1	40.2103219	-100.6414305	Traveling	1	1
+S254414011	2025-06-26	L1647914	NW McCook, Residential	Mourning Dove	Zenaida macroura	2412	species	2	40.2103219	-100.6414305	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Eastern Warbling Vireo	Vireo gilvus	19245	species	3	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	House Sparrow	Passer domesticus	31534	species	5	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Northern House Wren	Troglodytes aedon	27191	species	4	40.2125690	-100.6204700	Traveling	1	0
+S248705529	2025-06-09	L38850084	Hosick Home	Indigo Bunting	Passerina cyanea	34607	species	1	40.2101750	-100.6182020	Stationary	1	0
+S225394419	2025-04-13	L35892300	Walking Trail	Common Grackle	Quiscalus quiscula	33853	species	1	40.2114210	-100.6173980	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	European Starling	Sturnus vulgaris	27813	species	5	40.2125690	-100.6204700	Traveling	1	0
+S223537879	2025-04-06	L35892300	Walking Trail	American Robin	Turdus migratorius	28633	species	34	40.2114210	-100.6173980	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	Turkey Vulture	Cathartes aura	7815	species	7	40.2125690	-100.6204700	Traveling	1	0
+S217024130	2025-03-07	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Red-headed Woodpecker	Melanerpes erythrocephalus	11145	species	2	40.2125690	-100.6204700	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Turkey Vulture	Cathartes aura	7815	species	9	40.2103910	-100.6221690	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	House Finch	Haemorhous mexicanus	32310	species	3	40.2103910	-100.6221690	Traveling	1	0
+S254414011	2025-06-26	L1647914	NW McCook, Residential	Chimney Swift	Chaetura pelagica	3896	species	2	40.2103219	-100.6414305	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Northern Cardinal	Cardinalis cardinalis	34515	species	5	40.2103910	-100.6221690	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2103910	-100.6221690	Traveling	1	0
+S326390557	2025-11-14	L20292535	Kelley Park	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	40.2125690	-100.6204700	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	European Starling	Sturnus vulgaris	27813	species	2	40.2145290	-100.6202970	Stationary	1	0
+S225394419	2025-04-13	L35892300	Walking Trail	American Robin	Turdus migratorius	28633	species	16	40.2114210	-100.6173980	Traveling	1	0
+S326390557	2025-11-14	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	4	40.2125690	-100.6204700	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	2	40.2125690	-100.6204700	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	European Starling	Sturnus vulgaris	27813	species	3	40.2103910	-100.6221690	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Northern Flicker	Colaptes auratus	11900	species	1	40.2103910	-100.6221690	Traveling	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	Mourning Dove	Zenaida macroura	2412	species	3	40.2125690	-100.6204700	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Chimney Swift	Chaetura pelagica	3896	species	4	40.2145290	-100.6202970	Stationary	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	American Robin	Turdus migratorius	28635	issf	17	40.2103910	-100.6221690	Traveling	1	0
+S326390557	2025-11-14	L20292535	Kelley Park	Downy Woodpecker	Dryobates pubescens	11400	species	2	40.2125690	-100.6204700	Traveling	1	0
+S285655785	2025-11-22	L20292535	Kelley Park	Hairy Woodpecker	Leuconotopicus villosus	11428	issf	1	40.2125690	-100.6204700	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	40.2125690	-100.6204700	Traveling	1	0
+S274755171	2025-09-21	L20292535	Kelley Park	House Finch	Haemorhous mexicanus	32310	species	10	40.2125690	-100.6204700	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Purple Martin	Progne subis	24081	species	10	40.2145290	-100.6202970	Stationary	1	0
+S220254576	2025-03-23	L20292535	Kelley Park	American Robin	Turdus migratorius	28633	species	14	40.2125690	-100.6204700	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Red-eyed Vireo	Vireo olivaceus	19267	species	3	40.2103910	-100.6221690	Traveling	1	0
+S255662255	2025-06-30	L48816996	911 W Fourth St, McCook US-NE 40.20679, -100.63085	European Starling	Sturnus vulgaris	27813	species	3	40.2067860	-100.6308450	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	40.2125690	-100.6204700	Traveling	1	0
+S242426329	2025-05-25	L20292535	Kelley Park	Turkey Vulture	Cathartes aura	7815	species	5	40.2125690	-100.6204700	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	Northern Cardinal	Cardinalis cardinalis	34515	species	4	40.2125690	-100.6204700	Traveling	1	0
+S266751080	2025-03-25	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	40.2125690	-100.6204700	Traveling	1	0
+S285655785	2025-11-22	L20292535	Kelley Park	White-breasted Nuthatch	Sitta carolinensis	26890	issf	1	40.2125690	-100.6204700	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	40.2103910	-100.6221690	Traveling	1	0
+S265536309	2025-08-06	L23933480	5 Parkview Dr, McCook US-NE 40.21453, -100.62030	Common Grackle	Quiscalus quiscula	33853	species	2	40.2145290	-100.6202970	Stationary	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Mourning Dove	Zenaida macroura	2412	species	8	40.2103910	-100.6221690	Traveling	1	0
+S255599000	2025-06-30	L6581760	Kelley Park, McCook US-NE (40.2104,-100.6222)	Northern House Wren	Troglodytes aedon	27192	issf	12	40.2103910	-100.6221690	Traveling	1	0
