@@ -39,7 +39,7 @@ Sys.setenv(MallocStackLoggingNoCompact = "0")
 
 # Keep FALSE unless you intentionally want to delete raw city files
 # and rerun the full expensive AWK split.
-reset_raw_city_outputs <- TRUE
+reset_raw_city_outputs <- FALSE
 
 # TRUE deletes only summary outputs, not raw city files.
 # Use TRUE if you changed the summary logic and want to rebuild city summaries.
@@ -47,11 +47,11 @@ reset_summary_outputs <- FALSE
 
 # If raw city files already exist, skip the AWK split and go straight
 # to city-level summary processing.
-skip_awk_if_raw_city_files_exist <- FALSE
+skip_awk_if_raw_city_files_exist <- TRUE
 
 # Creating metadata-expanded observation files duplicates checklist metadata
 # onto every observation row and is usually not needed.
-write_metadata_observation_files <- FALSE
+write_metadata_observation_files <- TRUE
 
 # Optional helper: run this in a separate R session while Script 05 is running
 # to check whether raw files are still being written.
