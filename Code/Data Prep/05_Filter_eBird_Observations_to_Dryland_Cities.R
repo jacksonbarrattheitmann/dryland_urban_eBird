@@ -8,12 +8,14 @@
 #
 # This version is designed for long runs and safe recovery:
 #   1. Raw city observation files are written by AWK.
-#   2. Checklist richness is written as one file per city.
-#   3. City-year unique species richness is written as one file per city.
-#   4. If the script stops halfway through, rerun it and it skips completed cities.
-#   5. locality_id and locality are retained for each checklist.
-#   6. Combined outputs are rebuilt at the end from the per-city files.
-#   7. Hotspot/locality lists are written for GEE extraction.
+#   2. The raw city TSVs are then enriched IN PLACE with checklist metadata,
+#      including duration_minutes, effort_distance_km, and number_observers.
+#   3. Checklist richness is written as one file per city.
+#   4. City-year unique species richness is written as one file per city.
+#   5. If the script stops halfway through, rerun it and it skips completed work.
+#   6. locality_id and locality are retained for each checklist.
+#   7. Combined outputs are rebuilt at the end from the per-city files.
+#   8. Hotspot/locality lists are written for GEE extraction.
 # ============================================================
 
 library(data.table)
@@ -49,9 +51,9 @@ reset_summary_outputs <- FALSE
 # to city-level summary processing.
 skip_awk_if_raw_city_files_exist <- TRUE
 
-# Creating metadata-expanded observation files duplicates checklist metadata
-# onto every observation row and is usually not needed.
-write_metadata_observation_files <- TRUE
+# TRUE adds checklist-level metadata directly to each file in
+# Observations_By_City_Raw. Already-enriched files are detected and skipped.
+enrich_raw_city_observation_files <- TRUE
 
 # Optional helper: run this in a separate R session while Script 05 is running
 # to check whether raw files are still being written.
@@ -89,12 +91,10 @@ ebird_out_dir <- "Data/Processed/eBird"
 dir.create(ebird_out_dir, recursive = TRUE, showWarnings = FALSE)
 
 city_raw_out_dir <- file.path(ebird_out_dir, "Observations_By_City_Raw")
-city_metadata_out_dir <- file.path(ebird_out_dir, "Observations_By_City_With_Checklist_Metadata")
 checklist_richness_by_city_dir <- file.path(ebird_out_dir, "Checklist_Richness_By_City")
 city_year_unique_by_city_dir <- file.path(ebird_out_dir, "City_Year_Unique_Species_By_City")
 
 dir.create(city_raw_out_dir, recursive = TRUE, showWarnings = FALSE)
-dir.create(city_metadata_out_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(checklist_richness_by_city_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(city_year_unique_by_city_dir, recursive = TRUE, showWarnings = FALSE)
 
@@ -122,7 +122,6 @@ if (reset_raw_city_outputs) {
   unlink(
     c(
       list.files(city_raw_out_dir, full.names = TRUE, pattern = "\\.tsv$"),
-      list.files(city_metadata_out_dir, full.names = TRUE, pattern = "\\.tsv$"),
       list.files(checklist_richness_by_city_dir, full.names = TRUE, pattern = "\\.csv$"),
       list.files(city_year_unique_by_city_dir, full.names = TRUE, pattern = "\\.csv$"),
       city_manifest_out,
@@ -237,7 +236,6 @@ city_manifest <- dryland_checklists %>%
   arrange(state_name, city_ascii) %>%
   mutate(
     raw_observation_file = file.path(city_raw_out_dir, paste0(city_file_stub, ".tsv")),
-    metadata_observation_file = file.path(city_metadata_out_dir, paste0(city_file_stub, ".tsv")),
     checklist_richness_file = file.path(checklist_richness_by_city_dir, paste0(city_file_stub, "_checklist_richness.csv")),
     city_year_unique_file = file.path(city_year_unique_by_city_dir, paste0(city_file_stub, "_city_year_unique_species.csv"))
   )
@@ -586,6 +584,8 @@ if (!all(c("locality_id", "locality") %in% names(raw_test))) {
   stop("Raw city files do not contain locality_id/locality. Do not continue.")
 }
 
+cat("\nRaw city files will be enriched with effort metadata in Section 7 if requested.\n")
+
 city_file_sizes <- data.table(
   raw_observation_file = city_raw_files,
   raw_file_size_mb = file.info(city_raw_files)$size / 1024^2
@@ -613,44 +613,199 @@ cat("\nUpdated city manifest written to:\n")
 cat(city_manifest_out, "\n")
 
 # ------------------------------------------------------------
-# 7. Optional metadata-expanded observation files
+# 7. Enrich raw city observation files IN PLACE
 # ------------------------------------------------------------
 
-if (write_metadata_observation_files) {
+if (enrich_raw_city_observation_files) {
   
-  cat("\nCreating metadata-expanded city observation files...\n")
-  cat("This can be very slow and can create very large files.\n")
+  cat("\nEnriching raw city observation files in place...\n")
+  cat("Adding checklist-level effort and city metadata to each species-level row.\n")
+  cat("Already-enriched files will be skipped.\n")
+  
+  # These fields are already present in the raw EBD-derived files and therefore
+  # are NOT added again from the checklist metadata table. This avoids .x/.y
+  # duplicate columns after the merge.
+  metadata_cols_to_add <- c(
+    "checklist_id",
+    "city_id",
+    "NAME10",
+    "city_ascii",
+    "state_name",
+    "county_name",
+    "dryland_percent",
+    "latitude_checklist",
+    "longitude_checklist",
+    "duration_minutes",
+    "effort_distance_km",
+    "number_observers"
+  )
+  
+  required_enriched_cols <- c(
+    "duration_minutes",
+    "effort_distance_km",
+    "number_observers",
+    "city_id",
+    "city_ascii",
+    "state_name",
+    "latitude_checklist",
+    "longitude_checklist"
+  )
+  
+  enrichment_status <- vector("list", nrow(city_manifest_dt))
   
   for (i in seq_len(nrow(city_manifest_dt))) {
     
     this_stub <- city_manifest_dt$city_file_stub[i]
-    
     raw_file <- file.path(city_raw_out_dir, paste0(this_stub, ".tsv"))
-    metadata_file <- file.path(city_metadata_out_dir, paste0(this_stub, ".tsv"))
     
     if (!file.exists(raw_file)) {
+      enrichment_status[[i]] <- data.table(
+        city_file_stub = this_stub,
+        status = "missing_raw_file"
+      )
       next
     }
     
-    obs <- fread(raw_file)
+    # Read only the header first. This lets us quickly detect files that were
+    # already enriched during a previous run.
+    raw_header <- fread(raw_file, nrows = 0)
     
-    meta <- checklist_metadata_small[city_file_stub == this_stub][, city_file_stub := NULL]
-    
-    obs_with_meta <- merge(obs, meta, by = "checklist_id", all.x = TRUE, sort = FALSE)
-    
-    fwrite(obs_with_meta, metadata_file, sep = "\t")
-    
-    if (i %% 25 == 0) {
-      cat("Metadata-expanded files processed:", i, "of", nrow(city_manifest_dt), "\n")
+    if (all(required_enriched_cols %in% names(raw_header))) {
+      cat("Skipping already-enriched file", i, "of", nrow(city_manifest_dt), ":", this_stub, "\n")
+      
+      enrichment_status[[i]] <- data.table(
+        city_file_stub = this_stub,
+        status = "already_enriched"
+      )
+      next
     }
     
-    rm(obs, meta, obs_with_meta)
+    cat("Enriching file", i, "of", nrow(city_manifest_dt), ":", this_stub, "\n")
+    
+    obs <- fread(raw_file)
+    
+    meta <- checklist_metadata_small[
+      city_file_stub == this_stub,
+      ..metadata_cols_to_add
+    ]
+    
+    # checklist_id must map to one metadata row per checklist.
+    if (anyDuplicated(meta$checklist_id) > 0) {
+      stop(
+        "Duplicate checklist_id values found in checklist metadata for: ",
+        this_stub
+      )
+    }
+    
+    original_n_rows <- nrow(obs)
+    
+    obs_enriched <- merge(
+      obs,
+      meta,
+      by = "checklist_id",
+      all.x = TRUE,
+      sort = FALSE
+    )
+    
+    if (nrow(obs_enriched) != original_n_rows) {
+      stop(
+        "Row count changed during metadata enrichment for: ",
+        this_stub,
+        ". Original rows = ",
+        original_n_rows,
+        "; enriched rows = ",
+        nrow(obs_enriched)
+      )
+    }
+    
+    # Write to a temporary file first, then replace the original only after
+    # the write succeeds. This protects the raw city file if the process stops
+    # during writing.
+    temp_file <- paste0(raw_file, ".tmp")
+    
+    fwrite(
+      obs_enriched,
+      temp_file,
+      sep = "\t"
+    )
+    
+    # Confirm the temporary output contains the required effort fields.
+    temp_header <- fread(temp_file, nrows = 0)
+    
+    if (!all(required_enriched_cols %in% names(temp_header))) {
+      unlink(temp_file)
+      stop(
+        "Temporary enriched file is missing required metadata columns for: ",
+        this_stub
+      )
+    }
+    
+    # Replace original raw TSV with enriched TSV.
+    if (file.exists(raw_file)) {
+      file.remove(raw_file)
+    }
+    
+    rename_ok <- file.rename(temp_file, raw_file)
+    
+    if (!rename_ok) {
+      stop(
+        "Could not replace the original raw city file with the enriched file: ",
+        raw_file
+      )
+    }
+    
+    enrichment_status[[i]] <- data.table(
+      city_file_stub = this_stub,
+      status = "enriched_now"
+    )
+    
+    if (i %% 25 == 0) {
+      cat("Raw city files checked/enriched:", i, "of", nrow(city_manifest_dt), "\n")
+    }
+    
+    rm(obs, meta, obs_enriched, raw_header, temp_header)
     gc()
   }
+  
+  enrichment_status <- rbindlist(enrichment_status, fill = TRUE)
+  
+  cat("\nRaw observation enrichment status:\n")
+  print(enrichment_status[, .N, by = status])
+  
+  # Final hard check: inspect all raw city TSV headers and confirm that every
+  # existing file now contains the core effort metadata.
+  city_raw_files_after_enrichment <- list.files(
+    city_raw_out_dir,
+    full.names = TRUE,
+    pattern = "\\.tsv$"
+  )
+  
+  missing_effort_files <- character(0)
+  
+  for (f in city_raw_files_after_enrichment) {
+    h <- names(fread(f, nrows = 0))
+    
+    if (!all(c(
+      "duration_minutes",
+      "effort_distance_km",
+      "number_observers"
+    ) %in% h)) {
+      missing_effort_files <- c(missing_effort_files, f)
+    }
+  }
+  
+  if (length(missing_effort_files) > 0) {
+    stop(
+      "Some raw city files still lack effort metadata:\n",
+      paste(missing_effort_files, collapse = "\n")
+    )
+  }
+  
+  cat("\nAll existing raw city TSV files contain duration, distance, and observer metadata.\n")
 }
 
-if (!write_metadata_observation_files) {
-  cat("\nSkipping metadata-expanded observation files because write_metadata_observation_files = FALSE.\n")
+if (!enrich_raw_city_observation_files) {
+  cat("\nSkipping in-place raw observation enrichment because enrich_raw_city_observation_files = FALSE.\n")
 }
 
 # ------------------------------------------------------------
@@ -1093,10 +1248,11 @@ cat(hotspot_list_out, "\n")
 cat("Simple hotspot lat/long file for GEE:\n")
 cat(hotspot_latlong_out, "\n")
 
-if (write_metadata_observation_files) {
-  cat("City metadata observation folder:\n")
-  cat(city_metadata_out_dir, "\n")
+if (enrich_raw_city_observation_files) {
+  cat("\nRaw city observation files were enriched in place with checklist metadata.\n")
+  cat("Use the files in:\n")
+  cat(city_raw_out_dir, "\n")
 } else {
-  cat("\nMetadata-expanded observation files were skipped by design.\n")
-  cat("Use raw city files plus checklist metadata crosswalk for downstream joins.\n")
+  cat("\nRaw city observation enrichment was skipped.\n")
+  cat("Use the checklist metadata crosswalk for downstream joins if needed.\n")
 }
