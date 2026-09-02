@@ -17,6 +17,7 @@ library(ggplot2)
 library(mgcv)
 library(glmmTMB) # Added bc of the BAM issues we had at part 4 (see my notes)
 library(DHARMa)
+library(performance)
 
 # ------------------------------------------------------------
 # 2. Load and prepare analysis data
@@ -52,7 +53,6 @@ sr_data <- sr_data %>%
     locality_id = factor(locality_id),
     protocol_name = factor(protocol_name)
   )
-
 
 # ------------------------------------------------------------
 # 4. Fit initial Poisson richness model
@@ -137,6 +137,10 @@ summary(sr_model_A_poisson)
 
 summary(sr_model_B_poisson)
 
+
+#### Let's just use the performance package to check the results
+
+check_model(sr_model_B_poisson)
 
 # ------------------------------------------------------------
 # 7. Examine overdispersion in Poisson models
@@ -355,9 +359,7 @@ sr_model_final <- glmmTMB(
     (1 | NAME10) +
     (1 | locality_id),
   family = nbinom2(link = "log"),
-  data = sr_data
-)
-
+  data = sr_data)
 
 # Examine final model
 
