@@ -1,10 +1,10 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S22346934	2015-03-14	L2266572	Fort Morgan (town)	White-winged Dove	Zenaida asiatica	2389	species	1	40.2569640	-103.8015747	Stationary	1	0
-S22346934	2015-03-14	L2266572	Fort Morgan (town)	Dark-eyed Junco	Junco hyemalis	33124	species	X	40.2569640	-103.8015747	Stationary	1	0
-S22346934	2015-03-14	L2266572	Fort Morgan (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.2569640	-103.8015747	Stationary	1	0
 S22346934	2015-03-14	L2266572	Fort Morgan (town)	Rock Pigeon	Columba livia	1868	domestic	X	40.2569640	-103.8015747	Stationary	1	0
 S22346934	2015-03-14	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	X	40.2569640	-103.8015747	Stationary	1	0
 S22346934	2015-03-14	L2266572	Fort Morgan (town)	American Robin	Turdus migratorius	28633	species	X	40.2569640	-103.8015747	Stationary	1	0
+S22346934	2015-03-14	L2266572	Fort Morgan (town)	Dark-eyed Junco	Junco hyemalis	33124	species	X	40.2569640	-103.8015747	Stationary	1	0
+S22346934	2015-03-14	L2266572	Fort Morgan (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.2569640	-103.8015747	Stationary	1	0
 S28733940	2016-04-03	L2266572	Fort Morgan (town)	Blue Jay	Cyanocitta cristata	21294	species	X	40.2569640	-103.8015747	Stationary	1	0
 S31908163	2016-10-05	L1955438	Fort Morgan: Riverside Cemetery	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2598788	-103.8098145	Traveling	1	0
 S31908163	2016-10-05	L1955438	Fort Morgan: Riverside Cemetery	Northern Flicker	Colaptes auratus	11900	species	2	40.2598788	-103.8098145	Traveling	1	0
@@ -131,8 +131,8 @@ S48436407	2018-09-11	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.2
 S43764927	2018-03-10	L7084858	Morgan County (general area)	Rock Pigeon	Columba livia	1868	domestic	2	40.2630685	-103.8073425	Traveling	1	0
 S47475348	2018-07-27	L7750151	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379269	-103.8133319	Traveling	1	0
 S43764917	2018-03-10	L7084858	Morgan County (general area)	blackbird sp.	Icteridae sp.	33944	spuh	22	40.2630685	-103.8073425	Traveling	1	0
-S41833230	2018-01-11	L6704289	16825–16853 Highway 144, Log Lane Village US-CO (40.2680,-103.8315)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	11	40.2680350	-103.8314870	Traveling	1	0
 S45929222	2018-05-22	L7450408	19611 Roediger Avenue, Fort Morgan, Colorado, US (40.255, -103.78)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	40.2552527	-103.7799783	Stationary	1	0
+S41833230	2018-01-11	L6704289	16825–16853 Highway 144, Log Lane Village US-CO (40.2680,-103.8315)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	11	40.2680350	-103.8314870	Traveling	1	0
 S41833230	2018-01-11	L6704289	16825–16853 Highway 144, Log Lane Village US-CO (40.2680,-103.8315)	Wild Turkey	Meleagris gallopavo	1274	species	128	40.2680350	-103.8314870	Traveling	1	0
 S48436407	2018-09-11	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	4	40.2379903	-103.8134228	Traveling	1	0
 S41833230	2018-01-11	L6704289	16825–16853 Highway 144, Log Lane Village US-CO (40.2680,-103.8315)	Gadwall	Mareca strepera	505	species	1	40.2680350	-103.8314870	Traveling	1	0
@@ -148,22 +148,12 @@ S46063972	2018-05-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.2
 S48957891	2018-10-05	L7991612	1203 Main Street, Fort Morgan, Colorado, US (40.262, -103.802)	Rock Pigeon	Columba livia	1868	domestic	3	40.2616742	-103.8016757	Traveling	1	0
 S47440534	2018-07-25	L7750151	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	1	40.2379269	-103.8133319	Traveling	1	0
 S59027987	2019-08-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Barn Swallow	Hirundo rustica	24187	species	1	40.2379436	-103.8133192	Traveling	1	0
-S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	9	40.2379436	-103.8133192	Traveling	1	0
-S59973146	2019-09-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	22	40.2379436	-103.8133192	Traveling	1	0
-S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	5	40.2379436	-103.8133192	Traveling	1	0
-S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	14	40.2379436	-103.8133192	Traveling	1	0
 S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	40.2379436	-103.8133192	Traveling	1	0
 S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Traveling	1	0
-S59027987	2019-08-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	12	40.2379436	-103.8133192	Traveling	1	0
 S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Barn Swallow	Hirundo rustica	24187	species	2	40.2379436	-103.8133192	Traveling	1	0
-S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	14	40.2379436	-103.8133192	Traveling	1	0
 S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	5	40.2379436	-103.8133192	Traveling	1	0
-S59949515	2019-09-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	1	40.2379436	-103.8133192	Stationary	1	0
 S59973146	2019-09-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	15	40.2379436	-103.8133192	Traveling	1	0
-S51500121	2019-01-09	L2266572	Fort Morgan (town)	Rock Pigeon	Columba livia	1868	domestic	6	40.2569640	-103.8015747	Traveling	1	0
 S59027987	2019-08-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	14	40.2379436	-103.8133192	Traveling	1	0
-S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	11	40.2379436	-103.8133192	Traveling	1	0
-S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	6	40.2379436	-103.8133192	Traveling	1	0
 S59973146	2019-09-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	7	40.2379436	-103.8133192	Traveling	1	0
 S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	17	40.2379436	-103.8133192	Traveling	1	0
 S59949515	2019-09-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
@@ -172,16 +162,26 @@ S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.2
 S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	new world sparrow sp.	Passerellidae sp.	33520	spuh	2	40.2379436	-103.8133192	Traveling	1	0
 S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	9	40.2379436	-103.8133192	Traveling	1	0
 S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	7	40.2379436	-103.8133192	Traveling	1	0
+S51500121	2019-01-09	L2266572	Fort Morgan (town)	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	40.2569640	-103.8015747	Traveling	1	0
+S51500121	2019-01-09	L2266572	Fort Morgan (town)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2569640	-103.8015747	Traveling	1	0
+S59973146	2019-09-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	3	40.2379436	-103.8133192	Traveling	1	0
+S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	9	40.2379436	-103.8133192	Traveling	1	0
+S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	9	40.2379436	-103.8133192	Traveling	1	0
+S59973146	2019-09-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	22	40.2379436	-103.8133192	Traveling	1	0
+S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	5	40.2379436	-103.8133192	Traveling	1	0
+S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	14	40.2379436	-103.8133192	Traveling	1	0
+S59027987	2019-08-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	12	40.2379436	-103.8133192	Traveling	1	0
+S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	14	40.2379436	-103.8133192	Traveling	1	0
+S59949515	2019-09-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	1	40.2379436	-103.8133192	Stationary	1	0
+S51500121	2019-01-09	L2266572	Fort Morgan (town)	Rock Pigeon	Columba livia	1868	domestic	6	40.2569640	-103.8015747	Traveling	1	0
+S57863817	2019-07-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	11	40.2379436	-103.8133192	Traveling	1	0
+S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	6	40.2379436	-103.8133192	Traveling	1	0
 S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	28	40.2379436	-103.8133192	Traveling	1	0
 S59973146	2019-09-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	blackbird sp.	Icteridae sp.	33944	spuh	3	40.2379436	-103.8133192	Traveling	1	0
 S59949515	2019-09-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	40.2379436	-103.8133192	Stationary	1	0
-S51500121	2019-01-09	L2266572	Fort Morgan (town)	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	40.2569640	-103.8015747	Traveling	1	0
-S51500121	2019-01-09	L2266572	Fort Morgan (town)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2569640	-103.8015747	Traveling	1	0
 S58962981	2019-08-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2379436	-103.8133192	Traveling	1	0
-S59973146	2019-09-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	3	40.2379436	-103.8133192	Traveling	1	0
 S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Barn Swallow	Hirundo rustica	24187	species	2	40.2379436	-103.8133192	Traveling	1	0
 S59027987	2019-08-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	5	40.2379436	-103.8133192	Traveling	1	0
-S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	9	40.2379436	-103.8133192	Traveling	1	0
 S57734160	2019-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	7	40.2379436	-103.8133192	Traveling	1	0
 S77775829	2020-12-18	L12995919	Riverside Cemetery	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2600531	-103.8099961	Traveling	1	0
 S77564966	2020-12-16	L12953523	201 Balsam Street, Log Lane Village, Colorado, US (40.271, -103.829)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2709617	-103.8293704	Traveling	1	0
@@ -195,49 +195,49 @@ S77775829	2020-12-18	L12995919	Riverside Cemetery	Rough-legged Hawk	Buteo lagopu
 S77775829	2020-12-18	L12995919	Riverside Cemetery	Mountain Chickadee	Poecile gambeli	22077	species	2	40.2600531	-103.8099961	Traveling	1	0
 S77904107	2020-12-22	L13018802	707 Lane St, Fort Morgan US-CO 40.25561, -103.81512	Mourning Dove	Zenaida macroura	2412	species	1	40.2556090	-103.8151200	Stationary	1	0
 S78100154	2020-12-27	L13057578	702 Lane St, Fort Morgan US-CO 40.25559, -103.81495	American Robin	Turdus migratorius	28633	species	1	40.2555940	-103.8149460	Stationary	1	0
+S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	45	40.2598788	-103.8098145	Traveling	1	0
 S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Pine Siskin	Spinus pinus	32595	species	3	40.2598788	-103.8098145	Traveling	1	0
 S92565677	2021-07-31	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2378798	-103.8133023	Stationary	1	0
-S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	45	40.2598788	-103.8098145	Traveling	1	0
-S93883611	2021-08-29	L16222777	Fairfield Inn - Fort Morgan	Canada Goose	Branta canadensis	342	species	3	40.2621900	-103.7790950	Stationary	1	0
-S88438455	2021-05-18	L2266572	Fort Morgan (town)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	40.2569640	-103.8015747	Traveling	1	0
 S93810615	2021-08-27	L16222777	Fairfield Inn - Fort Morgan	Turkey Vulture	Cathartes aura	7815	species	1	40.2621900	-103.7790950	Stationary	1	0
+S93883611	2021-08-29	L16222777	Fairfield Inn - Fort Morgan	Canada Goose	Branta canadensis	342	species	3	40.2621900	-103.7790950	Stationary	1	0
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	Graylag Goose	Anser anser	278	domestic	1	40.2569640	-103.8015747	Traveling	1	0
+S88438455	2021-05-18	L2266572	Fort Morgan (town)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	40.2569640	-103.8015747	Traveling	1	0
 S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Western Kingbird	Tyrannus verticalis	17467	species	2	40.2378798	-103.8133023	Stationary	1	0
 S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Mourning Dove	Zenaida macroura	2412	species	1	40.2378798	-103.8133023	Stationary	1	0
+S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Cooper's Hawk	Astur cooperii	8278	species	2	40.2598788	-103.8098145	Traveling	1	0
 S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	House Finch	Haemorhous mexicanus	32310	species	8	40.2598788	-103.8098145	Traveling	1	0
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	American Robin	Turdus migratorius	28633	species	4	40.2569640	-103.8015747	Traveling	1	0
-S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Cooper's Hawk	Astur cooperii	8278	species	2	40.2598788	-103.8098145	Traveling	1	0
-S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	2	40.2378798	-103.8133023	Stationary	1	0
 S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	7	40.2378798	-103.8133023	Stationary	1	0
+S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	2	40.2378798	-103.8133023	Stationary	1	0
+S88438455	2021-05-18	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	2	40.2569640	-103.8015747	Traveling	1	0
 S93810615	2021-08-27	L16222777	Fairfield Inn - Fort Morgan	Blue Jay	Cyanocitta cristata	21294	species	1	40.2621900	-103.7790950	Stationary	1	0
 S92565677	2021-07-31	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	4	40.2378798	-103.8133023	Stationary	1	0
-S88438455	2021-05-18	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	2	40.2569640	-103.8015747	Traveling	1	0
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	Mallard	Anas platyrhynchos	545	species	2	40.2569640	-103.8015747	Traveling	1	0
 S93810615	2021-08-27	L16222777	Fairfield Inn - Fort Morgan	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2621900	-103.7790950	Stationary	1	0
+S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Rock Pigeon	Columba livia	1868	domestic	5	40.2598788	-103.8098145	Traveling	1	0
+S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	1	40.2378798	-103.8133023	Stationary	1	0
+S95482984	2021-10-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
+S95482984	2021-10-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
 S93810615	2021-08-27	L16222777	Fairfield Inn - Fort Morgan	House Finch	Haemorhous mexicanus	32310	species	2	40.2621900	-103.7790950	Stationary	1	0
 S92565677	2021-07-31	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	7	40.2378798	-103.8133023	Stationary	1	0
 S92565677	2021-07-31	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	2	40.2378798	-103.8133023	Stationary	1	0
-S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Rock Pigeon	Columba livia	1868	domestic	5	40.2598788	-103.8098145	Traveling	1	0
-S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	1	40.2378798	-103.8133023	Stationary	1	0
-S95482984	2021-10-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
-S95482984	2021-10-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
-S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2378798	-103.8133023	Stationary	1	0
-S95547856	2021-10-03	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2379436	-103.8133192	Stationary	1	0
 S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Blue Jay	Cyanocitta cristata	21294	species	5	40.2598788	-103.8098145	Traveling	1	0
+S92423652	2021-07-28	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2378798	-103.8133023	Stationary	1	0
+S95547856	2021-10-03	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
+S95547856	2021-10-03	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2379436	-103.8133192	Stationary	1	0
 S93883611	2021-08-29	L16222777	Fairfield Inn - Fort Morgan	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2621900	-103.7790950	Stationary	1	0
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2569640	-103.8015747	Traveling	1	0
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	40.2569640	-103.8015747	Traveling	1	0
-S95547856	2021-10-03	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
-S88438455	2021-05-18	L2266572	Fort Morgan (town)	Mallard	Anas platyrhynchos	548	domestic	4	40.2569640	-103.8015747	Traveling	1	0
-S88438455	2021-05-18	L2266572	Fort Morgan (town)	Barn Swallow	Hirundo rustica	24187	species	1	40.2569640	-103.8015747	Traveling	1	0
-S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	House Sparrow	Passer domesticus	31534	species	160	40.2598788	-103.8098145	Traveling	1	1
 S93883611	2021-08-29	L16222777	Fairfield Inn - Fort Morgan	Blue Jay	Cyanocitta cristata	21294	species	1	40.2621900	-103.7790950	Stationary	1	0
+S88438455	2021-05-18	L2266572	Fort Morgan (town)	Barn Swallow	Hirundo rustica	24187	species	1	40.2569640	-103.8015747	Traveling	1	0
+S88438455	2021-05-18	L2266572	Fort Morgan (town)	Mallard	Anas platyrhynchos	548	domestic	4	40.2569640	-103.8015747	Traveling	1	0
+S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	House Sparrow	Passer domesticus	31534	species	160	40.2598788	-103.8098145	Traveling	1	1
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	Killdeer	Charadrius vociferus	5827	species	1	40.2569640	-103.8015747	Traveling	1	0
+S88438455	2021-05-18	L2266572	Fort Morgan (town)	Turkey Vulture	Cathartes aura	7815	species	2	40.2569640	-103.8015747	Traveling	1	0
+S88438455	2021-05-18	L2266572	Fort Morgan (town)	Canada Goose	Branta canadensis	342	species	4	40.2569640	-103.8015747	Traveling	1	0
 S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Dark-eyed Junco	Junco hyemalis	33126	issf	2	40.2598788	-103.8098145	Traveling	1	0
 S93810615	2021-08-27	L16222777	Fairfield Inn - Fort Morgan	Swainson's Hawk	Buteo swainsoni	8504	species	1	40.2621900	-103.7790950	Stationary	1	0
 S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Mourning Dove	Zenaida macroura	2412	species	1	40.2598788	-103.8098145	Traveling	1	0
-S88438455	2021-05-18	L2266572	Fort Morgan (town)	Turkey Vulture	Cathartes aura	7815	species	2	40.2569640	-103.8015747	Traveling	1	0
-S88438455	2021-05-18	L2266572	Fort Morgan (town)	Canada Goose	Branta canadensis	342	species	4	40.2569640	-103.8015747	Traveling	1	0
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	Northern Flicker	Colaptes auratus	11906	issf	1	40.2569640	-103.8015747	Traveling	1	0
 S95547856	2021-10-03	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	5	40.2379436	-103.8133192	Stationary	1	0
 S93810615	2021-08-27	L16222777	Fairfield Inn - Fort Morgan	American Goldfinch	Spinus tristis	32617	species	1	40.2621900	-103.7790950	Stationary	1	0
@@ -245,23 +245,23 @@ S93883611	2021-08-29	L16222777	Fairfield Inn - Fort Morgan	Barn Swallow	Hirundo 
 S93883611	2021-08-29	L16222777	Fairfield Inn - Fort Morgan	Rock Pigeon	Columba livia	1868	domestic	12	40.2621900	-103.7790950	Stationary	1	0
 S93883611	2021-08-29	L16222777	Fairfield Inn - Fort Morgan	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2621900	-103.7790950	Stationary	1	0
 S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	American Goldfinch	Spinus tristis	32617	species	1	40.2598788	-103.8098145	Traveling	1	0
-S88438455	2021-05-18	L2266572	Fort Morgan (town)	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2569640	-103.8015747	Traveling	1	0
+S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	American Robin	Turdus migratorius	28633	species	10	40.2598788	-103.8098145	Traveling	1	0
 S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	European Starling	Sturnus vulgaris	27813	species	2	40.2598788	-103.8098145	Traveling	1	0
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	Swan Goose	Anser cygnoides	282	domestic	2	40.2569640	-103.8015747	Traveling	1	0
+S88438455	2021-05-18	L2266572	Fort Morgan (town)	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2569640	-103.8015747	Traveling	1	0
 S95482984	2021-10-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	5	40.2379436	-103.8133192	Stationary	1	0
-S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	American Robin	Turdus migratorius	28633	species	10	40.2598788	-103.8098145	Traveling	1	0
 S88438455	2021-05-18	L2266572	Fort Morgan (town)	European Starling	Sturnus vulgaris	27813	species	2	40.2569640	-103.8015747	Traveling	1	0
 S83046548	2021-03-08	L1955438	Fort Morgan: Riverside Cemetery	Dark-eyed Junco	Junco hyemalis	33130	issf	11	40.2598788	-103.8098145	Traveling	1	0
-S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
-S112921983	2022-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	6	40.2379436	-103.8133192	Stationary	1	0
-S113985472	2022-06-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379436	-103.8133192	Stationary	1	0
+S112711283	2022-06-11	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
 S114044193	2022-06-29	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	4	40.2379436	-103.8133192	Stationary	1	0
 S116048664	2022-07-30	L2266572	Fort Morgan (town)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2569640	-103.8015747	Traveling	1	0
-S113905897	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2379436	-103.8133192	Stationary	1	0
+S107407364	2022-04-18	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
 S113905897	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379436	-103.8133192	Stationary	1	0
 S109370882	2022-05-08	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	2	40.2379436	-103.8133192	Stationary	1	0
-S107407364	2022-04-18	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
-S112711283	2022-06-11	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
+S113905897	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2379436	-103.8133192	Stationary	1	0
+S113985472	2022-06-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379436	-103.8133192	Stationary	1	0
+S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
+S112921983	2022-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	6	40.2379436	-103.8133192	Stationary	1	0
 S109370882	2022-05-08	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
 S112921983	2022-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2379436	-103.8133192	Stationary	1	0
 S123155823	2022-11-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
@@ -270,294 +270,294 @@ S113789202	2022-06-25	L19833656	210 Main St, Fort Morgan US-CO 40.24906, -103.80
 S112116744	2022-06-04	L19454861	1300 Barlow Rd, Fort Morgan US-CO 40.26128, -103.77055	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	40.2612820	-103.7705460	Traveling	1	0
 S123432225	2022-12-04	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	5	40.2379436	-103.8133192	Stationary	1	0
 S113914497	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
-S113914497	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2379436	-103.8133192	Stationary	1	0
-S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.2379436	-103.8133192	Stationary	1	0
-S113985472	2022-06-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
+S112921983	2022-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	2	40.2379436	-103.8133192	Stationary	1	0
+S112705822	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	7	40.2379436	-103.8133192	Stationary	1	0
 S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	4	40.2379436	-103.8133192	Stationary	1	0
 S112711283	2022-06-11	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	4	40.2379436	-103.8133192	Stationary	1	0
-S112705822	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
 S123155823	2022-11-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	5	40.2379436	-103.8133192	Stationary	1	0
+S112705822	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
 S112875797	2022-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2379436	-103.8133192	Stationary	1	0
-S112705822	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	7	40.2379436	-103.8133192	Stationary	1	0
-S112921983	2022-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	2	40.2379436	-103.8133192	Stationary	1	0
+S113985472	2022-06-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
+S113914497	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2379436	-103.8133192	Stationary	1	0
+S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.2379436	-103.8133192	Stationary	1	0
 S112921983	2022-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2379436	-103.8133192	Stationary	1	0
 S114044193	2022-06-29	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	5	40.2379436	-103.8133192	Stationary	1	0
 S113825538	2022-06-26	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379903	-103.8134228	Stationary	1	0
-S113905897	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	10	40.2379436	-103.8133192	Stationary	1	0
+S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2379436	-103.8133192	Stationary	1	0
 S113850161	2022-06-26	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379436	-103.8133192	Stationary	1	0
 S113825538	2022-06-26	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379903	-103.8134228	Stationary	1	0
-S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2379436	-103.8133192	Stationary	1	0
-S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379436	-103.8133192	Stationary	1	0
-S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
+S113905897	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	10	40.2379436	-103.8133192	Stationary	1	0
 S116048664	2022-07-30	L2266572	Fort Morgan (town)	Mourning Dove	Zenaida macroura	2412	species	3	40.2569640	-103.8015747	Traveling	1	0
+S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379436	-103.8133192	Stationary	1	0
+S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
 S109370882	2022-05-08	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	6	40.2379436	-103.8133192	Stationary	1	0
 S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379436	-103.8133192	Stationary	1	0
-S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
-S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	5	40.2379436	-103.8133192	Stationary	1	0
+S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
 S123328554	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
-S109560385	2022-05-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379436	-103.8133192	Stationary	1	0
-S123328554	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	6	40.2379436	-103.8133192	Stationary	1	0
-S112711283	2022-06-11	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
+S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	5	40.2379436	-103.8133192	Stationary	1	0
+S112875797	2022-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379436	-103.8133192	Stationary	1	0
+S113914497	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	1	40.2379436	-103.8133192	Stationary	1	0
+S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
 S113739572	2022-06-24	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	swallow sp.	Hirundinidae sp.	24305	spuh	1	40.2379436	-103.8133192	Stationary	1	0
 S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379436	-103.8133192	Stationary	1	0
-S109370882	2022-05-08	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	40.2379436	-103.8133192	Stationary	1	0
 S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	5	40.2379436	-103.8133192	Stationary	1	0
-S112875797	2022-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379436	-103.8133192	Stationary	1	0
-S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
+S109370882	2022-05-08	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	40.2379436	-103.8133192	Stationary	1	0
+S123328554	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	6	40.2379436	-103.8133192	Stationary	1	0
+S109560385	2022-05-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379436	-103.8133192	Stationary	1	0
+S112711283	2022-06-11	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
 S123375380	2022-12-03	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
-S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
-S113914497	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	1	40.2379436	-103.8133192	Stationary	1	0
-S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Barn Swallow	Hirundo rustica	24187	species	2	40.2379436	-103.8133192	Stationary	1	0
+S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
 S113850161	2022-06-26	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
+S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Barn Swallow	Hirundo rustica	24187	species	2	40.2379436	-103.8133192	Stationary	1	0
 S112705822	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	4	40.2379436	-103.8133192	Stationary	1	0
 S107407364	2022-04-18	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	5	40.2379436	-103.8133192	Stationary	1	0
 S113825538	2022-06-26	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379903	-103.8134228	Stationary	1	0
 S109370882	2022-05-08	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2379436	-103.8133192	Stationary	1	0
-S113985472	2022-06-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	40.2379436	-103.8133192	Stationary	1	0
 S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
+S113985472	2022-06-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	40.2379436	-103.8133192	Stationary	1	0
 S113739572	2022-06-24	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2379436	-103.8133192	Stationary	1	0
 S112921983	2022-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379436	-103.8133192	Stationary	1	0
-S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2379436	-103.8133192	Stationary	1	0
-S113739572	2022-06-24	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
 S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
+S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2379436	-103.8133192	Stationary	1	0
 S113739572	2022-06-24	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	2	40.2379436	-103.8133192	Stationary	1	0
-S113914497	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
-S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
-S112711283	2022-06-11	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
+S113739572	2022-06-24	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
 S116048664	2022-07-30	L2266572	Fort Morgan (town)	Western Kingbird	Tyrannus verticalis	17467	species	5	40.2569640	-103.8015747	Traveling	1	0
-S113825538	2022-06-26	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379903	-103.8134228	Stationary	1	0
-S122829334	2022-11-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	4	40.2379436	-103.8133192	Stationary	1	0
+S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
+S113914497	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
+S112711283	2022-06-11	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
 S123355056	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	8	40.2379436	-103.8133192	Stationary	1	0
+S122829334	2022-11-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	4	40.2379436	-103.8133192	Stationary	1	0
+S113825538	2022-06-26	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379903	-103.8134228	Stationary	1	0
 S112116744	2022-06-04	L19454861	1300 Barlow Rd, Fort Morgan US-CO 40.26128, -103.77055	Barn Swallow	Hirundo rustica	24187	species	2	40.2612820	-103.7705460	Traveling	1	0
-S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	4	40.2379436	-103.8133192	Stationary	1	0
+S109560385	2022-05-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
 S114044193	2022-06-29	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
 S114169008	2022-06-30	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Turkey Vulture	Cathartes aura	7815	species	1	40.2379436	-103.8133192	Stationary	1	0
 S113985472	2022-06-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2379436	-103.8133192	Stationary	1	0
-S109560385	2022-05-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
+S112537420	2022-06-09	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	4	40.2379436	-103.8133192	Stationary	1	0
 S123432225	2022-12-04	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
 S123432225	2022-12-04	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379436	-103.8133192	Stationary	1	0
-S112116744	2022-06-04	L19454861	1300 Barlow Rd, Fort Morgan US-CO 40.26128, -103.77055	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	40.2612820	-103.7705460	Traveling	1	0
 S116048664	2022-07-30	L2266572	Fort Morgan (town)	American Robin	Turdus migratorius	28633	species	3	40.2569640	-103.8015747	Traveling	1	0
+S112705822	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	7	40.2379436	-103.8133192	Stationary	1	0
+S123355056	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379436	-103.8133192	Stationary	1	0
+S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2379436	-103.8133192	Stationary	1	0
+S109560385	2022-05-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	4	40.2379436	-103.8133192	Stationary	1	0
+S112116744	2022-06-04	L19454861	1300 Barlow Rd, Fort Morgan US-CO 40.26128, -103.77055	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	40.2612820	-103.7705460	Traveling	1	0
 S112116744	2022-06-04	L19454861	1300 Barlow Rd, Fort Morgan US-CO 40.26128, -103.77055	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2612820	-103.7705460	Traveling	1	0
+S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
 S122829334	2022-11-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
 S123155823	2022-11-28	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
-S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
-S112705822	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	7	40.2379436	-103.8133192	Stationary	1	0
-S112603846	2022-06-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Western Kingbird	Tyrannus verticalis	17467	species	1	40.2379436	-103.8133192	Stationary	1	0
-S123355056	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379436	-103.8133192	Stationary	1	0
-S109560385	2022-05-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	4	40.2379436	-103.8133192	Stationary	1	0
 S122829334	2022-11-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
 S112875797	2022-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	5	40.2379436	-103.8133192	Stationary	1	0
 S112921983	2022-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Sharp-shinned/Cooper's Hawk	Accipiter striatus/Astur cooperii	8279	slash	1	40.2379436	-103.8133192	Stationary	1	0
 S113905897	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	4	40.2379436	-103.8133192	Stationary	1	0
-S116048664	2022-07-30	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	6	40.2569640	-103.8015747	Traveling	1	0
+S114169008	2022-06-30	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
 S122829334	2022-11-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	22	40.2379436	-103.8133192	Stationary	1	0
 S114169008	2022-06-30	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
 S107407364	2022-04-18	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379436	-103.8133192	Stationary	1	0
-S114169008	2022-06-30	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	1	40.2379436	-103.8133192	Stationary	1	0
-S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
-S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
-S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	6	40.2379436	-103.8133192	Stationary	1	0
-S114044193	2022-06-29	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
-S113739572	2022-06-24	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379436	-103.8133192	Stationary	1	0
-S112875797	2022-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2379436	-103.8133192	Stationary	1	0
 S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
 S107407364	2022-04-18	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2379436	-103.8133192	Stationary	1	0
 S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
+S116048664	2022-07-30	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	6	40.2569640	-103.8015747	Traveling	1	0
+S112875797	2022-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2379436	-103.8133192	Stationary	1	0
+S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
+S114044193	2022-06-29	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
+S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	6	40.2379436	-103.8133192	Stationary	1	0
+S113769418	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
+S113739572	2022-06-24	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379436	-103.8133192	Stationary	1	0
 S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
+S114044193	2022-06-29	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
 S113745045	2022-06-25	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	15	40.2379436	-103.8133192	Stationary	1	0
 S123328554	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	15	40.2379436	-103.8133192	Stationary	1	0
-S114044193	2022-06-29	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
-S112116744	2022-06-04	L19454861	1300 Barlow Rd, Fort Morgan US-CO 40.26128, -103.77055	American Robin	Turdus migratorius	28633	species	3	40.2612820	-103.7705460	Traveling	1	0
-S114169008	2022-06-30	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	40.2379436	-103.8133192	Stationary	1	0
-S113789202	2022-06-25	L19833656	210 Main St, Fort Morgan US-CO 40.24906, -103.80142	House Sparrow	Passer domesticus	31534	species	3	40.2490640	-103.8014170	Stationary	1	0
-S123328554	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
-S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	4	40.2379436	-103.8133192	Stationary	1	0
 S113914497	2022-06-27	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	6	40.2379436	-103.8133192	Stationary	1	0
 S123355056	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2379436	-103.8133192	Stationary	1	0
+S113789202	2022-06-25	L19833656	210 Main St, Fort Morgan US-CO 40.24906, -103.80142	House Sparrow	Passer domesticus	31534	species	3	40.2490640	-103.8014170	Stationary	1	0
+S112116744	2022-06-04	L19454861	1300 Barlow Rd, Fort Morgan US-CO 40.26128, -103.77055	American Robin	Turdus migratorius	28633	species	3	40.2612820	-103.7705460	Traveling	1	0
+S112783904	2022-06-12	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	4	40.2379436	-103.8133192	Stationary	1	0
+S123328554	2022-12-02	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
+S114169008	2022-06-30	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	40.2379436	-103.8133192	Stationary	1	0
+S123375380	2022-12-03	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	9	40.2379436	-103.8133192	Stationary	1	0
 S112711283	2022-06-11	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
 S113850161	2022-06-26	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	12	40.2379436	-103.8133192	Stationary	1	0
 S112116744	2022-06-04	L19454861	1300 Barlow Rd, Fort Morgan US-CO 40.26128, -103.77055	House Sparrow	Passer domesticus	31534	species	8	40.2612820	-103.7705460	Traveling	1	0
-S123375380	2022-12-03	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	9	40.2379436	-103.8133192	Stationary	1	0
-S122829334	2022-11-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Cackling/Canada Goose	Branta hutchinsii/canadensis	363	slash	200	40.2379436	-103.8133192	Stationary	1	0
 S109560385	2022-05-10	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2379436	-103.8133192	Stationary	1	0
+S122829334	2022-11-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Cackling/Canada Goose	Branta hutchinsii/canadensis	363	slash	200	40.2379436	-103.8133192	Stationary	1	0
 S139197789	2023-05-20	L2266572	Fort Morgan (town)	European Starling	Sturnus vulgaris	27813	species	3	40.2569640	-103.8015747	Traveling	1	0
-S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
-S156792183	2023-12-14	L28272731	19822 County Road R7, Fort Morgan US-CO 40.25760, -103.77655	Merlin	Falco columbarius	12062	species	1	40.2575950	-103.7765490	Traveling	1	0
 S142088839	2023-06-19	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	1	40.2379436	-103.8133192	Stationary	1	0
-S156305058	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Horned Lark	Eremophila alpestris	22710	species	400	40.2383030	-103.7982540	Traveling	1	0
-S141549965	2023-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	5	40.2379436	-103.8133192	Stationary	1	0
+S156792183	2023-12-14	L28272731	19822 County Road R7, Fort Morgan US-CO 40.25760, -103.77655	Merlin	Falco columbarius	12062	species	1	40.2575950	-103.7765490	Traveling	1	0
+S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
 S139197789	2023-05-20	L2266572	Fort Morgan (town)	Say's Phoebe	Sayornis saya	17010	species	2	40.2569640	-103.8015747	Traveling	1	0
 S156305058	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Rock Pigeon	Columba livia	1868	domestic	38	40.2383030	-103.7982540	Traveling	1	0
+S141549965	2023-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	5	40.2379436	-103.8133192	Stationary	1	0
 S141549965	2023-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	3	40.2379436	-103.8133192	Stationary	1	0
+S156305058	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Horned Lark	Eremophila alpestris	22710	species	400	40.2383030	-103.7982540	Traveling	1	0
 S142088839	2023-06-19	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	7	40.2379436	-103.8133192	Stationary	1	0
+S138022159	2023-05-16	L2266572	Fort Morgan (town)	European Starling	Sturnus vulgaris	27813	species	X	40.2569640	-103.8015747	Traveling	1	0
+S152612252	2023-10-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	3	40.2378798	-103.8133023	Stationary	1	0
 S141581532	2023-06-14	L2266572	Fort Morgan (town)	Killdeer	Charadrius vociferus	5827	species	2	40.2569640	-103.8015747	Stationary	1	0
 S156792188	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	43	40.2383030	-103.7982540	Traveling	1	0
 S156307556	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	40.2467320	-103.8236260	Traveling	1	0
 S141724666	2023-06-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	2	40.2379436	-103.8133192	Stationary	1	0
-S138022159	2023-05-16	L2266572	Fort Morgan (town)	European Starling	Sturnus vulgaris	27813	species	X	40.2569640	-103.8015747	Traveling	1	0
-S152612252	2023-10-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	3	40.2378798	-103.8133023	Stationary	1	0
 S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
-S155165218	2023-11-25	L2266572	Fort Morgan (town)	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	40.2569640	-103.8015747	Stationary	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	House Finch	Haemorhous mexicanus	32310	species	1	40.2569640	-103.8015747	Traveling	1	0
+S155165218	2023-11-25	L2266572	Fort Morgan (town)	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	40.2569640	-103.8015747	Stationary	1	0
 S156298286	2023-12-14	L28272731	19822 County Road R7, Fort Morgan US-CO 40.25760, -103.77655	Merlin	Falco columbarius	12062	species	1	40.2575950	-103.7765490	Traveling	1	0
-S155480005	2023-11-30	L28131124	19307 County Road Q, Fort Morgan US-CO 40.23265, -103.78646	Townsend's Solitaire	Myadestes townsendi	28163	species	1	40.2326460	-103.7864620	Traveling	1	0
-S156298286	2023-12-14	L28272731	19822 County Road R7, Fort Morgan US-CO 40.25760, -103.77655	Rock Pigeon	Columba livia	1868	domestic	24	40.2575950	-103.7765490	Traveling	1	0
-S141650833	2023-06-15	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	15	40.2379436	-103.8133192	Stationary	1	0
-S142279897	2023-06-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379436	-103.8133192	Stationary	1	0
-S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
-S142203282	2023-06-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	7	40.2379436	-103.8133192	Stationary	1	0
 S141581532	2023-06-14	L2266572	Fort Morgan (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.2569640	-103.8015747	Stationary	1	0
 S141581532	2023-06-14	L2266572	Fort Morgan (town)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	50	40.2569640	-103.8015747	Stationary	1	0
 S155165218	2023-11-25	L2266572	Fort Morgan (town)	Cackling Goose	Branta hutchinsii	331	species	4	40.2569640	-103.8015747	Stationary	1	0
 S146422509	2023-08-04	L26387605	721 East Platte Avenue, Fort Morgan, Colorado, US (40.254, -103.791)	Northern Harrier	Circus hudsonius	8324	species	2	40.2541774	-103.7910283	Stationary	1	0
-S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
 S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	20	40.2379436	-103.8133192	Stationary	1	0
+S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
+S155480005	2023-11-30	L28131124	19307 County Road Q, Fort Morgan US-CO 40.23265, -103.78646	Townsend's Solitaire	Myadestes townsendi	28163	species	1	40.2326460	-103.7864620	Traveling	1	0
+S156298286	2023-12-14	L28272731	19822 County Road R7, Fort Morgan US-CO 40.25760, -103.77655	Rock Pigeon	Columba livia	1868	domestic	24	40.2575950	-103.7765490	Traveling	1	0
+S141650833	2023-06-15	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	15	40.2379436	-103.8133192	Stationary	1	0
+S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
+S142279897	2023-06-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379436	-103.8133192	Stationary	1	0
+S142203282	2023-06-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	7	40.2379436	-103.8133192	Stationary	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	40.2569640	-103.8015747	Traveling	1	0
 S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	5	40.2467320	-103.8236260	Traveling	1	0
+S142378689	2023-06-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	5	40.2379436	-103.8133192	Stationary	1	0
 S142279897	2023-06-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
 S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	3	40.2379436	-103.8133192	Stationary	1	0
 S142378689	2023-06-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2379436	-103.8133192	Stationary	1	0
-S142378689	2023-06-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	5	40.2379436	-103.8133192	Stationary	1	0
+S155480005	2023-11-30	L28131124	19307 County Road Q, Fort Morgan US-CO 40.23265, -103.78646	Snow Goose	Anser caerulescens	267	species	50	40.2326460	-103.7864620	Traveling	1	0
 S155165218	2023-11-25	L2266572	Fort Morgan (town)	Ring-billed Gull	Larus delawarensis	6521	species	3	40.2569640	-103.8015747	Stationary	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	American Goldfinch	Spinus tristis	32617	species	1	40.2569640	-103.8015747	Traveling	1	0
-S155480005	2023-11-30	L28131124	19307 County Road Q, Fort Morgan US-CO 40.23265, -103.78646	Snow Goose	Anser caerulescens	267	species	50	40.2326460	-103.7864620	Traveling	1	0
+S142378689	2023-06-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	4	40.2379436	-103.8133192	Stationary	1	0
+S142486912	2023-06-23	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2379903	-103.8134228	Stationary	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	Rock Pigeon	Columba livia	1868	domestic	X	40.2569640	-103.8015747	Traveling	1	0
 S156305058	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	43	40.2383030	-103.7982540	Traveling	1	0
 S156307556	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Northern Harrier	Circus hudsonius	8324	species	1	40.2467320	-103.8236260	Traveling	1	0
 S152612252	2023-10-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	40.2378798	-103.8133023	Stationary	1	0
-S142486912	2023-06-23	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2379903	-103.8134228	Stationary	1	0
-S142378689	2023-06-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	4	40.2379436	-103.8133192	Stationary	1	0
-S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2379436	-103.8133192	Stationary	1	0
 S141724666	2023-06-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
-S138022159	2023-05-16	L2266572	Fort Morgan (town)	Northern Yellow Warbler	Setophaga aestiva	34087	species	4	40.2569640	-103.8015747	Traveling	1	0
-S152673103	2023-10-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	4	40.2378798	-103.8133023	Stationary	1	0
+S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2379436	-103.8133192	Stationary	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	X	40.2569640	-103.8015747	Traveling	1	0
 S156307556	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Western Meadowlark	Sturnella neglecta	33565	species	58	40.2467320	-103.8236260	Traveling	1	0
+S152673103	2023-10-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	4	40.2378798	-103.8133023	Stationary	1	0
+S138022159	2023-05-16	L2266572	Fort Morgan (town)	Northern Yellow Warbler	Setophaga aestiva	34087	species	4	40.2569640	-103.8015747	Traveling	1	0
 S152545978	2023-10-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	3	40.2378798	-103.8133023	Stationary	1	0
 S141650833	2023-06-15	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2379436	-103.8133192	Stationary	1	0
+S155165218	2023-11-25	L2266572	Fort Morgan (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	50	40.2569640	-103.8015747	Stationary	1	0
 S156792183	2023-12-14	L28272731	19822 County Road R7, Fort Morgan US-CO 40.25760, -103.77655	Rock Pigeon	Columba livia	1868	domestic	24	40.2575950	-103.7765490	Traveling	1	0
 S142203282	2023-06-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379436	-103.8133192	Stationary	1	0
+S152673103	2023-10-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	1	40.2378798	-103.8133023	Stationary	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2569640	-103.8015747	Traveling	1	0
-S155165218	2023-11-25	L2266572	Fort Morgan (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	50	40.2569640	-103.8015747	Stationary	1	0
 S156307556	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	300	40.2467320	-103.8236260	Traveling	1	1
 S142203282	2023-06-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	1	40.2379436	-103.8133192	Stationary	1	0
 S152545978	2023-10-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2378798	-103.8133023	Stationary	1	0
-S152673103	2023-10-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	1	40.2378798	-103.8133023	Stationary	1	0
-S138022159	2023-05-16	L2266572	Fort Morgan (town)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2569640	-103.8015747	Traveling	1	0
-S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Northern Harrier	Circus hudsonius	8324	species	1	40.2467320	-103.8236260	Traveling	1	0
-S152612252	2023-10-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	2	40.2378798	-103.8133023	Stationary	1	0
-S141724666	2023-06-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2379436	-103.8133192	Stationary	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2569640	-103.8015747	Traveling	1	0
 S141581532	2023-06-14	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	2	40.2569640	-103.8015747	Stationary	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	Chimney Swift	Chaetura pelagica	3896	species	12	40.2569640	-103.8015747	Traveling	1	0
-S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Western Meadowlark	Sturnella neglecta	33565	species	58	40.2467320	-103.8236260	Traveling	1	0
 S152545978	2023-10-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	2	40.2378798	-103.8133023	Stationary	1	0
-S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	40.2467320	-103.8236260	Traveling	1	0
+S141724666	2023-06-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2379436	-103.8133192	Stationary	1	0
+S138022159	2023-05-16	L2266572	Fort Morgan (town)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2569640	-103.8015747	Traveling	1	0
+S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Northern Harrier	Circus hudsonius	8324	species	1	40.2467320	-103.8236260	Traveling	1	0
+S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Western Meadowlark	Sturnella neglecta	33565	species	58	40.2467320	-103.8236260	Traveling	1	0
+S152612252	2023-10-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	2	40.2378798	-103.8133023	Stationary	1	0
+S155165218	2023-11-25	L2266572	Fort Morgan (town)	Snow Goose	Anser caerulescens	267	species	17	40.2569640	-103.8015747	Stationary	1	0
 S156792188	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Canada Goose	Branta canadensis	342	species	225	40.2383030	-103.7982540	Traveling	1	0
 S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	9	40.2379436	-103.8133192	Stationary	1	0
-S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	2	40.2379436	-103.8133192	Stationary	1	0
 S141724666	2023-06-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2379436	-103.8133192	Stationary	1	0
-S155165218	2023-11-25	L2266572	Fort Morgan (town)	Snow Goose	Anser caerulescens	267	species	17	40.2569640	-103.8015747	Stationary	1	0
+S142088839	2023-06-19	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	10	40.2379436	-103.8133192	Stationary	1	0
+S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	40.2467320	-103.8236260	Traveling	1	0
 S156307556	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	5	40.2467320	-103.8236260	Traveling	1	0
 S141549965	2023-06-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	1	40.2379436	-103.8133192	Stationary	1	0
+S141458728	2023-06-13	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	2	40.2379436	-103.8133192	Stationary	1	0
 S142378689	2023-06-22	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	2	40.2379436	-103.8133192	Stationary	1	0
 S142279897	2023-06-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2379436	-103.8133192	Stationary	1	0
-S142088839	2023-06-19	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	10	40.2379436	-103.8133192	Stationary	1	0
-S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
-S142203282	2023-06-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
+S156792188	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Rock Pigeon	Columba livia	1868	domestic	38	40.2383030	-103.7982540	Traveling	1	0
 S141724666	2023-06-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	6	40.2379436	-103.8133192	Stationary	1	0
 S136055072	2023-05-04	L2266572	Fort Morgan (town)	House Finch	Haemorhous mexicanus	32310	species	1	40.2569640	-103.8015747	Stationary	1	0
-S156792188	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Rock Pigeon	Columba livia	1868	domestic	38	40.2383030	-103.7982540	Traveling	1	0
+S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Robin	Turdus migratorius	28633	species	1	40.2379436	-103.8133192	Stationary	1	0
+S142203282	2023-06-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379436	-103.8133192	Stationary	1	0
 S142203282	2023-06-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
-S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	300	40.2467320	-103.8236260	Traveling	1	1
-S156792188	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Horned Lark	Eremophila alpestris	22710	species	400	40.2383030	-103.7982540	Traveling	1	0
-S156311911	2023-12-14	L12953287	516 West 8th Avenue, Fort Morgan, Colorado, US (40.258, -103.809)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2583915	-103.8092234	Traveling	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	Mourning Dove	Zenaida macroura	2412	species	1	40.2569640	-103.8015747	Traveling	1	0
 S142203282	2023-06-20	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Mourning Dove	Zenaida macroura	2412	species	2	40.2379436	-103.8133192	Stationary	1	0
+S156311911	2023-12-14	L12953287	516 West 8th Avenue, Fort Morgan, Colorado, US (40.258, -103.809)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2583915	-103.8092234	Traveling	1	0
+S156792190	2023-12-14	L28274443	17247–17499 County Road R, Fort Morgan US-CO 40.24673, -103.82363	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	300	40.2467320	-103.8236260	Traveling	1	1
+S156792188	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Horned Lark	Eremophila alpestris	22710	species	400	40.2383030	-103.7982540	Traveling	1	0
 S141724666	2023-06-16	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	European Starling	Sturnus vulgaris	27813	species	1	40.2379436	-103.8133192	Stationary	1	0
-S156311911	2023-12-14	L12953287	516 West 8th Avenue, Fort Morgan, Colorado, US (40.258, -103.809)	Brown Creeper	Certhia americana	27026	species	2	40.2583915	-103.8092234	Traveling	1	0
 S138022159	2023-05-16	L2266572	Fort Morgan (town)	Chipping Sparrow	Spizella passerina	32990	species	1	40.2569640	-103.8015747	Traveling	1	0
+S156311911	2023-12-14	L12953287	516 West 8th Avenue, Fort Morgan, Colorado, US (40.258, -103.809)	Brown Creeper	Certhia americana	27026	species	2	40.2583915	-103.8092234	Traveling	1	0
 S156305058	2023-12-14	L28273990	18665 County Road Q5, Fort Morgan US-CO 40.23830, -103.79825	Canada Goose	Branta canadensis	342	species	225	40.2383030	-103.7982540	Traveling	1	0
 S142279897	2023-06-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
 S142279897	2023-06-21	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	8	40.2379436	-103.8133192	Stationary	1	0
 S141581532	2023-06-14	L2266572	Fort Morgan (town)	American Robin	Turdus migratorius	28633	species	2	40.2569640	-103.8015747	Stationary	1	0
-S155165218	2023-11-25	L2266572	Fort Morgan (town)	Canada Goose	Branta canadensis	342	species	5	40.2569640	-103.8015747	Stationary	1	0
 S150943053	2023-09-28	L27286321	80701, Fort Morgan US-CO 40.26039, -103.77049	American White Pelican	Pelecanus erythrorhynchos	7791	species	17	40.2603930	-103.7704920	Stationary	1	0
 S152673103	2023-10-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2378798	-103.8133023	Stationary	1	0
-S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
 S142486912	2023-06-23	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	4	40.2379903	-103.8134228	Stationary	1	0
+S155165218	2023-11-25	L2266572	Fort Morgan (town)	Canada Goose	Branta canadensis	342	species	5	40.2569640	-103.8015747	Stationary	1	0
 S141650833	2023-06-15	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
+S141847505	2023-06-17	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	2	40.2379436	-103.8133192	Stationary	1	0
 S142088839	2023-06-19	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379436	-103.8133192	Stationary	1	0
+S169466847	2024-04-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2378798	-103.8133023	Stationary	1	0
+S177417462	2024-05-26	L2266572	Fort Morgan (town)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2569640	-103.8015747	Stationary	1	0
 S166926828	2024-04-02	L25321752	Fomo	House Sparrow	Passer domesticus	31534	species	2	40.2495250	-103.8062880	Traveling	1	0
 S169331016	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	40.2378798	-103.8133023	Stationary	1	0
-S177417462	2024-05-26	L2266572	Fort Morgan (town)	Common Grackle	Quiscalus quiscula	33853	species	2	40.2569640	-103.8015747	Stationary	1	0
-S169466847	2024-04-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2378798	-103.8133023	Stationary	1	0
-S166831053	2024-04-01	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2378798	-103.8133023	Stationary	1	0
 S161317882	2024-02-12	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	4	40.2569640	-103.8015747	Traveling	1	0
-S170645365	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	American Robin	Turdus migratorius	28633	species	4	40.2620410	-103.7790897	Stationary	1	0
+S166831053	2024-04-01	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2378798	-103.8133023	Stationary	1	0
 S169331016	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	12	40.2378798	-103.8133023	Stationary	1	0
 S177417462	2024-05-26	L2266572	Fort Morgan (town)	Rock Pigeon	Columba livia	1868	domestic	1	40.2569640	-103.8015747	Stationary	1	0
+S170645365	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	American Robin	Turdus migratorius	28633	species	4	40.2620410	-103.7790897	Stationary	1	0
 S161047781	2024-02-09	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	6	40.2378798	-103.8133023	Stationary	1	0
 S161047781	2024-02-09	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	6	40.2378798	-103.8133023	Stationary	1	0
 S161317882	2024-02-12	L2266572	Fort Morgan (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2569640	-103.8015747	Traveling	1	0
 S166926828	2024-04-02	L25321752	Fomo	European Starling	Sturnus vulgaris	27813	species	20	40.2495250	-103.8062880	Traveling	1	0
 S166926828	2024-04-02	L25321752	Fomo	American Robin	Turdus migratorius	28633	species	4	40.2495250	-103.8062880	Traveling	1	0
-S169215786	2024-04-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	6	40.2378798	-103.8133023	Stationary	1	0
-S169466847	2024-04-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	American Robin	Turdus migratorius	28633	species	1	40.2378798	-103.8133023	Stationary	1	0
 S168976757	2024-04-16	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	3	40.2378798	-103.8133023	Stationary	1	0
-S187421194	2024-07-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	2	40.2378798	-103.8133023	Stationary	1	0
+S169466847	2024-04-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	American Robin	Turdus migratorius	28633	species	1	40.2378798	-103.8133023	Stationary	1	0
+S169215786	2024-04-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	6	40.2378798	-103.8133023	Stationary	1	0
 S188236671	2024-07-21	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	17	40.2378798	-103.8133023	Stationary	1	0
+S187421194	2024-07-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	2	40.2378798	-103.8133023	Stationary	1	0
 S179893777	2024-06-07	L2266572	Fort Morgan (town)	Rock Pigeon	Columba livia	1868	domestic	3	40.2569640	-103.8015747	Stationary	1	0
 S187421194	2024-07-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	40.2378798	-103.8133023	Stationary	1	0
-S160514911	2024-02-03	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	4	40.2378798	-103.8133023	Stationary	1	0
 S187421194	2024-07-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	10	40.2378798	-103.8133023	Stationary	1	0
 S179893777	2024-06-07	L2266572	Fort Morgan (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	40.2569640	-103.8015747	Stationary	1	0
+S160514911	2024-02-03	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	4	40.2378798	-103.8133023	Stationary	1	0
 S179893777	2024-06-07	L2266572	Fort Morgan (town)	European Starling	Sturnus vulgaris	27813	species	3	40.2569640	-103.8015747	Stationary	1	0
-S187421194	2024-07-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	1	40.2378798	-103.8133023	Stationary	1	0
-S160963504	2024-02-08	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	12	40.2378798	-103.8133023	Stationary	1	0
-S170638368	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	House Sparrow	Passer domesticus	31534	species	6	40.2620410	-103.7790897	Stationary	1	0
 S169066596	2024-04-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	4	40.2378798	-103.8133023	Stationary	1	0
+S170638368	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	House Sparrow	Passer domesticus	31534	species	6	40.2620410	-103.7790897	Stationary	1	0
+S160963504	2024-02-08	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	12	40.2378798	-103.8133023	Stationary	1	0
+S187421194	2024-07-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	1	40.2378798	-103.8133023	Stationary	1	0
+S179893777	2024-06-07	L2266572	Fort Morgan (town)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	5	40.2569640	-103.8015747	Stationary	1	0
 S177417462	2024-05-26	L2266572	Fort Morgan (town)	Western Kingbird	Tyrannus verticalis	17467	species	3	40.2569640	-103.8015747	Stationary	1	0
+S169314453	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	2	40.2378798	-103.8133023	Stationary	1	0
+S168976757	2024-04-16	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	8	40.2378798	-103.8133023	Stationary	1	0
+S169314453	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	5	40.2378798	-103.8133023	Stationary	1	0
 S177417462	2024-05-26	L2266572	Fort Morgan (town)	European Starling	Sturnus vulgaris	27813	species	4	40.2569640	-103.8015747	Stationary	1	0
 S170645365	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	Blue Jay	Cyanocitta cristata	21294	species	2	40.2620410	-103.7790897	Stationary	1	0
 S169331016	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	12	40.2378798	-103.8133023	Stationary	1	0
-S179893777	2024-06-07	L2266572	Fort Morgan (town)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	5	40.2569640	-103.8015747	Stationary	1	0
-S168976757	2024-04-16	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	8	40.2378798	-103.8133023	Stationary	1	0
-S169314453	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	2	40.2378798	-103.8133023	Stationary	1	0
-S169314453	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	5	40.2378798	-103.8133023	Stationary	1	0
-S168976757	2024-04-16	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2378798	-103.8133023	Stationary	1	0
 S169314453	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	6	40.2378798	-103.8133023	Stationary	1	0
 S168976757	2024-04-16	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Mourning Dove	Zenaida macroura	2412	species	1	40.2378798	-103.8133023	Stationary	1	0
-S166926828	2024-04-02	L25321752	Fomo	Blue Jay	Cyanocitta cristata	21294	species	3	40.2495250	-103.8062880	Traveling	1	0
-S166926828	2024-04-02	L25321752	Fomo	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	11	40.2495250	-103.8062880	Traveling	1	0
+S168976757	2024-04-16	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2378798	-103.8133023	Stationary	1	0
 S169066596	2024-04-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2378798	-103.8133023	Stationary	1	0
 S169314453	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2378798	-103.8133023	Stationary	1	0
-S179893777	2024-06-07	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	4	40.2569640	-103.8015747	Stationary	1	0
+S166926828	2024-04-02	L25321752	Fomo	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	11	40.2495250	-103.8062880	Traveling	1	0
+S166926828	2024-04-02	L25321752	Fomo	Blue Jay	Cyanocitta cristata	21294	species	3	40.2495250	-103.8062880	Traveling	1	0
 S179893777	2024-06-07	L2266572	Fort Morgan (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2569640	-103.8015747	Stationary	1	0
-S169066596	2024-04-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	5	40.2378798	-103.8133023	Stationary	1	0
 S170645365	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2620410	-103.7790897	Stationary	1	0
+S169066596	2024-04-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	5	40.2378798	-103.8133023	Stationary	1	0
+S179893777	2024-06-07	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	4	40.2569640	-103.8015747	Stationary	1	0
 S187421194	2024-07-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Mourning Dove	Zenaida macroura	2412	species	1	40.2378798	-103.8133023	Stationary	1	0
 S168976757	2024-04-16	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	American Robin	Turdus migratorius	28633	species	2	40.2378798	-103.8133023	Stationary	1	0
+S169215786	2024-04-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	4	40.2378798	-103.8133023	Stationary	1	0
 S166926828	2024-04-02	L25321752	Fomo	Downy Woodpecker	Dryobates pubescens	11400	species	1	40.2495250	-103.8062880	Traveling	1	0
 S179893777	2024-06-07	L2266572	Fort Morgan (town)	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	2	40.2569640	-103.8015747	Stationary	1	0
-S169215786	2024-04-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	4	40.2378798	-103.8133023	Stationary	1	0
-S179893777	2024-06-07	L2266572	Fort Morgan (town)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2569640	-103.8015747	Stationary	1	0
-S188236671	2024-07-21	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2378798	-103.8133023	Stationary	1	0
 S161317882	2024-02-12	L2266572	Fort Morgan (town)	European Starling	Sturnus vulgaris	27813	species	1	40.2569640	-103.8015747	Traveling	1	0
 S166831053	2024-04-01	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	3	40.2378798	-103.8133023	Stationary	1	0
-S169215786	2024-04-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2378798	-103.8133023	Stationary	1	0
+S179893777	2024-06-07	L2266572	Fort Morgan (town)	Common Grackle	Quiscalus quiscula	33853	species	3	40.2569640	-103.8015747	Stationary	1	0
+S188236671	2024-07-21	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2378798	-103.8133023	Stationary	1	0
 S169331016	2024-04-19	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	2	40.2378798	-103.8133023	Stationary	1	0
-S170645365	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	House Sparrow	Passer domesticus	31534	species	4	40.2620410	-103.7790897	Stationary	1	0
+S169215786	2024-04-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2378798	-103.8133023	Stationary	1	0
+S177417462	2024-05-26	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	5	40.2569640	-103.8015747	Stationary	1	0
 S170645365	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	Swainson's Hawk	Buteo swainsoni	8504	species	1	40.2620410	-103.7790897	Stationary	1	0
 S169466847	2024-04-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	6	40.2378798	-103.8133023	Stationary	1	0
 S169215786	2024-04-18	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Common Grackle	Quiscalus quiscula	33853	species	5	40.2378798	-103.8133023	Stationary	1	0
-S177417462	2024-05-26	L2266572	Fort Morgan (town)	House Sparrow	Passer domesticus	31534	species	5	40.2569640	-103.8015747	Stationary	1	0
 S166926828	2024-04-02	L25321752	Fomo	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	3	40.2495250	-103.8062880	Traveling	1	0
+S170645365	2024-04-27	L31025693	1290 Cottonwood Parkway, Fort Morgan, Colorado, US (40.262, -103.779)	House Sparrow	Passer domesticus	31534	species	4	40.2620410	-103.7790897	Stationary	1	0
 S160963504	2024-02-08	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2378798	-103.8133023	Stationary	1	0
 S168976757	2024-04-16	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	3	40.2378798	-103.8133023	Stationary	1	0
-S169066596	2024-04-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	6	40.2378798	-103.8133023	Stationary	1	0
 S166831053	2024-04-01	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	4	40.2378798	-103.8133023	Stationary	1	0
+S169066596	2024-04-17	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	6	40.2378798	-103.8133023	Stationary	1	0
 S160514911	2024-02-03	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	7	40.2378798	-103.8133023	Stationary	1	0
 S166831053	2024-04-01	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	5	40.2378798	-103.8133023	Stationary	1	0
 S169466847	2024-04-20	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	1	40.2378798	-103.8133023	Stationary	1	0
@@ -569,19 +569,19 @@ S251994744	2025-06-19	L40614053	Fulton Heights Park	Mourning Dove	Zenaida macrou
 S251994744	2025-06-19	L40614053	Fulton Heights Park	Blue Jay	Cyanocitta cristata	21294	species	1	40.2514038	-103.8145560	Stationary	1	0
 S209208214	2025-01-13	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	18	40.2378798	-103.8133023	Stationary	1	0
 S209295671	2025-01-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Finch	Haemorhous mexicanus	32310	species	4	40.2379436	-103.8133192	Stationary	1	0
-S209208214	2025-01-13	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	2	40.2378798	-103.8133023	Stationary	1	0
-S279424720	2025-10-14	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	3	40.2378798	-103.8133023	Stationary	1	0
 S277462385	2025-10-05	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	40.2379903	-103.8134228	Traveling	1	0
+S279424720	2025-10-14	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	3	40.2378798	-103.8133023	Stationary	1	0
+S209208214	2025-01-13	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Finch	Haemorhous mexicanus	32310	species	2	40.2378798	-103.8133023	Stationary	1	0
 S277462385	2025-10-05	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	3	40.2379903	-103.8134228	Traveling	1	0
 S277840780	2025-10-07	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	40.2378798	-103.8133023	Stationary	1	0
-S277462385	2025-10-05	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Crow	Corvus brachyrhynchos	21557	species	2	40.2379903	-103.8134228	Traveling	1	0
-S277840780	2025-10-07	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	1	40.2378798	-103.8133023	Stationary	1	0
 S279424720	2025-10-14	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	House Sparrow	Passer domesticus	31534	species	1	40.2378798	-103.8133023	Stationary	1	0
+S277840780	2025-10-07	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Blue Jay	Cyanocitta cristata	21294	species	1	40.2378798	-103.8133023	Stationary	1	0
+S277462385	2025-10-05	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	American Crow	Corvus brachyrhynchos	21557	species	2	40.2379903	-103.8134228	Traveling	1	0
 S277462385	2025-10-05	L7102246	812 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Blue Jay	Cyanocitta cristata	21294	species	1	40.2379903	-103.8134228	Traveling	1	0
-S251994744	2025-06-19	L40614053	Fulton Heights Park	Barn Swallow	Hirundo rustica	24187	species	2	40.2514038	-103.8145560	Stationary	1	0
 S251994744	2025-06-19	L40614053	Fulton Heights Park	House Sparrow	Passer domesticus	31534	species	2	40.2514038	-103.8145560	Stationary	1	0
+S251994744	2025-06-19	L40614053	Fulton Heights Park	Barn Swallow	Hirundo rustica	24187	species	2	40.2514038	-103.8145560	Stationary	1	0
 S251994744	2025-06-19	L40614053	Fulton Heights Park	House Finch	Haemorhous mexicanus	32310	species	1	40.2514038	-103.8145560	Stationary	1	0
 S209295671	2025-01-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	Dark-eyed Junco	Junco hyemalis	33124	species	1	40.2379436	-103.8133192	Stationary	1	0
 S251994744	2025-06-19	L40614053	Fulton Heights Park	Common Grackle	Quiscalus quiscula	33853	species	5	40.2514038	-103.8145560	Stationary	1	0
-S279424720	2025-10-14	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2378798	-103.8133023	Stationary	1	0
 S209295671	2025-01-14	L6785020	810 Navajo Street, Fort Morgan, Colorado, US (40.238, -103.813)	House Sparrow	Passer domesticus	31534	species	20	40.2379436	-103.8133192	Stationary	1	0
+S279424720	2025-10-14	L5660087	US-Colorado-Fort Morgan-810 Navajo Street - 40.238x-103.813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	40.2378798	-103.8133023	Stationary	1	0

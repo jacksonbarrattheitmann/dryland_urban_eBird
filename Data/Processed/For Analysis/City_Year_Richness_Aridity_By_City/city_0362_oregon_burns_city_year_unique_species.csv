@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-362,"Burns, OR",Burns,Oregon,Harney,2015,6468614.88326574,47,77,city_0362_oregon_burns,267.53750133514404,9.109375,14.000327134463792,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2016,6468614.88326574,68,215,city_0362_oregon_burns,284.7625012397766,8.5859375,15.321395611051452,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2017,6468614.88326574,66,185,city_0362_oregon_burns,316.1812527179718,7.770833333333334,17.792145522230534,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2018,6468614.88326574,76,650,city_0362_oregon_burns,255.37499904632568,8.231770833333334,14.007141784572068,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2019,6468614.88326574,95,620,city_0362_oregon_burns,286.10624504089355,7.401041666666666,16.441903336681104,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2020,6468614.88326574,61,153,city_0362_oregon_burns,293.7875003814697,8.354166666666668,16.006583448706635,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2021,6468614.88326574,75,649,city_0362_oregon_burns,266.66250228881836,8.778645833333332,14.20030521133078,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2022,6468614.88326574,83,548,city_0362_oregon_burns,294.49375104904175,7.859375,16.48958886013882,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2023,6468614.88326574,71,605,city_0362_oregon_burns,277.9437475204468,8.466145833333332,15.05152997431273,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2024,6468614.88326574,89,667,city_0362_oregon_burns,323.56250047683716,8.8515625,17.163696668477066,semiarid,12
-362,"Burns, OR",Burns,Oregon,Harney,2025,6468614.88326574,79,589,city_0362_oregon_burns,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+362,2015,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,47,77,city_0362_oregon_burns,267.537501335144,9.109375,14.0003271344638,semiarid,12
+362,2016,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,68,215,city_0362_oregon_burns,284.762501239777,8.5859375,15.3213956110515,semiarid,12
+362,2017,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,66,185,city_0362_oregon_burns,316.181252717972,7.77083333333333,17.7921455222305,semiarid,12
+362,2018,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,76,650,city_0362_oregon_burns,255.374999046326,8.23177083333333,14.0071417845721,semiarid,12
+362,2019,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,95,620,city_0362_oregon_burns,286.106245040894,7.40104166666667,16.4419033366811,semiarid,12
+362,2020,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,61,153,city_0362_oregon_burns,293.78750038147,8.35416666666667,16.0065834487066,semiarid,12
+362,2021,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,75,649,city_0362_oregon_burns,266.662502288818,8.77864583333333,14.2003052113308,semiarid,12
+362,2022,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,83,548,city_0362_oregon_burns,294.493751049042,7.859375,16.4895888601388,semiarid,12
+362,2023,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,71,605,city_0362_oregon_burns,277.943747520447,8.46614583333333,15.0515299743127,semiarid,12
+362,2024,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,89,667,city_0362_oregon_burns,323.562500476837,8.8515625,17.1636966684771,semiarid,12
+362,2025,"Burns, OR",Burns,Oregon,Harney,99.9999999999929,79,589,city_0362_oregon_burns,,,,,

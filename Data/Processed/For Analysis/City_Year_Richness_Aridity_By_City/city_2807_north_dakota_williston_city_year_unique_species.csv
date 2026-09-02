@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2807,"Williston, ND",Williston,North Dakota,Williams,2015,18636044.7216584,64,188,city_2807_north_dakota_williston,358.6937494277954,7.190104166666667,20.866292952624363,dry subhumid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2016,18636044.7216584,50,148,city_2807_north_dakota_williston,445.8937468528747,7.622395833333334,25.30267456649976,dry subhumid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2017,18636044.7216584,32,101,city_2807_north_dakota_williston,336.71875047683716,6.427083333333334,20.49778062509598,dry subhumid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2018,18636044.7216584,36,109,city_2807_north_dakota_williston,401.0062446594238,4.966145833333333,26.794222716063818,dry subhumid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2019,18636044.7216584,31,86,city_2807_north_dakota_williston,526.7437429428101,4.575520833333333,36.13893108630321,humid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2020,18636044.7216584,37,103,city_2807_north_dakota_williston,269.5125026702881,6.484375,16.349573621704682,semiarid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2021,18636044.7216584,47,123,city_2807_north_dakota_williston,319.82499980926514,7.455729166666667,18.322064736201373,semiarid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2022,18636044.7216584,19,62,city_2807_north_dakota_williston,373.88124990463257,5.575520833333333,24.004413971472815,dry subhumid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2023,18636044.7216584,14,16,city_2807_north_dakota_williston,423.9250040054322,7.020833333333333,24.90624258538647,dry subhumid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2024,18636044.7216584,25,48,city_2807_north_dakota_williston,382.1249990463257,7.559895833333334,21.761233817853928,dry subhumid,12
-2807,"Williston, ND",Williston,North Dakota,Williams,2025,18636044.7216584,30,36,city_2807_north_dakota_williston,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2807,2015,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,64,188,city_2807_north_dakota_williston,358.693749427795,7.19010416666667,20.8662929526244,dry subhumid,12
+2807,2016,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,50,148,city_2807_north_dakota_williston,445.893746852875,7.62239583333333,25.3026745664998,dry subhumid,12
+2807,2017,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,32,101,city_2807_north_dakota_williston,336.718750476837,6.42708333333333,20.497780625096,dry subhumid,12
+2807,2018,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,36,109,city_2807_north_dakota_williston,401.006244659424,4.96614583333333,26.7942227160638,dry subhumid,12
+2807,2019,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,31,86,city_2807_north_dakota_williston,526.74374294281,4.57552083333333,36.1389310863032,humid,12
+2807,2020,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,37,103,city_2807_north_dakota_williston,269.512502670288,6.484375,16.3495736217047,semiarid,12
+2807,2021,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,47,123,city_2807_north_dakota_williston,319.824999809265,7.45572916666667,18.3220647362014,semiarid,12
+2807,2022,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,19,62,city_2807_north_dakota_williston,373.881249904633,5.57552083333333,24.0044139714728,dry subhumid,12
+2807,2023,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,14,16,city_2807_north_dakota_williston,423.925004005432,7.02083333333333,24.9062425853865,dry subhumid,12
+2807,2024,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,25,48,city_2807_north_dakota_williston,382.124999046326,7.55989583333333,21.7612338178539,dry subhumid,12
+2807,2025,"Williston, ND",Williston,North Dakota,Williams,99.999999999999,30,36,city_2807_north_dakota_williston,,,,,

@@ -1,6 +1,6 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2084,"Pilot Point, TX",Pilot Point,Texas,Denton,2018,4351110.02472189,5,5,city_2084_texas_pilot_point,1130.631238937378,18.114583333333332,40.215116316409144,humid,12
-2084,"Pilot Point, TX",Pilot Point,Texas,Denton,2019,4351110.02472189,14,15,city_2084_texas_pilot_point,1130.418743133545,18.052083333333332,40.29714049046429,humid,12
-2084,"Pilot Point, TX",Pilot Point,Texas,Denton,2020,4351110.02472189,1,1,city_2084_texas_pilot_point,1130.5687637329102,18.3125,39.931788564517795,humid,12
-2084,"Pilot Point, TX",Pilot Point,Texas,Denton,2024,4351110.02472189,25,28,city_2084_texas_pilot_point,1097.431240081787,19.6015625,37.07342273171516,humid,12
-2084,"Pilot Point, TX",Pilot Point,Texas,Denton,2025,4351110.02472189,23,29,city_2084_texas_pilot_point,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2084,2018,"Pilot Point, TX",Pilot Point,Texas,Denton,100,5,5,city_2084_texas_pilot_point,1130.63123893738,18.1145833333333,40.2151163164092,humid,12
+2084,2019,"Pilot Point, TX",Pilot Point,Texas,Denton,100,14,15,city_2084_texas_pilot_point,1130.41874313354,18.0520833333333,40.2971404904643,humid,12
+2084,2020,"Pilot Point, TX",Pilot Point,Texas,Denton,100,1,1,city_2084_texas_pilot_point,1130.56876373291,18.3125,39.9317885645178,humid,12
+2084,2024,"Pilot Point, TX",Pilot Point,Texas,Denton,100,25,28,city_2084_texas_pilot_point,1097.43124008179,19.6015625,37.0734227317152,humid,12
+2084,2025,"Pilot Point, TX",Pilot Point,Texas,Denton,100,23,29,city_2084_texas_pilot_point,,,,,

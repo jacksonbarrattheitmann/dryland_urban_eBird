@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2015,168044007.163294,181,4520,city_1446_new_mexico_las_cruces,319.3249979019165,17.28125,11.704925467195109,semiarid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2016,168044007.163294,160,4024,city_1446_new_mexico_las_cruces,235.14999890327456,17.75,8.473873834352236,arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2017,168044007.163294,186,5573,city_1446_new_mexico_las_cruces,246.6124987602234,18.216145833333332,8.74011993760275,arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2018,168044007.163294,178,8609,city_1446_new_mexico_las_cruces,228.13125324249268,17.630208333333332,8.256588241764108,arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2019,168044007.163294,192,8251,city_1446_new_mexico_las_cruces,219.04375457763672,17.3203125,8.017615266210322,arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2020,168044007.163294,211,13930,city_1446_new_mexico_las_cruces,110.62499904632568,18.0546875,3.94319127761896,extremely arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2021,168044007.163294,185,8065,city_1446_new_mexico_las_cruces,243.3250004053116,17.640625,8.803165644963222,arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2022,168044007.163294,183,8947,city_1446_new_mexico_las_cruces,228.0875014066696,17.424479166666668,8.316931017012736,arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2023,168044007.163294,200,8844,city_1446_new_mexico_las_cruces,133.35000187158585,18.028645833333332,4.757632697081573,extremely arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2024,168044007.163294,203,13910,city_1446_new_mexico_las_cruces,194.18749916553497,18.572916666666668,6.796208501600932,arid,12
-1446,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,2025,168044007.163294,217,17628,city_1446_new_mexico_las_cruces,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1446,2015,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,181,4520,city_1446_new_mexico_las_cruces,319.324997901917,17.28125,11.7049254671951,semiarid,12
+1446,2016,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,160,4024,city_1446_new_mexico_las_cruces,235.149998903275,17.75,8.47387383435224,arid,12
+1446,2017,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,186,5573,city_1446_new_mexico_las_cruces,246.612498760223,18.2161458333333,8.74011993760275,arid,12
+1446,2018,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,178,8609,city_1446_new_mexico_las_cruces,228.131253242493,17.6302083333333,8.25658824176411,arid,12
+1446,2019,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,192,8251,city_1446_new_mexico_las_cruces,219.043754577637,17.3203125,8.01761526621032,arid,12
+1446,2020,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,211,13931,city_1446_new_mexico_las_cruces,110.624999046326,18.0546875,3.94319127761896,extremely arid,12
+1446,2021,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,185,8065,city_1446_new_mexico_las_cruces,243.325000405312,17.640625,8.80316564496322,arid,12
+1446,2022,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,183,8947,city_1446_new_mexico_las_cruces,228.08750140667,17.4244791666667,8.31693101701274,arid,12
+1446,2023,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,200,8844,city_1446_new_mexico_las_cruces,133.350001871586,18.0286458333333,4.75763269708157,extremely arid,12
+1446,2024,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,203,13909,city_1446_new_mexico_las_cruces,194.187499165535,18.5729166666667,6.79620850160093,arid,12
+1446,2025,"Las Cruces, NM",Las Cruces,New Mexico,Doña Ana,100,217,17627,city_1446_new_mexico_las_cruces,,,,,

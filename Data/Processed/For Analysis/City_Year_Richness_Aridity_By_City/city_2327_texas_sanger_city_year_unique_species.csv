@@ -1,6 +1,6 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2327,"Sanger, TX",Sanger,Texas,Denton,2020,7816873.08956276,21,24,city_2327_texas_sanger,1050.6562538146973,18.609375,36.72419456261094,humid,12
-2327,"Sanger, TX",Sanger,Texas,Denton,2021,7816873.08956276,12,16,city_2327_texas_sanger,926.762508392334,18.4140625,32.61633243723364,humid,12
-2327,"Sanger, TX",Sanger,Texas,Denton,2022,7816873.08956276,7,7,city_2327_texas_sanger,761.1499938964844,18.78125,26.446036704329533,dry subhumid,12
-2327,"Sanger, TX",Sanger,Texas,Denton,2023,7816873.08956276,7,7,city_2327_texas_sanger,941.8187522888184,19.385416666666668,32.05054952843905,humid,12
-2327,"Sanger, TX",Sanger,Texas,Denton,2024,7816873.08956276,7,7,city_2327_texas_sanger,1022.7999935150146,19.888020833333332,34.22106800642726,humid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2327,2020,"Sanger, TX",Sanger,Texas,Denton,100,21,24,city_2327_texas_sanger,1050.6562538147,18.609375,36.7241945626109,humid,12
+2327,2021,"Sanger, TX",Sanger,Texas,Denton,100,12,16,city_2327_texas_sanger,926.762508392334,18.4140625,32.6163324372336,humid,12
+2327,2022,"Sanger, TX",Sanger,Texas,Denton,100,7,7,city_2327_texas_sanger,761.149993896484,18.78125,26.4460367043295,dry subhumid,12
+2327,2023,"Sanger, TX",Sanger,Texas,Denton,100,7,7,city_2327_texas_sanger,941.818752288818,19.3854166666667,32.0505495284391,humid,12
+2327,2024,"Sanger, TX",Sanger,Texas,Denton,100,7,7,city_2327_texas_sanger,1022.79999351501,19.8880208333333,34.2210680064273,humid,12

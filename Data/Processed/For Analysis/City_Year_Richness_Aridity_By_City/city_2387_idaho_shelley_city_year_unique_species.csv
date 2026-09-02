@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2387,"Shelley, ID",Shelley,Idaho,Bingham,2018,5256612.5847318,3,3,city_2387_idaho_shelley,297.0124969482422,7.5859375,16.88920462433363,semiarid,12
-2387,"Shelley, ID",Shelley,Idaho,Bingham,2019,5256612.5847318,10,13,city_2387_idaho_shelley,320.806245803833,6.453125,19.498195376491275,semiarid,12
-2387,"Shelley, ID",Shelley,Idaho,Bingham,2020,5256612.5847318,19,25,city_2387_idaho_shelley,267.11249923706055,7.924479166666666,14.902106596982604,semiarid,12
-2387,"Shelley, ID",Shelley,Idaho,Bingham,2021,5256612.5847318,1,1,city_2387_idaho_shelley,273.51875019073486,8.294270833333332,14.951060508646576,semiarid,12
-2387,"Shelley, ID",Shelley,Idaho,Bingham,2023,5256612.5847318,17,34,city_2387_idaho_shelley,330.71874809265137,7.447916666666666,18.954626756354948,semiarid,12
-2387,"Shelley, ID",Shelley,Idaho,Bingham,2024,5256612.5847318,11,20,city_2387_idaho_shelley,278.5374984741211,8.630208333333332,14.950852587931578,semiarid,12
-2387,"Shelley, ID",Shelley,Idaho,Bingham,2025,5256612.5847318,7,7,city_2387_idaho_shelley,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2387,2018,"Shelley, ID",Shelley,Idaho,Bingham,99.9999999999967,3,3,city_2387_idaho_shelley,297.012496948242,7.5859375,16.8892046243336,semiarid,12
+2387,2019,"Shelley, ID",Shelley,Idaho,Bingham,99.9999999999967,10,13,city_2387_idaho_shelley,320.806245803833,6.453125,19.4981953764913,semiarid,12
+2387,2020,"Shelley, ID",Shelley,Idaho,Bingham,99.9999999999967,19,25,city_2387_idaho_shelley,267.112499237061,7.92447916666667,14.9021065969826,semiarid,12
+2387,2021,"Shelley, ID",Shelley,Idaho,Bingham,99.9999999999967,1,1,city_2387_idaho_shelley,273.518750190735,8.29427083333333,14.9510605086466,semiarid,12
+2387,2023,"Shelley, ID",Shelley,Idaho,Bingham,99.9999999999967,17,34,city_2387_idaho_shelley,330.718748092651,7.44791666666667,18.9546267563549,semiarid,12
+2387,2024,"Shelley, ID",Shelley,Idaho,Bingham,99.9999999999967,11,20,city_2387_idaho_shelley,278.537498474121,8.63020833333333,14.9508525879316,semiarid,12
+2387,2025,"Shelley, ID",Shelley,Idaho,Bingham,99.9999999999967,7,7,city_2387_idaho_shelley,,,,,

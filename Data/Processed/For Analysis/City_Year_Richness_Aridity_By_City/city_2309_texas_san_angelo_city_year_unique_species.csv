@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2015,123496912.691774,156,1681,city_2309_texas_san_angelo,807.2124843597412,19.161458333333332,27.68079960654944,dry subhumid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2016,123496912.691774,148,2326,city_2309_texas_san_angelo,741.3437566757202,19.7890625,24.88644134657545,dry subhumid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2017,123496912.691774,147,2201,city_2309_texas_san_angelo,547.212495803833,19.989583333333332,18.24675220464327,semiarid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2018,123496912.691774,131,1566,city_2309_texas_san_angelo,605.4375095367432,19.138020833333332,20.778264694084314,dry subhumid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2019,123496912.691774,157,2102,city_2309_texas_san_angelo,499.9249882698059,19.0703125,17.197097150909745,semiarid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2020,123496912.691774,172,7547,city_2309_texas_san_angelo,415.3687496185303,19.6484375,14.009802358675064,semiarid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2021,123496912.691774,185,6855,city_2309_texas_san_angelo,558.287492275238,19.174479166666668,19.136159692376275,semiarid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2022,123496912.691774,178,4179,city_2309_texas_san_angelo,323.2437524795532,19.559895833333332,10.935212840467663,semiarid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2023,123496912.691774,180,3641,city_2309_texas_san_angelo,435.61249923706055,20.25,14.400413197919358,semiarid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2024,123496912.691774,201,5654,city_2309_texas_san_angelo,494.0249972343445,20.6484375,16.119092440988045,semiarid,12
-2309,"San Angelo, TX",San Angelo,Texas,Tom Green,2025,123496912.691774,195,4797,city_2309_texas_san_angelo,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2309,2015,"San Angelo, TX",San Angelo,Texas,Tom Green,100,156,1681,city_2309_texas_san_angelo,807.212484359741,19.1614583333333,27.6807996065494,dry subhumid,12
+2309,2016,"San Angelo, TX",San Angelo,Texas,Tom Green,100,148,2326,city_2309_texas_san_angelo,741.34375667572,19.7890625,24.8864413465755,dry subhumid,12
+2309,2017,"San Angelo, TX",San Angelo,Texas,Tom Green,100,147,2202,city_2309_texas_san_angelo,547.212495803833,19.9895833333333,18.2467522046433,semiarid,12
+2309,2018,"San Angelo, TX",San Angelo,Texas,Tom Green,100,131,1566,city_2309_texas_san_angelo,605.437509536743,19.1380208333333,20.7782646940843,dry subhumid,12
+2309,2019,"San Angelo, TX",San Angelo,Texas,Tom Green,100,157,2102,city_2309_texas_san_angelo,499.924988269806,19.0703125,17.1970971509097,semiarid,12
+2309,2020,"San Angelo, TX",San Angelo,Texas,Tom Green,100,172,7547,city_2309_texas_san_angelo,415.36874961853,19.6484375,14.0098023586751,semiarid,12
+2309,2021,"San Angelo, TX",San Angelo,Texas,Tom Green,100,185,6855,city_2309_texas_san_angelo,558.287492275238,19.1744791666667,19.1361596923763,semiarid,12
+2309,2022,"San Angelo, TX",San Angelo,Texas,Tom Green,100,178,4179,city_2309_texas_san_angelo,323.243752479553,19.5598958333333,10.9352128404677,semiarid,12
+2309,2023,"San Angelo, TX",San Angelo,Texas,Tom Green,100,180,3641,city_2309_texas_san_angelo,435.612499237061,20.25,14.4004131979194,semiarid,12
+2309,2024,"San Angelo, TX",San Angelo,Texas,Tom Green,100,201,5654,city_2309_texas_san_angelo,494.024997234345,20.6484375,16.119092440988,semiarid,12
+2309,2025,"San Angelo, TX",San Angelo,Texas,Tom Green,100,195,4797,city_2309_texas_san_angelo,,,,,

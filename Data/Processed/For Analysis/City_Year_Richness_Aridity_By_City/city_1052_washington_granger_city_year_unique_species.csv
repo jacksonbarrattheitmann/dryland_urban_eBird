@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1052,"Granger, WA",Granger,Washington,Yakima,2016,2299159.36883529,10,10,city_1052_washington_granger,192.4187524318695,12.033854166666668,8.732868565635018,arid,12
-1052,"Granger, WA",Granger,Washington,Yakima,2020,2299159.36883529,9,14,city_1052_washington_granger,185.39999794960025,11.5546875,8.60137721549432,arid,12
-1052,"Granger, WA",Granger,Washington,Yakima,2022,2299159.36883529,5,6,city_1052_washington_granger,197.62499833106995,10.908854166666668,9.451737371918153,arid,12
-1052,"Granger, WA",Granger,Washington,Yakima,2023,2299159.36883529,22,22,city_1052_washington_granger,163.70625007152557,11.859375,7.48906362014127,arid,12
-1052,"Granger, WA",Granger,Washington,Yakima,2024,2299159.36883529,11,11,city_1052_washington_granger,192.3437486886978,11.966145833333332,8.75637219875044,arid,12
-1052,"Granger, WA",Granger,Washington,Yakima,2025,2299159.36883529,3,3,city_1052_washington_granger,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1052,2016,"Granger, WA",Granger,Washington,Yakima,99.9999999999773,10,10,city_1052_washington_granger,192.41875243187,12.0338541666667,8.73286856563502,arid,12
+1052,2020,"Granger, WA",Granger,Washington,Yakima,99.9999999999773,9,14,city_1052_washington_granger,185.3999979496,11.5546875,8.60137721549432,arid,12
+1052,2022,"Granger, WA",Granger,Washington,Yakima,99.9999999999773,5,6,city_1052_washington_granger,197.62499833107,10.9088541666667,9.45173737191815,arid,12
+1052,2023,"Granger, WA",Granger,Washington,Yakima,99.9999999999773,22,22,city_1052_washington_granger,163.706250071526,11.859375,7.48906362014127,arid,12
+1052,2024,"Granger, WA",Granger,Washington,Yakima,99.9999999999773,11,11,city_1052_washington_granger,192.343748688698,11.9661458333333,8.75637219875044,arid,12
+1052,2025,"Granger, WA",Granger,Washington,Yakima,99.9999999999773,3,3,city_1052_washington_granger,,,,,

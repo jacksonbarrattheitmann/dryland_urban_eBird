@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-264,"Boardman, OR",Boardman,Oregon,Morrow,2016,7411615.65389524,8,8,city_0264_oregon_boardman,227.74999856948853,13.385416666666668,9.738975439942491,arid,12
-264,"Boardman, OR",Boardman,Oregon,Morrow,2017,7411615.65389524,13,13,city_0264_oregon_boardman,266.3375032544136,12.317708333333332,11.93390913065284,semiarid,12
-264,"Boardman, OR",Boardman,Oregon,Morrow,2018,7411615.65389524,26,43,city_0264_oregon_boardman,190.26874804496765,12.859375,8.323444890552242,arid,12
-264,"Boardman, OR",Boardman,Oregon,Morrow,2019,7411615.65389524,9,11,city_0264_oregon_boardman,188.69375014305115,11.9453125,8.598362413068902,arid,12
-264,"Boardman, OR",Boardman,Oregon,Morrow,2020,7411615.65389524,13,14,city_0264_oregon_boardman,222.05000245571136,12.880208333333332,9.704894257112812,arid,12
-264,"Boardman, OR",Boardman,Oregon,Morrow,2021,7411615.65389524,12,14,city_0264_oregon_boardman,198.29375100135803,13.4453125,8.457714138011939,arid,12
-264,"Boardman, OR",Boardman,Oregon,Morrow,2022,7411615.65389524,2,2,city_0264_oregon_boardman,239.5624976158142,12.338541666666668,10.72417802337056,semiarid,12
-264,"Boardman, OR",Boardman,Oregon,Morrow,2024,7411615.65389524,40,52,city_0264_oregon_boardman,228.43125009536743,13.361979166666668,9.777906591976487,arid,12
-264,"Boardman, OR",Boardman,Oregon,Morrow,2025,7411615.65389524,23,26,city_0264_oregon_boardman,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+264,2016,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,8,8,city_0264_oregon_boardman,227.749998569489,13.3854166666667,9.73897543994249,arid,12
+264,2017,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,13,13,city_0264_oregon_boardman,266.337503254414,12.3177083333333,11.9339091306528,semiarid,12
+264,2018,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,26,43,city_0264_oregon_boardman,190.268748044968,12.859375,8.32344489055224,arid,12
+264,2019,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,9,11,city_0264_oregon_boardman,188.693750143051,11.9453125,8.5983624130689,arid,12
+264,2020,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,13,14,city_0264_oregon_boardman,222.050002455711,12.8802083333333,9.70489425711281,arid,12
+264,2021,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,12,14,city_0264_oregon_boardman,198.293751001358,13.4453125,8.45771413801194,arid,12
+264,2022,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,2,2,city_0264_oregon_boardman,239.562497615814,12.3385416666667,10.7241780233706,semiarid,12
+264,2024,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,40,52,city_0264_oregon_boardman,228.431250095367,13.3619791666667,9.77790659197649,arid,12
+264,2025,"Boardman, OR",Boardman,Oregon,Morrow,99.9999999999872,23,26,city_0264_oregon_boardman,,,,,

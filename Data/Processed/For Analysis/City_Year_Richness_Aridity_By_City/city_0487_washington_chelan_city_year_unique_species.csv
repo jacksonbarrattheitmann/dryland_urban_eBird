@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-487,"Chelan, WA",Chelan,Washington,Chelan,2015,13005294.5485352,71,277,city_0487_washington_chelan,400.3499975204468,9.75,20.27088595040237,dry subhumid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2016,13005294.5485352,64,305,city_0487_washington_chelan,401.925000667572,9.309895833333332,20.814457215960577,dry subhumid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2017,13005294.5485352,72,368,city_0487_washington_chelan,441.9250040054322,8.236979166666668,24.2323577806777,dry subhumid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2018,13005294.5485352,82,525,city_0487_washington_chelan,362.75625681877136,8.723958333333332,19.37390857001505,semiarid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2019,13005294.5485352,88,541,city_0487_washington_chelan,332.76249504089355,7.799479166666666,18.695069216635428,semiarid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2020,13005294.5485352,76,446,city_0487_washington_chelan,396.9374966621399,8.635416666666668,21.300167512333942,dry subhumid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2021,13005294.5485352,92,726,city_0487_washington_chelan,370.8687448501587,8.953125,19.567683157798974,semiarid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2022,13005294.5485352,83,786,city_0487_washington_chelan,397.1249966621399,8.049479166666668,22.002019725618485,dry subhumid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2023,13005294.5485352,95,1157,city_0487_washington_chelan,336.7624931335449,8.9453125,17.77550479220361,semiarid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2024,13005294.5485352,103,2679,city_0487_washington_chelan,404.7312481403351,9.067708333333332,21.226003726562233,dry subhumid,12
-487,"Chelan, WA",Chelan,Washington,Chelan,2025,13005294.5485352,111,3968,city_0487_washington_chelan,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+487,2015,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,71,277,city_0487_washington_chelan,400.349997520447,9.75,20.2708859504024,dry subhumid,12
+487,2016,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,64,305,city_0487_washington_chelan,401.925000667572,9.30989583333333,20.8144572159606,dry subhumid,12
+487,2017,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,72,368,city_0487_washington_chelan,441.925004005432,8.23697916666667,24.2323577806777,dry subhumid,12
+487,2018,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,82,525,city_0487_washington_chelan,362.756256818771,8.72395833333333,19.3739085700151,semiarid,12
+487,2019,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,88,541,city_0487_washington_chelan,332.762495040894,7.79947916666667,18.6950692166354,semiarid,12
+487,2020,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,76,446,city_0487_washington_chelan,396.93749666214,8.63541666666667,21.3001675123339,dry subhumid,12
+487,2021,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,92,726,city_0487_washington_chelan,370.868744850159,8.953125,19.567683157799,semiarid,12
+487,2022,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,83,786,city_0487_washington_chelan,397.12499666214,8.04947916666667,22.0020197256185,dry subhumid,12
+487,2023,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,95,1157,city_0487_washington_chelan,336.762493133545,8.9453125,17.7755047922036,semiarid,12
+487,2024,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,103,2679,city_0487_washington_chelan,404.731248140335,9.06770833333333,21.2260037265622,dry subhumid,12
+487,2025,"Chelan, WA",Chelan,Washington,Chelan,99.9999999999739,111,3968,city_0487_washington_chelan,,,,,

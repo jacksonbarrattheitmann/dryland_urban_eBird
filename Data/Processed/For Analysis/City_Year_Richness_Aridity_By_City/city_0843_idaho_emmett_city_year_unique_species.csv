@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-843,"Emmett, ID",Emmett,Idaho,Gem,2015,14622148.1833154,34,60,city_0843_idaho_emmett,372.0812530517578,11.877604166666668,17.00740401998274,semiarid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2016,14622148.1833154,18,49,city_0843_idaho_emmett,382.8812506198883,11.388020833333332,17.90166811616183,semiarid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2017,14622148.1833154,21,36,city_0843_idaho_emmett,529.3687555789948,10.645833333333332,25.64046444782215,dry subhumid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2018,14622148.1833154,40,61,city_0843_idaho_emmett,391.3375012874603,10.966145833333332,18.66520935217796,semiarid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2019,14622148.1833154,49,1213,city_0843_idaho_emmett,441.47499656677246,10.088541666666666,21.97645821644291,dry subhumid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2020,14622148.1833154,73,3506,city_0843_idaho_emmett,461.1187496185303,11.3046875,21.644004382534607,dry subhumid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2021,14622148.1833154,72,5016,city_0843_idaho_emmett,382.9312529563904,11.770833333333332,17.589186738666736,semiarid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2022,14622148.1833154,76,5459,city_0843_idaho_emmett,433.3999996185303,10.692708333333332,20.94457586880388,dry subhumid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2023,14622148.1833154,62,3119,city_0843_idaho_emmett,412.5500018596649,11.263020833333332,19.402229113791957,semiarid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2024,14622148.1833154,49,1500,city_0843_idaho_emmett,491.6375048160553,11.8671875,22.48288696550735,dry subhumid,12
-843,"Emmett, ID",Emmett,Idaho,Gem,2025,14622148.1833154,47,290,city_0843_idaho_emmett,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+843,2015,"Emmett, ID",Emmett,Idaho,Gem,100,34,60,city_0843_idaho_emmett,372.081253051758,11.8776041666667,17.0074040199827,semiarid,12
+843,2016,"Emmett, ID",Emmett,Idaho,Gem,100,18,49,city_0843_idaho_emmett,382.881250619888,11.3880208333333,17.9016681161618,semiarid,12
+843,2017,"Emmett, ID",Emmett,Idaho,Gem,100,21,36,city_0843_idaho_emmett,529.368755578995,10.6458333333333,25.6404644478222,dry subhumid,12
+843,2018,"Emmett, ID",Emmett,Idaho,Gem,100,40,61,city_0843_idaho_emmett,391.33750128746,10.9661458333333,18.665209352178,semiarid,12
+843,2019,"Emmett, ID",Emmett,Idaho,Gem,100,49,1213,city_0843_idaho_emmett,441.474996566773,10.0885416666667,21.9764582164429,dry subhumid,12
+843,2020,"Emmett, ID",Emmett,Idaho,Gem,100,73,3506,city_0843_idaho_emmett,461.11874961853,11.3046875,21.6440043825346,dry subhumid,12
+843,2021,"Emmett, ID",Emmett,Idaho,Gem,100,72,5016,city_0843_idaho_emmett,382.93125295639,11.7708333333333,17.5891867386667,semiarid,12
+843,2022,"Emmett, ID",Emmett,Idaho,Gem,100,76,5459,city_0843_idaho_emmett,433.39999961853,10.6927083333333,20.9445758688039,dry subhumid,12
+843,2023,"Emmett, ID",Emmett,Idaho,Gem,100,62,3119,city_0843_idaho_emmett,412.550001859665,11.2630208333333,19.402229113792,semiarid,12
+843,2024,"Emmett, ID",Emmett,Idaho,Gem,100,49,1500,city_0843_idaho_emmett,491.637504816055,11.8671875,22.4828869655074,dry subhumid,12
+843,2025,"Emmett, ID",Emmett,Idaho,Gem,100,47,290,city_0843_idaho_emmett,,,,,

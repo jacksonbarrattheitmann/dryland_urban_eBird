@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-399,"Cameron, TX",Cameron,Texas,Milam,2015,8013107.15517867,16,16,city_0399_texas_cameron,1227.0937614440918,20.567708333333332,40.14346604144925,humid,12
-399,"Cameron, TX",Cameron,Texas,Milam,2017,8013107.15517867,4,4,city_0399_texas_cameron,816.1687564849854,21.34375,26.039282360438214,dry subhumid,12
-399,"Cameron, TX",Cameron,Texas,Milam,2019,8013107.15517867,29,34,city_0399_texas_cameron,894.4062595367432,20.4921875,29.33230879341612,dry subhumid,12
-399,"Cameron, TX",Cameron,Texas,Milam,2020,8013107.15517867,30,70,city_0399_texas_cameron,851.7187461853027,21.015625,27.460957055848553,dry subhumid,12
-399,"Cameron, TX",Cameron,Texas,Milam,2021,8013107.15517867,21,32,city_0399_texas_cameron,920.9562511444092,20.541666666666668,30.154092806911077,humid,12
-399,"Cameron, TX",Cameron,Texas,Milam,2022,8013107.15517867,18,28,city_0399_texas_cameron,622.6062488555908,20.796875,20.216539790338818,dry subhumid,12
-399,"Cameron, TX",Cameron,Texas,Milam,2023,8013107.15517867,12,14,city_0399_texas_cameron,779.9250030517578,21.486979166666668,24.76976273028492,dry subhumid,12
-399,"Cameron, TX",Cameron,Texas,Milam,2024,8013107.15517867,3,3,city_0399_texas_cameron,884.5874996185303,21.9453125,27.690682306473924,dry subhumid,12
-399,"Cameron, TX",Cameron,Texas,Milam,2025,8013107.15517867,24,41,city_0399_texas_cameron,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+399,2015,"Cameron, TX",Cameron,Texas,Milam,100,16,16,city_0399_texas_cameron,1227.09376144409,20.5677083333333,40.1434660414493,humid,12
+399,2017,"Cameron, TX",Cameron,Texas,Milam,100,4,4,city_0399_texas_cameron,816.168756484985,21.34375,26.0392823604382,dry subhumid,12
+399,2019,"Cameron, TX",Cameron,Texas,Milam,100,29,34,city_0399_texas_cameron,894.406259536743,20.4921875,29.3323087934161,dry subhumid,12
+399,2020,"Cameron, TX",Cameron,Texas,Milam,100,30,70,city_0399_texas_cameron,851.718746185303,21.015625,27.4609570558486,dry subhumid,12
+399,2021,"Cameron, TX",Cameron,Texas,Milam,100,21,32,city_0399_texas_cameron,920.956251144409,20.5416666666667,30.1540928069111,humid,12
+399,2022,"Cameron, TX",Cameron,Texas,Milam,100,18,28,city_0399_texas_cameron,622.606248855591,20.796875,20.2165397903388,dry subhumid,12
+399,2023,"Cameron, TX",Cameron,Texas,Milam,100,12,14,city_0399_texas_cameron,779.925003051758,21.4869791666667,24.7697627302849,dry subhumid,12
+399,2024,"Cameron, TX",Cameron,Texas,Milam,100,3,3,city_0399_texas_cameron,884.58749961853,21.9453125,27.6906823064739,dry subhumid,12
+399,2025,"Cameron, TX",Cameron,Texas,Milam,100,24,41,city_0399_texas_cameron,,,,,

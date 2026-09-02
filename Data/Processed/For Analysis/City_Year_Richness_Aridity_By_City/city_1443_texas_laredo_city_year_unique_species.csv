@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1443,"Laredo, TX",Laredo,Texas,Webb,2015,170998624.052364,170,2622,city_1443_texas_laredo,627.5999889373779,23.354166666666668,18.81623951842232,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2016,170998624.052364,216,5605,city_1443_texas_laredo,651.4000053405762,23.96875,19.17644909926259,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2017,170998624.052364,177,2500,city_1443_texas_laredo,465.12499713897705,24.1484375,13.62068168240427,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2018,170998624.052364,173,2461,city_1443_texas_laredo,529.5124888420105,23.59375,15.762232225994731,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2019,170998624.052364,183,3705,city_1443_texas_laredo,401.94374799728394,23.536458333333332,11.98527715724158,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2020,170998624.052364,171,3902,city_1443_texas_laredo,389.8062477111816,24.127604166666668,11.422022061891928,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2021,170998624.052364,189,3375,city_1443_texas_laredo,535.6312446594238,23.4453125,16.01513649063449,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2022,170998624.052364,207,4676,city_1443_texas_laredo,381.9687490463257,23.8125,11.296672799891333,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2023,170998624.052364,208,5437,city_1443_texas_laredo,507.3562445640564,24.536458333333332,14.69045377112032,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2024,170998624.052364,216,5272,city_1443_texas_laredo,460.71875381469727,24.770833333333332,13.250149900003278,semiarid,12
-1443,"Laredo, TX",Laredo,Texas,Webb,2025,170998624.052364,228,9011,city_1443_texas_laredo,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1443,2015,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,170,2622,city_1443_texas_laredo,627.599988937378,23.3541666666667,18.8162395184223,semiarid,12
+1443,2016,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,216,5605,city_1443_texas_laredo,651.400005340576,23.96875,19.1764490992626,semiarid,12
+1443,2017,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,177,2500,city_1443_texas_laredo,465.124997138977,24.1484375,13.6206816824043,semiarid,12
+1443,2018,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,173,2461,city_1443_texas_laredo,529.512488842011,23.59375,15.7622322259947,semiarid,12
+1443,2019,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,183,3705,city_1443_texas_laredo,401.943747997284,23.5364583333333,11.9852771572416,semiarid,12
+1443,2020,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,171,3902,city_1443_texas_laredo,389.806247711182,24.1276041666667,11.4220220618919,semiarid,12
+1443,2021,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,189,3375,city_1443_texas_laredo,535.631244659424,23.4453125,16.0151364906345,semiarid,12
+1443,2022,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,207,4676,city_1443_texas_laredo,381.968749046326,23.8125,11.2966727998913,semiarid,12
+1443,2023,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,208,5437,city_1443_texas_laredo,507.356244564056,24.5364583333333,14.6904537711203,semiarid,12
+1443,2024,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,216,5272,city_1443_texas_laredo,460.718753814697,24.7708333333333,13.2501499000033,semiarid,12
+1443,2025,"Laredo, TX",Laredo,Texas,Webb,99.9999885357141,228,9013,city_1443_texas_laredo,,,,,

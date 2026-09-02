@@ -1,9 +1,9 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S24297192	2015-06-15	L1774261	Texas-Childress Co.-Childress motel	House Sparrow	Passer domesticus	31534	species	4	34.4331647	-100.2242469	Stationary	1	0
 S24297192	2015-06-15	L1774261	Texas-Childress Co.-Childress motel	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	34.4331647	-100.2242469	Stationary	1	0
 S24297192	2015-06-15	L1774261	Texas-Childress Co.-Childress motel	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4331647	-100.2242469	Stationary	1	0
 S24297192	2015-06-15	L1774261	Texas-Childress Co.-Childress motel	Western Kingbird	Tyrannus verticalis	17467	species	1	34.4331647	-100.2242469	Stationary	1	0
 S24297192	2015-06-15	L1774261	Texas-Childress Co.-Childress motel	Rock Pigeon	Columba livia	1868	domestic	1	34.4331647	-100.2242469	Stationary	1	0
-S24297192	2015-06-15	L1774261	Texas-Childress Co.-Childress motel	House Sparrow	Passer domesticus	31534	species	4	34.4331647	-100.2242469	Stationary	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	House Finch	Haemorhous mexicanus	32310	species	1	34.4339590	-100.2257520	Traveling	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	Mourning Dove	Zenaida macroura	2412	species	15	34.4339590	-100.2257520	Traveling	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	Northern Mockingbird	Mimus polyglottos	28114	species	2	34.4339590	-100.2257520	Traveling	1	0
@@ -16,8 +16,8 @@ S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.22
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	White-winged Dove	Zenaida asiatica	2389	species	5	34.4339590	-100.2257520	Traveling	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	American Robin	Turdus migratorius	28633	species	4	34.4339590	-100.2257520	Traveling	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	Rock Pigeon	Columba livia	1868	domestic	5	34.4339590	-100.2257520	Traveling	1	0
-S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	13	34.4339590	-100.2257520	Traveling	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	Great Blue Heron	Ardea herodias	7753	species	2	34.4339590	-100.2257520	Traveling	1	0
+S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	13	34.4339590	-100.2257520	Traveling	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	Blue Jay	Cyanocitta cristata	21294	species	1	34.4339590	-100.2257520	Traveling	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	Belted Kingfisher	Megaceryle alcyon	10306	species	2	34.4339590	-100.2257520	Traveling	1	0
 S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.2258)	European Starling	Sturnus vulgaris	27813	species	15	34.4339590	-100.2257520	Traveling	1	0
@@ -26,57 +26,57 @@ S37809470	2017-06-26	L6020817	1911 Avenue F NW, Childress US-TX (34.4340,-100.22
 S56803832	2019-05-27	L9355759	Childress (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	34.4269701	-100.2054633	Traveling	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	White-winged Dove	Zenaida asiatica	2389	species	2	34.4269701	-100.2054633	Traveling	1	0
 S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	White-winged Dove	Zenaida asiatica	2389	species	1	34.4256550	-100.2004110	Stationary	1	0
-S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Chimney Swift	Chaetura pelagica	3896	species	1	34.4256550	-100.2004110	Stationary	1	0
 S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	House Sparrow	Passer domesticus	31534	species	2	34.4256550	-100.2004110	Stationary	1	0
 S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	34.4256550	-100.2004110	Stationary	1	0
 S51828244	2019-01-15	L8456883	Hwys 83 at 2887	European Starling	Sturnus vulgaris	27813	species	19	34.4353714	-100.2261370	Stationary	1	0
-S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	34.4256550	-100.2004110	Stationary	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	Blue Jay	Cyanocitta cristata	21294	species	1	34.4269701	-100.2054633	Traveling	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	34.4269701	-100.2054633	Traveling	1	0
-S56803832	2019-05-27	L9355759	Childress (town)	Bewick's Wren	Thryomanes bewickii	27362	species	1	34.4269701	-100.2054633	Traveling	1	0
-S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4256550	-100.2004110	Stationary	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	European Starling	Sturnus vulgaris	27813	species	15	34.4269701	-100.2054633	Traveling	1	0
 S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	White-winged Dove	Zenaida asiatica	2389	species	3	34.4256550	-100.2004110	Stationary	1	0
 S51828244	2019-01-15	L8456883	Hwys 83 at 2887	House Sparrow	Passer domesticus	31534	species	1	34.4353714	-100.2261370	Stationary	1	0
 S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Mourning Dove	Zenaida macroura	2412	species	1	34.4256550	-100.2004110	Stationary	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	American Robin	Turdus migratorius	28633	species	6	34.4269701	-100.2054633	Traveling	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	House Sparrow	Passer domesticus	31534	species	5	34.4269701	-100.2054633	Traveling	1	0
-S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	34.4256550	-100.2004110	Stationary	1	0
 S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	American Robin	Turdus migratorius	28633	species	1	34.4256550	-100.2004110	Stationary	1	0
 S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Turkey Vulture	Cathartes aura	7815	species	1	34.4256550	-100.2004110	Stationary	1	0
 S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	34.4256550	-100.2004110	Stationary	1	0
-S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	European Starling	Sturnus vulgaris	27813	species	2	34.4256550	-100.2004110	Stationary	1	0
-S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	American Robin	Turdus migratorius	28633	species	1	34.4256550	-100.2004110	Stationary	1	0
-S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Mourning Dove	Zenaida macroura	2412	species	1	34.4256550	-100.2004110	Stationary	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	34.4269701	-100.2054633	Traveling	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	Western Kingbird	Tyrannus verticalis	17467	species	10	34.4269701	-100.2054633	Traveling	1	0
-S56803832	2019-05-27	L9355759	Childress (town)	Mississippi Kite	Ictinia mississippiensis	8388	species	3	34.4269701	-100.2054633	Traveling	1	0
 S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Common Grackle	Quiscalus quiscula	33853	species	1	34.4256550	-100.2004110	Stationary	1	0
 S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	European Starling	Sturnus vulgaris	27813	species	2	34.4256550	-100.2004110	Stationary	1	0
-S56803832	2019-05-27	L9355759	Childress (town)	Barn Swallow	Hirundo rustica	24187	species	3	34.4269701	-100.2054633	Traveling	1	0
-S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	swallow sp.	Hirundinidae sp.	24305	spuh	4	34.4256550	-100.2004110	Stationary	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	Turkey Vulture	Cathartes aura	7815	species	2	34.4269701	-100.2054633	Traveling	1	0
 S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Purple Martin	Progne subis	24081	species	1	34.4256550	-100.2004110	Stationary	1	0
 S56803832	2019-05-27	L9355759	Childress (town)	Northern Mockingbird	Mimus polyglottos	28114	species	2	34.4269701	-100.2054633	Traveling	1	0
 S51828244	2019-01-15	L8456883	Hwys 83 at 2887	White-winged Dove	Zenaida asiatica	2389	species	2	34.4353714	-100.2261370	Stationary	1	0
+S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Chimney Swift	Chaetura pelagica	3896	species	1	34.4256550	-100.2004110	Stationary	1	0
+S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	34.4256550	-100.2004110	Stationary	1	0
+S56803832	2019-05-27	L9355759	Childress (town)	Bewick's Wren	Thryomanes bewickii	27362	species	1	34.4269701	-100.2054633	Traveling	1	0
+S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4256550	-100.2004110	Stationary	1	0
+S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	34.4256550	-100.2004110	Stationary	1	0
+S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	European Starling	Sturnus vulgaris	27813	species	2	34.4256550	-100.2004110	Stationary	1	0
+S57299068	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	American Robin	Turdus migratorius	28633	species	1	34.4256550	-100.2004110	Stationary	1	0
+S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	Mourning Dove	Zenaida macroura	2412	species	1	34.4256550	-100.2004110	Stationary	1	0
+S56803832	2019-05-27	L9355759	Childress (town)	Mississippi Kite	Ictinia mississippiensis	8388	species	3	34.4269701	-100.2054633	Traveling	1	0
+S56803832	2019-05-27	L9355759	Childress (town)	Barn Swallow	Hirundo rustica	24187	species	3	34.4269701	-100.2054633	Traveling	1	0
+S57299070	2019-06-09	L9452639	Childress Super 8 Motel (34.4257,-100.2004)	swallow sp.	Hirundinidae sp.	24305	spuh	4	34.4256550	-100.2004110	Stationary	1	0
 S69078912	2020-05-15	L11451275	2111 Avenue F Northwest, Childress, Texas, US (34.435, -100.228)	House Sparrow	Passer domesticus	31534	species	2	34.4349026	-100.2284530	Traveling	1	0
 S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	European Starling	Sturnus vulgaris	27813	species	38	34.4233720	-100.1963670	Traveling	1	0
-S69078912	2020-05-15	L11451275	2111 Avenue F Northwest, Childress, Texas, US (34.435, -100.228)	Chimney Swift	Chaetura pelagica	3896	species	1	34.4349026	-100.2284530	Traveling	1	0
 S69078912	2020-05-15	L11451275	2111 Avenue F Northwest, Childress, Texas, US (34.435, -100.228)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	34.4349026	-100.2284530	Traveling	1	0
+S69078912	2020-05-15	L11451275	2111 Avenue F Northwest, Childress, Texas, US (34.435, -100.228)	Chimney Swift	Chaetura pelagica	3896	species	1	34.4349026	-100.2284530	Traveling	1	0
 S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	Great-tailed Grackle	Quiscalus mexicanus	33864	species	10	34.4233720	-100.1963670	Traveling	1	0
 S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	Rock Pigeon	Columba livia	1868	domestic	3	34.4233720	-100.1963670	Traveling	1	0
 S69078912	2020-05-15	L11451275	2111 Avenue F Northwest, Childress, Texas, US (34.435, -100.228)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	34.4349026	-100.2284530	Traveling	1	0
 S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	American Robin	Turdus migratorius	28633	species	4	34.4233720	-100.1963670	Traveling	1	0
-S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	Mourning Dove	Zenaida macroura	2412	species	1	34.4233720	-100.1963670	Traveling	1	0
+S69078912	2020-05-15	L11451275	2111 Avenue F Northwest, Childress, Texas, US (34.435, -100.228)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	5	34.4349026	-100.2284530	Traveling	1	0
 S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	34.4233720	-100.1963670	Traveling	1	0
 S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	White-winged Dove	Zenaida asiatica	2389	species	2	34.4233720	-100.1963670	Traveling	1	0
-S69078912	2020-05-15	L11451275	2111 Avenue F Northwest, Childress, Texas, US (34.435, -100.228)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	5	34.4349026	-100.2284530	Traveling	1	0
+S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	Mourning Dove	Zenaida macroura	2412	species	1	34.4233720	-100.1963670	Traveling	1	0
 S65643346	2020-03-10	L10936046	800 Avenue F NE, Childress US-TX 34.42337, -100.19637	House Sparrow	Passer domesticus	31534	species	6	34.4233720	-100.1963670	Traveling	1	0
 S69078912	2020-05-15	L11451275	2111 Avenue F Northwest, Childress, Texas, US (34.435, -100.228)	Purple Martin	Progne subis	24081	species	3	34.4349026	-100.2284530	Traveling	1	0
 S83421179	2021-03-14	L14037324	Garrisons, Childress, Texas, US (34.425, -100.201)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	35	34.4249023	-100.2009839	Stationary	1	0
 S83421179	2021-03-14	L14037324	Garrisons, Childress, Texas, US (34.425, -100.201)	European Starling	Sturnus vulgaris	27813	species	50	34.4249023	-100.2009839	Stationary	1	0
-S95861334	2021-10-09	L16595844	2111 Avenue F NW, Childress US-TX 34.43484, -100.22844	European Starling	Sturnus vulgaris	27813	species	2	34.4348430	-100.2284350	Traveling	1	0
 S83421179	2021-03-14	L14037324	Garrisons, Childress, Texas, US (34.425, -100.201)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	34.4249023	-100.2009839	Stationary	1	0
+S95861334	2021-10-09	L16595844	2111 Avenue F NW, Childress US-TX 34.43484, -100.22844	European Starling	Sturnus vulgaris	27813	species	2	34.4348430	-100.2284350	Traveling	1	0
 S95861334	2021-10-09	L16595844	2111 Avenue F NW, Childress US-TX 34.43484, -100.22844	House Sparrow	Passer domesticus	31534	species	1	34.4348430	-100.2284350	Traveling	1	0
 S104429793	2022-03-08	L18050230	Childress Supercharger	European Starling	Sturnus vulgaris	27813	species	6	34.4324460	-100.2187370	Stationary	1	0
 S115376207	2022-07-19	L20207421	400 Madison Ave, Childress US-TX 34.43502, -100.23268	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4350230	-100.2326800	Traveling	1	0
@@ -89,113 +89,113 @@ S115376207	2022-07-19	L20207421	400 Madison Ave, Childress US-TX 34.43502, -100.
 S115376207	2022-07-19	L20207421	400 Madison Ave, Childress US-TX 34.43502, -100.23268	White-winged Dove	Zenaida asiatica	2389	species	1	34.4350230	-100.2326800	Traveling	1	0
 S115376207	2022-07-19	L20207421	400 Madison Ave, Childress US-TX 34.43502, -100.23268	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	34.4350230	-100.2326800	Traveling	1	0
 S151356556	2023-10-03	L988359	Childress Co	Common Grackle	Quiscalus quiscula	33853	species	1	34.4264344	-100.2044427	Stationary	1	0
-S149956243	2023-09-15	L15678505	Childress-Childress, Texas, US (34.426, -100.206)	Rock Pigeon	Columba livia	1868	domestic	15	34.4255812	-100.2060045	Traveling	1	0
 S149956243	2023-09-15	L15678505	Childress-Childress, Texas, US (34.426, -100.206)	Blue Jay	Cyanocitta cristata	21294	species	1	34.4255812	-100.2060045	Traveling	1	0
-S149956243	2023-09-15	L15678505	Childress-Childress, Texas, US (34.426, -100.206)	Chimney Swift	Chaetura pelagica	3896	species	3	34.4255812	-100.2060045	Traveling	1	0
+S149956243	2023-09-15	L15678505	Childress-Childress, Texas, US (34.426, -100.206)	Rock Pigeon	Columba livia	1868	domestic	15	34.4255812	-100.2060045	Traveling	1	0
 S151356556	2023-10-03	L988359	Childress Co	European Starling	Sturnus vulgaris	27813	species	11	34.4264344	-100.2044427	Stationary	1	0
-S151356556	2023-10-03	L988359	Childress Co	Mourning Dove	Zenaida macroura	2412	species	1	34.4264344	-100.2044427	Stationary	1	0
+S149956243	2023-09-15	L15678505	Childress-Childress, Texas, US (34.426, -100.206)	Chimney Swift	Chaetura pelagica	3896	species	3	34.4255812	-100.2060045	Traveling	1	0
 S151356556	2023-10-03	L988359	Childress Co	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	34.4264344	-100.2044427	Stationary	1	0
+S151356556	2023-10-03	L988359	Childress Co	Mourning Dove	Zenaida macroura	2412	species	1	34.4264344	-100.2044427	Stationary	1	0
 S151356556	2023-10-03	L988359	Childress Co	House Sparrow	Passer domesticus	31534	species	26	34.4264344	-100.2044427	Stationary	1	0
 S149956243	2023-09-15	L15678505	Childress-Childress, Texas, US (34.426, -100.206)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	34.4255812	-100.2060045	Traveling	1	0
 S151356556	2023-10-03	L988359	Childress Co	Rock Pigeon	Columba livia	1868	domestic	8	34.4264344	-100.2044427	Stationary	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Mourning Dove	Zenaida macroura	2412	species	2	34.4388190	-100.2258090	Traveling	1	0
+S188187205	2024-07-21	L35007249	Childress City Center	hawk sp.	Accipitridae sp. (hawk sp.)	8576	spuh	1	34.4300566	-100.2138418	Stationary	1	0
 S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	House Sparrow	Passer domesticus	31534	species	6	34.4262043	-100.2024150	Traveling	1	0
 S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Northern Bobwhite	Colinus virginianus	1026	species	1	34.4262043	-100.2024150	Traveling	1	0
-S188187205	2024-07-21	L35007249	Childress City Center	hawk sp.	Accipitridae sp. (hawk sp.)	8576	spuh	1	34.4300566	-100.2138418	Stationary	1	0
-S203257372	2024-11-22	L38180887	Childress Hampton Inn	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	34.4353330	-100.2329450	Traveling	1	0
 S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	House Finch	Haemorhous mexicanus	32310	species	5	34.4262043	-100.2024150	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Mourning Dove	Zenaida macroura	2412	species	2	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Ruddy Duck	Oxyura jamaicensis	778	species	12	34.4388190	-100.2258090	Traveling	1	0
 S168559843	2024-04-14	L30621937	2008 Avenue F Northwest, Childress, Texas, US (34.436, -100.228)	European Starling	Sturnus vulgaris	27813	species	8	34.4357165	-100.2277269	Stationary	1	0
 S199470600	2024-10-19	L37444787	Starbucks	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	34.4337588	-100.2249258	Traveling	1	0
+S203257372	2024-11-22	L38180887	Childress Hampton Inn	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	34.4353330	-100.2329450	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Rock Pigeon	Columba livia	1868	domestic	10	34.4388190	-100.2258090	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Northern Cardinal	Cardinalis cardinalis	34515	species	3	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Mallard	Anas platyrhynchos	545	species	20	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Carolina Chickadee	Poecile carolinensis	22060	species	1	34.4388190	-100.2258090	Traveling	1	0
+S184381758	2024-06-29	L34063372	1510 Avenue F NW, Childress US-TX 34.43285, -100.22095	Turkey Vulture	Cathartes aura	7815	species	1	34.4328450	-100.2209500	Stationary	1	0
 S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	34.4262043	-100.2024150	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Northern Flicker	Colaptes auratus	11900	species	1	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	1	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Mallard	Anas platyrhynchos	545	species	20	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Carolina Chickadee	Poecile carolinensis	22060	species	1	34.4388190	-100.2258090	Traveling	1	0
 S168559843	2024-04-14	L30621937	2008 Avenue F Northwest, Childress, Texas, US (34.436, -100.228)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4357165	-100.2277269	Stationary	1	0
 S169528547	2024-04-20	L30808559	Days Inn Water Feature	House Sparrow	Passer domesticus	31534	species	5	34.4368188	-100.2308952	Stationary	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Northern Cardinal	Cardinalis cardinalis	34515	species	3	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Rock Pigeon	Columba livia	1868	domestic	10	34.4388190	-100.2258090	Traveling	1	0
 S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Rock Pigeon	Columba livia	1868	domestic	1	34.4342350	-100.2263020	Traveling	1	0
-S184381758	2024-06-29	L34063372	1510 Avenue F NW, Childress US-TX 34.43285, -100.22095	Turkey Vulture	Cathartes aura	7815	species	1	34.4328450	-100.2209500	Stationary	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	3	34.4388190	-100.2258090	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Hooded Merganser	Lophodytes cucullatus	754	species	22	34.4388190	-100.2258090	Traveling	1	0
-S169528547	2024-04-20	L30808559	Days Inn Water Feature	Orchard Oriole	Icterus spurius	33679	species	1	34.4368188	-100.2308952	Stationary	1	0
-S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4342350	-100.2263020	Traveling	1	0
-S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Common Grackle	Quiscalus quiscula	33853	species	10	34.4342350	-100.2263020	Traveling	1	0
 S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4262043	-100.2024150	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	34.4388190	-100.2258090	Traveling	1	0
-S169528547	2024-04-20	L30808559	Days Inn Water Feature	American Robin	Turdus migratorius	28633	species	1	34.4368188	-100.2308952	Stationary	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Song Sparrow	Melospiza melodia	33277	species	3	34.4388190	-100.2258090	Traveling	1	0
+S169528547	2024-04-20	L30808559	Days Inn Water Feature	American Robin	Turdus migratorius	28633	species	1	34.4368188	-100.2308952	Stationary	1	0
 S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	34.4324410	-100.2184970	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Yellow-rumped Warbler	Setophaga coronata	34159	species	7	34.4388190	-100.2258090	Traveling	1	1
-S158149167	2024-01-05	L28649270	Childress Area	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	34.4388190	-100.2258090	Traveling	1	0
+S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Common Grackle	Quiscalus quiscula	33853	species	10	34.4342350	-100.2263020	Traveling	1	0
 S188187205	2024-07-21	L35007249	Childress City Center	Mourning Dove	Zenaida macroura	2412	species	2	34.4300566	-100.2138418	Stationary	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	3	34.4388190	-100.2258090	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Hooded Merganser	Lophodytes cucullatus	754	species	22	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	34.4388190	-100.2258090	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Yellow-rumped Warbler	Setophaga coronata	34159	species	7	34.4388190	-100.2258090	Traveling	1	1
+S169528547	2024-04-20	L30808559	Days Inn Water Feature	Orchard Oriole	Icterus spurius	33679	species	1	34.4368188	-100.2308952	Stationary	1	0
+S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4342350	-100.2263020	Traveling	1	0
 S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	European Starling	Sturnus vulgaris	27813	species	2	34.4324410	-100.2184970	Traveling	1	0
 S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Mississippi Kite	Ictinia mississippiensis	8388	species	1	34.4262043	-100.2024150	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Northern Flicker	Colaptes auratus	11900	species	1	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	American Wigeon	Mareca americana	517	species	15	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Mallard	Anas platyrhynchos	548	domestic	15	34.4388190	-100.2258090	Traveling	1	0
+S203257372	2024-11-22	L38180887	Childress Hampton Inn	House Sparrow	Passer domesticus	31534	species	33	34.4353330	-100.2329450	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	American Wigeon	Mareca americana	517	species	15	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Blue Jay	Cyanocitta cristata	21294	species	6	34.4388190	-100.2258090	Traveling	1	0
 S168559843	2024-04-14	L30621937	2008 Avenue F Northwest, Childress, Texas, US (34.436, -100.228)	House Sparrow	Passer domesticus	31534	species	3	34.4357165	-100.2277269	Stationary	1	0
 S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	European Starling	Sturnus vulgaris	27813	species	1	34.4342350	-100.2263020	Traveling	1	0
-S189412604	2024-07-28	L35007249	Childress City Center	White-winged Dove	Zenaida asiatica	2389	species	1	34.4300566	-100.2138418	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Blue Jay	Cyanocitta cristata	21294	species	6	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	34.4388190	-100.2258090	Traveling	1	0
 S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	34.4342350	-100.2263020	Traveling	1	0
-S203257372	2024-11-22	L38180887	Childress Hampton Inn	House Sparrow	Passer domesticus	31534	species	33	34.4353330	-100.2329450	Traveling	1	0
+S189412604	2024-07-28	L35007249	Childress City Center	White-winged Dove	Zenaida asiatica	2389	species	1	34.4300566	-100.2138418	Traveling	1	0
 S203259909	2024-11-22	L18050230	Childress Supercharger	European Starling	Sturnus vulgaris	27813	species	7	34.4324460	-100.2187370	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Mourning Dove	Zenaida macroura	2412	species	2	34.4388190	-100.2258090	Traveling	1	0
-S189412604	2024-07-28	L35007249	Childress City Center	American Crow	Corvus brachyrhynchos	21557	species	1	34.4300566	-100.2138418	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	American Coot	Fulica americana	5500	species	5	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Yellow-rumped Warbler	Setophaga coronata	34159	species	7	34.4388190	-100.2258090	Traveling	1	1
 S158418635	2024-01-05	L28649270	Childress Area	Great Blue Heron	Ardea herodias	7753	species	1	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	American Coot	Fulica americana	5500	species	5	34.4388190	-100.2258090	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Mourning Dove	Zenaida macroura	2412	species	2	34.4388190	-100.2258090	Traveling	1	0
 S167931695	2024-04-09	L30493248	901 Avenue F Northeast, Childress, Texas, US (34.423, -100.196)	European Starling	Sturnus vulgaris	27813	species	5	34.4232283	-100.1957549	Traveling	1	0
+S189412604	2024-07-28	L35007249	Childress City Center	American Crow	Corvus brachyrhynchos	21557	species	1	34.4300566	-100.2138418	Traveling	1	0
 S203257372	2024-11-22	L38180887	Childress Hampton Inn	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	9	34.4353330	-100.2329450	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	European Starling	Sturnus vulgaris	27813	species	20	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	House Sparrow	Passer domesticus	31534	species	1	34.4388190	-100.2258090	Traveling	1	0
-S167931695	2024-04-09	L30493248	901 Avenue F Northeast, Childress, Texas, US (34.423, -100.196)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	34.4232283	-100.1957549	Traveling	1	0
-S184381758	2024-06-29	L34063372	1510 Avenue F NW, Childress US-TX 34.43285, -100.22095	Northern Mockingbird	Mimus polyglottos	28114	species	1	34.4328450	-100.2209500	Stationary	1	0
 S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Northern Mockingbird	Mimus polyglottos	28114	species	1	34.4262043	-100.2024150	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	House Sparrow	Passer domesticus	31534	species	1	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	European Starling	Sturnus vulgaris	27813	species	20	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Ross's Goose	Anser rossii	272	species	1	34.4388190	-100.2258090	Traveling	1	0
+S167931695	2024-04-09	L30493248	901 Avenue F Northeast, Childress, Texas, US (34.423, -100.196)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	34.4232283	-100.1957549	Traveling	1	0
 S169528547	2024-04-20	L30808559	Days Inn Water Feature	European Starling	Sturnus vulgaris	27813	species	2	34.4368188	-100.2308952	Stationary	1	0
-S205085539	2024-12-08	L35007249	Childress City Center	House Sparrow	Passer domesticus	31534	species	2	34.4300566	-100.2138418	Stationary	1	0
 S203257372	2024-11-22	L38180887	Childress Hampton Inn	Snow Goose	Anser caerulescens	267	species	2	34.4353330	-100.2329450	Traveling	1	0
-S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	34.4262043	-100.2024150	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Dark-eyed Junco	Junco hyemalis	33124	species	15	34.4388190	-100.2258090	Traveling	1	0
+S184381758	2024-06-29	L34063372	1510 Avenue F NW, Childress US-TX 34.43285, -100.22095	Northern Mockingbird	Mimus polyglottos	28114	species	1	34.4328450	-100.2209500	Stationary	1	0
+S205085539	2024-12-08	L35007249	Childress City Center	House Sparrow	Passer domesticus	31534	species	2	34.4300566	-100.2138418	Stationary	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Canada Goose	Branta canadensis	342	species	6	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Cackling Goose	Branta hutchinsii	331	species	75	34.4388190	-100.2258090	Traveling	1	0
+S169528547	2024-04-20	L30808559	Days Inn Water Feature	Great-tailed Grackle	Quiscalus mexicanus	33869	issf	3	34.4368188	-100.2308952	Stationary	1	0
 S184381758	2024-06-29	L34063372	1510 Avenue F NW, Childress US-TX 34.43285, -100.22095	White-winged Dove	Zenaida asiatica	2389	species	1	34.4328450	-100.2209500	Stationary	1	0
 S199470600	2024-10-19	L37444787	Starbucks	European Starling	Sturnus vulgaris	27813	species	12	34.4337588	-100.2249258	Traveling	1	0
-S169528547	2024-04-20	L30808559	Days Inn Water Feature	Great-tailed Grackle	Quiscalus mexicanus	33869	issf	3	34.4368188	-100.2308952	Stationary	1	0
+S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	34.4262043	-100.2024150	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Belted Kingfisher	Megaceryle alcyon	10306	species	1	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Cackling Goose	Branta hutchinsii	331	species	75	34.4388190	-100.2258090	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Canada Goose	Branta canadensis	342	species	6	34.4388190	-100.2258090	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Dark-eyed Junco	Junco hyemalis	33124	species	15	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Ross's Goose	Anser rossii	272	species	1	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Ruddy Duck	Oxyura jamaicensis	778	species	12	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Western Meadowlark	Sturnella neglecta	33565	species	15	34.4388190	-100.2258090	Traveling	1	0
 S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Western Kingbird	Tyrannus verticalis	17467	species	1	34.4342350	-100.2263020	Traveling	1	0
-S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	European Starling	Sturnus vulgaris	27813	species	13	34.4262043	-100.2024150	Traveling	1	0
-S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	Western Kingbird	Tyrannus verticalis	17467	species	2	34.4324410	-100.2184970	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	34.4388190	-100.2258090	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	American Coot	Fulica americana	5500	species	5	34.4388190	-100.2258090	Traveling	1	0
-S188187205	2024-07-21	L35007249	Childress City Center	House Sparrow	Passer domesticus	31534	species	1	34.4300566	-100.2138418	Stationary	1	0
-S158149167	2024-01-05	L28649270	Childress Area	American Robin	Turdus migratorius	28633	species	5	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	American Goldfinch	Spinus tristis	32617	species	3	34.4388190	-100.2258090	Traveling	1	0
+S188187205	2024-07-21	L35007249	Childress City Center	House Sparrow	Passer domesticus	31534	species	1	34.4300566	-100.2138418	Stationary	1	0
+S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	European Starling	Sturnus vulgaris	27813	species	13	34.4262043	-100.2024150	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	American Coot	Fulica americana	5500	species	5	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	American Robin	Turdus migratorius	28633	species	5	34.4388190	-100.2258090	Traveling	1	0
 S167931695	2024-04-09	L30493248	901 Avenue F Northeast, Childress, Texas, US (34.423, -100.196)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	34.4232283	-100.1957549	Traveling	1	0
 S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	House Sparrow	Passer domesticus	31534	species	10	34.4342350	-100.2263020	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	American Robin	Turdus migratorius	28633	species	5	34.4388190	-100.2258090	Traveling	1	0
-S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	Osprey	Pandion haliaetus	7832	species	1	34.4324410	-100.2184970	Traveling	1	0
+S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	Western Kingbird	Tyrannus verticalis	17467	species	2	34.4324410	-100.2184970	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	American Wigeon	Mareca americana	517	species	15	34.4388190	-100.2258090	Traveling	1	0
-S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Chihuahuan Raven	Corvus cryptoleucus	21574	species	1	34.4342350	-100.2263020	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Hooded Merganser	Lophodytes cucullatus	754	species	22	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Golden-fronted Woodpecker	Melanerpes aurifrons	11183	species	3	34.4388190	-100.2258090	Traveling	1	0
-S168768903	2024-04-15	L30662730	2801 Avenue F Northwest, Childress, Texas, US (34.436, -100.234)	House Sparrow	Passer domesticus	31534	species	2	34.4355505	-100.2335977	Traveling	1	0
+S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Chihuahuan Raven	Corvus cryptoleucus	21574	species	1	34.4342350	-100.2263020	Traveling	1	0
 S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	White-winged Dove	Zenaida asiatica	2389	species	2	34.4342350	-100.2263020	Traveling	1	0
+S168768903	2024-04-15	L30662730	2801 Avenue F Northwest, Childress, Texas, US (34.436, -100.234)	House Sparrow	Passer domesticus	31534	species	2	34.4355505	-100.2335977	Traveling	1	0
 S184381758	2024-06-29	L34063372	1510 Avenue F NW, Childress US-TX 34.43285, -100.22095	House Sparrow	Passer domesticus	31534	species	4	34.4328450	-100.2209500	Stationary	1	0
+S158418635	2024-01-05	L28649270	Childress Area	American Robin	Turdus migratorius	28633	species	5	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Hooded Merganser	Lophodytes cucullatus	754	species	22	34.4388190	-100.2258090	Traveling	1	0
+S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	Osprey	Pandion haliaetus	7832	species	1	34.4324410	-100.2184970	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Northern Cardinal	Cardinalis cardinalis	34515	species	3	34.4388190	-100.2258090	Traveling	1	0
+S167931695	2024-04-09	L30493248	901 Avenue F Northeast, Childress, Texas, US (34.423, -100.196)	Rock Pigeon	Columba livia	1868	domestic	1	34.4232283	-100.1957549	Traveling	1	0
 S199470600	2024-10-19	L37444787	Starbucks	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	34.4337588	-100.2249258	Traveling	1	0
 S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Blue Grosbeak	Passerina caerulea	34598	species	1	34.4262043	-100.2024150	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Northern Cardinal	Cardinalis cardinalis	34515	species	3	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Belted Kingfisher	Megaceryle alcyon	10306	species	1	34.4388190	-100.2258090	Traveling	1	0
-S167931695	2024-04-09	L30493248	901 Avenue F Northeast, Childress, Texas, US (34.423, -100.196)	Rock Pigeon	Columba livia	1868	domestic	1	34.4232283	-100.1957549	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Pied-billed Grebe	Podilymbus podiceps	6855	species	2	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Western Meadowlark	Sturnella neglecta	33565	species	15	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Blue Jay	Cyanocitta cristata	21294	species	6	34.4388190	-100.2258090	Traveling	1	0
@@ -203,58 +203,58 @@ S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100
 S165955409	2024-03-25	L17643870	home	Northern Parula	Setophaga americana	34063	species	1	34.4264526	-100.2040024	Stationary	1	1
 S158418635	2024-01-05	L28649270	Childress Area	Carolina Chickadee	Poecile carolinensis	22060	species	1	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Black-crested Titmouse	Baeolophus atricristatus	22163	species	2	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Canada Goose	Branta canadensis	342	species	6	34.4388190	-100.2258090	Traveling	1	0
-S203257372	2024-11-22	L38180887	Childress Hampton Inn	Canada Goose	Branta canadensis	342	species	24	34.4353330	-100.2329450	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Mallard	Anas platyrhynchos	545	species	20	34.4388190	-100.2258090	Traveling	1	0
-S168768903	2024-04-15	L30662730	2801 Avenue F Northwest, Childress, Texas, US (34.436, -100.234)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4355505	-100.2335977	Traveling	1	0
 S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	34.4324410	-100.2184970	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Cackling Goose	Branta hutchinsii	331	species	75	34.4388190	-100.2258090	Traveling	1	0
+S168768903	2024-04-15	L30662730	2801 Avenue F Northwest, Childress, Texas, US (34.436, -100.234)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	34.4355505	-100.2335977	Traveling	1	0
 S172312934	2024-05-05	L31338026	2001 Avenue F NW, Childress US-TX (34.4342,-100.2263)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	11	34.4342350	-100.2263020	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Canada Goose	Branta canadensis	342	species	6	34.4388190	-100.2258090	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Cackling Goose	Branta hutchinsii	331	species	75	34.4388190	-100.2258090	Traveling	1	0
 S168559843	2024-04-14	L30621937	2008 Avenue F Northwest, Childress, Texas, US (34.436, -100.228)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	10	34.4357165	-100.2277269	Stationary	1	0
-S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Rock Pigeon	Columba livia	1868	domestic	3	34.4262043	-100.2024150	Traveling	1	0
-S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	34.4324410	-100.2184970	Traveling	1	0
+S203257372	2024-11-22	L38180887	Childress Hampton Inn	Canada Goose	Branta canadensis	342	species	24	34.4353330	-100.2329450	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Great Blue Heron	Ardea herodias	7753	species	1	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	34.4388190	-100.2258090	Traveling	1	0
+S192751188	2024-08-25	L12757458	Childress (Childress Co. TX)	Rock Pigeon	Columba livia	1868	domestic	3	34.4262043	-100.2024150	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Northern Pintail	Anas acuta	594	species	8	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	House Sparrow	Passer domesticus	31534	species	1	34.4388190	-100.2258090	Traveling	1	0
+S173617271	2024-05-11	L31596966	1311 Avenue G NW, Childress US-TX 34.43244, -100.21850	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	34.4324410	-100.2184970	Traveling	1	0
 S199470600	2024-10-19	L37444787	Starbucks	American Robin	Turdus migratorius	28633	species	1	34.4337588	-100.2249258	Traveling	1	0
-S203259909	2024-11-22	L18050230	Childress Supercharger	Blue Jay	Cyanocitta cristata	21294	species	3	34.4324460	-100.2187370	Traveling	1	0
-S189412604	2024-07-28	L35007249	Childress City Center	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	34.4300566	-100.2138418	Traveling	1	0
-S188187205	2024-07-21	L35007249	Childress City Center	Turkey Vulture	Cathartes aura	7815	species	2	34.4300566	-100.2138418	Stationary	1	0
-S203259909	2024-11-22	L18050230	Childress Supercharger	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	34.4324460	-100.2187370	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Dark-eyed Junco	Junco hyemalis	33124	species	15	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	Mallard	Anas platyrhynchos	548	domestic	15	34.4388190	-100.2258090	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Black-crested Titmouse	Baeolophus atricristatus	22163	species	2	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Dark-eyed Junco	Junco hyemalis	33124	species	15	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Pied-billed Grebe	Podilymbus podiceps	6855	species	2	34.4388190	-100.2258090	Traveling	1	0
+S189412604	2024-07-28	L35007249	Childress City Center	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	34.4300566	-100.2138418	Traveling	1	0
+S199470600	2024-10-19	L37444787	Starbucks	House Sparrow	Passer domesticus	31534	species	7	34.4337588	-100.2249258	Traveling	1	0
+S203259909	2024-11-22	L18050230	Childress Supercharger	Blue Jay	Cyanocitta cristata	21294	species	3	34.4324460	-100.2187370	Traveling	1	0
+S203259909	2024-11-22	L18050230	Childress Supercharger	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	34.4324460	-100.2187370	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Black-crested Titmouse	Baeolophus atricristatus	22163	species	2	34.4388190	-100.2258090	Traveling	1	0
 S167931695	2024-04-09	L30493248	901 Avenue F Northeast, Childress, Texas, US (34.423, -100.196)	House Sparrow	Passer domesticus	31534	species	3	34.4232283	-100.1957549	Traveling	1	0
 S168768903	2024-04-15	L30662730	2801 Avenue F Northwest, Childress, Texas, US (34.436, -100.234)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	34.4355505	-100.2335977	Traveling	1	0
-S199470600	2024-10-19	L37444787	Starbucks	House Sparrow	Passer domesticus	31534	species	7	34.4337588	-100.2249258	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Northern Pintail	Anas acuta	594	species	8	34.4388190	-100.2258090	Traveling	1	0
+S188187205	2024-07-21	L35007249	Childress City Center	Turkey Vulture	Cathartes aura	7815	species	2	34.4300566	-100.2138418	Stationary	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Song Sparrow	Melospiza melodia	33277	species	3	34.4388190	-100.2258090	Traveling	1	0
 S158149167	2024-01-05	L28649270	Childress Area	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	1	34.4388190	-100.2258090	Traveling	1	0
 S158418635	2024-01-05	L28649270	Childress Area	European Starling	Sturnus vulgaris	27813	species	20	34.4388190	-100.2258090	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	American Goldfinch	Spinus tristis	32617	species	3	34.4388190	-100.2258090	Traveling	1	0
-S158418635	2024-01-05	L28649270	Childress Area	Rock Pigeon	Columba livia	1868	domestic	10	34.4388190	-100.2258090	Traveling	1	0
+S168768903	2024-04-15	L30662730	2801 Avenue F Northwest, Childress, Texas, US (34.436, -100.234)	Common Grackle	Quiscalus quiscula	33853	species	2	34.4355505	-100.2335977	Traveling	1	0
+S169528547	2024-04-20	L30808559	Days Inn Water Feature	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	34.4368188	-100.2308952	Stationary	1	1
 S205085539	2024-12-08	L35007249	Childress City Center	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	34.4300566	-100.2138418	Stationary	1	0
 S203257372	2024-11-22	L38180887	Childress Hampton Inn	Rock Pigeon	Columba livia	1868	domestic	3	34.4353330	-100.2329450	Traveling	1	0
-S158149167	2024-01-05	L28649270	Childress Area	Song Sparrow	Melospiza melodia	33277	species	3	34.4388190	-100.2258090	Traveling	1	0
-S169528547	2024-04-20	L30808559	Days Inn Water Feature	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	34.4368188	-100.2308952	Stationary	1	1
-S168768903	2024-04-15	L30662730	2801 Avenue F Northwest, Childress, Texas, US (34.436, -100.234)	Common Grackle	Quiscalus quiscula	33853	species	2	34.4355505	-100.2335977	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	Rock Pigeon	Columba livia	1868	domestic	10	34.4388190	-100.2258090	Traveling	1	0
+S158418635	2024-01-05	L28649270	Childress Area	American Goldfinch	Spinus tristis	32617	species	3	34.4388190	-100.2258090	Traveling	1	0
+S158149167	2024-01-05	L28649270	Childress Area	Northern Pintail	Anas acuta	594	species	8	34.4388190	-100.2258090	Traveling	1	0
 S225209003	2025-04-13	L42565135	2305 Avenue F NW, Childress US-TX 34.43651, -100.23162	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	34.4365140	-100.2316230	Traveling	1	0
 S225209003	2025-04-13	L42565135	2305 Avenue F NW, Childress US-TX 34.43651, -100.23162	House Sparrow	Passer domesticus	31534	species	X	34.4365140	-100.2316230	Traveling	1	0
-S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Brown-headed Cowbird	Molothrus ater	33833	species	2	34.4353180	-100.2364800	Traveling	1	0
 S212295230	2025-02-07	L40032684	2111 Avenue F NW, Childress US-TX 34.43489, -100.22842	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	34.4348940	-100.2284170	Stationary	1	0
+S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Brown-headed Cowbird	Molothrus ater	33833	species	2	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Lark Bunting	Calamospiza melanocorys	33032	species	27	34.4353180	-100.2364800	Traveling	1	1
-S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Northern Harrier	Circus hudsonius	8324	species	1	34.4353180	-100.2364800	Traveling	1	0
-S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Sage Thrasher	Oreoscoptes montanus	28069	species	1	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	House Finch	Haemorhous mexicanus	32310	species	2	34.4353180	-100.2364800	Traveling	1	0
+S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Sage Thrasher	Oreoscoptes montanus	28069	species	1	34.4353180	-100.2364800	Traveling	1	0
 S231187212	2025-04-30	L43764847	2709 Avenue F NW, Childress US-TX 34.43705, -100.23335	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	34.4370520	-100.2333550	Traveling	1	0
 S225209003	2025-04-13	L42565135	2305 Avenue F NW, Childress US-TX 34.43651, -100.23162	Western Kingbird	Tyrannus verticalis	17467	species	1	34.4365140	-100.2316230	Traveling	1	0
+S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Northern Harrier	Circus hudsonius	8324	species	1	34.4353180	-100.2364800	Traveling	1	0
 S212295230	2025-02-07	L40032684	2111 Avenue F NW, Childress US-TX 34.43489, -100.22842	House Sparrow	Passer domesticus	31534	species	2	34.4348940	-100.2284170	Stationary	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Killdeer	Charadrius vociferus	5827	species	1	34.4353180	-100.2364800	Traveling	1	0
+S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Savannah Sparrow	Passerculus sandwichensis	33244	species	1	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	European Starling	Sturnus vulgaris	27813	species	15	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Eastern Phoebe	Sayornis phoebe	17007	species	2	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Turkey Vulture	Cathartes aura	7815	species	2	34.4353180	-100.2364800	Traveling	1	0
-S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Savannah Sparrow	Passerculus sandwichensis	33244	species	1	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Mourning Dove	Zenaida macroura	2412	species	14	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	16	34.4353180	-100.2364800	Traveling	1	0
 S231187212	2025-04-30	L43764847	2709 Avenue F NW, Childress US-TX 34.43705, -100.23335	Mourning Dove	Zenaida macroura	2412	species	2	34.4370520	-100.2333550	Traveling	1	0
@@ -262,21 +262,21 @@ S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100
 S212295230	2025-02-07	L40032684	2111 Avenue F NW, Childress US-TX 34.43489, -100.22842	European Starling	Sturnus vulgaris	27813	species	1	34.4348940	-100.2284170	Stationary	1	0
 S231187212	2025-04-30	L43764847	2709 Avenue F NW, Childress US-TX 34.43705, -100.23335	European Starling	Sturnus vulgaris	27813	species	1	34.4370520	-100.2333550	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Western Meadowlark	Sturnella neglecta	33565	species	4	34.4353180	-100.2364800	Traveling	1	0
-S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Common Grackle	Quiscalus quiscula	33853	species	22	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Northern Mockingbird	Mimus polyglottos	28114	species	1	34.4353180	-100.2364800	Traveling	1	0
+S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Common Grackle	Quiscalus quiscula	33853	species	22	34.4353180	-100.2364800	Traveling	1	0
 S225209003	2025-04-13	L42565135	2305 Avenue F NW, Childress US-TX 34.43651, -100.23162	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	34.4365140	-100.2316230	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	American Kestrel	Falco sparverius	12028	species	1	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	House Sparrow	Passer domesticus	31534	species	5	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	34.4353180	-100.2364800	Traveling	1	0
 S225209003	2025-04-13	L42565135	2305 Avenue F NW, Childress US-TX 34.43651, -100.23162	Blue Jay	Cyanocitta cristata	21294	species	1	34.4365140	-100.2316230	Traveling	1	0
-S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Northern Bobwhite	Colinus virginianus	1026	species	8	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Song Sparrow	Melospiza melodia	33277	species	3	34.4353180	-100.2364800	Traveling	1	0
-S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Northern Cardinal	Cardinalis cardinalis	34515	species	2	34.4353180	-100.2364800	Traveling	1	0
+S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Northern Bobwhite	Colinus virginianus	1026	species	8	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Red-winged Blackbird	Agelaius phoeniceus	33779	species	35	34.4353180	-100.2364800	Traveling	1	0
 S225209003	2025-04-13	L42565135	2305 Avenue F NW, Childress US-TX 34.43651, -100.23162	European Starling	Sturnus vulgaris	27813	species	X	34.4365140	-100.2316230	Traveling	1	0
 S225209003	2025-04-13	L42565135	2305 Avenue F NW, Childress US-TX 34.43651, -100.23162	Barn Swallow	Hirundo rustica	24187	species	1	34.4365140	-100.2316230	Traveling	1	0
+S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Northern Cardinal	Cardinalis cardinalis	34515	species	2	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Barn Swallow	Hirundo rustica	24187	species	2	34.4353180	-100.2364800	Traveling	1	0
-S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	34.4353180	-100.2364800	Traveling	1	0
 S231187212	2025-04-30	L43764847	2709 Avenue F NW, Childress US-TX 34.43705, -100.23335	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	34.4370520	-100.2333550	Traveling	1	0
+S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	34.4353180	-100.2364800	Traveling	1	0
 S220242135	2025-03-22	L41564377	3001 Avenue F NW, Childress US-TX 34.43532, -100.23648	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	34.4353180	-100.2364800	Traveling	1	0
 S231187212	2025-04-30	L43764847	2709 Avenue F NW, Childress US-TX 34.43705, -100.23335	Western/Eastern Meadowlark	Sturnella neglecta/magna	33586	slash	1	34.4370520	-100.2333550	Traveling	1	0

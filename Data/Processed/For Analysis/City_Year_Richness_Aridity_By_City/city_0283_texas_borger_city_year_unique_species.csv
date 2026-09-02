@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-283,"Borger, TX",Borger,Texas,Hutchinson,2015,32490556.3551533,4,4,city_0283_texas_borger,663.8125038146973,15.559895833333332,25.970861076397735,dry subhumid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2016,32490556.3551533,18,26,city_0283_texas_borger,487.4937484264374,16.2578125,18.56566492073311,semiarid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2017,32490556.3551533,16,24,city_0283_texas_borger,558.5374962091446,15.986979166666668,21.492975102145657,dry subhumid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2018,32490556.3551533,18,34,city_0283_texas_borger,459.38750541210175,15.359375,18.11509571557271,semiarid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2019,32490556.3551533,5,5,city_0283_texas_borger,517.1374998092651,15.088541666666668,20.612497397421404,dry subhumid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2021,32490556.3551533,20,39,city_0283_texas_borger,414.2687522172928,15.4921875,16.250812223050406,semiarid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2022,32490556.3551533,21,31,city_0283_texas_borger,341.3374972343445,15.606770833333332,13.329970399469977,semiarid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2023,32490556.3551533,24,53,city_0283_texas_borger,498.8562526702881,16.080729166666668,19.127389019010547,semiarid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2024,32490556.3551533,5,5,city_0283_texas_borger,461.481251001358,16.723958333333332,17.268446734020806,semiarid,12
-283,"Borger, TX",Borger,Texas,Hutchinson,2025,32490556.3551533,19,28,city_0283_texas_borger,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+283,2015,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,4,4,city_0283_texas_borger,663.812503814697,15.5598958333333,25.9708610763977,dry subhumid,12
+283,2016,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,18,26,city_0283_texas_borger,487.493748426437,16.2578125,18.5656649207331,semiarid,12
+283,2017,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,16,24,city_0283_texas_borger,558.537496209145,15.9869791666667,21.4929751021457,dry subhumid,12
+283,2018,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,18,34,city_0283_texas_borger,459.387505412102,15.359375,18.1150957155727,semiarid,12
+283,2019,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,5,5,city_0283_texas_borger,517.137499809265,15.0885416666667,20.6124973974214,dry subhumid,12
+283,2021,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,20,39,city_0283_texas_borger,414.268752217293,15.4921875,16.2508122230504,semiarid,12
+283,2022,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,21,31,city_0283_texas_borger,341.337497234345,15.6067708333333,13.32997039947,semiarid,12
+283,2023,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,24,53,city_0283_texas_borger,498.856252670288,16.0807291666667,19.1273890190105,semiarid,12
+283,2024,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,5,5,city_0283_texas_borger,461.481251001358,16.7239583333333,17.2684467340208,semiarid,12
+283,2025,"Borger, TX",Borger,Texas,Hutchinson,99.9999999999969,19,28,city_0283_texas_borger,,,,,

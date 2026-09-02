@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2015,206131115.899328,147,1937,city_1047_colorado_grand_junction,318.83124589920044,12.533854166666668,14.148988608031082,semiarid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2016,206131115.899328,163,2845,city_1047_colorado_grand_junction,231.2312526702881,12.4375,10.305571149650724,semiarid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2017,206131115.899328,178,8748,city_1047_colorado_grand_junction,170.83749866485596,12.8359375,7.481081022614288,arid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2018,206131115.899328,189,9143,city_1047_colorado_grand_junction,207.92499947547913,12.453125,9.260403595289258,arid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2019,206131115.899328,179,7008,city_1047_colorado_grand_junction,236.3875026702881,11.364583333333332,11.064456487736546,semiarid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2020,206131115.899328,198,13013,city_1047_colorado_grand_junction,137.93750023841858,12.4765625,6.136948220548342,arid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2021,206131115.899328,199,14377,city_1047_colorado_grand_junction,255.6499948501587,12.653645833333334,11.285158986373252,semiarid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2022,206131115.899328,198,15595,city_1047_colorado_grand_junction,235.487500667572,12.010416666666668,10.698911530566452,semiarid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2023,206131115.899328,202,15170,city_1047_colorado_grand_junction,223.47500085830688,11.989583333333332,10.162766500425136,semiarid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2024,206131115.899328,196,17301,city_1047_colorado_grand_junction,237.61250257492063,13.2890625,10.202750865343791,semiarid,12
-1047,"Grand Junction, CO",Grand Junction,Colorado,Mesa,2025,206131115.899328,197,16947,city_1047_colorado_grand_junction,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1047,2015,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,147,1937,city_1047_colorado_grand_junction,318.8312458992,12.5338541666667,14.1489886080311,semiarid,12
+1047,2016,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,163,2845,city_1047_colorado_grand_junction,231.231252670288,12.4375,10.3055711496507,semiarid,12
+1047,2017,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,178,8741,city_1047_colorado_grand_junction,170.837498664856,12.8359375,7.48108102261429,arid,12
+1047,2018,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,189,9111,city_1047_colorado_grand_junction,207.924999475479,12.453125,9.26040359528926,arid,12
+1047,2019,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,178,6994,city_1047_colorado_grand_junction,236.387502670288,11.3645833333333,11.0644564877365,semiarid,12
+1047,2020,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,198,13013,city_1047_colorado_grand_junction,137.937500238419,12.4765625,6.13694822054834,arid,12
+1047,2021,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,197,13534,city_1047_colorado_grand_junction,255.649994850159,12.6536458333333,11.2851589863733,semiarid,12
+1047,2022,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,196,14133,city_1047_colorado_grand_junction,235.487500667572,12.0104166666667,10.6989115305665,semiarid,12
+1047,2023,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,200,13823,city_1047_colorado_grand_junction,223.475000858307,11.9895833333333,10.1627665004251,semiarid,12
+1047,2024,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,195,16735,city_1047_colorado_grand_junction,237.612502574921,13.2890625,10.2027508653438,semiarid,12
+1047,2025,"Grand Junction, CO",Grand Junction,Colorado,Mesa,100,196,16287,city_1047_colorado_grand_junction,,,,,

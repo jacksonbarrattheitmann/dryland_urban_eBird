@@ -1,4 +1,4 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S198537575,L37264571,Anadarko,2024-10-12,2024,66,"Anadarko, OK",Anadarko,Oklahoma,Caddo,6362871.82257116,5,0.035,1,35.057922,-98.261669,10,10,city_0066_oklahoma_anadarko
-S190874546,L35634976,"100 Prairie Village Ave, Anadarko US-OK 35.08179, -98.24402",2024-08-10,2024,66,"Anadarko, OK",Anadarko,Oklahoma,Caddo,6362871.82257116,11,3.67,1,35.08179,-98.24402,4,4,city_0066_oklahoma_anadarko
-S275411990,L53251797,Andarko Heritage Museum,2025-09-25,2025,66,"Anadarko, OK",Anadarko,Oklahoma,Caddo,6362871.82257116,9,0.069,1,35.076948,-98.239653,12,12,city_0066_oklahoma_anadarko
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S190874546,L35634976,"100 Prairie Village Ave, Anadarko US-OK 35.08179, -98.24402",2024-08-10,2024,66,"Anadarko, OK",Anadarko,Oklahoma,Caddo,100,11,3.67,1,Traveling,35.08179,-98.24402,4,4,city_0066_oklahoma_anadarko
+S198537575,L37264571,Anadarko,2024-10-12,2024,66,"Anadarko, OK",Anadarko,Oklahoma,Caddo,100,5,0.035,1,Traveling,35.057922,-98.261669,10,10,city_0066_oklahoma_anadarko
+S275411990,L53251797,Andarko Heritage Museum,2025-09-25,2025,66,"Anadarko, OK",Anadarko,Oklahoma,Caddo,100,9,0.069,1,Traveling,35.076948,-98.239653,12,12,city_0066_oklahoma_anadarko

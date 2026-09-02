@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2015,109226725.506176,87,544,city_2183_south_dakota_rapid_city,607.3624939918518,9.546875,31.07210201077419,humid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2016,109226725.506176,101,1006,city_2183_south_dakota_rapid_city,481.9312467575073,9.752604166666668,24.398365030307556,dry subhumid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2017,109226725.506176,94,1406,city_2183_south_dakota_rapid_city,387.1374988555908,9.119791666666668,20.247997760902596,dry subhumid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2018,109226725.506176,112,2580,city_2183_south_dakota_rapid_city,612.4625062942505,7.932291666666666,34.15416822785249,humid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2019,109226725.506176,109,2450,city_2183_south_dakota_rapid_city,698.149998664856,7.4375,40.03727590909568,humid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2020,109226725.506176,114,4593,city_2183_south_dakota_rapid_city,338.42499828338623,9.268229166666668,17.56388692266797,semiarid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2021,109226725.506176,120,5653,city_2183_south_dakota_rapid_city,428.3187508583069,9.572916666666668,21.88323580755586,dry subhumid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2022,109226725.506176,132,5120,city_2183_south_dakota_rapid_city,399.3687515258789,8.518229166666668,21.566249555046756,dry subhumid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2023,109226725.506176,117,4456,city_2183_south_dakota_rapid_city,601.4312543869019,9.033854166666668,31.59797532967168,humid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2024,109226725.506176,124,5406,city_2183_south_dakota_rapid_city,394.412504196167,10.010416666666668,19.71035939762209,semiarid,12
-2183,"Rapid City, SD",Rapid City,South Dakota,Pennington,2025,109226725.506176,125,4723,city_2183_south_dakota_rapid_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2183,2015,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,87,544,city_2183_south_dakota_rapid_city,607.362493991852,9.546875,31.0721020107742,humid,12
+2183,2016,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,101,1006,city_2183_south_dakota_rapid_city,481.931246757507,9.75260416666667,24.3983650303076,dry subhumid,12
+2183,2017,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,94,1406,city_2183_south_dakota_rapid_city,387.137498855591,9.11979166666667,20.2479977609026,dry subhumid,12
+2183,2018,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,112,2580,city_2183_south_dakota_rapid_city,612.462506294251,7.93229166666667,34.1541682278525,humid,12
+2183,2019,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,109,2450,city_2183_south_dakota_rapid_city,698.149998664856,7.4375,40.0372759090957,humid,12
+2183,2020,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,114,4593,city_2183_south_dakota_rapid_city,338.424998283386,9.26822916666667,17.563886922668,semiarid,12
+2183,2021,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,120,5653,city_2183_south_dakota_rapid_city,428.318750858307,9.57291666666667,21.8832358075559,dry subhumid,12
+2183,2022,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,132,5120,city_2183_south_dakota_rapid_city,399.368751525879,8.51822916666667,21.5662495550468,dry subhumid,12
+2183,2023,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,117,4456,city_2183_south_dakota_rapid_city,601.431254386902,9.03385416666667,31.5979753296717,humid,12
+2183,2024,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,124,5406,city_2183_south_dakota_rapid_city,394.412504196167,10.0104166666667,19.7103593976221,semiarid,12
+2183,2025,"Rapid City, SD",Rapid City,South Dakota,Pennington,100,125,4723,city_2183_south_dakota_rapid_city,,,,,

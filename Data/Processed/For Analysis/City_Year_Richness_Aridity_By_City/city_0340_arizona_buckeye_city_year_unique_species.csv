@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2015,27301882.383658,38,38,city_0340_arizona_buckeye,214.97500085830688,23.578125,6.40223362258336,arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2016,27301882.383658,38,74,city_0340_arizona_buckeye,166.8375004529953,23.424479166666668,4.9914764451850555,extremely arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2017,27301882.383658,28,39,city_0340_arizona_buckeye,127.30000001192091,23.8359375,3.7622719929637216,extremely arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2018,27301882.383658,37,100,city_0340_arizona_buckeye,159.31875276565552,23.518229166666668,4.753197192293661,extremely arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2019,27301882.383658,21,28,city_0340_arizona_buckeye,207.99999767541885,22.6171875,6.3770059167553566,arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2020,27301882.383658,26,51,city_0340_arizona_buckeye,115.19375079870224,23.6328125,3.425040674154213,extremely arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2021,27301882.383658,19,24,city_0340_arizona_buckeye,171.89375257492063,23.453125,5.13834664399576,arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2022,27301882.383658,23,29,city_0340_arizona_buckeye,144.19375211000445,23.036458333333332,4.364685543925722,extremely arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2023,27301882.383658,14,16,city_0340_arizona_buckeye,150.26874941587448,22.763020833333332,4.586535233741023,extremely arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2024,27301882.383658,36,57,city_0340_arizona_buckeye,147.41250038146973,23.796875,4.361719844851624,extremely arid,12
-340,"Buckeye, AZ",Buckeye,Arizona,Maricopa,2025,27301882.383658,25,35,city_0340_arizona_buckeye,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+340,2015,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,38,38,city_0340_arizona_buckeye,214.975000858307,23.578125,6.40223362258336,arid,12
+340,2016,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,38,74,city_0340_arizona_buckeye,166.837500452995,23.4244791666667,4.99147644518506,extremely arid,12
+340,2017,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,28,39,city_0340_arizona_buckeye,127.300000011921,23.8359375,3.76227199296372,extremely arid,12
+340,2018,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,37,100,city_0340_arizona_buckeye,159.318752765656,23.5182291666667,4.75319719229366,extremely arid,12
+340,2019,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,21,28,city_0340_arizona_buckeye,207.999997675419,22.6171875,6.37700591675536,arid,12
+340,2020,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,26,51,city_0340_arizona_buckeye,115.193750798702,23.6328125,3.42504067415421,extremely arid,12
+340,2021,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,19,24,city_0340_arizona_buckeye,171.893752574921,23.453125,5.13834664399576,arid,12
+340,2022,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,23,29,city_0340_arizona_buckeye,144.193752110004,23.0364583333333,4.36468554392572,extremely arid,12
+340,2023,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,14,16,city_0340_arizona_buckeye,150.268749415875,22.7630208333333,4.58653523374102,extremely arid,12
+340,2024,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,36,57,city_0340_arizona_buckeye,147.41250038147,23.796875,4.36171984485162,extremely arid,12
+340,2025,"Buckeye, AZ",Buckeye,Arizona,Maricopa,99.9999999999976,25,35,city_0340_arizona_buckeye,,,,,

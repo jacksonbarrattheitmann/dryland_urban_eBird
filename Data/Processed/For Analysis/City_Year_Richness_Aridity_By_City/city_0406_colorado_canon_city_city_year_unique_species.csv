@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2015,50276123.4986247,128,1294,city_0406_colorado_canon_city,443.7250032424927,10.700520833333334,21.435451156764017,dry subhumid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2016,50276123.4986247,126,1129,city_0406_colorado_canon_city,339.45000553131104,10.96875,16.18837582265567,semiarid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2017,50276123.4986247,139,1294,city_0406_colorado_canon_city,338.74999809265137,10.791666666666666,16.292585078604475,semiarid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2018,50276123.4986247,154,2527,city_0406_colorado_canon_city,292.6812524795532,10.296875,14.4200155186231,semiarid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2019,50276123.4986247,141,1990,city_0406_colorado_canon_city,341.74999713897705,9.5390625,17.490603612070796,semiarid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2020,50276123.4986247,171,3599,city_0406_colorado_canon_city,197.84374833106995,10.661458333333334,9.575497776547875,arid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2021,50276123.4986247,147,2457,city_0406_colorado_canon_city,319.2812497615814,10.708333333333332,15.418008036776568,semiarid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2022,50276123.4986247,157,3372,city_0406_colorado_canon_city,271.26249980926514,10.330729166666668,13.342487501826286,semiarid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2023,50276123.4986247,163,3761,city_0406_colorado_canon_city,351.1875042915344,10.463541666666668,17.16161894221802,semiarid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2024,50276123.4986247,169,4850,city_0406_colorado_canon_city,327.96874952316284,11.440104166666668,15.296975563815684,semiarid,12
-406,"Cañon City, CO",Canon City,Colorado,Fremont,2025,50276123.4986247,172,4258,city_0406_colorado_canon_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+406,2015,"Cañon City, CO",Canon City,Colorado,Fremont,100,128,1294,city_0406_colorado_canon_city,443.725003242493,10.7005208333333,21.435451156764,dry subhumid,12
+406,2016,"Cañon City, CO",Canon City,Colorado,Fremont,100,126,1129,city_0406_colorado_canon_city,339.450005531311,10.96875,16.1883758226557,semiarid,12
+406,2017,"Cañon City, CO",Canon City,Colorado,Fremont,100,139,1294,city_0406_colorado_canon_city,338.749998092651,10.7916666666667,16.2925850786045,semiarid,12
+406,2018,"Cañon City, CO",Canon City,Colorado,Fremont,100,154,2527,city_0406_colorado_canon_city,292.681252479553,10.296875,14.4200155186231,semiarid,12
+406,2019,"Cañon City, CO",Canon City,Colorado,Fremont,100,141,1990,city_0406_colorado_canon_city,341.749997138977,9.5390625,17.4906036120708,semiarid,12
+406,2020,"Cañon City, CO",Canon City,Colorado,Fremont,100,171,3599,city_0406_colorado_canon_city,197.84374833107,10.6614583333333,9.57549777654788,arid,12
+406,2021,"Cañon City, CO",Canon City,Colorado,Fremont,100,147,2457,city_0406_colorado_canon_city,319.281249761581,10.7083333333333,15.4180080367766,semiarid,12
+406,2022,"Cañon City, CO",Canon City,Colorado,Fremont,100,157,3372,city_0406_colorado_canon_city,271.262499809265,10.3307291666667,13.3424875018263,semiarid,12
+406,2023,"Cañon City, CO",Canon City,Colorado,Fremont,100,163,3761,city_0406_colorado_canon_city,351.187504291534,10.4635416666667,17.161618942218,semiarid,12
+406,2024,"Cañon City, CO",Canon City,Colorado,Fremont,100,169,4831,city_0406_colorado_canon_city,327.968749523163,11.4401041666667,15.2969755638157,semiarid,12
+406,2025,"Cañon City, CO",Canon City,Colorado,Fremont,100,172,4258,city_0406_colorado_canon_city,,,,,

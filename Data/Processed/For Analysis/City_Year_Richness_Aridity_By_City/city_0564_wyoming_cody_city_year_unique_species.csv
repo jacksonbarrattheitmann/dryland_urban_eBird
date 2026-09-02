@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-564,"Cody, WY",Cody,Wyoming,Park,2015,16494556.1360439,41,67,city_0564_wyoming_cody,310.3937497138977,8.388020833333332,16.880215251400188,semiarid,12
-564,"Cody, WY",Cody,Wyoming,Park,2016,16494556.1360439,33,47,city_0564_wyoming_cody,332.6000008583069,8.231770833333332,18.242879635707737,semiarid,12
-564,"Cody, WY",Cody,Wyoming,Park,2017,16494556.1360439,29,61,city_0564_wyoming_cody,324.2874984741211,7.2890625,18.75680063474356,semiarid,12
-564,"Cody, WY",Cody,Wyoming,Park,2018,16494556.1360439,33,71,city_0564_wyoming_cody,347.48749351501465,7.002604166666666,20.437310079608768,dry subhumid,12
-564,"Cody, WY",Cody,Wyoming,Park,2019,16494556.1360439,42,110,city_0564_wyoming_cody,374.89374923706055,6.143229166666666,23.22297139974694,dry subhumid,12
-564,"Cody, WY",Cody,Wyoming,Park,2020,16494556.1360439,29,56,city_0564_wyoming_cody,234.31874895095825,7.59375,13.318294789397273,semiarid,12
-564,"Cody, WY",Cody,Wyoming,Park,2021,16494556.1360439,52,245,city_0564_wyoming_cody,251.0499973297119,8.106770833333332,13.864978998217946,semiarid,12
-564,"Cody, WY",Cody,Wyoming,Park,2022,16494556.1360439,60,150,city_0564_wyoming_cody,315.6187524795532,6.971354166666666,18.597146072141857,semiarid,12
-564,"Cody, WY",Cody,Wyoming,Park,2023,16494556.1360439,37,106,city_0564_wyoming_cody,393.4874997138977,7.5078125,22.47496651645645,dry subhumid,12
-564,"Cody, WY",Cody,Wyoming,Park,2024,16494556.1360439,80,574,city_0564_wyoming_cody,236.79375410079956,8.395833333333332,12.872140653271098,semiarid,12
-564,"Cody, WY",Cody,Wyoming,Park,2025,16494556.1360439,76,498,city_0564_wyoming_cody,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+564,2015,"Cody, WY",Cody,Wyoming,Park,100,41,67,city_0564_wyoming_cody,310.393749713898,8.38802083333333,16.8802152514002,semiarid,12
+564,2016,"Cody, WY",Cody,Wyoming,Park,100,33,47,city_0564_wyoming_cody,332.600000858307,8.23177083333333,18.2428796357077,semiarid,12
+564,2017,"Cody, WY",Cody,Wyoming,Park,100,29,61,city_0564_wyoming_cody,324.287498474121,7.2890625,18.7568006347436,semiarid,12
+564,2018,"Cody, WY",Cody,Wyoming,Park,100,33,71,city_0564_wyoming_cody,347.487493515015,7.00260416666667,20.4373100796088,dry subhumid,12
+564,2019,"Cody, WY",Cody,Wyoming,Park,100,42,110,city_0564_wyoming_cody,374.893749237061,6.14322916666667,23.2229713997469,dry subhumid,12
+564,2020,"Cody, WY",Cody,Wyoming,Park,100,29,56,city_0564_wyoming_cody,234.318748950958,7.59375,13.3182947893973,semiarid,12
+564,2021,"Cody, WY",Cody,Wyoming,Park,100,52,245,city_0564_wyoming_cody,251.049997329712,8.10677083333333,13.8649789982179,semiarid,12
+564,2022,"Cody, WY",Cody,Wyoming,Park,100,60,150,city_0564_wyoming_cody,315.618752479553,6.97135416666667,18.5971460721419,semiarid,12
+564,2023,"Cody, WY",Cody,Wyoming,Park,100,42,111,city_0564_wyoming_cody,393.487499713898,7.5078125,22.4749665164565,dry subhumid,12
+564,2024,"Cody, WY",Cody,Wyoming,Park,100,80,574,city_0564_wyoming_cody,236.7937541008,8.39583333333333,12.8721406532711,semiarid,12
+564,2025,"Cody, WY",Cody,Wyoming,Park,100,76,498,city_0564_wyoming_cody,,,,,

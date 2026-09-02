@@ -1,8 +1,8 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S26676852	2016-01-04	L4129798	US-WA-Wapato	Black-billed Magpie	Pica hudsonia	21476	species	6	46.4483570	-120.4315780	Traveling	1	0
 S26676852	2016-01-04	L4129798	US-WA-Wapato	Varied Thrush	Ixoreus naevius	28249	species	1	46.4483570	-120.4315780	Traveling	1	0
-S26676852	2016-01-04	L4129798	US-WA-Wapato	Common Raven	Corvus corax	21624	species	1	46.4483570	-120.4315780	Traveling	1	0
 S26676852	2016-01-04	L4129798	US-WA-Wapato	Dark-eyed Junco	Junco hyemalis	33130	issf	8	46.4483570	-120.4315780	Traveling	1	0
+S26676852	2016-01-04	L4129798	US-WA-Wapato	Common Raven	Corvus corax	21624	species	1	46.4483570	-120.4315780	Traveling	1	0
 S26676852	2016-01-04	L4129798	US-WA-Wapato	Red-tailed Hawk	Buteo jamaicensis	8509	issf	1	46.4483570	-120.4315780	Traveling	1	0
 S26676852	2016-01-04	L4129798	US-WA-Wapato	Rock Pigeon	Columba livia	1868	domestic	3	46.4483570	-120.4315780	Traveling	1	0
 S26676852	2016-01-04	L4129798	US-WA-Wapato	American Kestrel	Falco sparverius	12028	species	3	46.4483570	-120.4315780	Traveling	1	0
@@ -14,30 +14,29 @@ S26676852	2016-01-04	L4129798	US-WA-Wapato	American Crow	Corvus brachyrhynchos	2
 S26676852	2016-01-04	L4129798	US-WA-Wapato	Northern Flicker	Colaptes auratus	11906	issf	8	46.4483570	-120.4315780	Traveling	1	0
 S26676852	2016-01-04	L4129798	US-WA-Wapato	White-crowned Sparrow	Zonotrichia leucophrys	33191	issf	1	46.4483570	-120.4315780	Traveling	1	0
 S112856371	2022-06-13	L19615766	Lake Chelan	California Quail	Callipepla californica	1094	species	2	46.4434000	-120.4213000	Traveling	1	0
-S112828606	2022-06-12	L19615766	Lake Chelan	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	46.4434000	-120.4213000	Traveling	1	0
 S112828606	2022-06-12	L19615766	Lake Chelan	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	46.4434000	-120.4213000	Traveling	1	0
+S112828606	2022-06-12	L19615766	Lake Chelan	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	46.4434000	-120.4213000	Traveling	1	0
 S112856371	2022-06-13	L19615766	Lake Chelan	American Crow	Corvus brachyrhynchos	21557	species	2	46.4434000	-120.4213000	Traveling	1	0
-S112828606	2022-06-12	L19615766	Lake Chelan	California Quail	Callipepla californica	1094	species	2	46.4434000	-120.4213000	Traveling	1	0
 S112927791	2022-06-14	L19615766	Lake Chelan	American Goldfinch	Spinus tristis	32617	species	1	46.4434000	-120.4213000	Traveling	1	0
+S112828606	2022-06-12	L19615766	Lake Chelan	California Quail	Callipepla californica	1094	species	2	46.4434000	-120.4213000	Traveling	1	0
 S112927791	2022-06-14	L19615766	Lake Chelan	European Starling	Sturnus vulgaris	27813	species	1	46.4434000	-120.4213000	Traveling	1	0
 S112927791	2022-06-14	L19615766	Lake Chelan	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	46.4434000	-120.4213000	Traveling	1	0
-S112828606	2022-06-12	L19615766	Lake Chelan	American Crow	Corvus brachyrhynchos	21557	species	2	46.4434000	-120.4213000	Traveling	1	0
 S112927791	2022-06-14	L19615766	Lake Chelan	American Robin	Turdus migratorius	28633	species	2	46.4434000	-120.4213000	Traveling	1	0
+S112828606	2022-06-12	L19615766	Lake Chelan	American Crow	Corvus brachyrhynchos	21557	species	2	46.4434000	-120.4213000	Traveling	1	0
 S112856371	2022-06-13	L19615766	Lake Chelan	European Starling	Sturnus vulgaris	27813	species	8	46.4434000	-120.4213000	Traveling	1	0
 S112927791	2022-06-14	L19615766	Lake Chelan	House Sparrow	Passer domesticus	31534	species	10	46.4434000	-120.4213000	Traveling	1	0
 S112828606	2022-06-12	L19615766	Lake Chelan	American Robin	Turdus migratorius	28633	species	3	46.4434000	-120.4213000	Traveling	1	0
 S112927791	2022-06-14	L19615766	Lake Chelan	Violet-green Swallow	Tachycineta thalassina	24074	species	9	46.4434000	-120.4213000	Traveling	1	0
 S112856371	2022-06-13	L19615766	Lake Chelan	American Robin	Turdus migratorius	28633	species	4	46.4434000	-120.4213000	Traveling	1	0
-S112828606	2022-06-12	L19615766	Lake Chelan	House Sparrow	Passer domesticus	31534	species	5	46.4434000	-120.4213000	Traveling	1	0
 S112856371	2022-06-13	L19615766	Lake Chelan	Song Sparrow	Melospiza melodia	33277	species	1	46.4434000	-120.4213000	Traveling	1	0
+S112828606	2022-06-12	L19615766	Lake Chelan	House Sparrow	Passer domesticus	31534	species	5	46.4434000	-120.4213000	Traveling	1	0
 S113036253	2022-06-13	L19615766	Lake Chelan	American Robin	Turdus migratorius	28633	species	1	46.4434000	-120.4213000	Stationary	1	0
 S112828606	2022-06-12	L19615766	Lake Chelan	Northern Flicker	Colaptes auratus	11900	species	1	46.4434000	-120.4213000	Traveling	1	0
 S113036253	2022-06-13	L19615766	Lake Chelan	Say's Phoebe	Sayornis saya	17010	species	1	46.4434000	-120.4213000	Stationary	1	0
-S113036253	2022-06-13	L19615766	Lake Chelan	European Starling	Sturnus vulgaris	27813	species	1	46.4434000	-120.4213000	Stationary	1	0
 S113036253	2022-06-13	L19615766	Lake Chelan	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	46.4434000	-120.4213000	Stationary	1	0
+S113036253	2022-06-13	L19615766	Lake Chelan	European Starling	Sturnus vulgaris	27813	species	1	46.4434000	-120.4213000	Stationary	1	0
 S112927791	2022-06-14	L19615766	Lake Chelan	American Crow	Corvus brachyrhynchos	21557	species	6	46.4434000	-120.4213000	Traveling	1	0
-S112927791	2022-06-14	L19615766	Lake Chelan	House Finch	Haemorhous mexicanus	32310	species	2	46.4434000	-120.4213000	Traveling	1	0
 S112856371	2022-06-13	L19615766	Lake Chelan	Mallard	Anas platyrhynchos	545	species	6	46.4434000	-120.4213000	Traveling	1	0
 S112927791	2022-06-14	L19615766	Lake Chelan	California Quail	Callipepla californica	1094	species	2	46.4434000	-120.4213000	Traveling	1	0
+S112927791	2022-06-14	L19615766	Lake Chelan	House Finch	Haemorhous mexicanus	32310	species	2	46.4434000	-120.4213000	Traveling	1	0
 S112856371	2022-06-13	L19615766	Lake Chelan	Violet-green Swallow	Tachycineta thalassina	24074	species	6	46.4434000	-120.4213000	Traveling	1	0
-S112927791	2022-06-14	L19615766	Lake Chelan	Vaux's Swift	Chaetura vauxi	3897	species	50	46.4434000	-120.4213000	Traveling	0	0

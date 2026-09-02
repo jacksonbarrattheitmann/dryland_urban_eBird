@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1345,"Kamas, UT",Kamas,Utah,Summit,2015,6632461.83785,25,39,city_1345_utah_kamas,472.7999973297119,7,27.811764548806583,dry subhumid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2016,6632461.83785,13,15,city_1345_utah_kamas,428.1125030517578,6.528645833333334,25.901244867161648,dry subhumid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2018,6632461.83785,24,34,city_1345_utah_kamas,358.56875932216644,6.4296875,21.82444184176762,dry subhumid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2019,6632461.83785,39,55,city_1345_utah_kamas,466.024995803833,5.3046875,30.449821063241767,humid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2020,6632461.83785,26,41,city_1345_utah_kamas,252.31249809265137,6.546875,15.248347382369866,semiarid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2021,6632461.83785,35,70,city_1345_utah_kamas,440.1500015258789,6.953125,25.962765066964284,dry subhumid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2022,6632461.83785,21,27,city_1345_utah_kamas,406.881251335144,5.963541666666666,25.488156690488633,dry subhumid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2023,6632461.83785,50,160,city_1345_utah_kamas,476.18749809265137,5.752604166666666,30.229128660535316,humid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2024,6632461.83785,35,73,city_1345_utah_kamas,409.2687473297119,7.197916666666666,23.79757707065557,dry subhumid,12
-1345,"Kamas, UT",Kamas,Utah,Summit,2025,6632461.83785,38,71,city_1345_utah_kamas,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1345,2015,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,25,39,city_1345_utah_kamas,472.799997329712,7,27.8117645488066,dry subhumid,12
+1345,2016,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,13,15,city_1345_utah_kamas,428.112503051758,6.52864583333333,25.9012448671617,dry subhumid,12
+1345,2018,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,24,34,city_1345_utah_kamas,358.568759322166,6.4296875,21.8244418417676,dry subhumid,12
+1345,2019,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,39,55,city_1345_utah_kamas,466.024995803833,5.3046875,30.4498210632418,humid,12
+1345,2020,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,26,41,city_1345_utah_kamas,252.312498092651,6.546875,15.2483473823699,semiarid,12
+1345,2021,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,35,70,city_1345_utah_kamas,440.150001525879,6.953125,25.9627650669643,dry subhumid,12
+1345,2022,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,21,27,city_1345_utah_kamas,406.881251335144,5.96354166666667,25.4881566904886,dry subhumid,12
+1345,2023,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,50,160,city_1345_utah_kamas,476.187498092651,5.75260416666667,30.2291286605353,humid,12
+1345,2024,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,35,73,city_1345_utah_kamas,409.268747329712,7.19791666666667,23.7975770706556,dry subhumid,12
+1345,2025,"Kamas, UT",Kamas,Utah,Summit,99.9999999999901,38,71,city_1345_utah_kamas,,,,,

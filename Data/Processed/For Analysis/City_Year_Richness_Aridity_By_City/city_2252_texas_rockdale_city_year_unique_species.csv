@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2015,8156662.3543,28,35,city_2252_texas_rockdale,1264.9624977111816,20.411458333333332,41.594930563546306,humid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2017,8156662.3543,11,11,city_2252_texas_rockdale,813.3687477111816,21.236979166666668,26.038649363992807,dry subhumid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2018,8156662.3543,16,20,city_2252_texas_rockdale,929.774995803833,20.3515625,30.633513375261423,humid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2019,8156662.3543,32,38,city_2252_texas_rockdale,903.3687534332277,20.372395833333332,29.74308508259962,dry subhumid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2020,8156662.3543,14,18,city_2252_texas_rockdale,810.7124938964844,20.8828125,26.25125201587402,dry subhumid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2021,8156662.3543,31,80,city_2252_texas_rockdale,923.2999839782716,20.369791666666668,30.40192024075255,humid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2022,8156662.3543,17,48,city_2252_texas_rockdale,569.7249965667725,20.739583333333332,18.533920593158307,semiarid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2023,8156662.3543,4,4,city_2252_texas_rockdale,736.731258392334,21.372395833333332,23.483423526409585,dry subhumid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2024,8156662.3543,30,44,city_2252_texas_rockdale,833.9249973297119,21.815104166666668,26.21160669350981,dry subhumid,12
-2252,"Rockdale, TX",Rockdale,Texas,Milam,2025,8156662.3543,9,9,city_2252_texas_rockdale,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2252,2015,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,28,35,city_2252_texas_rockdale,1264.96249771118,20.4114583333333,41.5949305635463,humid,12
+2252,2017,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,11,11,city_2252_texas_rockdale,813.368747711182,21.2369791666667,26.0386493639928,dry subhumid,12
+2252,2018,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,16,20,city_2252_texas_rockdale,929.774995803833,20.3515625,30.6335133752614,humid,12
+2252,2019,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,32,38,city_2252_texas_rockdale,903.368753433228,20.3723958333333,29.7430850825996,dry subhumid,12
+2252,2020,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,14,18,city_2252_texas_rockdale,810.712493896484,20.8828125,26.251252015874,dry subhumid,12
+2252,2021,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,31,80,city_2252_texas_rockdale,923.299983978272,20.3697916666667,30.4019202407526,humid,12
+2252,2022,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,17,48,city_2252_texas_rockdale,569.724996566773,20.7395833333333,18.5339205931583,semiarid,12
+2252,2023,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,4,4,city_2252_texas_rockdale,736.731258392334,21.3723958333333,23.4834235264096,dry subhumid,12
+2252,2024,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,30,44,city_2252_texas_rockdale,833.924997329712,21.8151041666667,26.2116066935098,dry subhumid,12
+2252,2025,"Rockdale, TX",Rockdale,Texas,Milam,99.9999999999992,9,9,city_2252_texas_rockdale,,,,,

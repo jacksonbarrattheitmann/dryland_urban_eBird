@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2152,"Presidio, TX",Presidio,Texas,Presidio,2017,5690486.99609243,7,7,city_2152_texas_presidio,256.06875467300415,22.8984375,7.783614485429715,arid,12
-2152,"Presidio, TX",Presidio,Texas,Presidio,2018,5690486.99609243,5,5,city_2152_texas_presidio,239.78125286102295,22.434895833333332,7.392693785518492,arid,12
-2152,"Presidio, TX",Presidio,Texas,Presidio,2019,5690486.99609243,5,9,city_2152_texas_presidio,248.09375047683716,22.463541666666668,7.642226871739568,arid,12
-2152,"Presidio, TX",Presidio,Texas,Presidio,2022,5690486.99609243,41,233,city_2152_texas_presidio,250.88750565052032,22.684895833333332,7.675946312628461,arid,12
-2152,"Presidio, TX",Presidio,Texas,Presidio,2023,5690486.99609243,36,117,city_2152_texas_presidio,201.8187506198883,23.5,6.024440317011591,arid,12
-2152,"Presidio, TX",Presidio,Texas,Presidio,2024,5690486.99609243,32,112,city_2152_texas_presidio,173.5250039100647,23.671875,5.153410788976399,arid,12
-2152,"Presidio, TX",Presidio,Texas,Presidio,2025,5690486.99609243,7,10,city_2152_texas_presidio,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2152,2017,"Presidio, TX",Presidio,Texas,Presidio,100,7,7,city_2152_texas_presidio,256.068754673004,22.8984375,7.78361448542972,arid,12
+2152,2018,"Presidio, TX",Presidio,Texas,Presidio,100,5,5,city_2152_texas_presidio,239.781252861023,22.4348958333333,7.39269378551849,arid,12
+2152,2019,"Presidio, TX",Presidio,Texas,Presidio,100,5,9,city_2152_texas_presidio,248.093750476837,22.4635416666667,7.64222687173957,arid,12
+2152,2022,"Presidio, TX",Presidio,Texas,Presidio,100,41,233,city_2152_texas_presidio,250.88750565052,22.6848958333333,7.67594631262846,arid,12
+2152,2023,"Presidio, TX",Presidio,Texas,Presidio,100,36,117,city_2152_texas_presidio,201.818750619888,23.5,6.02444031701159,arid,12
+2152,2024,"Presidio, TX",Presidio,Texas,Presidio,100,32,112,city_2152_texas_presidio,173.525003910065,23.671875,5.1534107889764,arid,12
+2152,2025,"Presidio, TX",Presidio,Texas,Presidio,100,7,10,city_2152_texas_presidio,,,,,

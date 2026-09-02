@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-228,"Beulah, ND",Beulah,North Dakota,Mercer,2019,3515157.57458482,13,13,city_0228_north_dakota_beulah,672.9812536239624,4.5,46.41250024992844,humid,12
-228,"Beulah, ND",Beulah,North Dakota,Mercer,2020,3515157.57458482,6,6,city_0228_north_dakota_beulah,307.58750343322754,6.552083333333333,18.583008388665732,semiarid,12
-228,"Beulah, ND",Beulah,North Dakota,Mercer,2021,3515157.57458482,8,17,city_0228_north_dakota_beulah,360.0499954223633,7.375,20.722301894812276,dry subhumid,12
-228,"Beulah, ND",Beulah,North Dakota,Mercer,2022,3515157.57458482,27,40,city_0228_north_dakota_beulah,465.98750019073486,5.713541666666667,29.65515413875409,dry subhumid,12
-228,"Beulah, ND",Beulah,North Dakota,Mercer,2023,3515157.57458482,6,7,city_0228_north_dakota_beulah,516.93750166893,6.955729166666667,30.48748281997683,humid,12
-228,"Beulah, ND",Beulah,North Dakota,Mercer,2024,3515157.57458482,11,13,city_0228_north_dakota_beulah,487.0437531471253,7.716145833333334,27.49151862538528,dry subhumid,12
-228,"Beulah, ND",Beulah,North Dakota,Mercer,2025,3515157.57458482,9,9,city_0228_north_dakota_beulah,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+228,2019,"Beulah, ND",Beulah,North Dakota,Mercer,99.9999999999979,13,13,city_0228_north_dakota_beulah,672.981253623962,4.5,46.4125002499285,humid,12
+228,2020,"Beulah, ND",Beulah,North Dakota,Mercer,99.9999999999979,6,6,city_0228_north_dakota_beulah,307.587503433228,6.55208333333333,18.5830083886657,semiarid,12
+228,2021,"Beulah, ND",Beulah,North Dakota,Mercer,99.9999999999979,8,17,city_0228_north_dakota_beulah,360.049995422363,7.375,20.7223018948123,dry subhumid,12
+228,2022,"Beulah, ND",Beulah,North Dakota,Mercer,99.9999999999979,27,40,city_0228_north_dakota_beulah,465.987500190735,5.71354166666667,29.6551541387541,dry subhumid,12
+228,2023,"Beulah, ND",Beulah,North Dakota,Mercer,99.9999999999979,6,7,city_0228_north_dakota_beulah,516.93750166893,6.95572916666667,30.4874828199768,humid,12
+228,2024,"Beulah, ND",Beulah,North Dakota,Mercer,99.9999999999979,11,13,city_0228_north_dakota_beulah,487.043753147125,7.71614583333333,27.4915186253853,dry subhumid,12
+228,2025,"Beulah, ND",Beulah,North Dakota,Mercer,99.9999999999979,9,9,city_0228_north_dakota_beulah,,,,,

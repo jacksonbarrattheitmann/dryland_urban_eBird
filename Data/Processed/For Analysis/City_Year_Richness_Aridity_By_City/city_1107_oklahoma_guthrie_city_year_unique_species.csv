@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2015,13778590.6259706,37,49,city_1107_oklahoma_guthrie,1174.8937377929688,16.489583333333332,44.353047120772715,humid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2016,13778590.6259706,22,26,city_1107_oklahoma_guthrie,866.2875022888184,17.213541666666668,31.832957021904903,humid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2017,13778590.6259706,10,10,city_1107_oklahoma_guthrie,917.59375333786,16.825520833333332,34.20599954196081,humid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2018,13778590.6259706,19,22,city_1107_oklahoma_guthrie,949.1687469482422,15.979166666666668,36.5357657205418,humid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2019,13778590.6259706,15,19,city_1107_oklahoma_guthrie,1143.443735122681,15.8046875,44.31147384066095,humid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2020,13778590.6259706,48,67,city_1107_oklahoma_guthrie,923.2500076293944,16.328125,35.067062604321215,humid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2021,13778590.6259706,31,155,city_1107_oklahoma_guthrie,841.7187376022339,16.518229166666668,31.74113672191474,humid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2022,13778590.6259706,58,210,city_1107_oklahoma_guthrie,786.643741607666,16.455729166666668,29.73434361426752,dry subhumid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2023,13778590.6259706,40,131,city_1107_oklahoma_guthrie,882.6437606811523,17.125,32.53986214492728,humid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2024,13778590.6259706,44,157,city_1107_oklahoma_guthrie,793.6625099182129,17.541666666666668,28.816793098391994,dry subhumid,12
-1107,"Guthrie, OK",Guthrie,Oklahoma,Logan,2025,13778590.6259706,70,276,city_1107_oklahoma_guthrie,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1107,2015,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,37,49,city_1107_oklahoma_guthrie,1174.89373779297,16.4895833333333,44.3530471207727,humid,12
+1107,2016,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,22,26,city_1107_oklahoma_guthrie,866.287502288818,17.2135416666667,31.8329570219049,humid,12
+1107,2017,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,10,10,city_1107_oklahoma_guthrie,917.59375333786,16.8255208333333,34.2059995419608,humid,12
+1107,2018,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,19,22,city_1107_oklahoma_guthrie,949.168746948242,15.9791666666667,36.5357657205418,humid,12
+1107,2019,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,15,19,city_1107_oklahoma_guthrie,1143.44373512268,15.8046875,44.311473840661,humid,12
+1107,2020,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,48,67,city_1107_oklahoma_guthrie,923.250007629394,16.328125,35.0670626043212,humid,12
+1107,2021,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,31,155,city_1107_oklahoma_guthrie,841.718737602234,16.5182291666667,31.7411367219147,humid,12
+1107,2022,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,58,210,city_1107_oklahoma_guthrie,786.643741607666,16.4557291666667,29.7343436142675,dry subhumid,12
+1107,2023,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,40,131,city_1107_oklahoma_guthrie,882.643760681152,17.125,32.5398621449273,humid,12
+1107,2024,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,44,157,city_1107_oklahoma_guthrie,793.662509918213,17.5416666666667,28.816793098392,dry subhumid,12
+1107,2025,"Guthrie, OK",Guthrie,Oklahoma,Logan,100,70,276,city_1107_oklahoma_guthrie,,,,,

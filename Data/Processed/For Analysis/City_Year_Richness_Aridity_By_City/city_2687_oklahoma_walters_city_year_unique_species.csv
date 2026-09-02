@@ -1,4 +1,4 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2687,"Walters, OK",Walters,Oklahoma,Cotton,2020,3393389.03291562,6,6,city_2687_oklahoma_walters,831.4249954223633,17.497395833333332,30.236499502053935,humid,12
-2687,"Walters, OK",Walters,Oklahoma,Cotton,2024,3393389.03291562,19,24,city_2687_oklahoma_walters,798.2125091552734,18.794270833333332,27.72122669038844,dry subhumid,12
-2687,"Walters, OK",Walters,Oklahoma,Cotton,2025,3393389.03291562,11,18,city_2687_oklahoma_walters,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2687,2020,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,6,6,city_2687_oklahoma_walters,831.424995422363,17.4973958333333,30.2364995020539,humid,12
+2687,2024,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,19,24,city_2687_oklahoma_walters,798.212509155273,18.7942708333333,27.7212266903884,dry subhumid,12
+2687,2025,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,11,18,city_2687_oklahoma_walters,,,,,

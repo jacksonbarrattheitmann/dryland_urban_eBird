@@ -1,15 +1,15 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S24033050	2015-06-19	L3746466	Clinton	Barn Swallow	Hirundo rustica	24187	species	1	35.5155600	-98.9650400	Traveling	1	0
-S24033050	2015-06-19	L3746466	Clinton	House Sparrow	Passer domesticus	31534	species	6	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.5155600	-98.9650400	Traveling	1	0
-S24033050	2015-06-19	L3746466	Clinton	House Finch	Haemorhous mexicanus	32310	species	1	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	European Starling	Sturnus vulgaris	27813	species	5	35.5155600	-98.9650400	Traveling	1	0
-S24033050	2015-06-19	L3746466	Clinton	Western Meadowlark	Sturnella neglecta	33565	species	1	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	Brown-headed Cowbird	Molothrus ater	33833	species	1	35.5155600	-98.9650400	Traveling	1	0
-S24033050	2015-06-19	L3746466	Clinton	Common Grackle	Quiscalus quiscula	33853	species	1	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	Rock Pigeon	Columba livia	1868	domestic	26	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	Dickcissel	Spiza americana	34627	species	1	35.5155600	-98.9650400	Traveling	1	0
+S24033050	2015-06-19	L3746466	Clinton	Barn Swallow	Hirundo rustica	24187	species	1	35.5155600	-98.9650400	Traveling	1	0
+S24033050	2015-06-19	L3746466	Clinton	House Sparrow	Passer domesticus	31534	species	6	35.5155600	-98.9650400	Traveling	1	0
+S24033050	2015-06-19	L3746466	Clinton	House Finch	Haemorhous mexicanus	32310	species	1	35.5155600	-98.9650400	Traveling	1	0
+S24033050	2015-06-19	L3746466	Clinton	Western Meadowlark	Sturnella neglecta	33565	species	1	35.5155600	-98.9650400	Traveling	1	0
+S24033050	2015-06-19	L3746466	Clinton	Common Grackle	Quiscalus quiscula	33853	species	1	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	Mississippi Kite	Ictinia mississippiensis	8388	species	2	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	Baltimore Oriole	Icterus galbula	33770	species	1	35.5155600	-98.9650400	Traveling	1	0
 S24033050	2015-06-19	L3746466	Clinton	Western Kingbird	Tyrannus verticalis	17467	species	2	35.5155600	-98.9650400	Traveling	1	0
@@ -68,18 +68,10 @@ S45288124	2018-05-05	L7340993	Clinton—Days Inn	House Sparrow	Passer domesticus
 S45288124	2018-05-05	L7340993	Clinton—Days Inn	European Starling	Sturnus vulgaris	27813	species	12	35.5013240	-98.9751470	Stationary	1	0
 S45288124	2018-05-05	L7340993	Clinton—Days Inn	Rock Pigeon	Columba livia	1868	domestic	6	35.5013240	-98.9751470	Stationary	1	0
 S45288124	2018-05-05	L7340993	Clinton—Days Inn	American Robin	Turdus migratorius	28633	species	2	35.5013240	-98.9751470	Stationary	1	0
-S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	35.5135450	-98.9659590	Traveling	1	0
-S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	White-winged Dove	Zenaida asiatica	2389	species	5	35.5135450	-98.9659590	Traveling	1	0
-S54569926	2019-04-03	L6123039	T. W. SHEARS, CLINTON OK.	European Starling	Sturnus vulgaris	27813	species	7	35.5148339	-98.9688038	Stationary	1	0
-S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Chimney Swift	Chaetura pelagica	3896	species	2	35.5135450	-98.9659590	Traveling	1	0
 S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	House Sparrow	Passer domesticus	31534	species	12	35.5135450	-98.9659590	Traveling	1	0
 S54569926	2019-04-03	L6123039	T. W. SHEARS, CLINTON OK.	House Sparrow	Passer domesticus	31534	species	2	35.5148339	-98.9688038	Stationary	1	0
-S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	American Robin	Turdus migratorius	28633	species	7	35.5135450	-98.9659590	Traveling	1	0
 S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Northern Mockingbird	Mimus polyglottos	28114	species	4	35.5135450	-98.9659590	Traveling	1	0
-S59333633	2019-08-28	L9849234	301 W Gary Blvd, Clinton US-OK (35.5157,-98.9640)	Mourning Dove	Zenaida macroura	2412	species	14	35.5156500	-98.9639730	Traveling	1	0
-S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Turkey Vulture	Cathartes aura	7815	species	1	35.5135450	-98.9659590	Traveling	1	0
 S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	European Starling	Sturnus vulgaris	27813	species	8	35.5135450	-98.9659590	Traveling	1	0
-S59333633	2019-08-28	L9849234	301 W Gary Blvd, Clinton US-OK (35.5157,-98.9640)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	35.5156500	-98.9639730	Traveling	1	0
 S62226395	2019-12-04	L10277118	700 W Gary Blvd, Clinton US-OK (35.5150,-98.9688)	Rock Pigeon	Columba livia	1868	domestic	7	35.5150070	-98.9687760	Stationary	1	0
 S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Rock Pigeon	Columba livia	1868	domestic	6	35.5135450	-98.9659590	Traveling	1	0
 S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.5135450	-98.9659590	Traveling	1	0
@@ -87,6 +79,14 @@ S59333633	2019-08-28	L9849234	301 W Gary Blvd, Clinton US-OK (35.5157,-98.9640)	
 S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Mourning Dove	Zenaida macroura	2412	species	2	35.5135450	-98.9659590	Traveling	1	0
 S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.5135450	-98.9659590	Traveling	1	0
 S62226395	2019-12-04	L10277118	700 W Gary Blvd, Clinton US-OK (35.5150,-98.9688)	European Starling	Sturnus vulgaris	27813	species	14	35.5150070	-98.9687760	Stationary	1	0
+S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	35.5135450	-98.9659590	Traveling	1	0
+S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	White-winged Dove	Zenaida asiatica	2389	species	5	35.5135450	-98.9659590	Traveling	1	0
+S54569926	2019-04-03	L6123039	T. W. SHEARS, CLINTON OK.	European Starling	Sturnus vulgaris	27813	species	7	35.5148339	-98.9688038	Stationary	1	0
+S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Chimney Swift	Chaetura pelagica	3896	species	2	35.5135450	-98.9659590	Traveling	1	0
+S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	American Robin	Turdus migratorius	28633	species	7	35.5135450	-98.9659590	Traveling	1	0
+S59333633	2019-08-28	L9849234	301 W Gary Blvd, Clinton US-OK (35.5157,-98.9640)	Mourning Dove	Zenaida macroura	2412	species	14	35.5156500	-98.9639730	Traveling	1	0
+S56096172	2019-05-10	L9237664	Clinton, OK—downtown area	Turkey Vulture	Cathartes aura	7815	species	1	35.5135450	-98.9659590	Traveling	1	0
+S59333633	2019-08-28	L9849234	301 W Gary Blvd, Clinton US-OK (35.5157,-98.9640)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	35.5156500	-98.9639730	Traveling	1	0
 S64355352	2020-02-11	L10724428	1410 Shelley Avenue, Clinton, Oklahoma, US (35.5, -98.978)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	35.4997371	-98.9776607	Stationary	1	0
 S64355352	2020-02-11	L10724428	1410 Shelley Avenue, Clinton, Oklahoma, US (35.5, -98.978)	Rock Pigeon	Columba livia	1868	domestic	5	35.4997371	-98.9776607	Stationary	1	0
 S64355352	2020-02-11	L10724428	1410 Shelley Avenue, Clinton, Oklahoma, US (35.5, -98.978)	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	35.4997371	-98.9776607	Stationary	1	0
@@ -97,19 +97,19 @@ S93489970	2021-08-20	L16160550	106 W Gary Blvd, Clinton US-OK 35.51479, -98.9612
 S93489970	2021-08-20	L16160550	106 W Gary Blvd, Clinton US-OK 35.51479, -98.96122	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.5147940	-98.9612230	Traveling	1	0
 S93489970	2021-08-20	L16160550	106 W Gary Blvd, Clinton US-OK 35.51479, -98.96122	Rock Pigeon	Columba livia	1868	domestic	2	35.5147940	-98.9612230	Traveling	1	0
 S83636174	2021-03-18	L14074325	2301 Red Wheat Dr, Clinton US-OK 35.50128, -98.98792	European Starling	Sturnus vulgaris	27813	species	9	35.5012820	-98.9879150	Traveling	1	0
-S83636174	2021-03-18	L14074325	2301 Red Wheat Dr, Clinton US-OK 35.50128, -98.98792	House Sparrow	Passer domesticus	31534	species	3	35.5012820	-98.9879150	Traveling	1	0
-S78648152	2021-01-04	L13161632	2301 Red Wheat Dr, Clinton US-OK 35.50103, -98.98828	Rock Pigeon	Columba livia	1868	domestic	12	35.5010300	-98.9882820	Stationary	1	0
 S78648152	2021-01-04	L13161632	2301 Red Wheat Dr, Clinton US-OK 35.50103, -98.98828	House Sparrow	Passer domesticus	31534	species	5	35.5010300	-98.9882820	Stationary	1	0
 S83636174	2021-03-18	L14074325	2301 Red Wheat Dr, Clinton US-OK 35.50128, -98.98792	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.5012820	-98.9879150	Traveling	1	0
+S78648152	2021-01-04	L13161632	2301 Red Wheat Dr, Clinton US-OK 35.50103, -98.98828	Rock Pigeon	Columba livia	1868	domestic	12	35.5010300	-98.9882820	Stationary	1	0
+S83636174	2021-03-18	L14074325	2301 Red Wheat Dr, Clinton US-OK 35.50128, -98.98792	House Sparrow	Passer domesticus	31534	species	3	35.5012820	-98.9879150	Traveling	1	0
 S93489970	2021-08-20	L16160550	106 W Gary Blvd, Clinton US-OK 35.51479, -98.96122	House Sparrow	Passer domesticus	31534	species	2	35.5147940	-98.9612230	Traveling	1	0
 S83636174	2021-03-18	L14074325	2301 Red Wheat Dr, Clinton US-OK 35.50128, -98.98792	Rock Pigeon	Columba livia	1868	domestic	1	35.5012820	-98.9879150	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Eastern Phoebe	Sayornis phoebe	17007	species	1	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Brown-headed Cowbird	Molothrus ater	33833	species	5	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Northern Mockingbird	Mimus polyglottos	28114	species	4	35.4945184	-98.9610477	Traveling	1	0
-S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Lark Sparrow	Chondestes grammacus	33029	species	1	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Painted Bunting	Passerina ciris	34621	species	1	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	35.4945184	-98.9610477	Traveling	1	0
+S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Lark Sparrow	Chondestes grammacus	33029	species	1	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Carolina Chickadee	Poecile carolinensis	22060	species	4	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	35.4945184	-98.9610477	Traveling	1	0
@@ -118,45 +118,45 @@ S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Dickcissel	Spiza americana	34627	species	2	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	House Sparrow	Passer domesticus	31534	species	12	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Western Kingbird	Tyrannus verticalis	17467	species	3	35.4945184	-98.9610477	Traveling	1	0
-S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Mississippi Kite	Ictinia mississippiensis	8388	species	2	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Mourning Dove	Zenaida macroura	2412	species	13	35.4945184	-98.9610477	Traveling	1	0
-S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Downy Woodpecker	Dryobates pubescens	11400	species	1	35.4945184	-98.9610477	Traveling	1	0
+S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Mississippi Kite	Ictinia mississippiensis	8388	species	2	35.4945184	-98.9610477	Traveling	1	0
 S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Eastern Meadowlark	Sturnella magna	33568	species	1	35.4945184	-98.9610477	Traveling	1	0
-S128778272	2023-02-18	L18068991	Wheatland Ridge Apartments	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.5128582	-98.9928516	Traveling	1	0
+S113328426	2022-06-17	L19734475	211 East Meacham Road, Clinton, Oklahoma, US (35.495, -98.961)	Downy Woodpecker	Dryobates pubescens	11400	species	1	35.4945184	-98.9610477	Traveling	1	0
 S129908578	2023-03-01	L22862907	N 14th St, Clinton US-OK (35.5152,-98.9772)	Rock Pigeon	Columba livia	1868	domestic	55	35.5151840	-98.9772480	Traveling	1	0
-S129908578	2023-03-01	L22862907	N 14th St, Clinton US-OK (35.5152,-98.9772)	European Starling	Sturnus vulgaris	27813	species	15	35.5151840	-98.9772480	Traveling	1	0
 S128778272	2023-02-18	L18068991	Wheatland Ridge Apartments	European Starling	Sturnus vulgaris	27813	species	2	35.5128582	-98.9928516	Traveling	1	0
+S128778272	2023-02-18	L18068991	Wheatland Ridge Apartments	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.5128582	-98.9928516	Traveling	1	0
+S129908578	2023-03-01	L22862907	N 14th St, Clinton US-OK (35.5152,-98.9772)	European Starling	Sturnus vulgaris	27813	species	15	35.5151840	-98.9772480	Traveling	1	0
 S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	Mourning Dove	Zenaida macroura	2412	species	11	35.4988350	-98.9842690	Traveling	1	0
 S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	Common Grackle	Quiscalus quiscula	33853	species	1	35.4988350	-98.9842690	Traveling	1	0
-S128778272	2023-02-18	L18068991	Wheatland Ridge Apartments	American Goldfinch	Spinus tristis	32617	species	50	35.5128582	-98.9928516	Traveling	1	0
 S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	House Finch	Haemorhous mexicanus	32310	species	7	35.4988350	-98.9842690	Traveling	1	0
+S128778272	2023-02-18	L18068991	Wheatland Ridge Apartments	American Goldfinch	Spinus tristis	32617	species	50	35.5128582	-98.9928516	Traveling	1	0
 S128778272	2023-02-18	L18068991	Wheatland Ridge Apartments	Rock Pigeon	Columba livia	1868	domestic	5	35.5128582	-98.9928516	Traveling	1	0
-S129908578	2023-03-01	L22862907	N 14th St, Clinton US-OK (35.5152,-98.9772)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	30	35.5151840	-98.9772480	Traveling	1	0
 S129908578	2023-03-01	L22862907	N 14th St, Clinton US-OK (35.5152,-98.9772)	House Sparrow	Passer domesticus	31534	species	3	35.5151840	-98.9772480	Traveling	1	0
+S129908578	2023-03-01	L22862907	N 14th St, Clinton US-OK (35.5152,-98.9772)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	30	35.5151840	-98.9772480	Traveling	1	0
 S128778272	2023-02-18	L18068991	Wheatland Ridge Apartments	House Sparrow	Passer domesticus	31534	species	6	35.5128582	-98.9928516	Traveling	1	0
 S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	10	35.4988350	-98.9842690	Traveling	1	0
 S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	European Starling	Sturnus vulgaris	27813	species	60	35.4988350	-98.9842690	Traveling	1	0
-S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	Blue Jay	Cyanocitta cristata	21294	species	1	35.4988350	-98.9842690	Traveling	1	0
 S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	House Sparrow	Passer domesticus	31534	species	10	35.4988350	-98.9842690	Traveling	1	0
 S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	Rock Pigeon	Columba livia	1868	domestic	20	35.4988350	-98.9842690	Traveling	1	0
+S149427242	2023-09-09	L20884189	2020 Lexington Ave, Clinton US-OK 35.49884, -98.98427	Blue Jay	Cyanocitta cristata	21294	species	1	35.4988350	-98.9842690	Traveling	1	0
 S129908578	2023-03-01	L22862907	N 14th St, Clinton US-OK (35.5152,-98.9772)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	35.5151840	-98.9772480	Traveling	1	0
 S129908578	2023-03-01	L22862907	N 14th St, Clinton US-OK (35.5152,-98.9772)	Mourning Dove	Zenaida macroura	2412	species	2	35.5151840	-98.9772480	Traveling	1	0
-S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	Mourning Dove	Zenaida macroura	2412	species	3	35.5128582	-98.9928516	Traveling	1	0
-S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Common Grackle	Quiscalus quiscula	33853	species	4	35.4966210	-98.9647160	Traveling	1	0
 S164565042	2024-03-12	L29814402	Fresco Center	Eastern Meadowlark	Sturnella magna	33568	species	1	35.5125441	-98.9643931	Traveling	1	0
+S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Common Grackle	Quiscalus quiscula	33853	species	4	35.4966210	-98.9647160	Traveling	1	0
+S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	Mourning Dove	Zenaida macroura	2412	species	3	35.5128582	-98.9928516	Traveling	1	0
 S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.4966210	-98.9647160	Traveling	1	0
-S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	European Starling	Sturnus vulgaris	27813	species	6	35.5128582	-98.9928516	Traveling	1	0
 S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	35.4966210	-98.9647160	Traveling	1	0
-S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	35.5128582	-98.9928516	Traveling	1	0
+S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	European Starling	Sturnus vulgaris	27813	species	6	35.5128582	-98.9928516	Traveling	1	0
 S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Mourning Dove	Zenaida macroura	2412	species	1	35.4966210	-98.9647160	Traveling	1	0
+S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	35.5128582	-98.9928516	Traveling	1	0
 S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	35.5128582	-98.9928516	Traveling	1	0
 S164565042	2024-03-12	L29814402	Fresco Center	House Sparrow	Passer domesticus	31534	species	10	35.5125441	-98.9643931	Traveling	1	0
-S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Rock Pigeon	Columba livia	1868	domestic	4	35.4966210	-98.9647160	Traveling	1	0
 S164565042	2024-03-12	L29814402	Fresco Center	House Finch	Haemorhous mexicanus	32310	species	4	35.5125441	-98.9643931	Traveling	1	0
+S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Rock Pigeon	Columba livia	1868	domestic	4	35.4966210	-98.9647160	Traveling	1	0
 S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	35.4966210	-98.9647160	Traveling	1	0
 S164565042	2024-03-12	L29814402	Fresco Center	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	35.5125441	-98.9643931	Traveling	1	0
-S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	American Robin	Turdus migratorius	28633	species	12	35.5128582	-98.9928516	Traveling	1	0
 S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.5128582	-98.9928516	Traveling	1	0
+S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	American Robin	Turdus migratorius	28633	species	12	35.5128582	-98.9928516	Traveling	1	0
 S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	Barn Swallow	Hirundo rustica	24187	species	5	35.4966210	-98.9647160	Traveling	1	0
 S164565042	2024-03-12	L29814402	Fresco Center	Mourning Dove	Zenaida macroura	2412	species	6	35.5125441	-98.9643931	Traveling	1	0
 S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	House Sparrow	Passer domesticus	31534	species	7	35.5128582	-98.9928516	Traveling	1	0
@@ -167,20 +167,20 @@ S164565042	2024-03-12	L29814402	Fresco Center	European Starling	Sturnus vulgaris
 S173173993	2024-05-10	L18068991	Wheatland Ridge Apartments	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	35.5128582	-98.9928516	Traveling	1	0
 S168251767	2024-04-12	L30556613	1585–1601 S Fourth St, Clinton US-OK 35.49662, -98.96472	European Starling	Sturnus vulgaris	27813	species	5	35.4966210	-98.9647160	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	American Crow	Corvus brachyrhynchos	21557	species	1	35.5074360	-98.9834290	Traveling	1	0
-S229025409	2025-04-24	L43355104	SW Elementary	American Robin	Turdus migratorius	28633	species	1	35.5074360	-98.9834290	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	European Starling	Sturnus vulgaris	27813	species	11	35.5074360	-98.9834290	Traveling	1	0
+S229025409	2025-04-24	L43355104	SW Elementary	American Robin	Turdus migratorius	28633	species	1	35.5074360	-98.9834290	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	White-winged Dove	Zenaida asiatica	2389	species	1	35.5074360	-98.9834290	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	Cedar Waxwing	Bombycilla cedrorum	29888	species	6	35.5074360	-98.9834290	Traveling	1	0
 S289320745	2025-12-20	L56133221	2000 Lexington Ave, Clinton US-OK (35.4983,-98.9842)	Rock Pigeon	Columba livia	1868	domestic	12	35.4983220	-98.9842000	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	35.5074360	-98.9834290	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	Mourning Dove	Zenaida macroura	2412	species	2	35.5074360	-98.9834290	Traveling	1	0
-S229025409	2025-04-24	L43355104	SW Elementary	Western Kingbird	Tyrannus verticalis	17467	species	2	35.5074360	-98.9834290	Traveling	1	0
 S289320745	2025-12-20	L56133221	2000 Lexington Ave, Clinton US-OK (35.4983,-98.9842)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	35.4983220	-98.9842000	Traveling	1	0
+S229025409	2025-04-24	L43355104	SW Elementary	Western Kingbird	Tyrannus verticalis	17467	species	2	35.5074360	-98.9834290	Traveling	1	0
 S289320745	2025-12-20	L56133221	2000 Lexington Ave, Clinton US-OK (35.4983,-98.9842)	European Starling	Sturnus vulgaris	27813	species	2	35.4983220	-98.9842000	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	Great-tailed Grackle	Quiscalus mexicanus	33864	species	18	35.5074360	-98.9834290	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	Northern Mockingbird	Mimus polyglottos	28114	species	1	35.5074360	-98.9834290	Traveling	1	0
 S229025409	2025-04-24	L43355104	SW Elementary	Turkey Vulture	Cathartes aura	7815	species	1	35.5074360	-98.9834290	Traveling	1	0
 S254121894	2025-06-25	L48466066	2569–2575 Red Wheat Dr, Clinton US-OK 35.49640, -98.99055	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	40	35.4963980	-98.9905510	Stationary	1	0
 S289320745	2025-12-20	L56133221	2000 Lexington Ave, Clinton US-OK (35.4983,-98.9842)	House Sparrow	Passer domesticus	31534	species	2	35.4983220	-98.9842000	Traveling	1	0
-S229025409	2025-04-24	L43355104	SW Elementary	House Sparrow	Passer domesticus	31534	species	24	35.5074360	-98.9834290	Traveling	1	0
 S289320745	2025-12-20	L56133221	2000 Lexington Ave, Clinton US-OK (35.4983,-98.9842)	American Robin	Turdus migratorius	28633	species	1	35.4983220	-98.9842000	Traveling	1	0
+S229025409	2025-04-24	L43355104	SW Elementary	House Sparrow	Passer domesticus	31534	species	24	35.5074360	-98.9834290	Traveling	1	0

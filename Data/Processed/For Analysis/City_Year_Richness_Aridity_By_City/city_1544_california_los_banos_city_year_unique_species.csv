@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1544,"Los Banos, CA",Los Banos,California,Merced,2016,21000844.7698793,29,35,city_1544_california_los_banos,259.62500193715096,18.153645833333332,9.22171868873055,arid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2017,21000844.7698793,28,47,city_1544_california_los_banos,289.36250218749046,18.140625,10.28273189339222,semiarid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2018,21000844.7698793,25,35,city_1544_california_los_banos,216.84999898076055,18.0546875,7.729546051110374,arid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2019,21000844.7698793,46,172,city_1544_california_los_banos,278.1437500715256,17.544270833333332,10.098061834874333,semiarid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2020,21000844.7698793,65,100,city_1544_california_los_banos,113.987499833107,18.208333333333332,4.040915799105713,extremely arid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2021,21000844.7698793,13,35,city_1544_california_los_banos,225.5937506556511,17.901041666666668,8.085495636715514,arid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2022,21000844.7698793,51,128,city_1544_california_los_banos,170.3875027000904,17.854166666666668,6.11712799521641,arid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2023,21000844.7698793,65,1087,city_1544_california_los_banos,281.70625019073486,17.234375,10.343775107405069,semiarid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2024,21000844.7698793,62,1672,city_1544_california_los_banos,276.22499972581863,18.104166666666668,9.828613778235209,arid,12
-1544,"Los Banos, CA",Los Banos,California,Merced,2025,21000844.7698793,67,1873,city_1544_california_los_banos,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1544,2016,"Los Banos, CA",Los Banos,California,Merced,100,29,35,city_1544_california_los_banos,259.625001937151,18.1536458333333,9.22171868873055,arid,12
+1544,2017,"Los Banos, CA",Los Banos,California,Merced,100,28,47,city_1544_california_los_banos,289.36250218749,18.140625,10.2827318933922,semiarid,12
+1544,2018,"Los Banos, CA",Los Banos,California,Merced,100,25,35,city_1544_california_los_banos,216.849998980761,18.0546875,7.72954605111037,arid,12
+1544,2019,"Los Banos, CA",Los Banos,California,Merced,100,46,172,city_1544_california_los_banos,278.143750071526,17.5442708333333,10.0980618348743,semiarid,12
+1544,2020,"Los Banos, CA",Los Banos,California,Merced,100,65,100,city_1544_california_los_banos,113.987499833107,18.2083333333333,4.04091579910571,extremely arid,12
+1544,2021,"Los Banos, CA",Los Banos,California,Merced,100,13,35,city_1544_california_los_banos,225.593750655651,17.9010416666667,8.08549563671551,arid,12
+1544,2022,"Los Banos, CA",Los Banos,California,Merced,100,51,128,city_1544_california_los_banos,170.38750270009,17.8541666666667,6.11712799521641,arid,12
+1544,2023,"Los Banos, CA",Los Banos,California,Merced,100,65,1087,city_1544_california_los_banos,281.706250190735,17.234375,10.3437751074051,semiarid,12
+1544,2024,"Los Banos, CA",Los Banos,California,Merced,100,62,1672,city_1544_california_los_banos,276.224999725819,18.1041666666667,9.82861377823521,arid,12
+1544,2025,"Los Banos, CA",Los Banos,California,Merced,100,67,1873,city_1544_california_los_banos,,,,,

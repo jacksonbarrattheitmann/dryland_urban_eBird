@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2840,"Winters, TX",Winters,Texas,Runnels,2015,3131156.72852132,13,13,city_2840_texas_winters,959.2500019073486,18.721354166666668,33.39849494355081,humid,12
-2840,"Winters, TX",Winters,Texas,Runnels,2016,3131156.72852132,9,9,city_2840_texas_winters,869.9812488555908,19.453125,29.53782489483173,dry subhumid,12
-2840,"Winters, TX",Winters,Texas,Runnels,2017,3131156.72852132,1,1,city_2840_texas_winters,635.187497138977,19.3828125,21.617654781650906,dry subhumid,12
-2840,"Winters, TX",Winters,Texas,Runnels,2018,3131156.72852132,6,6,city_2840_texas_winters,680.2937588691711,18.739583333333332,23.670968050540207,dry subhumid,12
-2840,"Winters, TX",Winters,Texas,Runnels,2019,3131156.72852132,12,12,city_2840_texas_winters,590.431254863739,18.609375,20.637684495510268,dry subhumid,12
-2840,"Winters, TX",Winters,Texas,Runnels,2021,3131156.72852132,8,16,city_2840_texas_winters,662.9687504768372,18.611979166666668,23.171020313379945,dry subhumid,12
-2840,"Winters, TX",Winters,Texas,Runnels,2024,3131156.72852132,8,8,city_2840_texas_winters,583.3624925613403,20.1953125,19.319637528551503,semiarid,12
-2840,"Winters, TX",Winters,Texas,Runnels,2025,3131156.72852132,6,6,city_2840_texas_winters,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2840,2015,"Winters, TX",Winters,Texas,Runnels,100,13,13,city_2840_texas_winters,959.250001907349,18.7213541666667,33.3984949435508,humid,12
+2840,2016,"Winters, TX",Winters,Texas,Runnels,100,9,9,city_2840_texas_winters,869.981248855591,19.453125,29.5378248948317,dry subhumid,12
+2840,2017,"Winters, TX",Winters,Texas,Runnels,100,1,1,city_2840_texas_winters,635.187497138977,19.3828125,21.6176547816509,dry subhumid,12
+2840,2018,"Winters, TX",Winters,Texas,Runnels,100,6,6,city_2840_texas_winters,680.293758869171,18.7395833333333,23.6709680505402,dry subhumid,12
+2840,2019,"Winters, TX",Winters,Texas,Runnels,100,12,12,city_2840_texas_winters,590.431254863739,18.609375,20.6376844955103,dry subhumid,12
+2840,2021,"Winters, TX",Winters,Texas,Runnels,100,8,16,city_2840_texas_winters,662.968750476837,18.6119791666667,23.1710203133799,dry subhumid,12
+2840,2024,"Winters, TX",Winters,Texas,Runnels,100,8,8,city_2840_texas_winters,583.36249256134,20.1953125,19.3196375285515,semiarid,12
+2840,2025,"Winters, TX",Winters,Texas,Runnels,100,6,6,city_2840_texas_winters,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-558,"Clovis, NM",Clovis,New Mexico,Curry,2015,58526712.1762613,66,239,city_0558_new_mexico_clovis,667.1187515258789,14.609375,27.10831752232143,dry subhumid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2016,58526712.1762613,64,389,city_0558_new_mexico_clovis,417.01874923706055,15.369791666666666,16.437610316878594,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2017,58526712.1762613,74,552,city_0558_new_mexico_clovis,480.949994802475,15.3359375,18.982916846967868,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2018,58526712.1762613,98,707,city_0558_new_mexico_clovis,412.19375586509705,14.653645833333332,16.71938335821245,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2019,58526712.1762613,61,312,city_0558_new_mexico_clovis,397.24999475479126,14.416666666666668,16.269624358558,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2020,58526712.1762613,111,768,city_0558_new_mexico_clovis,260.3562479019165,15.044270833333334,10.395840614987618,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2021,58526712.1762613,96,853,city_0558_new_mexico_clovis,392.7749991416931,14.598958333333332,15.967139495067771,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2022,58526712.1762613,59,257,city_0558_new_mexico_clovis,374.55000162124634,14.859375,15.066750536618333,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2023,58526712.1762613,64,332,city_0558_new_mexico_clovis,310.29374980926514,15.4375,12.19828009078192,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2024,58526712.1762613,106,659,city_0558_new_mexico_clovis,425.0625076293946,15.875,16.427536526739885,semiarid,12
-558,"Clovis, NM",Clovis,New Mexico,Curry,2025,58526712.1762613,91,579,city_0558_new_mexico_clovis,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+558,2015,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,66,239,city_0558_new_mexico_clovis,667.118751525879,14.609375,27.1083175223214,dry subhumid,12
+558,2016,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,64,389,city_0558_new_mexico_clovis,417.018749237061,15.3697916666667,16.4376103168786,semiarid,12
+558,2017,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,74,552,city_0558_new_mexico_clovis,480.949994802475,15.3359375,18.9829168469679,semiarid,12
+558,2018,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,98,707,city_0558_new_mexico_clovis,412.193755865097,14.6536458333333,16.7193833582125,semiarid,12
+558,2019,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,61,312,city_0558_new_mexico_clovis,397.249994754791,14.4166666666667,16.269624358558,semiarid,12
+558,2020,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,111,768,city_0558_new_mexico_clovis,260.356247901917,15.0442708333333,10.3958406149876,semiarid,12
+558,2021,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,96,853,city_0558_new_mexico_clovis,392.774999141693,14.5989583333333,15.9671394950678,semiarid,12
+558,2022,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,59,257,city_0558_new_mexico_clovis,374.550001621246,14.859375,15.0667505366183,semiarid,12
+558,2023,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,64,332,city_0558_new_mexico_clovis,310.293749809265,15.4375,12.1982800907819,semiarid,12
+558,2024,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,106,659,city_0558_new_mexico_clovis,425.062507629395,15.875,16.4275365267399,semiarid,12
+558,2025,"Clovis, NM",Clovis,New Mexico,Curry,99.9999999999973,91,578,city_0558_new_mexico_clovis,,,,,

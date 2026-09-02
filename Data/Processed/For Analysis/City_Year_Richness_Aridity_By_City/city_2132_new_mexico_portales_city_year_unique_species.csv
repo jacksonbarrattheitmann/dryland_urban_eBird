@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2015,14176192.8957591,16,18,city_2132_new_mexico_portales,630.0437517166138,15.190104166666666,25.011558012941148,dry subhumid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2016,14176192.8957591,18,39,city_2132_new_mexico_portales,392.98750734329224,15.8984375,15.174178262425764,semiarid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2017,14176192.8957591,34,147,city_2132_new_mexico_portales,459.1062560081482,15.8125,17.786198779976687,semiarid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2018,14176192.8957591,26,99,city_2132_new_mexico_portales,396.0500040054322,15.283854166666668,15.664146826458536,semiarid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2019,14176192.8957591,56,207,city_2132_new_mexico_portales,375.2187452316284,15.119791666666668,14.937175841690369,semiarid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2020,14176192.8957591,66,464,city_2132_new_mexico_portales,244.0749988555908,15.6484375,9.516174186267325,arid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2021,14176192.8957591,50,238,city_2132_new_mexico_portales,377.01249742507935,15.044270833333332,15.053842051703285,semiarid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2022,14176192.8957591,65,537,city_2132_new_mexico_portales,362.2874939441681,15.4140625,14.255394781694902,semiarid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2023,14176192.8957591,14,22,city_2132_new_mexico_portales,284.61249828338623,16.130208333333332,10.892086838830007,semiarid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2024,14176192.8957591,22,81,city_2132_new_mexico_portales,405.91249668598175,16.5,15.317452705131387,semiarid,12
-2132,"Portales, NM",Portales,New Mexico,Roosevelt,2025,14176192.8957591,44,188,city_2132_new_mexico_portales,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2132,2015,"Portales, NM",Portales,New Mexico,Roosevelt,100,16,18,city_2132_new_mexico_portales,630.043751716614,15.1901041666667,25.0115580129412,dry subhumid,12
+2132,2016,"Portales, NM",Portales,New Mexico,Roosevelt,100,18,39,city_2132_new_mexico_portales,392.987507343292,15.8984375,15.1741782624258,semiarid,12
+2132,2017,"Portales, NM",Portales,New Mexico,Roosevelt,100,34,147,city_2132_new_mexico_portales,459.106256008148,15.8125,17.7861987799767,semiarid,12
+2132,2018,"Portales, NM",Portales,New Mexico,Roosevelt,100,26,99,city_2132_new_mexico_portales,396.050004005432,15.2838541666667,15.6641468264585,semiarid,12
+2132,2019,"Portales, NM",Portales,New Mexico,Roosevelt,100,56,207,city_2132_new_mexico_portales,375.218745231628,15.1197916666667,14.9371758416904,semiarid,12
+2132,2020,"Portales, NM",Portales,New Mexico,Roosevelt,100,66,464,city_2132_new_mexico_portales,244.074998855591,15.6484375,9.51617418626732,arid,12
+2132,2021,"Portales, NM",Portales,New Mexico,Roosevelt,100,50,238,city_2132_new_mexico_portales,377.012497425079,15.0442708333333,15.0538420517033,semiarid,12
+2132,2022,"Portales, NM",Portales,New Mexico,Roosevelt,100,65,537,city_2132_new_mexico_portales,362.287493944168,15.4140625,14.2553947816949,semiarid,12
+2132,2023,"Portales, NM",Portales,New Mexico,Roosevelt,100,14,22,city_2132_new_mexico_portales,284.612498283386,16.1302083333333,10.89208683883,semiarid,12
+2132,2024,"Portales, NM",Portales,New Mexico,Roosevelt,100,22,81,city_2132_new_mexico_portales,405.912496685982,16.5,15.3174527051314,semiarid,12
+2132,2025,"Portales, NM",Portales,New Mexico,Roosevelt,100,44,188,city_2132_new_mexico_portales,,,,,

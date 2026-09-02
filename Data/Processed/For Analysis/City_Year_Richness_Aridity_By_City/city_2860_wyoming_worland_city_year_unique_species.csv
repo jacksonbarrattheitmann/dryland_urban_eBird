@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2860,"Worland, WY",Worland,Wyoming,Washakie,2015,5616138.79290336,16,54,city_2860_wyoming_worland,218.08750009536743,8.8671875,11.559089031969783,semiarid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2016,5616138.79290336,23,76,city_2860_wyoming_worland,233.66250133514404,8.841145833333332,12.401713961671778,semiarid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2017,5616138.79290336,19,227,city_2860_wyoming_worland,217.10625076293945,7.885416666666666,12.138730386279668,semiarid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2018,5616138.79290336,21,205,city_2860_wyoming_worland,233.50624895095825,7.234375,13.548866666238736,semiarid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2019,5616138.79290336,26,364,city_2860_wyoming_worland,258.63750290870667,6.3515625,15.81729592561608,semiarid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2020,5616138.79290336,27,562,city_2860_wyoming_worland,146.9625005722046,8.1171875,8.11177234723682,arid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2021,5616138.79290336,34,573,city_2860_wyoming_worland,180.1062526702881,8.6328125,9.666079807881289,arid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2022,5616138.79290336,21,253,city_2860_wyoming_worland,211.7624988555908,7.510416666666666,12.09351569907003,semiarid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2023,5616138.79290336,25,299,city_2860_wyoming_worland,274.0874991416931,7.9609375,15.260200039206923,semiarid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2024,5616138.79290336,26,206,city_2860_wyoming_worland,154.11874914169312,8.9921875,8.114849810833698,arid,12
-2860,"Worland, WY",Worland,Wyoming,Washakie,2025,5616138.79290336,40,355,city_2860_wyoming_worland,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2860,2015,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,16,54,city_2860_wyoming_worland,218.087500095367,8.8671875,11.5590890319698,semiarid,12
+2860,2016,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,23,76,city_2860_wyoming_worland,233.662501335144,8.84114583333333,12.4017139616718,semiarid,12
+2860,2017,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,19,227,city_2860_wyoming_worland,217.106250762939,7.88541666666667,12.1387303862797,semiarid,12
+2860,2018,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,21,205,city_2860_wyoming_worland,233.506248950958,7.234375,13.5488666662387,semiarid,12
+2860,2019,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,26,364,city_2860_wyoming_worland,258.637502908707,6.3515625,15.8172959256161,semiarid,12
+2860,2020,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,27,562,city_2860_wyoming_worland,146.962500572205,8.1171875,8.11177234723682,arid,12
+2860,2021,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,34,573,city_2860_wyoming_worland,180.106252670288,8.6328125,9.66607980788129,arid,12
+2860,2022,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,21,253,city_2860_wyoming_worland,211.762498855591,7.51041666666667,12.09351569907,semiarid,12
+2860,2023,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,25,299,city_2860_wyoming_worland,274.087499141693,7.9609375,15.2602000392069,semiarid,12
+2860,2024,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,26,206,city_2860_wyoming_worland,154.118749141693,8.9921875,8.1148498108337,arid,12
+2860,2025,"Worland, WY",Worland,Wyoming,Washakie,99.9999999999943,40,355,city_2860_wyoming_worland,,,,,

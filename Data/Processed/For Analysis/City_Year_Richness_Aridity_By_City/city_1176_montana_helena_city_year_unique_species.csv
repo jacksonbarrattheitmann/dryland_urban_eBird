@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2015,73161122.4830478,136,2444,city_1176_montana_helena,277.2625026702881,7.645833333333334,15.712632973050562,semiarid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2016,73161122.4830478,127,2748,city_1176_montana_helena,317.23749685287476,7.526041666666666,18.100921068574134,semiarid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2017,73161122.4830478,153,5735,city_1176_montana_helena,300.8500027656555,6.434895833333334,18.30556188591534,semiarid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2018,73161122.4830478,160,4271,city_1176_montana_helena,327.6437511444092,6.1015625,20.348568727066656,dry subhumid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2019,73161122.4830478,161,7839,city_1176_montana_helena,350.7937526702881,5.364583333333334,22.83132220769333,dry subhumid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2020,73161122.4830478,187,11304,city_1176_montana_helena,293.75625467300415,6.890625,17.391674652240763,semiarid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2021,73161122.4830478,174,10484,city_1176_montana_helena,232.74999856948853,7.21875,13.51724129623164,semiarid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2022,73161122.4830478,173,12442,city_1176_montana_helena,299.23125171661377,6.213541666666666,18.455637754445824,semiarid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2023,73161122.4830478,167,9781,city_1176_montana_helena,337.45624923706055,7.174479166666666,19.64870351888268,semiarid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2024,73161122.4830478,163,11732,city_1176_montana_helena,282.9187550544739,7.489583333333334,16.1764148214589,semiarid,12
-1176,"Helena, MT",Helena,Montana,Lewis and Clark,2025,73161122.4830478,168,12012,city_1176_montana_helena,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1176,2015,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,136,2444,city_1176_montana_helena,277.262502670288,7.64583333333333,15.7126329730506,semiarid,12
+1176,2016,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,127,2748,city_1176_montana_helena,317.237496852875,7.52604166666667,18.1009210685741,semiarid,12
+1176,2017,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,153,5735,city_1176_montana_helena,300.850002765656,6.43489583333333,18.3055618859153,semiarid,12
+1176,2018,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,160,4271,city_1176_montana_helena,327.643751144409,6.1015625,20.3485687270667,dry subhumid,12
+1176,2019,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,161,7839,city_1176_montana_helena,350.793752670288,5.36458333333333,22.8313222076933,dry subhumid,12
+1176,2020,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,187,11304,city_1176_montana_helena,293.756254673004,6.890625,17.3916746522408,semiarid,12
+1176,2021,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,174,10484,city_1176_montana_helena,232.749998569489,7.21875,13.5172412962316,semiarid,12
+1176,2022,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,173,12442,city_1176_montana_helena,299.231251716614,6.21354166666667,18.4556377544458,semiarid,12
+1176,2023,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,167,9781,city_1176_montana_helena,337.456249237061,7.17447916666667,19.6487035188827,semiarid,12
+1176,2024,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,163,11732,city_1176_montana_helena,282.918755054474,7.48958333333333,16.1764148214589,semiarid,12
+1176,2025,"Helena, MT",Helena,Montana,Lewis and Clark,99.9999999999991,168,12012,city_1176_montana_helena,,,,,

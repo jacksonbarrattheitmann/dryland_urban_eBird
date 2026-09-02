@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1363,"Kermit, TX",Kermit,Texas,Winkler,2015,8393708.89787583,10,10,city_1363_texas_kermit,432.11875343322754,18.455729166666668,15.185650344866788,semiarid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2017,8393708.89787583,24,24,city_1363_texas_kermit,318.0749979019165,19.3828125,10.825205990812368,semiarid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2018,8393708.89787583,28,30,city_1363_texas_kermit,316.1750074625015,18.625,11.045415107860316,semiarid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2019,8393708.89787583,49,79,city_1363_texas_kermit,276.7875008583069,18.375,9.754625580909494,arid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2020,8393708.89787583,46,115,city_1363_texas_kermit,143.25000023841858,18.994791666666668,4.940542490708886,extremely arid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2021,8393708.89787583,13,17,city_1363_texas_kermit,315.07500433921814,18.515625,11.049205631621897,semiarid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2022,8393708.89787583,6,6,city_1363_texas_kermit,231.82500076293945,18.984375,7.998274958936995,arid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2023,8393708.89787583,30,64,city_1363_texas_kermit,161.16875100135803,19.541666666666668,5.455641782838636,arid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2024,8393708.89787583,25,72,city_1363_texas_kermit,279.9749993085861,20.03125,9.322788738683409,arid,12
-1363,"Kermit, TX",Kermit,Texas,Winkler,2025,8393708.89787583,30,51,city_1363_texas_kermit,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1363,2015,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,10,10,city_1363_texas_kermit,432.118753433228,18.4557291666667,15.1856503448668,semiarid,12
+1363,2017,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,24,24,city_1363_texas_kermit,318.074997901917,19.3828125,10.8252059908124,semiarid,12
+1363,2018,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,28,30,city_1363_texas_kermit,316.175007462502,18.625,11.0454151078603,semiarid,12
+1363,2019,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,49,79,city_1363_texas_kermit,276.787500858307,18.375,9.75462558090949,arid,12
+1363,2020,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,46,115,city_1363_texas_kermit,143.250000238419,18.9947916666667,4.94054249070889,extremely arid,12
+1363,2021,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,13,17,city_1363_texas_kermit,315.075004339218,18.515625,11.0492056316219,semiarid,12
+1363,2022,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,6,6,city_1363_texas_kermit,231.825000762939,18.984375,7.998274958937,arid,12
+1363,2023,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,30,64,city_1363_texas_kermit,161.168751001358,19.5416666666667,5.45564178283864,arid,12
+1363,2024,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,25,72,city_1363_texas_kermit,279.974999308586,20.03125,9.32278873868341,arid,12
+1363,2025,"Kermit, TX",Kermit,Texas,Winkler,99.9999999999959,30,51,city_1363_texas_kermit,,,,,

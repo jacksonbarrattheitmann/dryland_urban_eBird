@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2015,12755465.070157,5,5,city_0944_colorado_fort_morgan,404.2874970436096,10.838541666666668,19.40094962068809,semiarid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2016,12755465.070157,12,14,city_0944_colorado_fort_morgan,365.5125002861023,11.174479166666668,17.261935814766115,semiarid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2017,12755465.070157,28,46,city_0944_colorado_fort_morgan,404.475004196167,10.7421875,19.50011319665137,semiarid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2018,12755465.070157,24,65,city_0944_colorado_fort_morgan,336.98124599456787,10.057291666666668,16.800934622424574,semiarid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2019,12755465.070157,11,33,city_0944_colorado_fort_morgan,442.8249950408935,9.283854166666668,22.96351088395721,dry subhumid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2020,12755465.070157,8,11,city_0944_colorado_fort_morgan,223.99374961853027,10.75,10.794879499688204,semiarid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2021,12755465.070157,22,49,city_0944_colorado_fort_morgan,350.50624799728394,11.002604166666668,16.688704182387728,semiarid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2022,12755465.070157,14,126,city_0944_colorado_fort_morgan,255.0187516212463,10.283854166666668,12.572499758962458,semiarid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2023,12755465.070157,30,103,city_0944_colorado_fort_morgan,433.46875286102295,10.278645833333332,21.375626184491185,dry subhumid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2024,12755465.070157,15,70,city_0944_colorado_fort_morgan,311.01874911785126,11.5703125,14.41883371498912,semiarid,12
-944,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,2025,12755465.070157,11,24,city_0944_colorado_fort_morgan,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+944,2015,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,5,5,city_0944_colorado_fort_morgan,404.28749704361,10.8385416666667,19.4009496206881,semiarid,12
+944,2016,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,12,14,city_0944_colorado_fort_morgan,365.512500286102,11.1744791666667,17.2619358147661,semiarid,12
+944,2017,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,28,46,city_0944_colorado_fort_morgan,404.475004196167,10.7421875,19.5001131966514,semiarid,12
+944,2018,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,24,65,city_0944_colorado_fort_morgan,336.981245994568,10.0572916666667,16.8009346224246,semiarid,12
+944,2019,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,11,33,city_0944_colorado_fort_morgan,442.824995040894,9.28385416666667,22.9635108839572,dry subhumid,12
+944,2020,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,8,11,city_0944_colorado_fort_morgan,223.99374961853,10.75,10.7948794996882,semiarid,12
+944,2021,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,22,49,city_0944_colorado_fort_morgan,350.506247997284,11.0026041666667,16.6887041823877,semiarid,12
+944,2022,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,14,126,city_0944_colorado_fort_morgan,255.018751621246,10.2838541666667,12.5724997589625,semiarid,12
+944,2023,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,30,103,city_0944_colorado_fort_morgan,433.468752861023,10.2786458333333,21.3756261844912,dry subhumid,12
+944,2024,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,15,70,city_0944_colorado_fort_morgan,311.018749117851,11.5703125,14.4188337149891,semiarid,12
+944,2025,"Fort Morgan, CO",Fort Morgan,Colorado,Morgan,100,11,24,city_0944_colorado_fort_morgan,,,,,

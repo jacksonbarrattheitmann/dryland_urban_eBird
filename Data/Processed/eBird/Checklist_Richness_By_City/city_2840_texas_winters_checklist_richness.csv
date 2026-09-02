@@ -1,10 +1,10 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23276223,L3618393,Winters,2015-04-30,2015,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,10,4.828,1,31.9576962,-99.9628354,13,13,city_2840_texas_winters
-S29014115,L4499668,Winters (town),2016-04-16,2016,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,12,2.414,1,31.9624454,-99.9628353,9,9,city_2840_texas_winters
-S41223013,L6588679,Coffee shop,2017-12-20,2017,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,5,,1,31.9722237,-99.9620354,1,1,city_2840_texas_winters
-S50582571,L8239382,Winters (Runnels Co. Tx),2018-12-10,2018,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,5,,1,31.9563217,-99.9628448,6,6,city_2840_texas_winters
-S60408182,L10000150,Winters,2019-10-06,2019,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,60,3.219,1,31.9498037,-99.9623586,12,12,city_2840_texas_winters
-S78854404,L13183192,US83- Runnels county,2021-01-06,2021,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,26,22.531,1,31.9499971,-99.9627508,8,8,city_2840_texas_winters
-S78768731,L13183192,US83- Runnels county,2021-01-06,2021,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,26,22.531,1,31.9499971,-99.9627508,8,8,city_2840_texas_winters
-S158399662,L10000150,Winters,2024-01-05,2024,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,30,8.047,1,31.9498037,-99.9623586,8,8,city_2840_texas_winters
-S248319839,L20533553,"706–710 S Main St, Winters US-TX (31.9500,-99.9629)",2025-06-08,2025,2840,"Winters, TX",Winters,Texas,Runnels,3131156.72852132,12,,1,31.950041,-99.962935,6,6,city_2840_texas_winters
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23276223,L3618393,Winters,2015-04-30,2015,2840,"Winters, TX",Winters,Texas,Runnels,100,10,4.828,1,Traveling,31.9576962,-99.9628354,13,13,city_2840_texas_winters
+S29014115,L4499668,Winters (town),2016-04-16,2016,2840,"Winters, TX",Winters,Texas,Runnels,100,12,2.414,1,Traveling,31.9624454,-99.9628353,9,9,city_2840_texas_winters
+S41223013,L6588679,Coffee shop,2017-12-20,2017,2840,"Winters, TX",Winters,Texas,Runnels,100,5,,1,Stationary,31.9722237,-99.9620354,1,1,city_2840_texas_winters
+S50582571,L8239382,Winters (Runnels Co. Tx),2018-12-10,2018,2840,"Winters, TX",Winters,Texas,Runnels,100,5,,1,Stationary,31.9563217,-99.9628448,6,6,city_2840_texas_winters
+S60408182,L10000150,Winters,2019-10-06,2019,2840,"Winters, TX",Winters,Texas,Runnels,100,60,3.219,1,Traveling,31.9498037,-99.9623586,12,12,city_2840_texas_winters
+S78854404,L13183192,US83- Runnels county,2021-01-06,2021,2840,"Winters, TX",Winters,Texas,Runnels,100,26,22.531,1,Traveling,31.9499971,-99.9627508,8,8,city_2840_texas_winters
+S78768731,L13183192,US83- Runnels county,2021-01-06,2021,2840,"Winters, TX",Winters,Texas,Runnels,100,26,22.531,1,Traveling,31.9499971,-99.9627508,8,8,city_2840_texas_winters
+S158399662,L10000150,Winters,2024-01-05,2024,2840,"Winters, TX",Winters,Texas,Runnels,100,30,8.047,1,Traveling,31.9498037,-99.9623586,8,8,city_2840_texas_winters
+S248319839,L20533553,"706–710 S Main St, Winters US-TX (31.9500,-99.9629)",2025-06-08,2025,2840,"Winters, TX",Winters,Texas,Runnels,100,12,,1,Stationary,31.950041,-99.962935,6,6,city_2840_texas_winters

@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2015,7811852.70405369,6,6,city_0837_arizona_eloy,267.5750012397766,22.841145833333332,8.147553760691002,arid,12
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2016,7811852.70405369,11,13,city_0837_arizona_eloy,223.30624854564667,22.765625,6.815259850701663,arid,12
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2018,7811852.70405369,6,6,city_0837_arizona_eloy,233.78749644756317,22.846354166666668,7.117608708147486,arid,12
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2019,7811852.70405369,14,14,city_0837_arizona_eloy,241.79999947547913,21.9765625,7.561788402849091,arid,12
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2020,7811852.70405369,12,13,city_0837_arizona_eloy,123.80625081062315,22.986979166666668,3.75318546706239,extremely arid,12
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2021,7811852.70405369,15,15,city_0837_arizona_eloy,254.543749332428,22.794270833333332,7.761835920245562,arid,12
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2022,7811852.70405369,12,13,city_0837_arizona_eloy,189.2437483072281,22.3671875,5.8467776450217706,arid,12
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2024,7811852.70405369,1,1,city_0837_arizona_eloy,174.94375324249268,23.234375,5.263939918909042,arid,12
-837,"Eloy, AZ",Eloy,Arizona,Pinal,2025,7811852.70405369,6,9,city_0837_arizona_eloy,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+837,2015,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,6,6,city_0837_arizona_eloy,267.575001239777,22.8411458333333,8.147553760691,arid,12
+837,2016,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,11,13,city_0837_arizona_eloy,223.306248545647,22.765625,6.81525985070166,arid,12
+837,2018,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,6,6,city_0837_arizona_eloy,233.787496447563,22.8463541666667,7.11760870814749,arid,12
+837,2019,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,14,14,city_0837_arizona_eloy,241.799999475479,21.9765625,7.56178840284909,arid,12
+837,2020,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,12,13,city_0837_arizona_eloy,123.806250810623,22.9869791666667,3.75318546706239,extremely arid,12
+837,2021,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,15,15,city_0837_arizona_eloy,254.543749332428,22.7942708333333,7.76183592024556,arid,12
+837,2022,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,12,13,city_0837_arizona_eloy,189.243748307228,22.3671875,5.84677764502177,arid,12
+837,2024,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,1,1,city_0837_arizona_eloy,174.943753242493,23.234375,5.26393991890904,arid,12
+837,2025,"Eloy, AZ",Eloy,Arizona,Pinal,99.9999999999455,6,9,city_0837_arizona_eloy,,,,,

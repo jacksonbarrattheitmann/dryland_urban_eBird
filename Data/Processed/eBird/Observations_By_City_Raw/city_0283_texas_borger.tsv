@@ -1,7 +1,7 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S22486664	2015-03-23	L1489492	Borger, Roosevelt St	Great Horned Owl	Bubo virginianus	8910	species	1	35.6562400	-101.4090800	Stationary	1	0
 S22486664	2015-03-23	L1489492	Borger, Roosevelt St	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.6562400	-101.4090800	Stationary	1	0
 S22486664	2015-03-23	L1489492	Borger, Roosevelt St	Killdeer	Charadrius vociferus	5827	species	4	35.6562400	-101.4090800	Stationary	1	0
+S22486664	2015-03-23	L1489492	Borger, Roosevelt St	Great Horned Owl	Bubo virginianus	8910	species	1	35.6562400	-101.4090800	Stationary	1	0
 S22486664	2015-03-23	L1489492	Borger, Roosevelt St	Common Grackle	Quiscalus quiscula	33853	species	8	35.6562400	-101.4090800	Stationary	1	0
 S29689291	2016-05-14	L4558759	Borger, Texas	Blue Jay	Cyanocitta cristata	21294	species	1	35.6481120	-101.3904552	Stationary	1	0
 S29184914	2016-04-24	L1489492	Borger, Roosevelt St	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	35.6562400	-101.4090800	Stationary	1	0
@@ -76,8 +76,8 @@ S47418770	2018-07-24	L7746488	1351 W Wilson St, Borger US-TX (35.6598,-101.4060)
 S47350565	2018-07-22	L7739506	Borger US-TX (35.6534,-101.3959)	Rock Pigeon	Columba livia	1868	domestic	5	35.6534420	-101.3958780	Traveling	1	0
 S42614451	2018-01-31	L6845625	Borger City Limits	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	35.6533268	-101.3987087	Traveling	1	0
 S47418770	2018-07-24	L7746488	1351 W Wilson St, Borger US-TX (35.6598,-101.4060)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	35.6597820	-101.4059870	Stationary	1	0
-S50497743	2018-12-07	L2025329	Borger Texas - Knightcrest	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	35.6487876	-101.3875008	Stationary	1	0
 S47418770	2018-07-24	L7746488	1351 W Wilson St, Borger US-TX (35.6598,-101.4060)	Common Grackle	Quiscalus quiscula	33853	species	7	35.6597820	-101.4059870	Stationary	1	0
+S50497743	2018-12-07	L2025329	Borger Texas - Knightcrest	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	35.6487876	-101.3875008	Stationary	1	0
 S42614451	2018-01-31	L6845625	Borger City Limits	Rock Pigeon	Columba livia	1868	domestic	X	35.6533268	-101.3987087	Traveling	1	0
 S42072014	2018-01-19	L6746835	S Cedar St, Borger US-TX (35.6298,-101.3990)	Eastern Meadowlark	Sturnella magna	33568	species	1	35.6298120	-101.3990220	Traveling	1	0
 S47350565	2018-07-22	L7739506	Borger US-TX (35.6534,-101.3959)	Western Kingbird	Tyrannus verticalis	17467	species	12	35.6534420	-101.3958780	Traveling	1	0
@@ -93,69 +93,69 @@ S45598516	2018-05-12	L7395884	Borger Area	Eurasian Collared-Dove	Streptopelia de
 S47350565	2018-07-22	L7739506	Borger US-TX (35.6534,-101.3959)	Mourning Dove	Zenaida macroura	2412	species	4	35.6534420	-101.3958780	Traveling	1	0
 S50497743	2018-12-07	L2025329	Borger Texas - Knightcrest	Blue Jay	Cyanocitta cristata	21294	species	3	35.6487876	-101.3875008	Stationary	1	0
 S53903561	2019-03-16	L471968	Borger	Dark-eyed Junco	Junco hyemalis	33124	species	1	35.6678400	-101.3974400	Stationary	1	0
+S53903561	2019-03-16	L471968	Borger	Northern Cardinal	Cardinalis cardinalis	34515	species	1	35.6678400	-101.3974400	Stationary	1	0
 S53903561	2019-03-16	L471968	Borger	Blue Jay	Cyanocitta cristata	21294	species	1	35.6678400	-101.3974400	Stationary	1	0
 S53903561	2019-03-16	L471968	Borger	House Finch	Haemorhous mexicanus	32310	species	1	35.6678400	-101.3974400	Stationary	1	0
 S51897358	2019-01-17	L8469136	Borger, downtown	Rock Pigeon	Columba livia	1868	domestic	15	35.6705237	-101.3971675	Traveling	1	0
 S51897358	2019-01-17	L8469136	Borger, downtown	European Starling	Sturnus vulgaris	27813	species	20	35.6705237	-101.3971675	Traveling	1	0
-S53903561	2019-03-16	L471968	Borger	Northern Cardinal	Cardinalis cardinalis	34515	species	1	35.6678400	-101.3974400	Stationary	1	0
+S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.6550240	-101.4219720	Traveling	1	0
+S79646901	2021-01-21	L13346185	The Borger Collective	Rock Pigeon	Columba livia	1868	domestic	4	35.6656236	-101.4057116	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	35.6656236	-101.4057116	Traveling	1	0
 S96762109	2021-06-14	L16748816	Borger	European Starling	Sturnus vulgaris	27813	species	X	35.6639945	-101.3982806	Traveling	1	0
-S79646901	2021-01-21	L13346185	The Borger Collective	Rock Pigeon	Columba livia	1868	domestic	4	35.6656236	-101.4057116	Traveling	1	0
-S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.6550240	-101.4219720	Traveling	1	0
 S79646901	2021-01-21	L13346185	The Borger Collective	Western Meadowlark	Sturnella neglecta	33565	species	15	35.6656236	-101.4057116	Traveling	1	0
+S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	Western Kingbird	Tyrannus verticalis	17467	species	1	35.6550240	-101.4219720	Traveling	1	0
 S96762109	2021-06-14	L16748816	Borger	Northern Mockingbird	Mimus polyglottos	28114	species	X	35.6639945	-101.3982806	Traveling	1	0
 S79646901	2021-01-21	L13346185	The Borger Collective	House Sparrow	Passer domesticus	31534	species	8	35.6656236	-101.4057116	Traveling	1	0
-S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	Western Kingbird	Tyrannus verticalis	17467	species	1	35.6550240	-101.4219720	Traveling	1	0
-S92457218	2021-07-29	L15932696	306 Austin Street, Borger, Texas, US (35.669, -101.396)	European Starling	Sturnus vulgaris	27813	species	X	35.6691785	-101.3962196	Stationary	1	0
 S96762109	2021-06-14	L16748816	Borger	Western Kingbird	Tyrannus verticalis	17467	species	X	35.6639945	-101.3982806	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	House Sparrow	Passer domesticus	31534	species	20	35.6656236	-101.4057116	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Northern Mockingbird	Mimus polyglottos	28114	species	1	35.6656236	-101.4057116	Traveling	1	0
+S92457218	2021-07-29	L15932696	306 Austin Street, Borger, Texas, US (35.669, -101.396)	European Starling	Sturnus vulgaris	27813	species	X	35.6691785	-101.3962196	Stationary	1	0
 S79646901	2021-01-21	L13346185	The Borger Collective	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	35.6656236	-101.4057116	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Mississippi Kite	Ictinia mississippiensis	8388	species	3	35.6656236	-101.4057116	Traveling	1	0
-S96762109	2021-06-14	L16748816	Borger	Common Grackle	Quiscalus quiscula	33853	species	X	35.6639945	-101.3982806	Traveling	1	0
 S79646901	2021-01-21	L13346185	The Borger Collective	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	35.6656236	-101.4057116	Traveling	1	0
-S92457218	2021-07-29	L15932696	306 Austin Street, Borger, Texas, US (35.669, -101.396)	Chimney Swift	Chaetura pelagica	3896	species	1	35.6691785	-101.3962196	Stationary	1	0
+S96762109	2021-06-14	L16748816	Borger	Common Grackle	Quiscalus quiscula	33853	species	X	35.6639945	-101.3982806	Traveling	1	0
 S96762109	2021-06-14	L16748816	Borger	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	35.6639945	-101.3982806	Traveling	1	0
-S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	Mourning Dove	Zenaida macroura	2412	species	2	35.6550240	-101.4219720	Traveling	1	0
+S92457218	2021-07-29	L15932696	306 Austin Street, Borger, Texas, US (35.669, -101.396)	Chimney Swift	Chaetura pelagica	3896	species	1	35.6691785	-101.3962196	Stationary	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	35.6656236	-101.4057116	Traveling	1	0
+S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	Mourning Dove	Zenaida macroura	2412	species	2	35.6550240	-101.4219720	Traveling	1	0
 S82775394	2021-03-04	L13918867	1700–1736 S Cedar St, Borger US-TX 35.64961, -101.39899	European Starling	Sturnus vulgaris	27813	species	7	35.6496100	-101.3989900	Traveling	1	0
-S79646901	2021-01-21	L13346185	The Borger Collective	American Robin	Turdus migratorius	28633	species	1	35.6656236	-101.4057116	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.6656236	-101.4057116	Traveling	1	0
+S79646901	2021-01-21	L13346185	The Borger Collective	American Robin	Turdus migratorius	28633	species	1	35.6656236	-101.4057116	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Chimney Swift	Chaetura pelagica	3896	species	2	35.6656236	-101.4057116	Traveling	1	0
+S79646901	2021-01-21	L13346185	The Borger Collective	European Starling	Sturnus vulgaris	27813	species	2	35.6656236	-101.4057116	Traveling	1	0
 S79646901	2021-01-21	L13346185	The Borger Collective	American Kestrel	Falco sparverius	12028	species	1	35.6656236	-101.4057116	Traveling	1	0
 S82775394	2021-03-04	L13918867	1700–1736 S Cedar St, Borger US-TX 35.64961, -101.39899	Rock Pigeon	Columba livia	1868	domestic	4	35.6496100	-101.3989900	Traveling	1	0
-S79646901	2021-01-21	L13346185	The Borger Collective	European Starling	Sturnus vulgaris	27813	species	2	35.6656236	-101.4057116	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Turkey Vulture	Cathartes aura	7815	species	1	35.6656236	-101.4057116	Traveling	1	0
-S91884611	2021-07-17	L13346185	The Borger Collective	Mourning Dove	Zenaida macroura	2412	species	2	35.6656236	-101.4057116	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	35.6656236	-101.4057116	Traveling	1	0
+S91884611	2021-07-17	L13346185	The Borger Collective	Mourning Dove	Zenaida macroura	2412	species	2	35.6656236	-101.4057116	Traveling	1	0
 S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	European Starling	Sturnus vulgaris	27813	species	5	35.6550240	-101.4219720	Traveling	1	0
-S91884611	2021-07-17	L13346185	The Borger Collective	White-winged Dove	Zenaida asiatica	2389	species	1	35.6656236	-101.4057116	Traveling	1	0
-S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	35.6550240	-101.4219720	Traveling	1	0
 S90711796	2021-06-24	L15505915	1300 West 3rd Street, Borger, Texas, US (35.667, -101.406)	Chimney Swift	Chaetura pelagica	3896	species	1	35.6674971	-101.4056082	Traveling	1	0
+S91064386	2021-07-01	L15592465	2060–2098 W Wilson St, Borger US-TX 35.65502, -101.42197	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	35.6550240	-101.4219720	Traveling	1	0
+S91884611	2021-07-17	L13346185	The Borger Collective	White-winged Dove	Zenaida asiatica	2389	species	1	35.6656236	-101.4057116	Traveling	1	0
 S96762109	2021-06-14	L16748816	Borger	House Sparrow	Passer domesticus	31534	species	X	35.6639945	-101.3982806	Traveling	1	0
-S90711796	2021-06-24	L15505915	1300 West 3rd Street, Borger, Texas, US (35.667, -101.406)	Northern Mockingbird	Mimus polyglottos	28114	species	1	35.6674971	-101.4056082	Traveling	1	0
-S96762109	2021-06-14	L16748816	Borger	White-winged Dove	Zenaida asiatica	2389	species	X	35.6639945	-101.3982806	Traveling	1	0
-S96762109	2021-06-14	L16748816	Borger	Common Nighthawk	Chordeiles minor	3492	species	1	35.6639945	-101.3982806	Traveling	1	0
 S79646901	2021-01-21	L13346185	The Borger Collective	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	35.6656236	-101.4057116	Traveling	1	0
+S96762109	2021-06-14	L16748816	Borger	Common Nighthawk	Chordeiles minor	3492	species	1	35.6639945	-101.3982806	Traveling	1	0
+S90711796	2021-06-24	L15505915	1300 West 3rd Street, Borger, Texas, US (35.667, -101.406)	Northern Mockingbird	Mimus polyglottos	28114	species	1	35.6674971	-101.4056082	Traveling	1	0
 S91884611	2021-07-17	L13346185	The Borger Collective	Western Kingbird	Tyrannus verticalis	17467	species	3	35.6656236	-101.4057116	Traveling	1	0
+S96762109	2021-06-14	L16748816	Borger	White-winged Dove	Zenaida asiatica	2389	species	X	35.6639945	-101.3982806	Traveling	1	0
 S90711796	2021-06-24	L15505915	1300 West 3rd Street, Borger, Texas, US (35.667, -101.406)	Western Kingbird	Tyrannus verticalis	17467	species	1	35.6674971	-101.4056082	Traveling	1	0
-S117826319	2022-08-30	L1398641	TX. Borger	Curve-billed Thrasher	Toxostoma curvirostre	28025	issf	1	35.6618887	-101.3991780	Traveling	1	0
 S117826319	2022-08-30	L1398641	TX. Borger	Turkey Vulture	Cathartes aura	7815	species	3	35.6618887	-101.3991780	Traveling	1	0
-S112940185	2022-06-14	L19641269	Borger	European Starling	Sturnus vulgaris	27813	species	4	35.6646010	-101.3955110	Traveling	1	0
+S117826319	2022-08-30	L1398641	TX. Borger	Curve-billed Thrasher	Toxostoma curvirostre	28025	issf	1	35.6618887	-101.3991780	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	European Starling	Sturnus vulgaris	27813	species	5	35.6628880	-101.4011960	Traveling	1	0
+S112940185	2022-06-14	L19641269	Borger	European Starling	Sturnus vulgaris	27813	species	4	35.6646010	-101.3955110	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	35.6646010	-101.3955110	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	Mourning Dove	Zenaida macroura	2412	species	3	35.6646010	-101.3955110	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	Northern Mockingbird	Mimus polyglottos	28114	species	8	35.6646010	-101.3955110	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	100	35.6646010	-101.3955110	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	Bullock's Oriole	Icterus bullockii	33736	species	1	35.6628880	-101.4011960	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.6628880	-101.4011960	Traveling	1	0
-S112938363	2022-06-14	L19640772	Johnson Park	Brown-headed Cowbird	Molothrus ater	33833	species	1	35.6628880	-101.4011960	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	Western Kingbird	Tyrannus verticalis	17467	species	10	35.6646010	-101.3955110	Traveling	1	0
-S112940185	2022-06-14	L19641269	Borger	Rock Pigeon	Columba livia	1868	domestic	3	35.6646010	-101.3955110	Traveling	1	0
+S112938363	2022-06-14	L19640772	Johnson Park	Brown-headed Cowbird	Molothrus ater	33833	species	1	35.6628880	-101.4011960	Traveling	1	0
 S103967986	2022-03-01	L17967043	101 Bunton Street, Borger, Texas, US (35.686, -101.39)	Blue Jay	Cyanocitta cristata	21294	species	1	35.6856032	-101.3900758	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.6628880	-101.4011960	Traveling	1	0
-S112940185	2022-06-14	L19641269	Borger	Barn Swallow	Hirundo rustica	24187	species	2	35.6646010	-101.3955110	Traveling	1	0
+S112940185	2022-06-14	L19641269	Borger	Rock Pigeon	Columba livia	1868	domestic	3	35.6646010	-101.3955110	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	Mourning Dove	Zenaida macroura	2412	species	1	35.6628880	-101.4011960	Traveling	1	0
+S112940185	2022-06-14	L19641269	Borger	Barn Swallow	Hirundo rustica	24187	species	2	35.6646010	-101.3955110	Traveling	1	0
 S103967986	2022-03-01	L17967043	101 Bunton Street, Borger, Texas, US (35.686, -101.39)	Rock Pigeon	Columba livia	1868	domestic	4	35.6856032	-101.3900758	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	Bewick's Wren	Thryomanes bewickii	27362	species	1	35.6628880	-101.4011960	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	Painted Bunting	Passerina ciris	34621	species	1	35.6628880	-101.4011960	Traveling	1	0
@@ -163,109 +163,109 @@ S112940185	2022-06-14	L19641269	Borger	Common Grackle	Quiscalus quiscula	33853	s
 S112938363	2022-06-14	L19640772	Johnson Park	Northern Mockingbird	Mimus polyglottos	28114	species	2	35.6628880	-101.4011960	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	Northern Flicker	Colaptes auratus	11903	issf	1	35.6646010	-101.3955110	Traveling	1	0
 S103967986	2022-03-01	L17967043	101 Bunton Street, Borger, Texas, US (35.686, -101.39)	European Starling	Sturnus vulgaris	27813	species	7	35.6856032	-101.3900758	Traveling	1	0
+S112938363	2022-06-14	L19640772	Johnson Park	House Finch	Haemorhous mexicanus	32310	species	6	35.6628880	-101.4011960	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	Western Kingbird	Tyrannus verticalis	17467	species	6	35.6628880	-101.4011960	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	House Finch	Haemorhous mexicanus	32310	species	2	35.6646010	-101.3955110	Traveling	1	0
-S112938363	2022-06-14	L19640772	Johnson Park	House Finch	Haemorhous mexicanus	32310	species	6	35.6628880	-101.4011960	Traveling	1	0
-S112940185	2022-06-14	L19641269	Borger	Killdeer	Charadrius vociferus	5827	species	1	35.6646010	-101.3955110	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.6646010	-101.3955110	Traveling	1	0
 S117826319	2022-08-30	L1398641	TX. Borger	Mourning Dove	Zenaida macroura	2412	species	2	35.6618887	-101.3991780	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	Great-tailed Grackle	Quiscalus mexicanus	33864	species	10	35.6646010	-101.3955110	Traveling	1	0
+S112940185	2022-06-14	L19641269	Borger	Killdeer	Charadrius vociferus	5827	species	1	35.6646010	-101.3955110	Traveling	1	0
 S112940185	2022-06-14	L19641269	Borger	House Sparrow	Passer domesticus	31534	species	20	35.6646010	-101.3955110	Traveling	1	0
-S117826319	2022-08-30	L1398641	TX. Borger	Rock Pigeon	Columba livia	1868	domestic	1	35.6618887	-101.3991780	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	2	35.6628880	-101.4011960	Traveling	1	0
+S117826319	2022-08-30	L1398641	TX. Borger	Rock Pigeon	Columba livia	1868	domestic	1	35.6618887	-101.3991780	Traveling	1	0
 S112938363	2022-06-14	L19640772	Johnson Park	American Robin	Turdus migratorius	28633	species	6	35.6628880	-101.4011960	Traveling	1	0
 S103967986	2022-03-01	L17967043	101 Bunton Street, Borger, Texas, US (35.686, -101.39)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	35.6856032	-101.3900758	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Chimney Swift	Chaetura pelagica	3896	species	1	35.6624180	-101.4072890	Traveling	1	0
-S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Turkey Vulture	Cathartes aura	7815	species	1	35.6585890	-101.4066170	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Barn Swallow	Hirundo rustica	24187	species	3	35.6624180	-101.4072890	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	House Finch	Haemorhous mexicanus	32310	species	4	35.6624180	-101.4072890	Traveling	1	0
+S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Turkey Vulture	Cathartes aura	7815	species	1	35.6585890	-101.4066170	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Northern Mockingbird	Mimus polyglottos	28114	species	2	35.6624180	-101.4072890	Traveling	1	0
 S156004056	2023-12-09	L28220694	501 Austin St, Borger US-TX 35.67054, -101.39707	Chihuahuan Raven	Corvus cryptoleucus	21574	species	1	35.6705430	-101.3970680	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.6624180	-101.4072890	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Painted Bunting	Passerina ciris	34621	species	2	35.6624180	-101.4072890	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Rock Pigeon	Columba livia	1868	domestic	3	35.6624180	-101.4072890	Traveling	1	0
 S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Western Kingbird	Tyrannus verticalis	17467	species	10	35.6585890	-101.4066170	Traveling	1	0
-S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	35.6624180	-101.4072890	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Mourning Dove	Zenaida macroura	2412	species	5	35.6624180	-101.4072890	Traveling	1	0
-S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	American Robin	Turdus migratorius	28633	species	3	35.6585890	-101.4066170	Traveling	1	0
+S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	35.6624180	-101.4072890	Traveling	1	0
 S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Northern Cardinal	Cardinalis cardinalis	34515	species	3	35.6624180	-101.4072890	Traveling	1	0
-S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Rock Pigeon	Columba livia	1868	domestic	4	35.6585890	-101.4066170	Traveling	1	0
-S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Brown-headed Cowbird	Molothrus ater	33833	species	1	35.6624180	-101.4072890	Traveling	1	0
+S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	American Robin	Turdus migratorius	28633	species	3	35.6585890	-101.4066170	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	House Sparrow	Passer domesticus	31534	species	6	35.6624180	-101.4072890	Traveling	1	0
-S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Swainson's Hawk	Buteo swainsoni	8504	species	1	35.6585890	-101.4066170	Traveling	1	0
+S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Brown-headed Cowbird	Molothrus ater	33833	species	1	35.6624180	-101.4072890	Traveling	1	0
+S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Rock Pigeon	Columba livia	1868	domestic	4	35.6585890	-101.4066170	Traveling	1	0
 S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	35.6585890	-101.4066170	Traveling	1	0
+S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Swainson's Hawk	Buteo swainsoni	8504	species	1	35.6585890	-101.4066170	Traveling	1	0
 S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Chimney Swift	Chaetura pelagica	3896	species	2	35.6624180	-101.4072890	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Northern Cardinal	Cardinalis cardinalis	34515	species	1	35.6624180	-101.4072890	Traveling	1	0
-S156004056	2023-12-09	L28220694	501 Austin St, Borger US-TX 35.67054, -101.39707	White-winged Dove	Zenaida asiatica	2389	species	1	35.6705430	-101.3970680	Traveling	1	0
 S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Mourning Dove	Zenaida macroura	2412	species	1	35.6585890	-101.4066170	Traveling	1	0
+S156004056	2023-12-09	L28220694	501 Austin St, Borger US-TX 35.67054, -101.39707	White-winged Dove	Zenaida asiatica	2389	species	1	35.6705430	-101.3970680	Traveling	1	0
 S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.6624180	-101.4072890	Traveling	1	0
-S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	European Starling	Sturnus vulgaris	27813	species	8	35.6624180	-101.4072890	Traveling	1	0
 S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Western Kingbird	Tyrannus verticalis	17467	species	8	35.6624180	-101.4072890	Traveling	1	0
 S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Mourning Dove	Zenaida macroura	2412	species	3	35.6624180	-101.4072890	Traveling	1	0
 S156004056	2023-12-09	L28220694	501 Austin St, Borger US-TX 35.67054, -101.39707	European Starling	Sturnus vulgaris	27813	species	50	35.6705430	-101.3970680	Traveling	1	0
+S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	European Starling	Sturnus vulgaris	27813	species	8	35.6624180	-101.4072890	Traveling	1	0
 S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Bewick's Wren	Thryomanes bewickii	27362	species	1	35.6624180	-101.4072890	Traveling	1	0
-S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	35.6624180	-101.4072890	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Eastern Phoebe	Sayornis phoebe	17007	species	2	35.6624180	-101.4072890	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Barn Swallow	Hirundo rustica	24187	species	2	35.6624180	-101.4072890	Traveling	1	0
-S156004056	2023-12-09	L28220694	501 Austin St, Borger US-TX 35.67054, -101.39707	Rock Pigeon	Columba livia	1868	domestic	30	35.6705430	-101.3970680	Traveling	1	0
-S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.6624180	-101.4072890	Traveling	1	0
+S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	35.6624180	-101.4072890	Traveling	1	0
 S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Barn Swallow	Hirundo rustica	24187	species	3	35.6585890	-101.4066170	Traveling	1	0
+S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.6624180	-101.4072890	Traveling	1	0
+S156004056	2023-12-09	L28220694	501 Austin St, Borger US-TX 35.67054, -101.39707	Rock Pigeon	Columba livia	1868	domestic	30	35.6705430	-101.3970680	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Turkey Vulture	Cathartes aura	7815	species	1	35.6624180	-101.4072890	Traveling	1	0
 S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	House Finch	Haemorhous mexicanus	32310	species	1	35.6624180	-101.4072890	Traveling	1	0
-S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	European Starling	Sturnus vulgaris	27813	species	15	35.6585890	-101.4066170	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Common Nighthawk	Chordeiles minor	3492	species	6	35.6624180	-101.4072890	Traveling	1	1
+S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	European Starling	Sturnus vulgaris	27813	species	15	35.6585890	-101.4066170	Traveling	1	0
+S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	European Starling	Sturnus vulgaris	27813	species	4	35.6624180	-101.4072890	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	35.6624180	-101.4072890	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Mourning Dove	Zenaida macroura	2412	species	1	35.6624180	-101.4072890	Traveling	1	0
-S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	European Starling	Sturnus vulgaris	27813	species	4	35.6624180	-101.4072890	Traveling	1	0
-S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	35.6585890	-101.4066170	Traveling	1	0
-S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	35.6624180	-101.4072890	Traveling	1	0
-S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Western/Eastern Meadowlark	Sturnella neglecta/magna	33586	slash	1	35.6624180	-101.4072890	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Bewick's Wren	Thryomanes bewickii	27362	species	5	35.6624180	-101.4072890	Traveling	1	0
-S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Rock Pigeon	Columba livia	1868	domestic	2	35.6624180	-101.4072890	Traveling	1	0
-S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	European Starling	Sturnus vulgaris	27813	species	5	35.6624180	-101.4072890	Traveling	1	0
+S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	35.6585890	-101.4066170	Traveling	1	0
+S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Western/Eastern Meadowlark	Sturnella neglecta/magna	33586	slash	1	35.6624180	-101.4072890	Traveling	1	0
+S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	35.6624180	-101.4072890	Traveling	1	0
 S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Painted Bunting	Passerina ciris	34621	species	3	35.6624180	-101.4072890	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Western Kingbird	Tyrannus verticalis	17467	species	22	35.6624180	-101.4072890	Traveling	1	0
+S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Rock Pigeon	Columba livia	1868	domestic	2	35.6624180	-101.4072890	Traveling	1	0
+S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	European Starling	Sturnus vulgaris	27813	species	5	35.6624180	-101.4072890	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Western Kingbird	Tyrannus verticalis	17467	species	5	35.6624180	-101.4072890	Traveling	1	0
-S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Northern Mockingbird	Mimus polyglottos	28114	species	2	35.6624180	-101.4072890	Traveling	1	0
-S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Painted Bunting	Passerina ciris	34621	species	2	35.6624180	-101.4072890	Traveling	1	0
 S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.6624180	-101.4072890	Traveling	1	0
-S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Barn Swallow	Hirundo rustica	24187	species	2	35.6624180	-101.4072890	Traveling	1	0
+S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Painted Bunting	Passerina ciris	34621	species	2	35.6624180	-101.4072890	Traveling	1	0
+S139364090	2023-05-26	L24680164	Chad Alan Foster Memorial Trail System	Northern Mockingbird	Mimus polyglottos	28114	species	2	35.6624180	-101.4072890	Traveling	1	0
 S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Bullock's Oriole	Icterus bullockii	33736	species	1	35.6585890	-101.4066170	Traveling	1	0
 S139675624	2023-05-28	L24680164	Chad Alan Foster Memorial Trail System	Bewick's Wren	Thryomanes bewickii	27362	species	6	35.6624180	-101.4072890	Traveling	1	0
 S139821277	2023-05-29	L24790097	Frank Phillips College, Borger US-TX 35.65859, -101.40662	Mississippi Kite	Ictinia mississippiensis	8388	species	3	35.6585890	-101.4066170	Traveling	1	0
+S139516938	2023-05-27	L24680164	Chad Alan Foster Memorial Trail System	Barn Swallow	Hirundo rustica	24187	species	2	35.6624180	-101.4072890	Traveling	1	0
 S175649102	2024-05-19	L32008172	900 E Ninth St, Borger US-TX 35.67519, -101.38026	Mississippi Kite	Ictinia mississippiensis	8388	species	2	35.6751890	-101.3802630	Traveling	1	0
 S195127329	2024-09-10	L36579721	Huber Park, Borger US-TX	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	35.6532660	-101.3972820	Traveling	1	0
 S195127329	2024-09-10	L36579721	Huber Park, Borger US-TX	Rock Pigeon	Columba livia	1868	domestic	1	35.6532660	-101.3972820	Traveling	1	0
 S195127329	2024-09-10	L36579721	Huber Park, Borger US-TX	European Starling	Sturnus vulgaris	27813	species	15	35.6532660	-101.3972820	Traveling	1	0
 S195127329	2024-09-10	L36579721	Huber Park, Borger US-TX	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	35.6532660	-101.3972820	Traveling	1	0
 S175649102	2024-05-19	L32008172	900 E Ninth St, Borger US-TX 35.67519, -101.38026	Eastern Meadowlark	Sturnella magna	33568	species	2	35.6751890	-101.3802630	Traveling	1	0
+S256657952	2025-07-03	L49036477	Huber Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.6525759	-101.3965485	Traveling	1	0
 S256657952	2025-07-03	L49036477	Huber Park	House Finch	Haemorhous mexicanus	32310	species	2	35.6525759	-101.3965485	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.6865760	-101.3993910	Traveling	1	0
-S256657952	2025-07-03	L49036477	Huber Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	35.6525759	-101.3965485	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	35.6865760	-101.3993910	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Mississippi Kite	Ictinia mississippiensis	8388	species	8	35.6865760	-101.3993910	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	White-winged Dove	Zenaida asiatica	2389	species	1	35.6865760	-101.3993910	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	European Starling	Sturnus vulgaris	27813	species	10	35.6865760	-101.3993910	Traveling	1	0
-S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	35.6865760	-101.3993910	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Rock Pigeon	Columba livia	1868	domestic	25	35.6865760	-101.3993910	Traveling	1	0
+S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	35.6865760	-101.3993910	Traveling	1	0
 S256657952	2025-07-03	L49036477	Huber Park	American Robin	Turdus migratorius	28633	species	2	35.6525759	-101.3965485	Traveling	1	0
-S256657952	2025-07-03	L49036477	Huber Park	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.6525759	-101.3965485	Traveling	1	0
 S215381846	2025-02-25	L21352344	Johnson Park, Borger	Rock Pigeon	Columba livia	1868	domestic	6	35.6627642	-101.4055037	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	35.6865760	-101.3993910	Traveling	1	0
+S256657952	2025-07-03	L49036477	Huber Park	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	35.6525759	-101.3965485	Traveling	1	0
 S256657952	2025-07-03	L49036477	Huber Park	Western Kingbird	Tyrannus verticalis	17467	species	8	35.6525759	-101.3965485	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	American Robin	Turdus migratorius	28633	species	2	35.6865760	-101.3993910	Traveling	1	0
-S215381846	2025-02-25	L21352344	Johnson Park, Borger	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	35.6627642	-101.4055037	Traveling	1	0
-S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Blue Jay	Cyanocitta cristata	21294	species	1	35.6865760	-101.3993910	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Killdeer	Charadrius vociferus	5827	species	6	35.6865760	-101.3993910	Traveling	1	0
 S256657952	2025-07-03	L49036477	Huber Park	Mourning Dove	Zenaida macroura	2412	species	4	35.6525759	-101.3965485	Traveling	1	0
-S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Lark Sparrow	Chondestes grammacus	33029	species	1	35.6865760	-101.3993910	Traveling	1	0
-S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	House Sparrow	Passer domesticus	31534	species	1	35.6865760	-101.3993910	Traveling	1	0
+S215381846	2025-02-25	L21352344	Johnson Park, Borger	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	35.6627642	-101.4055037	Traveling	1	0
+S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Blue Jay	Cyanocitta cristata	21294	species	1	35.6865760	-101.3993910	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Northern Bobwhite	Colinus virginianus	1026	species	1	35.6865760	-101.3993910	Traveling	1	0
+S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	House Sparrow	Passer domesticus	31534	species	1	35.6865760	-101.3993910	Traveling	1	0
+S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Lark Sparrow	Chondestes grammacus	33029	species	1	35.6865760	-101.3993910	Traveling	1	0
 S256657952	2025-07-03	L49036477	Huber Park	House Sparrow	Passer domesticus	31534	species	2	35.6525759	-101.3965485	Traveling	1	0
-S256657952	2025-07-03	L49036477	Huber Park	Killdeer	Charadrius vociferus	5827	species	1	35.6525759	-101.3965485	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Barn Swallow	Hirundo rustica	24187	species	3	35.6865760	-101.3993910	Traveling	1	0
+S256657952	2025-07-03	L49036477	Huber Park	Killdeer	Charadrius vociferus	5827	species	1	35.6525759	-101.3965485	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	House Finch	Haemorhous mexicanus	32310	species	1	35.6865760	-101.3993910	Traveling	1	0
-S256657952	2025-07-03	L49036477	Huber Park	Northern Mockingbird	Mimus polyglottos	28114	species	1	35.6525759	-101.3965485	Traveling	1	0
 S256657952	2025-07-03	L49036477	Huber Park	Mississippi Kite	Ictinia mississippiensis	8388	species	1	35.6525759	-101.3965485	Traveling	1	0
-S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Western Kingbird	Tyrannus verticalis	17467	species	1	35.6865760	-101.3993910	Traveling	1	0
+S256657952	2025-07-03	L49036477	Huber Park	Northern Mockingbird	Mimus polyglottos	28114	species	1	35.6525759	-101.3965485	Traveling	1	0
 S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Mourning Dove	Zenaida macroura	2412	species	2	35.6865760	-101.3993910	Traveling	1	0
+S261698741	2025-07-21	L50221310	Borger Municipal Golf Course, Borger US-TX 35.68658, -101.39939	Western Kingbird	Tyrannus verticalis	17467	species	1	35.6865760	-101.3993910	Traveling	1	0

@@ -1,99 +1,101 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22331559,L3482680,Aztec-Lovers Ln,2015-03-13,2015,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,9,,1,36.823367,-107.985605,7,7,city_0137_new_mexico_aztec
-S22268783,L1336431,"Riverside Park, Aztec",2015-03-10,2015,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,81,3.219,1,36.8217428,-108.0069663,25,25,city_0137_new_mexico_aztec
-S28459627,L1336431,"Riverside Park, Aztec",2016-03-17,2016,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,30,1.609,1,36.8217428,-108.0069663,8,8,city_0137_new_mexico_aztec
-S28459550,L1336431,"Riverside Park, Aztec",2016-03-16,2016,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,30,1.609,1,36.8217428,-108.0069663,10,10,city_0137_new_mexico_aztec
-S34479626,L199952,Aztec,2017-02-18,2017,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,10,,1,36.8222,-107.99262,4,4,city_0137_new_mexico_aztec
-S34479497,L1336431,"Riverside Park, Aztec",2017-02-18,2017,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,30,0.322,1,36.8217428,-108.0069663,5,5,city_0137_new_mexico_aztec
-S38923006,L695512,Aztec,2017-08-31,2017,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,5,2.414,1,36.8260865,-107.993508,3,3,city_0137_new_mexico_aztec
-S43832287,L1336431,"Riverside Park, Aztec",2018-03-21,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,30,0.402,1,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
-S43806110,L1336431,"Riverside Park, Aztec",2018-03-20,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,30,0.402,1,36.8217428,-108.0069663,14,14,city_0137_new_mexico_aztec
-S44020272,L1336431,"Riverside Park, Aztec",2018-03-28,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,60,,1,36.8217428,-108.0069663,13,13,city_0137_new_mexico_aztec
-S47149493,L1336431,"Riverside Park, Aztec",2018-07-11,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,30,0.402,1,36.8217428,-108.0069663,15,15,city_0137_new_mexico_aztec
-S45722294,L1336431,"Riverside Park, Aztec",2018-05-15,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,20,0.402,1,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
-S43629844,L1336431,"Riverside Park, Aztec",2018-03-13,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,20,0.402,1,36.8217428,-108.0069663,14,14,city_0137_new_mexico_aztec
-S43432926,L1336431,"Riverside Park, Aztec",2018-03-03,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,60,0.805,1,36.8217428,-108.0069663,6,6,city_0137_new_mexico_aztec
-S56439155,L9288192,"312 Ruins Road, Aztec, New Mexico, US (36.83, -107.999)",2019-05-18,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,52,0.66,1,36.8302101,-107.9989979,15,15,city_0137_new_mexico_aztec
-S64365460,L1336431,"Riverside Park, Aztec",2019-11-24,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,65,1.709,1,36.8217428,-108.0069663,15,15,city_0137_new_mexico_aztec
-S56427667,L9288192,"312 Ruins Road, Aztec, New Mexico, US (36.83, -107.999)",2019-05-17,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,67,0.454,1,36.8302101,-107.9989979,9,9,city_0137_new_mexico_aztec
-S52981827,L8665338,"500 Llano Street, Aztec, New Mexico, US (36.82, -108.006)",2019-02-20,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,60,,1,36.8199322,-108.0061425,4,4,city_0137_new_mexico_aztec
-S55780700,L1336431,"Riverside Park, Aztec",2019-05-04,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,36,1,1,36.8217428,-108.0069663,9,9,city_0137_new_mexico_aztec
-S59506393,L9876314,"623 Phoenix Ct, Aztec US-NM (36.8066,-108.0018)",2019-09-04,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,8,0.281,1,36.806573,-108.001836,1,1,city_0137_new_mexico_aztec
-S63234925,L1336431,"Riverside Park, Aztec",2020-01-08,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,60,2.414,1,36.8217428,-108.0069663,7,7,city_0137_new_mexico_aztec
-S62868377,L1336431,"Riverside Park, Aztec",2020-01-01,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,25,1.609,1,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
-S63419296,L1336431,"Riverside Park, Aztec",2020-01-14,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,60,1.609,1,36.8217428,-108.0069663,7,7,city_0137_new_mexico_aztec
-S64681125,L10798198,"stakeout Lewis' Woodpecker, Montgomery Rd. Orchard (restricted access) (2020)",2020-02-17,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,48,1.674,1,36.8147229,-108.0101938,10,10,city_0137_new_mexico_aztec
-S64685037,L1336431,"Riverside Park, Aztec",2020-02-17,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,52,2.478,1,36.8217428,-108.0069663,7,7,city_0137_new_mexico_aztec
-S89051578,L1336431,"Riverside Park, Aztec",2021-05-26,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,63,1.207,1,36.8217428,-108.0069663,17,17,city_0137_new_mexico_aztec
-S103318175,L1336431,"Riverside Park, Aztec",2021-05-26,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,63,1.207,1,36.8217428,-108.0069663,17,17,city_0137_new_mexico_aztec
-S89805575,L1336431,"Riverside Park, Aztec",2021-06-07,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,52,0.35,1,36.8217428,-108.0069663,10,10,city_0137_new_mexico_aztec
-S96558465,L16707532,"312 Ruins Road, Aztec, New Mexico, US (36.83, -107.999)",2021-10-22,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,66,3.219,1,36.8299751,-107.9991145,8,8,city_0137_new_mexico_aztec
-S82009540,L1336431,"Riverside Park, Aztec",2021-02-20,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,14,0.865,1,36.8217428,-108.0069663,6,6,city_0137_new_mexico_aztec
-S82012795,L10798198,"stakeout Lewis' Woodpecker, Montgomery Rd. Orchard (restricted access) (2020)",2021-02-20,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,22,1.609,1,36.8147229,-108.0101938,6,6,city_0137_new_mexico_aztec
-S89018776,L1336431,"Riverside Park, Aztec",2021-05-25,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,85,0.742,1,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
-S80901983,L13551963,"802 Baird Cir, Aztec US-NM 36.82767, -107.98727",2021-02-12,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,5,,1,36.827675,-107.987269,5,5,city_0137_new_mexico_aztec
-S103318158,L1336431,"Riverside Park, Aztec",2021-05-25,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,85,0.742,1,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
-S103301634,L1336431,"Riverside Park, Aztec",2021-05-26,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,63,1.207,1,36.8217428,-108.0069663,17,17,city_0137_new_mexico_aztec
-S92310084,L15898988,Mc Coy Avenue,2021-07-25,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,36,1.905,1,36.8343559,-107.9875679,10,10,city_0137_new_mexico_aztec
-S81356454,L13091074,Homebase,2021-02-14,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,15,,1,36.827785,-107.987248,3,3,city_0137_new_mexico_aztec
-S80769442,L13551963,"802 Baird Cir, Aztec US-NM 36.82767, -107.98727",2021-02-10,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,8,,1,36.827675,-107.987269,6,6,city_0137_new_mexico_aztec
-S80972020,L13551963,"802 Baird Cir, Aztec US-NM 36.82767, -107.98727",2021-02-12,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,20,,1,36.827675,-107.987269,6,6,city_0137_new_mexico_aztec
-S81219873,L13091074,Homebase,2021-02-13,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,10,,1,36.827785,-107.987248,4,4,city_0137_new_mexico_aztec
-S103301633,L1336431,"Riverside Park, Aztec",2021-05-25,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,85,0.742,1,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
-S81143653,L13620915,"16141 US-550, Aztec US-NM 36.84085, -107.97746",2021-02-13,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,12,13.994,1,36.840849,-107.977463,5,5,city_0137_new_mexico_aztec
-S81668700,L13091074,Homebase,2021-02-15,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,15,,1,36.827785,-107.987248,5,5,city_0137_new_mexico_aztec
-S113551751,L1336431,"Riverside Park, Aztec",2022-06-22,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,16,,1,36.8217428,-108.0069663,13,13,city_0137_new_mexico_aztec
-S115984546,L1336431,"Riverside Park, Aztec",2022-07-29,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,13,0.243,1,36.8217428,-108.0069663,8,8,city_0137_new_mexico_aztec
-S110213528,L1336431,"Riverside Park, Aztec",2022-05-15,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,12,0.402,1,36.8217428,-108.0069663,21,21,city_0137_new_mexico_aztec
-S107121000,L18520506,Ruins road RV park and campground,2022-04-15,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,12,,1,36.829778,-107.997795,4,4,city_0137_new_mexico_aztec
-S110534755,L1336431,"Riverside Park, Aztec",2022-05-17,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,23,0.322,1,36.8217428,-108.0069663,3,3,city_0137_new_mexico_aztec
-S110855489,L19190773,"92 Road 2900, Aztec, New Mexico, US (36.833, -107.997)",2022-05-21,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,20,0.644,1,36.833082,-107.9973126,17,17,city_0137_new_mexico_aztec
-S100359673,L1336431,"Riverside Park, Aztec",2022-01-08,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,27,1.48,1,36.8217428,-108.0069663,7,7,city_0137_new_mexico_aztec
-S124536091,L14373944,Martinez Ave Aztec NM,2022-12-24,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,30,0.708,1,36.8305562,-107.9954651,6,6,city_0137_new_mexico_aztec
-S107117983,L18519914,"501 Llano St, Aztec US-NM 36.81983, -108.00479",2022-04-15,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,21,,1,36.819829,-108.004792,8,8,city_0137_new_mexico_aztec
-S107129697,L18522116,"64-66 CR-3008, Aztec US-NM 36.81223, -108.01814",2022-04-15,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,18,0.132,1,36.812233,-108.018144,7,7,city_0137_new_mexico_aztec
-S130804305,L1336431,"Riverside Park, Aztec",2023-03-12,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,86,1.625,1,36.8217428,-108.0069663,22,22,city_0137_new_mexico_aztec
-S129543363,L12819623,McCoy Avenue Aztec NM,2023-02-24,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,17,4.746,1,36.8359419,-107.9872467,4,4,city_0137_new_mexico_aztec
-S154344981,L1336431,"Riverside Park, Aztec",2023-11-12,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,30,0.75,1,36.8217428,-108.0069663,20,20,city_0137_new_mexico_aztec
-S145394324,L1336431,"Riverside Park, Aztec",2023-07-23,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,22,1.271,1,36.8217428,-108.0069663,11,11,city_0137_new_mexico_aztec
-S127141977,L17303450,Aztec Hartman Park,2023-01-28,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,39,0.479,1,36.8193564,-108.0035233,9,9,city_0137_new_mexico_aztec
-S147571779,L26645675,"216 S Oliver Dr, Aztec US-NM 36.82356, -108.02012",2023-08-18,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,67,0.156,1,36.823559,-108.020116,11,11,city_0137_new_mexico_aztec
-S133560733,L12819623,McCoy Avenue Aztec NM,2023-04-12,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,24,3.347,1,36.8359419,-107.9872467,10,10,city_0137_new_mexico_aztec
-S135347854,L12819623,McCoy Avenue Aztec NM,2023-04-28,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,23,1.493,1,36.8359419,-107.9872467,10,10,city_0137_new_mexico_aztec
-S135494686,L12819623,McCoy Avenue Aztec NM,2023-04-29,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,21,1.355,1,36.8359419,-107.9872467,12,12,city_0137_new_mexico_aztec
-S132438107,L14373944,Martinez Ave Aztec NM,2023-04-01,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,34,0.702,1,36.8305562,-107.9954651,7,7,city_0137_new_mexico_aztec
-S127968927,L17303450,Aztec Hartman Park,2023-02-09,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,35,0.554,1,36.8193564,-108.0035233,9,9,city_0137_new_mexico_aztec
-S132898253,L17303450,Aztec Hartman Park,2023-04-06,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,11,1.069,1,36.8193564,-108.0035233,6,6,city_0137_new_mexico_aztec
-S130024048,L12819623,McCoy Avenue Aztec NM,2023-03-02,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,14,1.786,1,36.8359419,-107.9872467,4,4,city_0137_new_mexico_aztec
-S131231895,L23112026,Rd 2999,2023-03-18,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,29,1.246,1,36.838972,-107.987349,8,8,city_0137_new_mexico_aztec
-S145061657,L10798198,"stakeout Lewis' Woodpecker, Montgomery Rd. Orchard (restricted access) (2020)",2023-07-15,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,12,0.473,1,36.8147229,-108.0101938,9,9,city_0137_new_mexico_aztec
-S129737744,L22831144,North Aztec,2023-02-26,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,10,2.487,1,36.8301727,-107.9817317,7,7,city_0137_new_mexico_aztec
-S157515181,L1336431,"Riverside Park, Aztec",2023-12-30,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,6,1.008,1,36.8217428,-108.0069663,2,2,city_0137_new_mexico_aztec
-S142400607,L14373944,Martinez Ave Aztec NM,2023-06-22,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,35,0.682,1,36.8305562,-107.9954651,2,2,city_0137_new_mexico_aztec
-S129945091,L22868799,"77 CR-2896, Aztec US-NM 36.86003, -107.97381",2023-03-01,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,27,,1,36.860025,-107.973806,4,4,city_0137_new_mexico_aztec
-S151040422,L12819623,McCoy Avenue Aztec NM,2023-09-29,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,7,2.991,1,36.8359419,-107.9872467,1,1,city_0137_new_mexico_aztec
-S205108501,L1336431,"Riverside Park, Aztec",2024-12-11,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,71,1.426,1,36.8217428,-108.0069663,15,15,city_0137_new_mexico_aztec
-S204699756,L1336431,"Riverside Park, Aztec",2024-12-07,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,58,1.745,1,36.8217428,-108.0069663,19,19,city_0137_new_mexico_aztec
-S190451454,L26645675,"216 S Oliver Dr, Aztec US-NM 36.82356, -108.02012",2024-08-06,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,74,0.211,1,36.823559,-108.020116,9,9,city_0137_new_mexico_aztec
-S160354811,L29044635,"442–498 W Chaco St, Aztec US-NM 36.82424, -108.00056",2024-02-01,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,41,4.144,1,36.82424,-108.000558,9,9,city_0137_new_mexico_aztec
-S179635543,L32903372,Ruins Road RV Park Aztec NM,2024-06-05,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,45,0.152,1,36.8298,-107.997407,7,7,city_0137_new_mexico_aztec
-S194053735,L36347840,"Ruins RV Park, Aztec US-NM 36.83006, -107.99944",2024-09-05,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,32,1.316,1,36.830063,-107.999445,13,13,city_0137_new_mexico_aztec
-S193997409,L36347840,"Ruins RV Park, Aztec US-NM 36.83006, -107.99944",2024-09-04,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,28,0.701,1,36.830063,-107.999445,8,8,city_0137_new_mexico_aztec
-S204710155,L38478629,"McCoy Elementary School, Aztec US-NM 36.83074, -107.98753",2024-12-07,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,48,1.126,1,36.830741,-107.987533,17,17,city_0137_new_mexico_aztec
-S196132273,L1336431,"Riverside Park, Aztec",2024-09-22,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,60,2.31,1,36.8217428,-108.0069663,8,8,city_0137_new_mexico_aztec
-S160510761,L29071143,Mom's House,2024-02-03,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,51,1.786,1,36.808855,-108.0187534,12,12,city_0137_new_mexico_aztec
-S205340513,L38602724,Rd 2999 north end,2024-12-14,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,10,0.805,1,36.84454,-107.987204,9,9,city_0137_new_mexico_aztec
-S175678225,L1336431,"Riverside Park, Aztec",2024-05-19,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,40,0.692,1,36.8217428,-108.0069663,14,14,city_0137_new_mexico_aztec
-S160500621,L29071143,Mom's House,2024-02-03,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,35,,1,36.808855,-108.0187534,6,6,city_0137_new_mexico_aztec
-S205398105,L38614860,Rd 2999 irrigation ditch,2024-12-14,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,5,,1,36.839133,-107.987317,6,6,city_0137_new_mexico_aztec
-S165344481,L14373944,Martinez Ave Aztec NM,2024-03-18,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,11,0.683,1,36.8305562,-107.9954651,5,5,city_0137_new_mexico_aztec
-S164845931,L12819623,McCoy Avenue Aztec NM,2024-03-14,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,10,2.974,1,36.8359419,-107.9872467,3,3,city_0137_new_mexico_aztec
-S167464952,L14373944,Martinez Ave Aztec NM,2024-04-06,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,11,0.775,1,36.8305562,-107.9954651,2,2,city_0137_new_mexico_aztec
-S203752561,L38282237,Aztec Cemetery,2024-11-20,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,27,0.473,1,36.82622,-107.983472,3,3,city_0137_new_mexico_aztec
-S273130344,L14373944,Martinez Ave Aztec NM,2025-09-05,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,22,1.337,1,36.8305562,-107.9954651,5,5,city_0137_new_mexico_aztec
-S285640666,L55352828,"8–100 W Martinez Ln, Aztec US-NM 36.83054, -107.98925",2025-11-22,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,41,0.621,1,36.83054,-107.98925,14,14,city_0137_new_mexico_aztec
-S277624519,L39278460,"119–163 CR-2999, Aztec US-NM 36.83930, -107.98727",2025-10-06,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,5,1.11,1,36.839302,-107.987266,10,10,city_0137_new_mexico_aztec
-S241655425,L45751411,Aztec,2025-05-23,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,8,6.148,1,36.822178,-107.995123,2,2,city_0137_new_mexico_aztec
-S211418921,L39855433,"McCoy Ave ditch, Aztec, NM, US (36.839, -107.987)",2025-01-31,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,15,,1,36.8392575,-107.9872736,4,4,city_0137_new_mexico_aztec
-S212813789,L1336431,"Riverside Park, Aztec",2025-02-10,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,13,0.27,1,36.8217428,-108.0069663,6,6,city_0137_new_mexico_aztec
-S277690981,L1336431,"Riverside Park, Aztec",2025-10-06,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,16674899.2697294,5,0.175,1,36.8217428,-108.0069663,2,2,city_0137_new_mexico_aztec
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22268783,L1336431,"Riverside Park, Aztec",2015-03-10,2015,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,81,3.219,1,Traveling,36.8217428,-108.0069663,25,25,city_0137_new_mexico_aztec
+S22331559,L3482680,Aztec-Lovers Ln,2015-03-13,2015,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,9,,1,Stationary,36.823367,-107.985605,7,7,city_0137_new_mexico_aztec
+S28459550,L1336431,"Riverside Park, Aztec",2016-03-16,2016,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,30,1.609,1,Traveling,36.8217428,-108.0069663,10,10,city_0137_new_mexico_aztec
+S28459627,L1336431,"Riverside Park, Aztec",2016-03-17,2016,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,30,1.609,1,Traveling,36.8217428,-108.0069663,8,8,city_0137_new_mexico_aztec
+S34479497,L1336431,"Riverside Park, Aztec",2017-02-18,2017,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,30,0.322,1,Traveling,36.8217428,-108.0069663,5,5,city_0137_new_mexico_aztec
+S34479626,L199952,Aztec,2017-02-18,2017,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,10,,1,Stationary,36.8222,-107.99262,4,4,city_0137_new_mexico_aztec
+S38923006,L695512,Aztec,2017-08-31,2017,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,5,2.414,1,Traveling,36.8260865,-107.993508,3,3,city_0137_new_mexico_aztec
+S43432926,L1336431,"Riverside Park, Aztec",2018-03-03,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,60,0.805,1,Traveling,36.8217428,-108.0069663,6,6,city_0137_new_mexico_aztec
+S43629844,L1336431,"Riverside Park, Aztec",2018-03-13,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,20,0.402,1,Traveling,36.8217428,-108.0069663,14,14,city_0137_new_mexico_aztec
+S43806110,L1336431,"Riverside Park, Aztec",2018-03-20,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,30,0.402,1,Traveling,36.8217428,-108.0069663,14,14,city_0137_new_mexico_aztec
+S43832287,L1336431,"Riverside Park, Aztec",2018-03-21,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,30,0.402,1,Traveling,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
+S44020272,L1336431,"Riverside Park, Aztec",2018-03-28,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,60,,1,Stationary,36.8217428,-108.0069663,13,13,city_0137_new_mexico_aztec
+S45722294,L1336431,"Riverside Park, Aztec",2018-05-15,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,20,0.402,1,Traveling,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
+S47149493,L1336431,"Riverside Park, Aztec",2018-07-11,2018,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,30,0.402,1,Traveling,36.8217428,-108.0069663,15,15,city_0137_new_mexico_aztec
+S52981827,L8665338,"500 Llano Street, Aztec, New Mexico, US (36.82, -108.006)",2019-02-20,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,60,,1,Stationary,36.8199322,-108.0061425,4,4,city_0137_new_mexico_aztec
+S55780700,L1336431,"Riverside Park, Aztec",2019-05-04,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,36,1,1,Traveling,36.8217428,-108.0069663,9,9,city_0137_new_mexico_aztec
+S56427667,L9288192,"312 Ruins Road, Aztec, New Mexico, US (36.83, -107.999)",2019-05-17,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,67,0.454,1,Traveling,36.8302101,-107.9989979,9,9,city_0137_new_mexico_aztec
+S56439155,L9288192,"312 Ruins Road, Aztec, New Mexico, US (36.83, -107.999)",2019-05-18,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,52,0.66,1,Traveling,36.8302101,-107.9989979,15,15,city_0137_new_mexico_aztec
+S59506393,L9876314,"623 Phoenix Ct, Aztec US-NM (36.8066,-108.0018)",2019-09-04,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,8,0.281,1,Traveling,36.806573,-108.001836,1,1,city_0137_new_mexico_aztec
+S64365460,L1336431,"Riverside Park, Aztec",2019-11-24,2019,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,65,1.709,1,Traveling,36.8217428,-108.0069663,15,15,city_0137_new_mexico_aztec
+S62868377,L1336431,"Riverside Park, Aztec",2020-01-01,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,25,1.609,1,Traveling,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
+S63234925,L1336431,"Riverside Park, Aztec",2020-01-08,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,60,2.414,1,Traveling,36.8217428,-108.0069663,7,7,city_0137_new_mexico_aztec
+S63419296,L1336431,"Riverside Park, Aztec",2020-01-14,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,60,1.609,1,Traveling,36.8217428,-108.0069663,7,7,city_0137_new_mexico_aztec
+S64681125,L10798198,"stakeout Lewis' Woodpecker, Montgomery Rd. Orchard (restricted access) (2020)",2020-02-17,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,48,1.674,1,Traveling,36.8147229,-108.0101938,10,10,city_0137_new_mexico_aztec
+S64685037,L1336431,"Riverside Park, Aztec",2020-02-17,2020,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,52,2.478,1,Traveling,36.8217428,-108.0069663,7,7,city_0137_new_mexico_aztec
+S80769442,L13551963,"802 Baird Cir, Aztec US-NM 36.82767, -107.98727",2021-02-10,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,8,,1,Stationary,36.827675,-107.987269,6,6,city_0137_new_mexico_aztec
+S80972020,L13551963,"802 Baird Cir, Aztec US-NM 36.82767, -107.98727",2021-02-12,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,20,,1,Stationary,36.827675,-107.987269,6,6,city_0137_new_mexico_aztec
+S80901983,L13551963,"802 Baird Cir, Aztec US-NM 36.82767, -107.98727",2021-02-12,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,5,,1,Stationary,36.827675,-107.987269,5,5,city_0137_new_mexico_aztec
+S81219873,L13091074,Homebase,2021-02-13,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,10,,1,Stationary,36.827785,-107.987248,4,4,city_0137_new_mexico_aztec
+S81143653,L13620915,"16141 US-550, Aztec US-NM 36.84085, -107.97746",2021-02-13,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,12,13.994,1,Traveling,36.840849,-107.977463,5,5,city_0137_new_mexico_aztec
+S81356454,L13091074,Homebase,2021-02-14,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,15,,1,Stationary,36.827785,-107.987248,3,3,city_0137_new_mexico_aztec
+S81668700,L13091074,Homebase,2021-02-15,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,15,,1,Stationary,36.827785,-107.987248,5,5,city_0137_new_mexico_aztec
+S82012795,L10798198,"stakeout Lewis' Woodpecker, Montgomery Rd. Orchard (restricted access) (2020)",2021-02-20,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,22,1.609,1,Traveling,36.8147229,-108.0101938,6,6,city_0137_new_mexico_aztec
+S82009540,L1336431,"Riverside Park, Aztec",2021-02-20,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,14,0.865,1,Traveling,36.8217428,-108.0069663,6,6,city_0137_new_mexico_aztec
+S103301633,L1336431,"Riverside Park, Aztec",2021-05-25,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,85,0.742,1,Traveling,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
+S89018776,L1336431,"Riverside Park, Aztec",2021-05-25,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,85,0.742,1,Traveling,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
+S103318158,L1336431,"Riverside Park, Aztec",2021-05-25,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,85,0.742,1,Traveling,36.8217428,-108.0069663,12,12,city_0137_new_mexico_aztec
+S103301634,L1336431,"Riverside Park, Aztec",2021-05-26,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,63,1.207,1,Traveling,36.8217428,-108.0069663,17,17,city_0137_new_mexico_aztec
+S89051578,L1336431,"Riverside Park, Aztec",2021-05-26,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,63,1.207,1,Traveling,36.8217428,-108.0069663,17,17,city_0137_new_mexico_aztec
+S103318175,L1336431,"Riverside Park, Aztec",2021-05-26,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,63,1.207,1,Traveling,36.8217428,-108.0069663,17,17,city_0137_new_mexico_aztec
+S89805575,L1336431,"Riverside Park, Aztec",2021-06-07,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,52,0.35,1,Traveling,36.8217428,-108.0069663,10,10,city_0137_new_mexico_aztec
+S92310084,L15898988,Mc Coy Avenue,2021-07-25,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,36,1.905,1,Traveling,36.8343559,-107.9875679,10,10,city_0137_new_mexico_aztec
+S96558465,L16707532,"312 Ruins Road, Aztec, New Mexico, US (36.83, -107.999)",2021-10-22,2021,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,66,3.219,1,Traveling,36.8299751,-107.9991145,8,8,city_0137_new_mexico_aztec
+S100359673,L1336431,"Riverside Park, Aztec",2022-01-08,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,27,1.48,1,Traveling,36.8217428,-108.0069663,7,7,city_0137_new_mexico_aztec
+S107117983,L18519914,"501 Llano St, Aztec US-NM 36.81983, -108.00479",2022-04-15,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,21,,1,Stationary,36.819829,-108.004792,8,8,city_0137_new_mexico_aztec
+S107121000,L18520506,Ruins road RV park and campground,2022-04-15,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,12,,1,Stationary,36.829778,-107.997795,4,4,city_0137_new_mexico_aztec
+S107129697,L18522116,"64-66 CR-3008, Aztec US-NM 36.81223, -108.01814",2022-04-15,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,18,0.132,1,Traveling,36.812233,-108.018144,7,7,city_0137_new_mexico_aztec
+S110213528,L1336431,"Riverside Park, Aztec",2022-05-15,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,12,0.402,1,Traveling,36.8217428,-108.0069663,21,21,city_0137_new_mexico_aztec
+S110534755,L1336431,"Riverside Park, Aztec",2022-05-17,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,23,0.322,1,Traveling,36.8217428,-108.0069663,3,3,city_0137_new_mexico_aztec
+S110855489,L19190773,"92 Road 2900, Aztec, New Mexico, US (36.833, -107.997)",2022-05-21,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,20,0.644,1,Traveling,36.833082,-107.9973126,17,17,city_0137_new_mexico_aztec
+S113551751,L1336431,"Riverside Park, Aztec",2022-06-22,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,16,,1,Stationary,36.8217428,-108.0069663,13,13,city_0137_new_mexico_aztec
+S115984546,L1336431,"Riverside Park, Aztec",2022-07-29,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,13,0.243,1,Traveling,36.8217428,-108.0069663,8,8,city_0137_new_mexico_aztec
+S124536091,L14373944,Martinez Ave Aztec NM,2022-12-24,2022,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,30,0.708,1,Traveling,36.8305562,-107.9954651,6,6,city_0137_new_mexico_aztec
+S127141977,L17303450,Aztec Hartman Park,2023-01-28,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,39,0.479,1,Traveling,36.8193564,-108.0035233,9,9,city_0137_new_mexico_aztec
+S127968927,L17303450,Aztec Hartman Park,2023-02-09,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,35,0.554,1,Traveling,36.8193564,-108.0035233,9,9,city_0137_new_mexico_aztec
+S129543363,L12819623,McCoy Avenue Aztec NM,2023-02-24,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,17,4.746,1,Traveling,36.8359419,-107.9872467,4,4,city_0137_new_mexico_aztec
+S129737744,L22831144,North Aztec,2023-02-26,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,10,2.487,1,Traveling,36.8301727,-107.9817317,7,7,city_0137_new_mexico_aztec
+S129945091,L22868799,"77 CR-2896, Aztec US-NM 36.86003, -107.97381",2023-03-01,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,27,,1,Stationary,36.860025,-107.973806,4,4,city_0137_new_mexico_aztec
+S130024048,L12819623,McCoy Avenue Aztec NM,2023-03-02,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,14,1.786,1,Traveling,36.8359419,-107.9872467,4,4,city_0137_new_mexico_aztec
+S130804305,L1336431,"Riverside Park, Aztec",2023-03-12,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,86,1.625,1,Traveling,36.8217428,-108.0069663,22,22,city_0137_new_mexico_aztec
+S131231895,L23112026,Rd 2999,2023-03-18,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,29,1.246,1,Traveling,36.838972,-107.987349,8,8,city_0137_new_mexico_aztec
+S132438107,L14373944,Martinez Ave Aztec NM,2023-04-01,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,34,0.702,1,Traveling,36.8305562,-107.9954651,7,7,city_0137_new_mexico_aztec
+S132898253,L17303450,Aztec Hartman Park,2023-04-06,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,11,1.069,1,Traveling,36.8193564,-108.0035233,6,6,city_0137_new_mexico_aztec
+S133560733,L12819623,McCoy Avenue Aztec NM,2023-04-12,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,24,3.347,1,Traveling,36.8359419,-107.9872467,10,10,city_0137_new_mexico_aztec
+S135347854,L12819623,McCoy Avenue Aztec NM,2023-04-28,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,23,1.493,1,Traveling,36.8359419,-107.9872467,10,10,city_0137_new_mexico_aztec
+S135494686,L12819623,McCoy Avenue Aztec NM,2023-04-29,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,21,1.355,1,Traveling,36.8359419,-107.9872467,12,12,city_0137_new_mexico_aztec
+S142400607,L14373944,Martinez Ave Aztec NM,2023-06-22,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,35,0.682,1,Traveling,36.8305562,-107.9954651,2,2,city_0137_new_mexico_aztec
+S143094264,L14373944,Martinez Ave Aztec NM,2023-06-29,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,8,0.704,1,,36.8305562,-107.9954651,0,0,city_0137_new_mexico_aztec
+S145061657,L10798198,"stakeout Lewis' Woodpecker, Montgomery Rd. Orchard (restricted access) (2020)",2023-07-15,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,12,0.473,1,Traveling,36.8147229,-108.0101938,9,9,city_0137_new_mexico_aztec
+S145394324,L1336431,"Riverside Park, Aztec",2023-07-23,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,22,1.271,1,Traveling,36.8217428,-108.0069663,11,11,city_0137_new_mexico_aztec
+S146220178,L14373944,Martinez Ave Aztec NM,2023-08-01,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,6,1.267,1,,36.8305562,-107.9954651,0,0,city_0137_new_mexico_aztec
+S147571779,L26645675,"216 S Oliver Dr, Aztec US-NM 36.82356, -108.02012",2023-08-18,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,67,0.156,1,Traveling,36.823559,-108.020116,11,11,city_0137_new_mexico_aztec
+S151040422,L12819623,McCoy Avenue Aztec NM,2023-09-29,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,7,2.991,1,Traveling,36.8359419,-107.9872467,1,1,city_0137_new_mexico_aztec
+S154344981,L1336431,"Riverside Park, Aztec",2023-11-12,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,30,0.75,1,Traveling,36.8217428,-108.0069663,20,20,city_0137_new_mexico_aztec
+S157515181,L1336431,"Riverside Park, Aztec",2023-12-30,2023,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,6,1.008,1,Traveling,36.8217428,-108.0069663,2,2,city_0137_new_mexico_aztec
+S160354811,L29044635,"442–498 W Chaco St, Aztec US-NM 36.82424, -108.00056",2024-02-01,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,41,4.144,1,Traveling,36.82424,-108.000558,9,9,city_0137_new_mexico_aztec
+S160510761,L29071143,Mom's House,2024-02-03,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,51,1.786,1,Traveling,36.808855,-108.0187534,12,12,city_0137_new_mexico_aztec
+S160500621,L29071143,Mom's House,2024-02-03,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,35,,1,Stationary,36.808855,-108.0187534,6,6,city_0137_new_mexico_aztec
+S164845931,L12819623,McCoy Avenue Aztec NM,2024-03-14,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,10,2.974,1,Traveling,36.8359419,-107.9872467,3,3,city_0137_new_mexico_aztec
+S165344481,L14373944,Martinez Ave Aztec NM,2024-03-18,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,11,0.683,1,Traveling,36.8305562,-107.9954651,5,5,city_0137_new_mexico_aztec
+S167464952,L14373944,Martinez Ave Aztec NM,2024-04-06,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,11,0.775,1,Traveling,36.8305562,-107.9954651,2,2,city_0137_new_mexico_aztec
+S175678225,L1336431,"Riverside Park, Aztec",2024-05-19,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,40,0.692,1,Traveling,36.8217428,-108.0069663,14,14,city_0137_new_mexico_aztec
+S179635543,L32903372,Ruins Road RV Park Aztec NM,2024-06-05,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,45,0.152,1,Traveling,36.8298,-107.997407,7,7,city_0137_new_mexico_aztec
+S190451454,L26645675,"216 S Oliver Dr, Aztec US-NM 36.82356, -108.02012",2024-08-06,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,74,0.211,1,Traveling,36.823559,-108.020116,9,9,city_0137_new_mexico_aztec
+S193997409,L36347840,"Ruins RV Park, Aztec US-NM 36.83006, -107.99944",2024-09-04,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,28,0.701,1,Traveling,36.830063,-107.999445,8,8,city_0137_new_mexico_aztec
+S194053735,L36347840,"Ruins RV Park, Aztec US-NM 36.83006, -107.99944",2024-09-05,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,32,1.316,1,Traveling,36.830063,-107.999445,13,13,city_0137_new_mexico_aztec
+S196132273,L1336431,"Riverside Park, Aztec",2024-09-22,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,60,2.31,1,Traveling,36.8217428,-108.0069663,8,8,city_0137_new_mexico_aztec
+S203752561,L38282237,Aztec Cemetery,2024-11-20,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,27,0.473,1,Traveling,36.82622,-107.983472,3,3,city_0137_new_mexico_aztec
+S204699756,L1336431,"Riverside Park, Aztec",2024-12-07,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,58,1.745,1,Traveling,36.8217428,-108.0069663,19,19,city_0137_new_mexico_aztec
+S204710155,L38478629,"McCoy Elementary School, Aztec US-NM 36.83074, -107.98753",2024-12-07,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,48,1.126,1,Traveling,36.830741,-107.987533,17,17,city_0137_new_mexico_aztec
+S205108501,L1336431,"Riverside Park, Aztec",2024-12-11,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,71,1.426,1,Traveling,36.8217428,-108.0069663,15,15,city_0137_new_mexico_aztec
+S205340513,L38602724,Rd 2999 north end,2024-12-14,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,10,0.805,1,Traveling,36.84454,-107.987204,9,9,city_0137_new_mexico_aztec
+S205398105,L38614860,Rd 2999 irrigation ditch,2024-12-14,2024,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,5,,1,Stationary,36.839133,-107.987317,6,6,city_0137_new_mexico_aztec
+S211418921,L39855433,"McCoy Ave ditch, Aztec, NM, US (36.839, -107.987)",2025-01-31,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,15,,1,Stationary,36.8392575,-107.9872736,4,4,city_0137_new_mexico_aztec
+S212813789,L1336431,"Riverside Park, Aztec",2025-02-10,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,13,0.27,1,Traveling,36.8217428,-108.0069663,6,6,city_0137_new_mexico_aztec
+S241655425,L45751411,Aztec,2025-05-23,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,8,6.148,1,Traveling,36.822178,-107.995123,2,2,city_0137_new_mexico_aztec
+S273130344,L14373944,Martinez Ave Aztec NM,2025-09-05,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,22,1.337,1,Traveling,36.8305562,-107.9954651,5,5,city_0137_new_mexico_aztec
+S277690981,L1336431,"Riverside Park, Aztec",2025-10-06,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,5,0.175,1,Traveling,36.8217428,-108.0069663,2,2,city_0137_new_mexico_aztec
+S277624519,L39278460,"119–163 CR-2999, Aztec US-NM 36.83930, -107.98727",2025-10-06,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,5,1.11,1,Traveling,36.839302,-107.987266,10,10,city_0137_new_mexico_aztec
+S285640666,L55352828,"8–100 W Martinez Ln, Aztec US-NM 36.83054, -107.98925",2025-11-22,2025,137,"Aztec, NM",Aztec,New Mexico,San Juan,99.9999999999935,41,0.621,1,Traveling,36.83054,-107.98925,14,14,city_0137_new_mexico_aztec

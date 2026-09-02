@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2015,4730721.23783416,5,7,city_2641_nebraska_valentine,632.2187511920929,9.838541666666668,31.86820693853553,humid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2016,4730721.23783416,11,11,city_2641_nebraska_valentine,536.5687475204468,10.286458333333332,26.449601931688264,dry subhumid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2017,4730721.23783416,20,20,city_2641_nebraska_valentine,490.9625015258789,9.770833333333332,24.832666041351096,dry subhumid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2018,4730721.23783416,13,17,city_2641_nebraska_valentine,634.5062484741211,8.421875,34.443087279341604,humid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2019,4730721.23783416,12,13,city_2641_nebraska_valentine,758.6312403678894,7.932291666666667,42.30531459501445,humid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2020,4730721.23783416,60,88,city_2641_nebraska_valentine,400.7062487602234,9.848958333333334,20.187772175797136,dry subhumid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2021,4730721.23783416,45,99,city_2641_nebraska_valentine,508.58125019073486,10.223958333333332,25.147463311002085,dry subhumid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2022,4730721.23783416,50,517,city_2641_nebraska_valentine,387.2437524795532,9.216145833333332,20.151999044877144,dry subhumid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2023,4730721.23783416,77,996,city_2641_nebraska_valentine,548.5937504768372,9.822916666666668,27.674724143865667,dry subhumid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2024,4730721.23783416,89,1898,city_2641_nebraska_valentine,472.8875050544739,10.598958333333332,22.95686497356738,dry subhumid,12
-2641,"Valentine, NE",Valentine,Nebraska,Cherry,2025,4730721.23783416,104,1437,city_2641_nebraska_valentine,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2641,2015,"Valentine, NE",Valentine,Nebraska,Cherry,100,5,7,city_2641_nebraska_valentine,632.218751192093,9.83854166666667,31.8682069385355,humid,12
+2641,2016,"Valentine, NE",Valentine,Nebraska,Cherry,100,11,11,city_2641_nebraska_valentine,536.568747520447,10.2864583333333,26.4496019316883,dry subhumid,12
+2641,2017,"Valentine, NE",Valentine,Nebraska,Cherry,100,20,20,city_2641_nebraska_valentine,490.962501525879,9.77083333333333,24.8326660413511,dry subhumid,12
+2641,2018,"Valentine, NE",Valentine,Nebraska,Cherry,100,13,17,city_2641_nebraska_valentine,634.506248474121,8.421875,34.4430872793416,humid,12
+2641,2019,"Valentine, NE",Valentine,Nebraska,Cherry,100,12,13,city_2641_nebraska_valentine,758.631240367889,7.93229166666667,42.3053145950145,humid,12
+2641,2020,"Valentine, NE",Valentine,Nebraska,Cherry,100,60,88,city_2641_nebraska_valentine,400.706248760223,9.84895833333333,20.1877721757971,dry subhumid,12
+2641,2021,"Valentine, NE",Valentine,Nebraska,Cherry,100,45,99,city_2641_nebraska_valentine,508.581250190735,10.2239583333333,25.1474633110021,dry subhumid,12
+2641,2022,"Valentine, NE",Valentine,Nebraska,Cherry,100,50,517,city_2641_nebraska_valentine,387.243752479553,9.21614583333333,20.1519990448771,dry subhumid,12
+2641,2023,"Valentine, NE",Valentine,Nebraska,Cherry,100,77,996,city_2641_nebraska_valentine,548.593750476837,9.82291666666667,27.6747241438657,dry subhumid,12
+2641,2024,"Valentine, NE",Valentine,Nebraska,Cherry,100,89,1898,city_2641_nebraska_valentine,472.887505054474,10.5989583333333,22.9568649735674,dry subhumid,12
+2641,2025,"Valentine, NE",Valentine,Nebraska,Cherry,100,104,1437,city_2641_nebraska_valentine,,,,,

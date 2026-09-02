@@ -1,90 +1,91 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23504828,L3651930,OK ST - Duncan,2015-05-15,2015,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,15,,1,34.5029896,-97.9681091,9,9,city_0766_oklahoma_duncan
-S27841186,L4118033,Home-Duncan-1915 W Oak Ave,2016-02-27,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,67,,1,34.5054798,-97.9734621,9,9,city_0766_oklahoma_duncan
-S27864097,L4118033,Home-Duncan-1915 W Oak Ave,2016-02-28,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,83,,1,34.5054798,-97.9734621,6,6,city_0766_oklahoma_duncan
-S26574386,L4112242,My House - Ash,2016-01-01,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,13,,1,34.5058217,-97.9732187,6,6,city_0766_oklahoma_duncan
-S26599156,L1528243,Home,2016-01-01,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,90,,1,34.5031531,-97.9671061,7,7,city_0766_oklahoma_duncan
-S26606552,L4118033,Home-Duncan-1915 W Oak Ave,2016-01-02,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,79,,1,34.5054798,-97.9734621,5,5,city_0766_oklahoma_duncan
-S26928780,L4112242,My House - Ash,2016-01-16,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,15,,1,34.5058217,-97.9732187,6,6,city_0766_oklahoma_duncan
-S27583240,L4118033,Home-Duncan-1915 W Oak Ave,2016-02-15,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,37,,1,34.5054798,-97.9734621,5,5,city_0766_oklahoma_duncan
-S27925924,L4118033,Home-Duncan-1915 W Oak Ave,2016-03-02,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,41,,1,34.5054798,-97.9734621,2,2,city_0766_oklahoma_duncan
-S27651005,L4118033,Home-Duncan-1915 W Oak Ave,2016-02-17,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,32,,1,34.5054798,-97.9734621,4,4,city_0766_oklahoma_duncan
-S34427243,L5441785,1109 Timbercreek,2017-02-17,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,10,,1,34.5420158,-97.961705,5,5,city_0766_oklahoma_duncan
-S37945824,L4112242,My House - Ash,2017-07-03,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,15,,1,34.5058217,-97.9732187,5,5,city_0766_oklahoma_duncan
-S34382468,L5441785,1109 Timbercreek,2017-02-15,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,15,,1,34.5420158,-97.961705,3,3,city_0766_oklahoma_duncan
-S34400260,L5441785,1109 Timbercreek,2017-02-16,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,10,,1,34.5420158,-97.961705,4,4,city_0766_oklahoma_duncan
-S36023043,L4112242,My House - Ash,2017-04-16,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,,1,34.5058217,-97.9732187,1,1,city_0766_oklahoma_duncan
-S44417614,L3651930,OK ST - Duncan,2018-04-08,2018,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,15,,1,34.5029896,-97.9681091,19,19,city_0766_oklahoma_duncan
-S55808032,L8631625,1108 W. Elm,2019-05-04,2019,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,60,,1,34.4987505,-97.9625823,13,13,city_0766_oklahoma_duncan
-S52514384,L8579851,"Memorial Park, Duncan US-OK (34.5115,-97.9679)",2019-02-09,2019,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,1.051,1,34.511532,-97.967859,2,2,city_0766_oklahoma_duncan
-S51794048,L8450344,"Memorial Park, Duncan US-OK (34.5104,-97.9677)",2019-01-18,2019,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,17,,1,34.510446,-97.967748,3,3,city_0766_oklahoma_duncan
-S72939492,L12173599,"645 Westview Rd, Duncan US-OK 34.49413, -97.99030",2020-08-29,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,78,,1,34.494131,-97.990299,2,2,city_0766_oklahoma_duncan
-S69534645,L11530511,"1912 W Ash Ave, Duncan US-OK 34.50587, -97.97318",2020-05-23,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,20,,1,34.50587,-97.973177,7,7,city_0766_oklahoma_duncan
-S68988434,L2802503,"Bill's House, 1912 W Ash, Duncan, OK",2020-05-13,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,150,,1,34.5051951,-97.9733384,22,22,city_0766_oklahoma_duncan
-S70689729,L11530511,"1912 W Ash Ave, Duncan US-OK 34.50587, -97.97318",2020-06-21,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,30,,1,34.50587,-97.973177,5,5,city_0766_oklahoma_duncan
-S68924761,L2802503,"Bill's House, 1912 W Ash, Duncan, OK",2020-05-12,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,86,,1,34.5051951,-97.9733384,13,13,city_0766_oklahoma_duncan
-S69215943,L11474041,"13 N 28th St, Duncan US-OK 34.50364, -97.98306",2020-05-17,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,12,,1,34.503643,-97.983063,8,8,city_0766_oklahoma_duncan
-S72977330,L12173599,"645 Westview Rd, Duncan US-OK 34.49413, -97.99030",2020-08-30,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,23,,1,34.494131,-97.990299,4,4,city_0766_oklahoma_duncan
-S72961798,L12173599,"645 Westview Rd, Duncan US-OK 34.49413, -97.99030",2020-08-29,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,,1,34.494131,-97.990299,2,2,city_0766_oklahoma_duncan
-S81802908,L13733887,"11 N 28th St, Duncan US-OK 34.50346, -97.98308",2021-02-17,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,28,,1,34.503457,-97.983075,10,10,city_0766_oklahoma_duncan
-S84392975,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-30,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,42,0,1,34.528134,-97.959965,12,12,city_0766_oklahoma_duncan
-S84949753,L14337827,"904 Westgate Rd, Duncan US-OK 34.52644, -97.95723",2021-04-06,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,210,,1,34.526436,-97.957232,6,6,city_0766_oklahoma_duncan
-S85372187,L14363699,"906 Westgate Rd, Duncan US-OK 34.52635, -97.95736",2021-04-11,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,30,4,1,34.526354,-97.957362,8,8,city_0766_oklahoma_duncan
-S97043102,L15650344,Heritage Walking Trails,2021-11-02,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,72,0.933,1,34.5179643,-97.9817937,14,14,city_0766_oklahoma_duncan
-S94494562,L16348737,"645 Westview Rd, Duncan US-OK 34.49433, -97.98990",2021-09-11,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,49,,1,34.494333,-97.989902,11,11,city_0766_oklahoma_duncan
-S83918735,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-22,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,25,4,1,34.528134,-97.959965,6,6,city_0766_oklahoma_duncan
-S85057432,L14363699,"906 Westgate Rd, Duncan US-OK 34.52635, -97.95736",2021-04-07,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,20,,1,34.526354,-97.957362,4,4,city_0766_oklahoma_duncan
-S84432737,L14222738,"906 Westgate Rd, Duncan US-OK 34.52653, -97.95739",2021-03-30,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,31,0.131,1,34.526527,-97.957385,4,4,city_0766_oklahoma_duncan
-S84038212,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-24,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,,1,34.528134,-97.959965,2,2,city_0766_oklahoma_duncan
-S91296642,L15650344,Heritage Walking Trails,2021-07-04,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,75,2.784,1,34.5179643,-97.9817937,13,13,city_0766_oklahoma_duncan
-S99107259,L16348737,"645 Westview Rd, Duncan US-OK 34.49433, -97.98990",2021-12-19,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,17,,1,34.494333,-97.989902,14,14,city_0766_oklahoma_duncan
-S84637078,L14269401,"904 Westgate Rd, Duncan US-OK 34.52625, -97.95719",2021-04-02,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,11,,1,34.526251,-97.957191,4,4,city_0766_oklahoma_duncan
-S80101289,L198037,Duncan,2021-01-29,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,30,,1,34.50228,-97.95781,5,5,city_0766_oklahoma_duncan
-S80212946,L13449810,"2212 W Parkview Ave, Duncan US-OK 34.51471, -97.97751",2021-01-31,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,75,0.504,1,34.514706,-97.977512,7,7,city_0766_oklahoma_duncan
-S84623651,L14266634,"1105 W Sycamore Ave, Duncan US-OK 34.49561, -97.96274",2021-04-02,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,8,,1,34.49561,-97.962743,4,4,city_0766_oklahoma_duncan
-S81511870,L13687174,"9 N 28th St, Duncan US-OK 34.50339, -97.98294",2021-02-14,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,45,,1,34.503386,-97.982939,7,7,city_0766_oklahoma_duncan
-S81868536,L13744851,"11 N 28th St, Duncan US-OK 34.50360, -97.98294",2021-02-18,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,15,,1,34.503603,-97.982942,6,6,city_0766_oklahoma_duncan
-S84334613,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-29,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,21,0.03,1,34.528134,-97.959965,8,8,city_0766_oklahoma_duncan
-S84119712,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-26,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,22,,1,34.528134,-97.959965,4,4,city_0766_oklahoma_duncan
-S84188492,L14175260,"2209 W Parkview Ave, Duncan US-OK 34.51491, -97.97738",2021-03-27,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,25,,1,34.514908,-97.977379,8,8,city_0766_oklahoma_duncan
-S81733171,L13722672,"11 N 28th St, Duncan US-OK 34.50346, -97.98294",2021-02-16,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,33,,1,34.503461,-97.982944,7,7,city_0766_oklahoma_duncan
-S83956774,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-23,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,6,,1,34.528134,-97.959965,2,2,city_0766_oklahoma_duncan
-S84197742,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-27,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,9,,1,34.528134,-97.959965,1,1,city_0766_oklahoma_duncan
-S107243716,L2802503,"Bill's House, 1912 W Ash, Duncan, OK",2022-04-16,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,30,,1,34.5051951,-97.9733384,11,11,city_0766_oklahoma_duncan
-S108165814,L4112242,My House - Ash,2022-04-26,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,60,,1,34.5058217,-97.9732187,17,17,city_0766_oklahoma_duncan
-S107743314,L4112242,My House - Ash,2022-04-22,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,30,,1,34.5058217,-97.9732187,13,13,city_0766_oklahoma_duncan
-S102897582,L17115017,"915 W Spruce Ave, Duncan US-OK 34.51286, -97.95831",2022-02-18,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,22,,1,34.512856,-97.958307,3,3,city_0766_oklahoma_duncan
-S111769799,L19374155,Home,2022-05-30,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,213,,1,34.5063421,-97.9401059,1,1,city_0766_oklahoma_duncan
-S108071892,L4112242,My House - Ash,2022-04-25,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,60,,1,34.5058217,-97.9732187,14,14,city_0766_oklahoma_duncan
-S101149466,L15650344,Heritage Walking Trails,2022-01-21,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,81,2.285,1,34.5179643,-97.9817937,18,18,city_0766_oklahoma_duncan
-S108330948,L4112242,My House - Ash,2022-04-28,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,71,,1,34.5058217,-97.9732187,19,19,city_0766_oklahoma_duncan
-S111125903,L4112242,My House - Ash,2022-05-23,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,45,,1,34.5058217,-97.9732187,12,12,city_0766_oklahoma_duncan
-S112850493,L19545182,"411 North E Street, Duncan, Oklahoma, US (34.506, -97.94)",2022-06-13,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,6,,1,34.5063894,-97.9402926,6,6,city_0766_oklahoma_duncan
-S137274497,L16348737,"645 Westview Rd, Duncan US-OK 34.49433, -97.98990",2023-05-12,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,30,,1,34.494333,-97.989902,14,14,city_0766_oklahoma_duncan
-S127089850,L22373495,"1520 Apollo Dr, Duncan US-OK 34.52941, -97.96500",2023-01-28,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,33,,1,34.529413,-97.964995,6,6,city_0766_oklahoma_duncan
-S139444173,L24698927,"800 Chisholm Trail Pkwy, Duncan US-OK 34.51304, -97.98300",2023-05-27,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,14,0.557,1,34.513042,-97.982998,12,12,city_0766_oklahoma_duncan
-S152420286,L27561176,"1845 N US-81, Duncan US-OK 34.52684, -97.96959",2023-10-16,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,,1,34.526843,-97.969592,4,4,city_0766_oklahoma_duncan
-S156314140,L27376137,Cancer center,2023-12-14,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,9,,1,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
-S150356409,L24698927,"800 Chisholm Trail Pkwy, Duncan US-OK 34.51304, -97.98300",2023-09-20,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,8,0.249,1,34.513042,-97.982998,5,5,city_0766_oklahoma_duncan
-S153639464,L27376137,Cancer center,2023-11-03,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,9,,1,34.518874,-97.976087,3,3,city_0766_oklahoma_duncan
-S139090989,L24621017,"702 W Beech Ave, Duncan US-OK 34.50594, -97.95507",2023-05-24,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,0.174,1,34.505939,-97.955073,4,4,city_0766_oklahoma_duncan
-S156209595,L27376137,Cancer center,2023-12-12,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,6,,1,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
-S151426696,L27376137,Cancer center,2023-10-04,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,9,,1,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
-S156156792,L27376137,Cancer center,2023-12-11,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,6,,1,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
-S177000651,L28861175,"Duncan Regional Hospital, Duncan US-OK 34.52100, -97.97715",2024-05-25,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,70,,1,34.521,-97.977148,7,7,city_0766_oklahoma_duncan
-S159347049,L28861175,"Duncan Regional Hospital, Duncan US-OK 34.52100, -97.97715",2024-01-20,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,52,,1,34.521,-97.977148,10,10,city_0766_oklahoma_duncan
-S197455372,L27376137,Cancer center,2024-10-04,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,15,,1,34.518874,-97.976087,5,5,city_0766_oklahoma_duncan
-S162472917,L15650344,Heritage Walking Trails,2024-02-21,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,20,,1,34.5179643,-97.9817937,5,5,city_0766_oklahoma_duncan
-S168076498,L4112242,My House - Ash,2024-04-10,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,60,,1,34.5058217,-97.9732187,8,8,city_0766_oklahoma_duncan
-S198026161,L15650344,Heritage Walking Trails,2024-10-08,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,13,1.029,1,34.5179643,-97.9817937,4,4,city_0766_oklahoma_duncan
-S197014690,L27376137,Cancer center,2024-09-30,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,18,,1,34.518874,-97.976087,5,5,city_0766_oklahoma_duncan
-S177263462,L32364484,"1000 Chisholm Trail Pkwy, Duncan US-OK 34.51586, -97.98306",2024-05-26,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,52,12.718,1,34.515859,-97.983056,4,4,city_0766_oklahoma_duncan
-S259161279,L15650344,Heritage Walking Trails,2025-07-12,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,45,4.02,1,34.5179643,-97.9817937,23,23,city_0766_oklahoma_duncan
-S232162793,L43941436,Duncan Track,2025-05-02,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,104,0.231,1,34.5093203,-97.9681216,8,8,city_0766_oklahoma_duncan
-S227348133,L27376137,Cancer center,2025-04-20,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,,1,34.518874,-97.976087,7,7,city_0766_oklahoma_duncan
-S228247682,L43153792,"Duncan Regional Hospital, Duncan US-OK 34.52023, -97.97648",2025-04-22,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,,1,34.520226,-97.976483,3,3,city_0766_oklahoma_duncan
-S255941109,L48876163,"813 W Bois D'Arc Ave, Duncan US-OK 34.49296, -97.95927",2025-07-01,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,0.113,1,34.492964,-97.959267,5,5,city_0766_oklahoma_duncan
-S227938188,L43153792,"Duncan Regional Hospital, Duncan US-OK 34.52023, -97.97648",2025-04-21,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,,1,34.520226,-97.976483,3,3,city_0766_oklahoma_duncan
-S228451479,L43153792,"Duncan Regional Hospital, Duncan US-OK 34.52023, -97.97648",2025-04-23,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,6,,1,34.520226,-97.976483,4,4,city_0766_oklahoma_duncan
-S224099301,L27376137,Cancer center,2025-04-09,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,5,,1,34.518874,-97.976087,4,4,city_0766_oklahoma_duncan
-S218072782,L27376137,Cancer center,2025-03-12,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,30584660.5883527,20,,1,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23504828,L3651930,OK ST - Duncan,2015-05-15,2015,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,15,,1,Stationary,34.5029896,-97.9681091,9,9,city_0766_oklahoma_duncan
+S26599156,L1528243,Home,2016-01-01,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,90,,1,Stationary,34.5031531,-97.9671061,7,7,city_0766_oklahoma_duncan
+S26574386,L4112242,My House - Ash,2016-01-01,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,13,,1,Stationary,34.5058217,-97.9732187,6,6,city_0766_oklahoma_duncan
+S26606552,L4118033,Home-Duncan-1915 W Oak Ave,2016-01-02,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,79,,1,Stationary,34.5054798,-97.9734621,5,5,city_0766_oklahoma_duncan
+S26928780,L4112242,My House - Ash,2016-01-16,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,15,,1,Stationary,34.5058217,-97.9732187,6,6,city_0766_oklahoma_duncan
+S27583240,L4118033,Home-Duncan-1915 W Oak Ave,2016-02-15,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,37,,1,Stationary,34.5054798,-97.9734621,5,5,city_0766_oklahoma_duncan
+S27651005,L4118033,Home-Duncan-1915 W Oak Ave,2016-02-17,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,32,,1,Stationary,34.5054798,-97.9734621,4,4,city_0766_oklahoma_duncan
+S27841186,L4118033,Home-Duncan-1915 W Oak Ave,2016-02-27,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,67,,1,Stationary,34.5054798,-97.9734621,9,9,city_0766_oklahoma_duncan
+S27864097,L4118033,Home-Duncan-1915 W Oak Ave,2016-02-28,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,83,,1,Stationary,34.5054798,-97.9734621,6,6,city_0766_oklahoma_duncan
+S27925924,L4118033,Home-Duncan-1915 W Oak Ave,2016-03-02,2016,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,41,,1,Stationary,34.5054798,-97.9734621,2,2,city_0766_oklahoma_duncan
+S34382468,L5441785,1109 Timbercreek,2017-02-15,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,15,,1,Stationary,34.5420158,-97.961705,3,3,city_0766_oklahoma_duncan
+S34400260,L5441785,1109 Timbercreek,2017-02-16,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,10,,1,Stationary,34.5420158,-97.961705,4,4,city_0766_oklahoma_duncan
+S34427243,L5441785,1109 Timbercreek,2017-02-17,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,10,,1,Stationary,34.5420158,-97.961705,5,5,city_0766_oklahoma_duncan
+S36023043,L4112242,My House - Ash,2017-04-16,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,,1,Stationary,34.5058217,-97.9732187,1,1,city_0766_oklahoma_duncan
+S37945824,L4112242,My House - Ash,2017-07-03,2017,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,15,,1,Stationary,34.5058217,-97.9732187,5,5,city_0766_oklahoma_duncan
+S44417614,L3651930,OK ST - Duncan,2018-04-08,2018,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,15,,1,Stationary,34.5029896,-97.9681091,19,19,city_0766_oklahoma_duncan
+S51794048,L8450344,"Memorial Park, Duncan US-OK (34.5104,-97.9677)",2019-01-18,2019,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,17,,1,Stationary,34.510446,-97.967748,3,3,city_0766_oklahoma_duncan
+S52514384,L8579851,"Memorial Park, Duncan US-OK (34.5115,-97.9679)",2019-02-09,2019,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,1.051,1,Traveling,34.511532,-97.967859,2,2,city_0766_oklahoma_duncan
+S55808032,L8631625,1108 W. Elm,2019-05-04,2019,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,60,,1,Stationary,34.4987505,-97.9625823,13,13,city_0766_oklahoma_duncan
+S68924761,L2802503,"Bill's House, 1912 W Ash, Duncan, OK",2020-05-12,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,86,,1,Stationary,34.5051951,-97.9733384,13,13,city_0766_oklahoma_duncan
+S68988434,L2802503,"Bill's House, 1912 W Ash, Duncan, OK",2020-05-13,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,150,,1,Stationary,34.5051951,-97.9733384,22,22,city_0766_oklahoma_duncan
+S69215943,L11474041,"13 N 28th St, Duncan US-OK 34.50364, -97.98306",2020-05-17,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,12,,1,Stationary,34.503643,-97.983063,8,8,city_0766_oklahoma_duncan
+S69534645,L11530511,"1912 W Ash Ave, Duncan US-OK 34.50587, -97.97318",2020-05-23,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,20,,1,Stationary,34.50587,-97.973177,7,7,city_0766_oklahoma_duncan
+S70689729,L11530511,"1912 W Ash Ave, Duncan US-OK 34.50587, -97.97318",2020-06-21,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,30,,1,Stationary,34.50587,-97.973177,5,5,city_0766_oklahoma_duncan
+S72939492,L12173599,"645 Westview Rd, Duncan US-OK 34.49413, -97.99030",2020-08-29,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,78,,1,Stationary,34.494131,-97.990299,2,2,city_0766_oklahoma_duncan
+S72961798,L12173599,"645 Westview Rd, Duncan US-OK 34.49413, -97.99030",2020-08-29,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,,1,Stationary,34.494131,-97.990299,2,2,city_0766_oklahoma_duncan
+S72977330,L12173599,"645 Westview Rd, Duncan US-OK 34.49413, -97.99030",2020-08-30,2020,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,23,,1,Stationary,34.494131,-97.990299,4,4,city_0766_oklahoma_duncan
+S80101289,L198037,Duncan,2021-01-29,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,30,,1,Stationary,34.50228,-97.95781,5,5,city_0766_oklahoma_duncan
+S80212946,L13449810,"2212 W Parkview Ave, Duncan US-OK 34.51471, -97.97751",2021-01-31,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,75,0.504,1,Traveling,34.514706,-97.977512,7,7,city_0766_oklahoma_duncan
+S81511870,L13687174,"9 N 28th St, Duncan US-OK 34.50339, -97.98294",2021-02-14,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,45,,1,Stationary,34.503386,-97.982939,7,7,city_0766_oklahoma_duncan
+S81733171,L13722672,"11 N 28th St, Duncan US-OK 34.50346, -97.98294",2021-02-16,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,33,,1,Stationary,34.503461,-97.982944,7,7,city_0766_oklahoma_duncan
+S81802908,L13733887,"11 N 28th St, Duncan US-OK 34.50346, -97.98308",2021-02-17,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,28,,1,Stationary,34.503457,-97.983075,10,10,city_0766_oklahoma_duncan
+S81868536,L13744851,"11 N 28th St, Duncan US-OK 34.50360, -97.98294",2021-02-18,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,15,,1,Stationary,34.503603,-97.982942,6,6,city_0766_oklahoma_duncan
+S83918735,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-22,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,25,4,1,Traveling,34.528134,-97.959965,6,6,city_0766_oklahoma_duncan
+S83956774,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-23,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,6,,1,Stationary,34.528134,-97.959965,2,2,city_0766_oklahoma_duncan
+S84038212,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-24,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,,1,Stationary,34.528134,-97.959965,2,2,city_0766_oklahoma_duncan
+S84119712,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-26,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,22,,1,Stationary,34.528134,-97.959965,4,4,city_0766_oklahoma_duncan
+S84197742,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-27,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,9,,1,Stationary,34.528134,-97.959965,1,1,city_0766_oklahoma_duncan
+S84188492,L14175260,"2209 W Parkview Ave, Duncan US-OK 34.51491, -97.97738",2021-03-27,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,25,,1,Stationary,34.514908,-97.977379,8,8,city_0766_oklahoma_duncan
+S84334613,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-29,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,21,0.03,1,Traveling,34.528134,-97.959965,8,8,city_0766_oklahoma_duncan
+S84392975,L14128139,"Duncan Country Club, Duncan US-OK (34.5281,-97.9600)",2021-03-30,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,42,0,1,Traveling,34.528134,-97.959965,12,12,city_0766_oklahoma_duncan
+S84432737,L14222738,"906 Westgate Rd, Duncan US-OK 34.52653, -97.95739",2021-03-30,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,31,0.131,1,Traveling,34.526527,-97.957385,4,4,city_0766_oklahoma_duncan
+S84623651,L14266634,"1105 W Sycamore Ave, Duncan US-OK 34.49561, -97.96274",2021-04-02,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,8,,1,Stationary,34.49561,-97.962743,4,4,city_0766_oklahoma_duncan
+S84637078,L14269401,"904 Westgate Rd, Duncan US-OK 34.52625, -97.95719",2021-04-02,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,11,,1,Stationary,34.526251,-97.957191,4,4,city_0766_oklahoma_duncan
+S84949753,L14337827,"904 Westgate Rd, Duncan US-OK 34.52644, -97.95723",2021-04-06,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,210,,1,Stationary,34.526436,-97.957232,6,6,city_0766_oklahoma_duncan
+S85057432,L14363699,"906 Westgate Rd, Duncan US-OK 34.52635, -97.95736",2021-04-07,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,20,,1,Stationary,34.526354,-97.957362,4,4,city_0766_oklahoma_duncan
+S85372187,L14363699,"906 Westgate Rd, Duncan US-OK 34.52635, -97.95736",2021-04-11,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,30,4,1,Traveling,34.526354,-97.957362,8,8,city_0766_oklahoma_duncan
+S91296642,L15650344,Heritage Walking Trails,2021-07-04,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,75,2.784,1,Traveling,34.5179643,-97.9817937,13,13,city_0766_oklahoma_duncan
+S94494562,L16348737,"645 Westview Rd, Duncan US-OK 34.49433, -97.98990",2021-09-11,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,49,,1,Stationary,34.494333,-97.989902,11,11,city_0766_oklahoma_duncan
+S97043102,L15650344,Heritage Walking Trails,2021-11-02,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,72,0.933,1,Traveling,34.5179643,-97.9817937,14,14,city_0766_oklahoma_duncan
+S99107259,L16348737,"645 Westview Rd, Duncan US-OK 34.49433, -97.98990",2021-12-19,2021,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,17,,1,Stationary,34.494333,-97.989902,14,14,city_0766_oklahoma_duncan
+S101149466,L15650344,Heritage Walking Trails,2022-01-21,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,81,2.285,1,Traveling,34.5179643,-97.9817937,18,18,city_0766_oklahoma_duncan
+S102897582,L17115017,"915 W Spruce Ave, Duncan US-OK 34.51286, -97.95831",2022-02-18,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,22,,1,Stationary,34.512856,-97.958307,3,3,city_0766_oklahoma_duncan
+S107243716,L2802503,"Bill's House, 1912 W Ash, Duncan, OK",2022-04-16,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,30,,1,Stationary,34.5051951,-97.9733384,11,11,city_0766_oklahoma_duncan
+S107743314,L4112242,My House - Ash,2022-04-22,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,30,,1,Stationary,34.5058217,-97.9732187,13,13,city_0766_oklahoma_duncan
+S108071892,L4112242,My House - Ash,2022-04-25,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,60,,1,Stationary,34.5058217,-97.9732187,14,14,city_0766_oklahoma_duncan
+S108165814,L4112242,My House - Ash,2022-04-26,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,60,,1,Stationary,34.5058217,-97.9732187,17,17,city_0766_oklahoma_duncan
+S108330948,L4112242,My House - Ash,2022-04-28,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,71,,1,Stationary,34.5058217,-97.9732187,19,19,city_0766_oklahoma_duncan
+S111125903,L4112242,My House - Ash,2022-05-23,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,45,,1,Stationary,34.5058217,-97.9732187,12,12,city_0766_oklahoma_duncan
+S111801174,L19374155,Home,2022-05-28,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,180,,1,Stationary,34.5063421,-97.9401059,0,0,city_0766_oklahoma_duncan
+S111769799,L19374155,Home,2022-05-30,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,213,,1,Stationary,34.5063421,-97.9401059,1,1,city_0766_oklahoma_duncan
+S112850493,L19545182,"411 North E Street, Duncan, Oklahoma, US (34.506, -97.94)",2022-06-13,2022,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,6,,1,Stationary,34.5063894,-97.9402926,6,6,city_0766_oklahoma_duncan
+S127089850,L22373495,"1520 Apollo Dr, Duncan US-OK 34.52941, -97.96500",2023-01-28,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,33,,1,Stationary,34.529413,-97.964995,6,6,city_0766_oklahoma_duncan
+S137274497,L16348737,"645 Westview Rd, Duncan US-OK 34.49433, -97.98990",2023-05-12,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,30,,1,Stationary,34.494333,-97.989902,14,14,city_0766_oklahoma_duncan
+S139090989,L24621017,"702 W Beech Ave, Duncan US-OK 34.50594, -97.95507",2023-05-24,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,0.174,1,Traveling,34.505939,-97.955073,4,4,city_0766_oklahoma_duncan
+S139444173,L24698927,"800 Chisholm Trail Pkwy, Duncan US-OK 34.51304, -97.98300",2023-05-27,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,14,0.557,1,Traveling,34.513042,-97.982998,12,12,city_0766_oklahoma_duncan
+S150356409,L24698927,"800 Chisholm Trail Pkwy, Duncan US-OK 34.51304, -97.98300",2023-09-20,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,8,0.249,1,Traveling,34.513042,-97.982998,5,5,city_0766_oklahoma_duncan
+S151426696,L27376137,Cancer center,2023-10-04,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,9,,1,Stationary,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
+S152420286,L27561176,"1845 N US-81, Duncan US-OK 34.52684, -97.96959",2023-10-16,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,,1,Stationary,34.526843,-97.969592,4,4,city_0766_oklahoma_duncan
+S153639464,L27376137,Cancer center,2023-11-03,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,9,,1,Stationary,34.518874,-97.976087,3,3,city_0766_oklahoma_duncan
+S156156792,L27376137,Cancer center,2023-12-11,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,6,,1,Stationary,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
+S156209595,L27376137,Cancer center,2023-12-12,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,6,,1,Stationary,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
+S156314140,L27376137,Cancer center,2023-12-14,2023,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,9,,1,Stationary,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
+S159347049,L28861175,"Duncan Regional Hospital, Duncan US-OK 34.52100, -97.97715",2024-01-20,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,52,,1,Stationary,34.521,-97.977148,10,10,city_0766_oklahoma_duncan
+S162472917,L15650344,Heritage Walking Trails,2024-02-21,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,20,,1,Stationary,34.5179643,-97.9817937,5,5,city_0766_oklahoma_duncan
+S168076498,L4112242,My House - Ash,2024-04-10,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,60,,1,Stationary,34.5058217,-97.9732187,8,8,city_0766_oklahoma_duncan
+S177000651,L28861175,"Duncan Regional Hospital, Duncan US-OK 34.52100, -97.97715",2024-05-25,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,70,,1,Stationary,34.521,-97.977148,7,7,city_0766_oklahoma_duncan
+S177263462,L32364484,"1000 Chisholm Trail Pkwy, Duncan US-OK 34.51586, -97.98306",2024-05-26,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,52,12.718,1,Traveling,34.515859,-97.983056,4,4,city_0766_oklahoma_duncan
+S197014690,L27376137,Cancer center,2024-09-30,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,18,,1,Stationary,34.518874,-97.976087,5,5,city_0766_oklahoma_duncan
+S197455372,L27376137,Cancer center,2024-10-04,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,15,,1,Stationary,34.518874,-97.976087,5,5,city_0766_oklahoma_duncan
+S198026161,L15650344,Heritage Walking Trails,2024-10-08,2024,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,13,1.029,1,Traveling,34.5179643,-97.9817937,4,4,city_0766_oklahoma_duncan
+S218072782,L27376137,Cancer center,2025-03-12,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,20,,1,Stationary,34.518874,-97.976087,2,2,city_0766_oklahoma_duncan
+S224099301,L27376137,Cancer center,2025-04-09,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,,1,Stationary,34.518874,-97.976087,4,4,city_0766_oklahoma_duncan
+S227348133,L27376137,Cancer center,2025-04-20,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,,1,Stationary,34.518874,-97.976087,7,7,city_0766_oklahoma_duncan
+S227938188,L43153792,"Duncan Regional Hospital, Duncan US-OK 34.52023, -97.97648",2025-04-21,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,,1,Stationary,34.520226,-97.976483,3,3,city_0766_oklahoma_duncan
+S228247682,L43153792,"Duncan Regional Hospital, Duncan US-OK 34.52023, -97.97648",2025-04-22,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,,1,Stationary,34.520226,-97.976483,3,3,city_0766_oklahoma_duncan
+S228451479,L43153792,"Duncan Regional Hospital, Duncan US-OK 34.52023, -97.97648",2025-04-23,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,6,,1,Stationary,34.520226,-97.976483,4,4,city_0766_oklahoma_duncan
+S232162793,L43941436,Duncan Track,2025-05-02,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,104,0.231,1,Traveling,34.5093203,-97.9681216,8,8,city_0766_oklahoma_duncan
+S255941109,L48876163,"813 W Bois D'Arc Ave, Duncan US-OK 34.49296, -97.95927",2025-07-01,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,5,0.113,1,Traveling,34.492964,-97.959267,5,5,city_0766_oklahoma_duncan
+S259161279,L15650344,Heritage Walking Trails,2025-07-12,2025,766,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,45,4.02,1,Traveling,34.5179643,-97.9817937,23,23,city_0766_oklahoma_duncan

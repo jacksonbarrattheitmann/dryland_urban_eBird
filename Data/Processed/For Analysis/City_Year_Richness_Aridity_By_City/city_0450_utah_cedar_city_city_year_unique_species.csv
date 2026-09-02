@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-450,"Cedar City, UT",Cedar City,Utah,Iron,2015,43543792.6550996,92,1984,city_0450_utah_cedar_city,324.1562509536743,11.875,14.818571472167967,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2016,43543792.6550996,90,1817,city_0450_utah_cedar_city,277.4937524795532,11.526041666666668,12.891071975822458,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2017,43543792.6550996,79,2217,city_0450_utah_cedar_city,249.06875133514404,11.854166666666666,11.396854207899825,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2018,43543792.6550996,81,354,city_0450_utah_cedar_city,246.8812475204468,11.734375,11.359022172040683,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2019,43543792.6550996,104,1674,city_0450_utah_cedar_city,357.93124628067017,10.6640625,17.32143649297761,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2020,43543792.6550996,114,3146,city_0450_utah_cedar_city,219.65625,11.6875,10.128242074927954,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2021,43543792.6550996,117,2789,city_0450_utah_cedar_city,253.5749979019165,11.692708333333334,11.689411667987509,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2022,43543792.6550996,105,1575,city_0450_utah_cedar_city,269.85000228881836,11.098958333333332,12.78973103911457,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2023,43543792.6550996,113,1519,city_0450_utah_cedar_city,325.3687505722046,10.911458333333332,15.559352455756734,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2024,43543792.6550996,119,1163,city_0450_utah_cedar_city,268.9500045776367,12.072916666666668,12.184615592002418,semiarid,12
-450,"Cedar City, UT",Cedar City,Utah,Iron,2025,43543792.6550996,124,1001,city_0450_utah_cedar_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+450,2015,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,92,1984,city_0450_utah_cedar_city,324.156250953674,11.875,14.818571472168,semiarid,12
+450,2016,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,90,1817,city_0450_utah_cedar_city,277.493752479553,11.5260416666667,12.8910719758225,semiarid,12
+450,2017,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,79,2217,city_0450_utah_cedar_city,249.068751335144,11.8541666666667,11.3968542078998,semiarid,12
+450,2018,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,81,354,city_0450_utah_cedar_city,246.881247520447,11.734375,11.3590221720407,semiarid,12
+450,2019,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,104,1674,city_0450_utah_cedar_city,357.93124628067,10.6640625,17.3214364929776,semiarid,12
+450,2020,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,114,3146,city_0450_utah_cedar_city,219.65625,11.6875,10.128242074928,semiarid,12
+450,2021,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,117,2789,city_0450_utah_cedar_city,253.574997901917,11.6927083333333,11.6894116679875,semiarid,12
+450,2022,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,105,1575,city_0450_utah_cedar_city,269.850002288818,11.0989583333333,12.7897310391146,semiarid,12
+450,2023,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,113,1519,city_0450_utah_cedar_city,325.368750572205,10.9114583333333,15.5593524557567,semiarid,12
+450,2024,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,119,1163,city_0450_utah_cedar_city,268.950004577637,12.0729166666667,12.1846155920024,semiarid,12
+450,2025,"Cedar City, UT",Cedar City,Utah,Iron,99.999999999986,124,1001,city_0450_utah_cedar_city,,,,,

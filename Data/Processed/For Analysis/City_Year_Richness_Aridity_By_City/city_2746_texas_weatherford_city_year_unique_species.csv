@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2015,83369032.7781109,46,92,city_2746_texas_weatherford,1190.5687236785889,18.752604166666668,41.40733537655811,humid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2016,83369032.7781109,21,38,city_2746_texas_weatherford,1007.6437549591064,19.4765625,34.184574777303375,humid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2017,83369032.7781109,54,126,city_2746_texas_weatherford,761.09375,19.580729166666668,25.729377586055108,dry subhumid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2018,83369032.7781109,54,128,city_2746_texas_weatherford,897.2500047683716,18.546875,31.430760977107703,humid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2019,83369032.7781109,82,366,city_2746_texas_weatherford,887.8499956130981,18.4453125,31.212523877637068,humid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2020,83369032.7781109,99,690,city_2746_texas_weatherford,913.1250076293944,18.916666666666668,31.577810062111624,humid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2021,83369032.7781109,75,738,city_2746_texas_weatherford,847.6999988555908,18.536458333333332,29.705858693242096,dry subhumid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2022,83369032.7781109,101,1282,city_2746_texas_weatherford,588.1812524795532,19.013020833333332,20.27300968962826,dry subhumid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2023,83369032.7781109,141,2975,city_2746_texas_weatherford,821.1937580108643,19.736979166666668,27.615238031016013,dry subhumid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2024,83369032.7781109,114,1292,city_2746_texas_weatherford,906.6875076293944,20.111979166666668,30.11052520363984,humid,12
-2746,"Weatherford, TX",Weatherford,Texas,Parker,2025,83369032.7781109,72,407,city_2746_texas_weatherford,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2746,2015,"Weatherford, TX",Weatherford,Texas,Parker,100,46,92,city_2746_texas_weatherford,1190.56872367859,18.7526041666667,41.4073353765581,humid,12
+2746,2016,"Weatherford, TX",Weatherford,Texas,Parker,100,21,38,city_2746_texas_weatherford,1007.64375495911,19.4765625,34.1845747773034,humid,12
+2746,2017,"Weatherford, TX",Weatherford,Texas,Parker,100,54,126,city_2746_texas_weatherford,761.09375,19.5807291666667,25.7293775860551,dry subhumid,12
+2746,2018,"Weatherford, TX",Weatherford,Texas,Parker,100,54,128,city_2746_texas_weatherford,897.250004768372,18.546875,31.4307609771077,humid,12
+2746,2019,"Weatherford, TX",Weatherford,Texas,Parker,100,82,366,city_2746_texas_weatherford,887.849995613098,18.4453125,31.2125238776371,humid,12
+2746,2020,"Weatherford, TX",Weatherford,Texas,Parker,100,99,688,city_2746_texas_weatherford,913.125007629395,18.9166666666667,31.5778100621116,humid,12
+2746,2021,"Weatherford, TX",Weatherford,Texas,Parker,100,75,738,city_2746_texas_weatherford,847.699998855591,18.5364583333333,29.7058586932421,dry subhumid,12
+2746,2022,"Weatherford, TX",Weatherford,Texas,Parker,100,101,1280,city_2746_texas_weatherford,588.181252479553,19.0130208333333,20.2730096896283,dry subhumid,12
+2746,2023,"Weatherford, TX",Weatherford,Texas,Parker,100,141,2974,city_2746_texas_weatherford,821.193758010864,19.7369791666667,27.615238031016,dry subhumid,12
+2746,2024,"Weatherford, TX",Weatherford,Texas,Parker,100,114,1292,city_2746_texas_weatherford,906.687507629394,20.1119791666667,30.1105252036398,humid,12
+2746,2025,"Weatherford, TX",Weatherford,Texas,Parker,100,72,407,city_2746_texas_weatherford,,,,,

@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2015,3605159.4212095,12,14,city_1445_colorado_las_animas,409.22498893737793,13.09375,17.720161902565756,semiarid,12
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2016,3605159.4212095,14,18,city_1445_colorado_las_animas,358.4500026702881,13.614583333333332,15.179179645499628,semiarid,12
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2018,3605159.4212095,4,4,city_1445_colorado_las_animas,300.8687472343445,12.893229166666668,13.142259007847604,semiarid,12
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2019,3605159.4212095,14,18,city_1445_colorado_las_animas,370.3249988555908,12.21875,16.667229203064565,semiarid,12
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2020,3605159.4212095,11,11,city_1445_colorado_las_animas,239.4437494277954,13.28125,10.284832190187185,semiarid,12
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2021,3605159.4212095,17,29,city_1445_colorado_las_animas,318.6625039577484,13.236979166666668,13.713594253028733,semiarid,12
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2022,3605159.4212095,13,18,city_1445_colorado_las_animas,254.30625224113464,12.916666666666668,11.097000097794966,semiarid,12
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2023,3605159.4212095,15,32,city_1445_colorado_las_animas,385.70000171661377,13.0703125,16.718455882061146,semiarid,12
-1445,"Las Animas, CO",Las Animas,Colorado,Bent,2024,3605159.4212095,24,66,city_1445_colorado_las_animas,319.17499923706055,14.020833333333332,13.287424079253173,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1445,2015,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,12,14,city_1445_colorado_las_animas,409.224988937378,13.09375,17.7201619025658,semiarid,12
+1445,2016,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,14,18,city_1445_colorado_las_animas,358.450002670288,13.6145833333333,15.1791796454996,semiarid,12
+1445,2018,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,4,4,city_1445_colorado_las_animas,300.868747234345,12.8932291666667,13.1422590078476,semiarid,12
+1445,2019,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,14,18,city_1445_colorado_las_animas,370.324998855591,12.21875,16.6672292030646,semiarid,12
+1445,2020,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,11,11,city_1445_colorado_las_animas,239.443749427795,13.28125,10.2848321901872,semiarid,12
+1445,2021,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,17,29,city_1445_colorado_las_animas,318.662503957748,13.2369791666667,13.7135942530287,semiarid,12
+1445,2022,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,13,18,city_1445_colorado_las_animas,254.306252241135,12.9166666666667,11.097000097795,semiarid,12
+1445,2023,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,15,32,city_1445_colorado_las_animas,385.700001716614,13.0703125,16.7184558820611,semiarid,12
+1445,2024,"Las Animas, CO",Las Animas,Colorado,Bent,99.9999999999941,24,66,city_1445_colorado_las_animas,319.174999237061,14.0208333333333,13.2874240792532,semiarid,12

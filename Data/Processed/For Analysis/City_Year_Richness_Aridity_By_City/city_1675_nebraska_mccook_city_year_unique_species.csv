@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2015,11993462.9625583,5,5,city_1675_nebraska_mccook,604.4437551498413,11.518229166666668,28.08984654212018,dry subhumid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2017,11993462.9625583,17,28,city_1675_nebraska_mccook,652.7937483787537,11.557291666666668,30.281807124600313,humid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2018,11993462.9625583,13,19,city_1675_nebraska_mccook,646.2187604904175,10.7109375,31.201811144011103,humid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2019,11993462.9625583,16,18,city_1675_nebraska_mccook,713.6312417984009,10.307291666666668,35.14162565408899,humid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2020,11993462.9625583,15,18,city_1675_nebraska_mccook,476.4812593460083,11.541666666666666,22.11905265822863,dry subhumid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2021,11993462.9625583,12,20,city_1675_nebraska_mccook,554.6375036239624,11.619791666666668,25.65415579277301,dry subhumid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2022,11993462.9625583,20,34,city_1675_nebraska_mccook,375.35625076293945,11.0703125,17.814460547888856,semiarid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2023,11993462.9625583,34,127,city_1675_nebraska_mccook,581.8562507629395,11.627604166666668,26.90340762106788,dry subhumid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2024,11993462.9625583,62,301,city_1675_nebraska_mccook,517.2562479972839,12.427083333333332,23.06391073280969,dry subhumid,12
-1675,"McCook, NE",McCook,Nebraska,Red Willow,2025,11993462.9625583,45,153,city_1675_nebraska_mccook,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1675,2015,"McCook, NE",McCook,Nebraska,Red Willow,100,5,5,city_1675_nebraska_mccook,604.443755149841,11.5182291666667,28.0898465421202,dry subhumid,12
+1675,2017,"McCook, NE",McCook,Nebraska,Red Willow,100,17,28,city_1675_nebraska_mccook,652.793748378754,11.5572916666667,30.2818071246003,humid,12
+1675,2018,"McCook, NE",McCook,Nebraska,Red Willow,100,13,19,city_1675_nebraska_mccook,646.218760490418,10.7109375,31.2018111440111,humid,12
+1675,2019,"McCook, NE",McCook,Nebraska,Red Willow,100,16,18,city_1675_nebraska_mccook,713.631241798401,10.3072916666667,35.141625654089,humid,12
+1675,2020,"McCook, NE",McCook,Nebraska,Red Willow,100,15,18,city_1675_nebraska_mccook,476.481259346008,11.5416666666667,22.1190526582286,dry subhumid,12
+1675,2021,"McCook, NE",McCook,Nebraska,Red Willow,100,12,20,city_1675_nebraska_mccook,554.637503623962,11.6197916666667,25.654155792773,dry subhumid,12
+1675,2022,"McCook, NE",McCook,Nebraska,Red Willow,100,20,34,city_1675_nebraska_mccook,375.356250762939,11.0703125,17.8144605478889,semiarid,12
+1675,2023,"McCook, NE",McCook,Nebraska,Red Willow,100,34,127,city_1675_nebraska_mccook,581.85625076294,11.6276041666667,26.9034076210679,dry subhumid,12
+1675,2024,"McCook, NE",McCook,Nebraska,Red Willow,100,62,301,city_1675_nebraska_mccook,517.256247997284,12.4270833333333,23.0639107328097,dry subhumid,12
+1675,2025,"McCook, NE",McCook,Nebraska,Red Willow,100,45,153,city_1675_nebraska_mccook,,,,,

@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2040,"Patterson, CA",Patterson,California,Stanislaus,2016,14723106.4811494,5,5,city_2040_california_patterson,313.3624950647354,17.661458333333332,11.328487865266275,semiarid,12
-2040,"Patterson, CA",Patterson,California,Stanislaus,2018,14723106.4811494,13,18,city_2040_california_patterson,264.96249228715897,17.583333333333332,9.60589095905108,arid,12
-2040,"Patterson, CA",Patterson,California,Stanislaus,2019,14723106.4811494,4,4,city_2040_california_patterson,320.6999941766262,17.205729166666668,11.787958051481237,semiarid,12
-2040,"Patterson, CA",Patterson,California,Stanislaus,2020,14723106.4811494,13,15,city_2040_california_patterson,130.80624890327454,17.729166666666668,4.717280200869404,extremely arid,12
-2040,"Patterson, CA",Patterson,California,Stanislaus,2021,14723106.4811494,12,14,city_2040_california_patterson,266.3874953985214,17.356770833333332,9.737534339174893,arid,12
-2040,"Patterson, CA",Patterson,California,Stanislaus,2023,14723106.4811494,9,9,city_2040_california_patterson,329.7250061035156,16.828125,12.290273960760048,semiarid,12
-2040,"Patterson, CA",Patterson,California,Stanislaus,2025,14723106.4811494,24,34,city_2040_california_patterson,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2040,2016,"Patterson, CA",Patterson,California,Stanislaus,99.9999999999926,5,5,city_2040_california_patterson,313.362495064735,17.6614583333333,11.3284878652663,semiarid,12
+2040,2018,"Patterson, CA",Patterson,California,Stanislaus,99.9999999999926,13,18,city_2040_california_patterson,264.962492287159,17.5833333333333,9.60589095905108,arid,12
+2040,2019,"Patterson, CA",Patterson,California,Stanislaus,99.9999999999926,4,4,city_2040_california_patterson,320.699994176626,17.2057291666667,11.7879580514812,semiarid,12
+2040,2020,"Patterson, CA",Patterson,California,Stanislaus,99.9999999999926,13,15,city_2040_california_patterson,130.806248903275,17.7291666666667,4.7172802008694,extremely arid,12
+2040,2021,"Patterson, CA",Patterson,California,Stanislaus,99.9999999999926,12,14,city_2040_california_patterson,266.387495398521,17.3567708333333,9.73753433917489,arid,12
+2040,2023,"Patterson, CA",Patterson,California,Stanislaus,99.9999999999926,9,9,city_2040_california_patterson,329.725006103516,16.828125,12.29027396076,semiarid,12
+2040,2025,"Patterson, CA",Patterson,California,Stanislaus,99.9999999999926,24,34,city_2040_california_patterson,,,,,

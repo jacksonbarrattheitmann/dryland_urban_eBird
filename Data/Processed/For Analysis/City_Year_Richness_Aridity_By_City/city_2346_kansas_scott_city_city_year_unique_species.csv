@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2346,"Scott City, KS",Scott City,Kansas,Scott,2015,3969066.93917214,19,27,city_2346_kansas_scott_city,571.131251335144,12.981770833333332,24.851490143081623,dry subhumid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2016,3969066.93917214,10,10,city_2346_kansas_scott_city,518.6437501907349,13.559895833333332,22.013838849700697,dry subhumid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2018,3969066.93917214,21,38,city_2346_kansas_scott_city,476.6687479019165,12.385416666666668,21.293717914650525,dry subhumid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2019,3969066.93917214,13,24,city_2346_kansas_scott_city,577.5125007629395,11.916666666666668,26.350380262947805,dry subhumid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2020,3969066.93917214,25,31,city_2346_kansas_scott_city,408.29375743865967,12.9765625,17.77001052436193,semiarid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2021,3969066.93917214,25,78,city_2346_kansas_scott_city,462.61874532699585,13.028645833333332,20.088838426503045,dry subhumid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2022,3969066.93917214,15,38,city_2346_kansas_scott_city,356.34374713897705,12.596354166666668,15.769966451696114,semiarid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2023,3969066.93917214,15,36,city_2346_kansas_scott_city,526.931245803833,13,22.910054165384043,dry subhumid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2024,3969066.93917214,32,62,city_2346_kansas_scott_city,447.23125290870667,13.78125,18.806044800366113,semiarid,12
-2346,"Scott City, KS",Scott City,Kansas,Scott,2025,3969066.93917214,20,28,city_2346_kansas_scott_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2346,2015,"Scott City, KS",Scott City,Kansas,Scott,100,19,27,city_2346_kansas_scott_city,571.131251335144,12.9817708333333,24.8514901430816,dry subhumid,12
+2346,2016,"Scott City, KS",Scott City,Kansas,Scott,100,10,10,city_2346_kansas_scott_city,518.643750190735,13.5598958333333,22.0138388497007,dry subhumid,12
+2346,2018,"Scott City, KS",Scott City,Kansas,Scott,100,21,38,city_2346_kansas_scott_city,476.668747901917,12.3854166666667,21.2937179146505,dry subhumid,12
+2346,2019,"Scott City, KS",Scott City,Kansas,Scott,100,13,24,city_2346_kansas_scott_city,577.51250076294,11.9166666666667,26.3503802629478,dry subhumid,12
+2346,2020,"Scott City, KS",Scott City,Kansas,Scott,100,25,31,city_2346_kansas_scott_city,408.29375743866,12.9765625,17.7700105243619,semiarid,12
+2346,2021,"Scott City, KS",Scott City,Kansas,Scott,100,25,78,city_2346_kansas_scott_city,462.618745326996,13.0286458333333,20.088838426503,dry subhumid,12
+2346,2022,"Scott City, KS",Scott City,Kansas,Scott,100,15,38,city_2346_kansas_scott_city,356.343747138977,12.5963541666667,15.7699664516961,semiarid,12
+2346,2023,"Scott City, KS",Scott City,Kansas,Scott,100,15,36,city_2346_kansas_scott_city,526.931245803833,13,22.910054165384,dry subhumid,12
+2346,2024,"Scott City, KS",Scott City,Kansas,Scott,100,32,62,city_2346_kansas_scott_city,447.231252908707,13.78125,18.8060448003661,semiarid,12
+2346,2025,"Scott City, KS",Scott City,Kansas,Scott,100,20,28,city_2346_kansas_scott_city,,,,,

@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-120,"Aubrey, TX",Aubrey,Texas,Denton,2016,6045315.86315984,24,42,city_0120_texas_aubrey,997.8062553405762,19.481770833333332,33.844854875963364,humid,12
-120,"Aubrey, TX",Aubrey,Texas,Denton,2019,6045315.86315984,14,19,city_0120_texas_aubrey,1079.5874862670898,18.28125,38.17325918292472,humid,12
-120,"Aubrey, TX",Aubrey,Texas,Denton,2020,6045315.86315984,23,32,city_0120_texas_aubrey,1092.1999893188477,18.736979166666668,38.006778060574305,humid,12
-120,"Aubrey, TX",Aubrey,Texas,Denton,2021,6045315.86315984,58,1910,city_0120_texas_aubrey,973.2625045776368,18.565104166666668,34.071729579525254,humid,12
-120,"Aubrey, TX",Aubrey,Texas,Denton,2022,6045315.86315984,78,860,city_0120_texas_aubrey,829.5562477111816,18.963541666666668,28.641395353452054,dry subhumid,12
-120,"Aubrey, TX",Aubrey,Texas,Denton,2023,6045315.86315984,65,452,city_0120_texas_aubrey,990.3687438964844,19.536458333333332,33.530382441919414,humid,12
-120,"Aubrey, TX",Aubrey,Texas,Denton,2024,6045315.86315984,78,648,city_0120_texas_aubrey,1075.824993133545,19.9921875,35.87017429567433,humid,12
-120,"Aubrey, TX",Aubrey,Texas,Denton,2025,6045315.86315984,57,126,city_0120_texas_aubrey,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+120,2016,"Aubrey, TX",Aubrey,Texas,Denton,100,24,42,city_0120_texas_aubrey,997.806255340576,19.4817708333333,33.8448548759634,humid,12
+120,2019,"Aubrey, TX",Aubrey,Texas,Denton,100,14,19,city_0120_texas_aubrey,1079.58748626709,18.28125,38.1732591829247,humid,12
+120,2020,"Aubrey, TX",Aubrey,Texas,Denton,100,23,32,city_0120_texas_aubrey,1092.19998931885,18.7369791666667,38.0067780605743,humid,12
+120,2021,"Aubrey, TX",Aubrey,Texas,Denton,100,58,1910,city_0120_texas_aubrey,973.262504577637,18.5651041666667,34.0717295795253,humid,12
+120,2022,"Aubrey, TX",Aubrey,Texas,Denton,100,78,860,city_0120_texas_aubrey,829.556247711182,18.9635416666667,28.6413953534521,dry subhumid,12
+120,2023,"Aubrey, TX",Aubrey,Texas,Denton,100,65,452,city_0120_texas_aubrey,990.368743896484,19.5364583333333,33.5303824419194,humid,12
+120,2024,"Aubrey, TX",Aubrey,Texas,Denton,100,78,648,city_0120_texas_aubrey,1075.82499313354,19.9921875,35.8701742956743,humid,12
+120,2025,"Aubrey, TX",Aubrey,Texas,Denton,100,57,126,city_0120_texas_aubrey,,,,,

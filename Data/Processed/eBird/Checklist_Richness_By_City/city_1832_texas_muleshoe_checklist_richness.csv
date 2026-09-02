@@ -1,39 +1,40 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S37354688,L5926475,Muleshoe,2017-06-03,2017,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,31,4.828,1,34.2263746,-102.7239121,9,9,city_1832_texas_muleshoe
-S40288295,L6437167,"520 W 2nd St, Muleshoe US-TX (34.2230,-102.7285)",2017-11-03,2017,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,25,8.369,1,34.222995,-102.728518,6,6,city_1832_texas_muleshoe
-S46471386,L2686915,Muleshoe Lake,2018-06-10,2018,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,10,,1,34.2295515,-102.7385616,10,10,city_1832_texas_muleshoe
-S55396151,L2686915,Muleshoe Lake,2019-04-25,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,9,0.161,1,34.2295515,-102.7385616,11,11,city_1832_texas_muleshoe
-S55255585,L9096365,Muleshoe (town),2019-04-22,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,9,3.573,1,34.2264953,-102.7237461,14,14,city_1832_texas_muleshoe
-S56615665,L9320381,"1905 West Ash Avenue, Muleshoe, Texas, US (34.238, -102.746)",2019-05-22,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,13,,1,34.2381183,-102.745888,7,7,city_1832_texas_muleshoe
-S51823486,L8456141,"1008 Main Street, Muleshoe, Texas, US (34.217, -102.73)",2019-01-19,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,5,,1,34.2172896,-102.7302861,3,3,city_1832_texas_muleshoe
-S62154120,L585102,Muleshoe,2019-12-08,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,5,3.219,1,34.22648,-102.72349,1,1,city_1832_texas_muleshoe
-S56724234,L9096365,Muleshoe (town),2019-05-25,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,5,3.342,1,34.2264953,-102.7237461,9,9,city_1832_texas_muleshoe
-S55653865,L9159675,Muleshoe (town),2019-04-30,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,5,1.609,1,34.2270496,-102.7234184,4,4,city_1832_texas_muleshoe
-S69908993,L2686915,Muleshoe Lake,2020-05-09,2020,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,45,1.609,1,34.2295515,-102.7385616,18,18,city_1832_texas_muleshoe
-S73871253,L2686915,Muleshoe Lake,2020-09-21,2020,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,11,,1,34.2295515,-102.7385616,4,4,city_1832_texas_muleshoe
-S73779167,L2686915,Muleshoe Lake,2020-09-19,2020,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,20,0.322,1,34.2295515,-102.7385616,8,8,city_1832_texas_muleshoe
-S89301220,L2686915,Muleshoe Lake,2021-05-30,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,32,0.805,1,34.2295515,-102.7385616,13,13,city_1832_texas_muleshoe
-S79697849,L13354032,"Muleshoe, Texas",2021-01-22,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,8,7.689,1,34.2291,-102.7268567,10,10,city_1832_texas_muleshoe
-S87080788,L2686915,Muleshoe Lake,2021-05-04,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,5,,1,34.2295515,-102.7385616,14,14,city_1832_texas_muleshoe
-S82432156,L2686915,Muleshoe Lake,2021-02-27,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,15,11.652,1,34.2295515,-102.7385616,4,4,city_1832_texas_muleshoe
-S98505959,L17041331,Muleshoe; Hwy 84 to Lubbock,2021-11-30,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,6,3.219,1,34.2259344,-102.7237329,1,1,city_1832_texas_muleshoe
-S116384553,L20433303,"1723 W American Blvd, Muleshoe US-TX 34.23605, -102.74374",2022-08-05,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,11,1.02,1,34.236054,-102.743738,4,4,city_1832_texas_muleshoe
-S117496812,L20661621,TX.  Muleshoe,2022-08-23,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,14,8.69,1,34.2264394,-102.72395,4,4,city_1832_texas_muleshoe
-S116225900,L20399794,"401 W American Blvd, Muleshoe US-TX (34.2282,-102.7272)",2022-07-26,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,10,4.828,1,34.228197,-102.727186,9,9,city_1832_texas_muleshoe
-S115381872,L2686915,Muleshoe Lake,2022-07-19,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,8,0.241,1,34.2295515,-102.7385616,7,7,city_1832_texas_muleshoe
-S113345409,L2686915,Muleshoe Lake,2022-06-20,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,10,,1,34.2295515,-102.7385616,10,10,city_1832_texas_muleshoe
-S102634318,L2686915,Muleshoe Lake,2022-02-14,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,14,0.1,1,34.2295515,-102.7385616,4,4,city_1832_texas_muleshoe
-S118949869,L20922923,"701–815 W Avenue K, Muleshoe US-TX 34.22146, -102.73778",2022-09-18,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,6,3.297,1,34.221459,-102.73778,6,6,city_1832_texas_muleshoe
-S134663621,L2686915,Muleshoe Lake,2023-04-22,2023,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,22,0.29,1,34.2295515,-102.7385616,9,9,city_1832_texas_muleshoe
-S156952812,L2686915,Muleshoe Lake,2023-12-23,2023,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,16,8.935,1,34.2295515,-102.7385616,3,3,city_1832_texas_muleshoe
-S149661705,L2686915,Muleshoe Lake,2023-09-11,2023,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,22,,1,34.2295515,-102.7385616,6,6,city_1832_texas_muleshoe
-S158392495,L2686915,Muleshoe Lake,2024-01-07,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,8,13.623,1,34.2295515,-102.7385616,6,6,city_1832_texas_muleshoe
-S191816168,L2686915,Muleshoe Lake,2024-08-17,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,6,0.145,1,34.2295515,-102.7385616,2,2,city_1832_texas_muleshoe
-S197541099,L3200839,"Muleshoe, 34.225756, -102.731419",2024-07-16,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,5,,1,34.225756,-102.731419,8,8,city_1832_texas_muleshoe
-S193862843,L2686915,Muleshoe Lake,2024-09-03,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,18,0.577,1,34.2295515,-102.7385616,10,10,city_1832_texas_muleshoe
-S197541508,L3200839,"Muleshoe, 34.225756, -102.731419",2024-07-18,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,26,,1,34.225756,-102.731419,12,12,city_1832_texas_muleshoe
-S184622243,L34127282,"2601 West American Boulevard, Muleshoe, Texas, US (34.241, -102.755)",2024-06-30,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,6,7.829,1,34.2407373,-102.7547382,7,7,city_1832_texas_muleshoe
-S255278919,L48730762,"307 East 6th Street, Muleshoe, Texas, US (34.221, -102.721)",2025-06-29,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,5,0.487,1,34.2211769,-102.7205848,10,10,city_1832_texas_muleshoe
-S274560213,L2686915,Muleshoe Lake,2025-09-20,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,15,0.483,1,34.2295515,-102.7385616,8,8,city_1832_texas_muleshoe
-S212782824,L2686915,Muleshoe Lake,2025-02-10,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,5,,1,34.2295515,-102.7385616,3,3,city_1832_texas_muleshoe
-S247006031,L46880022,"310–314 Uvalde St, Muleshoe US-TX 34.23899, -102.74936",2025-06-05,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,6371209.25272743,8,,1,34.23899,-102.749364,8,8,city_1832_texas_muleshoe
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S37354688,L5926475,Muleshoe,2017-06-03,2017,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,31,4.828,1,Traveling,34.2263746,-102.7239121,9,9,city_1832_texas_muleshoe
+S40288295,L6437167,"520 W 2nd St, Muleshoe US-TX (34.2230,-102.7285)",2017-11-03,2017,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,25,8.369,1,Traveling,34.222995,-102.728518,6,6,city_1832_texas_muleshoe
+S46471386,L2686915,Muleshoe Lake,2018-06-10,2018,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,10,,1,Stationary,34.2295515,-102.7385616,10,10,city_1832_texas_muleshoe
+S51823486,L8456141,"1008 Main Street, Muleshoe, Texas, US (34.217, -102.73)",2019-01-19,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,5,,1,Stationary,34.2172896,-102.7302861,3,3,city_1832_texas_muleshoe
+S55255585,L9096365,Muleshoe (town),2019-04-22,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,9,3.573,1,Traveling,34.2264953,-102.7237461,14,14,city_1832_texas_muleshoe
+S55396151,L2686915,Muleshoe Lake,2019-04-25,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,9,0.161,1,Traveling,34.2295515,-102.7385616,11,11,city_1832_texas_muleshoe
+S55653865,L9159675,Muleshoe (town),2019-04-30,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,5,1.609,1,Traveling,34.2270496,-102.7234184,4,4,city_1832_texas_muleshoe
+S56615665,L9320381,"1905 West Ash Avenue, Muleshoe, Texas, US (34.238, -102.746)",2019-05-22,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,13,,1,Stationary,34.2381183,-102.745888,7,7,city_1832_texas_muleshoe
+S56724234,L9096365,Muleshoe (town),2019-05-25,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,5,3.342,1,Traveling,34.2264953,-102.7237461,9,9,city_1832_texas_muleshoe
+S62154120,L585102,Muleshoe,2019-12-08,2019,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,5,3.219,1,Traveling,34.22648,-102.72349,1,1,city_1832_texas_muleshoe
+S69908993,L2686915,Muleshoe Lake,2020-05-09,2020,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,45,1.609,1,Traveling,34.2295515,-102.7385616,18,18,city_1832_texas_muleshoe
+S73779167,L2686915,Muleshoe Lake,2020-09-19,2020,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,20,0.322,1,Traveling,34.2295515,-102.7385616,8,8,city_1832_texas_muleshoe
+S73871253,L2686915,Muleshoe Lake,2020-09-21,2020,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,11,,1,Stationary,34.2295515,-102.7385616,4,4,city_1832_texas_muleshoe
+S79697849,L13354032,"Muleshoe, Texas",2021-01-22,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,8,7.689,1,Traveling,34.2291,-102.7268567,10,10,city_1832_texas_muleshoe
+S82432156,L2686915,Muleshoe Lake,2021-02-27,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,15,11.652,1,Traveling,34.2295515,-102.7385616,4,4,city_1832_texas_muleshoe
+S87080788,L2686915,Muleshoe Lake,2021-05-04,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,5,,1,Stationary,34.2295515,-102.7385616,14,14,city_1832_texas_muleshoe
+S89301220,L2686915,Muleshoe Lake,2021-05-30,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,32,0.805,1,Traveling,34.2295515,-102.7385616,13,13,city_1832_texas_muleshoe
+S98505959,L17041331,Muleshoe; Hwy 84 to Lubbock,2021-11-30,2021,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,6,3.219,1,Traveling,34.2259344,-102.7237329,1,1,city_1832_texas_muleshoe
+S102634318,L2686915,Muleshoe Lake,2022-02-14,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,14,0.1,1,Traveling,34.2295515,-102.7385616,4,4,city_1832_texas_muleshoe
+S113345409,L2686915,Muleshoe Lake,2022-06-20,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,10,,1,Stationary,34.2295515,-102.7385616,10,10,city_1832_texas_muleshoe
+S115381872,L2686915,Muleshoe Lake,2022-07-19,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,8,0.241,1,Traveling,34.2295515,-102.7385616,7,7,city_1832_texas_muleshoe
+S116225900,L20399794,"401 W American Blvd, Muleshoe US-TX (34.2282,-102.7272)",2022-07-26,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,10,4.828,1,Traveling,34.228197,-102.727186,9,9,city_1832_texas_muleshoe
+S116384553,L20433303,"1723 W American Blvd, Muleshoe US-TX 34.23605, -102.74374",2022-08-05,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,11,1.02,1,Traveling,34.236054,-102.743738,4,4,city_1832_texas_muleshoe
+S117496812,L20661621,TX.  Muleshoe,2022-08-23,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,14,8.69,1,Traveling,34.2264394,-102.72395,4,4,city_1832_texas_muleshoe
+S118949869,L20922923,"701–815 W Avenue K, Muleshoe US-TX 34.22146, -102.73778",2022-09-18,2022,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,6,3.297,1,Traveling,34.221459,-102.73778,6,6,city_1832_texas_muleshoe
+S134663621,L2686915,Muleshoe Lake,2023-04-22,2023,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,22,0.29,1,Traveling,34.2295515,-102.7385616,9,9,city_1832_texas_muleshoe
+S149661705,L2686915,Muleshoe Lake,2023-09-11,2023,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,22,,1,Stationary,34.2295515,-102.7385616,6,6,city_1832_texas_muleshoe
+S156952812,L2686915,Muleshoe Lake,2023-12-23,2023,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,16,8.935,1,Traveling,34.2295515,-102.7385616,3,3,city_1832_texas_muleshoe
+S158392495,L2686915,Muleshoe Lake,2024-01-07,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,8,13.623,1,Traveling,34.2295515,-102.7385616,6,6,city_1832_texas_muleshoe
+S184622243,L34127282,"2601 West American Boulevard, Muleshoe, Texas, US (34.241, -102.755)",2024-06-30,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,6,7.829,1,Traveling,34.2407373,-102.7547382,7,7,city_1832_texas_muleshoe
+S197541099,L3200839,"Muleshoe, 34.225756, -102.731419",2024-07-16,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,5,,1,Stationary,34.225756,-102.731419,8,8,city_1832_texas_muleshoe
+S197541508,L3200839,"Muleshoe, 34.225756, -102.731419",2024-07-18,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,26,,1,Stationary,34.225756,-102.731419,12,12,city_1832_texas_muleshoe
+S191816168,L2686915,Muleshoe Lake,2024-08-17,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,6,0.145,1,Traveling,34.2295515,-102.7385616,2,2,city_1832_texas_muleshoe
+S193862843,L2686915,Muleshoe Lake,2024-09-03,2024,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,18,0.577,1,Traveling,34.2295515,-102.7385616,10,10,city_1832_texas_muleshoe
+S212782824,L2686915,Muleshoe Lake,2025-02-10,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,5,,1,Stationary,34.2295515,-102.7385616,3,3,city_1832_texas_muleshoe
+S341444672,L2686915,Muleshoe Lake,2025-03-10,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,65,,1,Stationary,34.2295515,-102.7385616,1,1,city_1832_texas_muleshoe
+S247006031,L46880022,"310–314 Uvalde St, Muleshoe US-TX 34.23899, -102.74936",2025-06-05,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,8,,1,Stationary,34.23899,-102.749364,8,8,city_1832_texas_muleshoe
+S255278919,L48730762,"307 East 6th Street, Muleshoe, Texas, US (34.221, -102.721)",2025-06-29,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,5,0.487,1,Traveling,34.2211769,-102.7205848,10,10,city_1832_texas_muleshoe
+S274560213,L2686915,Muleshoe Lake,2025-09-20,2025,1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,15,0.483,1,Traveling,34.2295515,-102.7385616,8,8,city_1832_texas_muleshoe

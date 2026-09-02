@@ -1,5 +1,5 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1501,"Lincoln, ND",Lincoln,North Dakota,Burleigh,2020,3041615.6274376,5,5,city_1501_north_dakota_lincoln,317.04999828338623,7.015625,18.632874095626004,semiarid,12
-1501,"Lincoln, ND",Lincoln,North Dakota,Burleigh,2021,3041615.6274376,4,4,city_1501_north_dakota_lincoln,371.14375162124634,7.9375,20.690940856933594,dry subhumid,12
-1501,"Lincoln, ND",Lincoln,North Dakota,Burleigh,2023,3041615.6274376,4,4,city_1501_north_dakota_lincoln,472.4312505722046,7.184895833333333,27.491074438509862,dry subhumid,12
-1501,"Lincoln, ND",Lincoln,North Dakota,Burleigh,2024,3041615.6274376,7,7,city_1501_north_dakota_lincoln,460.52500104904175,8.127604166666668,25.404625830029023,dry subhumid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1501,2020,"Lincoln, ND",Lincoln,North Dakota,Burleigh,100,5,5,city_1501_north_dakota_lincoln,317.049998283386,7.015625,18.632874095626,semiarid,12
+1501,2021,"Lincoln, ND",Lincoln,North Dakota,Burleigh,100,4,4,city_1501_north_dakota_lincoln,371.143751621246,7.9375,20.6909408569336,dry subhumid,12
+1501,2023,"Lincoln, ND",Lincoln,North Dakota,Burleigh,100,4,4,city_1501_north_dakota_lincoln,472.431250572205,7.18489583333333,27.4910744385099,dry subhumid,12
+1501,2024,"Lincoln, ND",Lincoln,North Dakota,Burleigh,100,7,7,city_1501_north_dakota_lincoln,460.525001049042,8.12760416666667,25.404625830029,dry subhumid,12

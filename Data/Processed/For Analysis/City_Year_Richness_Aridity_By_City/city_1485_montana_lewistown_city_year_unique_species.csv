@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2015,5518136.06650387,47,66,city_1485_montana_lewistown,431.95625019073486,7.231770833333334,25.067432382233967,dry subhumid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2016,5518136.06650387,22,26,city_1485_montana_lewistown,474.9375004768371,7.328125,27.40847613211684,dry subhumid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2017,5518136.06650387,55,145,city_1485_montana_lewistown,419.5500011444092,6.2421875,25.830880301339285,dry subhumid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2018,5518136.06650387,53,456,city_1485_montana_lewistown,489.29375171661377,5.2890625,32.00286163501613,humid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2019,5518136.06650387,76,1076,city_1485_montana_lewistown,526.0187520980835,4.677083333333334,35.83946075331158,humid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2020,5518136.06650387,83,1391,city_1485_montana_lewistown,409.70000553131104,6.520833333333334,24.798991507569895,dry subhumid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2021,5518136.06650387,74,1304,city_1485_montana_lewistown,335.17499923706055,6.989583333333334,19.72826482327272,semiarid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2022,5518136.06650387,76,1367,city_1485_montana_lewistown,434.34374713897705,5.875,27.360236040250523,dry subhumid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2023,5518136.06650387,85,1592,city_1485_montana_lewistown,528.1062569618225,6.716145833333334,31.59258493119486,humid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2024,5518136.06650387,75,1181,city_1485_montana_lewistown,423.1625022888184,7.2109375,24.586836265532796,dry subhumid,12
-1485,"Lewistown, MT",Lewistown,Montana,Fergus,2025,5518136.06650387,83,1471,city_1485_montana_lewistown,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1485,2015,"Lewistown, MT",Lewistown,Montana,Fergus,100,47,66,city_1485_montana_lewistown,431.956250190735,7.23177083333333,25.067432382234,dry subhumid,12
+1485,2016,"Lewistown, MT",Lewistown,Montana,Fergus,100,22,26,city_1485_montana_lewistown,474.937500476837,7.328125,27.4084761321168,dry subhumid,12
+1485,2017,"Lewistown, MT",Lewistown,Montana,Fergus,100,55,145,city_1485_montana_lewistown,419.550001144409,6.2421875,25.8308803013393,dry subhumid,12
+1485,2018,"Lewistown, MT",Lewistown,Montana,Fergus,100,53,456,city_1485_montana_lewistown,489.293751716614,5.2890625,32.0028616350161,humid,12
+1485,2019,"Lewistown, MT",Lewistown,Montana,Fergus,100,76,1076,city_1485_montana_lewistown,526.018752098084,4.67708333333333,35.8394607533116,humid,12
+1485,2020,"Lewistown, MT",Lewistown,Montana,Fergus,100,83,1391,city_1485_montana_lewistown,409.700005531311,6.52083333333333,24.7989915075699,dry subhumid,12
+1485,2021,"Lewistown, MT",Lewistown,Montana,Fergus,100,74,1304,city_1485_montana_lewistown,335.174999237061,6.98958333333333,19.7282648232727,semiarid,12
+1485,2022,"Lewistown, MT",Lewistown,Montana,Fergus,100,76,1367,city_1485_montana_lewistown,434.343747138977,5.875,27.3602360402505,dry subhumid,12
+1485,2023,"Lewistown, MT",Lewistown,Montana,Fergus,100,85,1592,city_1485_montana_lewistown,528.106256961823,6.71614583333333,31.5925849311949,humid,12
+1485,2024,"Lewistown, MT",Lewistown,Montana,Fergus,100,75,1181,city_1485_montana_lewistown,423.162502288818,7.2109375,24.5868362655328,dry subhumid,12
+1485,2025,"Lewistown, MT",Lewistown,Montana,Fergus,100,83,1471,city_1485_montana_lewistown,,,,,

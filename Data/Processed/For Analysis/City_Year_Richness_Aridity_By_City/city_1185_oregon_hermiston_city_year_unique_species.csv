@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2015,39719327.5977367,10,13,city_1185_oregon_hermiston,211.8687505722046,13.625,8.967989442209719,arid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2016,39719327.5977367,48,211,city_1185_oregon_hermiston,238.38125085830688,13.122395833333332,10.30953939966098,semiarid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2017,39719327.5977367,84,2075,city_1185_oregon_hermiston,280.54375356435776,12.0234375,12.738418040524223,semiarid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2018,39719327.5977367,83,1377,city_1185_oregon_hermiston,202.13125228881836,12.6640625,8.918579901057825,arid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2019,39719327.5977367,93,2055,city_1185_oregon_hermiston,200.1624975204468,11.658854166666666,9.241601424534275,arid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2020,39719327.5977367,89,1377,city_1185_oregon_hermiston,234.1562467813492,12.700520833333332,10.315016492375598,semiarid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2021,39719327.5977367,94,1024,city_1185_oregon_hermiston,201.51250088214871,13.145833333333334,8.706210659174742,arid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2022,39719327.5977367,88,1448,city_1185_oregon_hermiston,248.51874780654907,12.059895833333332,11.26563559883306,semiarid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2023,39719327.5977367,76,798,city_1185_oregon_hermiston,196.49999737739563,12.919270833333334,8.573571070664688,arid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2024,39719327.5977367,99,1200,city_1185_oregon_hermiston,238.2499998807907,13.1328125,10.299223230240193,semiarid,12
-1185,"Hermiston, OR",Hermiston,Oregon,Umatilla,2025,39719327.5977367,91,1402,city_1185_oregon_hermiston,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1185,2015,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,10,13,city_1185_oregon_hermiston,211.868750572205,13.625,8.96798944220972,arid,12
+1185,2016,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,48,211,city_1185_oregon_hermiston,238.381250858307,13.1223958333333,10.309539399661,semiarid,12
+1185,2017,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,84,2075,city_1185_oregon_hermiston,280.543753564358,12.0234375,12.7384180405242,semiarid,12
+1185,2018,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,83,1377,city_1185_oregon_hermiston,202.131252288818,12.6640625,8.91857990105783,arid,12
+1185,2019,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,93,2055,city_1185_oregon_hermiston,200.162497520447,11.6588541666667,9.24160142453428,arid,12
+1185,2020,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,89,1377,city_1185_oregon_hermiston,234.156246781349,12.7005208333333,10.3150164923756,semiarid,12
+1185,2021,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,94,1024,city_1185_oregon_hermiston,201.512500882149,13.1458333333333,8.70621065917474,arid,12
+1185,2022,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,88,1448,city_1185_oregon_hermiston,248.518747806549,12.0598958333333,11.2656355988331,semiarid,12
+1185,2023,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,76,798,city_1185_oregon_hermiston,196.499997377396,12.9192708333333,8.57357107066469,arid,12
+1185,2024,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,99,1200,city_1185_oregon_hermiston,238.249999880791,13.1328125,10.2992232302402,semiarid,12
+1185,2025,"Hermiston, OR",Hermiston,Oregon,Umatilla,99.9999999999815,91,1402,city_1185_oregon_hermiston,,,,,

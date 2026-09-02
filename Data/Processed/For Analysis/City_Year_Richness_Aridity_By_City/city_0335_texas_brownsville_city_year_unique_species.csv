@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2015,220169630.944735,161,1379,city_0335_texas_brownsville,773.4999899864197,23.799479166666668,22.88496772900725,dry subhumid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2016,220169630.944735,186,2888,city_0335_texas_brownsville,699.8874957561493,24.434895833333332,20.32494882933989,dry subhumid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2017,220169630.944735,165,3243,city_0335_texas_brownsville,668.7437448501587,24.640625,19.305187041231463,semiarid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2018,220169630.944735,195,4617,city_0335_texas_brownsville,629.5125007629395,24.098958333333332,18.46134109462111,semiarid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2019,220169630.944735,208,5873,city_0335_texas_brownsville,572.843759059906,24.153645833333332,16.772550779946926,semiarid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2020,220169630.944735,221,13922,city_0335_texas_brownsville,635.8812561035156,24.591145833333332,18.382775151979978,semiarid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2021,220169630.944735,235,15966,city_0335_texas_brownsville,952.581241607666,23.994791666666668,28.02138783341073,dry subhumid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2022,220169630.944735,233,19707,city_0335_texas_brownsville,653.7000131607056,24.1796875,19.12539467075893,semiarid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2023,220169630.944735,265,16384,city_0335_texas_brownsville,625.7437477111816,24.9609375,17.89836864961592,semiarid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2024,220169630.944735,269,25079,city_0335_texas_brownsville,962.1999940872192,25.325520833333332,27.238097879063194,dry subhumid,12
-335,"Brownsville, TX",Brownsville,Texas,Cameron,2025,220169630.944735,251,19377,city_0335_texas_brownsville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+335,2015,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,161,1379,city_0335_texas_brownsville,773.49998998642,23.7994791666667,22.8849677290073,dry subhumid,12
+335,2016,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,186,2888,city_0335_texas_brownsville,699.887495756149,24.4348958333333,20.3249488293399,dry subhumid,12
+335,2017,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,165,3243,city_0335_texas_brownsville,668.743744850159,24.640625,19.3051870412315,semiarid,12
+335,2018,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,195,4617,city_0335_texas_brownsville,629.51250076294,24.0989583333333,18.4613410946211,semiarid,12
+335,2019,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,208,5873,city_0335_texas_brownsville,572.843759059906,24.1536458333333,16.7725507799469,semiarid,12
+335,2020,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,221,13922,city_0335_texas_brownsville,635.881256103516,24.5911458333333,18.38277515198,semiarid,12
+335,2021,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,235,15976,city_0335_texas_brownsville,952.581241607666,23.9947916666667,28.0213878334107,dry subhumid,12
+335,2022,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,233,19707,city_0335_texas_brownsville,653.700013160706,24.1796875,19.1253946707589,semiarid,12
+335,2023,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,265,16398,city_0335_texas_brownsville,625.743747711182,24.9609375,17.8983686496159,semiarid,12
+335,2024,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,269,25080,city_0335_texas_brownsville,962.199994087219,25.3255208333333,27.2380978790632,dry subhumid,12
+335,2025,"Brownsville, TX",Brownsville,Texas,Cameron,99.9999889929219,251,19377,city_0335_texas_brownsville,,,,,

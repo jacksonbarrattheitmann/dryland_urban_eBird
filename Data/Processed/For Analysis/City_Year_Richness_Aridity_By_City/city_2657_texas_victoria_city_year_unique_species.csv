@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2657,"Victoria, TX",Victoria,Texas,Victoria,2015,75221631.5381123,139,1283,city_2657_texas_victoria,1252.0625076293943,22.088541666666668,39.01899066139323,humid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2016,75221631.5381123,158,1840,city_2657_texas_victoria,1171.7750034332275,22.75,35.779389417808474,humid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2017,75221631.5381123,140,992,city_2657_texas_victoria,875.0749855041504,22.856770833333332,26.633018501513337,dry subhumid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2018,75221631.5381123,121,1160,city_2657_texas_victoria,954.9625053405762,22.325520833333332,29.54206090798206,dry subhumid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2019,75221631.5381123,155,1729,city_2657_texas_victoria,969.4562511444092,22.479166666666668,29.84855680239361,dry subhumid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2020,75221631.5381123,178,3085,city_2657_texas_victoria,794.9874954223633,23.005208333333332,24.086728597300574,dry subhumid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2021,75221631.5381123,182,3465,city_2657_texas_victoria,1086.0124988555908,22.4140625,33.50436246168128,humid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2022,75221631.5381123,177,2492,city_2657_texas_victoria,669.2749967575073,22.4921875,20.598028272411863,dry subhumid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2023,75221631.5381123,171,2857,city_2657_texas_victoria,712.8937492370605,23.4765625,21.295309195412777,dry subhumid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2024,75221631.5381123,172,5486,city_2657_texas_victoria,994.1812477111816,23.763020833333332,29.445861868190807,dry subhumid,12
-2657,"Victoria, TX",Victoria,Texas,Victoria,2025,75221631.5381123,205,9018,city_2657_texas_victoria,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2657,2015,"Victoria, TX",Victoria,Texas,Victoria,100,139,1283,city_2657_texas_victoria,1252.06250762939,22.0885416666667,39.0189906613932,humid,12
+2657,2016,"Victoria, TX",Victoria,Texas,Victoria,100,158,1840,city_2657_texas_victoria,1171.77500343323,22.75,35.7793894178085,humid,12
+2657,2017,"Victoria, TX",Victoria,Texas,Victoria,100,140,992,city_2657_texas_victoria,875.07498550415,22.8567708333333,26.6330185015133,dry subhumid,12
+2657,2018,"Victoria, TX",Victoria,Texas,Victoria,100,121,1160,city_2657_texas_victoria,954.962505340576,22.3255208333333,29.5420609079821,dry subhumid,12
+2657,2019,"Victoria, TX",Victoria,Texas,Victoria,100,155,1729,city_2657_texas_victoria,969.456251144409,22.4791666666667,29.8485568023936,dry subhumid,12
+2657,2020,"Victoria, TX",Victoria,Texas,Victoria,100,178,3085,city_2657_texas_victoria,794.987495422363,23.0052083333333,24.0867285973006,dry subhumid,12
+2657,2021,"Victoria, TX",Victoria,Texas,Victoria,100,182,3465,city_2657_texas_victoria,1086.01249885559,22.4140625,33.5043624616813,humid,12
+2657,2022,"Victoria, TX",Victoria,Texas,Victoria,100,177,2485,city_2657_texas_victoria,669.274996757507,22.4921875,20.5980282724119,dry subhumid,12
+2657,2023,"Victoria, TX",Victoria,Texas,Victoria,100,171,2857,city_2657_texas_victoria,712.893749237061,23.4765625,21.2953091954128,dry subhumid,12
+2657,2024,"Victoria, TX",Victoria,Texas,Victoria,100,172,5486,city_2657_texas_victoria,994.181247711182,23.7630208333333,29.4458618681908,dry subhumid,12
+2657,2025,"Victoria, TX",Victoria,Texas,Victoria,100,205,9020,city_2657_texas_victoria,,,,,

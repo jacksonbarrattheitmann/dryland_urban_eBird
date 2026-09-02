@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2624,"Ulysses, KS",Ulysses,Kansas,Grant,2018,6302668.79890093,4,4,city_2624_kansas_ulysses,381.89375257492065,13.4140625,16.310443887083697,semiarid,12
-2624,"Ulysses, KS",Ulysses,Kansas,Grant,2019,6302668.79890093,6,6,city_2624_kansas_ulysses,450.1374959945678,12.830729166666668,19.716299585024988,semiarid,12
-2624,"Ulysses, KS",Ulysses,Kansas,Grant,2021,6302668.79890093,30,32,city_2624_kansas_ulysses,359.80000042915344,13.78125,15.129566378098437,semiarid,12
-2624,"Ulysses, KS",Ulysses,Kansas,Grant,2022,6302668.79890093,18,26,city_2624_kansas_ulysses,292.8062481880188,13.4296875,12.497232333466624,semiarid,12
-2624,"Ulysses, KS",Ulysses,Kansas,Grant,2023,6302668.79890093,3,3,city_2624_kansas_ulysses,460.5937581062317,13.75,19.393421393946596,semiarid,12
-2624,"Ulysses, KS",Ulysses,Kansas,Grant,2024,6302668.79890093,18,30,city_2624_kansas_ulysses,382.4875011444092,14.578125,15.562110663218174,semiarid,12
-2624,"Ulysses, KS",Ulysses,Kansas,Grant,2025,6302668.79890093,11,13,city_2624_kansas_ulysses,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2624,2018,"Ulysses, KS",Ulysses,Kansas,Grant,99.9999999999987,4,4,city_2624_kansas_ulysses,381.893752574921,13.4140625,16.3104438870837,semiarid,12
+2624,2019,"Ulysses, KS",Ulysses,Kansas,Grant,99.9999999999987,6,6,city_2624_kansas_ulysses,450.137495994568,12.8307291666667,19.716299585025,semiarid,12
+2624,2021,"Ulysses, KS",Ulysses,Kansas,Grant,99.9999999999987,30,32,city_2624_kansas_ulysses,359.800000429153,13.78125,15.1295663780984,semiarid,12
+2624,2022,"Ulysses, KS",Ulysses,Kansas,Grant,99.9999999999987,18,26,city_2624_kansas_ulysses,292.806248188019,13.4296875,12.4972323334666,semiarid,12
+2624,2023,"Ulysses, KS",Ulysses,Kansas,Grant,99.9999999999987,3,3,city_2624_kansas_ulysses,460.593758106232,13.75,19.3934213939466,semiarid,12
+2624,2024,"Ulysses, KS",Ulysses,Kansas,Grant,99.9999999999987,18,30,city_2624_kansas_ulysses,382.487501144409,14.578125,15.5621106632182,semiarid,12
+2624,2025,"Ulysses, KS",Ulysses,Kansas,Grant,99.9999999999987,11,13,city_2624_kansas_ulysses,,,,,

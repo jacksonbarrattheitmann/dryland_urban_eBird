@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2016,4418966.53524617,23,43,city_1745_south_dakota_mobridge,494.88749980926514,9,26.046710516277113,dry subhumid,12
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2017,4418966.53524617,24,47,city_1745_south_dakota_mobridge,369.20000171661377,7.950520833333334,20.56764843452483,dry subhumid,12
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2019,4418966.53524617,16,27,city_1745_south_dakota_mobridge,667.4687404632568,5.921875,41.92149105951761,humid,12
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2020,4418966.53524617,21,41,city_1745_south_dakota_mobridge,331.72499656677246,8.171875,18.25485793660657,semiarid,12
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2021,4418966.53524617,29,53,city_1745_south_dakota_mobridge,382.6437468528747,8.973958333333332,20.166785450384836,dry subhumid,12
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2022,4418966.53524617,26,43,city_1745_south_dakota_mobridge,411.400004863739,7.1484375,23.990524201621227,dry subhumid,12
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2023,4418966.53524617,26,32,city_1745_south_dakota_mobridge,481.7437517642975,8.361979166666668,26.235938260883593,dry subhumid,12
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2024,4418966.53524617,40,64,city_1745_south_dakota_mobridge,450.3999972343445,9.236979166666668,23.41323933098528,dry subhumid,12
-1745,"Mobridge, SD",Mobridge,South Dakota,Walworth,2025,4418966.53524617,20,50,city_1745_south_dakota_mobridge,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1745,2016,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,23,43,city_1745_south_dakota_mobridge,494.887499809265,9,26.0467105162771,dry subhumid,12
+1745,2017,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,24,47,city_1745_south_dakota_mobridge,369.200001716614,7.95052083333333,20.5676484345248,dry subhumid,12
+1745,2019,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,16,27,city_1745_south_dakota_mobridge,667.468740463257,5.921875,41.9214910595176,humid,12
+1745,2020,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,21,41,city_1745_south_dakota_mobridge,331.724996566773,8.171875,18.2548579366066,semiarid,12
+1745,2021,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,29,53,city_1745_south_dakota_mobridge,382.643746852875,8.97395833333333,20.1667854503848,dry subhumid,12
+1745,2022,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,26,43,city_1745_south_dakota_mobridge,411.400004863739,7.1484375,23.9905242016212,dry subhumid,12
+1745,2023,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,26,32,city_1745_south_dakota_mobridge,481.743751764298,8.36197916666667,26.2359382608836,dry subhumid,12
+1745,2024,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,40,64,city_1745_south_dakota_mobridge,450.399997234345,9.23697916666667,23.4132393309853,dry subhumid,12
+1745,2025,"Mobridge, SD",Mobridge,South Dakota,Walworth,100,20,50,city_1745_south_dakota_mobridge,,,,,

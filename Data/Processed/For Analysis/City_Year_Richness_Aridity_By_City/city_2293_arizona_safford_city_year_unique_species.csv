@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2293,"Safford, AZ",Safford,Arizona,Graham,2015,33864656.5115681,47,276,city_2293_arizona_safford,405.212495803833,18.041666666666668,14.450371321384832,semiarid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2016,33864656.5115681,67,319,city_2293_arizona_safford,299.46250081062317,18.083333333333332,10.663353144591923,semiarid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2017,33864656.5115681,71,1715,city_2293_arizona_safford,270.12499713897705,18.625,9.436681122759024,arid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2018,33864656.5115681,69,1034,city_2293_arizona_safford,317.95624589920044,18.2578125,11.251976631213063,semiarid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2019,33864656.5115681,60,587,city_2293_arizona_safford,291.2625014781952,17.3515625,10.648843241704936,semiarid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2020,33864656.5115681,104,1035,city_2293_arizona_safford,158.13125002384186,18.315104166666668,5.584696036894626,arid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2021,33864656.5115681,94,1745,city_2293_arizona_safford,355.96875488758087,18.057291666666668,12.687210124079362,semiarid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2022,33864656.5115681,84,773,city_2293_arizona_safford,258.25625455379486,17.651041666666668,9.339838175612847,arid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2023,33864656.5115681,81,879,city_2293_arizona_safford,211.0937501192093,17.861979166666668,7.576409014466432,arid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2024,33864656.5115681,80,1113,city_2293_arizona_safford,230.53749978542328,18.7734375,8.012163989284328,arid,12
-2293,"Safford, AZ",Safford,Arizona,Graham,2025,33864656.5115681,100,2654,city_2293_arizona_safford,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2293,2015,"Safford, AZ",Safford,Arizona,Graham,100,47,276,city_2293_arizona_safford,405.212495803833,18.0416666666667,14.4503713213848,semiarid,12
+2293,2016,"Safford, AZ",Safford,Arizona,Graham,100,67,319,city_2293_arizona_safford,299.462500810623,18.0833333333333,10.6633531445919,semiarid,12
+2293,2017,"Safford, AZ",Safford,Arizona,Graham,100,71,1715,city_2293_arizona_safford,270.124997138977,18.625,9.43668112275902,arid,12
+2293,2018,"Safford, AZ",Safford,Arizona,Graham,100,69,1034,city_2293_arizona_safford,317.9562458992,18.2578125,11.2519766312131,semiarid,12
+2293,2019,"Safford, AZ",Safford,Arizona,Graham,100,60,587,city_2293_arizona_safford,291.262501478195,17.3515625,10.6488432417049,semiarid,12
+2293,2020,"Safford, AZ",Safford,Arizona,Graham,100,104,1035,city_2293_arizona_safford,158.131250023842,18.3151041666667,5.58469603689463,arid,12
+2293,2021,"Safford, AZ",Safford,Arizona,Graham,100,94,1745,city_2293_arizona_safford,355.968754887581,18.0572916666667,12.6872101240794,semiarid,12
+2293,2022,"Safford, AZ",Safford,Arizona,Graham,100,84,773,city_2293_arizona_safford,258.256254553795,17.6510416666667,9.33983817561285,arid,12
+2293,2023,"Safford, AZ",Safford,Arizona,Graham,100,81,879,city_2293_arizona_safford,211.093750119209,17.8619791666667,7.57640901446643,arid,12
+2293,2024,"Safford, AZ",Safford,Arizona,Graham,100,80,1113,city_2293_arizona_safford,230.537499785423,18.7734375,8.01216398928433,arid,12
+2293,2025,"Safford, AZ",Safford,Arizona,Graham,100,100,2654,city_2293_arizona_safford,,,,,

@@ -1,148 +1,148 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24712246,L277926,Chaparral Park,2015-08-21,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,61,0.805,1,32.9392606,-103.3375199,26,26,city_1551_new_mexico_lovington
-S21988386,L277926,Chaparral Park,2015-02-20,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,50,0.966,1,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
-S25816305,L277926,Chaparral Park,2015-11-13,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,44,0.644,1,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
-S22466881,L277926,Chaparral Park,2015-03-22,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,7,0.322,1,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
-S22466993,L1654219,Lovington Sewage Ponds,2015-03-22,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,12,,1,32.9361317,-103.3368029,9,9,city_1551_new_mexico_lovington
-S22175729,L277926,Chaparral Park,2015-03-04,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9392606,-103.3375199,6,6,city_1551_new_mexico_lovington
-S22175521,L1654219,Lovington Sewage Ponds,2015-03-04,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,,1,32.9361317,-103.3368029,7,7,city_1551_new_mexico_lovington
-S31154425,L277926,Chaparral Park,2016-08-19,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,82,0.805,1,32.9392606,-103.3375199,22,22,city_1551_new_mexico_lovington
-S27966493,L277926,Chaparral Park,2016-03-04,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,29,0.805,1,32.9392606,-103.3375199,12,12,city_1551_new_mexico_lovington
-S29605214,L277926,Chaparral Park,2016-05-12,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,17,0.805,1,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
-S28963342,L277926,Chaparral Park,2016-04-15,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,67,0.644,1,32.9392606,-103.3375199,31,31,city_1551_new_mexico_lovington
-S31612676,L277926,Chaparral Park,2016-09-16,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,66,0.805,1,32.9392606,-103.3375199,28,28,city_1551_new_mexico_lovington
-S32035645,L277926,Chaparral Park,2016-10-14,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,43,0.805,1,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
-S28909672,L277926,Chaparral Park,2016-04-12,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,22,1.207,1,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
-S40055094,L277926,Chaparral Park,2017-10-21,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,64,1.77,1,32.9392606,-103.3375199,23,23,city_1551_new_mexico_lovington
-S40977099,L277926,Chaparral Park,2017-12-08,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,42,1.736,1,32.9392606,-103.3375199,18,18,city_1551_new_mexico_lovington
-S39335878,L277926,Chaparral Park,2017-09-22,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,88,0.805,1,32.9392606,-103.3375199,22,22,city_1551_new_mexico_lovington
-S39544584,L277926,Chaparral Park,2017-10-04,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9392606,-103.3375199,5,5,city_1551_new_mexico_lovington
-S39070495,L277926,Chaparral Park,2017-09-08,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,47,0.805,1,32.9392606,-103.3375199,20,20,city_1551_new_mexico_lovington
-S40018096,L277926,Chaparral Park,2017-10-19,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,9,0.853,1,32.9392606,-103.3375199,6,6,city_1551_new_mexico_lovington
-S36169238,L5732697,Lovington NM Water Tower Park,2017-04-22,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,7,,1,32.944756,-103.357743,7,7,city_1551_new_mexico_lovington
-S38593572,L277926,Chaparral Park,2017-08-11,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,49,0.644,1,32.9392606,-103.3375199,22,22,city_1551_new_mexico_lovington
-S39159500,L277926,Chaparral Park,2017-09-13,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,33,1.207,1,32.9392606,-103.3375199,12,12,city_1551_new_mexico_lovington
-S46371149,L277926,Chaparral Park,2018-06-07,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,18,1.577,1,32.9392606,-103.3375199,15,15,city_1551_new_mexico_lovington
-S48655771,L277926,Chaparral Park,2018-09-21,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,42,2.414,1,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
-S42860581,L3075577,Backyard,2018-02-16,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,30,,1,32.9332988,-103.366912,9,9,city_1551_new_mexico_lovington
-S49716018,L277926,Chaparral Park,2018-11-06,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,11,0.184,1,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
-S43114758,L3075577,Backyard,2018-02-22,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S46503611,L277926,Chaparral Park,2018-06-11,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,25,,1,32.9392606,-103.3375199,13,13,city_1551_new_mexico_lovington
-S43912482,L7111530,"Chaparral Park Pond, Lovington US-NM (32.9386,-103.3358)",2018-03-24,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,38,3.195,1,32.938591,-103.335842,7,7,city_1551_new_mexico_lovington
-S45002155,L277926,Chaparral Park,2018-04-27,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,71,1.931,1,32.9392606,-103.3375199,33,33,city_1551_new_mexico_lovington
-S42444000,L277926,Chaparral Park,2018-02-02,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,23,0.435,1,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
-S48348846,L5732697,Lovington NM Water Tower Park,2018-09-07,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,7,,1,32.944756,-103.357743,9,9,city_1551_new_mexico_lovington
-S43423568,L277926,Chaparral Park,2018-03-06,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,12,0.224,1,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
-S45802840,L277926,Chaparral Park,2018-05-18,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,55,2.141,1,32.9392606,-103.3375199,24,24,city_1551_new_mexico_lovington
-S44377778,L3075577,Backyard,2018-04-08,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,120,,1,32.9332988,-103.366912,13,13,city_1551_new_mexico_lovington
-S44466287,L3075577,Backyard,2018-04-11,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,,1,32.9332988,-103.366912,3,3,city_1551_new_mexico_lovington
-S43500886,L277926,Chaparral Park,2018-03-09,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,33,0.981,1,32.9392606,-103.3375199,20,20,city_1551_new_mexico_lovington
-S48200473,L277926,Chaparral Park,2018-08-31,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,68,1.77,1,32.9392606,-103.3375199,24,24,city_1551_new_mexico_lovington
-S47555818,L7770947,New Mexico - Lovington hotel,2018-07-30,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,14,,1,32.9599634,-103.3483591,6,6,city_1551_new_mexico_lovington
-S43114445,L3075577,Backyard,2018-02-21,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9332988,-103.366912,2,2,city_1551_new_mexico_lovington
-S50577619,L277926,Chaparral Park,2018-12-10,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,8,0.95,1,32.9392606,-103.3375199,2,2,city_1551_new_mexico_lovington
-S42484178,L3075577,Backyard,2018-02-04,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S42545458,L3075577,Backyard,2018-02-05,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S43422709,L197840,Lovington,2018-03-06,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,,1,32.94402,-103.3485,4,4,city_1551_new_mexico_lovington
-S55145912,L277926,Chaparral Park,2019-04-19,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,59,1.77,1,32.9392606,-103.3375199,26,26,city_1551_new_mexico_lovington
-S59962762,L277926,Chaparral Park,2019-09-20,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,106,2.253,1,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
-S60534452,L277926,Chaparral Park,2019-10-11,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,40,1.77,1,32.9392606,-103.3375199,22,22,city_1551_new_mexico_lovington
-S56658501,L277926,Chaparral Park,2019-05-23,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,14,0.161,1,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
-S53466656,L8781448,"616–1098 E Avenue K, Lovington US-NM (32.9368,-103.3360)",2019-03-05,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,0.116,1,32.936779,-103.336011,6,6,city_1551_new_mexico_lovington
-S56658597,L1654219,Lovington Sewage Ponds,2019-05-23,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,,1,32.9361317,-103.3368029,10,10,city_1551_new_mexico_lovington
-S55090385,L3075577,Backyard,2019-04-17,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,30,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S55090636,L3075577,Backyard,2019-04-10,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,30,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S55131627,L3075577,Backyard,2019-04-19,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,30,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S58369741,L3075577,Backyard,2019-07-22,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,,1,32.9332988,-103.366912,2,2,city_1551_new_mexico_lovington
-S58369995,L3075577,Backyard,2019-07-22,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,,1,32.9332988,-103.366912,2,2,city_1551_new_mexico_lovington
-S55905592,L3075577,Backyard,2019-05-05,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S70941872,L277926,Chaparral Park,2020-06-28,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,,1,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
-S64456018,L277926,Chaparral Park,2020-02-14,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,17,0.805,1,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
-S74526931,L277926,Chaparral Park,2020-10-07,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,66,1.899,1,32.9392606,-103.3375199,39,39,city_1551_new_mexico_lovington
-S71176912,L277926,Chaparral Park,2020-07-05,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,28,1.754,1,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
-S68568106,L3075577,Backyard,2020-04-30,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S74501499,L1654219,Lovington Sewage Ponds,2020-10-06,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,51,1.58,1,32.9361317,-103.3368029,21,21,city_1551_new_mexico_lovington
-S74499598,L277926,Chaparral Park,2020-10-06,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,23,0.36,1,32.9392606,-103.3375199,5,5,city_1551_new_mexico_lovington
-S76209643,L277926,Chaparral Park,2020-11-13,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,50,1.711,1,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
-S71177227,L1654219,Lovington Sewage Ponds,2020-07-05,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,11,0.325,1,32.9361317,-103.3368029,9,9,city_1551_new_mexico_lovington
-S76214671,L1654219,Lovington Sewage Ponds,2020-11-13,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,16,,1,32.9361317,-103.3368029,10,10,city_1551_new_mexico_lovington
-S67834932,L3075577,Backyard,2020-04-26,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S68971789,L3075577,Backyard,2020-05-11,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S84003226,L277926,Chaparral Park,2021-03-24,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,26,,1,32.9392606,-103.3375199,18,18,city_1551_new_mexico_lovington
-S88670748,L277926,Chaparral Park,2021-05-21,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,73,1.687,1,32.9392606,-103.3375199,32,32,city_1551_new_mexico_lovington
-S89101170,L277926,Chaparral Park,2021-05-27,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,35,1.416,1,32.9392606,-103.3375199,39,39,city_1551_new_mexico_lovington
-S86270427,L277926,Chaparral Park,2021-04-24,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,26,0.765,1,32.9392606,-103.3375199,16,16,city_1551_new_mexico_lovington
-S87751347,L277926,Chaparral Park,2021-05-10,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,38,1.494,1,32.9392606,-103.3375199,29,29,city_1551_new_mexico_lovington
-S97052197,L277926,Chaparral Park,2021-11-02,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,26,1.207,1,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
-S94664777,L277926,Chaparral Park,2021-09-14,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,27,0.821,1,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
-S91904237,L3075577,Backyard,2021-07-17,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S97825269,L277926,Chaparral Park,2021-11-20,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,22,0.998,1,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
-S87607264,L3075577,Backyard,2021-05-09,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,,1,32.9332988,-103.366912,2,2,city_1551_new_mexico_lovington
-S91417762,L15681805,"101 N Main Ave, Lovington US-NM 32.94838, -103.34864",2021-07-07,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,38,2.394,1,32.948384,-103.348639,2,2,city_1551_new_mexico_lovington
-S121463781,L277926,Chaparral Park,2022-10-28,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,21,0.383,1,32.9392606,-103.3375199,6,6,city_1551_new_mexico_lovington
-S109356527,L277926,Chaparral Park,2022-05-08,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,40,0.333,1,32.9392606,-103.3375199,23,23,city_1551_new_mexico_lovington
-S105338632,L277926,Chaparral Park,2022-03-21,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,14,1.333,1,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
-S120975888,L277926,Chaparral Park,2022-10-19,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,25,0.66,1,32.9392606,-103.3375199,9,9,city_1551_new_mexico_lovington
-S108301564,L277926,Chaparral Park,2022-04-28,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,56,1.014,1,32.9392606,-103.3375199,18,18,city_1551_new_mexico_lovington
-S121098925,L277926,Chaparral Park,2022-10-22,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,20,1.024,1,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
-S124710761,L277926,Chaparral Park,2022-12-27,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,12,2.317,1,32.9392606,-103.3375199,3,3,city_1551_new_mexico_lovington
-S106656199,L3075577,Backyard,2022-04-09,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
-S148481695,L1654219,Lovington Sewage Ponds,2023-08-30,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,7,,1,32.9361317,-103.3368029,8,8,city_1551_new_mexico_lovington
-S134671588,L277926,Chaparral Park,2023-04-22,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,27,0.451,1,32.9392606,-103.3375199,16,16,city_1551_new_mexico_lovington
-S128782485,L277926,Chaparral Park,2023-02-18,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,0.321,1,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
-S138406841,L23105863,Railroad Slough,2023-05-19,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,17,0.644,1,32.933591,-103.344356,9,9,city_1551_new_mexico_lovington
-S156631187,L277926,Chaparral Park,2023-12-18,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,0.241,1,32.9392606,-103.3375199,9,9,city_1551_new_mexico_lovington
-S137794617,L277926,Chaparral Park,2023-05-14,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,41,1.835,1,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
-S139335385,L277926,Chaparral Park,2023-05-26,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,6,6.479,1,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
-S133325552,L277926,Chaparral Park,2023-04-10,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,55,,1,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
-S148481724,L277926,Chaparral Park,2023-08-30,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,35,,1,32.9392606,-103.3375199,23,23,city_1551_new_mexico_lovington
-S149268777,L277926,Chaparral Park,2023-09-07,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,53,1.802,1,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
-S137795115,L24359377,Lea County Courthouse,2023-05-14,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9486164,-103.3478313,2,2,city_1551_new_mexico_lovington
-S190832672,L1654219,Lovington Sewage Ponds,2024-08-09,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,65,0.789,1,32.9361317,-103.3368029,7,7,city_1551_new_mexico_lovington
-S180025654,L277926,Chaparral Park,2024-06-07,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,23,0.869,1,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
-S173358359,L277926,Chaparral Park,2024-05-10,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,26,1.3,1,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
-S205741761,L277926,Chaparral Park,2024-12-17,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,37,1.03,1,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
-S158201770,L277926,Chaparral Park,2024-01-05,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,25,0.869,1,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
-S189857747,L277926,Chaparral Park,2024-08-01,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,28,1.32,1,32.9392606,-103.3375199,9,9,city_1551_new_mexico_lovington
-S189911453,L277926,Chaparral Park,2024-08-02,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,11,1.085,1,32.9392606,-103.3375199,12,12,city_1551_new_mexico_lovington
-S176468341,L277926,Chaparral Park,2024-05-22,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,30,0.724,1,32.9392606,-103.3375199,20,20,city_1551_new_mexico_lovington
-S198403053,L277926,Chaparral Park,2024-10-11,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,31,1.341,1,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
-S187807003,L277926,Chaparral Park,2024-07-19,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,25,0.692,1,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
-S163309989,L277926,Chaparral Park,2024-02-29,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,12,0.531,1,32.9392606,-103.3375199,13,13,city_1551_new_mexico_lovington
-S207371911,L277926,Chaparral Park,2024-12-31,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,17,0.966,1,32.9392606,-103.3375199,12,12,city_1551_new_mexico_lovington
-S167311996,L277926,Chaparral Park,2024-04-05,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,26,0.772,1,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
-S204573522,L277926,Chaparral Park,2024-12-05,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,40,1.947,1,32.9392606,-103.3375199,13,13,city_1551_new_mexico_lovington
-S163309904,L1654219,Lovington Sewage Ponds,2024-02-29,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,,1,32.9361317,-103.3368029,11,11,city_1551_new_mexico_lovington
-S159200938,L277926,Chaparral Park,2024-01-17,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,11,0.322,1,32.9392606,-103.3375199,6,6,city_1551_new_mexico_lovington
-S201628086,L277926,Chaparral Park,2024-11-06,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,18,0.386,1,32.9392606,-103.3375199,4,4,city_1551_new_mexico_lovington
-S194901623,L277926,Chaparral Park,2024-09-12,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,35,1.481,1,32.9392606,-103.3375199,9,9,city_1551_new_mexico_lovington
-S204572635,L1654219,Lovington Sewage Ponds,2024-12-05,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,23,1.059,1,32.9361317,-103.3368029,5,5,city_1551_new_mexico_lovington
-S172581943,L277926,Chaparral Park,2024-05-07,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,0.179,1,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
-S205726783,L277926,Chaparral Park,2024-12-17,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,12,0.271,1,32.9392606,-103.3375199,13,13,city_1551_new_mexico_lovington
-S176468765,L1654219,Lovington Sewage Ponds,2024-05-22,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,,1,32.9361317,-103.3368029,4,4,city_1551_new_mexico_lovington
-S191707833,L23105863,Railroad Slough,2024-08-16,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,17,0.547,1,32.933591,-103.344356,5,5,city_1551_new_mexico_lovington
-S201632087,L1654219,Lovington Sewage Ponds,2024-11-06,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,0.95,1,32.9361317,-103.3368029,10,10,city_1551_new_mexico_lovington
-S190832502,L23105863,Railroad Slough,2024-08-09,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,16,0.612,1,32.933591,-103.344356,5,5,city_1551_new_mexico_lovington
-S194901837,L23105863,Railroad Slough,2024-09-12,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,0.37,1,32.933591,-103.344356,4,4,city_1551_new_mexico_lovington
-S198403067,L1654219,Lovington Sewage Ponds,2024-10-11,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,19,0.925,1,32.9361317,-103.3368029,10,10,city_1551_new_mexico_lovington
-S190833044,L277926,Chaparral Park,2024-08-09,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,13,0.692,1,32.9392606,-103.3375199,3,3,city_1551_new_mexico_lovington
-S180025792,L1654219,Lovington Sewage Ponds,2024-06-07,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,13,,1,32.9361317,-103.3368029,3,3,city_1551_new_mexico_lovington
-S191708151,L1654219,Lovington Sewage Ponds,2024-08-16,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,28,3.637,1,32.9361317,-103.3368029,3,3,city_1551_new_mexico_lovington
-S194901705,L1654219,Lovington Sewage Ponds,2024-09-12,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,6,,1,32.9361317,-103.3368029,2,2,city_1551_new_mexico_lovington
-S196662927,L36891300,"203 N Commercial St, Lovington US-NM 32.94920, -103.34247",2024-09-27,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,12,4.828,1,32.949196,-103.342475,2,2,city_1551_new_mexico_lovington
-S187807216,L1654219,Lovington Sewage Ponds,2024-07-19,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,15,,1,32.9361317,-103.3368029,4,4,city_1551_new_mexico_lovington
-S191689708,L6294467,Lovington Comfort Inn,2024-08-16,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,7,0.199,1,32.959553,-103.347806,4,4,city_1551_new_mexico_lovington
-S278699513,L1654219,Lovington Sewage Ponds,2025-10-11,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,7,,1,32.9361317,-103.3368029,13,13,city_1551_new_mexico_lovington
-S239430745,L1654219,Lovington Sewage Ponds,2025-05-17,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,11,2.059,1,32.9361317,-103.3368029,18,18,city_1551_new_mexico_lovington
-S279564027,L1654219,Lovington Sewage Ponds,2025-10-15,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,6,,1,32.9361317,-103.3368029,6,6,city_1551_new_mexico_lovington
-S239417694,L277926,Chaparral Park,2025-05-17,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,5,0.279,1,32.9392606,-103.3375199,4,4,city_1551_new_mexico_lovington
-S240959795,L277926,Chaparral Park,2025-05-21,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,11,0.322,1,32.9392606,-103.3375199,15,15,city_1551_new_mexico_lovington
-S274989371,L277926,Chaparral Park,2025-09-22,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,58,1.098,1,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
-S207552477,L277926,Chaparral Park,2025-01-01,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,8,,1,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
-S240722484,L277926,Chaparral Park,2025-05-20,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,100,0.683,1,32.9392606,-103.3375199,28,28,city_1551_new_mexico_lovington
-S213464047,L277926,Chaparral Park,2025-02-13,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,21,0.864,1,32.9392606,-103.3375199,16,16,city_1551_new_mexico_lovington
-S223877356,L277926,Chaparral Park,2025-04-08,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,98,2.768,1,32.9392606,-103.3375199,25,25,city_1551_new_mexico_lovington
-S290199643,L277926,Chaparral Park,2025-12-25,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,37,1.268,1,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
-S279564087,L277926,Chaparral Park,2025-10-15,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,46,1.129,1,32.9392606,-103.3375199,11,11,city_1551_new_mexico_lovington
-S290191218,L1654219,Lovington Sewage Ponds,2025-12-25,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,13,0.759,1,32.9361317,-103.3368029,4,4,city_1551_new_mexico_lovington
-S207992483,L277926,Chaparral Park,2025-01-04,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,18360996.8244372,10,0.228,1,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21988386,L277926,Chaparral Park,2015-02-20,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,50,0.966,1,Traveling,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
+S22175521,L1654219,Lovington Sewage Ponds,2015-03-04,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,,1,Stationary,32.9361317,-103.3368029,7,7,city_1551_new_mexico_lovington
+S22175729,L277926,Chaparral Park,2015-03-04,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9392606,-103.3375199,6,6,city_1551_new_mexico_lovington
+S22466993,L1654219,Lovington Sewage Ponds,2015-03-22,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,12,,1,Stationary,32.9361317,-103.3368029,9,9,city_1551_new_mexico_lovington
+S22466881,L277926,Chaparral Park,2015-03-22,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,7,0.322,1,Traveling,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
+S24712246,L277926,Chaparral Park,2015-08-21,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,61,0.805,1,Traveling,32.9392606,-103.3375199,26,26,city_1551_new_mexico_lovington
+S25816305,L277926,Chaparral Park,2015-11-13,2015,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,44,0.644,1,Traveling,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
+S27966493,L277926,Chaparral Park,2016-03-04,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,29,0.805,1,Traveling,32.9392606,-103.3375199,12,12,city_1551_new_mexico_lovington
+S28909672,L277926,Chaparral Park,2016-04-12,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,22,1.207,1,Traveling,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
+S28963342,L277926,Chaparral Park,2016-04-15,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,67,0.644,1,Traveling,32.9392606,-103.3375199,31,31,city_1551_new_mexico_lovington
+S29605214,L277926,Chaparral Park,2016-05-12,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,17,0.805,1,Traveling,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
+S31154425,L277926,Chaparral Park,2016-08-19,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,82,0.805,1,Traveling,32.9392606,-103.3375199,22,22,city_1551_new_mexico_lovington
+S31612676,L277926,Chaparral Park,2016-09-16,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,66,0.805,1,Traveling,32.9392606,-103.3375199,28,28,city_1551_new_mexico_lovington
+S32035645,L277926,Chaparral Park,2016-10-14,2016,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,43,0.805,1,Traveling,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
+S36169238,L5732697,Lovington NM Water Tower Park,2017-04-22,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,7,,1,Stationary,32.944756,-103.357743,7,7,city_1551_new_mexico_lovington
+S38593572,L277926,Chaparral Park,2017-08-11,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,49,0.644,1,Traveling,32.9392606,-103.3375199,22,22,city_1551_new_mexico_lovington
+S39070495,L277926,Chaparral Park,2017-09-08,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,47,0.805,1,Traveling,32.9392606,-103.3375199,20,20,city_1551_new_mexico_lovington
+S39159500,L277926,Chaparral Park,2017-09-13,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,33,1.207,1,Traveling,32.9392606,-103.3375199,12,12,city_1551_new_mexico_lovington
+S39335878,L277926,Chaparral Park,2017-09-22,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,88,0.805,1,Traveling,32.9392606,-103.3375199,22,22,city_1551_new_mexico_lovington
+S39544584,L277926,Chaparral Park,2017-10-04,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9392606,-103.3375199,5,5,city_1551_new_mexico_lovington
+S40018096,L277926,Chaparral Park,2017-10-19,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,9,0.853,1,Traveling,32.9392606,-103.3375199,6,6,city_1551_new_mexico_lovington
+S40055094,L277926,Chaparral Park,2017-10-21,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,64,1.77,1,Traveling,32.9392606,-103.3375199,23,23,city_1551_new_mexico_lovington
+S40977099,L277926,Chaparral Park,2017-12-08,2017,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,42,1.736,1,Traveling,32.9392606,-103.3375199,18,18,city_1551_new_mexico_lovington
+S42444000,L277926,Chaparral Park,2018-02-02,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,23,0.435,1,Traveling,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
+S42484178,L3075577,Backyard,2018-02-04,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S42545458,L3075577,Backyard,2018-02-05,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S42860581,L3075577,Backyard,2018-02-16,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,30,,1,Stationary,32.9332988,-103.366912,9,9,city_1551_new_mexico_lovington
+S43114445,L3075577,Backyard,2018-02-21,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9332988,-103.366912,2,2,city_1551_new_mexico_lovington
+S43114758,L3075577,Backyard,2018-02-22,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S43422709,L197840,Lovington,2018-03-06,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,,1,Stationary,32.94402,-103.3485,4,4,city_1551_new_mexico_lovington
+S43423568,L277926,Chaparral Park,2018-03-06,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,12,0.224,1,Traveling,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
+S43500886,L277926,Chaparral Park,2018-03-09,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,33,0.981,1,Traveling,32.9392606,-103.3375199,20,20,city_1551_new_mexico_lovington
+S43912482,L7111530,"Chaparral Park Pond, Lovington US-NM (32.9386,-103.3358)",2018-03-24,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,38,3.195,1,Traveling,32.938591,-103.335842,7,7,city_1551_new_mexico_lovington
+S44377778,L3075577,Backyard,2018-04-08,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,120,,1,Stationary,32.9332988,-103.366912,13,13,city_1551_new_mexico_lovington
+S44466287,L3075577,Backyard,2018-04-11,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,,1,Stationary,32.9332988,-103.366912,3,3,city_1551_new_mexico_lovington
+S45002155,L277926,Chaparral Park,2018-04-27,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,71,1.931,1,Traveling,32.9392606,-103.3375199,33,33,city_1551_new_mexico_lovington
+S45802840,L277926,Chaparral Park,2018-05-18,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,55,2.141,1,Traveling,32.9392606,-103.3375199,24,24,city_1551_new_mexico_lovington
+S46371149,L277926,Chaparral Park,2018-06-07,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,18,1.577,1,Traveling,32.9392606,-103.3375199,15,15,city_1551_new_mexico_lovington
+S46503611,L277926,Chaparral Park,2018-06-11,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,25,,1,Stationary,32.9392606,-103.3375199,13,13,city_1551_new_mexico_lovington
+S47555818,L7770947,New Mexico - Lovington hotel,2018-07-30,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,14,,1,Stationary,32.9599634,-103.3483591,6,6,city_1551_new_mexico_lovington
+S48200473,L277926,Chaparral Park,2018-08-31,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,68,1.77,1,Traveling,32.9392606,-103.3375199,24,24,city_1551_new_mexico_lovington
+S48348846,L5732697,Lovington NM Water Tower Park,2018-09-07,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,7,,1,Stationary,32.944756,-103.357743,9,9,city_1551_new_mexico_lovington
+S48655771,L277926,Chaparral Park,2018-09-21,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,42,2.414,1,Traveling,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
+S49716018,L277926,Chaparral Park,2018-11-06,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,11,0.184,1,Traveling,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
+S50577619,L277926,Chaparral Park,2018-12-10,2018,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,8,0.95,1,Traveling,32.9392606,-103.3375199,2,2,city_1551_new_mexico_lovington
+S53466656,L8781448,"616–1098 E Avenue K, Lovington US-NM (32.9368,-103.3360)",2019-03-05,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,0.116,1,Traveling,32.936779,-103.336011,6,6,city_1551_new_mexico_lovington
+S55090636,L3075577,Backyard,2019-04-10,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,30,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S55090385,L3075577,Backyard,2019-04-17,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,30,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S55145912,L277926,Chaparral Park,2019-04-19,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,59,1.77,1,Traveling,32.9392606,-103.3375199,26,26,city_1551_new_mexico_lovington
+S55131627,L3075577,Backyard,2019-04-19,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,30,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S55905592,L3075577,Backyard,2019-05-05,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S56658597,L1654219,Lovington Sewage Ponds,2019-05-23,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,,1,Stationary,32.9361317,-103.3368029,10,10,city_1551_new_mexico_lovington
+S56658501,L277926,Chaparral Park,2019-05-23,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,14,0.161,1,Traveling,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
+S58369995,L3075577,Backyard,2019-07-22,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,,1,Stationary,32.9332988,-103.366912,2,2,city_1551_new_mexico_lovington
+S58369741,L3075577,Backyard,2019-07-22,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,,1,Stationary,32.9332988,-103.366912,2,2,city_1551_new_mexico_lovington
+S59962762,L277926,Chaparral Park,2019-09-20,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,106,2.253,1,Traveling,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
+S60534452,L277926,Chaparral Park,2019-10-11,2019,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,40,1.77,1,Traveling,32.9392606,-103.3375199,22,22,city_1551_new_mexico_lovington
+S64456018,L277926,Chaparral Park,2020-02-14,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,17,0.805,1,Traveling,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
+S67834932,L3075577,Backyard,2020-04-26,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S68568106,L3075577,Backyard,2020-04-30,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S68971789,L3075577,Backyard,2020-05-11,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S70941872,L277926,Chaparral Park,2020-06-28,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,,1,Stationary,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
+S71177227,L1654219,Lovington Sewage Ponds,2020-07-05,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,11,0.325,1,Traveling,32.9361317,-103.3368029,9,9,city_1551_new_mexico_lovington
+S71176912,L277926,Chaparral Park,2020-07-05,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,28,1.754,1,Traveling,32.9392606,-103.3375199,17,17,city_1551_new_mexico_lovington
+S74501499,L1654219,Lovington Sewage Ponds,2020-10-06,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,51,1.58,1,Traveling,32.9361317,-103.3368029,21,21,city_1551_new_mexico_lovington
+S74499598,L277926,Chaparral Park,2020-10-06,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,23,0.36,1,Traveling,32.9392606,-103.3375199,5,5,city_1551_new_mexico_lovington
+S74526931,L277926,Chaparral Park,2020-10-07,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,66,1.899,1,Traveling,32.9392606,-103.3375199,39,39,city_1551_new_mexico_lovington
+S76214671,L1654219,Lovington Sewage Ponds,2020-11-13,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,16,,1,Stationary,32.9361317,-103.3368029,10,10,city_1551_new_mexico_lovington
+S76209643,L277926,Chaparral Park,2020-11-13,2020,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,50,1.711,1,Traveling,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
+S84003226,L277926,Chaparral Park,2021-03-24,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,26,,1,Stationary,32.9392606,-103.3375199,18,18,city_1551_new_mexico_lovington
+S86270427,L277926,Chaparral Park,2021-04-24,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,26,0.765,1,Traveling,32.9392606,-103.3375199,16,16,city_1551_new_mexico_lovington
+S87607264,L3075577,Backyard,2021-05-09,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,,1,Stationary,32.9332988,-103.366912,2,2,city_1551_new_mexico_lovington
+S87751347,L277926,Chaparral Park,2021-05-10,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,38,1.494,1,Traveling,32.9392606,-103.3375199,29,29,city_1551_new_mexico_lovington
+S88670748,L277926,Chaparral Park,2021-05-21,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,73,1.687,1,Traveling,32.9392606,-103.3375199,32,32,city_1551_new_mexico_lovington
+S89101170,L277926,Chaparral Park,2021-05-27,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,35,1.416,1,Traveling,32.9392606,-103.3375199,39,39,city_1551_new_mexico_lovington
+S91417762,L15681805,"101 N Main Ave, Lovington US-NM 32.94838, -103.34864",2021-07-07,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,38,2.394,1,Traveling,32.948384,-103.348639,2,2,city_1551_new_mexico_lovington
+S91904237,L3075577,Backyard,2021-07-17,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S94664777,L277926,Chaparral Park,2021-09-14,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,27,0.821,1,Traveling,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
+S97052197,L277926,Chaparral Park,2021-11-02,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,26,1.207,1,Traveling,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
+S97825269,L277926,Chaparral Park,2021-11-20,2021,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,22,0.998,1,Traveling,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
+S105338632,L277926,Chaparral Park,2022-03-21,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,14,1.333,1,Traveling,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
+S106656199,L3075577,Backyard,2022-04-09,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9332988,-103.366912,1,1,city_1551_new_mexico_lovington
+S108301564,L277926,Chaparral Park,2022-04-28,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,56,1.014,1,Traveling,32.9392606,-103.3375199,18,18,city_1551_new_mexico_lovington
+S109356527,L277926,Chaparral Park,2022-05-08,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,40,0.333,1,Traveling,32.9392606,-103.3375199,23,23,city_1551_new_mexico_lovington
+S120975888,L277926,Chaparral Park,2022-10-19,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,25,0.66,1,Traveling,32.9392606,-103.3375199,9,9,city_1551_new_mexico_lovington
+S121098925,L277926,Chaparral Park,2022-10-22,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,20,1.024,1,Traveling,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
+S121463781,L277926,Chaparral Park,2022-10-28,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,21,0.383,1,Traveling,32.9392606,-103.3375199,6,6,city_1551_new_mexico_lovington
+S124710761,L277926,Chaparral Park,2022-12-27,2022,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,12,2.317,1,Traveling,32.9392606,-103.3375199,3,3,city_1551_new_mexico_lovington
+S128782485,L277926,Chaparral Park,2023-02-18,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,0.321,1,Traveling,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
+S133325552,L277926,Chaparral Park,2023-04-10,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,55,,1,Stationary,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
+S134671588,L277926,Chaparral Park,2023-04-22,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,27,0.451,1,Traveling,32.9392606,-103.3375199,16,16,city_1551_new_mexico_lovington
+S137795115,L24359377,Lea County Courthouse,2023-05-14,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9486164,-103.3478313,2,2,city_1551_new_mexico_lovington
+S137794617,L277926,Chaparral Park,2023-05-14,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,41,1.835,1,Traveling,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
+S138406841,L23105863,Railroad Slough,2023-05-19,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,17,0.644,1,Traveling,32.933591,-103.344356,9,9,city_1551_new_mexico_lovington
+S139335385,L277926,Chaparral Park,2023-05-26,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,6,6.479,1,Traveling,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
+S148481695,L1654219,Lovington Sewage Ponds,2023-08-30,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,7,,1,Stationary,32.9361317,-103.3368029,8,8,city_1551_new_mexico_lovington
+S148481724,L277926,Chaparral Park,2023-08-30,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,35,,1,Stationary,32.9392606,-103.3375199,23,23,city_1551_new_mexico_lovington
+S149268777,L277926,Chaparral Park,2023-09-07,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,53,1.802,1,Traveling,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
+S156631187,L277926,Chaparral Park,2023-12-18,2023,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,0.241,1,Traveling,32.9392606,-103.3375199,9,9,city_1551_new_mexico_lovington
+S158201770,L277926,Chaparral Park,2024-01-05,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,25,0.869,1,Traveling,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
+S159200938,L277926,Chaparral Park,2024-01-17,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,11,0.322,1,Traveling,32.9392606,-103.3375199,6,6,city_1551_new_mexico_lovington
+S163309904,L1654219,Lovington Sewage Ponds,2024-02-29,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,,1,Stationary,32.9361317,-103.3368029,11,11,city_1551_new_mexico_lovington
+S163309989,L277926,Chaparral Park,2024-02-29,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,12,0.531,1,Traveling,32.9392606,-103.3375199,13,13,city_1551_new_mexico_lovington
+S167311996,L277926,Chaparral Park,2024-04-05,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,26,0.772,1,Traveling,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
+S172581943,L277926,Chaparral Park,2024-05-07,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,0.179,1,Traveling,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
+S173358359,L277926,Chaparral Park,2024-05-10,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,26,1.3,1,Traveling,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
+S176468765,L1654219,Lovington Sewage Ponds,2024-05-22,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,,1,Stationary,32.9361317,-103.3368029,4,4,city_1551_new_mexico_lovington
+S176468341,L277926,Chaparral Park,2024-05-22,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,30,0.724,1,Traveling,32.9392606,-103.3375199,20,20,city_1551_new_mexico_lovington
+S180025792,L1654219,Lovington Sewage Ponds,2024-06-07,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,13,,1,Stationary,32.9361317,-103.3368029,3,3,city_1551_new_mexico_lovington
+S180025654,L277926,Chaparral Park,2024-06-07,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,23,0.869,1,Traveling,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
+S187807216,L1654219,Lovington Sewage Ponds,2024-07-19,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,,1,Stationary,32.9361317,-103.3368029,4,4,city_1551_new_mexico_lovington
+S187807003,L277926,Chaparral Park,2024-07-19,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,25,0.692,1,Traveling,32.9392606,-103.3375199,7,7,city_1551_new_mexico_lovington
+S189857747,L277926,Chaparral Park,2024-08-01,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,28,1.32,1,Traveling,32.9392606,-103.3375199,9,9,city_1551_new_mexico_lovington
+S189911453,L277926,Chaparral Park,2024-08-02,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,11,1.085,1,Traveling,32.9392606,-103.3375199,12,12,city_1551_new_mexico_lovington
+S190832672,L1654219,Lovington Sewage Ponds,2024-08-09,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,65,0.789,1,Traveling,32.9361317,-103.3368029,7,7,city_1551_new_mexico_lovington
+S190832502,L23105863,Railroad Slough,2024-08-09,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,16,0.612,1,Traveling,32.933591,-103.344356,5,5,city_1551_new_mexico_lovington
+S190833044,L277926,Chaparral Park,2024-08-09,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,13,0.692,1,Traveling,32.9392606,-103.3375199,3,3,city_1551_new_mexico_lovington
+S191708151,L1654219,Lovington Sewage Ponds,2024-08-16,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,28,3.637,1,Traveling,32.9361317,-103.3368029,3,3,city_1551_new_mexico_lovington
+S191707833,L23105863,Railroad Slough,2024-08-16,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,17,0.547,1,Traveling,32.933591,-103.344356,5,5,city_1551_new_mexico_lovington
+S191689708,L6294467,Lovington Comfort Inn,2024-08-16,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,7,0.199,1,Traveling,32.959553,-103.347806,4,4,city_1551_new_mexico_lovington
+S194901705,L1654219,Lovington Sewage Ponds,2024-09-12,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,6,,1,Stationary,32.9361317,-103.3368029,2,2,city_1551_new_mexico_lovington
+S194901837,L23105863,Railroad Slough,2024-09-12,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,0.37,1,Traveling,32.933591,-103.344356,4,4,city_1551_new_mexico_lovington
+S194901623,L277926,Chaparral Park,2024-09-12,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,35,1.481,1,Traveling,32.9392606,-103.3375199,9,9,city_1551_new_mexico_lovington
+S196662927,L36891300,"203 N Commercial St, Lovington US-NM 32.94920, -103.34247",2024-09-27,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,12,4.828,1,Traveling,32.949196,-103.342475,2,2,city_1551_new_mexico_lovington
+S198403067,L1654219,Lovington Sewage Ponds,2024-10-11,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,19,0.925,1,Traveling,32.9361317,-103.3368029,10,10,city_1551_new_mexico_lovington
+S198403053,L277926,Chaparral Park,2024-10-11,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,31,1.341,1,Traveling,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
+S201632087,L1654219,Lovington Sewage Ponds,2024-11-06,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,15,0.95,1,Traveling,32.9361317,-103.3368029,10,10,city_1551_new_mexico_lovington
+S201628086,L277926,Chaparral Park,2024-11-06,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,18,0.386,1,Traveling,32.9392606,-103.3375199,4,4,city_1551_new_mexico_lovington
+S204572635,L1654219,Lovington Sewage Ponds,2024-12-05,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,23,1.059,1,Traveling,32.9361317,-103.3368029,5,5,city_1551_new_mexico_lovington
+S204573522,L277926,Chaparral Park,2024-12-05,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,40,1.947,1,Traveling,32.9392606,-103.3375199,13,13,city_1551_new_mexico_lovington
+S205726783,L277926,Chaparral Park,2024-12-17,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,12,0.271,1,Traveling,32.9392606,-103.3375199,13,13,city_1551_new_mexico_lovington
+S205741761,L277926,Chaparral Park,2024-12-17,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,37,1.03,1,Traveling,32.9392606,-103.3375199,14,14,city_1551_new_mexico_lovington
+S207371911,L277926,Chaparral Park,2024-12-31,2024,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,17,0.966,1,Traveling,32.9392606,-103.3375199,12,12,city_1551_new_mexico_lovington
+S207552477,L277926,Chaparral Park,2025-01-01,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,8,,1,Stationary,32.9392606,-103.3375199,8,8,city_1551_new_mexico_lovington
+S207992483,L277926,Chaparral Park,2025-01-04,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,10,0.228,1,Traveling,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington
+S213464047,L277926,Chaparral Park,2025-02-13,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,21,0.864,1,Traveling,32.9392606,-103.3375199,16,16,city_1551_new_mexico_lovington
+S223877356,L277926,Chaparral Park,2025-04-08,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,98,2.768,1,Traveling,32.9392606,-103.3375199,25,25,city_1551_new_mexico_lovington
+S239430745,L1654219,Lovington Sewage Ponds,2025-05-17,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,11,2.059,1,Traveling,32.9361317,-103.3368029,18,18,city_1551_new_mexico_lovington
+S239417694,L277926,Chaparral Park,2025-05-17,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,5,0.279,1,Traveling,32.9392606,-103.3375199,4,4,city_1551_new_mexico_lovington
+S240722484,L277926,Chaparral Park,2025-05-20,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,100,0.683,1,Traveling,32.9392606,-103.3375199,28,28,city_1551_new_mexico_lovington
+S240959795,L277926,Chaparral Park,2025-05-21,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,11,0.322,1,Traveling,32.9392606,-103.3375199,15,15,city_1551_new_mexico_lovington
+S274989371,L277926,Chaparral Park,2025-09-22,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,58,1.098,1,Traveling,32.9392606,-103.3375199,19,19,city_1551_new_mexico_lovington
+S278699513,L1654219,Lovington Sewage Ponds,2025-10-11,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,7,,1,Stationary,32.9361317,-103.3368029,13,13,city_1551_new_mexico_lovington
+S279564027,L1654219,Lovington Sewage Ponds,2025-10-15,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,6,,1,Stationary,32.9361317,-103.3368029,6,6,city_1551_new_mexico_lovington
+S279564087,L277926,Chaparral Park,2025-10-15,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,46,1.129,1,Traveling,32.9392606,-103.3375199,11,11,city_1551_new_mexico_lovington
+S290191218,L1654219,Lovington Sewage Ponds,2025-12-25,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,13,0.759,1,Traveling,32.9361317,-103.3368029,4,4,city_1551_new_mexico_lovington
+S290199643,L277926,Chaparral Park,2025-12-25,2025,1551,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,37,1.268,1,Traveling,32.9392606,-103.3375199,10,10,city_1551_new_mexico_lovington

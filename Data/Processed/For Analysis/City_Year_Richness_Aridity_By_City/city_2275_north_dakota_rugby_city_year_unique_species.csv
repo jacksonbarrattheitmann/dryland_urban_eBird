@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2015,3842218.76114024,6,6,city_2275_north_dakota_rugby,450.4437589645386,5.4609375,29.134310837524477,dry subhumid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2016,3842218.76114024,68,112,city_2275_north_dakota_rugby,551.2062587738037,5.981770833333334,34.48968606308304,humid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2017,3842218.76114024,58,88,city_2275_north_dakota_rugby,404.056245803833,4.8046875,27.292453542422493,dry subhumid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2018,3842218.76114024,12,25,city_2275_north_dakota_rugby,460.0499973297119,3.3984375,34.33609309516217,humid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2019,3842218.76114024,65,81,city_2275_north_dakota_rugby,641.6750059127808,2.888020833333333,49.78848298050269,humid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2021,3842218.76114024,17,18,city_2275_north_dakota_rugby,400.9937424659729,5.833333333333333,25.32592057679829,dry subhumid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2022,3842218.76114024,23,37,city_2275_north_dakota_rugby,486.0000009536743,3.71875,35.425968178855534,humid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2023,3842218.76114024,26,39,city_2275_north_dakota_rugby,458.1187481880188,5.463541666666667,29.625732452711215,dry subhumid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2024,3842218.76114024,43,180,city_2275_north_dakota_rugby,490.4062423706054,6.28125,30.120920836582293,humid,12
-2275,"Rugby, ND",Rugby,North Dakota,Pierce,2025,3842218.76114024,35,125,city_2275_north_dakota_rugby,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2275,2015,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,6,6,city_2275_north_dakota_rugby,450.443758964539,5.4609375,29.1343108375245,dry subhumid,12
+2275,2016,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,68,112,city_2275_north_dakota_rugby,551.206258773804,5.98177083333333,34.489686063083,humid,12
+2275,2017,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,58,88,city_2275_north_dakota_rugby,404.056245803833,4.8046875,27.2924535424225,dry subhumid,12
+2275,2018,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,12,25,city_2275_north_dakota_rugby,460.049997329712,3.3984375,34.3360930951622,humid,12
+2275,2019,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,65,81,city_2275_north_dakota_rugby,641.675005912781,2.88802083333333,49.7884829805027,humid,12
+2275,2021,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,17,18,city_2275_north_dakota_rugby,400.993742465973,5.83333333333333,25.3259205767983,dry subhumid,12
+2275,2022,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,23,37,city_2275_north_dakota_rugby,486.000000953674,3.71875,35.4259681788555,humid,12
+2275,2023,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,26,39,city_2275_north_dakota_rugby,458.118748188019,5.46354166666667,29.6257324527112,dry subhumid,12
+2275,2024,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,43,180,city_2275_north_dakota_rugby,490.406242370605,6.28125,30.1209208365823,humid,12
+2275,2025,"Rugby, ND",Rugby,North Dakota,Pierce,99.9999999999996,35,125,city_2275_north_dakota_rugby,,,,,

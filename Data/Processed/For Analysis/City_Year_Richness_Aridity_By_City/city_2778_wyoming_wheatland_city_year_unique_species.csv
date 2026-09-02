@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2015,6890503.96823501,10,10,city_2778_wyoming_wheatland,420.39999198913574,10.013020833333332,21.00632360752481,dry subhumid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2016,6890503.96823501,20,21,city_2778_wyoming_wheatland,337.90000200271606,10.234375,16.699305118280947,semiarid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2017,6890503.96823501,10,11,city_2778_wyoming_wheatland,309.7562503814697,9.8046875,15.640552287506164,semiarid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2019,6890503.96823501,26,35,city_2778_wyoming_wheatland,448.60000562667847,8.393229166666666,24.38940990523072,dry subhumid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2020,6890503.96823501,28,49,city_2778_wyoming_wheatland,233.09374904632568,9.921875,11.700392108992034,semiarid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2021,6890503.96823501,34,53,city_2778_wyoming_wheatland,330.175005197525,10.151041666666668,16.385009304193538,semiarid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2022,6890503.96823501,24,47,city_2778_wyoming_wheatland,259.70624923706055,9.330729166666668,13.434891513812644,semiarid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2023,6890503.96823501,32,55,city_2778_wyoming_wheatland,417.4249973297119,9.236979166666668,21.6990928624082,dry subhumid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2024,6890503.96823501,20,37,city_2778_wyoming_wheatland,250.51250076293945,10.643229166666668,12.135334968205973,semiarid,12
-2778,"Wheatland, WY",Wheatland,Wyoming,Platte,2025,6890503.96823501,24,59,city_2778_wyoming_wheatland,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2778,2015,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,10,10,city_2778_wyoming_wheatland,420.399991989136,10.0130208333333,21.0063236075248,dry subhumid,12
+2778,2016,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,20,21,city_2778_wyoming_wheatland,337.900002002716,10.234375,16.6993051182809,semiarid,12
+2778,2017,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,10,11,city_2778_wyoming_wheatland,309.75625038147,9.8046875,15.6405522875062,semiarid,12
+2778,2019,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,26,35,city_2778_wyoming_wheatland,448.600005626679,8.39322916666667,24.3894099052307,dry subhumid,12
+2778,2020,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,28,49,city_2778_wyoming_wheatland,233.093749046326,9.921875,11.700392108992,semiarid,12
+2778,2021,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,34,53,city_2778_wyoming_wheatland,330.175005197525,10.1510416666667,16.3850093041935,semiarid,12
+2778,2022,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,24,47,city_2778_wyoming_wheatland,259.706249237061,9.33072916666667,13.4348915138126,semiarid,12
+2778,2023,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,32,55,city_2778_wyoming_wheatland,417.424997329712,9.23697916666667,21.6990928624082,dry subhumid,12
+2778,2024,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,20,37,city_2778_wyoming_wheatland,250.512500762939,10.6432291666667,12.135334968206,semiarid,12
+2778,2025,"Wheatland, WY",Wheatland,Wyoming,Platte,99.9999999999866,24,59,city_2778_wyoming_wheatland,,,,,

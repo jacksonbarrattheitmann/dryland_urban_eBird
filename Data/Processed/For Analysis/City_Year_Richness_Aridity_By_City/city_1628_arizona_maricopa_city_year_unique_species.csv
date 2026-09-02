@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2015,35595392.9640382,13,18,city_1628_arizona_maricopa,215.74999904632568,23.182291666666668,6.50196198664174,arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2016,35595392.9640382,31,85,city_1628_arizona_maricopa,178.9687477350235,23.096354166666668,5.407506423026911,arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2017,35595392.9640382,45,155,city_1628_arizona_maricopa,135.82500076293945,23.591145833333332,4.043476261180615,extremely arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2018,35595392.9640382,26,49,city_1628_arizona_maricopa,178.63750261068344,23.1875,5.382674278288014,arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2019,35595392.9640382,59,287,city_1628_arizona_maricopa,202.6437520980835,22.247395833333332,6.284034628576603,arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2020,35595392.9640382,59,222,city_1628_arizona_maricopa,106.01874995231628,23.270833333333332,3.186537255924347,extremely arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2021,35595392.9640382,62,230,city_1628_arizona_maricopa,191.88750022649765,23.140625,5.790099016735431,arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2022,35595392.9640382,62,288,city_1628_arizona_maricopa,148.46249985694885,22.6953125,4.54078852609067,extremely arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2023,35595392.9640382,53,137,city_1628_arizona_maricopa,139.96875101327896,22.638020833333332,4.288518342703194,extremely arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2024,35595392.9640382,52,203,city_1628_arizona_maricopa,149.3249989151955,23.651041666666668,4.437455470007356,extremely arid,12
-1628,"Maricopa, AZ",Maricopa,Arizona,Pinal,2025,35595392.9640382,54,169,city_1628_arizona_maricopa,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1628,2015,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,13,18,city_1628_arizona_maricopa,215.749999046326,23.1822916666667,6.50196198664174,arid,12
+1628,2016,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,31,85,city_1628_arizona_maricopa,178.968747735024,23.0963541666667,5.40750642302691,arid,12
+1628,2017,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,45,155,city_1628_arizona_maricopa,135.825000762939,23.5911458333333,4.04347626118062,extremely arid,12
+1628,2018,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,26,49,city_1628_arizona_maricopa,178.637502610683,23.1875,5.38267427828801,arid,12
+1628,2019,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,59,287,city_1628_arizona_maricopa,202.643752098084,22.2473958333333,6.2840346285766,arid,12
+1628,2020,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,59,222,city_1628_arizona_maricopa,106.018749952316,23.2708333333333,3.18653725592435,extremely arid,12
+1628,2021,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,62,230,city_1628_arizona_maricopa,191.887500226498,23.140625,5.79009901673543,arid,12
+1628,2022,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,62,288,city_1628_arizona_maricopa,148.462499856949,22.6953125,4.54078852609067,extremely arid,12
+1628,2023,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,53,137,city_1628_arizona_maricopa,139.968751013279,22.6380208333333,4.28851834270319,extremely arid,12
+1628,2024,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,52,203,city_1628_arizona_maricopa,149.324998915196,23.6510416666667,4.43745547000736,extremely arid,12
+1628,2025,"Maricopa, AZ",Maricopa,Arizona,Pinal,100,54,169,city_1628_arizona_maricopa,,,,,

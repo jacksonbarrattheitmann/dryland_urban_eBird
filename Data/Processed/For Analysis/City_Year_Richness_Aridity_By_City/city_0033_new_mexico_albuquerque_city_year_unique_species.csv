@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2015,659020597.686672,274,34965,city_0033_new_mexico_albuquerque,366.05625343322754,14.716145833333332,14.81041000088077,semiarid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2016,659020597.686672,251,34682,city_0033_new_mexico_albuquerque,214.21874952316284,14.825520833333332,8.628973021807882,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2017,659020597.686672,262,44467,city_0033_new_mexico_albuquerque,236.8375024795532,15.46875,9.29914120165117,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2018,659020597.686672,263,63336,city_0033_new_mexico_albuquerque,239.41250431537628,15,9.57650017261505,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2019,659020597.686672,272,78131,city_0033_new_mexico_albuquerque,221.36249923706055,14.252604166666668,9.127370311073902,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2020,659020597.686672,283,139821,city_0033_new_mexico_albuquerque,149.91874980926514,15.184895833333332,5.952724633104934,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2021,659020597.686672,279,130897,city_0033_new_mexico_albuquerque,188.7562484741211,14.986979166666666,7.554184410011725,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2022,659020597.686672,285,130775,city_0033_new_mexico_albuquerque,223.09375298023224,14.625,9.05964479107542,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2023,659020597.686672,287,133300,city_0033_new_mexico_albuquerque,162.94999885559082,15.046875,6.50580157626813,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2024,659020597.686672,269,130150,city_0033_new_mexico_albuquerque,236.35624814033508,15.7734375,9.170536454065743,arid,12
-33,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,2025,659020597.686672,276,171315,city_0033_new_mexico_albuquerque,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+33,2015,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,274,34968,city_0033_new_mexico_albuquerque,366.056253433228,14.7161458333333,14.8104100008808,semiarid,12
+33,2016,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,251,34681,city_0033_new_mexico_albuquerque,214.218749523163,14.8255208333333,8.62897302180788,arid,12
+33,2017,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,262,44467,city_0033_new_mexico_albuquerque,236.837502479553,15.46875,9.29914120165117,arid,12
+33,2018,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,263,63335,city_0033_new_mexico_albuquerque,239.412504315376,15,9.57650017261505,arid,12
+33,2019,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,272,78138,city_0033_new_mexico_albuquerque,221.362499237061,14.2526041666667,9.1273703110739,arid,12
+33,2020,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,283,139821,city_0033_new_mexico_albuquerque,149.918749809265,15.1848958333333,5.95272463310493,arid,12
+33,2021,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,279,130900,city_0033_new_mexico_albuquerque,188.756248474121,14.9869791666667,7.55418441001173,arid,12
+33,2022,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,285,130797,city_0033_new_mexico_albuquerque,223.093752980232,14.625,9.05964479107542,arid,12
+33,2023,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,287,133304,city_0033_new_mexico_albuquerque,162.949998855591,15.046875,6.50580157626813,arid,12
+33,2024,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,269,130154,city_0033_new_mexico_albuquerque,236.356248140335,15.7734375,9.17053645406574,arid,12
+33,2025,"Albuquerque, NM",Albuquerque,New Mexico,Bernalillo,99.9999999999977,276,171342,city_0033_new_mexico_albuquerque,,,,,

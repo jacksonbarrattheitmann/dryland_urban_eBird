@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2015,18151455.65133,36,92,city_2210_idaho_rexburg,371.2250022888184,7.4296875,21.298431328089983,dry subhumid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2016,18151455.65133,35,139,city_2210_idaho_rexburg,375.3687496185303,6.916666666666666,22.189285691735783,dry subhumid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2017,18151455.65133,45,99,city_2210_idaho_rexburg,399.40000438690186,6.432291666666666,24.305800583925567,dry subhumid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2018,18151455.65133,82,254,city_2210_idaho_rexburg,381.96875381469727,6.565104166666666,23.058638809124943,dry subhumid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2019,18151455.65133,67,262,city_2210_idaho_rexburg,400.03124618530273,5.395833333333334,25.98308500256364,dry subhumid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2020,18151455.65133,92,890,city_2210_idaho_rexburg,324.5749988555908,6.841145833333334,19.272738450679892,semiarid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2021,18151455.65133,91,908,city_2210_idaho_rexburg,328.818754196167,7.346354166666666,18.956072903667337,semiarid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2022,18151455.65133,102,1527,city_2210_idaho_rexburg,368.2062473297119,6.197916666666666,22.73170401521051,dry subhumid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2023,18151455.65133,86,1514,city_2210_idaho_rexburg,411.13124656677246,6.377604166666666,25.10325945009392,dry subhumid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2024,18151455.65133,109,1643,city_2210_idaho_rexburg,334.5250005722046,7.552083333333334,19.058991130523225,semiarid,12
-2210,"Rexburg, ID",Rexburg,Idaho,Madison,2025,18151455.65133,116,2311,city_2210_idaho_rexburg,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2210,2015,"Rexburg, ID",Rexburg,Idaho,Madison,100,36,92,city_2210_idaho_rexburg,371.225002288818,7.4296875,21.29843132809,dry subhumid,12
+2210,2016,"Rexburg, ID",Rexburg,Idaho,Madison,100,35,139,city_2210_idaho_rexburg,375.36874961853,6.91666666666667,22.1892856917358,dry subhumid,12
+2210,2017,"Rexburg, ID",Rexburg,Idaho,Madison,100,45,99,city_2210_idaho_rexburg,399.400004386902,6.43229166666667,24.3058005839256,dry subhumid,12
+2210,2018,"Rexburg, ID",Rexburg,Idaho,Madison,100,82,254,city_2210_idaho_rexburg,381.968753814697,6.56510416666667,23.0586388091249,dry subhumid,12
+2210,2019,"Rexburg, ID",Rexburg,Idaho,Madison,100,67,262,city_2210_idaho_rexburg,400.031246185303,5.39583333333333,25.9830850025636,dry subhumid,12
+2210,2020,"Rexburg, ID",Rexburg,Idaho,Madison,100,92,890,city_2210_idaho_rexburg,324.574998855591,6.84114583333333,19.2727384506799,semiarid,12
+2210,2021,"Rexburg, ID",Rexburg,Idaho,Madison,100,91,908,city_2210_idaho_rexburg,328.818754196167,7.34635416666667,18.9560729036673,semiarid,12
+2210,2022,"Rexburg, ID",Rexburg,Idaho,Madison,100,102,1527,city_2210_idaho_rexburg,368.206247329712,6.19791666666667,22.7317040152105,dry subhumid,12
+2210,2023,"Rexburg, ID",Rexburg,Idaho,Madison,100,86,1514,city_2210_idaho_rexburg,411.131246566772,6.37760416666667,25.1032594500939,dry subhumid,12
+2210,2024,"Rexburg, ID",Rexburg,Idaho,Madison,100,109,1643,city_2210_idaho_rexburg,334.525000572205,7.55208333333333,19.0589911305232,semiarid,12
+2210,2025,"Rexburg, ID",Rexburg,Idaho,Madison,100,116,2311,city_2210_idaho_rexburg,,,,,

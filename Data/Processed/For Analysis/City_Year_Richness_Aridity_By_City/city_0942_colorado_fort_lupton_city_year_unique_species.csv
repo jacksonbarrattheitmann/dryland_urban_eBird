@@ -1,6 +1,6 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,2016,13815346.6901589,4,4,city_0942_colorado_fort_lupton,422.24999809265137,11.153645833333332,19.961098026293012,semiarid,12
-942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,2017,13815346.6901589,3,4,city_0942_colorado_fort_lupton,429.0062522888184,10.7578125,20.66721877793329,dry subhumid,12
-942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,2018,13815346.6901589,6,10,city_0942_colorado_fort_lupton,338.0687446594238,10.338541666666668,16.622074001180376,semiarid,12
-942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,2020,13815346.6901589,18,19,city_0942_colorado_fort_lupton,238.2125024795532,10.765625,11.471482436938604,semiarid,12
-942,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,2023,13815346.6901589,4,5,city_0942_colorado_fort_lupton,453.1624975204468,10.328125,22.292390346893615,dry subhumid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+942,2016,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,100,4,4,city_0942_colorado_fort_lupton,422.249998092651,11.1536458333333,19.961098026293,semiarid,12
+942,2017,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,100,3,4,city_0942_colorado_fort_lupton,429.006252288818,10.7578125,20.6672187779333,dry subhumid,12
+942,2018,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,100,6,10,city_0942_colorado_fort_lupton,338.068744659424,10.3385416666667,16.6220740011804,semiarid,12
+942,2020,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,100,18,19,city_0942_colorado_fort_lupton,238.212502479553,10.765625,11.4714824369386,semiarid,12
+942,2023,"Fort Lupton, CO",Fort Lupton,Colorado,Weld,100,4,5,city_0942_colorado_fort_lupton,453.162497520447,10.328125,22.2923903468936,dry subhumid,12

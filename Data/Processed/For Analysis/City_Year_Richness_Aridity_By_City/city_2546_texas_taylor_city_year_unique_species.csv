@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2546,"Taylor, TX",Taylor,Texas,Williamson,2015,17003829.9994734,54,321,city_2546_texas_taylor,1255.962501525879,20.411458333333332,41.298989603180125,humid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2016,17003829.9994734,57,312,city_2546_texas_taylor,1179.381259918213,21.020833333333332,38.01900636405253,humid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2017,17003829.9994734,45,218,city_2546_texas_taylor,782.6187553405762,21.1953125,25.087703652289942,dry subhumid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2018,17003829.9994734,51,199,city_2546_texas_taylor,911.7125129699708,20.395833333333332,29.99465429921768,dry subhumid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2019,17003829.9994734,51,331,city_2546_texas_taylor,852.6812582015991,20.401041666666668,28.047764532243793,dry subhumid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2020,17003829.9994734,56,426,city_2546_texas_taylor,773.8125057220459,20.84375,25.08814608217373,dry subhumid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2021,17003829.9994734,62,391,city_2546_texas_taylor,900.2687644958496,20.3828125,29.630856738356584,dry subhumid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2022,17003829.9994734,43,182,city_2546_texas_taylor,521.2062473297119,20.697916666666668,16.97855437517894,semiarid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2023,17003829.9994734,88,516,city_2546_texas_taylor,709.3812580108643,21.458333333333332,22.549867804318865,dry subhumid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2024,17003829.9994734,62,543,city_2546_texas_taylor,780.1812496185303,21.830729166666668,24.510316604231008,dry subhumid,12
-2546,"Taylor, TX",Taylor,Texas,Williamson,2025,17003829.9994734,65,500,city_2546_texas_taylor,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2546,2015,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,54,321,city_2546_texas_taylor,1255.96250152588,20.4114583333333,41.2989896031801,humid,12
+2546,2016,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,57,312,city_2546_texas_taylor,1179.38125991821,21.0208333333333,38.0190063640525,humid,12
+2546,2017,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,45,218,city_2546_texas_taylor,782.618755340576,21.1953125,25.0877036522899,dry subhumid,12
+2546,2018,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,51,199,city_2546_texas_taylor,911.712512969971,20.3958333333333,29.9946542992177,dry subhumid,12
+2546,2019,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,51,331,city_2546_texas_taylor,852.681258201599,20.4010416666667,28.0477645322438,dry subhumid,12
+2546,2020,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,56,426,city_2546_texas_taylor,773.812505722046,20.84375,25.0881460821737,dry subhumid,12
+2546,2021,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,62,391,city_2546_texas_taylor,900.26876449585,20.3828125,29.6308567383566,dry subhumid,12
+2546,2022,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,43,182,city_2546_texas_taylor,521.206247329712,20.6979166666667,16.9785543751789,semiarid,12
+2546,2023,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,88,516,city_2546_texas_taylor,709.381258010864,21.4583333333333,22.5498678043189,dry subhumid,12
+2546,2024,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,62,543,city_2546_texas_taylor,780.18124961853,21.8307291666667,24.510316604231,dry subhumid,12
+2546,2025,"Taylor, TX",Taylor,Texas,Williamson,99.9999999999995,65,500,city_2546_texas_taylor,,,,,

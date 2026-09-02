@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1860,"Nephi, UT",Nephi,Utah,Juab,2015,8308653.13980662,12,18,city_1860_utah_nephi,477.5874977111816,8.328125,26.057629883645035,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2016,8308653.13980662,5,5,city_1860_utah_nephi,436.1562509536743,7.953125,24.294168895591955,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2017,8308653.13980662,17,26,city_1860_utah_nephi,380.7812533378601,8.130208333333332,21.002585648052037,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2018,8308653.13980662,17,20,city_1860_utah_nephi,362.8249981403351,8.072916666666668,20.0756194936439,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2019,8308653.13980662,4,5,city_1860_utah_nephi,503.193751335144,6.9921875,29.61324145788434,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2020,8308653.13980662,11,13,city_1860_utah_nephi,257.63124990463257,8.052083333333332,14.27155221629817,semiarid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2021,8308653.13980662,18,23,city_1860_utah_nephi,459.3437504768371,8.3984375,24.96645437835888,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2022,8308653.13980662,27,71,city_1860_utah_nephi,416.0374994277954,7.4921875,23.784189337542568,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2023,8308653.13980662,28,42,city_1860_utah_nephi,480.16250491142273,7.424479166666666,27.556778043040858,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2024,8308653.13980662,21,38,city_1860_utah_nephi,443.98124980926514,8.90625,23.48330577503551,dry subhumid,12
-1860,"Nephi, UT",Nephi,Utah,Juab,2025,8308653.13980662,14,19,city_1860_utah_nephi,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1860,2015,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,12,18,city_1860_utah_nephi,477.587497711182,8.328125,26.057629883645,dry subhumid,12
+1860,2016,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,5,5,city_1860_utah_nephi,436.156250953674,7.953125,24.294168895592,dry subhumid,12
+1860,2017,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,17,26,city_1860_utah_nephi,380.78125333786,8.13020833333333,21.002585648052,dry subhumid,12
+1860,2018,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,17,20,city_1860_utah_nephi,362.824998140335,8.07291666666667,20.0756194936439,dry subhumid,12
+1860,2019,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,4,5,city_1860_utah_nephi,503.193751335144,6.9921875,29.6132414578843,dry subhumid,12
+1860,2020,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,11,13,city_1860_utah_nephi,257.631249904633,8.05208333333333,14.2715522162982,semiarid,12
+1860,2021,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,18,23,city_1860_utah_nephi,459.343750476837,8.3984375,24.9664543783589,dry subhumid,12
+1860,2022,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,27,71,city_1860_utah_nephi,416.037499427795,7.4921875,23.7841893375426,dry subhumid,12
+1860,2023,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,28,42,city_1860_utah_nephi,480.162504911423,7.42447916666667,27.5567780430409,dry subhumid,12
+1860,2024,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,21,38,city_1860_utah_nephi,443.981249809265,8.90625,23.4833057750355,dry subhumid,12
+1860,2025,"Nephi, UT",Nephi,Utah,Juab,99.9999999999958,14,19,city_1860_utah_nephi,,,,,

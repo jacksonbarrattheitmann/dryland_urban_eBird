@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2015,17463620.942035,1,1,city_1065_kansas_great_bend,757.7374992370605,13.927083333333332,31.668611200155777,humid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2016,17463620.942035,11,11,city_1065_kansas_great_bend,722.4750089645386,14.53125,29.451210556516223,dry subhumid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2017,17463620.942035,15,31,city_1065_kansas_great_bend,734.249995470047,14.190104166666668,30.35332094525762,humid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2018,17463620.942035,40,99,city_1065_kansas_great_bend,704.081244468689,13.15625,30.4056677773253,humid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2019,17463620.942035,14,23,city_1065_kansas_great_bend,788.6625108718872,12.763020833333332,34.64665417856134,humid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2020,17463620.942035,21,24,city_1065_kansas_great_bend,590.6562519073486,13.921875,24.691051679993674,dry subhumid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2021,17463620.942035,49,150,city_1065_kansas_great_bend,608.8562412261963,14.114583333333332,25.248466158840102,dry subhumid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2022,17463620.942035,52,229,city_1065_kansas_great_bend,471.8624958992005,13.677083333333332,19.92908033714177,semiarid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2023,17463620.942035,46,150,city_1065_kansas_great_bend,615.7250080108643,14.098958333333332,25.549859852622852,dry subhumid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2024,17463620.942035,68,381,city_1065_kansas_great_bend,560.087498664856,14.739583333333332,22.639326261821548,dry subhumid,12
-1065,"Great Bend, KS",Great Bend,Kansas,Barton,2025,17463620.942035,73,370,city_1065_kansas_great_bend,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1065,2015,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,1,1,city_1065_kansas_great_bend,757.737499237061,13.9270833333333,31.6686112001558,humid,12
+1065,2016,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,11,11,city_1065_kansas_great_bend,722.475008964539,14.53125,29.4512105565162,dry subhumid,12
+1065,2017,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,15,31,city_1065_kansas_great_bend,734.249995470047,14.1901041666667,30.3533209452576,humid,12
+1065,2018,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,40,99,city_1065_kansas_great_bend,704.081244468689,13.15625,30.4056677773253,humid,12
+1065,2019,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,14,23,city_1065_kansas_great_bend,788.662510871887,12.7630208333333,34.6466541785613,humid,12
+1065,2020,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,21,24,city_1065_kansas_great_bend,590.656251907349,13.921875,24.6910516799937,dry subhumid,12
+1065,2021,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,49,150,city_1065_kansas_great_bend,608.856241226196,14.1145833333333,25.2484661588401,dry subhumid,12
+1065,2022,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,52,229,city_1065_kansas_great_bend,471.862495899201,13.6770833333333,19.9290803371418,semiarid,12
+1065,2023,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,46,150,city_1065_kansas_great_bend,615.725008010864,14.0989583333333,25.5498598526229,dry subhumid,12
+1065,2024,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,68,381,city_1065_kansas_great_bend,560.087498664856,14.7395833333333,22.6393262618216,dry subhumid,12
+1065,2025,"Great Bend, KS",Great Bend,Kansas,Barton,99.9999999999986,73,370,city_1065_kansas_great_bend,,,,,

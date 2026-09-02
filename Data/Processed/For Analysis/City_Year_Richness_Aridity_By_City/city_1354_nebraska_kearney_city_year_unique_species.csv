@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2015,34735772.0630345,37,103,city_1354_nebraska_kearney,736.149998664856,11.080729166666668,34.92051877545456,humid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2016,34735772.0630345,64,203,city_1354_nebraska_kearney,707.5124940872192,11.700520833333332,32.603479866733736,humid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2017,34735772.0630345,58,197,city_1354_nebraska_kearney,766.0249996185303,11.276041666666668,36.004112589169594,humid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2018,34735772.0630345,99,509,city_1354_nebraska_kearney,769.7562427520752,9.989583333333332,38.50786831901992,humid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2019,34735772.0630345,63,125,city_1354_nebraska_kearney,841.0499815940857,9.7109375,42.66920239557787,humid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2020,34735772.0630345,80,345,city_1354_nebraska_kearney,548.3812551498413,11.208333333333334,25.85687647071943,dry subhumid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2021,34735772.0630345,86,270,city_1354_nebraska_kearney,649.6750016212463,11.544270833333332,30.155348800019173,humid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2022,34735772.0630345,76,301,city_1354_nebraska_kearney,453.006249666214,10.700520833333332,21.88380926806217,dry subhumid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2023,34735772.0630345,89,545,city_1354_nebraska_kearney,633.7562456130981,11.299479166666668,29.754541914100702,dry subhumid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2024,34735772.0630345,121,1112,city_1354_nebraska_kearney,624.4999876022339,11.872395833333332,28.55196990585282,dry subhumid,12
-1354,"Kearney, NE",Kearney,Nebraska,Buffalo,2025,34735772.0630345,106,1166,city_1354_nebraska_kearney,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1354,2015,"Kearney, NE",Kearney,Nebraska,Buffalo,100,37,103,city_1354_nebraska_kearney,736.149998664856,11.0807291666667,34.9205187754546,humid,12
+1354,2016,"Kearney, NE",Kearney,Nebraska,Buffalo,100,64,203,city_1354_nebraska_kearney,707.512494087219,11.7005208333333,32.6034798667337,humid,12
+1354,2017,"Kearney, NE",Kearney,Nebraska,Buffalo,100,58,197,city_1354_nebraska_kearney,766.02499961853,11.2760416666667,36.0041125891696,humid,12
+1354,2018,"Kearney, NE",Kearney,Nebraska,Buffalo,100,99,509,city_1354_nebraska_kearney,769.756242752075,9.98958333333333,38.5078683190199,humid,12
+1354,2019,"Kearney, NE",Kearney,Nebraska,Buffalo,100,63,125,city_1354_nebraska_kearney,841.049981594086,9.7109375,42.6692023955779,humid,12
+1354,2020,"Kearney, NE",Kearney,Nebraska,Buffalo,100,80,345,city_1354_nebraska_kearney,548.381255149841,11.2083333333333,25.8568764707194,dry subhumid,12
+1354,2021,"Kearney, NE",Kearney,Nebraska,Buffalo,100,86,270,city_1354_nebraska_kearney,649.675001621246,11.5442708333333,30.1553488000192,humid,12
+1354,2022,"Kearney, NE",Kearney,Nebraska,Buffalo,100,76,301,city_1354_nebraska_kearney,453.006249666214,10.7005208333333,21.8838092680622,dry subhumid,12
+1354,2023,"Kearney, NE",Kearney,Nebraska,Buffalo,100,89,545,city_1354_nebraska_kearney,633.756245613098,11.2994791666667,29.7545419141007,dry subhumid,12
+1354,2024,"Kearney, NE",Kearney,Nebraska,Buffalo,100,121,1112,city_1354_nebraska_kearney,624.499987602234,11.8723958333333,28.5519699058528,dry subhumid,12
+1354,2025,"Kearney, NE",Kearney,Nebraska,Buffalo,100,106,1166,city_1354_nebraska_kearney,,,,,

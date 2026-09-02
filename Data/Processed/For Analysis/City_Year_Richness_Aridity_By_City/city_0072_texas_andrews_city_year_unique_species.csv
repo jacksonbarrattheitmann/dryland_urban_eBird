@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-72,"Andrews, TX",Andrews,Texas,Andrews,2015,16079075.5437937,22,29,city_0072_texas_andrews,584.0187492370605,18.0625,20.811358547423097,dry subhumid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2016,16079075.5437937,13,15,city_0072_texas_andrews,375.6187424659729,18.802083333333332,13.041374060301411,semiarid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2017,16079075.5437937,4,4,city_0072_texas_andrews,397.7375044822693,18.893229166666668,13.765768519260153,semiarid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2018,16079075.5437937,7,8,city_0072_texas_andrews,392.00000381469727,18.213541666666668,13.894037425220947,semiarid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2019,16079075.5437937,36,62,city_0072_texas_andrews,368.7750055789947,18.002604166666668,13.169311089215473,semiarid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2020,16079075.5437937,30,58,city_0072_texas_andrews,206.3937520980835,18.606770833333332,7.214856696009473,arid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2021,16079075.5437937,22,45,city_0072_texas_andrews,388.25624799728394,18.182291666666668,13.776603144608854,semiarid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2022,16079075.5437937,30,66,city_0072_texas_andrews,274.8999991416931,18.5703125,9.621875824483652,arid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2023,16079075.5437937,17,29,city_0072_texas_andrews,227.36249828338623,19.177083333333332,7.792502618780821,arid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2024,16079075.5437937,16,23,city_0072_texas_andrews,372.46250200271606,19.609375,12.579208510909671,semiarid,12
-72,"Andrews, TX",Andrews,Texas,Andrews,2025,16079075.5437937,28,102,city_0072_texas_andrews,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+72,2015,"Andrews, TX",Andrews,Texas,Andrews,100,22,29,city_0072_texas_andrews,584.018749237061,18.0625,20.8113585474231,dry subhumid,12
+72,2016,"Andrews, TX",Andrews,Texas,Andrews,100,13,15,city_0072_texas_andrews,375.618742465973,18.8020833333333,13.0413740603014,semiarid,12
+72,2017,"Andrews, TX",Andrews,Texas,Andrews,100,4,4,city_0072_texas_andrews,397.737504482269,18.8932291666667,13.7657685192602,semiarid,12
+72,2018,"Andrews, TX",Andrews,Texas,Andrews,100,7,8,city_0072_texas_andrews,392.000003814697,18.2135416666667,13.8940374252209,semiarid,12
+72,2019,"Andrews, TX",Andrews,Texas,Andrews,100,36,62,city_0072_texas_andrews,368.775005578995,18.0026041666667,13.1693110892155,semiarid,12
+72,2020,"Andrews, TX",Andrews,Texas,Andrews,100,30,58,city_0072_texas_andrews,206.393752098084,18.6067708333333,7.21485669600947,arid,12
+72,2021,"Andrews, TX",Andrews,Texas,Andrews,100,22,45,city_0072_texas_andrews,388.256247997284,18.1822916666667,13.7766031446089,semiarid,12
+72,2022,"Andrews, TX",Andrews,Texas,Andrews,100,30,66,city_0072_texas_andrews,274.899999141693,18.5703125,9.62187582448365,arid,12
+72,2023,"Andrews, TX",Andrews,Texas,Andrews,100,17,29,city_0072_texas_andrews,227.362498283386,19.1770833333333,7.79250261878082,arid,12
+72,2024,"Andrews, TX",Andrews,Texas,Andrews,100,16,23,city_0072_texas_andrews,372.462502002716,19.609375,12.5792085109097,semiarid,12
+72,2025,"Andrews, TX",Andrews,Texas,Andrews,100,28,102,city_0072_texas_andrews,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2115,"Polson, MT",Polson,Montana,Lake,2015,7818044.5781211,17,21,city_2115_montana_polson,424.9187431335449,8.833333333333332,22.56205715753336,dry subhumid,12
-2115,"Polson, MT",Polson,Montana,Lake,2016,7818044.5781211,34,51,city_2115_montana_polson,488.8562488555908,8.575520833333332,26.317229715483933,dry subhumid,12
-2115,"Polson, MT",Polson,Montana,Lake,2017,7818044.5781211,39,82,city_2115_montana_polson,523.71875166893,7.416666666666666,30.06997617237876,humid,12
-2115,"Polson, MT",Polson,Montana,Lake,2018,7818044.5781211,33,90,city_2115_montana_polson,486.7812523841858,7.286458333333334,28.15968679052837,dry subhumid,12
-2115,"Polson, MT",Polson,Montana,Lake,2019,7818044.5781211,74,423,city_2115_montana_polson,496.8125057220459,6.5,30.109848831639145,humid,12
-2115,"Polson, MT",Polson,Montana,Lake,2020,7818044.5781211,104,916,city_2115_montana_polson,475.5500087738037,7.875,26.60419629503797,dry subhumid,12
-2115,"Polson, MT",Polson,Montana,Lake,2021,7818044.5781211,46,262,city_2115_montana_polson,387.6124963760376,8.372395833333332,21.097547641162077,dry subhumid,12
-2115,"Polson, MT",Polson,Montana,Lake,2022,7818044.5781211,34,104,city_2115_montana_polson,488.90000438690186,7.25,28.3420292398204,dry subhumid,12
-2115,"Polson, MT",Polson,Montana,Lake,2023,7818044.5781211,31,58,city_2115_montana_polson,455.4687490463257,8.2734375,24.92518164939277,dry subhumid,12
-2115,"Polson, MT",Polson,Montana,Lake,2024,7818044.5781211,34,100,city_2115_montana_polson,454.1687459945678,8.5625,24.46700315122251,dry subhumid,12
-2115,"Polson, MT",Polson,Montana,Lake,2025,7818044.5781211,35,72,city_2115_montana_polson,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2115,2015,"Polson, MT",Polson,Montana,Lake,99.9999999999907,17,21,city_2115_montana_polson,424.918743133545,8.83333333333333,22.5620571575334,dry subhumid,12
+2115,2016,"Polson, MT",Polson,Montana,Lake,99.9999999999907,34,51,city_2115_montana_polson,488.856248855591,8.57552083333333,26.3172297154839,dry subhumid,12
+2115,2017,"Polson, MT",Polson,Montana,Lake,99.9999999999907,39,82,city_2115_montana_polson,523.71875166893,7.41666666666667,30.0699761723788,humid,12
+2115,2018,"Polson, MT",Polson,Montana,Lake,99.9999999999907,33,90,city_2115_montana_polson,486.781252384186,7.28645833333333,28.1596867905284,dry subhumid,12
+2115,2019,"Polson, MT",Polson,Montana,Lake,99.9999999999907,74,423,city_2115_montana_polson,496.812505722046,6.5,30.1098488316391,humid,12
+2115,2020,"Polson, MT",Polson,Montana,Lake,99.9999999999907,104,916,city_2115_montana_polson,475.550008773804,7.875,26.604196295038,dry subhumid,12
+2115,2021,"Polson, MT",Polson,Montana,Lake,99.9999999999907,46,262,city_2115_montana_polson,387.612496376038,8.37239583333333,21.0975476411621,dry subhumid,12
+2115,2022,"Polson, MT",Polson,Montana,Lake,99.9999999999907,34,104,city_2115_montana_polson,488.900004386902,7.25,28.3420292398204,dry subhumid,12
+2115,2023,"Polson, MT",Polson,Montana,Lake,99.9999999999907,31,58,city_2115_montana_polson,455.468749046326,8.2734375,24.9251816493928,dry subhumid,12
+2115,2024,"Polson, MT",Polson,Montana,Lake,99.9999999999907,34,100,city_2115_montana_polson,454.168745994568,8.5625,24.4670031512225,dry subhumid,12
+2115,2025,"Polson, MT",Polson,Montana,Lake,99.9999999999907,35,72,city_2115_montana_polson,,,,,

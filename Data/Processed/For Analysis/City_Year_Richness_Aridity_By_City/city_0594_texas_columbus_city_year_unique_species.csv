@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-594,"Columbus, TX",Columbus,Texas,Colorado,2015,7379576.87619832,22,29,city_0594_texas_columbus,1409.9812507629397,20.794270833333332,45.78712898883457,humid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2016,7379576.87619832,27,33,city_0594_texas_columbus,1377.425006866455,21.513020833333332,43.70971015921979,humid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2017,7379576.87619832,16,20,city_0594_texas_columbus,979.9562644958496,21.6171875,30.994416074986106,humid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2018,7379576.87619832,10,11,city_0594_texas_columbus,995.1062469482422,21.020833333333332,32.07864328644434,humid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2019,7379576.87619832,25,42,city_0594_texas_columbus,1069.2187519073486,20.921875,34.5780697938708,humid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2020,7379576.87619832,21,29,city_0594_texas_columbus,870.943754196167,21.458333333333332,27.68562927246094,dry subhumid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2021,7379576.87619832,13,14,city_0594_texas_columbus,1058.693759918213,20.807291666666668,34.365038360827874,humid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2022,7379576.87619832,20,24,city_0594_texas_columbus,669.8437538146973,21.013020833333332,21.598790953467443,dry subhumid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2024,7379576.87619832,8,11,city_0594_texas_columbus,962.3312435150146,22.138020833333332,29.943699660462336,dry subhumid,12
-594,"Columbus, TX",Columbus,Texas,Colorado,2025,7379576.87619832,27,37,city_0594_texas_columbus,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+594,2015,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,22,29,city_0594_texas_columbus,1409.98125076294,20.7942708333333,45.7871289888346,humid,12
+594,2016,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,27,33,city_0594_texas_columbus,1377.42500686646,21.5130208333333,43.7097101592198,humid,12
+594,2017,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,16,20,city_0594_texas_columbus,979.95626449585,21.6171875,30.9944160749861,humid,12
+594,2018,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,10,11,city_0594_texas_columbus,995.106246948242,21.0208333333333,32.0786432864443,humid,12
+594,2019,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,25,42,city_0594_texas_columbus,1069.21875190735,20.921875,34.5780697938708,humid,12
+594,2020,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,21,29,city_0594_texas_columbus,870.943754196167,21.4583333333333,27.6856292724609,dry subhumid,12
+594,2021,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,13,14,city_0594_texas_columbus,1058.69375991821,20.8072916666667,34.3650383608279,humid,12
+594,2022,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,20,24,city_0594_texas_columbus,669.843753814697,21.0130208333333,21.5987909534674,dry subhumid,12
+594,2024,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,8,11,city_0594_texas_columbus,962.331243515015,22.1380208333333,29.9436996604623,dry subhumid,12
+594,2025,"Columbus, TX",Columbus,Texas,Colorado,99.9999999999992,27,37,city_0594_texas_columbus,,,,,

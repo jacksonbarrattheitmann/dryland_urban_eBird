@@ -1,11 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2475,"Star, ID",Star,Idaho,Ada,2016,8555501.69710602,9,9,city_2475_idaho_star,318.48124980926514,11.8125,14.600859590109575,semiarid,12
-2475,"Star, ID",Star,Idaho,Ada,2017,8555501.69710602,9,28,city_2475_idaho_star,439.2875053286552,11.052083333333332,20.86669990675453,dry subhumid,12
-2475,"Star, ID",Star,Idaho,Ada,2018,8555501.69710602,23,40,city_2475_idaho_star,326.1374976634979,11.419270833333332,15.226358553529874,semiarid,12
-2475,"Star, ID",Star,Idaho,Ada,2019,8555501.69710602,35,66,city_2475_idaho_star,376.3125026226044,10.544270833333334,18.317150590325777,semiarid,12
-2475,"Star, ID",Star,Idaho,Ada,2020,8555501.69710602,49,99,city_2475_idaho_star,386.67499446868896,11.776041666666668,17.756900009085932,semiarid,12
-2475,"Star, ID",Star,Idaho,Ada,2021,8555501.69710602,55,174,city_2475_idaho_star,319.63749599456787,12.2265625,14.380878554412895,semiarid,12
-2475,"Star, ID",Star,Idaho,Ada,2022,8555501.69710602,55,175,city_2475_idaho_star,362.2937536239624,11.119791666666668,17.15422951807664,semiarid,12
-2475,"Star, ID",Star,Idaho,Ada,2023,8555501.69710602,78,445,city_2475_idaho_star,349.14999890327454,11.721354166666668,16.07404382914008,semiarid,12
-2475,"Star, ID",Star,Idaho,Ada,2024,8555501.69710602,79,391,city_2475_idaho_star,414.2312479019165,12.309895833333332,18.56715293502229,semiarid,12
-2475,"Star, ID",Star,Idaho,Ada,2025,8555501.69710602,69,296,city_2475_idaho_star,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2475,2015,"Star, ID",Star,Idaho,Ada,100,0,0,city_2475_idaho_star,312.018746376038,12.296875,13.9938330540059,semiarid,12
+2475,2016,"Star, ID",Star,Idaho,Ada,100,9,9,city_2475_idaho_star,318.481249809265,11.8125,14.6008595901096,semiarid,12
+2475,2017,"Star, ID",Star,Idaho,Ada,100,9,28,city_2475_idaho_star,439.287505328655,11.0520833333333,20.8666999067545,dry subhumid,12
+2475,2018,"Star, ID",Star,Idaho,Ada,100,23,40,city_2475_idaho_star,326.137497663498,11.4192708333333,15.2263585535299,semiarid,12
+2475,2019,"Star, ID",Star,Idaho,Ada,100,35,66,city_2475_idaho_star,376.312502622604,10.5442708333333,18.3171505903258,semiarid,12
+2475,2020,"Star, ID",Star,Idaho,Ada,100,49,99,city_2475_idaho_star,386.674994468689,11.7760416666667,17.7569000090859,semiarid,12
+2475,2021,"Star, ID",Star,Idaho,Ada,100,55,174,city_2475_idaho_star,319.637495994568,12.2265625,14.3808785544129,semiarid,12
+2475,2022,"Star, ID",Star,Idaho,Ada,100,55,175,city_2475_idaho_star,362.293753623962,11.1197916666667,17.1542295180766,semiarid,12
+2475,2023,"Star, ID",Star,Idaho,Ada,100,78,445,city_2475_idaho_star,349.149998903275,11.7213541666667,16.0740438291401,semiarid,12
+2475,2024,"Star, ID",Star,Idaho,Ada,100,79,391,city_2475_idaho_star,414.231247901917,12.3098958333333,18.5671529350223,semiarid,12
+2475,2025,"Star, ID",Star,Idaho,Ada,100,69,296,city_2475_idaho_star,,,,,

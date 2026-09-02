@@ -1,10 +1,10 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S38739376,L6199597,Cozzad City Park,2017-08-20,2017,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,8,0.338,1,40.8609274,-99.9843809,2,2,city_0639_nebraska_cozad
-S58719380,L9739488,Casey's General Store,2019-08-03,2019,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,10,,1,40.8485,-99.985,4,4,city_0639_nebraska_cozad
-S73906475,L12342178,Cozad,2020-09-14,2020,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,5,1.609,1,40.859045,-99.9816004,6,6,city_0639_nebraska_cozad
-S75227892,L12567412,Cozad,2020-10-22,2020,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,5,0.022,1,40.860123,-99.970871,4,4,city_0639_nebraska_cozad
-S120014606,L21119299,"207 East 9th Street, Cozad, Nebraska, US (40.861, -99.984)",2022-10-05,2022,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,6,,1,40.8607434,-99.9837712,3,3,city_0639_nebraska_cozad
-S136613679,L24137887,"700 US-30, Cozad US-NE 40.86099, -99.99454",2023-05-08,2023,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,5,3.844,1,40.860991,-99.994535,11,11,city_0639_nebraska_cozad
-S187203939,L34770180,"Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)",2024-07-15,2024,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,10,,1,40.8494441,-99.9849513,10,10,city_0639_nebraska_cozad
-S187252254,L34770180,"Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)",2024-07-16,2024,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,45,,1,40.8494441,-99.9849513,14,14,city_0639_nebraska_cozad
-S267955352,L51682399,Runza Cozad,2025-08-17,2025,639,"Cozad, NE",Cozad,Nebraska,Dawson,4686181.99735306,6,,1,40.8520979,-99.9864716,5,5,city_0639_nebraska_cozad
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S38739376,L6199597,Cozzad City Park,2017-08-20,2017,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,8,0.338,1,Traveling,40.8609274,-99.9843809,2,2,city_0639_nebraska_cozad
+S58719380,L9739488,Casey's General Store,2019-08-03,2019,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,10,,1,Stationary,40.8485,-99.985,4,4,city_0639_nebraska_cozad
+S73906475,L12342178,Cozad,2020-09-14,2020,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,5,1.609,1,Traveling,40.859045,-99.9816004,6,6,city_0639_nebraska_cozad
+S75227892,L12567412,Cozad,2020-10-22,2020,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,5,0.022,1,Traveling,40.860123,-99.970871,4,4,city_0639_nebraska_cozad
+S120014606,L21119299,"207 East 9th Street, Cozad, Nebraska, US (40.861, -99.984)",2022-10-05,2022,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,6,,1,Stationary,40.8607434,-99.9837712,3,3,city_0639_nebraska_cozad
+S136613679,L24137887,"700 US-30, Cozad US-NE 40.86099, -99.99454",2023-05-08,2023,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,5,3.844,1,Traveling,40.860991,-99.994535,11,11,city_0639_nebraska_cozad
+S187203939,L34770180,"Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)",2024-07-15,2024,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,10,,1,Stationary,40.8494441,-99.9849513,10,10,city_0639_nebraska_cozad
+S187252254,L34770180,"Circle Motel, 440 South Meridian Avenue, Cozad, Nebraska, US (40.849, -99.985)",2024-07-16,2024,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,45,,1,Stationary,40.8494441,-99.9849513,14,14,city_0639_nebraska_cozad
+S267955352,L51682399,Runza Cozad,2025-08-17,2025,639,"Cozad, NE",Cozad,Nebraska,Dawson,99.9999999999999,6,,1,Stationary,40.8520979,-99.9864716,5,5,city_0639_nebraska_cozad

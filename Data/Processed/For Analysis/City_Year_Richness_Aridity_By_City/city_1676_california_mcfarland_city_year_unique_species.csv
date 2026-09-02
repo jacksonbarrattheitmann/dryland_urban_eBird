@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1676,"McFarland, CA",McFarland,California,Kern,2015,9938519.48264377,17,23,city_1676_california_mcfarland,112.3937514424324,18.979166666666668,3.878432831945906,extremely arid,12
-1676,"McFarland, CA",McFarland,California,Kern,2016,9938519.48264377,10,10,city_1676_california_mcfarland,180.7499982714653,18.776041666666668,6.281266908257256,arid,12
-1676,"McFarland, CA",McFarland,California,Kern,2017,9938519.48264377,12,12,city_1676_california_mcfarland,207.71250218153,18.8046875,7.211065982976902,arid,12
-1676,"McFarland, CA",McFarland,California,Kern,2018,9938519.48264377,11,16,city_1676_california_mcfarland,141.78750175237656,18.6953125,4.941138095372774,extremely arid,12
-1676,"McFarland, CA",McFarland,California,Kern,2020,9938519.48264377,1,1,city_1676_california_mcfarland,127.22499972581863,18.872395833333332,4.406458004393826,extremely arid,12
-1676,"McFarland, CA",McFarland,California,Kern,2022,9938519.48264377,3,3,city_1676_california_mcfarland,111.45624935626984,18.505208333333332,3.910031038992108,extremely arid,12
-1676,"McFarland, CA",McFarland,California,Kern,2023,9938519.48264377,16,16,city_1676_california_mcfarland,244.0000038743019,17.955729166666668,8.728085839565153,arid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1676,2015,"McFarland, CA",McFarland,California,Kern,99.9999999999817,17,23,city_1676_california_mcfarland,112.393751442432,18.9791666666667,3.87843283194591,extremely arid,12
+1676,2016,"McFarland, CA",McFarland,California,Kern,99.9999999999817,10,10,city_1676_california_mcfarland,180.749998271465,18.7760416666667,6.28126690825726,arid,12
+1676,2017,"McFarland, CA",McFarland,California,Kern,99.9999999999817,12,12,city_1676_california_mcfarland,207.71250218153,18.8046875,7.2110659829769,arid,12
+1676,2018,"McFarland, CA",McFarland,California,Kern,99.9999999999817,11,16,city_1676_california_mcfarland,141.787501752377,18.6953125,4.94113809537277,extremely arid,12
+1676,2020,"McFarland, CA",McFarland,California,Kern,99.9999999999817,1,1,city_1676_california_mcfarland,127.224999725819,18.8723958333333,4.40645800439383,extremely arid,12
+1676,2022,"McFarland, CA",McFarland,California,Kern,99.9999999999817,3,3,city_1676_california_mcfarland,111.45624935627,18.5052083333333,3.91003103899211,extremely arid,12
+1676,2023,"McFarland, CA",McFarland,California,Kern,99.9999999999817,16,16,city_1676_california_mcfarland,244.000003874302,17.9557291666667,8.72808583956515,arid,12

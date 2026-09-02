@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2015,10622379.3644336,30,154,city_1019_montana_glasgow,283.918749332428,7.755208333333334,15.990730381879192,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2016,10622379.3644336,21,32,city_1019_montana_glasgow,334.66249799728394,8.052083333333332,18.538718873479088,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2017,10622379.3644336,22,103,city_1019_montana_glasgow,256.07500171661377,6.8671875,15.18184354781221,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2018,10622379.3644336,19,35,city_1019_montana_glasgow,288.2124967575073,5.583333333333333,18.49491957802186,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2019,10622379.3644336,18,24,city_1019_montana_glasgow,320.3875012397766,5.221354166666667,21.048554401381388,dry subhumid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2020,10622379.3644336,65,211,city_1019_montana_glasgow,266.7749948501587,7.216145833333333,15.495628198829367,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2021,10622379.3644336,44,157,city_1019_montana_glasgow,223.5812497138977,7.809895833333333,12.553765154282312,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2022,10622379.3644336,36,75,city_1019_montana_glasgow,293.46249628067017,6.419270833333334,17.873052905912346,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2023,10622379.3644336,23,31,city_1019_montana_glasgow,323.08749771118164,7.390625,18.578256831550423,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2024,10622379.3644336,37,53,city_1019_montana_glasgow,292.4437494277954,7.908854166666667,16.329562277195496,semiarid,12
-1019,"Glasgow, MT",Glasgow,Montana,Valley,2025,10622379.3644336,42,107,city_1019_montana_glasgow,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1019,2015,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,30,154,city_1019_montana_glasgow,283.918749332428,7.75520833333333,15.9907303818792,semiarid,12
+1019,2016,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,21,32,city_1019_montana_glasgow,334.662497997284,8.05208333333333,18.5387188734791,semiarid,12
+1019,2017,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,22,103,city_1019_montana_glasgow,256.075001716614,6.8671875,15.1818435478122,semiarid,12
+1019,2018,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,19,35,city_1019_montana_glasgow,288.212496757507,5.58333333333333,18.4949195780219,semiarid,12
+1019,2019,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,18,24,city_1019_montana_glasgow,320.387501239777,5.22135416666667,21.0485544013814,dry subhumid,12
+1019,2020,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,65,211,city_1019_montana_glasgow,266.774994850159,7.21614583333333,15.4956281988294,semiarid,12
+1019,2021,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,44,157,city_1019_montana_glasgow,223.581249713898,7.80989583333333,12.5537651542823,semiarid,12
+1019,2022,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,36,75,city_1019_montana_glasgow,293.46249628067,6.41927083333333,17.8730529059123,semiarid,12
+1019,2023,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,23,31,city_1019_montana_glasgow,323.087497711182,7.390625,18.5782568315504,semiarid,12
+1019,2024,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,37,53,city_1019_montana_glasgow,292.443749427795,7.90885416666667,16.3295622771955,semiarid,12
+1019,2025,"Glasgow, MT",Glasgow,Montana,Valley,99.9999999999989,42,107,city_1019_montana_glasgow,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2015,2646566.16282222,102,959,city_0672_montana_cut_bank,261.1562476158142,8.598958333333332,14.041444845207598,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2016,2646566.16282222,118,1834,city_0672_montana_cut_bank,346.9375014305115,8.671875,18.58075321468848,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2017,2646566.16282222,102,1310,city_0672_montana_cut_bank,272.9187455177307,7.434895833333334,15.65359197592361,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2018,2646566.16282222,93,1286,city_0672_montana_cut_bank,306.15624952316284,6.588541666666666,18.45588694142771,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2019,2646566.16282222,80,501,city_0672_montana_cut_bank,349.5750045776367,6.083333333333334,21.735233445241654,dry subhumid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2020,2646566.16282222,85,899,city_0672_montana_cut_bank,314.91875648498535,7.606770833333334,17.88623021597905,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2021,2646566.16282222,15,22,city_0672_montana_cut_bank,254.3874969482422,8.015625,14.120381443787943,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2022,2646566.16282222,64,239,city_0672_montana_cut_bank,298.07499742507935,7.0703125,17.46160167982158,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2023,2646566.16282222,37,71,city_0672_montana_cut_bank,333.2249994277954,8.109375,18.400690218618557,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2024,2646566.16282222,31,76,city_0672_montana_cut_bank,321.54375410079956,8.234375,17.63393338684762,semiarid,12
-672,"Cut Bank, MT",Cut Bank,Montana,Glacier,2025,2646566.16282222,63,161,city_0672_montana_cut_bank,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+672,2015,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,102,959,city_0672_montana_cut_bank,261.156247615814,8.59895833333333,14.0414448452076,semiarid,12
+672,2016,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,118,1834,city_0672_montana_cut_bank,346.937501430511,8.671875,18.5807532146885,semiarid,12
+672,2017,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,102,1310,city_0672_montana_cut_bank,272.918745517731,7.43489583333333,15.6535919759236,semiarid,12
+672,2018,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,93,1286,city_0672_montana_cut_bank,306.156249523163,6.58854166666667,18.4558869414277,semiarid,12
+672,2019,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,80,501,city_0672_montana_cut_bank,349.575004577637,6.08333333333333,21.7352334452417,dry subhumid,12
+672,2020,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,85,899,city_0672_montana_cut_bank,314.918756484985,7.60677083333333,17.8862302159791,semiarid,12
+672,2021,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,15,22,city_0672_montana_cut_bank,254.387496948242,8.015625,14.1203814437879,semiarid,12
+672,2022,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,64,239,city_0672_montana_cut_bank,298.074997425079,7.0703125,17.4616016798216,semiarid,12
+672,2023,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,37,71,city_0672_montana_cut_bank,333.224999427795,8.109375,18.4006902186186,semiarid,12
+672,2024,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,31,76,city_0672_montana_cut_bank,321.5437541008,8.234375,17.6339333868476,semiarid,12
+672,2025,"Cut Bank, MT",Cut Bank,Montana,Glacier,100,63,161,city_0672_montana_cut_bank,,,,,

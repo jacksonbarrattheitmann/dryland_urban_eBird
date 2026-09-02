@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2149,"Premont, TX",Premont,Texas,Jim Wells,2018,2717504.70259092,6,6,city_2149_texas_premont,662.0687561035156,23.161458333333332,19.965007251747295,semiarid,12
-2149,"Premont, TX",Premont,Texas,Jim Wells,2019,2717504.70259092,9,10,city_2149_texas_premont,537.7562484741211,23.151041666666668,16.221398225770816,semiarid,12
-2149,"Premont, TX",Premont,Texas,Jim Wells,2020,2717504.70259092,17,22,city_2149_texas_premont,539.2187442779541,23.658854166666668,16.020115884157395,semiarid,12
-2149,"Premont, TX",Premont,Texas,Jim Wells,2021,2717504.70259092,23,24,city_2149_texas_premont,778.6749992370605,23.0390625,23.56831399913543,dry subhumid,12
-2149,"Premont, TX",Premont,Texas,Jim Wells,2022,2717504.70259092,41,76,city_2149_texas_premont,505.60624742507935,23.190104166666668,15.233644488915688,semiarid,12
-2149,"Premont, TX",Premont,Texas,Jim Wells,2023,2717504.70259092,2,2,city_2149_texas_premont,570.4500007629395,24.052083333333332,16.752279006803974,semiarid,12
-2149,"Premont, TX",Premont,Texas,Jim Wells,2024,2717504.70259092,32,58,city_2149_texas_premont,711.8875188827515,24.348958333333332,20.725155970506187,dry subhumid,12
-2149,"Premont, TX",Premont,Texas,Jim Wells,2025,2717504.70259092,15,20,city_2149_texas_premont,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2149,2018,"Premont, TX",Premont,Texas,Jim Wells,100,6,6,city_2149_texas_premont,662.068756103516,23.1614583333333,19.9650072517473,semiarid,12
+2149,2019,"Premont, TX",Premont,Texas,Jim Wells,100,9,10,city_2149_texas_premont,537.756248474121,23.1510416666667,16.2213982257708,semiarid,12
+2149,2020,"Premont, TX",Premont,Texas,Jim Wells,100,17,22,city_2149_texas_premont,539.218744277954,23.6588541666667,16.0201158841574,semiarid,12
+2149,2021,"Premont, TX",Premont,Texas,Jim Wells,100,23,24,city_2149_texas_premont,778.674999237061,23.0390625,23.5683139991354,dry subhumid,12
+2149,2022,"Premont, TX",Premont,Texas,Jim Wells,100,41,76,city_2149_texas_premont,505.606247425079,23.1901041666667,15.2336444889157,semiarid,12
+2149,2023,"Premont, TX",Premont,Texas,Jim Wells,100,2,2,city_2149_texas_premont,570.450000762939,24.0520833333333,16.752279006804,semiarid,12
+2149,2024,"Premont, TX",Premont,Texas,Jim Wells,100,32,58,city_2149_texas_premont,711.887518882752,24.3489583333333,20.7251559705062,dry subhumid,12
+2149,2025,"Premont, TX",Premont,Texas,Jim Wells,100,15,20,city_2149_texas_premont,,,,,

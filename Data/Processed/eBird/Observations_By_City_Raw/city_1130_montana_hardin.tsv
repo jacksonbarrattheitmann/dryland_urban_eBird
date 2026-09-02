@@ -1,7 +1,7 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S21611227	2015-01-31	L3328575	Hardin, 26 South Lewis Avenue	Red-tailed Hawk	Buteo jamaicensis	8509	issf	1	45.7280000	-107.6194800	Traveling	1	1
-S21611227	2015-01-31	L3328575	Hardin, 26 South Lewis Avenue	House Finch	Haemorhous mexicanus	32310	species	5	45.7280000	-107.6194800	Traveling	1	0
 S21611227	2015-01-31	L3328575	Hardin, 26 South Lewis Avenue	European Starling	Sturnus vulgaris	27813	species	47	45.7280000	-107.6194800	Traveling	1	0
+S21611227	2015-01-31	L3328575	Hardin, 26 South Lewis Avenue	House Finch	Haemorhous mexicanus	32310	species	5	45.7280000	-107.6194800	Traveling	1	0
 S21611227	2015-01-31	L3328575	Hardin, 26 South Lewis Avenue	Canada Goose	Branta canadensis	342	species	6	45.7280000	-107.6194800	Traveling	1	0
 S21611227	2015-01-31	L3328575	Hardin, 26 South Lewis Avenue	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	15	45.7280000	-107.6194800	Traveling	1	0
 S47638277	2018-08-04	L7785496	201 14th St W, Hardin US-MT (45.7444,-107.6104)	Common Grackle	Quiscalus quiscula	33853	species	4	45.7443800	-107.6104180	Traveling	1	0
@@ -10,54 +10,30 @@ S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, 
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	White-faced Ibis	Plegadis chihi	7468	species	1	45.7313081	-107.6182385	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Eared Grebe	Podiceps nigricollis	6876	species	3	45.7313081	-107.6182385	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Long-billed Curlew	Numenius americanus	6021	species	2	45.7313081	-107.6182385	Traveling	1	0
-S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Ruddy Duck	Oxyura jamaicensis	778	species	3	45.7313081	-107.6182385	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	House Sparrow	Passer domesticus	31534	species	1	45.7313081	-107.6182385	Traveling	1	0
 S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Northern Yellow Warbler	Setophaga aestiva	34087	species	5	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Western Meadowlark	Sturnella neglecta	33565	species	5	45.7313081	-107.6182385	Traveling	1	0
-S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	45.7313081	-107.6182385	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	45.7390080	-107.6157419	Traveling	1	0
 S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	House Finch	Haemorhous mexicanus	32310	species	3	45.7357500	-107.6058103	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	45.7390080	-107.6157419	Traveling	1	0
 S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Western Kingbird	Tyrannus verticalis	17467	species	5	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Mourning Dove	Zenaida macroura	2412	species	3	45.7313081	-107.6182385	Traveling	1	0
-S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Lark Sparrow	Chondestes grammacus	33029	species	1	45.7313081	-107.6182385	Traveling	1	0
-S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Canada Goose	Branta canadensis	342	species	7	45.7313081	-107.6182385	Traveling	1	0
-S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Black-billed Magpie	Pica hudsonia	21476	species	1	45.7357500	-107.6058103	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Rock Pigeon	Columba livia	1868	domestic	2	45.7313081	-107.6182385	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	8	45.7313081	-107.6182385	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Mourning Dove	Zenaida macroura	2412	species	2	45.7390080	-107.6157419	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Bullock's Oriole	Icterus bullockii	33736	species	2	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Mallard	Anas platyrhynchos	545	species	17	45.7313081	-107.6182385	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	45.7313081	-107.6182385	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	45.7390080	-107.6157419	Traveling	1	0
 S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Northern Pintail	Anas acuta	594	species	3	45.7313081	-107.6182385	Traveling	1	0
 S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	45.7390080	-107.6157419	Traveling	1	0
-S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Common Grackle	Quiscalus quiscula	33853	species	2	45.7357500	-107.6058103	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	American Coot	Fulica americana	5500	species	16	45.7313081	-107.6182385	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Loggerhead Shrike	Lanius ludovicianus	21091	species	3	45.7313081	-107.6182385	Traveling	1	0
-S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	American Goldfinch	Spinus tristis	32617	species	3	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Blue-winged Teal	Spatula discors	485	species	9	45.7313081	-107.6182385	Traveling	1	0
 S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Cedar Waxwing	Bombycilla cedrorum	29888	species	7	45.7390080	-107.6157419	Traveling	1	0
-S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	European Starling	Sturnus vulgaris	27813	species	8	45.7357500	-107.6058103	Traveling	1	0
-S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Mourning Dove	Zenaida macroura	2412	species	4	45.7390080	-107.6157419	Traveling	1	0
-S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	45.7357500	-107.6058103	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Gadwall	Mareca strepera	505	species	7	45.7313081	-107.6182385	Traveling	1	0
 S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Great Blue Heron	Ardea herodias	7753	species	1	45.7390080	-107.6157419	Traveling	1	0
-S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Killdeer	Charadrius vociferus	5827	species	3	45.7390080	-107.6157419	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Western Meadowlark	Sturnella neglecta	33565	species	2	45.7390080	-107.6157419	Traveling	1	0
-S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	American Robin	Turdus migratorius	28633	species	2	45.7390080	-107.6157419	Traveling	1	0
-S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	45	45.7313081	-107.6182385	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Barn Swallow	Hirundo rustica	24187	species	3	45.7390080	-107.6157419	Traveling	1	0
 S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	45.7390080	-107.6157419	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Gray Catbird	Dumetella carolinensis	28000	species	1	45.7390080	-107.6157419	Traveling	1	0
-S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.7357500	-107.6058103	Traveling	1	0
 S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Common Grackle	Quiscalus quiscula	33853	species	10	45.7390080	-107.6157419	Traveling	1	0
 S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Western Kingbird	Tyrannus verticalis	17467	species	2	45.7390080	-107.6157419	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	House Sparrow	Passer domesticus	31534	species	2	45.7390080	-107.6157419	Traveling	1	0
 S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	European Starling	Sturnus vulgaris	27813	species	5	45.7390080	-107.6157419	Traveling	1	0
-S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Killdeer	Charadrius vociferus	5827	species	7	45.7390080	-107.6157419	Traveling	1	0
-S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Wilson's Phalarope	Phalaropus tricolor	6119	species	9	45.7313081	-107.6182385	Traveling	1	0
-S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Western Kingbird	Tyrannus verticalis	17467	species	3	45.7313081	-107.6182385	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Horned Lark	Eremophila alpestris	22710	species	2	45.7313081	-107.6182385	Traveling	1	0
 S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	American Robin	Turdus migratorius	28633	species	7	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Northern Shoveler	Spatula clypeata	501	species	15	45.7313081	-107.6182385	Traveling	1	0
@@ -66,16 +42,40 @@ S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, 
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Cinnamon Teal	Spatula cyanoptera	487	species	4	45.7313081	-107.6182385	Traveling	1	0
 S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	European Starling	Sturnus vulgaris	27813	species	15	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Canvasback	Aythya valisineria	666	species	7	45.7313081	-107.6182385	Traveling	1	0
-S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	House Sparrow	Passer domesticus	31534	species	3	45.7357500	-107.6058103	Traveling	1	0
 S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	American Robin	Turdus migratorius	28633	species	1	45.7357500	-107.6058103	Traveling	1	0
 S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Ring-necked Pheasant	Phasianus colchicus	1477	species	3	45.7357500	-107.6058103	Traveling	1	0
 S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	10	45.7390080	-107.6157419	Traveling	1	0
-S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	45.7357500	-107.6058103	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Common Grackle	Quiscalus quiscula	33853	species	2	45.7313081	-107.6182385	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	American Wigeon	Mareca americana	517	species	6	45.7313081	-107.6182385	Traveling	1	0
-S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	American Avocet	Recurvirostra americana	5780	species	7	45.7313081	-107.6182385	Traveling	1	0
 S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Common Grackle	Quiscalus quiscula	33853	species	3	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Green-winged Teal	Anas crecca	612	species	8	45.7313081	-107.6182385	Traveling	1	0
+S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Ruddy Duck	Oxyura jamaicensis	778	species	3	45.7313081	-107.6182385	Traveling	1	0
+S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	45.7313081	-107.6182385	Traveling	1	0
+S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Lark Sparrow	Chondestes grammacus	33029	species	1	45.7313081	-107.6182385	Traveling	1	0
+S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Canada Goose	Branta canadensis	342	species	7	45.7313081	-107.6182385	Traveling	1	0
+S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Black-billed Magpie	Pica hudsonia	21476	species	1	45.7357500	-107.6058103	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Mourning Dove	Zenaida macroura	2412	species	2	45.7390080	-107.6157419	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Bullock's Oriole	Icterus bullockii	33736	species	2	45.7390080	-107.6157419	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	45.7390080	-107.6157419	Traveling	1	0
+S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Common Grackle	Quiscalus quiscula	33853	species	2	45.7357500	-107.6058103	Traveling	1	0
+S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	American Goldfinch	Spinus tristis	32617	species	3	45.7390080	-107.6157419	Traveling	1	0
+S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	European Starling	Sturnus vulgaris	27813	species	8	45.7357500	-107.6058103	Traveling	1	0
+S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Mourning Dove	Zenaida macroura	2412	species	4	45.7390080	-107.6157419	Traveling	1	0
+S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	45.7357500	-107.6058103	Traveling	1	0
+S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Killdeer	Charadrius vociferus	5827	species	3	45.7390080	-107.6157419	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Western Meadowlark	Sturnella neglecta	33565	species	2	45.7390080	-107.6157419	Traveling	1	0
+S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	American Robin	Turdus migratorius	28633	species	2	45.7390080	-107.6157419	Traveling	1	0
+S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	45	45.7313081	-107.6182385	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Barn Swallow	Hirundo rustica	24187	species	3	45.7390080	-107.6157419	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Gray Catbird	Dumetella carolinensis	28000	species	1	45.7390080	-107.6157419	Traveling	1	0
+S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.7357500	-107.6058103	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	House Sparrow	Passer domesticus	31534	species	2	45.7390080	-107.6157419	Traveling	1	0
+S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Killdeer	Charadrius vociferus	5827	species	7	45.7390080	-107.6157419	Traveling	1	0
+S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Wilson's Phalarope	Phalaropus tricolor	6119	species	9	45.7313081	-107.6182385	Traveling	1	0
+S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Western Kingbird	Tyrannus verticalis	17467	species	3	45.7313081	-107.6182385	Traveling	1	0
+S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	House Sparrow	Passer domesticus	31534	species	3	45.7357500	-107.6058103	Traveling	1	0
+S56646871	2019-05-23	L9325675	709 North Center Avenue, Hardin, Montana, US (45.736, -107.606)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	45.7357500	-107.6058103	Traveling	1	0
+S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	American Avocet	Recurvirostra americana	5780	species	7	45.7313081	-107.6182385	Traveling	1	0
 S56945115	2019-05-31	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Bullock's Oriole	Icterus bullockii	33736	species	2	45.7390080	-107.6157419	Traveling	1	0
 S56955735	2019-06-01	L9382677	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.616)	Say's Phoebe	Sayornis saya	17010	species	1	45.7390080	-107.6157419	Traveling	1	0
 S56600559	2019-05-21	L9318014	724 3rd Street West, Hardin, Montana, US (45.731, -107.618)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	45.7313081	-107.6182385	Traveling	1	0
@@ -97,47 +97,47 @@ S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Trumpeter Swan	Cy
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Canada Goose	Branta canadensis	342	species	7	45.7350488	-107.6108828	Stationary	1	0
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	American Tree Sparrow	Spizelloides arborea	33095	species	5	45.7350488	-107.6108828	Stationary	1	0
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Golden Eagle	Aquila chrysaetos	8064	species	1	45.7350488	-107.6108828	Stationary	1	0
-S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Northern Flicker	Colaptes auratus	11906	issf	3	45.7350488	-107.6108828	Stationary	1	0
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Dark-eyed Junco	Junco hyemalis	33124	species	3	45.7350488	-107.6108828	Stationary	1	0
+S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Northern Flicker	Colaptes auratus	11906	issf	3	45.7350488	-107.6108828	Stationary	1	0
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Black-capped Chickadee	Poecile atricapillus	22065	species	16	45.7350488	-107.6108828	Stationary	1	0
-S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	45.7350488	-107.6108828	Stationary	1	0
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Song Sparrow	Melospiza melodia	33277	species	1	45.7350488	-107.6108828	Stationary	1	0
-S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	House Finch	Haemorhous mexicanus	32310	species	21	45.7350488	-107.6108828	Stationary	1	0
+S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	45.7350488	-107.6108828	Stationary	1	0
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Cackling Goose	Branta hutchinsii	331	species	1	45.7350488	-107.6108828	Stationary	1	0
-S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	House Sparrow	Passer domesticus	31534	species	62	45.7350488	-107.6108828	Stationary	1	0
+S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	House Finch	Haemorhous mexicanus	32310	species	21	45.7350488	-107.6108828	Stationary	1	0
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Hairy Woodpecker	Leuconotopicus villosus	11427	species	2	45.7350488	-107.6108828	Stationary	1	0
 S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	Mountain Chickadee	Poecile gambeli	22077	species	1	45.7350488	-107.6108828	Stationary	1	0
-S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Chipping Sparrow	Spizella passerina	32990	species	4	45.7289192	-107.6260031	Traveling	1	0
-S113959591	2022-06-28	L15730453	Julie's House	Western Meadowlark	Sturnella neglecta	33565	species	1	45.7280528	-107.6245477	Traveling	1	0
+S81967523	2021-02-19	L13767392	Merritt Harris616 N.Cody Avenue	House Sparrow	Passer domesticus	31534	species	62	45.7350488	-107.6108828	Stationary	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Northern House Wren	Troglodytes aedon	27191	species	1	45.7289192	-107.6260031	Traveling	1	0
+S113959591	2022-06-28	L15730453	Julie's House	Western Meadowlark	Sturnella neglecta	33565	species	1	45.7280528	-107.6245477	Traveling	1	0
+S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Chipping Sparrow	Spizella passerina	32990	species	4	45.7289192	-107.6260031	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	European Starling	Sturnus vulgaris	27813	species	5	45.7289192	-107.6260031	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	House Sparrow	Passer domesticus	31534	species	11	45.7289192	-107.6260031	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Western Meadowlark	Sturnella neglecta	33565	species	3	45.7289192	-107.6260031	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	45.7289192	-107.6260031	Traveling	1	0
 S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Mallard	Anas platyrhynchos	545	species	45	45.7401880	-107.6117540	Traveling	1	0
-S113939111	2022-06-27	L15730453	Julie's House	House Sparrow	Passer domesticus	31534	species	2	45.7280528	-107.6245477	Traveling	1	0
-S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Common Grackle	Quiscalus quiscula	33853	species	11	45.7289192	-107.6260031	Traveling	1	0
 S113959591	2022-06-28	L15730453	Julie's House	American Robin	Turdus migratorius	28633	species	2	45.7280528	-107.6245477	Traveling	1	0
+S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Common Grackle	Quiscalus quiscula	33853	species	11	45.7289192	-107.6260031	Traveling	1	0
+S113939111	2022-06-27	L15730453	Julie's House	House Sparrow	Passer domesticus	31534	species	2	45.7280528	-107.6245477	Traveling	1	0
 S113959591	2022-06-28	L15730453	Julie's House	House Sparrow	Passer domesticus	31534	species	6	45.7280528	-107.6245477	Traveling	1	0
 S113939111	2022-06-27	L15730453	Julie's House	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	45.7280528	-107.6245477	Traveling	1	0
+S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	American Crow	Corvus brachyrhynchos	21557	species	1	45.7289192	-107.6260031	Traveling	1	0
 S113939111	2022-06-27	L15730453	Julie's House	Western Kingbird	Tyrannus verticalis	17467	species	1	45.7280528	-107.6245477	Traveling	1	0
 S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Cackling/Canada Goose	Branta hutchinsii/canadensis	363	slash	320	45.7401880	-107.6117540	Traveling	1	1
-S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	American Crow	Corvus brachyrhynchos	21557	species	1	45.7289192	-107.6260031	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Western Kingbird	Tyrannus verticalis	17467	species	7	45.7289192	-107.6260031	Traveling	1	0
-S113959591	2022-06-28	L15730453	Julie's House	Mourning Dove	Zenaida macroura	2412	species	3	45.7280528	-107.6245477	Traveling	1	0
-S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Canada Goose	Branta canadensis	342	species	150	45.7401880	-107.6117540	Traveling	1	0
-S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Northern Flicker	Colaptes auratus	11900	species	1	45.7401880	-107.6117540	Traveling	1	0
 S113939111	2022-06-27	L15730453	Julie's House	American Robin	Turdus migratorius	28633	species	8	45.7280528	-107.6245477	Traveling	1	0
+S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Canada Goose	Branta canadensis	342	species	150	45.7401880	-107.6117540	Traveling	1	0
+S113959591	2022-06-28	L15730453	Julie's House	Mourning Dove	Zenaida macroura	2412	species	3	45.7280528	-107.6245477	Traveling	1	0
+S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Northern Flicker	Colaptes auratus	11900	species	1	45.7401880	-107.6117540	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	45.7289192	-107.6260031	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Great Blue Heron	Ardea herodias	7753	species	1	45.7289192	-107.6260031	Traveling	1	0
-S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	European Starling	Sturnus vulgaris	27813	species	5	45.7401880	-107.6117540	Traveling	1	0
 S113939111	2022-06-27	L15730453	Julie's House	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	45.7280528	-107.6245477	Traveling	1	0
+S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	European Starling	Sturnus vulgaris	27813	species	5	45.7401880	-107.6117540	Traveling	1	0
 S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Cackling Goose	Branta hutchinsii	331	species	85	45.7401880	-107.6117540	Traveling	1	1
-S113939111	2022-06-27	L15730453	Julie's House	Western Meadowlark	Sturnella neglecta	33565	species	1	45.7280528	-107.6245477	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Killdeer	Charadrius vociferus	5827	species	2	45.7289192	-107.6260031	Traveling	1	0
-S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Mourning Dove	Zenaida macroura	2412	species	3	45.7289192	-107.6260031	Traveling	1	0
-S113959591	2022-06-28	L15730453	Julie's House	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	45.7280528	-107.6245477	Traveling	1	0
 S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Common Goldeneye	Bucephala clangula	743	species	1	45.7401880	-107.6117540	Traveling	1	0
+S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Mourning Dove	Zenaida macroura	2412	species	3	45.7289192	-107.6260031	Traveling	1	0
+S113939111	2022-06-27	L15730453	Julie's House	Western Meadowlark	Sturnella neglecta	33565	species	1	45.7280528	-107.6245477	Traveling	1	0
+S113959591	2022-06-28	L15730453	Julie's House	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	45.7280528	-107.6245477	Traveling	1	0
 S113959591	2022-06-28	L15730453	Julie's House	Orchard Oriole	Icterus spurius	33679	species	1	45.7280528	-107.6245477	Traveling	1	0
 S113959591	2022-06-28	L15730453	Julie's House	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	45.7280528	-107.6245477	Traveling	1	0
 S113939111	2022-06-27	L15730453	Julie's House	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	45.7280528	-107.6245477	Traveling	1	0
@@ -147,14 +147,14 @@ S113959591	2022-06-28	L15730453	Julie's House	Western Wood-Pewee	Contopus sordid
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	45.7289192	-107.6260031	Traveling	1	0
 S124433093	2022-12-22	L21880915	Hardin and surroundings and I 90	Common Merganser	Mergus merganser	762	species	3	45.7401880	-107.6117540	Traveling	1	0
 S113959591	2022-06-28	L15730453	Julie's House	Northern House Wren	Troglodytes aedon	27191	species	2	45.7280528	-107.6245477	Traveling	1	0
-S113959591	2022-06-28	L15730453	Julie's House	European Starling	Sturnus vulgaris	27813	species	4	45.7280528	-107.6245477	Traveling	1	0
 S113939111	2022-06-27	L15730453	Julie's House	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	45.7280528	-107.6245477	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	American Robin	Turdus migratorius	28633	species	6	45.7289192	-107.6260031	Traveling	1	0
 S110464486	2022-05-17	L19116282	110 Sagebrush Court, Hardin, Montana, US (45.729, -107.626)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	45.7289192	-107.6260031	Traveling	1	0
-S113959591	2022-06-28	L15730453	Julie's House	Western Kingbird	Tyrannus verticalis	17467	species	2	45.7280528	-107.6245477	Traveling	1	0
+S113959591	2022-06-28	L15730453	Julie's House	European Starling	Sturnus vulgaris	27813	species	4	45.7280528	-107.6245477	Traveling	1	0
 S113959591	2022-06-28	L15730453	Julie's House	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	45.7280528	-107.6245477	Traveling	1	0
-S145063450	2023-07-19	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Western Kingbird	Tyrannus verticalis	17467	species	2	45.7392560	-107.6142081	Stationary	1	0
+S113959591	2022-06-28	L15730453	Julie's House	Western Kingbird	Tyrannus verticalis	17467	species	2	45.7280528	-107.6245477	Traveling	1	0
 S145063450	2023-07-19	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	45.7392560	-107.6142081	Stationary	1	0
+S145063450	2023-07-19	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Western Kingbird	Tyrannus verticalis	17467	species	2	45.7392560	-107.6142081	Stationary	1	0
 S144778989	2023-07-16	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.7392560	-107.6142081	Stationary	1	0
 S144879490	2023-07-17	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Barn Swallow	Hirundo rustica	24187	species	2	45.7392560	-107.6142081	Stationary	1	0
 S144879490	2023-07-17	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.7392560	-107.6142081	Stationary	1	0
@@ -163,26 +163,26 @@ S147808590	2023-08-21	L26697864	1010 Madler Circle, Hardin, Montana, US (45.74, 
 S144969724	2023-07-18	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Western Kingbird	Tyrannus verticalis	17467	species	2	45.7392560	-107.6142081	Stationary	1	0
 S144628027	2023-07-15	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Common Grackle	Quiscalus quiscula	33853	species	4	45.7392560	-107.6142081	Stationary	1	0
 S144969724	2023-07-18	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.7392560	-107.6142081	Stationary	1	0
-S144778989	2023-07-16	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Western Kingbird	Tyrannus verticalis	17467	species	5	45.7392560	-107.6142081	Stationary	1	0
-S144879490	2023-07-17	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Western Kingbird	Tyrannus verticalis	17467	species	3	45.7392560	-107.6142081	Stationary	1	0
-S147808590	2023-08-21	L26697864	1010 Madler Circle, Hardin, Montana, US (45.74, -107.612)	House Sparrow	Passer domesticus	31534	species	8	45.7400715	-107.6121734	Traveling	1	0
 S145063450	2023-07-19	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.7392560	-107.6142081	Stationary	1	0
 S144778989	2023-07-16	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	American Robin	Turdus migratorius	28633	species	1	45.7392560	-107.6142081	Stationary	1	0
 S149251144	2023-09-08	L26987328	315 W 13th St, Hardin US-MT 45.74273, -107.61182	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	10	45.7427350	-107.6118170	Stationary	1	0
+S147808590	2023-08-21	L26697864	1010 Madler Circle, Hardin, Montana, US (45.74, -107.612)	House Sparrow	Passer domesticus	31534	species	8	45.7400715	-107.6121734	Traveling	1	0
+S144778989	2023-07-16	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Western Kingbird	Tyrannus verticalis	17467	species	5	45.7392560	-107.6142081	Stationary	1	0
+S144879490	2023-07-17	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Western Kingbird	Tyrannus verticalis	17467	species	3	45.7392560	-107.6142081	Stationary	1	0
 S144778989	2023-07-16	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Northern House Wren	Troglodytes aedon	27191	species	1	45.7392560	-107.6142081	Stationary	1	0
 S145063450	2023-07-19	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	American Robin	Turdus migratorius	28633	species	5	45.7392560	-107.6142081	Stationary	1	0
 S144879490	2023-07-17	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Northern House Wren	Troglodytes aedon	27191	species	1	45.7392560	-107.6142081	Stationary	1	0
-S144628027	2023-07-15	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Mourning Dove	Zenaida macroura	2412	species	2	45.7392560	-107.6142081	Stationary	1	0
 S147808590	2023-08-21	L26697864	1010 Madler Circle, Hardin, Montana, US (45.74, -107.612)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.7400715	-107.6121734	Traveling	1	0
-S144969724	2023-07-18	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	4	45.7392560	-107.6142081	Stationary	1	0
+S144628027	2023-07-15	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Mourning Dove	Zenaida macroura	2412	species	2	45.7392560	-107.6142081	Stationary	1	0
 S144969724	2023-07-18	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	American Robin	Turdus migratorius	28633	species	3	45.7392560	-107.6142081	Stationary	1	0
-S144628027	2023-07-15	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	American Robin	Turdus migratorius	28633	species	1	45.7392560	-107.6142081	Stationary	1	0
+S144969724	2023-07-18	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	4	45.7392560	-107.6142081	Stationary	1	0
 S144628027	2023-07-15	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	Western Kingbird	Tyrannus verticalis	17467	species	2	45.7392560	-107.6142081	Stationary	1	0
+S144628027	2023-07-15	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	American Robin	Turdus migratorius	28633	species	1	45.7392560	-107.6142081	Stationary	1	0
 S144879490	2023-07-17	L25953042	1002 North Mitchell Avenue, Hardin, Montana, US (45.739, -107.614)Grandview CG	American Robin	Turdus migratorius	28633	species	1	45.7392560	-107.6142081	Stationary	1	0
 S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Prairie Falcon	Falco mexicanus	12136	species	1	45.7314309	-107.6220835	Traveling	1	0
 S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	American Wigeon	Mareca americana	517	species	1	45.7314309	-107.6220835	Traveling	1	0
-S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	45.7314309	-107.6220835	Traveling	1	0
 S181470107	2024-06-14	L33353499	Hardin	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	2	45.7438460	-107.6101330	Traveling	1	0
+S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	45.7314309	-107.6220835	Traveling	1	0
 S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Common Raven	Corvus corax	21624	species	1	45.7314309	-107.6220835	Traveling	1	0
 S181470107	2024-06-14	L33353499	Hardin	House Sparrow	Passer domesticus	31534	species	2	45.7438460	-107.6101330	Traveling	1	0
 S181470107	2024-06-14	L33353499	Hardin	Rock Pigeon	Columba livia	1868	domestic	2	45.7438460	-107.6101330	Traveling	1	0
@@ -191,33 +191,33 @@ S194042177	2024-09-05	L36356158	201 14th St W, Hardin US-MT 45.74364, -107.61004
 S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	European Starling	Sturnus vulgaris	27813	species	57	45.7314309	-107.6220835	Traveling	1	0
 S181470107	2024-06-14	L33353499	Hardin	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	45.7438460	-107.6101330	Traveling	1	0
 S194042177	2024-09-05	L36356158	201 14th St W, Hardin US-MT 45.74364, -107.61004	House Sparrow	Passer domesticus	31534	species	9	45.7436440	-107.6100410	Stationary	1	0
-S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Rough-legged Hawk	Buteo lagopus	8528	species	1	45.7314309	-107.6220835	Traveling	1	0
 S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	American Crow	Corvus brachyrhynchos	21557	species	110	45.7314309	-107.6220835	Traveling	1	0
+S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Rough-legged Hawk	Buteo lagopus	8528	species	1	45.7314309	-107.6220835	Traveling	1	0
 S181470107	2024-06-14	L33353499	Hardin	European Starling	Sturnus vulgaris	27813	species	5	45.7438460	-107.6101330	Traveling	1	0
 S194042177	2024-09-05	L36356158	201 14th St W, Hardin US-MT 45.74364, -107.61004	European Starling	Sturnus vulgaris	27813	species	50	45.7436440	-107.6100410	Stationary	1	0
-S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	American Kestrel	Falco sparverius	12028	species	1	45.7314309	-107.6220835	Traveling	1	0
 S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Canada Goose	Branta canadensis	342	species	971	45.7314309	-107.6220835	Traveling	1	0
-S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Rock Pigeon	Columba livia	1868	domestic	39	45.7314309	-107.6220835	Traveling	1	0
+S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	American Kestrel	Falco sparverius	12028	species	1	45.7314309	-107.6220835	Traveling	1	0
 S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Western Meadowlark	Sturnella neglecta	33565	species	4	45.7314309	-107.6220835	Traveling	1	0
-S252025078	2025-06-19	L47984242	Hardin	European Starling	Sturnus vulgaris	27813	species	2	45.7416330	-107.6117240	Traveling	1	0
+S157803757	2024-01-01	L28657590	Old U.S. 87 and HWY 313	Rock Pigeon	Columba livia	1868	domestic	39	45.7314309	-107.6220835	Traveling	1	0
 S252025078	2025-06-19	L47984242	Hardin	Killdeer	Charadrius vociferus	5827	species	1	45.7416330	-107.6117240	Traveling	1	0
+S252025078	2025-06-19	L47984242	Hardin	European Starling	Sturnus vulgaris	27813	species	2	45.7416330	-107.6117240	Traveling	1	0
 S271583552	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.7442524	-107.6102099	Traveling	1	0
 S271583552	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	European Starling	Sturnus vulgaris	27813	species	75	45.7442524	-107.6102099	Traveling	1	0
 S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Barn Swallow	Hirundo rustica	24187	species	6	45.7442524	-107.6102099	Traveling	1	0
-S252025078	2025-06-19	L47984242	Hardin	Western Kingbird	Tyrannus verticalis	17467	species	1	45.7416330	-107.6117240	Traveling	1	0
 S268863355	2025-08-22	L51884363	1002 N Mitchell Ave, Hardin US-MT 45.73978, -107.61648	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	100	45.7397790	-107.6164850	Stationary	1	0
+S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Common Grackle	Quiscalus quiscula	33853	species	4	45.7442524	-107.6102099	Traveling	1	0
 S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Common Yellowthroat	Geothlypis trichas	34028	species	1	45.7442524	-107.6102099	Traveling	1	0
+S252025078	2025-06-19	L47984242	Hardin	Western Kingbird	Tyrannus verticalis	17467	species	1	45.7416330	-107.6117240	Traveling	1	0
 S273645524	2025-09-15	L52890813	South Park (Hardin)	Rock Pigeon	Columba livia	1868	domestic	1	45.7290277	-107.6188379	Traveling	1	0
 S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	American Robin	Turdus migratorius	28633	species	4	45.7442524	-107.6102099	Traveling	1	0
-S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Common Grackle	Quiscalus quiscula	33853	species	4	45.7442524	-107.6102099	Traveling	1	0
 S268863355	2025-08-22	L51884363	1002 N Mitchell Ave, Hardin US-MT 45.73978, -107.61648	European Starling	Sturnus vulgaris	27813	species	55	45.7397790	-107.6164850	Stationary	1	0
-S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	45.7442524	-107.6102099	Traveling	1	0
 S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.7442524	-107.6102099	Traveling	1	0
+S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	45.7442524	-107.6102099	Traveling	1	0
 S252025078	2025-06-19	L47984242	Hardin	Common Grackle	Quiscalus quiscula	33853	species	5	45.7416330	-107.6117240	Traveling	1	0
-S252025078	2025-06-19	L47984242	Hardin	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.7416330	-107.6117240	Traveling	1	0
+S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Rock Pigeon	Columba livia	1868	domestic	1	45.7442524	-107.6102099	Traveling	1	0
 S268863355	2025-08-22	L51884363	1002 N Mitchell Ave, Hardin US-MT 45.73978, -107.61648	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.7397790	-107.6164850	Stationary	1	0
 S273645524	2025-09-15	L52890813	South Park (Hardin)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	45.7290277	-107.6188379	Traveling	1	0
-S271594379	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Rock Pigeon	Columba livia	1868	domestic	1	45.7442524	-107.6102099	Traveling	1	0
+S252025078	2025-06-19	L47984242	Hardin	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.7416330	-107.6117240	Traveling	1	0
 S271583552	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Rock Pigeon	Columba livia	1868	domestic	1	45.7442524	-107.6102099	Traveling	1	0
 S271583552	2025-09-05	L52458601	201 14th Street West, Hardin, Montana, US (45.744, -107.61)	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	45.7442524	-107.6102099	Traveling	1	0
 S252025078	2025-06-19	L47984242	Hardin	Barn Swallow	Hirundo rustica	24187	species	1	45.7416330	-107.6117240	Traveling	1	0

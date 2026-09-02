@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-641,"Crane, TX",Crane,Texas,Crane,2016,3449230.02074178,4,4,city_0641_texas_crane,365.649998664856,20.184895833333332,12.113674358321516,semiarid,12
-641,"Crane, TX",Crane,Texas,Crane,2017,3449230.02074178,15,28,city_0641_texas_crane,340.7124972343445,20.325520833333332,11.235173803176323,semiarid,12
-641,"Crane, TX",Crane,Texas,Crane,2019,3449230.02074178,23,39,city_0641_texas_crane,309.2750015258789,19.4140625,10.51452860433267,semiarid,12
-641,"Crane, TX",Crane,Texas,Crane,2020,3449230.02074178,44,64,city_0641_texas_crane,189.21875,20.010416666666668,6.305102395001735,arid,12
-641,"Crane, TX",Crane,Texas,Crane,2023,3449230.02074178,19,33,city_0641_texas_crane,227.78125,20.4921875,7.470151165769921,arid,12
-641,"Crane, TX",Crane,Texas,Crane,2024,3449230.02074178,21,29,city_0641_texas_crane,325.52499890327454,20.9453125,10.519363761580191,semiarid,12
-641,"Crane, TX",Crane,Texas,Crane,2025,3449230.02074178,25,58,city_0641_texas_crane,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+641,2016,"Crane, TX",Crane,Texas,Crane,99.9999999999798,4,4,city_0641_texas_crane,365.649998664856,20.1848958333333,12.1136743583215,semiarid,12
+641,2017,"Crane, TX",Crane,Texas,Crane,99.9999999999798,15,28,city_0641_texas_crane,340.712497234345,20.3255208333333,11.2351738031763,semiarid,12
+641,2019,"Crane, TX",Crane,Texas,Crane,99.9999999999798,23,39,city_0641_texas_crane,309.275001525879,19.4140625,10.5145286043327,semiarid,12
+641,2020,"Crane, TX",Crane,Texas,Crane,99.9999999999798,44,64,city_0641_texas_crane,189.21875,20.0104166666667,6.30510239500174,arid,12
+641,2023,"Crane, TX",Crane,Texas,Crane,99.9999999999798,19,33,city_0641_texas_crane,227.78125,20.4921875,7.47015116576992,arid,12
+641,2024,"Crane, TX",Crane,Texas,Crane,99.9999999999798,21,29,city_0641_texas_crane,325.524998903275,20.9453125,10.5193637615802,semiarid,12
+641,2025,"Crane, TX",Crane,Texas,Crane,99.9999999999798,25,58,city_0641_texas_crane,,,,,

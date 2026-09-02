@@ -1,51 +1,53 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S26462647,L4096935,Liberal 83 to Oklahoma,2015-12-23,2015,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,120,8.047,1,37.068259,-100.9170628,18,18,city_1492_kansas_liberal
-S23123565,L3599524,US-KS-Liberal-720 E Pancake Blvd,2015-04-29,2015,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,5,,1,37.035928,-100.905773,8,8,city_1492_kansas_liberal
-S28542008,L3527547,Liberal Cemetery,2016-03-25,2016,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,10,0.805,1,37.0558512,-100.9478009,13,13,city_1492_kansas_liberal
-S36651292,L3527547,Liberal Cemetery,2017-05-08,2017,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,94,1.609,1,37.0558512,-100.9478009,7,7,city_1492_kansas_liberal
-S46431617,L7547385,"208 W Pancake Blvd, Liberal US-KS (37.0321,-100.9276)",2018-06-09,2018,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,10,9.41,1,37.032072,-100.927615,12,12,city_1492_kansas_liberal
-S46217606,L7503209,Mahuron Park,2018-06-01,2018,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,5,,1,37.046402,-100.912447,6,6,city_1492_kansas_liberal
-S59532977,L9880015,"615 W 3rd St, Liberal",2019-09-05,2019,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,22,0.644,1,37.040614,-100.930772,6,6,city_1492_kansas_liberal
-S59124437,L9815950,"230 West Pancake Boulevard, Liberal, Kansas, US (37.032, -100.929)",2019-08-19,2019,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,5,2.414,1,37.0323249,-100.9294614,4,4,city_1492_kansas_liberal
-S62798798,L10380112,"Light Park, Liberal",2019-06-27,2019,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,15,0.402,1,37.0519834,-100.924025,4,4,city_1492_kansas_liberal
-S59898156,L9929859,"Walmart 250 E Tucker Rd, Liberal US-KS (37.0680,-100.9182)",2019-09-18,2019,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,7,0.326,1,37.068017,-100.918178,3,3,city_1492_kansas_liberal
-S70155511,L11641072,"411 S Virginia Ave, Liberal US-KS 37.03380, -100.91434",2020-06-07,2020,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,8,,1,37.033803,-100.914345,6,6,city_1492_kansas_liberal
-S66447572,L11059784,"Mar 31, 2020 1:41 PM37.042, -100.927",2020-03-31,2020,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,31,,1,37.0424005,-100.9271532,8,8,city_1492_kansas_liberal
-S76752586,L12815642,Country Club Park,2020-11-27,2020,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,32,,1,37.065987,-100.931495,18,18,city_1492_kansas_liberal
-S84999160,L14270163,Liberal,2021-04-06,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,10,,1,37.0423176,-100.9216408,9,9,city_1492_kansas_liberal
-S88267092,L14962681,"Dorothy's House, Liberal, KS",2021-05-16,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,8,,1,37.034522,-100.9104419,7,7,city_1492_kansas_liberal
-S78858749,L13199240,Liberal KS,2021-01-07,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,30,16.093,1,37.0404722,-100.9205382,7,7,city_1492_kansas_liberal
-S84640923,L14270163,Liberal,2021-04-02,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,30,0.483,1,37.0423176,-100.9216408,8,8,city_1492_kansas_liberal
-S93385282,L16138940,Liberal,2021-08-17,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,7,3.837,1,37.045395,-100.922304,5,5,city_1492_kansas_liberal
-S109605166,L18964327,Liberal Memorial Library,2022-05-10,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,35,,1,37.0433859,-100.9218646,18,18,city_1492_kansas_liberal
-S113670142,L3527547,Liberal Cemetery,2022-06-24,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,18,0.966,1,37.0558512,-100.9478009,8,8,city_1492_kansas_liberal
-S156078494,L10380112,"Light Park, Liberal",2022-10-19,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,13,0.494,1,37.0519834,-100.924025,6,6,city_1492_kansas_liberal
-S115065718,L20134880,"Liberal Mid-America Regional Airport, Liberal US-KS 37.03968, -100.95225",2022-07-14,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,12,0.527,1,37.039675,-100.952247,5,5,city_1492_kansas_liberal
-S117877022,L20731506,"1 Yellow Brick Rd, Liberal US-KS 37.03415, -100.91018b",2022-08-21,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,30,0.358,1,37.034151,-100.910175,11,11,city_1492_kansas_liberal
-S123469683,L21716487,"619 E Pancake Blvd, Liberal US-KS 37.03391, -100.90948",2022-12-04,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,11,1.019,1,37.033907,-100.90948,1,1,city_1492_kansas_liberal
-S137419847,L24287808,"Scootin Libs (37.052, -100.921)",2023-05-13,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,11,,1,37.0523759,-100.9213322,13,13,city_1492_kansas_liberal
-S138906186,L24583168,"603 E Pancake Blvd, Liberal US-KS 37.03303, -100.90907",2023-05-22,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,7,,1,37.033029,-100.909074,5,5,city_1492_kansas_liberal
-S136832509,L24181585,La Charrita Sigala,2023-05-09,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,9,,1,37.039034,-100.90526,5,5,city_1492_kansas_liberal
-S139896435,L24805813,"567 E Cedar St, Liberal US-KS 37.03466, -100.91058",2023-05-30,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,6,,1,37.034658,-100.910583,3,3,city_1492_kansas_liberal
-S142985242,L25547687,"Liberal Mid-America Regional Airport, Liberal US-KS 37.03928, -100.95235",2023-06-28,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,11,0.097,1,37.039277,-100.952346,12,12,city_1492_kansas_liberal
-S149946195,L27097224,"201–299 E Pancake Blvd, Liberal US-KS 37.03240, -100.91933",2023-09-15,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,6,8.922,1,37.032401,-100.91933,1,1,city_1492_kansas_liberal
-S149973479,L27102549,"Liberal, KS area",2023-09-15,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,14,0.585,1,37.056447,-100.922824,3,3,city_1492_kansas_liberal
-S153842384,L27830220,"Mary Frame Park, Liberal US-KS 37.03177, -100.91922",2023-11-05,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,10,0.258,1,37.031772,-100.919224,4,4,city_1492_kansas_liberal
-S173561651,L10380112,"Light Park, Liberal",2024-05-11,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,67,,1,37.0519834,-100.924025,14,14,city_1492_kansas_liberal
-S165460208,L3527547,Liberal Cemetery,2024-03-20,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,30,0.805,1,37.0558512,-100.9478009,5,5,city_1492_kansas_liberal
-S203422024,L37090290,Land of Oz,2024-10-05,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,52,0.164,1,37.034571,-100.910401,1,1,city_1492_kansas_liberal
-S191815765,L3527547,Liberal Cemetery,2024-08-17,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,24,0.487,1,37.0558512,-100.9478009,7,7,city_1492_kansas_liberal
-S168792527,L30667514,"1000 West Pancake Boulevard, Liberal, Kansas, US (37.03, -100.937)",2024-04-15,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,13,1.963,1,37.0296704,-100.9371657,6,6,city_1492_kansas_liberal
-S191894249,L10380112,"Light Park, Liberal",2024-08-18,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,14,0.701,1,37.0519834,-100.924025,5,5,city_1492_kansas_liberal
-S184739529,L10380112,"Light Park, Liberal",2024-07-01,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,13,0.65,1,37.0519834,-100.924025,10,10,city_1492_kansas_liberal
-S194641282,L36479577,"567 East Cedar Street, Liberal, Kansas, US (37.035, -100.91) Dorothy's House",2024-09-10,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,5,,1,37.0345887,-100.9104344,2,2,city_1492_kansas_liberal
-S157955305,L17741953,"619 E Pancake Blvd, Liberal US-KS 37.03369, -100.90956",2024-01-02,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,17,0.119,1,37.033689,-100.909559,3,3,city_1492_kansas_liberal
-S197648944,L37090290,Land of Oz,2024-10-05,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,52,0.164,1,37.034571,-100.910401,1,1,city_1492_kansas_liberal
-S241862229,L45797378,"Mary Frame Park, Liberal US-KS 37.03178, -100.91964",2025-05-24,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,23,,1,37.031784,-100.919645,8,8,city_1492_kansas_liberal
-S244313995,L10380112,"Light Park, Liberal",2025-05-29,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,14,0.106,1,37.0519834,-100.924025,6,6,city_1492_kansas_liberal
-S256341705,L3527547,Liberal Cemetery,2025-07-02,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,10,0.376,1,37.0558512,-100.9478009,7,7,city_1492_kansas_liberal
-S210364021,L39641783,"1000–1018 E Pancake Blvd, Liberal US-KS 37.04313, -100.90174",2025-01-23,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,6,3.193,1,37.043126,-100.901744,2,2,city_1492_kansas_liberal
-S237776460,L44971054,"Blue Bonnet Park, Liberal",2025-05-14,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,22,,1,37.046693,-100.938211,8,8,city_1492_kansas_liberal
-S208784910,L39323513,"Liberal, Kansas, US (37.04, -100.904)",2025-01-10,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,11,8.57,1,37.0403146,-100.9038854,5,5,city_1492_kansas_liberal
-S290059905,L56296048,Liberal (Town),2025-12-24,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,7,2.031,1,37.0330664,-100.9105372,3,3,city_1492_kansas_liberal
-S285676256,L55361138,"Mary Frame Park, Liberal US-KS 37.03162, -100.91943",2025-11-22,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,23839350.889903,5,,1,37.031617,-100.919434,3,3,city_1492_kansas_liberal
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23123565,L3599524,US-KS-Liberal-720 E Pancake Blvd,2015-04-29,2015,1492,"Liberal, KS",Liberal,Kansas,Seward,100,5,,1,Stationary,37.035928,-100.905773,8,8,city_1492_kansas_liberal
+S26462647,L4096935,Liberal 83 to Oklahoma,2015-12-23,2015,1492,"Liberal, KS",Liberal,Kansas,Seward,100,120,8.047,1,Traveling,37.068259,-100.9170628,18,18,city_1492_kansas_liberal
+S28542008,L3527547,Liberal Cemetery,2016-03-25,2016,1492,"Liberal, KS",Liberal,Kansas,Seward,100,10,0.805,1,Traveling,37.0558512,-100.9478009,13,13,city_1492_kansas_liberal
+S36651292,L3527547,Liberal Cemetery,2017-05-08,2017,1492,"Liberal, KS",Liberal,Kansas,Seward,100,94,1.609,1,Traveling,37.0558512,-100.9478009,7,7,city_1492_kansas_liberal
+S46217606,L7503209,Mahuron Park,2018-06-01,2018,1492,"Liberal, KS",Liberal,Kansas,Seward,100,5,,1,Stationary,37.046402,-100.912447,6,6,city_1492_kansas_liberal
+S46431617,L7547385,"208 W Pancake Blvd, Liberal US-KS (37.0321,-100.9276)",2018-06-09,2018,1492,"Liberal, KS",Liberal,Kansas,Seward,100,10,9.41,1,Traveling,37.032072,-100.927615,12,12,city_1492_kansas_liberal
+S62798798,L10380112,"Light Park, Liberal",2019-06-27,2019,1492,"Liberal, KS",Liberal,Kansas,Seward,100,15,0.402,1,Traveling,37.0519834,-100.924025,4,4,city_1492_kansas_liberal
+S59124437,L9815950,"230 West Pancake Boulevard, Liberal, Kansas, US (37.032, -100.929)",2019-08-19,2019,1492,"Liberal, KS",Liberal,Kansas,Seward,100,5,2.414,1,Traveling,37.0323249,-100.9294614,4,4,city_1492_kansas_liberal
+S59532977,L9880015,"615 W 3rd St, Liberal",2019-09-05,2019,1492,"Liberal, KS",Liberal,Kansas,Seward,100,22,0.644,1,Traveling,37.040614,-100.930772,6,6,city_1492_kansas_liberal
+S59898156,L9929859,"Walmart 250 E Tucker Rd, Liberal US-KS (37.0680,-100.9182)",2019-09-18,2019,1492,"Liberal, KS",Liberal,Kansas,Seward,100,7,0.326,1,Traveling,37.068017,-100.918178,3,3,city_1492_kansas_liberal
+S66447572,L11059784,"Mar 31, 2020 1:41 PM37.042, -100.927",2020-03-31,2020,1492,"Liberal, KS",Liberal,Kansas,Seward,100,31,,1,Stationary,37.0424005,-100.9271532,8,8,city_1492_kansas_liberal
+S70155511,L11641072,"411 S Virginia Ave, Liberal US-KS 37.03380, -100.91434",2020-06-07,2020,1492,"Liberal, KS",Liberal,Kansas,Seward,100,8,,1,Stationary,37.033803,-100.914345,6,6,city_1492_kansas_liberal
+S76752586,L12815642,Country Club Park,2020-11-27,2020,1492,"Liberal, KS",Liberal,Kansas,Seward,100,32,,1,Stationary,37.065987,-100.931495,18,18,city_1492_kansas_liberal
+S78858749,L13199240,Liberal KS,2021-01-07,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,100,30,16.093,1,Traveling,37.0404722,-100.9205382,7,7,city_1492_kansas_liberal
+S84640923,L14270163,Liberal,2021-04-02,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,100,30,0.483,1,Traveling,37.0423176,-100.9216408,8,8,city_1492_kansas_liberal
+S84999160,L14270163,Liberal,2021-04-06,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,100,10,,1,Stationary,37.0423176,-100.9216408,9,9,city_1492_kansas_liberal
+S88267092,L14962681,"Dorothy's House, Liberal, KS",2021-05-16,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,100,8,,1,Stationary,37.034522,-100.9104419,7,7,city_1492_kansas_liberal
+S93385282,L16138940,Liberal,2021-08-17,2021,1492,"Liberal, KS",Liberal,Kansas,Seward,100,7,3.837,1,Traveling,37.045395,-100.922304,5,5,city_1492_kansas_liberal
+S101759385,L17603175,"Liberal, KS",2022-01-30,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,100,5,3.773,1,Traveling,37.0323648,-100.9223467,0,0,city_1492_kansas_liberal
+S109605166,L18964327,Liberal Memorial Library,2022-05-10,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,100,35,,1,Stationary,37.0433859,-100.9218646,18,18,city_1492_kansas_liberal
+S113670142,L3527547,Liberal Cemetery,2022-06-24,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,100,18,0.966,1,Traveling,37.0558512,-100.9478009,8,8,city_1492_kansas_liberal
+S115065718,L20134880,"Liberal Mid-America Regional Airport, Liberal US-KS 37.03968, -100.95225",2022-07-14,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,100,12,0.527,1,Traveling,37.039675,-100.952247,5,5,city_1492_kansas_liberal
+S117877022,L20731506,"1 Yellow Brick Rd, Liberal US-KS 37.03415, -100.91018b",2022-08-21,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,100,30,0.358,1,Traveling,37.034151,-100.910175,11,11,city_1492_kansas_liberal
+S156078494,L10380112,"Light Park, Liberal",2022-10-19,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,100,13,0.494,1,Traveling,37.0519834,-100.924025,6,6,city_1492_kansas_liberal
+S123469683,L21716487,"619 E Pancake Blvd, Liberal US-KS 37.03391, -100.90948",2022-12-04,2022,1492,"Liberal, KS",Liberal,Kansas,Seward,100,11,1.019,1,Traveling,37.033907,-100.90948,1,1,city_1492_kansas_liberal
+S136832509,L24181585,La Charrita Sigala,2023-05-09,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,100,9,,1,Stationary,37.039034,-100.90526,5,5,city_1492_kansas_liberal
+S137419847,L24287808,"Scootin Libs (37.052, -100.921)",2023-05-13,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,100,11,,1,Stationary,37.0523759,-100.9213322,13,13,city_1492_kansas_liberal
+S138906186,L24583168,"603 E Pancake Blvd, Liberal US-KS 37.03303, -100.90907",2023-05-22,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,100,7,,1,Stationary,37.033029,-100.909074,5,5,city_1492_kansas_liberal
+S139896435,L24805813,"567 E Cedar St, Liberal US-KS 37.03466, -100.91058",2023-05-30,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,100,6,,1,Stationary,37.034658,-100.910583,3,3,city_1492_kansas_liberal
+S142985242,L25547687,"Liberal Mid-America Regional Airport, Liberal US-KS 37.03928, -100.95235",2023-06-28,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,100,11,0.097,1,Traveling,37.039277,-100.952346,12,12,city_1492_kansas_liberal
+S149946195,L27097224,"201–299 E Pancake Blvd, Liberal US-KS 37.03240, -100.91933",2023-09-15,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,100,6,8.922,1,Traveling,37.032401,-100.91933,1,1,city_1492_kansas_liberal
+S149973479,L27102549,"Liberal, KS area",2023-09-15,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,100,14,0.585,1,Traveling,37.056447,-100.922824,3,3,city_1492_kansas_liberal
+S153842384,L27830220,"Mary Frame Park, Liberal US-KS 37.03177, -100.91922",2023-11-05,2023,1492,"Liberal, KS",Liberal,Kansas,Seward,100,10,0.258,1,Traveling,37.031772,-100.919224,4,4,city_1492_kansas_liberal
+S157955305,L17741953,"619 E Pancake Blvd, Liberal US-KS 37.03369, -100.90956",2024-01-02,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,17,0.119,1,Traveling,37.033689,-100.909559,3,3,city_1492_kansas_liberal
+S164547844,L29811301,"10 W Pancake Blvd, Liberal US-KS 37.03233, -100.92294",2024-03-12,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,11,17.984,1,Traveling,37.032326,-100.922942,0,0,city_1492_kansas_liberal
+S165460208,L3527547,Liberal Cemetery,2024-03-20,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,30,0.805,1,Traveling,37.0558512,-100.9478009,5,5,city_1492_kansas_liberal
+S168792527,L30667514,"1000 West Pancake Boulevard, Liberal, Kansas, US (37.03, -100.937)",2024-04-15,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,13,1.963,1,Traveling,37.0296704,-100.9371657,6,6,city_1492_kansas_liberal
+S173561651,L10380112,"Light Park, Liberal",2024-05-11,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,67,,1,Stationary,37.0519834,-100.924025,14,14,city_1492_kansas_liberal
+S184739529,L10380112,"Light Park, Liberal",2024-07-01,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,13,0.65,1,Traveling,37.0519834,-100.924025,10,10,city_1492_kansas_liberal
+S191815765,L3527547,Liberal Cemetery,2024-08-17,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,24,0.487,1,Traveling,37.0558512,-100.9478009,7,7,city_1492_kansas_liberal
+S191894249,L10380112,"Light Park, Liberal",2024-08-18,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,14,0.701,1,Traveling,37.0519834,-100.924025,5,5,city_1492_kansas_liberal
+S194641282,L36479577,"567 East Cedar Street, Liberal, Kansas, US (37.035, -100.91) Dorothy's House",2024-09-10,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,5,,1,Stationary,37.0345887,-100.9104344,2,2,city_1492_kansas_liberal
+S197648944,L37090290,Land of Oz,2024-10-05,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,52,0.164,1,Traveling,37.034571,-100.910401,1,1,city_1492_kansas_liberal
+S203422024,L37090290,Land of Oz,2024-10-05,2024,1492,"Liberal, KS",Liberal,Kansas,Seward,100,52,0.164,1,Traveling,37.034571,-100.910401,1,1,city_1492_kansas_liberal
+S208784910,L39323513,"Liberal, Kansas, US (37.04, -100.904)",2025-01-10,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,100,11,8.57,1,Traveling,37.0403146,-100.9038854,5,5,city_1492_kansas_liberal
+S210364021,L39641783,"1000–1018 E Pancake Blvd, Liberal US-KS 37.04313, -100.90174",2025-01-23,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,100,6,3.193,1,Traveling,37.043126,-100.901744,2,2,city_1492_kansas_liberal
+S237776460,L44971054,"Blue Bonnet Park, Liberal",2025-05-14,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,100,22,,1,Stationary,37.046693,-100.938211,8,8,city_1492_kansas_liberal
+S241862229,L45797378,"Mary Frame Park, Liberal US-KS 37.03178, -100.91964",2025-05-24,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,100,23,,1,Stationary,37.031784,-100.919645,8,8,city_1492_kansas_liberal
+S244313995,L10380112,"Light Park, Liberal",2025-05-29,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,100,14,0.106,1,Traveling,37.0519834,-100.924025,6,6,city_1492_kansas_liberal
+S256341705,L3527547,Liberal Cemetery,2025-07-02,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,100,10,0.376,1,Traveling,37.0558512,-100.9478009,7,7,city_1492_kansas_liberal
+S285676256,L55361138,"Mary Frame Park, Liberal US-KS 37.03162, -100.91943",2025-11-22,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,100,5,,1,Stationary,37.031617,-100.919434,3,3,city_1492_kansas_liberal
+S290059905,L56296048,Liberal (Town),2025-12-24,2025,1492,"Liberal, KS",Liberal,Kansas,Seward,100,7,2.031,1,Traveling,37.0330664,-100.9105372,3,3,city_1492_kansas_liberal

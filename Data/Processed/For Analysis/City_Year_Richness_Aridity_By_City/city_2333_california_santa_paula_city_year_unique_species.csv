@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2015,11495452.3947215,53,337,city_2333_california_santa_paula,232.66875100135803,17.072916666666668,8.594151633755432,arid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2016,11495452.3947215,21,43,city_2333_california_santa_paula,425.2500045597553,16.5234375,16.03298986263584,semiarid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2017,11495452.3947215,32,42,city_2333_california_santa_paula,487.53125593066216,16.557291666666668,18.357717422766648,semiarid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2018,11495452.3947215,39,90,city_2333_california_santa_paula,325.3562489748001,16.494791666666668,12.280007824486262,semiarid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2019,11495452.3947215,33,57,city_2333_california_santa_paula,663.6124929487705,15.942708333333334,25.57992343829832,dry subhumid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2020,11495452.3947215,72,776,city_2333_california_santa_paula,310.50000244379044,16.640625,11.655132056541108,semiarid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2021,11495452.3947215,81,1099,city_2333_california_santa_paula,368.71875101327896,16.229166666666668,14.057585423858132,semiarid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2022,11495452.3947215,43,243,city_2333_california_santa_paula,273.1749985218048,16.109375,10.462716879350992,semiarid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2023,11495452.3947215,82,1616,city_2333_california_santa_paula,647.1437496244907,15.450520833333332,25.427524798506543,dry subhumid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2024,11495452.3947215,71,807,city_2333_california_santa_paula,568.9312532842159,16.263020833333332,21.662826104227953,dry subhumid,12
-2333,"Santa Paula, CA",Santa Paula,California,Ventura,2025,11495452.3947215,63,381,city_2333_california_santa_paula,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2333,2015,"Santa Paula, CA",Santa Paula,California,Ventura,100,53,337,city_2333_california_santa_paula,232.668751001358,17.0729166666667,8.59415163375543,arid,12
+2333,2016,"Santa Paula, CA",Santa Paula,California,Ventura,100,21,43,city_2333_california_santa_paula,425.250004559755,16.5234375,16.0329898626358,semiarid,12
+2333,2017,"Santa Paula, CA",Santa Paula,California,Ventura,100,32,42,city_2333_california_santa_paula,487.531255930662,16.5572916666667,18.3577174227666,semiarid,12
+2333,2018,"Santa Paula, CA",Santa Paula,California,Ventura,100,39,90,city_2333_california_santa_paula,325.3562489748,16.4947916666667,12.2800078244863,semiarid,12
+2333,2019,"Santa Paula, CA",Santa Paula,California,Ventura,100,33,57,city_2333_california_santa_paula,663.612492948771,15.9427083333333,25.5799234382983,dry subhumid,12
+2333,2020,"Santa Paula, CA",Santa Paula,California,Ventura,100,72,776,city_2333_california_santa_paula,310.50000244379,16.640625,11.6551320565411,semiarid,12
+2333,2021,"Santa Paula, CA",Santa Paula,California,Ventura,100,81,1099,city_2333_california_santa_paula,368.718751013279,16.2291666666667,14.0575854238581,semiarid,12
+2333,2022,"Santa Paula, CA",Santa Paula,California,Ventura,100,43,243,city_2333_california_santa_paula,273.174998521805,16.109375,10.462716879351,semiarid,12
+2333,2023,"Santa Paula, CA",Santa Paula,California,Ventura,100,82,1616,city_2333_california_santa_paula,647.143749624491,15.4505208333333,25.4275247985065,dry subhumid,12
+2333,2024,"Santa Paula, CA",Santa Paula,California,Ventura,100,71,807,city_2333_california_santa_paula,568.931253284216,16.2630208333333,21.662826104228,dry subhumid,12
+2333,2025,"Santa Paula, CA",Santa Paula,California,Ventura,100,63,381,city_2333_california_santa_paula,,,,,

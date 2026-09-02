@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2304,"Salinas, CA",Salinas,California,Monterey,2015,127064562.582079,125,1410,city_2304_california_salinas,386.6875033378601,15.296875,15.285979131329862,semiarid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2016,127064562.582079,145,1807,city_2304_california_salinas,713.8437435626984,14.908854166666666,28.65823288322804,dry subhumid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2017,127064562.582079,127,1177,city_2304_california_salinas,765.8312422633171,15.015625,30.61411586811511,humid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2018,127064562.582079,146,1828,city_2304_california_salinas,574.4062472581863,14.869791666666666,23.096544392371054,dry subhumid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2019,127064562.582079,126,1099,city_2304_california_salinas,756.2124980688095,14.606770833333334,30.731886893684287,humid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2020,127064562.582079,128,1450,city_2304_california_salinas,310.65624833106995,15.143229166666666,12.355463424042556,semiarid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2021,127064562.582079,144,3155,city_2304_california_salinas,650.5125144720078,14.697916666666666,26.33876060283119,dry subhumid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2022,127064562.582079,124,3067,city_2304_california_salinas,479.6625092029571,14.833333333333334,19.315268826964715,semiarid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2023,127064562.582079,136,4555,city_2304_california_salinas,812.5874962806702,14.1484375,33.64969250207887,humid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2024,127064562.582079,144,4580,city_2304_california_salinas,747.0624848008156,15.075520833333334,29.79250121129018,dry subhumid,12
-2304,"Salinas, CA",Salinas,California,Monterey,2025,127064562.582079,140,4357,city_2304_california_salinas,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2304,2015,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,125,1410,city_2304_california_salinas,386.68750333786,15.296875,15.2859791313299,semiarid,12
+2304,2016,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,145,1807,city_2304_california_salinas,713.843743562698,14.9088541666667,28.658232883228,dry subhumid,12
+2304,2017,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,127,1177,city_2304_california_salinas,765.831242263317,15.015625,30.6141158681151,humid,12
+2304,2018,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,146,1828,city_2304_california_salinas,574.406247258186,14.8697916666667,23.0965443923711,dry subhumid,12
+2304,2019,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,126,1099,city_2304_california_salinas,756.21249806881,14.6067708333333,30.7318868936843,humid,12
+2304,2020,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,128,1450,city_2304_california_salinas,310.65624833107,15.1432291666667,12.3554634240426,semiarid,12
+2304,2021,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,144,3155,city_2304_california_salinas,650.512514472008,14.6979166666667,26.3387606028312,dry subhumid,12
+2304,2022,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,124,3068,city_2304_california_salinas,479.662509202957,14.8333333333333,19.3152688269647,semiarid,12
+2304,2023,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,136,4555,city_2304_california_salinas,812.58749628067,14.1484375,33.6496925020789,humid,12
+2304,2024,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,144,4580,city_2304_california_salinas,747.062484800816,15.0755208333333,29.7925012112902,dry subhumid,12
+2304,2025,"Salinas, CA",Salinas,California,Monterey,99.9999999999901,140,4357,city_2304_california_salinas,,,,,

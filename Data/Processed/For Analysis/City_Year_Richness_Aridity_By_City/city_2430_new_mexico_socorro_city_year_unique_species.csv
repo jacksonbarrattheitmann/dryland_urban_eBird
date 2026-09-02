@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2015,16096510.0208603,122,1261,city_2430_new_mexico_socorro,323.91249561309814,14.796875,13.062633723527588,semiarid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2016,16096510.0208603,124,1696,city_2430_new_mexico_socorro,207.4249961972237,14.901041666666666,8.329972656320216,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2017,16096510.0208603,132,4002,city_2430_new_mexico_socorro,223.9812512397766,15.580729166666666,8.755858747437058,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2018,16096510.0208603,124,1709,city_2430_new_mexico_socorro,236.11875307559967,15.083333333333332,9.413372215638525,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2019,16096510.0208603,118,996,city_2430_new_mexico_socorro,204.21249961853027,14.2734375,8.413002880969383,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2020,16096510.0208603,159,3314,city_2430_new_mexico_socorro,127.50624871253969,15.302083333333332,5.039357709511655,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2021,16096510.0208603,130,2067,city_2430_new_mexico_socorro,208.56875371932983,15.078125,8.316760272920318,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2022,16096510.0208603,126,1948,city_2430_new_mexico_socorro,231.74999552965164,14.690104166666668,9.386351469611457,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2023,16096510.0208603,103,1440,city_2430_new_mexico_socorro,140.6562486886978,15.052083333333332,5.6145529622099755,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2024,16096510.0208603,121,1253,city_2430_new_mexico_socorro,200.38124680519104,15.755208333333334,7.780222322870915,arid,12
-2430,"Socorro, NM",Socorro,New Mexico,Socorro,2025,16096510.0208603,146,3496,city_2430_new_mexico_socorro,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2430,2015,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,122,1261,city_2430_new_mexico_socorro,323.912495613098,14.796875,13.0626337235276,semiarid,12
+2430,2016,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,124,1696,city_2430_new_mexico_socorro,207.424996197224,14.9010416666667,8.32997265632022,arid,12
+2430,2017,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,132,4002,city_2430_new_mexico_socorro,223.981251239777,15.5807291666667,8.75585874743706,arid,12
+2430,2018,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,124,1709,city_2430_new_mexico_socorro,236.1187530756,15.0833333333333,9.41337221563852,arid,12
+2430,2019,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,118,996,city_2430_new_mexico_socorro,204.21249961853,14.2734375,8.41300288096938,arid,12
+2430,2020,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,159,3314,city_2430_new_mexico_socorro,127.50624871254,15.3020833333333,5.03935770951166,arid,12
+2430,2021,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,130,2067,city_2430_new_mexico_socorro,208.56875371933,15.078125,8.31676027292032,arid,12
+2430,2022,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,126,1948,city_2430_new_mexico_socorro,231.749995529652,14.6901041666667,9.38635146961146,arid,12
+2430,2023,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,103,1440,city_2430_new_mexico_socorro,140.656248688698,15.0520833333333,5.61455296220998,arid,12
+2430,2024,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,121,1253,city_2430_new_mexico_socorro,200.381246805191,15.7552083333333,7.78022232287092,arid,12
+2430,2025,"Socorro, NM",Socorro,New Mexico,Socorro,99.9999999999946,146,3496,city_2430_new_mexico_socorro,,,,,

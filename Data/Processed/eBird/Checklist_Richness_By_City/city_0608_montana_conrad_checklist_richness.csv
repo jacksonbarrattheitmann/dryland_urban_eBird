@@ -1,14 +1,14 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S46217689,L7503198,Conrad,2018-05-28,2018,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,15,1.609,1,48.1799175,-111.9398904,18,18,city_0608_montana_conrad
-S57656090,L9527700,"19 South Main Street, Conrad, Montana, US (48.173, -111.944)",2019-06-24,2019,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,26,0.32,1,48.1730886,-111.9443511,2,2,city_0608_montana_conrad
-S60370399,L9994343,"602 S Virginia St, Conrad US-MT (48.1665,-111.9504)",2019-10-05,2019,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,15,0.345,1,48.166489,-111.950449,3,3,city_0608_montana_conrad
-S70705866,L11749508,"714 South Virginia Street, Conrad, Montana, US (48.165, -111.952)",2020-06-22,2020,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,129,,1,48.16455,-111.951511,12,12,city_0608_montana_conrad
-S93726055,L16207862,Conrad City Park,2021-08-25,2021,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,6,0.303,1,48.166264,-111.951184,9,9,city_0608_montana_conrad
-S119848859,L21090990,"Conrad City Park, Conrad US-MT 48.16640, -111.95017",2022-10-02,2022,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,100,0.525,1,48.166405,-111.950166,17,17,city_0608_montana_conrad
-S119839190,L16768817,Conrad (town),2022-10-02,2022,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,5,,1,48.1690626,-111.9469288,5,5,city_0608_montana_conrad
-S147747620,L16768817,Conrad (town),2023-08-20,2023,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,12,3.437,1,48.1690626,-111.9469288,7,7,city_0608_montana_conrad
-S143023615,L16768817,Conrad (town),2023-06-29,2023,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,23,,1,48.1690626,-111.9469288,9,9,city_0608_montana_conrad
-S191048369,L16768817,Conrad (town),2024-08-11,2024,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,70,2.592,1,48.1690626,-111.9469288,12,12,city_0608_montana_conrad
-S169783059,L16768817,Conrad (town),2024-04-21,2024,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,12,,1,48.1690626,-111.9469288,1,1,city_0608_montana_conrad
-S272842169,L16768817,Conrad (town),2025-09-11,2025,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,11,2.414,1,48.1690626,-111.9469288,6,6,city_0608_montana_conrad
-S271816299,L16768817,Conrad (town),2025-09-06,2025,608,"Conrad, MT",Conrad,Montana,Pondera,3284143.08905684,6,0.467,1,48.1690626,-111.9469288,4,4,city_0608_montana_conrad
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S46217689,L7503198,Conrad,2018-05-28,2018,608,"Conrad, MT",Conrad,Montana,Pondera,100,15,1.609,1,Traveling,48.1799175,-111.9398904,18,18,city_0608_montana_conrad
+S57656090,L9527700,"19 South Main Street, Conrad, Montana, US (48.173, -111.944)",2019-06-24,2019,608,"Conrad, MT",Conrad,Montana,Pondera,100,26,0.32,1,Traveling,48.1730886,-111.9443511,2,2,city_0608_montana_conrad
+S60370399,L9994343,"602 S Virginia St, Conrad US-MT (48.1665,-111.9504)",2019-10-05,2019,608,"Conrad, MT",Conrad,Montana,Pondera,100,15,0.345,1,Traveling,48.166489,-111.950449,3,3,city_0608_montana_conrad
+S70705866,L11749508,"714 South Virginia Street, Conrad, Montana, US (48.165, -111.952)",2020-06-22,2020,608,"Conrad, MT",Conrad,Montana,Pondera,100,129,,1,Stationary,48.16455,-111.951511,12,12,city_0608_montana_conrad
+S93726055,L16207862,Conrad City Park,2021-08-25,2021,608,"Conrad, MT",Conrad,Montana,Pondera,100,6,0.303,1,Traveling,48.166264,-111.951184,9,9,city_0608_montana_conrad
+S119839190,L16768817,Conrad (town),2022-10-02,2022,608,"Conrad, MT",Conrad,Montana,Pondera,100,5,,1,Stationary,48.1690626,-111.9469288,5,5,city_0608_montana_conrad
+S119848859,L21090990,"Conrad City Park, Conrad US-MT 48.16640, -111.95017",2022-10-02,2022,608,"Conrad, MT",Conrad,Montana,Pondera,100,100,0.525,1,Traveling,48.166405,-111.950166,17,17,city_0608_montana_conrad
+S143023615,L16768817,Conrad (town),2023-06-29,2023,608,"Conrad, MT",Conrad,Montana,Pondera,100,23,,1,Stationary,48.1690626,-111.9469288,9,9,city_0608_montana_conrad
+S147747620,L16768817,Conrad (town),2023-08-20,2023,608,"Conrad, MT",Conrad,Montana,Pondera,100,12,3.437,1,Traveling,48.1690626,-111.9469288,7,7,city_0608_montana_conrad
+S169783059,L16768817,Conrad (town),2024-04-21,2024,608,"Conrad, MT",Conrad,Montana,Pondera,100,12,,1,Stationary,48.1690626,-111.9469288,1,1,city_0608_montana_conrad
+S191048369,L16768817,Conrad (town),2024-08-11,2024,608,"Conrad, MT",Conrad,Montana,Pondera,100,70,2.592,1,Traveling,48.1690626,-111.9469288,12,12,city_0608_montana_conrad
+S271816299,L16768817,Conrad (town),2025-09-06,2025,608,"Conrad, MT",Conrad,Montana,Pondera,100,6,0.467,1,Traveling,48.1690626,-111.9469288,4,4,city_0608_montana_conrad
+S272842169,L16768817,Conrad (town),2025-09-11,2025,608,"Conrad, MT",Conrad,Montana,Pondera,100,11,2.414,1,Traveling,48.1690626,-111.9469288,6,6,city_0608_montana_conrad

@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1221,"Homedale, ID",Homedale,Idaho,Owyhee,2016,3131921.67026649,15,21,city_1221_idaho_homedale,248.9874987602234,11.875,11.382285657610211,semiarid,12
-1221,"Homedale, ID",Homedale,Idaho,Owyhee,2018,3131921.67026649,8,9,city_1221_idaho_homedale,249.44375002384183,11.515625,11.593609296678196,semiarid,12
-1221,"Homedale, ID",Homedale,Idaho,Owyhee,2019,3131921.67026649,11,11,city_1221_idaho_homedale,287.4812489748001,10.65625,13.917397832365513,semiarid,12
-1221,"Homedale, ID",Homedale,Idaho,Owyhee,2022,3131921.67026649,8,8,city_1221_idaho_homedale,279.2375042438507,11.182291666666668,13.182591791202196,semiarid,12
-1221,"Homedale, ID",Homedale,Idaho,Owyhee,2023,3131921.67026649,17,20,city_1221_idaho_homedale,284.53125190734863,11.802083333333332,13.050645094651443,semiarid,12
-1221,"Homedale, ID",Homedale,Idaho,Owyhee,2025,3131921.67026649,29,86,city_1221_idaho_homedale,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1221,2016,"Homedale, ID",Homedale,Idaho,Owyhee,100,15,21,city_1221_idaho_homedale,248.987498760223,11.875,11.3822856576102,semiarid,12
+1221,2018,"Homedale, ID",Homedale,Idaho,Owyhee,100,8,9,city_1221_idaho_homedale,249.443750023842,11.515625,11.5936092966782,semiarid,12
+1221,2019,"Homedale, ID",Homedale,Idaho,Owyhee,100,11,11,city_1221_idaho_homedale,287.4812489748,10.65625,13.9173978323655,semiarid,12
+1221,2022,"Homedale, ID",Homedale,Idaho,Owyhee,100,8,8,city_1221_idaho_homedale,279.237504243851,11.1822916666667,13.1825917912022,semiarid,12
+1221,2023,"Homedale, ID",Homedale,Idaho,Owyhee,100,17,20,city_1221_idaho_homedale,284.531251907349,11.8020833333333,13.0506450946514,semiarid,12
+1221,2025,"Homedale, ID",Homedale,Idaho,Owyhee,100,29,86,city_1221_idaho_homedale,,,,,

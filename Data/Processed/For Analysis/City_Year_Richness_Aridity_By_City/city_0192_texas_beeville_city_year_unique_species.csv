@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-192,"Beeville, TX",Beeville,Texas,Bee,2015,31453647.6285055,61,185,city_0192_texas_beeville,1043.3875102996826,22.080729166666668,32.523809071765406,humid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2016,31453647.6285055,78,277,city_0192_texas_beeville,980.0125179290771,22.716145833333332,29.9550112938602,dry subhumid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2017,31453647.6285055,51,130,city_0192_texas_beeville,724.656247138977,22.911458333333332,22.01835724809046,dry subhumid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2018,31453647.6285055,83,298,city_0192_texas_beeville,790.4062366485596,22.4296875,24.37292177572046,dry subhumid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2019,31453647.6285055,94,275,city_0192_texas_beeville,678.9812517166138,22.369791666666668,20.97576835552531,dry subhumid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2020,31453647.6285055,120,531,city_0192_texas_beeville,621.2812404632568,22.794270833333332,18.94481031826337,semiarid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2021,31453647.6285055,114,501,city_0192_texas_beeville,906.1124801635742,22.338541666666668,28.019583860751524,dry subhumid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2022,31453647.6285055,80,306,city_0192_texas_beeville,541.6562433242798,22.46875,16.682386704886383,semiarid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2023,31453647.6285055,116,1004,city_0192_texas_beeville,640.4624996185303,23.2421875,19.266556980298912,semiarid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2024,31453647.6285055,97,459,city_0192_texas_beeville,805.4437522888184,23.497395833333332,24.04496625040086,dry subhumid,12
-192,"Beeville, TX",Beeville,Texas,Bee,2025,31453647.6285055,109,589,city_0192_texas_beeville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+192,2015,"Beeville, TX",Beeville,Texas,Bee,100,61,185,city_0192_texas_beeville,1043.38751029968,22.0807291666667,32.5238090717654,humid,12
+192,2016,"Beeville, TX",Beeville,Texas,Bee,100,78,277,city_0192_texas_beeville,980.012517929077,22.7161458333333,29.9550112938602,dry subhumid,12
+192,2017,"Beeville, TX",Beeville,Texas,Bee,100,51,130,city_0192_texas_beeville,724.656247138977,22.9114583333333,22.0183572480905,dry subhumid,12
+192,2018,"Beeville, TX",Beeville,Texas,Bee,100,83,298,city_0192_texas_beeville,790.40623664856,22.4296875,24.3729217757205,dry subhumid,12
+192,2019,"Beeville, TX",Beeville,Texas,Bee,100,94,275,city_0192_texas_beeville,678.981251716614,22.3697916666667,20.9757683555253,dry subhumid,12
+192,2020,"Beeville, TX",Beeville,Texas,Bee,100,120,531,city_0192_texas_beeville,621.281240463257,22.7942708333333,18.9448103182634,semiarid,12
+192,2021,"Beeville, TX",Beeville,Texas,Bee,100,114,501,city_0192_texas_beeville,906.112480163574,22.3385416666667,28.0195838607515,dry subhumid,12
+192,2022,"Beeville, TX",Beeville,Texas,Bee,100,80,306,city_0192_texas_beeville,541.65624332428,22.46875,16.6823867048864,semiarid,12
+192,2023,"Beeville, TX",Beeville,Texas,Bee,100,116,1004,city_0192_texas_beeville,640.46249961853,23.2421875,19.2665569802989,semiarid,12
+192,2024,"Beeville, TX",Beeville,Texas,Bee,100,97,459,city_0192_texas_beeville,805.443752288818,23.4973958333333,24.0449662504009,dry subhumid,12
+192,2025,"Beeville, TX",Beeville,Texas,Bee,100,109,589,city_0192_texas_beeville,,,,,

@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2017,6565097.63557942,28,49,city_2417_texas_slaton,559.2124948501587,17.247395833333332,20.523520789683737,dry subhumid,12
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2018,6565097.63557942,23,24,city_2417_texas_slaton,518.1000043153763,16.583333333333332,19.4896553347477,semiarid,12
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2019,6565097.63557942,2,2,city_2417_texas_slaton,523.5812540054321,16.377604166666668,19.84946209281133,semiarid,12
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2020,6565097.63557942,20,20,city_2417_texas_slaton,349.2937479019165,16.966145833333332,12.953046759472327,semiarid,12
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2021,6565097.63557942,22,30,city_2417_texas_slaton,514.8812594413757,16.5234375,19.412312579822117,semiarid,12
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2022,6565097.63557942,14,14,city_2417_texas_slaton,386.4187488555908,16.908854166666668,14.360282547231863,semiarid,12
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2023,6565097.63557942,45,87,city_2417_texas_slaton,400.1999959945678,17.5546875,14.523844481798893,semiarid,12
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2024,6565097.63557942,35,75,city_2417_texas_slaton,490.9874939918518,18.005208333333332,17.532006480646373,semiarid,12
-2417,"Slaton, TX",Slaton,Texas,Lubbock,2025,6565097.63557942,43,91,city_2417_texas_slaton,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2417,2017,"Slaton, TX",Slaton,Texas,Lubbock,100,28,49,city_2417_texas_slaton,559.212494850159,17.2473958333333,20.5235207896837,dry subhumid,12
+2417,2018,"Slaton, TX",Slaton,Texas,Lubbock,100,23,24,city_2417_texas_slaton,518.100004315376,16.5833333333333,19.4896553347477,semiarid,12
+2417,2019,"Slaton, TX",Slaton,Texas,Lubbock,100,2,2,city_2417_texas_slaton,523.581254005432,16.3776041666667,19.8494620928113,semiarid,12
+2417,2020,"Slaton, TX",Slaton,Texas,Lubbock,100,20,20,city_2417_texas_slaton,349.293747901917,16.9661458333333,12.9530467594723,semiarid,12
+2417,2021,"Slaton, TX",Slaton,Texas,Lubbock,100,22,30,city_2417_texas_slaton,514.881259441376,16.5234375,19.4123125798221,semiarid,12
+2417,2022,"Slaton, TX",Slaton,Texas,Lubbock,100,14,14,city_2417_texas_slaton,386.418748855591,16.9088541666667,14.3602825472319,semiarid,12
+2417,2023,"Slaton, TX",Slaton,Texas,Lubbock,100,45,87,city_2417_texas_slaton,400.199995994568,17.5546875,14.5238444817989,semiarid,12
+2417,2024,"Slaton, TX",Slaton,Texas,Lubbock,100,35,75,city_2417_texas_slaton,490.987493991852,18.0052083333333,17.5320064806464,semiarid,12
+2417,2025,"Slaton, TX",Slaton,Texas,Lubbock,100,43,91,city_2417_texas_slaton,,,,,

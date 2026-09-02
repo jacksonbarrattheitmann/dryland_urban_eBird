@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2012,"Page, AZ",Page,Arizona,Coconino,2015,8351649.38043581,28,80,city_2012_arizona_page,226.12499904632568,16.346354166666668,8.58278142075606,arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2016,8351649.38043581,12,23,city_2012_arizona_page,155.55000114440918,16.111979166666668,5.957036046619439,arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2017,8351649.38043581,50,126,city_2012_arizona_page,118.21875178813934,16.463541666666668,4.467230927636834,extremely arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2018,8351649.38043581,36,152,city_2012_arizona_page,154.39999961853027,16.291666666666668,5.872583186758679,arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2019,8351649.38043581,53,254,city_2012_arizona_page,167.9937505722046,15.1796875,6.671796485647591,arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2020,8351649.38043581,67,287,city_2012_arizona_page,121.39375019073486,16.268229166666668,4.621314570560344,extremely arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2021,8351649.38043581,57,238,city_2012_arizona_page,144.9437506198883,16.283854166666668,5.514554665415348,arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2022,8351649.38043581,29,153,city_2012_arizona_page,154.7624967098236,15.6796875,6.026650313008038,arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2023,8351649.38043581,51,287,city_2012_arizona_page,145.34999918937683,15.447916666666668,5.711665952591148,arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2024,8351649.38043581,53,394,city_2012_arizona_page,142.06249928474426,16.658854166666668,5.328904925792888,arid,12
-2012,"Page, AZ",Page,Arizona,Coconino,2025,8351649.38043581,58,473,city_2012_arizona_page,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2012,2015,"Page, AZ",Page,Arizona,Coconino,100,28,80,city_2012_arizona_page,226.124999046326,16.3463541666667,8.58278142075606,arid,12
+2012,2016,"Page, AZ",Page,Arizona,Coconino,100,12,23,city_2012_arizona_page,155.550001144409,16.1119791666667,5.95703604661944,arid,12
+2012,2017,"Page, AZ",Page,Arizona,Coconino,100,50,126,city_2012_arizona_page,118.218751788139,16.4635416666667,4.46723092763683,extremely arid,12
+2012,2018,"Page, AZ",Page,Arizona,Coconino,100,36,152,city_2012_arizona_page,154.39999961853,16.2916666666667,5.87258318675868,arid,12
+2012,2019,"Page, AZ",Page,Arizona,Coconino,100,53,254,city_2012_arizona_page,167.993750572205,15.1796875,6.67179648564759,arid,12
+2012,2020,"Page, AZ",Page,Arizona,Coconino,100,67,287,city_2012_arizona_page,121.393750190735,16.2682291666667,4.62131457056034,extremely arid,12
+2012,2021,"Page, AZ",Page,Arizona,Coconino,100,57,238,city_2012_arizona_page,144.943750619888,16.2838541666667,5.51455466541535,arid,12
+2012,2022,"Page, AZ",Page,Arizona,Coconino,100,29,153,city_2012_arizona_page,154.762496709824,15.6796875,6.02665031300804,arid,12
+2012,2023,"Page, AZ",Page,Arizona,Coconino,100,51,287,city_2012_arizona_page,145.349999189377,15.4479166666667,5.71166595259115,arid,12
+2012,2024,"Page, AZ",Page,Arizona,Coconino,100,53,394,city_2012_arizona_page,142.062499284744,16.6588541666667,5.32890492579289,arid,12
+2012,2025,"Page, AZ",Page,Arizona,Coconino,100,58,473,city_2012_arizona_page,,,,,

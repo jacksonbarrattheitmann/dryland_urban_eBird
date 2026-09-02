@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-909,"Fillmore, CA",Fillmore,California,Ventura,2015,6984921.79014236,6,6,city_0909_california_fillmore,219.79374557733536,17.940104166666668,7.866604371488188,arid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2016,6984921.79014236,27,112,city_0909_california_fillmore,396.7812539786101,17.393229166666668,14.484646974787172,semiarid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2017,6984921.79014236,63,435,city_0909_california_fillmore,452.2187390774488,17.440104166666668,16.480212186176363,semiarid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2018,6984921.79014236,76,1550,city_0909_california_fillmore,306.2437516003847,17.3671875,11.190179904324648,semiarid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2019,6984921.79014236,86,3762,city_0909_california_fillmore,629.5375020354986,16.802083333333332,23.48837939969214,dry subhumid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2020,6984921.79014236,78,1605,city_0909_california_fillmore,292.0062472820282,17.5,10.618408992073752,semiarid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2021,6984921.79014236,68,420,city_0909_california_fillmore,337.60625192523,17.096354166666668,12.45947147902819,semiarid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2022,6984921.79014236,50,117,city_0909_california_fillmore,252.8812484741211,16.916666666666668,9.394968983558678,arid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2023,6984921.79014236,67,236,city_0909_california_fillmore,599.7562442272902,16.265625,22.834265098481005,dry subhumid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2024,6984921.79014236,85,364,city_0909_california_fillmore,532.2687476724386,17.135416666666668,19.61527822516472,semiarid,12
-909,"Fillmore, CA",Fillmore,California,Ventura,2025,6984921.79014236,90,406,city_0909_california_fillmore,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+909,2015,"Fillmore, CA",Fillmore,California,Ventura,100,6,6,city_0909_california_fillmore,219.793745577335,17.9401041666667,7.86660437148819,arid,12
+909,2016,"Fillmore, CA",Fillmore,California,Ventura,100,27,112,city_0909_california_fillmore,396.78125397861,17.3932291666667,14.4846469747872,semiarid,12
+909,2017,"Fillmore, CA",Fillmore,California,Ventura,100,63,435,city_0909_california_fillmore,452.218739077449,17.4401041666667,16.4802121861764,semiarid,12
+909,2018,"Fillmore, CA",Fillmore,California,Ventura,100,76,1550,city_0909_california_fillmore,306.243751600385,17.3671875,11.1901799043246,semiarid,12
+909,2019,"Fillmore, CA",Fillmore,California,Ventura,100,86,3762,city_0909_california_fillmore,629.537502035499,16.8020833333333,23.4883793996921,dry subhumid,12
+909,2020,"Fillmore, CA",Fillmore,California,Ventura,100,78,1605,city_0909_california_fillmore,292.006247282028,17.5,10.6184089920738,semiarid,12
+909,2021,"Fillmore, CA",Fillmore,California,Ventura,100,68,420,city_0909_california_fillmore,337.60625192523,17.0963541666667,12.4594714790282,semiarid,12
+909,2022,"Fillmore, CA",Fillmore,California,Ventura,100,50,117,city_0909_california_fillmore,252.881248474121,16.9166666666667,9.39496898355868,arid,12
+909,2023,"Fillmore, CA",Fillmore,California,Ventura,100,67,236,city_0909_california_fillmore,599.75624422729,16.265625,22.834265098481,dry subhumid,12
+909,2024,"Fillmore, CA",Fillmore,California,Ventura,100,85,364,city_0909_california_fillmore,532.268747672439,17.1354166666667,19.6152782251647,semiarid,12
+909,2025,"Fillmore, CA",Fillmore,California,Ventura,100,90,406,city_0909_california_fillmore,,,,,

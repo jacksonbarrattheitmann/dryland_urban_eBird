@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1488,"Lexington, NE",Lexington,Nebraska,Dawson,2017,9896370.18541563,1,1,city_1488_nebraska_lexington,698.2312469482422,11.044270833333332,33.17916084991028,humid,12
-1488,"Lexington, NE",Lexington,Nebraska,Dawson,2018,9896370.18541563,32,53,city_1488_nebraska_lexington,717.9812564849854,9.989583333333332,35.91776999612225,humid,12
-1488,"Lexington, NE",Lexington,Nebraska,Dawson,2020,9896370.18541563,7,7,city_1488_nebraska_lexington,498.63750553131104,11.096354166666666,23.636193324777615,dry subhumid,12
-1488,"Lexington, NE",Lexington,Nebraska,Dawson,2022,9896370.18541563,19,34,city_1488_nebraska_lexington,402.0812458992005,10.513020833333332,19.60126931894033,semiarid,12
-1488,"Lexington, NE",Lexington,Nebraska,Dawson,2023,9896370.18541563,17,30,city_1488_nebraska_lexington,600.0375032424927,10.966145833333332,28.619351787991206,dry subhumid,12
-1488,"Lexington, NE",Lexington,Nebraska,Dawson,2024,9896370.18541563,15,20,city_1488_nebraska_lexington,560.40625,11.755208333333332,25.759636102465887,dry subhumid,12
-1488,"Lexington, NE",Lexington,Nebraska,Dawson,2025,9896370.18541563,32,88,city_1488_nebraska_lexington,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1488,2017,"Lexington, NE",Lexington,Nebraska,Dawson,100,1,1,city_1488_nebraska_lexington,698.231246948242,11.0442708333333,33.1791608499103,humid,12
+1488,2018,"Lexington, NE",Lexington,Nebraska,Dawson,100,32,53,city_1488_nebraska_lexington,717.981256484985,9.98958333333333,35.9177699961223,humid,12
+1488,2020,"Lexington, NE",Lexington,Nebraska,Dawson,100,7,7,city_1488_nebraska_lexington,498.637505531311,11.0963541666667,23.6361933247776,dry subhumid,12
+1488,2022,"Lexington, NE",Lexington,Nebraska,Dawson,100,19,34,city_1488_nebraska_lexington,402.0812458992,10.5130208333333,19.6012693189403,semiarid,12
+1488,2023,"Lexington, NE",Lexington,Nebraska,Dawson,100,17,30,city_1488_nebraska_lexington,600.037503242493,10.9661458333333,28.6193517879912,dry subhumid,12
+1488,2024,"Lexington, NE",Lexington,Nebraska,Dawson,100,15,20,city_1488_nebraska_lexington,560.40625,11.7552083333333,25.7596361024659,dry subhumid,12
+1488,2025,"Lexington, NE",Lexington,Nebraska,Dawson,100,32,88,city_1488_nebraska_lexington,,,,,

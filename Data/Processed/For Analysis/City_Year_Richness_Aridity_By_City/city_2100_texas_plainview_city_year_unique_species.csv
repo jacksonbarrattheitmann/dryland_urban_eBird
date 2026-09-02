@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2100,"Plainview, TX",Plainview,Texas,Hale,2015,36790798.459561,102,562,city_2100_texas_plainview,753.8187427520752,15.247395833333334,29.85728697439885,dry subhumid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2016,36790798.459561,138,1162,city_2100_texas_plainview,515.5312533378601,15.984375,19.840048234289263,semiarid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2017,36790798.459561,111,650,city_2100_texas_plainview,534.4000024795532,15.911458333333334,20.624080497703357,dry subhumid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2018,36790798.459561,117,508,city_2100_texas_plainview,465.2375028133392,15.197916666666668,18.46333206700313,semiarid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2019,36790798.459561,86,370,city_2100_texas_plainview,477.0874967575073,14.934895833333334,19.13332624071883,semiarid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2020,36790798.459561,104,661,city_2100_texas_plainview,311.6374979019165,15.559895833333334,12.19244006055384,semiarid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2021,36790798.459561,134,1632,city_2100_texas_plainview,466.7249984741211,15.247395833333332,18.48606492151238,semiarid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2022,36790798.459561,109,892,city_2100_texas_plainview,358.4125030040741,15.549479166666668,14.028172577062934,semiarid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2023,36790798.459561,97,579,city_2100_texas_plainview,392.09999990463257,16.197916666666668,14.966838962562514,semiarid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2024,36790798.459561,106,570,city_2100_texas_plainview,443.7499916553498,16.609375,16.67645300407656,semiarid,12
-2100,"Plainview, TX",Plainview,Texas,Hale,2025,36790798.459561,118,748,city_2100_texas_plainview,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2100,2015,"Plainview, TX",Plainview,Texas,Hale,100,102,562,city_2100_texas_plainview,753.818742752075,15.2473958333333,29.8572869743989,dry subhumid,12
+2100,2016,"Plainview, TX",Plainview,Texas,Hale,100,138,1162,city_2100_texas_plainview,515.53125333786,15.984375,19.8400482342893,semiarid,12
+2100,2017,"Plainview, TX",Plainview,Texas,Hale,100,111,650,city_2100_texas_plainview,534.400002479553,15.9114583333333,20.6240804977034,dry subhumid,12
+2100,2018,"Plainview, TX",Plainview,Texas,Hale,100,117,508,city_2100_texas_plainview,465.237502813339,15.1979166666667,18.4633320670031,semiarid,12
+2100,2019,"Plainview, TX",Plainview,Texas,Hale,100,86,370,city_2100_texas_plainview,477.087496757507,14.9348958333333,19.1333262407188,semiarid,12
+2100,2020,"Plainview, TX",Plainview,Texas,Hale,100,104,661,city_2100_texas_plainview,311.637497901917,15.5598958333333,12.1924400605538,semiarid,12
+2100,2021,"Plainview, TX",Plainview,Texas,Hale,100,134,1632,city_2100_texas_plainview,466.724998474121,15.2473958333333,18.4860649215124,semiarid,12
+2100,2022,"Plainview, TX",Plainview,Texas,Hale,100,109,892,city_2100_texas_plainview,358.412503004074,15.5494791666667,14.0281725770629,semiarid,12
+2100,2023,"Plainview, TX",Plainview,Texas,Hale,100,97,579,city_2100_texas_plainview,392.099999904633,16.1979166666667,14.9668389625625,semiarid,12
+2100,2024,"Plainview, TX",Plainview,Texas,Hale,100,106,570,city_2100_texas_plainview,443.74999165535,16.609375,16.6764530040766,semiarid,12
+2100,2025,"Plainview, TX",Plainview,Texas,Hale,100,118,748,city_2100_texas_plainview,,,,,

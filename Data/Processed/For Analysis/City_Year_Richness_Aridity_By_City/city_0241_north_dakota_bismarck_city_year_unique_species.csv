@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2015,102003543.005181,135,2720,city_0241_north_dakota_bismarck,471.8437490463257,7.4296875,27.071268434751097,dry subhumid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2016,102003543.005181,108,1420,city_0241_north_dakota_bismarck,509.2499985694885,8.028645833333332,28.246713773029555,dry subhumid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2017,102003543.005181,159,3137,city_0241_north_dakota_bismarck,374.9375004768371,6.963541666666666,22.102548385493627,dry subhumid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2018,102003543.005181,177,4188,city_0241_north_dakota_bismarck,470.7062478065491,5.510416666666667,30.347750026479993,humid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2019,102003543.005181,173,4286,city_0241_north_dakota_bismarck,683.312502861023,4.7578125,46.301747149926385,humid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2020,102003543.005181,176,6338,city_0241_north_dakota_bismarck,317.04999828338623,7.015625,18.632874095626004,semiarid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2021,102003543.005181,152,3983,city_0241_north_dakota_bismarck,371.14375162124634,7.9375,20.690940856933594,dry subhumid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2022,102003543.005181,154,3778,city_0241_north_dakota_bismarck,441.0937585830689,5.981770833333333,27.59980500177586,dry subhumid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2023,102003543.005181,171,7188,city_0241_north_dakota_bismarck,472.4312505722046,7.184895833333333,27.491074438509862,dry subhumid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2024,102003543.005181,185,14087,city_0241_north_dakota_bismarck,460.52500104904175,8.127604166666668,25.404625830029023,dry subhumid,12
-241,"Bismarck, ND",Bismarck,North Dakota,Burleigh,2025,102003543.005181,184,10296,city_0241_north_dakota_bismarck,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+241,2015,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,135,2720,city_0241_north_dakota_bismarck,471.843749046326,7.4296875,27.0712684347511,dry subhumid,12
+241,2016,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,108,1420,city_0241_north_dakota_bismarck,509.249998569489,8.02864583333333,28.2467137730296,dry subhumid,12
+241,2017,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,159,3137,city_0241_north_dakota_bismarck,374.937500476837,6.96354166666667,22.1025483854936,dry subhumid,12
+241,2018,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,177,4188,city_0241_north_dakota_bismarck,470.706247806549,5.51041666666667,30.34775002648,humid,12
+241,2019,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,173,4288,city_0241_north_dakota_bismarck,683.312502861023,4.7578125,46.3017471499264,humid,12
+241,2020,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,176,6338,city_0241_north_dakota_bismarck,317.049998283386,7.015625,18.632874095626,semiarid,12
+241,2021,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,152,3983,city_0241_north_dakota_bismarck,371.143751621246,7.9375,20.6909408569336,dry subhumid,12
+241,2022,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,154,3778,city_0241_north_dakota_bismarck,441.093758583069,5.98177083333333,27.5998050017759,dry subhumid,12
+241,2023,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,171,7188,city_0241_north_dakota_bismarck,472.431250572205,7.18489583333333,27.4910744385099,dry subhumid,12
+241,2024,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,185,14087,city_0241_north_dakota_bismarck,460.525001049042,8.12760416666667,25.404625830029,dry subhumid,12
+241,2025,"Bismarck, ND",Bismarck,North Dakota,Burleigh,99.9999999999994,184,10303,city_0241_north_dakota_bismarck,,,,,

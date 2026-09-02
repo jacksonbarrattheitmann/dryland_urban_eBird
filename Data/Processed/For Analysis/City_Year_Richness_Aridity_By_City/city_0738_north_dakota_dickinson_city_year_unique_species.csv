@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2015,19569266.3392894,91,446,city_0738_north_dakota_dickinson,474.8562593460083,7.161458333333334,27.66992467205875,dry subhumid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2016,19569266.3392894,48,86,city_0738_north_dakota_dickinson,509.3687515258789,7.653645833333334,28.853459298707403,dry subhumid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2017,19569266.3392894,61,273,city_0738_north_dakota_dickinson,366.1249995231629,6.424479166666666,22.29142220023697,dry subhumid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2018,19569266.3392894,69,229,city_0738_north_dakota_dickinson,504.1812481880188,5.091145833333333,33.40907667026734,humid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2019,19569266.3392894,68,761,city_0738_north_dakota_dickinson,670.5624933242798,4.393229166666667,46.58874569142816,humid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2020,19569266.3392894,74,1218,city_0738_north_dakota_dickinson,282.30000495910645,6.5390625,17.068682397149562,semiarid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2021,19569266.3392894,78,1059,city_0738_north_dakota_dickinson,361.8437452316284,7.348958333333333,20.856799484981284,dry subhumid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2022,19569266.3392894,59,363,city_0738_north_dakota_dickinson,436.506245136261,5.677083333333333,27.84358772962197,dry subhumid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2023,19569266.3392894,65,409,city_0738_north_dakota_dickinson,547.5437445640564,6.697916666666667,32.791141283936,humid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2024,19569266.3392894,75,677,city_0738_north_dakota_dickinson,439.5062522888184,7.5078125,25.103436096817827,dry subhumid,12
-738,"Dickinson, ND",Dickinson,North Dakota,Stark,2025,19569266.3392894,91,1070,city_0738_north_dakota_dickinson,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+738,2015,"Dickinson, ND",Dickinson,North Dakota,Stark,100,91,446,city_0738_north_dakota_dickinson,474.856259346008,7.16145833333333,27.6699246720588,dry subhumid,12
+738,2016,"Dickinson, ND",Dickinson,North Dakota,Stark,100,48,86,city_0738_north_dakota_dickinson,509.368751525879,7.65364583333333,28.8534592987074,dry subhumid,12
+738,2017,"Dickinson, ND",Dickinson,North Dakota,Stark,100,61,273,city_0738_north_dakota_dickinson,366.124999523163,6.42447916666667,22.291422200237,dry subhumid,12
+738,2018,"Dickinson, ND",Dickinson,North Dakota,Stark,100,69,229,city_0738_north_dakota_dickinson,504.181248188019,5.09114583333333,33.4090766702673,humid,12
+738,2019,"Dickinson, ND",Dickinson,North Dakota,Stark,100,68,761,city_0738_north_dakota_dickinson,670.56249332428,4.39322916666667,46.5887456914282,humid,12
+738,2020,"Dickinson, ND",Dickinson,North Dakota,Stark,100,74,1218,city_0738_north_dakota_dickinson,282.300004959106,6.5390625,17.0686823971496,semiarid,12
+738,2021,"Dickinson, ND",Dickinson,North Dakota,Stark,100,78,1059,city_0738_north_dakota_dickinson,361.843745231628,7.34895833333333,20.8567994849813,dry subhumid,12
+738,2022,"Dickinson, ND",Dickinson,North Dakota,Stark,100,59,363,city_0738_north_dakota_dickinson,436.506245136261,5.67708333333333,27.843587729622,dry subhumid,12
+738,2023,"Dickinson, ND",Dickinson,North Dakota,Stark,100,65,409,city_0738_north_dakota_dickinson,547.543744564056,6.69791666666667,32.791141283936,humid,12
+738,2024,"Dickinson, ND",Dickinson,North Dakota,Stark,100,75,677,city_0738_north_dakota_dickinson,439.506252288818,7.5078125,25.1034360968178,dry subhumid,12
+738,2025,"Dickinson, ND",Dickinson,North Dakota,Stark,100,91,1070,city_0738_north_dakota_dickinson,,,,,

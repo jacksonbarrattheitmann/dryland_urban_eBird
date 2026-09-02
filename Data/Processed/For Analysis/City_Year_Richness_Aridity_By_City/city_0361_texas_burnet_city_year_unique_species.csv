@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-361,"Burnet, TX",Burnet,Texas,Burnet,2015,10068535.5182724,16,28,city_0361_texas_burnet,1149.2937536239624,19.236979166666668,39.30959306952895,humid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2016,10068535.5182724,23,45,city_0361_texas_burnet,1099.8562593460083,19.8671875,36.82490222241409,humid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2017,10068535.5182724,15,15,city_0361_texas_burnet,676.5187454223633,19.8515625,22.662758286852263,dry subhumid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2018,10068535.5182724,41,109,city_0361_texas_burnet,813.218747138977,19.2421875,27.80977815489956,dry subhumid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2019,10068535.5182724,59,142,city_0361_texas_burnet,678.4874992370605,19.408854166666668,23.07085802771905,dry subhumid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2020,10068535.5182724,62,233,city_0361_texas_burnet,671.8812522888184,19.927083333333332,22.450609195867234,dry subhumid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2021,10068535.5182724,69,335,city_0361_texas_burnet,808.6687593460083,19.247395833333332,27.649256841676362,dry subhumid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2022,10068535.5182724,87,407,city_0361_texas_burnet,413.7874994277954,19.638020833333332,13.96137420088511,semiarid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2023,10068535.5182724,85,436,city_0361_texas_burnet,647.6812419891357,20.497395833333332,21.23726384799147,dry subhumid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2024,10068535.5182724,92,592,city_0361_texas_burnet,667.7687587738037,20.778645833333332,21.69584595728409,dry subhumid,12
-361,"Burnet, TX",Burnet,Texas,Burnet,2025,10068535.5182724,95,853,city_0361_texas_burnet,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+361,2015,"Burnet, TX",Burnet,Texas,Burnet,100,16,28,city_0361_texas_burnet,1149.29375362396,19.2369791666667,39.309593069529,humid,12
+361,2016,"Burnet, TX",Burnet,Texas,Burnet,100,23,45,city_0361_texas_burnet,1099.85625934601,19.8671875,36.8249022224141,humid,12
+361,2017,"Burnet, TX",Burnet,Texas,Burnet,100,15,15,city_0361_texas_burnet,676.518745422363,19.8515625,22.6627582868523,dry subhumid,12
+361,2018,"Burnet, TX",Burnet,Texas,Burnet,100,41,109,city_0361_texas_burnet,813.218747138977,19.2421875,27.8097781548996,dry subhumid,12
+361,2019,"Burnet, TX",Burnet,Texas,Burnet,100,59,142,city_0361_texas_burnet,678.487499237061,19.4088541666667,23.0708580277191,dry subhumid,12
+361,2020,"Burnet, TX",Burnet,Texas,Burnet,100,62,233,city_0361_texas_burnet,671.881252288818,19.9270833333333,22.4506091958672,dry subhumid,12
+361,2021,"Burnet, TX",Burnet,Texas,Burnet,100,69,335,city_0361_texas_burnet,808.668759346008,19.2473958333333,27.6492568416764,dry subhumid,12
+361,2022,"Burnet, TX",Burnet,Texas,Burnet,100,87,407,city_0361_texas_burnet,413.787499427795,19.6380208333333,13.9613742008851,semiarid,12
+361,2023,"Burnet, TX",Burnet,Texas,Burnet,100,85,436,city_0361_texas_burnet,647.681241989136,20.4973958333333,21.2372638479915,dry subhumid,12
+361,2024,"Burnet, TX",Burnet,Texas,Burnet,100,92,592,city_0361_texas_burnet,667.768758773804,20.7786458333333,21.6958459572841,dry subhumid,12
+361,2025,"Burnet, TX",Burnet,Texas,Burnet,100,95,853,city_0361_texas_burnet,,,,,

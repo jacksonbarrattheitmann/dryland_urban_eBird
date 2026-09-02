@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-79,"Antioch, CA",Antioch,California,Contra Costa,2015,212401039.222226,178,3531,city_0079_california_antioch,232.4312505722046,17.640625,8.409044678700448,arid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2016,212401039.222226,191,7559,city_0079_california_antioch,432.4312536120415,17.091145833333332,15.962087992600589,semiarid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2017,212401039.222226,161,3718,city_0079_california_antioch,463.5374973416328,17.166666666666668,17.062729963495688,semiarid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2018,212401039.222226,189,5281,city_0079_california_antioch,346.0875014066696,16.9765625,12.829192059094616,semiarid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2019,212401039.222226,184,5054,city_0079_california_antioch,438.806243956089,16.833333333333332,16.35302772507164,semiarid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2020,212401039.222226,202,10925,city_0079_california_antioch,157.99999856948853,17.354166666666668,5.7760852485418495,arid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2021,212401039.222226,204,11111,city_0079_california_antioch,370.1125019192696,16.921875,13.747649519926435,semiarid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2022,212401039.222226,210,12247,city_0079_california_antioch,250.13125425577164,16.963541666666668,9.276646864421124,arid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2023,212401039.222226,207,11755,city_0079_california_antioch,444.7749962210655,16.575520833333332,16.736266393815693,semiarid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2024,212401039.222226,216,11060,city_0079_california_antioch,438.3875073194504,17.260416666666668,16.08146759750372,semiarid,12
-79,"Antioch, CA",Antioch,California,Contra Costa,2025,212401039.222226,189,8765,city_0079_california_antioch,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+79,2015,"Antioch, CA",Antioch,California,Contra Costa,100,178,3531,city_0079_california_antioch,232.431250572205,17.640625,8.40904467870045,arid,12
+79,2016,"Antioch, CA",Antioch,California,Contra Costa,100,191,7559,city_0079_california_antioch,432.431253612041,17.0911458333333,15.9620879926006,semiarid,12
+79,2017,"Antioch, CA",Antioch,California,Contra Costa,100,161,3718,city_0079_california_antioch,463.537497341633,17.1666666666667,17.0627299634957,semiarid,12
+79,2018,"Antioch, CA",Antioch,California,Contra Costa,100,189,5281,city_0079_california_antioch,346.08750140667,16.9765625,12.8291920590946,semiarid,12
+79,2019,"Antioch, CA",Antioch,California,Contra Costa,100,184,5054,city_0079_california_antioch,438.806243956089,16.8333333333333,16.3530277250716,semiarid,12
+79,2020,"Antioch, CA",Antioch,California,Contra Costa,100,202,10925,city_0079_california_antioch,157.999998569489,17.3541666666667,5.77608524854185,arid,12
+79,2021,"Antioch, CA",Antioch,California,Contra Costa,100,204,11111,city_0079_california_antioch,370.11250191927,16.921875,13.7476495199264,semiarid,12
+79,2022,"Antioch, CA",Antioch,California,Contra Costa,100,210,12246,city_0079_california_antioch,250.131254255772,16.9635416666667,9.27664686442112,arid,12
+79,2023,"Antioch, CA",Antioch,California,Contra Costa,100,207,11755,city_0079_california_antioch,444.774996221066,16.5755208333333,16.7362663938157,semiarid,12
+79,2024,"Antioch, CA",Antioch,California,Contra Costa,100,216,11060,city_0079_california_antioch,438.38750731945,17.2604166666667,16.0814675975037,semiarid,12
+79,2025,"Antioch, CA",Antioch,California,Contra Costa,100,189,8774,city_0079_california_antioch,,,,,

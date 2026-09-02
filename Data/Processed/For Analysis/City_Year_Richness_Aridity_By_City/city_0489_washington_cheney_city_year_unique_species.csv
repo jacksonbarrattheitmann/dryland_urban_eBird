@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-489,"Cheney, WA",Cheney,Washington,Spokane,2015,7969516.77742801,30,137,city_0489_washington_cheney,374.44999742507935,10.075520833333332,18.652068881986057,semiarid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2016,7969516.77742801,6,6,city_0489_washington_cheney,434.8312511444092,9.544270833333332,22.248527706789226,dry subhumid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2018,7969516.77742801,19,58,city_0489_washington_cheney,403.9187505245209,9.033854166666666,21.22106994136216,dry subhumid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2019,7969516.77742801,26,115,city_0489_washington_cheney,375.15625190734863,7.890625,20.969432421022105,dry subhumid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2020,7969516.77742801,24,54,city_0489_washington_cheney,422.8375070095062,9.072916666666666,22.169525217319823,dry subhumid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2021,7969516.77742801,54,206,city_0489_washington_cheney,342.71875309944153,9.502604166666666,17.5729738536768,semiarid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2022,7969516.77742801,46,302,city_0489_washington_cheney,431.66874384880066,8.369791666666668,23.49883720413091,dry subhumid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2023,7969516.77742801,29,122,city_0489_washington_cheney,345.82500076293945,9.419270833333332,17.808341195248595,semiarid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2024,7969516.77742801,83,457,city_0489_washington_cheney,420.5812520980835,9.463541666666668,21.608670163990375,dry subhumid,12
-489,"Cheney, WA",Cheney,Washington,Spokane,2025,7969516.77742801,48,131,city_0489_washington_cheney,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+489,2015,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,30,137,city_0489_washington_cheney,374.449997425079,10.0755208333333,18.6520688819861,semiarid,12
+489,2016,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,6,6,city_0489_washington_cheney,434.831251144409,9.54427083333333,22.2485277067892,dry subhumid,12
+489,2018,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,19,58,city_0489_washington_cheney,403.918750524521,9.03385416666667,21.2210699413622,dry subhumid,12
+489,2019,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,26,115,city_0489_washington_cheney,375.156251907349,7.890625,20.9694324210221,dry subhumid,12
+489,2020,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,24,54,city_0489_washington_cheney,422.837507009506,9.07291666666667,22.1695252173198,dry subhumid,12
+489,2021,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,54,206,city_0489_washington_cheney,342.718753099442,9.50260416666667,17.5729738536768,semiarid,12
+489,2022,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,46,302,city_0489_washington_cheney,431.668743848801,8.36979166666667,23.4988372041309,dry subhumid,12
+489,2023,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,29,122,city_0489_washington_cheney,345.825000762939,9.41927083333333,17.8083411952486,semiarid,12
+489,2024,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,83,457,city_0489_washington_cheney,420.581252098084,9.46354166666667,21.6086701639904,dry subhumid,12
+489,2025,"Cheney, WA",Cheney,Washington,Spokane,99.9999999999915,48,131,city_0489_washington_cheney,,,,,

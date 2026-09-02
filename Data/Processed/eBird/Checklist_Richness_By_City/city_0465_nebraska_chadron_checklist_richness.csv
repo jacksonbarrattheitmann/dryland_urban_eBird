@@ -1,138 +1,139 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S202317298,L2480183,Wilson Park,2015-12-21,2015,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,20,,1,42.8221098,-103.0064473,4,4,city_0465_nebraska_chadron
-S36895826,L155993,Chadron (town),2017-05-15,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,83,4.023,1,42.82481,-103.00425,19,19,city_0465_nebraska_chadron
-S39442034,L6306542,Home,2017-09-28,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,15,,1,42.8255613,-102.9985642,2,2,city_0465_nebraska_chadron
-S34487947,L155993,Chadron (town),2017-02-18,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,48,3.219,1,42.82481,-103.00425,9,9,city_0465_nebraska_chadron
-S40716879,L155993,Chadron (town),2017-11-25,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,9,3.829,1,42.82481,-103.00425,4,4,city_0465_nebraska_chadron
-S33772785,L5275873,US-Nebraska-Chadron-510 Linden Street - 42.827x-103.023,2017-01-18,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,15,0.402,1,42.8270588,-103.0231131,5,5,city_0465_nebraska_chadron
-S45718711,L2480183,Wilson Park,2018-05-15,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,58,0.805,1,42.8221098,-103.0064473,16,16,city_0465_nebraska_chadron
-S46394582,L7539126,"1201 U.S. 20, Chadron, Nebraska, US (42.828, -103.016)",2018-05-27,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,,1,42.8278224,-103.0164821,7,7,city_0465_nebraska_chadron
-S43794311,L5275873,US-Nebraska-Chadron-510 Linden Street - 42.827x-103.023,2018-03-19,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,50,1.303,1,42.8270588,-103.0231131,9,9,city_0465_nebraska_chadron
-S43803507,L7094378,"Chadron, NE  69337, Chadron US-NE (42.8301,-103.0201)",2018-03-20,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,18,,1,42.830088,-103.020084,4,4,city_0465_nebraska_chadron
-S47357594,L7740858,"236 N Chadron Ave, Chadron US-NE (42.8372,-103.0008)",2018-07-04,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,20,0.483,1,42.837202,-103.000767,5,5,city_0465_nebraska_chadron
-S48815958,L7380423,Home,2018-09-29,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,10,,1,42.8245777,-102.9984999,4,4,city_0465_nebraska_chadron
-S47569349,L7773473,Walmart,2018-07-31,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,6,,1,42.827112,-103.021605,2,2,city_0465_nebraska_chadron
-S59454003,L2480183,Wilson Park,2019-09-01,2019,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,26,0.805,1,42.8221098,-103.0064473,17,17,city_0465_nebraska_chadron
-S55148006,L9078436,"502 N Pine St, Chadron US-NE (42.8419,-103.0075)",2019-04-08,2019,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,8,,1,42.841931,-103.00746,10,10,city_0465_nebraska_chadron
-S54637441,L8990040,"Chadron Stste College, Chadron, Nebraska, US (42.819, -103)",2019-04-06,2019,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,81,3.364,1,42.8192733,-103.000364,6,6,city_0465_nebraska_chadron
-S69964322,L11605828,US-NE- US 20 Dawes Co,2020-06-02,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,14,9.028,1,42.8219439,-103.0166445,9,9,city_0465_nebraska_chadron
-S69956208,L11604316,Chadron Intermediate/ Kenwood School,2020-05-22,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,15,,1,42.8402113,-103.0038214,2,2,city_0465_nebraska_chadron
-S69732006,L2480183,Wilson Park,2020-05-27,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,18,1.159,1,42.8221098,-103.0064473,10,10,city_0465_nebraska_chadron
-S70326215,L2480183,Wilson Park,2020-06-10,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,0.972,1,42.8221098,-103.0064473,9,9,city_0465_nebraska_chadron
-S72373018,L12060316,"Chadron State College, Chadron US-NE 42.82039, -102.99864",2020-08-13,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,26,1.391,1,42.820389,-102.998642,3,3,city_0465_nebraska_chadron
-S69955875,L11604316,Chadron Intermediate/ Kenwood School,2020-05-21,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,20,,1,42.8402113,-103.0038214,2,2,city_0465_nebraska_chadron
-S87427862,L13694362,Maple St. Backyard,2021-05-08,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,29,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S94254225,L2480183,Wilson Park,2021-09-05,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,50,1.127,1,42.8221098,-103.0064473,13,13,city_0465_nebraska_chadron
-S89603949,L2480183,Wilson Park,2021-06-03,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,33,0.774,1,42.8221098,-103.0064473,17,17,city_0465_nebraska_chadron
-S88915923,L13694362,Maple St. Backyard,2021-05-24,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,90,,1,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
-S95320198,L16495999,Finnegan Park,2021-09-26,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,17,0.161,1,42.8263262,-102.9920542,11,11,city_0465_nebraska_chadron
-S89187812,L13694362,Maple St. Backyard,2021-05-29,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,23,,1,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
-S81658001,L13694362,Maple St. Backyard,2021-02-15,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,38,,1,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
-S89137649,L13694362,Maple St. Backyard,2021-05-28,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,14,,1,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
-S94253981,L6610793,"Greenwood Cemetery, Chadron",2021-09-05,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,20,0.805,1,42.8274341,-103.0243886,5,5,city_0465_nebraska_chadron
-S92821468,L13694362,Maple St. Backyard,2021-08-05,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,18,,1,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
-S98211122,L13694362,Maple St. Backyard,2021-11-28,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,17,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S86772483,L14681978,Marchant Road,2021-04-30,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,20,0.322,1,42.826869,-102.993725,6,6,city_0465_nebraska_chadron
-S90687406,L155993,Chadron (town),2021-06-24,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,62,2.248,1,42.82481,-103.00425,10,10,city_0465_nebraska_chadron
-S87814032,L14878993,Chadron,2021-05-11,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,10,,1,42.828331,-103.017011,6,6,city_0465_nebraska_chadron
-S93105253,L155993,Chadron (town),2021-08-10,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,10,,1,42.82481,-103.00425,2,2,city_0465_nebraska_chadron
-S87480340,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2021-05-08,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,16,,1,42.8323296,-103.0070885,2,2,city_0465_nebraska_chadron
-S81561027,L13694362,Maple St. Backyard,2021-02-15,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,25,,1,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
-S81465685,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2021-02-14,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,53,,1,42.8323296,-103.0070885,2,2,city_0465_nebraska_chadron
-S86799181,L14681978,Marchant Road,2021-05-01,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,23,0.116,1,42.826869,-102.993725,6,6,city_0465_nebraska_chadron
-S89020365,L13694362,Maple St. Backyard,2021-05-26,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,48,1.867,1,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
-S81230488,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2021-02-13,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,29,,1,42.8323296,-103.0070885,3,3,city_0465_nebraska_chadron
-S90223527,L13694362,Maple St. Backyard,2021-06-15,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,15,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S81338497,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2021-02-14,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,33,,1,42.8323296,-103.0070885,3,3,city_0465_nebraska_chadron
-S108923384,L13694362,Maple St. Backyard,2022-05-04,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,11,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S100795931,L13694362,Maple St. Backyard,2022-01-15,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,32,,1,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
-S102558673,L13694362,Maple St. Backyard,2022-02-13,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,19,,1,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
-S107687044,L13694362,Maple St. Backyard,2022-04-22,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,12,,1,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
-S113468506,L2480183,Wilson Park,2022-06-21,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,116,1.665,1,42.8221098,-103.0064473,28,28,city_0465_nebraska_chadron
-S106962768,L13694362,Maple St. Backyard,2022-04-13,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,27,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S113058165,L155993,Chadron (town),2022-06-16,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,42,2.414,1,42.82481,-103.00425,10,10,city_0465_nebraska_chadron
-S119064795,L155993,Chadron (town),2022-09-19,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,20,0.339,1,42.82481,-103.00425,7,7,city_0465_nebraska_chadron
-S120432503,L2480183,Wilson Park,2022-10-10,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,64,1.041,1,42.8221098,-103.0064473,16,16,city_0465_nebraska_chadron
-S120540662,L2480183,Wilson Park,2022-10-12,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,20,,1,42.8221098,-103.0064473,10,10,city_0465_nebraska_chadron
-S120823127,L2480183,Wilson Park,2022-10-16,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,35,1.207,1,42.8221098,-103.0064473,10,10,city_0465_nebraska_chadron
-S102340160,L2480183,Wilson Park,2022-02-08,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,23,,1,42.8221098,-103.0064473,5,5,city_0465_nebraska_chadron
-S106289921,L13694362,Maple St. Backyard,2022-04-04,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,,1,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
-S109044383,L13694362,Maple St. Backyard,2022-05-05,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,6,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S120274663,L155993,Chadron (town),2022-10-08,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,11,0.133,1,42.82481,-103.00425,7,7,city_0465_nebraska_chadron
-S103654412,L17812290,Mears,2022-02-24,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,60,,1,42.8241436,-103.005445,11,11,city_0465_nebraska_chadron
-S120823083,L21266203,"Greenwood Cemetery, Chadron",2022-10-16,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,10,0.402,1,42.827435,-103.0243554,4,4,city_0465_nebraska_chadron
-S102998411,L13694362,Maple St. Backyard,2022-02-19,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,11,,1,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
-S110918528,L155993,Chadron (town),2022-05-20,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,42,2.736,1,42.82481,-103.00425,13,13,city_0465_nebraska_chadron
-S119299539,L155993,Chadron (town),2022-09-23,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,10,0.805,1,42.82481,-103.00425,8,8,city_0465_nebraska_chadron
-S102100898,L2480183,Wilson Park,2022-02-05,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,46,1.11,1,42.8221098,-103.0064473,8,8,city_0465_nebraska_chadron
-S113994145,L2480183,Wilson Park,2022-06-28,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,66,,1,42.8221098,-103.0064473,20,20,city_0465_nebraska_chadron
-S101227580,L13694362,Maple St. Backyard,2022-01-22,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,28,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S120275722,L155993,Chadron (town),2022-10-08,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,10,,1,42.82481,-103.00425,6,6,city_0465_nebraska_chadron
-S119132972,L155993,Chadron (town),2022-09-21,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,7,0.229,1,42.82481,-103.00425,6,6,city_0465_nebraska_chadron
-S102483035,L13694362,Maple St. Backyard,2022-02-12,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,16,,1,42.8322106,-103.0071443,1,1,city_0465_nebraska_chadron
-S105500593,L13694362,Maple St. Backyard,2022-03-24,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,18,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S109435885,L13694362,Maple St. Backyard,2022-05-09,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,11,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S125921593,L13694362,Maple St. Backyard,2022-04-02,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,13,,1,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
-S102053855,L13694362,Maple St. Backyard,2022-02-05,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,9,,1,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
-S103178101,L13694362,Maple St. Backyard,2022-02-20,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,32,,1,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
-S106207944,L13694362,Maple St. Backyard,2022-04-03,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,,1,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
-S103082500,L13694362,Maple St. Backyard,2022-02-19,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,28,,1,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
-S116285470,L155993,Chadron (town),2022-08-01,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,55,1.931,1,42.82481,-103.00425,9,9,city_0465_nebraska_chadron
-S105475799,L13694362,Maple St. Backyard,2022-03-24,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,41,,1,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
-S110003038,L13694362,Maple St. Backyard,2022-05-14,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,11,,1,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
-S142480632,L13694362,Maple St. Backyard,2023-06-23,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,7,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S125560372,L13694362,Maple St. Backyard,2023-01-06,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,13,,1,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
-S156221490,L2480183,Wilson Park,2023-12-12,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,70,1.368,1,42.8221098,-103.0064473,7,7,city_0465_nebraska_chadron
-S139138937,L2480183,Wilson Park,2023-05-24,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,34,0.39,1,42.8221098,-103.0064473,16,16,city_0465_nebraska_chadron
-S138913156,L2480183,Wilson Park,2023-05-22,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,52,0.631,1,42.8221098,-103.0064473,29,29,city_0465_nebraska_chadron
-S143045478,L13694362,Maple St. Backyard,2023-06-29,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,6,,1,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
-S131519352,L13694362,Maple St. Backyard,2023-03-22,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,16,,1,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
-S135273617,L13694362,Maple St. Backyard,2023-04-28,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,17,,1,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
-S133420876,L2480183,Wilson Park,2023-04-11,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,24,0.421,1,42.8221098,-103.0064473,3,3,city_0465_nebraska_chadron
-S136931892,L13694362,Maple St. Backyard,2023-05-10,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,9,,1,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
-S136905416,L13694362,Maple St. Backyard,2023-05-10,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,,1,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
-S141532981,L13694362,Maple St. Backyard,2023-06-14,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,30,,1,42.8322106,-103.0071443,7,7,city_0465_nebraska_chadron
-S125804574,L13694362,Maple St. Backyard,2023-01-09,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,13,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
-S127932602,L13694362,Maple St. Backyard,2023-02-09,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,24,,1,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
-S156221618,L2480183,Wilson Park,2023-12-12,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,8,0.211,1,42.8221098,-103.0064473,1,1,city_0465_nebraska_chadron
-S125526020,L13694362,Maple St. Backyard,2023-01-06,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,32,,1,42.8322106,-103.0071443,1,1,city_0465_nebraska_chadron
-S197304261,L155993,Chadron (town),2024-10-02,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,36,28.968,1,42.82481,-103.00425,5,5,city_0465_nebraska_chadron
-S196732356,L155993,Chadron (town),2024-09-28,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,33,1.465,1,42.82481,-103.00425,13,13,city_0465_nebraska_chadron
-S179036221,L155993,Chadron (town),2024-05-28,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,120,4.5,1,42.82481,-103.00425,37,37,city_0465_nebraska_chadron
-S193315028,L2480183,Wilson Park,2024-08-30,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,8,0.322,1,42.8221098,-103.0064473,13,13,city_0465_nebraska_chadron
-S178749692,L2480183,Wilson Park,2024-06-01,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,33,0.998,1,42.8221098,-103.0064473,21,21,city_0465_nebraska_chadron
-S176398714,L2480183,Wilson Park,2024-05-22,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,52,1.189,1,42.8221098,-103.0064473,28,28,city_0465_nebraska_chadron
-S196072933,L13694362,Maple St. Backyard,2024-09-22,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,16,,1,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
-S166202316,L155993,Chadron (town),2024-03-27,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,10,1.65,1,42.82481,-103.00425,3,3,city_0465_nebraska_chadron
-S177156227,L2480183,Wilson Park,2024-05-25,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,57,11.942,1,42.8221098,-103.0064473,6,6,city_0465_nebraska_chadron
-S170014935,L2480183,Wilson Park,2024-04-23,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,39,1.031,1,42.8221098,-103.0064473,14,14,city_0465_nebraska_chadron
-S192788168,L2480183,Wilson Park,2024-08-25,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,51,1.094,1,42.8221098,-103.0064473,12,12,city_0465_nebraska_chadron
-S178494483,L2480183,Wilson Park,2024-05-31,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,53,1.189,1,42.8221098,-103.0064473,20,20,city_0465_nebraska_chadron
-S174561041,L31782175,"827 Bordeaux Street, Chadron, Nebraska, US (42.823, -103.001)",2024-05-04,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,15,,1,42.8227161,-103.0008332,14,14,city_0465_nebraska_chadron
-S171765887,L2480183,Wilson Park,2024-05-03,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,18,0.105,1,42.8221098,-103.0064473,11,11,city_0465_nebraska_chadron
-S203306176,L2480183,Wilson Park,2024-11-22,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,48,0.043,1,42.8221098,-103.0064473,6,6,city_0465_nebraska_chadron
-S180495830,L155993,Chadron (town),2024-06-09,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,2.703,1,42.82481,-103.00425,4,4,city_0465_nebraska_chadron
-S195608943,L155993,Chadron (town),2024-09-18,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,92,13.342,1,42.82481,-103.00425,6,6,city_0465_nebraska_chadron
-S195103520,L36574036,"1310 US-20, Chadron US-NE 42.82866, -103.01830",2024-09-14,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,,1,42.828658,-103.018304,6,6,city_0465_nebraska_chadron
-S162863009,L13694362,Maple St. Backyard,2024-02-25,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,25,,1,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
-S174608857,L155993,Chadron (town),2024-05-13,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,,1,42.82481,-103.00425,1,1,city_0465_nebraska_chadron
-S174566092,L31782175,"827 Bordeaux Street, Chadron, Nebraska, US (42.823, -103.001)",2024-05-14,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,15,,1,42.8227161,-103.0008332,3,3,city_0465_nebraska_chadron
-S188436162,L2480183,Wilson Park,2024-07-23,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,13,0.644,1,42.8221098,-103.0064473,4,4,city_0465_nebraska_chadron
-S174938359,L155993,Chadron (town),2024-05-16,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,40,2.414,1,42.82481,-103.00425,4,4,city_0465_nebraska_chadron
-S257339170,L2480183,Wilson Park,2025-07-05,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,12,0.488,1,42.8221098,-103.0064473,16,16,city_0465_nebraska_chadron
-S258875537,L49532299,"247 US-385, Chadron US-NE 42.83011, -103.01935",2025-07-11,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,79,,1,42.830109,-103.019351,15,15,city_0465_nebraska_chadron
-S259860671,L2480183,Wilson Park,2025-07-14,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,25,2.41,1,42.8221098,-103.0064473,4,4,city_0465_nebraska_chadron
-S252193146,L48024873,"Greenwood Cemetery Chadron, Nebraska, US (42.827, -103.024)",2025-06-19,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,6,,1,42.8267606,-103.0237743,6,6,city_0465_nebraska_chadron
-S267833094,L51652206,Holiday Inn Express,2025-08-17,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,19,0.111,1,42.830155,-103.019345,12,12,city_0465_nebraska_chadron
-S232406497,L2480183,Wilson Park,2025-05-03,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,54,1.207,1,42.8221098,-103.0064473,12,12,city_0465_nebraska_chadron
-S287858015,L2480183,Wilson Park,2025-12-08,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,11,0.617,1,42.8221098,-103.0064473,5,5,city_0465_nebraska_chadron
-S240173310,L13694362,Maple St. Backyard,2025-05-19,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,18,,1,42.8322106,-103.0071443,7,7,city_0465_nebraska_chadron
-S260184555,L49863637,Matt and Shelley’s House,2025-07-15,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,22,,1,42.824474,-103.007724,3,3,city_0465_nebraska_chadron
-S237750233,L13694362,Maple St. Backyard,2025-05-14,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,5,,1,42.8322106,-103.0071443,7,7,city_0465_nebraska_chadron
-S249372866,L155993,Chadron (town),2025-06-11,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,30,7.886,1,42.82481,-103.00425,13,13,city_0465_nebraska_chadron
-S277163048,L53601196,"800–898 Shelton St, Chadron US-NE (42.8224,-102.9974)",2025-10-02,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,10,,1,42.822392,-102.997437,1,1,city_0465_nebraska_chadron
-S262463642,L2480183,Wilson Park,2025-07-19,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,20,1.61,1,42.8221098,-103.0064473,2,2,city_0465_nebraska_chadron
-S281251319,L53601196,"800–898 Shelton St, Chadron US-NE (42.8224,-102.9974)",2025-10-04,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,31,,1,42.822392,-102.997437,9,9,city_0465_nebraska_chadron
-S232236832,L43954252,"1426 U.S. 20, Chadron, Nebraska, US (42.83, -103.019)",2025-05-02,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,12,,1,42.8297098,-103.0194141,4,4,city_0465_nebraska_chadron
-S230458524,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2025-04-28,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,7,,1,42.8323296,-103.0070885,2,2,city_0465_nebraska_chadron
-S240889321,L13694362,Maple St. Backyard,2025-05-21,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,4913112.16793779,18,,1,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S202317298,L2480183,Wilson Park,2015-12-21,2015,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,20,,1,Stationary,42.8221098,-103.0064473,4,4,city_0465_nebraska_chadron
+S33772785,L5275873,US-Nebraska-Chadron-510 Linden Street - 42.827x-103.023,2017-01-18,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,15,0.402,1,Traveling,42.8270588,-103.0231131,5,5,city_0465_nebraska_chadron
+S34487947,L155993,Chadron (town),2017-02-18,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,48,3.219,1,Traveling,42.82928,-103.0007,9,9,city_0465_nebraska_chadron
+S36895826,L155993,Chadron (town),2017-05-15,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,83,4.023,1,Traveling,42.82928,-103.0007,19,19,city_0465_nebraska_chadron
+S39442034,L6306542,Home,2017-09-28,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,15,,1,Stationary,42.8255613,-102.9985642,2,2,city_0465_nebraska_chadron
+S40716879,L155993,Chadron (town),2017-11-25,2017,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,9,3.829,1,Traveling,42.82928,-103.0007,4,4,city_0465_nebraska_chadron
+S43794311,L5275873,US-Nebraska-Chadron-510 Linden Street - 42.827x-103.023,2018-03-19,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,50,1.303,1,Traveling,42.8270588,-103.0231131,9,9,city_0465_nebraska_chadron
+S43803507,L7094378,"Chadron, NE  69337, Chadron US-NE (42.8301,-103.0201)",2018-03-20,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,18,,1,Stationary,42.830088,-103.020084,4,4,city_0465_nebraska_chadron
+S45718711,L2480183,Wilson Park,2018-05-15,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,58,0.805,1,Traveling,42.8221098,-103.0064473,16,16,city_0465_nebraska_chadron
+S46394582,L7539126,"1201 U.S. 20, Chadron, Nebraska, US (42.828, -103.016)",2018-05-27,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,,1,Stationary,42.8278224,-103.0164821,7,7,city_0465_nebraska_chadron
+S47357594,L7740858,"236 N Chadron Ave, Chadron US-NE (42.8372,-103.0008)",2018-07-04,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,20,0.483,1,Traveling,42.837202,-103.000767,5,5,city_0465_nebraska_chadron
+S47569349,L7773473,Walmart,2018-07-31,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,6,,1,Stationary,42.827112,-103.021605,2,2,city_0465_nebraska_chadron
+S48815958,L7380423,Home,2018-09-29,2018,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,,1,Stationary,42.8245777,-102.9984999,4,4,city_0465_nebraska_chadron
+S54637441,L8990040,"Chadron Stste College, Chadron, Nebraska, US (42.819, -103)",2019-04-06,2019,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,81,3.364,1,Traveling,42.8192733,-103.000364,6,6,city_0465_nebraska_chadron
+S55148006,L9078436,"502 N Pine St, Chadron US-NE (42.8419,-103.0075)",2019-04-08,2019,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,8,,1,Stationary,42.841931,-103.00746,10,10,city_0465_nebraska_chadron
+S59454003,L2480183,Wilson Park,2019-09-01,2019,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,26,0.805,1,Traveling,42.8221098,-103.0064473,17,17,city_0465_nebraska_chadron
+S69955875,L11604316,Chadron Intermediate/ Kenwood School,2020-05-21,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,20,,1,Stationary,42.8402113,-103.0038214,2,2,city_0465_nebraska_chadron
+S69956208,L11604316,Chadron Intermediate/ Kenwood School,2020-05-22,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,15,,1,Stationary,42.8402113,-103.0038214,2,2,city_0465_nebraska_chadron
+S69732006,L2480183,Wilson Park,2020-05-27,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,18,1.159,1,Traveling,42.8221098,-103.0064473,10,10,city_0465_nebraska_chadron
+S69964322,L11605828,US-NE- US 20 Dawes Co,2020-06-02,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,14,9.028,1,Traveling,42.8219439,-103.0166445,9,9,city_0465_nebraska_chadron
+S70326215,L2480183,Wilson Park,2020-06-10,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,0.972,1,Traveling,42.8221098,-103.0064473,9,9,city_0465_nebraska_chadron
+S72373018,L12060316,"Chadron State College, Chadron US-NE 42.82039, -102.99864",2020-08-13,2020,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,26,1.391,1,Traveling,42.820389,-102.998642,3,3,city_0465_nebraska_chadron
+S81230488,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2021-02-13,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,29,,1,Stationary,42.8323296,-103.0070885,3,3,city_0465_nebraska_chadron
+S81338497,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2021-02-14,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,33,,1,Stationary,42.8323296,-103.0070885,3,3,city_0465_nebraska_chadron
+S81465685,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2021-02-14,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,53,,1,Stationary,42.8323296,-103.0070885,2,2,city_0465_nebraska_chadron
+S81561027,L13694362,Maple St. Backyard,2021-02-15,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,25,,1,Stationary,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
+S81658001,L13694362,Maple St. Backyard,2021-02-15,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,38,,1,Stationary,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
+S86772483,L14681978,Marchant Road,2021-04-30,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,20,0.322,1,Traveling,42.826869,-102.993725,6,6,city_0465_nebraska_chadron
+S86799181,L14681978,Marchant Road,2021-05-01,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,23,0.116,1,Traveling,42.826869,-102.993725,6,6,city_0465_nebraska_chadron
+S87480340,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2021-05-08,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,16,,1,Stationary,42.8323296,-103.0070885,2,2,city_0465_nebraska_chadron
+S87427862,L13694362,Maple St. Backyard,2021-05-08,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,29,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S87814032,L14878993,Chadron,2021-05-11,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,,1,Stationary,42.828331,-103.017011,6,6,city_0465_nebraska_chadron
+S88915923,L13694362,Maple St. Backyard,2021-05-24,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,90,,1,Stationary,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
+S89020365,L13694362,Maple St. Backyard,2021-05-26,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,48,1.867,1,Traveling,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
+S89137649,L13694362,Maple St. Backyard,2021-05-28,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,14,,1,Stationary,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
+S89187812,L13694362,Maple St. Backyard,2021-05-29,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,23,,1,Stationary,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
+S89603949,L2480183,Wilson Park,2021-06-03,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,33,0.774,1,Traveling,42.8221098,-103.0064473,17,17,city_0465_nebraska_chadron
+S90223527,L13694362,Maple St. Backyard,2021-06-15,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,15,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S90687406,L155993,Chadron (town),2021-06-24,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,62,2.248,1,Traveling,42.82928,-103.0007,10,10,city_0465_nebraska_chadron
+S92821468,L13694362,Maple St. Backyard,2021-08-05,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,18,,1,Stationary,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
+S93105253,L155993,Chadron (town),2021-08-10,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,,1,Stationary,42.82928,-103.0007,2,2,city_0465_nebraska_chadron
+S94254225,L2480183,Wilson Park,2021-09-05,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,50,1.127,1,Traveling,42.8221098,-103.0064473,13,13,city_0465_nebraska_chadron
+S94253981,L6610793,"Greenwood Cemetery, Chadron",2021-09-05,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,20,0.805,1,Traveling,42.8274341,-103.0243886,5,5,city_0465_nebraska_chadron
+S95320198,L16495999,Finnegan Park,2021-09-26,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,17,0.161,1,Traveling,42.8263262,-102.9920542,11,11,city_0465_nebraska_chadron
+S98211122,L13694362,Maple St. Backyard,2021-11-28,2021,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,17,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S100795931,L13694362,Maple St. Backyard,2022-01-15,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,32,,1,Stationary,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
+S101227580,L13694362,Maple St. Backyard,2022-01-22,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,28,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S102053855,L13694362,Maple St. Backyard,2022-02-05,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,9,,1,Stationary,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
+S102100898,L2480183,Wilson Park,2022-02-05,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,46,1.11,1,Traveling,42.8221098,-103.0064473,8,8,city_0465_nebraska_chadron
+S102340160,L2480183,Wilson Park,2022-02-08,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,23,,1,Stationary,42.8221098,-103.0064473,5,5,city_0465_nebraska_chadron
+S102483035,L13694362,Maple St. Backyard,2022-02-12,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,16,,1,Stationary,42.8322106,-103.0071443,1,1,city_0465_nebraska_chadron
+S102558673,L13694362,Maple St. Backyard,2022-02-13,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,19,,1,Stationary,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
+S103082500,L13694362,Maple St. Backyard,2022-02-19,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,28,,1,Stationary,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
+S102998411,L13694362,Maple St. Backyard,2022-02-19,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,11,,1,Stationary,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
+S103178101,L13694362,Maple St. Backyard,2022-02-20,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,32,,1,Stationary,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
+S103654412,L17812290,Mears,2022-02-24,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,60,,1,Stationary,42.8241436,-103.005445,11,11,city_0465_nebraska_chadron
+S105500593,L13694362,Maple St. Backyard,2022-03-24,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,18,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S105475799,L13694362,Maple St. Backyard,2022-03-24,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,41,,1,Stationary,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
+S125921593,L13694362,Maple St. Backyard,2022-04-02,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,13,,1,Stationary,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
+S106207944,L13694362,Maple St. Backyard,2022-04-03,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,,1,Stationary,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
+S106289921,L13694362,Maple St. Backyard,2022-04-04,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,,1,Stationary,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
+S106962768,L13694362,Maple St. Backyard,2022-04-13,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,27,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S107687044,L13694362,Maple St. Backyard,2022-04-22,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,12,,1,Stationary,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
+S108923384,L13694362,Maple St. Backyard,2022-05-04,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,11,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S109044383,L13694362,Maple St. Backyard,2022-05-05,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,6,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S109435885,L13694362,Maple St. Backyard,2022-05-09,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,11,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S110003038,L13694362,Maple St. Backyard,2022-05-14,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,11,,1,Stationary,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
+S110918528,L155993,Chadron (town),2022-05-20,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,42,2.736,1,Traveling,42.82928,-103.0007,13,13,city_0465_nebraska_chadron
+S113058165,L155993,Chadron (town),2022-06-16,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,42,2.414,1,Traveling,42.82928,-103.0007,10,10,city_0465_nebraska_chadron
+S113468506,L2480183,Wilson Park,2022-06-21,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,116,1.665,1,Traveling,42.8221098,-103.0064473,28,28,city_0465_nebraska_chadron
+S113994145,L2480183,Wilson Park,2022-06-28,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,66,,1,Stationary,42.8221098,-103.0064473,20,20,city_0465_nebraska_chadron
+S116285470,L155993,Chadron (town),2022-08-01,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,55,1.931,1,Traveling,42.82928,-103.0007,9,9,city_0465_nebraska_chadron
+S119064795,L155993,Chadron (town),2022-09-19,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,20,0.339,1,Traveling,42.82928,-103.0007,7,7,city_0465_nebraska_chadron
+S119132972,L155993,Chadron (town),2022-09-21,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,7,0.229,1,Traveling,42.82928,-103.0007,6,6,city_0465_nebraska_chadron
+S119299539,L155993,Chadron (town),2022-09-23,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,0.805,1,Traveling,42.82928,-103.0007,8,8,city_0465_nebraska_chadron
+S120275722,L155993,Chadron (town),2022-10-08,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,,1,Stationary,42.82928,-103.0007,6,6,city_0465_nebraska_chadron
+S120274663,L155993,Chadron (town),2022-10-08,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,11,0.133,1,Traveling,42.82928,-103.0007,7,7,city_0465_nebraska_chadron
+S120432503,L2480183,Wilson Park,2022-10-10,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,64,1.041,1,Traveling,42.8221098,-103.0064473,16,16,city_0465_nebraska_chadron
+S120540662,L2480183,Wilson Park,2022-10-12,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,20,,1,Stationary,42.8221098,-103.0064473,10,10,city_0465_nebraska_chadron
+S120823083,L21266203,"Greenwood Cemetery, Chadron",2022-10-16,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,0.402,1,Traveling,42.827435,-103.0243554,4,4,city_0465_nebraska_chadron
+S120823127,L2480183,Wilson Park,2022-10-16,2022,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,35,1.207,1,Traveling,42.8221098,-103.0064473,10,10,city_0465_nebraska_chadron
+S125560372,L13694362,Maple St. Backyard,2023-01-06,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,13,,1,Stationary,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
+S125526020,L13694362,Maple St. Backyard,2023-01-06,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,32,,1,Stationary,42.8322106,-103.0071443,1,1,city_0465_nebraska_chadron
+S125804574,L13694362,Maple St. Backyard,2023-01-09,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,13,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S127932602,L13694362,Maple St. Backyard,2023-02-09,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,24,,1,Stationary,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
+S131519352,L13694362,Maple St. Backyard,2023-03-22,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,16,,1,Stationary,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
+S133420876,L2480183,Wilson Park,2023-04-11,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,24,0.421,1,Traveling,42.8221098,-103.0064473,3,3,city_0465_nebraska_chadron
+S135273617,L13694362,Maple St. Backyard,2023-04-28,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,17,,1,Stationary,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
+S136931892,L13694362,Maple St. Backyard,2023-05-10,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,9,,1,Stationary,42.8322106,-103.0071443,6,6,city_0465_nebraska_chadron
+S136905416,L13694362,Maple St. Backyard,2023-05-10,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,,1,Stationary,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
+S138913156,L2480183,Wilson Park,2023-05-22,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,52,0.631,1,Traveling,42.8221098,-103.0064473,29,29,city_0465_nebraska_chadron
+S139138937,L2480183,Wilson Park,2023-05-24,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,34,0.39,1,Traveling,42.8221098,-103.0064473,16,16,city_0465_nebraska_chadron
+S141532981,L13694362,Maple St. Backyard,2023-06-14,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,30,,1,Stationary,42.8322106,-103.0071443,7,7,city_0465_nebraska_chadron
+S142480632,L13694362,Maple St. Backyard,2023-06-23,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,7,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S143045478,L13694362,Maple St. Backyard,2023-06-29,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,6,,1,Stationary,42.8322106,-103.0071443,3,3,city_0465_nebraska_chadron
+S156221490,L2480183,Wilson Park,2023-12-12,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,70,1.368,1,Traveling,42.8221098,-103.0064473,7,7,city_0465_nebraska_chadron
+S156221618,L2480183,Wilson Park,2023-12-12,2023,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,8,0.211,1,Traveling,42.8221098,-103.0064473,1,1,city_0465_nebraska_chadron
+S162863009,L13694362,Maple St. Backyard,2024-02-25,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,25,,1,Stationary,42.8322106,-103.0071443,2,2,city_0465_nebraska_chadron
+S166202316,L155993,Chadron (town),2024-03-27,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,1.65,1,Traveling,42.82928,-103.0007,3,3,city_0465_nebraska_chadron
+S170014935,L2480183,Wilson Park,2024-04-23,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,39,1.031,1,Traveling,42.8221098,-103.0064473,14,14,city_0465_nebraska_chadron
+S171765887,L2480183,Wilson Park,2024-05-03,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,18,0.105,1,Traveling,42.8221098,-103.0064473,11,11,city_0465_nebraska_chadron
+S174561041,L31782175,"827 Bordeaux Street, Chadron, Nebraska, US (42.823, -103.001)",2024-05-04,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,15,,1,Stationary,42.8227161,-103.0008332,14,14,city_0465_nebraska_chadron
+S174608857,L155993,Chadron (town),2024-05-13,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,,1,Stationary,42.82928,-103.0007,1,1,city_0465_nebraska_chadron
+S174566092,L31782175,"827 Bordeaux Street, Chadron, Nebraska, US (42.823, -103.001)",2024-05-14,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,15,,1,Stationary,42.8227161,-103.0008332,3,3,city_0465_nebraska_chadron
+S174938359,L155993,Chadron (town),2024-05-16,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,40,2.414,1,Traveling,42.82928,-103.0007,4,4,city_0465_nebraska_chadron
+S176398714,L2480183,Wilson Park,2024-05-22,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,52,1.189,1,Traveling,42.8221098,-103.0064473,28,28,city_0465_nebraska_chadron
+S177156227,L2480183,Wilson Park,2024-05-25,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,57,11.942,1,Traveling,42.8221098,-103.0064473,6,6,city_0465_nebraska_chadron
+S179036221,L155993,Chadron (town),2024-05-28,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,120,4.5,1,Traveling,42.82928,-103.0007,37,37,city_0465_nebraska_chadron
+S178494483,L2480183,Wilson Park,2024-05-31,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,53,1.189,1,Traveling,42.8221098,-103.0064473,20,20,city_0465_nebraska_chadron
+S178749692,L2480183,Wilson Park,2024-06-01,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,33,0.998,1,Traveling,42.8221098,-103.0064473,21,21,city_0465_nebraska_chadron
+S180495830,L155993,Chadron (town),2024-06-09,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,2.703,1,Traveling,42.82928,-103.0007,4,4,city_0465_nebraska_chadron
+S188436162,L2480183,Wilson Park,2024-07-23,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,13,0.644,1,Traveling,42.8221098,-103.0064473,4,4,city_0465_nebraska_chadron
+S192788168,L2480183,Wilson Park,2024-08-25,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,51,1.094,1,Traveling,42.8221098,-103.0064473,12,12,city_0465_nebraska_chadron
+S193315028,L2480183,Wilson Park,2024-08-30,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,8,0.322,1,Traveling,42.8221098,-103.0064473,13,13,city_0465_nebraska_chadron
+S195103520,L36574036,"1310 US-20, Chadron US-NE 42.82866, -103.01830",2024-09-14,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,,1,Stationary,42.828658,-103.018304,6,6,city_0465_nebraska_chadron
+S195608943,L155993,Chadron (town),2024-09-18,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,92,13.342,1,Traveling,42.82928,-103.0007,6,6,city_0465_nebraska_chadron
+S196072933,L13694362,Maple St. Backyard,2024-09-22,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,16,,1,Stationary,42.8322106,-103.0071443,5,5,city_0465_nebraska_chadron
+S196732356,L155993,Chadron (town),2024-09-28,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,33,1.465,1,Traveling,42.82928,-103.0007,13,13,city_0465_nebraska_chadron
+S197304261,L155993,Chadron (town),2024-10-02,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,36,28.968,1,Traveling,42.82928,-103.0007,5,5,city_0465_nebraska_chadron
+S203306176,L2480183,Wilson Park,2024-11-22,2024,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,48,0.043,1,Traveling,42.8221098,-103.0064473,6,6,city_0465_nebraska_chadron
+S230458524,L13636729,"164 Maple Street, Chadron, Nebraska, US (42.832, -103.007)",2025-04-28,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,7,,1,Stationary,42.8323296,-103.0070885,2,2,city_0465_nebraska_chadron
+S232236832,L43954252,"1426 U.S. 20, Chadron, Nebraska, US (42.83, -103.019)",2025-05-02,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,12,,1,Stationary,42.8297098,-103.0194141,4,4,city_0465_nebraska_chadron
+S232406497,L2480183,Wilson Park,2025-05-03,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,54,1.207,1,Traveling,42.8221098,-103.0064473,12,12,city_0465_nebraska_chadron
+S237750233,L13694362,Maple St. Backyard,2025-05-14,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,5,,1,Stationary,42.8322106,-103.0071443,7,7,city_0465_nebraska_chadron
+S240173310,L13694362,Maple St. Backyard,2025-05-19,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,18,,1,Stationary,42.8322106,-103.0071443,7,7,city_0465_nebraska_chadron
+S240889321,L13694362,Maple St. Backyard,2025-05-21,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,18,,1,Stationary,42.8322106,-103.0071443,4,4,city_0465_nebraska_chadron
+S249372866,L155993,Chadron (town),2025-06-11,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,30,7.886,1,Traveling,42.82928,-103.0007,13,13,city_0465_nebraska_chadron
+S252193146,L48024873,"Greenwood Cemetery Chadron, Nebraska, US (42.827, -103.024)",2025-06-19,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,6,,1,Stationary,42.8267606,-103.0237743,6,6,city_0465_nebraska_chadron
+S257339170,L2480183,Wilson Park,2025-07-05,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,12,0.488,1,Traveling,42.8221098,-103.0064473,16,16,city_0465_nebraska_chadron
+S258875537,L49532299,"247 US-385, Chadron US-NE 42.83011, -103.01935",2025-07-11,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,79,,1,Stationary,42.830109,-103.019351,15,15,city_0465_nebraska_chadron
+S259860671,L2480183,Wilson Park,2025-07-14,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,25,2.41,1,Traveling,42.8221098,-103.0064473,4,4,city_0465_nebraska_chadron
+S260184555,L49863637,Matt and Shelley’s House,2025-07-15,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,22,,1,Stationary,42.824474,-103.007724,3,3,city_0465_nebraska_chadron
+S262463642,L2480183,Wilson Park,2025-07-19,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,20,1.61,1,Traveling,42.8221098,-103.0064473,2,2,city_0465_nebraska_chadron
+S267833094,L51652206,Holiday Inn Express,2025-08-17,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,19,0.111,1,Traveling,42.830155,-103.019345,12,12,city_0465_nebraska_chadron
+S276563603,L15881820,home,2025-09-30,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,,1,,42.8226929,-103.0008392,0,0,city_0465_nebraska_chadron
+S277163048,L53601196,"800–898 Shelton St, Chadron US-NE (42.8224,-102.9974)",2025-10-02,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,10,,1,Stationary,42.822392,-102.997437,1,1,city_0465_nebraska_chadron
+S281251319,L53601196,"800–898 Shelton St, Chadron US-NE (42.8224,-102.9974)",2025-10-04,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,31,,1,Stationary,42.822392,-102.997437,9,9,city_0465_nebraska_chadron
+S287858015,L2480183,Wilson Park,2025-12-08,2025,465,"Chadron, NE",Chadron,Nebraska,Dawes,99.9999999999998,11,0.617,1,Traveling,42.8221098,-103.0064473,5,5,city_0465_nebraska_chadron

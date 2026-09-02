@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1177,"Hemet, CA",Hemet,California,Riverside,2015,128984097.384751,77,463,city_1177_california_hemet,223.4187498092651,19.044270833333332,7.692351827020337,arid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2016,128984097.384751,53,199,city_1177_california_hemet,269.143745303154,18.666666666666668,9.388735301272812,arid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2017,128984097.384751,62,324,city_1177_california_hemet,284.7812483906746,18.875,9.8625540568199,arid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2018,128984097.384751,105,536,city_1177_california_hemet,224.26249784231183,18.705729166666668,7.812464771064842,arid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2019,128984097.384751,95,738,city_1177_california_hemet,531.5499992966652,17.833333333333332,19.097604765149647,semiarid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2020,128984097.384751,74,350,city_1177_california_hemet,255.25000256299973,18.768229166666668,8.8726351936446,arid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2021,128984097.384751,113,1129,city_1177_california_hemet,268.2750007510185,18.294270833333332,9.48160149916163,arid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2022,128984097.384751,100,639,city_1177_california_hemet,175.9062466621399,18.1015625,6.259660709689715,arid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2023,128984097.384751,85,566,city_1177_california_hemet,403.4499979615211,17.572916666666668,14.63211175077674,semiarid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2024,128984097.384751,77,1702,city_1177_california_hemet,333.52499401569366,18.356770833333332,11.76174099568614,semiarid,12
-1177,"Hemet, CA",Hemet,California,Riverside,2025,128984097.384751,97,2048,city_1177_california_hemet,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1177,2015,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,77,463,city_1177_california_hemet,223.418749809265,19.0442708333333,7.69235182702034,arid,12
+1177,2016,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,53,199,city_1177_california_hemet,269.143745303154,18.6666666666667,9.38873530127281,arid,12
+1177,2017,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,62,324,city_1177_california_hemet,284.781248390675,18.875,9.8625540568199,arid,12
+1177,2018,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,105,536,city_1177_california_hemet,224.262497842312,18.7057291666667,7.81246477106484,arid,12
+1177,2019,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,95,738,city_1177_california_hemet,531.549999296665,17.8333333333333,19.0976047651496,semiarid,12
+1177,2020,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,74,350,city_1177_california_hemet,255.250002563,18.7682291666667,8.8726351936446,arid,12
+1177,2021,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,113,1129,city_1177_california_hemet,268.275000751019,18.2942708333333,9.48160149916163,arid,12
+1177,2022,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,100,639,city_1177_california_hemet,175.90624666214,18.1015625,6.25966070968972,arid,12
+1177,2023,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,85,566,city_1177_california_hemet,403.449997961521,17.5729166666667,14.6321117507767,semiarid,12
+1177,2024,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,77,1702,city_1177_california_hemet,333.524994015694,18.3567708333333,11.7617409956861,semiarid,12
+1177,2025,"Hemet, CA",Hemet,California,Riverside,99.9999999999902,97,2048,city_1177_california_hemet,,,,,

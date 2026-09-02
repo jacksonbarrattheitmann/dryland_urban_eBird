@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2015,7195304.63519951,19,25,city_2148_kansas_pratt,801.4625072479248,14.447916666666668,32.78244597179411,humid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2016,7195304.63519951,21,78,city_2148_kansas_pratt,709.7499990463257,15.143229166666668,28.228275466990063,dry subhumid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2017,7195304.63519951,26,86,city_2148_kansas_pratt,709.7750000953674,14.6484375,28.795942951571167,dry subhumid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2018,7195304.63519951,27,67,city_2148_kansas_pratt,713.4249958992004,13.955729166666668,29.780976021882047,dry subhumid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2019,7195304.63519951,37,88,city_2148_kansas_pratt,794.8687438964844,13.442708333333332,33.90686488072095,humid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2020,7195304.63519951,17,21,city_2148_kansas_pratt,610.46875,14.4609375,24.9568827850527,dry subhumid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2021,7195304.63519951,42,233,city_2148_kansas_pratt,601.37500166893,14.510416666666668,24.53548668092532,dry subhumid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2022,7195304.63519951,19,29,city_2148_kansas_pratt,480.0124940872192,14.205729166666668,19.830532300106743,semiarid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2023,7195304.63519951,16,25,city_2148_kansas_pratt,641.1562557220459,14.75,25.905303261496805,dry subhumid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2024,7195304.63519951,9,9,city_2148_kansas_pratt,560.7750072479248,15.348958333333332,22.12221109340488,dry subhumid,12
-2148,"Pratt, KS",Pratt,Kansas,Pratt,2025,7195304.63519951,9,10,city_2148_kansas_pratt,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2148,2015,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,19,25,city_2148_kansas_pratt,801.462507247925,14.4479166666667,32.7824459717941,humid,12
+2148,2016,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,21,78,city_2148_kansas_pratt,709.749999046326,15.1432291666667,28.2282754669901,dry subhumid,12
+2148,2017,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,26,86,city_2148_kansas_pratt,709.775000095367,14.6484375,28.7959429515712,dry subhumid,12
+2148,2018,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,27,67,city_2148_kansas_pratt,713.424995899201,13.9557291666667,29.7809760218821,dry subhumid,12
+2148,2019,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,37,88,city_2148_kansas_pratt,794.868743896484,13.4427083333333,33.906864880721,humid,12
+2148,2020,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,17,21,city_2148_kansas_pratt,610.46875,14.4609375,24.9568827850527,dry subhumid,12
+2148,2021,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,42,233,city_2148_kansas_pratt,601.37500166893,14.5104166666667,24.5354866809253,dry subhumid,12
+2148,2022,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,19,29,city_2148_kansas_pratt,480.012494087219,14.2057291666667,19.8305323001067,semiarid,12
+2148,2023,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,16,25,city_2148_kansas_pratt,641.156255722046,14.75,25.9053032614968,dry subhumid,12
+2148,2024,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,9,9,city_2148_kansas_pratt,560.775007247925,15.3489583333333,22.1222110934049,dry subhumid,12
+2148,2025,"Pratt, KS",Pratt,Kansas,Pratt,99.9999999999994,9,10,city_2148_kansas_pratt,,,,,

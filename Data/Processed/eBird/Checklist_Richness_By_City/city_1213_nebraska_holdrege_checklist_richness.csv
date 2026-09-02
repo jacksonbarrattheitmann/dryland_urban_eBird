@@ -1,113 +1,113 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25742341,L3995314,North Park,2015-11-07,2015,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,21,1.609,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S28434441,L3995314,North Park,2016-03-19,2016,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,45,0.805,1,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
-S29923213,L558291,Holdrege,2016-05-26,2016,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,35,2.012,1,40.444073,-99.3771744,16,16,city_1213_nebraska_holdrege
-S40478801,L3995314,North Park,2017-11-12,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,0.161,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S38166260,L5942402,Holdrege,2017-07-16,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,10,1.609,1,40.4380099,-99.3799853,9,9,city_1213_nebraska_holdrege
-S36574118,L3995314,North Park,2017-05-05,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,36,1.127,1,40.449919,-99.3775821,18,18,city_1213_nebraska_holdrege
-S35964812,L3995314,North Park,2017-04-14,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,34,1.127,1,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
-S39412033,L3995314,North Park,2017-09-26,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.046,1,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
-S37433878,L5942402,Holdrege,2017-06-03,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,10,0.805,1,40.4380099,-99.3799853,9,9,city_1213_nebraska_holdrege
-S35057482,L3995314,North Park,2017-03-08,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,46,1.046,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S43466861,L3995314,North Park,2018-03-07,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,33,1.046,1,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
-S43075469,L3995314,North Park,2018-02-21,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,30,,1,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
-S45352748,L3995314,North Park,2018-05-05,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,42,1.046,1,40.449919,-99.3775821,22,22,city_1213_nebraska_holdrege
-S44681059,L3995314,North Park,2018-04-17,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,47,0.483,1,40.449919,-99.3775821,19,19,city_1213_nebraska_holdrege
-S44349823,L3995314,North Park,2018-04-07,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,51,1.046,1,40.449919,-99.3775821,23,23,city_1213_nebraska_holdrege
-S49845116,L3995314,North Park,2018-11-10,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,10,,1,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
-S44284006,L3995314,North Park,2018-04-05,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,30,0.805,1,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
-S54155229,L3995314,North Park,2019-03-23,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.046,1,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
-S52747194,L3995314,North Park,2019-02-15,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,1.046,1,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
-S59464667,L3995314,North Park,2019-09-02,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,22,1.046,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S54263262,L3995314,North Park,2019-03-26,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,21,1.046,1,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
-S58054171,L3995314,North Park,2019-07-09,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,31,1.046,1,40.449919,-99.3775821,16,16,city_1213_nebraska_holdrege
-S59235462,L3995314,North Park,2019-08-24,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,1.046,1,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
-S60500598,L3995314,North Park,2019-10-10,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,16,0.079,1,40.449919,-99.3775821,3,3,city_1213_nebraska_holdrege
-S60475388,L3995314,North Park,2019-10-09,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,24,,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S65577681,L3995314,North Park,2020-03-07,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,24,1.046,1,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
-S69229802,L3995314,North Park,2020-05-16,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,30,1.046,1,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
-S76997757,L3995314,North Park,2020-12-02,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,1.046,1,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
-S72405533,L3995314,North Park,2020-08-14,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,1.046,1,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
-S71293755,L3995314,North Park,2020-07-09,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,24,1.046,1,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
-S63755310,L10568658,"805 4th Ave, Holdrege US-NE (40.4380,-99.3696)",2020-01-25,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,5,5.313,1,40.438028,-99.36963,2,2,city_1213_nebraska_holdrege
-S75074052,L12541703,"203 Burlington Street, Holdrege, Nebraska, US (40.435, -99.378)",2020-10-13,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,26,,1,40.4345972,-99.3782948,3,3,city_1213_nebraska_holdrege
-S89128320,L3995314,North Park,2021-05-28,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,7,0.913,1,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
-S92470695,L3995314,North Park,2021-07-29,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,30,1.046,1,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
-S89144810,L3995314,North Park,2021-05-28,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,28,1.223,1,40.449919,-99.3775821,22,22,city_1213_nebraska_holdrege
-S98604574,L3995314,North Park,2021-12-07,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,24,1.046,1,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
-S88943685,L3995314,North Park,2021-05-24,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,29,1.046,1,40.449919,-99.3775821,15,15,city_1213_nebraska_holdrege
-S91488395,L3995314,North Park,2021-07-09,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,1.046,1,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
-S91102468,L15601818,Phelps County courthouse area.,2021-06-23,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,0.3,1,40.4399504,-99.3699594,10,10,city_1213_nebraska_holdrege
-S88039546,L3995314,North Park,2021-05-13,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,41,0.462,1,40.449919,-99.3775821,18,18,city_1213_nebraska_holdrege
-S82987896,L3995314,North Park,2021-03-07,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.046,1,40.449919,-99.3775821,14,14,city_1213_nebraska_holdrege
-S84573501,L3995314,North Park,2021-04-01,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,22,1.046,1,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
-S111825665,L3995314,North Park,2022-05-31,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,38,1.046,1,40.449919,-99.3775821,19,19,city_1213_nebraska_holdrege
-S104247058,L3995314,North Park,2022-03-05,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,5,,1,40.449919,-99.3775821,11,11,city_1213_nebraska_holdrege
-S107523370,L3995314,North Park,2022-04-19,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,71,1.046,1,40.449919,-99.3775821,20,20,city_1213_nebraska_holdrege
-S107143625,L3995314,North Park,2022-04-15,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,62,1.785,1,40.449919,-99.3775821,28,28,city_1213_nebraska_holdrege
-S111826060,L3995314,North Park,2022-05-31,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,64,1.046,1,40.449919,-99.3775821,19,19,city_1213_nebraska_holdrege
-S110295982,L15469225,my yard,2022-05-15,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,77,,1,40.4391327,-99.3759155,7,7,city_1213_nebraska_holdrege
-S105338058,L18207994,Holdrege City Park,2022-03-21,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,25,0.858,1,40.4357934,-99.3781305,11,11,city_1213_nebraska_holdrege
-S111741563,L19374891,"South Park, Holdrege",2022-05-30,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,0.837,1,40.43658,-99.376728,13,13,city_1213_nebraska_holdrege
-S103539781,L3995314,North Park,2022-02-22,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,15,,1,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
-S103861183,L3995314,North Park,2022-02-27,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,8,,1,40.449919,-99.3775821,15,15,city_1213_nebraska_holdrege
-S111742147,L3995314,North Park,2022-05-30,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,63,1.046,1,40.449919,-99.3775821,21,21,city_1213_nebraska_holdrege
-S104507309,L3995314,North Park,2022-03-09,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,,1,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
-S115401296,L3995314,North Park,2022-07-19,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.046,1,40.449919,-99.3775821,16,16,city_1213_nebraska_holdrege
-S122908365,L3995314,North Park,2022-11-23,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.046,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S123132423,L3995314,North Park,2022-11-27,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,18,,1,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
-S104582742,L3995314,North Park,2022-03-09,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,24,0.917,1,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
-S104914503,L3995314,North Park,2022-03-15,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.046,1,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
-S105845803,L3995314,North Park,2022-03-29,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,6,,1,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
-S105338086,L3995314,North Park,2022-03-21,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,8,,1,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
-S148259869,L3995314,North Park,2023-08-26,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.207,1,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
-S145116839,L3995314,North Park,2023-07-20,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,52,1.046,1,40.449919,-99.3775821,15,15,city_1213_nebraska_holdrege
-S138028440,L3995314,North Park,2023-05-16,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,0.966,1,40.449919,-99.3775821,20,20,city_1213_nebraska_holdrege
-S149745333,L3995314,North Park,2023-09-12,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,29,1.046,1,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
-S147018458,L3995314,North Park,2023-08-11,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,11,1.481,1,40.449919,-99.3775821,14,14,city_1213_nebraska_holdrege
-S150501301,L3995314,North Park,2023-09-22,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,34,0.897,1,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
-S133776478,L3995314,North Park,2023-04-14,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.046,1,40.449919,-99.3775821,18,18,city_1213_nebraska_holdrege
-S136855017,L3995314,North Park,2023-05-09,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,24,1.046,1,40.449919,-99.3775821,22,22,city_1213_nebraska_holdrege
-S145290953,L3995314,North Park,2023-07-22,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,0.153,1,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
-S127914150,L3995314,North Park,2023-02-08,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,1.046,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S145841363,L3995314,North Park,2023-07-27,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,22,1.046,1,40.449919,-99.3775821,15,15,city_1213_nebraska_holdrege
-S128353941,L3995314,North Park,2023-02-14,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,21,1.046,1,40.449919,-99.3775821,5,5,city_1213_nebraska_holdrege
-S151439833,L27378380,"801–853 Second St, Holdrege US-NE (40.4351,-99.3694)",2023-10-04,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,11,0.447,1,40.435073,-99.369394,2,2,city_1213_nebraska_holdrege
-S192419245,L3995314,North Park,2024-08-22,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,1.046,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S190770762,L3995314,North Park,2024-08-07,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,40,1.046,1,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
-S158401909,L3995314,North Park,2024-01-07,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,12,1.287,1,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
-S166302353,L3995314,North Park,2024-03-28,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,33,1.046,1,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
-S160016474,L28983680,"401 Fourth Ave, Holdrege US-NE (40.4381,-99.3753)",2024-01-28,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,50,3.219,1,40.43813,-99.37526,7,7,city_1213_nebraska_holdrege
-S203279274,L38183868,"1815 Sunset Drive, Holdrege, Nebraska, US (40.451, -99.376)",2024-11-21,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,25,0.805,1,40.4509706,-99.376419,2,2,city_1213_nebraska_holdrege
-S170165683,L3995314,North Park,2024-04-24,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,25,1.046,1,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
-S188788871,L3995314,North Park,2024-07-25,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,33,1.046,1,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
-S158405430,L3995314,North Park,2024-01-07,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,0.322,1,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
-S201006659,L3995314,North Park,2024-11-01,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,0.933,1,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
-S181702357,L33412622,"1048–1098 Burlington St, Holdrege US-NE 40.44470, -99.37965",2024-06-15,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,30,1.206,1,40.4447,-99.379651,5,5,city_1213_nebraska_holdrege
-S157748372,L3995314,North Park,2024-01-01,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,14,,1,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
-S159978750,L3995314,North Park,2024-01-27,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,24,1.046,1,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
-S189057972,L3995314,North Park,2024-07-27,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,76,2.795,1,40.449919,-99.3775821,25,25,city_1213_nebraska_holdrege
-S188958369,L3995314,North Park,2024-07-26,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,12,0.322,1,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
-S190038433,L3995314,North Park,2024-08-03,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,41,1.271,1,40.449919,-99.3775821,20,20,city_1213_nebraska_holdrege
-S203709614,L3995314,North Park,2024-11-26,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,11,,1,40.449919,-99.3775821,1,1,city_1213_nebraska_holdrege
-S221149981,L3995314,North Park,2025-03-27,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,33,,1,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
-S210420867,L3995314,North Park,2025-01-23,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,1.046,1,40.449919,-99.3775821,5,5,city_1213_nebraska_holdrege
-S259345962,L3995314,North Park,2025-07-11,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,35,1.046,1,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
-S290333488,L3995314,North Park,2025-12-26,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,41,1.51,1,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
-S233198869,L3995314,North Park,2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,60,2.414,1,40.449919,-99.3775821,11,11,city_1213_nebraska_holdrege
-S233201890,L42864328,"617 Garfield St, Holdrege US-NE (40.4406,-99.3687)",2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,6,,1,40.440636,-99.368684,6,6,city_1213_nebraska_holdrege
-S233201268,L3995314,North Park,2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,60,,1,40.449919,-99.3775821,5,5,city_1213_nebraska_holdrege
-S225442426,L3995314,North Park,2025-04-13,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,10,,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S233273046,L3995314,North Park,2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,30,,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S221028720,L3995314,North Park,2025-03-26,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,34.902,1,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
-S267241882,L3995314,North Park,2025-08-14,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,24,1.046,1,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
-S221150045,L41742501,"North Park, Holdrege US-NE 40.45131, -99.37516",2025-03-27,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,23,0.134,1,40.451313,-99.375162,7,7,city_1213_nebraska_holdrege
-S252473027,L25946978,South Park (Holdrege),2025-06-20,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,75,0.218,1,40.4359993,-99.3780427,14,14,city_1213_nebraska_holdrege
-S250714679,L3995314,North Park,2025-06-15,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,15,1.118,1,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
-S222569196,L3995314,North Park,2025-04-02,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,22,1.046,1,40.449919,-99.3775821,14,14,city_1213_nebraska_holdrege
-S226675348,L42864328,"617 Garfield St, Holdrege US-NE (40.4406,-99.3687)",2025-04-18,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,28,,1,40.440636,-99.368684,7,7,city_1213_nebraska_holdrege
-S233116584,L42864328,"617 Garfield St, Holdrege US-NE (40.4406,-99.3687)",2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,15,,1,40.440636,-99.368684,5,5,city_1213_nebraska_holdrege
-S222043708,L3995314,North Park,2025-03-30,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,19,1.046,1,40.449919,-99.3775821,11,11,city_1213_nebraska_holdrege
-S233074975,L42864328,"617 Garfield St, Holdrege US-NE (40.4406,-99.3687)",2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,14,,1,40.440636,-99.368684,10,10,city_1213_nebraska_holdrege
-S235506320,L44558078,"2303 4th Avenue, Holdrege, Nebraska, US (40.437, -99.361)",2025-05-02,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,5,,1,40.4373595,-99.3614757,7,7,city_1213_nebraska_holdrege
-S270696595,L3995314,North Park,2025-08-31,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,6061836.46598657,20,0.14,1,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S25742341,L3995314,North Park,2015-11-07,2015,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,21,1.609,1,Traveling,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S28434441,L3995314,North Park,2016-03-19,2016,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,45,0.805,1,Traveling,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
+S29923213,L558291,Holdrege,2016-05-26,2016,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,35,2.012,1,Traveling,40.444073,-99.3771744,16,16,city_1213_nebraska_holdrege
+S35057482,L3995314,North Park,2017-03-08,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,46,1.046,1,Traveling,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S35964812,L3995314,North Park,2017-04-14,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,34,1.127,1,Traveling,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
+S36574118,L3995314,North Park,2017-05-05,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,36,1.127,1,Traveling,40.449919,-99.3775821,18,18,city_1213_nebraska_holdrege
+S37433878,L5942402,Holdrege,2017-06-03,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,10,0.805,1,Traveling,40.4380099,-99.3799853,9,9,city_1213_nebraska_holdrege
+S38166260,L5942402,Holdrege,2017-07-16,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,10,1.609,1,Traveling,40.4380099,-99.3799853,9,9,city_1213_nebraska_holdrege
+S39412033,L3995314,North Park,2017-09-26,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.046,1,Traveling,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
+S40478801,L3995314,North Park,2017-11-12,2017,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,0.161,1,Traveling,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S43075469,L3995314,North Park,2018-02-21,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,30,,1,Stationary,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
+S43466861,L3995314,North Park,2018-03-07,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,33,1.046,1,Traveling,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
+S44284006,L3995314,North Park,2018-04-05,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,30,0.805,1,Traveling,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
+S44349823,L3995314,North Park,2018-04-07,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,51,1.046,1,Traveling,40.449919,-99.3775821,23,23,city_1213_nebraska_holdrege
+S44681059,L3995314,North Park,2018-04-17,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,47,0.483,1,Traveling,40.449919,-99.3775821,19,19,city_1213_nebraska_holdrege
+S45352748,L3995314,North Park,2018-05-05,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,42,1.046,1,Traveling,40.449919,-99.3775821,22,22,city_1213_nebraska_holdrege
+S49845116,L3995314,North Park,2018-11-10,2018,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,10,,1,Stationary,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
+S52747194,L3995314,North Park,2019-02-15,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,1.046,1,Traveling,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
+S54155229,L3995314,North Park,2019-03-23,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.046,1,Traveling,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
+S54263262,L3995314,North Park,2019-03-26,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,21,1.046,1,Traveling,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
+S58054171,L3995314,North Park,2019-07-09,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,31,1.046,1,Traveling,40.449919,-99.3775821,16,16,city_1213_nebraska_holdrege
+S59235462,L3995314,North Park,2019-08-24,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,1.046,1,Traveling,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
+S59464667,L3995314,North Park,2019-09-02,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,22,1.046,1,Traveling,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S60475388,L3995314,North Park,2019-10-09,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,24,,1,Stationary,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S60500598,L3995314,North Park,2019-10-10,2019,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,16,0.079,1,Traveling,40.449919,-99.3775821,3,3,city_1213_nebraska_holdrege
+S63755310,L10568658,"805 4th Ave, Holdrege US-NE (40.4380,-99.3696)",2020-01-25,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,5,5.313,1,Traveling,40.438028,-99.36963,2,2,city_1213_nebraska_holdrege
+S65577681,L3995314,North Park,2020-03-07,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,24,1.046,1,Traveling,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
+S69229802,L3995314,North Park,2020-05-16,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,30,1.046,1,Traveling,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
+S71293755,L3995314,North Park,2020-07-09,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,24,1.046,1,Traveling,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
+S72405533,L3995314,North Park,2020-08-14,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,1.046,1,Traveling,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
+S75074052,L12541703,"203 Burlington Street, Holdrege, Nebraska, US (40.435, -99.378)",2020-10-13,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,26,,1,Stationary,40.4345972,-99.3782948,3,3,city_1213_nebraska_holdrege
+S76997757,L3995314,North Park,2020-12-02,2020,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,1.046,1,Traveling,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
+S82987896,L3995314,North Park,2021-03-07,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.046,1,Traveling,40.449919,-99.3775821,14,14,city_1213_nebraska_holdrege
+S84573501,L3995314,North Park,2021-04-01,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,22,1.046,1,Traveling,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
+S88039546,L3995314,North Park,2021-05-13,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,41,0.462,1,Traveling,40.449919,-99.3775821,18,18,city_1213_nebraska_holdrege
+S88943685,L3995314,North Park,2021-05-24,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,29,1.046,1,Traveling,40.449919,-99.3775821,15,15,city_1213_nebraska_holdrege
+S89144810,L3995314,North Park,2021-05-28,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,28,1.223,1,Traveling,40.449919,-99.3775821,22,22,city_1213_nebraska_holdrege
+S89128320,L3995314,North Park,2021-05-28,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,7,0.913,1,Traveling,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
+S91102468,L15601818,Phelps County courthouse area.,2021-06-23,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,0.3,1,Traveling,40.4399504,-99.3699594,10,10,city_1213_nebraska_holdrege
+S91488395,L3995314,North Park,2021-07-09,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,1.046,1,Traveling,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
+S92470695,L3995314,North Park,2021-07-29,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,30,1.046,1,Traveling,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
+S98604574,L3995314,North Park,2021-12-07,2021,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,24,1.046,1,Traveling,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
+S103539781,L3995314,North Park,2022-02-22,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,15,,1,Stationary,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
+S103861183,L3995314,North Park,2022-02-27,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,8,,1,Stationary,40.449919,-99.3775821,15,15,city_1213_nebraska_holdrege
+S104247058,L3995314,North Park,2022-03-05,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,5,,1,Stationary,40.449919,-99.3775821,11,11,city_1213_nebraska_holdrege
+S104582742,L3995314,North Park,2022-03-09,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,24,0.917,1,Traveling,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
+S104507309,L3995314,North Park,2022-03-09,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,,1,Stationary,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
+S104914503,L3995314,North Park,2022-03-15,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.046,1,Traveling,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
+S105338058,L18207994,Holdrege City Park,2022-03-21,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,25,0.858,1,Traveling,40.4357934,-99.3781305,11,11,city_1213_nebraska_holdrege
+S105338086,L3995314,North Park,2022-03-21,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,8,,1,Stationary,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
+S105845803,L3995314,North Park,2022-03-29,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,6,,1,Stationary,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
+S107143625,L3995314,North Park,2022-04-15,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,62,1.785,1,Traveling,40.449919,-99.3775821,28,28,city_1213_nebraska_holdrege
+S107523370,L3995314,North Park,2022-04-19,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,71,1.046,1,Traveling,40.449919,-99.3775821,20,20,city_1213_nebraska_holdrege
+S110295982,L15469225,my yard,2022-05-15,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,77,,1,Stationary,40.4391327,-99.3759155,7,7,city_1213_nebraska_holdrege
+S111741563,L19374891,"South Park, Holdrege",2022-05-30,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,0.837,1,Traveling,40.43658,-99.376728,13,13,city_1213_nebraska_holdrege
+S111742147,L3995314,North Park,2022-05-30,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,63,1.046,1,Traveling,40.449919,-99.3775821,21,21,city_1213_nebraska_holdrege
+S111825665,L3995314,North Park,2022-05-31,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,38,1.046,1,Traveling,40.449919,-99.3775821,19,19,city_1213_nebraska_holdrege
+S111826060,L3995314,North Park,2022-05-31,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,64,1.046,1,Traveling,40.449919,-99.3775821,19,19,city_1213_nebraska_holdrege
+S115401296,L3995314,North Park,2022-07-19,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.046,1,Traveling,40.449919,-99.3775821,16,16,city_1213_nebraska_holdrege
+S122908365,L3995314,North Park,2022-11-23,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.046,1,Traveling,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S123132423,L3995314,North Park,2022-11-27,2022,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,18,,1,Stationary,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
+S127914150,L3995314,North Park,2023-02-08,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,1.046,1,Traveling,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S128353941,L3995314,North Park,2023-02-14,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,21,1.046,1,Traveling,40.449919,-99.3775821,5,5,city_1213_nebraska_holdrege
+S133776478,L3995314,North Park,2023-04-14,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.046,1,Traveling,40.449919,-99.3775821,18,18,city_1213_nebraska_holdrege
+S136855017,L3995314,North Park,2023-05-09,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,24,1.046,1,Traveling,40.449919,-99.3775821,22,22,city_1213_nebraska_holdrege
+S138028440,L3995314,North Park,2023-05-16,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,0.966,1,Traveling,40.449919,-99.3775821,20,20,city_1213_nebraska_holdrege
+S145116839,L3995314,North Park,2023-07-20,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,52,1.046,1,Traveling,40.449919,-99.3775821,15,15,city_1213_nebraska_holdrege
+S145290953,L3995314,North Park,2023-07-22,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,0.153,1,Traveling,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
+S145841363,L3995314,North Park,2023-07-27,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,22,1.046,1,Traveling,40.449919,-99.3775821,15,15,city_1213_nebraska_holdrege
+S147018458,L3995314,North Park,2023-08-11,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,11,1.481,1,Traveling,40.449919,-99.3775821,14,14,city_1213_nebraska_holdrege
+S148259869,L3995314,North Park,2023-08-26,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.207,1,Traveling,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
+S149745333,L3995314,North Park,2023-09-12,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,29,1.046,1,Traveling,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
+S150501301,L3995314,North Park,2023-09-22,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,34,0.897,1,Traveling,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
+S151439833,L27378380,"801–853 Second St, Holdrege US-NE (40.4351,-99.3694)",2023-10-04,2023,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,11,0.447,1,Traveling,40.435073,-99.369394,2,2,city_1213_nebraska_holdrege
+S157748372,L3995314,North Park,2024-01-01,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,14,,1,Stationary,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
+S158401909,L3995314,North Park,2024-01-07,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,12,1.287,1,Traveling,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
+S158405430,L3995314,North Park,2024-01-07,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,0.322,1,Traveling,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
+S159978750,L3995314,North Park,2024-01-27,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,24,1.046,1,Traveling,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
+S160016474,L28983680,"401 Fourth Ave, Holdrege US-NE (40.4381,-99.3753)",2024-01-28,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,50,3.219,1,Traveling,40.43813,-99.37526,7,7,city_1213_nebraska_holdrege
+S166302353,L3995314,North Park,2024-03-28,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,33,1.046,1,Traveling,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
+S170165683,L3995314,North Park,2024-04-24,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,25,1.046,1,Traveling,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege
+S181702357,L33412622,"1048–1098 Burlington St, Holdrege US-NE 40.44470, -99.37965",2024-06-15,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,30,1.206,1,Traveling,40.4447,-99.379651,5,5,city_1213_nebraska_holdrege
+S188788871,L3995314,North Park,2024-07-25,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,33,1.046,1,Traveling,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
+S188958369,L3995314,North Park,2024-07-26,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,12,0.322,1,Traveling,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
+S189057972,L3995314,North Park,2024-07-27,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,76,2.795,1,Traveling,40.449919,-99.3775821,25,25,city_1213_nebraska_holdrege
+S190038433,L3995314,North Park,2024-08-03,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,41,1.271,1,Traveling,40.449919,-99.3775821,20,20,city_1213_nebraska_holdrege
+S190770762,L3995314,North Park,2024-08-07,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,40,1.046,1,Traveling,40.449919,-99.3775821,12,12,city_1213_nebraska_holdrege
+S192419245,L3995314,North Park,2024-08-22,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,1.046,1,Traveling,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S201006659,L3995314,North Park,2024-11-01,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,0.933,1,Traveling,40.449919,-99.3775821,9,9,city_1213_nebraska_holdrege
+S203279274,L38183868,"1815 Sunset Drive, Holdrege, Nebraska, US (40.451, -99.376)",2024-11-21,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,25,0.805,1,Traveling,40.4509706,-99.376419,2,2,city_1213_nebraska_holdrege
+S203709614,L3995314,North Park,2024-11-26,2024,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,11,,1,Stationary,40.449919,-99.3775821,1,1,city_1213_nebraska_holdrege
+S210420867,L3995314,North Park,2025-01-23,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,1.046,1,Traveling,40.449919,-99.3775821,5,5,city_1213_nebraska_holdrege
+S221028720,L3995314,North Park,2025-03-26,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,34.902,1,Traveling,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S221149981,L3995314,North Park,2025-03-27,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,33,,1,Stationary,40.449919,-99.3775821,8,8,city_1213_nebraska_holdrege
+S221150045,L41742501,"North Park, Holdrege US-NE 40.45131, -99.37516",2025-03-27,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,23,0.134,1,Traveling,40.451313,-99.375162,7,7,city_1213_nebraska_holdrege
+S222043708,L3995314,North Park,2025-03-30,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,19,1.046,1,Traveling,40.449919,-99.3775821,11,11,city_1213_nebraska_holdrege
+S222569196,L3995314,North Park,2025-04-02,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,22,1.046,1,Traveling,40.449919,-99.3775821,14,14,city_1213_nebraska_holdrege
+S225442426,L3995314,North Park,2025-04-13,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,10,,1,Stationary,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S226675348,L42864328,"617 Garfield St, Holdrege US-NE (40.4406,-99.3687)",2025-04-18,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,28,,1,Stationary,40.440636,-99.368684,7,7,city_1213_nebraska_holdrege
+S235506320,L44558078,"2303 4th Avenue, Holdrege, Nebraska, US (40.437, -99.361)",2025-05-02,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,5,,1,Stationary,40.4373595,-99.3614757,7,7,city_1213_nebraska_holdrege
+S233273046,L3995314,North Park,2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,30,,1,Stationary,40.449919,-99.3775821,6,6,city_1213_nebraska_holdrege
+S233201268,L3995314,North Park,2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,60,,1,Stationary,40.449919,-99.3775821,5,5,city_1213_nebraska_holdrege
+S233198869,L3995314,North Park,2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,60,2.414,1,Traveling,40.449919,-99.3775821,11,11,city_1213_nebraska_holdrege
+S233201890,L42864328,"617 Garfield St, Holdrege US-NE (40.4406,-99.3687)",2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,6,,1,Stationary,40.440636,-99.368684,6,6,city_1213_nebraska_holdrege
+S233116584,L42864328,"617 Garfield St, Holdrege US-NE (40.4406,-99.3687)",2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,15,,1,Stationary,40.440636,-99.368684,5,5,city_1213_nebraska_holdrege
+S233074975,L42864328,"617 Garfield St, Holdrege US-NE (40.4406,-99.3687)",2025-05-04,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,14,,1,Stationary,40.440636,-99.368684,10,10,city_1213_nebraska_holdrege
+S250714679,L3995314,North Park,2025-06-15,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,15,1.118,1,Traveling,40.449919,-99.3775821,7,7,city_1213_nebraska_holdrege
+S252473027,L25946978,South Park (Holdrege),2025-06-20,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,75,0.218,1,Traveling,40.4359993,-99.3780427,14,14,city_1213_nebraska_holdrege
+S259345962,L3995314,North Park,2025-07-11,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,35,1.046,1,Traveling,40.449919,-99.3775821,17,17,city_1213_nebraska_holdrege
+S267241882,L3995314,North Park,2025-08-14,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,24,1.046,1,Traveling,40.449919,-99.3775821,10,10,city_1213_nebraska_holdrege
+S270696595,L3995314,North Park,2025-08-31,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,20,0.14,1,Traveling,40.449919,-99.3775821,4,4,city_1213_nebraska_holdrege
+S290333488,L3995314,North Park,2025-12-26,2025,1213,"Holdrege, NE",Holdrege,Nebraska,Phelps,99.9999999999984,41,1.51,1,Traveling,40.449919,-99.3775821,13,13,city_1213_nebraska_holdrege

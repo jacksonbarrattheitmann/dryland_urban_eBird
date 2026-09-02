@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1750,"Monahans, TX",Monahans,Texas,Ward,2015,16053640.2109584,33,50,city_1750_texas_monahans,460.6750020980835,18.861979166666668,15.961310187283592,semiarid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2016,16053640.2109584,55,187,city_1750_texas_monahans,304.05000019073486,19.635416666666668,10.259683661972073,semiarid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2017,16053640.2109584,45,81,city_1750_texas_monahans,316.7812509536743,19.739583333333332,10.651838911226877,semiarid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2018,16053640.2109584,57,139,city_1750_texas_monahans,328.0500034093857,19.083333333333332,11.279656277686614,semiarid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2019,16053640.2109584,80,349,city_1750_texas_monahans,292.17499709129333,18.864583333333332,10.12226622907404,semiarid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2020,16053640.2109584,107,436,city_1750_texas_monahans,155.20625114440918,19.572916666666668,5.24825646701771,arid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2021,16053640.2109584,66,198,city_1750_texas_monahans,306.63124537467957,18.869791666666668,10.62117970628513,semiarid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2022,16053640.2109584,45,124,city_1750_texas_monahans,227.20624947547913,19.411458333333332,7.725092951884539,arid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2023,16053640.2109584,67,236,city_1750_texas_monahans,180.118750333786,19.96875,6.010218989239992,arid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2024,16053640.2109584,62,236,city_1750_texas_monahans,292.937495470047,20.4609375,9.616824678165177,arid,12
-1750,"Monahans, TX",Monahans,Texas,Ward,2025,16053640.2109584,36,101,city_1750_texas_monahans,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1750,2015,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,33,50,city_1750_texas_monahans,460.675002098084,18.8619791666667,15.9613101872836,semiarid,12
+1750,2016,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,55,187,city_1750_texas_monahans,304.050000190735,19.6354166666667,10.2596836619721,semiarid,12
+1750,2017,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,45,81,city_1750_texas_monahans,316.781250953674,19.7395833333333,10.6518389112269,semiarid,12
+1750,2018,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,57,139,city_1750_texas_monahans,328.050003409386,19.0833333333333,11.2796562776866,semiarid,12
+1750,2019,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,80,349,city_1750_texas_monahans,292.174997091293,18.8645833333333,10.122266229074,semiarid,12
+1750,2020,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,107,436,city_1750_texas_monahans,155.206251144409,19.5729166666667,5.24825646701771,arid,12
+1750,2021,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,66,198,city_1750_texas_monahans,306.63124537468,18.8697916666667,10.6211797062851,semiarid,12
+1750,2022,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,45,124,city_1750_texas_monahans,227.206249475479,19.4114583333333,7.72509295188454,arid,12
+1750,2023,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,67,236,city_1750_texas_monahans,180.118750333786,19.96875,6.01021898923999,arid,12
+1750,2024,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,62,236,city_1750_texas_monahans,292.937495470047,20.4609375,9.61682467816518,arid,12
+1750,2025,"Monahans, TX",Monahans,Texas,Ward,99.9999999999927,36,101,city_1750_texas_monahans,,,,,

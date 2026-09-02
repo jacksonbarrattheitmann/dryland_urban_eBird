@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2015,114139105.586287,85,372,city_1458_oklahoma_lawton,1031.806245803833,17.471354166666668,37.5593514445608,humid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2016,114139105.586287,63,344,city_1458_oklahoma_lawton,816.0937623977661,18.213541666666668,28.92560501760589,dry subhumid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2017,114139105.586287,61,228,city_1458_oklahoma_lawton,756.3499956130981,18.078125,26.937339854890528,dry subhumid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2018,114139105.586287,100,1712,city_1458_oklahoma_lawton,811.4625110626221,17.247395833333332,29.781286843930697,dry subhumid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2019,114139105.586287,131,3218,city_1458_oklahoma_lawton,924.9937400817872,16.942708333333332,34.331876685811544,humid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2020,114139105.586287,109,1794,city_1458_oklahoma_lawton,779.1624984741211,17.372395833333332,28.465264904772383,dry subhumid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2021,114139105.586287,82,681,city_1458_oklahoma_lawton,742.400007724762,17.372395833333332,27.122215104776767,dry subhumid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2022,114139105.586287,135,7304,city_1458_oklahoma_lawton,579.1062526702881,17.565104166666668,21.00867274684843,dry subhumid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2023,114139105.586287,130,5557,city_1458_oklahoma_lawton,781.3000087738037,18.247395833333332,27.65918718255192,dry subhumid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2024,114139105.586287,139,5899,city_1458_oklahoma_lawton,747.5812501907349,18.65625,26.08789531745203,dry subhumid,12
-1458,"Lawton, OK",Lawton,Oklahoma,Comanche,2025,114139105.586287,142,6346,city_1458_oklahoma_lawton,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1458,2015,"Lawton, OK",Lawton,Oklahoma,Comanche,100,85,372,city_1458_oklahoma_lawton,1031.80624580383,17.4713541666667,37.5593514445608,humid,12
+1458,2016,"Lawton, OK",Lawton,Oklahoma,Comanche,100,63,344,city_1458_oklahoma_lawton,816.093762397766,18.2135416666667,28.9256050176059,dry subhumid,12
+1458,2017,"Lawton, OK",Lawton,Oklahoma,Comanche,100,61,228,city_1458_oklahoma_lawton,756.349995613098,18.078125,26.9373398548905,dry subhumid,12
+1458,2018,"Lawton, OK",Lawton,Oklahoma,Comanche,100,100,1712,city_1458_oklahoma_lawton,811.462511062622,17.2473958333333,29.7812868439307,dry subhumid,12
+1458,2019,"Lawton, OK",Lawton,Oklahoma,Comanche,100,131,3218,city_1458_oklahoma_lawton,924.993740081787,16.9427083333333,34.3318766858115,humid,12
+1458,2020,"Lawton, OK",Lawton,Oklahoma,Comanche,100,109,1794,city_1458_oklahoma_lawton,779.162498474121,17.3723958333333,28.4652649047724,dry subhumid,12
+1458,2021,"Lawton, OK",Lawton,Oklahoma,Comanche,100,82,681,city_1458_oklahoma_lawton,742.400007724762,17.3723958333333,27.1222151047768,dry subhumid,12
+1458,2022,"Lawton, OK",Lawton,Oklahoma,Comanche,100,135,7304,city_1458_oklahoma_lawton,579.106252670288,17.5651041666667,21.0086727468484,dry subhumid,12
+1458,2023,"Lawton, OK",Lawton,Oklahoma,Comanche,100,130,5557,city_1458_oklahoma_lawton,781.300008773804,18.2473958333333,27.6591871825519,dry subhumid,12
+1458,2024,"Lawton, OK",Lawton,Oklahoma,Comanche,100,139,5899,city_1458_oklahoma_lawton,747.581250190735,18.65625,26.087895317452,dry subhumid,12
+1458,2025,"Lawton, OK",Lawton,Oklahoma,Comanche,100,142,6346,city_1458_oklahoma_lawton,,,,,

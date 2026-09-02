@@ -1,12 +1,12 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S21884998,L282185,Newman,2015-02-14,2015,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,130,,1,37.31384,-121.02104,4,4,city_1896_california_newman
-S21955419,L1968067,Debs Home,2015-02-16,2015,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,135,,1,37.3207894,-121.015563,2,2,city_1896_california_newman
-S21884453,L1968067,Debs Home,2015-02-13,2015,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,130,,1,37.3207894,-121.015563,3,3,city_1896_california_newman
-S29534324,L1968067,Debs Home,2016-05-05,2016,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,125,,1,37.3207894,-121.015563,2,2,city_1896_california_newman
-S29688711,L1968067,Debs Home,2016-05-05,2016,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,80,,1,37.3207894,-121.015563,1,1,city_1896_california_newman
-S81239907,L1968067,Debs Home,2021-02-13,2021,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,55,,1,37.3207894,-121.015563,4,4,city_1896_california_newman
-S128993737,L1968067,Debs Home,2023-02-18,2023,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,40,,1,37.3207894,-121.015563,2,2,city_1896_california_newman
-S129142962,L1968067,Debs Home,2023-02-19,2023,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,25,,1,37.3207894,-121.015563,3,3,city_1896_california_newman
-S129144768,L1968067,Debs Home,2023-02-19,2023,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,45,,1,37.3207894,-121.015563,3,3,city_1896_california_newman
-S129248861,L1968067,Debs Home,2023-02-20,2023,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,30,,1,37.3207894,-121.015563,1,1,city_1896_california_newman
-S272261531,L1968067,Debs Home,2025-09-08,2025,1896,"Newman, CA",Newman,California,Stanislaus,4948308.40881066,20,,1,37.3207894,-121.015563,3,3,city_1896_california_newman
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21884453,L1968067,Debs Home,2015-02-13,2015,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,130,,1,Stationary,37.3207894,-121.015563,3,3,city_1896_california_newman
+S21884998,L282185,Newman,2015-02-14,2015,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,130,,1,Stationary,37.31384,-121.02104,4,4,city_1896_california_newman
+S21955419,L1968067,Debs Home,2015-02-16,2015,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,135,,1,Stationary,37.3207894,-121.015563,2,2,city_1896_california_newman
+S29688711,L1968067,Debs Home,2016-05-05,2016,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,80,,1,Stationary,37.3207894,-121.015563,1,1,city_1896_california_newman
+S29534324,L1968067,Debs Home,2016-05-05,2016,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,125,,1,Stationary,37.3207894,-121.015563,2,2,city_1896_california_newman
+S81239907,L1968067,Debs Home,2021-02-13,2021,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,55,,1,Stationary,37.3207894,-121.015563,4,4,city_1896_california_newman
+S128993737,L1968067,Debs Home,2023-02-18,2023,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,40,,1,Stationary,37.3207894,-121.015563,2,2,city_1896_california_newman
+S129142962,L1968067,Debs Home,2023-02-19,2023,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,25,,1,Stationary,37.3207894,-121.015563,3,3,city_1896_california_newman
+S129144768,L1968067,Debs Home,2023-02-19,2023,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,45,,1,Stationary,37.3207894,-121.015563,3,3,city_1896_california_newman
+S129248861,L1968067,Debs Home,2023-02-20,2023,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,30,,1,Stationary,37.3207894,-121.015563,1,1,city_1896_california_newman
+S272261531,L1968067,Debs Home,2025-09-08,2025,1896,"Newman, CA",Newman,California,Stanislaus,99.9999999999846,20,,1,Stationary,37.3207894,-121.015563,3,3,city_1896_california_newman

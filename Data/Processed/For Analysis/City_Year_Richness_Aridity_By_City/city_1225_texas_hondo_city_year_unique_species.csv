@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1225,"Hondo, TX",Hondo,Texas,Medina,2015,6978949.02702817,10,12,city_1225_texas_hondo,967.3374938964844,20.565104166666668,31.648427848364147,humid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2016,6978949.02702817,14,20,city_1225_texas_hondo,938.074987411499,21.346354166666668,29.926127371107057,dry subhumid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2017,6978949.02702817,21,26,city_1225_texas_hondo,562.2687549591064,21.4921875,17.854229877143545,semiarid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2018,6978949.02702817,7,7,city_1225_texas_hondo,691.5187549591064,20.8046875,22.448491157688466,dry subhumid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2019,6978949.02702817,11,16,city_1225_texas_hondo,503.7937502861023,20.776041666666668,16.36967338888672,semiarid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2020,6978949.02702817,20,29,city_1225_texas_hondo,486.4500036239624,21.291666666666668,15.545672552563378,semiarid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2022,6978949.02702817,25,51,city_1225_texas_hondo,340.01874351501465,21.125,10.924296980402078,semiarid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2023,6978949.02702817,18,28,city_1225_texas_hondo,584.1437473297119,21.856770833333332,18.336564945198184,semiarid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2024,6978949.02702817,20,28,city_1225_texas_hondo,500.3500008583069,22.080729166666668,15.596590659111117,semiarid,12
-1225,"Hondo, TX",Hondo,Texas,Medina,2025,6978949.02702817,10,10,city_1225_texas_hondo,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1225,2015,"Hondo, TX",Hondo,Texas,Medina,100,10,12,city_1225_texas_hondo,967.337493896484,20.5651041666667,31.6484278483641,humid,12
+1225,2016,"Hondo, TX",Hondo,Texas,Medina,100,14,20,city_1225_texas_hondo,938.074987411499,21.3463541666667,29.9261273711071,dry subhumid,12
+1225,2017,"Hondo, TX",Hondo,Texas,Medina,100,21,26,city_1225_texas_hondo,562.268754959106,21.4921875,17.8542298771435,semiarid,12
+1225,2018,"Hondo, TX",Hondo,Texas,Medina,100,7,7,city_1225_texas_hondo,691.518754959107,20.8046875,22.4484911576885,dry subhumid,12
+1225,2019,"Hondo, TX",Hondo,Texas,Medina,100,11,16,city_1225_texas_hondo,503.793750286102,20.7760416666667,16.3696733888867,semiarid,12
+1225,2020,"Hondo, TX",Hondo,Texas,Medina,100,20,29,city_1225_texas_hondo,486.450003623962,21.2916666666667,15.5456725525634,semiarid,12
+1225,2022,"Hondo, TX",Hondo,Texas,Medina,100,25,51,city_1225_texas_hondo,340.018743515015,21.125,10.9242969804021,semiarid,12
+1225,2023,"Hondo, TX",Hondo,Texas,Medina,100,18,28,city_1225_texas_hondo,584.143747329712,21.8567708333333,18.3365649451982,semiarid,12
+1225,2024,"Hondo, TX",Hondo,Texas,Medina,100,20,28,city_1225_texas_hondo,500.350000858307,22.0807291666667,15.5965906591111,semiarid,12
+1225,2025,"Hondo, TX",Hondo,Texas,Medina,100,10,10,city_1225_texas_hondo,,,,,

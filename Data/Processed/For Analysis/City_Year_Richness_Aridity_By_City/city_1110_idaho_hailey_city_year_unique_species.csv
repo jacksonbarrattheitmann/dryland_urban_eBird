@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2015,15107168.880371,67,334,city_1110_idaho_hailey,385.8999977111816,7.677083333333334,21.830524325441033,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2016,15107168.880371,63,271,city_1110_idaho_hailey,339.712495803833,7.127604166666666,19.834209881202963,semiarid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2017,15107168.880371,57,223,city_1110_idaho_hailey,461.1062479019165,6.729166666666666,27.563013573215436,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2018,15107168.880371,63,259,city_1110_idaho_hailey,379.2937459945678,7.002604166666666,22.307979546931243,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2019,15107168.880371,82,377,city_1110_idaho_hailey,444.0562524795532,6,27.753515779972076,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2020,15107168.880371,115,1423,city_1110_idaho_hailey,406.88749980926514,7.052083333333334,23.86145386786161,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2021,15107168.880371,118,1444,city_1110_idaho_hailey,371.6062479019165,7.46875,21.272629575780552,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2022,15107168.880371,116,1886,city_1110_idaho_hailey,370.824999332428,6.424479166666666,22.577580425503783,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2023,15107168.880371,128,2337,city_1110_idaho_hailey,442.09375619888306,6.8046875,26.307764199654592,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2024,15107168.880371,111,2098,city_1110_idaho_hailey,456.87499809265137,7.658854166666666,25.87229011467013,dry subhumid,12
-1110,"Hailey, ID",Hailey,Idaho,Blaine,2025,15107168.880371,116,2884,city_1110_idaho_hailey,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1110,2015,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,67,334,city_1110_idaho_hailey,385.899997711182,7.67708333333333,21.830524325441,dry subhumid,12
+1110,2016,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,63,271,city_1110_idaho_hailey,339.712495803833,7.12760416666667,19.834209881203,semiarid,12
+1110,2017,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,57,223,city_1110_idaho_hailey,461.106247901917,6.72916666666667,27.5630135732154,dry subhumid,12
+1110,2018,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,63,259,city_1110_idaho_hailey,379.293745994568,7.00260416666667,22.3079795469312,dry subhumid,12
+1110,2019,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,82,377,city_1110_idaho_hailey,444.056252479553,6,27.7535157799721,dry subhumid,12
+1110,2020,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,115,1423,city_1110_idaho_hailey,406.887499809265,7.05208333333333,23.8614538678616,dry subhumid,12
+1110,2021,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,118,1444,city_1110_idaho_hailey,371.606247901917,7.46875,21.2726295757806,dry subhumid,12
+1110,2022,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,116,1886,city_1110_idaho_hailey,370.824999332428,6.42447916666667,22.5775804255038,dry subhumid,12
+1110,2023,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,127,2336,city_1110_idaho_hailey,442.093756198883,6.8046875,26.3077641996546,dry subhumid,12
+1110,2024,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,111,2098,city_1110_idaho_hailey,456.874998092651,7.65885416666667,25.8722901146701,dry subhumid,12
+1110,2025,"Hailey, ID",Hailey,Idaho,Blaine,99.9999999999971,116,2884,city_1110_idaho_hailey,,,,,

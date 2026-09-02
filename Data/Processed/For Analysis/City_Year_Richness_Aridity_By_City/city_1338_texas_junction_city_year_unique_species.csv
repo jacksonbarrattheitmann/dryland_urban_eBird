@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1338,"Junction, TX",Junction,Texas,Kimble,2015,6184690.8511617,75,227,city_1338_texas_junction,790.15625,18.885416666666668,27.354850342589252,dry subhumid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2016,6184690.8511617,77,160,city_1338_texas_junction,785.1625022888184,19.643229166666668,26.48707729762859,dry subhumid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2017,6184690.8511617,76,245,city_1338_texas_junction,548.7499952316284,19.778645833333332,18.4276342954915,semiarid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2018,6184690.8511617,103,570,city_1338_texas_junction,607.5249991416931,19.075520833333332,20.89472455623915,dry subhumid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2019,6184690.8511617,106,611,city_1338_texas_junction,466.8000078201294,19.109375,16.036071122108577,semiarid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2020,6184690.8511617,83,284,city_1338_texas_junction,431.837498664856,19.708333333333332,14.53590458338926,semiarid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2021,6184690.8511617,96,464,city_1338_texas_junction,581.5375003814697,19.130208333333332,19.963382813023813,semiarid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2022,6184690.8511617,77,339,city_1338_texas_junction,335.0937509536743,19.466145833333332,11.372160880796372,semiarid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2023,6184690.8511617,90,448,city_1338_texas_junction,480.6937475204468,20.216145833333332,15.908506338692714,semiarid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2024,6184690.8511617,107,678,city_1338_texas_junction,486.86875343322754,20.520833333333332,15.952013764365136,semiarid,12
-1338,"Junction, TX",Junction,Texas,Kimble,2025,6184690.8511617,102,568,city_1338_texas_junction,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1338,2015,"Junction, TX",Junction,Texas,Kimble,100,75,227,city_1338_texas_junction,790.15625,18.8854166666667,27.3548503425893,dry subhumid,12
+1338,2016,"Junction, TX",Junction,Texas,Kimble,100,77,160,city_1338_texas_junction,785.162502288818,19.6432291666667,26.4870772976286,dry subhumid,12
+1338,2017,"Junction, TX",Junction,Texas,Kimble,100,76,245,city_1338_texas_junction,548.749995231628,19.7786458333333,18.4276342954915,semiarid,12
+1338,2018,"Junction, TX",Junction,Texas,Kimble,100,103,570,city_1338_texas_junction,607.524999141693,19.0755208333333,20.8947245562392,dry subhumid,12
+1338,2019,"Junction, TX",Junction,Texas,Kimble,100,106,611,city_1338_texas_junction,466.800007820129,19.109375,16.0360711221086,semiarid,12
+1338,2020,"Junction, TX",Junction,Texas,Kimble,100,83,284,city_1338_texas_junction,431.837498664856,19.7083333333333,14.5359045833893,semiarid,12
+1338,2021,"Junction, TX",Junction,Texas,Kimble,100,96,464,city_1338_texas_junction,581.53750038147,19.1302083333333,19.9633828130238,semiarid,12
+1338,2022,"Junction, TX",Junction,Texas,Kimble,100,77,339,city_1338_texas_junction,335.093750953674,19.4661458333333,11.3721608807964,semiarid,12
+1338,2023,"Junction, TX",Junction,Texas,Kimble,100,90,448,city_1338_texas_junction,480.693747520447,20.2161458333333,15.9085063386927,semiarid,12
+1338,2024,"Junction, TX",Junction,Texas,Kimble,100,107,678,city_1338_texas_junction,486.868753433228,20.5208333333333,15.9520137643651,semiarid,12
+1338,2025,"Junction, TX",Junction,Texas,Kimble,100,102,568,city_1338_texas_junction,,,,,

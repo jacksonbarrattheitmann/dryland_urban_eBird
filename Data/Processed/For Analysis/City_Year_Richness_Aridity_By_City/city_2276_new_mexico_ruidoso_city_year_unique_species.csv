@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2015,22327804.0585303,48,102,city_2276_new_mexico_ruidoso,727.1624965667725,9.716145833333334,36.88157425460845,humid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2016,22327804.0585303,28,56,city_2276_new_mexico_ruidoso,487.0374953746796,10.317708333333334,23.971084109699685,dry subhumid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2017,22327804.0585303,48,121,city_2276_new_mexico_ruidoso,562.1500039100647,10.330729166666666,27.65026277718264,dry subhumid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2018,22327804.0585303,73,239,city_2276_new_mexico_ruidoso,504.77500224113464,9.916666666666666,25.344351576960737,dry subhumid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2019,22327804.0585303,54,150,city_2276_new_mexico_ruidoso,473.3687448501587,9.6875,24.044126722547745,dry subhumid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2020,22327804.0585303,48,147,city_2276_new_mexico_ruidoso,302.8874988555908,10.338541666666666,14.89229187715069,semiarid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2021,22327804.0585303,57,183,city_2276_new_mexico_ruidoso,536.3187489509583,9.755208333333332,27.14822035290904,dry subhumid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2022,22327804.0585303,78,677,city_2276_new_mexico_ruidoso,504.81874907016754,9.828125,25.459732025603408,dry subhumid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2023,22327804.0585303,87,1106,city_2276_new_mexico_ruidoso,310.04375302791595,10.645833333333334,15.017255444339016,semiarid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2024,22327804.0585303,82,797,city_2276_new_mexico_ruidoso,479.925000667572,11.065104166666666,22.782939826473935,dry subhumid,12
-2276,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,2025,22327804.0585303,79,772,city_2276_new_mexico_ruidoso,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2276,2015,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,48,102,city_2276_new_mexico_ruidoso,727.162496566773,9.71614583333333,36.8815742546085,humid,12
+2276,2016,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,28,56,city_2276_new_mexico_ruidoso,487.03749537468,10.3177083333333,23.9710841096997,dry subhumid,12
+2276,2017,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,48,121,city_2276_new_mexico_ruidoso,562.150003910065,10.3307291666667,27.6502627771826,dry subhumid,12
+2276,2018,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,73,239,city_2276_new_mexico_ruidoso,504.775002241135,9.91666666666667,25.3443515769607,dry subhumid,12
+2276,2019,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,54,150,city_2276_new_mexico_ruidoso,473.368744850159,9.6875,24.0441267225477,dry subhumid,12
+2276,2020,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,48,147,city_2276_new_mexico_ruidoso,302.887498855591,10.3385416666667,14.8922918771507,semiarid,12
+2276,2021,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,57,183,city_2276_new_mexico_ruidoso,536.318748950958,9.75520833333333,27.148220352909,dry subhumid,12
+2276,2022,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,78,677,city_2276_new_mexico_ruidoso,504.818749070168,9.828125,25.4597320256034,dry subhumid,12
+2276,2023,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,86,1105,city_2276_new_mexico_ruidoso,310.043753027916,10.6458333333333,15.017255444339,semiarid,12
+2276,2024,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,82,797,city_2276_new_mexico_ruidoso,479.925000667572,11.0651041666667,22.7829398264739,dry subhumid,12
+2276,2025,"Ruidoso, NM",Ruidoso,New Mexico,Lincoln,99.9999999999969,79,771,city_2276_new_mexico_ruidoso,,,,,

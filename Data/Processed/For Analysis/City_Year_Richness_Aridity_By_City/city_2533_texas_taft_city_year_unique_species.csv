@@ -1,5 +1,5 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2533,"Taft, TX",Taft,Texas,San Patricio,2018,3898902.54588371,7,7,city_2533_texas_taft,850.5562496185303,22.942708333333332,25.81925690541626,dry subhumid,12
-2533,"Taft, TX",Taft,Texas,San Patricio,2022,3898902.54588371,11,12,city_2533_texas_taft,631.5625038146973,23.059895833333332,19.10358420361117,semiarid,12
-2533,"Taft, TX",Taft,Texas,San Patricio,2023,3898902.54588371,50,60,city_2533_texas_taft,655.7624969482422,23.934895833333332,19.324134665653062,semiarid,12
-2533,"Taft, TX",Taft,Texas,San Patricio,2025,3898902.54588371,5,5,city_2533_texas_taft,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2533,2018,"Taft, TX",Taft,Texas,San Patricio,99.9999999999982,7,7,city_2533_texas_taft,850.55624961853,22.9427083333333,25.8192569054163,dry subhumid,12
+2533,2022,"Taft, TX",Taft,Texas,San Patricio,99.9999999999982,11,12,city_2533_texas_taft,631.562503814697,23.0598958333333,19.1035842036112,semiarid,12
+2533,2023,"Taft, TX",Taft,Texas,San Patricio,99.9999999999982,50,60,city_2533_texas_taft,655.762496948242,23.9348958333333,19.3241346656531,semiarid,12
+2533,2025,"Taft, TX",Taft,Texas,San Patricio,99.9999999999982,5,5,city_2533_texas_taft,,,,,

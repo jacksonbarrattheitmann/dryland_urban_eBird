@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2637,"Vacaville, CA",Vacaville,California,Solano,2015,37242601.0233791,106,5542,city_2637_california_vacaville,326.68124908208847,17.638020833333332,11.819994313344198,semiarid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2016,37242601.0233791,113,4408,city_2637_california_vacaville,638.856250077486,17.3203125,23.38392908490655,dry subhumid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2017,37242601.0233791,91,2022,city_2637_california_vacaville,709.5937684476376,17.330729166666668,25.96322125620703,dry subhumid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2018,37242601.0233791,83,1357,city_2637_california_vacaville,504.4187560975552,17.166666666666668,18.567561574143134,semiarid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2019,37242601.0233791,99,3460,city_2637_california_vacaville,689.4000051021576,17.005208333333332,25.528409060677777,dry subhumid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2020,37242601.0233791,101,4180,city_2637_california_vacaville,223.01875442266464,17.528645833333332,8.10133399851511,arid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2021,37242601.0233791,81,3708,city_2637_california_vacaville,519.318745046854,17.0703125,19.184069081095902,semiarid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2022,37242601.0233791,101,3826,city_2637_california_vacaville,346.7062504887581,17.106770833333332,12.790392947226737,semiarid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2023,37242601.0233791,117,3753,city_2637_california_vacaville,676.3624947071075,16.739583333333332,25.29442909695455,dry subhumid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2024,37242601.0233791,115,3490,city_2637_california_vacaville,676.7937427163124,17.390625,24.708955809380488,dry subhumid,12
-2637,"Vacaville, CA",Vacaville,California,Solano,2025,37242601.0233791,131,4322,city_2637_california_vacaville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2637,2015,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,106,5542,city_2637_california_vacaville,326.681249082088,17.6380208333333,11.8199943133442,semiarid,12
+2637,2016,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,113,4408,city_2637_california_vacaville,638.856250077486,17.3203125,23.3839290849066,dry subhumid,12
+2637,2017,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,91,2022,city_2637_california_vacaville,709.593768447638,17.3307291666667,25.963221256207,dry subhumid,12
+2637,2018,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,83,1357,city_2637_california_vacaville,504.418756097555,17.1666666666667,18.5675615741431,semiarid,12
+2637,2019,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,99,2925,city_2637_california_vacaville,689.400005102158,17.0052083333333,25.5284090606778,dry subhumid,12
+2637,2020,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,101,4180,city_2637_california_vacaville,223.018754422665,17.5286458333333,8.10133399851511,arid,12
+2637,2021,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,81,3708,city_2637_california_vacaville,519.318745046854,17.0703125,19.1840690810959,semiarid,12
+2637,2022,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,101,3826,city_2637_california_vacaville,346.706250488758,17.1067708333333,12.7903929472267,semiarid,12
+2637,2023,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,117,3753,city_2637_california_vacaville,676.362494707108,16.7395833333333,25.2944290969546,dry subhumid,12
+2637,2024,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,115,3429,city_2637_california_vacaville,676.793742716312,17.390625,24.7089558093805,dry subhumid,12
+2637,2025,"Vacaville, CA",Vacaville,California,Solano,52.419547126327,131,4305,city_2637_california_vacaville,,,,,

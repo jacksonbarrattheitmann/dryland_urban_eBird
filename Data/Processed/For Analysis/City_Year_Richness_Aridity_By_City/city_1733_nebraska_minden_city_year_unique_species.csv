@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1733,"Minden, NE",Minden,Nebraska,Kearney,2016,3708739.04295156,20,27,city_1733_nebraska_minden,740.4437551498413,11.8515625,33.88516290996771,humid,12
-1733,"Minden, NE",Minden,Nebraska,Kearney,2017,3708739.04295156,21,34,city_1733_nebraska_minden,801.1500029563904,11.302083333333332,37.608997693796326,humid,12
-1733,"Minden, NE",Minden,Nebraska,Kearney,2018,3708739.04295156,1,1,city_1733_nebraska_minden,766.2874956130981,10.3046875,37.73943802942538,humid,12
-1733,"Minden, NE",Minden,Nebraska,Kearney,2019,3708739.04295156,8,9,city_1733_nebraska_minden,860.7500057220459,9.932291666666668,43.18369508717868,humid,12
-1733,"Minden, NE",Minden,Nebraska,Kearney,2020,3708739.04295156,23,27,city_1733_nebraska_minden,572.4437475204468,11.223958333333334,26.97158270525786,dry subhumid,12
-1733,"Minden, NE",Minden,Nebraska,Kearney,2021,3708739.04295156,23,46,city_1733_nebraska_minden,668.6374998092651,11.53125,31.054281558630603,humid,12
-1733,"Minden, NE",Minden,Nebraska,Kearney,2022,3708739.04295156,13,23,city_1733_nebraska_minden,476.04374647140503,10.994791666666668,22.67437343649461,dry subhumid,12
-1733,"Minden, NE",Minden,Nebraska,Kearney,2024,3708739.04295156,15,20,city_1733_nebraska_minden,636.8562526702881,12.09375,28.82517692425632,dry subhumid,12
-1733,"Minden, NE",Minden,Nebraska,Kearney,2025,3708739.04295156,16,29,city_1733_nebraska_minden,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1733,2016,"Minden, NE",Minden,Nebraska,Kearney,100,20,27,city_1733_nebraska_minden,740.443755149841,11.8515625,33.8851629099677,humid,12
+1733,2017,"Minden, NE",Minden,Nebraska,Kearney,100,21,34,city_1733_nebraska_minden,801.15000295639,11.3020833333333,37.6089976937963,humid,12
+1733,2018,"Minden, NE",Minden,Nebraska,Kearney,100,1,1,city_1733_nebraska_minden,766.287495613098,10.3046875,37.7394380294254,humid,12
+1733,2019,"Minden, NE",Minden,Nebraska,Kearney,100,8,9,city_1733_nebraska_minden,860.750005722046,9.93229166666667,43.1836950871787,humid,12
+1733,2020,"Minden, NE",Minden,Nebraska,Kearney,100,23,27,city_1733_nebraska_minden,572.443747520447,11.2239583333333,26.9715827052579,dry subhumid,12
+1733,2021,"Minden, NE",Minden,Nebraska,Kearney,100,23,46,city_1733_nebraska_minden,668.637499809265,11.53125,31.0542815586306,humid,12
+1733,2022,"Minden, NE",Minden,Nebraska,Kearney,100,13,23,city_1733_nebraska_minden,476.043746471405,10.9947916666667,22.6743734364946,dry subhumid,12
+1733,2024,"Minden, NE",Minden,Nebraska,Kearney,100,15,20,city_1733_nebraska_minden,636.856252670288,12.09375,28.8251769242563,dry subhumid,12
+1733,2025,"Minden, NE",Minden,Nebraska,Kearney,100,16,29,city_1733_nebraska_minden,,,,,

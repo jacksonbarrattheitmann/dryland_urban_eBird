@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2015,69846196.0730589,185,5840,city_1539_colorado_longmont,529.9000062942505,10.700520833333332,25.598390038620227,dry subhumid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2016,69846196.0730589,179,5274,city_1539_colorado_longmont,460.73125743865967,10.916666666666668,22.02699238750564,dry subhumid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2017,69846196.0730589,195,6845,city_1539_colorado_longmont,443.4250068664551,10.5390625,21.58934989688332,dry subhumid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2018,69846196.0730589,199,13174,city_1539_colorado_longmont,357.4812488555908,10.104166666666668,17.78145072027809,semiarid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2019,69846196.0730589,190,11042,city_1539_colorado_longmont,506.2937545776367,9.302083333333334,26.23000563381172,dry subhumid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2020,69846196.0730589,215,21092,city_1539_colorado_longmont,254.27499675750732,10.638020833333334,12.320706467493098,semiarid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2021,69846196.0730589,212,19741,city_1539_colorado_longmont,411.5500020980835,10.721354166666668,19.861153802395883,semiarid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2022,69846196.0730589,199,20677,city_1539_colorado_longmont,333.7687511444092,10.075520833333332,16.625658378447675,semiarid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2023,69846196.0730589,199,16968,city_1539_colorado_longmont,472.46874713897705,10.0234375,23.59578604517716,dry subhumid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2024,69846196.0730589,199,23855,city_1539_colorado_longmont,380.3875041007995,11.270833333333332,17.883056020409775,semiarid,12
-1539,"Longmont, CO",Longmont,Colorado,Boulder,2025,69846196.0730589,202,22056,city_1539_colorado_longmont,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1539,2015,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,185,5840,city_1539_colorado_longmont,529.900006294251,10.7005208333333,25.5983900386202,dry subhumid,12
+1539,2016,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,179,5274,city_1539_colorado_longmont,460.73125743866,10.9166666666667,22.0269923875056,dry subhumid,12
+1539,2017,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,195,6845,city_1539_colorado_longmont,443.425006866455,10.5390625,21.5893498968833,dry subhumid,12
+1539,2018,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,199,13174,city_1539_colorado_longmont,357.481248855591,10.1041666666667,17.7814507202781,semiarid,12
+1539,2019,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,190,11042,city_1539_colorado_longmont,506.293754577637,9.30208333333333,26.2300056338117,dry subhumid,12
+1539,2020,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,215,21092,city_1539_colorado_longmont,254.274996757507,10.6380208333333,12.3207064674931,semiarid,12
+1539,2021,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,212,19741,city_1539_colorado_longmont,411.550002098084,10.7213541666667,19.8611538023959,semiarid,12
+1539,2022,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,199,20677,city_1539_colorado_longmont,333.768751144409,10.0755208333333,16.6256583784477,semiarid,12
+1539,2023,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,199,16968,city_1539_colorado_longmont,472.468747138977,10.0234375,23.5957860451772,dry subhumid,12
+1539,2024,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,199,23862,city_1539_colorado_longmont,380.3875041008,11.2708333333333,17.8830560204098,semiarid,12
+1539,2025,"Longmont, CO",Longmont,Colorado,Boulder,99.9999999999996,202,22055,city_1539_colorado_longmont,,,,,

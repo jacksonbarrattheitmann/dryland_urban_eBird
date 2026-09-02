@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2215,"Richfield, UT",Richfield,Utah,Sevier,2015,6826572.36448836,9,9,city_2215_utah_richfield,282.45624828338623,10.2734375,13.93233132187801,semiarid,12
-2215,"Richfield, UT",Richfield,Utah,Sevier,2016,6826572.36448836,5,6,city_2215_utah_richfield,247.1312494277954,9.9765625,12.371059807101217,semiarid,12
-2215,"Richfield, UT",Richfield,Utah,Sevier,2017,6826572.36448836,4,4,city_2215_utah_richfield,225.3937516212463,10.197916666666666,11.159257429417046,semiarid,12
-2215,"Richfield, UT",Richfield,Utah,Sevier,2019,6826572.36448836,15,21,city_2215_utah_richfield,281.08125019073486,8.973958333333334,14.814054360862226,semiarid,12
-2215,"Richfield, UT",Richfield,Utah,Sevier,2021,6826572.36448836,15,22,city_2215_utah_richfield,255.7624998092651,10.338541666666668,12.575262474616876,semiarid,12
-2215,"Richfield, UT",Richfield,Utah,Sevier,2022,6826572.36448836,16,27,city_2215_utah_richfield,246.32500076293945,9.471354166666668,12.650635320712684,semiarid,12
-2215,"Richfield, UT",Richfield,Utah,Sevier,2023,6826572.36448836,8,15,city_2215_utah_richfield,269.6875014305115,9.4453125,13.869023777864792,semiarid,12
-2215,"Richfield, UT",Richfield,Utah,Sevier,2024,6826572.36448836,25,39,city_2215_utah_richfield,249.2375011444092,10.869791666666668,11.94250067874384,semiarid,12
-2215,"Richfield, UT",Richfield,Utah,Sevier,2025,6826572.36448836,26,56,city_2215_utah_richfield,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2215,2015,"Richfield, UT",Richfield,Utah,Sevier,100,9,9,city_2215_utah_richfield,282.456248283386,10.2734375,13.932331321878,semiarid,12
+2215,2016,"Richfield, UT",Richfield,Utah,Sevier,100,5,6,city_2215_utah_richfield,247.131249427795,9.9765625,12.3710598071012,semiarid,12
+2215,2017,"Richfield, UT",Richfield,Utah,Sevier,100,4,4,city_2215_utah_richfield,225.393751621246,10.1979166666667,11.159257429417,semiarid,12
+2215,2019,"Richfield, UT",Richfield,Utah,Sevier,100,15,21,city_2215_utah_richfield,281.081250190735,8.97395833333333,14.8140543608622,semiarid,12
+2215,2021,"Richfield, UT",Richfield,Utah,Sevier,100,15,22,city_2215_utah_richfield,255.762499809265,10.3385416666667,12.5752624746169,semiarid,12
+2215,2022,"Richfield, UT",Richfield,Utah,Sevier,100,16,27,city_2215_utah_richfield,246.325000762939,9.47135416666667,12.6506353207127,semiarid,12
+2215,2023,"Richfield, UT",Richfield,Utah,Sevier,100,8,15,city_2215_utah_richfield,269.687501430512,9.4453125,13.8690237778648,semiarid,12
+2215,2024,"Richfield, UT",Richfield,Utah,Sevier,100,25,39,city_2215_utah_richfield,249.237501144409,10.8697916666667,11.9425006787438,semiarid,12
+2215,2025,"Richfield, UT",Richfield,Utah,Sevier,100,26,56,city_2215_utah_richfield,,,,,

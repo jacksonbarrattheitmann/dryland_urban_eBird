@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2016,14406508.0740628,64,270,city_1056_texas_granite_shoals,1041.8062562942505,20.4375,34.22772094601233,humid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2017,14406508.0740628,65,462,city_1056_texas_granite_shoals,635.0500011444092,20.5,20.821311512931448,dry subhumid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2018,14406508.0740628,73,389,city_1056_texas_granite_shoals,766.1312551498413,19.963541666666668,25.568781677171827,dry subhumid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2019,14406508.0740628,29,40,city_1056_texas_granite_shoals,629.5562491416931,19.984375,20.99614379628367,dry subhumid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2020,14406508.0740628,78,533,city_1056_texas_granite_shoals,619.3187532424927,20.432291666666668,20.350710358130858,dry subhumid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2021,14406508.0740628,53,157,city_1056_texas_granite_shoals,757.5375089645386,19.830729166666668,25.394535438008106,dry subhumid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2022,14406508.0740628,65,267,city_1056_texas_granite_shoals,385.7500004768371,20.216145833333332,12.766353545040548,semiarid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2023,14406508.0740628,54,127,city_1056_texas_granite_shoals,613.0062561035156,21.080729166666668,19.723033292312525,semiarid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2024,14406508.0740628,66,268,city_1056_texas_granite_shoals,618.8062491416931,21.3984375,19.708186088613267,semiarid,12
-1056,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,2025,14406508.0740628,69,236,city_1056_texas_granite_shoals,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1056,2016,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,64,270,city_1056_texas_granite_shoals,1041.80625629425,20.4375,34.2277209460123,humid,12
+1056,2017,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,65,462,city_1056_texas_granite_shoals,635.050001144409,20.5,20.8213115129315,dry subhumid,12
+1056,2018,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,73,389,city_1056_texas_granite_shoals,766.131255149841,19.9635416666667,25.5687816771718,dry subhumid,12
+1056,2019,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,29,40,city_1056_texas_granite_shoals,629.556249141693,19.984375,20.9961437962837,dry subhumid,12
+1056,2020,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,78,533,city_1056_texas_granite_shoals,619.318753242493,20.4322916666667,20.3507103581309,dry subhumid,12
+1056,2021,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,53,157,city_1056_texas_granite_shoals,757.537508964539,19.8307291666667,25.3945354380081,dry subhumid,12
+1056,2022,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,65,267,city_1056_texas_granite_shoals,385.750000476837,20.2161458333333,12.7663535450405,semiarid,12
+1056,2023,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,54,127,city_1056_texas_granite_shoals,613.006256103516,21.0807291666667,19.7230332923125,semiarid,12
+1056,2024,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,66,268,city_1056_texas_granite_shoals,618.806249141693,21.3984375,19.7081860886133,semiarid,12
+1056,2025,"Granite Shoals, TX",Granite Shoals,Texas,Burnet,100,69,236,city_1056_texas_granite_shoals,,,,,

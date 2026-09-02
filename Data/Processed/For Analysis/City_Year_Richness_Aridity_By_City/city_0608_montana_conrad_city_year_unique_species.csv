@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-608,"Conrad, MT",Conrad,Montana,Pondera,2018,3284143.08905684,18,18,city_0608_montana_conrad,291.38749647140503,6.104166666666666,18.09391957390355,semiarid,12
-608,"Conrad, MT",Conrad,Montana,Pondera,2019,3284143.08905684,5,5,city_0608_montana_conrad,326.5687503814697,5.518229166666666,21.044202071905417,dry subhumid,12
-608,"Conrad, MT",Conrad,Montana,Pondera,2020,3284143.08905684,12,12,city_0608_montana_conrad,291.8687481880188,7.346354166666666,16.825941946284228,semiarid,12
-608,"Conrad, MT",Conrad,Montana,Pondera,2021,3284143.08905684,9,9,city_0608_montana_conrad,234.2562465667725,7.677083333333334,13.251973877672452,semiarid,12
-608,"Conrad, MT",Conrad,Montana,Pondera,2022,3284143.08905684,18,22,city_0608_montana_conrad,279.68125343322754,6.6875,16.759925299369442,semiarid,12
-608,"Conrad, MT",Conrad,Montana,Pondera,2023,3284143.08905684,11,16,city_0608_montana_conrad,316.06874895095825,7.666666666666666,17.890683902884433,semiarid,12
-608,"Conrad, MT",Conrad,Montana,Pondera,2024,3284143.08905684,12,13,city_0608_montana_conrad,300.8187532424927,8.018229166666668,16.69524515755415,semiarid,12
-608,"Conrad, MT",Conrad,Montana,Pondera,2025,3284143.08905684,6,10,city_0608_montana_conrad,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+608,2018,"Conrad, MT",Conrad,Montana,Pondera,100,18,18,city_0608_montana_conrad,291.387496471405,6.10416666666667,18.0939195739036,semiarid,12
+608,2019,"Conrad, MT",Conrad,Montana,Pondera,100,5,5,city_0608_montana_conrad,326.56875038147,5.51822916666667,21.0442020719054,dry subhumid,12
+608,2020,"Conrad, MT",Conrad,Montana,Pondera,100,12,12,city_0608_montana_conrad,291.868748188019,7.34635416666667,16.8259419462842,semiarid,12
+608,2021,"Conrad, MT",Conrad,Montana,Pondera,100,9,9,city_0608_montana_conrad,234.256246566773,7.67708333333333,13.2519738776725,semiarid,12
+608,2022,"Conrad, MT",Conrad,Montana,Pondera,100,18,22,city_0608_montana_conrad,279.681253433228,6.6875,16.7599252993694,semiarid,12
+608,2023,"Conrad, MT",Conrad,Montana,Pondera,100,11,16,city_0608_montana_conrad,316.068748950958,7.66666666666667,17.8906839028844,semiarid,12
+608,2024,"Conrad, MT",Conrad,Montana,Pondera,100,12,13,city_0608_montana_conrad,300.818753242493,8.01822916666667,16.6952451575542,semiarid,12
+608,2025,"Conrad, MT",Conrad,Montana,Pondera,100,6,10,city_0608_montana_conrad,,,,,

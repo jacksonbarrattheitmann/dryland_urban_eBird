@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1044,"Graham, TX",Graham,Texas,Young,2015,12482822.5040941,110,730,city_1044_texas_graham,1108.4187507629397,18.479166666666668,38.920336530081265,humid,12
-1044,"Graham, TX",Graham,Texas,Young,2016,12482822.5040941,32,46,city_1044_texas_graham,941.8062562942504,19.1171875,32.345371828726606,humid,12
-1044,"Graham, TX",Graham,Texas,Young,2017,12482822.5040941,25,57,city_1044_texas_graham,735.7562503814697,19.127604166666668,25.25975861837142,dry subhumid,12
-1044,"Graham, TX",Graham,Texas,Young,2018,12482822.5040941,24,43,city_1044_texas_graham,803.6499953269958,18.2890625,28.408505772398637,dry subhumid,12
-1044,"Graham, TX",Graham,Texas,Young,2019,12482822.5040941,8,9,city_1044_texas_graham,847.7437553405762,18.059895833333332,30.21193522513051,humid,12
-1044,"Graham, TX",Graham,Texas,Young,2020,12482822.5040941,6,6,city_1044_texas_graham,782.8812503814697,18.609375,27.364500286408553,dry subhumid,12
-1044,"Graham, TX",Graham,Texas,Young,2021,12482822.5040941,16,24,city_1044_texas_graham,767.4062638282776,18.21875,27.194906359363102,dry subhumid,12
-1044,"Graham, TX",Graham,Texas,Young,2022,12482822.5040941,6,6,city_1044_texas_graham,496.75624656677246,18.716145833333332,17.298848161933492,semiarid,12
-1044,"Graham, TX",Graham,Texas,Young,2023,12482822.5040941,36,46,city_1044_texas_graham,735.6624984741211,19.221354166666668,25.17551015186369,dry subhumid,12
-1044,"Graham, TX",Graham,Texas,Young,2024,12482822.5040941,29,48,city_1044_texas_graham,811.3437595367432,19.7890625,27.236297199240266,dry subhumid,12
-1044,"Graham, TX",Graham,Texas,Young,2025,12482822.5040941,21,39,city_1044_texas_graham,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1044,2015,"Graham, TX",Graham,Texas,Young,100,110,730,city_1044_texas_graham,1108.41875076294,18.4791666666667,38.9203365300813,humid,12
+1044,2016,"Graham, TX",Graham,Texas,Young,100,32,46,city_1044_texas_graham,941.80625629425,19.1171875,32.3453718287266,humid,12
+1044,2017,"Graham, TX",Graham,Texas,Young,100,25,57,city_1044_texas_graham,735.75625038147,19.1276041666667,25.2597586183714,dry subhumid,12
+1044,2018,"Graham, TX",Graham,Texas,Young,100,24,43,city_1044_texas_graham,803.649995326996,18.2890625,28.4085057723986,dry subhumid,12
+1044,2019,"Graham, TX",Graham,Texas,Young,100,8,9,city_1044_texas_graham,847.743755340576,18.0598958333333,30.2119352251305,humid,12
+1044,2020,"Graham, TX",Graham,Texas,Young,100,6,6,city_1044_texas_graham,782.88125038147,18.609375,27.3645002864086,dry subhumid,12
+1044,2021,"Graham, TX",Graham,Texas,Young,100,16,24,city_1044_texas_graham,767.406263828278,18.21875,27.1949063593631,dry subhumid,12
+1044,2022,"Graham, TX",Graham,Texas,Young,100,6,6,city_1044_texas_graham,496.756246566773,18.7161458333333,17.2988481619335,semiarid,12
+1044,2023,"Graham, TX",Graham,Texas,Young,100,36,46,city_1044_texas_graham,735.662498474121,19.2213541666667,25.1755101518637,dry subhumid,12
+1044,2024,"Graham, TX",Graham,Texas,Young,100,29,48,city_1044_texas_graham,811.343759536743,19.7890625,27.2362971992403,dry subhumid,12
+1044,2025,"Graham, TX",Graham,Texas,Young,100,21,39,city_1044_texas_graham,,,,,

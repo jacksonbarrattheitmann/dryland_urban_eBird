@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2016,6227769.12157912,26,36,city_1869_colorado_new_castle,403.0562505722046,8.421875,21.879219708754107,dry subhumid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2017,6227769.12157912,16,22,city_1869_colorado_new_castle,326.2562484741211,8.552083333333334,17.585962859918933,semiarid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2018,6227769.12157912,47,86,city_1869_colorado_new_castle,357.237496137619,8.268229166666668,19.55512452128948,semiarid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2019,6227769.12157912,15,16,city_1869_colorado_new_castle,413.7562503814697,7.1015625,24.194061237472877,dry subhumid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2020,6227769.12157912,47,98,city_1869_colorado_new_castle,242.06874990463257,8.317708333333332,13.21501278978944,semiarid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2021,6227769.12157912,41,73,city_1869_colorado_new_castle,414.26249980926514,8.528645833333332,22.357947986894985,dry subhumid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2022,6227769.12157912,28,64,city_1869_colorado_new_castle,378.59999656677246,7.802083333333334,21.26717359298429,dry subhumid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2023,6227769.12157912,45,76,city_1869_colorado_new_castle,396.57500076293945,7.848958333333334,22.218383468480994,dry subhumid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2024,6227769.12157912,42,105,city_1869_colorado_new_castle,383.5875024795532,9.125,20.05686287474788,dry subhumid,12
-1869,"New Castle, CO",New Castle,Colorado,Garfield,2025,6227769.12157912,43,85,city_1869_colorado_new_castle,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1869,2016,"New Castle, CO",New Castle,Colorado,Garfield,100,26,36,city_1869_colorado_new_castle,403.056250572205,8.421875,21.8792197087541,dry subhumid,12
+1869,2017,"New Castle, CO",New Castle,Colorado,Garfield,100,16,22,city_1869_colorado_new_castle,326.256248474121,8.55208333333333,17.5859628599189,semiarid,12
+1869,2018,"New Castle, CO",New Castle,Colorado,Garfield,100,47,86,city_1869_colorado_new_castle,357.237496137619,8.26822916666667,19.5551245212895,semiarid,12
+1869,2019,"New Castle, CO",New Castle,Colorado,Garfield,100,15,16,city_1869_colorado_new_castle,413.75625038147,7.1015625,24.1940612374729,dry subhumid,12
+1869,2020,"New Castle, CO",New Castle,Colorado,Garfield,100,47,98,city_1869_colorado_new_castle,242.068749904633,8.31770833333333,13.2150127897894,semiarid,12
+1869,2021,"New Castle, CO",New Castle,Colorado,Garfield,100,41,73,city_1869_colorado_new_castle,414.262499809265,8.52864583333333,22.357947986895,dry subhumid,12
+1869,2022,"New Castle, CO",New Castle,Colorado,Garfield,100,28,64,city_1869_colorado_new_castle,378.599996566773,7.80208333333333,21.2671735929843,dry subhumid,12
+1869,2023,"New Castle, CO",New Castle,Colorado,Garfield,100,45,76,city_1869_colorado_new_castle,396.57500076294,7.84895833333333,22.218383468481,dry subhumid,12
+1869,2024,"New Castle, CO",New Castle,Colorado,Garfield,100,42,105,city_1869_colorado_new_castle,383.587502479553,9.125,20.0568628747479,dry subhumid,12
+1869,2025,"New Castle, CO",New Castle,Colorado,Garfield,100,43,85,city_1869_colorado_new_castle,,,,,

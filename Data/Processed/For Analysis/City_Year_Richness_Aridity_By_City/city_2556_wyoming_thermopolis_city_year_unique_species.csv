@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2017,6026177.96226085,25,46,city_2556_wyoming_thermopolis,284.8812508583069,7.7890625,16.01440496700188,semiarid,12
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2018,6026177.96226085,3,3,city_2556_wyoming_thermopolis,298.98750591278076,7.161458333333334,17.422033728453382,semiarid,12
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2019,6026177.96226085,25,28,city_2556_wyoming_thermopolis,327.4562487602234,6.2421875,20.16084648451592,dry subhumid,12
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2020,6026177.96226085,18,20,city_2556_wyoming_thermopolis,185.4812469482422,7.984375,10.313466381135967,semiarid,12
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2021,6026177.96226085,29,48,city_2556_wyoming_thermopolis,243.79999923706055,8.442708333333332,13.219316535869988,semiarid,12
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2022,6026177.96226085,38,64,city_2556_wyoming_thermopolis,272.6062526702881,7.348958333333334,15.713119337344732,semiarid,12
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2023,6026177.96226085,30,45,city_2556_wyoming_thermopolis,354.8312520980835,7.786458333333333,19.9495169554413,semiarid,12
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2024,6026177.96226085,43,135,city_2556_wyoming_thermopolis,197.40000009536743,8.971354166666668,10.405161295349496,semiarid,12
-2556,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,2025,6026177.96226085,41,87,city_2556_wyoming_thermopolis,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2556,2017,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,25,46,city_2556_wyoming_thermopolis,284.881250858307,7.7890625,16.0144049670019,semiarid,12
+2556,2018,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,3,3,city_2556_wyoming_thermopolis,298.987505912781,7.16145833333333,17.4220337284534,semiarid,12
+2556,2019,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,25,28,city_2556_wyoming_thermopolis,327.456248760223,6.2421875,20.1608464845159,dry subhumid,12
+2556,2020,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,18,20,city_2556_wyoming_thermopolis,185.481246948242,7.984375,10.313466381136,semiarid,12
+2556,2021,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,29,48,city_2556_wyoming_thermopolis,243.799999237061,8.44270833333333,13.21931653587,semiarid,12
+2556,2022,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,38,64,city_2556_wyoming_thermopolis,272.606252670288,7.34895833333333,15.7131193373447,semiarid,12
+2556,2023,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,30,45,city_2556_wyoming_thermopolis,354.831252098084,7.78645833333333,19.9495169554413,semiarid,12
+2556,2024,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,43,135,city_2556_wyoming_thermopolis,197.400000095367,8.97135416666667,10.4051612953495,semiarid,12
+2556,2025,"Thermopolis, WY",Thermopolis,Wyoming,Hot Springs,99.9999999999828,41,87,city_2556_wyoming_thermopolis,,,,,

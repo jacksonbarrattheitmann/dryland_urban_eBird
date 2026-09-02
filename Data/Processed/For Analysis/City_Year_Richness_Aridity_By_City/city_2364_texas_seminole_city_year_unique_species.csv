@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2364,"Seminole, TX",Seminole,Texas,Gaines,2015,7866667.42305262,25,35,city_2364_texas_seminole,663.1562576293945,16.971354166666668,24.58742907499155,dry subhumid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2016,7866667.42305262,10,10,city_2364_texas_seminole,428.6500039100647,17.708333333333332,15.470075329085043,semiarid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2017,7866667.42305262,14,14,city_2364_texas_seminole,458.49375104904175,17.716145833333332,16.542478662297476,semiarid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2018,7866667.42305262,12,16,city_2364_texas_seminole,417.2687555551529,16.971354166666668,15.470812217165076,semiarid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2019,7866667.42305262,14,23,city_2364_texas_seminole,420.7562472820282,16.807291666666668,15.6955895624926,semiarid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2020,7866667.42305262,6,6,city_2364_texas_seminole,238.0749988555908,17.34375,8.706742815290179,arid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2021,7866667.42305262,14,25,city_2364_texas_seminole,448.418744802475,16.890625,16.675653496431377,semiarid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2022,7866667.42305262,25,82,city_2364_texas_seminole,319.64375138282776,17.3671875,11.679817349986283,semiarid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2023,7866667.42305262,11,16,city_2364_texas_seminole,266.6812496185303,18.015625,9.519018391291654,arid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2024,7866667.42305262,23,46,city_2364_texas_seminole,410.9874973297119,18.375,14.484140875055926,semiarid,12
-2364,"Seminole, TX",Seminole,Texas,Gaines,2025,7866667.42305262,27,54,city_2364_texas_seminole,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2364,2015,"Seminole, TX",Seminole,Texas,Gaines,100,25,35,city_2364_texas_seminole,663.156257629395,16.9713541666667,24.5874290749916,dry subhumid,12
+2364,2016,"Seminole, TX",Seminole,Texas,Gaines,100,10,10,city_2364_texas_seminole,428.650003910065,17.7083333333333,15.470075329085,semiarid,12
+2364,2017,"Seminole, TX",Seminole,Texas,Gaines,100,14,14,city_2364_texas_seminole,458.493751049042,17.7161458333333,16.5424786622975,semiarid,12
+2364,2018,"Seminole, TX",Seminole,Texas,Gaines,100,12,16,city_2364_texas_seminole,417.268755555153,16.9713541666667,15.4708122171651,semiarid,12
+2364,2019,"Seminole, TX",Seminole,Texas,Gaines,100,14,23,city_2364_texas_seminole,420.756247282028,16.8072916666667,15.6955895624926,semiarid,12
+2364,2020,"Seminole, TX",Seminole,Texas,Gaines,100,6,6,city_2364_texas_seminole,238.074998855591,17.34375,8.70674281529018,arid,12
+2364,2021,"Seminole, TX",Seminole,Texas,Gaines,100,14,25,city_2364_texas_seminole,448.418744802475,16.890625,16.6756534964314,semiarid,12
+2364,2022,"Seminole, TX",Seminole,Texas,Gaines,100,25,82,city_2364_texas_seminole,319.643751382828,17.3671875,11.6798173499863,semiarid,12
+2364,2023,"Seminole, TX",Seminole,Texas,Gaines,100,11,16,city_2364_texas_seminole,266.68124961853,18.015625,9.51901839129165,arid,12
+2364,2024,"Seminole, TX",Seminole,Texas,Gaines,100,23,46,city_2364_texas_seminole,410.987497329712,18.375,14.4841408750559,semiarid,12
+2364,2025,"Seminole, TX",Seminole,Texas,Gaines,100,27,54,city_2364_texas_seminole,,,,,

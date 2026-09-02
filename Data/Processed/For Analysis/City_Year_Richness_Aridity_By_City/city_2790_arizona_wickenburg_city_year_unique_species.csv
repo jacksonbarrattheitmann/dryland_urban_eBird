@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2015,6264555.38625862,21,21,city_2790_arizona_wickenburg,341.0437479019165,21.591145833333332,10.795548528096278,semiarid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2016,6264555.38625862,15,18,city_2790_arizona_wickenburg,258.4812512397766,21.372395833333332,8.239130113395387,arid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2017,6264555.38625862,66,247,city_2790_arizona_wickenburg,205.6812492609024,21.770833333333332,6.4739016160808625,arid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2018,6264555.38625862,87,472,city_2790_arizona_wickenburg,231.8062527179718,21.455729166666668,7.369285623288448,arid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2019,6264555.38625862,47,203,city_2790_arizona_wickenburg,334.2437516450882,20.528645833333332,10.948528587538505,semiarid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2020,6264555.38625862,82,401,city_2790_arizona_wickenburg,197.30000001192093,21.544270833333332,6.254701560685019,arid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2021,6264555.38625862,49,175,city_2790_arizona_wickenburg,252.7437505722046,21.346354166666668,8.062939288836633,arid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2022,6264555.38625862,33,86,city_2790_arizona_wickenburg,222.3250008225441,20.9765625,7.177200530967376,arid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2023,6264555.38625862,40,80,city_2790_arizona_wickenburg,251.52499616146088,20.716145833333332,8.188689997965323,arid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2024,6264555.38625862,42,98,city_2790_arizona_wickenburg,236.58125257492063,21.815104166666668,7.436130063744743,arid,12
-2790,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,2025,6264555.38625862,76,1198,city_2790_arizona_wickenburg,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2790,2015,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,21,21,city_2790_arizona_wickenburg,341.043747901917,21.5911458333333,10.7955485280963,semiarid,12
+2790,2016,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,15,18,city_2790_arizona_wickenburg,258.481251239777,21.3723958333333,8.23913011339539,arid,12
+2790,2017,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,66,247,city_2790_arizona_wickenburg,205.681249260902,21.7708333333333,6.47390161608086,arid,12
+2790,2018,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,87,472,city_2790_arizona_wickenburg,231.806252717972,21.4557291666667,7.36928562328845,arid,12
+2790,2019,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,47,203,city_2790_arizona_wickenburg,334.243751645088,20.5286458333333,10.9485285875385,semiarid,12
+2790,2020,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,82,401,city_2790_arizona_wickenburg,197.300000011921,21.5442708333333,6.25470156068502,arid,12
+2790,2021,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,49,175,city_2790_arizona_wickenburg,252.743750572205,21.3463541666667,8.06293928883663,arid,12
+2790,2022,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,33,86,city_2790_arizona_wickenburg,222.325000822544,20.9765625,7.17720053096738,arid,12
+2790,2023,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,40,80,city_2790_arizona_wickenburg,251.524996161461,20.7161458333333,8.18868999796532,arid,12
+2790,2024,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,42,98,city_2790_arizona_wickenburg,236.581252574921,21.8151041666667,7.43613006374474,arid,12
+2790,2025,"Wickenburg, AZ",Wickenburg,Arizona,Maricopa,99.9999999999955,76,1198,city_2790_arizona_wickenburg,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2015,31020903.8412824,34,39,city_0012_oklahoma_ada,1226.4499969482422,17.140625,45.18871606487478,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2016,31020903.8412824,4,6,city_0012_oklahoma_ada,862.837498664856,17.911458333333332,30.91337931398626,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2017,31020903.8412824,17,20,city_0012_oklahoma_ada,1010.862497329712,17.7421875,36.43773575280291,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2018,31020903.8412824,25,26,city_0012_oklahoma_ada,1144.4812545776367,16.705729166666668,42.855270771117745,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2019,31020903.8412824,26,33,city_0012_oklahoma_ada,1301.0687503814695,16.453125,49.18393385966572,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2020,31020903.8412824,61,136,city_0012_oklahoma_ada,1159.387508392334,16.791666666666668,43.274183828018685,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2021,31020903.8412824,37,81,city_0012_oklahoma_ada,980.60626220703125,16.979166666666668,36.346795819256755,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2022,31020903.8412824,27,43,city_0012_oklahoma_ada,929.4187564849854,16.973958333333332,34.45615007629218,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2023,31020903.8412824,55,84,city_0012_oklahoma_ada,1011.606273651123,17.8671875,36.300982065417365,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2024,31020903.8412824,64,184,city_0012_oklahoma_ada,1014.937520980835,18.15625,36.04661561752133,humid,12
-12,"Ada, OK",Ada,Oklahoma,Pontotoc,2025,31020903.8412824,46,106,city_0012_oklahoma_ada,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+12,2015,"Ada, OK",Ada,Oklahoma,Pontotoc,100,34,39,city_0012_oklahoma_ada,1226.44999694824,17.140625,45.1887160648748,humid,12
+12,2016,"Ada, OK",Ada,Oklahoma,Pontotoc,100,4,6,city_0012_oklahoma_ada,862.837498664856,17.9114583333333,30.9133793139863,humid,12
+12,2017,"Ada, OK",Ada,Oklahoma,Pontotoc,100,17,20,city_0012_oklahoma_ada,1010.86249732971,17.7421875,36.4377357528029,humid,12
+12,2018,"Ada, OK",Ada,Oklahoma,Pontotoc,100,25,26,city_0012_oklahoma_ada,1144.48125457764,16.7057291666667,42.8552707711178,humid,12
+12,2019,"Ada, OK",Ada,Oklahoma,Pontotoc,100,26,33,city_0012_oklahoma_ada,1301.06875038147,16.453125,49.1839338596657,humid,12
+12,2020,"Ada, OK",Ada,Oklahoma,Pontotoc,100,61,136,city_0012_oklahoma_ada,1159.38750839233,16.7916666666667,43.2741838280187,humid,12
+12,2021,"Ada, OK",Ada,Oklahoma,Pontotoc,100,37,81,city_0012_oklahoma_ada,980.606262207031,16.9791666666667,36.3467958192568,humid,12
+12,2022,"Ada, OK",Ada,Oklahoma,Pontotoc,100,27,43,city_0012_oklahoma_ada,929.418756484985,16.9739583333333,34.4561500762922,humid,12
+12,2023,"Ada, OK",Ada,Oklahoma,Pontotoc,100,55,84,city_0012_oklahoma_ada,1011.60627365112,17.8671875,36.3009820654174,humid,12
+12,2024,"Ada, OK",Ada,Oklahoma,Pontotoc,100,64,184,city_0012_oklahoma_ada,1014.93752098083,18.15625,36.0466156175213,humid,12
+12,2025,"Ada, OK",Ada,Oklahoma,Pontotoc,100,60,141,city_0012_oklahoma_ada,,,,,

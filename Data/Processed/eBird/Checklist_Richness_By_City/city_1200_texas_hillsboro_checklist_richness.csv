@@ -1,91 +1,91 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22817275,L1832405,Hillsboro City Park,2015-04-09,2015,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,35,0.483,1,32.0173188,-97.1247196,9,9,city_1200_texas_hillsboro
-S22586249,L1832405,Hillsboro City Park,2015-03-27,2015,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,15,,1,32.0173188,-97.1247196,5,5,city_1200_texas_hillsboro
-S26056400,L652628,"Hillsboro, Tx",2015-10-21,2015,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,30,8.047,1,32.0087492,-97.0955372,3,3,city_1200_texas_hillsboro
-S31230953,L4877189,Texas-Hill Co.-Hillsboro Quality Inn,2016-08-17,2016,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,27,,1,32.0109622,-97.0930226,5,5,city_1200_texas_hillsboro
-S31230985,L4877189,Texas-Hill Co.-Hillsboro Quality Inn,2016-08-18,2016,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,19,,1,32.0109622,-97.0930226,4,4,city_1200_texas_hillsboro
-S27385042,L4231047,Texas-Hill Co.-Hillsboro TX 22,2016-02-06,2016,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,8,5.633,1,32.0106961,-97.1365643,2,2,city_1200_texas_hillsboro
-S36525840,L1832405,Hillsboro City Park,2017-05-03,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,42,0.322,1,32.0173188,-97.1247196,19,19,city_1200_texas_hillsboro
-S40157176,L6418418,"916 E Franklin St, Hillsboro US-TX (32.0115,-97.1118)",2017-10-27,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,8,0.483,1,32.0115,-97.111833,3,3,city_1200_texas_hillsboro
-S38700133,L652628,"Hillsboro, Tx",2017-08-18,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,20,8.047,1,32.0087492,-97.0955372,3,3,city_1200_texas_hillsboro
-S40879753,L6530234,"401 Old Brandon Rd, Hillsboro US-TX (32.0160,-97.1045)",2017-12-03,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,6,,1,32.01596,-97.104533,8,8,city_1200_texas_hillsboro
-S37665697,L5990878,US-TX-Hillsboro-214 W Elm St - 32.0108x-97.1353,2017-06-18,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,15,16.093,1,32.010814,-97.13529,5,5,city_1200_texas_hillsboro
-S46360368,L7530766,Hampton Inn Hillsboro,2018-06-06,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,18,,1,32.018457,-97.092654,8,8,city_1200_texas_hillsboro
-S49346817,L652628,"Hillsboro, Tx",2018-10-21,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,29,,1,32.0087492,-97.0955372,2,2,city_1200_texas_hillsboro
-S50476008,L8221788,Hill County,2018-12-06,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,96,32.187,1,32.016851,-97.096865,9,9,city_1200_texas_hillsboro
-S41809403,L6700093,I-35 at Hwy 22,2018-01-10,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,,1,32.0090873,-97.0932744,2,2,city_1200_texas_hillsboro
-S43391748,L1832405,Hillsboro City Park,2018-03-01,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,30,1.609,1,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
-S53851221,L8852820,"401 Old Brandon Rd, Hillsboro US-TX (32.0159,-97.1057)",2019-03-15,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,10,1.024,1,32.015895,-97.105717,10,10,city_1200_texas_hillsboro
-S62775839,L1832405,Hillsboro City Park,2019-12-30,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,41,5.633,1,32.0173188,-97.1247196,21,21,city_1200_texas_hillsboro
-S60164890,L1832405,Hillsboro City Park,2019-09-27,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,12,,1,32.0173188,-97.1247196,7,7,city_1200_texas_hillsboro
-S60499364,L1832405,Hillsboro City Park,2019-10-10,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,17,0.683,1,32.0173188,-97.1247196,9,9,city_1200_texas_hillsboro
-S52761533,L4696563,Hill Co: I-35 corridor near Hillsboro Hampton Inn,2019-02-16,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,30,0.402,1,32.019758,-97.0927365,10,10,city_1200_texas_hillsboro
-S70201731,L11650718,"TX, Hill--Hillsboro",2019-03-24,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,6,,1,32.0176988,-97.0991929,6,6,city_1200_texas_hillsboro
-S58397973,L9685133,"1405 Corsicana Highway, Hillsboro, Texas, US (32.009, -97.098)",2019-07-23,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,14,3.991,1,32.0085096,-97.0977954,5,5,city_1200_texas_hillsboro
-S52683287,L8608107,"118–398 Jane Ln, Hillsboro US-TX (32.0159,-97.1000)",2019-02-14,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,14,2.017,1,32.01593,-97.099982,8,8,city_1200_texas_hillsboro
-S61070725,L1832405,Hillsboro City Park,2019-10-31,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,11,0.282,1,32.0173188,-97.1247196,12,12,city_1200_texas_hillsboro
-S61305756,L652628,"Hillsboro, Tx",2019-11-09,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,18,,1,32.0087492,-97.0955372,4,4,city_1200_texas_hillsboro
-S52409081,L1832405,Hillsboro City Park,2019-02-05,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,6,0.531,1,32.0173188,-97.1247196,11,11,city_1200_texas_hillsboro
-S52809044,L1832405,Hillsboro City Park,2019-02-16,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,35,0.322,1,32.0173188,-97.1247196,15,15,city_1200_texas_hillsboro
-S71274660,L11857986,I-35N near Hillsboro,2019-12-26,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,10,16.093,1,32.0057351,-97.1139234,4,4,city_1200_texas_hillsboro
-S202322238,L1832405,Hillsboro City Park,2020-09-23,2020,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,9,0.713,1,32.0173188,-97.1247196,10,10,city_1200_texas_hillsboro
-S72104410,L1832405,Hillsboro City Park,2020-08-04,2020,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,19,,1,32.0173188,-97.1247196,8,8,city_1200_texas_hillsboro
-S97903423,L12428703,"South Waco Street, Hillsboro, Texas, US",2021-11-21,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,0.145,1,32.0076923,-97.1305049,5,5,city_1200_texas_hillsboro
-S86260542,L14591961,Auto selected,2021-04-24,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,40,3.35,1,32.0000146,-97.0990034,4,4,city_1200_texas_hillsboro
-S97868091,L16938122,"1876 Bonds Alley, Hillsboro, Texas, US (32.011, -97.131)",2021-11-21,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,3.701,1,32.0108347,-97.1307464,5,5,city_1200_texas_hillsboro
-S90461648,L1832405,Hillsboro City Park,2021-06-19,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,77,2.322,1,32.0173188,-97.1247196,13,13,city_1200_texas_hillsboro
-S83700370,L1832405,Hillsboro City Park,2021-03-19,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,21,0.904,1,32.0173188,-97.1247196,9,9,city_1200_texas_hillsboro
-S85396834,L1832405,Hillsboro City Park,2021-04-12,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,36,2.816,1,32.0173188,-97.1247196,11,11,city_1200_texas_hillsboro
-S82787543,L1832405,Hillsboro City Park,2021-03-04,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,45,0.402,1,32.0173188,-97.1247196,12,12,city_1200_texas_hillsboro
-S86110001,L13070528,"I-35, Central Hillsboro",2021-04-22,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,9,7.146,1,32.0155857,-97.1029853,3,3,city_1200_texas_hillsboro
-S93842709,L1832405,Hillsboro City Park,2021-08-28,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,6,0.403,1,32.0173188,-97.1247196,5,5,city_1200_texas_hillsboro
-S85262751,L13070528,"I-35, Central Hillsboro",2021-04-10,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,10.34,1,32.0155857,-97.1029853,3,3,city_1200_texas_hillsboro
-S86685122,L1832405,Hillsboro City Park,2021-04-29,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,21,0.416,1,32.0173188,-97.1247196,15,15,city_1200_texas_hillsboro
-S78932973,L13213266,"104 W Elm St, Hillsboro US-TX 32.01078, -97.13194",2021-01-09,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,2.836,1,32.010776,-97.131944,1,1,city_1200_texas_hillsboro
-S78371927,L13106280,"102 Dynasty Dr, Hillsboro US-TX 32.01825, -97.09360",2021-01-01,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,15,,1,32.018251,-97.0936,4,4,city_1200_texas_hillsboro
-S81686294,L489910,Hillsboro,2021-02-15,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,180,,1,32.01096,-97.12998,1,1,city_1200_texas_hillsboro
-S83016418,L13963429,Central Hillsboro,2021-03-08,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,8.613,1,31.9935517,-97.1276932,3,3,city_1200_texas_hillsboro
-S264548682,L1832405,Hillsboro City Park,2021-06-19,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,30,0.805,1,32.0173188,-97.1247196,5,5,city_1200_texas_hillsboro
-S98049187,L16967844,"1515 Old Brandon Road, Hillsboro, Texas, US (32.018, -97.098)",2021-11-25,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,6,,1,32.0179103,-97.0975631,2,2,city_1200_texas_hillsboro
-S90447337,L15441762,"154–198 E Fancher St, Hillsboro US-TX 32.01245, -97.12857",2021-06-19,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,7,3.904,1,32.012454,-97.128565,2,2,city_1200_texas_hillsboro
-S98242698,L17000868,"1024 Old Bynum Road, Hillsboro, Texas, US",2021-11-29,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,7,6.758,1,31.9999428,-97.10646,3,3,city_1200_texas_hillsboro
-S121739126,L1832405,Hillsboro City Park,2022-11-02,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,22,0.418,1,32.0173188,-97.1247196,20,20,city_1200_texas_hillsboro
-S122131838,L1832405,Hillsboro City Park,2022-11-09,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,21,0.644,1,32.0173188,-97.1247196,11,11,city_1200_texas_hillsboro
-S117763700,L1832405,Hillsboro City Park,2022-08-29,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,22,0.562,1,32.0173188,-97.1247196,16,16,city_1200_texas_hillsboro
-S117865501,L1832405,Hillsboro City Park,2022-08-31,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,19,0.306,1,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
-S118576281,L1832405,Hillsboro City Park,2022-09-12,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,15,,1,32.0173188,-97.1247196,11,11,city_1200_texas_hillsboro
-S120544532,L1832405,Hillsboro City Park,2022-10-12,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,14,0.531,1,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
-S117489263,L1832405,Hillsboro City Park,2022-08-24,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,35,1.32,1,32.0173188,-97.1247196,28,28,city_1200_texas_hillsboro
-S120350270,L1832405,Hillsboro City Park,2022-10-09,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,60,2.623,1,32.0173188,-97.1247196,12,12,city_1200_texas_hillsboro
-S122025013,L1832405,Hillsboro City Park,2022-11-07,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,31,0.321,1,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
-S119563164,L1832405,Hillsboro City Park,2022-09-28,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,22,0.287,1,32.0173188,-97.1247196,15,15,city_1200_texas_hillsboro
-S119470542,L1832405,Hillsboro City Park,2022-09-26,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,15,0.322,1,32.0173188,-97.1247196,9,9,city_1200_texas_hillsboro
-S120345510,L13963429,Central Hillsboro,2022-10-09,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,11,8.357,1,31.9935517,-97.1276932,5,5,city_1200_texas_hillsboro
-S120848667,L1832405,Hillsboro City Park,2022-10-17,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,27,0.279,1,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
-S117899454,L20735336,"1501 Corsicana Highway, Hillsboro, Texas, US (32.009, -97.093)",2022-09-01,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,16,0.18,1,32.0093217,-97.0933971,1,1,city_1200_texas_hillsboro
-S129874944,L1832405,Hillsboro City Park,2023-02-28,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,45,1.733,1,32.0173188,-97.1247196,21,21,city_1200_texas_hillsboro
-S137355636,L1832405,Hillsboro City Park,2023-05-13,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,19,1.11,1,32.0173188,-97.1247196,24,24,city_1200_texas_hillsboro
-S133169570,L1832405,Hillsboro City Park,2023-04-09,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,17,0.402,1,32.0173188,-97.1247196,19,19,city_1200_texas_hillsboro
-S131372442,L1832405,Hillsboro City Park,2023-03-20,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,62,2.414,1,32.0173188,-97.1247196,26,26,city_1200_texas_hillsboro
-S141634813,L25210269,"Monarch Highway, Hillsboro, Texas, US (32, -97.098)",2023-06-15,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,11,0.225,1,32.0003107,-97.0980203,4,4,city_1200_texas_hillsboro
-S152867011,L1832405,Hillsboro City Park,2023-10-21,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,10,,1,32.0173188,-97.1247196,3,3,city_1200_texas_hillsboro
-S132869691,L23421971,"Private Residence, Hillsboro US-TX 32.01786, -97.10578",2023-04-06,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,8,,1,32.017857,-97.105784,6,6,city_1200_texas_hillsboro
-S129883745,L22858731,"William's Drive-In - Hillsboro, TX",2023-02-28,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,,1,32.0042576,-97.1306521,6,6,city_1200_texas_hillsboro
-S129395892,L22770917,"1515 Old Brandon Rd, Hillsboro",2023-02-22,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,6,,1,32.017918,-97.097714,5,5,city_1200_texas_hillsboro
-S125060762,L22002479,"Loves, Hillsboro, Texas, US (32.011, -97.094)",2023-01-01,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,0.7,1,32.011224,-97.0942761,3,3,city_1200_texas_hillsboro
-S149877577,L1832405,Hillsboro City Park,2023-09-14,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,9,0.073,1,32.0173188,-97.1247196,3,3,city_1200_texas_hillsboro
-S150579200,L1832405,Hillsboro City Park,2023-09-23,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,16,0.966,1,32.0173188,-97.1247196,1,1,city_1200_texas_hillsboro
-S192969020,L1832405,Hillsboro City Park,2024-08-27,2024,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,27,0.467,1,32.0173188,-97.1247196,10,10,city_1200_texas_hillsboro
-S206687656,L38883214,Hill County on Texas 22 from Hillsboro to Whitney,2024-12-25,2024,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,25,34.589,1,32.008456,-97.098376,5,5,city_1200_texas_hillsboro
-S197533774,L37065610,"IH-35 S, Hillsboro US-TX 31.98725, -97.10698",2024-10-04,2024,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,5,10.945,1,31.987246,-97.106978,1,1,city_1200_texas_hillsboro
-S227963554,L1832405,Hillsboro City Park,2025-04-21,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,22,0.644,1,32.0173188,-97.1247196,20,20,city_1200_texas_hillsboro
-S235029477,L1832405,Hillsboro City Park,2025-05-07,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,17,0.266,1,32.0173188,-97.1247196,24,24,city_1200_texas_hillsboro
-S285630228,L1832405,Hillsboro City Park,2025-11-22,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,44,1.104,1,32.0173188,-97.1247196,10,10,city_1200_texas_hillsboro
-S209909418,L39553198,"Carter Davis Park, Hillsboro US-TX 32.00714, -97.14096",2025-01-19,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,15,,1,32.007143,-97.140959,12,12,city_1200_texas_hillsboro
-S256565272,L1832405,Hillsboro City Park,2025-07-03,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,44,1.249,1,32.0173188,-97.1247196,7,7,city_1200_texas_hillsboro
-S291056414,L1832405,Hillsboro City Park,2025-12-29,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,15,0.531,1,32.0173188,-97.1247196,4,4,city_1200_texas_hillsboro
-S209902891,L39552160,"Hillsboro Cemetery, Hillsboro US-TX 32.02073, -97.12544",2025-01-19,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,18,2.067,1,32.020728,-97.125442,7,7,city_1200_texas_hillsboro
-S246756478,L46831124,"1406 Corsicana Hwy, Hillsboro US-TX (32.0076,-97.0975)",2025-05-31,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,30,,1,32.00764,-97.097526,4,4,city_1200_texas_hillsboro
-S244249117,L46302137,"IH-35 N, Hillsboro US-TX 31.99371, -97.10231",2025-05-29,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,15,14.484,1,31.993714,-97.102307,5,5,city_1200_texas_hillsboro
-S261057179,L20735336,"1501 Corsicana Highway, Hillsboro, Texas, US (32.009, -97.093)",2025-07-19,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,32,,1,32.0093217,-97.0933971,2,2,city_1200_texas_hillsboro
-S239889286,L45394669,"76645, Hillsboro US-TX (31.9854,-97.1098)",2025-03-26,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,16968500.1931144,10,8.047,1,31.985397,-97.109777,1,1,city_1200_texas_hillsboro
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22586249,L1832405,Hillsboro City Park,2015-03-27,2015,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,15,,1,Stationary,32.0173188,-97.1247196,5,5,city_1200_texas_hillsboro
+S22817275,L1832405,Hillsboro City Park,2015-04-09,2015,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,35,0.483,1,Traveling,32.0173188,-97.1247196,9,9,city_1200_texas_hillsboro
+S26056400,L652628,"Hillsboro, Tx",2015-10-21,2015,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,30,8.047,1,Traveling,32.0087492,-97.0955372,3,3,city_1200_texas_hillsboro
+S27385042,L4231047,Texas-Hill Co.-Hillsboro TX 22,2016-02-06,2016,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,8,5.633,1,Traveling,32.0106961,-97.1365643,2,2,city_1200_texas_hillsboro
+S31230953,L4877189,Texas-Hill Co.-Hillsboro Quality Inn,2016-08-17,2016,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,27,,1,Stationary,32.0109622,-97.0930226,5,5,city_1200_texas_hillsboro
+S31230985,L4877189,Texas-Hill Co.-Hillsboro Quality Inn,2016-08-18,2016,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,19,,1,Stationary,32.0109622,-97.0930226,4,4,city_1200_texas_hillsboro
+S36525840,L1832405,Hillsboro City Park,2017-05-03,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,42,0.322,1,Traveling,32.0173188,-97.1247196,19,19,city_1200_texas_hillsboro
+S37665697,L5990878,US-TX-Hillsboro-214 W Elm St - 32.0108x-97.1353,2017-06-18,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,15,16.093,1,Traveling,32.010814,-97.13529,5,5,city_1200_texas_hillsboro
+S38700133,L652628,"Hillsboro, Tx",2017-08-18,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,20,8.047,1,Traveling,32.0087492,-97.0955372,3,3,city_1200_texas_hillsboro
+S40157176,L6418418,"916 E Franklin St, Hillsboro US-TX (32.0115,-97.1118)",2017-10-27,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,8,0.483,1,Traveling,32.0115,-97.111833,3,3,city_1200_texas_hillsboro
+S40879753,L6530234,"401 Old Brandon Rd, Hillsboro US-TX (32.0160,-97.1045)",2017-12-03,2017,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,6,,1,Stationary,32.01596,-97.104533,8,8,city_1200_texas_hillsboro
+S41809403,L6700093,I-35 at Hwy 22,2018-01-10,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,,1,Stationary,32.0090873,-97.0932744,2,2,city_1200_texas_hillsboro
+S43391748,L1832405,Hillsboro City Park,2018-03-01,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,30,1.609,1,Traveling,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
+S46360368,L7530766,Hampton Inn Hillsboro,2018-06-06,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,18,,1,Stationary,32.018457,-97.092654,8,8,city_1200_texas_hillsboro
+S49346817,L652628,"Hillsboro, Tx",2018-10-21,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,29,,1,Stationary,32.0087492,-97.0955372,2,2,city_1200_texas_hillsboro
+S50476008,L8221788,Hill County,2018-12-06,2018,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,96,32.187,1,Traveling,32.016851,-97.096865,9,9,city_1200_texas_hillsboro
+S52409081,L1832405,Hillsboro City Park,2019-02-05,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,6,0.531,1,Traveling,32.0173188,-97.1247196,11,11,city_1200_texas_hillsboro
+S52683287,L8608107,"118–398 Jane Ln, Hillsboro US-TX (32.0159,-97.1000)",2019-02-14,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,14,2.017,1,Traveling,32.01593,-97.099982,8,8,city_1200_texas_hillsboro
+S52809044,L1832405,Hillsboro City Park,2019-02-16,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,35,0.322,1,Traveling,32.0173188,-97.1247196,15,15,city_1200_texas_hillsboro
+S52761533,L4696563,Hill Co: I-35 corridor near Hillsboro Hampton Inn,2019-02-16,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,30,0.402,1,Traveling,32.019758,-97.0927365,10,10,city_1200_texas_hillsboro
+S53851221,L8852820,"401 Old Brandon Rd, Hillsboro US-TX (32.0159,-97.1057)",2019-03-15,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,10,1.024,1,Traveling,32.015895,-97.105717,10,10,city_1200_texas_hillsboro
+S70201731,L11650718,"TX, Hill--Hillsboro",2019-03-24,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,6,,1,Stationary,32.0176988,-97.0991929,6,6,city_1200_texas_hillsboro
+S58397973,L9685133,"1405 Corsicana Highway, Hillsboro, Texas, US (32.009, -97.098)",2019-07-23,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,14,3.991,1,Traveling,32.0085096,-97.0977954,5,5,city_1200_texas_hillsboro
+S60164890,L1832405,Hillsboro City Park,2019-09-27,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,12,,1,Stationary,32.0173188,-97.1247196,7,7,city_1200_texas_hillsboro
+S60499364,L1832405,Hillsboro City Park,2019-10-10,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,17,0.683,1,Traveling,32.0173188,-97.1247196,9,9,city_1200_texas_hillsboro
+S61070725,L1832405,Hillsboro City Park,2019-10-31,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,11,0.282,1,Traveling,32.0173188,-97.1247196,12,12,city_1200_texas_hillsboro
+S61305756,L652628,"Hillsboro, Tx",2019-11-09,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,18,,1,Stationary,32.0087492,-97.0955372,4,4,city_1200_texas_hillsboro
+S71274660,L11857986,I-35N near Hillsboro,2019-12-26,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,10,16.093,1,Traveling,32.0057351,-97.1139234,4,4,city_1200_texas_hillsboro
+S62775839,L1832405,Hillsboro City Park,2019-12-30,2019,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,41,5.633,1,Traveling,32.0173188,-97.1247196,21,21,city_1200_texas_hillsboro
+S72104410,L1832405,Hillsboro City Park,2020-08-04,2020,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,19,,1,Stationary,32.0173188,-97.1247196,8,8,city_1200_texas_hillsboro
+S202322238,L1832405,Hillsboro City Park,2020-09-23,2020,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,9,0.713,1,Traveling,32.0173188,-97.1247196,10,10,city_1200_texas_hillsboro
+S78371927,L13106280,"102 Dynasty Dr, Hillsboro US-TX 32.01825, -97.09360",2021-01-01,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,15,,1,Stationary,32.018251,-97.0936,4,4,city_1200_texas_hillsboro
+S78932973,L13213266,"104 W Elm St, Hillsboro US-TX 32.01078, -97.13194",2021-01-09,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,2.836,1,Traveling,32.010776,-97.131944,1,1,city_1200_texas_hillsboro
+S81686294,L489910,Hillsboro,2021-02-15,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,180,,1,Stationary,32.01096,-97.12998,1,1,city_1200_texas_hillsboro
+S82787543,L1832405,Hillsboro City Park,2021-03-04,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,45,0.402,1,Traveling,32.0173188,-97.1247196,12,12,city_1200_texas_hillsboro
+S83016418,L13963429,Central Hillsboro,2021-03-08,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,8.613,1,Traveling,31.9935517,-97.1276932,3,3,city_1200_texas_hillsboro
+S83700370,L1832405,Hillsboro City Park,2021-03-19,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,21,0.904,1,Traveling,32.0173188,-97.1247196,9,9,city_1200_texas_hillsboro
+S85262751,L13070528,"I-35, Central Hillsboro",2021-04-10,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,10.34,1,Traveling,32.0155857,-97.1029853,3,3,city_1200_texas_hillsboro
+S85396834,L1832405,Hillsboro City Park,2021-04-12,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,36,2.816,1,Traveling,32.0173188,-97.1247196,11,11,city_1200_texas_hillsboro
+S86110001,L13070528,"I-35, Central Hillsboro",2021-04-22,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,9,7.146,1,Traveling,32.0155857,-97.1029853,3,3,city_1200_texas_hillsboro
+S86260542,L14591961,Auto selected,2021-04-24,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,40,3.35,1,Traveling,32.0000146,-97.0990034,4,4,city_1200_texas_hillsboro
+S86685122,L1832405,Hillsboro City Park,2021-04-29,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,21,0.416,1,Traveling,32.0173188,-97.1247196,15,15,city_1200_texas_hillsboro
+S90447337,L15441762,"154–198 E Fancher St, Hillsboro US-TX 32.01245, -97.12857",2021-06-19,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,7,3.904,1,Traveling,32.012454,-97.128565,2,2,city_1200_texas_hillsboro
+S264548682,L1832405,Hillsboro City Park,2021-06-19,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,30,0.805,1,Traveling,32.0173188,-97.1247196,5,5,city_1200_texas_hillsboro
+S90461648,L1832405,Hillsboro City Park,2021-06-19,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,77,2.322,1,Traveling,32.0173188,-97.1247196,13,13,city_1200_texas_hillsboro
+S93842709,L1832405,Hillsboro City Park,2021-08-28,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,6,0.403,1,Traveling,32.0173188,-97.1247196,5,5,city_1200_texas_hillsboro
+S97903423,L12428703,"South Waco Street, Hillsboro, Texas, US",2021-11-21,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,0.145,1,Traveling,32.0076923,-97.1305049,5,5,city_1200_texas_hillsboro
+S97868091,L16938122,"1876 Bonds Alley, Hillsboro, Texas, US (32.011, -97.131)",2021-11-21,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,3.701,1,Traveling,32.0108347,-97.1307464,5,5,city_1200_texas_hillsboro
+S98049187,L16967844,"1515 Old Brandon Road, Hillsboro, Texas, US (32.018, -97.098)",2021-11-25,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,6,,1,Stationary,32.0179103,-97.0975631,2,2,city_1200_texas_hillsboro
+S98242698,L17000868,"1024 Old Bynum Road, Hillsboro, Texas, US",2021-11-29,2021,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,7,6.758,1,Traveling,31.9999428,-97.10646,3,3,city_1200_texas_hillsboro
+S117489263,L1832405,Hillsboro City Park,2022-08-24,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,35,1.32,1,Traveling,32.0173188,-97.1247196,28,28,city_1200_texas_hillsboro
+S117763700,L1832405,Hillsboro City Park,2022-08-29,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,22,0.562,1,Traveling,32.0173188,-97.1247196,16,16,city_1200_texas_hillsboro
+S117865501,L1832405,Hillsboro City Park,2022-08-31,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,19,0.306,1,Traveling,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
+S117899454,L20735336,"1501 Corsicana Highway, Hillsboro, Texas, US (32.009, -97.093)",2022-09-01,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,16,0.18,1,Traveling,32.0093217,-97.0933971,1,1,city_1200_texas_hillsboro
+S118576281,L1832405,Hillsboro City Park,2022-09-12,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,15,,1,Stationary,32.0173188,-97.1247196,11,11,city_1200_texas_hillsboro
+S119470542,L1832405,Hillsboro City Park,2022-09-26,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,15,0.322,1,Traveling,32.0173188,-97.1247196,9,9,city_1200_texas_hillsboro
+S119563164,L1832405,Hillsboro City Park,2022-09-28,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,22,0.287,1,Traveling,32.0173188,-97.1247196,15,15,city_1200_texas_hillsboro
+S120345510,L13963429,Central Hillsboro,2022-10-09,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,11,8.357,1,Traveling,31.9935517,-97.1276932,5,5,city_1200_texas_hillsboro
+S120350270,L1832405,Hillsboro City Park,2022-10-09,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,60,2.623,1,Traveling,32.0173188,-97.1247196,12,12,city_1200_texas_hillsboro
+S120544532,L1832405,Hillsboro City Park,2022-10-12,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,14,0.531,1,Traveling,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
+S120848667,L1832405,Hillsboro City Park,2022-10-17,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,27,0.279,1,Traveling,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
+S121739126,L1832405,Hillsboro City Park,2022-11-02,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,22,0.418,1,Traveling,32.0173188,-97.1247196,20,20,city_1200_texas_hillsboro
+S122025013,L1832405,Hillsboro City Park,2022-11-07,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,31,0.321,1,Traveling,32.0173188,-97.1247196,18,18,city_1200_texas_hillsboro
+S122131838,L1832405,Hillsboro City Park,2022-11-09,2022,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,21,0.644,1,Traveling,32.0173188,-97.1247196,11,11,city_1200_texas_hillsboro
+S125060762,L22002479,"Loves, Hillsboro, Texas, US (32.011, -97.094)",2023-01-01,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,0.7,1,Traveling,32.011224,-97.0942761,3,3,city_1200_texas_hillsboro
+S129395892,L22770917,"1515 Old Brandon Rd, Hillsboro",2023-02-22,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,6,,1,Stationary,32.017918,-97.097714,5,5,city_1200_texas_hillsboro
+S129874944,L1832405,Hillsboro City Park,2023-02-28,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,45,1.733,1,Traveling,32.0173188,-97.1247196,21,21,city_1200_texas_hillsboro
+S129883745,L22858731,"William's Drive-In - Hillsboro, TX",2023-02-28,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,,1,Stationary,32.0042576,-97.1306521,6,6,city_1200_texas_hillsboro
+S131372442,L1832405,Hillsboro City Park,2023-03-20,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,62,2.414,1,Traveling,32.0173188,-97.1247196,26,26,city_1200_texas_hillsboro
+S132869691,L23421971,"Private Residence, Hillsboro US-TX 32.01786, -97.10578",2023-04-06,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,8,,1,Stationary,32.017857,-97.105784,6,6,city_1200_texas_hillsboro
+S133169570,L1832405,Hillsboro City Park,2023-04-09,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,17,0.402,1,Traveling,32.0173188,-97.1247196,19,19,city_1200_texas_hillsboro
+S137355636,L1832405,Hillsboro City Park,2023-05-13,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,19,1.11,1,Traveling,32.0173188,-97.1247196,24,24,city_1200_texas_hillsboro
+S141634813,L25210269,"Monarch Highway, Hillsboro, Texas, US (32, -97.098)",2023-06-15,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,11,0.225,1,Traveling,32.0003107,-97.0980203,4,4,city_1200_texas_hillsboro
+S149877577,L1832405,Hillsboro City Park,2023-09-14,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,9,0.073,1,Traveling,32.0173188,-97.1247196,3,3,city_1200_texas_hillsboro
+S150579200,L1832405,Hillsboro City Park,2023-09-23,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,16,0.966,1,Traveling,32.0173188,-97.1247196,1,1,city_1200_texas_hillsboro
+S152867011,L1832405,Hillsboro City Park,2023-10-21,2023,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,10,,1,Stationary,32.0173188,-97.1247196,3,3,city_1200_texas_hillsboro
+S192969020,L1832405,Hillsboro City Park,2024-08-27,2024,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,27,0.467,1,Traveling,32.0173188,-97.1247196,10,10,city_1200_texas_hillsboro
+S197533774,L37065610,"IH-35 S, Hillsboro US-TX 31.98725, -97.10698",2024-10-04,2024,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,5,10.945,1,Traveling,31.987246,-97.106978,1,1,city_1200_texas_hillsboro
+S206687656,L38883214,Hill County on Texas 22 from Hillsboro to Whitney,2024-12-25,2024,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,25,34.589,1,Traveling,32.008456,-97.098376,5,5,city_1200_texas_hillsboro
+S209902891,L39552160,"Hillsboro Cemetery, Hillsboro US-TX 32.02073, -97.12544",2025-01-19,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,18,2.067,1,Traveling,32.020728,-97.125442,7,7,city_1200_texas_hillsboro
+S209909418,L39553198,"Carter Davis Park, Hillsboro US-TX 32.00714, -97.14096",2025-01-19,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,15,,1,Stationary,32.007143,-97.140959,12,12,city_1200_texas_hillsboro
+S239889286,L45394669,"76645, Hillsboro US-TX (31.9854,-97.1098)",2025-03-26,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,10,8.047,1,Traveling,31.985397,-97.109777,1,1,city_1200_texas_hillsboro
+S227963554,L1832405,Hillsboro City Park,2025-04-21,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,22,0.644,1,Traveling,32.0173188,-97.1247196,20,20,city_1200_texas_hillsboro
+S235029477,L1832405,Hillsboro City Park,2025-05-07,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,17,0.266,1,Traveling,32.0173188,-97.1247196,24,24,city_1200_texas_hillsboro
+S244249117,L46302137,"IH-35 N, Hillsboro US-TX 31.99371, -97.10231",2025-05-29,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,15,14.484,1,Traveling,31.993714,-97.102307,5,5,city_1200_texas_hillsboro
+S246756478,L46831124,"1406 Corsicana Hwy, Hillsboro US-TX (32.0076,-97.0975)",2025-05-31,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,30,,1,Stationary,32.00764,-97.097526,4,4,city_1200_texas_hillsboro
+S256565272,L1832405,Hillsboro City Park,2025-07-03,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,44,1.249,1,Traveling,32.0173188,-97.1247196,7,7,city_1200_texas_hillsboro
+S261057179,L20735336,"1501 Corsicana Highway, Hillsboro, Texas, US (32.009, -97.093)",2025-07-19,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,32,,1,Stationary,32.0093217,-97.0933971,2,2,city_1200_texas_hillsboro
+S285630228,L1832405,Hillsboro City Park,2025-11-22,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,44,1.104,1,Traveling,32.0173188,-97.1247196,10,10,city_1200_texas_hillsboro
+S291056414,L1832405,Hillsboro City Park,2025-12-29,2025,1200,"Hillsboro, TX",Hillsboro,Texas,Hill,99.9999999999999,15,0.531,1,Traveling,32.0173188,-97.1247196,4,4,city_1200_texas_hillsboro

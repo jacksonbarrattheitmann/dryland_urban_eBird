@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2015,45567435.5244029,54,110,city_1343_montana_kalispell,417.8187484741211,8.236979166666668,22.910523977447163,dry subhumid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2016,45567435.5244029,62,260,city_1343_montana_kalispell,473.15624618530273,8.015625,26.26365980560223,dry subhumid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2017,45567435.5244029,72,369,city_1343_montana_kalispell,511.2000031471253,6.807291666666666,30.415370500231813,humid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2018,45567435.5244029,74,1092,city_1343_montana_kalispell,468.1937470436096,6.721354166666666,27.99975064082637,dry subhumid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2019,45567435.5244029,89,1150,city_1343_montana_kalispell,482.6499996185303,5.901041666666666,30.35335732943263,humid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2020,45567435.5244029,108,1341,city_1343_montana_kalispell,461.79999828338623,7.2734375,26.734690086057636,dry subhumid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2021,45567435.5244029,107,1485,city_1343_montana_kalispell,386.51875019073486,7.846354166666666,21.658135133991276,dry subhumid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2022,45567435.5244029,110,1703,city_1343_montana_kalispell,474.0749969482422,6.700520833333334,28.386839050074062,dry subhumid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2023,45567435.5244029,128,2296,city_1343_montana_kalispell,434.9437532424927,7.708333333333334,24.561529594870173,dry subhumid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2024,45567435.5244029,115,2435,city_1343_montana_kalispell,452.6500053405762,7.979166666666666,25.17636182659057,dry subhumid,12
-1343,"Kalispell, MT",Kalispell,Montana,Flathead,2025,45567435.5244029,104,1958,city_1343_montana_kalispell,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1343,2015,"Kalispell, MT",Kalispell,Montana,Flathead,100,53,108,city_1343_montana_kalispell,417.818748474121,8.23697916666667,22.9105239774472,dry subhumid,12
+1343,2016,"Kalispell, MT",Kalispell,Montana,Flathead,100,62,260,city_1343_montana_kalispell,473.156246185303,8.015625,26.2636598056022,dry subhumid,12
+1343,2017,"Kalispell, MT",Kalispell,Montana,Flathead,100,72,369,city_1343_montana_kalispell,511.200003147125,6.80729166666667,30.4153705002318,humid,12
+1343,2018,"Kalispell, MT",Kalispell,Montana,Flathead,100,74,1092,city_1343_montana_kalispell,468.19374704361,6.72135416666667,27.9997506408264,dry subhumid,12
+1343,2019,"Kalispell, MT",Kalispell,Montana,Flathead,100,89,1150,city_1343_montana_kalispell,482.64999961853,5.90104166666667,30.3533573294326,humid,12
+1343,2020,"Kalispell, MT",Kalispell,Montana,Flathead,100,108,1341,city_1343_montana_kalispell,461.799998283386,7.2734375,26.7346900860576,dry subhumid,12
+1343,2021,"Kalispell, MT",Kalispell,Montana,Flathead,100,107,1485,city_1343_montana_kalispell,386.518750190735,7.84635416666667,21.6581351339913,dry subhumid,12
+1343,2022,"Kalispell, MT",Kalispell,Montana,Flathead,100,110,1703,city_1343_montana_kalispell,474.074996948242,6.70052083333333,28.3868390500741,dry subhumid,12
+1343,2023,"Kalispell, MT",Kalispell,Montana,Flathead,100,128,2296,city_1343_montana_kalispell,434.943753242493,7.70833333333333,24.5615295948702,dry subhumid,12
+1343,2024,"Kalispell, MT",Kalispell,Montana,Flathead,100,115,2435,city_1343_montana_kalispell,452.650005340576,7.97916666666667,25.1763618265906,dry subhumid,12
+1343,2025,"Kalispell, MT",Kalispell,Montana,Flathead,100,104,1958,city_1343_montana_kalispell,,,,,

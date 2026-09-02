@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2015,25124847.4944197,136,1597,city_1380_texas_kingsville,828.7187442779541,22.809895833333332,25.2581949204488,dry subhumid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2016,25124847.4944197,138,1262,city_1380_texas_kingsville,781.5374946594238,23.466145833333332,23.35307742192972,dry subhumid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2017,25124847.4944197,134,1803,city_1380_texas_kingsville,641.231258392334,23.591145833333332,19.089293993538742,semiarid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2018,25124847.4944197,120,1223,city_1380_texas_kingsville,699.243745803833,23.020833333333332,21.175835835068764,dry subhumid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2019,25124847.4944197,113,593,city_1380_texas_kingsville,575.3687505722046,23.072916666666668,17.396976395254057,semiarid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2020,25124847.4944197,106,515,city_1380_texas_kingsville,565.9250068664551,23.645833333333332,16.820062123585046,semiarid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2021,25124847.4944197,142,1342,city_1380_texas_kingsville,814.4937610626221,23.046875,24.646619720098258,dry subhumid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2022,25124847.4944197,192,2809,city_1380_texas_kingsville,528.3250045776367,23.140625,15.941914329546794,semiarid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2023,25124847.4944197,202,3512,city_1380_texas_kingsville,584.5624961853027,24.010416666666668,17.187748739292207,semiarid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2024,25124847.4944197,209,6072,city_1380_texas_kingsville,749.0562572479248,24.317708333333332,21.827105993565272,dry subhumid,12
-1380,"Kingsville, TX",Kingsville,Texas,Kleberg,2025,25124847.4944197,219,8778,city_1380_texas_kingsville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1380,2015,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,136,1597,city_1380_texas_kingsville,828.718744277954,22.8098958333333,25.2581949204488,dry subhumid,12
+1380,2016,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,138,1262,city_1380_texas_kingsville,781.537494659424,23.4661458333333,23.3530774219297,dry subhumid,12
+1380,2017,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,134,1803,city_1380_texas_kingsville,641.231258392334,23.5911458333333,19.0892939935387,semiarid,12
+1380,2018,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,120,1223,city_1380_texas_kingsville,699.243745803833,23.0208333333333,21.1758358350688,dry subhumid,12
+1380,2019,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,113,593,city_1380_texas_kingsville,575.368750572205,23.0729166666667,17.3969763952541,semiarid,12
+1380,2020,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,106,515,city_1380_texas_kingsville,565.925006866455,23.6458333333333,16.820062123585,semiarid,12
+1380,2021,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,142,1342,city_1380_texas_kingsville,814.493761062622,23.046875,24.6466197200983,dry subhumid,12
+1380,2022,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,192,2809,city_1380_texas_kingsville,528.325004577637,23.140625,15.9419143295468,semiarid,12
+1380,2023,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,202,3524,city_1380_texas_kingsville,584.562496185303,24.0104166666667,17.1877487392922,semiarid,12
+1380,2024,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,209,6072,city_1380_texas_kingsville,749.056257247925,24.3177083333333,21.8271059935653,dry subhumid,12
+1380,2025,"Kingsville, TX",Kingsville,Texas,Kleberg,99.9999999999998,219,8778,city_1380_texas_kingsville,,,,,

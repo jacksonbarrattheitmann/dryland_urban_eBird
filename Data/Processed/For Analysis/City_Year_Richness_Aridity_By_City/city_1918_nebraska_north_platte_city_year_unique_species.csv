@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2015,31077858.6539093,70,192,city_1918_nebraska_north_platte,606.1187565326691,10.4609375,29.623215286820024,dry subhumid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2016,31077858.6539093,38,54,city_1918_nebraska_north_platte,591.7437534332275,10.856770833333332,28.37178191014601,dry subhumid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2017,31077858.6539093,55,126,city_1918_nebraska_north_platte,576.3375005722046,10.434895833333332,28.20359375808928,dry subhumid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2018,31077858.6539093,70,285,city_1918_nebraska_north_platte,655.8250102996826,9.411458333333332,33.785458003096075,humid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2019,31077858.6539093,52,128,city_1918_nebraska_north_platte,714.7312512397766,8.8671875,37.882236090555445,humid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2020,31077858.6539093,80,390,city_1918_nebraska_north_platte,431.8187551498413,10.604166666666666,20.957836448121725,dry subhumid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2021,31077858.6539093,93,1591,city_1918_nebraska_north_platte,543.9562520980835,10.7890625,26.16550179201604,dry subhumid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2022,31077858.6539093,89,2701,city_1918_nebraska_north_platte,346.35625076293945,10.026041666666668,17.2952926258737,semiarid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2023,31077858.6539093,107,1249,city_1918_nebraska_north_platte,582.9125051498413,10.388020833333332,28.59093140599554,dry subhumid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2024,31077858.6539093,93,1445,city_1918_nebraska_north_platte,485.91249799728394,11.359375,22.74937810667606,dry subhumid,12
-1918,"North Platte, NE",North Platte,Nebraska,Lincoln,2025,31077858.6539093,102,1134,city_1918_nebraska_north_platte,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1918,2015,"North Platte, NE",North Platte,Nebraska,Lincoln,100,70,192,city_1918_nebraska_north_platte,606.118756532669,10.4609375,29.62321528682,dry subhumid,12
+1918,2016,"North Platte, NE",North Platte,Nebraska,Lincoln,100,38,54,city_1918_nebraska_north_platte,591.743753433228,10.8567708333333,28.371781910146,dry subhumid,12
+1918,2017,"North Platte, NE",North Platte,Nebraska,Lincoln,100,55,126,city_1918_nebraska_north_platte,576.337500572205,10.4348958333333,28.2035937580893,dry subhumid,12
+1918,2018,"North Platte, NE",North Platte,Nebraska,Lincoln,100,70,285,city_1918_nebraska_north_platte,655.825010299683,9.41145833333333,33.7854580030961,humid,12
+1918,2019,"North Platte, NE",North Platte,Nebraska,Lincoln,100,52,128,city_1918_nebraska_north_platte,714.731251239777,8.8671875,37.8822360905554,humid,12
+1918,2020,"North Platte, NE",North Platte,Nebraska,Lincoln,100,80,390,city_1918_nebraska_north_platte,431.818755149841,10.6041666666667,20.9578364481217,dry subhumid,12
+1918,2021,"North Platte, NE",North Platte,Nebraska,Lincoln,100,93,1591,city_1918_nebraska_north_platte,543.956252098084,10.7890625,26.165501792016,dry subhumid,12
+1918,2022,"North Platte, NE",North Platte,Nebraska,Lincoln,100,89,2701,city_1918_nebraska_north_platte,346.356250762939,10.0260416666667,17.2952926258737,semiarid,12
+1918,2023,"North Platte, NE",North Platte,Nebraska,Lincoln,100,107,1249,city_1918_nebraska_north_platte,582.912505149841,10.3880208333333,28.5909314059955,dry subhumid,12
+1918,2024,"North Platte, NE",North Platte,Nebraska,Lincoln,100,93,1445,city_1918_nebraska_north_platte,485.912497997284,11.359375,22.7493781066761,dry subhumid,12
+1918,2025,"North Platte, NE",North Platte,Nebraska,Lincoln,100,102,1134,city_1918_nebraska_north_platte,,,,,

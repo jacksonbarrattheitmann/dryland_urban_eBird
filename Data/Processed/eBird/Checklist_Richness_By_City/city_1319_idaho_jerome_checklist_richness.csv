@@ -1,25 +1,24 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S50323991,L295923,Jerome,2018-11-29,2018,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,15,0.805,1,42.72411,-114.51888,9,9,city_1319_idaho_jerome
-S56862120,L9366589,"923 South Fir Street, Jerome, Idaho, US (42.715, -114.528)",2019-05-29,2019,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,23,0.354,1,42.7150948,-114.528319,14,14,city_1319_idaho_jerome
-S61657580,L295923,Jerome,2019-11-21,2019,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,15,1.609,1,42.72411,-114.51888,6,6,city_1319_idaho_jerome
-S64538387,L9413571,Camozzi Park,2020-02-21,2020,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,30,1.609,1,42.7389431,-114.5112881,10,10,city_1319_idaho_jerome
-S96399049,L16294452,Jerome,2021-10-18,2021,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,15,3.219,1,42.739902,-114.509572,7,7,city_1319_idaho_jerome
-S94198260,L16294452,Jerome,2021-09-04,2021,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,26,4.828,1,42.739902,-114.509572,10,10,city_1319_idaho_jerome
-S90715354,L9413571,Camozzi Park,2021-06-24,2021,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,6,,1,42.7389431,-114.5112881,7,7,city_1319_idaho_jerome
-S89801056,L15286830,"I-84 W, Jerome US-ID 42.72491, -114.54704",2021-06-07,2021,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,25,54.043,1,42.724909,-114.547039,1,1,city_1319_idaho_jerome
-S100559932,L17401017,"Jerome, Idaho, US (42.719, -114.52)",2022-01-11,2022,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,13,7.764,1,42.7187517,-114.5201314,3,3,city_1319_idaho_jerome
-S114576504,L20021112,"1223 West Main Street, Jerome, Idaho, US (42.723, -114.543)",2022-07-07,2022,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,6,,1,42.7234369,-114.5429237,3,3,city_1319_idaho_jerome
-S146555885,L16294452,Jerome,2023-08-05,2023,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,15,0.544,1,42.739902,-114.509572,10,10,city_1319_idaho_jerome
-S136147075,L24048402,"1223 W Main St, Jerome US-ID 42.72355, -114.54268",2023-05-05,2023,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,6,,1,42.723551,-114.54268,6,6,city_1319_idaho_jerome
-S153368834,L9413565,Gayle Forsyth Memorial Park,2023-10-29,2023,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,8,,1,42.7321717,-114.5040749,3,3,city_1319_idaho_jerome
-S161259633,L9413565,Gayle Forsyth Memorial Park,2024-02-11,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,21,16.35,1,42.7321717,-114.5040749,3,3,city_1319_idaho_jerome
-S179292661,L32830534,Jerome,2024-06-03,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,8,,1,42.7212586,-114.5187148,7,7,city_1319_idaho_jerome
-S179372004,L32830534,Jerome,2024-06-03,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,9,2.736,1,42.7212586,-114.5187148,6,6,city_1319_idaho_jerome
-S205608968,L9413571,Camozzi Park,2024-12-11,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,5,,1,42.7389431,-114.5112881,1,1,city_1319_idaho_jerome
-S163847666,L9413565,Gayle Forsyth Memorial Park,2024-03-05,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,11,0.298,1,42.7321717,-114.5040749,3,3,city_1319_idaho_jerome
-S269257824,L9413565,Gayle Forsyth Memorial Park,2025-08-24,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,19,0.71,1,42.7321717,-114.5040749,13,13,city_1319_idaho_jerome
-S260848198,L9413571,Camozzi Park,2025-07-18,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,7,0.161,1,42.7389431,-114.5112881,8,8,city_1319_idaho_jerome
-S260848274,L9413565,Gayle Forsyth Memorial Park,2025-07-18,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,10,0.483,1,42.7321717,-114.5040749,8,8,city_1319_idaho_jerome
-S278800451,L16294452,Jerome,2025-10-11,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,10,,1,42.739902,-114.509572,5,5,city_1319_idaho_jerome
-S277546667,L53681009,"Jerome, ID",2025-10-02,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,10,,1,42.7222723,-114.5440028,5,5,city_1319_idaho_jerome
-S258132149,L49382898,"923 South Fir Street, Jerome, Idaho, US (42.715, -114.528)cemetery",2025-07-08,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,11356705.4059666,29,0.739,1,42.7149115,-114.528378,5,5,city_1319_idaho_jerome
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S50323991,L295923,Jerome,2018-11-29,2018,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,15,0.805,1,Traveling,42.72411,-114.51888,9,9,city_1319_idaho_jerome
+S56862120,L9366589,"923 South Fir Street, Jerome, Idaho, US (42.715, -114.528)",2019-05-29,2019,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,23,0.354,1,Traveling,42.7150948,-114.528319,14,14,city_1319_idaho_jerome
+S61657580,L295923,Jerome,2019-11-21,2019,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,15,1.609,1,Traveling,42.72411,-114.51888,6,6,city_1319_idaho_jerome
+S89801056,L15286830,"I-84 W, Jerome US-ID 42.72491, -114.54704",2021-06-07,2021,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,25,54.043,1,Traveling,42.724909,-114.547039,1,1,city_1319_idaho_jerome
+S90715354,L9413571,Camozzi Park,2021-06-24,2021,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,6,,1,Stationary,42.7389431,-114.5112881,7,7,city_1319_idaho_jerome
+S94198260,L16294452,Jerome,2021-09-04,2021,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,26,4.828,1,Traveling,42.739902,-114.509572,10,10,city_1319_idaho_jerome
+S96399049,L16294452,Jerome,2021-10-18,2021,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,15,3.219,1,Traveling,42.739902,-114.509572,7,7,city_1319_idaho_jerome
+S100559932,L17401017,"Jerome, Idaho, US (42.719, -114.52)",2022-01-11,2022,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,13,7.764,1,Traveling,42.7187517,-114.5201314,3,3,city_1319_idaho_jerome
+S114576504,L20021112,"1223 West Main Street, Jerome, Idaho, US (42.723, -114.543)",2022-07-07,2022,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,6,,1,Stationary,42.7234369,-114.5429237,3,3,city_1319_idaho_jerome
+S136147075,L24048402,"1223 W Main St, Jerome US-ID 42.72355, -114.54268",2023-05-05,2023,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,6,,1,Stationary,42.723551,-114.54268,6,6,city_1319_idaho_jerome
+S146555885,L16294452,Jerome,2023-08-05,2023,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,15,0.544,1,Traveling,42.739902,-114.509572,10,10,city_1319_idaho_jerome
+S153368834,L9413565,Gayle Forsyth Memorial Park,2023-10-29,2023,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,8,,1,Stationary,42.7321717,-114.5040749,3,3,city_1319_idaho_jerome
+S161259633,L9413565,Gayle Forsyth Memorial Park,2024-02-11,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,21,16.35,1,Traveling,42.7321717,-114.5040749,3,3,city_1319_idaho_jerome
+S163847666,L9413565,Gayle Forsyth Memorial Park,2024-03-05,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,11,0.298,1,Traveling,42.7321717,-114.5040749,3,3,city_1319_idaho_jerome
+S179292661,L32830534,Jerome,2024-06-03,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,8,,1,Stationary,42.7212586,-114.5187148,7,7,city_1319_idaho_jerome
+S179372004,L32830534,Jerome,2024-06-03,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,9,2.736,1,Traveling,42.7212586,-114.5187148,6,6,city_1319_idaho_jerome
+S205608968,L9413571,Camozzi Park,2024-12-11,2024,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,5,,1,Stationary,42.7389431,-114.5112881,1,1,city_1319_idaho_jerome
+S258132149,L49382898,"923 South Fir Street, Jerome, Idaho, US (42.715, -114.528)cemetery",2025-07-08,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,29,0.739,1,Traveling,42.7149115,-114.528378,5,5,city_1319_idaho_jerome
+S260848274,L9413565,Gayle Forsyth Memorial Park,2025-07-18,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,10,0.483,1,Traveling,42.7321717,-114.5040749,8,8,city_1319_idaho_jerome
+S260848198,L9413571,Camozzi Park,2025-07-18,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,7,0.161,1,Traveling,42.7389431,-114.5112881,8,8,city_1319_idaho_jerome
+S269257824,L9413565,Gayle Forsyth Memorial Park,2025-08-24,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,19,0.71,1,Traveling,42.7321717,-114.5040749,13,13,city_1319_idaho_jerome
+S277546667,L53681009,"Jerome, ID",2025-10-02,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,10,,1,Stationary,42.7222723,-114.5440028,5,5,city_1319_idaho_jerome
+S278800451,L16294452,Jerome,2025-10-11,2025,1319,"Jerome, ID",Jerome,Idaho,Jerome,99.9999999999979,10,,1,Stationary,42.739902,-114.509572,5,5,city_1319_idaho_jerome

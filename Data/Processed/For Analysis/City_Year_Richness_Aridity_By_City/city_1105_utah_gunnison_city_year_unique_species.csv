@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1105,"Gunnison, UT",Gunnison,Utah,Sanpete,2018,6065319.67993765,9,11,city_1105_utah_gunnison,244.2625026702881,10.2421875,12.067001289771085,semiarid,12
-1105,"Gunnison, UT",Gunnison,Utah,Sanpete,2019,6065319.67993765,8,9,city_1105_utah_gunnison,326.81249809265137,9.091145833333334,17.118537616638672,semiarid,12
-1105,"Gunnison, UT",Gunnison,Utah,Sanpete,2021,6065319.67993765,5,5,city_1105_utah_gunnison,299.3749942779541,10.5234375,14.586981068739291,semiarid,12
-1105,"Gunnison, UT",Gunnison,Utah,Sanpete,2022,6065319.67993765,8,12,city_1105_utah_gunnison,280.69375705718994,9.65625,14.28012754503987,semiarid,12
-1105,"Gunnison, UT",Gunnison,Utah,Sanpete,2024,6065319.67993765,16,17,city_1105_utah_gunnison,289.35625171661377,11.075520833333332,13.729494706435151,semiarid,12
-1105,"Gunnison, UT",Gunnison,Utah,Sanpete,2025,6065319.67993765,8,8,city_1105_utah_gunnison,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1105,2018,"Gunnison, UT",Gunnison,Utah,Sanpete,100,9,11,city_1105_utah_gunnison,244.262502670288,10.2421875,12.0670012897711,semiarid,12
+1105,2019,"Gunnison, UT",Gunnison,Utah,Sanpete,100,8,9,city_1105_utah_gunnison,326.812498092651,9.09114583333333,17.1185376166387,semiarid,12
+1105,2021,"Gunnison, UT",Gunnison,Utah,Sanpete,100,5,5,city_1105_utah_gunnison,299.374994277954,10.5234375,14.5869810687393,semiarid,12
+1105,2022,"Gunnison, UT",Gunnison,Utah,Sanpete,100,8,12,city_1105_utah_gunnison,280.69375705719,9.65625,14.2801275450399,semiarid,12
+1105,2024,"Gunnison, UT",Gunnison,Utah,Sanpete,100,16,17,city_1105_utah_gunnison,289.356251716614,11.0755208333333,13.7294947064352,semiarid,12
+1105,2025,"Gunnison, UT",Gunnison,Utah,Sanpete,100,8,8,city_1105_utah_gunnison,,,,,

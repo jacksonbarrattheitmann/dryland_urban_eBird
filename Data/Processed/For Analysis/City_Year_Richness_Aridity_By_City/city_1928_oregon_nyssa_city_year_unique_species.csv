@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1928,"Nyssa, OR",Nyssa,Oregon,Malheur,2018,4505459.49753055,7,7,city_1928_oregon_nyssa,280.0937488079071,11.3359375,13.127791961703446,semiarid,12
-1928,"Nyssa, OR",Nyssa,Oregon,Malheur,2020,4505459.49753055,12,12,city_1928_oregon_nyssa,338.2749960422516,11.6875,15.597694342005838,semiarid,12
-1928,"Nyssa, OR",Nyssa,Oregon,Malheur,2021,4505459.49753055,19,19,city_1928_oregon_nyssa,275.9312505722046,12.203125,12.427586232667906,semiarid,12
-1928,"Nyssa, OR",Nyssa,Oregon,Malheur,2022,4505459.49753055,13,13,city_1928_oregon_nyssa,320.93749475479126,11.125,15.192307444013789,semiarid,12
-1928,"Nyssa, OR",Nyssa,Oregon,Malheur,2023,4505459.49753055,7,7,city_1928_oregon_nyssa,300.78125190734863,11.705729166666668,13.857228642162193,semiarid,12
-1928,"Nyssa, OR",Nyssa,Oregon,Malheur,2025,4505459.49753055,8,8,city_1928_oregon_nyssa,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1928,2018,"Nyssa, OR",Nyssa,Oregon,Malheur,100,7,7,city_1928_oregon_nyssa,280.093748807907,11.3359375,13.1277919617034,semiarid,12
+1928,2020,"Nyssa, OR",Nyssa,Oregon,Malheur,100,12,12,city_1928_oregon_nyssa,338.274996042252,11.6875,15.5976943420058,semiarid,12
+1928,2021,"Nyssa, OR",Nyssa,Oregon,Malheur,100,19,19,city_1928_oregon_nyssa,275.931250572205,12.203125,12.4275862326679,semiarid,12
+1928,2022,"Nyssa, OR",Nyssa,Oregon,Malheur,100,13,13,city_1928_oregon_nyssa,320.937494754791,11.125,15.1923074440138,semiarid,12
+1928,2023,"Nyssa, OR",Nyssa,Oregon,Malheur,100,7,7,city_1928_oregon_nyssa,300.781251907349,11.7057291666667,13.8572286421622,semiarid,12
+1928,2025,"Nyssa, OR",Nyssa,Oregon,Malheur,100,8,8,city_1928_oregon_nyssa,,,,,

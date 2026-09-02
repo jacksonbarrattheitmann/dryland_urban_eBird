@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2015,4551031.31241288,16,17,city_2259_colorado_rocky_ford,364.1374959945678,12.809895833333332,15.964013981266593,semiarid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2016,4551031.31241288,51,75,city_2259_colorado_rocky_ford,307.6562476158142,13.114583333333332,13.310049468732837,semiarid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2017,4551031.31241288,23,26,city_2259_colorado_rocky_ford,360.0937443971634,12.833333333333332,15.770528951700587,semiarid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2018,4551031.31241288,10,12,city_2259_colorado_rocky_ford,259.34374809265137,12.3125,11.623249214236475,semiarid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2020,4551031.31241288,15,22,city_2259_colorado_rocky_ford,197.2437529563904,12.734375,8.676013875745006,arid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2021,4551031.31241288,9,9,city_2259_colorado_rocky_ford,270.61249911785126,12.825520833333332,11.855698763406147,semiarid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2022,4551031.31241288,11,18,city_2259_colorado_rocky_ford,218.54374861717224,12.393229166666668,9.759367306546592,arid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2023,4551031.31241288,31,99,city_2259_colorado_rocky_ford,325.45000553131104,12.591145833333332,14.406086700175614,semiarid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2024,4551031.31241288,21,56,city_2259_colorado_rocky_ford,271.106249332428,13.59375,11.490595998195625,semiarid,12
-2259,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,2025,4551031.31241288,19,47,city_2259_colorado_rocky_ford,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2259,2015,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,16,17,city_2259_colorado_rocky_ford,364.137495994568,12.8098958333333,15.9640139812666,semiarid,12
+2259,2016,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,51,75,city_2259_colorado_rocky_ford,307.656247615814,13.1145833333333,13.3100494687328,semiarid,12
+2259,2017,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,23,26,city_2259_colorado_rocky_ford,360.093744397163,12.8333333333333,15.7705289517006,semiarid,12
+2259,2018,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,10,12,city_2259_colorado_rocky_ford,259.343748092651,12.3125,11.6232492142365,semiarid,12
+2259,2020,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,15,22,city_2259_colorado_rocky_ford,197.24375295639,12.734375,8.67601387574501,arid,12
+2259,2021,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,9,9,city_2259_colorado_rocky_ford,270.612499117851,12.8255208333333,11.8556987634061,semiarid,12
+2259,2022,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,11,18,city_2259_colorado_rocky_ford,218.543748617172,12.3932291666667,9.75936730654659,arid,12
+2259,2023,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,31,99,city_2259_colorado_rocky_ford,325.450005531311,12.5911458333333,14.4060867001756,semiarid,12
+2259,2024,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,21,56,city_2259_colorado_rocky_ford,271.106249332428,13.59375,11.4905959981956,semiarid,12
+2259,2025,"Rocky Ford, CO",Rocky Ford,Colorado,Otero,99.9999999999947,19,47,city_2259_colorado_rocky_ford,,,,,

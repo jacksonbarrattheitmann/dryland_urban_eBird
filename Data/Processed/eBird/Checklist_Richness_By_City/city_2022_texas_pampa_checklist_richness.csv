@@ -1,80 +1,80 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23640157,L1383557,Pampa Recreation Park,2015-05-23,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,0.402,1,35.5378835,-100.9325209,17,17,city_2022_texas_pampa
-S23428536,L1383557,Pampa Recreation Park,2015-05-12,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,69,2.816,1,35.5378835,-100.9325209,16,16,city_2022_texas_pampa
-S22373463,L3087459,H.E. and Inez McCarley Park,2015-03-15,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,,1,35.5347931,-100.961853,7,7,city_2022_texas_pampa
-S23823546,L3087459,H.E. and Inez McCarley Park,2015-06-07,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,,1,35.5347931,-100.961853,6,6,city_2022_texas_pampa
-S24593677,L3087459,H.E. and Inez McCarley Park,2015-08-12,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,,1,35.5347931,-100.961853,8,8,city_2022_texas_pampa
-S23670914,L3087459,H.E. and Inez McCarley Park,2015-05-27,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,10,,1,35.5347931,-100.961853,9,9,city_2022_texas_pampa
-S22494225,L1383557,Pampa Recreation Park,2015-03-21,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,20,0.483,1,35.5378835,-100.9325209,12,12,city_2022_texas_pampa
-S23640125,L1383557,Pampa Recreation Park,2015-05-23,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,0.402,1,35.5378835,-100.9325209,17,17,city_2022_texas_pampa
-S22223026,L1383557,Pampa Recreation Park,2015-03-07,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,20,0.322,1,35.5378835,-100.9325209,8,8,city_2022_texas_pampa
-S24297625,L3797084,Texas-Gray Co.-Pampa,2015-06-15,2015,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,11,7.725,1,35.5390012,-100.9719515,5,5,city_2022_texas_pampa
-S30492270,L4241084,My Yard,2016-07-02,2016,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,1.609,1,35.5608561,-100.9671654,9,9,city_2022_texas_pampa
-S36905841,L5845259,Pampa Central/West Central Parks,2017-05-16,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,31,0.83,1,35.5421787,-100.9647052,17,17,city_2022_texas_pampa
-S38318952,L1133879,Powell St. Pampa Texas,2017-07-22,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,34,,1,35.5494703,-100.9494397,9,9,city_2022_texas_pampa
-S37493531,L5953374,Pampa,2017-06-09,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,16,4.989,1,35.5293711,-100.9647846,7,7,city_2022_texas_pampa
-S35962142,L1133879,Powell St. Pampa Texas,2017-04-13,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,60,,1,35.5494703,-100.9494397,10,10,city_2022_texas_pampa
-S37623521,L1133879,Powell St. Pampa Texas,2017-06-15,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,80,,1,35.5494703,-100.9494397,14,14,city_2022_texas_pampa
-S36707976,L1133879,Powell St. Pampa Texas,2017-05-09,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,60,,1,35.5494703,-100.9494397,8,8,city_2022_texas_pampa
-S39547225,L1133879,Powell St. Pampa Texas,2017-10-02,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,,1,35.5494703,-100.9494397,5,5,city_2022_texas_pampa
-S38318910,L1133879,Powell St. Pampa Texas,2017-07-21,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,60,,1,35.5494703,-100.9494397,13,13,city_2022_texas_pampa
-S39546787,L1133879,Powell St. Pampa Texas,2017-10-01,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,,1,35.5494703,-100.9494397,7,7,city_2022_texas_pampa
-S40712720,L1133879,Powell St. Pampa Texas,2017-11-23,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,50,,1,35.5494703,-100.9494397,6,6,city_2022_texas_pampa
-S40053138,L1383557,Pampa Recreation Park,2017-10-21,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,0.805,1,35.5378835,-100.9325209,11,11,city_2022_texas_pampa
-S36233093,L1133879,Powell St. Pampa Texas,2017-04-22,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,45,,1,35.5494703,-100.9494397,5,5,city_2022_texas_pampa
-S34278186,L1383557,Pampa Recreation Park,2017-02-10,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,7,,1,35.5378835,-100.9325209,3,3,city_2022_texas_pampa
-S36885560,L1383557,Pampa Recreation Park,2017-05-15,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,0.3,1,35.5378835,-100.9325209,6,6,city_2022_texas_pampa
-S34366247,L1133879,Powell St. Pampa Texas,2017-02-12,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,70,,1,35.5494703,-100.9494397,6,6,city_2022_texas_pampa
-S38318833,L1133879,Powell St. Pampa Texas,2017-07-20,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,20,,1,35.5494703,-100.9494397,4,4,city_2022_texas_pampa
-S35336441,L1133879,Powell St. Pampa Texas,2017-03-19,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,60,,1,35.5494703,-100.9494397,7,7,city_2022_texas_pampa
-S35962239,L5698224,pampa medical center,2017-04-13,2017,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,,1,35.5726361,-100.9643297,6,6,city_2022_texas_pampa
-S48393229,L7909732,"620 N Powell St, Pampa US-TX (35.5495,-100.9493)",2018-09-07,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,20,,1,35.549474,-100.949306,2,2,city_2022_texas_pampa
-S45643061,L7403445,"616 N Powell St, Pampa US-TX (35.5494,-100.9491)",2018-05-13,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,45,,1,35.549357,-100.949104,8,8,city_2022_texas_pampa
-S42839644,L1133877,Powell St. Pampa Texas,2018-02-16,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,25,,1,35.5380409,-100.9584332,4,4,city_2022_texas_pampa
-S42800411,L6908148,"1500–1598 E Harvester Ave, Pampa US-TX (35.5501,-100.9477)",2018-02-15,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,29,9.377,1,35.55008,-100.947738,3,3,city_2022_texas_pampa
-S44247240,L7169934,"Recreation Park, Pampa US-TX (35.5395,-100.9320)",2018-04-04,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,31,,1,35.539531,-100.931965,8,8,city_2022_texas_pampa
-S42805666,L6908876,"620 N Powell St, Pampa US-TX (35.5494,-100.9495)",2018-02-15,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,14,9.636,1,35.549365,-100.949492,2,2,city_2022_texas_pampa
-S48393168,L7909732,"620 N Powell St, Pampa US-TX (35.5495,-100.9493)",2018-09-08,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,15,,1,35.549474,-100.949306,3,3,city_2022_texas_pampa
-S48279145,L7891675,"101 W 30th Ave, Pampa US-TX (35.5721,-100.9643)",2018-09-03,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,30,,1,35.572063,-100.964265,3,3,city_2022_texas_pampa
-S42840500,L6926686,"416 N Powell St, Pampa US-TX (35.5468,-100.9477)",2018-02-16,2018,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,18,7.003,1,35.54679,-100.947673,5,5,city_2022_texas_pampa
-S54743287,L9007901,"2831 Perryton Pkwy, best Western hotel Pampa US-TX (35.5703,-100.9664)",2019-04-09,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,20,,1,35.57031,-100.966372,7,7,city_2022_texas_pampa
-S58210117,L9647207,"854 S Hobart St, Pampa US-TX (35.5261,-100.9722)",2019-07-15,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,16,25.58,1,35.526093,-100.972223,9,9,city_2022_texas_pampa
-S56780452,L9351210,Pampa,2019-05-26,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,10,4.281,1,35.5336376,-100.9626714,8,8,city_2022_texas_pampa
-S59500157,L1383557,Pampa Recreation Park,2019-09-03,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,45,1.287,1,35.5378835,-100.9325209,18,18,city_2022_texas_pampa
-S58252971,L9656971,"421 S Cuyler St, Pampa US-TX (35.5323,-100.9587)",2019-07-17,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,1.354,1,35.532298,-100.958746,5,5,city_2022_texas_pampa
-S55367676,L5845259,Pampa Central/West Central Parks,2019-04-24,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,70,2.166,1,35.5421787,-100.9647052,18,18,city_2022_texas_pampa
-S59454121,L9868336,Crossing Gray County via 60 and 70,2019-08-31,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,25,22.531,1,35.5421225,-100.9717909,17,17,city_2022_texas_pampa
-S54689292,L1383557,Pampa Recreation Park,2019-04-07,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,19,3.219,1,35.5378835,-100.9325209,8,8,city_2022_texas_pampa
-S61817862,L1383557,Pampa Recreation Park,2019-11-28,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,7,1.31,1,35.5378835,-100.9325209,3,3,city_2022_texas_pampa
-S62580162,L10338406,"2507 N Fir St, Pampa US-TX (35.5666,-100.9560)",2019-12-23,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,15,,1,35.566582,-100.955958,3,3,city_2022_texas_pampa
-S62597562,L10341410,"2507 N Fir St, Pampa US-TX (35.5666,-100.9560)",2019-12-24,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,,1,35.566627,-100.956038,3,3,city_2022_texas_pampa
-S51948098,L8477299,"616 N Powell St, Pampa US-TX (35.5493,-100.9493)",2019-01-18,2019,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,20,,1,35.549339,-100.949272,4,4,city_2022_texas_pampa
-S74829196,L1383557,Pampa Recreation Park,2020-10-14,2020,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,9,0.505,1,35.5378835,-100.9325209,6,6,city_2022_texas_pampa
-S72853558,L1383557,Pampa Recreation Park,2020-08-26,2020,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,39,0.98,1,35.5378835,-100.9325209,5,5,city_2022_texas_pampa
-S70890587,L5845259,Pampa Central/West Central Parks,2020-06-27,2020,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,34,4.78,1,35.5421787,-100.9647052,11,11,city_2022_texas_pampa
-S76828502,L5845259,Pampa Central/West Central Parks,2020-11-28,2020,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,8,3.339,1,35.5421787,-100.9647052,4,4,city_2022_texas_pampa
-S87144707,L1383557,Pampa Recreation Park,2021-05-04,2021,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,40,0.805,1,35.5378835,-100.9325209,34,34,city_2022_texas_pampa
-S82686213,L1383557,Pampa Recreation Park,2021-03-03,2021,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,21,0.805,1,35.5378835,-100.9325209,12,12,city_2022_texas_pampa
-S79650559,L1383557,Pampa Recreation Park,2021-01-21,2021,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,23,15.405,1,35.5378835,-100.9325209,13,13,city_2022_texas_pampa
-S82683889,L5845259,Pampa Central/West Central Parks,2021-03-03,2021,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,6,0.525,1,35.5421787,-100.9647052,4,4,city_2022_texas_pampa
-S86356198,L5845259,Pampa Central/West Central Parks,2021-04-25,2021,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,13,0.756,1,35.5421787,-100.9647052,8,8,city_2022_texas_pampa
-S111078916,L19235185,Hamburger Station - Pampa TX,2022-05-23,2022,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,7,,1,35.521998,-100.985916,3,3,city_2022_texas_pampa
-S104079458,L1383557,Pampa Recreation Park,2022-03-03,2022,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,44,1.223,1,35.5378835,-100.9325209,4,4,city_2022_texas_pampa
-S112888373,L19629569,"US 60 - playas just east of Pampa (35.53381, -100.92469)",2022-06-12,2022,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,8,,1,35.533807,-100.92469,6,6,city_2022_texas_pampa
-S103998434,L1383557,Pampa Recreation Park,2022-03-01,2022,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,34,0.547,1,35.5378835,-100.9325209,13,13,city_2022_texas_pampa
-S103962283,L1383557,Pampa Recreation Park,2022-03-01,2022,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,34,1.159,1,35.5378835,-100.9325209,6,6,city_2022_texas_pampa
-S102687731,L17754141,"1301 West Somerville Street, Pampa, Texas, US (35.545, -100.98)",2022-02-15,2022,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,125,,1,35.5449822,-100.9798792,2,2,city_2022_texas_pampa
-S113296328,L19726544,"Pampa, TX",2022-06-19,2022,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,10.238,1,35.5242,-100.981958,5,5,city_2022_texas_pampa
-S153576985,L5845259,Pampa Central/West Central Parks,2023-11-02,2023,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,0.745,1,35.5421787,-100.9647052,4,4,city_2022_texas_pampa
-S139023596,L1383557,Pampa Recreation Park,2023-05-23,2023,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,66,2.574,1,35.5378835,-100.9325209,16,16,city_2022_texas_pampa
-S134912738,L19726544,"Pampa, TX",2023-04-24,2023,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,7.253,1,35.5242,-100.981958,7,7,city_2022_texas_pampa
-S132317888,L23317365,"510 North Somerville Street, Pampa, Texas, US (35.539, -100.967)",2023-03-31,2023,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,12,,1,35.5390932,-100.9667447,10,10,city_2022_texas_pampa
-S202324365,L1383557,Pampa Recreation Park,2024-05-08,2024,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,17,0.915,1,35.5378835,-100.9325209,13,13,city_2022_texas_pampa
-S194961599,L1383557,Pampa Recreation Park,2024-09-09,2024,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,20,1.049,1,35.5378835,-100.9325209,7,7,city_2022_texas_pampa
-S157987041,L1383557,Pampa Recreation Park,2024-01-03,2024,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,6,0.548,1,35.5378835,-100.9325209,5,5,city_2022_texas_pampa
-S169222793,L1383557,Pampa Recreation Park,2024-04-18,2024,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,6,,1,35.5378835,-100.9325209,7,7,city_2022_texas_pampa
-S181968683,L33479524,"11848 U.S. 60, Pampa, Texas, US (35.523, -100.983)",2024-06-16,2024,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,5,4.856,1,35.5234914,-100.983071,6,6,city_2022_texas_pampa
-S232713834,L43959777,"1330 Hamilton Street, Pampa, Texas, US (35.549, -100.969)",2025-05-03,2025,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,12,,1,35.5489886,-100.9694804,1,1,city_2022_texas_pampa
-S244355485,L43959777,"1330 Hamilton Street, Pampa, Texas, US (35.549, -100.969)",2025-05-29,2025,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,12,,1,35.5489886,-100.9694804,9,9,city_2022_texas_pampa
-S277197638,L5845259,Pampa Central/West Central Parks,2025-10-04,2025,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,16,0.31,1,35.5421787,-100.9647052,8,8,city_2022_texas_pampa
-S235265564,L43959777,"1330 Hamilton Street, Pampa, Texas, US (35.549, -100.969)",2025-05-09,2025,2022,"Pampa, TX",Pampa,Texas,Gray,28566258.1415455,6,,1,35.5489886,-100.9694804,3,3,city_2022_texas_pampa
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22223026,L1383557,Pampa Recreation Park,2015-03-07,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,20,0.322,1,Traveling,35.5378835,-100.9325209,8,8,city_2022_texas_pampa
+S22373463,L3087459,H.E. and Inez McCarley Park,2015-03-15,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,,1,Stationary,35.5347931,-100.961853,7,7,city_2022_texas_pampa
+S22494225,L1383557,Pampa Recreation Park,2015-03-21,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,20,0.483,1,Traveling,35.5378835,-100.9325209,12,12,city_2022_texas_pampa
+S23428536,L1383557,Pampa Recreation Park,2015-05-12,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,69,2.816,1,Traveling,35.5378835,-100.9325209,16,16,city_2022_texas_pampa
+S23640157,L1383557,Pampa Recreation Park,2015-05-23,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,0.402,1,Traveling,35.5378835,-100.9325209,17,17,city_2022_texas_pampa
+S23640125,L1383557,Pampa Recreation Park,2015-05-23,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,0.402,1,Traveling,35.5378835,-100.9325209,17,17,city_2022_texas_pampa
+S23670914,L3087459,H.E. and Inez McCarley Park,2015-05-27,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,10,,1,Stationary,35.5347931,-100.961853,9,9,city_2022_texas_pampa
+S23823546,L3087459,H.E. and Inez McCarley Park,2015-06-07,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,,1,Stationary,35.5347931,-100.961853,6,6,city_2022_texas_pampa
+S24297625,L3797084,Texas-Gray Co.-Pampa,2015-06-15,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,11,7.725,1,Traveling,35.5390012,-100.9719515,5,5,city_2022_texas_pampa
+S24593677,L3087459,H.E. and Inez McCarley Park,2015-08-12,2015,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,,1,Stationary,35.5347931,-100.961853,8,8,city_2022_texas_pampa
+S30492270,L4241084,My Yard,2016-07-02,2016,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,1.609,1,Traveling,35.5608561,-100.9671654,9,9,city_2022_texas_pampa
+S34278186,L1383557,Pampa Recreation Park,2017-02-10,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,7,,1,Stationary,35.5378835,-100.9325209,3,3,city_2022_texas_pampa
+S34366247,L1133879,Powell St. Pampa Texas,2017-02-12,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,70,,1,Stationary,35.5494703,-100.9494397,6,6,city_2022_texas_pampa
+S35336441,L1133879,Powell St. Pampa Texas,2017-03-19,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,60,,1,Stationary,35.5494703,-100.9494397,7,7,city_2022_texas_pampa
+S35962142,L1133879,Powell St. Pampa Texas,2017-04-13,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,60,,1,Stationary,35.5494703,-100.9494397,10,10,city_2022_texas_pampa
+S35962239,L5698224,pampa medical center,2017-04-13,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,,1,Stationary,35.5726361,-100.9643297,6,6,city_2022_texas_pampa
+S36233093,L1133879,Powell St. Pampa Texas,2017-04-22,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,45,,1,Stationary,35.5494703,-100.9494397,5,5,city_2022_texas_pampa
+S36707976,L1133879,Powell St. Pampa Texas,2017-05-09,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,60,,1,Stationary,35.5494703,-100.9494397,8,8,city_2022_texas_pampa
+S36885560,L1383557,Pampa Recreation Park,2017-05-15,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,0.3,1,Traveling,35.5378835,-100.9325209,6,6,city_2022_texas_pampa
+S36905841,L5845259,Pampa Central/West Central Parks,2017-05-16,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,31,0.83,1,Traveling,35.5421787,-100.9647052,17,17,city_2022_texas_pampa
+S37493531,L5953374,Pampa,2017-06-09,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,16,4.989,1,Traveling,35.5293711,-100.9647846,7,7,city_2022_texas_pampa
+S37623521,L1133879,Powell St. Pampa Texas,2017-06-15,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,80,,1,Stationary,35.5494703,-100.9494397,14,14,city_2022_texas_pampa
+S38318833,L1133879,Powell St. Pampa Texas,2017-07-20,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,20,,1,Stationary,35.5494703,-100.9494397,4,4,city_2022_texas_pampa
+S38318910,L1133879,Powell St. Pampa Texas,2017-07-21,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,60,,1,Stationary,35.5494703,-100.9494397,13,13,city_2022_texas_pampa
+S38318952,L1133879,Powell St. Pampa Texas,2017-07-22,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,34,,1,Stationary,35.5494703,-100.9494397,9,9,city_2022_texas_pampa
+S39546787,L1133879,Powell St. Pampa Texas,2017-10-01,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,,1,Stationary,35.5494703,-100.9494397,7,7,city_2022_texas_pampa
+S39547225,L1133879,Powell St. Pampa Texas,2017-10-02,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,,1,Stationary,35.5494703,-100.9494397,5,5,city_2022_texas_pampa
+S40053138,L1383557,Pampa Recreation Park,2017-10-21,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,0.805,1,Traveling,35.5378835,-100.9325209,11,11,city_2022_texas_pampa
+S40712720,L1133879,Powell St. Pampa Texas,2017-11-23,2017,2022,"Pampa, TX",Pampa,Texas,Gray,100,50,,1,Stationary,35.5494703,-100.9494397,6,6,city_2022_texas_pampa
+S42800411,L6908148,"1500–1598 E Harvester Ave, Pampa US-TX (35.5501,-100.9477)",2018-02-15,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,29,9.377,1,Traveling,35.55008,-100.947738,3,3,city_2022_texas_pampa
+S42805666,L6908876,"620 N Powell St, Pampa US-TX (35.5494,-100.9495)",2018-02-15,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,14,9.636,1,Traveling,35.549365,-100.949492,2,2,city_2022_texas_pampa
+S42839644,L1133877,Powell St. Pampa Texas,2018-02-16,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,25,,1,Stationary,35.5380409,-100.9584332,4,4,city_2022_texas_pampa
+S42840500,L6926686,"416 N Powell St, Pampa US-TX (35.5468,-100.9477)",2018-02-16,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,18,7.003,1,Traveling,35.54679,-100.947673,5,5,city_2022_texas_pampa
+S44247240,L7169934,"Recreation Park, Pampa US-TX (35.5395,-100.9320)",2018-04-04,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,31,,1,Stationary,35.539531,-100.931965,8,8,city_2022_texas_pampa
+S45643061,L7403445,"616 N Powell St, Pampa US-TX (35.5494,-100.9491)",2018-05-13,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,45,,1,Stationary,35.549357,-100.949104,8,8,city_2022_texas_pampa
+S48279145,L7891675,"101 W 30th Ave, Pampa US-TX (35.5721,-100.9643)",2018-09-03,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,30,,1,Stationary,35.572063,-100.964265,3,3,city_2022_texas_pampa
+S48393229,L7909732,"620 N Powell St, Pampa US-TX (35.5495,-100.9493)",2018-09-07,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,20,,1,Stationary,35.549474,-100.949306,2,2,city_2022_texas_pampa
+S48393168,L7909732,"620 N Powell St, Pampa US-TX (35.5495,-100.9493)",2018-09-08,2018,2022,"Pampa, TX",Pampa,Texas,Gray,100,15,,1,Stationary,35.549474,-100.949306,3,3,city_2022_texas_pampa
+S51948098,L8477299,"616 N Powell St, Pampa US-TX (35.5493,-100.9493)",2019-01-18,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,20,,1,Stationary,35.549339,-100.949272,4,4,city_2022_texas_pampa
+S54689292,L1383557,Pampa Recreation Park,2019-04-07,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,19,3.219,1,Traveling,35.5378835,-100.9325209,8,8,city_2022_texas_pampa
+S54743287,L9007901,"2831 Perryton Pkwy, best Western hotel Pampa US-TX (35.5703,-100.9664)",2019-04-09,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,20,,1,Stationary,35.57031,-100.966372,7,7,city_2022_texas_pampa
+S55367676,L5845259,Pampa Central/West Central Parks,2019-04-24,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,70,2.166,1,Traveling,35.5421787,-100.9647052,18,18,city_2022_texas_pampa
+S56780452,L9351210,Pampa,2019-05-26,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,10,4.281,1,Traveling,35.5336376,-100.9626714,8,8,city_2022_texas_pampa
+S58210117,L9647207,"854 S Hobart St, Pampa US-TX (35.5261,-100.9722)",2019-07-15,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,16,25.58,1,Traveling,35.526093,-100.972223,9,9,city_2022_texas_pampa
+S58252971,L9656971,"421 S Cuyler St, Pampa US-TX (35.5323,-100.9587)",2019-07-17,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,1.354,1,Traveling,35.532298,-100.958746,5,5,city_2022_texas_pampa
+S59454121,L9868336,Crossing Gray County via 60 and 70,2019-08-31,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,25,22.531,1,Traveling,35.5421225,-100.9717909,17,17,city_2022_texas_pampa
+S59500157,L1383557,Pampa Recreation Park,2019-09-03,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,45,1.287,1,Traveling,35.5378835,-100.9325209,18,18,city_2022_texas_pampa
+S61817862,L1383557,Pampa Recreation Park,2019-11-28,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,7,1.31,1,Traveling,35.5378835,-100.9325209,3,3,city_2022_texas_pampa
+S62580162,L10338406,"2507 N Fir St, Pampa US-TX (35.5666,-100.9560)",2019-12-23,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,15,,1,Stationary,35.566582,-100.955958,3,3,city_2022_texas_pampa
+S62597562,L10341410,"2507 N Fir St, Pampa US-TX (35.5666,-100.9560)",2019-12-24,2019,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,,1,Stationary,35.566627,-100.956038,3,3,city_2022_texas_pampa
+S70890587,L5845259,Pampa Central/West Central Parks,2020-06-27,2020,2022,"Pampa, TX",Pampa,Texas,Gray,100,34,4.78,1,Traveling,35.5421787,-100.9647052,11,11,city_2022_texas_pampa
+S72853558,L1383557,Pampa Recreation Park,2020-08-26,2020,2022,"Pampa, TX",Pampa,Texas,Gray,100,39,0.98,1,Traveling,35.5378835,-100.9325209,5,5,city_2022_texas_pampa
+S74829196,L1383557,Pampa Recreation Park,2020-10-14,2020,2022,"Pampa, TX",Pampa,Texas,Gray,100,9,0.505,1,Traveling,35.5378835,-100.9325209,6,6,city_2022_texas_pampa
+S76828502,L5845259,Pampa Central/West Central Parks,2020-11-28,2020,2022,"Pampa, TX",Pampa,Texas,Gray,100,8,3.339,1,Traveling,35.5421787,-100.9647052,4,4,city_2022_texas_pampa
+S79650559,L1383557,Pampa Recreation Park,2021-01-21,2021,2022,"Pampa, TX",Pampa,Texas,Gray,100,23,15.405,1,Traveling,35.5378835,-100.9325209,13,13,city_2022_texas_pampa
+S82686213,L1383557,Pampa Recreation Park,2021-03-03,2021,2022,"Pampa, TX",Pampa,Texas,Gray,100,21,0.805,1,Traveling,35.5378835,-100.9325209,12,12,city_2022_texas_pampa
+S82683889,L5845259,Pampa Central/West Central Parks,2021-03-03,2021,2022,"Pampa, TX",Pampa,Texas,Gray,100,6,0.525,1,Traveling,35.5421787,-100.9647052,4,4,city_2022_texas_pampa
+S86356198,L5845259,Pampa Central/West Central Parks,2021-04-25,2021,2022,"Pampa, TX",Pampa,Texas,Gray,100,13,0.756,1,Traveling,35.5421787,-100.9647052,8,8,city_2022_texas_pampa
+S87144707,L1383557,Pampa Recreation Park,2021-05-04,2021,2022,"Pampa, TX",Pampa,Texas,Gray,100,40,0.805,1,Traveling,35.5378835,-100.9325209,34,34,city_2022_texas_pampa
+S102687731,L17754141,"1301 West Somerville Street, Pampa, Texas, US (35.545, -100.98)",2022-02-15,2022,2022,"Pampa, TX",Pampa,Texas,Gray,100,125,,1,Stationary,35.5449822,-100.9798792,2,2,city_2022_texas_pampa
+S103998434,L1383557,Pampa Recreation Park,2022-03-01,2022,2022,"Pampa, TX",Pampa,Texas,Gray,100,34,0.547,1,Traveling,35.5378835,-100.9325209,13,13,city_2022_texas_pampa
+S103962283,L1383557,Pampa Recreation Park,2022-03-01,2022,2022,"Pampa, TX",Pampa,Texas,Gray,100,34,1.159,1,Traveling,35.5378835,-100.9325209,6,6,city_2022_texas_pampa
+S104079458,L1383557,Pampa Recreation Park,2022-03-03,2022,2022,"Pampa, TX",Pampa,Texas,Gray,100,44,1.223,1,Traveling,35.5378835,-100.9325209,4,4,city_2022_texas_pampa
+S111078916,L19235185,Hamburger Station - Pampa TX,2022-05-23,2022,2022,"Pampa, TX",Pampa,Texas,Gray,100,7,,1,Stationary,35.521998,-100.985916,3,3,city_2022_texas_pampa
+S112888373,L19629569,"US 60 - playas just east of Pampa (35.53381, -100.92469)",2022-06-12,2022,2022,"Pampa, TX",Pampa,Texas,Gray,100,8,,1,Stationary,35.533807,-100.92469,6,6,city_2022_texas_pampa
+S113296328,L19726544,"Pampa, TX",2022-06-19,2022,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,10.238,1,Traveling,35.5242,-100.981958,5,5,city_2022_texas_pampa
+S132317888,L23317365,"510 North Somerville Street, Pampa, Texas, US (35.539, -100.967)",2023-03-31,2023,2022,"Pampa, TX",Pampa,Texas,Gray,100,12,,1,Stationary,35.5390932,-100.9667447,10,10,city_2022_texas_pampa
+S134912738,L19726544,"Pampa, TX",2023-04-24,2023,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,7.253,1,Traveling,35.5242,-100.981958,7,7,city_2022_texas_pampa
+S139023596,L1383557,Pampa Recreation Park,2023-05-23,2023,2022,"Pampa, TX",Pampa,Texas,Gray,100,66,2.574,1,Traveling,35.5378835,-100.9325209,16,16,city_2022_texas_pampa
+S153576985,L5845259,Pampa Central/West Central Parks,2023-11-02,2023,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,0.745,1,Traveling,35.5421787,-100.9647052,4,4,city_2022_texas_pampa
+S157987041,L1383557,Pampa Recreation Park,2024-01-03,2024,2022,"Pampa, TX",Pampa,Texas,Gray,100,6,0.548,1,Traveling,35.5378835,-100.9325209,5,5,city_2022_texas_pampa
+S169222793,L1383557,Pampa Recreation Park,2024-04-18,2024,2022,"Pampa, TX",Pampa,Texas,Gray,100,6,,1,Stationary,35.5378835,-100.9325209,7,7,city_2022_texas_pampa
+S202324365,L1383557,Pampa Recreation Park,2024-05-08,2024,2022,"Pampa, TX",Pampa,Texas,Gray,100,17,0.915,1,Traveling,35.5378835,-100.9325209,13,13,city_2022_texas_pampa
+S181968683,L33479524,"11848 U.S. 60, Pampa, Texas, US (35.523, -100.983)",2024-06-16,2024,2022,"Pampa, TX",Pampa,Texas,Gray,100,5,4.856,1,Traveling,35.5234914,-100.983071,6,6,city_2022_texas_pampa
+S194961599,L1383557,Pampa Recreation Park,2024-09-09,2024,2022,"Pampa, TX",Pampa,Texas,Gray,100,20,1.049,1,Traveling,35.5378835,-100.9325209,7,7,city_2022_texas_pampa
+S232713834,L43959777,"1330 Hamilton Street, Pampa, Texas, US (35.549, -100.969)",2025-05-03,2025,2022,"Pampa, TX",Pampa,Texas,Gray,100,12,,1,Stationary,35.5489886,-100.9694804,1,1,city_2022_texas_pampa
+S235265564,L43959777,"1330 Hamilton Street, Pampa, Texas, US (35.549, -100.969)",2025-05-09,2025,2022,"Pampa, TX",Pampa,Texas,Gray,100,6,,1,Stationary,35.5489886,-100.9694804,3,3,city_2022_texas_pampa
+S244355485,L43959777,"1330 Hamilton Street, Pampa, Texas, US (35.549, -100.969)",2025-05-29,2025,2022,"Pampa, TX",Pampa,Texas,Gray,100,12,,1,Stationary,35.5489886,-100.9694804,9,9,city_2022_texas_pampa
+S277197638,L5845259,Pampa Central/West Central Parks,2025-10-04,2025,2022,"Pampa, TX",Pampa,Texas,Gray,100,16,0.31,1,Traveling,35.5421787,-100.9647052,8,8,city_2022_texas_pampa

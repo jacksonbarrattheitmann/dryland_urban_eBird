@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2318,"San Saba, TX",San Saba,Texas,San Saba,2015,4430078.42989249,43,63,city_2318_texas_san_saba,986.7437438964844,19.25,33.73482885116186,humid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2016,4430078.42989249,40,67,city_2318_texas_san_saba,955.9500074386596,19.8984375,31.973242997687077,humid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2017,4430078.42989249,23,44,city_2318_texas_san_saba,614.8437461853027,19.958333333333332,20.523296117450997,dry subhumid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2018,4430078.42989249,26,57,city_2318_texas_san_saba,710.2562532424927,19.28125,24.256350164097935,dry subhumid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2019,4430078.42989249,41,102,city_2318_texas_san_saba,576.1374959945679,19.518229166666668,19.518023684332956,semiarid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2020,4430078.42989249,32,51,city_2318_texas_san_saba,578.4187526702881,20.005208333333332,19.27727833929792,semiarid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2021,4430078.42989249,85,220,city_2318_texas_san_saba,696.4937334060669,19.377604166666668,23.70832316531599,dry subhumid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2022,4430078.42989249,24,34,city_2318_texas_san_saba,373.49375438690186,19.828125,12.521529743720125,semiarid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2023,4430078.42989249,37,63,city_2318_texas_san_saba,553.7374954223633,20.575520833333332,18.110484476806704,semiarid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2024,4430078.42989249,41,84,city_2318_texas_san_saba,596.0624980926514,20.924479166666668,19.27477888569079,semiarid,12
-2318,"San Saba, TX",San Saba,Texas,San Saba,2025,4430078.42989249,30,76,city_2318_texas_san_saba,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2318,2015,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,43,63,city_2318_texas_san_saba,986.743743896484,19.25,33.7348288511619,humid,12
+2318,2016,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,40,67,city_2318_texas_san_saba,955.95000743866,19.8984375,31.9732429976871,humid,12
+2318,2017,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,23,44,city_2318_texas_san_saba,614.843746185303,19.9583333333333,20.523296117451,dry subhumid,12
+2318,2018,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,26,57,city_2318_texas_san_saba,710.256253242493,19.28125,24.2563501640979,dry subhumid,12
+2318,2019,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,41,102,city_2318_texas_san_saba,576.137495994568,19.5182291666667,19.518023684333,semiarid,12
+2318,2020,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,32,51,city_2318_texas_san_saba,578.418752670288,20.0052083333333,19.2772783392979,semiarid,12
+2318,2021,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,85,220,city_2318_texas_san_saba,696.493733406067,19.3776041666667,23.708323165316,dry subhumid,12
+2318,2022,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,24,34,city_2318_texas_san_saba,373.493754386902,19.828125,12.5215297437201,semiarid,12
+2318,2023,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,37,63,city_2318_texas_san_saba,553.737495422363,20.5755208333333,18.1104844768067,semiarid,12
+2318,2024,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,41,84,city_2318_texas_san_saba,596.062498092651,20.9244791666667,19.2747788856908,semiarid,12
+2318,2025,"San Saba, TX",San Saba,Texas,San Saba,99.9999999999975,30,76,city_2318_texas_san_saba,,,,,

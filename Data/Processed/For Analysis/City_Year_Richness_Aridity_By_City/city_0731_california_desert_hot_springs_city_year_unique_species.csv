@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2015,42981415.0123217,53,178,city_0731_california_desert_hot_springs,137.5250004529953,22.307291666666668,4.256778991935369,extremely arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2016,42981415.0123217,124,2434,city_0731_california_desert_hot_springs,132.13749754428864,21.973958333333332,4.132659965548692,extremely arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2017,42981415.0123217,134,2764,city_0731_california_desert_hot_springs,128.04374885559082,22.2265625,3.973236328125,extremely arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2018,42981415.0123217,137,2466,city_0731_california_desert_hot_springs,120.68749997019768,22.026041666666668,3.768417627952179,extremely arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2019,42981415.0123217,114,2453,city_0731_california_desert_hot_springs,241.7812494635582,21.2734375,7.731201581647627,arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2020,42981415.0123217,108,2653,city_0731_california_desert_hot_springs,103.73124969005583,22.130208333333332,3.228464895524514,extremely arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2021,42981415.0123217,120,3524,city_0731_california_desert_hot_springs,180.0124996304512,21.635416666666668,5.690220600765003,arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2022,42981415.0123217,74,1119,city_0731_california_desert_hot_springs,98.03749871253969,21.526041666666668,3.10973067120562,extremely arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2023,42981415.0123217,80,1290,city_0731_california_desert_hot_springs,198.58124840259552,21.049479166666668,6.395638630092819,arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2024,42981415.0123217,100,1691,city_0731_california_desert_hot_springs,134.3499986231327,21.856770833333332,4.2173137800443845,extremely arid,12
-731,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,2025,42981415.0123217,95,1348,city_0731_california_desert_hot_springs,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+731,2015,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,53,178,city_0731_california_desert_hot_springs,137.525000452995,22.3072916666667,4.25677899193537,extremely arid,12
+731,2016,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,124,2434,city_0731_california_desert_hot_springs,132.137497544289,21.9739583333333,4.13265996554869,extremely arid,12
+731,2017,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,134,2764,city_0731_california_desert_hot_springs,128.043748855591,22.2265625,3.973236328125,extremely arid,12
+731,2018,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,137,2466,city_0731_california_desert_hot_springs,120.687499970198,22.0260416666667,3.76841762795218,extremely arid,12
+731,2019,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,114,2453,city_0731_california_desert_hot_springs,241.781249463558,21.2734375,7.73120158164763,arid,12
+731,2020,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,108,2653,city_0731_california_desert_hot_springs,103.731249690056,22.1302083333333,3.22846489552451,extremely arid,12
+731,2021,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,120,3524,city_0731_california_desert_hot_springs,180.012499630451,21.6354166666667,5.690220600765,arid,12
+731,2022,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,74,1119,city_0731_california_desert_hot_springs,98.0374987125397,21.5260416666667,3.10973067120562,extremely arid,12
+731,2023,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,80,1290,city_0731_california_desert_hot_springs,198.581248402596,21.0494791666667,6.39563863009282,arid,12
+731,2024,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,100,1698,city_0731_california_desert_hot_springs,134.349998623133,21.8567708333333,4.21731378004438,extremely arid,12
+731,2025,"Desert Hot Springs, CA",Desert Hot Springs,California,Riverside,99.999999999996,95,1348,city_0731_california_desert_hot_springs,,,,,

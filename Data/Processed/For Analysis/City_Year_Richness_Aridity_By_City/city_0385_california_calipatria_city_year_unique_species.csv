@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-385,"Calipatria, CA",Calipatria,California,Imperial,2015,2649473.92777762,10,10,city_0385_california_calipatria,60.21874964237213,24.135416666666668,1.764113507985268,extremely arid,12
-385,"Calipatria, CA",Calipatria,California,Imperial,2016,2649473.92777762,29,29,city_0385_california_calipatria,59.237499833106995,23.7734375,1.7539671474988885,extremely arid,12
-385,"Calipatria, CA",Calipatria,California,Imperial,2017,2649473.92777762,6,7,city_0385_california_calipatria,52.79999989271164,23.9921875,1.5532980892362882,extremely arid,12
-385,"Calipatria, CA",Calipatria,California,Imperial,2018,2649473.92777762,8,8,city_0385_california_calipatria,55.27500073611736,23.854166666666668,1.6327384832822358,extremely arid,12
-385,"Calipatria, CA",Calipatria,California,Imperial,2020,2649473.92777762,2,2,city_0385_california_calipatria,41.99374979734421,23.942708333333332,1.2371950224167698,extremely arid,12
-385,"Calipatria, CA",Calipatria,California,Imperial,2023,2649473.92777762,6,6,city_0385_california_calipatria,74.01250064373016,22.734375,2.26100240630011,extremely arid,12
-385,"Calipatria, CA",Calipatria,California,Imperial,2024,2649473.92777762,21,31,city_0385_california_calipatria,57.331250831484795,23.677083333333332,1.7023817135238295,extremely arid,12
-385,"Calipatria, CA",Calipatria,California,Imperial,2025,2649473.92777762,14,29,city_0385_california_calipatria,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+385,2015,"Calipatria, CA",Calipatria,California,Imperial,100,10,10,city_0385_california_calipatria,60.2187496423721,24.1354166666667,1.76411350798527,extremely arid,12
+385,2016,"Calipatria, CA",Calipatria,California,Imperial,100,29,29,city_0385_california_calipatria,59.237499833107,23.7734375,1.75396714749889,extremely arid,12
+385,2017,"Calipatria, CA",Calipatria,California,Imperial,100,6,7,city_0385_california_calipatria,52.7999998927117,23.9921875,1.55329808923629,extremely arid,12
+385,2018,"Calipatria, CA",Calipatria,California,Imperial,100,8,8,city_0385_california_calipatria,55.2750007361174,23.8541666666667,1.63273848328224,extremely arid,12
+385,2020,"Calipatria, CA",Calipatria,California,Imperial,100,2,2,city_0385_california_calipatria,41.9937497973442,23.9427083333333,1.23719502241677,extremely arid,12
+385,2023,"Calipatria, CA",Calipatria,California,Imperial,100,6,6,city_0385_california_calipatria,74.0125006437302,22.734375,2.26100240630011,extremely arid,12
+385,2024,"Calipatria, CA",Calipatria,California,Imperial,100,21,31,city_0385_california_calipatria,57.3312508314848,23.6770833333333,1.70238171352383,extremely arid,12
+385,2025,"Calipatria, CA",Calipatria,California,Imperial,100,14,29,city_0385_california_calipatria,,,,,

@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2451,"Spearman, TX",Spearman,Texas,Hansford,2017,3943153.21199152,9,9,city_2451_texas_spearman,541.7187581062317,15.364583333333332,21.357289847309342,dry subhumid,12
-2451,"Spearman, TX",Spearman,Texas,Hansford,2019,3943153.21199152,2,2,city_2451_texas_spearman,515.4125032424927,14.442708333333332,21.08655457544398,dry subhumid,12
-2451,"Spearman, TX",Spearman,Texas,Hansford,2021,3943153.21199152,12,16,city_2451_texas_spearman,414.68125092983246,15.052083333333332,16.552765109881047,semiarid,12
-2451,"Spearman, TX",Spearman,Texas,Hansford,2022,3943153.21199152,6,6,city_2451_texas_spearman,342.8187472820282,14.953125,13.73850959677508,semiarid,12
-2451,"Spearman, TX",Spearman,Texas,Hansford,2023,3943153.21199152,4,4,city_2451_texas_spearman,505.53750562667847,15.416666666666668,19.890000221377512,semiarid,12
-2451,"Spearman, TX",Spearman,Texas,Hansford,2024,3943153.21199152,10,14,city_2451_texas_spearman,450.6187446117401,16.080729166666668,17.277843028548,semiarid,12
-2451,"Spearman, TX",Spearman,Texas,Hansford,2025,3943153.21199152,16,21,city_2451_texas_spearman,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2451,2017,"Spearman, TX",Spearman,Texas,Hansford,100,9,9,city_2451_texas_spearman,541.718758106232,15.3645833333333,21.3572898473093,dry subhumid,12
+2451,2019,"Spearman, TX",Spearman,Texas,Hansford,100,2,2,city_2451_texas_spearman,515.412503242493,14.4427083333333,21.086554575444,dry subhumid,12
+2451,2021,"Spearman, TX",Spearman,Texas,Hansford,100,12,15,city_2451_texas_spearman,414.681250929833,15.0520833333333,16.5527651098811,semiarid,12
+2451,2022,"Spearman, TX",Spearman,Texas,Hansford,100,6,6,city_2451_texas_spearman,342.818747282028,14.953125,13.7385095967751,semiarid,12
+2451,2023,"Spearman, TX",Spearman,Texas,Hansford,100,4,4,city_2451_texas_spearman,505.537505626679,15.4166666666667,19.8900002213775,semiarid,12
+2451,2024,"Spearman, TX",Spearman,Texas,Hansford,100,10,14,city_2451_texas_spearman,450.61874461174,16.0807291666667,17.277843028548,semiarid,12
+2451,2025,"Spearman, TX",Spearman,Texas,Hansford,100,16,21,city_2451_texas_spearman,,,,,

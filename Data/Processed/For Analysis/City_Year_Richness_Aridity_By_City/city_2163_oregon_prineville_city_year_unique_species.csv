@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2163,"Prineville, OR",Prineville,Oregon,Crook,2015,16398726.479716,118,1347,city_2163_oregon_prineville,251.02499866485596,9.981770833333332,12.562700311130548,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2016,16398726.479716,104,1169,city_2163_oregon_prineville,290.6749949455261,9.5390625,14.876609097571908,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2017,16398726.479716,109,1057,city_2163_oregon_prineville,296.7937443256378,8.40625,16.12461768831988,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2018,16398726.479716,108,933,city_2163_oregon_prineville,216.1624975204468,8.9453125,11.40981430211018,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2019,16398726.479716,102,731,city_2163_oregon_prineville,245.42500495910645,8.216145833333334,13.472938084960235,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2020,16398726.479716,77,358,city_2163_oregon_prineville,268.1750011444092,8.986979166666666,14.124153125696497,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2021,16398726.479716,84,412,city_2163_oregon_prineville,245.94374895095825,9.333333333333334,12.72122839401508,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2022,16398726.479716,89,560,city_2163_oregon_prineville,287.03125190734863,8.544270833333332,15.478163282182544,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2023,16398726.479716,92,456,city_2163_oregon_prineville,231.91249632835388,9.21875,12.066991678873698,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2024,16398726.479716,97,857,city_2163_oregon_prineville,293.0062527656555,9.361979166666666,15.133073444789742,semiarid,12
-2163,"Prineville, OR",Prineville,Oregon,Crook,2025,16398726.479716,85,584,city_2163_oregon_prineville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2163,2015,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,118,1347,city_2163_oregon_prineville,251.024998664856,9.98177083333333,12.5627003111305,semiarid,12
+2163,2016,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,104,1169,city_2163_oregon_prineville,290.674994945526,9.5390625,14.8766090975719,semiarid,12
+2163,2017,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,109,1057,city_2163_oregon_prineville,296.793744325638,8.40625,16.1246176883199,semiarid,12
+2163,2018,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,108,933,city_2163_oregon_prineville,216.162497520447,8.9453125,11.4098143021102,semiarid,12
+2163,2019,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,102,731,city_2163_oregon_prineville,245.425004959106,8.21614583333333,13.4729380849602,semiarid,12
+2163,2020,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,77,358,city_2163_oregon_prineville,268.175001144409,8.98697916666667,14.1241531256965,semiarid,12
+2163,2021,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,84,412,city_2163_oregon_prineville,245.943748950958,9.33333333333333,12.7212283940151,semiarid,12
+2163,2022,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,89,560,city_2163_oregon_prineville,287.031251907349,8.54427083333333,15.4781632821825,semiarid,12
+2163,2023,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,92,456,city_2163_oregon_prineville,231.912496328354,9.21875,12.0669916788737,semiarid,12
+2163,2024,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,97,857,city_2163_oregon_prineville,293.006252765656,9.36197916666667,15.1330734447897,semiarid,12
+2163,2025,"Prineville, OR",Prineville,Oregon,Crook,99.9999999999878,85,588,city_2163_oregon_prineville,,,,,

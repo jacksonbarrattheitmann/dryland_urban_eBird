@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2015,33832106.1358647,36,54,city_2722_south_dakota_watertown,680.8374977111816,7.544270833333333,38.80682783450998,humid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2016,33832106.1358647,113,866,city_2722_south_dakota_watertown,648.9624977111816,8.239583333333332,35.57989707611276,humid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2017,33832106.1358647,73,220,city_2722_south_dakota_watertown,558.306248664856,7.28125,32.307052363969966,humid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2018,33832106.1358647,51,86,city_2722_south_dakota_watertown,621.1562519073486,5.963541666666667,38.91092997266262,humid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2019,33832106.1358647,87,203,city_2722_south_dakota_watertown,826.2375144958496,5.330729166666667,53.894208521557026,humid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2020,33832106.1358647,63,153,city_2722_south_dakota_watertown,505.68125915527344,7.309895833333333,29.21342011668798,dry subhumid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2021,33832106.1358647,110,554,city_2722_south_dakota_watertown,529.7062435150146,8.083333333333332,29.29251116212063,dry subhumid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2022,33832106.1358647,125,1323,city_2722_south_dakota_watertown,514.2249937057495,6.419270833333333,31.318381852975072,humid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2023,33832106.1358647,148,1650,city_2722_south_dakota_watertown,570.3312520980835,7.744791666666667,32.140769123226306,humid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2024,33832106.1358647,134,1683,city_2722_south_dakota_watertown,633.4124855995178,8.546875,34.151979004523284,humid,12
-2722,"Watertown, SD",Watertown,South Dakota,Codington,2025,33832106.1358647,149,2933,city_2722_south_dakota_watertown,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2722,2015,"Watertown, SD",Watertown,South Dakota,Codington,100,36,54,city_2722_south_dakota_watertown,680.837497711182,7.54427083333333,38.80682783451,humid,12
+2722,2016,"Watertown, SD",Watertown,South Dakota,Codington,100,113,866,city_2722_south_dakota_watertown,648.962497711182,8.23958333333333,35.5798970761128,humid,12
+2722,2017,"Watertown, SD",Watertown,South Dakota,Codington,100,73,220,city_2722_south_dakota_watertown,558.306248664856,7.28125,32.30705236397,humid,12
+2722,2018,"Watertown, SD",Watertown,South Dakota,Codington,100,51,86,city_2722_south_dakota_watertown,621.156251907349,5.96354166666667,38.9109299726626,humid,12
+2722,2019,"Watertown, SD",Watertown,South Dakota,Codington,100,87,203,city_2722_south_dakota_watertown,826.23751449585,5.33072916666667,53.894208521557,humid,12
+2722,2020,"Watertown, SD",Watertown,South Dakota,Codington,100,63,153,city_2722_south_dakota_watertown,505.681259155274,7.30989583333333,29.213420116688,dry subhumid,12
+2722,2021,"Watertown, SD",Watertown,South Dakota,Codington,100,110,554,city_2722_south_dakota_watertown,529.706243515015,8.08333333333333,29.2925111621206,dry subhumid,12
+2722,2022,"Watertown, SD",Watertown,South Dakota,Codington,100,125,1323,city_2722_south_dakota_watertown,514.22499370575,6.41927083333333,31.3183818529751,humid,12
+2722,2023,"Watertown, SD",Watertown,South Dakota,Codington,100,148,1650,city_2722_south_dakota_watertown,570.331252098084,7.74479166666667,32.1407691232263,humid,12
+2722,2024,"Watertown, SD",Watertown,South Dakota,Codington,100,134,1683,city_2722_south_dakota_watertown,633.412485599518,8.546875,34.1519790045233,humid,12
+2722,2025,"Watertown, SD",Watertown,South Dakota,Codington,100,149,2933,city_2722_south_dakota_watertown,,,,,

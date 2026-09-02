@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2015,24029503.5798604,29,41,city_2836_arizona_winslow,284.81250047683716,14.997395833333332,11.393686861454889,semiarid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2016,24029503.5798604,13,16,city_2836_arizona_winslow,187.268750667572,14.815104166666668,7.546563149999754,arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2017,24029503.5798604,39,64,city_2836_arizona_winslow,137.72499948740003,15.197916666666666,5.465729620004302,arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2018,24029503.5798604,56,283,city_2836_arizona_winslow,201.80624771118164,14.822916666666668,8.129836248541098,arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2019,24029503.5798604,54,410,city_2836_arizona_winslow,188.54374706745148,13.794270833333332,7.923913634004747,arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2020,24029503.5798604,63,192,city_2836_arizona_winslow,113.60624945163728,14.979166666666668,4.548040011408331,extremely arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2021,24029503.5798604,65,381,city_2836_arizona_winslow,190.11874651908877,14.846354166666666,7.651776403241808,arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2022,24029503.5798604,46,202,city_2836_arizona_winslow,179.72500222921371,14.4765625,7.342738680287059,arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2023,24029503.5798604,31,110,city_2836_arizona_winslow,134.0749979019165,13.986979166666668,5.589490738718482,arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2024,24029503.5798604,56,211,city_2836_arizona_winslow,148.18749779462814,15.239583333333332,5.871233920051301,arid,12
-2836,"Winslow, AZ",Winslow,Arizona,Navajo,2025,24029503.5798604,32,130,city_2836_arizona_winslow,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2836,2015,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,29,41,city_2836_arizona_winslow,284.812500476837,14.9973958333333,11.3936868614549,semiarid,12
+2836,2016,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,13,16,city_2836_arizona_winslow,187.268750667572,14.8151041666667,7.54656314999975,arid,12
+2836,2017,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,39,64,city_2836_arizona_winslow,137.7249994874,15.1979166666667,5.4657296200043,arid,12
+2836,2018,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,56,283,city_2836_arizona_winslow,201.806247711182,14.8229166666667,8.1298362485411,arid,12
+2836,2019,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,54,410,city_2836_arizona_winslow,188.543747067451,13.7942708333333,7.92391363400475,arid,12
+2836,2020,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,63,192,city_2836_arizona_winslow,113.606249451637,14.9791666666667,4.54804001140833,extremely arid,12
+2836,2021,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,65,381,city_2836_arizona_winslow,190.118746519089,14.8463541666667,7.65177640324181,arid,12
+2836,2022,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,46,202,city_2836_arizona_winslow,179.725002229214,14.4765625,7.34273868028706,arid,12
+2836,2023,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,31,110,city_2836_arizona_winslow,134.074997901917,13.9869791666667,5.58949073871848,arid,12
+2836,2024,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,56,211,city_2836_arizona_winslow,148.187497794628,15.2395833333333,5.8712339200513,arid,12
+2836,2025,"Winslow, AZ",Winslow,Arizona,Navajo,99.9999999999924,32,130,city_2836_arizona_winslow,,,,,

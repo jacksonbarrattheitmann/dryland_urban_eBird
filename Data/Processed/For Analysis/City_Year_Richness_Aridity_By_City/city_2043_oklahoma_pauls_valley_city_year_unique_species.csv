@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2043,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,2016,8737681.92390863,4,4,city_2043_oklahoma_pauls_valley,881.6687574386597,18.0625,31.41804035416159,humid,12
-2043,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,2018,8737681.92390863,9,10,city_2043_oklahoma_pauls_valley,1051.8874969482422,16.8828125,39.12862528607237,humid,12
-2043,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,2019,8737681.92390863,6,6,city_2043_oklahoma_pauls_valley,1218.337490081787,16.6875,45.651990260675866,humid,12
-2043,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,2020,8737681.92390863,28,31,city_2043_oklahoma_pauls_valley,1059.7500019073486,17.0390625,39.19329680558816,humid,12
-2043,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,2021,8737681.92390863,17,27,city_2043_oklahoma_pauls_valley,929.4062461853028,16.997395833333332,34.42577394956653,humid,12
-2043,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,2024,8737681.92390863,19,19,city_2043_oklahoma_pauls_valley,924.1312427520752,18.395833333333332,32.54460722824623,humid,12
-2043,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,2025,8737681.92390863,7,9,city_2043_oklahoma_pauls_valley,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2043,2016,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,99.9999999999977,4,4,city_2043_oklahoma_pauls_valley,881.66875743866,18.0625,31.4180403541616,humid,12
+2043,2018,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,99.9999999999977,9,10,city_2043_oklahoma_pauls_valley,1051.88749694824,16.8828125,39.1286252860724,humid,12
+2043,2019,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,99.9999999999977,6,6,city_2043_oklahoma_pauls_valley,1218.33749008179,16.6875,45.6519902606759,humid,12
+2043,2020,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,99.9999999999977,28,31,city_2043_oklahoma_pauls_valley,1059.75000190735,17.0390625,39.1932968055882,humid,12
+2043,2021,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,99.9999999999977,17,27,city_2043_oklahoma_pauls_valley,929.406246185303,16.9973958333333,34.4257739495665,humid,12
+2043,2024,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,99.9999999999977,19,19,city_2043_oklahoma_pauls_valley,924.131242752075,18.3958333333333,32.5446072282462,humid,12
+2043,2025,"Pauls Valley, OK",Pauls Valley,Oklahoma,Garvin,99.9999999999977,7,9,city_2043_oklahoma_pauls_valley,,,,,

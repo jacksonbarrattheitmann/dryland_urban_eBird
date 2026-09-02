@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-575,"Colfax, WA",Colfax,Washington,Whitman,2016,3395028.51928569,3,3,city_0575_washington_colfax,499.3937468528747,10.192708333333332,24.731390094338913,dry subhumid,12
-575,"Colfax, WA",Colfax,Washington,Whitman,2018,3395028.51928569,9,21,city_0575_washington_colfax,470.50000405311584,9.7265625,23.851089314375773,dry subhumid,12
-575,"Colfax, WA",Colfax,Washington,Whitman,2019,3395028.51928569,8,9,city_0575_washington_colfax,443.5249977111816,8.622395833333334,23.816752778785307,dry subhumid,12
-575,"Colfax, WA",Colfax,Washington,Whitman,2020,3395028.51928569,8,8,city_0575_washington_colfax,485.5437519550323,9.6640625,24.691934942488732,dry subhumid,12
-575,"Colfax, WA",Colfax,Washington,Whitman,2021,3395028.51928569,24,76,city_0575_washington_colfax,389.27500104904175,10.15625,19.312868269099745,semiarid,12
-575,"Colfax, WA",Colfax,Washington,Whitman,2022,3395028.51928569,2,2,city_0575_washington_colfax,499.9812488555908,9.046875,26.250040957143405,dry subhumid,12
-575,"Colfax, WA",Colfax,Washington,Whitman,2023,3395028.51928569,13,13,city_0575_washington_colfax,400.2562491893768,10.018229166666666,19.994588225409228,semiarid,12
-575,"Colfax, WA",Colfax,Washington,Whitman,2024,3395028.51928569,42,151,city_0575_washington_colfax,488.3375067710877,10.098958333333332,24.29665750195616,dry subhumid,12
-575,"Colfax, WA",Colfax,Washington,Whitman,2025,3395028.51928569,24,42,city_0575_washington_colfax,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+575,2016,"Colfax, WA",Colfax,Washington,Whitman,100,3,3,city_0575_washington_colfax,499.393746852875,10.1927083333333,24.7313900943389,dry subhumid,12
+575,2018,"Colfax, WA",Colfax,Washington,Whitman,100,9,21,city_0575_washington_colfax,470.500004053116,9.7265625,23.8510893143758,dry subhumid,12
+575,2019,"Colfax, WA",Colfax,Washington,Whitman,100,8,9,city_0575_washington_colfax,443.524997711182,8.62239583333333,23.8167527787853,dry subhumid,12
+575,2020,"Colfax, WA",Colfax,Washington,Whitman,100,8,8,city_0575_washington_colfax,485.543751955032,9.6640625,24.6919349424887,dry subhumid,12
+575,2021,"Colfax, WA",Colfax,Washington,Whitman,100,24,76,city_0575_washington_colfax,389.275001049042,10.15625,19.3128682690997,semiarid,12
+575,2022,"Colfax, WA",Colfax,Washington,Whitman,100,2,2,city_0575_washington_colfax,499.981248855591,9.046875,26.2500409571434,dry subhumid,12
+575,2023,"Colfax, WA",Colfax,Washington,Whitman,100,13,13,city_0575_washington_colfax,400.256249189377,10.0182291666667,19.9945882254092,semiarid,12
+575,2024,"Colfax, WA",Colfax,Washington,Whitman,100,42,151,city_0575_washington_colfax,488.337506771088,10.0989583333333,24.2966575019562,dry subhumid,12
+575,2025,"Colfax, WA",Colfax,Washington,Whitman,100,24,42,city_0575_washington_colfax,,,,,

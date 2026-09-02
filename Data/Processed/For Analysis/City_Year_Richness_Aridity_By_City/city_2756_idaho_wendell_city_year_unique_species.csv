@@ -1,2 +1,2 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2756,"Wendell, ID",Wendell,Idaho,Gooding,2021,2624514.38361243,4,4,city_2756_idaho_wendell,252.47500133514404,11.885416666666666,11.536220908221718,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2756,2021,"Wendell, ID",Wendell,Idaho,Gooding,100,4,4,city_2756_idaho_wendell,252.475001335144,11.8854166666667,11.5362209082217,semiarid,12

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2015,12511875.9962327,31,34,city_1070_wyoming_green_river,236.90625,6.1875,14.635135135135137,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2016,12511875.9962327,21,21,city_1070_wyoming_green_river,208.78750085830688,6.127604166666666,12.945971311091531,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2017,12511875.9962327,98,574,city_1070_wyoming_green_river,177.15624952316284,5.744791666666666,11.251736655126454,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2018,12511875.9962327,58,252,city_1070_wyoming_green_river,174.85000085830688,5.447916666666666,11.318678410247784,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2019,12511875.9962327,66,167,city_1070_wyoming_green_river,219.5875005722046,4.4375,15.209523849157028,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2020,12511875.9962327,67,308,city_1070_wyoming_green_river,128.88749957084656,5.7734375,8.171173821232472,arid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2021,12511875.9962327,84,442,city_1070_wyoming_green_river,204.18124771118164,6.153645833333333,12.63994827036817,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2022,12511875.9962327,65,180,city_1070_wyoming_green_river,191.72500324249268,5.203125,12.610894355107432,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2023,12511875.9962327,117,1017,city_1070_wyoming_green_river,223.9812483787537,5.4296875,14.516253059483782,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2024,12511875.9962327,100,803,city_1070_wyoming_green_river,174.29374933242798,6.755208333333334,10.40236240964444,semiarid,12
-1070,"Green River, WY",Green River,Wyoming,Sweetwater,2025,12511875.9962327,109,802,city_1070_wyoming_green_river,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1070,2015,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,31,34,city_1070_wyoming_green_river,236.90625,6.1875,14.6351351351351,semiarid,12
+1070,2016,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,21,21,city_1070_wyoming_green_river,208.787500858307,6.12760416666667,12.9459713110915,semiarid,12
+1070,2017,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,98,574,city_1070_wyoming_green_river,177.156249523163,5.74479166666667,11.2517366551265,semiarid,12
+1070,2018,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,58,252,city_1070_wyoming_green_river,174.850000858307,5.44791666666667,11.3186784102478,semiarid,12
+1070,2019,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,66,167,city_1070_wyoming_green_river,219.587500572205,4.4375,15.209523849157,semiarid,12
+1070,2020,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,67,308,city_1070_wyoming_green_river,128.887499570847,5.7734375,8.17117382123247,arid,12
+1070,2021,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,84,442,city_1070_wyoming_green_river,204.181247711182,6.15364583333333,12.6399482703682,semiarid,12
+1070,2022,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,65,180,city_1070_wyoming_green_river,191.725003242493,5.203125,12.6108943551074,semiarid,12
+1070,2023,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,117,1017,city_1070_wyoming_green_river,223.981248378754,5.4296875,14.5162530594838,semiarid,12
+1070,2024,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,100,803,city_1070_wyoming_green_river,174.293749332428,6.75520833333333,10.4023624096444,semiarid,12
+1070,2025,"Green River, WY",Green River,Wyoming,Sweetwater,99.9999999999987,109,802,city_1070_wyoming_green_river,,,,,

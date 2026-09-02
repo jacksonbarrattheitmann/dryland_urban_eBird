@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2654,"Vernon, TX",Vernon,Texas,Wilbarger,2017,14310750.6613955,15,15,city_2654_texas_vernon,652.9562559127808,18.5234375,22.89192022920732,dry subhumid,12
-2654,"Vernon, TX",Vernon,Texas,Wilbarger,2018,14310750.6613955,16,21,city_2654_texas_vernon,660.53125,17.716145833333332,23.83200225500329,dry subhumid,12
-2654,"Vernon, TX",Vernon,Texas,Wilbarger,2020,14310750.6613955,14,17,city_2654_texas_vernon,609.9812526702881,18.010416666666668,21.776943196856696,dry subhumid,12
-2654,"Vernon, TX",Vernon,Texas,Wilbarger,2021,14310750.6613955,18,29,city_2654_texas_vernon,610.9687457084656,17.890625,21.905882199071034,dry subhumid,12
-2654,"Vernon, TX",Vernon,Texas,Wilbarger,2022,14310750.6613955,9,11,city_2654_texas_vernon,469.5999984741211,18.197916666666668,16.653712542857637,semiarid,12
-2654,"Vernon, TX",Vernon,Texas,Wilbarger,2023,14310750.6613955,7,11,city_2654_texas_vernon,623.962513923645,18.723958333333332,21.722720339680844,dry subhumid,12
-2654,"Vernon, TX",Vernon,Texas,Wilbarger,2024,14310750.6613955,12,24,city_2654_texas_vernon,648.9374885559082,19.140625,22.269168508084785,dry subhumid,12
-2654,"Vernon, TX",Vernon,Texas,Wilbarger,2025,14310750.6613955,8,11,city_2654_texas_vernon,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2654,2017,"Vernon, TX",Vernon,Texas,Wilbarger,99.999999999999,15,15,city_2654_texas_vernon,652.956255912781,18.5234375,22.8919202292073,dry subhumid,12
+2654,2018,"Vernon, TX",Vernon,Texas,Wilbarger,99.999999999999,16,21,city_2654_texas_vernon,660.53125,17.7161458333333,23.8320022550033,dry subhumid,12
+2654,2020,"Vernon, TX",Vernon,Texas,Wilbarger,99.999999999999,14,17,city_2654_texas_vernon,609.981252670288,18.0104166666667,21.7769431968567,dry subhumid,12
+2654,2021,"Vernon, TX",Vernon,Texas,Wilbarger,99.999999999999,18,29,city_2654_texas_vernon,610.968745708466,17.890625,21.905882199071,dry subhumid,12
+2654,2022,"Vernon, TX",Vernon,Texas,Wilbarger,99.999999999999,9,11,city_2654_texas_vernon,469.599998474121,18.1979166666667,16.6537125428576,semiarid,12
+2654,2023,"Vernon, TX",Vernon,Texas,Wilbarger,99.999999999999,7,11,city_2654_texas_vernon,623.962513923645,18.7239583333333,21.7227203396808,dry subhumid,12
+2654,2024,"Vernon, TX",Vernon,Texas,Wilbarger,99.999999999999,12,24,city_2654_texas_vernon,648.937488555908,19.140625,22.2691685080848,dry subhumid,12
+2654,2025,"Vernon, TX",Vernon,Texas,Wilbarger,99.999999999999,8,11,city_2654_texas_vernon,,,,,

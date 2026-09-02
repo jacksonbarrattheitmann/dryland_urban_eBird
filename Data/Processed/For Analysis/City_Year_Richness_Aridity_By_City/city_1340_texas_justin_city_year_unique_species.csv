@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1340,"Justin, TX",Justin,Texas,Denton,2015,4237640.14670257,18,23,city_1340_texas_justin,1156.0250129699707,18.859375,40.057174244763466,humid,12
-1340,"Justin, TX",Justin,Texas,Denton,2016,4237640.14670257,28,78,city_1340_texas_justin,973.118761062622,19.630208333333332,32.84211673827095,humid,12
-1340,"Justin, TX",Justin,Texas,Denton,2017,4237640.14670257,22,33,city_1340_texas_justin,829.8375072479248,19.651041666666668,27.98679104015485,dry subhumid,12
-1340,"Justin, TX",Justin,Texas,Denton,2018,4237640.14670257,9,9,city_1340_texas_justin,978.4624996185304,18.65625,34.14482005211883,humid,12
-1340,"Justin, TX",Justin,Texas,Denton,2021,4237640.14670257,34,51,city_1340_texas_justin,898.1875133514404,18.71875,31.27529970320576,humid,12
-1340,"Justin, TX",Justin,Texas,Denton,2022,4237640.14670257,22,28,city_1340_texas_justin,715.9500064849854,19.106770833333332,24.59736982108208,dry subhumid,12
-1340,"Justin, TX",Justin,Texas,Denton,2024,4237640.14670257,42,65,city_1340_texas_justin,986.3624992370604,20.151041666666668,32.71404385101324,humid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1340,2015,"Justin, TX",Justin,Texas,Denton,100,18,23,city_1340_texas_justin,1156.02501296997,18.859375,40.0571742447635,humid,12
+1340,2016,"Justin, TX",Justin,Texas,Denton,100,28,78,city_1340_texas_justin,973.118761062622,19.6302083333333,32.842116738271,humid,12
+1340,2017,"Justin, TX",Justin,Texas,Denton,100,22,33,city_1340_texas_justin,829.837507247925,19.6510416666667,27.9867910401549,dry subhumid,12
+1340,2018,"Justin, TX",Justin,Texas,Denton,100,9,9,city_1340_texas_justin,978.46249961853,18.65625,34.1448200521188,humid,12
+1340,2021,"Justin, TX",Justin,Texas,Denton,100,34,51,city_1340_texas_justin,898.187513351441,18.71875,31.2752997032058,humid,12
+1340,2022,"Justin, TX",Justin,Texas,Denton,100,22,28,city_1340_texas_justin,715.950006484985,19.1067708333333,24.5973698210821,dry subhumid,12
+1340,2024,"Justin, TX",Justin,Texas,Denton,100,42,65,city_1340_texas_justin,986.36249923706,20.1510416666667,32.7140438510132,humid,12

@@ -1,4 +1,4 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1577,"Madill, OK",Madill,Oklahoma,Marshall,2019,6000801.76567434,5,5,city_1577_oklahoma_madill,1189.4249935150146,17.309895833333332,43.55289382185236,humid,12
-1577,"Madill, OK",Madill,Oklahoma,Marshall,2020,6000801.76567434,1,1,city_1577_oklahoma_madill,1138.6624794006348,17.658854166666668,41.16810018734994,humid,12
-1577,"Madill, OK",Madill,Oklahoma,Marshall,2022,6000801.76567434,3,3,city_1577_oklahoma_madill,868.118745803833,17.778645833333332,31.251298245867805,humid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1577,2019,"Madill, OK",Madill,Oklahoma,Marshall,99.9999999999991,5,5,city_1577_oklahoma_madill,1189.42499351501,17.3098958333333,43.5528938218524,humid,12
+1577,2020,"Madill, OK",Madill,Oklahoma,Marshall,99.9999999999991,1,1,city_1577_oklahoma_madill,1138.66247940063,17.6588541666667,41.1681001873499,humid,12
+1577,2022,"Madill, OK",Madill,Oklahoma,Marshall,99.9999999999991,3,3,city_1577_oklahoma_madill,868.118745803833,17.7786458333333,31.2512982458678,humid,12

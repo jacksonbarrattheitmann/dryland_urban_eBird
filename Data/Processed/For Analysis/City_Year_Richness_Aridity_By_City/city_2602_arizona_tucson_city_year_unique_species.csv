@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2015,917059039.329494,247,71091,city_2602_arizona_tucson,371.3875012397766,22.25,11.515891511310905,semiarid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2016,917059039.329494,243,71779,city_2602_arizona_tucson,294.03749883174896,22.315104166666668,9.099073217132048,arid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2017,917059039.329494,264,95581,city_2602_arizona_tucson,260.32499599456787,22.825520833333332,7.930567113202227,arid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2018,917059039.329494,257,127681,city_2602_arizona_tucson,315.07500553131104,22.380208333333332,9.730481110183646,arid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2019,917059039.329494,256,151314,city_2602_arizona_tucson,281.95000088214874,21.4296875,8.970817825730808,arid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2020,917059039.329494,293,292701,city_2602_arizona_tucson,148.82500040531158,22.5078125,4.578130269617852,extremely arid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2021,917059039.329494,283,318749,city_2602_arizona_tucson,368.9687426090241,22.309895833333332,11.419682208581063,semiarid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2022,917059039.329494,285,288119,city_2602_arizona_tucson,236.2250012755394,21.875,7.410980432173785,arid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2023,917059039.329494,290,330297,city_2602_arizona_tucson,207.20000183582303,21.96875,6.481329480690458,arid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2024,917059039.329494,278,375038,city_2602_arizona_tucson,238.5812492966652,22.8984375,7.252054122529837,arid,12
-2602,"Tucson, AZ",Tucson,Arizona,Pima,2025,917059039.329494,277,433501,city_2602_arizona_tucson,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2602,2015,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,247,71091,city_2602_arizona_tucson,371.387501239777,22.25,11.5158915113109,semiarid,12
+2602,2016,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,243,71779,city_2602_arizona_tucson,294.037498831749,22.3151041666667,9.09907321713205,arid,12
+2602,2017,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,264,95582,city_2602_arizona_tucson,260.324995994568,22.8255208333333,7.93056711320223,arid,12
+2602,2018,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,257,127690,city_2602_arizona_tucson,315.075005531311,22.3802083333333,9.73048111018365,arid,12
+2602,2019,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,256,151313,city_2602_arizona_tucson,281.950000882149,21.4296875,8.97081782573081,arid,12
+2602,2020,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,293,292697,city_2602_arizona_tucson,148.825000405312,22.5078125,4.57813026961785,extremely arid,12
+2602,2021,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,283,318726,city_2602_arizona_tucson,368.968742609024,22.3098958333333,11.4196822085811,semiarid,12
+2602,2022,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,285,288124,city_2602_arizona_tucson,236.225001275539,21.875,7.41098043217379,arid,12
+2602,2023,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,290,330297,city_2602_arizona_tucson,207.200001835823,21.96875,6.48132948069046,arid,12
+2602,2024,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,278,375044,city_2602_arizona_tucson,238.581249296665,22.8984375,7.25205412252984,arid,12
+2602,2025,"Tucson, AZ",Tucson,Arizona,Pima,99.999999999998,277,433583,city_2602_arizona_tucson,,,,,

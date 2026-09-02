@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-640,"Craig, CO",Craig,Colorado,Moffat,2015,14807551.5151391,9,13,city_0640_colorado_craig,526.3000068664551,7.15625,30.676867431195923,humid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2016,14807551.5151391,40,85,city_0640_colorado_craig,452.7937488555908,7.205729166666666,26.316452181102907,dry subhumid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2017,14807551.5151391,33,119,city_0640_colorado_craig,382.48750019073486,7.213541666666666,22.22015129701093,dry subhumid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2018,14807551.5151391,24,65,city_0640_colorado_craig,400.0312509536743,6.911458333333334,23.6544503181723,dry subhumid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2019,14807551.5151391,60,234,city_0640_colorado_craig,464.899995803833,5.7890625,29.44443318302357,dry subhumid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2020,14807551.5151391,59,206,city_0640_colorado_craig,287.4125003814697,6.984375,16.922171135615514,semiarid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2021,14807551.5151391,64,273,city_0640_colorado_craig,444.34375,7.296875,25.689250225835593,dry subhumid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2022,14807551.5151391,75,375,city_0640_colorado_craig,410.4499950408935,6.578125,24.75852938983712,dry subhumid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2023,14807551.5151391,70,356,city_0640_colorado_craig,451.3187561035156,6.640625,27.12150271420188,dry subhumid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2024,14807551.5151391,63,281,city_0640_colorado_craig,390.65000438690186,7.924479166666666,21.794217882401615,dry subhumid,12
-640,"Craig, CO",Craig,Colorado,Moffat,2025,14807551.5151391,50,172,city_0640_colorado_craig,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+640,2015,"Craig, CO",Craig,Colorado,Moffat,100,9,13,city_0640_colorado_craig,526.300006866455,7.15625,30.6768674311959,humid,12
+640,2016,"Craig, CO",Craig,Colorado,Moffat,100,40,85,city_0640_colorado_craig,452.793748855591,7.20572916666667,26.3164521811029,dry subhumid,12
+640,2017,"Craig, CO",Craig,Colorado,Moffat,100,33,119,city_0640_colorado_craig,382.487500190735,7.21354166666667,22.2201512970109,dry subhumid,12
+640,2018,"Craig, CO",Craig,Colorado,Moffat,100,24,65,city_0640_colorado_craig,400.031250953674,6.91145833333333,23.6544503181723,dry subhumid,12
+640,2019,"Craig, CO",Craig,Colorado,Moffat,100,60,234,city_0640_colorado_craig,464.899995803833,5.7890625,29.4444331830236,dry subhumid,12
+640,2020,"Craig, CO",Craig,Colorado,Moffat,100,59,206,city_0640_colorado_craig,287.41250038147,6.984375,16.9221711356155,semiarid,12
+640,2021,"Craig, CO",Craig,Colorado,Moffat,100,64,273,city_0640_colorado_craig,444.34375,7.296875,25.6892502258356,dry subhumid,12
+640,2022,"Craig, CO",Craig,Colorado,Moffat,100,75,375,city_0640_colorado_craig,410.449995040894,6.578125,24.7585293898371,dry subhumid,12
+640,2023,"Craig, CO",Craig,Colorado,Moffat,100,70,356,city_0640_colorado_craig,451.318756103516,6.640625,27.1215027142019,dry subhumid,12
+640,2024,"Craig, CO",Craig,Colorado,Moffat,100,63,281,city_0640_colorado_craig,390.650004386902,7.92447916666667,21.7942178824016,dry subhumid,12
+640,2025,"Craig, CO",Craig,Colorado,Moffat,100,50,172,city_0640_colorado_craig,,,,,

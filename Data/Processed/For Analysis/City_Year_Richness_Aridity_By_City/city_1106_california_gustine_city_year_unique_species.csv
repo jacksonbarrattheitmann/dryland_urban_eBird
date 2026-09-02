@@ -1,4 +1,4 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1106,"Gustine, CA",Gustine,California,Merced,2016,3009118.18684341,5,5,city_1106_california_gustine,323.6625042259693,17.96875,11.572290653889404,semiarid,12
-1106,"Gustine, CA",Gustine,California,Merced,2018,3009118.18684341,2,2,city_1106_california_gustine,271.7812470495701,17.9375,9.728187813854856,arid,12
-1106,"Gustine, CA",Gustine,California,Merced,2023,3009118.18684341,5,5,city_1106_california_gustine,345.26875165104866,17.098958333333332,12.741034079761937,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1106,2016,"Gustine, CA",Gustine,California,Merced,99.9999999999884,5,5,city_1106_california_gustine,323.662504225969,17.96875,11.5722906538894,semiarid,12
+1106,2018,"Gustine, CA",Gustine,California,Merced,99.9999999999884,2,2,city_1106_california_gustine,271.78124704957,17.9375,9.72818781385486,arid,12
+1106,2023,"Gustine, CA",Gustine,California,Merced,99.9999999999884,5,5,city_1106_california_gustine,345.268751651049,17.0989583333333,12.7410340797619,semiarid,12

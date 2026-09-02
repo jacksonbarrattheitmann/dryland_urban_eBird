@@ -1,17 +1,17 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24600626,L3835598,Crossing Runnels County via 158 and 83,2015-08-02,2015,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,30,48.28,1,31.7385598,-99.9467468,9,9,city_0145_texas_ballinger
-S24294417,L3796480,Texas-Runnels Co.-Ballinger,2015-06-14,2015,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,24,9.656,1,31.7386426,-99.9466825,4,4,city_0145_texas_ballinger
-S37238126,L3761463,Ballinger,2017-05-29,2017,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,10,3.219,1,31.7383871,-99.9464464,8,8,city_0145_texas_ballinger
-S57488064,L6182610,Ballinger (town),2019-06-18,2019,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,8,3.588,1,31.7383141,-99.9468756,19,19,city_0145_texas_ballinger
-S58130173,L9630650,"1500 North 11th Street, Ballinger, Texas, US (31.745, -99.966)",2019-07-12,2019,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,9,1.118,1,31.7452188,-99.9655134,7,7,city_0145_texas_ballinger
-S95822817,L16587837,"Auto selected 31.75053, -99.96154",2021-10-09,2021,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,11,3.323,1,31.750534,-99.961543,4,4,city_0145_texas_ballinger
-S95020161,L8441554,"(31.7391,-99.9467)",2021-09-22,2021,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,7,11.196,1,31.739146,-99.946653,5,5,city_0145_texas_ballinger
-S120568629,L21219938,"108 North Broadway Street, Ballinger, Texas, US (31.739, -99.946)",2022-10-12,2022,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,10,,1,31.7392976,-99.9461961,2,2,city_0145_texas_ballinger
-S136513760,L24119423,Town of Ballinger,2023-05-07,2023,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,37,6.329,1,31.74954,-99.950329,15,15,city_0145_texas_ballinger
-S126306039,L22229086,"1207 Hutchings Ave, Ballinger US-TX 31.73425, -99.95245",2023-01-16,2023,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,23,7.688,1,31.73425,-99.952452,2,2,city_0145_texas_ballinger
-S129502400,L22789500,Nancy Blackwell’s Barn,2023-02-20,2023,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,12,,1,31.754774,-99.962737,9,9,city_0145_texas_ballinger
-S155980922,L28216335,"682–698 Davis Ave, Ballinger US-TX 31.73494, -99.94417",2023-12-08,2023,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,14,1.937,1,31.734937,-99.944167,4,4,city_0145_texas_ballinger
-S177340639,L32382702,"Runnels-Ballinger, Texas, US (31.741, -99.953)",2024-05-26,2024,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,6,1.782,1,31.7406559,-99.9526893,6,6,city_0145_texas_ballinger
-S172453628,L31365108,"417 Hutchings Avenue, Ballinger, Texas, US (31.74, -99.944)",2024-05-06,2024,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,5,,1,31.7403128,-99.9439312,8,8,city_0145_texas_ballinger
-S221849648,L41883793,"608 S Strong Ave, Ballinger US-TX (31.7380,-99.9459)",2025-03-30,2025,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,9,,1,31.738014,-99.945936,11,11,city_0145_texas_ballinger
-S255670501,L48819089,"607 North Broadway Street, Ballinger, Texas, US (31.744, -99.952)",2025-06-30,2025,145,"Ballinger, TX",Ballinger,Texas,Runnels,5188108.5466657,5,3.195,1,31.7442791,-99.9517235,8,8,city_0145_texas_ballinger
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24294417,L3796480,Texas-Runnels Co.-Ballinger,2015-06-14,2015,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,24,9.656,1,Traveling,31.7386426,-99.9466825,4,4,city_0145_texas_ballinger
+S24600626,L3835598,Crossing Runnels County via 158 and 83,2015-08-02,2015,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,30,48.28,1,Traveling,31.7385598,-99.9467468,9,9,city_0145_texas_ballinger
+S37238126,L3761463,Ballinger,2017-05-29,2017,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,10,3.219,1,Traveling,31.7383871,-99.9464464,8,8,city_0145_texas_ballinger
+S57488064,L6182610,Ballinger (town),2019-06-18,2019,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,8,3.588,1,Traveling,31.7383141,-99.9468756,19,19,city_0145_texas_ballinger
+S58130173,L9630650,"1500 North 11th Street, Ballinger, Texas, US (31.745, -99.966)",2019-07-12,2019,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,9,1.118,1,Traveling,31.7452188,-99.9655134,7,7,city_0145_texas_ballinger
+S95020161,L8441554,"(31.7391,-99.9467)",2021-09-22,2021,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,7,11.196,1,Traveling,31.739146,-99.946653,5,5,city_0145_texas_ballinger
+S95822817,L16587837,"Auto selected 31.75053, -99.96154",2021-10-09,2021,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,11,3.323,1,Traveling,31.750534,-99.961543,4,4,city_0145_texas_ballinger
+S120568629,L21219938,"108 North Broadway Street, Ballinger, Texas, US (31.739, -99.946)",2022-10-12,2022,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,10,,1,Stationary,31.7392976,-99.9461961,2,2,city_0145_texas_ballinger
+S126306039,L22229086,"1207 Hutchings Ave, Ballinger US-TX 31.73425, -99.95245",2023-01-16,2023,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,23,7.688,1,Traveling,31.73425,-99.952452,2,2,city_0145_texas_ballinger
+S129502400,L22789500,Nancy Blackwell’s Barn,2023-02-20,2023,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,12,,1,Stationary,31.754774,-99.962737,9,9,city_0145_texas_ballinger
+S136513760,L24119423,Town of Ballinger,2023-05-07,2023,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,37,6.329,1,Traveling,31.74954,-99.950329,15,15,city_0145_texas_ballinger
+S155980922,L28216335,"682–698 Davis Ave, Ballinger US-TX 31.73494, -99.94417",2023-12-08,2023,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,14,1.937,1,Traveling,31.734937,-99.944167,4,4,city_0145_texas_ballinger
+S172453628,L31365108,"417 Hutchings Avenue, Ballinger, Texas, US (31.74, -99.944)",2024-05-06,2024,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,5,,1,Stationary,31.7403128,-99.9439312,8,8,city_0145_texas_ballinger
+S177340639,L32382702,"Runnels-Ballinger, Texas, US (31.741, -99.953)",2024-05-26,2024,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,6,1.782,1,Traveling,31.7406559,-99.9526893,6,6,city_0145_texas_ballinger
+S221849648,L41883793,"608 S Strong Ave, Ballinger US-TX (31.7380,-99.9459)",2025-03-30,2025,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,9,,1,Stationary,31.738014,-99.945936,11,11,city_0145_texas_ballinger
+S255670501,L48819089,"607 North Broadway Street, Ballinger, Texas, US (31.744, -99.952)",2025-06-30,2025,145,"Ballinger, TX",Ballinger,Texas,Runnels,100,5,3.195,1,Traveling,31.7442791,-99.9517235,8,8,city_0145_texas_ballinger

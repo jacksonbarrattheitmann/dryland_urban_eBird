@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2516,"Superior, AZ",Superior,Arizona,Pinal,2016,3232816.43833705,7,7,city_2516_arizona_superior,416.8187522888184,20.315104166666668,13.74954049299083,semiarid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2017,3232816.43833705,21,30,city_2516_arizona_superior,314.8625020980835,20.877604166666668,10.197115695847522,semiarid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2018,3232816.43833705,21,29,city_2516_arizona_superior,399.98749327659607,20.489583333333332,13.118824514708994,semiarid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2019,3232816.43833705,27,73,city_2516_arizona_superior,492.3625031709671,19.520833333333332,16.678475760202133,semiarid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2020,3232816.43833705,81,1778,city_2516_arizona_superior,269.0062487125397,20.5078125,8.817618395699125,arid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2021,3232816.43833705,77,1066,city_2516_arizona_superior,421.93749475479126,20.3515625,13.901672928857987,semiarid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2022,3232816.43833705,50,193,city_2516_arizona_superior,336.5000035762787,19.916666666666668,11.247910983051096,semiarid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2023,3232816.43833705,51,142,city_2516_arizona_superior,333.6562534570694,19.9921875,11.124772191327136,semiarid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2024,3232816.43833705,66,345,city_2516_arizona_superior,376.5312457084656,20.942708333333332,12.168658336311294,semiarid,12
-2516,"Superior, AZ",Superior,Arizona,Pinal,2025,3232816.43833705,42,142,city_2516_arizona_superior,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2516,2016,"Superior, AZ",Superior,Arizona,Pinal,100,7,7,city_2516_arizona_superior,416.818752288818,20.3151041666667,13.7495404929908,semiarid,12
+2516,2017,"Superior, AZ",Superior,Arizona,Pinal,100,21,30,city_2516_arizona_superior,314.862502098084,20.8776041666667,10.1971156958475,semiarid,12
+2516,2018,"Superior, AZ",Superior,Arizona,Pinal,100,21,29,city_2516_arizona_superior,399.987493276596,20.4895833333333,13.118824514709,semiarid,12
+2516,2019,"Superior, AZ",Superior,Arizona,Pinal,100,27,73,city_2516_arizona_superior,492.362503170967,19.5208333333333,16.6784757602021,semiarid,12
+2516,2020,"Superior, AZ",Superior,Arizona,Pinal,100,81,1778,city_2516_arizona_superior,269.00624871254,20.5078125,8.81761839569913,arid,12
+2516,2021,"Superior, AZ",Superior,Arizona,Pinal,100,77,1066,city_2516_arizona_superior,421.937494754791,20.3515625,13.901672928858,semiarid,12
+2516,2022,"Superior, AZ",Superior,Arizona,Pinal,100,50,193,city_2516_arizona_superior,336.500003576279,19.9166666666667,11.2479109830511,semiarid,12
+2516,2023,"Superior, AZ",Superior,Arizona,Pinal,100,51,142,city_2516_arizona_superior,333.656253457069,19.9921875,11.1247721913271,semiarid,12
+2516,2024,"Superior, AZ",Superior,Arizona,Pinal,100,66,345,city_2516_arizona_superior,376.531245708466,20.9427083333333,12.1686583363113,semiarid,12
+2516,2025,"Superior, AZ",Superior,Arizona,Pinal,100,42,142,city_2516_arizona_superior,,,,,

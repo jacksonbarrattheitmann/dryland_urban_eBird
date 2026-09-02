@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2015,9493833.18851468,79,351,city_0626_colorado_cortez,508.256254196167,10.2578125,25.08939473085591,dry subhumid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2016,9493833.18851468,76,265,city_0626_colorado_cortez,363.72499895095825,10.127604166666666,18.07095349943951,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2017,9493833.18851468,81,391,city_0626_colorado_cortez,265.3374996185303,10.791666666666666,12.761723428546548,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2018,9493833.18851468,106,665,city_0626_colorado_cortez,356.00625133514404,10.302083333333332,17.535454144778775,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2019,9493833.18851468,80,407,city_0626_colorado_cortez,367.45624828338623,9.247395833333334,19.091218961009375,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2020,9493833.18851468,129,1368,city_0626_colorado_cortez,252.21875047683716,10.354166666666668,12.391504629363544,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2021,9493833.18851468,104,1057,city_0626_colorado_cortez,375.9124970436096,10.369791666666668,18.4544104915298,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2022,9493833.18851468,116,1864,city_0626_colorado_cortez,387.1437511444092,9.8828125,19.471277071310165,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2023,9493833.18851468,119,1371,city_0626_colorado_cortez,327.3124990463257,9.911458333333332,16.438399115065273,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2024,9493833.18851468,123,1635,city_0626_colorado_cortez,354.2249994277954,11.083333333333332,16.80118574361085,semiarid,12
-626,"Cortez, CO",Cortez,Colorado,Montezuma,2025,9493833.18851468,126,1513,city_0626_colorado_cortez,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+626,2015,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,79,351,city_0626_colorado_cortez,508.256254196167,10.2578125,25.0893947308559,dry subhumid,12
+626,2016,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,76,265,city_0626_colorado_cortez,363.724998950958,10.1276041666667,18.0709534994395,semiarid,12
+626,2017,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,80,379,city_0626_colorado_cortez,265.33749961853,10.7916666666667,12.7617234285465,semiarid,12
+626,2018,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,106,665,city_0626_colorado_cortez,356.006251335144,10.3020833333333,17.5354541447788,semiarid,12
+626,2019,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,80,407,city_0626_colorado_cortez,367.456248283386,9.24739583333333,19.0912189610094,semiarid,12
+626,2020,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,129,1368,city_0626_colorado_cortez,252.218750476837,10.3541666666667,12.3915046293635,semiarid,12
+626,2021,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,104,1057,city_0626_colorado_cortez,375.91249704361,10.3697916666667,18.4544104915298,semiarid,12
+626,2022,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,116,1851,city_0626_colorado_cortez,387.143751144409,9.8828125,19.4712770713102,semiarid,12
+626,2023,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,119,1371,city_0626_colorado_cortez,327.312499046326,9.91145833333333,16.4383991150653,semiarid,12
+626,2024,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,123,1635,city_0626_colorado_cortez,354.224999427795,11.0833333333333,16.8011857436109,semiarid,12
+626,2025,"Cortez, CO",Cortez,Colorado,Montezuma,99.9999999999887,126,1513,city_0626_colorado_cortez,,,,,

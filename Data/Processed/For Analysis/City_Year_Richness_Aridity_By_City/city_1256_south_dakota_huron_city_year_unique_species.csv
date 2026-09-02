@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1256,"Huron, SD",Huron,South Dakota,Beadle,2015,18613404.3184616,12,15,city_1256_south_dakota_huron,641.5999937057495,8.885416666666668,33.97330358287476,humid,12
-1256,"Huron, SD",Huron,South Dakota,Beadle,2016,18613404.3184616,13,20,city_1256_south_dakota_huron,603.3374967575073,9.5625,30.841533380575456,humid,12
-1256,"Huron, SD",Huron,South Dakota,Beadle,2017,18613404.3184616,10,10,city_1256_south_dakota_huron,497.4062504768371,8.671875,26.639330569470776,dry subhumid,12
-1256,"Huron, SD",Huron,South Dakota,Beadle,2018,18613404.3184616,22,30,city_1256_south_dakota_huron,624.2374992370605,7.1484375,36.40200451131834,humid,12
-1256,"Huron, SD",Huron,South Dakota,Beadle,2021,18613404.3184616,1,1,city_1256_south_dakota_huron,502.1312484741211,9.471354166666668,25.788203746698205,dry subhumid,12
-1256,"Huron, SD",Huron,South Dakota,Beadle,2022,18613404.3184616,11,12,city_1256_south_dakota_huron,427.63749742507935,7.9296875,23.850805956605733,dry subhumid,12
-1256,"Huron, SD",Huron,South Dakota,Beadle,2023,18613404.3184616,9,9,city_1256_south_dakota_huron,566.0312476158142,9.0390625,29.729995771368166,dry subhumid,12
-1256,"Huron, SD",Huron,South Dakota,Beadle,2024,18613404.3184616,2,2,city_1256_south_dakota_huron,556.8187427520752,9.8046875,28.115502592609715,dry subhumid,12
-1256,"Huron, SD",Huron,South Dakota,Beadle,2025,18613404.3184616,18,23,city_1256_south_dakota_huron,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1256,2015,"Huron, SD",Huron,South Dakota,Beadle,100,12,15,city_1256_south_dakota_huron,641.59999370575,8.88541666666667,33.9733035828748,humid,12
+1256,2016,"Huron, SD",Huron,South Dakota,Beadle,100,13,20,city_1256_south_dakota_huron,603.337496757507,9.5625,30.8415333805755,humid,12
+1256,2017,"Huron, SD",Huron,South Dakota,Beadle,100,10,10,city_1256_south_dakota_huron,497.406250476837,8.671875,26.6393305694708,dry subhumid,12
+1256,2018,"Huron, SD",Huron,South Dakota,Beadle,100,22,30,city_1256_south_dakota_huron,624.237499237061,7.1484375,36.4020045113183,humid,12
+1256,2021,"Huron, SD",Huron,South Dakota,Beadle,100,1,1,city_1256_south_dakota_huron,502.131248474121,9.47135416666667,25.7882037466982,dry subhumid,12
+1256,2022,"Huron, SD",Huron,South Dakota,Beadle,100,11,12,city_1256_south_dakota_huron,427.637497425079,7.9296875,23.8508059566057,dry subhumid,12
+1256,2023,"Huron, SD",Huron,South Dakota,Beadle,100,9,9,city_1256_south_dakota_huron,566.031247615814,9.0390625,29.7299957713682,dry subhumid,12
+1256,2024,"Huron, SD",Huron,South Dakota,Beadle,100,2,2,city_1256_south_dakota_huron,556.818742752075,9.8046875,28.1155025926097,dry subhumid,12
+1256,2025,"Huron, SD",Huron,South Dakota,Beadle,100,18,23,city_1256_south_dakota_huron,,,,,

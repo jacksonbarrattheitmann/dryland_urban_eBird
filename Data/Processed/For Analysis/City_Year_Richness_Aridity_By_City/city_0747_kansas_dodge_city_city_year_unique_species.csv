@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2015,28109268.693038,47,188,city_0747_kansas_dodge_city,717.3562364578247,13.731770833333332,30.22767417972179,humid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2016,28109268.693038,50,232,city_0747_kansas_dodge_city,616.1500015258789,14.291666666666668,25.364665585971,dry subhumid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2017,28109268.693038,57,394,city_0747_kansas_dodge_city,646.0937526226044,13.817708333333332,27.12661283698667,dry subhumid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2018,28109268.693038,80,1289,city_0747_kansas_dodge_city,560.9812526702881,12.989583333333332,24.401540668938676,dry subhumid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2019,28109268.693038,90,2245,city_0747_kansas_dodge_city,660.6999950408936,12.513020833333332,29.347460739815286,dry subhumid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2020,28109268.693038,92,3193,city_0747_kansas_dodge_city,488.41249656677246,13.5625,20.72838181715745,dry subhumid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2021,28109268.693038,89,2519,city_0747_kansas_dodge_city,503.47499549388885,13.7578125,21.191976133909165,dry subhumid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2022,28109268.693038,114,2561,city_0747_kansas_dodge_city,408.3999948501587,13.3671875,17.47749894377142,semiarid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2023,28109268.693038,96,1287,city_0747_kansas_dodge_city,574.8875017166138,13.609375,24.349966982040556,dry subhumid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2024,28109268.693038,97,2813,city_0747_kansas_dodge_city,481.73750162124634,14.489583333333332,19.671118739106618,semiarid,12
-747,"Dodge City, KS",Dodge City,Kansas,Ford,2025,28109268.693038,127,2916,city_0747_kansas_dodge_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+747,2015,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,47,188,city_0747_kansas_dodge_city,717.356236457825,13.7317708333333,30.2276741797218,humid,12
+747,2016,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,50,232,city_0747_kansas_dodge_city,616.150001525879,14.2916666666667,25.364665585971,dry subhumid,12
+747,2017,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,57,394,city_0747_kansas_dodge_city,646.093752622604,13.8177083333333,27.1266128369867,dry subhumid,12
+747,2018,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,80,1289,city_0747_kansas_dodge_city,560.981252670288,12.9895833333333,24.4015406689387,dry subhumid,12
+747,2019,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,90,2245,city_0747_kansas_dodge_city,660.699995040894,12.5130208333333,29.3474607398153,dry subhumid,12
+747,2020,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,92,3193,city_0747_kansas_dodge_city,488.412496566772,13.5625,20.7283818171575,dry subhumid,12
+747,2021,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,89,2519,city_0747_kansas_dodge_city,503.474995493889,13.7578125,21.1919761339092,dry subhumid,12
+747,2022,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,114,2561,city_0747_kansas_dodge_city,408.399994850159,13.3671875,17.4774989437714,semiarid,12
+747,2023,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,96,1287,city_0747_kansas_dodge_city,574.887501716614,13.609375,24.3499669820406,dry subhumid,12
+747,2024,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,97,2813,city_0747_kansas_dodge_city,481.737501621246,14.4895833333333,19.6711187391066,semiarid,12
+747,2025,"Dodge City, KS",Dodge City,Kansas,Ford,99.9999999999982,127,2916,city_0747_kansas_dodge_city,,,,,

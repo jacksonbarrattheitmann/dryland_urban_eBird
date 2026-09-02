@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1393,"Kuna, ID",Kuna,Idaho,Ada,2016,13722547.2017244,28,48,city_1393_idaho_kuna,272.82499754428864,11.927083333333332,12.442375184917678,semiarid,12
-1393,"Kuna, ID",Kuna,Idaho,Ada,2017,13722547.2017244,14,16,city_1393_idaho_kuna,369.43124294281006,11.1484375,17.468488768629364,semiarid,12
-1393,"Kuna, ID",Kuna,Idaho,Ada,2018,13722547.2017244,36,165,city_1393_idaho_kuna,282.5624988079071,11.505208333333332,13.139258845027408,semiarid,12
-1393,"Kuna, ID",Kuna,Idaho,Ada,2019,13722547.2017244,18,29,city_1393_idaho_kuna,328.6624962091446,10.708333333333334,15.871025973882231,semiarid,12
-1393,"Kuna, ID",Kuna,Idaho,Ada,2020,13722547.2017244,20,26,city_1393_idaho_kuna,327.38750171661377,11.846354166666668,14.985910198972428,semiarid,12
-1393,"Kuna, ID",Kuna,Idaho,Ada,2021,13722547.2017244,13,21,city_1393_idaho_kuna,273.5375008583069,12.291666666666668,12.270841159998811,semiarid,12
-1393,"Kuna, ID",Kuna,Idaho,Ada,2023,13722547.2017244,18,36,city_1393_idaho_kuna,306.11875116825104,11.828125,14.024051592532617,semiarid,12
-1393,"Kuna, ID",Kuna,Idaho,Ada,2024,13722547.2017244,21,42,city_1393_idaho_kuna,358.5125000476837,12.395833333333332,16.008000002129133,semiarid,12
-1393,"Kuna, ID",Kuna,Idaho,Ada,2025,13722547.2017244,18,30,city_1393_idaho_kuna,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1393,2016,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,28,48,city_1393_idaho_kuna,272.824997544289,11.9270833333333,12.4423751849177,semiarid,12
+1393,2017,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,14,16,city_1393_idaho_kuna,369.43124294281,11.1484375,17.4684887686294,semiarid,12
+1393,2018,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,36,165,city_1393_idaho_kuna,282.562498807907,11.5052083333333,13.1392588450274,semiarid,12
+1393,2019,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,18,29,city_1393_idaho_kuna,328.662496209145,10.7083333333333,15.8710259738822,semiarid,12
+1393,2020,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,20,26,city_1393_idaho_kuna,327.387501716614,11.8463541666667,14.9859101989724,semiarid,12
+1393,2021,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,13,21,city_1393_idaho_kuna,273.537500858307,12.2916666666667,12.2708411599988,semiarid,12
+1393,2023,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,18,36,city_1393_idaho_kuna,306.118751168251,11.828125,14.0240515925326,semiarid,12
+1393,2024,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,21,42,city_1393_idaho_kuna,358.512500047684,12.3958333333333,16.0080000021291,semiarid,12
+1393,2025,"Kuna, ID",Kuna,Idaho,Ada,99.9999999999964,18,30,city_1393_idaho_kuna,,,,,

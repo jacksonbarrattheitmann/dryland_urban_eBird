@@ -1,250 +1,256 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25406187,L3956062,Overland trail,2015-09-30,2015,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,60,0.805,1,40.6181611,-103.1774837,12,12,city_2485_colorado_sterling
-S26463903,L692747,Sterling (town),2015-12-26,2015,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,6.437,1,40.6273731,-103.2124329,8,8,city_2485_colorado_sterling
-S37026368,L3015697,Columbine Park,2015-08-25,2015,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,0.966,1,40.6144411,-103.2136989,3,3,city_2485_colorado_sterling
-S24380470,L3015697,Columbine Park,2015-07-25,2015,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,,1,40.6144411,-103.2136989,3,3,city_2485_colorado_sterling
-S29944101,L692747,Sterling (town),2016-05-27,2016,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,43,1.609,1,40.6273731,-103.2124329,23,23,city_2485_colorado_sterling
-S33790826,L5278796,"Sterling, CO",2016-07-01,2016,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,60,8.047,1,40.6176662,-103.1745815,3,3,city_2485_colorado_sterling
-S38456620,L5184938,Overland Trail Recreation Area,2017-08-03,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,30,0.982,1,40.6207445,-103.1820595,19,19,city_2485_colorado_sterling
-S38745946,L692747,Sterling (town),2017-08-19,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,2.366,1,40.6273731,-103.2124329,7,7,city_2485_colorado_sterling
-S37527016,L3015697,Columbine Park,2017-06-11,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.6144411,-103.2136989,6,6,city_2485_colorado_sterling
-S33447144,L1759373,Overland Museum and Park,2017-01-02,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,8,,1,40.6175546,-103.1773281,4,4,city_2485_colorado_sterling
-S40682529,L5184938,Overland Trail Recreation Area,2017-11-23,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,0.161,1,40.6207445,-103.1820595,1,1,city_2485_colorado_sterling
-S41276278,L3015697,Columbine Park,2017-12-23,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,26,2.149,1,40.6144411,-103.2136989,7,7,city_2485_colorado_sterling
-S39290395,L3015697,Columbine Park,2017-09-19,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,0.161,1,40.6144411,-103.2136989,3,3,city_2485_colorado_sterling
-S41174135,L6563770,Sterling CBC east of river,2017-12-14,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,240,8.047,1,40.620576,-103.170433,18,18,city_2485_colorado_sterling
-S33391145,L1759373,Overland Museum and Park,2017-01-02,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,8,,1,40.6175546,-103.1773281,4,4,city_2485_colorado_sterling
-S36154515,L692747,Sterling (town),2017-04-21,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,1.207,1,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
-S40426962,L5184938,Overland Trail Recreation Area,2017-11-10,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,25,0.805,1,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
-S38813584,L6212796,Logan County Visitor Info Center,2017-08-19,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,,1,40.6202641,-103.1797528,2,2,city_2485_colorado_sterling
-S37849799,L6029190,US-Colorado-Sterling-20935-20963 Interstate 76 Business - 40.618x-103.184,2017-06-28,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,8,0.161,1,40.6184119,-103.1836065,1,1,city_2485_colorado_sterling
-S48496609,L7920629,Sterling stops,2018-09-11,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,35,,1,40.6215705,-103.2114225,2,2,city_2485_colorado_sterling
-S46676013,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S46674456,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,3,3,city_2485_colorado_sterling
-S46679541,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S47623406,L5184938,Overland Trail Recreation Area,2018-08-02,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,33,1.127,1,40.6207445,-103.1820595,18,18,city_2485_colorado_sterling
-S45953262,L3015697,Columbine Park,2018-05-23,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,19,0.805,1,40.6144411,-103.2136989,8,8,city_2485_colorado_sterling
-S47066813,L7683814,"Sterling,CO",2018-07-02,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,,1,40.6194467,-103.1818771,1,1,city_2485_colorado_sterling
-S50129489,L5184938,Overland Trail Recreation Area,2018-11-22,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,0.209,1,40.6207445,-103.1820595,3,3,city_2485_colorado_sterling
-S48198920,L3062050,Columbine Park,2018-08-31,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,0.77,1,40.61444,-103.2137,2,2,city_2485_colorado_sterling
-S46680225,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S47095319,L5184938,Overland Trail Recreation Area,2018-07-08,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,18,0.944,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S46131749,L7488093,Logan County Visitor Info Center,2018-05-28,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,14,,1,40.6205113,-103.1796187,3,3,city_2485_colorado_sterling
-S45037544,L4213053,Sterling Rest Area (CDOT),2018-04-22,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,31,,1,40.619972,-103.1799459,10,10,city_2485_colorado_sterling
-S44024078,L5184938,Overland Trail Recreation Area,2018-03-17,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,44,1.545,1,40.6207445,-103.1820595,13,13,city_2485_colorado_sterling
-S43509850,L5184938,Overland Trail Recreation Area,2018-03-09,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,18,1.071,1,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
-S46653183,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S46369231,L7532718,"702 Douglas Street, Sterling, Colorado, US (40.627, -103.236)",2018-06-07,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,42,1.127,1,40.6265471,-103.2356155,13,13,city_2485_colorado_sterling
-S46422514,L6251735,Cheairs Park,2018-06-09,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,12,0.354,1,40.6171135,-103.2155723,7,7,city_2485_colorado_sterling
-S46648458,L7592942,Sterling Quality inn,2018-06-18,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S46678103,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S46675309,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S48469178,L7920629,Sterling stops,2018-09-12,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,,1,40.6215705,-103.2114225,2,2,city_2485_colorado_sterling
-S46907240,L7650974,Visitor center park,2018-06-30,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,0.805,1,40.6236599,-103.1798387,3,3,city_2485_colorado_sterling
-S46683768,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S46674397,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.620209,-103.168463,4,4,city_2485_colorado_sterling
-S44886648,L7273768,"643–673 W Main St, Sterling US-CO (40.6253,-103.2207)",2018-04-20,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,23,3.344,1,40.625269,-103.220654,4,4,city_2485_colorado_sterling
-S55538343,L5184938,Overland Trail Recreation Area,2019-04-28,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,43,2.414,1,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
-S57913475,L9582126,"119 South 2nd Street, Sterling, Colorado, US (40.623, -103.208)",2019-07-04,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,0.402,1,40.6227547,-103.2078329,3,3,city_2485_colorado_sterling
-S51358591,L5184938,Overland Trail Recreation Area,2019-01-05,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,85,2.736,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S59410201,L5184938,Overland Trail Recreation Area,2019-08-31,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,17,0.83,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S58581885,L692747,Sterling (town),2019-07-30,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,185,,1,40.6273731,-103.2124329,21,21,city_2485_colorado_sterling
-S57230693,L3062050,Columbine Park,2019-06-09,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,21,0.991,1,40.61444,-103.2137,9,9,city_2485_colorado_sterling
-S61274104,L692747,Sterling (town),2019-11-08,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,5.81,1,40.6273731,-103.2124329,1,1,city_2485_colorado_sterling
-S56997109,L9393486,"102N County Road 370, Sterling US-CO (40.6203,-103.1798)",2019-05-30,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,,1,40.620348,-103.179778,4,4,city_2485_colorado_sterling
-S72921834,L3015697,Columbine Park,2020-08-28,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,6,0.279,1,40.6144411,-103.2136989,6,6,city_2485_colorado_sterling
-S72546335,L5184938,Overland Trail Recreation Area,2020-08-02,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,60,1.609,1,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
-S71183630,L692747,Sterling (town),2020-07-05,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,35,,1,40.6273731,-103.2124329,14,14,city_2485_colorado_sterling
-S77936633,L13024525,"Sterling US-CO 40.61180, -103.21849",2020-12-24,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,115,,1,40.611805,-103.218486,7,7,city_2485_colorado_sterling
-S69620776,L5184938,Overland Trail Recreation Area,2020-05-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,135,2.414,1,40.6207445,-103.1820595,28,28,city_2485_colorado_sterling
-S70750466,L5184938,Overland Trail Recreation Area,2020-06-23,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,30,,1,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
-S77564067,L5184938,Overland Trail Recreation Area,2020-12-16,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,24,1.11,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S77958586,L13027991,"Sterling US-CO 40.61190, -103.21831",2020-12-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,25,,1,40.611901,-103.218314,6,6,city_2485_colorado_sterling
-S63018304,L193840,Sterling,2020-01-03,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,,1,40.62559,-103.20749,1,1,city_2485_colorado_sterling
-S72152604,L3015697,Columbine Park,2020-08-05,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,9,0.322,1,40.6144411,-103.2136989,7,7,city_2485_colorado_sterling
-S63143180,L5184938,Overland Trail Recreation Area,2020-01-07,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,0.805,1,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
-S71583973,L5184938,Overland Trail Recreation Area,2020-07-14,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,30,0.402,1,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
-S72815156,L692747,Sterling (town),2020-08-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,17,3.219,1,40.6273731,-103.2124329,3,3,city_2485_colorado_sterling
-S77966738,L692747,Sterling (town),2020-12-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,127,,1,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
-S63805323,L10577773,"102 N Riverview Rd, Sterling US-CO (40.6204,-103.1785)",2020-01-26,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,,1,40.620356,-103.178484,4,4,city_2485_colorado_sterling
-S71645821,L5184938,Overland Trail Recreation Area,2020-07-19,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,31,1.094,1,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
-S74193177,L5184938,Overland Trail Recreation Area,2020-09-26,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,0.239,1,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
-S71283854,L692747,Sterling (town),2020-07-08,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,24,,1,40.6273731,-103.2124329,11,11,city_2485_colorado_sterling
-S77958619,L13027991,"Sterling US-CO 40.61190, -103.21831",2020-02-15,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,6,,1,40.611901,-103.218314,10,10,city_2485_colorado_sterling
-S73996495,L5184938,Overland Trail Recreation Area,2020-09-24,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,6,0.196,1,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
-S78001198,L692747,Sterling (town),2020-12-26,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,,1,40.6273731,-103.2124329,7,7,city_2485_colorado_sterling
-S73220447,L12225686,"E Chestnut St, Sterling US-CO 40.61830, -103.18589",2020-09-05,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,31,6.075,1,40.618301,-103.185894,4,4,city_2485_colorado_sterling
-S73403226,L12258596,"102 N Riverview Rd, Sterling US-CO 40.61987, -103.18056",2020-09-09,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,0.07,1,40.619868,-103.180562,3,3,city_2485_colorado_sterling
-S77973017,L692747,Sterling (town),2020-12-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,50,1.813,1,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
-S72889438,L6251735,Cheairs Park,2020-08-27,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,0.499,1,40.6171135,-103.2155723,7,7,city_2485_colorado_sterling
-S73218516,L5184938,Overland Trail Recreation Area,2020-09-05,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,12,0.151,1,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
-S72402591,L12065826,"125 Overland Trail, Sterling US-CO 40.61811, -103.18198",2020-08-14,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,9,,1,40.618107,-103.181979,1,1,city_2485_colorado_sterling
-S83820197,L13022692,"Sterling US-CO (40.6119,-103.2184)",2021-03-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,72,,1,40.611939,-103.218399,8,8,city_2485_colorado_sterling
-S86836154,L14694748,"Logan County Fairground,  Sterling, Colorado, US (40.638, -103.222)",2021-05-01,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,66,1.497,1,40.6379463,-103.2219425,9,9,city_2485_colorado_sterling
-S90494019,L15453245,Overland Trail Recreation Area,2021-06-20,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,40,2.414,1,40.620745,-103.182059,17,17,city_2485_colorado_sterling
-S94987029,L3015697,Columbine Park,2021-09-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,26,,1,40.6144411,-103.2136989,7,7,city_2485_colorado_sterling
-S84819097,L5184938,Overland Trail Recreation Area,2021-04-04,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,65,1.855,1,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
-S83736783,L5184938,Overland Trail Recreation Area,2021-03-20,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,0,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S94298166,L5184938,Overland Trail Recreation Area,2021-09-06,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,19,1.094,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S87831176,L14200099,LOG 916 South 7th Avenue,2021-05-10,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,18,,1,40.6172236,-103.2221471,7,7,city_2485_colorado_sterling
-S89241927,L5184938,Overland Trail Recreation Area,2021-05-29,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,14,0.66,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S79542832,L5184938,Overland Trail Recreation Area,2021-01-19,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,25,1.352,1,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
-S99706057,L692747,Sterling (town),2021-12-30,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,11,0.306,1,40.6273731,-103.2124329,4,4,city_2485_colorado_sterling
-S89687442,L15231794,"125 Overland Trail, Sterling US-CO 40.61775, -103.18187",2021-06-03,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,81,0.328,1,40.61775,-103.181874,5,5,city_2485_colorado_sterling
-S94753983,L16394620,"1550 E Chestnut St, Sterling US-CO 40.61841, -103.18241",2021-08-04,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,35,3.112,1,40.618411,-103.182406,3,3,city_2485_colorado_sterling
-S89992540,L5184938,Overland Trail Recreation Area,2021-06-10,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,39,16.463,1,40.6207445,-103.1820595,30,30,city_2485_colorado_sterling
-S87602785,L5184938,Overland Trail Recreation Area,2021-05-09,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,,1,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
-S83843980,L692747,Sterling (town),2021-03-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,177,,1,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
-S82108139,L692747,Sterling (town),2021-02-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,91,,1,40.6273731,-103.2124329,7,7,city_2485_colorado_sterling
-S78963192,L13024525,"Sterling US-CO 40.61180, -103.21849",2021-01-09,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,49,,1,40.611805,-103.218486,8,8,city_2485_colorado_sterling
-S86887523,L14704947,"2145 Leisure Lane, Sterling, Colorado, US (40.62, -103.169)",2021-05-02,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,33,0.552,1,40.6197969,-103.1687784,5,5,city_2485_colorado_sterling
-S93136708,L5184938,Overland Trail Recreation Area,2021-08-12,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,21,0.941,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S94170416,L3015697,Columbine Park,2021-09-04,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,26,1.054,1,40.6144411,-103.2136989,4,4,city_2485_colorado_sterling
-S90053855,L5184938,Overland Trail Recreation Area,2021-06-12,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,12,0.195,1,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
-S81259217,L692747,Sterling (town),2021-02-13,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,199,,1,40.6273731,-103.2124329,9,9,city_2485_colorado_sterling
-S78499914,L692747,Sterling (town),2021-01-02,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,97,,1,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
-S81426555,L692747,Sterling (town),2021-02-06,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,,1,40.6273731,-103.2124329,1,1,city_2485_colorado_sterling
-S95739776,L5184938,Overland Trail Recreation Area,2021-10-07,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,14,1.2,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S90497485,L15454140,Sterling (town),2021-06-20,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,,1,40.627373,-103.212433,2,2,city_2485_colorado_sterling
-S87399183,L14200099,LOG 916 South 7th Avenue,2021-05-07,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,6,,1,40.6172236,-103.2221471,4,4,city_2485_colorado_sterling
-S104300819,L13027991,"Sterling US-CO 40.61190, -103.21831",2022-03-06,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,101,,1,40.611901,-103.218314,8,8,city_2485_colorado_sterling
-S118473189,L20842511,"125 Overland Trail, Sterling US-CO 40.61790, -103.18173",2022-09-10,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,42,0.404,1,40.617902,-103.181734,17,17,city_2485_colorado_sterling
-S109900466,L3015697,Columbine Park,2022-05-13,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,33,0.925,1,40.6144411,-103.2136989,11,11,city_2485_colorado_sterling
-S118511200,L5184938,Overland Trail Recreation Area,2022-09-11,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,11,0.092,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S111492502,L5184938,Overland Trail Recreation Area,2022-05-28,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,61,1.188,1,40.6207445,-103.1820595,35,35,city_2485_colorado_sterling
-S118864096,L5184938,Overland Trail Recreation Area,2022-09-16,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,27,,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S111972395,L6251735,Cheairs Park,2022-06-02,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,0.763,1,40.6171135,-103.2155723,6,6,city_2485_colorado_sterling
-S124472439,L692747,Sterling (town),2022-12-23,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,60,,1,40.6273731,-103.2124329,7,7,city_2485_colorado_sterling
-S118805109,L3015697,Columbine Park,2022-09-15,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.6144411,-103.2136989,4,4,city_2485_colorado_sterling
-S110692426,L5184938,Overland Trail Recreation Area,2022-05-19,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,8,,1,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
-S113639670,L5184938,Overland Trail Recreation Area,2022-06-23,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,14,0.478,1,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
-S113747439,L5184938,Overland Trail Recreation Area,2022-06-25,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,29,0.419,1,40.6207445,-103.1820595,18,18,city_2485_colorado_sterling
-S122144271,L5184938,Overland Trail Recreation Area,2022-11-09,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,26,1.057,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S107020379,L5184938,Overland Trail Recreation Area,2022-04-14,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,108,3.846,1,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
-S107090886,L5184938,Overland Trail Recreation Area,2022-04-15,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,64,1.465,1,40.6207445,-103.1820595,14,14,city_2485_colorado_sterling
-S124216180,L5184938,Overland Trail Recreation Area,2022-12-18,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,1.11,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S107824856,L5184938,Overland Trail Recreation Area,2022-04-23,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,0.322,1,40.6207445,-103.1820595,13,13,city_2485_colorado_sterling
-S114196227,L5184938,Overland Trail Recreation Area,2022-07-01,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,48,0.348,1,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
-S109149518,L5184938,Overland Trail Recreation Area,2022-05-06,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,17,0.494,1,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
-S113748436,L5184938,Overland Trail Recreation Area,2022-06-25,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,0.22,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S113641767,L5184938,Overland Trail Recreation Area,2022-06-23,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,29,1.181,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S111828590,L5184938,Overland Trail Recreation Area,2022-05-31,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,25,1.061,1,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
-S113318744,L5184938,Overland Trail Recreation Area,2022-06-19,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,13,0.259,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S121060109,L5184938,Overland Trail Recreation Area,2022-10-21,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S103364432,L13027991,"Sterling US-CO 40.61190, -103.21831",2022-02-21,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,,1,40.611901,-103.218314,5,5,city_2485_colorado_sterling
-S103220548,L13027991,"Sterling US-CO 40.61190, -103.21831",2022-02-20,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,112,,1,40.611901,-103.218314,9,9,city_2485_colorado_sterling
-S103066896,L13027991,"Sterling US-CO 40.61190, -103.21831",2022-02-19,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,24,,1,40.611901,-103.218314,5,5,city_2485_colorado_sterling
-S118517591,L20850458,"N 12th Ave, Sterling US-CO 40.62515, -103.22994",2022-09-11,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,26,31.224,1,40.625154,-103.229939,6,6,city_2485_colorado_sterling
-S112890573,L19630202,"Prairie Park, Sterling US-CO 40.63311, -103.21291",2022-06-13,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,12,0.188,1,40.633114,-103.212914,3,3,city_2485_colorado_sterling
-S113221234,L5184938,Overland Trail Recreation Area,2022-05-31,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,0.893,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S117052207,L5184938,Overland Trail Recreation Area,2022-08-16,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,28,1.257,1,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
-S116050750,L692747,Sterling (town),2022-07-30,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,8,10.082,1,40.6273731,-103.2124329,9,9,city_2485_colorado_sterling
-S112987362,L692747,Sterling (town),2022-06-15,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,,1,40.6273731,-103.2124329,15,15,city_2485_colorado_sterling
-S112277240,L19492636,Sterling Rest Area,2022-06-05,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.6203373,-103.1797314,2,2,city_2485_colorado_sterling
-S104735857,L5184938,Overland Trail Recreation Area,2022-03-13,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,11,0.173,1,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
-S128943345,L22696048,"1427 S Fifth Ave, Sterling US-CO 40.61162, -103.21830",2023-02-19,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,150,,1,40.61162,-103.218298,8,8,city_2485_colorado_sterling
-S150196195,L27145686,"1555 East Chestnut Street, Sterling, Colorado, US (40.62, -103.183)",2023-09-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,27,1.062,1,40.6195363,-103.1826086,13,13,city_2485_colorado_sterling
-S142002519,L5184938,Overland Trail Recreation Area,2023-06-17,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,1.014,1,40.6207445,-103.1820595,20,20,city_2485_colorado_sterling
-S138256236,L5184938,Overland Trail Recreation Area,2023-05-17,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,45,1.174,1,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
-S134650317,L5184938,Overland Trail Recreation Area,2023-04-22,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,40,1.49,1,40.6207445,-103.1820595,14,14,city_2485_colorado_sterling
-S134644705,L5184938,Overland Trail Recreation Area,2023-04-22,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,0.423,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S146288652,L26357730,"1480 East Chestnut Street, Sterling, Colorado, US (40.618, -103.183)",2023-08-02,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,,1,40.6181903,-103.1827335,2,2,city_2485_colorado_sterling
-S138724401,L5184938,Overland Trail Recreation Area,2023-05-21,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,31,0.473,1,40.6207445,-103.1820595,35,35,city_2485_colorado_sterling
-S147425098,L5184938,Overland Trail Recreation Area,2023-08-16,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,52,1.177,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S137005333,L5184938,Overland Trail Recreation Area,2023-05-10,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,0.402,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S139644430,L5184938,Overland Trail Recreation Area,2023-05-28,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,36,1.41,1,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
-S140012388,L5184938,Overland Trail Recreation Area,2023-05-31,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,,1,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
-S140101985,L692747,Sterling (town),2023-06-01,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,12,4.269,1,40.6273731,-103.2124329,14,14,city_2485_colorado_sterling
-S128742954,L13024525,"Sterling US-CO 40.61180, -103.21849",2023-02-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,34,,1,40.611805,-103.218486,3,3,city_2485_colorado_sterling
-S150817313,L3015697,Columbine Park,2023-09-26,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,0.762,1,40.6144411,-103.2136989,7,7,city_2485_colorado_sterling
-S126117356,L5184938,Overland Trail Recreation Area,2023-01-14,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,46,1.577,1,40.6207445,-103.1820595,18,18,city_2485_colorado_sterling
-S134026057,L5184938,Overland Trail Recreation Area,2023-04-16,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,0.451,1,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
-S146290230,L5184938,Overland Trail Recreation Area,2023-08-02,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,1.094,1,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
-S138255839,L5184938,Overland Trail Recreation Area,2023-05-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,8,0.113,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S128699698,L13022692,"Sterling US-CO (40.6119,-103.2184)",2023-02-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,84,,1,40.611939,-103.218399,6,6,city_2485_colorado_sterling
-S140778813,L25002227,"Crest Motel, Sterling CO",2023-06-07,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,12,,1,40.620856,-103.211907,7,7,city_2485_colorado_sterling
-S125562133,L5184938,Overland Trail Recreation Area,2023-01-06,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,0.966,1,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
-S131396148,L5184938,Overland Trail Recreation Area,2023-03-20,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,0.402,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S151038295,L5184938,Overland Trail Recreation Area,2023-09-29,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,17,0.161,1,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
-S149087705,L5184938,Overland Trail Recreation Area,2023-09-05,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,51,8.832,1,40.6207445,-103.1820595,1,1,city_2485_colorado_sterling
-S154012756,L5184938,Overland Trail Recreation Area,2023-11-08,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,35,0.483,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S128813511,L13024525,"Sterling US-CO 40.61180, -103.21849",2023-02-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,50,,1,40.611805,-103.218486,5,5,city_2485_colorado_sterling
-S146694793,L5184938,Overland Trail Recreation Area,2023-08-07,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,6,0.161,1,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
-S147749119,L5184938,Overland Trail Recreation Area,2023-08-02,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,0.402,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S155813544,L5184938,Overland Trail Recreation Area,2023-12-05,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,11,0.567,1,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
-S156098814,L5184938,Overland Trail Recreation Area,2023-12-10,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,11,0.388,1,40.6207445,-103.1820595,3,3,city_2485_colorado_sterling
-S157591474,L5184938,Overland Trail Recreation Area,2023-12-31,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,50,0.805,1,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
-S156476966,L5184938,Overland Trail Recreation Area,2023-12-16,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,28,1.255,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S149746742,L5184938,Overland Trail Recreation Area,2023-09-12,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,1.338,1,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
-S163576997,L22696048,"1427 S Fifth Ave, Sterling US-CO 40.61162, -103.21830",2024-03-03,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,77,,1,40.61162,-103.218298,12,12,city_2485_colorado_sterling
-S170068747,L30911447,Sterling Best Western,2024-04-24,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,9,0.311,1,40.61806,-103.181383,11,11,city_2485_colorado_sterling
-S195734197,L3015697,Columbine Park,2024-09-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,45,0.853,1,40.6144411,-103.2136989,9,9,city_2485_colorado_sterling
-S178983317,L5184938,Overland Trail Recreation Area,2024-06-02,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,1.646,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S199506603,L5184938,Overland Trail Recreation Area,2024-10-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,14,0.4,1,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
-S195794565,L5184938,Overland Trail Recreation Area,2024-09-20,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,39,1.014,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S173621891,L5184938,Overland Trail Recreation Area,2024-05-11,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,43,1.17,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S187772342,L5184938,Overland Trail Recreation Area,2024-07-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,48,0.757,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S158040326,L5184938,Overland Trail Recreation Area,2024-01-04,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,1.094,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S197398672,L5184938,Overland Trail Recreation Area,2024-10-03,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,26,1.175,1,40.6207445,-103.1820595,3,3,city_2485_colorado_sterling
-S161725589,L29294214,my yard,2024-02-16,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,80,,1,40.6188812,-103.2228622,10,10,city_2485_colorado_sterling
-S177334534,L5184938,Overland Trail Recreation Area,2024-05-26,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,99,3.932,1,40.6207445,-103.1820595,26,26,city_2485_colorado_sterling
-S195573952,L5184938,Overland Trail Recreation Area,2024-09-18,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,18,0.483,1,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
-S197889188,L5184938,Overland Trail Recreation Area,2024-10-06,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,0.335,1,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
-S180128251,L5184938,Overland Trail Recreation Area,2024-06-08,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,36,1.365,1,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
-S171045630,L5184938,Overland Trail Recreation Area,2024-04-29,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,18,1.014,1,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
-S182375918,L692747,Sterling (town),2024-06-18,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,38,1.739,1,40.6273731,-103.2124329,10,10,city_2485_colorado_sterling
-S162069221,L29294214,my yard,2024-02-18,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,30,,1,40.6188812,-103.2228622,6,6,city_2485_colorado_sterling
-S195695676,L3015697,Columbine Park,2024-09-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,122,1.368,1,40.6144411,-103.2136989,10,10,city_2485_colorado_sterling
-S198074204,L5184938,Overland Trail Recreation Area,2024-10-04,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,140,3.798,1,40.6207445,-103.1820595,19,19,city_2485_colorado_sterling
-S176870133,L5184938,Overland Trail Recreation Area,2024-05-24,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,78,1.448,1,40.6207445,-103.1820595,27,27,city_2485_colorado_sterling
-S184778445,L5184938,Overland Trail Recreation Area,2024-07-01,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,40,0.805,1,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
-S166062390,L5184938,Overland Trail Recreation Area,2024-03-26,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,23,1.08,1,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
-S187455829,L5184938,Overland Trail Recreation Area,2024-07-17,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S175307889,L5184938,Overland Trail Recreation Area,2024-05-18,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,42,1.106,1,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
-S164963833,L692747,Sterling (town),2024-03-15,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,7.641,1,40.6273731,-103.2124329,2,2,city_2485_colorado_sterling
-S179619333,L5184938,Overland Trail Recreation Area,2024-06-05,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,19,1.164,1,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
-S188125914,L5184938,Overland Trail Recreation Area,2024-07-21,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,31,1.562,1,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
-S195677446,L36691068,"2115 Leisure Lane, Sterling, Colorado, US (40.619, -103.17)",2024-09-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,10,0.322,1,40.6194606,-103.1704992,5,5,city_2485_colorado_sterling
-S202314929,L5184938,Overland Trail Recreation Area,2024-06-14,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,0.87,1,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
-S174664289,L5184938,Overland Trail Recreation Area,2024-05-15,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,33,0.917,1,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
-S177652697,L6251735,Cheairs Park,2024-05-27,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,7,,1,40.6171135,-103.2155723,7,7,city_2485_colorado_sterling
-S195699628,L6251735,Cheairs Park,2024-09-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,30,0.418,1,40.6171135,-103.2155723,6,6,city_2485_colorado_sterling
-S174324057,L692747,Sterling (town),2024-05-13,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,9,,1,40.6273731,-103.2124329,3,3,city_2485_colorado_sterling
-S177653286,L6251735,Cheairs Park,2024-05-27,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,,1,40.6171135,-103.2155723,8,8,city_2485_colorado_sterling
-S184356090,L5184938,Overland Trail Recreation Area,2024-06-29,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,9,0.337,1,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
-S164436344,L5184938,Overland Trail Recreation Area,2024-03-11,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,35,0.786,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S167175982,L5184938,Overland Trail Recreation Area,2024-04-04,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,51,1.414,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S166302497,L3015697,Columbine Park,2024-03-27,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,21,0.632,1,40.6144411,-103.2136989,5,5,city_2485_colorado_sterling
-S194849595,L5184938,Overland Trail Recreation Area,2024-09-12,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,28,0.486,1,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
-S196384937,L5184938,Overland Trail Recreation Area,2024-09-24,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,13,0.682,1,40.6207445,-103.1820595,3,3,city_2485_colorado_sterling
-S167176012,L692747,Sterling (town),2024-04-04,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,9,0.106,1,40.6273731,-103.2124329,1,1,city_2485_colorado_sterling
-S252123896,L48009387,"210 South 4th Street, Sterling, Colorado, US (40.623, -103.211)",2025-06-19,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,16,3.01,1,40.6230967,-103.2110633,4,4,city_2485_colorado_sterling
-S259293132,L5184938,Overland Trail Recreation Area,2025-07-11,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,35,0.412,1,40.6207445,-103.1820595,31,31,city_2485_colorado_sterling
-S257870118,L5184938,Overland Trail Recreation Area,2025-07-07,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,13,0.204,1,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
-S257823397,L5184938,Overland Trail Recreation Area,2025-07-07,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,73,2.897,1,40.6207445,-103.1820595,19,19,city_2485_colorado_sterling
-S249284732,L5184938,Overland Trail Recreation Area,2025-06-11,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,12,0.202,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S245019886,L5184938,Overland Trail Recreation Area,2025-05-31,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,43,1.908,1,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
-S290332790,L13027991,"Sterling US-CO 40.61190, -103.21831",2025-12-26,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,107,0.21,1,40.611901,-103.218314,12,12,city_2485_colorado_sterling
-S264478865,L50882663,"421 Chestnut St, Sterling US-CO 40.62707, -103.20944",2025-08-02,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,45,2.659,1,40.627066,-103.209442,5,5,city_2485_colorado_sterling
-S262226222,L5184938,Overland Trail Recreation Area,2025-07-17,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,39,0.372,1,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
-S225913283,L5184938,Overland Trail Recreation Area,2025-04-15,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,24,0.274,1,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
-S223885183,L14704947,"2145 Leisure Lane, Sterling, Colorado, US (40.62, -103.169)",2025-04-08,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,38,0.748,1,40.6197969,-103.1687784,7,7,city_2485_colorado_sterling
-S289603850,L5184938,Overland Trail Recreation Area,2025-12-21,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,37,1.05,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S253118800,L48236049,"12936–12978 County Road 370, Sterling US-CO 40.61793, -103.18211",2025-06-22,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,,1,40.617935,-103.182114,10,10,city_2485_colorado_sterling
-S229532126,L5184938,Overland Trail Recreation Area,2025-04-26,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,43,2.591,1,40.6207445,-103.1820595,28,28,city_2485_colorado_sterling
-S290538889,L13027991,"Sterling US-CO 40.61190, -103.21831",2025-12-27,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,47,0.097,1,40.611901,-103.218314,10,10,city_2485_colorado_sterling
-S226169589,L5184938,Overland Trail Recreation Area,2025-04-16,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,20,0.805,1,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
-S225911484,L5184938,Overland Trail Recreation Area,2025-04-15,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,23,,1,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
-S224126601,L5184938,Overland Trail Recreation Area,2025-04-09,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,107,3.219,1,40.6207445,-103.1820595,13,13,city_2485_colorado_sterling
-S221205118,L5184938,Overland Trail Recreation Area,2025-03-27,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,56,1.6,1,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
-S237470152,L5184938,Overland Trail Recreation Area,2025-05-13,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,6,,1,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
-S264694267,L50882663,"421 Chestnut St, Sterling US-CO 40.62707, -103.20944",2025-08-03,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,62,3.736,1,40.627066,-103.209442,3,3,city_2485_colorado_sterling
-S269677711,L692747,Sterling (town),2025-08-25,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,85,,1,40.6273731,-103.2124329,8,8,city_2485_colorado_sterling
-S290819700,L13027991,"Sterling US-CO 40.61190, -103.21831",2025-12-28,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,99,0.152,1,40.611901,-103.218314,5,5,city_2485_colorado_sterling
-S247359706,L5184938,Overland Trail Recreation Area,2025-06-06,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,55,3.364,1,40.6207445,-103.1820595,20,20,city_2485_colorado_sterling
-S223974772,L5184938,Overland Trail Recreation Area,2025-04-08,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,107,2.897,1,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
-S224067612,L14704947,"2145 Leisure Lane, Sterling, Colorado, US (40.62, -103.169)",2025-04-09,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,25,0.499,1,40.6197969,-103.1687784,6,6,city_2485_colorado_sterling
-S234678347,L44405094,"121 N Riverview Rd, Sterling US-CO 40.62152, -103.18260",2025-05-08,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,21,0.262,1,40.621522,-103.182603,11,11,city_2485_colorado_sterling
-S284398009,L5184938,Overland Trail Recreation Area,2025-11-13,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,13,0.841,1,40.6207445,-103.1820595,1,1,city_2485_colorado_sterling
-S217798205,L5184938,Overland Trail Recreation Area,2025-03-10,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,15,,1,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
-S252453704,L5184938,Overland Trail Recreation Area,2025-06-20,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,16794550.3828077,5,0.057,1,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24380470,L3015697,Columbine Park,2015-07-25,2015,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,,1,Stationary,40.6144411,-103.2136989,3,3,city_2485_colorado_sterling
+S37026368,L3015697,Columbine Park,2015-08-25,2015,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,0.966,1,Traveling,40.6144411,-103.2136989,3,3,city_2485_colorado_sterling
+S25406187,L3956062,Overland trail,2015-09-30,2015,2485,"Sterling, CO",Sterling,Colorado,Logan,100,60,0.805,1,Traveling,40.6181611,-103.1774837,12,12,city_2485_colorado_sterling
+S26463903,L692747,Sterling (town),2015-12-26,2015,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,6.437,1,Traveling,40.6273731,-103.2124329,8,8,city_2485_colorado_sterling
+S29944101,L692747,Sterling (town),2016-05-27,2016,2485,"Sterling, CO",Sterling,Colorado,Logan,100,43,1.609,1,Traveling,40.6273731,-103.2124329,23,23,city_2485_colorado_sterling
+S33790826,L5278796,"Sterling, CO",2016-07-01,2016,2485,"Sterling, CO",Sterling,Colorado,Logan,100,60,8.047,1,Traveling,40.6176662,-103.1745815,3,3,city_2485_colorado_sterling
+S33391145,L1759373,Overland Museum and Park,2017-01-02,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,8,,1,Stationary,40.6175546,-103.1773281,4,4,city_2485_colorado_sterling
+S33447144,L1759373,Overland Museum and Park,2017-01-02,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,8,,1,Stationary,40.6175546,-103.1773281,4,4,city_2485_colorado_sterling
+S36154515,L692747,Sterling (town),2017-04-21,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,1.207,1,Traveling,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
+S37527016,L3015697,Columbine Park,2017-06-11,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.6144411,-103.2136989,6,6,city_2485_colorado_sterling
+S37849799,L6029190,US-Colorado-Sterling-20935-20963 Interstate 76 Business - 40.618x-103.184,2017-06-28,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,8,0.161,1,Traveling,40.6184119,-103.1836065,1,1,city_2485_colorado_sterling
+S38456620,L5184938,Overland Trail Recreation Area,2017-08-03,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,30,0.982,1,Traveling,40.6207445,-103.1820595,19,19,city_2485_colorado_sterling
+S38813584,L6212796,Logan County Visitor Info Center,2017-08-19,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,,1,Stationary,40.6202641,-103.1797528,2,2,city_2485_colorado_sterling
+S38745946,L692747,Sterling (town),2017-08-19,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,2.366,1,Traveling,40.6273731,-103.2124329,7,7,city_2485_colorado_sterling
+S38839391,L6251735,Cheairs Park,2017-08-25,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,30,1.609,1,,40.6171135,-103.2155723,0,0,city_2485_colorado_sterling
+S39290395,L3015697,Columbine Park,2017-09-19,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,0.161,1,Traveling,40.6144411,-103.2136989,3,3,city_2485_colorado_sterling
+S40426962,L5184938,Overland Trail Recreation Area,2017-11-10,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,25,0.805,1,Traveling,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
+S40682529,L5184938,Overland Trail Recreation Area,2017-11-23,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,0.161,1,Traveling,40.6207445,-103.1820595,1,1,city_2485_colorado_sterling
+S41174135,L6563770,Sterling CBC east of river,2017-12-14,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,240,8.047,1,Traveling,40.620576,-103.170433,18,18,city_2485_colorado_sterling
+S41276278,L3015697,Columbine Park,2017-12-23,2017,2485,"Sterling, CO",Sterling,Colorado,Logan,100,26,2.149,1,Traveling,40.6144411,-103.2136989,7,7,city_2485_colorado_sterling
+S43509850,L5184938,Overland Trail Recreation Area,2018-03-09,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,18,1.071,1,Traveling,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+S44024078,L5184938,Overland Trail Recreation Area,2018-03-17,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,44,1.545,1,Traveling,40.6207445,-103.1820595,13,13,city_2485_colorado_sterling
+S44886648,L7273768,"643–673 W Main St, Sterling US-CO (40.6253,-103.2207)",2018-04-20,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,23,3.344,1,Traveling,40.625269,-103.220654,4,4,city_2485_colorado_sterling
+S45037544,L4213053,Sterling Rest Area (CDOT),2018-04-22,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,31,,1,Stationary,40.619972,-103.1799459,10,10,city_2485_colorado_sterling
+S45953262,L3015697,Columbine Park,2018-05-23,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,19,0.805,1,Traveling,40.6144411,-103.2136989,8,8,city_2485_colorado_sterling
+S46131749,L7488093,Logan County Visitor Info Center,2018-05-28,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,14,,1,Stationary,40.6205113,-103.1796187,3,3,city_2485_colorado_sterling
+S46369231,L7532718,"702 Douglas Street, Sterling, Colorado, US (40.627, -103.236)",2018-06-07,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,42,1.127,1,Traveling,40.6265471,-103.2356155,13,13,city_2485_colorado_sterling
+S46422514,L6251735,Cheairs Park,2018-06-09,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,12,0.354,1,Traveling,40.6171135,-103.2155723,7,7,city_2485_colorado_sterling
+S46648458,L7592942,Sterling Quality inn,2018-06-18,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46675309,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46674397,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46653183,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46683768,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46676013,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46679541,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46678103,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46674456,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,3,3,city_2485_colorado_sterling
+S46680225,L7592942,Sterling Quality inn,2018-06-19,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.620209,-103.168463,4,4,city_2485_colorado_sterling
+S46907240,L7650974,Visitor center park,2018-06-30,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,0.805,1,Traveling,40.6236599,-103.1798387,3,3,city_2485_colorado_sterling
+S47066813,L7683814,"Sterling,CO",2018-07-02,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,,1,Stationary,40.6194467,-103.1818771,1,1,city_2485_colorado_sterling
+S47095319,L5184938,Overland Trail Recreation Area,2018-07-08,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,18,0.944,1,Traveling,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S47623406,L5184938,Overland Trail Recreation Area,2018-08-02,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,33,1.127,1,Traveling,40.6207445,-103.1820595,18,18,city_2485_colorado_sterling
+S48198920,L3062050,Columbine Park,2018-08-31,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,0.77,1,Traveling,40.61444,-103.2137,2,2,city_2485_colorado_sterling
+S48496609,L7920629,Sterling stops,2018-09-11,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,35,,1,Stationary,40.6215705,-103.2114225,2,2,city_2485_colorado_sterling
+S48469178,L7920629,Sterling stops,2018-09-12,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.6215705,-103.2114225,2,2,city_2485_colorado_sterling
+S50129489,L5184938,Overland Trail Recreation Area,2018-11-22,2018,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,0.209,1,Traveling,40.6207445,-103.1820595,3,3,city_2485_colorado_sterling
+S51358591,L5184938,Overland Trail Recreation Area,2019-01-05,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,85,2.736,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S55538343,L5184938,Overland Trail Recreation Area,2019-04-28,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,43,2.414,1,Traveling,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
+S56997109,L9393486,"102N County Road 370, Sterling US-CO (40.6203,-103.1798)",2019-05-30,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.620348,-103.179778,4,4,city_2485_colorado_sterling
+S57230693,L3062050,Columbine Park,2019-06-09,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,21,0.991,1,Traveling,40.61444,-103.2137,9,9,city_2485_colorado_sterling
+S57826096,L9563971,"606 Cleveland Street, Sterling, Colorado, US (40.636, -103.208)",2019-06-30,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,173,,1,,40.6363701,-103.2079107,0,0,city_2485_colorado_sterling
+S57913475,L9582126,"119 South 2nd Street, Sterling, Colorado, US (40.623, -103.208)",2019-07-04,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,0.402,1,Traveling,40.6227547,-103.2078329,3,3,city_2485_colorado_sterling
+S58581885,L692747,Sterling (town),2019-07-30,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,185,,1,Stationary,40.6273731,-103.2124329,21,21,city_2485_colorado_sterling
+S59410201,L5184938,Overland Trail Recreation Area,2019-08-31,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,17,0.83,1,Traveling,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S61274104,L692747,Sterling (town),2019-11-08,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,5.81,1,Traveling,40.6273731,-103.2124329,1,1,city_2485_colorado_sterling
+S77926648,L13022692,"Sterling US-CO (40.6119,-103.2184)",2019-12-24,2019,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.611939,-103.218399,0,0,city_2485_colorado_sterling
+S63018304,L193840,Sterling,2020-01-03,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,,1,Stationary,40.62559,-103.20749,1,1,city_2485_colorado_sterling
+S63143180,L5184938,Overland Trail Recreation Area,2020-01-07,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,0.805,1,Traveling,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+S63805323,L10577773,"102 N Riverview Rd, Sterling US-CO (40.6204,-103.1785)",2020-01-26,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,,1,Stationary,40.620356,-103.178484,4,4,city_2485_colorado_sterling
+S77958619,L13027991,"Sterling US-CO 40.61190, -103.21831",2020-02-15,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,6,,1,Stationary,40.611901,-103.218314,10,10,city_2485_colorado_sterling
+S69620776,L5184938,Overland Trail Recreation Area,2020-05-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,135,2.414,1,Traveling,40.6207445,-103.1820595,28,28,city_2485_colorado_sterling
+S70750466,L5184938,Overland Trail Recreation Area,2020-06-23,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,30,,1,Stationary,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
+S71183630,L692747,Sterling (town),2020-07-05,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,35,,1,Stationary,40.6273731,-103.2124329,14,14,city_2485_colorado_sterling
+S71283854,L692747,Sterling (town),2020-07-08,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,24,,1,Stationary,40.6273731,-103.2124329,11,11,city_2485_colorado_sterling
+S71583973,L5184938,Overland Trail Recreation Area,2020-07-14,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,30,0.402,1,Traveling,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
+S71645821,L5184938,Overland Trail Recreation Area,2020-07-19,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,31,1.094,1,Traveling,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
+S72546335,L5184938,Overland Trail Recreation Area,2020-08-02,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,60,1.609,1,Traveling,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
+S72152604,L3015697,Columbine Park,2020-08-05,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,9,0.322,1,Traveling,40.6144411,-103.2136989,7,7,city_2485_colorado_sterling
+S72402591,L12065826,"125 Overland Trail, Sterling US-CO 40.61811, -103.18198",2020-08-14,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,9,,1,Stationary,40.618107,-103.181979,1,1,city_2485_colorado_sterling
+S72815156,L692747,Sterling (town),2020-08-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,17,3.219,1,Traveling,40.6273731,-103.2124329,3,3,city_2485_colorado_sterling
+S72889438,L6251735,Cheairs Park,2020-08-27,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,0.499,1,Traveling,40.6171135,-103.2155723,7,7,city_2485_colorado_sterling
+S72921834,L3015697,Columbine Park,2020-08-28,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,6,0.279,1,Traveling,40.6144411,-103.2136989,6,6,city_2485_colorado_sterling
+S73220447,L12225686,"E Chestnut St, Sterling US-CO 40.61830, -103.18589",2020-09-05,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,31,6.075,1,Traveling,40.618301,-103.185894,4,4,city_2485_colorado_sterling
+S73218516,L5184938,Overland Trail Recreation Area,2020-09-05,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,12,0.151,1,Traveling,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
+S73403226,L12258596,"102 N Riverview Rd, Sterling US-CO 40.61987, -103.18056",2020-09-09,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,0.07,1,Traveling,40.619868,-103.180562,3,3,city_2485_colorado_sterling
+S73996495,L5184938,Overland Trail Recreation Area,2020-09-24,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,6,0.196,1,Traveling,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
+S74193177,L5184938,Overland Trail Recreation Area,2020-09-26,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,0.239,1,Traveling,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
+S77564067,L5184938,Overland Trail Recreation Area,2020-12-16,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,24,1.11,1,Traveling,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S77936633,L13024525,"Sterling US-CO 40.61180, -103.21849",2020-12-24,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,115,,1,Stationary,40.611805,-103.218486,7,7,city_2485_colorado_sterling
+S77958586,L13027991,"Sterling US-CO 40.61190, -103.21831",2020-12-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,25,,1,Stationary,40.611901,-103.218314,6,6,city_2485_colorado_sterling
+S77966738,L692747,Sterling (town),2020-12-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,127,,1,Stationary,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
+S77973017,L692747,Sterling (town),2020-12-25,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,50,1.813,1,Traveling,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
+S78001198,L692747,Sterling (town),2020-12-26,2020,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,,1,Stationary,40.6273731,-103.2124329,7,7,city_2485_colorado_sterling
+S78499914,L692747,Sterling (town),2021-01-02,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,97,,1,Stationary,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
+S78963192,L13024525,"Sterling US-CO 40.61180, -103.21849",2021-01-09,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,49,,1,Stationary,40.611805,-103.218486,8,8,city_2485_colorado_sterling
+S79542832,L5184938,Overland Trail Recreation Area,2021-01-19,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,25,1.352,1,Traveling,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
+S81426555,L692747,Sterling (town),2021-02-06,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.6273731,-103.2124329,1,1,city_2485_colorado_sterling
+S81259217,L692747,Sterling (town),2021-02-13,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,199,,1,Stationary,40.6273731,-103.2124329,9,9,city_2485_colorado_sterling
+S82108139,L692747,Sterling (town),2021-02-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,91,,1,Stationary,40.6273731,-103.2124329,7,7,city_2485_colorado_sterling
+S83736783,L5184938,Overland Trail Recreation Area,2021-03-20,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,0,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S83820197,L13022692,"Sterling US-CO (40.6119,-103.2184)",2021-03-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,72,,1,Stationary,40.611939,-103.218399,8,8,city_2485_colorado_sterling
+S83843980,L692747,Sterling (town),2021-03-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,177,,1,Stationary,40.6273731,-103.2124329,5,5,city_2485_colorado_sterling
+S84819097,L5184938,Overland Trail Recreation Area,2021-04-04,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,65,1.855,1,Traveling,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
+S86038290,L5184938,Overland Trail Recreation Area,2021-04-20,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,,1,Stationary,40.6207445,-103.1820595,0,0,city_2485_colorado_sterling
+S86836154,L14694748,"Logan County Fairground,  Sterling, Colorado, US (40.638, -103.222)",2021-05-01,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,66,1.497,1,Traveling,40.6379463,-103.2219425,9,9,city_2485_colorado_sterling
+S86887523,L14704947,"2145 Leisure Lane, Sterling, Colorado, US (40.62, -103.169)",2021-05-02,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,33,0.552,1,Traveling,40.6197969,-103.1687784,5,5,city_2485_colorado_sterling
+S87399183,L14200099,LOG 916 South 7th Avenue,2021-05-07,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,6,,1,Stationary,40.6172236,-103.2221471,4,4,city_2485_colorado_sterling
+S87602785,L5184938,Overland Trail Recreation Area,2021-05-09,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
+S87831176,L14200099,LOG 916 South 7th Avenue,2021-05-10,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,18,,1,Stationary,40.6172236,-103.2221471,7,7,city_2485_colorado_sterling
+S89241927,L5184938,Overland Trail Recreation Area,2021-05-29,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,14,0.66,1,Traveling,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S89687442,L15231794,"125 Overland Trail, Sterling US-CO 40.61775, -103.18187",2021-06-03,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,81,0.328,1,Traveling,40.61775,-103.181874,5,5,city_2485_colorado_sterling
+S89992540,L5184938,Overland Trail Recreation Area,2021-06-10,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,39,16.463,1,Traveling,40.6207445,-103.1820595,30,30,city_2485_colorado_sterling
+S90053855,L5184938,Overland Trail Recreation Area,2021-06-12,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,12,0.195,1,Traveling,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
+S90494019,L15453245,Overland Trail Recreation Area,2021-06-20,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,40,2.414,1,Traveling,40.620745,-103.182059,17,17,city_2485_colorado_sterling
+S90497485,L15454140,Sterling (town),2021-06-20,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,,1,Stationary,40.627373,-103.212433,2,2,city_2485_colorado_sterling
+S90559664,L15469105,"1550 E Chestnut St, Sterling US-CO 40.61843, -103.18242",2021-06-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,12,0.258,1,,40.618429,-103.182416,0,0,city_2485_colorado_sterling
+S94753983,L16394620,"1550 E Chestnut St, Sterling US-CO 40.61841, -103.18241",2021-08-04,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,35,3.112,1,Traveling,40.618411,-103.182406,3,3,city_2485_colorado_sterling
+S93136708,L5184938,Overland Trail Recreation Area,2021-08-12,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,21,0.941,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S94170416,L3015697,Columbine Park,2021-09-04,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,26,1.054,1,Traveling,40.6144411,-103.2136989,4,4,city_2485_colorado_sterling
+S94298166,L5184938,Overland Trail Recreation Area,2021-09-06,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,19,1.094,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S94987029,L3015697,Columbine Park,2021-09-21,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,26,,1,Stationary,40.6144411,-103.2136989,7,7,city_2485_colorado_sterling
+S95739776,L5184938,Overland Trail Recreation Area,2021-10-07,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,14,1.2,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S99706057,L692747,Sterling (town),2021-12-30,2021,2485,"Sterling, CO",Sterling,Colorado,Logan,100,11,0.306,1,Traveling,40.6273731,-103.2124329,4,4,city_2485_colorado_sterling
+S103066896,L13027991,"Sterling US-CO 40.61190, -103.21831",2022-02-19,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,24,,1,Stationary,40.611901,-103.218314,5,5,city_2485_colorado_sterling
+S103220548,L13027991,"Sterling US-CO 40.61190, -103.21831",2022-02-20,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,112,,1,Stationary,40.611901,-103.218314,9,9,city_2485_colorado_sterling
+S103364432,L13027991,"Sterling US-CO 40.61190, -103.21831",2022-02-21,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,,1,Stationary,40.611901,-103.218314,5,5,city_2485_colorado_sterling
+S104300819,L13027991,"Sterling US-CO 40.61190, -103.21831",2022-03-06,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,101,,1,Stationary,40.611901,-103.218314,8,8,city_2485_colorado_sterling
+S104735857,L5184938,Overland Trail Recreation Area,2022-03-13,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,11,0.173,1,Traveling,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
+S106804192,L692747,Sterling (town),2022-04-11,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,30,,1,,40.6273731,-103.2124329,0,0,city_2485_colorado_sterling
+S107020379,L5184938,Overland Trail Recreation Area,2022-04-14,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,108,3.846,1,Traveling,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
+S107090886,L5184938,Overland Trail Recreation Area,2022-04-15,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,64,1.465,1,Traveling,40.6207445,-103.1820595,14,14,city_2485_colorado_sterling
+S107506646,L18238398,Yard,2022-04-19,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,,40.6426506,-103.2092056,0,0,city_2485_colorado_sterling
+S107824856,L5184938,Overland Trail Recreation Area,2022-04-23,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,0.322,1,Traveling,40.6207445,-103.1820595,13,13,city_2485_colorado_sterling
+S109149518,L5184938,Overland Trail Recreation Area,2022-05-06,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,17,0.494,1,Traveling,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
+S109900466,L3015697,Columbine Park,2022-05-13,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,33,0.925,1,Traveling,40.6144411,-103.2136989,11,11,city_2485_colorado_sterling
+S110692426,L5184938,Overland Trail Recreation Area,2022-05-19,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,8,,1,Stationary,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+S111492502,L5184938,Overland Trail Recreation Area,2022-05-28,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,61,1.188,1,Traveling,40.6207445,-103.1820595,35,35,city_2485_colorado_sterling
+S111828590,L5184938,Overland Trail Recreation Area,2022-05-31,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,25,1.061,1,Traveling,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
+S113221234,L5184938,Overland Trail Recreation Area,2022-05-31,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,0.893,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S111972395,L6251735,Cheairs Park,2022-06-02,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,0.763,1,Traveling,40.6171135,-103.2155723,6,6,city_2485_colorado_sterling
+S112277240,L19492636,Sterling Rest Area,2022-06-05,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.6203373,-103.1797314,2,2,city_2485_colorado_sterling
+S112987362,L692747,Sterling (town),2022-06-15,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,,1,Stationary,40.6273731,-103.2124329,15,15,city_2485_colorado_sterling
+S113318744,L5184938,Overland Trail Recreation Area,2022-06-19,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,13,0.259,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S113641767,L5184938,Overland Trail Recreation Area,2022-06-23,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,29,1.181,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S113639670,L5184938,Overland Trail Recreation Area,2022-06-23,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,14,0.478,1,Traveling,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
+S113748436,L5184938,Overland Trail Recreation Area,2022-06-25,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,0.22,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S113747439,L5184938,Overland Trail Recreation Area,2022-06-25,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,29,0.419,1,Traveling,40.6207445,-103.1820595,18,18,city_2485_colorado_sterling
+S114196227,L5184938,Overland Trail Recreation Area,2022-07-01,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,48,0.348,1,Traveling,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
+S116050750,L692747,Sterling (town),2022-07-30,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,8,10.082,1,Traveling,40.6273731,-103.2124329,9,9,city_2485_colorado_sterling
+S117052207,L5184938,Overland Trail Recreation Area,2022-08-16,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,28,1.257,1,Traveling,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
+S118473189,L20842511,"125 Overland Trail, Sterling US-CO 40.61790, -103.18173",2022-09-10,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,42,0.404,1,Traveling,40.617902,-103.181734,17,17,city_2485_colorado_sterling
+S118517591,L20850458,"N 12th Ave, Sterling US-CO 40.62515, -103.22994",2022-09-11,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,26,31.224,1,Traveling,40.625154,-103.229939,6,6,city_2485_colorado_sterling
+S118511200,L5184938,Overland Trail Recreation Area,2022-09-11,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,11,0.092,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S118805109,L3015697,Columbine Park,2022-09-15,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.6144411,-103.2136989,4,4,city_2485_colorado_sterling
+S118864096,L5184938,Overland Trail Recreation Area,2022-09-16,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,27,,1,Stationary,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S121060109,L5184938,Overland Trail Recreation Area,2022-10-21,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,,1,Stationary,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S122144271,L5184938,Overland Trail Recreation Area,2022-11-09,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,26,1.057,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S124216180,L5184938,Overland Trail Recreation Area,2022-12-18,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,1.11,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S124472439,L692747,Sterling (town),2022-12-23,2022,2485,"Sterling, CO",Sterling,Colorado,Logan,100,60,,1,Stationary,40.6273731,-103.2124329,7,7,city_2485_colorado_sterling
+S125562133,L5184938,Overland Trail Recreation Area,2023-01-06,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,0.966,1,Traveling,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
+S126117356,L5184938,Overland Trail Recreation Area,2023-01-14,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,46,1.577,1,Traveling,40.6207445,-103.1820595,18,18,city_2485_colorado_sterling
+S128699698,L13022692,"Sterling US-CO (40.6119,-103.2184)",2023-02-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,84,,1,Stationary,40.611939,-103.218399,6,6,city_2485_colorado_sterling
+S128813511,L13024525,"Sterling US-CO 40.61180, -103.21849",2023-02-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,50,,1,Stationary,40.611805,-103.218486,5,5,city_2485_colorado_sterling
+S128742954,L13024525,"Sterling US-CO 40.61180, -103.21849",2023-02-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,34,,1,Stationary,40.611805,-103.218486,3,3,city_2485_colorado_sterling
+S128943345,L22696048,"1427 S Fifth Ave, Sterling US-CO 40.61162, -103.21830",2023-02-19,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,150,,1,Stationary,40.61162,-103.218298,8,8,city_2485_colorado_sterling
+S131396148,L5184938,Overland Trail Recreation Area,2023-03-20,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,0.402,1,Traveling,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S134026057,L5184938,Overland Trail Recreation Area,2023-04-16,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,0.451,1,Traveling,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
+S134650317,L5184938,Overland Trail Recreation Area,2023-04-22,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,40,1.49,1,Traveling,40.6207445,-103.1820595,14,14,city_2485_colorado_sterling
+S134644705,L5184938,Overland Trail Recreation Area,2023-04-22,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,0.423,1,Traveling,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S137005333,L5184938,Overland Trail Recreation Area,2023-05-10,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,0.402,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S138256236,L5184938,Overland Trail Recreation Area,2023-05-17,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,45,1.174,1,Traveling,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
+S138255839,L5184938,Overland Trail Recreation Area,2023-05-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,8,0.113,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S138724401,L5184938,Overland Trail Recreation Area,2023-05-21,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,31,0.473,1,Traveling,40.6207445,-103.1820595,35,35,city_2485_colorado_sterling
+S139644430,L5184938,Overland Trail Recreation Area,2023-05-28,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,36,1.41,1,Traveling,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
+S140012388,L5184938,Overland Trail Recreation Area,2023-05-31,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,,1,Stationary,40.6207445,-103.1820595,16,16,city_2485_colorado_sterling
+S140101985,L692747,Sterling (town),2023-06-01,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,12,4.269,1,Traveling,40.6273731,-103.2124329,14,14,city_2485_colorado_sterling
+S140778813,L25002227,"Crest Motel, Sterling CO",2023-06-07,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,12,,1,Stationary,40.620856,-103.211907,7,7,city_2485_colorado_sterling
+S142002519,L5184938,Overland Trail Recreation Area,2023-06-17,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,1.014,1,Traveling,40.6207445,-103.1820595,20,20,city_2485_colorado_sterling
+S146288652,L26357730,"1480 East Chestnut Street, Sterling, Colorado, US (40.618, -103.183)",2023-08-02,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.6181903,-103.1827335,2,2,city_2485_colorado_sterling
+S147749119,L5184938,Overland Trail Recreation Area,2023-08-02,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,0.402,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S146290230,L5184938,Overland Trail Recreation Area,2023-08-02,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,1.094,1,Traveling,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
+S146694793,L5184938,Overland Trail Recreation Area,2023-08-07,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,6,0.161,1,Traveling,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+S147425098,L5184938,Overland Trail Recreation Area,2023-08-16,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,52,1.177,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S149087705,L5184938,Overland Trail Recreation Area,2023-09-05,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,51,8.832,1,Traveling,40.6207445,-103.1820595,1,1,city_2485_colorado_sterling
+S149746742,L5184938,Overland Trail Recreation Area,2023-09-12,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,1.338,1,Traveling,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
+S150196195,L27145686,"1555 East Chestnut Street, Sterling, Colorado, US (40.62, -103.183)",2023-09-18,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,27,1.062,1,Traveling,40.6195363,-103.1826086,13,13,city_2485_colorado_sterling
+S150817313,L3015697,Columbine Park,2023-09-26,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,0.762,1,Traveling,40.6144411,-103.2136989,7,7,city_2485_colorado_sterling
+S151038295,L5184938,Overland Trail Recreation Area,2023-09-29,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,17,0.161,1,Traveling,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
+S154012756,L5184938,Overland Trail Recreation Area,2023-11-08,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,35,0.483,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S155813544,L5184938,Overland Trail Recreation Area,2023-12-05,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,11,0.567,1,Traveling,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+S156098814,L5184938,Overland Trail Recreation Area,2023-12-10,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,11,0.388,1,Traveling,40.6207445,-103.1820595,3,3,city_2485_colorado_sterling
+S156476966,L5184938,Overland Trail Recreation Area,2023-12-16,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,28,1.255,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S157591474,L5184938,Overland Trail Recreation Area,2023-12-31,2023,2485,"Sterling, CO",Sterling,Colorado,Logan,100,50,0.805,1,Traveling,40.6207445,-103.1820595,8,8,city_2485_colorado_sterling
+S158040326,L5184938,Overland Trail Recreation Area,2024-01-04,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,1.094,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S161725589,L29294214,my yard,2024-02-16,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,80,,1,Stationary,40.6188812,-103.2228622,10,10,city_2485_colorado_sterling
+S162069221,L29294214,my yard,2024-02-18,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,30,,1,Stationary,40.6188812,-103.2228622,6,6,city_2485_colorado_sterling
+S163576997,L22696048,"1427 S Fifth Ave, Sterling US-CO 40.61162, -103.21830",2024-03-03,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,77,,1,Stationary,40.61162,-103.218298,12,12,city_2485_colorado_sterling
+S164436344,L5184938,Overland Trail Recreation Area,2024-03-11,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,35,0.786,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S164963833,L692747,Sterling (town),2024-03-15,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,7.641,1,Traveling,40.6273731,-103.2124329,2,2,city_2485_colorado_sterling
+S166062390,L5184938,Overland Trail Recreation Area,2024-03-26,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,23,1.08,1,Traveling,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
+S166302497,L3015697,Columbine Park,2024-03-27,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,21,0.632,1,Traveling,40.6144411,-103.2136989,5,5,city_2485_colorado_sterling
+S167175982,L5184938,Overland Trail Recreation Area,2024-04-04,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,51,1.414,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S167176012,L692747,Sterling (town),2024-04-04,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,9,0.106,1,Traveling,40.6273731,-103.2124329,1,1,city_2485_colorado_sterling
+S170068747,L30911447,Sterling Best Western,2024-04-24,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,9,0.311,1,Traveling,40.61806,-103.181383,11,11,city_2485_colorado_sterling
+S171045630,L5184938,Overland Trail Recreation Area,2024-04-29,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,18,1.014,1,Traveling,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
+S173621891,L5184938,Overland Trail Recreation Area,2024-05-11,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,43,1.17,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S174324057,L692747,Sterling (town),2024-05-13,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,9,,1,Stationary,40.6273731,-103.2124329,3,3,city_2485_colorado_sterling
+S174664289,L5184938,Overland Trail Recreation Area,2024-05-15,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,33,0.917,1,Traveling,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
+S175307889,L5184938,Overland Trail Recreation Area,2024-05-18,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,42,1.106,1,Traveling,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
+S176870133,L5184938,Overland Trail Recreation Area,2024-05-24,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,78,1.448,1,Traveling,40.6207445,-103.1820595,27,27,city_2485_colorado_sterling
+S177334534,L5184938,Overland Trail Recreation Area,2024-05-26,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,99,3.932,1,Traveling,40.6207445,-103.1820595,26,26,city_2485_colorado_sterling
+S177653286,L6251735,Cheairs Park,2024-05-27,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.6171135,-103.2155723,8,8,city_2485_colorado_sterling
+S177652697,L6251735,Cheairs Park,2024-05-27,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.6171135,-103.2155723,7,7,city_2485_colorado_sterling
+S178983317,L5184938,Overland Trail Recreation Area,2024-06-02,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,1.646,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S179619333,L5184938,Overland Trail Recreation Area,2024-06-05,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,19,1.164,1,Traveling,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
+S180128251,L5184938,Overland Trail Recreation Area,2024-06-08,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,36,1.365,1,Traveling,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
+S202314929,L5184938,Overland Trail Recreation Area,2024-06-14,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,0.87,1,Traveling,40.6207445,-103.1820595,17,17,city_2485_colorado_sterling
+S182375918,L692747,Sterling (town),2024-06-18,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,38,1.739,1,Traveling,40.6273731,-103.2124329,10,10,city_2485_colorado_sterling
+S184356090,L5184938,Overland Trail Recreation Area,2024-06-29,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,9,0.337,1,Traveling,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
+S184778445,L5184938,Overland Trail Recreation Area,2024-07-01,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,40,0.805,1,Traveling,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
+S187455829,L5184938,Overland Trail Recreation Area,2024-07-17,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,7,,1,Stationary,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S187772342,L5184938,Overland Trail Recreation Area,2024-07-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,48,0.757,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S188125914,L5184938,Overland Trail Recreation Area,2024-07-21,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,31,1.562,1,Traveling,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
+S194849595,L5184938,Overland Trail Recreation Area,2024-09-12,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,28,0.486,1,Traveling,40.6207445,-103.1820595,5,5,city_2485_colorado_sterling
+S195573952,L5184938,Overland Trail Recreation Area,2024-09-18,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,18,0.483,1,Traveling,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
+S195734197,L3015697,Columbine Park,2024-09-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,45,0.853,1,Traveling,40.6144411,-103.2136989,9,9,city_2485_colorado_sterling
+S195695676,L3015697,Columbine Park,2024-09-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,122,1.368,1,Traveling,40.6144411,-103.2136989,10,10,city_2485_colorado_sterling
+S195677446,L36691068,"2115 Leisure Lane, Sterling, Colorado, US (40.619, -103.17)",2024-09-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,10,0.322,1,Traveling,40.6194606,-103.1704992,5,5,city_2485_colorado_sterling
+S195699628,L6251735,Cheairs Park,2024-09-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,30,0.418,1,Traveling,40.6171135,-103.2155723,6,6,city_2485_colorado_sterling
+S195794565,L5184938,Overland Trail Recreation Area,2024-09-20,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,39,1.014,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S196384937,L5184938,Overland Trail Recreation Area,2024-09-24,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,13,0.682,1,Traveling,40.6207445,-103.1820595,3,3,city_2485_colorado_sterling
+S197398672,L5184938,Overland Trail Recreation Area,2024-10-03,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,26,1.175,1,Traveling,40.6207445,-103.1820595,3,3,city_2485_colorado_sterling
+S198074204,L5184938,Overland Trail Recreation Area,2024-10-04,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,140,3.798,1,Traveling,40.6207445,-103.1820595,19,19,city_2485_colorado_sterling
+S197889188,L5184938,Overland Trail Recreation Area,2024-10-06,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,0.335,1,Traveling,40.6207445,-103.1820595,10,10,city_2485_colorado_sterling
+S199506603,L5184938,Overland Trail Recreation Area,2024-10-19,2024,2485,"Sterling, CO",Sterling,Colorado,Logan,100,14,0.4,1,Traveling,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
+S217798205,L5184938,Overland Trail Recreation Area,2025-03-10,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,15,,1,Stationary,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+S221205118,L5184938,Overland Trail Recreation Area,2025-03-27,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,56,1.6,1,Traveling,40.6207445,-103.1820595,9,9,city_2485_colorado_sterling
+S223885183,L14704947,"2145 Leisure Lane, Sterling, Colorado, US (40.62, -103.169)",2025-04-08,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,38,0.748,1,Traveling,40.6197969,-103.1687784,7,7,city_2485_colorado_sterling
+S223974772,L5184938,Overland Trail Recreation Area,2025-04-08,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,107,2.897,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S224067612,L14704947,"2145 Leisure Lane, Sterling, Colorado, US (40.62, -103.169)",2025-04-09,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,25,0.499,1,Traveling,40.6197969,-103.1687784,6,6,city_2485_colorado_sterling
+S224126601,L5184938,Overland Trail Recreation Area,2025-04-09,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,107,3.219,1,Traveling,40.6207445,-103.1820595,13,13,city_2485_colorado_sterling
+S225911484,L5184938,Overland Trail Recreation Area,2025-04-15,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,23,,1,Stationary,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S225913283,L5184938,Overland Trail Recreation Area,2025-04-15,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,24,0.274,1,Traveling,40.6207445,-103.1820595,6,6,city_2485_colorado_sterling
+S226169589,L5184938,Overland Trail Recreation Area,2025-04-16,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,20,0.805,1,Traveling,40.6207445,-103.1820595,2,2,city_2485_colorado_sterling
+S229532126,L5184938,Overland Trail Recreation Area,2025-04-26,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,43,2.591,1,Traveling,40.6207445,-103.1820595,28,28,city_2485_colorado_sterling
+S234678347,L44405094,"121 N Riverview Rd, Sterling US-CO 40.62152, -103.18260",2025-05-08,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,21,0.262,1,Traveling,40.621522,-103.182603,11,11,city_2485_colorado_sterling
+S237470152,L5184938,Overland Trail Recreation Area,2025-05-13,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,6,,1,Stationary,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+S245019886,L5184938,Overland Trail Recreation Area,2025-05-31,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,43,1.908,1,Traveling,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
+S247359706,L5184938,Overland Trail Recreation Area,2025-06-06,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,55,3.364,1,Traveling,40.6207445,-103.1820595,20,20,city_2485_colorado_sterling
+S249284732,L5184938,Overland Trail Recreation Area,2025-06-11,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,12,0.202,1,Traveling,40.6207445,-103.1820595,11,11,city_2485_colorado_sterling
+S252123896,L48009387,"210 South 4th Street, Sterling, Colorado, US (40.623, -103.211)",2025-06-19,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,16,3.01,1,Traveling,40.6230967,-103.2110633,4,4,city_2485_colorado_sterling
+S252453704,L5184938,Overland Trail Recreation Area,2025-06-20,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,0.057,1,Traveling,40.6207445,-103.1820595,4,4,city_2485_colorado_sterling
+S253118800,L48236049,"12936–12978 County Road 370, Sterling US-CO 40.61793, -103.18211",2025-06-22,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,5,,1,Stationary,40.617935,-103.182114,10,10,city_2485_colorado_sterling
+S257823397,L5184938,Overland Trail Recreation Area,2025-07-07,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,73,2.897,1,Traveling,40.6207445,-103.1820595,19,19,city_2485_colorado_sterling
+S257870118,L5184938,Overland Trail Recreation Area,2025-07-07,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,13,0.204,1,Traveling,40.6207445,-103.1820595,12,12,city_2485_colorado_sterling
+S259293132,L5184938,Overland Trail Recreation Area,2025-07-11,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,35,0.412,1,Traveling,40.6207445,-103.1820595,31,31,city_2485_colorado_sterling
+S262226222,L5184938,Overland Trail Recreation Area,2025-07-17,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,39,0.372,1,Traveling,40.6207445,-103.1820595,15,15,city_2485_colorado_sterling
+S264478865,L50882663,"421 Chestnut St, Sterling US-CO 40.62707, -103.20944",2025-08-02,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,45,2.659,1,Traveling,40.627066,-103.209442,5,5,city_2485_colorado_sterling
+S264694267,L50882663,"421 Chestnut St, Sterling US-CO 40.62707, -103.20944",2025-08-03,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,62,3.736,1,Traveling,40.627066,-103.209442,3,3,city_2485_colorado_sterling
+S269677711,L692747,Sterling (town),2025-08-25,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,85,,1,Stationary,40.6273731,-103.2124329,8,8,city_2485_colorado_sterling
+S284398009,L5184938,Overland Trail Recreation Area,2025-11-13,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,13,0.841,1,Traveling,40.6207445,-103.1820595,1,1,city_2485_colorado_sterling
+S289603850,L5184938,Overland Trail Recreation Area,2025-12-21,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,37,1.05,1,Traveling,40.6207445,-103.1820595,7,7,city_2485_colorado_sterling
+S290332790,L13027991,"Sterling US-CO 40.61190, -103.21831",2025-12-26,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,107,0.21,1,Traveling,40.611901,-103.218314,12,12,city_2485_colorado_sterling
+S290538889,L13027991,"Sterling US-CO 40.61190, -103.21831",2025-12-27,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,47,0.097,1,Traveling,40.611901,-103.218314,10,10,city_2485_colorado_sterling
+S290819700,L13027991,"Sterling US-CO 40.61190, -103.21831",2025-12-28,2025,2485,"Sterling, CO",Sterling,Colorado,Logan,100,99,0.152,1,Traveling,40.611901,-103.218314,5,5,city_2485_colorado_sterling

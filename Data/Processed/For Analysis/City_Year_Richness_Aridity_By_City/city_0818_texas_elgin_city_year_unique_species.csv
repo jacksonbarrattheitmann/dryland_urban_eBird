@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-818,"Elgin, TX",Elgin,Texas,Bastrop,2015,12229417.5343483,39,63,city_0818_texas_elgin,1243.612497329712,20.6796875,40.535370424803446,humid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2016,12229417.5343483,27,27,city_0818_texas_elgin,1165.5562477111816,21.291666666666668,37.24813574576346,humid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2017,12229417.5343483,19,19,city_0818_texas_elgin,766.6750011444092,21.440104166666668,24.38525639356027,dry subhumid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2018,12229417.5343483,27,48,city_0818_texas_elgin,886.4312381744385,20.643229166666668,28.927474756436165,dry subhumid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2019,12229417.5343483,50,116,city_0818_texas_elgin,848.4562492370605,20.611979166666668,27.716478069505,dry subhumid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2020,12229417.5343483,42,84,city_0818_texas_elgin,746.7624998092651,21.096354166666668,24.014471143686276,dry subhumid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2021,12229417.5343483,63,187,city_0818_texas_elgin,890.2000064849854,20.4921875,29.194363522951097,dry subhumid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2022,12229417.5343483,84,344,city_0818_texas_elgin,507.350004196167,20.9609375,16.38677782919742,semiarid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2023,12229417.5343483,86,335,city_0818_texas_elgin,687.4999942779541,21.684895833333332,21.698035489663383,dry subhumid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2024,12229417.5343483,88,538,city_0818_texas_elgin,757.7375049591064,22.036458333333332,23.65234936630604,dry subhumid,12
-818,"Elgin, TX",Elgin,Texas,Bastrop,2025,12229417.5343483,92,379,city_0818_texas_elgin,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+818,2015,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,39,63,city_0818_texas_elgin,1243.61249732971,20.6796875,40.5353704248035,humid,12
+818,2016,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,27,27,city_0818_texas_elgin,1165.55624771118,21.2916666666667,37.2481357457635,humid,12
+818,2017,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,19,19,city_0818_texas_elgin,766.675001144409,21.4401041666667,24.3852563935603,dry subhumid,12
+818,2018,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,27,48,city_0818_texas_elgin,886.431238174439,20.6432291666667,28.9274747564362,dry subhumid,12
+818,2019,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,50,116,city_0818_texas_elgin,848.456249237061,20.6119791666667,27.716478069505,dry subhumid,12
+818,2020,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,42,84,city_0818_texas_elgin,746.762499809265,21.0963541666667,24.0144711436863,dry subhumid,12
+818,2021,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,63,187,city_0818_texas_elgin,890.200006484986,20.4921875,29.1943635229511,dry subhumid,12
+818,2022,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,84,344,city_0818_texas_elgin,507.350004196167,20.9609375,16.3867778291974,semiarid,12
+818,2023,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,86,335,city_0818_texas_elgin,687.499994277954,21.6848958333333,21.6980354896634,dry subhumid,12
+818,2024,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,88,538,city_0818_texas_elgin,757.737504959107,22.0364583333333,23.652349366306,dry subhumid,12
+818,2025,"Elgin, TX",Elgin,Texas,Bastrop,99.9999999999988,92,379,city_0818_texas_elgin,,,,,

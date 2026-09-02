@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2015,82354069.5162693,141,10634,city_1066_montana_great_falls,364.18125438690186,8.674479166666668,19.50154813618328,semiarid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2016,82354069.5162693,154,10418,city_1066_montana_great_falls,443.8937540054322,8.731770833333332,23.697372659264,dry subhumid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2017,82354069.5162693,145,10195,city_1066_montana_great_falls,391.34999799728394,7.549479166666666,22.299806978922252,dry subhumid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2018,82354069.5162693,136,8619,city_1066_montana_great_falls,427.33125019073486,6.9375,25.22988931015409,dry subhumid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2019,82354069.5162693,145,8549,city_1066_montana_great_falls,456.5437488555908,6.424479166666666,27.79654345339256,dry subhumid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2020,82354069.5162693,149,8825,city_1066_montana_great_falls,386.0625047683716,7.96875,21.485217656674592,dry subhumid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2021,82354069.5162693,153,11337,city_1066_montana_great_falls,309.7874975204468,8.283854166666668,16.943227324861354,semiarid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2022,82354069.5162693,146,7074,city_1066_montana_great_falls,384.6062479019165,7.315104166666666,22.212182161879372,dry subhumid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2023,82354069.5162693,124,3735,city_1066_montana_great_falls,441.9312505722046,8.2734375,24.184352318615726,dry subhumid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2024,82354069.5162693,118,1544,city_1066_montana_great_falls,390.88750171661377,8.669270833333332,20.9374809121467,dry subhumid,12
-1066,"Great Falls, MT",Great Falls,Montana,Cascade,2025,82354069.5162693,127,2475,city_1066_montana_great_falls,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1066,2015,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,141,10634,city_1066_montana_great_falls,364.181254386902,8.67447916666667,19.5015481361833,semiarid,12
+1066,2016,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,154,10418,city_1066_montana_great_falls,443.893754005432,8.73177083333333,23.697372659264,dry subhumid,12
+1066,2017,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,145,10195,city_1066_montana_great_falls,391.349997997284,7.54947916666667,22.2998069789223,dry subhumid,12
+1066,2018,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,136,8619,city_1066_montana_great_falls,427.331250190735,6.9375,25.2298893101541,dry subhumid,12
+1066,2019,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,145,8549,city_1066_montana_great_falls,456.543748855591,6.42447916666667,27.7965434533926,dry subhumid,12
+1066,2020,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,149,8825,city_1066_montana_great_falls,386.062504768372,7.96875,21.4852176566746,dry subhumid,12
+1066,2021,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,153,11337,city_1066_montana_great_falls,309.787497520447,8.28385416666667,16.9432273248614,semiarid,12
+1066,2022,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,146,7074,city_1066_montana_great_falls,384.606247901917,7.31510416666667,22.2121821618794,dry subhumid,12
+1066,2023,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,124,3735,city_1066_montana_great_falls,441.931250572205,8.2734375,24.1843523186157,dry subhumid,12
+1066,2024,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,118,1544,city_1066_montana_great_falls,390.887501716614,8.66927083333333,20.9374809121467,dry subhumid,12
+1066,2025,"Great Falls, MT",Great Falls,Montana,Cascade,99.9999999999992,127,2475,city_1066_montana_great_falls,,,,,

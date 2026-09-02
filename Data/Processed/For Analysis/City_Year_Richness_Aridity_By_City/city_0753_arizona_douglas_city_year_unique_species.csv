@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2015,14672367.5825534,13,19,city_0753_arizona_douglas,442.9187531471253,18.502604166666668,15.539588963773054,semiarid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2016,14672367.5825534,9,15,city_0753_arizona_douglas,365.3250021934509,18.549479166666668,12.796205495054744,semiarid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2017,14672367.5825534,12,17,city_0753_arizona_douglas,414.9812520742416,19.111979166666668,14.254656122775632,semiarid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2018,14672367.5825534,10,18,city_0753_arizona_douglas,350.50625598430634,18.671875,12.22474135313112,semiarid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2019,14672367.5825534,23,50,city_0753_arizona_douglas,300.7812464237213,17.723958333333332,10.849145089865582,semiarid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2020,14672367.5825534,59,110,city_0753_arizona_douglas,167.79999923706055,18.802083333333332,5.8259674237822106,arid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2021,14672367.5825534,53,120,city_0753_arizona_douglas,474.4187502861023,18.6328125,16.569058673020763,semiarid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2022,14672367.5825534,31,75,city_0753_arizona_douglas,273.12500166893005,18.208333333333332,9.682422511158526,arid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2023,14672367.5825534,63,183,city_0753_arizona_douglas,231.76249635219577,18.434895833333332,8.150636376888283,arid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2024,14672367.5825534,70,227,city_0753_arizona_douglas,265.0999995470047,19.28125,9.053575224657578,arid,12
-753,"Douglas, AZ",Douglas,Arizona,Cochise,2025,14672367.5825534,38,126,city_0753_arizona_douglas,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+753,2015,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,13,19,city_0753_arizona_douglas,442.918753147125,18.5026041666667,15.5395889637731,semiarid,12
+753,2016,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,9,15,city_0753_arizona_douglas,365.325002193451,18.5494791666667,12.7962054950547,semiarid,12
+753,2017,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,12,17,city_0753_arizona_douglas,414.981252074242,19.1119791666667,14.2546561227756,semiarid,12
+753,2018,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,10,18,city_0753_arizona_douglas,350.506255984306,18.671875,12.2247413531311,semiarid,12
+753,2019,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,23,50,city_0753_arizona_douglas,300.781246423721,17.7239583333333,10.8491450898656,semiarid,12
+753,2020,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,59,110,city_0753_arizona_douglas,167.799999237061,18.8020833333333,5.82596742378221,arid,12
+753,2021,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,53,120,city_0753_arizona_douglas,474.418750286102,18.6328125,16.5690586730208,semiarid,12
+753,2022,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,31,75,city_0753_arizona_douglas,273.12500166893,18.2083333333333,9.68242251115853,arid,12
+753,2023,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,63,183,city_0753_arizona_douglas,231.762496352196,18.4348958333333,8.15063637688828,arid,12
+753,2024,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,70,227,city_0753_arizona_douglas,265.099999547005,19.28125,9.05357522465758,arid,12
+753,2025,"Douglas, AZ",Douglas,Arizona,Cochise,99.9999997703555,38,126,city_0753_arizona_douglas,,,,,

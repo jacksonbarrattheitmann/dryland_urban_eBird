@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2015,80479972.1658536,59,122,city_2112_idaho_pocatello,331.03125381469727,8.997395833333332,17.42508587592101,semiarid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2016,80479972.1658536,67,385,city_2112_idaho_pocatello,320.57500076293945,8.578125,17.255508872016925,semiarid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2017,80479972.1658536,96,890,city_2112_idaho_pocatello,349.01249408721924,8.145833333333332,19.233753979548247,semiarid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2018,80479972.1658536,109,1525,city_2112_idaho_pocatello,308.8499994277954,8.122395833333332,17.042448596101945,semiarid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2019,80479972.1658536,118,2709,city_2112_idaho_pocatello,360.3937511444092,7.078125,21.10265331495168,dry subhumid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2020,80479972.1658536,70,389,city_2112_idaho_pocatello,290.4124984741211,8.4375,15.751186357918431,semiarid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2021,80479972.1658536,73,686,city_2112_idaho_pocatello,310.6187515258789,8.830729166666668,16.495311932780734,semiarid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2022,80479972.1658536,123,1311,city_2112_idaho_pocatello,313.3937463760376,7.776041666666666,17.630119925051048,semiarid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2023,80479972.1658536,126,2398,city_2112_idaho_pocatello,376.09375190734863,7.955729166666666,20.94561286909672,dry subhumid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2024,80479972.1658536,122,1805,city_2112_idaho_pocatello,316.3812475204468,9.049479166666668,16.608393581387773,semiarid,12
-2112,"Pocatello, ID",Pocatello,Idaho,Bannock,2025,80479972.1658536,122,2333,city_2112_idaho_pocatello,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2112,2015,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,59,122,city_2112_idaho_pocatello,331.031253814697,8.99739583333333,17.425085875921,semiarid,12
+2112,2016,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,67,385,city_2112_idaho_pocatello,320.575000762939,8.578125,17.2555088720169,semiarid,12
+2112,2017,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,96,890,city_2112_idaho_pocatello,349.012494087219,8.14583333333333,19.2337539795482,semiarid,12
+2112,2018,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,108,1518,city_2112_idaho_pocatello,308.849999427795,8.12239583333333,17.0424485961019,semiarid,12
+2112,2019,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,118,2709,city_2112_idaho_pocatello,360.393751144409,7.078125,21.1026533149517,dry subhumid,12
+2112,2020,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,70,389,city_2112_idaho_pocatello,290.412498474121,8.4375,15.7511863579184,semiarid,12
+2112,2021,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,73,686,city_2112_idaho_pocatello,310.618751525879,8.83072916666667,16.4953119327807,semiarid,12
+2112,2022,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,123,1311,city_2112_idaho_pocatello,313.393746376038,7.77604166666667,17.630119925051,semiarid,12
+2112,2023,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,126,2398,city_2112_idaho_pocatello,376.093751907349,7.95572916666667,20.9456128690967,dry subhumid,12
+2112,2024,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,122,1805,city_2112_idaho_pocatello,316.381247520447,9.04947916666667,16.6083935813878,semiarid,12
+2112,2025,"Pocatello, ID",Pocatello,Idaho,Bannock,99.9999999999753,122,2333,city_2112_idaho_pocatello,,,,,

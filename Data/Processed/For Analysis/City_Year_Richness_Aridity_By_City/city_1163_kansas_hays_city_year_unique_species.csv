@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1163,"Hays, KS",Hays,Kansas,Ellis,2015,26361591.9152269,37,89,city_1163_kansas_hays,668.7750062942505,13.216145833333332,28.806461291866764,dry subhumid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2016,26361591.9152269,57,293,city_1163_kansas_hays,670.8500022888184,13.783854166666668,28.206109808267406,dry subhumid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2017,26361591.9152269,90,1918,city_1163_kansas_hays,701.6249918937683,13.4609375,29.90609356057354,dry subhumid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2018,26361591.9152269,106,3098,city_1163_kansas_hays,639.618745803833,12.536458333333332,28.38151125360202,dry subhumid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2019,26361591.9152269,87,1875,city_1163_kansas_hays,720.3249998092651,12.057291666666668,32.657001171990295,humid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2020,26361591.9152269,107,3588,city_1163_kansas_hays,542.0749931335449,13.2265625,23.338580262729145,dry subhumid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2021,26361591.9152269,83,3034,city_1163_kansas_hays,575.3124985694885,13.4375,24.54666660563151,dry subhumid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2022,26361591.9152269,95,3168,city_1163_kansas_hays,437.7562494277954,12.96875,19.058775485291772,semiarid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2023,26361591.9152269,127,3918,city_1163_kansas_hays,561.3187522888184,13.2890625,24.102247666208907,dry subhumid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2024,26361591.9152269,97,2758,city_1163_kansas_hays,528.074996471405,14.078125,21.931732494594367,dry subhumid,12
-1163,"Hays, KS",Hays,Kansas,Ellis,2025,26361591.9152269,106,3819,city_1163_kansas_hays,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1163,2015,"Hays, KS",Hays,Kansas,Ellis,100,37,89,city_1163_kansas_hays,668.775006294251,13.2161458333333,28.8064612918668,dry subhumid,12
+1163,2016,"Hays, KS",Hays,Kansas,Ellis,100,57,293,city_1163_kansas_hays,670.850002288818,13.7838541666667,28.2061098082674,dry subhumid,12
+1163,2017,"Hays, KS",Hays,Kansas,Ellis,100,90,1918,city_1163_kansas_hays,701.624991893768,13.4609375,29.9060935605735,dry subhumid,12
+1163,2018,"Hays, KS",Hays,Kansas,Ellis,100,106,3098,city_1163_kansas_hays,639.618745803833,12.5364583333333,28.381511253602,dry subhumid,12
+1163,2019,"Hays, KS",Hays,Kansas,Ellis,100,87,1875,city_1163_kansas_hays,720.324999809265,12.0572916666667,32.6570011719903,humid,12
+1163,2020,"Hays, KS",Hays,Kansas,Ellis,100,107,3588,city_1163_kansas_hays,542.074993133545,13.2265625,23.3385802627291,dry subhumid,12
+1163,2021,"Hays, KS",Hays,Kansas,Ellis,100,83,3034,city_1163_kansas_hays,575.312498569489,13.4375,24.5466666056315,dry subhumid,12
+1163,2022,"Hays, KS",Hays,Kansas,Ellis,100,95,3168,city_1163_kansas_hays,437.756249427795,12.96875,19.0587754852918,semiarid,12
+1163,2023,"Hays, KS",Hays,Kansas,Ellis,100,127,3918,city_1163_kansas_hays,561.318752288818,13.2890625,24.1022476662089,dry subhumid,12
+1163,2024,"Hays, KS",Hays,Kansas,Ellis,100,97,2758,city_1163_kansas_hays,528.074996471405,14.078125,21.9317324945944,dry subhumid,12
+1163,2025,"Hays, KS",Hays,Kansas,Ellis,100,106,3819,city_1163_kansas_hays,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1216,"Hollister, CA",Hollister,California,San Benito,2015,29646355.2552027,106,527,city_1216_california_hollister,236.71250188350675,17.072916666666668,8.743516806778242,arid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2016,29646355.2552027,107,818,city_1216_california_hollister,418.8687537014485,16.7421875,15.663219536601051,semiarid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2017,29646355.2552027,94,680,city_1216_california_hollister,452.368745803833,16.729166666666668,16.924161963042856,semiarid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2018,29646355.2552027,97,561,city_1216_california_hollister,344.3000058531761,16.6015625,12.942848971866828,semiarid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2019,29646355.2552027,82,715,city_1216_california_hollister,430.7624962329865,16.34375,16.35160128049296,semiarid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2020,29646355.2552027,142,2373,city_1216_california_hollister,181.2749974131584,16.8515625,6.751003686029757,arid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2021,29646355.2552027,136,3867,city_1216_california_hollister,371.2499985396862,16.4375,14.042553136252906,semiarid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2022,29646355.2552027,144,6603,city_1216_california_hollister,278.20625403523445,16.549479166666668,10.478783869497796,semiarid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2023,29646355.2552027,147,6413,city_1216_california_hollister,458.7062459886074,15.838541666666668,17.75279162060323,semiarid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2024,29646355.2552027,141,3915,city_1216_california_hollister,432.83749547600746,16.671875,16.228236502908306,semiarid,12
-1216,"Hollister, CA",Hollister,California,San Benito,2025,29646355.2552027,164,6303,city_1216_california_hollister,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1216,2015,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,106,527,city_1216_california_hollister,236.712501883507,17.0729166666667,8.74351680677824,arid,12
+1216,2016,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,107,818,city_1216_california_hollister,418.868753701449,16.7421875,15.6632195366011,semiarid,12
+1216,2017,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,94,680,city_1216_california_hollister,452.368745803833,16.7291666666667,16.9241619630429,semiarid,12
+1216,2018,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,97,561,city_1216_california_hollister,344.300005853176,16.6015625,12.9428489718668,semiarid,12
+1216,2019,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,82,715,city_1216_california_hollister,430.762496232987,16.34375,16.351601280493,semiarid,12
+1216,2020,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,142,2373,city_1216_california_hollister,181.274997413158,16.8515625,6.75100368602976,arid,12
+1216,2021,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,136,3867,city_1216_california_hollister,371.249998539686,16.4375,14.0425531362529,semiarid,12
+1216,2022,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,144,6603,city_1216_california_hollister,278.206254035234,16.5494791666667,10.4787838694978,semiarid,12
+1216,2023,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,147,6413,city_1216_california_hollister,458.706245988608,15.8385416666667,17.7527916206032,semiarid,12
+1216,2024,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,141,3915,city_1216_california_hollister,432.837495476007,16.671875,16.2282365029083,semiarid,12
+1216,2025,"Hollister, CA",Hollister,California,San Benito,99.9999999999719,164,6303,city_1216_california_hollister,,,,,

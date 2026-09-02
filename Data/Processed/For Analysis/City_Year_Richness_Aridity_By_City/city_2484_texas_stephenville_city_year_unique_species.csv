@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2015,20933668.5627868,71,224,city_2484_texas_stephenville,1204.2187671661377,18.609375,42.09175374037838,humid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2016,20933668.5627868,87,334,city_2484_texas_stephenville,1095.6812505722046,19.3125,37.379317716748986,humid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2017,20933668.5627868,74,289,city_2484_texas_stephenville,739.0124969482422,19.5,25.05127108299126,dry subhumid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2018,20933668.5627868,82,477,city_2484_texas_stephenville,805.5250062942505,18.638020833333332,28.127816897062125,dry subhumid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2019,20933668.5627868,85,550,city_2484_texas_stephenville,800.3500003814697,18.572916666666668,28.010791117980713,dry subhumid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2020,20933668.5627868,91,494,city_2484_texas_stephenville,791.9312610626221,19.106770833333332,27.207802115777657,dry subhumid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2021,20933668.5627868,82,492,city_2484_texas_stephenville,860.212498664856,18.4921875,30.19117077847589,humid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2022,20933668.5627868,58,210,city_2484_texas_stephenville,464.5124950408935,18.713541666666668,16.177471258453032,semiarid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2023,20933668.5627868,93,650,city_2484_texas_stephenville,716.1999912261963,19.6640625,24.14369209295579,dry subhumid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2024,20933668.5627868,97,728,city_2484_texas_stephenville,798.7875022888184,20.109375,26.52952783937954,dry subhumid,12
-2484,"Stephenville, TX",Stephenville,Texas,Erath,2025,20933668.5627868,95,628,city_2484_texas_stephenville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2484,2015,"Stephenville, TX",Stephenville,Texas,Erath,100,71,224,city_2484_texas_stephenville,1204.21876716614,18.609375,42.0917537403784,humid,12
+2484,2016,"Stephenville, TX",Stephenville,Texas,Erath,100,87,334,city_2484_texas_stephenville,1095.6812505722,19.3125,37.379317716749,humid,12
+2484,2017,"Stephenville, TX",Stephenville,Texas,Erath,100,74,289,city_2484_texas_stephenville,739.012496948242,19.5,25.0512710829913,dry subhumid,12
+2484,2018,"Stephenville, TX",Stephenville,Texas,Erath,100,82,477,city_2484_texas_stephenville,805.525006294251,18.6380208333333,28.1278168970621,dry subhumid,12
+2484,2019,"Stephenville, TX",Stephenville,Texas,Erath,100,85,550,city_2484_texas_stephenville,800.35000038147,18.5729166666667,28.0107911179807,dry subhumid,12
+2484,2020,"Stephenville, TX",Stephenville,Texas,Erath,100,90,493,city_2484_texas_stephenville,791.931261062622,19.1067708333333,27.2078021157777,dry subhumid,12
+2484,2021,"Stephenville, TX",Stephenville,Texas,Erath,100,82,492,city_2484_texas_stephenville,860.212498664856,18.4921875,30.1911707784759,humid,12
+2484,2022,"Stephenville, TX",Stephenville,Texas,Erath,100,58,210,city_2484_texas_stephenville,464.512495040894,18.7135416666667,16.177471258453,semiarid,12
+2484,2023,"Stephenville, TX",Stephenville,Texas,Erath,100,93,650,city_2484_texas_stephenville,716.199991226196,19.6640625,24.1436920929558,dry subhumid,12
+2484,2024,"Stephenville, TX",Stephenville,Texas,Erath,100,97,728,city_2484_texas_stephenville,798.787502288818,20.109375,26.5295278393795,dry subhumid,12
+2484,2025,"Stephenville, TX",Stephenville,Texas,Erath,100,95,628,city_2484_texas_stephenville,,,,,

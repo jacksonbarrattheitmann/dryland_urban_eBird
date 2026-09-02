@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2015,8008610.90684122,53,106,city_0236_arizona_bisbee,584.6750078201294,17.6015625,21.182677894417367,dry subhumid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2016,8008610.90684122,30,63,city_0236_arizona_bisbee,483.21249437332153,17.635416666666668,17.48526176397997,semiarid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2017,8008610.90684122,78,632,city_0236_arizona_bisbee,529.3249967098236,18.208333333333332,18.76484478734973,semiarid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2018,8008610.90684122,85,653,city_0236_arizona_bisbee,459.7562495470047,17.760416666666668,16.56157596867259,semiarid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2019,8008610.90684122,76,537,city_0236_arizona_bisbee,398.39374446868896,16.8125,14.858507952212175,semiarid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2020,8008610.90684122,73,535,city_0236_arizona_bisbee,216.51250302791595,17.872395833333332,7.767990391733134,arid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2021,8008610.90684122,90,739,city_0236_arizona_bisbee,621.2749911546707,17.682291666666668,22.443047657892148,dry subhumid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2022,8008610.90684122,77,799,city_0236_arizona_bisbee,349.1312526464462,17.260416666666668,12.807260318708,semiarid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2023,8008610.90684122,108,1782,city_0236_arizona_bisbee,304.28749418258667,17.484375,11.071290294306737,semiarid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2024,8008610.90684122,104,1081,city_0236_arizona_bisbee,360.193750500679,18.364583333333332,12.698714670607854,semiarid,12
-236,"Bisbee, AZ",Bisbee,Arizona,Cochise,2025,8008610.90684122,114,2077,city_0236_arizona_bisbee,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+236,2015,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,53,106,city_0236_arizona_bisbee,584.675007820129,17.6015625,21.1826778944174,dry subhumid,12
+236,2016,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,30,63,city_0236_arizona_bisbee,483.212494373322,17.6354166666667,17.48526176398,semiarid,12
+236,2017,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,78,632,city_0236_arizona_bisbee,529.324996709824,18.2083333333333,18.7648447873497,semiarid,12
+236,2018,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,85,653,city_0236_arizona_bisbee,459.756249547005,17.7604166666667,16.5615759686726,semiarid,12
+236,2019,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,76,537,city_0236_arizona_bisbee,398.393744468689,16.8125,14.8585079522122,semiarid,12
+236,2020,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,73,535,city_0236_arizona_bisbee,216.512503027916,17.8723958333333,7.76799039173313,arid,12
+236,2021,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,90,739,city_0236_arizona_bisbee,621.274991154671,17.6822916666667,22.4430476578921,dry subhumid,12
+236,2022,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,77,799,city_0236_arizona_bisbee,349.131252646446,17.2604166666667,12.807260318708,semiarid,12
+236,2023,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,108,1782,city_0236_arizona_bisbee,304.287494182587,17.484375,11.0712902943067,semiarid,12
+236,2024,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,104,1081,city_0236_arizona_bisbee,360.193750500679,18.3645833333333,12.6987146706079,semiarid,12
+236,2025,"Bisbee, AZ",Bisbee,Arizona,Cochise,100,114,2077,city_0236_arizona_bisbee,,,,,

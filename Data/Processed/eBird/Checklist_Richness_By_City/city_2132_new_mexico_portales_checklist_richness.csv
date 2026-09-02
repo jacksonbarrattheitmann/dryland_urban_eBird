@@ -1,232 +1,234 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25085946,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2015-09-18,2015,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
-S22998509,L3581871,"34.1870x-103.3334 - Apr 16, 2015, 8:44 AM",2015-04-16,2015,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,230,,1,34.187046,-103.333382,4,4,city_2132_new_mexico_portales
-S23255955,L3616665,"Santa Ana Court, Portales, NM",2015-05-02,2015,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,,1,34.175209,-103.3615583,4,4,city_2132_new_mexico_portales
-S27868102,L4162864,Portales City Park,2016-02-26,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,0.805,1,34.182504,-103.3297398,6,6,city_2132_new_mexico_portales
-S27836324,L4160804,Portales City Park,2016-02-26,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,0.322,1,34.1822342,-103.3298063,7,7,city_2132_new_mexico_portales
-S32531203,L21645277,Portales City Park and Neighborhood,2016-11-13,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,23,0.805,1,34.181733,-103.330073,10,10,city_2132_new_mexico_portales
-S28908959,L4481080,Park North of Water Treatment Plant,2016-04-12,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,24,4.828,1,34.1625284,-103.3288193,9,9,city_2132_new_mexico_portales
-S27835920,L4160804,Portales City Park,2016-02-24,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1822342,-103.3298063,6,6,city_2132_new_mexico_portales
-S26645471,L2156665,ENMU campus,2016-01-03,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,1.609,1,34.1768378,-103.3487749,1,1,city_2132_new_mexico_portales
-S40641872,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2017-11-21,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
-S35448059,L5618804,home,2017-03-26,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,0.161,1,34.1877637,-103.3244722,8,8,city_2132_new_mexico_portales
-S40358699,L6448350,Portales Cemetery,2017-11-04,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,90,,1,34.1855004,-103.3201075,9,9,city_2132_new_mexico_portales
-S39119480,L345378,Portales Super 8 Motel,2017-09-09,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,32,,1,34.1739112,-103.355334,12,12,city_2132_new_mexico_portales
-S40307459,L6420875,Portales Cemetery,2017-11-04,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,59,1.577,1,34.1855017,-103.3201427,16,16,city_2132_new_mexico_portales
-S40172127,L6420875,Portales Cemetery,2017-10-28,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,54,1.706,1,34.1855017,-103.3201427,15,15,city_2132_new_mexico_portales
-S40379281,L6448350,Portales Cemetery,2017-11-08,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,90,,1,34.1855004,-103.3201075,12,12,city_2132_new_mexico_portales
-S40359033,L6448350,Portales Cemetery,2017-10-15,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,90,,1,34.1855004,-103.3201075,13,13,city_2132_new_mexico_portales
-S36485539,L2156665,ENMU campus,2017-05-02,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,27,1.609,1,34.1768378,-103.3487749,9,9,city_2132_new_mexico_portales
-S38768636,L2206923,"City Park, Portales, NM",2017-08-22,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,25,,1,34.1827595,-103.3301094,5,5,city_2132_new_mexico_portales
-S38781115,L2206923,"City Park, Portales, NM",2017-08-23,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,,1,34.1827595,-103.3301094,6,6,city_2132_new_mexico_portales
-S35416993,L2156665,ENMU campus,2017-03-25,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,10,1.609,1,34.1768378,-103.3487749,8,8,city_2132_new_mexico_portales
-S40170574,L4162864,Portales City Park,2017-10-28,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,21,1.191,1,34.182504,-103.3297398,6,6,city_2132_new_mexico_portales
-S40541357,L6448350,Portales Cemetery,2017-11-16,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,,1,34.1855004,-103.3201075,7,7,city_2132_new_mexico_portales
-S40320794,L2156665,ENMU campus,2017-11-05,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,2.72,1,34.1768378,-103.3487749,6,6,city_2132_new_mexico_portales
-S34923481,L2156665,ENMU campus,2017-03-02,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,16,,1,34.1768378,-103.3487749,5,5,city_2132_new_mexico_portales
-S41851062,L6420875,Portales Cemetery,2018-01-12,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,31,1.432,1,34.1855017,-103.3201427,12,12,city_2132_new_mexico_portales
-S46355852,L7238164,Twila's Yard,2018-06-06,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,71,,1,34.1803897,-103.3305675,11,11,city_2132_new_mexico_portales
-S44866970,L2206923,"City Park, Portales, NM",2018-04-23,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,55,0.612,1,34.1827595,-103.3301094,6,6,city_2132_new_mexico_portales
-S44668138,L7238164,Twila's Yard,2018-04-17,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,79,,1,34.1803897,-103.3305675,11,11,city_2132_new_mexico_portales
-S42201257,L2206923,"City Park, Portales, NM",2018-01-24,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,26,,1,34.1827595,-103.3301094,6,6,city_2132_new_mexico_portales
-S44698734,L2206923,"City Park, Portales, NM",2018-04-18,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,25,,1,34.1827595,-103.3301094,5,5,city_2132_new_mexico_portales
-S48499941,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2018-09-14,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
-S42422901,L2156665,ENMU campus,2018-02-01,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,0.839,1,34.1768378,-103.3487749,6,6,city_2132_new_mexico_portales
-S45108210,L4162579,Private Residence - S Abilene  and  E 9th St. (PRIVATE),2018-04-30,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,38,,1,34.180874,-103.330037,10,10,city_2132_new_mexico_portales
-S48480879,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2018-09-13,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,90,,1,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
-S45049106,L2206923,"City Park, Portales, NM",2018-04-26,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,18,,1,34.1827595,-103.3301094,6,6,city_2132_new_mexico_portales
-S48062854,L7859771,Home,2018-08-24,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1789586,-103.3436551,2,2,city_2132_new_mexico_portales
-S45049234,L2206940,"Portales Cemetary Portales, NM",2018-04-28,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,10,,1,34.1838423,-103.3187959,1,1,city_2132_new_mexico_portales
-S56105805,L6420875,Portales Cemetery,2019-05-10,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,42,3.226,1,34.1855017,-103.3201427,22,22,city_2132_new_mexico_portales
-S59059003,L9803965,Super 8 Portales,2019-08-13,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1737736,-103.3552375,10,10,city_2132_new_mexico_portales
-S55685937,L9164776,"NM, Roosevelt Co. - Portales City Park",2019-05-02,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,12,0.402,1,34.1825033,-103.3299562,12,12,city_2132_new_mexico_portales
-S55015173,L6420875,Portales Cemetery,2019-04-16,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,38,1.466,1,34.1855017,-103.3201427,17,17,city_2132_new_mexico_portales
-S61529549,L4160804,Portales City Park,2019-11-17,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,0.161,1,34.1822342,-103.3298063,4,4,city_2132_new_mexico_portales
-S59904122,L9930674,"Eastern New Mexico University, Portales US-NM (34.1762,-103.3472)",2019-09-18,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.176197,-103.34716,7,7,city_2132_new_mexico_portales
-S54990259,L9052516,Residential,2019-04-14,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,20,,1,34.1813222,-103.3568551,7,7,city_2132_new_mexico_portales
-S59059263,L9804020,2132 Hummingbird Road,2019-08-15,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.1660144,-103.3394882,10,10,city_2132_new_mexico_portales
-S61116216,L6420875,Portales Cemetery,2019-11-02,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,0.354,1,34.1855017,-103.3201427,5,5,city_2132_new_mexico_portales
-S51573127,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2019-01-11,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S55789322,L6420875,Portales Cemetery,2019-05-04,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,6,0.893,1,34.1855017,-103.3201427,10,10,city_2132_new_mexico_portales
-S55686376,L6420875,Portales Cemetery,2019-05-02,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,23,0.805,1,34.1855017,-103.3201427,17,17,city_2132_new_mexico_portales
-S61488911,L6420875,Portales Cemetery,2019-11-16,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,18,0.483,1,34.1855017,-103.3201427,7,7,city_2132_new_mexico_portales
-S60223688,L9973009,"Eastern New Mexico University, Portales US-NM (34.1736,-103.3487)",2019-09-18,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,,1,34.173587,-103.348678,4,4,city_2132_new_mexico_portales
-S55695206,L6420875,Portales Cemetery,2019-05-02,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,55,1.125,1,34.1855017,-103.3201427,22,22,city_2132_new_mexico_portales
-S61487504,L4162864,Portales City Park,2019-11-16,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,73,0.676,1,34.182504,-103.3297398,8,8,city_2132_new_mexico_portales
-S58368999,L9680107,E. 17th St. and S. Jackson Ave.,2019-07-22,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,6,,1,34.1729581,-103.3197966,8,8,city_2132_new_mexico_portales
-S52081017,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2019-01-26,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,240,,1,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
-S59904259,L9930696,"Eastern New Mexico University, Portales US-NM (34.1762,-103.3472)",2019-09-18,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,50,,1,34.176186,-103.347232,7,7,city_2132_new_mexico_portales
-S59904261,L9930697,"Eastern New Mexico University, Portales US-NM (34.1762,-103.3473)",2019-09-18,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,40,,1,34.176203,-103.347319,4,4,city_2132_new_mexico_portales
-S56322894,L9274107,NM_Roo Portales,2019-05-15,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,7,13.272,1,34.173971,-103.357089,1,1,city_2132_new_mexico_portales
-S74915725,L12276829,My Backyard,2020-10-16,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
-S74442129,L12389377,Portales Cemetery,2020-10-04,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,90,6.437,1,34.1862104,-103.319968,6,6,city_2132_new_mexico_portales
-S73524077,L12276829,My Backyard,2020-09-12,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
-S73329671,L12276829,My Backyard,2020-09-07,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,150,,1,34.1726552,-103.3249658,10,10,city_2132_new_mexico_portales
-S68760322,L6420875,Portales Cemetery,2020-05-09,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,10,1.071,1,34.1855017,-103.3201427,12,12,city_2132_new_mexico_portales
-S75052421,L6420875,Portales Cemetery,2020-10-18,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,25,0.756,1,34.1855017,-103.3201427,12,12,city_2132_new_mexico_portales
-S74342143,L6420875,Portales Cemetery,2020-10-02,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,18,0.81,1,34.1855017,-103.3201427,12,12,city_2132_new_mexico_portales
-S73133303,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-09-03,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S76960930,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-12-01,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,135,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S75618995,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-25,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S63758394,L6420875,Portales Cemetery,2020-01-25,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,14,0.386,1,34.1855017,-103.3201427,5,5,city_2132_new_mexico_portales
-S68917961,L6420875,Portales Cemetery,2020-05-12,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,33,1.481,1,34.1855017,-103.3201427,17,17,city_2132_new_mexico_portales
-S74475020,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-05,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S76386815,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-11-17,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
-S73179038,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-09-04,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,240,,1,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
-S74441247,L12276829,My Backyard,2020-09-29,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,240,,1,34.1726552,-103.3249658,4,4,city_2132_new_mexico_portales
-S74871616,L12276829,My Backyard,2020-10-15,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
-S74594398,L12457134,Best Western PLUS,2020-10-09,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,8,,1,34.18436,-103.337886,6,6,city_2132_new_mexico_portales
-S76231136,L6420875,Portales Cemetery,2020-11-14,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,39,1.078,1,34.1855017,-103.3201427,14,14,city_2132_new_mexico_portales
-S68486656,L6420875,Portales Cemetery,2020-05-06,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,12,0.982,1,34.1855017,-103.3201427,10,10,city_2132_new_mexico_portales
-S71120298,L6420875,Portales Cemetery,2020-07-04,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,8,0.74,1,34.1855017,-103.3201427,11,11,city_2132_new_mexico_portales
-S76498337,L6420875,Portales Cemetery,2020-11-21,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,24,1.014,1,34.1855017,-103.3201427,11,11,city_2132_new_mexico_portales
-S74531414,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-07,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.180798,-103.330234,14,14,city_2132_new_mexico_portales
-S73978422,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-09-23,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
-S76491777,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-11-21,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
-S73982514,L12276829,My Backyard,2020-09-22,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,,1,34.1726552,-103.3249658,6,6,city_2132_new_mexico_portales
-S74342140,L12412663,ENMU Campus,2020-10-02,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,29,1.49,1,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
-S73880908,L12276829,My Backyard,2020-09-20,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,240,,1,34.1726552,-103.3249658,6,6,city_2132_new_mexico_portales
-S75615581,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-29,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.180798,-103.330234,16,16,city_2132_new_mexico_portales
-S73710645,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-09-17,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,,1,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
-S74192560,L12276829,My Backyard,2020-09-28,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
-S72032224,L12276829,My Backyard,2020-08-01,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,240,,1,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
-S75284437,L12276829,My Backyard,2020-10-23,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,240,,1,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
-S74440712,L12276829,My Backyard,2020-10-03,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,,1,34.1726552,-103.3249658,6,6,city_2132_new_mexico_portales
-S72238504,L12276829,My Backyard,2020-08-08,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
-S74440998,L12276829,My Backyard,2020-10-03,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,,1,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
-S74871664,L12276829,My Backyard,2020-10-14,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,,1,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
-S75675028,L12389377,Portales Cemetery,2020-10-31,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,6.437,1,34.1862104,-103.319968,6,6,city_2132_new_mexico_portales
-S75124798,L12276829,My Backyard,2020-10-19,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,,1,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
-S73512777,L12276829,My Backyard,2020-09-10,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,150,,1,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
-S76421706,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-11-19,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
-S74024558,L12276829,My Backyard,2020-09-24,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
-S75284349,L12389377,Portales Cemetery,2020-10-23,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,6.437,1,34.1862104,-103.319968,5,5,city_2132_new_mexico_portales
-S77842051,L6420875,Portales Cemetery,2020-12-22,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,53,0.844,1,34.1855017,-103.3201427,16,16,city_2132_new_mexico_portales
-S75090877,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-19,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S74518563,L12276829,My Backyard,2020-10-06,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1726552,-103.3249658,5,5,city_2132_new_mexico_portales
-S76612454,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-11-23,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,,1,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
-S74191804,L12389377,Portales Cemetery,2020-09-28,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,1.609,1,34.1862104,-103.319968,6,6,city_2132_new_mexico_portales
-S71862112,L12276829,My Backyard,2020-07-26,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
-S71941790,L2996203,Da Casa,2020-07-28,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1594034,-103.3398056,1,1,city_2132_new_mexico_portales
-S85438377,L12276829,My Backyard,2021-04-11,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,,1,34.1726552,-103.3249658,12,12,city_2132_new_mexico_portales
-S84765493,L6420875,Portales Cemetery,2021-04-04,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,75,2.091,1,34.1855017,-103.3201427,13,13,city_2132_new_mexico_portales
-S84281795,L6420875,Portales Cemetery,2021-03-27,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,59,4.793,1,34.1855017,-103.3201427,23,23,city_2132_new_mexico_portales
-S85228456,L6420875,Portales Cemetery,2021-04-10,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,41,1.033,1,34.1855017,-103.3201427,11,11,city_2132_new_mexico_portales
-S88821196,L6420875,Portales Cemetery,2021-05-23,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,35,0.818,1,34.1855017,-103.3201427,18,18,city_2132_new_mexico_portales
-S78447602,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-01-01,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,,1,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
-S80659848,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-02-08,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
-S94619519,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-09-13,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,14,14,city_2132_new_mexico_portales
-S79191657,L6420875,Portales Cemetery,2021-01-13,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,26,1.561,1,34.1855017,-103.3201427,5,5,city_2132_new_mexico_portales
-S81218888,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-02-13,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S85438604,L12276829,My Backyard,2021-04-12,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,240,,1,34.1726552,-103.3249658,16,16,city_2132_new_mexico_portales
-S89927061,L12276829,My Backyard,2021-06-09,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1726552,-103.3249658,12,12,city_2132_new_mexico_portales
-S93561659,L6420875,Portales Cemetery,2021-08-21,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,35,3.866,1,34.1855017,-103.3201427,4,4,city_2132_new_mexico_portales
-S83927122,L12276829,My Backyard,2021-03-19,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
-S99269157,L17167580,"1020 W First St, Portales US-NM 34.18177, -103.34483",2021-12-22,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,5,,1,34.181768,-103.344833,3,3,city_2132_new_mexico_portales
-S95204030,L12276829,My Backyard,2021-09-25,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,,1,34.1726552,-103.3249658,4,4,city_2132_new_mexico_portales
-S94686723,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-09-14,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S93899571,L6420875,Portales Cemetery,2021-08-29,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,25,0.901,1,34.1855017,-103.3201427,13,13,city_2132_new_mexico_portales
-S95510523,L4160804,Portales City Park,2021-10-02,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.1822342,-103.3298063,2,2,city_2132_new_mexico_portales
-S99526658,L4160804,Portales City Park,2021-12-27,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,,1,34.1822342,-103.3298063,4,4,city_2132_new_mexico_portales
-S83927309,L12276829,My Backyard,2021-03-08,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,90,,1,34.1726552,-103.3249658,3,3,city_2132_new_mexico_portales
-S81494825,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-02-14,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,210,,1,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
-S83926873,L12276829,My Backyard,2021-03-13,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,,1,34.1726552,-103.3249658,5,5,city_2132_new_mexico_portales
-S95613557,L4160804,Portales City Park,2021-10-04,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.1822342,-103.3298063,3,3,city_2132_new_mexico_portales
-S97762889,L16920889,"679–699 Vans Ave E, Portales US-NM 34.15694, -103.33694",2021-11-18,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,5,,1,34.156939,-103.336942,3,3,city_2132_new_mexico_portales
-S109381855,L12276829,My Backyard,2022-05-08,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.1726552,-103.3249658,15,15,city_2132_new_mexico_portales
-S107783888,L18641877,"8168 State Highway 206, Portales, New Mexico, US (34.158, -103.336)",2022-04-23,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,16,,1,34.1583944,-103.3364433,5,5,city_2132_new_mexico_portales
-S121992655,L21466411,Portales Neighborhod,2022-11-06,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,1.609,1,34.1804155,-103.329869,13,13,city_2132_new_mexico_portales
-S115767977,L2996203,Da Casa,2022-07-25,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1594034,-103.3398056,11,11,city_2132_new_mexico_portales
-S115833778,L2996203,Da Casa,2022-07-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1594034,-103.3398056,13,13,city_2132_new_mexico_portales
-S122583003,L4298725,Portales City Park,2022-11-15,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,135,1.996,1,34.182323,-103.3301389,10,10,city_2132_new_mexico_portales
-S124860831,L6420875,Portales Cemetery,2022-12-29,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,5,0.68,1,34.1855017,-103.3201427,6,6,city_2132_new_mexico_portales
-S103789623,L6420875,Portales Cemetery,2022-02-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,32,1.067,1,34.1855017,-103.3201427,13,13,city_2132_new_mexico_portales
-S122831780,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-11-22,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
-S122479396,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-11-15,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,225,,1,34.180798,-103.330234,15,15,city_2132_new_mexico_portales
-S108238074,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-04-27,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,90,,1,34.180798,-103.330234,21,21,city_2132_new_mexico_portales
-S120553528,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-10-12,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,120,,1,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
-S108237401,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-04-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,70,,1,34.180798,-103.330234,19,19,city_2132_new_mexico_portales
-S107489071,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-04-19,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,210,,1,34.180798,-103.330234,18,18,city_2132_new_mexico_portales
-S124635943,L12412663,ENMU Campus,2022-12-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,2.228,1,34.1773767,-103.3485895,13,13,city_2132_new_mexico_portales
-S102820899,L12412663,ENMU Campus,2022-02-13,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,95,0.644,1,34.1773767,-103.3485895,15,15,city_2132_new_mexico_portales
-S103849038,L12412663,ENMU Campus,2022-02-27,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,56,0.209,1,34.1773767,-103.3485895,9,9,city_2132_new_mexico_portales
-S107126900,L12412663,ENMU Campus,2022-04-15,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,59,2.947,1,34.1773767,-103.3485895,8,8,city_2132_new_mexico_portales
-S104556030,L12412663,ENMU Campus,2022-03-10,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,55,2.073,1,34.1773767,-103.3485895,4,4,city_2132_new_mexico_portales
-S101693960,L12412663,ENMU Campus,2022-01-28,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,123,3.235,1,34.1773767,-103.3485895,6,6,city_2132_new_mexico_portales
-S101559547,L12412663,ENMU Campus,2022-01-27,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,80,3.065,1,34.1773767,-103.3485895,9,9,city_2132_new_mexico_portales
-S108138555,L17609588,"Eastern New Mexico University - ENMU, Portales US-NM 34.17590, -103.34732",2022-04-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,44,1.882,1,34.175898,-103.347322,9,9,city_2132_new_mexico_portales
-S103788254,L17609595,"Eastern New Mexico University - ENMU, Portales US-NM 34.17432, -103.34996",2022-02-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,98,3.085,1,34.17432,-103.349957,5,5,city_2132_new_mexico_portales
-S109736355,L18985639,Super 8 to campus,2022-05-11,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,23,1.319,1,34.173533,-103.350362,11,11,city_2132_new_mexico_portales
-S122186856,L21497508,"1201 S Abilene Ave, Portales US-NM 34.17923, -103.32753",2022-11-10,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,189,1.598,1,34.179231,-103.327526,19,19,city_2132_new_mexico_portales
-S102563340,L279392,"RO. ENMU campus, Portales",2022-02-13,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,29,0.172,1,34.1768248,-103.3483471,6,6,city_2132_new_mexico_portales
-S115575288,L2996203,Da Casa,2022-07-22,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1594034,-103.3398056,10,10,city_2132_new_mexico_portales
-S120030560,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-10-05,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
-S122518781,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-11-16,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,75,,1,34.180798,-103.330234,16,16,city_2132_new_mexico_portales
-S102170272,L12412663,ENMU Campus,2022-02-06,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,68,1.379,1,34.1773767,-103.3485895,6,6,city_2132_new_mexico_portales
-S105496046,L12412663,ENMU Campus,2022-03-24,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,68,3.231,1,34.1773767,-103.3485895,5,5,city_2132_new_mexico_portales
-S108922636,L12412663,ENMU Campus,2022-05-04,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,36,3.6,1,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
-S101837790,L12412663,ENMU Campus,2022-02-01,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,22,0.193,1,34.1773767,-103.3485895,2,2,city_2132_new_mexico_portales
-S116205045,L12412663,ENMU Campus,2022-08-02,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,5,0.129,1,34.1773767,-103.3485895,6,6,city_2132_new_mexico_portales
-S102231359,L12412663,ENMU Campus,2022-02-06,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,75,1.244,1,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
-S104981938,L12389377,Portales Cemetery,2022-03-16,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,1.609,1,34.1862104,-103.319968,9,9,city_2132_new_mexico_portales
-S115447634,L2996203,Da Casa,2022-07-20,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1594034,-103.3398056,8,8,city_2132_new_mexico_portales
-S102563192,L279392,"RO. ENMU campus, Portales",2022-02-13,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,29,0.172,1,34.1768248,-103.3483471,6,6,city_2132_new_mexico_portales
-S123119189,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-11-27,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,75,,1,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
-S101620587,L14600090,10th and Abilene,2022-01-28,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,180,19.312,1,34.1807697,-103.3290542,10,10,city_2132_new_mexico_portales
-S124859883,L21645277,Portales City Park and Neighborhood,2022-12-29,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,24,0.953,1,34.181733,-103.330073,11,11,city_2132_new_mexico_portales
-S122537218,L4298725,Portales City Park,2022-11-16,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,61,0.966,1,34.182323,-103.3301389,8,8,city_2132_new_mexico_portales
-S106207111,L12412663,ENMU Campus,2022-04-03,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,3.664,1,34.1773767,-103.3485895,5,5,city_2132_new_mexico_portales
-S122037641,L21473454,Portales Neighborhood & City Park,2022-11-07,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,53,2.25,1,34.180326,-103.330184,13,13,city_2132_new_mexico_portales
-S115712675,L2996203,Da Casa,2022-07-24,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1594034,-103.3398056,11,11,city_2132_new_mexico_portales
-S115639342,L2996203,Da Casa,2022-07-23,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1594034,-103.3398056,8,8,city_2132_new_mexico_portales
-S102645179,L12412663,ENMU Campus,2022-02-14,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,32,2.296,1,34.1773767,-103.3485895,3,3,city_2132_new_mexico_portales
-S124024537,L21645277,Portales City Park and Neighborhood,2022-12-15,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,95,3.073,1,34.181733,-103.330073,13,13,city_2132_new_mexico_portales
-S123176705,L21645277,Portales City Park and Neighborhood,2022-11-28,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,0.731,1,34.181733,-103.330073,5,5,city_2132_new_mexico_portales
-S115511042,L2996203,Da Casa,2022-07-21,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,60,,1,34.1594034,-103.3398056,9,9,city_2132_new_mexico_portales
-S124385184,L4160804,Portales City Park,2022-12-21,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,0.161,1,34.1822342,-103.3298063,6,6,city_2132_new_mexico_portales
-S101784931,L12412663,ENMU Campus,2022-01-31,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,110,0.563,1,34.1773767,-103.3485895,10,10,city_2132_new_mexico_portales
-S101795731,L17609595,"Eastern New Mexico University - ENMU, Portales US-NM 34.17432, -103.34996",2022-01-31,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,17,0.788,1,34.17432,-103.349957,2,2,city_2132_new_mexico_portales
-S121693460,L21416539,Main & 10th,2022-11-01,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,5,,1,34.1801893,-103.3301778,2,2,city_2132_new_mexico_portales
-S124632569,L21645277,Portales City Park and Neighborhood,2022-12-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,21,0.7,1,34.181733,-103.330073,8,8,city_2132_new_mexico_portales
-S101136248,L12412663,ENMU Campus,2022-01-21,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,83,1.622,1,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
-S107579512,L12276829,My Backyard,2022-04-20,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.1726552,-103.3249658,2,2,city_2132_new_mexico_portales
-S102227214,L17675696,"Eastern New Mexico University - ENMU, Portales US-NM 34.17620, -103.34663",2022-02-07,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,55,1.644,1,34.176204,-103.346632,2,2,city_2132_new_mexico_portales
-S124637417,L6420875,Portales Cemetery,2022-12-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,5,0.56,1,34.1855017,-103.3201427,2,2,city_2132_new_mexico_portales
-S101908123,L17609605,"Eastern New Mexico University - ENMU, Portales US-NM 34.17319, -103.34720",2022-01-29,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,,1,34.173192,-103.3472,1,1,city_2132_new_mexico_portales
-S133833192,L12412663,ENMU Campus,2023-04-15,2023,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,7,,1,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
-S149833106,L12412663,ENMU Campus,2023-09-13,2023,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,50,2.414,1,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
-S126012676,L21645277,Portales City Park and Neighborhood,2023-01-12,2023,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,30,0.756,1,34.181733,-103.330073,6,6,city_2132_new_mexico_portales
-S131954664,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2023-03-26,2023,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,5,,1,34.180798,-103.330234,2,2,city_2132_new_mexico_portales
-S178079331,L31237020,My house,2024-05-29,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,50,,1,34.190023,-103.325687,6,6,city_2132_new_mexico_portales
-S181365276,L33325498,"223 W Second St, Portales US-NM 34.18415, -103.33746",2024-06-14,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,17,0.768,1,34.184148,-103.337464,8,8,city_2132_new_mexico_portales
-S171796185,L12276829,My Backyard,2024-05-03,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,80,,1,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
-S181523634,L33325498,"223 W Second St, Portales US-NM 34.18415, -103.33746",2024-06-12,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,14,0.386,1,34.184148,-103.337464,12,12,city_2132_new_mexico_portales
-S174225109,L31718238,"616 West 18th Street, Portales, New Mexico, US (34.171, -103.338)",2024-05-12,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,6,,1,34.1712626,-103.3377671,9,9,city_2132_new_mexico_portales
-S171610218,L12276829,My Backyard,2024-05-02,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,,1,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
-S193621333,L21645277,Portales City Park and Neighborhood,2024-08-31,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,20,0.385,1,34.181733,-103.330073,11,11,city_2132_new_mexico_portales
-S171731213,L12276829,My Backyard,2024-05-03,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,65,,1,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
-S171806600,L31237020,My house,2024-05-03,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,18,,1,34.190023,-103.325687,2,2,city_2132_new_mexico_portales
-S164753025,L2760828,City of Portales,2024-03-13,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,10,0.226,1,34.1853939,-103.3376169,4,4,city_2132_new_mexico_portales
-S172897587,L12276829,My Backyard,2024-05-08,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,20,,1,34.1726552,-103.3249658,5,5,city_2132_new_mexico_portales
-S230079752,L12412663,ENMU Campus,2025-04-27,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,50,2.02,1,34.1773767,-103.3485895,18,18,city_2132_new_mexico_portales
-S221549846,L12412663,ENMU Campus,2025-03-29,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,11,,1,34.1773767,-103.3485895,10,10,city_2132_new_mexico_portales
-S224375696,L12412663,ENMU Campus,2025-03-07,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,41,1.481,1,34.1773767,-103.3485895,9,9,city_2132_new_mexico_portales
-S214931540,L31237020,My house,2025-02-22,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,,1,34.190023,-103.325687,5,5,city_2132_new_mexico_portales
-S231817787,L43877963,"608 S Main Ave, Portales",2025-05-01,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,106,,1,34.182417,-103.333349,18,18,city_2132_new_mexico_portales
-S240729241,L12412663,ENMU Campus,2025-05-20,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,26,0.204,1,34.1773767,-103.3485895,10,10,city_2132_new_mexico_portales
-S261887282,L49207599,"Alta Terra, Portales, NM",2025-07-22,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,25,0.903,1,34.177203,-103.363566,11,11,city_2132_new_mexico_portales
-S290034626,L56261778,"508 E 17th St, Portales US-NM 34.17325, -103.32086",2025-12-24,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,20,0.402,1,34.173252,-103.320864,3,3,city_2132_new_mexico_portales
-S233858632,L12412663,ENMU Campus,2025-05-06,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,49,2.657,1,34.1773767,-103.3485895,15,15,city_2132_new_mexico_portales
-S221829196,L12412663,ENMU Campus,2025-03-30,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,55,2.045,1,34.1773767,-103.3485895,12,12,city_2132_new_mexico_portales
-S221537409,L12412663,ENMU Campus,2025-03-29,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,44,1.824,1,34.1773767,-103.3485895,12,12,city_2132_new_mexico_portales
-S237983683,L43877963,"608 S Main Ave, Portales",2025-05-14,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,14,,1,34.182417,-103.333349,10,10,city_2132_new_mexico_portales
-S289903139,L56261778,"508 E 17th St, Portales US-NM 34.17325, -103.32086",2025-12-23,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,18,0.698,1,34.173252,-103.320864,3,3,city_2132_new_mexico_portales
-S231608686,L12412663,ENMU Campus,2025-05-01,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,66,2.39,1,34.1773767,-103.3485895,18,18,city_2132_new_mexico_portales
-S217040964,L12412663,ENMU Campus,2025-03-07,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,41,1.481,1,34.1773767,-103.3485895,9,9,city_2132_new_mexico_portales
-S213260110,L40220708,"313 E 17th Ln, Portales US-NM (34.1728,-103.3249)",2025-02-14,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,45,,1,34.172765,-103.324894,6,6,city_2132_new_mexico_portales
-S251052452,L47776656,"1748 S Roosevelt Road 7, Portales US-NM 34.15696, -103.32641",2025-06-16,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,5,,1,34.156962,-103.326406,5,5,city_2132_new_mexico_portales
-S216070968,L12412663,ENMU Campus,2025-03-01,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,29,1.506,1,34.1773767,-103.3485895,5,5,city_2132_new_mexico_portales
-S290057469,L12412663,ENMU Campus,2025-12-24,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,20,1.194,1,34.1773767,-103.3485895,1,1,city_2132_new_mexico_portales
-S290036120,L56277876,Home,2025-12-24,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,27,1.08,1,34.174027,-103.324008,4,4,city_2132_new_mexico_portales
-S290069410,L12412663,ENMU Campus,2025-12-24,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,110,4.743,1,34.1773767,-103.3485895,1,1,city_2132_new_mexico_portales
-S219231575,L12412663,ENMU Campus,2025-03-17,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,14176192.8957591,15,7.564,1,34.1773767,-103.3485895,3,3,city_2132_new_mexico_portales
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22998509,L3581871,"34.1870x-103.3334 - Apr 16, 2015, 8:44 AM",2015-04-16,2015,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,230,,1,Stationary,34.187046,-103.333382,4,4,city_2132_new_mexico_portales
+S23255955,L3616665,"Santa Ana Court, Portales, NM",2015-05-02,2015,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,,1,Stationary,34.175209,-103.3615583,4,4,city_2132_new_mexico_portales
+S25085946,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2015-09-18,2015,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
+S26645471,L2156665,ENMU campus,2016-01-03,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,1.609,1,Traveling,34.1768378,-103.3487749,1,1,city_2132_new_mexico_portales
+S27835920,L4160804,Portales City Park,2016-02-24,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1822342,-103.3298063,6,6,city_2132_new_mexico_portales
+S27836324,L4160804,Portales City Park,2016-02-26,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,0.322,1,Traveling,34.1822342,-103.3298063,7,7,city_2132_new_mexico_portales
+S27868102,L4162864,Portales City Park,2016-02-26,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,0.805,1,Traveling,34.182504,-103.3297398,6,6,city_2132_new_mexico_portales
+S28908959,L4481080,Park North of Water Treatment Plant,2016-04-12,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,24,4.828,1,Traveling,34.1625284,-103.3288193,9,9,city_2132_new_mexico_portales
+S32531203,L21645277,Portales City Park and Neighborhood,2016-11-13,2016,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,23,0.805,1,Traveling,34.181733,-103.330073,10,10,city_2132_new_mexico_portales
+S34923481,L2156665,ENMU campus,2017-03-02,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,16,,1,Stationary,34.1768378,-103.3487749,5,5,city_2132_new_mexico_portales
+S35416993,L2156665,ENMU campus,2017-03-25,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,10,1.609,1,Traveling,34.1768378,-103.3487749,8,8,city_2132_new_mexico_portales
+S35448059,L5618804,home,2017-03-26,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,0.161,1,Traveling,34.1877637,-103.3244722,8,8,city_2132_new_mexico_portales
+S36485539,L2156665,ENMU campus,2017-05-02,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,27,1.609,1,Traveling,34.1768378,-103.3487749,9,9,city_2132_new_mexico_portales
+S38768636,L2206923,"City Park, Portales, NM",2017-08-22,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,25,,1,Stationary,34.1827595,-103.3301094,5,5,city_2132_new_mexico_portales
+S38781115,L2206923,"City Park, Portales, NM",2017-08-23,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,,1,Stationary,34.1827595,-103.3301094,6,6,city_2132_new_mexico_portales
+S39119480,L345378,Portales Super 8 Motel,2017-09-09,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,32,,1,Stationary,34.1739112,-103.355334,12,12,city_2132_new_mexico_portales
+S40359033,L6448350,Portales Cemetery,2017-10-15,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,90,,1,Stationary,34.1855004,-103.3201075,13,13,city_2132_new_mexico_portales
+S40170574,L4162864,Portales City Park,2017-10-28,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,21,1.191,1,Traveling,34.182504,-103.3297398,6,6,city_2132_new_mexico_portales
+S40172127,L6420875,Portales Cemetery,2017-10-28,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,54,1.706,1,Traveling,34.1855017,-103.3201427,15,15,city_2132_new_mexico_portales
+S40307459,L6420875,Portales Cemetery,2017-11-04,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,59,1.577,1,Traveling,34.1855017,-103.3201427,16,16,city_2132_new_mexico_portales
+S40358699,L6448350,Portales Cemetery,2017-11-04,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,90,,1,Stationary,34.1855004,-103.3201075,9,9,city_2132_new_mexico_portales
+S40320794,L2156665,ENMU campus,2017-11-05,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,2.72,1,Traveling,34.1768378,-103.3487749,6,6,city_2132_new_mexico_portales
+S40379281,L6448350,Portales Cemetery,2017-11-08,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,90,,1,Stationary,34.1855004,-103.3201075,12,12,city_2132_new_mexico_portales
+S40541357,L6448350,Portales Cemetery,2017-11-16,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.1855004,-103.3201075,7,7,city_2132_new_mexico_portales
+S40641872,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2017-11-21,2017,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
+S41851062,L6420875,Portales Cemetery,2018-01-12,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,31,1.432,1,Traveling,34.1855017,-103.3201427,12,12,city_2132_new_mexico_portales
+S42201257,L2206923,"City Park, Portales, NM",2018-01-24,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,26,,1,Stationary,34.1827595,-103.3301094,6,6,city_2132_new_mexico_portales
+S42422901,L2156665,ENMU campus,2018-02-01,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,0.839,1,Traveling,34.1768378,-103.3487749,6,6,city_2132_new_mexico_portales
+S44668138,L7238164,Twila's Yard,2018-04-17,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,79,,1,Stationary,34.1803897,-103.3305675,11,11,city_2132_new_mexico_portales
+S44698734,L2206923,"City Park, Portales, NM",2018-04-18,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,25,,1,Stationary,34.1827595,-103.3301094,5,5,city_2132_new_mexico_portales
+S44866970,L2206923,"City Park, Portales, NM",2018-04-23,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,55,0.612,1,Traveling,34.1827595,-103.3301094,6,6,city_2132_new_mexico_portales
+S45049106,L2206923,"City Park, Portales, NM",2018-04-26,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,18,,1,Stationary,34.1827595,-103.3301094,6,6,city_2132_new_mexico_portales
+S45049234,L2206940,"Portales Cemetary Portales, NM",2018-04-28,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,10,,1,Stationary,34.1838423,-103.3187959,1,1,city_2132_new_mexico_portales
+S45108210,L4162579,Private Residence - S Abilene  and  E 9th St. (PRIVATE),2018-04-30,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,38,,1,Stationary,34.180874,-103.330037,10,10,city_2132_new_mexico_portales
+S46355852,L7238164,Twila's Yard,2018-06-06,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,71,,1,Stationary,34.1803897,-103.3305675,11,11,city_2132_new_mexico_portales
+S48062854,L7859771,Home,2018-08-24,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1789586,-103.3436551,2,2,city_2132_new_mexico_portales
+S48480879,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2018-09-13,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,90,,1,Stationary,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
+S48499941,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2018-09-14,2018,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
+S51573127,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2019-01-11,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S52081017,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2019-01-26,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,240,,1,Stationary,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
+S54990259,L9052516,Residential,2019-04-14,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,20,,1,Stationary,34.1813222,-103.3568551,7,7,city_2132_new_mexico_portales
+S55015173,L6420875,Portales Cemetery,2019-04-16,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,38,1.466,1,Traveling,34.1855017,-103.3201427,17,17,city_2132_new_mexico_portales
+S55686376,L6420875,Portales Cemetery,2019-05-02,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,23,0.805,1,Traveling,34.1855017,-103.3201427,17,17,city_2132_new_mexico_portales
+S55695206,L6420875,Portales Cemetery,2019-05-02,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,55,1.125,1,Traveling,34.1855017,-103.3201427,22,22,city_2132_new_mexico_portales
+S55685937,L9164776,"NM, Roosevelt Co. - Portales City Park",2019-05-02,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,12,0.402,1,Traveling,34.1825033,-103.3299562,12,12,city_2132_new_mexico_portales
+S55789322,L6420875,Portales Cemetery,2019-05-04,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,6,0.893,1,Traveling,34.1855017,-103.3201427,10,10,city_2132_new_mexico_portales
+S56105805,L6420875,Portales Cemetery,2019-05-10,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,42,3.226,1,Traveling,34.1855017,-103.3201427,22,22,city_2132_new_mexico_portales
+S56322894,L9274107,NM_Roo Portales,2019-05-15,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,7,13.272,1,Traveling,34.173971,-103.357089,1,1,city_2132_new_mexico_portales
+S58368999,L9680107,E. 17th St. and S. Jackson Ave.,2019-07-22,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,6,,1,Stationary,34.1729581,-103.3197966,8,8,city_2132_new_mexico_portales
+S59059003,L9803965,Super 8 Portales,2019-08-13,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1737736,-103.3552375,10,10,city_2132_new_mexico_portales
+S59059263,L9804020,2132 Hummingbird Road,2019-08-15,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.1660144,-103.3394882,10,10,city_2132_new_mexico_portales
+S59904122,L9930674,"Eastern New Mexico University, Portales US-NM (34.1762,-103.3472)",2019-09-18,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.176197,-103.34716,7,7,city_2132_new_mexico_portales
+S59904261,L9930697,"Eastern New Mexico University, Portales US-NM (34.1762,-103.3473)",2019-09-18,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,40,,1,Stationary,34.176203,-103.347319,4,4,city_2132_new_mexico_portales
+S59904259,L9930696,"Eastern New Mexico University, Portales US-NM (34.1762,-103.3472)",2019-09-18,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,50,,1,Stationary,34.176186,-103.347232,7,7,city_2132_new_mexico_portales
+S60223688,L9973009,"Eastern New Mexico University, Portales US-NM (34.1736,-103.3487)",2019-09-18,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.173587,-103.348678,4,4,city_2132_new_mexico_portales
+S61116216,L6420875,Portales Cemetery,2019-11-02,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,0.354,1,Traveling,34.1855017,-103.3201427,5,5,city_2132_new_mexico_portales
+S61446382,L4160804,Portales City Park,2019-11-14,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.1822342,-103.3298063,0,0,city_2132_new_mexico_portales
+S61487504,L4162864,Portales City Park,2019-11-16,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,73,0.676,1,Traveling,34.182504,-103.3297398,8,8,city_2132_new_mexico_portales
+S61488911,L6420875,Portales Cemetery,2019-11-16,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,18,0.483,1,Traveling,34.1855017,-103.3201427,7,7,city_2132_new_mexico_portales
+S61529549,L4160804,Portales City Park,2019-11-17,2019,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,0.161,1,Traveling,34.1822342,-103.3298063,4,4,city_2132_new_mexico_portales
+S63758394,L6420875,Portales Cemetery,2020-01-25,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,14,0.386,1,Traveling,34.1855017,-103.3201427,5,5,city_2132_new_mexico_portales
+S68486656,L6420875,Portales Cemetery,2020-05-06,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,12,0.982,1,Traveling,34.1855017,-103.3201427,10,10,city_2132_new_mexico_portales
+S68760322,L6420875,Portales Cemetery,2020-05-09,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,10,1.071,1,Traveling,34.1855017,-103.3201427,12,12,city_2132_new_mexico_portales
+S68917961,L6420875,Portales Cemetery,2020-05-12,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,33,1.481,1,Traveling,34.1855017,-103.3201427,17,17,city_2132_new_mexico_portales
+S71120298,L6420875,Portales Cemetery,2020-07-04,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,8,0.74,1,Traveling,34.1855017,-103.3201427,11,11,city_2132_new_mexico_portales
+S71862112,L12276829,My Backyard,2020-07-26,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
+S71941790,L2996203,Da Casa,2020-07-28,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1594034,-103.3398056,1,1,city_2132_new_mexico_portales
+S72032224,L12276829,My Backyard,2020-08-01,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,240,,1,Stationary,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
+S72238504,L12276829,My Backyard,2020-08-08,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
+S73133303,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-09-03,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S73179038,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-09-04,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,240,,1,Stationary,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
+S73329671,L12276829,My Backyard,2020-09-07,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,150,,1,Stationary,34.1726552,-103.3249658,10,10,city_2132_new_mexico_portales
+S73512777,L12276829,My Backyard,2020-09-10,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,150,,1,Stationary,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
+S73524077,L12276829,My Backyard,2020-09-12,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
+S73710645,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-09-17,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
+S73880908,L12276829,My Backyard,2020-09-20,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,240,,1,Stationary,34.1726552,-103.3249658,6,6,city_2132_new_mexico_portales
+S73982514,L12276829,My Backyard,2020-09-22,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,,1,Stationary,34.1726552,-103.3249658,6,6,city_2132_new_mexico_portales
+S73978422,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-09-23,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
+S74024558,L12276829,My Backyard,2020-09-24,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
+S74192560,L12276829,My Backyard,2020-09-28,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
+S74191804,L12389377,Portales Cemetery,2020-09-28,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,1.609,1,Traveling,34.1862104,-103.319968,6,6,city_2132_new_mexico_portales
+S74441247,L12276829,My Backyard,2020-09-29,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,240,,1,Stationary,34.1726552,-103.3249658,4,4,city_2132_new_mexico_portales
+S74342140,L12412663,ENMU Campus,2020-10-02,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,29,1.49,1,Traveling,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
+S74342143,L6420875,Portales Cemetery,2020-10-02,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,18,0.81,1,Traveling,34.1855017,-103.3201427,12,12,city_2132_new_mexico_portales
+S74440712,L12276829,My Backyard,2020-10-03,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,,1,Stationary,34.1726552,-103.3249658,6,6,city_2132_new_mexico_portales
+S74440998,L12276829,My Backyard,2020-10-03,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,,1,Stationary,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
+S74442129,L12389377,Portales Cemetery,2020-10-04,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,90,6.437,1,Traveling,34.1862104,-103.319968,6,6,city_2132_new_mexico_portales
+S74475020,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-05,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S74518563,L12276829,My Backyard,2020-10-06,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1726552,-103.3249658,5,5,city_2132_new_mexico_portales
+S74531414,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-07,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.180798,-103.330234,14,14,city_2132_new_mexico_portales
+S74594398,L12457134,Best Western PLUS,2020-10-09,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,8,,1,Stationary,34.18436,-103.337886,6,6,city_2132_new_mexico_portales
+S74871664,L12276829,My Backyard,2020-10-14,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
+S74871616,L12276829,My Backyard,2020-10-15,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
+S74915725,L12276829,My Backyard,2020-10-16,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
+S75052421,L6420875,Portales Cemetery,2020-10-18,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,25,0.756,1,Traveling,34.1855017,-103.3201427,12,12,city_2132_new_mexico_portales
+S75124798,L12276829,My Backyard,2020-10-19,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,,1,Stationary,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
+S75090877,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-19,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S75284437,L12276829,My Backyard,2020-10-23,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,240,,1,Stationary,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
+S75284349,L12389377,Portales Cemetery,2020-10-23,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,6.437,1,Traveling,34.1862104,-103.319968,5,5,city_2132_new_mexico_portales
+S75618995,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-25,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S75615581,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-10-29,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.180798,-103.330234,16,16,city_2132_new_mexico_portales
+S75675028,L12389377,Portales Cemetery,2020-10-31,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,6.437,1,Traveling,34.1862104,-103.319968,6,6,city_2132_new_mexico_portales
+S76231136,L6420875,Portales Cemetery,2020-11-14,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,39,1.078,1,Traveling,34.1855017,-103.3201427,14,14,city_2132_new_mexico_portales
+S76386815,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-11-17,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
+S76421706,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-11-19,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
+S76498337,L6420875,Portales Cemetery,2020-11-21,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,24,1.014,1,Traveling,34.1855017,-103.3201427,11,11,city_2132_new_mexico_portales
+S76491777,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-11-21,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
+S76612454,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-11-23,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,,1,Stationary,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
+S76960930,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2020-12-01,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,135,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S77842051,L6420875,Portales Cemetery,2020-12-22,2020,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,53,0.844,1,Traveling,34.1855017,-103.3201427,16,16,city_2132_new_mexico_portales
+S78447602,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-01-01,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
+S79191657,L6420875,Portales Cemetery,2021-01-13,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,26,1.561,1,Traveling,34.1855017,-103.3201427,5,5,city_2132_new_mexico_portales
+S80659848,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-02-08,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
+S81218888,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-02-13,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S81494825,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-02-14,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,210,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S83927309,L12276829,My Backyard,2021-03-08,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,90,,1,Stationary,34.1726552,-103.3249658,3,3,city_2132_new_mexico_portales
+S83926873,L12276829,My Backyard,2021-03-13,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,,1,Stationary,34.1726552,-103.3249658,5,5,city_2132_new_mexico_portales
+S83927122,L12276829,My Backyard,2021-03-19,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
+S84281795,L6420875,Portales Cemetery,2021-03-27,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,59,4.793,1,Traveling,34.1855017,-103.3201427,23,23,city_2132_new_mexico_portales
+S84765493,L6420875,Portales Cemetery,2021-04-04,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,75,2.091,1,Traveling,34.1855017,-103.3201427,13,13,city_2132_new_mexico_portales
+S85228456,L6420875,Portales Cemetery,2021-04-10,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,41,1.033,1,Traveling,34.1855017,-103.3201427,11,11,city_2132_new_mexico_portales
+S85438377,L12276829,My Backyard,2021-04-11,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,,1,Stationary,34.1726552,-103.3249658,12,12,city_2132_new_mexico_portales
+S85438604,L12276829,My Backyard,2021-04-12,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,240,,1,Stationary,34.1726552,-103.3249658,16,16,city_2132_new_mexico_portales
+S88821196,L6420875,Portales Cemetery,2021-05-23,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,35,0.818,1,Traveling,34.1855017,-103.3201427,18,18,city_2132_new_mexico_portales
+S89927061,L12276829,My Backyard,2021-06-09,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1726552,-103.3249658,12,12,city_2132_new_mexico_portales
+S93561659,L6420875,Portales Cemetery,2021-08-21,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,35,3.866,1,Traveling,34.1855017,-103.3201427,4,4,city_2132_new_mexico_portales
+S93899571,L6420875,Portales Cemetery,2021-08-29,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,25,0.901,1,Traveling,34.1855017,-103.3201427,13,13,city_2132_new_mexico_portales
+S94619519,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-09-13,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,14,14,city_2132_new_mexico_portales
+S94686723,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2021-09-14,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,13,13,city_2132_new_mexico_portales
+S95204030,L12276829,My Backyard,2021-09-25,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,,1,Stationary,34.1726552,-103.3249658,4,4,city_2132_new_mexico_portales
+S95510523,L4160804,Portales City Park,2021-10-02,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.1822342,-103.3298063,2,2,city_2132_new_mexico_portales
+S95613557,L4160804,Portales City Park,2021-10-04,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.1822342,-103.3298063,3,3,city_2132_new_mexico_portales
+S97762889,L16920889,"679–699 Vans Ave E, Portales US-NM 34.15694, -103.33694",2021-11-18,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,5,,1,Stationary,34.156939,-103.336942,3,3,city_2132_new_mexico_portales
+S99269157,L17167580,"1020 W First St, Portales US-NM 34.18177, -103.34483",2021-12-22,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,5,,1,Stationary,34.181768,-103.344833,3,3,city_2132_new_mexico_portales
+S99526658,L4160804,Portales City Park,2021-12-27,2021,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,,1,Stationary,34.1822342,-103.3298063,4,4,city_2132_new_mexico_portales
+S101136248,L12412663,ENMU Campus,2022-01-21,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,83,1.622,1,Traveling,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
+S101559547,L12412663,ENMU Campus,2022-01-27,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,80,3.065,1,Traveling,34.1773767,-103.3485895,9,9,city_2132_new_mexico_portales
+S101693960,L12412663,ENMU Campus,2022-01-28,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,123,3.235,1,Traveling,34.1773767,-103.3485895,6,6,city_2132_new_mexico_portales
+S101620587,L14600090,10th and Abilene,2022-01-28,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,19.312,1,Traveling,34.1807697,-103.3290542,10,10,city_2132_new_mexico_portales
+S101908123,L17609605,"Eastern New Mexico University - ENMU, Portales US-NM 34.17319, -103.34720",2022-01-29,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.173192,-103.3472,1,1,city_2132_new_mexico_portales
+S101784931,L12412663,ENMU Campus,2022-01-31,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,110,0.563,1,Traveling,34.1773767,-103.3485895,10,10,city_2132_new_mexico_portales
+S101795656,L17609588,"Eastern New Mexico University - ENMU, Portales US-NM 34.17590, -103.34732",2022-01-31,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,31,1.617,1,,34.175898,-103.347322,0,0,city_2132_new_mexico_portales
+S101795731,L17609595,"Eastern New Mexico University - ENMU, Portales US-NM 34.17432, -103.34996",2022-01-31,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,17,0.788,1,Traveling,34.17432,-103.349957,2,2,city_2132_new_mexico_portales
+S101837790,L12412663,ENMU Campus,2022-02-01,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,22,0.193,1,Traveling,34.1773767,-103.3485895,2,2,city_2132_new_mexico_portales
+S102231359,L12412663,ENMU Campus,2022-02-06,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,75,1.244,1,Traveling,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
+S102170272,L12412663,ENMU Campus,2022-02-06,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,68,1.379,1,Traveling,34.1773767,-103.3485895,6,6,city_2132_new_mexico_portales
+S102227214,L17675696,"Eastern New Mexico University - ENMU, Portales US-NM 34.17620, -103.34663",2022-02-07,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,55,1.644,1,Traveling,34.176204,-103.346632,2,2,city_2132_new_mexico_portales
+S102820899,L12412663,ENMU Campus,2022-02-13,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,95,0.644,1,Traveling,34.1773767,-103.3485895,15,15,city_2132_new_mexico_portales
+S102563340,L279392,"RO. ENMU campus, Portales",2022-02-13,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,29,0.172,1,Traveling,34.1768248,-103.3483471,6,6,city_2132_new_mexico_portales
+S102563192,L279392,"RO. ENMU campus, Portales",2022-02-13,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,29,0.172,1,Traveling,34.1768248,-103.3483471,6,6,city_2132_new_mexico_portales
+S102645179,L12412663,ENMU Campus,2022-02-14,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,32,2.296,1,Traveling,34.1773767,-103.3485895,3,3,city_2132_new_mexico_portales
+S103788254,L17609595,"Eastern New Mexico University - ENMU, Portales US-NM 34.17432, -103.34996",2022-02-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,98,3.085,1,Traveling,34.17432,-103.349957,5,5,city_2132_new_mexico_portales
+S103789623,L6420875,Portales Cemetery,2022-02-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,32,1.067,1,Traveling,34.1855017,-103.3201427,13,13,city_2132_new_mexico_portales
+S103849038,L12412663,ENMU Campus,2022-02-27,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,56,0.209,1,Traveling,34.1773767,-103.3485895,9,9,city_2132_new_mexico_portales
+S104556030,L12412663,ENMU Campus,2022-03-10,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,55,2.073,1,Traveling,34.1773767,-103.3485895,4,4,city_2132_new_mexico_portales
+S104981938,L12389377,Portales Cemetery,2022-03-16,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,1.609,1,Traveling,34.1862104,-103.319968,9,9,city_2132_new_mexico_portales
+S105496046,L12412663,ENMU Campus,2022-03-24,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,68,3.231,1,Traveling,34.1773767,-103.3485895,5,5,city_2132_new_mexico_portales
+S106207111,L12412663,ENMU Campus,2022-04-03,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,3.664,1,Traveling,34.1773767,-103.3485895,5,5,city_2132_new_mexico_portales
+S107126900,L12412663,ENMU Campus,2022-04-15,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,59,2.947,1,Traveling,34.1773767,-103.3485895,8,8,city_2132_new_mexico_portales
+S107489071,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-04-19,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,210,,1,Stationary,34.180798,-103.330234,18,18,city_2132_new_mexico_portales
+S107579512,L12276829,My Backyard,2022-04-20,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,,1,Stationary,34.1726552,-103.3249658,2,2,city_2132_new_mexico_portales
+S107783888,L18641877,"8168 State Highway 206, Portales, New Mexico, US (34.158, -103.336)",2022-04-23,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,16,,1,Stationary,34.1583944,-103.3364433,5,5,city_2132_new_mexico_portales
+S108138555,L17609588,"Eastern New Mexico University - ENMU, Portales US-NM 34.17590, -103.34732",2022-04-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,44,1.882,1,Traveling,34.175898,-103.347322,9,9,city_2132_new_mexico_portales
+S108237401,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-04-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,70,,1,Stationary,34.180798,-103.330234,19,19,city_2132_new_mexico_portales
+S108238074,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-04-27,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,90,,1,Stationary,34.180798,-103.330234,21,21,city_2132_new_mexico_portales
+S108922636,L12412663,ENMU Campus,2022-05-04,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,36,3.6,1,Traveling,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
+S109381855,L12276829,My Backyard,2022-05-08,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.1726552,-103.3249658,15,15,city_2132_new_mexico_portales
+S109736355,L18985639,Super 8 to campus,2022-05-11,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,23,1.319,1,Traveling,34.173533,-103.350362,11,11,city_2132_new_mexico_portales
+S115447634,L2996203,Da Casa,2022-07-20,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1594034,-103.3398056,8,8,city_2132_new_mexico_portales
+S115511042,L2996203,Da Casa,2022-07-21,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1594034,-103.3398056,9,9,city_2132_new_mexico_portales
+S115575288,L2996203,Da Casa,2022-07-22,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1594034,-103.3398056,10,10,city_2132_new_mexico_portales
+S115639342,L2996203,Da Casa,2022-07-23,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1594034,-103.3398056,8,8,city_2132_new_mexico_portales
+S115712675,L2996203,Da Casa,2022-07-24,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1594034,-103.3398056,11,11,city_2132_new_mexico_portales
+S115767977,L2996203,Da Casa,2022-07-25,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1594034,-103.3398056,11,11,city_2132_new_mexico_portales
+S115833778,L2996203,Da Casa,2022-07-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.1594034,-103.3398056,13,13,city_2132_new_mexico_portales
+S116205045,L12412663,ENMU Campus,2022-08-02,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,5,0.129,1,Traveling,34.1773767,-103.3485895,6,6,city_2132_new_mexico_portales
+S120030560,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-10-05,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,60,,1,Stationary,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
+S120553528,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-10-12,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.180798,-103.330234,12,12,city_2132_new_mexico_portales
+S121693460,L21416539,Main & 10th,2022-11-01,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,5,,1,Stationary,34.1801893,-103.3301778,2,2,city_2132_new_mexico_portales
+S121992655,L21466411,Portales Neighborhod,2022-11-06,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,180,1.609,1,Traveling,34.1804155,-103.329869,13,13,city_2132_new_mexico_portales
+S122037641,L21473454,Portales Neighborhood & City Park,2022-11-07,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,53,2.25,1,Traveling,34.180326,-103.330184,13,13,city_2132_new_mexico_portales
+S122186856,L21497508,"1201 S Abilene Ave, Portales US-NM 34.17923, -103.32753",2022-11-10,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,189,1.598,1,Traveling,34.179231,-103.327526,19,19,city_2132_new_mexico_portales
+S122583003,L4298725,Portales City Park,2022-11-15,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,135,1.996,1,Traveling,34.182323,-103.3301389,10,10,city_2132_new_mexico_portales
+S122479396,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-11-15,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,225,,1,Stationary,34.180798,-103.330234,15,15,city_2132_new_mexico_portales
+S122537218,L4298725,Portales City Park,2022-11-16,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,61,0.966,1,Traveling,34.182323,-103.3301389,8,8,city_2132_new_mexico_portales
+S122518781,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-11-16,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,75,,1,Stationary,34.180798,-103.330234,16,16,city_2132_new_mexico_portales
+S122831780,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-11-22,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,120,,1,Stationary,34.180798,-103.330234,11,11,city_2132_new_mexico_portales
+S123119189,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2022-11-27,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,75,,1,Stationary,34.180798,-103.330234,10,10,city_2132_new_mexico_portales
+S123176705,L21645277,Portales City Park and Neighborhood,2022-11-28,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,0.731,1,Traveling,34.181733,-103.330073,5,5,city_2132_new_mexico_portales
+S124024537,L21645277,Portales City Park and Neighborhood,2022-12-15,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,95,3.073,1,Traveling,34.181733,-103.330073,13,13,city_2132_new_mexico_portales
+S124385184,L4160804,Portales City Park,2022-12-21,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,0.161,1,Traveling,34.1822342,-103.3298063,6,6,city_2132_new_mexico_portales
+S124635943,L12412663,ENMU Campus,2022-12-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,2.228,1,Traveling,34.1773767,-103.3485895,13,13,city_2132_new_mexico_portales
+S124632569,L21645277,Portales City Park and Neighborhood,2022-12-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,21,0.7,1,Traveling,34.181733,-103.330073,8,8,city_2132_new_mexico_portales
+S124637417,L6420875,Portales Cemetery,2022-12-26,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,5,0.56,1,Traveling,34.1855017,-103.3201427,2,2,city_2132_new_mexico_portales
+S124859883,L21645277,Portales City Park and Neighborhood,2022-12-29,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,24,0.953,1,Traveling,34.181733,-103.330073,11,11,city_2132_new_mexico_portales
+S124860831,L6420875,Portales Cemetery,2022-12-29,2022,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,5,0.68,1,Traveling,34.1855017,-103.3201427,6,6,city_2132_new_mexico_portales
+S126012676,L21645277,Portales City Park and Neighborhood,2023-01-12,2023,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,30,0.756,1,Traveling,34.181733,-103.330073,6,6,city_2132_new_mexico_portales
+S131954664,L7921854,"Twila's yard, Portales US-NM (34.1808,-103.3302)",2023-03-26,2023,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,5,,1,Stationary,34.180798,-103.330234,2,2,city_2132_new_mexico_portales
+S133833192,L12412663,ENMU Campus,2023-04-15,2023,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,7,,1,Stationary,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
+S149833106,L12412663,ENMU Campus,2023-09-13,2023,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,50,2.414,1,Traveling,34.1773767,-103.3485895,7,7,city_2132_new_mexico_portales
+S164753025,L2760828,City of Portales,2024-03-13,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,10,0.226,1,Traveling,34.1853939,-103.3376169,4,4,city_2132_new_mexico_portales
+S171610218,L12276829,My Backyard,2024-05-02,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.1726552,-103.3249658,9,9,city_2132_new_mexico_portales
+S171796185,L12276829,My Backyard,2024-05-03,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,80,,1,Stationary,34.1726552,-103.3249658,8,8,city_2132_new_mexico_portales
+S171731213,L12276829,My Backyard,2024-05-03,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,65,,1,Stationary,34.1726552,-103.3249658,7,7,city_2132_new_mexico_portales
+S171806600,L31237020,My house,2024-05-03,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,18,,1,Stationary,34.190023,-103.325687,2,2,city_2132_new_mexico_portales
+S172897587,L12276829,My Backyard,2024-05-08,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,20,,1,Stationary,34.1726552,-103.3249658,5,5,city_2132_new_mexico_portales
+S174225109,L31718238,"616 West 18th Street, Portales, New Mexico, US (34.171, -103.338)",2024-05-12,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,6,,1,Stationary,34.1712626,-103.3377671,9,9,city_2132_new_mexico_portales
+S178079331,L31237020,My house,2024-05-29,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,50,,1,Stationary,34.190023,-103.325687,6,6,city_2132_new_mexico_portales
+S181523634,L33325498,"223 W Second St, Portales US-NM 34.18415, -103.33746",2024-06-12,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,14,0.386,1,Traveling,34.184148,-103.337464,12,12,city_2132_new_mexico_portales
+S181365276,L33325498,"223 W Second St, Portales US-NM 34.18415, -103.33746",2024-06-14,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,17,0.768,1,Traveling,34.184148,-103.337464,8,8,city_2132_new_mexico_portales
+S193621333,L21645277,Portales City Park and Neighborhood,2024-08-31,2024,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,20,0.385,1,Traveling,34.181733,-103.330073,11,11,city_2132_new_mexico_portales
+S213260110,L40220708,"313 E 17th Ln, Portales US-NM (34.1728,-103.3249)",2025-02-14,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,45,,1,Stationary,34.172765,-103.324894,6,6,city_2132_new_mexico_portales
+S214931540,L31237020,My house,2025-02-22,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,,1,Stationary,34.190023,-103.325687,5,5,city_2132_new_mexico_portales
+S216070968,L12412663,ENMU Campus,2025-03-01,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,29,1.506,1,Traveling,34.1773767,-103.3485895,5,5,city_2132_new_mexico_portales
+S217040964,L12412663,ENMU Campus,2025-03-07,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,41,1.481,1,Traveling,34.1773767,-103.3485895,9,9,city_2132_new_mexico_portales
+S224375696,L12412663,ENMU Campus,2025-03-07,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,41,1.481,1,Traveling,34.1773767,-103.3485895,9,9,city_2132_new_mexico_portales
+S219231575,L12412663,ENMU Campus,2025-03-17,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,15,7.564,1,Traveling,34.1773767,-103.3485895,3,3,city_2132_new_mexico_portales
+S221549846,L12412663,ENMU Campus,2025-03-29,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,11,,1,Stationary,34.1773767,-103.3485895,10,10,city_2132_new_mexico_portales
+S221537409,L12412663,ENMU Campus,2025-03-29,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,44,1.824,1,Traveling,34.1773767,-103.3485895,12,12,city_2132_new_mexico_portales
+S221829196,L12412663,ENMU Campus,2025-03-30,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,55,2.045,1,Traveling,34.1773767,-103.3485895,12,12,city_2132_new_mexico_portales
+S230079752,L12412663,ENMU Campus,2025-04-27,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,50,2.02,1,Traveling,34.1773767,-103.3485895,18,18,city_2132_new_mexico_portales
+S231608686,L12412663,ENMU Campus,2025-05-01,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,66,2.39,1,Traveling,34.1773767,-103.3485895,18,18,city_2132_new_mexico_portales
+S231817787,L43877963,"608 S Main Ave, Portales",2025-05-01,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,106,,1,Stationary,34.182417,-103.333349,18,18,city_2132_new_mexico_portales
+S233858632,L12412663,ENMU Campus,2025-05-06,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,49,2.657,1,Traveling,34.1773767,-103.3485895,15,15,city_2132_new_mexico_portales
+S237983683,L43877963,"608 S Main Ave, Portales",2025-05-14,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,14,,1,Stationary,34.182417,-103.333349,10,10,city_2132_new_mexico_portales
+S240729241,L12412663,ENMU Campus,2025-05-20,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,26,0.204,1,Traveling,34.1773767,-103.3485895,10,10,city_2132_new_mexico_portales
+S251052452,L47776656,"1748 S Roosevelt Road 7, Portales US-NM 34.15696, -103.32641",2025-06-16,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,5,,1,Stationary,34.156962,-103.326406,5,5,city_2132_new_mexico_portales
+S261887282,L49207599,"Alta Terra, Portales, NM",2025-07-22,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,25,0.903,1,Traveling,34.177203,-103.363566,11,11,city_2132_new_mexico_portales
+S289903139,L56261778,"508 E 17th St, Portales US-NM 34.17325, -103.32086",2025-12-23,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,18,0.698,1,Traveling,34.173252,-103.320864,3,3,city_2132_new_mexico_portales
+S290069410,L12412663,ENMU Campus,2025-12-24,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,110,4.743,1,Traveling,34.1773767,-103.3485895,1,1,city_2132_new_mexico_portales
+S290057469,L12412663,ENMU Campus,2025-12-24,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,20,1.194,1,Traveling,34.1773767,-103.3485895,1,1,city_2132_new_mexico_portales
+S290034626,L56261778,"508 E 17th St, Portales US-NM 34.17325, -103.32086",2025-12-24,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,20,0.402,1,Traveling,34.173252,-103.320864,3,3,city_2132_new_mexico_portales
+S290036120,L56277876,Home,2025-12-24,2025,2132,"Portales, NM",Portales,New Mexico,Roosevelt,100,27,1.08,1,Traveling,34.174027,-103.324008,4,4,city_2132_new_mexico_portales

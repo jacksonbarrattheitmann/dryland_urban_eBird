@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2015,10249256.6749938,6,6,city_2751_kansas_wellington,1004.2874946594238,14.927083333333332,40.28900939711855,humid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2016,10249256.6749938,21,21,city_2751_kansas_wellington,856.6937398910522,15.765625,33.24948414374005,humid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2017,10249256.6749938,86,647,city_2751_kansas_wellington,863.4500021934509,15.377604166666668,34.02409449382095,humid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2018,10249256.6749938,78,616,city_2751_kansas_wellington,844.1875085830688,14.385416666666668,34.618539437836226,humid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2019,10249256.6749938,125,4757,city_2751_kansas_wellington,1013.587495803833,14.203125,41.8783729705909,humid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2020,10249256.6749938,101,2565,city_2751_kansas_wellington,791.0000057220459,14.924479166666666,31.73586899981879,humid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2021,10249256.6749938,80,1255,city_2751_kansas_wellington,752.1499981880188,15.231770833333332,29.809639725895263,dry subhumid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2022,10249256.6749938,101,2264,city_2751_kansas_wellington,638.9062461853027,14.744791666666668,25.819827250595267,dry subhumid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2023,10249256.6749938,103,2353,city_2751_kansas_wellington,767.356258392334,15.575520833333332,30.003543755488877,humid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2024,10249256.6749938,97,1480,city_2751_kansas_wellington,726.8749904632568,15.9453125,28.01565756678617,dry subhumid,12
-2751,"Wellington, KS",Wellington,Kansas,Sumner,2025,10249256.6749938,89,1116,city_2751_kansas_wellington,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2751,2015,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,6,6,city_2751_kansas_wellington,1004.28749465942,14.9270833333333,40.2890093971186,humid,12
+2751,2016,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,21,21,city_2751_kansas_wellington,856.693739891052,15.765625,33.2494841437401,humid,12
+2751,2017,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,86,647,city_2751_kansas_wellington,863.450002193451,15.3776041666667,34.0240944938209,humid,12
+2751,2018,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,78,616,city_2751_kansas_wellington,844.187508583069,14.3854166666667,34.6185394378362,humid,12
+2751,2019,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,125,4757,city_2751_kansas_wellington,1013.58749580383,14.203125,41.8783729705909,humid,12
+2751,2020,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,101,2565,city_2751_kansas_wellington,791.000005722046,14.9244791666667,31.7358689998188,humid,12
+2751,2021,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,80,1255,city_2751_kansas_wellington,752.149998188019,15.2317708333333,29.8096397258953,dry subhumid,12
+2751,2022,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,101,2264,city_2751_kansas_wellington,638.906246185303,14.7447916666667,25.8198272505953,dry subhumid,12
+2751,2023,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,103,2353,city_2751_kansas_wellington,767.356258392334,15.5755208333333,30.0035437554889,humid,12
+2751,2024,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,97,1480,city_2751_kansas_wellington,726.874990463257,15.9453125,28.0156575667862,dry subhumid,12
+2751,2025,"Wellington, KS",Wellington,Kansas,Sumner,99.9999999999997,89,1116,city_2751_kansas_wellington,,,,,

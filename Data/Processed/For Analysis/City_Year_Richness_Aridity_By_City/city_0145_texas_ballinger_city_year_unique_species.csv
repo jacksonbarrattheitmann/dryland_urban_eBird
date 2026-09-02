@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-145,"Ballinger, TX",Ballinger,Texas,Runnels,2015,5188108.5466657,11,13,city_0145_texas_ballinger,925.2562618255616,18.958333333333332,31.951295372393492,humid,12
-145,"Ballinger, TX",Ballinger,Texas,Runnels,2017,5188108.5466657,8,8,city_0145_texas_ballinger,612.5624990463257,19.661458333333332,20.651799792255407,dry subhumid,12
-145,"Ballinger, TX",Ballinger,Texas,Runnels,2019,5188108.5466657,21,26,city_0145_texas_ballinger,564.1062521934509,18.770833333333332,19.60687914937411,semiarid,12
-145,"Ballinger, TX",Ballinger,Texas,Runnels,2021,5188108.5466657,9,9,city_0145_texas_ballinger,640.4312467575073,18.848958333333332,22.199458273594768,dry subhumid,12
-145,"Ballinger, TX",Ballinger,Texas,Runnels,2022,5188108.5466657,2,2,city_0145_texas_ballinger,344.12499594688416,19.25,11.764957126389202,semiarid,12
-145,"Ballinger, TX",Ballinger,Texas,Runnels,2023,5188108.5466657,24,30,city_0145_texas_ballinger,479.3874988555908,19.8671875,16.050640819648347,semiarid,12
-145,"Ballinger, TX",Ballinger,Texas,Runnels,2024,5188108.5466657,11,14,city_0145_texas_ballinger,558.0374999046326,20.364583333333332,18.37790737250248,semiarid,12
-145,"Ballinger, TX",Ballinger,Texas,Runnels,2025,5188108.5466657,15,19,city_0145_texas_ballinger,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+145,2015,"Ballinger, TX",Ballinger,Texas,Runnels,100,11,13,city_0145_texas_ballinger,925.256261825562,18.9583333333333,31.9512953723935,humid,12
+145,2017,"Ballinger, TX",Ballinger,Texas,Runnels,100,8,8,city_0145_texas_ballinger,612.562499046326,19.6614583333333,20.6517997922554,dry subhumid,12
+145,2019,"Ballinger, TX",Ballinger,Texas,Runnels,100,21,26,city_0145_texas_ballinger,564.106252193451,18.7708333333333,19.6068791493741,semiarid,12
+145,2021,"Ballinger, TX",Ballinger,Texas,Runnels,100,9,9,city_0145_texas_ballinger,640.431246757507,18.8489583333333,22.1994582735948,dry subhumid,12
+145,2022,"Ballinger, TX",Ballinger,Texas,Runnels,100,2,2,city_0145_texas_ballinger,344.124995946884,19.25,11.7649571263892,semiarid,12
+145,2023,"Ballinger, TX",Ballinger,Texas,Runnels,100,24,30,city_0145_texas_ballinger,479.387498855591,19.8671875,16.0506408196483,semiarid,12
+145,2024,"Ballinger, TX",Ballinger,Texas,Runnels,100,11,14,city_0145_texas_ballinger,558.037499904633,20.3645833333333,18.3779073725025,semiarid,12
+145,2025,"Ballinger, TX",Ballinger,Texas,Runnels,100,15,19,city_0145_texas_ballinger,,,,,

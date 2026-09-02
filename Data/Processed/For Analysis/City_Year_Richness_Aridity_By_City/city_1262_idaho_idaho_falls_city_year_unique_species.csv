@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2015,115948089.655596,78,361,city_1262_idaho_idaho_falls,364.98125076293945,7.7421875,20.571378290469507,dry subhumid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2016,115948089.655596,73,385,city_1262_idaho_idaho_falls,362.2625036239624,7.2265625,21.029297262524803,dry subhumid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2017,115948089.655596,74,797,city_1262_idaho_idaho_falls,382.7312545776367,6.770833333333334,22.821242508977093,dry subhumid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2018,115948089.655596,79,798,city_1262_idaho_idaho_falls,359.4499988555908,6.841145833333334,21.343559542376195,dry subhumid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2019,115948089.655596,106,1082,city_1262_idaho_idaho_falls,389.8062477111816,5.713541666666666,24.807026702203142,dry subhumid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2020,115948089.655596,104,1485,city_1262_idaho_idaho_falls,315.33124923706055,7.171875,18.363239264032643,semiarid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2021,115948089.655596,114,1774,city_1262_idaho_idaho_falls,329.8375015258789,7.611979166666666,18.728020196057596,semiarid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2022,115948089.655596,114,2017,city_1262_idaho_idaho_falls,354.48125648498535,6.489583333333334,21.497284031938463,dry subhumid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2023,115948089.655596,107,1608,city_1262_idaho_idaho_falls,404.07500076293945,6.6875,24.214232255457045,dry subhumid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2024,115948089.655596,103,2522,city_1262_idaho_idaho_falls,333.15625381469727,7.8671875,18.64626169142162,semiarid,12
-1262,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,2025,115948089.655596,110,2379,city_1262_idaho_idaho_falls,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1262,2015,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,78,361,city_1262_idaho_idaho_falls,364.98125076294,7.7421875,20.5713782904695,dry subhumid,12
+1262,2016,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,73,385,city_1262_idaho_idaho_falls,362.262503623962,7.2265625,21.0292972625248,dry subhumid,12
+1262,2017,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,74,797,city_1262_idaho_idaho_falls,382.731254577637,6.77083333333333,22.8212425089771,dry subhumid,12
+1262,2018,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,79,798,city_1262_idaho_idaho_falls,359.449998855591,6.84114583333333,21.3435595423762,dry subhumid,12
+1262,2019,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,106,1063,city_1262_idaho_idaho_falls,389.806247711182,5.71354166666667,24.8070267022031,dry subhumid,12
+1262,2020,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,104,1485,city_1262_idaho_idaho_falls,315.331249237061,7.171875,18.3632392640326,semiarid,12
+1262,2021,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,114,1774,city_1262_idaho_idaho_falls,329.837501525879,7.61197916666667,18.7280201960576,semiarid,12
+1262,2022,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,114,2017,city_1262_idaho_idaho_falls,354.481256484985,6.48958333333333,21.4972840319385,dry subhumid,12
+1262,2023,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,107,1608,city_1262_idaho_idaho_falls,404.07500076294,6.6875,24.214232255457,dry subhumid,12
+1262,2024,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,103,2522,city_1262_idaho_idaho_falls,333.156253814697,7.8671875,18.6462616914216,semiarid,12
+1262,2025,"Idaho Falls, ID",Idaho Falls,Idaho,Bonneville,99.9999999999889,110,2379,city_1262_idaho_idaho_falls,,,,,

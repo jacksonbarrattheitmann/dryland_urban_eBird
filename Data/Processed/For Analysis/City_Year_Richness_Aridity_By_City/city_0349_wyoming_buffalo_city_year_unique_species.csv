@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2015,6122623.41040854,5,5,city_0349_wyoming_buffalo,394.6375002861023,7.8984375,22.048712368669182,dry subhumid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2016,6122623.41040854,47,81,city_0349_wyoming_buffalo,374.9749975204468,7.859375,20.995975364224492,dry subhumid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2017,6122623.41040854,58,222,city_0349_wyoming_buffalo,362.69999980926514,7.010416666666666,21.32222901511908,dry subhumid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2018,6122623.41040854,101,585,city_0349_wyoming_buffalo,432.3687505722046,6.200520833333334,26.68857100461767,dry subhumid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2019,6122623.41040854,103,734,city_0349_wyoming_buffalo,467.5937557220459,5.3515625,30.459033451614182,humid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2020,6122623.41040854,97,1623,city_0349_wyoming_buffalo,262.7250008583069,7.244791666666666,15.235034782481105,semiarid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2021,6122623.41040854,95,1308,city_0349_wyoming_buffalo,309.2499976158142,7.640625,17.530557880790177,semiarid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2022,6122623.41040854,113,1433,city_0349_wyoming_buffalo,356.9250020980835,6.502604166666666,21.62840473499512,dry subhumid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2023,6122623.41040854,102,1008,city_0349_wyoming_buffalo,478.0312547683716,7.0859375,27.97805240528192,dry subhumid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2024,6122623.41040854,113,1360,city_0349_wyoming_buffalo,276.8875026702881,8.15625,15.250258322632046,semiarid,12
-349,"Buffalo, WY",Buffalo,Wyoming,Johnson,2025,6122623.41040854,112,1434,city_0349_wyoming_buffalo,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+349,2015,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,5,5,city_0349_wyoming_buffalo,394.637500286102,7.8984375,22.0487123686692,dry subhumid,12
+349,2016,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,47,81,city_0349_wyoming_buffalo,374.974997520447,7.859375,20.9959753642245,dry subhumid,12
+349,2017,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,58,222,city_0349_wyoming_buffalo,362.699999809265,7.01041666666667,21.3222290151191,dry subhumid,12
+349,2018,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,101,585,city_0349_wyoming_buffalo,432.368750572205,6.20052083333333,26.6885710046177,dry subhumid,12
+349,2019,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,103,734,city_0349_wyoming_buffalo,467.593755722046,5.3515625,30.4590334516142,humid,12
+349,2020,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,97,1623,city_0349_wyoming_buffalo,262.725000858307,7.24479166666667,15.2350347824811,semiarid,12
+349,2021,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,95,1308,city_0349_wyoming_buffalo,309.249997615814,7.640625,17.5305578807902,semiarid,12
+349,2022,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,113,1433,city_0349_wyoming_buffalo,356.925002098084,6.50260416666667,21.6284047349951,dry subhumid,12
+349,2023,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,102,1008,city_0349_wyoming_buffalo,478.031254768372,7.0859375,27.9780524052819,dry subhumid,12
+349,2024,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,113,1360,city_0349_wyoming_buffalo,276.887502670288,8.15625,15.250258322632,semiarid,12
+349,2025,"Buffalo, WY",Buffalo,Wyoming,Johnson,100,112,1434,city_0349_wyoming_buffalo,,,,,

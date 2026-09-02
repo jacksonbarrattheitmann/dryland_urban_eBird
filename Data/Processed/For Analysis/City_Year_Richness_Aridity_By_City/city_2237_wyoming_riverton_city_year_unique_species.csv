@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2015,18405578.0453021,38,71,city_2237_wyoming_riverton,237.8437476158142,8.330729166666668,12.975138383928492,semiarid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2016,18405578.0453021,29,51,city_2237_wyoming_riverton,242.84375,8.533854166666668,13.102711816776733,semiarid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2017,18405578.0453021,50,70,city_2237_wyoming_riverton,213.60000228881836,7.877604166666666,11.94790981484432,semiarid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2018,18405578.0453021,26,43,city_2237_wyoming_riverton,226.12499856948853,7.276041666666666,13.088935702545012,semiarid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2019,18405578.0453021,42,135,city_2237_wyoming_riverton,264.26874589920044,6.408854166666666,16.10525288450928,semiarid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2020,18405578.0453021,24,50,city_2237_wyoming_riverton,136.63125205039978,7.932291666666666,7.619285621166646,arid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2021,18405578.0453021,23,139,city_2237_wyoming_riverton,194.56875133514404,8.333333333333332,10.612840981916948,semiarid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2022,18405578.0453021,18,33,city_2237_wyoming_riverton,208.2937488555908,7.4375,11.94516122469338,semiarid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2023,18405578.0453021,9,11,city_2237_wyoming_riverton,269.5812497138977,7.729166666666666,15.205522898081188,semiarid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2024,18405578.0453021,36,84,city_2237_wyoming_riverton,151.50000023841858,8.955729166666668,7.992306648104511,arid,12
-2237,"Riverton, WY",Riverton,Wyoming,Fremont,2025,18405578.0453021,60,182,city_2237_wyoming_riverton,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2237,2015,"Riverton, WY",Riverton,Wyoming,Fremont,100,37,69,city_2237_wyoming_riverton,237.843747615814,8.33072916666667,12.9751383839285,semiarid,12
+2237,2016,"Riverton, WY",Riverton,Wyoming,Fremont,100,29,51,city_2237_wyoming_riverton,242.84375,8.53385416666667,13.1027118167767,semiarid,12
+2237,2017,"Riverton, WY",Riverton,Wyoming,Fremont,100,50,70,city_2237_wyoming_riverton,213.600002288818,7.87760416666667,11.9479098148443,semiarid,12
+2237,2018,"Riverton, WY",Riverton,Wyoming,Fremont,100,26,43,city_2237_wyoming_riverton,226.124998569489,7.27604166666667,13.088935702545,semiarid,12
+2237,2019,"Riverton, WY",Riverton,Wyoming,Fremont,100,42,135,city_2237_wyoming_riverton,264.2687458992,6.40885416666667,16.1052528845093,semiarid,12
+2237,2020,"Riverton, WY",Riverton,Wyoming,Fremont,100,24,50,city_2237_wyoming_riverton,136.6312520504,7.93229166666667,7.61928562116665,arid,12
+2237,2021,"Riverton, WY",Riverton,Wyoming,Fremont,100,23,139,city_2237_wyoming_riverton,194.568751335144,8.33333333333333,10.6128409819169,semiarid,12
+2237,2022,"Riverton, WY",Riverton,Wyoming,Fremont,100,18,33,city_2237_wyoming_riverton,208.293748855591,7.4375,11.9451612246934,semiarid,12
+2237,2023,"Riverton, WY",Riverton,Wyoming,Fremont,100,9,11,city_2237_wyoming_riverton,269.581249713898,7.72916666666667,15.2055228980812,semiarid,12
+2237,2024,"Riverton, WY",Riverton,Wyoming,Fremont,100,36,84,city_2237_wyoming_riverton,151.500000238419,8.95572916666667,7.99230664810451,arid,12
+2237,2025,"Riverton, WY",Riverton,Wyoming,Fremont,100,60,182,city_2237_wyoming_riverton,,,,,

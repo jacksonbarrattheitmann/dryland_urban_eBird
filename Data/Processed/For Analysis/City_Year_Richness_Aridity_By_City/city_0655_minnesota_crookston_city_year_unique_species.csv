@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-655,"Crookston, MN",Crookston,Minnesota,Polk,2015,10551859.8561516,11,16,city_0655_minnesota_crookston,575.4812450408936,5.817708333333333,36.38208727291787,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2016,10551859.8561516,38,64,city_0655_minnesota_crookston,665.4562473297119,6.486979166666667,40.36253340303418,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2017,10551859.8561516,27,37,city_0655_minnesota_crookston,485.9499931335449,5.265625,31.83295758500192,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2018,10551859.8561516,15,16,city_0655_minnesota_crookston,547.3812589645386,4.390625,38.037351328697575,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2019,10551859.8561516,69,113,city_0655_minnesota_crookston,740.5875024795532,3.84375,53.49616270732665,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2020,10551859.8561516,44,139,city_0655_minnesota_crookston,493.28125071525574,5.421875,31.98581564921618,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2021,10551859.8561516,69,610,city_0655_minnesota_crookston,503.8812475204468,6.479166666666667,30.576864577726223,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2022,10551859.8561516,38,131,city_0655_minnesota_crookston,605.6812534332275,4.1328125,42.8563849858779,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2023,10551859.8561516,65,144,city_0655_minnesota_crookston,501.78750705718994,6.260416666666667,30.85944950511866,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2024,10551859.8561516,65,187,city_0655_minnesota_crookston,608.1874976158142,7.317708333333334,35.11939835856731,humid,12
-655,"Crookston, MN",Crookston,Minnesota,Polk,2025,10551859.8561516,37,112,city_0655_minnesota_crookston,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+655,2015,"Crookston, MN",Crookston,Minnesota,Polk,100,11,16,city_0655_minnesota_crookston,575.481245040894,5.81770833333333,36.3820872729179,humid,12
+655,2016,"Crookston, MN",Crookston,Minnesota,Polk,100,38,64,city_0655_minnesota_crookston,665.456247329712,6.48697916666667,40.3625334030342,humid,12
+655,2017,"Crookston, MN",Crookston,Minnesota,Polk,100,27,37,city_0655_minnesota_crookston,485.949993133545,5.265625,31.8329575850019,humid,12
+655,2018,"Crookston, MN",Crookston,Minnesota,Polk,100,15,16,city_0655_minnesota_crookston,547.381258964539,4.390625,38.0373513286976,humid,12
+655,2019,"Crookston, MN",Crookston,Minnesota,Polk,100,69,113,city_0655_minnesota_crookston,740.587502479553,3.84375,53.4961627073267,humid,12
+655,2020,"Crookston, MN",Crookston,Minnesota,Polk,100,44,139,city_0655_minnesota_crookston,493.281250715256,5.421875,31.9858156492162,humid,12
+655,2021,"Crookston, MN",Crookston,Minnesota,Polk,100,69,610,city_0655_minnesota_crookston,503.881247520447,6.47916666666667,30.5768645777262,humid,12
+655,2022,"Crookston, MN",Crookston,Minnesota,Polk,100,38,131,city_0655_minnesota_crookston,605.681253433228,4.1328125,42.8563849858779,humid,12
+655,2023,"Crookston, MN",Crookston,Minnesota,Polk,100,65,144,city_0655_minnesota_crookston,501.78750705719,6.26041666666667,30.8594495051187,humid,12
+655,2024,"Crookston, MN",Crookston,Minnesota,Polk,100,65,187,city_0655_minnesota_crookston,608.187497615814,7.31770833333333,35.1193983585673,humid,12
+655,2025,"Crookston, MN",Crookston,Minnesota,Polk,100,37,112,city_0655_minnesota_crookston,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2015,4365452.85559702,19,44,city_2795_arizona_willcox,433.5312504768371,17.7578125,15.618350706736605,semiarid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2016,4365452.85559702,23,40,city_2795_arizona_willcox,338.5625011920929,17.786458333333332,12.184442404663889,semiarid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2017,4365452.85559702,15,37,city_2795_arizona_willcox,333.6000026464462,18.377604166666668,11.755749382053349,semiarid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2018,4365452.85559702,28,57,city_2795_arizona_willcox,342.581246137619,17.9765625,12.24529447238627,semiarid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2019,4365452.85559702,25,47,city_2795_arizona_willcox,285.3687493801117,16.971354166666668,10.580438327890594,semiarid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2020,4365452.85559702,39,188,city_2795_arizona_willcox,152.4000016450882,18.0234375,5.438305048946554,arid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2021,4365452.85559702,39,150,city_2795_arizona_willcox,444.593750834465,17.838541666666668,15.97043969321184,semiarid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2022,4365452.85559702,21,31,city_2795_arizona_willcox,273.5874952673912,17.424479166666668,9.976032492895092,arid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2023,4365452.85559702,71,303,city_2795_arizona_willcox,219.53750002384183,17.5390625,7.971858156894116,arid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2024,4365452.85559702,47,95,city_2795_arizona_willcox,240.2437545657158,18.481770833333332,8.435000617466843,arid,12
-2795,"Willcox, AZ",Willcox,Arizona,Cochise,2025,4365452.85559702,22,66,city_2795_arizona_willcox,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2795,2015,"Willcox, AZ",Willcox,Arizona,Cochise,100,19,44,city_2795_arizona_willcox,433.531250476837,17.7578125,15.6183507067366,semiarid,12
+2795,2016,"Willcox, AZ",Willcox,Arizona,Cochise,100,23,40,city_2795_arizona_willcox,338.562501192093,17.7864583333333,12.1844424046639,semiarid,12
+2795,2017,"Willcox, AZ",Willcox,Arizona,Cochise,100,15,37,city_2795_arizona_willcox,333.600002646446,18.3776041666667,11.7557493820533,semiarid,12
+2795,2018,"Willcox, AZ",Willcox,Arizona,Cochise,100,28,57,city_2795_arizona_willcox,342.581246137619,17.9765625,12.2452944723863,semiarid,12
+2795,2019,"Willcox, AZ",Willcox,Arizona,Cochise,100,25,47,city_2795_arizona_willcox,285.368749380112,16.9713541666667,10.5804383278906,semiarid,12
+2795,2020,"Willcox, AZ",Willcox,Arizona,Cochise,100,39,188,city_2795_arizona_willcox,152.400001645088,18.0234375,5.43830504894655,arid,12
+2795,2021,"Willcox, AZ",Willcox,Arizona,Cochise,100,39,150,city_2795_arizona_willcox,444.593750834465,17.8385416666667,15.9704396932118,semiarid,12
+2795,2022,"Willcox, AZ",Willcox,Arizona,Cochise,100,21,31,city_2795_arizona_willcox,273.587495267391,17.4244791666667,9.97603249289509,arid,12
+2795,2023,"Willcox, AZ",Willcox,Arizona,Cochise,100,71,303,city_2795_arizona_willcox,219.537500023842,17.5390625,7.97185815689412,arid,12
+2795,2024,"Willcox, AZ",Willcox,Arizona,Cochise,100,47,95,city_2795_arizona_willcox,240.243754565716,18.4817708333333,8.43500061746684,arid,12
+2795,2025,"Willcox, AZ",Willcox,Arizona,Cochise,100,22,66,city_2795_arizona_willcox,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2015,42944469.2561001,25,38,city_0021_new_mexico_alamogordo,452.31874084472656,15.716145833333334,17.588900909810125,semiarid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2016,42944469.2561001,18,28,city_0021_new_mexico_alamogordo,305.5187499523163,16.236979166666668,11.64458560612302,semiarid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2017,42944469.2561001,46,159,city_0021_new_mexico_alamogordo,344.3999948501587,16.3515625,13.0694335430834,semiarid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2018,42944469.2561001,37,113,city_0021_new_mexico_alamogordo,319.6812512874603,15.921875,12.332489501143735,semiarid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2019,42944469.2561001,51,346,city_0021_new_mexico_alamogordo,303.07499599456787,15.583333333333334,11.846579647996135,semiarid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2020,42944469.2561001,72,257,city_0021_new_mexico_alamogordo,175.6937472820282,16.268229166666668,6.688450377346964,arid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2021,42944469.2561001,44,115,city_0021_new_mexico_alamogordo,337.29375076293945,15.7734375,13.086874840150424,semiarid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2022,42944469.2561001,62,291,city_0021_new_mexico_alamogordo,315.0937547683716,15.7578125,12.23293922061012,semiarid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2023,42944469.2561001,69,312,city_0021_new_mexico_alamogordo,186.9937514066696,16.463541666666668,7.06608940564467,arid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2024,42944469.2561001,57,281,city_0021_new_mexico_alamogordo,298.61875104904175,16.919270833333332,11.09312183446184,semiarid,12
-21,"Alamogordo, NM",Alamogordo,New Mexico,Otero,2025,42944469.2561001,59,302,city_0021_new_mexico_alamogordo,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+21,2015,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,25,38,city_0021_new_mexico_alamogordo,452.318740844727,15.7161458333333,17.5889009098101,semiarid,12
+21,2016,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,18,28,city_0021_new_mexico_alamogordo,305.518749952316,16.2369791666667,11.644585606123,semiarid,12
+21,2017,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,46,159,city_0021_new_mexico_alamogordo,344.399994850159,16.3515625,13.0694335430834,semiarid,12
+21,2018,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,37,113,city_0021_new_mexico_alamogordo,319.68125128746,15.921875,12.3324895011437,semiarid,12
+21,2019,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,51,346,city_0021_new_mexico_alamogordo,303.074995994568,15.5833333333333,11.8465796479961,semiarid,12
+21,2020,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,72,257,city_0021_new_mexico_alamogordo,175.693747282028,16.2682291666667,6.68845037734696,arid,12
+21,2021,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,44,115,city_0021_new_mexico_alamogordo,337.29375076294,15.7734375,13.0868748401504,semiarid,12
+21,2022,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,62,286,city_0021_new_mexico_alamogordo,315.093754768372,15.7578125,12.2329392206101,semiarid,12
+21,2023,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,69,312,city_0021_new_mexico_alamogordo,186.99375140667,16.4635416666667,7.06608940564467,arid,12
+21,2024,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,57,281,city_0021_new_mexico_alamogordo,298.618751049042,16.9192708333333,11.0931218344618,semiarid,12
+21,2025,"Alamogordo, NM",Alamogordo,New Mexico,Otero,99.9999999999873,59,302,city_0021_new_mexico_alamogordo,,,,,

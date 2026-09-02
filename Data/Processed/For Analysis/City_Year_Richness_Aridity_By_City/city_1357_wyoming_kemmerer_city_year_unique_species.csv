@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1357,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,2018,3797552.33669299,19,34,city_1357_wyoming_kemmerer,200.0375018119812,4.705729166666666,13.602691817921158,semiarid,12
-1357,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,2019,3797552.33669299,4,4,city_1357_wyoming_kemmerer,263.4937524795532,3.6276041666666665,19.335295423685924,semiarid,12
-1357,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,2020,3797552.33669299,39,64,city_1357_wyoming_kemmerer,155.04374742507937,4.963541666666666,10.361433868992425,semiarid,12
-1357,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,2021,3797552.33669299,12,33,city_1357_wyoming_kemmerer,232.8250026702881,5.385416666666666,15.132837004974718,semiarid,12
-1357,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,2022,3797552.33669299,31,67,city_1357_wyoming_kemmerer,231.9374961853027,4.338541666666666,16.175807943181304,semiarid,12
-1357,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,2023,3797552.33669299,36,58,city_1357_wyoming_kemmerer,281.2749991416931,4.471354166666666,19.436674405328443,semiarid,12
-1357,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,2024,3797552.33669299,20,41,city_1357_wyoming_kemmerer,200.96250009536743,5.643229166666666,12.846612291763126,semiarid,12
-1357,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,2025,3797552.33669299,22,47,city_1357_wyoming_kemmerer,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1357,2018,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,100,19,34,city_1357_wyoming_kemmerer,200.037501811981,4.70572916666667,13.6026918179212,semiarid,12
+1357,2019,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,100,4,4,city_1357_wyoming_kemmerer,263.493752479553,3.62760416666667,19.3352954236859,semiarid,12
+1357,2020,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,100,39,64,city_1357_wyoming_kemmerer,155.043747425079,4.96354166666667,10.3614338689924,semiarid,12
+1357,2021,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,100,12,33,city_1357_wyoming_kemmerer,232.825002670288,5.38541666666667,15.1328370049747,semiarid,12
+1357,2022,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,100,31,67,city_1357_wyoming_kemmerer,231.937496185303,4.33854166666667,16.1758079431813,semiarid,12
+1357,2023,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,100,36,58,city_1357_wyoming_kemmerer,281.274999141693,4.47135416666667,19.4366744053284,semiarid,12
+1357,2024,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,100,20,41,city_1357_wyoming_kemmerer,200.962500095367,5.64322916666667,12.8466122917631,semiarid,12
+1357,2025,"Kemmerer, WY",Kemmerer,Wyoming,Lincoln,100,22,47,city_1357_wyoming_kemmerer,,,,,

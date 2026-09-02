@@ -7,8 +7,8 @@ S26847229	2016-01-11	L3012932	City of Cuero	European Starling	Sturnus vulgaris	2
 S26847229	2016-01-11	L3012932	City of Cuero	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.0930747	-97.2876091	Traveling	1	0
 S26847229	2016-01-11	L3012932	City of Cuero	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	29.0930747	-97.2876091	Traveling	1	0
 S26847229	2016-01-11	L3012932	City of Cuero	House Sparrow	Passer domesticus	31534	species	60	29.0930747	-97.2876091	Traveling	1	0
-S37995549	2016-02-11	L1546558	DeWitt Co-Hwys 87 & 183N & 236	American Crow	Corvus brachyrhynchos	21557	species	2	29.0894945	-97.2880589	Traveling	1	0
 S26847229	2016-01-11	L3012932	City of Cuero	Eastern Phoebe	Sayornis phoebe	17007	species	4	29.0930747	-97.2876091	Traveling	1	0
+S37995549	2016-02-11	L1546558	DeWitt Co-Hwys 87 & 183N & 236	American Crow	Corvus brachyrhynchos	21557	species	2	29.0894945	-97.2880589	Traveling	1	0
 S30030163	2016-05-31	L3012932	City of Cuero	Common Grackle	Quiscalus quiscula	33853	species	2	29.0930747	-97.2876091	Stationary	1	0
 S30671516	2016-07-13	L3012932	City of Cuero	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.0930747	-97.2876091	Traveling	1	0
 S30671516	2016-07-13	L3012932	City of Cuero	Mississippi Kite	Ictinia mississippiensis	8388	species	5	29.0930747	-97.2876091	Traveling	1	0
@@ -81,18 +81,30 @@ S41591483	2018-01-03	L6661664	HILLSIDE CEMETERY	Ruby-crowned Kinglet	Corthylio c
 S41591483	2018-01-03	L6661664	HILLSIDE CEMETERY	Yellow-rumped Warbler	Setophaga coronata	34160	issf	4	29.0950365	-97.2790486	Traveling	1	0
 S41591483	2018-01-03	L6661664	HILLSIDE CEMETERY	Northern Mockingbird	Mimus polyglottos	28114	species	4	29.0950365	-97.2790486	Traveling	1	0
 S41591483	2018-01-03	L6661664	HILLSIDE CEMETERY	Pine Warbler	Setophaga pinus	34153	species	1	29.0950365	-97.2790486	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Purple Martin	Progne subis	24081	species	2	29.0993329	-97.2892789	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	House Sparrow	Passer domesticus	31534	species	4	29.0993329	-97.2892789	Traveling	1	0
+S55600784	2019-04-29	L9151686	Cuero, Hwy 72 west	Western Cattle-Egret	Ardea ibis	7724	species	25	29.0847094	-97.2956208	Traveling	1	0
+S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Bewick's Wren	Thryomanes bewickii	27362	species	1	29.1434250	-97.2851970	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Killdeer	Charadrius vociferus	5827	species	1	29.0993329	-97.2892789	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Bewick's Wren	Thryomanes bewickii	27362	species	1	29.0993329	-97.2892789	Traveling	1	0
+S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Mourning Dove	Zenaida macroura	2412	species	3	29.1434250	-97.2851970	Traveling	1	0
+S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Northern Mockingbird	Mimus polyglottos	28114	species	4	29.1434250	-97.2851970	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Great Crested Flycatcher	Myiarchus crinitus	17334	species	2	29.0993329	-97.2892789	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Summer Tanager	Piranga rubra	34432	species	1	29.0993329	-97.2892789	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	29.0993329	-97.2892789	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	White-eyed Vireo	Vireo griseus	19165	species	1	29.0993329	-97.2892789	Traveling	1	0
+S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Great Egret	Ardea alba	7729	species	1	29.1434250	-97.2851970	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Marsh Wren	Cistothorus palustris	27329	species	1	29.0993329	-97.2892789	Traveling	1	0
+S55600241	2019-04-29	L9151645	Cuero Hwy 77A at Broadway	White-winged Dove	Zenaida asiatica	2389	species	1	29.0942978	-97.2899345	Stationary	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Chestnut-sided Warbler	Setophaga pensylvanica	34133	species	1	29.0993329	-97.2892789	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	6	29.0993329	-97.2892789	Traveling	1	0
+S55600241	2019-04-29	L9151645	Cuero Hwy 77A at Broadway	European Starling	Sturnus vulgaris	27813	species	2	29.0942978	-97.2899345	Stationary	1	0
 S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Black Vulture	Coragyps atratus	7811	species	1	29.1434250	-97.2851970	Traveling	1	0
 S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Carolina Chickadee	Poecile carolinensis	22060	species	3	29.1434250	-97.2851970	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Northern Mockingbird	Mimus polyglottos	28114	species	3	29.0993329	-97.2892789	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Purple Martin	Progne subis	24081	species	2	29.0993329	-97.2892789	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	40	29.0993329	-97.2892789	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	House Sparrow	Passer domesticus	31534	species	4	29.0993329	-97.2892789	Traveling	1	0
 S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Purple Martin	Progne subis	24081	species	2	29.1434250	-97.2851970	Traveling	1	0
-S55600784	2019-04-29	L9151686	Cuero, Hwy 72 west	Western Cattle-Egret	Ardea ibis	7724	species	25	29.0847094	-97.2956208	Traveling	1	0
-S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Bewick's Wren	Thryomanes bewickii	27362	species	1	29.1434250	-97.2851970	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Turkey Vulture	Cathartes aura	7815	species	3	29.0993329	-97.2892789	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Killdeer	Charadrius vociferus	5827	species	1	29.0993329	-97.2892789	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Bewick's Wren	Thryomanes bewickii	27362	species	1	29.0993329	-97.2892789	Traveling	1	0
 S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Painted Bunting	Passerina ciris	34621	species	2	29.1434250	-97.2851970	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Common Grackle	Quiscalus quiscula	33853	species	4	29.0993329	-97.2892789	Traveling	1	0
 S55600241	2019-04-29	L9151645	Cuero Hwy 77A at Broadway	Black Vulture	Coragyps atratus	7811	species	1	29.0942978	-97.2899345	Stationary	1	0
@@ -100,55 +112,43 @@ S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Common Yellowthroat	Geothlypis trichas	34028	species	1	29.0993329	-97.2892789	Traveling	1	0
 S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	White-eyed Vireo	Vireo griseus	19165	species	2	29.1434250	-97.2851970	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.0993329	-97.2892789	Traveling	1	0
-S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Mourning Dove	Zenaida macroura	2412	species	3	29.1434250	-97.2851970	Traveling	1	0
 S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Northern Cardinal	Cardinalis cardinalis	34515	species	6	29.1434250	-97.2851970	Traveling	1	0
 S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Tufted Titmouse	Baeolophus bicolor	22160	species	1	29.1434250	-97.2851970	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Northern Parula	Setophaga americana	34063	species	1	29.0993329	-97.2892789	Traveling	1	0
-S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Northern Mockingbird	Mimus polyglottos	28114	species	4	29.1434250	-97.2851970	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Great Crested Flycatcher	Myiarchus crinitus	17334	species	2	29.0993329	-97.2892789	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Summer Tanager	Piranga rubra	34432	species	1	29.0993329	-97.2892789	Traveling	1	0
 S55600241	2019-04-29	L9151645	Cuero Hwy 77A at Broadway	Mourning Dove	Zenaida macroura	2412	species	2	29.0942978	-97.2899345	Stationary	1	0
 S55600784	2019-04-29	L9151686	Cuero, Hwy 72 west	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	10	29.0847094	-97.2956208	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	29.0993329	-97.2892789	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	White-eyed Vireo	Vireo griseus	19165	species	1	29.0993329	-97.2892789	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Crested Caracara	Caracara plancus	11963	issf	1	29.0993329	-97.2892789	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Painted Bunting	Passerina ciris	34621	species	1	29.0993329	-97.2892789	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Grasshopper Sparrow	Ammodramus savannarum	32943	species	1	29.0993329	-97.2892789	Traveling	1	0
 S55600241	2019-04-29	L9151645	Cuero Hwy 77A at Broadway	Turkey Vulture	Cathartes aura	7815	species	4	29.0942978	-97.2899345	Stationary	1	0
-S57156405	2019-05-26	L9422337	Yoakum BBS stops 29-32; 127–1399 Ed Blackwell Rd, Cuero US-TX (29.1434,-97.2852)	Great Egret	Ardea alba	7729	species	1	29.1434250	-97.2851970	Traveling	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Marsh Wren	Cistothorus palustris	27329	species	1	29.0993329	-97.2892789	Traveling	1	0
-S55600241	2019-04-29	L9151645	Cuero Hwy 77A at Broadway	White-winged Dove	Zenaida asiatica	2389	species	1	29.0942978	-97.2899345	Stationary	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Chestnut-sided Warbler	Setophaga pensylvanica	34133	species	1	29.0993329	-97.2892789	Traveling	1	0
-S55600241	2019-04-29	L9151645	Cuero Hwy 77A at Broadway	European Starling	Sturnus vulgaris	27813	species	2	29.0942978	-97.2899345	Stationary	1	0
-S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	6	29.0993329	-97.2892789	Traveling	1	0
+S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	Grasshopper Sparrow	Ammodramus savannarum	32943	species	1	29.0993329	-97.2892789	Traveling	1	0
 S55405477	2019-04-25	L9118707	210 West Reuss Boulevard, Cuero, Texas, US (29.099, -97.289)	White-winged Dove	Zenaida asiatica	2389	species	2	29.0993329	-97.2892789	Traveling	1	0
 S55600241	2019-04-29	L9151645	Cuero Hwy 77A at Broadway	House Sparrow	Passer domesticus	31534	species	2	29.0942978	-97.2899345	Stationary	1	0
-S70820117	2020-06-25	L375472	Cuero	Turkey Vulture	Cathartes aura	7815	species	1	29.0938500	-97.2891700	Traveling	1	0
 S70820117	2020-06-25	L375472	Cuero	Barn Swallow	Hirundo rustica	24187	species	4	29.0938500	-97.2891700	Traveling	1	0
+S70820117	2020-06-25	L375472	Cuero	Turkey Vulture	Cathartes aura	7815	species	1	29.0938500	-97.2891700	Traveling	1	0
+S77905063	2020-12-23	L13018976	Cuero (town)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.0938842	-97.2900422	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.0936850	-97.2777190	Traveling	1	0
 S72951575	2020-08-29	L12175959	125 Ed Blackwell Road, Cuero, Texas, US (29.141, -97.301)	Yellow-billed Cuckoo	Coccyzus americanus	3238	species	1	29.1407966	-97.3008430	Traveling	1	0
 S72951575	2020-08-29	L12175959	125 Ed Blackwell Road, Cuero, Texas, US (29.141, -97.301)	Pileated Woodpecker	Dryocopus pileatus	11762	species	1	29.1407966	-97.3008430	Traveling	1	0
-S77905063	2020-12-23	L13018976	Cuero (town)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.0938842	-97.2900422	Traveling	1	0
-S72951575	2020-08-29	L12175959	125 Ed Blackwell Road, Cuero, Texas, US (29.141, -97.301)	Mourning Dove	Zenaida macroura	2412	species	1	29.1407966	-97.3008430	Traveling	1	0
-S70820117	2020-06-25	L375472	Cuero	Common Nighthawk	Chordeiles minor	3492	species	2	29.0938500	-97.2891700	Traveling	1	0
-S77905063	2020-12-23	L13018976	Cuero (town)	Black Vulture	Coragyps atratus	7811	species	3	29.0938842	-97.2900422	Traveling	1	0
-S77905063	2020-12-23	L13018976	Cuero (town)	House Sparrow	Passer domesticus	31534	species	4	29.0938842	-97.2900422	Traveling	1	0
 S77905063	2020-12-23	L13018976	Cuero (town)	American Pipit	Anthus rubescens	31883	species	2	29.0938842	-97.2900422	Traveling	1	0
-S77905063	2020-12-23	L13018976	Cuero (town)	Turkey Vulture	Cathartes aura	7815	species	7	29.0938842	-97.2900422	Traveling	1	0
 S70820117	2020-06-25	L375472	Cuero	Mississippi Kite	Ictinia mississippiensis	8388	species	5	29.0938500	-97.2891700	Traveling	1	0
+S70820117	2020-06-25	L375472	Cuero	Common Nighthawk	Chordeiles minor	3492	species	2	29.0938500	-97.2891700	Traveling	1	0
+S72951575	2020-08-29	L12175959	125 Ed Blackwell Road, Cuero, Texas, US (29.141, -97.301)	Mourning Dove	Zenaida macroura	2412	species	1	29.1407966	-97.3008430	Traveling	1	0
+S77905063	2020-12-23	L13018976	Cuero (town)	House Sparrow	Passer domesticus	31534	species	4	29.0938842	-97.2900422	Traveling	1	0
+S77905063	2020-12-23	L13018976	Cuero (town)	Black Vulture	Coragyps atratus	7811	species	3	29.0938842	-97.2900422	Traveling	1	0
+S77905063	2020-12-23	L13018976	Cuero (town)	Turkey Vulture	Cathartes aura	7815	species	7	29.0938842	-97.2900422	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Killdeer	Charadrius vociferus	5827	species	1	29.0936850	-97.2777190	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	White-winged Dove	Zenaida asiatica	2389	species	3	29.0936850	-97.2777190	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.0936850	-97.2777190	Traveling	1	0
 S77905063	2020-12-23	L13018976	Cuero (town)	Crested Caracara	Caracara plancus	11963	issf	2	29.0938842	-97.2900422	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	29.0936850	-97.2777190	Traveling	1	0
+S77905063	2020-12-23	L13018976	Cuero (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.0938842	-97.2900422	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Downy Woodpecker	Dryobates pubescens	11400	species	1	29.0936850	-97.2777190	Traveling	1	0
 S77905063	2020-12-23	L13018976	Cuero (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	15	29.0938842	-97.2900422	Traveling	1	0
 S70820117	2020-06-25	L375472	Cuero	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.0938500	-97.2891700	Traveling	1	0
-S77905063	2020-12-23	L13018976	Cuero (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.0938842	-97.2900422	Traveling	1	0
 S77905063	2020-12-23	L13018976	Cuero (town)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.0938842	-97.2900422	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.0936850	-97.2777190	Traveling	1	0
-S72951575	2020-08-29	L12175959	125 Ed Blackwell Road, Cuero, Texas, US (29.141, -97.301)	Orchard Oriole	Icterus spurius	33679	species	1	29.1407966	-97.3008430	Traveling	1	0
 S70820117	2020-06-25	L375472	Cuero	Northern Mockingbird	Mimus polyglottos	28114	species	4	29.0938500	-97.2891700	Traveling	1	0
+S72951575	2020-08-29	L12175959	125 Ed Blackwell Road, Cuero, Texas, US (29.141, -97.301)	Orchard Oriole	Icterus spurius	33679	species	1	29.1407966	-97.3008430	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Loggerhead Shrike	Lanius ludovicianus	21091	species	4	29.0936850	-97.2777190	Traveling	1	0
 S70820117	2020-06-25	L375472	Cuero	Common Grackle	Quiscalus quiscula	33853	species	3	29.0938500	-97.2891700	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.0936850	-97.2777190	Traveling	1	0
@@ -158,64 +158,64 @@ S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Mourning Do
 S77905063	2020-12-23	L13018976	Cuero (town)	Orange-crowned Warbler	Leiothlypis celata	33973	species	2	29.0938842	-97.2900422	Traveling	1	0
 S70820117	2020-06-25	L375472	Cuero	Western Kingbird	Tyrannus verticalis	17467	species	7	29.0938500	-97.2891700	Traveling	1	0
 S70820117	2020-06-25	L375472	Cuero	Chimney Swift	Chaetura pelagica	3896	species	6	29.0938500	-97.2891700	Traveling	1	0
-S77905063	2020-12-23	L13018976	Cuero (town)	Rock Pigeon	Columba livia	1868	domestic	2	29.0938842	-97.2900422	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.0936850	-97.2777190	Traveling	1	0
+S77905063	2020-12-23	L13018976	Cuero (town)	Rock Pigeon	Columba livia	1868	domestic	2	29.0938842	-97.2900422	Traveling	1	0
 S77905063	2020-12-23	L13018976	Cuero (town)	Yellow-rumped Warbler	Setophaga coronata	34160	issf	1	29.0938842	-97.2900422	Traveling	1	0
 S63810225	2020-01-26	L10578764	77954, Cuero US-TX (29.0937,-97.2777)	Inca Dove	Columbina inca	2242	species	1	29.0936850	-97.2777190	Traveling	1	0
-S97436444	2021-11-11	L181860	77954 Cuero	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.0932850	-97.2908550	Traveling	1	0
 S91070523	2021-07-01	L181860	77954 Cuero	Western Kingbird	Tyrannus verticalis	17467	species	3	29.0932850	-97.2908550	Traveling	1	0
+S97436444	2021-11-11	L181860	77954 Cuero	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.0932850	-97.2908550	Traveling	1	0
 S97436444	2021-11-11	L181860	77954 Cuero	Tufted Titmouse	Baeolophus bicolor	22160	species	2	29.0932850	-97.2908550	Traveling	1	0
-S97436444	2021-11-11	L181860	77954 Cuero	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.0932850	-97.2908550	Traveling	1	0
 S97436444	2021-11-11	L181860	77954 Cuero	House Sparrow	Passer domesticus	31534	species	5	29.0932850	-97.2908550	Traveling	1	0
+S97436444	2021-11-11	L181860	77954 Cuero	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.0932850	-97.2908550	Traveling	1	0
 S91070523	2021-07-01	L181860	77954 Cuero	Yellow-billed Cuckoo	Coccyzus americanus	3238	species	1	29.0932850	-97.2908550	Traveling	1	0
-S91070523	2021-07-01	L181860	77954 Cuero	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.0932850	-97.2908550	Traveling	1	0
 S91070523	2021-07-01	L181860	77954 Cuero	Black Vulture	Coragyps atratus	7811	species	2	29.0932850	-97.2908550	Traveling	1	0
 S91070523	2021-07-01	L181860	77954 Cuero	Great Blue Heron	Ardea herodias	7753	species	2	29.0932850	-97.2908550	Traveling	1	0
+S91070523	2021-07-01	L181860	77954 Cuero	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.0932850	-97.2908550	Traveling	1	0
 S97436444	2021-11-11	L181860	77954 Cuero	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.0932850	-97.2908550	Traveling	1	0
 S91070523	2021-07-01	L181860	77954 Cuero	Barn Swallow	Hirundo rustica	24187	species	2	29.0932850	-97.2908550	Traveling	1	0
-S97436444	2021-11-11	L181860	77954 Cuero	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.0932850	-97.2908550	Traveling	1	0
-S97436444	2021-11-11	L181860	77954 Cuero	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	29.0932850	-97.2908550	Traveling	1	0
 S85593520	2021-04-15	L12961929	Office	Western Kingbird	Tyrannus verticalis	17467	species	1	29.0919370	-97.2894560	Stationary	1	0
 S97436444	2021-11-11	L181860	77954 Cuero	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.0932850	-97.2908550	Traveling	1	0
+S97436444	2021-11-11	L181860	77954 Cuero	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.0932850	-97.2908550	Traveling	1	0
+S97436444	2021-11-11	L181860	77954 Cuero	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	29.0932850	-97.2908550	Traveling	1	0
 S97436444	2021-11-11	L181860	77954 Cuero	House Finch	Haemorhous mexicanus	32310	species	2	29.0932850	-97.2908550	Traveling	1	0
 S91070523	2021-07-01	L181860	77954 Cuero	Common Grackle	Quiscalus quiscula	33853	species	2	29.0932850	-97.2908550	Traveling	1	0
 S97436444	2021-11-11	L181860	77954 Cuero	European Starling	Sturnus vulgaris	27813	species	29	29.0932850	-97.2908550	Traveling	1	0
-S91070523	2021-07-01	L181860	77954 Cuero	Blue Jay	Cyanocitta cristata	21294	species	1	29.0932850	-97.2908550	Traveling	1	0
 S91070523	2021-07-01	L181860	77954 Cuero	Mourning Dove	Zenaida macroura	2412	species	6	29.0932850	-97.2908550	Traveling	1	0
+S91070523	2021-07-01	L181860	77954 Cuero	Blue Jay	Cyanocitta cristata	21294	species	1	29.0932850	-97.2908550	Traveling	1	0
 S97436444	2021-11-11	L181860	77954 Cuero	White-winged Dove	Zenaida asiatica	2389	species	11	29.0932850	-97.2908550	Traveling	1	0
 S85593520	2021-04-15	L12961929	Office	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	1	29.0919370	-97.2894560	Stationary	1	0
 S91070523	2021-07-01	L181860	77954 Cuero	House Sparrow	Passer domesticus	31534	species	6	29.0932850	-97.2908550	Traveling	1	0
 S97436444	2021-11-11	L181860	77954 Cuero	Black Vulture	Coragyps atratus	7811	species	12	29.0932850	-97.2908550	Traveling	1	0
-S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Green Heron	Butorides virescens	7704	species	2	29.0984741	-97.2966612	Traveling	1	0
 S126991355	2023-01-26	L17925539	DeWitt CCH	Rock Pigeon	Columba livia	1868	domestic	12	29.0912438	-97.2844578	Traveling	1	0
 S142266311	2023-06-21	L25368721	Cuervo TX Area	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	29.0973339	-97.2885115	Traveling	1	0
+S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Green Heron	Butorides virescens	7704	species	2	29.0984741	-97.2966612	Traveling	1	0
 S129530958	2023-02-24	L22794630	504 East Morgan Avenue, Cuero, Texas, US (29.087, -97.287)	Mourning Dove	Zenaida macroura	2412	species	1	29.0868290	-97.2874196	Traveling	1	0
-S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.0984741	-97.2966612	Traveling	1	0
-S142266311	2023-06-21	L25368721	Cuervo TX Area	White-winged Dove	Zenaida asiatica	2389	species	3	29.0973339	-97.2885115	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Yellow-bellied Sapsucker	Sphyrapicus varius	11126	species	1	29.0950365	-97.2790486	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	White-winged Dove	Zenaida asiatica	2389	species	3	29.0950365	-97.2790486	Traveling	1	0
-S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Purple Martin	Progne subis	24081	species	5	29.0984741	-97.2966612	Traveling	1	0
+S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.0984741	-97.2966612	Traveling	1	0
+S142266311	2023-06-21	L25368721	Cuervo TX Area	White-winged Dove	Zenaida asiatica	2389	species	3	29.0973339	-97.2885115	Traveling	1	0
 S126991355	2023-01-26	L17925539	DeWitt CCH	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.0912438	-97.2844578	Traveling	1	0
+S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Purple Martin	Progne subis	24081	species	5	29.0984741	-97.2966612	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Carolina Chickadee	Poecile carolinensis	22060	species	2	29.0950365	-97.2790486	Traveling	1	0
-S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Northern Cardinal	Cardinalis cardinalis	34515	species	10	29.0984741	-97.2966612	Traveling	1	0
 S126991355	2023-01-26	L17925539	DeWitt CCH	American Kestrel	Falco sparverius	12028	species	2	29.0912438	-97.2844578	Traveling	1	0
+S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Northern Cardinal	Cardinalis cardinalis	34515	species	10	29.0984741	-97.2966612	Traveling	1	0
 S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Barn Swallow	Hirundo rustica	24187	species	5	29.0984741	-97.2966612	Traveling	1	0
 S142266311	2023-06-21	L25368721	Cuervo TX Area	Mourning Dove	Zenaida macroura	2412	species	1	29.0973339	-97.2885115	Traveling	1	0
 S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.0984741	-97.2966612	Traveling	1	0
-S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Northern Cardinal	Cardinalis cardinalis	34515	species	3	29.0950365	-97.2790486	Traveling	1	0
-S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Pine Warbler	Setophaga pinus	34153	species	1	29.0950365	-97.2790486	Traveling	1	0
+S126991355	2023-01-26	L17925539	DeWitt CCH	Great Blue Heron	Ardea herodias	7753	species	1	29.0912438	-97.2844578	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Yellow-rumped Warbler	Setophaga coronata	34160	issf	7	29.0950365	-97.2790486	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Orange-crowned Warbler	Leiothlypis celata	33973	species	2	29.0950365	-97.2790486	Traveling	1	0
-S126991355	2023-01-26	L17925539	DeWitt CCH	Great Blue Heron	Ardea herodias	7753	species	1	29.0912438	-97.2844578	Traveling	1	0
 S129530958	2023-02-24	L22794630	504 East Morgan Avenue, Cuero, Texas, US (29.087, -97.287)	House Sparrow	Passer domesticus	31534	species	7	29.0868290	-97.2874196	Traveling	1	0
 S142266311	2023-06-21	L25368721	Cuervo TX Area	Couch's Kingbird	Tyrannus couchii	17459	species	1	29.0973339	-97.2885115	Traveling	1	0
-S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Couch's Kingbird	Tyrannus couchii	17459	species	1	29.0950365	-97.2790486	Traveling	1	0
-S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Blue-headed Vireo	Vireo solitarius	19226	species	1	29.0950365	-97.2790486	Traveling	1	0
-S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Bewick's Wren	Thryomanes bewickii	27362	species	X	29.0984741	-97.2966612	Traveling	1	0
+S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Northern Cardinal	Cardinalis cardinalis	34515	species	3	29.0950365	-97.2790486	Traveling	1	0
+S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Pine Warbler	Setophaga pinus	34153	species	1	29.0950365	-97.2790486	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Blue Jay	Cyanocitta cristata	21294	species	1	29.0950365	-97.2790486	Traveling	1	0
+S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Bewick's Wren	Thryomanes bewickii	27362	species	X	29.0984741	-97.2966612	Traveling	1	0
+S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Blue-headed Vireo	Vireo solitarius	19226	species	1	29.0950365	-97.2790486	Traveling	1	0
+S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Couch's Kingbird	Tyrannus couchii	17459	species	1	29.0950365	-97.2790486	Traveling	1	0
+S135681961	2023-05-01	L23961434	Cuero Railroad Walk	White-winged Dove	Zenaida asiatica	2389	species	5	29.0984741	-97.2966612	Traveling	1	0
 S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Common Grackle	Quiscalus quiscula	33853	species	10	29.0984741	-97.2966612	Traveling	1	0
 S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Carolina Chickadee	Poecile carolinensis	22060	species	2	29.0984741	-97.2966612	Traveling	1	0
-S135681961	2023-05-01	L23961434	Cuero Railroad Walk	White-winged Dove	Zenaida asiatica	2389	species	5	29.0984741	-97.2966612	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Tufted Titmouse	Baeolophus bicolor	22160	species	1	29.0950365	-97.2790486	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Turkey Vulture	Cathartes aura	7815	species	2	29.0950365	-97.2790486	Traveling	1	0
 S129530958	2023-02-24	L22794630	504 East Morgan Avenue, Cuero, Texas, US (29.087, -97.287)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.0868290	-97.2874196	Traveling	1	0
@@ -228,25 +228,25 @@ S135681961	2023-05-01	L23961434	Cuero Railroad Walk	European Starling	Sturnus vu
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Ruby-crowned Kinglet	Corthylio calendula	26844	species	4	29.0950365	-97.2790486	Traveling	1	0
 S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Carolina Wren	Thryothorus ludovicianus	27348	species	4	29.0984741	-97.2966612	Traveling	1	0
 S135681961	2023-05-01	L23961434	Cuero Railroad Walk	House Sparrow	Passer domesticus	31534	species	50	29.0984741	-97.2966612	Traveling	1	0
-S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Killdeer	Charadrius vociferus	5827	species	3	29.0950365	-97.2790486	Traveling	1	0
-S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Couch's Kingbird	Tyrannus couchii	17459	species	1	29.0984741	-97.2966612	Traveling	1	0
 S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Mourning Dove	Zenaida macroura	2412	species	15	29.0984741	-97.2966612	Traveling	1	0
+S135681961	2023-05-01	L23961434	Cuero Railroad Walk	Couch's Kingbird	Tyrannus couchii	17459	species	1	29.0984741	-97.2966612	Traveling	1	0
+S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Killdeer	Charadrius vociferus	5827	species	3	29.0950365	-97.2790486	Traveling	1	0
 S126991355	2023-01-26	L17925539	DeWitt CCH	Western Meadowlark	Sturnella neglecta	33565	species	2	29.0912438	-97.2844578	Traveling	1	0
+S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.0950365	-97.2790486	Traveling	1	0
 S126991355	2023-01-26	L17925539	DeWitt CCH	Mourning Dove	Zenaida macroura	2412	species	3	29.0912438	-97.2844578	Traveling	1	0
 S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Black Vulture	Coragyps atratus	7811	species	3	29.0950365	-97.2790486	Traveling	1	0
-S126914055	2023-01-25	L6661664	HILLSIDE CEMETERY	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.0950365	-97.2790486	Traveling	1	0
 S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Blue Jay	Cyanocitta cristata	21294	species	X	29.0984741	-97.2966612	Traveling	1	0
-S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Tufted Titmouse	Baeolophus bicolor	22160	species	X	29.0984741	-97.2966612	Traveling	1	0
 S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	House Finch	Haemorhous mexicanus	32310	species	1	29.0946410	-97.2895970	Traveling	1	0
+S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Tufted Titmouse	Baeolophus bicolor	22160	species	X	29.0984741	-97.2966612	Traveling	1	0
 S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Killdeer	Charadrius vociferus	5827	species	X	29.0984741	-97.2966612	Traveling	1	0
 S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Blue Jay	Cyanocitta cristata	21294	species	1	29.0946410	-97.2895970	Traveling	1	0
 S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Red-winged Blackbird	Agelaius phoeniceus	33779	species	X	29.0984741	-97.2966612	Traveling	1	0
-S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.0946410	-97.2895970	Traveling	1	0
 S160854657	2024-02-07	L23961434	Cuero Railroad Walk	European Starling	Sturnus vulgaris	27813	species	5	29.0984741	-97.2966612	Traveling	1	0
+S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.0946410	-97.2895970	Traveling	1	0
 S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	29.0946410	-97.2895970	Traveling	1	0
 S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Eastern Phoebe	Sayornis phoebe	17007	species	X	29.0984741	-97.2966612	Traveling	1	0
-S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Black Vulture	Coragyps atratus	7811	species	4	29.0946410	-97.2895970	Traveling	1	0
 S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Turkey Vulture	Cathartes aura	7815	species	5	29.0946410	-97.2895970	Traveling	1	0
+S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Black Vulture	Coragyps atratus	7811	species	4	29.0946410	-97.2895970	Traveling	1	0
 S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Mourning Dove	Zenaida macroura	2412	species	2	29.0946410	-97.2895970	Traveling	1	0
 S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Northern Mockingbird	Mimus polyglottos	28114	species	20	29.0984741	-97.2966612	Traveling	1	0
 S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.0946410	-97.2895970	Traveling	1	0
@@ -263,32 +263,32 @@ S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Northern Cardinal	Cardinalis
 S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	29.0984741	-97.2966612	Traveling	1	0
 S160854657	2024-02-07	L23961434	Cuero Railroad Walk	Carolina Wren	Thryothorus ludovicianus	27348	species	X	29.0984741	-97.2966612	Traveling	1	0
 S194546564	2024-09-09	L36460890	515 N Esplanade St, Cuero US-TX 29.09464, -97.28960	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.0946410	-97.2895970	Traveling	1	0
-S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Painted Bunting	Passerina ciris	34621	species	1	29.0984741	-97.2966612	Traveling	1	0
 S216300438	2025-03-02	L40787314	Mcdonalds North Gonzales Street, Cuero, Texas, US (29.095, -97.288)	Mourning Dove	Zenaida macroura	2412	species	2	29.0946476	-97.2883119	Traveling	1	0
+S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Painted Bunting	Passerina ciris	34621	species	1	29.0984741	-97.2966612	Traveling	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Turkey Vulture	Cathartes aura	7815	species	10	29.0984741	-97.2966612	Traveling	1	0
 S216300438	2025-03-02	L40787314	Mcdonalds North Gonzales Street, Cuero, Texas, US (29.095, -97.288)	House Finch	Haemorhous mexicanus	32310	species	1	29.0946476	-97.2883119	Traveling	1	0
 S287696515	2025-12-07	L55795685	310 North Esplanade Street, Cuero, Texas, US (29.093, -97.291)	Tufted Titmouse	Baeolophus bicolor	22160	species	1	29.0929846	-97.2911905	Traveling	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Mourning Dove	Zenaida macroura	2412	species	10	29.0984741	-97.2966612	Traveling	1	0
 S213336594	2025-02-14	L40233221	509 E Courthouse St, Cuero US-TX 29.08979, -97.28556	Northern Cardinal	Cardinalis cardinalis	34515	species	5	29.0897940	-97.2855620	Stationary	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Great-tailed Grackle	Quiscalus mexicanus	33864	species	15	29.0984741	-97.2966612	Traveling	1	0
-S213336594	2025-02-14	L40233221	509 E Courthouse St, Cuero US-TX 29.08979, -97.28556	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.0897940	-97.2855620	Stationary	1	0
 S216300438	2025-03-02	L40787314	Mcdonalds North Gonzales Street, Cuero, Texas, US (29.095, -97.288)	Tufted Titmouse	Baeolophus bicolor	22160	species	1	29.0946476	-97.2883119	Traveling	1	0
 S287696515	2025-12-07	L55795685	310 North Esplanade Street, Cuero, Texas, US (29.093, -97.291)	House Sparrow	Passer domesticus	31534	species	1	29.0929846	-97.2911905	Traveling	1	0
+S213336594	2025-02-14	L40233221	509 E Courthouse St, Cuero US-TX 29.08979, -97.28556	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.0897940	-97.2855620	Stationary	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Brown-crested Flycatcher	Myiarchus tyrannulus	17335	species	1	29.0984741	-97.2966612	Traveling	1	0
 S287696515	2025-12-07	L55795685	310 North Esplanade Street, Cuero, Texas, US (29.093, -97.291)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.0929846	-97.2911905	Traveling	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.0984741	-97.2966612	Traveling	1	0
-S251023181	2025-06-16	L23961434	Cuero Railroad Walk	European Starling	Sturnus vulgaris	27813	species	10	29.0984741	-97.2966612	Traveling	1	0
-S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Carolina Wren	Thryothorus ludovicianus	27348	species	5	29.0984741	-97.2966612	Traveling	1	0
-S216300438	2025-03-02	L40787314	Mcdonalds North Gonzales Street, Cuero, Texas, US (29.095, -97.288)	Turkey Vulture	Cathartes aura	7815	species	1	29.0946476	-97.2883119	Traveling	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	White-winged Dove	Zenaida asiatica	2389	species	5	29.0984741	-97.2966612	Traveling	1	0
+S216300438	2025-03-02	L40787314	Mcdonalds North Gonzales Street, Cuero, Texas, US (29.095, -97.288)	Turkey Vulture	Cathartes aura	7815	species	1	29.0946476	-97.2883119	Traveling	1	0
+S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Carolina Wren	Thryothorus ludovicianus	27348	species	5	29.0984741	-97.2966612	Traveling	1	0
+S251023181	2025-06-16	L23961434	Cuero Railroad Walk	European Starling	Sturnus vulgaris	27813	species	10	29.0984741	-97.2966612	Traveling	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Northern Cardinal	Cardinalis cardinalis	34515	species	15	29.0984741	-97.2966612	Traveling	1	0
 S216300438	2025-03-02	L40787314	Mcdonalds North Gonzales Street, Cuero, Texas, US (29.095, -97.288)	House Sparrow	Passer domesticus	31534	species	3	29.0946476	-97.2883119	Traveling	1	0
 S213336594	2025-02-14	L40233221	509 E Courthouse St, Cuero US-TX 29.08979, -97.28556	Mourning Dove	Zenaida macroura	2412	species	3	29.0897940	-97.2855620	Stationary	1	0
+S213336594	2025-02-14	L40233221	509 E Courthouse St, Cuero US-TX 29.08979, -97.28556	House Finch	Haemorhous mexicanus	32310	species	15	29.0897940	-97.2855620	Stationary	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.0984741	-97.2966612	Traveling	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	House Sparrow	Passer domesticus	31534	species	10	29.0984741	-97.2966612	Traveling	1	0
-S213336594	2025-02-14	L40233221	509 E Courthouse St, Cuero US-TX 29.08979, -97.28556	House Finch	Haemorhous mexicanus	32310	species	15	29.0897940	-97.2855620	Stationary	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.0984741	-97.2966612	Traveling	1	0
-S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	15	29.0984741	-97.2966612	Traveling	1	0
-S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Yellow-billed Cuckoo	Coccyzus americanus	3238	species	1	29.0984741	-97.2966612	Traveling	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Black Vulture	Coragyps atratus	7811	species	30	29.0984741	-97.2966612	Traveling	1	0
 S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	20	29.0984741	-97.2966612	Traveling	1	0
+S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	15	29.0984741	-97.2966612	Traveling	1	0
+S251023181	2025-06-16	L23961434	Cuero Railroad Walk	Yellow-billed Cuckoo	Coccyzus americanus	3238	species	1	29.0984741	-97.2966612	Traveling	1	0

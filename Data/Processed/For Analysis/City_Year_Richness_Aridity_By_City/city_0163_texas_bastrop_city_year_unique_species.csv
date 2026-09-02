@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2015,29969181.9204008,110,510,city_0163_texas_bastrop,1308.0437393188477,20.322916666666668,43.137134652906,humid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2016,29969181.9204008,124,537,city_0163_texas_bastrop,1239.987497329712,20.973958333333332,40.033226750849956,humid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2017,29969181.9204008,117,584,city_0163_texas_bastrop,826.1750068664551,21.041666666666668,26.615033778248215,dry subhumid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2018,29969181.9204008,85,358,city_0163_texas_bastrop,920.3374862670898,20.395833333333332,30.278409417971428,humid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2019,29969181.9204008,113,819,city_0163_texas_bastrop,926.3874998092653,20.390625,30.482673515574792,humid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2020,29969181.9204008,94,590,city_0163_texas_bastrop,768.1562519073486,20.903645833333332,24.856492856865415,dry subhumid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2021,29969181.9204008,101,1156,city_0163_texas_bastrop,943.118761062622,20.3046875,31.12121717350235,humid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2022,29969181.9204008,110,695,city_0163_texas_bastrop,545.8562545776367,20.7265625,17.76496328144864,semiarid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2023,29969181.9204008,106,744,city_0163_texas_bastrop,703.6937465667725,21.458333333333332,22.36907273854641,dry subhumid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2024,29969181.9204008,99,777,city_0163_texas_bastrop,792.9812517166138,21.765625,24.9635022675176,dry subhumid,12
-163,"Bastrop, TX",Bastrop,Texas,Bastrop,2025,29969181.9204008,138,2415,city_0163_texas_bastrop,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+163,2015,"Bastrop, TX",Bastrop,Texas,Bastrop,100,110,510,city_0163_texas_bastrop,1308.04373931885,20.3229166666667,43.137134652906,humid,12
+163,2016,"Bastrop, TX",Bastrop,Texas,Bastrop,100,124,537,city_0163_texas_bastrop,1239.98749732971,20.9739583333333,40.03322675085,humid,12
+163,2017,"Bastrop, TX",Bastrop,Texas,Bastrop,100,117,584,city_0163_texas_bastrop,826.175006866455,21.0416666666667,26.6150337782482,dry subhumid,12
+163,2018,"Bastrop, TX",Bastrop,Texas,Bastrop,100,85,358,city_0163_texas_bastrop,920.33748626709,20.3958333333333,30.2784094179714,humid,12
+163,2019,"Bastrop, TX",Bastrop,Texas,Bastrop,100,113,819,city_0163_texas_bastrop,926.387499809265,20.390625,30.4826735155748,humid,12
+163,2020,"Bastrop, TX",Bastrop,Texas,Bastrop,100,94,590,city_0163_texas_bastrop,768.156251907349,20.9036458333333,24.8564928568654,dry subhumid,12
+163,2021,"Bastrop, TX",Bastrop,Texas,Bastrop,100,101,1156,city_0163_texas_bastrop,943.118761062622,20.3046875,31.1212171735024,humid,12
+163,2022,"Bastrop, TX",Bastrop,Texas,Bastrop,100,110,695,city_0163_texas_bastrop,545.856254577637,20.7265625,17.7649632814486,semiarid,12
+163,2023,"Bastrop, TX",Bastrop,Texas,Bastrop,100,106,744,city_0163_texas_bastrop,703.693746566773,21.4583333333333,22.3690727385464,dry subhumid,12
+163,2024,"Bastrop, TX",Bastrop,Texas,Bastrop,100,99,777,city_0163_texas_bastrop,792.981251716614,21.765625,24.9635022675176,dry subhumid,12
+163,2025,"Bastrop, TX",Bastrop,Texas,Bastrop,100,138,2415,city_0163_texas_bastrop,,,,,

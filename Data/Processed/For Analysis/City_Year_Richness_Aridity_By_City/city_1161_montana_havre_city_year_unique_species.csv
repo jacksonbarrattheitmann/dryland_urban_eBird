@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1161,"Havre, MT",Havre,Montana,Hill,2015,10980749.696797,12,16,city_1161_montana_havre,285.3750009536743,7.236979166666666,16.555975278170564,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2016,10980749.696797,18,25,city_1161_montana_havre,341.8187494277954,7.416666666666666,19.625956904945195,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2017,10980749.696797,7,7,city_1161_montana_havre,261.03125190734863,6.28125,16.03262967569128,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2018,10980749.696797,8,10,city_1161_montana_havre,285.0625023841858,5.205729166666667,18.74704588380328,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2019,10980749.696797,46,123,city_1161_montana_havre,340.33750200271606,4.671875,23.196592255776174,dry subhumid,12
-1161,"Havre, MT",Havre,Montana,Hill,2020,10980749.696797,39,53,city_1161_montana_havre,274.4375033378601,6.4140625,16.719657509398427,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2021,10980749.696797,19,33,city_1161_montana_havre,219.5312523841858,6.919270833333333,12.975219472914784,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2022,10980749.696797,27,62,city_1161_montana_havre,293.7125015258789,5.802083333333334,18.58694802009517,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2023,10980749.696797,39,138,city_1161_montana_havre,318.20625019073486,6.958333333333333,18.76400492525218,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2024,10980749.696797,39,104,city_1161_montana_havre,300.84375286102295,7.1640625,17.527537717893008,semiarid,12
-1161,"Havre, MT",Havre,Montana,Hill,2025,10980749.696797,38,77,city_1161_montana_havre,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1161,2015,"Havre, MT",Havre,Montana,Hill,99.9999999999995,12,16,city_1161_montana_havre,285.375000953674,7.23697916666667,16.5559752781706,semiarid,12
+1161,2016,"Havre, MT",Havre,Montana,Hill,99.9999999999995,18,25,city_1161_montana_havre,341.818749427795,7.41666666666667,19.6259569049452,semiarid,12
+1161,2017,"Havre, MT",Havre,Montana,Hill,99.9999999999995,7,7,city_1161_montana_havre,261.031251907349,6.28125,16.0326296756913,semiarid,12
+1161,2018,"Havre, MT",Havre,Montana,Hill,99.9999999999995,8,10,city_1161_montana_havre,285.062502384186,5.20572916666667,18.7470458838033,semiarid,12
+1161,2019,"Havre, MT",Havre,Montana,Hill,99.9999999999995,46,123,city_1161_montana_havre,340.337502002716,4.671875,23.1965922557762,dry subhumid,12
+1161,2020,"Havre, MT",Havre,Montana,Hill,99.9999999999995,39,53,city_1161_montana_havre,274.43750333786,6.4140625,16.7196575093984,semiarid,12
+1161,2021,"Havre, MT",Havre,Montana,Hill,99.9999999999995,19,33,city_1161_montana_havre,219.531252384186,6.91927083333333,12.9752194729148,semiarid,12
+1161,2022,"Havre, MT",Havre,Montana,Hill,99.9999999999995,27,62,city_1161_montana_havre,293.712501525879,5.80208333333333,18.5869480200952,semiarid,12
+1161,2023,"Havre, MT",Havre,Montana,Hill,99.9999999999995,39,138,city_1161_montana_havre,318.206250190735,6.95833333333333,18.7640049252522,semiarid,12
+1161,2024,"Havre, MT",Havre,Montana,Hill,99.9999999999995,39,104,city_1161_montana_havre,300.843752861023,7.1640625,17.527537717893,semiarid,12
+1161,2025,"Havre, MT",Havre,Montana,Hill,99.9999999999995,38,77,city_1161_montana_havre,,,,,

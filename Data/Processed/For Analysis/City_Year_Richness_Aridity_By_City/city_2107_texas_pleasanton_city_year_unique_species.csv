@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2015,18327753.9489125,8,8,city_2107_texas_pleasanton,907.037488937378,21.630208333333332,28.67630460661561,dry subhumid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2017,18327753.9489125,47,58,city_2107_texas_pleasanton,602.2749891281128,22.645833333333332,18.448755250893058,semiarid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2018,18327753.9489125,33,70,city_2107_texas_pleasanton,705.3562574386597,21.903645833333332,22.10895460423193,dry subhumid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2019,18327753.9489125,36,86,city_2107_texas_pleasanton,524.6312484741211,21.919270833333332,16.436191516199926,semiarid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2020,18327753.9489125,44,84,city_2107_texas_pleasanton,501.1312494277954,22.401041666666668,15.466516619536522,semiarid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2021,18327753.9489125,35,60,city_2107_texas_pleasanton,720.2312536239624,21.9296875,22.55678993488309,dry subhumid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2022,18327753.9489125,40,64,city_2107_texas_pleasanton,408.9937467575073,22.2734375,12.672766784062198,semiarid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2023,18327753.9489125,47,90,city_2107_texas_pleasanton,584.3874931335449,22.942708333333332,17.739509672986664,semiarid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2024,18327753.9489125,28,49,city_2107_texas_pleasanton,581.2374992370605,23.270833333333332,17.46988100399431,semiarid,12
-2107,"Pleasanton, TX",Pleasanton,Texas,Atascosa,2025,18327753.9489125,51,120,city_2107_texas_pleasanton,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2107,2015,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,8,8,city_2107_texas_pleasanton,907.037488937378,21.6302083333333,28.6763046066156,dry subhumid,12
+2107,2017,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,47,58,city_2107_texas_pleasanton,602.274989128113,22.6458333333333,18.4487552508931,semiarid,12
+2107,2018,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,33,70,city_2107_texas_pleasanton,705.35625743866,21.9036458333333,22.1089546042319,dry subhumid,12
+2107,2019,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,36,86,city_2107_texas_pleasanton,524.631248474121,21.9192708333333,16.4361915161999,semiarid,12
+2107,2020,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,44,84,city_2107_texas_pleasanton,501.131249427795,22.4010416666667,15.4665166195365,semiarid,12
+2107,2021,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,35,60,city_2107_texas_pleasanton,720.231253623962,21.9296875,22.5567899348831,dry subhumid,12
+2107,2022,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,40,64,city_2107_texas_pleasanton,408.993746757507,22.2734375,12.6727667840622,semiarid,12
+2107,2023,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,47,90,city_2107_texas_pleasanton,584.387493133545,22.9427083333333,17.7395096729867,semiarid,12
+2107,2024,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,28,49,city_2107_texas_pleasanton,581.237499237061,23.2708333333333,17.4698810039943,semiarid,12
+2107,2025,"Pleasanton, TX",Pleasanton,Texas,Atascosa,100,51,120,city_2107_texas_pleasanton,,,,,

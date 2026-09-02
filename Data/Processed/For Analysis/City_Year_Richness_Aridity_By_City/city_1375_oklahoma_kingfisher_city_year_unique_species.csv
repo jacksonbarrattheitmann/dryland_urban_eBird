@@ -1,5 +1,5 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1375,"Kingfisher, OK",Kingfisher,Oklahoma,Kingfisher,2015,5542849.07024777,8,8,city_1375_oklahoma_kingfisher,1087.7562503814695,16.388020833333332,41.221592830009314,humid,12
-1375,"Kingfisher, OK",Kingfisher,Oklahoma,Kingfisher,2016,5542849.07024777,10,10,city_1375_oklahoma_kingfisher,817.4625115394592,17.067708333333332,30.200654649908827,humid,12
-1375,"Kingfisher, OK",Kingfisher,Oklahoma,Kingfisher,2022,5542849.07024777,3,3,city_1375_oklahoma_kingfisher,683.9062566757202,16.455729166666668,25.85096983595595,dry subhumid,12
-1375,"Kingfisher, OK",Kingfisher,Oklahoma,Kingfisher,2025,5542849.07024777,9,9,city_1375_oklahoma_kingfisher,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1375,2015,"Kingfisher, OK",Kingfisher,Oklahoma,Kingfisher,100,8,8,city_1375_oklahoma_kingfisher,1087.75625038147,16.3880208333333,41.2215928300093,humid,12
+1375,2016,"Kingfisher, OK",Kingfisher,Oklahoma,Kingfisher,100,10,10,city_1375_oklahoma_kingfisher,817.462511539459,17.0677083333333,30.2006546499088,humid,12
+1375,2022,"Kingfisher, OK",Kingfisher,Oklahoma,Kingfisher,100,3,3,city_1375_oklahoma_kingfisher,683.90625667572,16.4557291666667,25.850969835956,dry subhumid,12
+1375,2025,"Kingfisher, OK",Kingfisher,Oklahoma,Kingfisher,100,9,9,city_1375_oklahoma_kingfisher,,,,,

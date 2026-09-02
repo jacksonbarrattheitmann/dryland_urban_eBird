@@ -61,9 +61,9 @@ S37261593	2017-05-30	L4535106	Central Mobridge	Cedar Waxwing	Bombycilla cedrorum
 S36853711	2017-05-14	L4535106	Central Mobridge	Chimney Swift	Chaetura pelagica	3896	species	2	45.5387524	-100.4390180	Stationary	1	0
 S36853711	2017-05-14	L4535106	Central Mobridge	Brown Thrasher	Toxostoma rufum	28037	species	1	45.5387524	-100.4390180	Stationary	1	0
 S44004862	2017-12-15	L4535106	Central Mobridge	White-breasted Nuthatch	Sitta carolinensis	26890	issf	1	45.5387524	-100.4390180	Stationary	1	0
-S44004862	2017-12-15	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	7	45.5387524	-100.4390180	Stationary	1	0
-S37261593	2017-05-30	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	2	45.5387524	-100.4390180	Stationary	1	0
 S37261593	2017-05-30	L4535106	Central Mobridge	Harris's Sparrow	Zonotrichia querula	33198	species	1	45.5387524	-100.4390180	Stationary	1	1
+S37261593	2017-05-30	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	2	45.5387524	-100.4390180	Stationary	1	0
+S44004862	2017-12-15	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	7	45.5387524	-100.4390180	Stationary	1	0
 S36853711	2017-05-14	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	1	45.5387524	-100.4390180	Stationary	1	0
 S44004862	2017-12-15	L4535106	Central Mobridge	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	45.5387524	-100.4390180	Stationary	1	0
 S36853711	2017-05-14	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	4	45.5387524	-100.4390180	Stationary	1	0
@@ -93,234 +93,234 @@ S36503537	2017-04-30	L4535106	Central Mobridge	House Sparrow	Passer domesticus	3
 S36503537	2017-04-30	L4535106	Central Mobridge	Chipping Sparrow	Spizella passerina	32990	species	1	45.5387524	-100.4390180	Stationary	1	0
 S36503537	2017-04-30	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	1	45.5387524	-100.4390180	Stationary	1	0
 S34014019	2017-01-29	L4535106	Central Mobridge	White-breasted Nuthatch	Sitta carolinensis	26889	species	3	45.5387524	-100.4390180	Stationary	1	0
-S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	Pine Siskin	Spinus pinus	32595	species	3	45.5398850	-100.4370160	Stationary	1	0
 S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	American Goldfinch	Spinus tristis	32617	species	3	45.5398850	-100.4370160	Stationary	1	0
-S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	1	45.5399290	-100.4372010	Stationary	1	0
 S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	45.5399290	-100.4372010	Stationary	1	0
+S52854311	2019-02-17	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	10	45.5387524	-100.4390180	Stationary	1	0
+S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	45.5399290	-100.4372010	Stationary	1	0
+S55869379	2019-05-05	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	4	45.5387524	-100.4390180	Stationary	1	0
+S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	Mourning Dove	Zenaida macroura	2412	species	2	45.5398850	-100.4370160	Stationary	1	0
+S55869379	2019-05-05	L4535106	Central Mobridge	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	45.5387524	-100.4390180	Stationary	1	0
+S55869379	2019-05-05	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	8	45.5387524	-100.4390180	Stationary	1	0
+S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	45.5399290	-100.4372010	Stationary	1	0
+S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Clay-colored Sparrow	Spizella pallida	32996	species	2	45.5399290	-100.4372010	Stationary	1	0
+S52854311	2019-02-17	L4535106	Central Mobridge	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	45.5387524	-100.4390180	Stationary	1	0
+S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	Pine Siskin	Spinus pinus	32595	species	3	45.5398850	-100.4370160	Stationary	1	0
+S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	1	45.5399290	-100.4372010	Stationary	1	0
 S55869379	2019-05-05	L4535106	Central Mobridge	House Finch	Haemorhous mexicanus	32310	species	6	45.5387524	-100.4390180	Stationary	1	0
 S52854311	2019-02-17	L4535106	Central Mobridge	Dark-eyed Junco	Junco hyemalis	33124	species	6	45.5387524	-100.4390180	Stationary	1	0
-S52854311	2019-02-17	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	10	45.5387524	-100.4390180	Stationary	1	0
 S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	Downy Woodpecker	Dryobates pubescens	11400	species	1	45.5398850	-100.4370160	Stationary	1	0
 S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Common Grackle	Quiscalus quiscula	33853	species	3	45.5399290	-100.4372010	Stationary	1	0
 S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	1	45.5399290	-100.4372010	Stationary	1	0
 S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	House Sparrow	Passer domesticus	31534	species	2	45.5398850	-100.4370160	Stationary	1	0
 S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	House Finch	Haemorhous mexicanus	32310	species	4	45.5398850	-100.4370160	Stationary	1	0
-S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	45.5399290	-100.4372010	Stationary	1	0
 S55869379	2019-05-05	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	1	45.5387524	-100.4390180	Stationary	1	0
 S55869379	2019-05-05	L4535106	Central Mobridge	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.5387524	-100.4390180	Stationary	1	0
 S55869379	2019-05-05	L4535106	Central Mobridge	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	45.5387524	-100.4390180	Stationary	1	0
-S55869379	2019-05-05	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	4	45.5387524	-100.4390180	Stationary	1	0
-S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	Mourning Dove	Zenaida macroura	2412	species	2	45.5398850	-100.4370160	Stationary	1	0
-S55869379	2019-05-05	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	8	45.5387524	-100.4390180	Stationary	1	0
-S55869379	2019-05-05	L4535106	Central Mobridge	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	45.5387524	-100.4390180	Stationary	1	0
 S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	European Starling	Sturnus vulgaris	27813	species	3	45.5398850	-100.4370160	Stationary	1	0
-S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	45.5399290	-100.4372010	Stationary	1	0
 S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	Common Grackle	Quiscalus quiscula	33853	species	1	45.5398850	-100.4370160	Stationary	1	0
 S55869379	2019-05-05	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	2	45.5387524	-100.4390180	Stationary	1	0
 S55981193	2019-05-07	L9219948	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4370)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.5398850	-100.4370160	Stationary	1	0
-S55980895	2019-05-07	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Clay-colored Sparrow	Spizella pallida	32996	species	2	45.5399290	-100.4372010	Stationary	1	0
-S52854311	2019-02-17	L4535106	Central Mobridge	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	45.5387524	-100.4390180	Stationary	1	0
-S69170029	2020-05-16	L4535106	Central Mobridge	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	American Goldfinch	Spinus tristis	32617	species	2	45.5387524	-100.4390180	Stationary	1	0
-S69170029	2020-05-16	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	3	45.5387524	-100.4390180	Stationary	1	0
+S69170029	2020-05-16	L4535106	Central Mobridge	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	45.5387524	-100.4390180	Stationary	1	0
 S69170029	2020-05-16	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	1	45.5387524	-100.4390180	Stationary	1	0
-S68987092	2020-05-13	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	1	45.5387524	-100.4390180	Stationary	1	0
+S69170029	2020-05-16	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	3	45.5387524	-100.4390180	Stationary	1	0
 S68987092	2020-05-13	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	1	45.5387524	-100.4390180	Stationary	1	0
+S68987092	2020-05-13	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	1	45.5387524	-100.4390180	Stationary	1	0
 S68987092	2020-05-13	L4535106	Central Mobridge	Song Sparrow	Melospiza melodia	33277	species	1	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	Scarlet Tanager	Piranga olivacea	34436	species	1	45.5387524	-100.4390180	Stationary	1	0
 S68993419	2020-05-13	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	1	45.5387524	-100.4390180	Stationary	1	0
 S69170029	2020-05-16	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	1	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	Chipping Sparrow	Spizella passerina	32990	species	1	45.5387524	-100.4390180	Stationary	1	0
-S69454608	2020-05-22	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	3	45.5387524	-100.4390180	Stationary	1	0
 S68993419	2020-05-13	L4535106	Central Mobridge	American Goldfinch	Spinus tristis	32617	species	2	45.5387524	-100.4390180	Stationary	1	0
-S69454608	2020-05-22	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	5	45.5387524	-100.4390180	Stationary	1	0
+S69454608	2020-05-22	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	3	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	Pine Siskin	Spinus pinus	32595	species	2	45.5387524	-100.4390180	Stationary	1	0
-S68987092	2020-05-13	L4535106	Central Mobridge	Spotted Towhee	Pipilo maculatus	33386	species	1	45.5387524	-100.4390180	Stationary	1	0
+S69454608	2020-05-22	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	5	45.5387524	-100.4390180	Stationary	1	0
 S68987092	2020-05-13	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	3	45.5387524	-100.4390180	Stationary	1	0
+S68987092	2020-05-13	L4535106	Central Mobridge	Spotted Towhee	Pipilo maculatus	33386	species	1	45.5387524	-100.4390180	Stationary	1	0
 S68993419	2020-05-13	L4535106	Central Mobridge	Harris's Sparrow	Zonotrichia querula	33198	species	3	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	Least Flycatcher	Empidonax minimus	16963	species	1	45.5387524	-100.4390180	Stationary	1	0
 S68987092	2020-05-13	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	2	45.5387524	-100.4390180	Stationary	1	0
-S69170029	2020-05-16	L4535106	Central Mobridge	House Finch	Haemorhous mexicanus	32310	species	4	45.5387524	-100.4390180	Stationary	1	0
-S69170029	2020-05-16	L4535106	Central Mobridge	Swainson's Thrush	Catharus ustulatus	28324	species	1	45.5387524	-100.4390180	Stationary	1	0
 S68987092	2020-05-13	L4535106	Central Mobridge	House Finch	Haemorhous mexicanus	32310	species	2	45.5387524	-100.4390180	Stationary	1	0
-S68987092	2020-05-13	L4535106	Central Mobridge	American Goldfinch	Spinus tristis	32617	species	4	45.5387524	-100.4390180	Stationary	1	0
+S69170029	2020-05-16	L4535106	Central Mobridge	Swainson's Thrush	Catharus ustulatus	28324	species	1	45.5387524	-100.4390180	Stationary	1	0
+S69170029	2020-05-16	L4535106	Central Mobridge	House Finch	Haemorhous mexicanus	32310	species	4	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	House Finch	Haemorhous mexicanus	32310	species	2	45.5387524	-100.4390180	Stationary	1	0
 S68993419	2020-05-13	L4535106	Central Mobridge	Clay-colored Sparrow	Spizella pallida	32996	species	1	45.5387524	-100.4390180	Stationary	1	0
-S68993419	2020-05-13	L4535106	Central Mobridge	Pine Siskin	Spinus pinus	32595	species	1	45.5387524	-100.4390180	Stationary	1	0
+S68987092	2020-05-13	L4535106	Central Mobridge	American Goldfinch	Spinus tristis	32617	species	4	45.5387524	-100.4390180	Stationary	1	0
 S68993419	2020-05-13	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	2	45.5387524	-100.4390180	Stationary	1	0
+S68993419	2020-05-13	L4535106	Central Mobridge	Pine Siskin	Spinus pinus	32595	species	1	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	1	45.5387524	-100.4390180	Stationary	1	0
 S68993419	2020-05-13	L4535106	Central Mobridge	White-throated Sparrow	Zonotrichia albicollis	33201	species	3	45.5387524	-100.4390180	Stationary	1	0
 S68987092	2020-05-13	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	3	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	2	45.5387524	-100.4390180	Stationary	1	0
 S68993419	2020-05-13	L4535106	Central Mobridge	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	4	45.5387524	-100.4390180	Stationary	1	0
-S69454608	2020-05-22	L4535106	Central Mobridge	Purple Martin	Progne subis	24081	species	2	45.5387524	-100.4390180	Stationary	1	0
 S69170029	2020-05-16	L4535106	Central Mobridge	American Goldfinch	Spinus tristis	32617	species	3	45.5387524	-100.4390180	Stationary	1	0
+S69454608	2020-05-22	L4535106	Central Mobridge	Purple Martin	Progne subis	24081	species	2	45.5387524	-100.4390180	Stationary	1	0
 S68987092	2020-05-13	L4535106	Central Mobridge	Harris's Sparrow	Zonotrichia querula	33198	species	5	45.5387524	-100.4390180	Stationary	1	0
-S68987092	2020-05-13	L4535106	Central Mobridge	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	8	45.5387524	-100.4390180	Stationary	1	0
 S69170029	2020-05-16	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	1	45.5387524	-100.4390180	Stationary	1	0
+S68987092	2020-05-13	L4535106	Central Mobridge	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	8	45.5387524	-100.4390180	Stationary	1	0
+S68993419	2020-05-13	L4535106	Central Mobridge	Spotted Towhee	Pipilo maculatus	33386	species	1	45.5387524	-100.4390180	Stationary	1	0
 S69170029	2020-05-16	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	7	45.5387524	-100.4390180	Stationary	1	0
 S69454608	2020-05-22	L4535106	Central Mobridge	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.5387524	-100.4390180	Stationary	1	0
-S68993419	2020-05-13	L4535106	Central Mobridge	Spotted Towhee	Pipilo maculatus	33386	species	1	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	Northern House Wren	Troglodytes aedon	27191	species	1	45.5417450	-100.4507280	Traveling	1	0
-S94048759	2021-09-01	L4535106	Central Mobridge	Blue Jay	Cyanocitta cristata	21294	species	2	45.5387524	-100.4390180	Stationary	1	0
 S93776202	2021-08-26	L4535106	Central Mobridge	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	45.5387524	-100.4390180	Stationary	1	0
+S94048759	2021-09-01	L4535106	Central Mobridge	Blue Jay	Cyanocitta cristata	21294	species	2	45.5387524	-100.4390180	Stationary	1	0
 S87686808	2021-05-09	L4535106	Central Mobridge	Swainson's Thrush	Catharus ustulatus	28324	species	2	45.5387524	-100.4390180	Stationary	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	3	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	European Starling	Sturnus vulgaris	27813	species	5	45.5417450	-100.4507280	Traveling	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	Western Kingbird	Tyrannus verticalis	17467	species	2	45.5417450	-100.4507280	Traveling	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	3	45.5387524	-100.4390180	Stationary	1	0
 S93776202	2021-08-26	L4535106	Central Mobridge	Gray Catbird	Dumetella carolinensis	28000	species	1	45.5387524	-100.4390180	Stationary	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	2	45.5387524	-100.4390180	Stationary	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	Blue Jay	Cyanocitta cristata	21294	species	5	45.5387524	-100.4390180	Stationary	1	0
+S87095430	2021-05-04	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	2	45.5387524	-100.4390180	Stationary	1	0
 S88600267	2021-05-20	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	8	45.5387524	-100.4390180	Stationary	1	0
 S87095430	2021-05-04	L4535106	Central Mobridge	American Crow	Corvus brachyrhynchos	21557	species	1	45.5387524	-100.4390180	Stationary	1	0
 S94014647	2021-08-31	L4535106	Central Mobridge	Cooper's Hawk	Astur cooperii	8278	species	1	45.5387524	-100.4390180	Stationary	1	0
-S87095430	2021-05-04	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	2	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	Blue Jay	Cyanocitta cristata	21294	species	5	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	2	45.5387524	-100.4390180	Stationary	1	0
 S87095430	2021-05-04	L4535106	Central Mobridge	American Goldfinch	Spinus tristis	32617	species	5	45.5387524	-100.4390180	Stationary	1	0
-S94048759	2021-09-01	L4535106	Central Mobridge	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	House Sparrow	Passer domesticus	31534	species	X	45.5417450	-100.4507280	Traveling	1	0
 S93776202	2021-08-26	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	1	45.5387524	-100.4390180	Stationary	1	0
+S94048759	2021-09-01	L4535106	Central Mobridge	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	45.5387524	-100.4390180	Stationary	1	0
 S88600267	2021-05-20	L4535106	Central Mobridge	Franklin's Gull	Leucophaeus pipixcan	6494	species	5	45.5387524	-100.4390180	Stationary	1	0
-S87095430	2021-05-04	L4535106	Central Mobridge	Pine Siskin	Spinus pinus	32595	species	5	45.5387524	-100.4390180	Stationary	1	0
 S93776202	2021-08-26	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	4	45.5387524	-100.4390180	Stationary	1	0
+S87095430	2021-05-04	L4535106	Central Mobridge	Pine Siskin	Spinus pinus	32595	species	5	45.5387524	-100.4390180	Stationary	1	0
 S94014647	2021-08-31	L4535106	Central Mobridge	American Robin	Turdus migratorius	28633	species	10	45.5387524	-100.4390180	Stationary	1	0
 S93776202	2021-08-26	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	20	45.5387524	-100.4390180	Stationary	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	Pine Siskin	Spinus pinus	32595	species	4	45.5387524	-100.4390180	Stationary	1	0
 S88600267	2021-05-20	L4535106	Central Mobridge	Northern House Wren	Troglodytes aedon	27191	species	2	45.5387524	-100.4390180	Stationary	1	0
 S94048759	2021-09-01	L4535106	Central Mobridge	Ruby-throated Hummingbird	Archilochus colubris	4802	species	2	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	Pine Siskin	Spinus pinus	32595	species	4	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	American Goldfinch	Spinus tristis	32617	species	2	45.5417450	-100.4507280	Traveling	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	Ovenbird	Seiurus aurocapilla	33946	species	1	45.5387524	-100.4390180	Stationary	1	0
 S93776202	2021-08-26	L4535106	Central Mobridge	Nashville Warbler	Leiothlypis ruficapilla	33981	species	2	45.5387524	-100.4390180	Stationary	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	4	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	Ovenbird	Seiurus aurocapilla	33946	species	1	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	Rock Pigeon	Columba livia	1868	domestic	7	45.5417450	-100.4507280	Traveling	1	0
-S93776202	2021-08-26	L4535106	Central Mobridge	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	45.5387524	-100.4390180	Stationary	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	2	45.5387524	-100.4390180	Stationary	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.5387524	-100.4390180	Stationary	1	0
 S93776202	2021-08-26	L4535106	Central Mobridge	Chimney Swift	Chaetura pelagica	3896	species	6	45.5387524	-100.4390180	Stationary	1	0
 S87095430	2021-05-04	L4535106	Central Mobridge	House Finch	Haemorhous mexicanus	32310	species	2	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	2	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.5387524	-100.4390180	Stationary	1	0
+S93776202	2021-08-26	L4535106	Central Mobridge	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	4	45.5387524	-100.4390180	Stationary	1	0
+S87095430	2021-05-04	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	2	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	Barn Swallow	Hirundo rustica	24187	species	3	45.5417450	-100.4507280	Traveling	1	0
 S87095430	2021-05-04	L4535106	Central Mobridge	Common Grackle	Quiscalus quiscula	33853	species	7	45.5387524	-100.4390180	Stationary	1	0
-S87095430	2021-05-04	L4535106	Central Mobridge	Mourning Dove	Zenaida macroura	2412	species	2	45.5387524	-100.4390180	Stationary	1	0
 S93776202	2021-08-26	L4535106	Central Mobridge	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	Chimney Swift	Chaetura pelagica	3896	species	2	45.5417450	-100.4507280	Traveling	1	0
-S94048759	2021-09-01	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	1	45.5387524	-100.4390180	Stationary	1	0
 S87095430	2021-05-04	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	2	45.5387524	-100.4390180	Stationary	1	0
 S87095430	2021-05-04	L4535106	Central Mobridge	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	3	45.5387524	-100.4390180	Stationary	1	0
+S94048759	2021-09-01	L4535106	Central Mobridge	European Starling	Sturnus vulgaris	27813	species	1	45.5387524	-100.4390180	Stationary	1	0
 S87095430	2021-05-04	L4535106	Central Mobridge	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.5387524	-100.4390180	Stationary	1	0
-S88600267	2021-05-20	L4535106	Central Mobridge	thrush sp.	Turdidae sp.	28779	spuh	1	45.5387524	-100.4390180	Stationary	1	1
-S88600267	2021-05-20	L4535106	Central Mobridge	Tennessee Warbler	Leiothlypis peregrina	33972	species	2	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	American Robin	Turdus migratorius	28633	species	10	45.5417450	-100.4507280	Traveling	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	Purple Martin	Progne subis	24081	species	1	45.5417450	-100.4507280	Traveling	1	0
 S88600267	2021-05-20	L4535106	Central Mobridge	Baltimore Oriole	Icterus galbula	33770	species	1	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	Tennessee Warbler	Leiothlypis peregrina	33972	species	2	45.5387524	-100.4390180	Stationary	1	0
+S88600267	2021-05-20	L4535106	Central Mobridge	thrush sp.	Turdidae sp.	28779	spuh	1	45.5387524	-100.4390180	Stationary	1	1
+S87095430	2021-05-04	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	8	45.5387524	-100.4390180	Stationary	1	0
+S93776202	2021-08-26	L4535106	Central Mobridge	passerine sp.	Passeriformes sp.	35852	spuh	1	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.5417450	-100.4507280	Traveling	1	0
 S87686808	2021-05-09	L4535106	Central Mobridge	Pine Siskin	Spinus pinus	32595	species	11	45.5387524	-100.4390180	Stationary	1	0
-S93776202	2021-08-26	L4535106	Central Mobridge	passerine sp.	Passeriformes sp.	35852	spuh	1	45.5387524	-100.4390180	Stationary	1	0
-S87095430	2021-05-04	L4535106	Central Mobridge	House Sparrow	Passer domesticus	31534	species	8	45.5387524	-100.4390180	Stationary	1	0
 S87686808	2021-05-09	L4535106	Central Mobridge	Blackpoll Warbler	Setophaga striata	34138	species	1	45.5387524	-100.4390180	Stationary	1	0
 S91441932	2021-07-08	L15687615	1113–1173 W Grand Crossing, Mobridge US-SD 45.54175, -100.45073	Mourning Dove	Zenaida macroura	2412	species	1	45.5417450	-100.4507280	Traveling	1	0
-S110434084	2022-05-16	L19111173	Mobridge City Park	House Finch	Haemorhous mexicanus	32310	species	5	45.5389290	-100.4339010	Traveling	1	0
+S110434084	2022-05-16	L19111173	Mobridge City Park	Chipping Sparrow	Spizella passerina	32990	species	5	45.5389290	-100.4339010	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	House Sparrow	Passer domesticus	31534	species	4	45.5369090	-100.4179630	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	Northern Flicker	Colaptes auratus	11900	species	1	45.5369090	-100.4179630	Traveling	1	0
-S110434084	2022-05-16	L19111173	Mobridge City Park	Chipping Sparrow	Spizella passerina	32990	species	5	45.5389290	-100.4339010	Traveling	1	0
+S110434084	2022-05-16	L19111173	Mobridge City Park	House Finch	Haemorhous mexicanus	32310	species	5	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	House Sparrow	Passer domesticus	31534	species	10	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	7	45.5389290	-100.4339010	Traveling	1	0
-S110528061	2022-05-17	L19111173	Mobridge City Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	45.5389290	-100.4339010	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	Pine Siskin	Spinus pinus	32596	issf	1	45.5389290	-100.4339010	Traveling	1	1
+S110528061	2022-05-17	L19111173	Mobridge City Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	45.5389290	-100.4339010	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	American Goldfinch	Spinus tristis	32617	species	1	45.5389290	-100.4339010	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	Chipping Sparrow	Spizella passerina	32990	species	2	45.5369090	-100.4179630	Traveling	1	0
-S110434084	2022-05-16	L19111173	Mobridge City Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Yellow-rumped Warbler	Setophaga coronata	34160	issf	1	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Orchard Oriole	Icterus spurius	33680	issf	3	45.5389290	-100.4339010	Traveling	1	1
 S110528061	2022-05-17	L19111173	Mobridge City Park	House Finch	Haemorhous mexicanus	32310	species	8	45.5389290	-100.4339010	Traveling	1	0
+S110434084	2022-05-16	L19111173	Mobridge City Park	House Sparrow	Passer domesticus	31534	species	7	45.5389290	-100.4339010	Traveling	1	0
+S110434084	2022-05-16	L19111173	Mobridge City Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	passerine sp.	Passeriformes sp.	35852	spuh	5	45.5389290	-100.4339010	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	Mourning Dove	Zenaida macroura	2412	species	15	45.5369090	-100.4179630	Traveling	1	0
-S110434084	2022-05-16	L19111173	Mobridge City Park	House Sparrow	Passer domesticus	31534	species	7	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	American Robin	Turdus migratorius	28635	issf	7	45.5389290	-100.4339010	Traveling	1	1
 S110528061	2022-05-17	L19111173	Mobridge City Park	Eastern Warbling Vireo	Vireo gilvus	19245	species	3	45.5389290	-100.4339010	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	Least Flycatcher	Empidonax minimus	16963	species	1	45.5389290	-100.4339010	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	European Starling	Sturnus vulgaris	27813	species	6	45.5389290	-100.4339010	Traveling	1	0
 S106442996	2022-04-07	L4535106	Central Mobridge	Great Horned Owl	Bubo virginianus	8910	species	2	45.5387524	-100.4390180	Stationary	1	0
+S110523981	2022-05-17	L19127270	Mobridge Cemetery	European Starling	Sturnus vulgaris	27813	species	4	45.5369090	-100.4179630	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Common Grackle	Quiscalus quiscula	33853	species	20	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Rock Pigeon	Columba livia	1868	domestic	6	45.5389290	-100.4339010	Traveling	1	0
-S110523981	2022-05-17	L19127270	Mobridge Cemetery	European Starling	Sturnus vulgaris	27813	species	4	45.5369090	-100.4179630	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Swainson's Hawk	Buteo swainsoni	8504	species	2	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Red-tailed Hawk	Buteo jamaicensis	8512	issf	1	45.5389290	-100.4339010	Traveling	1	0
+S110523981	2022-05-17	L19127270	Mobridge Cemetery	American Redstart	Setophaga ruticilla	34058	species	1	45.5369090	-100.4179630	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	European Starling	Sturnus vulgaris	27813	species	4	45.5389290	-100.4339010	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	45.5369090	-100.4179630	Traveling	1	0
-S110523981	2022-05-17	L19127270	Mobridge Cemetery	American Redstart	Setophaga ruticilla	34058	species	1	45.5369090	-100.4179630	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	passerine sp.	Passeriformes sp.	35852	spuh	5	45.5389290	-100.4339010	Traveling	1	0
-S110528061	2022-05-17	L19111173	Mobridge City Park	Broad-winged Hawk	Buteo platypterus	8479	species	1	45.5389290	-100.4339010	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	Purple Martin	Progne subis	24081	species	1	45.5389290	-100.4339010	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	Clay-colored Sparrow	Spizella pallida	32996	species	1	45.5389290	-100.4339010	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	Chimney Swift	Chaetura pelagica	3896	species	15	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Turkey Vulture	Cathartes aura	7815	species	18	45.5389290	-100.4339010	Traveling	1	0
+S110528061	2022-05-17	L19111173	Mobridge City Park	Broad-winged Hawk	Buteo platypterus	8479	species	1	45.5389290	-100.4339010	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	American Robin	Turdus migratorius	28635	issf	5	45.5369090	-100.4179630	Traveling	1	1
 S110434084	2022-05-16	L19111173	Mobridge City Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	45.5389290	-100.4339010	Traveling	1	0
-S110434084	2022-05-16	L19111173	Mobridge City Park	American Robin	Turdus migratorius	28635	issf	5	45.5389290	-100.4339010	Traveling	1	1
 S110528061	2022-05-17	L19111173	Mobridge City Park	Chipping Sparrow	Spizella passerina	32990	species	9	45.5389290	-100.4339010	Traveling	1	0
+S110434084	2022-05-16	L19111173	Mobridge City Park	American Robin	Turdus migratorius	28635	issf	5	45.5389290	-100.4339010	Traveling	1	1
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	House Finch	Haemorhous mexicanus	32310	species	1	45.5369090	-100.4179630	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	American White Pelican	Pelecanus erythrorhynchos	7791	species	1	45.5389290	-100.4339010	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	Common Grackle	Quiscalus quiscula	33853	species	25	45.5369090	-100.4179630	Traveling	1	0
-S110434084	2022-05-16	L19111173	Mobridge City Park	Mourning Dove	Zenaida macroura	2412	species	27	45.5389290	-100.4339010	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	45.5369090	-100.4179630	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	passerine sp.	Passeriformes sp.	35852	spuh	5	45.5369090	-100.4179630	Traveling	1	0
+S110434084	2022-05-16	L19111173	Mobridge City Park	Mourning Dove	Zenaida macroura	2412	species	27	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Blackpoll Warbler	Setophaga striata	34138	species	1	45.5389290	-100.4339010	Traveling	1	0
-S110434084	2022-05-16	L19111173	Mobridge City Park	Western Kingbird	Tyrannus verticalis	17467	species	6	45.5389290	-100.4339010	Traveling	1	0
 S110434084	2022-05-16	L19111173	Mobridge City Park	Common Grackle	Quiscalus quiscula	33857	issf	15	45.5389290	-100.4339010	Traveling	1	1
+S110434084	2022-05-16	L19111173	Mobridge City Park	Western Kingbird	Tyrannus verticalis	17467	species	6	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Baltimore Oriole	Icterus galbula	33770	species	1	45.5389290	-100.4339010	Traveling	1	0
-S110434084	2022-05-16	L19111173	Mobridge City Park	Cliff Swallow	Petrochelidon pyrrhonota	24282	issf	3	45.5389290	-100.4339010	Traveling	1	0
-S110528061	2022-05-17	L19111173	Mobridge City Park	Western Kingbird	Tyrannus verticalis	17467	species	4	45.5389290	-100.4339010	Traveling	1	0
 S110523981	2022-05-17	L19127270	Mobridge Cemetery	swallow sp.	Hirundinidae sp.	24305	spuh	3	45.5369090	-100.4179630	Traveling	1	0
+S110528061	2022-05-17	L19111173	Mobridge City Park	Western Kingbird	Tyrannus verticalis	17467	species	4	45.5389290	-100.4339010	Traveling	1	0
+S110434084	2022-05-16	L19111173	Mobridge City Park	Cliff Swallow	Petrochelidon pyrrhonota	24282	issf	3	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Mourning Dove	Zenaida macroura	2412	species	27	45.5389290	-100.4339010	Traveling	1	0
+S110528061	2022-05-17	L19111173	Mobridge City Park	Least Flycatcher	Empidonax minimus	16963	species	3	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Brown-headed Cowbird	Molothrus ater	33833	species	1	45.5389290	-100.4339010	Traveling	1	0
 S110528061	2022-05-17	L19111173	Mobridge City Park	Chimney Swift	Chaetura pelagica	3896	species	20	45.5389290	-100.4339010	Traveling	1	0
-S110528061	2022-05-17	L19111173	Mobridge City Park	Least Flycatcher	Empidonax minimus	16963	species	3	45.5389290	-100.4339010	Traveling	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	45.5399290	-100.4372010	Stationary	1	0
 S151580407	2023-10-06	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	3	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Brown-headed Cowbird	Molothrus ater	33833	species	2	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	45.5399290	-100.4372010	Stationary	1	0
-S135569688	2023-04-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	10	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Finch	Haemorhous mexicanus	32310	species	2	45.5399290	-100.4372010	Stationary	1	0
 S135569688	2023-04-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Double-crested Cormorant	Nannopterum auritum	7424	species	9	45.5399290	-100.4372010	Stationary	1	0
+S135569688	2023-04-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	10	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Harris's Sparrow	Zonotrichia querula	33198	species	1	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Blackpoll Warbler	Setophaga striata	34138	species	1	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	45.5399290	-100.4372010	Stationary	1	0
 S151580407	2023-10-06	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Brown Thrasher	Toxostoma rufum	28037	species	1	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Orchard Oriole	Icterus spurius	33679	species	1	45.5399290	-100.4372010	Stationary	1	0
-S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	45.5399290	-100.4372010	Stationary	1	0
-S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Swainson's Thrush	Catharus ustulatus	28324	species	1	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	3	45.5399290	-100.4372010	Stationary	1	0
+S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Swainson's Thrush	Catharus ustulatus	28324	species	1	45.5399290	-100.4372010	Stationary	1	0
 S135569688	2023-04-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Blue Jay	Cyanocitta cristata	21294	species	1	45.5399290	-100.4372010	Stationary	1	0
-S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	2	45.5399290	-100.4372010	Stationary	1	0
+S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	45.5399290	-100.4372010	Stationary	1	0
 S151580407	2023-10-06	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	6	45.5399290	-100.4372010	Stationary	1	0
-S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	2	45.5399290	-100.4372010	Stationary	1	0
+S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	2	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Baltimore Oriole	Icterus galbula	33770	species	2	45.5399290	-100.4372010	Stationary	1	0
-S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Common Grackle	Quiscalus quiscula	33853	species	2	45.5399290	-100.4372010	Stationary	1	0
+S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	2	45.5399290	-100.4372010	Stationary	1	0
 S151580407	2023-10-06	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Finch	Haemorhous mexicanus	32310	species	1	45.5399290	-100.4372010	Stationary	1	0
+S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Common Grackle	Quiscalus quiscula	33853	species	2	45.5399290	-100.4372010	Stationary	1	0
 S135569688	2023-04-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	1	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Gray Catbird	Dumetella carolinensis	28000	species	1	45.5399290	-100.4372010	Stationary	1	0
 S151580407	2023-10-06	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Gray Catbird	Dumetella carolinensis	28000	species	1	45.5399290	-100.4372010	Stationary	1	0
-S135569688	2023-04-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Goldfinch	Spinus tristis	32617	species	4	45.5399290	-100.4372010	Stationary	1	0
+S135569688	2023-04-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Chimney Swift	Chaetura pelagica	3896	species	2	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	3	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	45.5399290	-100.4372010	Stationary	1	0
-S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.5399290	-100.4372010	Stationary	1	0
 S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Least Flycatcher	Empidonax minimus	16963	species	1	45.5399290	-100.4372010	Stationary	1	0
+S138364618	2023-05-19	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	45.5399290	-100.4372010	Stationary	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	3	45.5399290	-100.4372010	Stationary	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Pine Siskin	Spinus pinus	32595	species	2	45.5399290	-100.4372010	Stationary	1	0
 S193778432	2024-09-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Baltimore Oriole	Icterus galbula	33770	species	1	45.5399290	-100.4372010	Stationary	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.5374650	-100.4470110	Traveling	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Common Nighthawk	Chordeiles minor	3492	species	1	45.5374650	-100.4470110	Traveling	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Pine Siskin	Spinus pinus	32595	species	2	45.5399290	-100.4372010	Stationary	1	0
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Spotted Towhee	Pipilo maculatus	33386	species	1	45.5465380	-100.4552710	Traveling	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Purple Martin	Progne subis	24081	species	3	45.5399290	-100.4372010	Stationary	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	7	45.5399290	-100.4372010	Stationary	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Common Nighthawk	Chordeiles minor	3492	species	1	45.5374650	-100.4470110	Traveling	1	0
 S193778432	2024-09-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	45.5399290	-100.4372010	Stationary	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	7	45.5399290	-100.4372010	Stationary	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.5374650	-100.4470110	Traveling	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Purple Martin	Progne subis	24081	species	3	45.5399290	-100.4372010	Stationary	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Chipping Sparrow	Spizella passerina	32990	species	1	45.5399290	-100.4372010	Stationary	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Finch	Haemorhous mexicanus	32310	species	1	45.5399290	-100.4372010	Stationary	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	House Finch	Haemorhous mexicanus	32310	species	2	45.5374650	-100.4470110	Traveling	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Ring-necked Pheasant	Phasianus colchicus	1477	species	2	45.5374650	-100.4470110	Traveling	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Common Grackle	Quiscalus quiscula	33853	species	7	45.5399290	-100.4372010	Stationary	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	45.5399290	-100.4372010	Stationary	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Ring-necked Pheasant	Phasianus colchicus	1477	species	2	45.5374650	-100.4470110	Traveling	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	House Finch	Haemorhous mexicanus	32310	species	2	45.5374650	-100.4470110	Traveling	1	0
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Brown-headed Cowbird	Molothrus ater	33833	species	5	45.5465380	-100.4552710	Traveling	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Rose-breasted Grosbeak	Pheucticus ludovicianus	34557	species	1	45.5399290	-100.4372010	Stationary	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Killdeer	Charadrius vociferus	5827	species	2	45.5374650	-100.4470110	Traveling	1	0
@@ -330,95 +330,95 @@ S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.5465
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Rock Pigeon	Columba livia	1868	domestic	30	45.5465380	-100.4552710	Traveling	1	0
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Killdeer	Charadrius vociferus	5827	species	2	45.5465380	-100.4552710	Traveling	1	0
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	American White Pelican	Pelecanus erythrorhynchos	7791	species	2	45.5465380	-100.4552710	Traveling	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Orchard Oriole	Icterus spurius	33679	species	2	45.5374650	-100.4470110	Traveling	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	1	45.5399290	-100.4372010	Stationary	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Brown Thrasher	Toxostoma rufum	28037	species	1	45.5399290	-100.4372010	Stationary	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Turkey Vulture	Cathartes aura	7815	species	3	45.5374650	-100.4470110	Traveling	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Orchard Oriole	Icterus spurius	33679	species	2	45.5374650	-100.4470110	Traveling	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Brown Thrasher	Toxostoma rufum	28037	species	1	45.5399290	-100.4372010	Stationary	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	1	45.5399290	-100.4372010	Stationary	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Common Grackle	Quiscalus quiscula	33853	species	8	45.5374650	-100.4470110	Traveling	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Rock Pigeon	Columba livia	1868	domestic	15	45.5374650	-100.4470110	Traveling	1	0
-S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Mourning Dove	Zenaida macroura	2412	species	8	45.5465380	-100.4552710	Traveling	1	0
-S177227838	2024-05-26	L32357475	408 First Ave W, Mobridge US-SD 45.53716, -100.43508	Mourning Dove	Zenaida macroura	2412	species	2	45.5371650	-100.4350820	Stationary	1	0
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Common Grackle	Quiscalus quiscula	33853	species	100	45.5465380	-100.4552710	Traveling	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Common Yellowthroat	Geothlypis trichas	34028	species	1	45.5374650	-100.4470110	Traveling	1	0
 S177227838	2024-05-26	L32357475	408 First Ave W, Mobridge US-SD 45.53716, -100.43508	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	45.5371650	-100.4350820	Stationary	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	European Starling	Sturnus vulgaris	27813	species	2	45.5374650	-100.4470110	Traveling	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Red-winged Blackbird	Agelaius phoeniceus	33779	species	8	45.5374650	-100.4470110	Traveling	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	European Starling	Sturnus vulgaris	27813	species	2	45.5374650	-100.4470110	Traveling	1	0
+S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Mourning Dove	Zenaida macroura	2412	species	8	45.5465380	-100.4552710	Traveling	1	0
+S177227838	2024-05-26	L32357475	408 First Ave W, Mobridge US-SD 45.53716, -100.43508	Mourning Dove	Zenaida macroura	2412	species	2	45.5371650	-100.4350820	Stationary	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Chimney Swift	Chaetura pelagica	3896	species	1	45.5374650	-100.4470110	Traveling	1	0
 S193778432	2024-09-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Common Grackle	Quiscalus quiscula	33853	species	1	45.5399290	-100.4372010	Stationary	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Baltimore Oriole	Icterus galbula	33770	species	2	45.5399290	-100.4372010	Stationary	1	0
+S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	American Robin	Turdus migratorius	28633	species	9	45.5465380	-100.4552710	Traveling	1	0
 S177227838	2024-05-26	L32357475	408 First Ave W, Mobridge US-SD 45.53716, -100.43508	American Robin	Turdus migratorius	28633	species	2	45.5371650	-100.4350820	Stationary	1	0
+S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Ring-billed Gull	Larus delawarensis	6521	species	2	45.5465380	-100.4552710	Traveling	1	0
 S193778432	2024-09-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	3	45.5399290	-100.4372010	Stationary	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Harris's Sparrow	Zonotrichia querula	33198	species	1	45.5399290	-100.4372010	Stationary	1	0
-S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	American Robin	Turdus migratorius	28633	species	9	45.5465380	-100.4552710	Traveling	1	0
-S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Ring-billed Gull	Larus delawarensis	6521	species	2	45.5465380	-100.4552710	Traveling	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Western Kingbird	Tyrannus verticalis	17467	species	2	45.5374650	-100.4470110	Traveling	1	0
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Brown Thrasher	Toxostoma rufum	28037	species	2	45.5465380	-100.4552710	Traveling	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	10	45.5399290	-100.4372010	Stationary	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Western Kingbird	Tyrannus verticalis	17467	species	2	45.5374650	-100.4470110	Traveling	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Song Sparrow	Melospiza melodia	33277	species	1	45.5374650	-100.4470110	Traveling	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Barn Swallow	Hirundo rustica	24187	species	5	45.5374650	-100.4470110	Traveling	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	House Sparrow	Passer domesticus	31534	species	7	45.5374650	-100.4470110	Traveling	1	0
-S193778432	2024-09-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	4	45.5399290	-100.4372010	Stationary	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	10	45.5399290	-100.4372010	Stationary	1	0
 S177227838	2024-05-26	L32357475	408 First Ave W, Mobridge US-SD 45.53716, -100.43508	House Sparrow	Passer domesticus	31534	species	5	45.5371650	-100.4350820	Stationary	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	House Sparrow	Passer domesticus	31534	species	7	45.5374650	-100.4470110	Traveling	1	0
 S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	4	45.5399290	-100.4372010	Stationary	1	0
-S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Song Sparrow	Melospiza melodia	33277	species	2	45.5465380	-100.4552710	Traveling	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Barn Swallow	Hirundo rustica	24187	species	5	45.5374650	-100.4470110	Traveling	1	0
+S193778432	2024-09-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	4	45.5399290	-100.4372010	Stationary	1	0
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Western Grebe	Aechmophorus occidentalis	6888	species	3	45.5465380	-100.4552710	Traveling	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Clay-colored Sparrow	Spizella pallida	32996	species	4	45.5399290	-100.4372010	Stationary	1	0
+S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Song Sparrow	Melospiza melodia	33277	species	2	45.5465380	-100.4552710	Traveling	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	American Goldfinch	Spinus tristis	32617	species	2	45.5374650	-100.4470110	Traveling	1	0
-S177227838	2024-05-26	L32357475	408 First Ave W, Mobridge US-SD 45.53716, -100.43508	Chimney Swift	Chaetura pelagica	3896	species	3	45.5371650	-100.4350820	Stationary	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Brown-headed Cowbird	Molothrus ater	33833	species	1	45.5399290	-100.4372010	Stationary	1	0
-S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Northern House Wren	Troglodytes aedon	27191	species	2	45.5399290	-100.4372010	Stationary	1	0
-S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Snow Goose	Anser caerulescens	267	species	2	45.5465380	-100.4552710	Traveling	1	0
-S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	45.5465380	-100.4552710	Traveling	1	0
-S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	American Robin	Turdus migratorius	28633	species	8	45.5374650	-100.4470110	Traveling	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Clay-colored Sparrow	Spizella pallida	32996	species	4	45.5399290	-100.4372010	Stationary	1	0
 S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Canada Goose	Branta canadensis	342	species	2	45.5465380	-100.4552710	Traveling	1	0
 S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	Franklin's Gull	Leucophaeus pipixcan	6494	species	40	45.5374650	-100.4470110	Traveling	1	0
+S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	45.5465380	-100.4552710	Traveling	1	0
+S173603625	2024-05-11	L31594058	1407 Kennedy Memorial Dr, Mobridge US-SD 45.54654, -100.45527	Snow Goose	Anser caerulescens	267	species	2	45.5465380	-100.4552710	Traveling	1	0
+S177115557	2024-05-25	L32331527	959–999 W Grand Crossing, Mobridge US-SD 45.53746, -100.44701	American Robin	Turdus migratorius	28633	species	8	45.5374650	-100.4470110	Traveling	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Northern House Wren	Troglodytes aedon	27191	species	2	45.5399290	-100.4372010	Stationary	1	0
+S173003614	2024-05-09	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Brown-headed Cowbird	Molothrus ater	33833	species	1	45.5399290	-100.4372010	Stationary	1	0
+S177227838	2024-05-26	L32357475	408 First Ave W, Mobridge US-SD 45.53716, -100.43508	Chimney Swift	Chaetura pelagica	3896	species	3	45.5371650	-100.4350820	Stationary	1	0
 S244028652	2025-05-28	L46255234	622 W Grand Crossing, Mobridge US-SD 45.53745, -100.44236	Killdeer	Charadrius vociferus	5827	species	2	45.5374460	-100.4423570	Stationary	1	0
 S216334780	2025-03-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	3	45.5399290	-100.4372010	Stationary	1	0
-S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Dark-eyed Junco	Junco hyemalis	33124	species	10	45.5399290	-100.4372010	Stationary	1	0
 S244028652	2025-05-28	L46255234	622 W Grand Crossing, Mobridge US-SD 45.53745, -100.44236	Chimney Swift	Chaetura pelagica	3896	species	6	45.5374460	-100.4423570	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Sandhill Crane	Antigone canadensis	5697	species	40	45.5399290	-100.4372010	Stationary	1	0
+S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Dark-eyed Junco	Junco hyemalis	33124	species	10	45.5399290	-100.4372010	Stationary	1	0
 S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	1	45.5399290	-100.4372010	Stationary	1	0
 S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Finch	Haemorhous mexicanus	32310	species	5	45.5399290	-100.4372010	Stationary	1	0
 S280186845	2025-10-18	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	2	45.5399290	-100.4372010	Stationary	1	0
-S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	45.5399290	-100.4372010	Stationary	1	0
+S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	45.5399290	-100.4372010	Stationary	1	0
 S280186845	2025-10-18	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Blue Jay	Cyanocitta cristata	21294	species	1	45.5399290	-100.4372010	Stationary	1	0
 S288969425	2025-12-17	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	45.5399290	-100.4372010	Stationary	1	0
 S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	3	45.5399290	-100.4372010	Stationary	1	0
+S288969425	2025-12-17	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Blue Jay	Cyanocitta cristata	21294	species	1	45.5399290	-100.4372010	Stationary	1	0
+S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	10	45.5399290	-100.4372010	Stationary	1	0
+S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Finch	Haemorhous mexicanus	32310	species	4	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	3	45.5399290	-100.4372010	Stationary	1	0
 S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	45.5399290	-100.4372010	Stationary	1	0
-S288969425	2025-12-17	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Blue Jay	Cyanocitta cristata	21294	species	1	45.5399290	-100.4372010	Stationary	1	0
-S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Finch	Haemorhous mexicanus	32310	species	4	45.5399290	-100.4372010	Stationary	1	0
-S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	10	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Common Grackle	Quiscalus quiscula	33853	species	7	45.5399290	-100.4372010	Stationary	1	0
 S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	6	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	2	45.5399290	-100.4372010	Stationary	1	0
 S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	5	45.5399290	-100.4372010	Stationary	1	0
+S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	4	45.5399290	-100.4372010	Stationary	1	0
+S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	45.5399290	-100.4372010	Stationary	1	0
+S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Turkey Vulture	Cathartes aura	7815	species	1	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Ring-billed Gull	Larus delawarensis	6521	species	1	45.5399290	-100.4372010	Stationary	1	0
 S288969425	2025-12-17	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Finch	Haemorhous mexicanus	32310	species	3	45.5399290	-100.4372010	Stationary	1	0
 S288969425	2025-12-17	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	45.5399290	-100.4372010	Stationary	1	0
-S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Turkey Vulture	Cathartes aura	7815	species	1	45.5399290	-100.4372010	Stationary	1	0
-S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	4	45.5399290	-100.4372010	Stationary	1	0
-S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	45.5399290	-100.4372010	Stationary	1	0
 S244028652	2025-05-28	L46255234	622 W Grand Crossing, Mobridge US-SD 45.53745, -100.44236	Common Nighthawk	Chordeiles minor	3492	species	2	45.5374460	-100.4423570	Stationary	1	0
 S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	10	45.5399290	-100.4372010	Stationary	1	0
 S216334780	2025-03-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Blue Jay	Cyanocitta cristata	21294	species	2	45.5399290	-100.4372010	Stationary	1	0
 S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Mourning Dove	Zenaida macroura	2412	species	1	45.5399290	-100.4372010	Stationary	1	0
-S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Turkey Vulture	Cathartes aura	7815	species	1	45.5399290	-100.4372010	Stationary	1	0
-S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Goldfinch	Spinus tristis	32617	species	3	45.5399290	-100.4372010	Stationary	1	0
-S288969425	2025-12-17	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	10	45.5399290	-100.4372010	Stationary	1	0
-S216334780	2025-03-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	3	45.5399290	-100.4372010	Stationary	1	0
 S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Dark-eyed Junco	Junco hyemalis	33124	species	12	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Finch	Haemorhous mexicanus	32310	species	4	45.5399290	-100.4372010	Stationary	1	0
+S288969425	2025-12-17	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Robin	Turdus migratorius	28633	species	10	45.5399290	-100.4372010	Stationary	1	0
+S216334780	2025-03-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	3	45.5399290	-100.4372010	Stationary	1	0
+S221931000	2025-03-30	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Turkey Vulture	Cathartes aura	7815	species	1	45.5399290	-100.4372010	Stationary	1	0
+S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	American Goldfinch	Spinus tristis	32617	species	3	45.5399290	-100.4372010	Stationary	1	0
 S280186845	2025-10-18	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Sandhill Crane	Antigone canadensis	5697	species	40	45.5399290	-100.4372010	Stationary	1	0
-S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Ring-billed Gull	Larus delawarensis	6521	species	3	45.5399290	-100.4372010	Stationary	1	0
-S216334780	2025-03-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	30	45.5399290	-100.4372010	Stationary	1	0
 S216334780	2025-03-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	45.5399290	-100.4372010	Stationary	1	0
-S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	10	45.5399290	-100.4372010	Stationary	1	0
+S216334780	2025-03-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	30	45.5399290	-100.4372010	Stationary	1	0
+S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Ring-billed Gull	Larus delawarensis	6521	species	3	45.5399290	-100.4372010	Stationary	1	0
 S244028652	2025-05-28	L46255234	622 W Grand Crossing, Mobridge US-SD 45.53745, -100.44236	House Sparrow	Passer domesticus	31534	species	4	45.5374460	-100.4423570	Stationary	1	0
 S280186845	2025-10-18	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	6	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	European Starling	Sturnus vulgaris	27813	species	4	45.5399290	-100.4372010	Stationary	1	0
+S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	House Sparrow	Passer domesticus	31534	species	10	45.5399290	-100.4372010	Stationary	1	0
+S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Northern Flicker	Colaptes auratus	11900	species	1	45.5399290	-100.4372010	Stationary	1	0
 S216334780	2025-03-02	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	45.5399290	-100.4372010	Stationary	1	0
 S224940712	2025-04-12	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Northern Flicker	Colaptes auratus	11900	species	1	45.5399290	-100.4372010	Stationary	1	0
-S223262720	2025-04-05	L9219904	701–797 2nd Ave W, Mobridge US-SD (45.5399,-100.4372)	Northern Flicker	Colaptes auratus	11900	species	1	45.5399290	-100.4372010	Stationary	1	0

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-239,"Bishop, TX",Bishop,Texas,Nueces,2015,3798016.59807755,78,248,city_0239_texas_bishop,864.806245803833,23.010416666666668,26.197980308352147,dry subhumid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2016,3798016.59807755,71,174,city_0239_texas_bishop,802.8562431335449,23.6171875,23.882314459933475,dry subhumid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2017,3798016.59807755,84,226,city_0239_texas_bishop,666.4375152587891,23.731770833333332,19.75696795023354,semiarid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2018,3798016.59807755,100,532,city_0239_texas_bishop,728.9374961853027,23.307291666666668,21.885222715805803,dry subhumid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2019,3798016.59807755,60,104,city_0239_texas_bishop,605.9874992370605,23.388020833333332,18.14984788292889,semiarid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2020,3798016.59807755,153,1015,city_0239_texas_bishop,587.1250009536743,23.989583333333332,17.27367456069652,semiarid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2021,3798016.59807755,124,589,city_0239_texas_bishop,848.6624946594238,23.375,25.428089727623185,dry subhumid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2022,3798016.59807755,84,237,city_0239_texas_bishop,554.6562476158142,23.479166666666668,16.56720590265033,semiarid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2023,3798016.59807755,128,685,city_0239_texas_bishop,597.5937576293945,24.3671875,17.38849760776597,semiarid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2024,3798016.59807755,115,689,city_0239_texas_bishop,786.3625030517578,24.677083333333332,22.676719823661383,dry subhumid,12
-239,"Bishop, TX",Bishop,Texas,Nueces,2025,3798016.59807755,141,793,city_0239_texas_bishop,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+239,2015,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,78,248,city_0239_texas_bishop,864.806245803833,23.0104166666667,26.1979803083521,dry subhumid,12
+239,2016,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,71,174,city_0239_texas_bishop,802.856243133545,23.6171875,23.8823144599335,dry subhumid,12
+239,2017,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,84,226,city_0239_texas_bishop,666.437515258789,23.7317708333333,19.7569679502335,semiarid,12
+239,2018,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,100,532,city_0239_texas_bishop,728.937496185303,23.3072916666667,21.8852227158058,dry subhumid,12
+239,2019,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,60,104,city_0239_texas_bishop,605.987499237061,23.3880208333333,18.1498478829289,semiarid,12
+239,2020,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,153,1015,city_0239_texas_bishop,587.125000953674,23.9895833333333,17.2736745606965,semiarid,12
+239,2021,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,124,589,city_0239_texas_bishop,848.662494659424,23.375,25.4280897276232,dry subhumid,12
+239,2022,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,84,237,city_0239_texas_bishop,554.656247615814,23.4791666666667,16.5672059026503,semiarid,12
+239,2023,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,128,693,city_0239_texas_bishop,597.593757629395,24.3671875,17.388497607766,semiarid,12
+239,2024,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,115,689,city_0239_texas_bishop,786.362503051758,24.6770833333333,22.6767198236614,dry subhumid,12
+239,2025,"Bishop, TX",Bishop,Texas,Nueces,99.9999999999996,141,793,city_0239_texas_bishop,,,,,

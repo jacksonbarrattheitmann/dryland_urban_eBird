@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1945,"Odem, TX",Odem,Texas,San Patricio,2015,4055967.93854584,8,8,city_1945_texas_odem,1011.6250019073486,22.768229166666668,30.872129121228788,humid,12
-1945,"Odem, TX",Odem,Texas,San Patricio,2018,4055967.93854584,35,46,city_1945_texas_odem,819.6687355041504,23.010416666666668,24.83060858579944,dry subhumid,12
-1945,"Odem, TX",Odem,Texas,San Patricio,2019,4055967.93854584,6,6,city_1945_texas_odem,700.806245803833,23.119791666666668,21.15974197111746,dry subhumid,12
-1945,"Odem, TX",Odem,Texas,San Patricio,2020,4055967.93854584,2,2,city_1945_texas_odem,649.7187480926514,23.6484375,19.309031751998926,semiarid,12
-1945,"Odem, TX",Odem,Texas,San Patricio,2022,4055967.93854584,4,4,city_1945_texas_odem,606.7750005722046,23.161458333333332,18.297597001706187,semiarid,12
-1945,"Odem, TX",Odem,Texas,San Patricio,2023,4055967.93854584,37,134,city_1945_texas_odem,653.9937496185303,24.020833333333332,19.223331280887603,semiarid,12
-1945,"Odem, TX",Odem,Texas,San Patricio,2024,4055967.93854584,41,266,city_1945_texas_odem,857.5812530517578,24.322916666666668,24.98567535446699,dry subhumid,12
-1945,"Odem, TX",Odem,Texas,San Patricio,2025,4055967.93854584,21,61,city_1945_texas_odem,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1945,2015,"Odem, TX",Odem,Texas,San Patricio,99.9999999999989,8,8,city_1945_texas_odem,1011.62500190735,22.7682291666667,30.8721291212288,humid,12
+1945,2018,"Odem, TX",Odem,Texas,San Patricio,99.9999999999989,35,46,city_1945_texas_odem,819.66873550415,23.0104166666667,24.8306085857994,dry subhumid,12
+1945,2019,"Odem, TX",Odem,Texas,San Patricio,99.9999999999989,6,6,city_1945_texas_odem,700.806245803833,23.1197916666667,21.1597419711175,dry subhumid,12
+1945,2020,"Odem, TX",Odem,Texas,San Patricio,99.9999999999989,2,2,city_1945_texas_odem,649.718748092651,23.6484375,19.3090317519989,semiarid,12
+1945,2022,"Odem, TX",Odem,Texas,San Patricio,99.9999999999989,4,4,city_1945_texas_odem,606.775000572205,23.1614583333333,18.2975970017062,semiarid,12
+1945,2023,"Odem, TX",Odem,Texas,San Patricio,99.9999999999989,37,134,city_1945_texas_odem,653.99374961853,24.0208333333333,19.2233312808876,semiarid,12
+1945,2024,"Odem, TX",Odem,Texas,San Patricio,99.9999999999989,41,266,city_1945_texas_odem,857.581253051758,24.3229166666667,24.985675354467,dry subhumid,12
+1945,2025,"Odem, TX",Odem,Texas,San Patricio,99.9999999999989,21,61,city_1945_texas_odem,,,,,

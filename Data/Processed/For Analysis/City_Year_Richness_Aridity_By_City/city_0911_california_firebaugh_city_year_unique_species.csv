@@ -1,2 +1,2 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-911,"Firebaugh, CA",Firebaugh,California,Fresno,2015,3749751.70434525,4,4,city_0911_california_firebaugh,142.212497651577,18.104166666666668,5.060192651798143,arid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+911,2015,"Firebaugh, CA",Firebaugh,California,Fresno,100,4,4,city_0911_california_firebaugh,142.212497651577,18.1041666666667,5.06019265179814,arid,12

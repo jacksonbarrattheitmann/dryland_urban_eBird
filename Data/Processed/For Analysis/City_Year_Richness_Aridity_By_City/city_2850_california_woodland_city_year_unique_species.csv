@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2850,"Woodland, CA",Woodland,California,Yolo,2015,31617116.4092506,52,259,city_2850_california_woodland,290.34374475479126,18.002604166666668,10.368455127484408,semiarid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2016,31617116.4092506,50,736,city_2850_california_woodland,534.9437450170517,17.671875,19.33167683856087,semiarid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2017,31617116.4092506,67,1467,city_2850_california_woodland,573.5249944925308,17.46875,20.87918068687257,dry subhumid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2018,31617116.4092506,102,3184,city_2850_california_woodland,435.53750175237656,17.458333333333332,15.86176030661159,semiarid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2019,31617116.4092506,80,1534,city_2850_california_woodland,558.4937455058098,17.3125,20.4482835883134,dry subhumid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2020,31617116.4092506,92,1779,city_2850_california_woodland,192.8812511563301,17.739583333333332,6.953285809616107,arid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2021,31617116.4092506,114,1906,city_2850_california_woodland,430.3000035881996,17.325520833333332,15.747183968156738,semiarid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2022,31617116.4092506,88,1688,city_2850_california_woodland,291.73125272989273,17.348958333333332,10.66699686233849,semiarid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2023,31617116.4092506,99,2526,city_2850_california_woodland,537.9124960899353,17.078125,19.86520470268659,semiarid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2024,31617116.4092506,84,1796,city_2850_california_woodland,566.7875002622604,17.7109375,20.45356640360004,dry subhumid,12
-2850,"Woodland, CA",Woodland,California,Yolo,2025,31617116.4092506,87,2584,city_2850_california_woodland,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2850,2015,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,52,259,city_2850_california_woodland,290.343744754791,18.0026041666667,10.3684551274844,semiarid,12
+2850,2016,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,50,736,city_2850_california_woodland,534.943745017052,17.671875,19.3316768385609,semiarid,12
+2850,2017,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,67,1467,city_2850_california_woodland,573.524994492531,17.46875,20.8791806868726,dry subhumid,12
+2850,2018,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,102,3184,city_2850_california_woodland,435.537501752377,17.4583333333333,15.8617603066116,semiarid,12
+2850,2019,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,80,1534,city_2850_california_woodland,558.49374550581,17.3125,20.4482835883134,dry subhumid,12
+2850,2020,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,92,1779,city_2850_california_woodland,192.88125115633,17.7395833333333,6.95328580961611,arid,12
+2850,2021,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,114,1906,city_2850_california_woodland,430.3000035882,17.3255208333333,15.7471839681567,semiarid,12
+2850,2022,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,88,1688,city_2850_california_woodland,291.731252729893,17.3489583333333,10.6669968623385,semiarid,12
+2850,2023,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,99,2526,city_2850_california_woodland,537.912496089935,17.078125,19.8652047026866,semiarid,12
+2850,2024,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,84,1796,city_2850_california_woodland,566.787500262261,17.7109375,20.4535664036,dry subhumid,12
+2850,2025,"Woodland, CA",Woodland,California,Yolo,99.9999999999943,87,2584,city_2850_california_woodland,,,,,

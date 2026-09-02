@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2015,19202225.7193122,40,62,city_2601_new_mexico_truth_or_consequences,345.6625018119812,16.572916666666668,13.008075332791138,semiarid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2016,19202225.7193122,53,133,city_2601_new_mexico_truth_or_consequences,253.5937523841858,16.802083333333332,9.46171792805357,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2017,19202225.7193122,33,69,city_2601_new_mexico_truth_or_consequences,258.3125011920929,17.388020833333332,9.431586997980762,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2018,19202225.7193122,79,273,city_2601_new_mexico_truth_or_consequences,265.1750029325485,16.877604166666668,9.866020843532471,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2019,19202225.7193122,67,234,city_2601_new_mexico_truth_or_consequences,249.42500352859497,16.244791666666668,9.503790569059383,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2020,19202225.7193122,72,216,city_2601_new_mexico_truth_or_consequences,139.17499828338623,17.143229166666668,5.127429659485783,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2021,19202225.7193122,85,328,city_2601_new_mexico_truth_or_consequences,266.28124833106995,16.846354166666668,9.918711743052755,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2022,19202225.7193122,96,575,city_2601_new_mexico_truth_or_consequences,257.7562484741211,16.440104166666668,9.748685059988428,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2023,19202225.7193122,129,1368,city_2601_new_mexico_truth_or_consequences,168.09374928474426,16.9765625,6.231103361843981,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2024,19202225.7193122,126,1625,city_2601_new_mexico_truth_or_consequences,224.11874794960025,17.65625,8.103728739420573,arid,12
-2601,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,2025,19202225.7193122,126,888,city_2601_new_mexico_truth_or_consequences,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2601,2015,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,40,62,city_2601_new_mexico_truth_or_consequences,345.662501811981,16.5729166666667,13.0080753327911,semiarid,12
+2601,2016,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,53,133,city_2601_new_mexico_truth_or_consequences,253.593752384186,16.8020833333333,9.46171792805357,arid,12
+2601,2017,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,33,69,city_2601_new_mexico_truth_or_consequences,258.312501192093,17.3880208333333,9.43158699798076,arid,12
+2601,2018,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,79,273,city_2601_new_mexico_truth_or_consequences,265.175002932549,16.8776041666667,9.86602084353247,arid,12
+2601,2019,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,67,234,city_2601_new_mexico_truth_or_consequences,249.425003528595,16.2447916666667,9.50379056905938,arid,12
+2601,2020,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,72,216,city_2601_new_mexico_truth_or_consequences,139.174998283386,17.1432291666667,5.12742965948578,arid,12
+2601,2021,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,85,328,city_2601_new_mexico_truth_or_consequences,266.28124833107,16.8463541666667,9.91871174305276,arid,12
+2601,2022,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,96,575,city_2601_new_mexico_truth_or_consequences,257.756248474121,16.4401041666667,9.74868505998843,arid,12
+2601,2023,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,129,1368,city_2601_new_mexico_truth_or_consequences,168.093749284744,16.9765625,6.23110336184398,arid,12
+2601,2024,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,126,1625,city_2601_new_mexico_truth_or_consequences,224.1187479496,17.65625,8.10372873942057,arid,12
+2601,2025,"Truth or Consequences, NM",Truth or Consequences,New Mexico,Sierra,100,126,888,city_2601_new_mexico_truth_or_consequences,,,,,

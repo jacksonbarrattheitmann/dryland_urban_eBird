@@ -1,21 +1,18 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S24304141	2015-07-18	L1114516	nocona city park	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7821614	-97.7325296	Traveling	1	0
-S24304141	2015-07-18	L1114516	nocona city park	House Sparrow	Passer domesticus	31534	species	2	33.7821614	-97.7325296	Traveling	1	0
 S24304141	2015-07-18	L1114516	nocona city park	Western Kingbird	Tyrannus verticalis	17467	species	4	33.7821614	-97.7325296	Traveling	1	0
 S24304141	2015-07-18	L1114516	nocona city park	American Robin	Turdus migratorius	28633	species	7	33.7821614	-97.7325296	Traveling	1	0
 S24304141	2015-07-18	L1114516	nocona city park	Mourning Dove	Zenaida macroura	2412	species	8	33.7821614	-97.7325296	Traveling	1	0
 S24304141	2015-07-18	L1114516	nocona city park	White-winged Dove	Zenaida asiatica	2389	species	2	33.7821614	-97.7325296	Traveling	1	0
 S24304141	2015-07-18	L1114516	nocona city park	Eastern Bluebird	Sialia sialis	28126	species	2	33.7821614	-97.7325296	Traveling	1	0
 S24304141	2015-07-18	L1114516	nocona city park	Northern Mockingbird	Mimus polyglottos	28114	species	4	33.7821614	-97.7325296	Traveling	1	0
-S24304141	2015-07-18	L1114516	nocona city park	Lark Sparrow	Chondestes grammacus	33029	species	6	33.7821614	-97.7325296	Traveling	1	0
-S24304141	2015-07-18	L1114516	nocona city park	House Finch	Haemorhous mexicanus	32310	species	3	33.7821614	-97.7325296	Traveling	1	0
 S24304141	2015-07-18	L1114516	nocona city park	Barn Swallow	Hirundo rustica	24187	species	2	33.7821614	-97.7325296	Traveling	1	0
 S24304141	2015-07-18	L1114516	nocona city park	European Starling	Sturnus vulgaris	27813	species	1	33.7821614	-97.7325296	Traveling	1	0
+S24304141	2015-07-18	L1114516	nocona city park	House Sparrow	Passer domesticus	31534	species	2	33.7821614	-97.7325296	Traveling	1	0
+S24304141	2015-07-18	L1114516	nocona city park	Lark Sparrow	Chondestes grammacus	33029	species	6	33.7821614	-97.7325296	Traveling	1	0
+S24304141	2015-07-18	L1114516	nocona city park	House Finch	Haemorhous mexicanus	32310	species	3	33.7821614	-97.7325296	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Barn Swallow	Hirundo rustica	24187	species	2	33.7869832	-97.7263406	Traveling	1	0
-S56734547	2019-05-25	L9342406	Nocona (town)	Common Grackle	Quiscalus quiscula	33853	species	2	33.7918749	-97.7290302	Traveling	1	0
-S56734547	2019-05-25	L9342406	Nocona (town)	Common Nighthawk	Chordeiles minor	3492	species	1	33.7918749	-97.7290302	Traveling	1	0
-S56734547	2019-05-25	L9342406	Nocona (town)	Mourning Dove	Zenaida macroura	2412	species	2	33.7918749	-97.7290302	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	14	33.7918749	-97.7290302	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7869832	-97.7263406	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	House Sparrow	Passer domesticus	31534	species	6	33.7918749	-97.7290302	Traveling	1	0
@@ -23,59 +20,62 @@ S56501630	2019-05-19	L9301713	Nocona	Great-tailed Grackle	Quiscalus mexicanus	33
 S56734547	2019-05-25	L9342406	Nocona (town)	Bewick's Wren	Thryomanes bewickii	27362	species	1	33.7918749	-97.7290302	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Northern Mockingbird	Mimus polyglottos	28114	species	2	33.7869832	-97.7263406	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	Barn Swallow	Hirundo rustica	24187	species	2	33.7918749	-97.7290302	Traveling	1	0
-S56501630	2019-05-19	L9301713	Nocona	House Sparrow	Passer domesticus	31534	species	6	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Common Grackle	Quiscalus quiscula	33853	species	12	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	House Finch	Haemorhous mexicanus	32310	species	3	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Blue Jay	Cyanocitta cristata	21294	species	4	33.7869832	-97.7263406	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	Baltimore Oriole	Icterus galbula	33770	species	1	33.7918749	-97.7290302	Traveling	1	0
-S56734547	2019-05-25	L9342406	Nocona (town)	Mississippi Kite	Ictinia mississippiensis	8388	species	2	33.7918749	-97.7290302	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	Blue Jay	Cyanocitta cristata	21294	species	2	33.7918749	-97.7290302	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Bewick's Wren	Thryomanes bewickii	27362	species	1	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Carolina Wren	Thryothorus ludovicianus	27348	species	1	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Mississippi Kite	Ictinia mississippiensis	8388	species	1	33.7869832	-97.7263406	Traveling	1	0
-S56501630	2019-05-19	L9301713	Nocona	American Robin	Turdus migratorius	28633	species	5	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Turkey Vulture	Cathartes aura	7815	species	2	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Eastern Phoebe	Sayornis phoebe	17007	species	1	33.7869832	-97.7263406	Traveling	1	0
-S56501630	2019-05-19	L9301713	Nocona	Western Kingbird	Tyrannus verticalis	17467	species	8	33.7869832	-97.7263406	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Northern Cardinal	Cardinalis cardinalis	34515	species	1	33.7869832	-97.7263406	Traveling	1	0
-S56501630	2019-05-19	L9301713	Nocona	Common Nighthawk	Chordeiles minor	3492	species	2	33.7869832	-97.7263406	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	5	33.7918749	-97.7290302	Traveling	1	0
-S56734547	2019-05-25	L9342406	Nocona (town)	American Robin	Turdus migratorius	28633	species	2	33.7918749	-97.7290302	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	European Starling	Sturnus vulgaris	27813	species	8	33.7869832	-97.7263406	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	33.7918749	-97.7290302	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Chimney Swift	Chaetura pelagica	3896	species	6	33.7869832	-97.7263406	Traveling	1	0
-S56734547	2019-05-25	L9342406	Nocona (town)	European Starling	Sturnus vulgaris	27813	species	10	33.7918749	-97.7290302	Traveling	1	0
-S56734547	2019-05-25	L9342406	Nocona (town)	Eastern Bluebird	Sialia sialis	28126	species	4	33.7918749	-97.7290302	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	White-winged Dove	Zenaida asiatica	2389	species	4	33.7869832	-97.7263406	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	White-winged Dove	Zenaida asiatica	2389	species	4	33.7918749	-97.7290302	Traveling	1	0
+S56734547	2019-05-25	L9342406	Nocona (town)	Common Grackle	Quiscalus quiscula	33853	species	2	33.7918749	-97.7290302	Traveling	1	0
+S56734547	2019-05-25	L9342406	Nocona (town)	Common Nighthawk	Chordeiles minor	3492	species	1	33.7918749	-97.7290302	Traveling	1	0
+S56734547	2019-05-25	L9342406	Nocona (town)	Mourning Dove	Zenaida macroura	2412	species	2	33.7918749	-97.7290302	Traveling	1	0
+S56501630	2019-05-19	L9301713	Nocona	House Sparrow	Passer domesticus	31534	species	6	33.7869832	-97.7263406	Traveling	1	0
+S56734547	2019-05-25	L9342406	Nocona (town)	Mississippi Kite	Ictinia mississippiensis	8388	species	2	33.7918749	-97.7290302	Traveling	1	0
+S56501630	2019-05-19	L9301713	Nocona	American Robin	Turdus migratorius	28633	species	5	33.7869832	-97.7263406	Traveling	1	0
+S56501630	2019-05-19	L9301713	Nocona	Western Kingbird	Tyrannus verticalis	17467	species	8	33.7869832	-97.7263406	Traveling	1	0
+S56501630	2019-05-19	L9301713	Nocona	Common Nighthawk	Chordeiles minor	3492	species	2	33.7869832	-97.7263406	Traveling	1	0
+S56734547	2019-05-25	L9342406	Nocona (town)	American Robin	Turdus migratorius	28633	species	2	33.7918749	-97.7290302	Traveling	1	0
+S56734547	2019-05-25	L9342406	Nocona (town)	European Starling	Sturnus vulgaris	27813	species	10	33.7918749	-97.7290302	Traveling	1	0
+S56734547	2019-05-25	L9342406	Nocona (town)	Eastern Bluebird	Sialia sialis	28126	species	4	33.7918749	-97.7290302	Traveling	1	0
 S56501630	2019-05-19	L9301713	Nocona	Cedar Waxwing	Bombycilla cedrorum	29888	species	15	33.7869832	-97.7263406	Traveling	1	0
 S56734547	2019-05-25	L9342406	Nocona (town)	Chimney Swift	Chaetura pelagica	3896	species	4	33.7918749	-97.7290302	Traveling	1	0
 S74682810	2020-10-11	L12473291	1523 US-82, Nocona US-TX 33.78865, -97.70845	Northern Flicker	Colaptes auratus	11900	species	1	33.7886520	-97.7084450	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Crow	Corvus brachyrhynchos	21557	species	1	33.7823426	-97.7355537	Traveling	1	0
-S74682810	2020-10-11	L12473291	1523 US-82, Nocona US-TX 33.78865, -97.70845	European Starling	Sturnus vulgaris	27813	species	2	33.7886520	-97.7084450	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7823426	-97.7355537	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	9	33.7823426	-97.7355537	Traveling	1	0
+S74682810	2020-10-11	L12473291	1523 US-82, Nocona US-TX 33.78865, -97.70845	European Starling	Sturnus vulgaris	27813	species	2	33.7886520	-97.7084450	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Blue Jay	Cyanocitta cristata	21294	species	1	33.7823426	-97.7355537	Traveling	1	0
 S74682810	2020-10-11	L12473291	1523 US-82, Nocona US-TX 33.78865, -97.70845	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	33.7886520	-97.7084450	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	33.7823426	-97.7355537	Traveling	1	0
-S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	33.7823426	-97.7355537	Traveling	1	0
-S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Green Heron	Butorides virescens	7704	species	1	33.7823426	-97.7355537	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Robin	Turdus migratorius	28633	species	10	33.7823426	-97.7355537	Traveling	1	0
+S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Green Heron	Butorides virescens	7704	species	1	33.7823426	-97.7355537	Traveling	1	0
+S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	33.7823426	-97.7355537	Traveling	1	0
 S74682810	2020-10-11	L12473291	1523 US-82, Nocona US-TX 33.78865, -97.70845	Red-winged Blackbird	Agelaius phoeniceus	33779	species	25	33.7886520	-97.7084450	Traveling	1	0
-S74682810	2020-10-11	L12473291	1523 US-82, Nocona US-TX 33.78865, -97.70845	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.7886520	-97.7084450	Traveling	1	0
 S74682810	2020-10-11	L12473291	1523 US-82, Nocona US-TX 33.78865, -97.70845	House Sparrow	Passer domesticus	31534	species	8	33.7886520	-97.7084450	Traveling	1	0
+S74682810	2020-10-11	L12473291	1523 US-82, Nocona US-TX 33.78865, -97.70845	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.7886520	-97.7084450	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	33.7823426	-97.7355537	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.7823426	-97.7355537	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	33.7823426	-97.7355537	Traveling	1	0
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	33.7823426	-97.7355537	Traveling	1	1
 S73128174	2020-09-03	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	33.7823426	-97.7355537	Traveling	1	0
-S89676676	2021-06-05	L278207	Nocona	Mourning Dove	Zenaida macroura	2412	species	9	33.7868000	-97.7259100	Traveling	1	0
 S90010397	2021-06-11	L278207	Nocona	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	33.7868000	-97.7259100	Traveling	1	0
+S89676676	2021-06-05	L278207	Nocona	Mourning Dove	Zenaida macroura	2412	species	9	33.7868000	-97.7259100	Traveling	1	0
 S83400944	2021-03-14	L14033148	The Arrow, Nocona, Texas, US (33.787, -97.726)	White-winged Dove	Zenaida asiatica	2389	species	1	33.7874580	-97.7257255	Stationary	1	0
 S89917378	2021-06-08	L278207	Nocona	Turkey Vulture	Cathartes aura	7815	species	1	33.7868000	-97.7259100	Traveling	1	0
 S83400944	2021-03-14	L14033148	The Arrow, Nocona, Texas, US (33.787, -97.726)	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.7874580	-97.7257255	Stationary	1	0
-S90010397	2021-06-11	L278207	Nocona	Western Kingbird	Tyrannus verticalis	17467	species	9	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	33.7868000	-97.7259100	Traveling	1	0
+S90010397	2021-06-11	L278207	Nocona	Western Kingbird	Tyrannus verticalis	17467	species	9	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	Northern Mockingbird	Mimus polyglottos	28114	species	3	33.7868000	-97.7259100	Traveling	1	0
 S90010397	2021-06-11	L278207	Nocona	Northern Mockingbird	Mimus polyglottos	28114	species	10	33.7868000	-97.7259100	Traveling	1	0
 S90010397	2021-06-11	L278207	Nocona	Common Grackle	Quiscalus quiscula	33853	species	6	33.7868000	-97.7259100	Traveling	1	0
@@ -83,36 +83,36 @@ S89917378	2021-06-08	L278207	Nocona	Blue Grosbeak	Passerina caerulea	34598	speci
 S90010397	2021-06-11	L278207	Nocona	Mississippi Kite	Ictinia mississippiensis	8388	species	1	33.7868000	-97.7259100	Traveling	1	0
 S90010397	2021-06-11	L278207	Nocona	European Starling	Sturnus vulgaris	27813	species	19	33.7868000	-97.7259100	Traveling	1	0
 S90010397	2021-06-11	L278207	Nocona	White-winged Dove	Zenaida asiatica	2389	species	4	33.7868000	-97.7259100	Traveling	1	0
-S83400944	2021-03-14	L14033148	The Arrow, Nocona, Texas, US (33.787, -97.726)	European Starling	Sturnus vulgaris	27813	species	1	33.7874580	-97.7257255	Stationary	1	0
 S89676676	2021-06-05	L278207	Nocona	Dickcissel	Spiza americana	34627	species	1	33.7868000	-97.7259100	Traveling	1	0
+S83400944	2021-03-14	L14033148	The Arrow, Nocona, Texas, US (33.787, -97.726)	European Starling	Sturnus vulgaris	27813	species	1	33.7874580	-97.7257255	Stationary	1	0
 S90010397	2021-06-11	L278207	Nocona	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	4	33.7868000	-97.7259100	Traveling	1	0
 S90010397	2021-06-11	L278207	Nocona	Killdeer	Charadrius vociferus	5827	species	1	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	5	33.7868000	-97.7259100	Traveling	1	0
 S89917378	2021-06-08	L278207	Nocona	Red-shouldered Hawk	Buteo lineatus	8487	species	1	33.7868000	-97.7259100	Traveling	1	0
 S89917378	2021-06-08	L278207	Nocona	European Starling	Sturnus vulgaris	27813	species	12	33.7868000	-97.7259100	Traveling	1	0
+S90010397	2021-06-11	L278207	Nocona	House Sparrow	Passer domesticus	31534	species	6	33.7868000	-97.7259100	Traveling	1	0
+S89676676	2021-06-05	L278207	Nocona	House Sparrow	Passer domesticus	31534	species	3	33.7868000	-97.7259100	Traveling	1	0
 S89917378	2021-06-08	L278207	Nocona	American Robin	Turdus migratorius	28633	species	5	33.7868000	-97.7259100	Traveling	1	0
 S83400944	2021-03-14	L14033148	The Arrow, Nocona, Texas, US (33.787, -97.726)	Common Grackle	Quiscalus quiscula	33853	species	4	33.7874580	-97.7257255	Stationary	1	0
-S89676676	2021-06-05	L278207	Nocona	House Sparrow	Passer domesticus	31534	species	3	33.7868000	-97.7259100	Traveling	1	0
-S90010397	2021-06-11	L278207	Nocona	House Sparrow	Passer domesticus	31534	species	6	33.7868000	-97.7259100	Traveling	1	0
-S90010397	2021-06-11	L278207	Nocona	Mallard	Anas platyrhynchos	545	species	1	33.7868000	-97.7259100	Traveling	1	0
-S90010397	2021-06-11	L278207	Nocona	American Robin	Turdus migratorius	28633	species	2	33.7868000	-97.7259100	Traveling	1	0
 S89917378	2021-06-08	L278207	Nocona	Mourning Dove	Zenaida macroura	2412	species	2	33.7868000	-97.7259100	Traveling	1	0
+S90010397	2021-06-11	L278207	Nocona	American Robin	Turdus migratorius	28633	species	2	33.7868000	-97.7259100	Traveling	1	0
+S90010397	2021-06-11	L278207	Nocona	Mallard	Anas platyrhynchos	545	species	1	33.7868000	-97.7259100	Traveling	1	0
 S89917378	2021-06-08	L278207	Nocona	Western Kingbird	Tyrannus verticalis	17467	species	1	33.7868000	-97.7259100	Traveling	1	0
 S83400944	2021-03-14	L14033148	The Arrow, Nocona, Texas, US (33.787, -97.726)	Turkey Vulture	Cathartes aura	7815	species	1	33.7874580	-97.7257255	Stationary	1	0
 S90010397	2021-06-11	L278207	Nocona	Turkey Vulture	Cathartes aura	7815	species	1	33.7868000	-97.7259100	Traveling	1	0
 S90010397	2021-06-11	L278207	Nocona	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	33.7868000	-97.7259100	Traveling	1	0
+S89676676	2021-06-05	L278207	Nocona	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	Barn Swallow	Hirundo rustica	24187	species	1	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	American Robin	Turdus migratorius	28633	species	3	33.7868000	-97.7259100	Traveling	1	0
-S89676676	2021-06-05	L278207	Nocona	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	33.7868000	-97.7259100	Traveling	1	0
 S89917378	2021-06-08	L278207	Nocona	White-winged Dove	Zenaida asiatica	2389	species	2	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	Common Grackle	Quiscalus quiscula	33853	species	5	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	White-winged Dove	Zenaida asiatica	2389	species	7	33.7868000	-97.7259100	Traveling	1	0
 S89917378	2021-06-08	L278207	Nocona	Northern Mockingbird	Mimus polyglottos	28114	species	3	33.7868000	-97.7259100	Traveling	1	0
-S89676676	2021-06-05	L278207	Nocona	European Starling	Sturnus vulgaris	27813	species	14	33.7868000	-97.7259100	Traveling	1	0
-S89676676	2021-06-05	L278207	Nocona	Turkey Vulture	Cathartes aura	7815	species	1	33.7868000	-97.7259100	Traveling	1	0
-S89676676	2021-06-05	L278207	Nocona	Mallard	Anas platyrhynchos	545	species	1	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	Western Kingbird	Tyrannus verticalis	17467	species	1	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	Northern Cardinal	Cardinalis cardinalis	34515	species	2	33.7868000	-97.7259100	Traveling	1	0
+S89676676	2021-06-05	L278207	Nocona	European Starling	Sturnus vulgaris	27813	species	14	33.7868000	-97.7259100	Traveling	1	0
+S89676676	2021-06-05	L278207	Nocona	Mallard	Anas platyrhynchos	545	species	1	33.7868000	-97.7259100	Traveling	1	0
+S89676676	2021-06-05	L278207	Nocona	Turkey Vulture	Cathartes aura	7815	species	1	33.7868000	-97.7259100	Traveling	1	0
 S89676676	2021-06-05	L278207	Nocona	Cooper's Hawk	Astur cooperii	8278	species	1	33.7868000	-97.7259100	Traveling	1	0
 S115855902	2022-07-26	L278207	Nocona	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	15	33.7868000	-97.7259100	Traveling	1	0
 S116102598	2022-07-27	L278207	Nocona	Mississippi Kite	Ictinia mississippiensis	8388	species	1	33.7868000	-97.7259100	Traveling	1	0
@@ -122,100 +122,100 @@ S116102598	2022-07-27	L278207	Nocona	Northern Mockingbird	Mimus polyglottos	2811
 S116102598	2022-07-27	L278207	Nocona	European Starling	Sturnus vulgaris	27813	species	6	33.7868000	-97.7259100	Traveling	1	0
 S115855902	2022-07-26	L278207	Nocona	White-winged Dove	Zenaida asiatica	2389	species	8	33.7868000	-97.7259100	Traveling	1	0
 S115855902	2022-07-26	L278207	Nocona	Great-tailed Grackle	Quiscalus mexicanus	33864	species	7	33.7868000	-97.7259100	Traveling	1	0
-S115855902	2022-07-26	L278207	Nocona	Common Grackle	Quiscalus quiscula	33853	species	7	33.7868000	-97.7259100	Traveling	1	0
 S116102598	2022-07-27	L278207	Nocona	White-winged Dove	Zenaida asiatica	2389	species	7	33.7868000	-97.7259100	Traveling	1	0
-S115855902	2022-07-26	L278207	Nocona	European Starling	Sturnus vulgaris	27813	species	12	33.7868000	-97.7259100	Traveling	1	0
+S115855902	2022-07-26	L278207	Nocona	Common Grackle	Quiscalus quiscula	33853	species	7	33.7868000	-97.7259100	Traveling	1	0
 S116102598	2022-07-27	L278207	Nocona	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	33.7868000	-97.7259100	Traveling	1	0
+S115855902	2022-07-26	L278207	Nocona	European Starling	Sturnus vulgaris	27813	species	12	33.7868000	-97.7259100	Traveling	1	0
 S116102598	2022-07-27	L278207	Nocona	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	33.7868000	-97.7259100	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Spotted Towhee	Pipilo maculatus	33386	species	1	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	House Finch	Haemorhous mexicanus	32310	species	2	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Bewick's Wren	Thryomanes bewickii	27362	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Cardinal	Cardinalis cardinalis	34515	species	5	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	House Finch	Haemorhous mexicanus	32310	species	2	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	33.7823426	-97.7355537	Traveling	1	0
 S127595161	2023-02-04	L17587998	Montague-Nocona, Texas, US (33.789, -97.736)	Turkey Vulture	Cathartes aura	7815	species	3	33.7888198	-97.7355185	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	3	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Cardinal	Cardinalis cardinalis	34515	species	5	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Spotted Towhee	Pipilo maculatus	33386	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Goldfinch	Spinus tristis	32617	species	4	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Canada Goose	Branta canadensis	342	species	4	33.7823426	-97.7355537	Traveling	1	0
-S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	White-winged Dove	Zenaida asiatica	2389	species	1	33.7892230	-97.7253090	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	shorebird sp.	Charadriiformes sp. (shorebird sp.)	6356	spuh	15	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	3	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Canada Goose	Branta canadensis	342	species	4	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Vesper Sparrow	Pooecetes gramineus	33217	species	1	33.7823426	-97.7355537	Traveling	1	0
+S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	White-winged Dove	Zenaida asiatica	2389	species	1	33.7892230	-97.7253090	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eastern Bluebird	Sialia sialis	28126	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	European Starling	Sturnus vulgaris	27813	species	2	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Blue Jay	Cyanocitta cristata	21294	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	5	33.7823426	-97.7355537	Traveling	1	0
 S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	Northern Cardinal	Cardinalis cardinalis	34515	species	1	33.7892230	-97.7253090	Traveling	1	0
 S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	American Crow	Corvus brachyrhynchos	21557	species	2	33.7892230	-97.7253090	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eastern Bluebird	Sialia sialis	28126	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Field Sparrow	Spizella pusilla	33002	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	White-eyed Vireo	Vireo griseus	19165	species	4	33.7823426	-97.7355537	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Wild Turkey	Meleagris gallopavo	1274	species	X	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Louisiana Waterthrush	Parkesia motacilla	33952	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Robin	Turdus migratorius	28633	species	24	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Wild Turkey	Meleagris gallopavo	1274	species	X	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	White-eyed Vireo	Vireo griseus	19165	species	4	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Field Sparrow	Spizella pusilla	33002	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Turkey Vulture	Cathartes aura	7815	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Lark Sparrow	Chondestes grammacus	33029	species	3	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	1	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Cooper's Hawk	Astur cooperii	8278	species	1	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	European Starling	Sturnus vulgaris	27813	species	2	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Lark Sparrow	Chondestes grammacus	33029	species	3	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Turkey Vulture	Cathartes aura	7815	species	4	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Purple Martin	Progne subis	24081	species	2	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Robin	Turdus migratorius	28633	species	30	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Dark-eyed Junco	Junco hyemalis	33126	issf	12	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	White-winged Dove	Zenaida asiatica	2389	species	1	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Dark-eyed Junco	Junco hyemalis	33126	issf	12	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Purple Martin	Progne subis	24081	species	2	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Turkey Vulture	Cathartes aura	7815	species	4	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	White-eyed Vireo	Vireo griseus	19165	species	6	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Cardinal	Cardinalis cardinalis	34515	species	13	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Wren	Thryothorus ludovicianus	27348	species	3	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Harris's Sparrow	Zonotrichia querula	33198	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Spotted Towhee	Pipilo maculatus	33386	species	1	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Crow	Corvus brachyrhynchos	21557	species	2	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Black Vulture	Coragyps atratus	7811	species	3	33.7823426	-97.7355537	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Killdeer	Charadrius vociferus	5827	species	1	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Wren	Thryothorus ludovicianus	27348	species	3	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Crow	Corvus brachyrhynchos	21557	species	2	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Cedar Waxwing	Bombycilla cedrorum	29888	species	20	33.7823426	-97.7355537	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Black Vulture	Coragyps atratus	7811	species	3	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Killdeer	Charadrius vociferus	5827	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Tufted/Black-crested Titmouse	Baeolophus bicolor/atricristatus	22168	slash	2	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eastern Bluebird	Sialia sialis	28126	species	2	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	House Sparrow	Passer domesticus	31534	species	3	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Barn Swallow	Hirundo rustica	24187	species	1	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Blue Jay	Cyanocitta cristata	21294	species	1	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	House Sparrow	Passer domesticus	31534	species	3	33.7823426	-97.7355537	Traveling	1	0
 S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	House Sparrow	Passer domesticus	31534	species	5	33.7892230	-97.7253090	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Blue Jay	Cyanocitta cristata	21294	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eastern Bluebird	Sialia sialis	28126	species	2	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	3	33.7823426	-97.7355537	Traveling	1	0
+S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	American Kestrel	Falco sparverius	12028	species	1	33.7892230	-97.7253090	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Dark-eyed Junco	Junco hyemalis	33124	species	1	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Chickadee	Poecile carolinensis	22060	species	7	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Crow	Corvus brachyrhynchos	21557	species	2	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	3	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Chickadee	Poecile carolinensis	22060	species	3	33.7823426	-97.7355537	Traveling	1	0
-S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	American Kestrel	Falco sparverius	12028	species	1	33.7892230	-97.7253090	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Barn Swallow	Hirundo rustica	24187	species	2	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Orange-crowned Warbler	Leiothlypis celata	33973	species	2	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Song Sparrow	Melospiza melodia	33277	species	5	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Mourning Dove	Zenaida macroura	2412	species	2	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Bewick's Wren	Thryomanes bewickii	27362	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Purple Martin	Progne subis	24081	species	2	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Orange-crowned Warbler	Leiothlypis celata	33973	species	2	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Barn Swallow	Hirundo rustica	24187	species	2	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Wren	Thryothorus ludovicianus	27348	species	2	33.7823426	-97.7355537	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Turkey Vulture	Cathartes aura	7815	species	4	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Downy Woodpecker	Dryobates pubescens	11400	species	2	33.7823426	-97.7355537	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Bewick's Wren	Thryomanes bewickii	27362	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Purple Martin	Progne subis	24081	species	2	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Mourning Dove	Zenaida macroura	2412	species	2	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Chickadee	Poecile carolinensis	22060	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	12	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Chipping Sparrow	Spizella passerina	32990	species	3	33.7823426	-97.7355537	Traveling	1	0
-S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	33.7823426	-97.7355537	Traveling	1	0
-S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.7823426	-97.7355537	Traveling	1	0
-S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	American Robin	Turdus migratorius	28633	species	2	33.7892230	-97.7253090	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Chickadee	Poecile carolinensis	22060	species	1	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Flicker	Colaptes auratus	11900	species	1	33.7823426	-97.7355537	Traveling	1	0
-S127595161	2023-02-04	L17587998	Montague-Nocona, Texas, US (33.789, -97.736)	Northern Harrier	Circus hudsonius	8324	species	1	33.7888198	-97.7355185	Traveling	1	0
+S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	American Robin	Turdus migratorius	28633	species	2	33.7892230	-97.7253090	Traveling	1	0
+S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Mockingbird	Mimus polyglottos	28114	species	1	33.7823426	-97.7355537	Traveling	1	0
+S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	33.7823426	-97.7355537	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	33.7823426	-97.7355537	Traveling	1	0
 S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	33.7892230	-97.7253090	Traveling	1	0
+S127595161	2023-02-04	L17587998	Montague-Nocona, Texas, US (33.789, -97.736)	Northern Harrier	Circus hudsonius	8324	species	1	33.7888198	-97.7355185	Traveling	1	0
 S127595161	2023-02-04	L17587998	Montague-Nocona, Texas, US (33.789, -97.736)	American Kestrel	Falco sparverius	12028	species	1	33.7888198	-97.7355185	Traveling	1	0
 S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Black Vulture	Coragyps atratus	7811	species	1	33.7823426	-97.7355537	Traveling	1	0
-S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Tufted/Black-crested Titmouse	Baeolophus bicolor/atricristatus	22168	slash	1	33.7823426	-97.7355537	Traveling	1	0
-S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	European Starling	Sturnus vulgaris	27813	species	1	33.7892230	-97.7253090	Traveling	1	0
 S132217903	2023-03-30	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Cardinal	Cardinalis cardinalis	34515	species	5	33.7823426	-97.7355537	Traveling	1	0
 S130324494	2023-03-06	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Yellow-rumped Warbler	Setophaga coronata	34160	issf	1	33.7823426	-97.7355537	Traveling	1	0
+S132782852	2023-04-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Tufted/Black-crested Titmouse	Baeolophus bicolor/atricristatus	22168	slash	1	33.7823426	-97.7355537	Traveling	1	0
+S131887047	2023-03-26	L23235689	250–298 E Oak St, Nocona US-TX 33.78922, -97.72531	European Starling	Sturnus vulgaris	27813	species	1	33.7892230	-97.7253090	Traveling	1	0
 S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Spotted Towhee	Pipilo maculatus	33386	species	1	33.7823426	-97.7355537	Traveling	1	0
 S167230175	2024-04-05	L30340174	1363 US-82, Nocona US-TX 33.78791, -97.71099	House Sparrow	Passer domesticus	31534	species	5	33.7879110	-97.7109900	Traveling	1	0
 S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Robin	Turdus migratorius	28633	species	3	33.7823426	-97.7355537	Traveling	1	0
@@ -227,12 +227,12 @@ S163417558	2024-03-02	L17587998	Montague-Nocona, Texas, US (33.789, -97.736)	Eur
 S167230175	2024-04-05	L30340174	1363 US-82, Nocona US-TX 33.78791, -97.71099	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	33.7879110	-97.7109900	Traveling	1	0
 S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Mourning Dove	Zenaida macroura	2412	species	3	33.7823426	-97.7355537	Traveling	1	0
 S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Chickadee	Poecile carolinensis	22060	species	2	33.7823426	-97.7355537	Traveling	1	0
-S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	3	33.7823426	-97.7355537	Traveling	1	0
-S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Dark-eyed Junco	Junco hyemalis	33124	species	1	33.7823426	-97.7355537	Traveling	1	0
 S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Crow	Corvus brachyrhynchos	21557	species	2	33.7823426	-97.7355537	Traveling	1	0
 S167230175	2024-04-05	L30340174	1363 US-82, Nocona US-TX 33.78791, -97.71099	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	33.7879110	-97.7109900	Traveling	1	0
-S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	33.7823426	-97.7355537	Traveling	1	0
+S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Dark-eyed Junco	Junco hyemalis	33124	species	1	33.7823426	-97.7355537	Traveling	1	0
+S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	3	33.7823426	-97.7355537	Traveling	1	0
 S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	33.7823426	-97.7355537	Traveling	1	0
+S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	33.7823426	-97.7355537	Traveling	1	0
 S167230175	2024-04-05	L30340174	1363 US-82, Nocona US-TX 33.78791, -97.71099	European Starling	Sturnus vulgaris	27813	species	5	33.7879110	-97.7109900	Traveling	1	0
 S163797641	2024-03-05	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Turkey Vulture	Cathartes aura	7815	species	2	33.7823426	-97.7355537	Traveling	1	0
 S163417558	2024-03-02	L17587998	Montague-Nocona, Texas, US (33.789, -97.736)	House Sparrow	Passer domesticus	31534	species	8	33.7888198	-97.7355185	Traveling	1	0
@@ -244,56 +244,56 @@ S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona,
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	White-winged Dove	Zenaida asiatica	2389	species	3	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Dark-eyed Junco	Junco hyemalis	33126	issf	8	33.7823426	-97.7355537	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	33.7823426	-97.7355537	Traveling	1	0
+S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Tufted/Black-crested Titmouse	Baeolophus bicolor/atricristatus	22168	slash	3	33.7823426	-97.7355537	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Purple Martin	Progne subis	24081	species	7	33.7830510	-97.7347720	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Northern Cardinal	Cardinalis cardinalis	34515	species	4	33.7830510	-97.7347720	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Blue Jay	Cyanocitta cristata	21294	species	7	33.7830510	-97.7347720	Traveling	1	0
 S226756862	2025-04-13	L42882966	TX 175 Pond	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	18	33.7776815	-97.7252556	Stationary	1	1
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Dark-eyed Junco	Junco hyemalis	33124	species	1	33.7830510	-97.7347720	Traveling	1	0
-S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Tufted/Black-crested Titmouse	Baeolophus bicolor/atricristatus	22168	slash	3	33.7823426	-97.7355537	Traveling	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Northern Cardinal	Cardinalis cardinalis	34515	species	4	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Robin	Turdus migratorius	28633	species	1	33.7823426	-97.7355537	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	33.7830510	-97.7347720	Traveling	1	0
 S272493245	2025-09-09	L52648489	917 U.S. 82, Nocona, Texas, US (33.789, -97.714)	Mourning Dove	Zenaida macroura	2412	species	2	33.7888981	-97.7141253	Traveling	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Carolina Chickadee	Poecile carolinensis	22060	species	1	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Cardinal	Cardinalis cardinalis	34515	species	14	33.7823426	-97.7355537	Traveling	1	0
-S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Chickadee	Poecile carolinensis	22060	species	2	33.7823426	-97.7355537	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Carolina Chickadee	Poecile carolinensis	22060	species	1	33.7830510	-97.7347720	Traveling	1	0
 S264791166	2025-07-31	L42876770	Nocona	House Sparrow	Passer domesticus	31534	species	2	33.7875676	-97.7266583	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Barn Swallow	Hirundo rustica	24187	species	3	33.7830510	-97.7347720	Traveling	1	0
+S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Chickadee	Poecile carolinensis	22060	species	2	33.7823426	-97.7355537	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	33.7823426	-97.7355537	Traveling	1	0
-S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Flicker	Colaptes auratus	11903	issf	1	33.7823426	-97.7355537	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Spotted Towhee	Pipilo maculatus	33386	species	1	33.7823426	-97.7355537	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Carolina Wren	Thryothorus ludovicianus	27348	species	2	33.7830510	-97.7347720	Traveling	1	0
+S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Northern Flicker	Colaptes auratus	11903	issf	1	33.7823426	-97.7355537	Traveling	1	0
 S264791166	2025-07-31	L42876770	Nocona	Mississippi Kite	Ictinia mississippiensis	8388	species	3	33.7875676	-97.7266583	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	House Sparrow	Passer domesticus	31534	species	4	33.7830510	-97.7347720	Traveling	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Carolina Wren	Thryothorus ludovicianus	27348	species	2	33.7830510	-97.7347720	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Northern Mockingbird	Mimus polyglottos	28114	species	6	33.7830510	-97.7347720	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	House Finch	Haemorhous mexicanus	32310	species	2	33.7830510	-97.7347720	Traveling	1	0
-S226756862	2025-04-13	L42882966	TX 175 Pond	Canada Goose	Branta canadensis	342	species	12	33.7776815	-97.7252556	Stationary	1	0
-S226756862	2025-04-13	L42882966	TX 175 Pond	Mallard	Anas platyrhynchos	545	species	1	33.7776815	-97.7252556	Stationary	1	0
-S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Canada Goose	Branta canadensis	342	species	2	33.7823426	-97.7355537	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	American Crow	Corvus brachyrhynchos	21557	species	4	33.7823426	-97.7355537	Traveling	1	0
+S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Canada Goose	Branta canadensis	342	species	2	33.7823426	-97.7355537	Traveling	1	0
+S226756862	2025-04-13	L42882966	TX 175 Pond	Canada Goose	Branta canadensis	342	species	12	33.7776815	-97.7252556	Stationary	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	6	33.7830510	-97.7347720	Traveling	1	0
+S226756862	2025-04-13	L42882966	TX 175 Pond	Mallard	Anas platyrhynchos	545	species	1	33.7776815	-97.7252556	Stationary	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Blue Jay	Cyanocitta cristata	21294	species	6	33.7823426	-97.7355537	Traveling	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	American Crow	Corvus brachyrhynchos	21557	species	1	33.7830510	-97.7347720	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	3	33.7830510	-97.7347720	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	American Crow	Corvus brachyrhynchos	21557	species	1	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Song Sparrow	Melospiza melodia	33277	species	1	33.7823426	-97.7355537	Traveling	1	0
-S272493245	2025-09-09	L52648489	917 U.S. 82, Nocona, Texas, US (33.789, -97.714)	diurnal raptor sp.	Accipitriformes/Falconiformes sp.	12142	spuh	1	33.7888981	-97.7141253	Traveling	1	0
 S272493245	2025-09-09	L52648489	917 U.S. 82, Nocona, Texas, US (33.789, -97.714)	Turkey Vulture	Cathartes aura	7815	species	1	33.7888981	-97.7141253	Traveling	1	0
-S272493245	2025-09-09	L52648489	917 U.S. 82, Nocona, Texas, US (33.789, -97.714)	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	33.7888981	-97.7141253	Traveling	1	0
 S272493245	2025-09-09	L52648489	917 U.S. 82, Nocona, Texas, US (33.789, -97.714)	American Crow	Corvus brachyrhynchos	21557	species	1	33.7888981	-97.7141253	Traveling	1	0
+S272493245	2025-09-09	L52648489	917 U.S. 82, Nocona, Texas, US (33.789, -97.714)	diurnal raptor sp.	Accipitriformes/Falconiformes sp.	12142	spuh	1	33.7888981	-97.7141253	Traveling	1	0
+S272493245	2025-09-09	L52648489	917 U.S. 82, Nocona, Texas, US (33.789, -97.714)	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	33.7888981	-97.7141253	Traveling	1	0
 S226756862	2025-04-13	L42882966	TX 175 Pond	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	33.7776815	-97.7252556	Stationary	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Orange-crowned Warbler	Leiothlypis celata	33973	species	3	33.7830510	-97.7347720	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Bewick's Wren	Thryomanes bewickii	27362	species	1	33.7830510	-97.7347720	Traveling	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	European Starling	Sturnus vulgaris	27813	species	3	33.7830510	-97.7347720	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Orange-crowned Warbler	Leiothlypis celata	33973	species	3	33.7830510	-97.7347720	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Black-crested Titmouse	Baeolophus atricristatus	22163	species	1	33.7830510	-97.7347720	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	European Starling	Sturnus vulgaris	27813	species	3	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	White-winged Dove	Zenaida asiatica	2389	species	1	33.7823426	-97.7355537	Traveling	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Eastern Bluebird	Sialia sialis	28126	species	2	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Turkey Vulture	Cathartes aura	7815	species	2	33.7823426	-97.7355537	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Carolina Wren	Thryothorus ludovicianus	27348	species	2	33.7823426	-97.7355537	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Downy Woodpecker	Dryobates pubescens	11400	species	1	33.7830510	-97.7347720	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Eastern Bluebird	Sialia sialis	28126	species	2	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	33.7823426	-97.7355537	Traveling	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Lark Sparrow	Chondestes grammacus	33029	species	2	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Sandhill Crane	Antigone canadensis	5697	species	35	33.7823426	-97.7355537	Traveling	1	0
-S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Mourning Dove	Zenaida macroura	2412	species	3	33.7830510	-97.7347720	Traveling	1	0
 S264791166	2025-07-31	L42876770	Nocona	Turkey Vulture	Cathartes aura	7815	species	1	33.7875676	-97.7266583	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Mourning Dove	Zenaida macroura	2412	species	3	33.7830510	-97.7347720	Traveling	1	0
+S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	Lark Sparrow	Chondestes grammacus	33029	species	2	33.7830510	-97.7347720	Traveling	1	0
 S226831378	2025-04-14	L42898497	Indian Oaks Golf Course, Nocona	American Robin	Turdus migratorius	28633	species	3	33.7830510	-97.7347720	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Purple Martin	Progne subis	24081	species	4	33.7823426	-97.7355537	Traveling	1	0
 S218073959	2025-03-12	L12208854	Montague-Nocona Golf Course 912 U.S. 82, Nocona, Texas, US (33.782, -97.736)	Eastern Phoebe	Sayornis phoebe	17007	species	3	33.7823426	-97.7355537	Traveling	1	0

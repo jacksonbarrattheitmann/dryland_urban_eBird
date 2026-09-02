@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1374,"King City, CA",King City,California,Monterey,2015,13413550.7284117,17,17,city_1374_california_king_city,177.48750019073486,17.052083333333332,6.560954955067596,arid,12
-1374,"King City, CA",King City,California,Monterey,2016,13413550.7284117,15,25,city_1374_california_king_city,328.6749970763922,16.794270833333332,12.266614722260142,semiarid,12
-1374,"King City, CA",King City,California,Monterey,2017,13413550.7284117,7,9,city_1374_california_king_city,355.8187469393015,16.84375,13.255180328355818,semiarid,12
-1374,"King City, CA",King City,California,Monterey,2018,13413550.7284117,14,18,city_1374_california_king_city,257.0187502503395,16.684895833333332,9.6316190198234,arid,12
-1374,"King City, CA",King City,California,Monterey,2019,13413550.7284117,27,35,city_1374_california_king_city,367.33749237656593,16.276041666666668,13.97994024505464,semiarid,12
-1374,"King City, CA",King City,California,Monterey,2020,13413550.7284117,2,2,city_1374_california_king_city,156.83124804496765,16.971354166666668,5.814733923845474,arid,12
-1374,"King City, CA",King City,California,Monterey,2021,13413550.7284117,14,20,city_1374_california_king_city,294.59374874830246,16.643229166666668,11.056983630079968,semiarid,12
-1374,"King City, CA",King City,California,Monterey,2022,13413550.7284117,27,40,city_1374_california_king_city,221.63749937713143,16.658854166666668,8.313841922518167,arid,12
-1374,"King City, CA",King City,California,Monterey,2023,13413550.7284117,25,51,city_1374_california_king_city,398.04374581575394,16.020833333333332,15.297117533351631,semiarid,12
-1374,"King City, CA",King City,California,Monterey,2024,13413550.7284117,20,38,city_1374_california_king_city,351.2062470763922,16.9296875,13.041601283950738,semiarid,12
-1374,"King City, CA",King City,California,Monterey,2025,13413550.7284117,26,59,city_1374_california_king_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1374,2015,"King City, CA",King City,California,Monterey,99.9999999999909,17,17,city_1374_california_king_city,177.487500190735,17.0520833333333,6.5609549550676,arid,12
+1374,2016,"King City, CA",King City,California,Monterey,99.9999999999909,15,25,city_1374_california_king_city,328.674997076392,16.7942708333333,12.2666147222601,semiarid,12
+1374,2017,"King City, CA",King City,California,Monterey,99.9999999999909,7,9,city_1374_california_king_city,355.818746939302,16.84375,13.2551803283558,semiarid,12
+1374,2018,"King City, CA",King City,California,Monterey,99.9999999999909,14,18,city_1374_california_king_city,257.01875025034,16.6848958333333,9.6316190198234,arid,12
+1374,2019,"King City, CA",King City,California,Monterey,99.9999999999909,27,35,city_1374_california_king_city,367.337492376566,16.2760416666667,13.9799402450546,semiarid,12
+1374,2020,"King City, CA",King City,California,Monterey,99.9999999999909,2,2,city_1374_california_king_city,156.831248044968,16.9713541666667,5.81473392384547,arid,12
+1374,2021,"King City, CA",King City,California,Monterey,99.9999999999909,14,20,city_1374_california_king_city,294.593748748303,16.6432291666667,11.05698363008,semiarid,12
+1374,2022,"King City, CA",King City,California,Monterey,99.9999999999909,27,40,city_1374_california_king_city,221.637499377131,16.6588541666667,8.31384192251817,arid,12
+1374,2023,"King City, CA",King City,California,Monterey,99.9999999999909,25,51,city_1374_california_king_city,398.043745815754,16.0208333333333,15.2971175333516,semiarid,12
+1374,2024,"King City, CA",King City,California,Monterey,99.9999999999909,22,41,city_1374_california_king_city,351.206247076392,16.9296875,13.0416012839507,semiarid,12
+1374,2025,"King City, CA",King City,California,Monterey,99.9999999999909,26,59,city_1374_california_king_city,,,,,

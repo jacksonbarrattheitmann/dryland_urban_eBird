@@ -1,9 +1,9 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	White-winged Dove	Zenaida asiatica	2389	species	2	37.6178850	-109.4788500	Stationary	1	1
+S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	House Finch	Haemorhous mexicanus	32310	species	1	37.6178850	-109.4788500	Stationary	1	0
 S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	American Crow	Corvus brachyrhynchos	21557	species	7	37.6178850	-109.4788500	Stationary	1	0
 S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.6178850	-109.4788500	Stationary	1	0
-S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	White-winged Dove	Zenaida asiatica	2389	species	2	37.6178850	-109.4788500	Stationary	1	1
 S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	Mourning Dove	Zenaida macroura	2412	species	1	37.6178850	-109.4788500	Stationary	1	0
-S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	House Finch	Haemorhous mexicanus	32310	species	1	37.6178850	-109.4788500	Stationary	1	0
 S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	House Sparrow	Passer domesticus	31534	species	1	37.6178850	-109.4788500	Stationary	1	0
 S22368859	2015-03-15	L3490945	US-UT-Blanding-1-51 W 500 S	American Robin	Turdus migratorius	28633	species	1	37.6178850	-109.4788500	Stationary	1	0
 S45270695	2018-05-04	L7336808	Blanding Airbnb	Mourning Dove	Zenaida macroura	2412	species	2	37.6239697	-109.4856606	Stationary	1	0
@@ -69,8 +69,8 @@ S48637092	2018-09-20	L7944683	Edge Of The Cedars State Park	Common Raven	Corvus 
 S45270695	2018-05-04	L7336808	Blanding Airbnb	Tree Swallow	Tachycineta bicolor	24064	species	6	37.6239697	-109.4856606	Stationary	1	0
 S45270695	2018-05-04	L7336808	Blanding Airbnb	Canada Goose	Branta canadensis	342	species	15	37.6239697	-109.4856606	Stationary	1	0
 S45270695	2018-05-04	L7336808	Blanding Airbnb	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	37.6239697	-109.4856606	Stationary	1	0
-S60272205	2019-10-01	L9979109	88 West Center Street, Blanding, Utah, US (37.626, -109.479)	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.6259189	-109.4790392	Stationary	1	0
 S60272205	2019-10-01	L9979109	88 West Center Street, Blanding, Utah, US (37.626, -109.479)	European Starling	Sturnus vulgaris	27813	species	3	37.6259189	-109.4790392	Stationary	1	0
+S60272205	2019-10-01	L9979109	88 West Center Street, Blanding, Utah, US (37.626, -109.479)	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.6259189	-109.4790392	Stationary	1	0
 S60272205	2019-10-01	L9979109	88 West Center Street, Blanding, Utah, US (37.626, -109.479)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.6259189	-109.4790392	Stationary	1	0
 S60272205	2019-10-01	L9979109	88 West Center Street, Blanding, Utah, US (37.626, -109.479)	House Sparrow	Passer domesticus	31534	species	3	37.6259189	-109.4790392	Stationary	1	0
 S74422736	2020-10-04	L12418179	Blanding	Chipping Sparrow	Spizella passerina	32990	species	1	37.6157491	-109.4766263	Stationary	1	0
@@ -91,13 +91,13 @@ S74422736	2020-10-04	L12418179	Blanding	Common Raven	Corvus corax	21624	species	
 S74720325	2020-10-04	L12418179	Blanding	American Kestrel	Falco sparverius	12028	species	1	37.6157491	-109.4766263	Stationary	1	0
 S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	Common Raven	Corvus corax	21624	species	1	37.6215380	-109.4832620	Stationary	1	0
 S82045310	2021-02-14	L12619157	Tyler	House Sparrow	Passer domesticus	31534	species	17	37.6199920	-109.4829780	Stationary	1	0
-S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	American Robin	Turdus migratorius	28633	species	2	37.6215380	-109.4832620	Stationary	1	0
 S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	House Finch	Haemorhous mexicanus	32310	species	2	37.6215380	-109.4832620	Stationary	1	0
+S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	American Robin	Turdus migratorius	28633	species	2	37.6215380	-109.4832620	Stationary	1	0
 S83199704	2021-03-11	L8317805	Edge Of The Cedars SP	House Finch	Haemorhous mexicanus	32310	species	1	37.6314818	-109.4899607	Traveling	1	0
 S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	Turkey Vulture	Cathartes aura	7815	species	1	37.6215380	-109.4832620	Stationary	1	0
 S83199704	2021-03-11	L8317805	Edge Of The Cedars SP	crow/raven sp.	Corvus sp.	21634	spuh	2	37.6314818	-109.4899607	Traveling	1	0
-S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	Lesser Goldfinch	Spinus psaltria	32609	species	2	37.6215380	-109.4832620	Stationary	1	0
 S82045310	2021-02-14	L12619157	Tyler	House Finch	Haemorhous mexicanus	32310	species	2	37.6199920	-109.4829780	Stationary	1	0
+S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	Lesser Goldfinch	Spinus psaltria	32609	species	2	37.6215380	-109.4832620	Stationary	1	0
 S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	European Starling	Sturnus vulgaris	27813	species	48	37.6215380	-109.4832620	Stationary	1	0
 S90675437	2021-06-23	L15497293	265 S 300 W, Blanding US-UT 37.62154, -109.48326	Mourning Dove	Zenaida macroura	2412	species	3	37.6215380	-109.4832620	Stationary	1	0
 S83199704	2021-03-11	L8317805	Edge Of The Cedars SP	Common Raven	Corvus corax	21624	species	4	37.6314818	-109.4899607	Traveling	1	0
@@ -106,8 +106,8 @@ S118668240	2022-09-13	L8317805	Edge Of The Cedars SP	House Sparrow	Passer domest
 S111278101	2022-05-25	L19274119	Blanding Visitir's Center, Blanding, Utah, US (37.626, -109.474)	House Sparrow	Passer domesticus	31534	species	6	37.6256868	-109.4741113	Stationary	1	0
 S121083783	2022-10-20	L21310183	Edge of Cedars	House Sparrow	Passer domesticus	31534	species	9	37.6259820	-109.4872290	Traveling	1	0
 S118668240	2022-09-13	L8317805	Edge Of The Cedars SP	Western Tanager	Piranga ludoviciana	34439	species	1	37.6314818	-109.4899607	Traveling	1	0
-S118668240	2022-09-13	L8317805	Edge Of The Cedars SP	Common Raven	Corvus corax	21624	species	1	37.6314818	-109.4899607	Traveling	1	0
 S121083783	2022-10-20	L21310183	Edge of Cedars	Chipping Sparrow	Spizella passerina	32990	species	3	37.6259820	-109.4872290	Traveling	1	0
+S118668240	2022-09-13	L8317805	Edge Of The Cedars SP	Common Raven	Corvus corax	21624	species	1	37.6314818	-109.4899607	Traveling	1	0
 S121083783	2022-10-20	L21310183	Edge of Cedars	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	10	37.6259820	-109.4872290	Traveling	1	0
 S118668240	2022-09-13	L8317805	Edge Of The Cedars SP	Black-billed Magpie	Pica hudsonia	21476	species	2	37.6314818	-109.4899607	Traveling	1	0
 S121083783	2022-10-20	L21310183	Edge of Cedars	Dark-eyed Junco	Junco hyemalis	33124	species	5	37.6259820	-109.4872290	Traveling	1	0
@@ -130,13 +130,13 @@ S199280522	2024-10-16	L8317805	Edge Of The Cedars SP	House Sparrow	Passer domest
 S210117834	2024-03-30	L39595289	755 S Main St, Blanding US-UT 37.61384, -109.47813	House Finch	Haemorhous mexicanus	32310	species	4	37.6138430	-109.4781340	Traveling	1	0
 S196683582	2024-09-23	L8317805	Edge Of The Cedars SP	Western Bluebird	Sialia mexicana	28136	species	2	37.6314818	-109.4899607	Stationary	1	0
 S210117834	2024-03-30	L39595289	755 S Main St, Blanding US-UT 37.61384, -109.47813	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.6138430	-109.4781340	Traveling	1	0
-S167735583	2024-04-08	L8317805	Edge Of The Cedars SP	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.6314818	-109.4899607	Traveling	1	0
 S196683582	2024-09-23	L8317805	Edge Of The Cedars SP	Turkey Vulture	Cathartes aura	7815	species	25	37.6314818	-109.4899607	Stationary	1	0
+S167735583	2024-04-08	L8317805	Edge Of The Cedars SP	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.6314818	-109.4899607	Traveling	1	0
 S199280522	2024-10-16	L8317805	Edge Of The Cedars SP	American Kestrel	Falco sparverius	12028	species	1	37.6314818	-109.4899607	Traveling	1	0
 S196683582	2024-09-23	L8317805	Edge Of The Cedars SP	Yellow-rumped Warbler	Setophaga coronata	34161	issf	2	37.6314818	-109.4899607	Stationary	1	0
-S196683582	2024-09-23	L8317805	Edge Of The Cedars SP	Western Wood-Pewee	Contopus sordidulus	16912	species	1	37.6314818	-109.4899607	Stationary	1	0
-S199280522	2024-10-16	L8317805	Edge Of The Cedars SP	Common Raven	Corvus corax	21624	species	1	37.6314818	-109.4899607	Traveling	1	0
 S210117834	2024-03-30	L39595289	755 S Main St, Blanding US-UT 37.61384, -109.47813	House Sparrow	Passer domesticus	31534	species	6	37.6138430	-109.4781340	Traveling	1	0
+S199280522	2024-10-16	L8317805	Edge Of The Cedars SP	Common Raven	Corvus corax	21624	species	1	37.6314818	-109.4899607	Traveling	1	0
+S196683582	2024-09-23	L8317805	Edge Of The Cedars SP	Western Wood-Pewee	Contopus sordidulus	16912	species	1	37.6314818	-109.4899607	Stationary	1	0
 S167735583	2024-04-08	L8317805	Edge Of The Cedars SP	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	37.6314818	-109.4899607	Traveling	1	0
 S246465762	2025-06-03	L46770896	Blanding	House Sparrow	Passer domesticus	31534	species	4	37.6246650	-109.4761460	Traveling	1	0
 S252324871	2025-06-20	L47978767	231 N 100 W, Blanding US-UT 37.62867, -109.47983	House Sparrow	Passer domesticus	31534	species	12	37.6286680	-109.4798310	Stationary	1	0
@@ -145,7 +145,7 @@ S252001766	2025-06-19	L47978767	231 N 100 W, Blanding US-UT 37.62867, -109.47983
 S252324871	2025-06-20	L47978767	231 N 100 W, Blanding US-UT 37.62867, -109.47983	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.6286680	-109.4798310	Stationary	1	0
 S246465762	2025-06-03	L46770896	Blanding	Turkey Vulture	Cathartes aura	7815	species	3	37.6246650	-109.4761460	Traveling	1	0
 S246465762	2025-06-03	L46770896	Blanding	House Finch	Haemorhous mexicanus	32310	species	1	37.6246650	-109.4761460	Traveling	1	0
+S246465762	2025-06-03	L46770896	Blanding	European Starling	Sturnus vulgaris	27813	species	21	37.6246650	-109.4761460	Traveling	1	0
 S252001766	2025-06-19	L47978767	231 N 100 W, Blanding US-UT 37.62867, -109.47983	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	37.6286680	-109.4798310	Stationary	1	0
 S252324871	2025-06-20	L47978767	231 N 100 W, Blanding US-UT 37.62867, -109.47983	Lesser Goldfinch	Spinus psaltria	32609	species	3	37.6286680	-109.4798310	Stationary	1	0
-S246465762	2025-06-03	L46770896	Blanding	European Starling	Sturnus vulgaris	27813	species	21	37.6246650	-109.4761460	Traveling	1	0
 S246465762	2025-06-03	L46770896	Blanding	Western Kingbird	Tyrannus verticalis	17467	species	1	37.6246650	-109.4761460	Traveling	1	0

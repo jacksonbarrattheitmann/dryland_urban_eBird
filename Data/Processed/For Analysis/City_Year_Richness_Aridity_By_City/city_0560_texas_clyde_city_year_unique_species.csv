@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-560,"Clyde, TX",Clyde,Texas,Callahan,2015,7363137.55297468,10,10,city_0560_texas_clyde,964.599988937378,18.46875,33.88276580241064,humid,12
-560,"Clyde, TX",Clyde,Texas,Callahan,2016,7363137.55297468,2,4,city_0560_texas_clyde,829.5687484741211,19.205729166666668,28.40431559643892,dry subhumid,12
-560,"Clyde, TX",Clyde,Texas,Callahan,2017,7363137.55297468,2,4,city_0560_texas_clyde,637.6187515258789,19.041666666666668,21.955308517390375,dry subhumid,12
-560,"Clyde, TX",Clyde,Texas,Callahan,2019,7363137.55297468,20,21,city_0560_texas_clyde,607.7562417984009,18.302083333333332,21.47390475253827,dry subhumid,12
-560,"Clyde, TX",Clyde,Texas,Callahan,2020,7363137.55297468,4,4,city_0560_texas_clyde,538.8687534332275,18.807291666666668,18.705984570453747,semiarid,12
-560,"Clyde, TX",Clyde,Texas,Callahan,2022,7363137.55297468,9,10,city_0560_texas_clyde,378.3187437057495,18.848958333333332,13.11377483146848,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+560,2015,"Clyde, TX",Clyde,Texas,Callahan,99.9999999999998,10,10,city_0560_texas_clyde,964.599988937378,18.46875,33.8827658024106,humid,12
+560,2016,"Clyde, TX",Clyde,Texas,Callahan,99.9999999999998,2,4,city_0560_texas_clyde,829.568748474121,19.2057291666667,28.4043155964389,dry subhumid,12
+560,2017,"Clyde, TX",Clyde,Texas,Callahan,99.9999999999998,2,4,city_0560_texas_clyde,637.618751525879,19.0416666666667,21.9553085173904,dry subhumid,12
+560,2019,"Clyde, TX",Clyde,Texas,Callahan,99.9999999999998,20,21,city_0560_texas_clyde,607.756241798401,18.3020833333333,21.4739047525383,dry subhumid,12
+560,2020,"Clyde, TX",Clyde,Texas,Callahan,99.9999999999998,4,4,city_0560_texas_clyde,538.868753433228,18.8072916666667,18.7059845704537,semiarid,12
+560,2022,"Clyde, TX",Clyde,Texas,Callahan,99.9999999999998,9,10,city_0560_texas_clyde,378.31874370575,18.8489583333333,13.1137748314685,semiarid,12

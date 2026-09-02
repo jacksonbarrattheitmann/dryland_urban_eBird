@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2015,78478231.1569148,86,774,city_2403_arizona_sierra_vista,464.1375062465668,19.036458333333332,15.984645955038712,semiarid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2016,78478231.1569148,77,474,city_2403_arizona_sierra_vista,389.5624965429306,19.0703125,13.400698617977726,semiarid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2017,78478231.1569148,81,671,city_2403_arizona_sierra_vista,420.2250077724457,19.609375,14.192295777011358,semiarid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2018,78478231.1569148,121,1107,city_2403_arizona_sierra_vista,379.2500008940697,19.263020833333332,12.960042746580294,semiarid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2019,78478231.1569148,136,3386,city_2403_arizona_sierra_vista,302.6625003814697,18.299479166666668,10.694984829896418,semiarid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2020,78478231.1569148,167,5502,city_2403_arizona_sierra_vista,159.45000052452087,19.276041666666668,5.446433036952145,arid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2021,78478231.1569148,155,8432,city_2403_arizona_sierra_vista,532.1312582492828,19.044270833333332,18.32138466490851,semiarid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2022,78478231.1569148,164,8228,city_2403_arizona_sierra_vista,287.59999781847,18.609375,10.052648749525986,semiarid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2023,78478231.1569148,174,11926,city_2403_arizona_sierra_vista,233.78124684095383,18.8984375,8.08975387824874,arid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2024,78478231.1569148,162,9223,city_2403_arizona_sierra_vista,278.34999775886536,19.75,9.356302445676146,arid,12
-2403,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,2025,78478231.1569148,165,8175,city_2403_arizona_sierra_vista,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2403,2015,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,86,774,city_2403_arizona_sierra_vista,464.137506246567,19.0364583333333,15.9846459550387,semiarid,12
+2403,2016,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,77,474,city_2403_arizona_sierra_vista,389.562496542931,19.0703125,13.4006986179777,semiarid,12
+2403,2017,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,81,671,city_2403_arizona_sierra_vista,420.225007772446,19.609375,14.1922957770114,semiarid,12
+2403,2018,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,121,1107,city_2403_arizona_sierra_vista,379.25000089407,19.2630208333333,12.9600427465803,semiarid,12
+2403,2019,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,136,3386,city_2403_arizona_sierra_vista,302.66250038147,18.2994791666667,10.6949848298964,semiarid,12
+2403,2020,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,167,5502,city_2403_arizona_sierra_vista,159.450000524521,19.2760416666667,5.44643303695215,arid,12
+2403,2021,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,155,8432,city_2403_arizona_sierra_vista,532.131258249283,19.0442708333333,18.3213846649085,semiarid,12
+2403,2022,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,164,8228,city_2403_arizona_sierra_vista,287.59999781847,18.609375,10.052648749526,semiarid,12
+2403,2023,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,174,11931,city_2403_arizona_sierra_vista,233.781246840954,18.8984375,8.08975387824874,arid,12
+2403,2024,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,162,9223,city_2403_arizona_sierra_vista,278.349997758865,19.75,9.35630244567615,arid,12
+2403,2025,"Sierra Vista, AZ",Sierra Vista,Arizona,Cochise,99.9999999999996,165,8198,city_2403_arizona_sierra_vista,,,,,

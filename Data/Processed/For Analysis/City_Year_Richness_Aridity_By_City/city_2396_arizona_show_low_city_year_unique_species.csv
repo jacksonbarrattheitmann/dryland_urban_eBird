@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2016,23074798.7685725,7,7,city_2396_arizona_show_low,428.7062497138977,12.122395833333334,19.37883459566059,semiarid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2017,23074798.7685725,35,69,city_2396_arizona_show_low,334.0874980688095,12.674479166666666,14.734075945609607,semiarid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2018,23074798.7685725,59,135,city_2396_arizona_show_low,429.19374799728394,12.268229166666668,19.273815838025612,semiarid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2019,23074798.7685725,48,145,city_2396_arizona_show_low,455.9187526702881,11.3515625,21.352945606219127,dry subhumid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2020,23074798.7685725,70,310,city_2396_arizona_show_low,258.9187469482422,12.346354166666666,11.586621469307191,semiarid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2021,23074798.7685725,96,1081,city_2396_arizona_show_low,433.06874799728394,12.182291666666666,19.523174363812757,semiarid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2022,23074798.7685725,107,1036,city_2396_arizona_show_low,377.6124972105026,11.770833333333332,17.344880254645098,semiarid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2023,23074798.7685725,111,1241,city_2396_arizona_show_low,318.46249663829803,11.7109375,14.668297794063385,semiarid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2024,23074798.7685725,118,2396,city_2396_arizona_show_low,356.8625057935715,12.6875,15.72947683938607,semiarid,12
-2396,"Show Low, AZ",Show Low,Arizona,Navajo,2025,23074798.7685725,96,823,city_2396_arizona_show_low,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2396,2016,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,7,7,city_2396_arizona_show_low,428.706249713898,12.1223958333333,19.3788345956606,semiarid,12
+2396,2017,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,35,69,city_2396_arizona_show_low,334.08749806881,12.6744791666667,14.7340759456096,semiarid,12
+2396,2018,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,59,135,city_2396_arizona_show_low,429.193747997284,12.2682291666667,19.2738158380256,semiarid,12
+2396,2019,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,48,145,city_2396_arizona_show_low,455.918752670288,11.3515625,21.3529456062191,dry subhumid,12
+2396,2020,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,70,310,city_2396_arizona_show_low,258.918746948242,12.3463541666667,11.5866214693072,semiarid,12
+2396,2021,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,96,1081,city_2396_arizona_show_low,433.068747997284,12.1822916666667,19.5231743638128,semiarid,12
+2396,2022,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,107,1036,city_2396_arizona_show_low,377.612497210503,11.7708333333333,17.3448802546451,semiarid,12
+2396,2023,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,111,1241,city_2396_arizona_show_low,318.462496638298,11.7109375,14.6682977940634,semiarid,12
+2396,2024,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,118,2396,city_2396_arizona_show_low,356.862505793572,12.6875,15.7294768393861,semiarid,12
+2396,2025,"Show Low, AZ",Show Low,Arizona,Navajo,99.9999999999878,96,824,city_2396_arizona_show_low,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2015,25641890.4933001,31,60,city_1300_north_dakota_jamestown,507.8062477111816,6.559895833333333,30.664821374601942,humid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2016,25641890.4933001,60,145,city_1300_north_dakota_jamestown,575.5125041007996,7.3046875,33.257607460452526,humid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2017,25641890.4933001,84,295,city_1300_north_dakota_jamestown,414.91250562667847,6.234375,25.557651934655844,dry subhumid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2018,25641890.4933001,102,698,city_1300_north_dakota_jamestown,493.4999995231629,4.786458333333333,33.37513205651542,humid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2019,25641890.4933001,109,872,city_1300_north_dakota_jamestown,716.3312473297119,4.052083333333333,50.97687156682902,humid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2020,25641890.4933001,178,5021,city_1300_north_dakota_jamestown,397.21875524520874,6.1953125,24.526773116925575,dry subhumid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2021,25641890.4933001,174,6682,city_1300_north_dakota_jamestown,415.1125044822693,7.098958333333333,24.27706392342239,dry subhumid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2022,25641890.4933001,158,4719,city_1300_north_dakota_jamestown,483.40000009536743,5.052083333333333,32.11515571567839,humid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2023,25641890.4933001,178,6164,city_1300_north_dakota_jamestown,479.87499809265137,6.546875,29.00094417179385,dry subhumid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2024,25641890.4933001,172,5404,city_1300_north_dakota_jamestown,508.6249942779541,7.526041666666666,29.021099227746568,dry subhumid,12
-1300,"Jamestown, ND",Jamestown,North Dakota,Stutsman,2025,25641890.4933001,168,7096,city_1300_north_dakota_jamestown,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1300,2015,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,31,60,city_1300_north_dakota_jamestown,507.806247711182,6.55989583333333,30.6648213746019,humid,12
+1300,2016,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,60,145,city_1300_north_dakota_jamestown,575.5125041008,7.3046875,33.2576074604525,humid,12
+1300,2017,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,84,295,city_1300_north_dakota_jamestown,414.912505626678,6.234375,25.5576519346558,dry subhumid,12
+1300,2018,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,102,698,city_1300_north_dakota_jamestown,493.499999523163,4.78645833333333,33.3751320565154,humid,12
+1300,2019,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,109,872,city_1300_north_dakota_jamestown,716.331247329712,4.05208333333333,50.976871566829,humid,12
+1300,2020,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,178,5021,city_1300_north_dakota_jamestown,397.218755245209,6.1953125,24.5267731169256,dry subhumid,12
+1300,2021,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,174,6682,city_1300_north_dakota_jamestown,415.112504482269,7.09895833333333,24.2770639234224,dry subhumid,12
+1300,2022,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,158,4719,city_1300_north_dakota_jamestown,483.400000095367,5.05208333333333,32.1151557156784,humid,12
+1300,2023,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,178,6164,city_1300_north_dakota_jamestown,479.874998092651,6.546875,29.0009441717939,dry subhumid,12
+1300,2024,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,172,5404,city_1300_north_dakota_jamestown,508.624994277954,7.52604166666667,29.0210992277466,dry subhumid,12
+1300,2025,"Jamestown, ND",Jamestown,North Dakota,Stutsman,100,168,7096,city_1300_north_dakota_jamestown,,,,,

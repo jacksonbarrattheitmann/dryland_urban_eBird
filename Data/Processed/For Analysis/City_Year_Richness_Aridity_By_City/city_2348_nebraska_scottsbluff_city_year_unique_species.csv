@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2015,34228738.2130234,60,458,city_2348_nebraska_scottsbluff,504.0687508583069,10.002604166666668,25.20015627256735,dry subhumid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2016,34228738.2130234,45,406,city_2348_nebraska_scottsbluff,426.1937551498413,10.239583333333332,21.057437207609247,dry subhumid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2017,34228738.2130234,54,305,city_2348_nebraska_scottsbluff,390.8124990463257,9.981770833333332,19.558451666074426,semiarid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2018,34228738.2130234,54,279,city_2348_nebraska_scottsbluff,508.0812530517578,9.263020833333332,26.3759904247499,dry subhumid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2019,34228738.2130234,75,428,city_2348_nebraska_scottsbluff,560.4562530517578,8.4609375,30.35903529015023,humid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2020,34228738.2130234,87,697,city_2348_nebraska_scottsbluff,313.5937509536743,10.057291666666666,15.634900073514794,semiarid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2021,34228738.2130234,88,710,city_2348_nebraska_scottsbluff,417.6749973297119,10.221354166666668,20.65514474882284,dry subhumid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2022,34228738.2130234,110,1091,city_2348_nebraska_scottsbluff,294.7749981880188,9.421875,15.177473760284151,semiarid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2023,34228738.2130234,114,2120,city_2348_nebraska_scottsbluff,486.62499809265137,9.533854166666668,24.91187831856794,dry subhumid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2024,34228738.2130234,107,1536,city_2348_nebraska_scottsbluff,337.2250003814697,10.760416666666668,16.24365280312147,semiarid,12
-2348,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,2025,34228738.2130234,115,1128,city_2348_nebraska_scottsbluff,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2348,2015,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,60,458,city_2348_nebraska_scottsbluff,504.068750858307,10.0026041666667,25.2001562725674,dry subhumid,12
+2348,2016,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,45,406,city_2348_nebraska_scottsbluff,426.193755149841,10.2395833333333,21.0574372076092,dry subhumid,12
+2348,2017,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,54,305,city_2348_nebraska_scottsbluff,390.812499046326,9.98177083333333,19.5584516660744,semiarid,12
+2348,2018,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,54,279,city_2348_nebraska_scottsbluff,508.081253051758,9.26302083333333,26.3759904247499,dry subhumid,12
+2348,2019,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,75,428,city_2348_nebraska_scottsbluff,560.456253051758,8.4609375,30.3590352901502,humid,12
+2348,2020,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,87,697,city_2348_nebraska_scottsbluff,313.593750953674,10.0572916666667,15.6349000735148,semiarid,12
+2348,2021,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,88,710,city_2348_nebraska_scottsbluff,417.674997329712,10.2213541666667,20.6551447488228,dry subhumid,12
+2348,2022,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,110,1091,city_2348_nebraska_scottsbluff,294.774998188019,9.421875,15.1774737602842,semiarid,12
+2348,2023,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,114,2120,city_2348_nebraska_scottsbluff,486.624998092651,9.53385416666667,24.9118783185679,dry subhumid,12
+2348,2024,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,107,1537,city_2348_nebraska_scottsbluff,337.22500038147,10.7604166666667,16.2436528031215,semiarid,12
+2348,2025,"Scottsbluff, NE",Scottsbluff,Nebraska,Scotts Bluff,100,115,1128,city_2348_nebraska_scottsbluff,,,,,

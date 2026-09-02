@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-158,"Barstow, CA",Barstow,California,San Bernardino,2015,31910817.7517855,39,203,city_0158_california_barstow,83.0562509894371,19.9296875,2.775045713037836,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2016,31910817.7517855,33,63,city_0158_california_barstow,74.24999904632568,19.403645833333332,2.5251970271711155,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2017,31910817.7517855,49,339,city_0158_california_barstow,78.5687518119812,19.559895833333332,2.657950902634198,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2018,31910817.7517855,84,834,city_0158_california_barstow,68.17499995231628,19.463541666666668,2.3138766114273865,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2019,31910817.7517855,52,246,city_0158_california_barstow,131.4874986410141,18.703125,4.580947149169789,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2020,31910817.7517855,45,183,city_0158_california_barstow,65.72499990463257,19.619791666666668,2.218955509352814,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2021,31910817.7517855,69,429,city_0158_california_barstow,90.62500113248824,19.140625,3.109919609908444,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2022,31910817.7517855,56,336,city_0158_california_barstow,57.48124974966049,18.9921875,1.982646178376864,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2023,31910817.7517855,49,279,city_0158_california_barstow,132.72499644756317,18.356770833333332,4.680539869213359,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2024,31910817.7517855,72,529,city_0158_california_barstow,85.45000004768372,19.270833333333332,2.9192882578568105,extremely arid,12
-158,"Barstow, CA",Barstow,California,San Bernardino,2025,31910817.7517855,59,328,city_0158_california_barstow,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+158,2015,"Barstow, CA",Barstow,California,San Bernardino,100,39,203,city_0158_california_barstow,83.0562509894371,19.9296875,2.77504571303784,extremely arid,12
+158,2016,"Barstow, CA",Barstow,California,San Bernardino,100,33,63,city_0158_california_barstow,74.2499990463257,19.4036458333333,2.52519702717112,extremely arid,12
+158,2017,"Barstow, CA",Barstow,California,San Bernardino,100,49,339,city_0158_california_barstow,78.5687518119812,19.5598958333333,2.6579509026342,extremely arid,12
+158,2018,"Barstow, CA",Barstow,California,San Bernardino,100,84,834,city_0158_california_barstow,68.1749999523163,19.4635416666667,2.31387661142739,extremely arid,12
+158,2019,"Barstow, CA",Barstow,California,San Bernardino,100,52,246,city_0158_california_barstow,131.487498641014,18.703125,4.58094714916979,extremely arid,12
+158,2020,"Barstow, CA",Barstow,California,San Bernardino,100,45,183,city_0158_california_barstow,65.7249999046326,19.6197916666667,2.21895550935281,extremely arid,12
+158,2021,"Barstow, CA",Barstow,California,San Bernardino,100,69,429,city_0158_california_barstow,90.6250011324882,19.140625,3.10991960990844,extremely arid,12
+158,2022,"Barstow, CA",Barstow,California,San Bernardino,100,56,336,city_0158_california_barstow,57.4812497496605,18.9921875,1.98264617837686,extremely arid,12
+158,2023,"Barstow, CA",Barstow,California,San Bernardino,100,49,279,city_0158_california_barstow,132.724996447563,18.3567708333333,4.68053986921336,extremely arid,12
+158,2024,"Barstow, CA",Barstow,California,San Bernardino,100,72,529,city_0158_california_barstow,85.4500000476837,19.2708333333333,2.91928825785681,extremely arid,12
+158,2025,"Barstow, CA",Barstow,California,San Bernardino,100,59,328,city_0158_california_barstow,,,,,

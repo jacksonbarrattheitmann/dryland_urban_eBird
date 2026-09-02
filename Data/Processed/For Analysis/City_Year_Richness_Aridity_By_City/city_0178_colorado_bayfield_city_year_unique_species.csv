@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2015,4738509.31552575,32,62,city_0178_colorado_bayfield,683.324987411499,8.481770833333332,36.972917453292325,humid,12
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2016,4738509.31552575,54,89,city_0178_colorado_bayfield,516.4500007629395,8.486979166666668,27.9358783339863,dry subhumid,12
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2017,4738509.31552575,11,11,city_0178_colorado_bayfield,440.26874828338623,9.052083333333334,23.10869318491256,dry subhumid,12
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2020,4738509.31552575,20,22,city_0178_colorado_bayfield,377.9749994277954,8.622395833333332,20.296797619951537,dry subhumid,12
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2021,4738509.31552575,65,270,city_0178_colorado_bayfield,515.3312520980835,8.677083333333332,27.59163424507307,dry subhumid,12
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2022,4738509.31552575,53,150,city_0178_colorado_bayfield,534.1562480926514,8.125,29.470689549939387,dry subhumid,12
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2023,4738509.31552575,52,85,city_0178_colorado_bayfield,503.1937484741211,8.263020833333332,27.552602226445533,dry subhumid,12
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2024,4738509.31552575,16,20,city_0178_colorado_bayfield,508.03125190734863,9.325520833333332,26.28810143274786,dry subhumid,12
-178,"Bayfield, CO",Bayfield,Colorado,La Plata,2025,4738509.31552575,39,68,city_0178_colorado_bayfield,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+178,2015,"Bayfield, CO",Bayfield,Colorado,La Plata,100,32,62,city_0178_colorado_bayfield,683.324987411499,8.48177083333333,36.9729174532923,humid,12
+178,2016,"Bayfield, CO",Bayfield,Colorado,La Plata,100,54,89,city_0178_colorado_bayfield,516.450000762939,8.48697916666667,27.9358783339863,dry subhumid,12
+178,2017,"Bayfield, CO",Bayfield,Colorado,La Plata,100,11,11,city_0178_colorado_bayfield,440.268748283386,9.05208333333333,23.1086931849126,dry subhumid,12
+178,2020,"Bayfield, CO",Bayfield,Colorado,La Plata,100,20,22,city_0178_colorado_bayfield,377.974999427795,8.62239583333333,20.2967976199515,dry subhumid,12
+178,2021,"Bayfield, CO",Bayfield,Colorado,La Plata,100,65,270,city_0178_colorado_bayfield,515.331252098084,8.67708333333333,27.5916342450731,dry subhumid,12
+178,2022,"Bayfield, CO",Bayfield,Colorado,La Plata,100,53,150,city_0178_colorado_bayfield,534.156248092651,8.125,29.4706895499394,dry subhumid,12
+178,2023,"Bayfield, CO",Bayfield,Colorado,La Plata,100,52,85,city_0178_colorado_bayfield,503.193748474121,8.26302083333333,27.5526022264455,dry subhumid,12
+178,2024,"Bayfield, CO",Bayfield,Colorado,La Plata,100,16,20,city_0178_colorado_bayfield,508.031251907349,9.32552083333333,26.2881014327479,dry subhumid,12
+178,2025,"Bayfield, CO",Bayfield,Colorado,La Plata,100,39,68,city_0178_colorado_bayfield,,,,,

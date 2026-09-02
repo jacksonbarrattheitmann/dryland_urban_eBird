@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2015,8074112.84548416,14,19,city_1237_texas_horseshoe_bay,1090.3624963760376,19.859375,36.516588052363375,humid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2016,8074112.84548416,30,53,city_1237_texas_horseshoe_bay,1041.8062562942505,20.4375,34.22772094601233,humid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2017,8074112.84548416,37,73,city_1237_texas_horseshoe_bay,635.0500011444092,20.5,20.821311512931448,dry subhumid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2018,8074112.84548416,41,67,city_1237_texas_horseshoe_bay,766.1312551498413,19.963541666666668,25.568781677171827,dry subhumid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2019,8074112.84548416,47,142,city_1237_texas_horseshoe_bay,629.5562491416931,19.984375,20.99614379628367,dry subhumid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2020,8074112.84548416,28,53,city_1237_texas_horseshoe_bay,619.3187532424927,20.432291666666668,20.350710358130858,dry subhumid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2021,8074112.84548416,40,80,city_1237_texas_horseshoe_bay,757.5375089645386,19.830729166666668,25.394535438008106,dry subhumid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2022,8074112.84548416,34,54,city_1237_texas_horseshoe_bay,385.7500004768371,20.216145833333332,12.766353545040548,semiarid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2023,8074112.84548416,64,180,city_1237_texas_horseshoe_bay,613.0062561035156,21.080729166666668,19.723033292312525,semiarid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2024,8074112.84548416,42,119,city_1237_texas_horseshoe_bay,618.8062491416931,21.3984375,19.708186088613267,semiarid,12
-1237,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,2025,8074112.84548416,57,137,city_1237_texas_horseshoe_bay,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1237,2015,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,14,19,city_1237_texas_horseshoe_bay,1090.36249637604,19.859375,36.5165880523634,humid,12
+1237,2016,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,30,53,city_1237_texas_horseshoe_bay,1041.80625629425,20.4375,34.2277209460123,humid,12
+1237,2017,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,37,73,city_1237_texas_horseshoe_bay,635.050001144409,20.5,20.8213115129315,dry subhumid,12
+1237,2018,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,41,67,city_1237_texas_horseshoe_bay,766.131255149841,19.9635416666667,25.5687816771718,dry subhumid,12
+1237,2019,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,47,142,city_1237_texas_horseshoe_bay,629.556249141693,19.984375,20.9961437962837,dry subhumid,12
+1237,2020,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,28,53,city_1237_texas_horseshoe_bay,619.318753242493,20.4322916666667,20.3507103581309,dry subhumid,12
+1237,2021,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,40,80,city_1237_texas_horseshoe_bay,757.537508964539,19.8307291666667,25.3945354380081,dry subhumid,12
+1237,2022,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,34,54,city_1237_texas_horseshoe_bay,385.750000476837,20.2161458333333,12.7663535450405,semiarid,12
+1237,2023,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,63,179,city_1237_texas_horseshoe_bay,613.006256103516,21.0807291666667,19.7230332923125,semiarid,12
+1237,2024,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,42,119,city_1237_texas_horseshoe_bay,618.806249141693,21.3984375,19.7081860886133,semiarid,12
+1237,2025,"Horseshoe Bay, TX",Horseshoe Bay,Texas,Llano,99.9999999999957,57,137,city_1237_texas_horseshoe_bay,,,,,

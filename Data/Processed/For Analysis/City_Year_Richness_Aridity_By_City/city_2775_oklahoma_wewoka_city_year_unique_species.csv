@@ -1,4 +1,4 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2775,"Wewoka, OK",Wewoka,Oklahoma,Seminole,2015,3982635.10831267,18,23,city_2775_oklahoma_wewoka,1241.3312644958496,16.971354166666668,46.02406155898486,humid,12
-2775,"Wewoka, OK",Wewoka,Oklahoma,Seminole,2019,3982635.10831267,13,13,city_2775_oklahoma_wewoka,1317.6437530517578,16.346354166666668,50.01237532587477,humid,12
-2775,"Wewoka, OK",Wewoka,Oklahoma,Seminole,2025,3982635.10831267,11,11,city_2775_oklahoma_wewoka,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2775,2015,"Wewoka, OK",Wewoka,Oklahoma,Seminole,100,18,23,city_2775_oklahoma_wewoka,1241.33126449585,16.9713541666667,46.0240615589849,humid,12
+2775,2019,"Wewoka, OK",Wewoka,Oklahoma,Seminole,100,13,13,city_2775_oklahoma_wewoka,1317.64375305176,16.3463541666667,50.0123753258748,humid,12
+2775,2025,"Wewoka, OK",Wewoka,Oklahoma,Seminole,100,11,11,city_2775_oklahoma_wewoka,,,,,

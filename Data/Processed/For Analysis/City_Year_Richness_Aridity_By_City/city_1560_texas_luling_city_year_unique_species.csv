@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1560,"Luling, TX",Luling,Texas,Caldwell,2015,7615697.20095645,15,15,city_1560_texas_luling,1289.9125080108645,20.6953125,42.02311046713938,humid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2016,7615697.20095645,41,50,city_1560_texas_luling,1235.2062530517578,21.380208333333332,39.362589308869296,humid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2017,7615697.20095645,14,19,city_1560_texas_luling,791.7000026702881,21.549479166666668,25.093916716912144,dry subhumid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2018,7615697.20095645,33,40,city_1560_texas_luling,891.612491607666,20.908854166666668,28.84650743763954,dry subhumid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2019,7615697.20095645,20,34,city_1560_texas_luling,875.200005531311,20.838541666666668,28.38007111332743,dry subhumid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2020,7615697.20095645,36,63,city_1560_texas_luling,713.5437545776367,21.330729166666668,22.77456585136834,dry subhumid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2021,7615697.20095645,24,35,city_1560_texas_luling,917.3749961853028,20.817708333333332,29.76778760648608,dry subhumid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2022,7615697.20095645,32,49,city_1560_texas_luling,515.3375034332275,21.104166666666668,16.56811799383451,semiarid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2023,7615697.20095645,12,12,city_1560_texas_luling,696.5750064849854,21.8671875,21.858691059102263,dry subhumid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2024,7615697.20095645,23,54,city_1560_texas_luling,727.6249995231628,22.1328125,22.64429855068438,dry subhumid,12
-1560,"Luling, TX",Luling,Texas,Caldwell,2025,7615697.20095645,45,80,city_1560_texas_luling,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1560,2015,"Luling, TX",Luling,Texas,Caldwell,100,15,15,city_1560_texas_luling,1289.91250801086,20.6953125,42.0231104671394,humid,12
+1560,2016,"Luling, TX",Luling,Texas,Caldwell,100,41,50,city_1560_texas_luling,1235.20625305176,21.3802083333333,39.3625893088693,humid,12
+1560,2017,"Luling, TX",Luling,Texas,Caldwell,100,14,19,city_1560_texas_luling,791.700002670288,21.5494791666667,25.0939167169121,dry subhumid,12
+1560,2018,"Luling, TX",Luling,Texas,Caldwell,100,33,40,city_1560_texas_luling,891.612491607666,20.9088541666667,28.8465074376395,dry subhumid,12
+1560,2019,"Luling, TX",Luling,Texas,Caldwell,100,20,34,city_1560_texas_luling,875.200005531311,20.8385416666667,28.3800711133274,dry subhumid,12
+1560,2020,"Luling, TX",Luling,Texas,Caldwell,100,36,63,city_1560_texas_luling,713.543754577637,21.3307291666667,22.7745658513683,dry subhumid,12
+1560,2021,"Luling, TX",Luling,Texas,Caldwell,100,24,35,city_1560_texas_luling,917.374996185303,20.8177083333333,29.7677876064861,dry subhumid,12
+1560,2022,"Luling, TX",Luling,Texas,Caldwell,100,32,49,city_1560_texas_luling,515.337503433228,21.1041666666667,16.5681179938345,semiarid,12
+1560,2023,"Luling, TX",Luling,Texas,Caldwell,100,12,12,city_1560_texas_luling,696.575006484985,21.8671875,21.8586910591023,dry subhumid,12
+1560,2024,"Luling, TX",Luling,Texas,Caldwell,100,23,54,city_1560_texas_luling,727.624999523163,22.1328125,22.6442985506844,dry subhumid,12
+1560,2025,"Luling, TX",Luling,Texas,Caldwell,100,45,80,city_1560_texas_luling,,,,,

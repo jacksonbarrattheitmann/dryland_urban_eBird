@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-826,"Elko, NV",Elko,Nevada,Elko,2015,26519381.1402371,86,347,city_0826_nevada_elko,365.7625026702881,9.5234375,18.734533950298868,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2016,26519381.1402371,55,131,city_0826_nevada_elko,346.92500257492065,9.049479166666668,18.21178414063835,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2017,26519381.1402371,35,112,city_0826_nevada_elko,335.48125076293945,9.046875,17.61345369058911,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2018,26519381.1402371,33,70,city_0826_nevada_elko,312.5062475204468,9.083333333333332,16.375873232512497,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2019,26519381.1402371,40,97,city_0826_nevada_elko,397.38749980926514,8.109375,21.943744596887807,dry subhumid,12
-826,"Elko, NV",Elko,Nevada,Elko,2020,26519381.1402371,86,441,city_0826_nevada_elko,280.15625047683716,9.083333333333332,14.680676880882295,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2021,26519381.1402371,110,1166,city_0826_nevada_elko,339.8562479019165,9.450520833333332,17.47286105159137,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2022,26519381.1402371,119,2148,city_0826_nevada_elko,320.5625057220459,8.606770833333332,17.228271826069367,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2023,26519381.1402371,95,1514,city_0826_nevada_elko,365.7437508106232,8.4609375,19.811764749792538,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2024,26519381.1402371,105,1720,city_0826_nevada_elko,387.56874990463257,9.796875,19.577269134882783,semiarid,12
-826,"Elko, NV",Elko,Nevada,Elko,2025,26519381.1402371,82,1259,city_0826_nevada_elko,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+826,2015,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,86,347,city_0826_nevada_elko,365.762502670288,9.5234375,18.7345339502989,semiarid,12
+826,2016,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,55,131,city_0826_nevada_elko,346.925002574921,9.04947916666667,18.2117841406384,semiarid,12
+826,2017,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,35,112,city_0826_nevada_elko,335.481250762939,9.046875,17.6134536905891,semiarid,12
+826,2018,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,33,70,city_0826_nevada_elko,312.506247520447,9.08333333333333,16.3758732325125,semiarid,12
+826,2019,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,40,97,city_0826_nevada_elko,397.387499809265,8.109375,21.9437445968878,dry subhumid,12
+826,2020,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,86,441,city_0826_nevada_elko,280.156250476837,9.08333333333333,14.6806768808823,semiarid,12
+826,2021,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,110,1166,city_0826_nevada_elko,339.856247901917,9.45052083333333,17.4728610515914,semiarid,12
+826,2022,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,119,2148,city_0826_nevada_elko,320.562505722046,8.60677083333333,17.2282718260694,semiarid,12
+826,2023,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,95,1514,city_0826_nevada_elko,365.743750810623,8.4609375,19.8117647497925,semiarid,12
+826,2024,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,105,1720,city_0826_nevada_elko,387.568749904633,9.796875,19.5772691348828,semiarid,12
+826,2025,"Elko, NV",Elko,Nevada,Elko,99.9999999999979,83,1261,city_0826_nevada_elko,,,,,

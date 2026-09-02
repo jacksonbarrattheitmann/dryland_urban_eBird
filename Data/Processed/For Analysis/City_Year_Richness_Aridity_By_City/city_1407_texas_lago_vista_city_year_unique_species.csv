@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2015,14002124.5238188,27,49,city_1407_texas_lago_vista,1197.8249893188477,20.052083333333332,39.85830120437067,humid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2016,14002124.5238188,70,533,city_1407_texas_lago_vista,1149.831256866455,20.611979166666668,37.56148044548862,humid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2017,14002124.5238188,70,422,city_1407_texas_lago_vista,717.037504196167,20.703125,23.353893266440046,dry subhumid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2018,14002124.5238188,70,291,city_1407_texas_lago_vista,835.4499864578247,20.0546875,27.797660064102303,dry subhumid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2019,14002124.5238188,17,44,city_1407_texas_lago_vista,745.1062526702881,20.091145833333332,24.76164439856258,dry subhumid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2020,14002124.5238188,54,189,city_1407_texas_lago_vista,695.6437492370605,20.557291666666668,22.765229223370653,dry subhumid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2021,14002124.5238188,88,936,city_1407_texas_lago_vista,843.5062561035156,19.927083333333332,28.185381338648625,dry subhumid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2022,14002124.5238188,56,181,city_1407_texas_lago_vista,447.1874933242798,20.268229166666668,14.774154472728506,semiarid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2023,14002124.5238188,34,79,city_1407_texas_lago_vista,665.4687423706055,21.0625,21.4235410018706,dry subhumid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2024,14002124.5238188,42,104,city_1407_texas_lago_vista,693.5687494277954,21.380208333333332,22.10210786558286,dry subhumid,12
-1407,"Lago Vista, TX",Lago Vista,Texas,Travis,2025,14002124.5238188,51,481,city_1407_texas_lago_vista,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1407,2015,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,27,49,city_1407_texas_lago_vista,1197.82498931885,20.0520833333333,39.8583012043707,humid,12
+1407,2016,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,70,533,city_1407_texas_lago_vista,1149.83125686646,20.6119791666667,37.5614804454886,humid,12
+1407,2017,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,70,422,city_1407_texas_lago_vista,717.037504196167,20.703125,23.3538932664401,dry subhumid,12
+1407,2018,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,70,291,city_1407_texas_lago_vista,835.449986457825,20.0546875,27.7976600641023,dry subhumid,12
+1407,2019,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,17,44,city_1407_texas_lago_vista,745.106252670288,20.0911458333333,24.7616443985626,dry subhumid,12
+1407,2020,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,54,189,city_1407_texas_lago_vista,695.643749237061,20.5572916666667,22.7652292233707,dry subhumid,12
+1407,2021,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,88,936,city_1407_texas_lago_vista,843.506256103516,19.9270833333333,28.1853813386486,dry subhumid,12
+1407,2022,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,56,181,city_1407_texas_lago_vista,447.18749332428,20.2682291666667,14.7741544727285,semiarid,12
+1407,2023,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,34,79,city_1407_texas_lago_vista,665.468742370606,21.0625,21.4235410018706,dry subhumid,12
+1407,2024,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,42,104,city_1407_texas_lago_vista,693.568749427795,21.3802083333333,22.1021078655829,dry subhumid,12
+1407,2025,"Lago Vista, TX",Lago Vista,Texas,Travis,99.9999999999981,51,481,city_1407_texas_lago_vista,,,,,

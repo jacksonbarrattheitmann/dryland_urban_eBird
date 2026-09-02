@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2168,"Pullman, WA",Pullman,Washington,Whitman,2015,17626964.7696478,95,1367,city_2168_washington_pullman,452.443751335144,10.341145833333332,22.24278588051406,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2016,17626964.7696478,107,3352,city_2168_washington_pullman,538.0812482833862,9.8359375,27.126585183250665,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2017,17626964.7696478,89,1330,city_2168_washington_pullman,637.8625099658966,8.6953125,34.118847169091,humid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2018,17626964.7696478,79,2012,city_2168_washington_pullman,509.9312562942505,9.354166666666666,26.34736308086547,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2019,17626964.7696478,86,1977,city_2168_washington_pullman,482.8187532424927,8.221354166666666,26.49741335502604,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2020,17626964.7696478,118,3879,city_2168_washington_pullman,525.9187536239624,9.333333333333334,27.20269415296357,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2021,17626964.7696478,114,6611,city_2168_washington_pullman,419.2624959945678,9.760416666666666,21.217290255919092,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2022,17626964.7696478,124,8043,city_2168_washington_pullman,533.8875074386597,8.731770833333332,28.50171039294388,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2023,17626964.7696478,142,10679,city_2168_washington_pullman,432.73749470710754,9.622395833333334,22.053244587595128,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2024,17626964.7696478,124,6568,city_2168_washington_pullman,524.581241607666,9.71875,26.60316914650604,dry subhumid,12
-2168,"Pullman, WA",Pullman,Washington,Whitman,2025,17626964.7696478,122,7206,city_2168_washington_pullman,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2168,2015,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,95,1367,city_2168_washington_pullman,452.443751335144,10.3411458333333,22.2427858805141,dry subhumid,12
+2168,2016,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,107,3352,city_2168_washington_pullman,538.081248283386,9.8359375,27.1265851832507,dry subhumid,12
+2168,2017,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,89,1330,city_2168_washington_pullman,637.862509965897,8.6953125,34.118847169091,humid,12
+2168,2018,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,79,2012,city_2168_washington_pullman,509.931256294251,9.35416666666667,26.3473630808655,dry subhumid,12
+2168,2019,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,86,1977,city_2168_washington_pullman,482.818753242493,8.22135416666667,26.497413355026,dry subhumid,12
+2168,2020,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,118,3879,city_2168_washington_pullman,525.918753623962,9.33333333333333,27.2026941529636,dry subhumid,12
+2168,2021,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,114,6611,city_2168_washington_pullman,419.262495994568,9.76041666666667,21.2172902559191,dry subhumid,12
+2168,2022,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,124,8043,city_2168_washington_pullman,533.88750743866,8.73177083333333,28.5017103929439,dry subhumid,12
+2168,2023,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,142,10679,city_2168_washington_pullman,432.737494707108,9.62239583333333,22.0532445875951,dry subhumid,12
+2168,2024,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,124,6568,city_2168_washington_pullman,524.581241607666,9.71875,26.603169146506,dry subhumid,12
+2168,2025,"Pullman, WA",Pullman,Washington,Whitman,99.9999999999898,122,7206,city_2168_washington_pullman,,,,,

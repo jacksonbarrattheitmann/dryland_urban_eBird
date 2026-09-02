@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-688,"Davis, CA",Davis,California,Yolo,2015,36636467.4638038,156,9774,city_0688_california_davis,288.1687486767769,17.638020833333332,10.426533448778134,semiarid,12
-688,"Davis, CA",Davis,California,Yolo,2016,36636467.4638038,159,11987,city_0688_california_davis,544.90625461936,17.286458333333332,19.96984174211054,semiarid,12
-688,"Davis, CA",Davis,California,Yolo,2017,36636467.4638038,167,18583,city_0688_california_davis,596.2187530994415,17.223958333333332,21.90051666253927,dry subhumid,12
-688,"Davis, CA",Davis,California,Yolo,2018,36636467.4638038,175,25396,city_0688_california_davis,439.69374457001686,17.111979166666668,16.21769262461689,semiarid,12
-688,"Davis, CA",Davis,California,Yolo,2019,36636467.4638038,179,26003,city_0688_california_davis,583.3312540054321,16.981770833333332,21.61945772976411,dry subhumid,12
-688,"Davis, CA",Davis,California,Yolo,2020,36636467.4638038,180,23634,city_0688_california_davis,195.26874840259552,17.453125,7.112805860993804,arid,12
-688,"Davis, CA",Davis,California,Yolo,2021,36636467.4638038,173,18964,city_0688_california_davis,438.1312502324581,17.0234375,16.21300954893167,semiarid,12
-688,"Davis, CA",Davis,California,Yolo,2022,36636467.4638038,171,20371,city_0688_california_davis,295.3437511920929,17.052083333333332,10.917597271636858,semiarid,12
-688,"Davis, CA",Davis,California,Yolo,2023,36636467.4638038,181,23156,city_0688_california_davis,566.1499936580658,16.776041666666668,21.143901727747252,dry subhumid,12
-688,"Davis, CA",Davis,California,Yolo,2024,36636467.4638038,180,26444,city_0688_california_davis,577.1374979615211,17.411458333333332,21.054607563863208,dry subhumid,12
-688,"Davis, CA",Davis,California,Yolo,2025,36636467.4638038,178,26273,city_0688_california_davis,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+688,2015,"Davis, CA",Davis,California,Yolo,99.9999999999914,156,9774,city_0688_california_davis,288.168748676777,17.6380208333333,10.4265334487781,semiarid,12
+688,2016,"Davis, CA",Davis,California,Yolo,99.9999999999914,159,11987,city_0688_california_davis,544.90625461936,17.2864583333333,19.9698417421105,semiarid,12
+688,2017,"Davis, CA",Davis,California,Yolo,99.9999999999914,167,18583,city_0688_california_davis,596.218753099442,17.2239583333333,21.9005166625393,dry subhumid,12
+688,2018,"Davis, CA",Davis,California,Yolo,99.9999999999914,175,25396,city_0688_california_davis,439.693744570017,17.1119791666667,16.2176926246169,semiarid,12
+688,2019,"Davis, CA",Davis,California,Yolo,99.9999999999914,179,26003,city_0688_california_davis,583.331254005432,16.9817708333333,21.6194577297641,dry subhumid,12
+688,2020,"Davis, CA",Davis,California,Yolo,99.9999999999914,180,23634,city_0688_california_davis,195.268748402596,17.453125,7.1128058609938,arid,12
+688,2021,"Davis, CA",Davis,California,Yolo,99.9999999999914,173,18964,city_0688_california_davis,438.131250232458,17.0234375,16.2130095489317,semiarid,12
+688,2022,"Davis, CA",Davis,California,Yolo,99.9999999999914,171,20371,city_0688_california_davis,295.343751192093,17.0520833333333,10.9175972716369,semiarid,12
+688,2023,"Davis, CA",Davis,California,Yolo,99.9999999999914,181,23156,city_0688_california_davis,566.149993658066,16.7760416666667,21.1439017277473,dry subhumid,12
+688,2024,"Davis, CA",Davis,California,Yolo,99.9999999999914,180,26444,city_0688_california_davis,577.137497961521,17.4114583333333,21.0546075638632,dry subhumid,12
+688,2025,"Davis, CA",Davis,California,Yolo,99.9999999999914,178,26273,city_0688_california_davis,,,,,

@@ -1,12 +1,37 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Common Yellowthroat	Geothlypis trichas	34028	species	1	37.2257100	-107.6059790	Traveling	1	0
+S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	Northern House Wren	Troglodytes aedon	27191	species	1	37.2290830	-107.6077630	Stationary	1	0
+S23727097	2015-05-31	L3688231	Bayfield Eagle Park	House Sparrow	Passer domesticus	31534	species	8	37.2246100	-107.6052300	Traveling	1	0
+S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Barn Swallow	Hirundo rustica	24187	species	2	37.2257100	-107.6059790	Traveling	1	0
+S23727097	2015-05-31	L3688231	Bayfield Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246100	-107.6052300	Traveling	1	0
+S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Western Wood-Pewee	Contopus sordidulus	16912	species	2	37.2247380	-107.6052450	Traveling	1	0
+S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	2	37.2257100	-107.6059790	Traveling	1	0
+S23733123	2015-06-01	L3689208	Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	6	37.2290980	-107.6078030	Traveling	1	0
+S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2246100	-107.6052300	Traveling	1	0
+S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Common Grackle	Quiscalus quiscula	33853	species	2	37.2247380	-107.6052450	Traveling	1	1
+S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Western Wood-Pewee	Contopus sordidulus	16912	species	6	37.2257100	-107.6059790	Traveling	1	0
+S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Pine Siskin	Spinus pinus	32595	species	2	37.2246100	-107.6052300	Traveling	1	0
+S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2247380	-107.6052450	Traveling	1	0
+S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	House Sparrow	Passer domesticus	31534	species	2	37.2247380	-107.6052450	Traveling	1	0
+S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Willow Flycatcher	Empidonax traillii	16952	species	1	37.2257100	-107.6059790	Traveling	1	0
+S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Common Grackle	Quiscalus quiscula	33853	species	2	37.2246100	-107.6052300	Traveling	1	1
+S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2246100	-107.6052300	Traveling	1	0
+S23727097	2015-05-31	L3688231	Bayfield Eagle Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2246100	-107.6052300	Traveling	1	0
+S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	37.2247380	-107.6052450	Traveling	1	0
+S23733123	2015-06-01	L3689208	Pine River Park	Mountain Chickadee	Poecile gambeli	22077	species	1	37.2290980	-107.6078030	Traveling	1	0
+S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2257100	-107.6059790	Traveling	1	0
+S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	American Robin	Turdus migratorius	28633	species	4	37.2257100	-107.6059790	Traveling	1	0
+S23733123	2015-06-01	L3689208	Pine River Park	American Robin	Turdus migratorius	28633	species	10	37.2290980	-107.6078030	Traveling	1	0
+S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	American Kestrel	Falco sparverius	12028	species	1	37.2257100	-107.6059790	Traveling	1	0
+S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Song Sparrow	Melospiza melodia	33277	species	2	37.2257100	-107.6059790	Traveling	1	0
+S23733123	2015-06-01	L3689208	Pine River Park	Western Flycatcher	Empidonax difficilis	16980	issf	1	37.2290980	-107.6078030	Traveling	1	0
+S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	European Starling	Sturnus vulgaris	27813	species	5	37.2247380	-107.6052450	Traveling	1	0
+S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2290830	-107.6077630	Stationary	1	0
+S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	House Finch	Haemorhous mexicanus	32310	species	2	37.2247380	-107.6052450	Traveling	1	0
 S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2290830	-107.6077630	Stationary	1	0
 S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	American Robin	Turdus migratorius	28633	species	10	37.2290830	-107.6077630	Stationary	1	0
 S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2247380	-107.6052450	Traveling	1	0
-S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	Northern House Wren	Troglodytes aedon	27191	species	1	37.2290830	-107.6077630	Stationary	1	0
-S23727097	2015-05-31	L3688231	Bayfield Eagle Park	House Sparrow	Passer domesticus	31534	species	8	37.2246100	-107.6052300	Traveling	1	0
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Northern Yellow Warbler	Setophaga aestiva	34087	species	10	37.2257100	-107.6059790	Traveling	1	0
-S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Barn Swallow	Hirundo rustica	24187	species	2	37.2257100	-107.6059790	Traveling	1	0
 S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	37.2290830	-107.6077630	Stationary	1	0
 S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	Lewis's Woodpecker	Melanerpes lewis	11142	species	1	37.2290830	-107.6077630	Stationary	1	0
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Turkey Vulture	Cathartes aura	7815	species	1	37.2257100	-107.6059790	Traveling	1	0
@@ -14,58 +39,33 @@ S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Northern Yellow Warbler	Setoph
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Pine Siskin	Spinus pinus	32595	species	2	37.2257100	-107.6059790	Traveling	1	0
 S23727097	2015-05-31	L3688231	Bayfield Eagle Park	American Robin	Turdus migratorius	28633	species	4	37.2246100	-107.6052300	Traveling	1	0
 S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2246100	-107.6052300	Traveling	1	0
-S23727097	2015-05-31	L3688231	Bayfield Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246100	-107.6052300	Traveling	1	0
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	37.2257100	-107.6059790	Traveling	1	0
 S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Song Sparrow	Melospiza melodia	33277	species	1	37.2247380	-107.6052450	Traveling	1	0
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Violet-green Swallow	Tachycineta thalassina	24074	species	2	37.2257100	-107.6059790	Traveling	1	0
 S23733123	2015-06-01	L3689208	Pine River Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	37.2290980	-107.6078030	Traveling	1	0
-S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	2	37.2257100	-107.6059790	Traveling	1	0
-S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Western Wood-Pewee	Contopus sordidulus	16912	species	2	37.2247380	-107.6052450	Traveling	1	0
-S23733123	2015-06-01	L3689208	Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	6	37.2290980	-107.6078030	Traveling	1	0
 S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	American Robin	Turdus migratorius	28633	species	2	37.2247380	-107.6052450	Traveling	1	0
-S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Common Grackle	Quiscalus quiscula	33853	species	2	37.2247380	-107.6052450	Traveling	1	1
-S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2246100	-107.6052300	Traveling	1	0
 S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Brown-headed Cowbird	Molothrus ater	33833	species	1	37.2246100	-107.6052300	Traveling	1	0
 S23733123	2015-06-01	L3689208	Pine River Park	Lewis's Woodpecker	Melanerpes lewis	11142	species	1	37.2290980	-107.6078030	Traveling	1	0
-S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Western Wood-Pewee	Contopus sordidulus	16912	species	6	37.2257100	-107.6059790	Traveling	1	0
 S23733123	2015-06-01	L3689208	Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	8	37.2290980	-107.6078030	Traveling	1	0
-S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Pine Siskin	Spinus pinus	32595	species	2	37.2246100	-107.6052300	Traveling	1	0
 S23733123	2015-06-01	L3689208	Pine River Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	37.2290980	-107.6078030	Traveling	1	0
-S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2247380	-107.6052450	Traveling	1	0
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	37.2257100	-107.6059790	Traveling	1	0
-S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	House Sparrow	Passer domesticus	31534	species	2	37.2247380	-107.6052450	Traveling	1	0
 S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	37.2246100	-107.6052300	Traveling	1	0
-S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Willow Flycatcher	Empidonax traillii	16952	species	1	37.2257100	-107.6059790	Traveling	1	0
 S23733123	2015-06-01	L3689208	Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2290980	-107.6078030	Traveling	1	0
-S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Common Grackle	Quiscalus quiscula	33853	species	2	37.2246100	-107.6052300	Traveling	1	1
-S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2246100	-107.6052300	Traveling	1	0
-S23727097	2015-05-31	L3688231	Bayfield Eagle Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2246100	-107.6052300	Traveling	1	0
 S23733123	2015-06-01	L3689208	Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2290980	-107.6078030	Traveling	1	0
-S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	37.2247380	-107.6052450	Traveling	1	0
 S23733123	2015-06-01	L3689208	Pine River Park	Rock Pigeon	Columba livia	1868	domestic	1	37.2290980	-107.6078030	Traveling	1	0
-S23733123	2015-06-01	L3689208	Pine River Park	Mountain Chickadee	Poecile gambeli	22077	species	1	37.2290980	-107.6078030	Traveling	1	0
-S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2257100	-107.6059790	Traveling	1	0
-S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	American Robin	Turdus migratorius	28633	species	4	37.2257100	-107.6059790	Traveling	1	0
-S23733123	2015-06-01	L3689208	Pine River Park	American Robin	Turdus migratorius	28633	species	10	37.2290980	-107.6078030	Traveling	1	0
-S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	American Kestrel	Falco sparverius	12028	species	1	37.2257100	-107.6059790	Traveling	1	0
 S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Western Wood-Pewee	Contopus sordidulus	16912	species	1	37.2246100	-107.6052300	Traveling	1	0
-S23733123	2015-06-01	L3689208	Pine River Park	Western Wood-Pewee	Contopus sordidulus	16912	species	2	37.2290980	-107.6078030	Traveling	1	0
-S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Song Sparrow	Melospiza melodia	33277	species	2	37.2257100	-107.6059790	Traveling	1	0
 S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	European Starling	Sturnus vulgaris	27813	species	1	37.2290830	-107.6077630	Stationary	1	0
 S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Say's Phoebe	Sayornis saya	17010	species	1	37.2247380	-107.6052450	Traveling	1	0
+S23733123	2015-06-01	L3689208	Pine River Park	Western Wood-Pewee	Contopus sordidulus	16912	species	2	37.2290980	-107.6078030	Traveling	1	0
 S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	37.2247380	-107.6052450	Traveling	1	0
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	House Sparrow	Passer domesticus	31534	species	4	37.2257100	-107.6059790	Traveling	1	0
-S23733123	2015-06-01	L3689208	Pine River Park	Western Flycatcher	Empidonax difficilis	16980	issf	1	37.2290980	-107.6078030	Traveling	1	0
 S23733123	2015-06-01	L3689208	Pine River Park	Lazuli Bunting	Passerina amoena	34606	species	1	37.2290980	-107.6078030	Traveling	1	0
 S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	Barn Swallow	Hirundo rustica	24187	species	1	37.2247380	-107.6052450	Traveling	1	0
-S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	European Starling	Sturnus vulgaris	27813	species	5	37.2247380	-107.6052450	Traveling	1	0
 S23727890	2015-05-31	L3688342	US-CO-Bayfield-418 W North St - park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2257100	-107.6059790	Traveling	1	0
-S23733156	2015-06-01	L3689211	US-CO-Bayfield-41751-41771 US-160	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2290830	-107.6077630	Stationary	1	0
 S23727097	2015-05-31	L3688231	Bayfield Eagle Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	37.2246100	-107.6052300	Traveling	1	0
-S23728067	2015-05-31	L3688364	US-CO-Bayfield-1069 US-160	House Finch	Haemorhous mexicanus	32310	species	2	37.2247380	-107.6052450	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Barn Swallow	Hirundo rustica	24187	species	1	37.2295198	-107.6069427	Traveling	1	0
-S28921362	2016-04-13	L3710324	Little Pine River Park	Say's Phoebe	Sayornis saya	17010	species	1	37.2295198	-107.6069427	Traveling	1	0
 S28921362	2016-04-13	L3710324	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2295198	-107.6069427	Traveling	1	0
+S28921362	2016-04-13	L3710324	Little Pine River Park	Say's Phoebe	Sayornis saya	17010	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	European Starling	Sturnus vulgaris	27813	species	6	37.2287630	-107.6088620	Traveling	1	0
 S28921362	2016-04-13	L3710324	Little Pine River Park	Common Merganser	Mergus merganser	762	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	2	37.2295198	-107.6069427	Traveling	1	0
@@ -80,21 +80,21 @@ S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Black-capped Chickade
 S29679298	2016-05-15	L3710324	Little Pine River Park	Western Tanager	Piranga ludoviciana	34439	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	5	37.2287630	-107.6088620	Traveling	1	0
-S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Hermit Thrush	Catharus guttatus	28333	species	1	37.2287630	-107.6088620	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Red-naped Sapsucker	Sphyrapicus nuchalis	11127	species	1	37.2295198	-107.6069427	Traveling	1	0
+S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Hermit Thrush	Catharus guttatus	28333	species	1	37.2287630	-107.6088620	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	37.2295198	-107.6069427	Traveling	1	0
-S28921362	2016-04-13	L3710324	Little Pine River Park	Red-naped Sapsucker	Sphyrapicus nuchalis	11127	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	6	37.2295198	-107.6069427	Traveling	1	0
-S29679298	2016-05-15	L3710324	Little Pine River Park	Tree Swallow	Tachycineta bicolor	24064	species	1	37.2295198	-107.6069427	Traveling	1	0
+S28921362	2016-04-13	L3710324	Little Pine River Park	Red-naped Sapsucker	Sphyrapicus nuchalis	11127	species	1	37.2295198	-107.6069427	Traveling	1	0
 S28921362	2016-04-13	L3710324	Little Pine River Park	Pygmy Nuthatch	Sitta pygmaea	26924	species	1	37.2295198	-107.6069427	Traveling	1	0
+S29679298	2016-05-15	L3710324	Little Pine River Park	Tree Swallow	Tachycineta bicolor	24064	species	1	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Belted Kingfisher	Megaceryle alcyon	10306	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Western Warbling Vireo	Vireo swainsoni	19247	species	1	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	American Robin	Turdus migratorius	28633	species	1	37.2295198	-107.6069427	Traveling	1	0
-S31358423	2016-09-01	L3710324	Little Pine River Park	Gray Catbird	Dumetella carolinensis	28000	species	2	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2287630	-107.6088620	Traveling	1	0
+S31358423	2016-09-01	L3710324	Little Pine River Park	Gray Catbird	Dumetella carolinensis	28000	species	2	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Clark's Nutcracker	Nucifraga columbiana	21484	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Chipping Sparrow	Spizella passerina	32990	species	1	37.2287630	-107.6088620	Traveling	1	0
 S28921362	2016-04-13	L3710324	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2295198	-107.6069427	Traveling	1	0
@@ -104,14 +104,14 @@ S29679298	2016-05-15	L3710324	Little Pine River Park	Pine Siskin	Spinus pinus	32
 S28921362	2016-04-13	L3710324	Little Pine River Park	Black Phoebe	Sayornis nigricans	16998	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Bullock's Oriole	Icterus bullockii	33736	species	1	37.2287630	-107.6088620	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	4	37.2295198	-107.6069427	Traveling	1	0
-S29679298	2016-05-15	L3710324	Little Pine River Park	American Crow	Corvus brachyrhynchos	21557	species	1	37.2295198	-107.6069427	Traveling	1	0
 S28921362	2016-04-13	L3710324	Little Pine River Park	swallow sp.	Hirundinidae sp.	24305	spuh	5	37.2295198	-107.6069427	Traveling	1	0
+S29679298	2016-05-15	L3710324	Little Pine River Park	American Crow	Corvus brachyrhynchos	21557	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	American Robin	Turdus migratorius	28633	species	4	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	3	37.2295198	-107.6069427	Traveling	1	0
 S28921362	2016-04-13	L3710324	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2295198	-107.6069427	Traveling	1	0
-S28921362	2016-04-13	L3710324	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	2	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	1	37.2295198	-107.6069427	Traveling	1	0
+S28921362	2016-04-13	L3710324	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	2	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	37.2287630	-107.6088620	Traveling	1	0
 S28921362	2016-04-13	L3710324	Little Pine River Park	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Brown-headed Cowbird	Molothrus ater	33833	species	7	37.2287630	-107.6088620	Traveling	1	0
@@ -137,16 +137,16 @@ S29679298	2016-05-15	L3710324	Little Pine River Park	Black-headed Grosbeak	Pheuc
 S28921362	2016-04-13	L3710324	Little Pine River Park	Cassin's Finch	Haemorhous cassinii	32329	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2287630	-107.6088620	Traveling	1	0
-S29679298	2016-05-15	L3710324	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	7	37.2295198	-107.6069427	Traveling	1	0
+S29679298	2016-05-15	L3710324	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Mallard	Anas platyrhynchos	545	species	2	37.2295198	-107.6069427	Traveling	1	0
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2287630	-107.6088620	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	1	37.2295198	-107.6069427	Traveling	1	0
 S31358423	2016-09-01	L3710324	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	1	37.2295198	-107.6069427	Traveling	1	0
-S29679298	2016-05-15	L3710324	Little Pine River Park	Western Bluebird	Sialia mexicana	28136	species	2	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2295198	-107.6069427	Traveling	1	0
+S29679298	2016-05-15	L3710324	Little Pine River Park	Western Bluebird	Sialia mexicana	28136	species	2	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	37.2295198	-107.6069427	Traveling	1	0
 S29679298	2016-05-15	L3710324	Little Pine River Park	American Dipper	Cinclus mexicanus	27668	species	1	37.2295198	-107.6069427	Traveling	1	0
@@ -157,8 +157,8 @@ S29679298	2016-05-15	L3710324	Little Pine River Park	Northern Flicker	Colaptes a
 S29818210	2016-05-21	L2899250	Bayfield Pine Riverside Park	Song Sparrow	Melospiza melodia	33277	species	3	37.2287630	-107.6088620	Traveling	1	0
 S39190267	2017-09-15	L3710324	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2295198	-107.6069427	Traveling	1	0
 S39190267	2017-09-15	L3710324	Little Pine River Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2295198	-107.6069427	Traveling	1	0
-S39190267	2017-09-15	L3710324	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2295198	-107.6069427	Traveling	1	0
 S39190267	2017-09-15	L3710324	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	37.2295198	-107.6069427	Traveling	1	0
+S39190267	2017-09-15	L3710324	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2295198	-107.6069427	Traveling	1	0
 S39190267	2017-09-15	L3710324	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	16	37.2295198	-107.6069427	Traveling	1	0
 S39190267	2017-09-15	L3710324	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	3	37.2295198	-107.6069427	Traveling	1	0
 S39190267	2017-09-15	L3710324	Little Pine River Park	Chipping Sparrow	Spizella passerina	32990	species	5	37.2295198	-107.6069427	Traveling	1	0
@@ -167,448 +167,441 @@ S39190267	2017-09-15	L3710324	Little Pine River Park	blackbird sp.	Icteridae sp.
 S39190267	2017-09-15	L3710324	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2295198	-107.6069427	Traveling	1	0
 S39190267	2017-09-15	L3710324	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	1	37.2295198	-107.6069427	Traveling	1	0
 S39190267	2017-09-15	L3710324	Little Pine River Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	37.2295198	-107.6069427	Traveling	1	0
+S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	Western Wood-Pewee	Contopus sordidulus	16912	species	1	37.2292160	-107.6087840	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Steller's Jay	Cyanocitta stelleri	21274	species	1	37.2294090	-107.6071280	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Mallard	Anas platyrhynchos	545	species	2	37.2294090	-107.6071280	Traveling	1	0
-S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	Western Wood-Pewee	Contopus sordidulus	16912	species	1	37.2292160	-107.6087840	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	5	37.2294090	-107.6071280	Traveling	1	0
-S67889107	2020-04-26	L11256692	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	4	37.2294090	-107.6071280	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	37.2294090	-107.6071280	Traveling	1	0
+S67889107	2020-04-26	L11256692	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	4	37.2294090	-107.6071280	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	American Robin	Turdus migratorius	28633	species	2	37.2294090	-107.6071280	Traveling	1	0
 S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	American Goldfinch	Spinus tristis	32617	species	2	37.2292160	-107.6087840	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	2	37.2294090	-107.6071280	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2294090	-107.6071280	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	1	37.2294090	-107.6071280	Traveling	1	0
-S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	Spotted Towhee	Pipilo maculatus	33386	species	1	37.2292160	-107.6087840	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	5	37.2294090	-107.6071280	Traveling	1	0
+S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	Spotted Towhee	Pipilo maculatus	33386	species	1	37.2292160	-107.6087840	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2294090	-107.6071280	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2294090	-107.6071280	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Common Raven	Corvus corax	21624	species	1	37.2294090	-107.6071280	Traveling	1	0
-S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	Violet-green Swallow	Tachycineta thalassina	24074	species	7	37.2292160	-107.6087840	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Gray Flycatcher	Empidonax wrightii	16965	species	1	37.2294090	-107.6071280	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2294090	-107.6071280	Traveling	1	0
-S67889107	2020-04-26	L11256692	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	8	37.2294090	-107.6071280	Traveling	1	0
+S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	Violet-green Swallow	Tachycineta thalassina	24074	species	7	37.2292160	-107.6087840	Traveling	1	0
 S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	Western Flycatcher	Empidonax difficilis	16980	issf	1	37.2292160	-107.6087840	Traveling	1	0
+S67889107	2020-04-26	L11256692	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	8	37.2294090	-107.6071280	Traveling	1	0
 S71177625	2020-07-05	L11840402	Little Pine River Park, Bayfield US-CO (37.2292,-107.6088)	Lesser Goldfinch	Spinus psaltria	32609	species	4	37.2292160	-107.6087840	Traveling	1	0
 S67889107	2020-04-26	L11256692	Little Pine River Park	Downy Woodpecker	Dryobates pubescens	11400	species	2	37.2294090	-107.6071280	Traveling	1	0
-S79241594	2021-01-14	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
-S85605120	2021-04-15	L13254040	Eagle Park	Barn Swallow	Hirundo rustica	24187	species	1	37.2249488	-107.6051744	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2246735	-107.6050818	Traveling	1	0
-S84355143	2021-03-29	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	3	37.2246735	-107.6050818	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2246735	-107.6050818	Traveling	1	0
-S85666928	2021-04-16	L13272299	Eagle Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	6	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Tree Swallow	Tachycineta bicolor	24064	species	8	37.2291320	-107.6087880	Traveling	1	0
-S87045058	2021-05-03	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	Rock Wren	Salpinctes obsoletus	27150	species	1	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	American Crow	Corvus brachyrhynchos	21557	species	1	37.2291320	-107.6087880	Traveling	1	0
 S79147741	2021-01-12	L13254040	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	3	37.2249488	-107.6051744	Traveling	1	0
-S79147741	2021-01-12	L13254040	Eagle Park	Common Raven	Corvus corax	21624	species	3	37.2249488	-107.6051744	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	3	37.2246735	-107.6050818	Traveling	1	0
+S85666928	2021-04-16	L13272299	Eagle Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	6	37.2246735	-107.6050818	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	5	37.2246735	-107.6050818	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	duck sp.	Anatidae (duck sp.)	792	spuh	1	37.2246735	-107.6050818	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	2	37.2291320	-107.6087880	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Dark-eyed Junco	Junco hyemalis	33124	species	1	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	10	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Empidonax sp.	Empidonax sp.	16997	spuh	1	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	MacGillivray's Warbler	Geothlypis tolmiei	34005	species	1	37.2291320	-107.6087880	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	Common Raven	Corvus corax	21624	species	1	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	1	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	11	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	American Crow	Corvus brachyrhynchos	21557	species	1	37.2291320	-107.6087880	Traveling	1	0
 S86607922	2021-04-28	L14653866	Little Pine River Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	37.2291320	-107.6087880	Traveling	1	0
+S79241594	2021-01-14	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
+S79147741	2021-01-12	L13254040	Eagle Park	Common Raven	Corvus corax	21624	species	3	37.2249488	-107.6051744	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	3	37.2246735	-107.6050818	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2246735	-107.6050818	Traveling	1	0
+S85605120	2021-04-15	L13254040	Eagle Park	Barn Swallow	Hirundo rustica	24187	species	1	37.2249488	-107.6051744	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2246735	-107.6050818	Traveling	1	0
+S84355143	2021-03-29	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	3	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Tree Swallow	Tachycineta bicolor	24064	species	8	37.2291320	-107.6087880	Traveling	1	0
+S87045058	2021-05-03	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	MacGillivray's Warbler	Geothlypis tolmiei	34005	species	1	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	11	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Empidonax sp.	Empidonax sp.	16997	spuh	1	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	10	37.2291320	-107.6087880	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	1	37.2291320	-107.6087880	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	Common Raven	Corvus corax	21624	species	1	37.2291320	-107.6087880	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	Rock Wren	Salpinctes obsoletus	27150	species	1	37.2291320	-107.6087880	Traveling	1	0
 S79241594	2021-01-14	L13272299	Eagle Park	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	37.2246735	-107.6050818	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2246735	-107.6050818	Traveling	1	0
-S79703908	2021-01-22	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2246735	-107.6050818	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2246735	-107.6050818	Traveling	1	0
+S79241594	2021-01-14	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	2	37.2246735	-107.6050818	Traveling	1	0
+S79703908	2021-01-22	L13272299	Eagle Park	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	37.2246735	-107.6050818	Traveling	1	0
 S88450916	2021-05-18	L13272299	Eagle Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	37.2246735	-107.6050818	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2246735	-107.6050818	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	Clark's Nutcracker	Nucifraga columbiana	21484	species	1	37.2246735	-107.6050818	Traveling	1	0
 S85666928	2021-04-16	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	2	37.2246735	-107.6050818	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	4	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	5	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	3	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Black Phoebe	Sayornis nigricans	16998	species	2	37.2291320	-107.6087880	Traveling	1	0
-S79147741	2021-01-12	L13254040	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2249488	-107.6051744	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2246735	-107.6050818	Traveling	1	0
-S79703908	2021-01-22	L13272299	Eagle Park	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	37.2246735	-107.6050818	Traveling	1	0
-S79241594	2021-01-14	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	2	37.2246735	-107.6050818	Traveling	1	0
-S97327075	2021-11-08	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	2	37.2246735	-107.6050818	Traveling	1	0
-S84355143	2021-03-29	L13272299	Eagle Park	Western Bluebird	Sialia mexicana	28136	species	3	37.2246735	-107.6050818	Traveling	1	0
-S84355143	2021-03-29	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	3	37.2246735	-107.6050818	Traveling	1	0
-S97327075	2021-11-08	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2246735	-107.6050818	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	Common Merganser	Mergus merganser	762	species	1	37.2291320	-107.6087880	Traveling	1	0
 S87045058	2021-05-03	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	2	37.2291320	-107.6087880	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2291320	-107.6087880	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	3	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	5	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Black Phoebe	Sayornis nigricans	16998	species	2	37.2291320	-107.6087880	Traveling	1	0
+S79147741	2021-01-12	L13254040	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2249488	-107.6051744	Traveling	1	0
+S79703908	2021-01-22	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2246735	-107.6050818	Traveling	1	0
+S97327075	2021-11-08	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	2	37.2246735	-107.6050818	Traveling	1	0
+S84355143	2021-03-29	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	3	37.2246735	-107.6050818	Traveling	1	0
+S97327075	2021-11-08	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2246735	-107.6050818	Traveling	1	0
+S84355143	2021-03-29	L13272299	Eagle Park	Western Bluebird	Sialia mexicana	28136	species	3	37.2246735	-107.6050818	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	Common Merganser	Mergus merganser	762	species	1	37.2291320	-107.6087880	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	4	37.2291320	-107.6087880	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	3	37.2291320	-107.6087880	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	12	37.2291320	-107.6087880	Traveling	1	0
 S87045058	2021-05-03	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2291320	-107.6087880	Traveling	1	0
 S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	Pine Siskin	Spinus pinus	32595	species	2	37.2341720	-107.5954190	Traveling	1	0
-S85666928	2021-04-16	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2246735	-107.6050818	Traveling	1	0
-S85666928	2021-04-16	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	Canada Goose	Branta canadensis	342	species	2	37.2246735	-107.6050818	Traveling	1	0
+S79147741	2021-01-12	L13254040	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	10	37.2249488	-107.6051744	Traveling	1	0
 S79241594	2021-01-14	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2246735	-107.6050818	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	Violet-green Swallow	Tachycineta thalassina	24074	species	2	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	2	37.2291320	-107.6087880	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	Canada Goose	Branta canadensis	342	species	2	37.2246735	-107.6050818	Traveling	1	0
+S85666928	2021-04-16	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	37.2246735	-107.6050818	Traveling	1	0
 S87045058	2021-05-03	L14653866	Little Pine River Park	Chipping Sparrow	Spizella passerina	32990	species	4	37.2291320	-107.6087880	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	2	37.2291320	-107.6087880	Traveling	1	0
 S87045058	2021-05-03	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2291320	-107.6087880	Traveling	1	0
-S79147741	2021-01-12	L13254040	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	10	37.2249488	-107.6051744	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Cassin's Finch	Haemorhous cassinii	32329	species	1	37.2246735	-107.6050818	Traveling	1	0
-S79241594	2021-01-14	L13272299	Eagle Park	American Dipper	Cinclus mexicanus	27668	species	1	37.2246735	-107.6050818	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	2	37.2291320	-107.6087880	Traveling	1	0
+S85666928	2021-04-16	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2246735	-107.6050818	Traveling	1	0
 S91258395	2021-07-02	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	1	37.2246735	-107.6050818	Traveling	1	0
+S79241594	2021-01-14	L13272299	Eagle Park	American Dipper	Cinclus mexicanus	27668	species	1	37.2246735	-107.6050818	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Cassin's Finch	Haemorhous cassinii	32329	species	1	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	2	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	1	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2291320	-107.6087880	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2291320	-107.6087880	Traveling	1	0
 S87045058	2021-05-03	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	1	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	2	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	1	37.2291320	-107.6087880	Traveling	1	0
-S97327075	2021-11-08	L13272299	Eagle Park	American Crow	Corvus brachyrhynchos	21557	species	5	37.2246735	-107.6050818	Traveling	1	0
+S85605120	2021-04-15	L13254040	Eagle Park	Cassin's Finch	Haemorhous cassinii	32329	species	7	37.2249488	-107.6051744	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	37.2246735	-107.6050818	Traveling	1	0
+S79147741	2021-01-12	L13254040	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	15	37.2249488	-107.6051744	Traveling	1	0
+S84355143	2021-03-29	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	2	37.2246735	-107.6050818	Traveling	1	0
+S91258395	2021-07-02	L13272299	Eagle Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2246735	-107.6050818	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2291320	-107.6087880	Traveling	1	0
+S87045058	2021-05-03	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	1	37.2291320	-107.6087880	Traveling	1	0
 S91258395	2021-07-02	L13272299	Eagle Park	Lesser Goldfinch	Spinus psaltria	32609	species	4	37.2246735	-107.6050818	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	X	37.2246735	-107.6050818	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	Cooper's Hawk	Astur cooperii	8278	species	1	37.2246735	-107.6050818	Traveling	1	0
-S85605120	2021-04-15	L13254040	Eagle Park	Cassin's Finch	Haemorhous cassinii	32329	species	7	37.2249488	-107.6051744	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	37.2291320	-107.6087880	Traveling	1	0
-S87045058	2021-05-03	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	5	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	1	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2291320	-107.6087880	Traveling	1	0
-S87045058	2021-05-03	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2291320	-107.6087880	Traveling	1	0
-S79147741	2021-01-12	L13254040	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	15	37.2249488	-107.6051744	Traveling	1	0
-S91258395	2021-07-02	L13272299	Eagle Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2246735	-107.6050818	Traveling	1	0
-S84355143	2021-03-29	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	2	37.2246735	-107.6050818	Traveling	1	0
 S85605120	2021-04-15	L13254040	Eagle Park	American Crow	Corvus brachyrhynchos	21557	species	1	37.2249488	-107.6051744	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	7	37.2246735	-107.6050818	Traveling	1	0
 S79147741	2021-01-12	L13254040	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2249488	-107.6051744	Traveling	1	0
 S79241594	2021-01-14	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2246735	-107.6050818	Traveling	1	0
+S97327075	2021-11-08	L13272299	Eagle Park	American Crow	Corvus brachyrhynchos	21557	species	5	37.2246735	-107.6050818	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87045058	2021-05-03	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	5	37.2291320	-107.6087880	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	10	37.2291320	-107.6087880	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	4	37.2291320	-107.6087880	Traveling	1	0
 S86607922	2021-04-28	L14653866	Little Pine River Park	Black-capped/Mountain Chickadee	Poecile atricapillus/gambeli	22087	slash	1	37.2291320	-107.6087880	Traveling	1	0
-S85605120	2021-04-15	L13254040	Eagle Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	2	37.2249488	-107.6051744	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Violet-green Swallow	Tachycineta thalassina	24074	species	4	37.2246735	-107.6050818	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	American Crow	Corvus brachyrhynchos	21557	species	1	37.2291320	-107.6087880	Traveling	1	0
 S91258395	2021-07-02	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	2	37.2246735	-107.6050818	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Red-naped Sapsucker	Sphyrapicus nuchalis	11127	species	1	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	4	37.2291320	-107.6087880	Traveling	1	0
-S79703908	2021-01-22	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	2	37.2246735	-107.6050818	Traveling	1	0
 S79147741	2021-01-12	L13254040	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2249488	-107.6051744	Traveling	1	0
 S79241594	2021-01-14	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	30	37.2246735	-107.6050818	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	6	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	4	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Red-naped Sapsucker	Sphyrapicus nuchalis	11127	species	1	37.2291320	-107.6087880	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	6	37.2291320	-107.6087880	Traveling	1	0
 S86815097	2021-05-01	L14653866	Little Pine River Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	37.2291320	-107.6087880	Traveling	1	0
-S87873702	2021-05-11	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2291320	-107.6087880	Stationary	1	0
 S87045058	2021-05-03	L14653866	Little Pine River Park	hummingbird sp.	Trochilidae sp.	5214	spuh	1	37.2291320	-107.6087880	Traveling	1	0
-S85605120	2021-04-15	L13254040	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2249488	-107.6051744	Traveling	1	0
-S85666928	2021-04-16	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2246735	-107.6050818	Traveling	1	0
-S79241594	2021-01-14	L13272299	Eagle Park	Mountain Chickadee	Poecile gambeli	22077	species	1	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	9	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2291320	-107.6087880	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2246735	-107.6050818	Traveling	1	0
-S85666928	2021-04-16	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2246735	-107.6050818	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	4	37.2291320	-107.6087880	Traveling	1	0
+S87873702	2021-05-11	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2291320	-107.6087880	Stationary	1	0
+S85605120	2021-04-15	L13254040	Eagle Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	2	37.2249488	-107.6051744	Traveling	1	0
+S79703908	2021-01-22	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	2	37.2246735	-107.6050818	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Violet-green Swallow	Tachycineta thalassina	24074	species	4	37.2246735	-107.6050818	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	American Crow	Corvus brachyrhynchos	21557	species	1	37.2291320	-107.6087880	Traveling	1	0
 S85605120	2021-04-15	L13254040	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	30	37.2249488	-107.6051744	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	4	37.2291320	-107.6087880	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2291320	-107.6087880	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2291320	-107.6087880	Traveling	1	0
 S87873702	2021-05-11	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	6	37.2291320	-107.6087880	Stationary	1	0
 S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	European Starling	Sturnus vulgaris	27813	species	12	37.2341720	-107.5954190	Traveling	1	0
+S85605120	2021-04-15	L13254040	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2249488	-107.6051744	Traveling	1	0
+S85666928	2021-04-16	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2246735	-107.6050818	Traveling	1	0
+S79241594	2021-01-14	L13272299	Eagle Park	Mountain Chickadee	Poecile gambeli	22077	species	1	37.2246735	-107.6050818	Traveling	1	0
+S85666928	2021-04-16	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	9	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2291320	-107.6087880	Traveling	1	0
+S85666928	2021-04-16	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2246735	-107.6050818	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	Mallard	Anas platyrhynchos	545	species	3	37.2246735	-107.6050818	Traveling	1	0
+S79703908	2021-01-22	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	7	37.2246735	-107.6050818	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	60	37.2246735	-107.6050818	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.2246735	-107.6050818	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	6	37.2291320	-107.6087880	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	3	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Song Sparrow	Melospiza melodia	33277	species	2	37.2291320	-107.6087880	Traveling	1	0
 S84355143	2021-03-29	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	1	37.2246735	-107.6050818	Traveling	1	0
 S91258395	2021-07-02	L13272299	Eagle Park	Western Kingbird	Tyrannus verticalis	17467	species	1	37.2246735	-107.6050818	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	37.2291320	-107.6087880	Traveling	1	0
 S86607922	2021-04-28	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	X	37.2291320	-107.6087880	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	60	37.2246735	-107.6050818	Traveling	1	0
-S79703908	2021-01-22	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	7	37.2246735	-107.6050818	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Song Sparrow	Melospiza melodia	33277	species	2	37.2291320	-107.6087880	Traveling	1	0
-S85666928	2021-04-16	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	Mallard	Anas platyrhynchos	545	species	3	37.2246735	-107.6050818	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	1	37.2246735	-107.6050818	Traveling	1	0
 S85666928	2021-04-16	L13272299	Eagle Park	Mallard	Anas platyrhynchos	545	species	3	37.2246735	-107.6050818	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	3	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	6	37.2291320	-107.6087880	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	1	37.2246735	-107.6050818	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2291320	-107.6087880	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	3	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2291320	-107.6087880	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	X	37.2246735	-107.6050818	Traveling	1	0
-S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	Chipping Sparrow	Spizella passerina	32990	species	2	37.2341720	-107.5954190	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	37.2291320	-107.6087880	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Williamson's Sapsucker	Sphyrapicus thyroideus	11123	species	1	37.2291320	-107.6087880	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	Mallard	Anas platyrhynchos	545	species	6	37.2291320	-107.6087880	Traveling	1	0
-S87045058	2021-05-03	L14653866	Little Pine River Park	new world warbler sp.	Parulidae sp.	34397	spuh	1	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	3	37.2291320	-107.6087880	Traveling	1	0
 S85605120	2021-04-15	L13254040	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	3	37.2249488	-107.6051744	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	5	37.2246735	-107.6050818	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	Killdeer	Charadrius vociferus	5827	species	1	37.2246735	-107.6050818	Traveling	1	0
 S85666928	2021-04-16	L13272299	Eagle Park	swallow sp.	Hirundinidae sp.	24305	spuh	1	37.2246735	-107.6050818	Traveling	1	0
 S87873702	2021-05-11	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2291320	-107.6087880	Stationary	1	0
 S86607922	2021-04-28	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2291320	-107.6087880	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Brown-headed Cowbird	Molothrus ater	33833	species	2	37.2291320	-107.6087880	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2291320	-107.6087880	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2291320	-107.6087880	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	3	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2291320	-107.6087880	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	37.2291320	-107.6087880	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	X	37.2246735	-107.6050818	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2291320	-107.6087880	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	37.2291320	-107.6087880	Traveling	1	0
+S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	Chipping Sparrow	Spizella passerina	32990	species	2	37.2341720	-107.5954190	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	3	37.2291320	-107.6087880	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	Mallard	Anas platyrhynchos	545	species	6	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Williamson's Sapsucker	Sphyrapicus thyroideus	11123	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87045058	2021-05-03	L14653866	Little Pine River Park	new world warbler sp.	Parulidae sp.	34397	spuh	1	37.2291320	-107.6087880	Traveling	1	0
+S91258395	2021-07-02	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
+S85666928	2021-04-16	L13272299	Eagle Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	1	37.2246735	-107.6050818	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2246735	-107.6050818	Traveling	1	0
+S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	Lesser Goldfinch	Spinus psaltria	32609	species	2	37.2341720	-107.5954190	Traveling	1	0
+S87045058	2021-05-03	L14653866	Little Pine River Park	House Sparrow	Passer domesticus	31534	species	2	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	House Sparrow	Passer domesticus	31534	species	1	37.2291320	-107.6087880	Traveling	1	0
 S84355143	2021-03-29	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	3	37.2291320	-107.6087880	Traveling	1	0
-S79241594	2021-01-14	L13272299	Eagle Park	Clark's Nutcracker	Nucifraga columbiana	21484	species	1	37.2246735	-107.6050818	Traveling	1	0
 S91258395	2021-07-02	L13272299	Eagle Park	Tree Swallow	Tachycineta bicolor	24064	species	2	37.2246735	-107.6050818	Traveling	1	0
+S79241594	2021-01-14	L13272299	Eagle Park	Clark's Nutcracker	Nucifraga columbiana	21484	species	1	37.2246735	-107.6050818	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	X	37.2246735	-107.6050818	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Mountain Chickadee	Poecile gambeli	22077	species	1	37.2246735	-107.6050818	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	3	37.2291320	-107.6087880	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Mallard	Anas platyrhynchos	545	species	1	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	House Sparrow	Passer domesticus	31534	species	1	37.2291320	-107.6087880	Traveling	1	0
-S91258395	2021-07-02	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
-S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	Lesser Goldfinch	Spinus psaltria	32609	species	2	37.2341720	-107.5954190	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2246735	-107.6050818	Traveling	1	0
-S85666928	2021-04-16	L13272299	Eagle Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	1	37.2246735	-107.6050818	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	X	37.2246735	-107.6050818	Traveling	1	0
-S87045058	2021-05-03	L14653866	Little Pine River Park	House Sparrow	Passer domesticus	31534	species	2	37.2291320	-107.6087880	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Mountain Chickadee	Poecile gambeli	22077	species	1	37.2246735	-107.6050818	Traveling	1	0
-S91258395	2021-07-02	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	3	37.2246735	-107.6050818	Traveling	1	0
-S85605120	2021-04-15	L13254040	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	37.2249488	-107.6051744	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	10	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2291320	-107.6087880	Traveling	1	0
-S85605120	2021-04-15	L13254040	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2249488	-107.6051744	Traveling	1	0
-S84355143	2021-03-29	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2246735	-107.6050818	Traveling	1	0
-S91258395	2021-07-02	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2246735	-107.6050818	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	18	37.2291320	-107.6087880	Traveling	1	0
+S85605120	2021-04-15	L13254040	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	37.2249488	-107.6051744	Traveling	1	0
+S85605120	2021-04-15	L13254040	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2249488	-107.6051744	Traveling	1	0
+S91258395	2021-07-02	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
+S84355143	2021-03-29	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	10	37.2291320	-107.6087880	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2291320	-107.6087880	Traveling	1	0
+S91258395	2021-07-02	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	3	37.2246735	-107.6050818	Traveling	1	0
 S88450916	2021-05-18	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	1	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2291320	-107.6087880	Traveling	1	0
 S86607922	2021-04-28	L14653866	Little Pine River Park	Common Merganser	Mergus merganser	762	species	1	37.2291320	-107.6087880	Traveling	1	0
+S79147741	2021-01-12	L13254040	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2249488	-107.6051744	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	40	37.2246735	-107.6050818	Traveling	1	0
+S91258395	2021-07-02	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	4	37.2246735	-107.6050818	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	Cassin's Vireo	Vireo cassinii	19223	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87045058	2021-05-03	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2291320	-107.6087880	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	37.2246735	-107.6050818	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2291320	-107.6087880	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	3	37.2246735	-107.6050818	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	Belted Kingfisher	Megaceryle alcyon	10306	species	2	37.2246735	-107.6050818	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	3	37.2246735	-107.6050818	Traveling	1	0
-S79147741	2021-01-12	L13254040	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2249488	-107.6051744	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	Cassin's Vireo	Vireo cassinii	19223	species	1	37.2291320	-107.6087880	Traveling	1	0
-S91258395	2021-07-02	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	4	37.2246735	-107.6050818	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	40	37.2246735	-107.6050818	Traveling	1	0
-S87045058	2021-05-03	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2291320	-107.6087880	Traveling	1	0
 S88450916	2021-05-18	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	2	37.2291320	-107.6087880	Traveling	1	0
-S87873702	2021-05-11	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2291320	-107.6087880	Stationary	1	0
 S87873702	2021-05-11	L14653866	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	7	37.2291320	-107.6087880	Stationary	1	0
+S87873702	2021-05-11	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2291320	-107.6087880	Stationary	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	2	37.2291320	-107.6087880	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Common Raven	Corvus corax	21624	species	2	37.2291320	-107.6087880	Traveling	1	0
-S79241594	2021-01-14	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Cassin's Finch	Haemorhous cassinii	32329	species	2	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Brown-headed Cowbird	Molothrus ater	33833	species	1	37.2291320	-107.6087880	Traveling	1	0
-S87873702	2021-05-11	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	37.2291320	-107.6087880	Stationary	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2246735	-107.6050818	Traveling	1	0
-S84355143	2021-03-29	L13272299	Eagle Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	37.2246735	-107.6050818	Traveling	1	0
 S79703908	2021-01-22	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2246735	-107.6050818	Traveling	1	0
+S84355143	2021-03-29	L13272299	Eagle Park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	37.2246735	-107.6050818	Traveling	1	0
 S85666928	2021-04-16	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	X	37.2246735	-107.6050818	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Canada Goose	Branta canadensis	342	species	2	37.2246735	-107.6050818	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Dark-eyed Junco	Junco hyemalis	33124	species	2	37.2291320	-107.6087880	Traveling	1	0
 S86607922	2021-04-28	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87873702	2021-05-11	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	37.2291320	-107.6087880	Stationary	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Brown-headed Cowbird	Molothrus ater	33833	species	1	37.2291320	-107.6087880	Traveling	1	0
+S79241594	2021-01-14	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Canada Goose	Branta canadensis	342	species	2	37.2246735	-107.6050818	Traveling	1	0
 S79147741	2021-01-12	L13254040	Eagle Park	Belted Kingfisher	Megaceryle alcyon	10306	species	1	37.2249488	-107.6051744	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Bullock's Oriole	Icterus bullockii	33736	species	1	37.2246735	-107.6050818	Traveling	1	0
 S88450916	2021-05-18	L13272299	Eagle Park	Western Kingbird	Tyrannus verticalis	17467	species	2	37.2246735	-107.6050818	Traveling	1	0
-S79703908	2021-01-22	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	3	37.2246735	-107.6050818	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Bullock's Oriole	Icterus bullockii	33736	species	1	37.2246735	-107.6050818	Traveling	1	0
 S91258395	2021-07-02	L13272299	Eagle Park	Western Flycatcher	Empidonax difficilis	16980	issf	1	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	6	37.2246735	-107.6050818	Traveling	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	37.2291320	-107.6087880	Traveling	1	0
+S79703908	2021-01-22	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	3	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Cassin's Finch	Haemorhous cassinii	32329	species	2	37.2291320	-107.6087880	Traveling	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2246735	-107.6050818	Traveling	1	0
+S85666928	2021-04-16	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	1	37.2246735	-107.6050818	Traveling	1	0
+S79241594	2021-01-14	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
 S85605120	2021-04-15	L13254040	Eagle Park	Pygmy Nuthatch	Sitta pygmaea	26924	species	2	37.2249488	-107.6051744	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
+S84355143	2021-03-29	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	20	37.2246735	-107.6050818	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87873702	2021-05-11	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	1	37.2291320	-107.6087880	Stationary	1	0
+S88450916	2021-05-18	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	6	37.2246735	-107.6050818	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	37.2291320	-107.6087880	Traveling	1	0
+S79241594	2021-01-14	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	6	37.2246735	-107.6050818	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	2	37.2246735	-107.6050818	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	37.2291320	-107.6087880	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Tree Swallow	Tachycineta bicolor	24064	species	1	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	1	37.2291320	-107.6087880	Traveling	1	0
-S84355143	2021-03-29	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	20	37.2246735	-107.6050818	Traveling	1	0
-S87873702	2021-05-11	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	1	37.2291320	-107.6087880	Stationary	1	0
-S88450916	2021-05-18	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2246735	-107.6050818	Traveling	1	0
-S79241594	2021-01-14	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
-S85666928	2021-04-16	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	1	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	2	37.2246735	-107.6050818	Traveling	1	0
-S79241594	2021-01-14	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	6	37.2246735	-107.6050818	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	4	37.2291320	-107.6087880	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	1	37.2246735	-107.6050818	Traveling	1	0
+S91258395	2021-07-02	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2246735	-107.6050818	Traveling	1	0
+S87045058	2021-05-03	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2291320	-107.6087880	Traveling	1	0
+S94978562	2021-09-21	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Downy Woodpecker	Dryobates pubescens	11400	species	3	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	1	37.2291320	-107.6087880	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	3	37.2291320	-107.6087880	Traveling	1	0
 S86607922	2021-04-28	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	4	37.2291320	-107.6087880	Traveling	1	0
 S85666928	2021-04-16	L13272299	Eagle Park	Canada Goose	Branta canadensis	342	species	1	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	1	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	1	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	3	37.2291320	-107.6087880	Traveling	1	0
-S91258395	2021-07-02	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	1	37.2246735	-107.6050818	Traveling	1	0
-S87045058	2021-05-03	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2291320	-107.6087880	Traveling	1	0
 S88450916	2021-05-18	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	1	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Downy Woodpecker	Dryobates pubescens	11400	species	3	37.2291320	-107.6087880	Traveling	1	0
-S94978562	2021-09-21	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2291320	-107.6087880	Traveling	1	0
+S79703908	2021-01-22	L13272299	Eagle Park	Steller's Jay	Cyanocitta stelleri	21274	species	1	37.2246735	-107.6050818	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Ash-throated Flycatcher	Myiarchus cinerascens	17323	species	1	37.2291320	-107.6087880	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	37.2291320	-107.6087880	Traveling	1	0
-S79703908	2021-01-22	L13272299	Eagle Park	Steller's Jay	Cyanocitta stelleri	21274	species	1	37.2246735	-107.6050818	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	5	37.2291320	-107.6087880	Traveling	1	0
 S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	37.2341720	-107.5954190	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	6	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	4	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	12	37.2291320	-107.6087880	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	1	37.2291320	-107.6087880	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
 S85741576	2021-04-17	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	3	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	6	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	1	37.2291320	-107.6087880	Traveling	1	0
 S79147741	2021-01-12	L13254040	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2249488	-107.6051744	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	6	37.2291320	-107.6087880	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.2291320	-107.6087880	Traveling	1	0
 S94978562	2021-09-21	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2291320	-107.6087880	Traveling	1	0
 S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	American Crow	Corvus brachyrhynchos	21557	species	2	37.2341720	-107.5954190	Traveling	1	0
 S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	Yellow-rumped Warbler	Setophaga coronata	34159	species	5	37.2341720	-107.5954190	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	1	37.2291320	-107.6087880	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	4	37.2246735	-107.6050818	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	6	37.2246735	-107.6050818	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	12	37.2291320	-107.6087880	Traveling	1	0
 S85605120	2021-04-15	L13254040	Eagle Park	Mountain Chickadee	Poecile gambeli	22077	species	1	37.2249488	-107.6051744	Traveling	1	0
 S97327075	2021-11-08	L13272299	Eagle Park	Belted Kingfisher	Megaceryle alcyon	10306	species	2	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	1	37.2291320	-107.6087880	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2246735	-107.6050818	Traveling	1	0
+S81414940	2021-02-14	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	5	37.2246735	-107.6050818	Traveling	1	0
+S86607922	2021-04-28	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	3	37.2291320	-107.6087880	Traveling	1	0
+S91258395	2021-07-02	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	37.2246735	-107.6050818	Traveling	1	0
+S86815097	2021-05-01	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87045058	2021-05-03	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	4	37.2291320	-107.6087880	Traveling	1	0
+S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	House Finch	Haemorhous mexicanus	32310	species	4	37.2341720	-107.5954190	Traveling	1	0
+S85741576	2021-04-17	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	3	37.2246735	-107.6050818	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.2291320	-107.6087880	Traveling	1	0
 S88103161	2021-05-14	L14653866	Little Pine River Park	Song Sparrow	Melospiza melodia	33277	species	3	37.2291320	-107.6087880	Traveling	1	0
 S87045058	2021-05-03	L14653866	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.2291320	-107.6087880	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Canada Goose	Branta canadensis	342	species	2	37.2291320	-107.6087880	Traveling	1	0
 S86815097	2021-05-01	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2291320	-107.6087880	Traveling	1	0
-S86815097	2021-05-01	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	1	37.2291320	-107.6087880	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	3	37.2246735	-107.6050818	Traveling	1	0
-S91258395	2021-07-02	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	37.2246735	-107.6050818	Traveling	1	0
-S87906888	2021-05-12	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	4	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	37.2291320	-107.6087880	Traveling	1	0
-S88103161	2021-05-14	L14653866	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.2291320	-107.6087880	Traveling	1	0
-S95484540	2021-10-02	L16526197	395 Bayfield Center Dr, Bayfield US-CO 37.23417, -107.59542	House Finch	Haemorhous mexicanus	32310	species	4	37.2341720	-107.5954190	Traveling	1	0
-S81414940	2021-02-14	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	5	37.2246735	-107.6050818	Traveling	1	0
-S85741576	2021-04-17	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2246735	-107.6050818	Traveling	1	0
-S86607922	2021-04-28	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	3	37.2291320	-107.6087880	Traveling	1	0
-S87045058	2021-05-03	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2291320	-107.6087880	Traveling	1	0
+S87906888	2021-05-12	L14653866	Little Pine River Park	Canada Goose	Branta canadensis	342	species	2	37.2291320	-107.6087880	Traveling	1	0
 S87906888	2021-05-12	L14653866	Little Pine River Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2291320	-107.6087880	Traveling	1	0
-S110965718	2022-05-22	L14653866	Little Pine River Park	Western Wood-Pewee	Contopus sordidulus	16912	species	3	37.2291320	-107.6087880	Traveling	1	0
-S113758310	2022-06-25	L19825716	1405 Kremer Drive, Bayfield, Colorado, US (37.233, -107.587)	Say's Phoebe	Sayornis saya	17010	species	1	37.2334908	-107.5870602	Traveling	1	0
-S113758310	2022-06-25	L19825716	1405 Kremer Drive, Bayfield, Colorado, US (37.233, -107.587)	American Kestrel	Falco sparverius	12028	species	1	37.2334908	-107.5870602	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2246735	-107.6050818	Traveling	1	0
-S111424382	2022-05-27	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	2	37.2246735	-107.6050818	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2246735	-107.6050818	Traveling	1	0
-S111424382	2022-05-27	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Lesser Goldfinch	Spinus psaltria	32609	species	3	37.2246735	-107.6050818	Traveling	1	0
+S88103161	2021-05-14	L14653866	Little Pine River Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	37.2291320	-107.6087880	Traveling	1	0
 S104880963	2022-03-15	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	2	37.2246735	-107.6050818	Traveling	1	0
-S101082608	2022-01-20	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Lesser Goldfinch	Spinus psaltria	32609	species	3	37.2246735	-107.6050818	Traveling	1	0
+S111424382	2022-05-27	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
 S110965718	2022-05-22	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2291320	-107.6087880	Traveling	1	0
 S112471114	2022-06-08	L19534974	367 S Pearl St, Bayfield US-CO 37.22716, -107.60134	American Robin	Turdus migratorius	28633	species	1	37.2271580	-107.6013360	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2246735	-107.6050818	Traveling	1	0
+S111424382	2022-05-27	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	2	37.2246735	-107.6050818	Traveling	1	0
+S101082608	2022-01-20	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	3	37.2246735	-107.6050818	Traveling	1	0
+S110965718	2022-05-22	L14653866	Little Pine River Park	Western Wood-Pewee	Contopus sordidulus	16912	species	3	37.2291320	-107.6087880	Traveling	1	0
+S113758310	2022-06-25	L19825716	1405 Kremer Drive, Bayfield, Colorado, US (37.233, -107.587)	American Kestrel	Falco sparverius	12028	species	1	37.2334908	-107.5870602	Traveling	1	0
+S113758310	2022-06-25	L19825716	1405 Kremer Drive, Bayfield, Colorado, US (37.233, -107.587)	Say's Phoebe	Sayornis saya	17010	species	1	37.2334908	-107.5870602	Traveling	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	37.2246735	-107.6050818	Traveling	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	1	37.2246735	-107.6050818	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	2	37.2291320	-107.6087880	Traveling	1	0
 S104880963	2022-03-15	L13272299	Eagle Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2246735	-107.6050818	Traveling	1	0
-S101082608	2022-01-20	L13272299	Eagle Park	American Crow	Corvus brachyrhynchos	21557	species	3	37.2246735	-107.6050818	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	1	37.2291320	-107.6087880	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Bullock's Oriole	Icterus bullockii	33736	species	2	37.2246735	-107.6050818	Traveling	1	0
 S101082608	2022-01-20	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
+S101082608	2022-01-20	L13272299	Eagle Park	American Crow	Corvus brachyrhynchos	21557	species	3	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	4	37.2246735	-107.6050818	Traveling	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	Gray Catbird	Dumetella carolinensis	28000	species	4	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Bullock's Oriole	Icterus bullockii	33736	species	2	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Western Kingbird	Tyrannus verticalis	17467	species	1	37.2246735	-107.6050818	Traveling	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	4	37.2246735	-107.6050818	Traveling	1	0
-S110965718	2022-05-22	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	37.2291320	-107.6087880	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	2	37.2291320	-107.6087880	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Bullock's Oriole	Icterus bullockii	33736	species	2	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	3	37.2246735	-107.6050818	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2291320	-107.6087880	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	3	37.2246735	-107.6050818	Traveling	1	0
+S110965718	2022-05-22	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	37.2291320	-107.6087880	Traveling	1	0
 S155170865	2022-06-25	L19825716	1405 Kremer Drive, Bayfield, Colorado, US (37.233, -107.587)	Say's Phoebe	Sayornis saya	17010	species	1	37.2334908	-107.5870602	Traveling	1	0
 S101082608	2022-01-20	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33130	issf	10	37.2246735	-107.6050818	Traveling	1	0
+S110465865	2022-05-17	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2291320	-107.6087880	Traveling	1	0
 S101082608	2022-01-20	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	45	37.2246735	-107.6050818	Traveling	1	0
-S110965718	2022-05-22	L14653866	Little Pine River Park	Song Sparrow	Melospiza melodia	33277	species	2	37.2291320	-107.6087880	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2291320	-107.6087880	Traveling	1	0
 S110965718	2022-05-22	L14653866	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	2	37.2291320	-107.6087880	Traveling	1	0
 S119498021	2022-09-26	L21023751	Bottom Shelf Brewery	European Starling	Sturnus vulgaris	27813	species	4	37.2252450	-107.5990650	Stationary	1	0
 S101082608	2022-01-20	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	3	37.2246735	-107.6050818	Traveling	1	0
-S110465865	2022-05-17	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2291320	-107.6087880	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	Say's Phoebe	Sayornis saya	17010	species	4	37.2246735	-107.6050818	Traveling	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	Say's Phoebe	Sayornis saya	17010	species	4	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	10	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Tree Swallow	Tachycineta bicolor	24064	species	3	37.2246735	-107.6050818	Traveling	1	0
-S110465865	2022-05-17	L14653866	Little Pine River Park	Killdeer	Charadrius vociferus	5827	species	1	37.2291320	-107.6087880	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	18	37.2246735	-107.6050818	Traveling	1	0
-S111424382	2022-05-27	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	2	37.2246735	-107.6050818	Traveling	1	0
-S111424382	2022-05-27	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	12	37.2246735	-107.6050818	Traveling	1	0
-S110965718	2022-05-22	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	4	37.2291320	-107.6087880	Traveling	1	0
+S110965718	2022-05-22	L14653866	Little Pine River Park	Song Sparrow	Melospiza melodia	33277	species	2	37.2291320	-107.6087880	Traveling	1	0
 S112733792	2022-06-11	L13272299	Eagle Park	Lesser Goldfinch	Spinus psaltria	32609	species	2	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Tree Swallow	Tachycineta bicolor	24064	species	3	37.2246735	-107.6050818	Traveling	1	0
+S110965718	2022-05-22	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	4	37.2291320	-107.6087880	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	18	37.2246735	-107.6050818	Traveling	1	0
+S111424382	2022-05-27	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	12	37.2246735	-107.6050818	Traveling	1	0
+S111424382	2022-05-27	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	2	37.2246735	-107.6050818	Traveling	1	0
 S105613323	2022-03-26	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	1	37.2246735	-107.6050818	Stationary	1	0
+S110465865	2022-05-17	L14653866	Little Pine River Park	Killdeer	Charadrius vociferus	5827	species	1	37.2291320	-107.6087880	Traveling	1	0
 S104880963	2022-03-15	L13272299	Eagle Park	American Crow	Corvus brachyrhynchos	21557	species	2	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	5	37.2246735	-107.6050818	Traveling	1	0
+S111424382	2022-05-27	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2246735	-107.6050818	Traveling	1	0
+S110965718	2022-05-22	L14653866	Little Pine River Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	3	37.2291320	-107.6087880	Traveling	1	0
 S112733792	2022-06-11	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	Spotted Towhee	Pipilo maculatus	33386	species	1	37.2246735	-107.6050818	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	Western Wood-Pewee	Contopus sordidulus	16912	species	3	37.2291320	-107.6087880	Traveling	1	0
-S111424382	2022-05-27	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2246735	-107.6050818	Traveling	1	0
-S110965718	2022-05-22	L14653866	Little Pine River Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	3	37.2291320	-107.6087880	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2246735	-107.6050818	Traveling	1	0
-S104880963	2022-03-15	L13272299	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	3	37.2246735	-107.6050818	Traveling	1	0
-S104880963	2022-03-15	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	3	37.2246735	-107.6050818	Traveling	1	0
-S104880963	2022-03-15	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	2	37.2246735	-107.6050818	Traveling	1	0
-S104880963	2022-03-15	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	37.2246735	-107.6050818	Traveling	1	0
-S155170865	2022-06-25	L19825716	1405 Kremer Drive, Bayfield, Colorado, US (37.233, -107.587)	American Kestrel	Falco sparverius	12028	species	1	37.2334908	-107.5870602	Traveling	1	0
-S101082608	2022-01-20	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33138	issf	1	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	6	37.2246735	-107.6050818	Traveling	1	0
+S104880963	2022-03-15	L13272299	Eagle Park	Northern Flicker	Colaptes auratus	11900	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	37.2246735	-107.6050818	Traveling	1	0
+S101082608	2022-01-20	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33138	issf	1	37.2246735	-107.6050818	Traveling	1	0
+S104880963	2022-03-15	L13272299	Eagle Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2246735	-107.6050818	Traveling	1	0
+S104880963	2022-03-15	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	2	37.2246735	-107.6050818	Traveling	1	0
+S104880963	2022-03-15	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	6	37.2246735	-107.6050818	Traveling	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	51	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2246735	-107.6050818	Traveling	1	0
+S155170865	2022-06-25	L19825716	1405 Kremer Drive, Bayfield, Colorado, US (37.233, -107.587)	American Kestrel	Falco sparverius	12028	species	1	37.2334908	-107.5870602	Traveling	1	0
 S119498021	2022-09-26	L21023751	Bottom Shelf Brewery	Turkey Vulture	Cathartes aura	7815	species	11	37.2252450	-107.5990650	Stationary	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Brown-headed Cowbird	Molothrus ater	33833	species	5	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2246735	-107.6050818	Traveling	1	0
-S111424382	2022-05-27	L13272299	Eagle Park	Gray Catbird	Dumetella carolinensis	28000	species	3	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Plumbeous Vireo	Vireo plumbeus	19231	species	1	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Western Kingbird	Tyrannus verticalis	17467	species	2	37.2246735	-107.6050818	Traveling	1	0
-S110465865	2022-05-17	L14653866	Little Pine River Park	Western Warbling Vireo	Vireo swainsoni	19247	species	1	37.2291320	-107.6087880	Traveling	1	0
-S112733792	2022-06-11	L13272299	Eagle Park	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	3	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	4	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	37.2246735	-107.6050818	Traveling	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	new world flycatcher sp.	Tyrannidae sp.	17501	spuh	1	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	37.2246735	-107.6050818	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2291320	-107.6087880	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	2	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	37.2246735	-107.6050818	Traveling	1	0
+S112733792	2022-06-11	L13272299	Eagle Park	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Brown-headed Cowbird	Molothrus ater	33833	species	5	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Plumbeous Vireo	Vireo plumbeus	19231	species	1	37.2246735	-107.6050818	Traveling	1	0
+S111424382	2022-05-27	L13272299	Eagle Park	Gray Catbird	Dumetella carolinensis	28000	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Western Kingbird	Tyrannus verticalis	17467	species	2	37.2246735	-107.6050818	Traveling	1	0
+S110465865	2022-05-17	L14653866	Little Pine River Park	Western Warbling Vireo	Vireo swainsoni	19247	species	1	37.2291320	-107.6087880	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	37.2246735	-107.6050818	Traveling	1	0
 S110965718	2022-05-22	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2291320	-107.6087880	Traveling	1	0
+S112471114	2022-06-08	L19534974	367 S Pearl St, Bayfield US-CO 37.22716, -107.60134	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	37.2271580	-107.6013360	Traveling	1	0
 S104880963	2022-03-15	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Say's Phoebe	Sayornis saya	17010	species	2	37.2246735	-107.6050818	Traveling	1	0
 S110965718	2022-05-22	L14653866	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2291320	-107.6087880	Traveling	1	0
-S112471114	2022-06-08	L19534974	367 S Pearl St, Bayfield US-CO 37.22716, -107.60134	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	37.2271580	-107.6013360	Traveling	1	0
 S112733792	2022-06-11	L13272299	Eagle Park	Pygmy Nuthatch	Sitta pygmaea	26924	species	1	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	2	37.2246735	-107.6050818	Traveling	1	0
-S105613323	2022-03-26	L13272299	Eagle Park	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	37.2246735	-107.6050818	Stationary	1	0
-S110465865	2022-05-17	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	37.2291320	-107.6087880	Traveling	1	0
-S101082608	2022-01-20	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2246735	-107.6050818	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	2	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Pygmy Nuthatch	Sitta pygmaea	26924	species	2	37.2246735	-107.6050818	Traveling	1	0
-S104880963	2022-03-15	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	37.2246735	-107.6050818	Traveling	1	0
-S101082608	2022-01-20	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2246735	-107.6050818	Traveling	1	0
-S105613323	2022-03-26	L13272299	Eagle Park	Mallard	Anas platyrhynchos	545	species	2	37.2246735	-107.6050818	Stationary	1	0
-S104880963	2022-03-15	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	1	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	Western Meadowlark	Sturnella neglecta	33565	species	1	37.2246735	-107.6050818	Traveling	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Violet-green Swallow	Tachycineta thalassina	24074	species	3	37.2246735	-107.6050818	Traveling	1	0
+S104880963	2022-03-15	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	37.2246735	-107.6050818	Traveling	1	0
+S104880963	2022-03-15	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	1	37.2246735	-107.6050818	Traveling	1	0
+S105613323	2022-03-26	L13272299	Eagle Park	Mallard	Anas platyrhynchos	545	species	2	37.2246735	-107.6050818	Stationary	1	0
+S101082608	2022-01-20	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	2	37.2246735	-107.6050818	Traveling	1	0
+S105613323	2022-03-26	L13272299	Eagle Park	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	37.2246735	-107.6050818	Stationary	1	0
+S110465865	2022-05-17	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	37.2291320	-107.6087880	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2246735	-107.6050818	Traveling	1	0
+S101082608	2022-01-20	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	2	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Pygmy Nuthatch	Sitta pygmaea	26924	species	2	37.2246735	-107.6050818	Traveling	1	0
 S104880963	2022-03-15	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	X	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	4	37.2246735	-107.6050818	Traveling	1	0
+S101082608	2022-01-20	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26891	issf	1	37.2246735	-107.6050818	Traveling	1	0
 S112471114	2022-06-08	L19534974	367 S Pearl St, Bayfield US-CO 37.22716, -107.60134	European Starling	Sturnus vulgaris	27813	species	1	37.2271580	-107.6013360	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2291320	-107.6087880	Traveling	1	0
 S112471114	2022-06-08	L19534974	367 S Pearl St, Bayfield US-CO 37.22716, -107.60134	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	37.2271580	-107.6013360	Traveling	1	0
 S112733792	2022-06-11	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	1	37.2246735	-107.6050818	Traveling	1	0
-S101082608	2022-01-20	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26891	issf	1	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	4	37.2246735	-107.6050818	Traveling	1	0
 S110465865	2022-05-17	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	37.2291320	-107.6087880	Traveling	1	0
 S119498021	2022-09-26	L21023751	Bottom Shelf Brewery	American Robin	Turdus migratorius	28633	species	1	37.2252450	-107.5990650	Stationary	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	5	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2246735	-107.6050818	Traveling	1	0
-S104880963	2022-03-15	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	3	37.2246735	-107.6050818	Traveling	1	0
-S105613323	2022-03-26	L13272299	Eagle Park	Steller's Jay	Cyanocitta stelleri	21274	species	2	37.2246735	-107.6050818	Stationary	1	0
 S112830192	2022-06-12	L13272299	Eagle Park	Violet-green Swallow	Tachycineta thalassina	24074	species	6	37.2246735	-107.6050818	Traveling	1	0
 S110965718	2022-05-22	L14653866	Little Pine River Park	Western Warbling Vireo	Vireo swainsoni	19247	species	1	37.2291320	-107.6087880	Traveling	1	0
 S101082608	2022-01-20	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	4	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	3	37.2246735	-107.6050818	Traveling	1	0
-S111424382	2022-05-27	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	7	37.2246735	-107.6050818	Traveling	1	0
-S112733792	2022-06-11	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	3	37.2246735	-107.6050818	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	37.2246735	-107.6050818	Traveling	1	0
+S105613323	2022-03-26	L13272299	Eagle Park	Steller's Jay	Cyanocitta stelleri	21274	species	2	37.2246735	-107.6050818	Stationary	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	5	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2246735	-107.6050818	Traveling	1	0
+S104880963	2022-03-15	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Barn Swallow	Hirundo rustica	24187	species	3	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
 S104880963	2022-03-15	L13272299	Eagle Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	8	37.2246735	-107.6050818	Traveling	1	0
 S110965718	2022-05-22	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	2	37.2291320	-107.6087880	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	5	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Barn Swallow	Hirundo rustica	24187	species	3	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2246735	-107.6050818	Traveling	1	0
+S111424382	2022-05-27	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	7	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	37.2246735	-107.6050818	Traveling	1	0
+S112733792	2022-06-11	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	3	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2246735	-107.6050818	Traveling	1	0
 S119498021	2022-09-26	L21023751	Bottom Shelf Brewery	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2252450	-107.5990650	Stationary	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	4	37.2246735	-107.6050818	Traveling	1	0
-S104880963	2022-03-15	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	X	37.2246735	-107.6050818	Traveling	1	0
-S110465865	2022-05-17	L14653866	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	1	37.2291320	-107.6087880	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	1	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Western Wood-Pewee	Contopus sordidulus	16912	species	2	37.2246735	-107.6050818	Traveling	1	0
-S112767264	2022-06-12	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	2	37.2246735	-107.6050818	Traveling	1	0
-S112830192	2022-06-12	L13272299	Eagle Park	American Dipper	Cinclus mexicanus	27668	species	1	37.2246735	-107.6050818	Traveling	1	0
 S112767264	2022-06-12	L13272299	Eagle Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	3	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Western Wood-Pewee	Contopus sordidulus	16912	species	2	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	37.2246735	-107.6050818	Traveling	1	0
@@ -617,111 +610,118 @@ S112767264	2022-06-12	L13272299	Eagle Park	Downy Woodpecker	Dryobates pubescens	
 S112767264	2022-06-12	L13272299	Eagle Park	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	37.2246735	-107.6050818	Traveling	1	0
 S112471114	2022-06-08	L19534974	367 S Pearl St, Bayfield US-CO 37.22716, -107.60134	House Sparrow	Passer domesticus	31534	species	2	37.2271580	-107.6013360	Traveling	1	0
 S119498021	2022-09-26	L21023751	Bottom Shelf Brewery	Lewis's Woodpecker	Melanerpes lewis	11142	species	2	37.2252450	-107.5990650	Stationary	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	2	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	American Dipper	Cinclus mexicanus	27668	species	1	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	4	37.2246735	-107.6050818	Traveling	1	0
+S104880963	2022-03-15	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	X	37.2246735	-107.6050818	Traveling	1	0
+S110465865	2022-05-17	L14653866	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	1	37.2291320	-107.6087880	Traveling	1	0
+S112767264	2022-06-12	L13272299	Eagle Park	Western Wood-Pewee	Contopus sordidulus	16912	species	2	37.2246735	-107.6050818	Traveling	1	0
+S112830192	2022-06-12	L13272299	Eagle Park	Pine Siskin	Spinus pinus	32595	species	1	37.2246735	-107.6050818	Traveling	1	0
 S101082608	2022-01-20	L13272299	Eagle Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2246735	-107.6050818	Traveling	1	0
 S104880963	2022-03-15	L13272299	Eagle Park	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	Tree Swallow	Tachycineta bicolor	24064	species	2	37.2246735	-107.6050818	Traveling	1	0
 S112733792	2022-06-11	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2246735	-107.6050818	Traveling	1	0
 S111424382	2022-05-27	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	6	37.2246735	-107.6050818	Traveling	1	0
+S144629695	2023-07-15	L14653866	Little Pine River Park	Lewis's Woodpecker	Melanerpes lewis	11142	species	1	37.2291320	-107.6087880	Stationary	1	0
+S148821400	2023-09-02	L14653866	Little Pine River Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	37.2291320	-107.6087880	Traveling	1	0
+S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	American Robin	Turdus migratorius	28633	species	2	37.2425140	-107.5897550	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	American Crow	Corvus brachyrhynchos	21557	species	1	37.2246735	-107.6050818	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	3	37.2291320	-107.6087880	Traveling	1	0
-S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	American Robin	Turdus migratorius	28633	species	2	37.2425140	-107.5897550	Traveling	1	0
-S148821400	2023-09-02	L14653866	Little Pine River Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	37.2291320	-107.6087880	Traveling	1	0
-S144629695	2023-07-15	L14653866	Little Pine River Park	Lewis's Woodpecker	Melanerpes lewis	11142	species	1	37.2291320	-107.6087880	Stationary	1	0
 S148821400	2023-09-02	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	3	37.2291320	-107.6087880	Traveling	1	0
 S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	Mallard	Anas platyrhynchos	545	species	2	37.2335080	-107.5921900	Stationary	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	European Starling	Sturnus vulgaris	27813	species	2	37.2246735	-107.6050818	Traveling	1	0
+S148821400	2023-09-02	L14653866	Little Pine River Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	15	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	2	37.2246735	-107.6050818	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	3	37.2291320	-107.6087880	Traveling	1	0
-S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	37.2425140	-107.5897550	Traveling	1	0
-S148821400	2023-09-02	L14653866	Little Pine River Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	15	37.2291320	-107.6087880	Traveling	1	0
 S148821400	2023-09-02	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2291320	-107.6087880	Traveling	1	0
+S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	37.2425140	-107.5897550	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	3	37.2291320	-107.6087880	Traveling	1	0
-S126939715	2023-01-25	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2246735	-107.6050818	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	4	37.2291320	-107.6087880	Traveling	1	0
 S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Red Crossbill	Loxia curvirostra	32498	species	2	37.2425140	-107.5897550	Traveling	1	0
-S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	Western Kingbird	Tyrannus verticalis	17467	species	1	37.2335080	-107.5921900	Stationary	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	1	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33130	issf	16	37.2246735	-107.6050818	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	4	37.2291320	-107.6087880	Traveling	1	0
+S126939715	2023-01-25	L13272299	Eagle Park	Black-billed Magpie	Pica hudsonia	21476	species	3	37.2246735	-107.6050818	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	37.2291320	-107.6087880	Traveling	1	0
+S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	Western Kingbird	Tyrannus verticalis	17467	species	1	37.2335080	-107.5921900	Stationary	1	0
+S148821400	2023-09-02	L14653866	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	2	37.2291320	-107.6087880	Traveling	1	0
+S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Common Raven	Corvus corax	21624	species	1	37.2425140	-107.5897550	Traveling	1	0
+S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	Bullock's Oriole	Icterus bullockii	33736	species	1	37.2302272	-107.6001225	Stationary	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	1	37.2246735	-107.6050818	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	4	37.2291320	-107.6087880	Traveling	1	0
 S148821400	2023-09-02	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	5	37.2291320	-107.6087880	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2291320	-107.6087880	Traveling	1	0
 S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Dark-eyed Junco	Junco hyemalis	33124	species	4	37.2425140	-107.5897550	Traveling	1	0
-S148821400	2023-09-02	L14653866	Little Pine River Park	Wilson's Warbler	Cardellina pusilla	34346	species	2	37.2291320	-107.6087880	Traveling	1	0
-S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Common Raven	Corvus corax	21624	species	1	37.2425140	-107.5897550	Traveling	1	0
-S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	Bullock's Oriole	Icterus bullockii	33736	species	1	37.2302272	-107.6001225	Stationary	1	0
-S148821400	2023-09-02	L14653866	Little Pine River Park	Barn Swallow	Hirundo rustica	24187	species	4	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	18	37.2246735	-107.6050818	Traveling	1	0
-S148821400	2023-09-02	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2291320	-107.6087880	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Downy Woodpecker	Dryobates pubescens	11400	species	3	37.2291320	-107.6087880	Traveling	1	0
 S148821400	2023-09-02	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Downy Woodpecker	Dryobates pubescens	11400	species	3	37.2291320	-107.6087880	Traveling	1	0
 S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	4	37.2335080	-107.5921900	Stationary	1	0
+S148821400	2023-09-02	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2291320	-107.6087880	Traveling	1	0
+S148821400	2023-09-02	L14653866	Little Pine River Park	Barn Swallow	Hirundo rustica	24187	species	4	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2291320	-107.6087880	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	12	37.2291320	-107.6087880	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	2	37.2291320	-107.6087880	Traveling	1	0
 S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	European Starling	Sturnus vulgaris	27813	species	1	37.2302272	-107.6001225	Stationary	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2291320	-107.6087880	Traveling	1	0
 S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Black-billed Magpie	Pica hudsonia	21476	species	5	37.2425140	-107.5897550	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	3	37.2291320	-107.6087880	Traveling	1	0
-S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Pine Siskin	Spinus pinus	32595	species	8	37.2425140	-107.5897550	Traveling	1	0
-S126939715	2023-01-25	L13272299	Eagle Park	Townsend's Solitaire	Myadestes townsendi	28163	species	1	37.2246735	-107.6050818	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	40	37.2291320	-107.6087880	Traveling	1	0
 S148821400	2023-09-02	L14653866	Little Pine River Park	Lewis's Woodpecker	Melanerpes lewis	11142	species	1	37.2291320	-107.6087880	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	2	37.2291320	-107.6087880	Traveling	1	0
 S144629695	2023-07-15	L14653866	Little Pine River Park	Song Sparrow	Melospiza melodia	33277	species	1	37.2291320	-107.6087880	Stationary	1	0
 S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	37.2335080	-107.5921900	Stationary	1	0
-S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	37.2302272	-107.6001225	Stationary	1	0
+S126939715	2023-01-25	L13272299	Eagle Park	Townsend's Solitaire	Myadestes townsendi	28163	species	1	37.2246735	-107.6050818	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	40	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Northern House Wren	Troglodytes aedon	27191	species	2	37.2291320	-107.6087880	Traveling	1	0
+S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Pine Siskin	Spinus pinus	32595	species	8	37.2425140	-107.5897550	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	5	37.2246735	-107.6050818	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2291320	-107.6087880	Traveling	1	0
+S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	37.2302272	-107.6001225	Stationary	1	0
 S148821400	2023-09-02	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	1	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2291320	-107.6087880	Traveling	1	0
 S148821400	2023-09-02	L14653866	Little Pine River Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2291320	-107.6087880	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	3	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
-S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	Canada Goose	Branta canadensis	342	species	7	37.2335080	-107.5921900	Stationary	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Western Warbling Vireo	Vireo swainsoni	19247	species	1	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	37.2246735	-107.6050818	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	3	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Western Warbling Vireo	Vireo swainsoni	19247	species	1	37.2291320	-107.6087880	Traveling	1	0
 S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	37.2425140	-107.5897550	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	House Sparrow	Passer domesticus	31534	species	3	37.2291320	-107.6087880	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	5	37.2291320	-107.6087880	Traveling	1	0
-S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2302272	-107.6001225	Stationary	1	0
+S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	Canada Goose	Branta canadensis	342	species	7	37.2335080	-107.5921900	Stationary	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34160	issf	1	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	Common Raven	Corvus corax	21624	species	1	37.2246735	-107.6050818	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Brown-headed Cowbird	Molothrus ater	33833	species	4	37.2291320	-107.6087880	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	House Sparrow	Passer domesticus	31534	species	3	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Evening Grosbeak	Hesperiphona vespertina	32085	species	5	37.2291320	-107.6087880	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	2	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	37.2291320	-107.6087880	Traveling	1	0
+S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2302272	-107.6001225	Stationary	1	0
 S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	American Goldfinch	Spinus tristis	32617	species	1	37.2302272	-107.6001225	Stationary	1	0
+S148821400	2023-09-02	L14653866	Little Pine River Park	Mourning Dove	Zenaida macroura	2412	species	2	37.2291320	-107.6087880	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Chipping Sparrow	Spizella passerina	32990	species	1	37.2291320	-107.6087880	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Black-billed Magpie	Pica hudsonia	21476	species	1	37.2291320	-107.6087880	Traveling	1	0
 S148821400	2023-09-02	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2291320	-107.6087880	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	4	37.2291320	-107.6087880	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Chipping Sparrow	Spizella passerina	32990	species	1	37.2291320	-107.6087880	Traveling	1	0
-S148821400	2023-09-02	L14653866	Little Pine River Park	Mourning Dove	Zenaida macroura	2412	species	2	37.2291320	-107.6087880	Traveling	1	0
 S131630513	2023-03-23	L23186984	797 E Elm Cir, Bayfield US-CO 37.24251, -107.58976	European Starling	Sturnus vulgaris	27813	species	20	37.2425140	-107.5897550	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	Red-naped Sapsucker	Sphyrapicus nuchalis	11127	species	2	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33142	issf	4	37.2246735	-107.6050818	Traveling	1	0
 S136159329	2023-05-05	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	2	37.2291320	-107.6087880	Traveling	1	0
-S148821400	2023-09-02	L14653866	Little Pine River Park	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	37.2291320	-107.6087880	Traveling	1	0
 S143370605	2023-07-02	L25641774	650 South Buck Highway, Bayfield, Colorado, US (37.23, -107.6)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2302272	-107.6001225	Stationary	1	0
-S144629695	2023-07-15	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	1	37.2291320	-107.6087880	Stationary	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	4	37.2291320	-107.6087880	Traveling	1	0
-S148821400	2023-09-02	L14653866	Little Pine River Park	Steller's Jay	Cyanocitta stelleri	21274	species	1	37.2291320	-107.6087880	Traveling	1	0
+S148821400	2023-09-02	L14653866	Little Pine River Park	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	37.2291320	-107.6087880	Traveling	1	0
 S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	American Kestrel	Falco sparverius	12028	species	2	37.2335080	-107.5921900	Stationary	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	4	37.2291320	-107.6087880	Traveling	1	0
+S144629695	2023-07-15	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	1	37.2291320	-107.6087880	Stationary	1	0
+S148821400	2023-09-02	L14653866	Little Pine River Park	Steller's Jay	Cyanocitta stelleri	21274	species	1	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33124	species	5	37.2246735	-107.6050818	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	3	37.2291320	-107.6087880	Traveling	1	0
 S126939715	2023-01-25	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33126	issf	2	37.2246735	-107.6050818	Traveling	1	0
 S144629695	2023-07-15	L14653866	Little Pine River Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2291320	-107.6087880	Stationary	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Lewis's Woodpecker	Melanerpes lewis	11142	species	2	37.2291320	-107.6087880	Traveling	1	0
-S126939715	2023-01-25	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33138	issf	5	37.2246735	-107.6050818	Traveling	1	0
-S136159329	2023-05-05	L14653866	Little Pine River Park	Black-capped Chickadee	Poecile atricapillus	22065	species	3	37.2291320	-107.6087880	Traveling	1	0
-S144629695	2023-07-15	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2291320	-107.6087880	Stationary	1	0
 S140260399	2023-06-02	L24886344	637 E Colorado Dr, Bayfield US-CO 37.23351, -107.59219	House Sparrow	Passer domesticus	31534	species	4	37.2335080	-107.5921900	Stationary	1	0
+S126939715	2023-01-25	L13272299	Eagle Park	Dark-eyed Junco	Junco hyemalis	33138	issf	5	37.2246735	-107.6050818	Traveling	1	0
+S136159329	2023-05-05	L14653866	Little Pine River Park	Lewis's Woodpecker	Melanerpes lewis	11142	species	2	37.2291320	-107.6087880	Traveling	1	0
+S144629695	2023-07-15	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2291320	-107.6087880	Stationary	1	0
 S169989555	2024-04-23	L14653866	Little Pine River Park	House Finch	Haemorhous mexicanus	32310	species	1	37.2291320	-107.6087880	Stationary	1	0
 S169989575	2024-04-23	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	9	37.2246735	-107.6050818	Traveling	1	0
 S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -107.607	hummingbird sp.	Trochilidae sp.	5214	spuh	1	37.2258005	-107.6073692	Stationary	1	0
 S169989575	2024-04-23	L13272299	Eagle Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	37.2246735	-107.6050818	Traveling	1	0
 S169989555	2024-04-23	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	2	37.2291320	-107.6087880	Stationary	1	0
 S169989555	2024-04-23	L14653866	Little Pine River Park	House Sparrow	Passer domesticus	31534	species	1	37.2291320	-107.6087880	Stationary	1	0
-S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -107.607	Brown-headed Cowbird	Molothrus ater	33833	species	2	37.2258005	-107.6073692	Stationary	1	0
 S169989575	2024-04-23	L13272299	Eagle Park	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	37.2246735	-107.6050818	Traveling	1	0
 S169989555	2024-04-23	L14653866	Little Pine River Park	Yellow-rumped Warbler	Setophaga coronata	34161	issf	2	37.2291320	-107.6087880	Stationary	1	0
+S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -107.607	Brown-headed Cowbird	Molothrus ater	33833	species	2	37.2258005	-107.6073692	Stationary	1	0
 S169989555	2024-04-23	L14653866	Little Pine River Park	Northern Flicker	Colaptes auratus	11900	species	2	37.2291320	-107.6087880	Stationary	1	0
 S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -107.607	European Starling	Sturnus vulgaris	27813	species	2	37.2258005	-107.6073692	Stationary	1	0
 S169989555	2024-04-23	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2291320	-107.6087880	Stationary	1	0
@@ -734,74 +734,74 @@ S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -10
 S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -107.607	Black-capped Chickadee	Poecile atricapillus	22065	species	1	37.2258005	-107.6073692	Stationary	1	0
 S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -107.607	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2258005	-107.6073692	Stationary	1	0
 S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -107.607	American Robin	Turdus migratorius	28633	species	2	37.2258005	-107.6073692	Stationary	1	0
-S169989575	2024-04-23	L13272299	Eagle Park	Western Kingbird	Tyrannus verticalis	17467	species	1	37.2246735	-107.6050818	Traveling	1	0
 S187893535	2024-07-20	L34933008	The Island,, Bayfield, Colorado, US (37.226, -107.607	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	37.2258005	-107.6073692	Stationary	1	0
-S265840718	2025-08-07	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	37.2246735	-107.6050818	Traveling	1	0
+S169989575	2024-04-23	L13272299	Eagle Park	Western Kingbird	Tyrannus verticalis	17467	species	1	37.2246735	-107.6050818	Traveling	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Black-capped Chickadee	Poecile atricapillus	22065	species	2	37.2246735	-107.6050818	Traveling	1	0
 S246316641	2025-06-03	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2291320	-107.6087880	Traveling	1	0
+S265840718	2025-08-07	L13272299	Eagle Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	37.2246735	-107.6050818	Traveling	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2246735	-107.6050818	Traveling	1	0
-S263901245	2025-07-29	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	2	37.2291320	-107.6087880	Stationary	1	0
 S251526716	2025-06-17	L14653866	Little Pine River Park	Bushtit	Psaltriparus minimus	25253	species	1	37.2291320	-107.6087880	Stationary	1	0
+S263901245	2025-07-29	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	2	37.2291320	-107.6087880	Stationary	1	0
+S251526716	2025-06-17	L14653866	Little Pine River Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2291320	-107.6087880	Stationary	1	0
+S246316641	2025-06-03	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	1	37.2291320	-107.6087880	Traveling	1	0
 S251526716	2025-06-17	L14653866	Little Pine River Park	Brown-headed Cowbird	Molothrus ater	33833	species	1	37.2291320	-107.6087880	Stationary	1	0
 S246316641	2025-06-03	L14653866	Little Pine River Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	37.2291320	-107.6087880	Traveling	1	0
 S242585225	2025-05-25	L45958798	Charlene's Place	hummingbird sp.	Trochilidae sp.	5214	spuh	1	37.2282322	-107.5903530	Stationary	1	0
-S246316641	2025-06-03	L14653866	Little Pine River Park	European Starling	Sturnus vulgaris	27813	species	1	37.2291320	-107.6087880	Traveling	1	0
-S251526716	2025-06-17	L14653866	Little Pine River Park	Gray Catbird	Dumetella carolinensis	28000	species	1	37.2291320	-107.6087880	Stationary	1	0
+S265840718	2025-08-07	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	10	37.2246735	-107.6050818	Traveling	1	0
+S244239934	2025-05-29	L43605811	11 East South Street, Bayfield, Colorado, US (37.225, -107.601)	Western Wood-Pewee	Contopus sordidulus	16912	species	1	37.2245169	-107.6005721	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Western Kingbird	Tyrannus verticalis	17467	species	2	37.2246735	-107.6050818	Traveling	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Rufous Hummingbird	Selasphorus rufus	4826	species	1	37.2246735	-107.6050818	Traveling	1	0
-S265840718	2025-08-07	L13272299	Eagle Park	House Sparrow	Passer domesticus	31534	species	10	37.2246735	-107.6050818	Traveling	1	0
+S246316641	2025-06-03	L14653866	Little Pine River Park	Willow Flycatcher	Empidonax traillii	16952	species	1	37.2291320	-107.6087880	Traveling	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Barn Swallow	Hirundo rustica	24187	species	1	37.2246735	-107.6050818	Traveling	1	0
 S246316641	2025-06-03	L14653866	Little Pine River Park	Violet-green Swallow	Tachycineta thalassina	24074	species	3	37.2291320	-107.6087880	Traveling	1	0
-S246316641	2025-06-03	L14653866	Little Pine River Park	Willow Flycatcher	Empidonax traillii	16952	species	1	37.2291320	-107.6087880	Traveling	1	0
-S244239934	2025-05-29	L43605811	11 East South Street, Bayfield, Colorado, US (37.225, -107.601)	Western Wood-Pewee	Contopus sordidulus	16912	species	1	37.2245169	-107.6005721	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	37.2246735	-107.6050818	Traveling	1	0
-S251526716	2025-06-17	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	1	37.2291320	-107.6087880	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Turkey Vulture	Cathartes aura	7815	species	1	37.2246735	-107.6050818	Traveling	1	0
+S251526716	2025-06-17	L14653866	Little Pine River Park	Pine Siskin	Spinus pinus	32595	species	1	37.2291320	-107.6087880	Stationary	1	0
 S260199200	2025-07-15	L14653866	Little Pine River Park	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	3	37.2291320	-107.6087880	Traveling	1	0
-S242585225	2025-05-25	L45958798	Charlene's Place	Common Raven	Corvus corax	21624	species	1	37.2282322	-107.5903530	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Great Blue Heron	Ardea herodias	7753	species	1	37.2246735	-107.6050818	Traveling	1	0
 S260199200	2025-07-15	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	1	37.2291320	-107.6087880	Traveling	1	0
+S242585225	2025-05-25	L45958798	Charlene's Place	Common Raven	Corvus corax	21624	species	1	37.2282322	-107.5903530	Stationary	1	0
+S260199200	2025-07-15	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	2	37.2291320	-107.6087880	Traveling	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	House Finch	Haemorhous mexicanus	32310	species	3	37.2246735	-107.6050818	Traveling	1	0
 S242585225	2025-05-25	L45958798	Charlene's Place	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	37.2282322	-107.5903530	Stationary	1	0
-S260199200	2025-07-15	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	2	37.2291320	-107.6087880	Traveling	1	0
-S251526716	2025-06-17	L14653866	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	2	37.2291320	-107.6087880	Stationary	1	0
 S251526716	2025-06-17	L14653866	Little Pine River Park	American Crow	Corvus brachyrhynchos	21557	species	2	37.2291320	-107.6087880	Stationary	1	0
-S265840718	2025-08-07	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
-S246316641	2025-06-03	L14653866	Little Pine River Park	Tree Swallow	Tachycineta bicolor	24064	species	4	37.2291320	-107.6087880	Traveling	1	0
-S244239934	2025-05-29	L43605811	11 East South Street, Bayfield, Colorado, US (37.225, -107.601)	Chipping Sparrow	Spizella passerina	32990	species	1	37.2245169	-107.6005721	Stationary	1	0
 S251526716	2025-06-17	L14653866	Little Pine River Park	House Sparrow	Passer domesticus	31534	species	5	37.2291320	-107.6087880	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	37.2246735	-107.6050818	Traveling	1	0
 S251526716	2025-06-17	L14653866	Little Pine River Park	Western Kingbird	Tyrannus verticalis	17467	species	3	37.2291320	-107.6087880	Stationary	1	0
 S242585225	2025-05-25	L45958798	Charlene's Place	American Robin	Turdus migratorius	28633	species	2	37.2282322	-107.5903530	Stationary	1	0
+S251526716	2025-06-17	L14653866	Little Pine River Park	Bullock's Oriole	Icterus bullockii	33736	species	2	37.2291320	-107.6087880	Stationary	1	0
+S265840718	2025-08-07	L13272299	Eagle Park	American Goldfinch	Spinus tristis	32617	species	1	37.2246735	-107.6050818	Traveling	1	0
+S246316641	2025-06-03	L14653866	Little Pine River Park	Tree Swallow	Tachycineta bicolor	24064	species	4	37.2291320	-107.6087880	Traveling	1	0
+S244239934	2025-05-29	L43605811	11 East South Street, Bayfield, Colorado, US (37.225, -107.601)	Chipping Sparrow	Spizella passerina	32990	species	1	37.2245169	-107.6005721	Stationary	1	0
 S246316641	2025-06-03	L14653866	Little Pine River Park	American Dipper	Cinclus mexicanus	27668	species	1	37.2291320	-107.6087880	Traveling	1	0
 S251526716	2025-06-17	L14653866	Little Pine River Park	Western Bluebird	Sialia mexicana	28136	species	1	37.2291320	-107.6087880	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	1	37.2246735	-107.6050818	Traveling	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Western Wood-Pewee	Contopus sordidulus	16912	species	2	37.2246735	-107.6050818	Traveling	1	0
 S251526716	2025-06-17	L14653866	Little Pine River Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	37.2291320	-107.6087880	Stationary	1	0
+S260199200	2025-07-15	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	37.2291320	-107.6087880	Traveling	1	0
+S260199200	2025-07-15	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	2	37.2291320	-107.6087880	Traveling	1	0
+S246316641	2025-06-03	L14653866	Little Pine River Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	3	37.2291320	-107.6087880	Traveling	1	0
+S242585225	2025-05-25	L45958798	Charlene's Place	Red-winged Blackbird	Agelaius phoeniceus	33779	species	15	37.2282322	-107.5903530	Stationary	1	0
 S246316641	2025-06-03	L14653866	Little Pine River Park	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	37.2291320	-107.6087880	Traveling	1	0
 S246316641	2025-06-03	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	3	37.2291320	-107.6087880	Traveling	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Mourning Dove	Zenaida macroura	2412	species	1	37.2246735	-107.6050818	Traveling	1	0
-S242585225	2025-05-25	L45958798	Charlene's Place	Red-winged Blackbird	Agelaius phoeniceus	33779	species	15	37.2282322	-107.5903530	Stationary	1	0
-S260199200	2025-07-15	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	2	37.2291320	-107.6087880	Traveling	1	0
-S260199200	2025-07-15	L14653866	Little Pine River Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	37.2291320	-107.6087880	Traveling	1	0
-S246316641	2025-06-03	L14653866	Little Pine River Park	Black-chinned Hummingbird	Archilochus alexandri	4803	species	3	37.2291320	-107.6087880	Traveling	1	0
 S242585225	2025-05-25	L45958798	Charlene's Place	House Sparrow	Passer domesticus	31534	species	4	37.2282322	-107.5903530	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Violet-green Swallow	Tachycineta thalassina	24074	species	3	37.2246735	-107.6050818	Traveling	1	0
 S246316641	2025-06-03	L14653866	Little Pine River Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	37.2291320	-107.6087880	Traveling	1	0
 S263901245	2025-07-29	L14653866	Little Pine River Park	American Goldfinch	Spinus tristis	32617	species	2	37.2291320	-107.6087880	Stationary	1	0
-S260199200	2025-07-15	L14653866	Little Pine River Park	Rufous Hummingbird	Selasphorus rufus	4826	species	2	37.2291320	-107.6087880	Traveling	1	0
-S270095841	2025-08-26	L52147563	317 Star Crossing, Bayfield US-CO (37.2341,-107.5841)	Rufous Hummingbird	Selasphorus rufus	4826	species	3	37.2340540	-107.5840930	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	American Robin	Turdus migratorius	28633	species	1	37.2246735	-107.6050818	Traveling	1	0
+S260199200	2025-07-15	L14653866	Little Pine River Park	Rufous Hummingbird	Selasphorus rufus	4826	species	2	37.2291320	-107.6087880	Traveling	1	0
 S244239934	2025-05-29	L43605811	11 East South Street, Bayfield, Colorado, US (37.225, -107.601)	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2245169	-107.6005721	Stationary	1	0
 S244239934	2025-05-29	L43605811	11 East South Street, Bayfield, Colorado, US (37.225, -107.601)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	37.2245169	-107.6005721	Stationary	1	0
+S270095841	2025-08-26	L52147563	317 Star Crossing, Bayfield US-CO (37.2341,-107.5841)	Rufous Hummingbird	Selasphorus rufus	4826	species	3	37.2340540	-107.5840930	Stationary	1	0
 S260199200	2025-07-15	L14653866	Little Pine River Park	Gray Catbird	Dumetella carolinensis	28000	species	2	37.2291320	-107.6087880	Traveling	1	0
 S270095841	2025-08-26	L52147563	317 Star Crossing, Bayfield US-CO (37.2341,-107.5841)	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	2	37.2340540	-107.5840930	Stationary	1	0
 S251526716	2025-06-17	L14653866	Little Pine River Park	American Robin	Turdus migratorius	28633	species	2	37.2291320	-107.6087880	Stationary	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	37.2246735	-107.6050818	Traveling	1	0
-S251526716	2025-06-17	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2291320	-107.6087880	Stationary	1	0
-S246316641	2025-06-03	L14653866	Little Pine River Park	Western Tanager	Piranga ludoviciana	34439	species	1	37.2291320	-107.6087880	Traveling	1	0
-S260199200	2025-07-15	L14653866	Little Pine River Park	Canada Goose	Branta canadensis	342	species	8	37.2291320	-107.6087880	Traveling	1	0
-S246316641	2025-06-03	L14653866	Little Pine River Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	37.2291320	-107.6087880	Traveling	1	0
-S260199200	2025-07-15	L14653866	Little Pine River Park	Western Wood-Pewee	Contopus sordidulus	16912	species	4	37.2291320	-107.6087880	Traveling	1	0
 S265840718	2025-08-07	L13272299	Eagle Park	Pygmy Nuthatch	Sitta pygmaea	26924	species	1	37.2246735	-107.6050818	Traveling	1	0
 S246316641	2025-06-03	L14653866	Little Pine River Park	Western Wood-Pewee	Contopus sordidulus	16912	species	1	37.2291320	-107.6087880	Traveling	1	0
+S246316641	2025-06-03	L14653866	Little Pine River Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	37.2291320	-107.6087880	Traveling	1	0
+S246316641	2025-06-03	L14653866	Little Pine River Park	Western Tanager	Piranga ludoviciana	34439	species	1	37.2291320	-107.6087880	Traveling	1	0
+S260199200	2025-07-15	L14653866	Little Pine River Park	Canada Goose	Branta canadensis	342	species	8	37.2291320	-107.6087880	Traveling	1	0
+S251526716	2025-06-17	L14653866	Little Pine River Park	Lesser Goldfinch	Spinus psaltria	32609	species	1	37.2291320	-107.6087880	Stationary	1	0
+S260199200	2025-07-15	L14653866	Little Pine River Park	Western Wood-Pewee	Contopus sordidulus	16912	species	4	37.2291320	-107.6087880	Traveling	1	0

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1519,"Livingston, MT",Livingston,Montana,Park,2015,10660902.046913,65,287,city_1519_montana_livingston,450.8062553405762,7.744791666666666,25.404990027998423,dry subhumid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2016,10660902.046913,55,188,city_1519_montana_livingston,480.09375381469727,7.770833333333334,27.01582670938507,dry subhumid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2017,10660902.046913,69,350,city_1519_montana_livingston,474.16250371932983,6.669270833333334,28.44530564415289,dry subhumid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2018,10660902.046913,75,331,city_1519_montana_livingston,518.5625,5.877604166666666,32.65999671969821,humid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2019,10660902.046913,80,341,city_1519_montana_livingston,548.1062507629395,5.302083333333334,35.8190606352908,humid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2020,10660902.046913,112,905,city_1519_montana_livingston,412.68749713897705,7.0703125,24.175743539491563,dry subhumid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2021,10660902.046913,82,400,city_1519_montana_livingston,342.40624618530273,7.416666666666666,19.659688776189633,semiarid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2022,10660902.046913,77,521,city_1519_montana_livingston,462.2312488555908,6.354166666666666,28.263821586074343,dry subhumid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2023,10660902.046913,72,479,city_1519_montana_livingston,557.5062522888184,7.252604166666666,32.31432466096699,humid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2024,10660902.046913,98,937,city_1519_montana_livingston,390.7249994277954,7.776041666666666,21.98042774396037,dry subhumid,12
-1519,"Livingston, MT",Livingston,Montana,Park,2025,10660902.046913,108,1353,city_1519_montana_livingston,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1519,2015,"Livingston, MT",Livingston,Montana,Park,100,65,287,city_1519_montana_livingston,450.806255340576,7.74479166666667,25.4049900279984,dry subhumid,12
+1519,2016,"Livingston, MT",Livingston,Montana,Park,100,55,188,city_1519_montana_livingston,480.093753814697,7.77083333333333,27.0158267093851,dry subhumid,12
+1519,2017,"Livingston, MT",Livingston,Montana,Park,100,69,350,city_1519_montana_livingston,474.16250371933,6.66927083333333,28.4453056441529,dry subhumid,12
+1519,2018,"Livingston, MT",Livingston,Montana,Park,100,75,331,city_1519_montana_livingston,518.5625,5.87760416666667,32.6599967196982,humid,12
+1519,2019,"Livingston, MT",Livingston,Montana,Park,100,80,341,city_1519_montana_livingston,548.10625076294,5.30208333333333,35.8190606352908,humid,12
+1519,2020,"Livingston, MT",Livingston,Montana,Park,100,112,905,city_1519_montana_livingston,412.687497138977,7.0703125,24.1757435394916,dry subhumid,12
+1519,2021,"Livingston, MT",Livingston,Montana,Park,100,82,400,city_1519_montana_livingston,342.406246185303,7.41666666666667,19.6596887761896,semiarid,12
+1519,2022,"Livingston, MT",Livingston,Montana,Park,100,77,521,city_1519_montana_livingston,462.231248855591,6.35416666666667,28.2638215860743,dry subhumid,12
+1519,2023,"Livingston, MT",Livingston,Montana,Park,100,72,479,city_1519_montana_livingston,557.506252288818,7.25260416666667,32.314324660967,humid,12
+1519,2024,"Livingston, MT",Livingston,Montana,Park,100,98,937,city_1519_montana_livingston,390.724999427795,7.77604166666667,21.9804277439604,dry subhumid,12
+1519,2025,"Livingston, MT",Livingston,Montana,Park,100,108,1353,city_1519_montana_livingston,,,,,

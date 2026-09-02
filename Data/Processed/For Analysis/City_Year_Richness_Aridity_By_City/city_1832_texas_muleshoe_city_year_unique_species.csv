@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2017,6371209.25272743,11,15,city_1832_texas_muleshoe,482.38125348091125,15.2578125,19.0982989315053,semiarid,12
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2018,6371209.25272743,10,10,city_1832_texas_muleshoe,402.89999437332153,14.5859375,16.387416358368338,semiarid,12
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2019,6371209.25272743,17,49,city_1832_texas_muleshoe,392.9624972343445,14.434895833333334,16.08202056250541,semiarid,12
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2020,6371209.25272743,26,30,city_1832_texas_muleshoe,247.11249923706055,14.9609375,9.899968670530123,arid,12
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2021,6371209.25272743,26,42,city_1832_texas_muleshoe,388.3812520503998,14.424479166666668,15.90131152440063,semiarid,12
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2022,6371209.25272743,19,44,city_1832_texas_muleshoe,344.57500863075256,14.84375,13.869685881992556,semiarid,12
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2023,6371209.25272743,15,18,city_1832_texas_muleshoe,308.51875257492065,15.528645833333334,12.085198509514385,semiarid,12
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2024,6371209.25272743,19,45,city_1832_texas_muleshoe,403.1437509059906,15.9296875,15.547574605594091,semiarid,12
-1832,"Muleshoe, TX",Muleshoe,Texas,Bailey,2025,6371209.25272743,19,29,city_1832_texas_muleshoe,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1832,2017,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,11,15,city_1832_texas_muleshoe,482.381253480911,15.2578125,19.0982989315053,semiarid,12
+1832,2018,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,10,10,city_1832_texas_muleshoe,402.899994373322,14.5859375,16.3874163583683,semiarid,12
+1832,2019,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,17,49,city_1832_texas_muleshoe,392.962497234345,14.4348958333333,16.0820205625054,semiarid,12
+1832,2020,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,26,30,city_1832_texas_muleshoe,247.112499237061,14.9609375,9.89996867053012,arid,12
+1832,2021,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,26,42,city_1832_texas_muleshoe,388.3812520504,14.4244791666667,15.9013115244006,semiarid,12
+1832,2022,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,19,44,city_1832_texas_muleshoe,344.575008630753,14.84375,13.8696858819926,semiarid,12
+1832,2023,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,15,18,city_1832_texas_muleshoe,308.518752574921,15.5286458333333,12.0851985095144,semiarid,12
+1832,2024,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,19,45,city_1832_texas_muleshoe,403.143750905991,15.9296875,15.5475746055941,semiarid,12
+1832,2025,"Muleshoe, TX",Muleshoe,Texas,Bailey,99.9999999999972,20,30,city_1832_texas_muleshoe,,,,,

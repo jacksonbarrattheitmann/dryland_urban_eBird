@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2015,60114487.5870017,188,7700,city_2728_california_watsonville,337.19999611377716,15.893229166666666,13.02270929374338,semiarid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2016,60114487.5870017,183,12815,city_2728_california_watsonville,630.9250046014786,15.5234375,24.719436972448506,dry subhumid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2017,60114487.5870017,193,16385,city_2728_california_watsonville,689.6812589764595,15.596354166666666,26.94451149119549,dry subhumid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2018,60114487.5870017,188,13338,city_2728_california_watsonville,512.3937431573868,15.466145833333334,20.12058465818964,dry subhumid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2019,60114487.5870017,185,17919,city_2728_california_watsonville,660.6562431454659,15.221354166666666,26.194320843351463,dry subhumid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2020,60114487.5870017,200,23039,city_2728_california_watsonville,260.7937492132187,15.684895833333334,10.15358407156808,semiarid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2021,60114487.5870017,196,22660,city_2728_california_watsonville,561.9249988794327,15.234375,22.268235249711264,dry subhumid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2022,60114487.5870017,198,16383,city_2728_california_watsonville,401.6499989628792,15.3984375,15.813964893032464,semiarid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2023,60114487.5870017,188,12954,city_2728_california_watsonville,711.3500035405159,14.731770833333334,28.76259885854039,dry subhumid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2024,60114487.5870017,195,14825,city_2728_california_watsonville,656.0624986290932,15.65625,25.57125451416685,dry subhumid,12
-2728,"Watsonville, CA",Watsonville,California,Santa Cruz,2025,60114487.5870017,196,16180,city_2728_california_watsonville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2728,2015,"Watsonville, CA",Watsonville,California,Santa Cruz,100,188,7700,city_2728_california_watsonville,337.199996113777,15.8932291666667,13.0227092937434,semiarid,12
+2728,2016,"Watsonville, CA",Watsonville,California,Santa Cruz,100,183,12815,city_2728_california_watsonville,630.925004601479,15.5234375,24.7194369724485,dry subhumid,12
+2728,2017,"Watsonville, CA",Watsonville,California,Santa Cruz,100,193,16385,city_2728_california_watsonville,689.68125897646,15.5963541666667,26.9445114911955,dry subhumid,12
+2728,2018,"Watsonville, CA",Watsonville,California,Santa Cruz,100,188,13338,city_2728_california_watsonville,512.393743157387,15.4661458333333,20.1205846581896,dry subhumid,12
+2728,2019,"Watsonville, CA",Watsonville,California,Santa Cruz,100,185,17919,city_2728_california_watsonville,660.656243145466,15.2213541666667,26.1943208433515,dry subhumid,12
+2728,2020,"Watsonville, CA",Watsonville,California,Santa Cruz,100,200,23042,city_2728_california_watsonville,260.793749213219,15.6848958333333,10.1535840715681,semiarid,12
+2728,2021,"Watsonville, CA",Watsonville,California,Santa Cruz,100,196,22660,city_2728_california_watsonville,561.924998879433,15.234375,22.2682352497113,dry subhumid,12
+2728,2022,"Watsonville, CA",Watsonville,California,Santa Cruz,100,198,16383,city_2728_california_watsonville,401.649998962879,15.3984375,15.8139648930325,semiarid,12
+2728,2023,"Watsonville, CA",Watsonville,California,Santa Cruz,100,188,12954,city_2728_california_watsonville,711.350003540516,14.7317708333333,28.7625988585404,dry subhumid,12
+2728,2024,"Watsonville, CA",Watsonville,California,Santa Cruz,100,195,14825,city_2728_california_watsonville,656.062498629093,15.65625,25.5712545141669,dry subhumid,12
+2728,2025,"Watsonville, CA",Watsonville,California,Santa Cruz,100,196,16194,city_2728_california_watsonville,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2428,"Snyder, TX",Snyder,Texas,Scurry,2015,17856662.7073304,36,50,city_2428_texas_snyder,871.2562408447266,17.677083333333332,31.47933726800668,humid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2016,17856662.7073304,23,28,city_2428_texas_snyder,668.7687544822693,18.317708333333332,23.616626974544,dry subhumid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2017,17856662.7073304,25,45,city_2428_texas_snyder,602.2062520980835,18.302083333333332,21.277806478253964,dry subhumid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2018,17856662.7073304,39,92,city_2428_texas_snyder,598.225011587143,17.552083333333332,21.71251459824791,dry subhumid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2019,17856662.7073304,27,66,city_2428_texas_snyder,561.8374948501587,17.346354166666668,20.545243121841818,dry subhumid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2020,17856662.7073304,15,18,city_2428_texas_snyder,413.1374969482422,17.90625,14.804479173957168,semiarid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2021,17856662.7073304,26,52,city_2428_texas_snyder,563.3437519073486,17.59375,20.415628608193835,dry subhumid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2022,17856662.7073304,36,153,city_2428_texas_snyder,380.7749996185303,17.989583333333332,13.604168203713773,semiarid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2023,17856662.7073304,57,742,city_2428_texas_snyder,435.8125,18.486979166666668,15.298656184294725,semiarid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2024,17856662.7073304,56,824,city_2428_texas_snyder,530.1812510490417,19.013020833333332,18.273907225817435,semiarid,12
-2428,"Snyder, TX",Snyder,Texas,Scurry,2025,17856662.7073304,58,966,city_2428_texas_snyder,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2428,2015,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,36,50,city_2428_texas_snyder,871.256240844727,17.6770833333333,31.4793372680067,humid,12
+2428,2016,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,23,28,city_2428_texas_snyder,668.768754482269,18.3177083333333,23.616626974544,dry subhumid,12
+2428,2017,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,25,45,city_2428_texas_snyder,602.206252098084,18.3020833333333,21.277806478254,dry subhumid,12
+2428,2018,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,39,92,city_2428_texas_snyder,598.225011587143,17.5520833333333,21.7125145982479,dry subhumid,12
+2428,2019,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,27,66,city_2428_texas_snyder,561.837494850159,17.3463541666667,20.5452431218418,dry subhumid,12
+2428,2020,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,15,18,city_2428_texas_snyder,413.137496948242,17.90625,14.8044791739572,semiarid,12
+2428,2021,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,26,52,city_2428_texas_snyder,563.343751907349,17.59375,20.4156286081938,dry subhumid,12
+2428,2022,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,36,153,city_2428_texas_snyder,380.77499961853,17.9895833333333,13.6041682037138,semiarid,12
+2428,2023,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,57,742,city_2428_texas_snyder,435.8125,18.4869791666667,15.2986561842947,semiarid,12
+2428,2024,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,56,824,city_2428_texas_snyder,530.181251049042,19.0130208333333,18.2739072258174,semiarid,12
+2428,2025,"Snyder, TX",Snyder,Texas,Scurry,99.999999999998,58,966,city_2428_texas_snyder,,,,,

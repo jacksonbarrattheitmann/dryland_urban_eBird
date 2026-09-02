@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2133,"Porterville, CA",Porterville,California,Tulare,2015,53459583.9539356,86,609,city_2133_california_porterville,167.17499792575836,19.020833333333332,5.760516798590381,arid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2016,53459583.9539356,75,579,city_2133_california_porterville,252.2062474489212,18.7421875,8.77477566552376,arid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2017,53459583.9539356,96,1231,city_2133_california_porterville,287.25000125169754,18.815104166666668,9.968730273895332,arid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2018,53459583.9539356,94,885,city_2133_california_porterville,201.668752849102,18.690104166666668,7.029209502954994,arid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2019,53459583.9539356,102,680,city_2133_california_porterville,343.7749978005886,18.2421875,12.172392729868696,semiarid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2020,53459583.9539356,108,1057,city_2133_california_porterville,168.7187515720725,18.833333333333332,5.851517395563208,arid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2021,53459583.9539356,86,620,city_2133_california_porterville,211.83125261962417,18.5625,7.416411470271305,arid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2022,53459583.9539356,87,821,city_2133_california_porterville,154.83125193417072,18.505208333333332,5.431682874357898,arid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2023,53459583.9539356,83,404,city_2133_california_porterville,317.2374963760376,17.885416666666668,11.37646606354113,semiarid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2024,53459583.9539356,79,399,city_2133_california_porterville,300.00624922662973,18.869791666666668,10.39170121802506,semiarid,12
-2133,"Porterville, CA",Porterville,California,Tulare,2025,53459583.9539356,52,134,city_2133_california_porterville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2133,2015,"Porterville, CA",Porterville,California,Tulare,100,86,609,city_2133_california_porterville,167.174997925758,19.0208333333333,5.76051679859038,arid,12
+2133,2016,"Porterville, CA",Porterville,California,Tulare,100,75,579,city_2133_california_porterville,252.206247448921,18.7421875,8.77477566552376,arid,12
+2133,2017,"Porterville, CA",Porterville,California,Tulare,100,96,1231,city_2133_california_porterville,287.250001251698,18.8151041666667,9.96873027389533,arid,12
+2133,2018,"Porterville, CA",Porterville,California,Tulare,100,94,885,city_2133_california_porterville,201.668752849102,18.6901041666667,7.02920950295499,arid,12
+2133,2019,"Porterville, CA",Porterville,California,Tulare,100,102,680,city_2133_california_porterville,343.774997800589,18.2421875,12.1723927298687,semiarid,12
+2133,2020,"Porterville, CA",Porterville,California,Tulare,100,108,1057,city_2133_california_porterville,168.718751572073,18.8333333333333,5.85151739556321,arid,12
+2133,2021,"Porterville, CA",Porterville,California,Tulare,100,86,620,city_2133_california_porterville,211.831252619624,18.5625,7.41641147027131,arid,12
+2133,2022,"Porterville, CA",Porterville,California,Tulare,100,87,821,city_2133_california_porterville,154.831251934171,18.5052083333333,5.4316828743579,arid,12
+2133,2023,"Porterville, CA",Porterville,California,Tulare,100,83,404,city_2133_california_porterville,317.237496376038,17.8854166666667,11.3764660635411,semiarid,12
+2133,2024,"Porterville, CA",Porterville,California,Tulare,100,79,399,city_2133_california_porterville,300.00624922663,18.8697916666667,10.3917012180251,semiarid,12
+2133,2025,"Porterville, CA",Porterville,California,Tulare,100,52,134,city_2133_california_porterville,,,,,

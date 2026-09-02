@@ -1,5 +1,5 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2176,"Quincy, WA",Quincy,Washington,Grant,2017,7607901.68995993,13,16,city_2176_washington_quincy,228.53124690055847,10.213541666666668,11.305848854652725,semiarid,12
-2176,"Quincy, WA",Quincy,Washington,Grant,2018,7607901.68995993,11,13,city_2176_washington_quincy,177.31875026226044,10.864583333333332,8.498552184312034,arid,12
-2176,"Quincy, WA",Quincy,Washington,Grant,2021,7607901.68995993,12,13,city_2176_washington_quincy,184.8812494277954,11.190104166666668,8.72488629473681,arid,12
-2176,"Quincy, WA",Quincy,Washington,Grant,2022,7607901.68995993,1,1,city_2176_washington_quincy,207.62500071525577,10.3125,10.221538496751052,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2176,2017,"Quincy, WA",Quincy,Washington,Grant,100,13,16,city_2176_washington_quincy,228.531246900559,10.2135416666667,11.3058488546527,semiarid,12
+2176,2018,"Quincy, WA",Quincy,Washington,Grant,100,11,13,city_2176_washington_quincy,177.31875026226,10.8645833333333,8.49855218431203,arid,12
+2176,2021,"Quincy, WA",Quincy,Washington,Grant,100,12,13,city_2176_washington_quincy,184.881249427795,11.1901041666667,8.72488629473681,arid,12
+2176,2022,"Quincy, WA",Quincy,Washington,Grant,100,1,1,city_2176_washington_quincy,207.625000715256,10.3125,10.2215384967511,semiarid,12

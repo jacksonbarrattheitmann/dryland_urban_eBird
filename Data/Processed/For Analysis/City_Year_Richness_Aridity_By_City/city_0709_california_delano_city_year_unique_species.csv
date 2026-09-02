@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-709,"Delano, CA",Delano,California,Kern,2015,25693325.8441916,22,44,city_0709_california_delano,112.3937514424324,18.979166666666668,3.878432831945906,extremely arid,12
-709,"Delano, CA",Delano,California,Kern,2017,25693325.8441916,21,26,city_0709_california_delano,207.71250218153,18.8046875,7.211065982976902,arid,12
-709,"Delano, CA",Delano,California,Kern,2020,25693325.8441916,4,4,city_0709_california_delano,127.22499972581863,18.872395833333332,4.406458004393826,extremely arid,12
-709,"Delano, CA",Delano,California,Kern,2021,25693325.8441916,5,5,city_0709_california_delano,153.82499861717224,18.526041666666668,5.392441068924058,arid,12
-709,"Delano, CA",Delano,California,Kern,2022,25693325.8441916,4,4,city_0709_california_delano,111.45624935626984,18.505208333333332,3.910031038992108,extremely arid,12
-709,"Delano, CA",Delano,California,Kern,2023,25693325.8441916,11,13,city_0709_california_delano,244.0000038743019,17.955729166666668,8.728085839565153,arid,12
-709,"Delano, CA",Delano,California,Kern,2024,25693325.8441916,2,2,city_0709_california_delano,223.3312501907349,18.815104166666668,7.750492550677107,arid,12
-709,"Delano, CA",Delano,California,Kern,2025,25693325.8441916,22,25,city_0709_california_delano,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+709,2015,"Delano, CA",Delano,California,Kern,100,22,44,city_0709_california_delano,112.393751442432,18.9791666666667,3.87843283194591,extremely arid,12
+709,2017,"Delano, CA",Delano,California,Kern,100,21,26,city_0709_california_delano,207.71250218153,18.8046875,7.2110659829769,arid,12
+709,2020,"Delano, CA",Delano,California,Kern,100,4,4,city_0709_california_delano,127.224999725819,18.8723958333333,4.40645800439383,extremely arid,12
+709,2021,"Delano, CA",Delano,California,Kern,100,5,5,city_0709_california_delano,153.824998617172,18.5260416666667,5.39244106892406,arid,12
+709,2022,"Delano, CA",Delano,California,Kern,100,4,4,city_0709_california_delano,111.45624935627,18.5052083333333,3.91003103899211,extremely arid,12
+709,2023,"Delano, CA",Delano,California,Kern,100,11,13,city_0709_california_delano,244.000003874302,17.9557291666667,8.72808583956515,arid,12
+709,2024,"Delano, CA",Delano,California,Kern,100,2,2,city_0709_california_delano,223.331250190735,18.8151041666667,7.75049255067711,arid,12
+709,2025,"Delano, CA",Delano,California,Kern,100,22,25,city_0709_california_delano,,,,,

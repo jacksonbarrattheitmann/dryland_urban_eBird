@@ -1,210 +1,214 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S26646433,L4124917,Montana--Shelby,2015-11-13,2015,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,75,4.023,1,48.5062842,-111.8593812,7,7,city_2379_montana_shelby
-S25089532,L3864113,"Shelby, MT",2015-09-19,2015,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.5029503,-111.8537539,12,12,city_2379_montana_shelby
-S31469945,L4908771,Shelby--Andy Anderson Park,2016-09-07,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,6,,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S31500449,L4908771,Shelby--Andy Anderson Park,2016-09-09,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,40,1.127,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S29527849,L4908771,Shelby--Andy Anderson Park,2016-05-06,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S31225248,L4908771,Shelby--Andy Anderson Park,2016-08-24,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S29270897,L4543067,Shelby Swimming Pool and Jimmy Johns Park,2016-04-28,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,,1,48.5077094,-111.8709856,4,4,city_2379_montana_shelby
-S31486663,L4908771,Shelby--Andy Anderson Park,2016-09-08,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,33,1.127,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S31525576,L4908771,Shelby--Andy Anderson Park,2016-09-11,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,22,1.127,1,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
-S29645266,L4598065,Shelby,2016-05-14,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,7,,1,48.504168,-111.864055,4,4,city_2379_montana_shelby
-S29330201,L4552418,James A. Johnson Park,2016-05-01,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,42,0.161,1,48.5079902,-111.8713546,8,8,city_2379_montana_shelby
-S31551700,L4908771,Shelby--Andy Anderson Park,2016-09-12,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,1.127,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S31723097,L4944368,Andy Anderson Park area,2016-09-23,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,25,0.402,1,48.504008,-111.856321,8,8,city_2379_montana_shelby
-S29942622,L4598065,Shelby,2016-05-27,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,11,0.483,1,48.504168,-111.864055,6,6,city_2379_montana_shelby
-S31225068,L4908771,Shelby--Andy Anderson Park,2016-08-24,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S26832896,L4011875,Montana--Shelby,2016-01-08,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,75,17.703,1,48.5056421,-111.8576813,3,3,city_2379_montana_shelby
-S31031740,L4908771,Shelby--Andy Anderson Park,2016-08-03,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S29909621,L4908771,Shelby--Andy Anderson Park,2016-05-23,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,0.74,1,48.5041469,-111.8562346,16,16,city_2379_montana_shelby
-S31600604,L4908771,Shelby--Andy Anderson Park,2016-09-15,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,0.805,1,48.5041469,-111.8562346,12,12,city_2379_montana_shelby
-S31485513,L4908771,Shelby--Andy Anderson Park,2016-09-08,2016,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S34521872,L4908771,Shelby--Andy Anderson Park,2017-02-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S35277316,L4908771,Shelby--Andy Anderson Park,2017-03-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,18,,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S39066917,L4908771,Shelby--Andy Anderson Park,2017-09-08,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,43,1.77,1,48.5041469,-111.8562346,17,17,city_2379_montana_shelby
-S39492532,L4908771,Shelby--Andy Anderson Park,2017-10-01,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,13,0.756,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S40089395,L4908771,Shelby--Andy Anderson Park,2017-10-23,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,,1,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
-S39312668,L4908771,Shelby--Andy Anderson Park,2017-09-21,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,9,0.338,1,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
-S36320100,L4908771,Shelby--Andy Anderson Park,2017-04-26,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S39236105,L4908771,Shelby--Andy Anderson Park,2017-09-17,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,45,1.338,1,48.5041469,-111.8562346,17,17,city_2379_montana_shelby
-S38920374,L4908771,Shelby--Andy Anderson Park,2017-08-31,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,0.628,1,48.5041469,-111.8562346,15,15,city_2379_montana_shelby
-S40012193,L4908771,Shelby--Andy Anderson Park,2017-10-18,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S38913370,L4908771,Shelby--Andy Anderson Park,2017-08-30,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,28,1.577,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S39454877,L4908771,Shelby--Andy Anderson Park,2017-09-29,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,0.805,1,48.5041469,-111.8562346,12,12,city_2379_montana_shelby
-S34846592,L4908771,Shelby--Andy Anderson Park,2017-02-27,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S39173949,L4908771,Shelby--Andy Anderson Park,2017-09-12,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,22,0.917,1,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
-S39912708,L4908771,Shelby--Andy Anderson Park,2017-10-11,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,9,0.612,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S35790826,L4908771,Shelby--Andy Anderson Park,2017-04-08,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,6,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S39562780,L4908771,Shelby--Andy Anderson Park,2017-10-05,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,0.676,1,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
-S38655037,L4908771,Shelby--Andy Anderson Park,2017-08-15,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,7,0.161,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S39093298,L4908771,Shelby--Andy Anderson Park,2017-09-09,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,76,1.368,1,48.5041469,-111.8562346,21,21,city_2379_montana_shelby
-S38946995,L4908771,Shelby--Andy Anderson Park,2017-09-01,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,180,3.219,1,48.5041469,-111.8562346,30,30,city_2379_montana_shelby
-S38913462,L4908771,Shelby--Andy Anderson Park,2017-08-30,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,0.966,1,48.5041469,-111.8562346,13,13,city_2379_montana_shelby
-S35009781,L4908771,Shelby--Andy Anderson Park,2017-02-18,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S38886357,L4908771,Shelby--Andy Anderson Park,2017-08-29,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,,1,48.5041469,-111.8562346,12,12,city_2379_montana_shelby
-S36242224,L5744110,US-Montana-Shelby-309 9th Avenue - 48.504x-111.867,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,0.161,1,48.5040717,-111.8674703,3,3,city_2379_montana_shelby
-S40063567,L4908771,Shelby--Andy Anderson Park,2017-10-22,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S38712101,L4908771,Shelby--Andy Anderson Park,2017-08-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,25,0.724,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S36242227,L4552418,James A. Johnson Park,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,,1,48.5079902,-111.8713546,5,5,city_2379_montana_shelby
-S34464743,L4980694,US-Montana-Shelby-121 12th Avenue North - 48.508x-111.871 Jimmy John,2017-02-18,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,7,,1,48.508492,-111.8711768,5,5,city_2379_montana_shelby
-S33993304,L4908771,Shelby--Andy Anderson Park,2017-01-28,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S36230202,L4908771,Shelby--Andy Anderson Park,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S36676746,L4908771,Shelby--Andy Anderson Park,2017-05-09,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,0.161,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S39289285,L4908771,Shelby--Andy Anderson Park,2017-09-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,27,1.062,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S39132840,L4908771,Shelby--Andy Anderson Park,2017-09-11,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,37,0.941,1,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
-S39518134,L4908771,Shelby--Andy Anderson Park,2017-09-27,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,12,0.51,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S36980464,L4908771,Shelby--Andy Anderson Park,2017-05-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,7,,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S38669512,L4908771,Shelby--Andy Anderson Park,2017-08-16,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S36131014,L4908771,Shelby--Andy Anderson Park,2017-04-20,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S36282571,L4124917,Montana--Shelby,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,0.402,1,48.5062842,-111.8593812,7,7,city_2379_montana_shelby
-S35756229,L4908771,Shelby--Andy Anderson Park,2017-04-07,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S35307031,L4908771,Shelby--Andy Anderson Park,2017-03-20,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,6,,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S40123967,L4908771,Shelby--Andy Anderson Park,2017-10-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,12,0.25,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S36660826,L5804426,Aronow Park,2017-05-08,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,,1,48.5139622,-111.8586952,7,7,city_2379_montana_shelby
-S36282517,L4124917,Montana--Shelby,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,0.402,1,48.5062842,-111.8593812,2,2,city_2379_montana_shelby
-S39173915,L4908771,Shelby--Andy Anderson Park,2017-09-14,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,36,0.853,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S34110847,L4908771,Shelby--Andy Anderson Park,2017-02-02,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,8,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S38602039,L4908771,Shelby--Andy Anderson Park,2017-08-12,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,19,0.837,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S35277323,L4908771,Shelby--Andy Anderson Park,2017-03-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S39935375,L4908771,Shelby--Andy Anderson Park,2017-10-15,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,18,1.414,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S39912703,L4908771,Shelby--Andy Anderson Park,2017-10-13,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,33,1.347,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S38572710,L4908771,Shelby--Andy Anderson Park,2017-08-10,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,33,0.869,1,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
-S35277371,L4908771,Shelby--Andy Anderson Park,2017-03-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,0.805,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S36536578,L4908771,Shelby--Andy Anderson Park,2017-05-04,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S40083211,L4908771,Shelby--Andy Anderson Park,2017-10-23,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,12,0.805,1,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
-S35253252,L4908771,Shelby--Andy Anderson Park,2017-03-18,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,7,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S39033648,L4908771,Shelby--Andy Anderson Park,2017-09-06,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,1.662,1,48.5041469,-111.8562346,18,18,city_2379_montana_shelby
-S35788243,L4908771,Shelby--Andy Anderson Park,2017-04-08,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,6,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S36297645,L4908771,Shelby--Andy Anderson Park,2017-04-26,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S35735485,L4908771,Shelby--Andy Anderson Park,2017-04-06,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,11,0.322,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S37485121,L4908771,Shelby--Andy Anderson Park,2017-06-09,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,8,0.161,1,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
-S38557020,L6166544,"(48.502, -111.856)",2017-08-09,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,16,0.821,1,48.5021178,-111.8561578,4,4,city_2379_montana_shelby
-S36242215,L5744109,US-Montana-Shelby-928-1024 Ash Avenue - 48.498x-111.863,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.4978403,-111.862568,3,3,city_2379_montana_shelby
-S35951183,L4908771,Shelby--Andy Anderson Park,2017-04-14,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,7,,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S36050709,L4908771,Shelby--Andy Anderson Park,2017-04-17,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,8,0.161,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S38602108,L4908771,Shelby--Andy Anderson Park,2017-08-11,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,0.805,1,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
-S35512718,L4908771,Shelby--Andy Anderson Park,2017-03-29,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,6,0.161,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S34588604,L4908771,Shelby--Andy Anderson Park,2017-02-20,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S36097212,L4908771,Shelby--Andy Anderson Park,2017-04-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S35873959,L4908771,Shelby--Andy Anderson Park,2017-04-11,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S35979907,L4908771,Shelby--Andy Anderson Park,2017-04-15,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S40043742,L4908771,Shelby--Andy Anderson Park,2017-10-21,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,21,,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S36242189,L5744105,US-Montana-Shelby-908 Turner Avenue - 48.515x-111.859,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,11,,1,48.5145791,-111.8590992,3,3,city_2379_montana_shelby
-S37421327,L4908771,Shelby--Andy Anderson Park,2017-06-06,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S37306764,L4908771,Shelby--Andy Anderson Park,2017-06-01,2017,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,0.161,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S45246378,L4908771,Shelby--Andy Anderson Park,2018-05-04,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,0.587,1,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
-S46262200,L7512186,"827 9th Street South, Shelby, Montana, US (48.498, -111.866)",2018-06-03,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,8,0.573,1,48.4983012,-111.865896,5,5,city_2379_montana_shelby
-S48419431,L4908771,Shelby--Andy Anderson Park,2018-09-09,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,24,0.652,1,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
-S43859359,L4908771,Shelby--Andy Anderson Park,2018-03-22,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,0.692,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S43977784,L4908771,Shelby--Andy Anderson Park,2018-03-26,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,0.08,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S45740867,L7418879,"718 North Marias Avenue, Shelby, Montana, US (48.511, -111.858)",2018-05-15,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,13,1.059,1,48.5110885,-111.858194,10,10,city_2379_montana_shelby
-S48800438,L4908771,Shelby--Andy Anderson Park,2018-09-28,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,0.805,1,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
-S45697973,L4908771,Shelby--Andy Anderson Park,2018-05-15,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,8,0.177,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S45828351,L7433252,"227 8th Avenue South, Shelby, Montana, US (48.506, -111.866)",2018-05-19,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,7,0.08,1,48.5055472,-111.8658819,7,7,city_2379_montana_shelby
-S45304214,L7344851,Clark Drive,2018-05-05,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.506687,-111.852242,1,1,city_2379_montana_shelby
-S44594801,L4908771,Shelby--Andy Anderson Park,2018-04-15,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,0.657,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S49116308,L4908771,Shelby--Andy Anderson Park,2018-10-11,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,16,0.789,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S48720884,L4908771,Shelby--Andy Anderson Park,2018-09-24,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,36,1.056,1,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
-S45852224,L4908771,Shelby--Andy Anderson Park,2018-05-19,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,6,0.341,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S44151863,L4908771,Shelby--Andy Anderson Park,2018-04-01,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S48357002,L7903954,Shelby- North Side,2018-09-06,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,42,1.545,1,48.5124842,-111.8571815,18,18,city_2379_montana_shelby
-S45740842,L4908771,Shelby--Andy Anderson Park,2018-05-16,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,17,0.885,1,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
-S48372533,L7906406,"7th Street North, Shelby, Montana, US (48.516, -111.858)",2018-09-07,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,17,1.389,1,48.5160405,-111.8577501,8,8,city_2379_montana_shelby
-S48998131,L4908771,Shelby--Andy Anderson Park,2018-10-06,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S49909913,L4908771,Shelby--Andy Anderson Park,2018-11-13,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,0.331,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S45101731,L4908771,Shelby--Andy Anderson Park,2018-04-30,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,12,0.628,1,48.5041469,-111.8562346,12,12,city_2379_montana_shelby
-S45892270,L4908771,Shelby--Andy Anderson Park,2018-05-21,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,17,0.901,1,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
-S48976127,L4908771,Shelby--Andy Anderson Park,2018-10-06,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,16,0.853,1,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
-S43690773,L4908771,Shelby--Andy Anderson Park,2018-03-16,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,0.805,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S48946191,L4908771,Shelby--Andy Anderson Park,2018-10-05,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,19,0.885,1,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
-S45580374,L4908771,Shelby--Andy Anderson Park,2018-05-12,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,12,0.506,1,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
-S50206099,L4908771,Shelby--Andy Anderson Park,2018-11-22,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,9,0.563,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S42645410,L4908771,Shelby--Andy Anderson Park,2018-02-10,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,0.161,1,48.5041469,-111.8562346,2,2,city_2379_montana_shelby
-S50593691,L4908771,Shelby--Andy Anderson Park,2018-12-11,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,9,0.225,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S48706370,L4908771,Shelby--Andy Anderson Park,2018-09-23,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,9,0.085,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S44495795,L4908771,Shelby--Andy Anderson Park,2018-04-12,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S46264071,L5804426,Aronow Park,2018-06-03,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5139622,-111.8586952,4,4,city_2379_montana_shelby
-S45771406,L7148199,"117 East Cascade ave, Shelby US-MT (48.5068,-111.8522)",2018-05-17,2018,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506839,-111.852164,1,1,city_2379_montana_shelby
-S61297392,L9458271,Shelby Montana,2019-11-09,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,4.828,1,48.506537,-111.85224,7,7,city_2379_montana_shelby
-S57474063,L4908771,Shelby--Andy Anderson Park,2019-06-17,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,90,,1,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
-S60285419,L9458271,Shelby Montana,2019-10-02,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.506537,-111.85224,6,6,city_2379_montana_shelby
-S51217903,L4908771,Shelby--Andy Anderson Park,2019-01-02,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,0.048,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S60480082,L9458271,Shelby Montana,2019-10-09,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,90,8.047,1,48.506537,-111.85224,9,9,city_2379_montana_shelby
-S60824836,L9458271,Shelby Montana,2019-10-21,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,4.828,1,48.506537,-111.85224,3,3,city_2379_montana_shelby
-S55550155,L4908771,Shelby--Andy Anderson Park,2019-04-29,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,0.681,1,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
-S59959563,L7433252,"227 8th Avenue South, Shelby, Montana, US (48.506, -111.866)",2019-09-20,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,0.133,1,48.5055472,-111.8658819,4,4,city_2379_montana_shelby
-S60511783,L9458271,Shelby Montana,2019-10-10,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,1.609,1,48.506537,-111.85224,3,3,city_2379_montana_shelby
-S55628120,L4908771,Shelby--Andy Anderson Park,2019-05-01,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,0.032,1,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
-S57539717,L9458271,Shelby Montana,2019-06-20,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,3.219,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S51389295,L4908771,Shelby--Andy Anderson Park,2019-01-06,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,8,0.805,1,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
-S62445257,L9458271,Shelby Montana,2019-12-19,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,120,11.265,1,48.506537,-111.85224,8,8,city_2379_montana_shelby
-S61402844,L9458271,Shelby Montana,2019-11-12,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,45,,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S58105398,L4908771,Shelby--Andy Anderson Park,2019-07-11,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S60614385,L9458271,Shelby Montana,2019-10-14,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S61869735,L9458271,Shelby Montana,2019-11-30,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.506537,-111.85224,3,3,city_2379_montana_shelby
-S57325894,L9458271,Shelby Montana,2019-06-12,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S57355415,L9458271,Shelby Montana,2019-06-13,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S59900379,L9458271,Shelby Montana,2019-09-18,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,45,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S57940150,L9458271,Shelby Montana,2019-07-05,2019,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S67496757,L9458271,Shelby Montana,2020-04-19,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,150,16.093,1,48.506537,-111.85224,7,7,city_2379_montana_shelby
-S66139312,L9458271,Shelby Montana,2020-03-23,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,45,8.047,1,48.506537,-111.85224,8,8,city_2379_montana_shelby
-S64398170,L9458271,Shelby Montana,2020-02-12,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.506537,-111.85224,5,5,city_2379_montana_shelby
-S70923676,L9458271,Shelby Montana,2020-06-28,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,120,14.484,1,48.506537,-111.85224,10,10,city_2379_montana_shelby
-S69396486,L9458271,Shelby Montana,2020-05-20,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S67243057,L9458271,Shelby Montana,2020-04-15,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S68104792,L9458271,Shelby Montana,2020-04-30,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S63861051,L9458271,Shelby Montana,2020-01-27,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,1.609,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S66929971,L9458271,Shelby Montana,2020-04-10,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S65466252,L9458271,Shelby Montana,2020-03-05,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S75266380,L7148199,"117 East Cascade ave, Shelby US-MT (48.5068,-111.8522)",2020-10-23,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,,1,48.506839,-111.852164,7,7,city_2379_montana_shelby
-S69189213,L9458271,Shelby Montana,2020-05-16,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,45,,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S63098148,L9458271,Shelby Montana,2020-01-06,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S67322785,L9458271,Shelby Montana,2020-04-16,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S66592925,L9458271,Shelby Montana,2020-04-03,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S65845888,L9458271,Shelby Montana,2020-03-15,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S69905759,L9458271,Shelby Montana,2020-05-31,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,11,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S67852262,L9458271,Shelby Montana,2020-04-26,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S67675102,L9458271,Shelby Montana,2020-04-23,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,2,2,city_2379_montana_shelby
-S72490073,L4908771,Shelby--Andy Anderson Park,2020-08-16,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,30,,1,48.5041469,-111.8562346,2,2,city_2379_montana_shelby
-S68575580,L9458271,Shelby Montana,2020-05-07,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S69761135,L9458271,Shelby Montana,2020-05-28,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S65750655,L9458271,Shelby Montana,2020-03-13,2020,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S82280007,L13740217,Shelby - House,2021-02-24,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,17,,1,48.507179,-111.8492595,2,2,city_2379_montana_shelby
-S82802727,L13903169,Shelby (Northeast Town),2021-03-05,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,60,1.384,1,48.5083549,-111.8490396,9,9,city_2379_montana_shelby
-S83307225,L13740217,Shelby - House,2021-03-13,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.507179,-111.8492595,7,7,city_2379_montana_shelby
-S83021137,L13903169,Shelby (Northeast Town),2021-03-08,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,42,1.037,1,48.5083549,-111.8490396,7,7,city_2379_montana_shelby
-S83100826,L13903169,Shelby (Northeast Town),2021-03-09,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,50,1.393,1,48.5083549,-111.8490396,5,5,city_2379_montana_shelby
-S85031781,L13740217,Shelby - House,2021-04-07,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,45,0.805,1,48.507179,-111.8492595,10,10,city_2379_montana_shelby
-S87844007,L14884380,"211 Central Avenue, Shelby, Montana, US (48.507, -111.856)",2021-05-11,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,68,1.207,1,48.5067556,-111.8562518,15,15,city_2379_montana_shelby
-S90931693,L15561294,Shelby (town),2021-06-28,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,6,0.644,1,48.506063,-111.861211,8,8,city_2379_montana_shelby
-S93001441,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2021-08-09,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,17,0.628,1,48.5078043,-111.8712045,9,9,city_2379_montana_shelby
-S82644895,L13740217,Shelby - House,2021-03-02,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.507179,-111.8492595,1,1,city_2379_montana_shelby
-S85549143,L14458046,"3rd Street, Shelby, Montana, US (48.51, -111.875)",2021-04-14,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,34,1.963,1,48.5097767,-111.8751638,2,2,city_2379_montana_shelby
-S84366260,L9458271,Shelby Montana,2021-03-29,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,20,,1,48.506537,-111.85224,3,3,city_2379_montana_shelby
-S93050824,L4908771,Shelby--Andy Anderson Park,2021-08-10,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,13,2.044,1,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
-S82746838,L13903169,Shelby (Northeast Town),2021-03-04,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,104,2.665,1,48.5083549,-111.8490396,10,10,city_2379_montana_shelby
-S82429040,L13740217,Shelby - House,2021-02-27,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,18,,1,48.507179,-111.8492595,3,3,city_2379_montana_shelby
-S82684796,L13903169,Shelby (Northeast Town),2021-03-03,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,73,1.577,1,48.5083549,-111.8490396,9,9,city_2379_montana_shelby
-S83206644,L13903169,Shelby (Northeast Town),2021-03-11,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,54,3.589,1,48.5083549,-111.8490396,6,6,city_2379_montana_shelby
-S81906286,L13756342,James A. Johnson Park,2021-02-18,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,11,0.184,1,48.5079879,-111.8709348,3,3,city_2379_montana_shelby
-S96880427,L16769352,"North Shelby, Montana, US",2021-10-30,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,7,1.963,1,48.5157522,-111.8540752,6,6,city_2379_montana_shelby
-S82321084,L13740217,Shelby - House,2021-02-25,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,9,,1,48.507179,-111.8492595,2,2,city_2379_montana_shelby
-S81839603,L13740217,Shelby - House,2021-02-17,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,52,1.203,1,48.507179,-111.8492595,4,4,city_2379_montana_shelby
-S83674849,L9458271,Shelby Montana,2021-03-19,2021,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506537,-111.85224,1,1,city_2379_montana_shelby
-S114988337,L4908771,Shelby--Andy Anderson Park,2022-07-13,2022,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S113704782,L19812652,"201–279 Front St, Shelby US-MT 48.50618, -111.85647",2022-06-24,2022,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,15,,1,48.506185,-111.856475,2,2,city_2379_montana_shelby
-S113491713,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2022-06-21,2022,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,11,,1,48.5078043,-111.8712045,6,6,city_2379_montana_shelby
-S120496999,L21208442,"Auto selected 48.50647, -111.85642",2022-10-11,2022,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,8,,1,48.506474,-111.856419,3,3,city_2379_montana_shelby
-S149714559,L27054103,"Best Western Shelby, Montana, US (48.516, -111.881)",2023-09-12,2023,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,44,0.772,1,48.5158439,-111.8808106,3,3,city_2379_montana_shelby
-S151492712,L4908771,Shelby--Andy Anderson Park,2023-10-05,2023,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,2,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S140641897,L24976151,Shelby,2023-06-05,2023,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,13,2.161,1,48.504979,-111.855363,3,3,city_2379_montana_shelby
-S145114857,L26072021,Shelby Train Station,2023-07-20,2023,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.5068689,-111.8572076,1,1,city_2379_montana_shelby
-S218003591,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2024-06-11,2024,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,0.057,1,48.5078043,-111.8712045,8,8,city_2379_montana_shelby
-S180898352,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2024-06-11,2024,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,0.057,1,48.5078043,-111.8712045,8,8,city_2379_montana_shelby
-S218004754,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2024-06-11,2024,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,14,0.057,1,48.5078043,-111.8712045,8,8,city_2379_montana_shelby
-S185850421,L34432442,"1948 W Roosevelt Hwy, Shelby US-MT",2024-07-07,2024,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,133,,1,48.515861,-111.880791,3,3,city_2379_montana_shelby
-S189054406,L35201030,"454 Harding Ave, Shelby US-MT 48.51217, -111.87121",2024-07-27,2024,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,,1,48.512172,-111.871208,1,1,city_2379_montana_shelby
-S274280581,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2025-09-19,2025,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,46,0.308,1,48.5078043,-111.8712045,21,21,city_2379_montana_shelby
-S272279172,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2025-09-08,2025,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,23,0.112,1,48.5078043,-111.8712045,13,13,city_2379_montana_shelby
-S257921479,L4908771,Shelby--Andy Anderson Park,2025-07-07,2025,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,10,,1,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
-S267238360,L51515825,MT--Shelby (town),2025-08-07,2025,2379,"Shelby, MT",Shelby,Montana,Toole,3731940.62959341,5,0.656,1,48.505811,-111.85789,1,1,city_2379_montana_shelby
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S25089532,L3864113,"Shelby, MT",2015-09-19,2015,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.5029503,-111.8537539,12,12,city_2379_montana_shelby
+S26646433,L4124917,Montana--Shelby,2015-11-13,2015,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,75,4.023,1,Traveling,48.5062842,-111.8593812,7,7,city_2379_montana_shelby
+S26832896,L4011875,Montana--Shelby,2016-01-08,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,75,17.703,1,Traveling,48.5056421,-111.8576813,3,3,city_2379_montana_shelby
+S29270897,L4543067,Shelby Swimming Pool and Jimmy Johns Park,2016-04-28,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,,1,Stationary,48.5077094,-111.8709856,4,4,city_2379_montana_shelby
+S29330201,L4552418,James A. Johnson Park,2016-05-01,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,42,0.161,1,Traveling,48.5079902,-111.8713546,8,8,city_2379_montana_shelby
+S29527849,L4908771,Shelby--Andy Anderson Park,2016-05-06,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,,1,Stationary,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S29645266,L4598065,Shelby,2016-05-14,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,7,,1,Stationary,48.504168,-111.864055,4,4,city_2379_montana_shelby
+S29909621,L4908771,Shelby--Andy Anderson Park,2016-05-23,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,0.74,1,Traveling,48.5041469,-111.8562346,16,16,city_2379_montana_shelby
+S29942622,L4598065,Shelby,2016-05-27,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,11,0.483,1,Traveling,48.504168,-111.864055,6,6,city_2379_montana_shelby
+S31031740,L4908771,Shelby--Andy Anderson Park,2016-08-03,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S31225068,L4908771,Shelby--Andy Anderson Park,2016-08-24,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S31225248,L4908771,Shelby--Andy Anderson Park,2016-08-24,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,,1,Stationary,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S31469945,L4908771,Shelby--Andy Anderson Park,2016-09-07,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,6,,1,Stationary,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S31486663,L4908771,Shelby--Andy Anderson Park,2016-09-08,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,33,1.127,1,Traveling,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S31485513,L4908771,Shelby--Andy Anderson Park,2016-09-08,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S31500449,L4908771,Shelby--Andy Anderson Park,2016-09-09,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,40,1.127,1,Traveling,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S31525576,L4908771,Shelby--Andy Anderson Park,2016-09-11,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,22,1.127,1,Traveling,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
+S31551700,L4908771,Shelby--Andy Anderson Park,2016-09-12,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,1.127,1,Traveling,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S31600604,L4908771,Shelby--Andy Anderson Park,2016-09-15,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,0.805,1,Traveling,48.5041469,-111.8562346,12,12,city_2379_montana_shelby
+S31723097,L4944368,Andy Anderson Park area,2016-09-23,2016,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,25,0.402,1,Traveling,48.504008,-111.856321,8,8,city_2379_montana_shelby
+S33993304,L4908771,Shelby--Andy Anderson Park,2017-01-28,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S34110847,L4908771,Shelby--Andy Anderson Park,2017-02-02,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,8,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S35009781,L4908771,Shelby--Andy Anderson Park,2017-02-18,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S34464743,L4980694,US-Montana-Shelby-121 12th Avenue North - 48.508x-111.871 Jimmy John,2017-02-18,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,7,,1,Stationary,48.508492,-111.8711768,5,5,city_2379_montana_shelby
+S34521872,L4908771,Shelby--Andy Anderson Park,2017-02-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S34588604,L4908771,Shelby--Andy Anderson Park,2017-02-20,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S34846592,L4908771,Shelby--Andy Anderson Park,2017-02-27,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S35253252,L4908771,Shelby--Andy Anderson Park,2017-03-18,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,7,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S35277371,L4908771,Shelby--Andy Anderson Park,2017-03-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,0.805,1,Traveling,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S35277316,L4908771,Shelby--Andy Anderson Park,2017-03-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,18,,1,Stationary,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S35277323,L4908771,Shelby--Andy Anderson Park,2017-03-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S35307031,L4908771,Shelby--Andy Anderson Park,2017-03-20,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,6,,1,Stationary,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S35512718,L4908771,Shelby--Andy Anderson Park,2017-03-29,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,6,0.161,1,Traveling,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S35735485,L4908771,Shelby--Andy Anderson Park,2017-04-06,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,11,0.322,1,Traveling,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S35756229,L4908771,Shelby--Andy Anderson Park,2017-04-07,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S35790826,L4908771,Shelby--Andy Anderson Park,2017-04-08,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,6,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S35788243,L4908771,Shelby--Andy Anderson Park,2017-04-08,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,6,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S35873959,L4908771,Shelby--Andy Anderson Park,2017-04-11,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S35951183,L4908771,Shelby--Andy Anderson Park,2017-04-14,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,7,,1,Stationary,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S35979907,L4908771,Shelby--Andy Anderson Park,2017-04-15,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S36050709,L4908771,Shelby--Andy Anderson Park,2017-04-17,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,8,0.161,1,Traveling,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S36097212,L4908771,Shelby--Andy Anderson Park,2017-04-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S36131014,L4908771,Shelby--Andy Anderson Park,2017-04-20,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S36282571,L4124917,Montana--Shelby,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,0.402,1,Traveling,48.5062842,-111.8593812,7,7,city_2379_montana_shelby
+S36282517,L4124917,Montana--Shelby,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,0.402,1,Traveling,48.5062842,-111.8593812,2,2,city_2379_montana_shelby
+S36242227,L4552418,James A. Johnson Park,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,,1,Stationary,48.5079902,-111.8713546,5,5,city_2379_montana_shelby
+S36230202,L4908771,Shelby--Andy Anderson Park,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,,1,Stationary,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S36242189,L5744105,US-Montana-Shelby-908 Turner Avenue - 48.515x-111.859,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,11,,1,Stationary,48.5145791,-111.8590992,3,3,city_2379_montana_shelby
+S36242215,L5744109,US-Montana-Shelby-928-1024 Ash Avenue - 48.498x-111.863,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.4978403,-111.862568,3,3,city_2379_montana_shelby
+S36242224,L5744110,US-Montana-Shelby-309 9th Avenue - 48.504x-111.867,2017-04-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,0.161,1,Traveling,48.5040717,-111.8674703,3,3,city_2379_montana_shelby
+S36320100,L4908771,Shelby--Andy Anderson Park,2017-04-26,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S36297645,L4908771,Shelby--Andy Anderson Park,2017-04-26,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S36536578,L4908771,Shelby--Andy Anderson Park,2017-05-04,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S36660826,L5804426,Aronow Park,2017-05-08,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,,1,Stationary,48.5139622,-111.8586952,7,7,city_2379_montana_shelby
+S36676746,L4908771,Shelby--Andy Anderson Park,2017-05-09,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,0.161,1,Traveling,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S36980464,L4908771,Shelby--Andy Anderson Park,2017-05-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,7,,1,Stationary,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S37306764,L4908771,Shelby--Andy Anderson Park,2017-06-01,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,0.161,1,Traveling,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S37421327,L4908771,Shelby--Andy Anderson Park,2017-06-06,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S37485121,L4908771,Shelby--Andy Anderson Park,2017-06-09,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,8,0.161,1,Traveling,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
+S38557020,L6166544,"(48.502, -111.856)",2017-08-09,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,16,0.821,1,Traveling,48.5021178,-111.8561578,4,4,city_2379_montana_shelby
+S38572710,L4908771,Shelby--Andy Anderson Park,2017-08-10,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,33,0.869,1,Traveling,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
+S38602108,L4908771,Shelby--Andy Anderson Park,2017-08-11,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,0.805,1,Traveling,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
+S38602039,L4908771,Shelby--Andy Anderson Park,2017-08-12,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,19,0.837,1,Traveling,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S38655037,L4908771,Shelby--Andy Anderson Park,2017-08-15,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,7,0.161,1,Traveling,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S38669512,L4908771,Shelby--Andy Anderson Park,2017-08-16,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S38712101,L4908771,Shelby--Andy Anderson Park,2017-08-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,25,0.724,1,Traveling,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S38886357,L4908771,Shelby--Andy Anderson Park,2017-08-29,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,,1,Stationary,48.5041469,-111.8562346,12,12,city_2379_montana_shelby
+S38913370,L4908771,Shelby--Andy Anderson Park,2017-08-30,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,28,1.577,1,Traveling,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S38913462,L4908771,Shelby--Andy Anderson Park,2017-08-30,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,0.966,1,Traveling,48.5041469,-111.8562346,13,13,city_2379_montana_shelby
+S38920374,L4908771,Shelby--Andy Anderson Park,2017-08-31,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,0.628,1,Traveling,48.5041469,-111.8562346,15,15,city_2379_montana_shelby
+S38946995,L4908771,Shelby--Andy Anderson Park,2017-09-01,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,180,3.219,1,Traveling,48.5041469,-111.8562346,30,30,city_2379_montana_shelby
+S39033648,L4908771,Shelby--Andy Anderson Park,2017-09-06,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,1.662,1,Traveling,48.5041469,-111.8562346,18,18,city_2379_montana_shelby
+S39066917,L4908771,Shelby--Andy Anderson Park,2017-09-08,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,43,1.77,1,Traveling,48.5041469,-111.8562346,17,17,city_2379_montana_shelby
+S39093298,L4908771,Shelby--Andy Anderson Park,2017-09-09,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,76,1.368,1,Traveling,48.5041469,-111.8562346,21,21,city_2379_montana_shelby
+S39132840,L4908771,Shelby--Andy Anderson Park,2017-09-11,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,37,0.941,1,Traveling,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
+S39173949,L4908771,Shelby--Andy Anderson Park,2017-09-12,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,22,0.917,1,Traveling,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
+S39173915,L4908771,Shelby--Andy Anderson Park,2017-09-14,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,36,0.853,1,Traveling,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S39236105,L4908771,Shelby--Andy Anderson Park,2017-09-17,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,45,1.338,1,Traveling,48.5041469,-111.8562346,17,17,city_2379_montana_shelby
+S39289285,L4908771,Shelby--Andy Anderson Park,2017-09-19,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,27,1.062,1,Traveling,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S39312668,L4908771,Shelby--Andy Anderson Park,2017-09-21,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,0.338,1,Traveling,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
+S39518134,L4908771,Shelby--Andy Anderson Park,2017-09-27,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,12,0.51,1,Traveling,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S39454877,L4908771,Shelby--Andy Anderson Park,2017-09-29,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,0.805,1,Traveling,48.5041469,-111.8562346,12,12,city_2379_montana_shelby
+S39492532,L4908771,Shelby--Andy Anderson Park,2017-10-01,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,13,0.756,1,Traveling,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S39562780,L4908771,Shelby--Andy Anderson Park,2017-10-05,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,0.676,1,Traveling,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
+S39912708,L4908771,Shelby--Andy Anderson Park,2017-10-11,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,0.612,1,Traveling,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S39912703,L4908771,Shelby--Andy Anderson Park,2017-10-13,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,33,1.347,1,Traveling,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S39935375,L4908771,Shelby--Andy Anderson Park,2017-10-15,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,18,1.414,1,Traveling,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S40012193,L4908771,Shelby--Andy Anderson Park,2017-10-18,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S40043742,L4908771,Shelby--Andy Anderson Park,2017-10-21,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,21,,1,Stationary,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S40063567,L4908771,Shelby--Andy Anderson Park,2017-10-22,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S40083211,L4908771,Shelby--Andy Anderson Park,2017-10-23,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,12,0.805,1,Traveling,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
+S40089395,L4908771,Shelby--Andy Anderson Park,2017-10-23,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,,1,Stationary,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
+S40123967,L4908771,Shelby--Andy Anderson Park,2017-10-24,2017,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,12,0.25,1,Traveling,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S42645410,L4908771,Shelby--Andy Anderson Park,2018-02-10,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,0.161,1,Traveling,48.5041469,-111.8562346,2,2,city_2379_montana_shelby
+S43690773,L4908771,Shelby--Andy Anderson Park,2018-03-16,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,0.805,1,Traveling,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S43859359,L4908771,Shelby--Andy Anderson Park,2018-03-22,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.692,1,Traveling,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S43977784,L4908771,Shelby--Andy Anderson Park,2018-03-26,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,0.08,1,Traveling,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S44151863,L4908771,Shelby--Andy Anderson Park,2018-04-01,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S44495795,L4908771,Shelby--Andy Anderson Park,2018-04-12,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S44594801,L4908771,Shelby--Andy Anderson Park,2018-04-15,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.657,1,Traveling,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S45101731,L4908771,Shelby--Andy Anderson Park,2018-04-30,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,12,0.628,1,Traveling,48.5041469,-111.8562346,12,12,city_2379_montana_shelby
+S45246378,L4908771,Shelby--Andy Anderson Park,2018-05-04,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.587,1,Traveling,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
+S45304214,L7344851,Clark Drive,2018-05-05,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.506687,-111.852242,1,1,city_2379_montana_shelby
+S45580374,L4908771,Shelby--Andy Anderson Park,2018-05-12,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,12,0.506,1,Traveling,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
+S45697973,L4908771,Shelby--Andy Anderson Park,2018-05-15,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,8,0.177,1,Traveling,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S45740867,L7418879,"718 North Marias Avenue, Shelby, Montana, US (48.511, -111.858)",2018-05-15,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,13,1.059,1,Traveling,48.5110885,-111.858194,10,10,city_2379_montana_shelby
+S45740842,L4908771,Shelby--Andy Anderson Park,2018-05-16,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,17,0.885,1,Traveling,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
+S45771406,L7148199,"117 East Cascade ave, Shelby US-MT (48.5068,-111.8522)",2018-05-17,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506839,-111.852164,1,1,city_2379_montana_shelby
+S45852224,L4908771,Shelby--Andy Anderson Park,2018-05-19,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,6,0.341,1,Traveling,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S45828351,L7433252,"227 8th Avenue South, Shelby, Montana, US (48.506, -111.866)",2018-05-19,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,7,0.08,1,Traveling,48.5055472,-111.8658819,7,7,city_2379_montana_shelby
+S45892270,L4908771,Shelby--Andy Anderson Park,2018-05-21,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,17,0.901,1,Traveling,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
+S46264071,L5804426,Aronow Park,2018-06-03,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5139622,-111.8586952,4,4,city_2379_montana_shelby
+S46262200,L7512186,"827 9th Street South, Shelby, Montana, US (48.498, -111.866)",2018-06-03,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,8,0.573,1,Traveling,48.4983012,-111.865896,5,5,city_2379_montana_shelby
+S48357002,L7903954,Shelby- North Side,2018-09-06,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,42,1.545,1,Traveling,48.5124842,-111.8571815,18,18,city_2379_montana_shelby
+S48372533,L7906406,"7th Street North, Shelby, Montana, US (48.516, -111.858)",2018-09-07,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,17,1.389,1,Traveling,48.5160405,-111.8577501,8,8,city_2379_montana_shelby
+S48419431,L4908771,Shelby--Andy Anderson Park,2018-09-09,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,24,0.652,1,Traveling,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
+S48706370,L4908771,Shelby--Andy Anderson Park,2018-09-23,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,0.085,1,Traveling,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S48720884,L4908771,Shelby--Andy Anderson Park,2018-09-24,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,36,1.056,1,Traveling,48.5041469,-111.8562346,14,14,city_2379_montana_shelby
+S48800438,L4908771,Shelby--Andy Anderson Park,2018-09-28,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,0.805,1,Traveling,48.5041469,-111.8562346,9,9,city_2379_montana_shelby
+S48946191,L4908771,Shelby--Andy Anderson Park,2018-10-05,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,19,0.885,1,Traveling,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S48998131,L4908771,Shelby--Andy Anderson Park,2018-10-06,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S48976127,L4908771,Shelby--Andy Anderson Park,2018-10-06,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,16,0.853,1,Traveling,48.5041469,-111.8562346,10,10,city_2379_montana_shelby
+S49116308,L4908771,Shelby--Andy Anderson Park,2018-10-11,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,16,0.789,1,Traveling,48.5041469,-111.8562346,11,11,city_2379_montana_shelby
+S49549442,L8086073,lake Francis mt,2018-10-28,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,240,,1,,48.504509,-111.858775,0,0,city_2379_montana_shelby
+S49909913,L4908771,Shelby--Andy Anderson Park,2018-11-13,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.331,1,Traveling,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S50206099,L4908771,Shelby--Andy Anderson Park,2018-11-22,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,0.563,1,Traveling,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S50593691,L4908771,Shelby--Andy Anderson Park,2018-12-11,2018,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,0.225,1,Traveling,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S51217903,L4908771,Shelby--Andy Anderson Park,2019-01-02,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,0.048,1,Traveling,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S51389295,L4908771,Shelby--Andy Anderson Park,2019-01-06,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,8,0.805,1,Traveling,48.5041469,-111.8562346,6,6,city_2379_montana_shelby
+S55550155,L4908771,Shelby--Andy Anderson Park,2019-04-29,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.681,1,Traveling,48.5041469,-111.8562346,8,8,city_2379_montana_shelby
+S55628120,L4908771,Shelby--Andy Anderson Park,2019-05-01,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,0.032,1,Traveling,48.5041469,-111.8562346,4,4,city_2379_montana_shelby
+S57325894,L9458271,Shelby Montana,2019-06-12,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S57355415,L9458271,Shelby Montana,2019-06-13,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S57474063,L4908771,Shelby--Andy Anderson Park,2019-06-17,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,90,,1,Stationary,48.5041469,-111.8562346,5,5,city_2379_montana_shelby
+S57539717,L9458271,Shelby Montana,2019-06-20,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,3.219,1,Traveling,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S57940150,L9458271,Shelby Montana,2019-07-05,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S58105398,L4908771,Shelby--Andy Anderson Park,2019-07-11,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S59900379,L9458271,Shelby Montana,2019-09-18,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,45,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S59959563,L7433252,"227 8th Avenue South, Shelby, Montana, US (48.506, -111.866)",2019-09-20,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,0.133,1,Traveling,48.5055472,-111.8658819,4,4,city_2379_montana_shelby
+S60285419,L9458271,Shelby Montana,2019-10-02,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.506537,-111.85224,6,6,city_2379_montana_shelby
+S60480082,L9458271,Shelby Montana,2019-10-09,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,90,8.047,1,Traveling,48.506537,-111.85224,9,9,city_2379_montana_shelby
+S60511783,L9458271,Shelby Montana,2019-10-10,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,1.609,1,Traveling,48.506537,-111.85224,3,3,city_2379_montana_shelby
+S60614385,L9458271,Shelby Montana,2019-10-14,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S60824836,L9458271,Shelby Montana,2019-10-21,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,4.828,1,Traveling,48.506537,-111.85224,3,3,city_2379_montana_shelby
+S61297392,L9458271,Shelby Montana,2019-11-09,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,4.828,1,Traveling,48.506537,-111.85224,7,7,city_2379_montana_shelby
+S61402844,L9458271,Shelby Montana,2019-11-12,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,45,,1,Stationary,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S61869735,L9458271,Shelby Montana,2019-11-30,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.506537,-111.85224,3,3,city_2379_montana_shelby
+S62445257,L9458271,Shelby Montana,2019-12-19,2019,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,120,11.265,1,Traveling,48.506537,-111.85224,8,8,city_2379_montana_shelby
+S63098148,L9458271,Shelby Montana,2020-01-06,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S63861051,L9458271,Shelby Montana,2020-01-27,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,1.609,1,Traveling,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S64398170,L9458271,Shelby Montana,2020-02-12,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.506537,-111.85224,5,5,city_2379_montana_shelby
+S65466252,L9458271,Shelby Montana,2020-03-05,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S65750655,L9458271,Shelby Montana,2020-03-13,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S65845888,L9458271,Shelby Montana,2020-03-15,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S65994356,L9458271,Shelby Montana,2020-03-19,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.506537,-111.85224,0,0,city_2379_montana_shelby
+S66139312,L9458271,Shelby Montana,2020-03-23,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,45,8.047,1,Traveling,48.506537,-111.85224,8,8,city_2379_montana_shelby
+S66592925,L9458271,Shelby Montana,2020-04-03,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S66929971,L9458271,Shelby Montana,2020-04-10,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S67243057,L9458271,Shelby Montana,2020-04-15,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S67322785,L9458271,Shelby Montana,2020-04-16,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S67496757,L9458271,Shelby Montana,2020-04-19,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,150,16.093,1,Traveling,48.506537,-111.85224,7,7,city_2379_montana_shelby
+S67675102,L9458271,Shelby Montana,2020-04-23,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S67852262,L9458271,Shelby Montana,2020-04-26,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S68104792,L9458271,Shelby Montana,2020-04-30,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S68575580,L9458271,Shelby Montana,2020-05-07,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S69189213,L9458271,Shelby Montana,2020-05-16,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,45,,1,Stationary,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S69396486,L9458271,Shelby Montana,2020-05-20,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.506537,-111.85224,2,2,city_2379_montana_shelby
+S69761135,L9458271,Shelby Montana,2020-05-28,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S69905759,L9458271,Shelby Montana,2020-05-31,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,11,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S70923676,L9458271,Shelby Montana,2020-06-28,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,120,14.484,1,Traveling,48.506537,-111.85224,10,10,city_2379_montana_shelby
+S72490073,L4908771,Shelby--Andy Anderson Park,2020-08-16,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,,1,Stationary,48.5041469,-111.8562346,2,2,city_2379_montana_shelby
+S75266380,L7148199,"117 East Cascade ave, Shelby US-MT (48.5068,-111.8522)",2020-10-23,2020,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,,1,Stationary,48.506839,-111.852164,7,7,city_2379_montana_shelby
+S81839603,L13740217,Shelby - House,2021-02-17,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,52,1.203,1,Traveling,48.507179,-111.8492595,4,4,city_2379_montana_shelby
+S81906286,L13756342,James A. Johnson Park,2021-02-18,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,11,0.184,1,Traveling,48.5079879,-111.8709348,3,3,city_2379_montana_shelby
+S82280007,L13740217,Shelby - House,2021-02-24,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,17,,1,Stationary,48.507179,-111.8492595,2,2,city_2379_montana_shelby
+S82321084,L13740217,Shelby - House,2021-02-25,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,,1,Stationary,48.507179,-111.8492595,2,2,city_2379_montana_shelby
+S82429040,L13740217,Shelby - House,2021-02-27,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,18,,1,Stationary,48.507179,-111.8492595,3,3,city_2379_montana_shelby
+S82644895,L13740217,Shelby - House,2021-03-02,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.507179,-111.8492595,1,1,city_2379_montana_shelby
+S82684796,L13903169,Shelby (Northeast Town),2021-03-03,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,73,1.577,1,Traveling,48.5083549,-111.8490396,9,9,city_2379_montana_shelby
+S82746838,L13903169,Shelby (Northeast Town),2021-03-04,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,104,2.665,1,Traveling,48.5083549,-111.8490396,10,10,city_2379_montana_shelby
+S82802727,L13903169,Shelby (Northeast Town),2021-03-05,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,1.384,1,Traveling,48.5083549,-111.8490396,9,9,city_2379_montana_shelby
+S83021137,L13903169,Shelby (Northeast Town),2021-03-08,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,42,1.037,1,Traveling,48.5083549,-111.8490396,7,7,city_2379_montana_shelby
+S83100826,L13903169,Shelby (Northeast Town),2021-03-09,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,50,1.393,1,Traveling,48.5083549,-111.8490396,5,5,city_2379_montana_shelby
+S83206644,L13903169,Shelby (Northeast Town),2021-03-11,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,54,3.589,1,Traveling,48.5083549,-111.8490396,6,6,city_2379_montana_shelby
+S83307225,L13740217,Shelby - House,2021-03-13,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.507179,-111.8492595,7,7,city_2379_montana_shelby
+S83674849,L9458271,Shelby Montana,2021-03-19,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506537,-111.85224,1,1,city_2379_montana_shelby
+S84366260,L9458271,Shelby Montana,2021-03-29,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,20,,1,Stationary,48.506537,-111.85224,3,3,city_2379_montana_shelby
+S85031781,L13740217,Shelby - House,2021-04-07,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,45,0.805,1,Traveling,48.507179,-111.8492595,10,10,city_2379_montana_shelby
+S85549143,L14458046,"3rd Street, Shelby, Montana, US (48.51, -111.875)",2021-04-14,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,34,1.963,1,Traveling,48.5097767,-111.8751638,2,2,city_2379_montana_shelby
+S87844007,L14884380,"211 Central Avenue, Shelby, Montana, US (48.507, -111.856)",2021-05-11,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,68,1.207,1,Traveling,48.5067556,-111.8562518,15,15,city_2379_montana_shelby
+S90931693,L15561294,Shelby (town),2021-06-28,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,6,0.644,1,Traveling,48.506063,-111.861211,8,8,city_2379_montana_shelby
+S93001441,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2021-08-09,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,17,0.628,1,Traveling,48.5078043,-111.8712045,9,9,city_2379_montana_shelby
+S93050824,L4908771,Shelby--Andy Anderson Park,2021-08-10,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,13,2.044,1,Traveling,48.5041469,-111.8562346,7,7,city_2379_montana_shelby
+S96880427,L16769352,"North Shelby, Montana, US",2021-10-30,2021,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,7,1.963,1,Traveling,48.5157522,-111.8540752,6,6,city_2379_montana_shelby
+S113491713,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2022-06-21,2022,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,11,,1,Stationary,48.5078043,-111.8712045,6,6,city_2379_montana_shelby
+S113704782,L19812652,"201–279 Front St, Shelby US-MT 48.50618, -111.85647",2022-06-24,2022,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,15,,1,Stationary,48.506185,-111.856475,2,2,city_2379_montana_shelby
+S114988337,L4908771,Shelby--Andy Anderson Park,2022-07-13,2022,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S120496999,L21208442,"Auto selected 48.50647, -111.85642",2022-10-11,2022,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,8,,1,Stationary,48.506474,-111.856419,3,3,city_2379_montana_shelby
+S140641897,L24976151,Shelby,2023-06-05,2023,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,13,2.161,1,Traveling,48.504979,-111.855363,3,3,city_2379_montana_shelby
+S145114857,L26072021,Shelby Train Station,2023-07-20,2023,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.5068689,-111.8572076,1,1,city_2379_montana_shelby
+S149714559,L27054103,"Best Western Shelby, Montana, US (48.516, -111.881)",2023-09-12,2023,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,44,0.772,1,Traveling,48.5158439,-111.8808106,3,3,city_2379_montana_shelby
+S151492712,L4908771,Shelby--Andy Anderson Park,2023-10-05,2023,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,2,1,Traveling,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S218003591,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2024-06-11,2024,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.057,1,Traveling,48.5078043,-111.8712045,8,8,city_2379_montana_shelby
+S218004754,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2024-06-11,2024,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.057,1,Traveling,48.5078043,-111.8712045,8,8,city_2379_montana_shelby
+S180898352,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2024-06-11,2024,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.057,1,Traveling,48.5078043,-111.8712045,8,8,city_2379_montana_shelby
+S185850421,L34432442,"1948 W Roosevelt Hwy, Shelby US-MT",2024-07-07,2024,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,133,,1,Stationary,48.515861,-111.880791,3,3,city_2379_montana_shelby
+S189054406,L35201030,"454 Harding Ave, Shelby US-MT 48.51217, -111.87121",2024-07-27,2024,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,,1,Stationary,48.512172,-111.871208,1,1,city_2379_montana_shelby
+S191556364,L35791896,Shelby Amtrak Station,2024-08-15,2024,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,14,0.161,1,Traveling,48.507395,-111.8561624,0,0,city_2379_montana_shelby
+S257921479,L4908771,Shelby--Andy Anderson Park,2025-07-07,2025,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,10,,1,Stationary,48.5041469,-111.8562346,3,3,city_2379_montana_shelby
+S267238360,L51515825,MT--Shelby (town),2025-08-07,2025,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,5,0.656,1,Traveling,48.505811,-111.85789,1,1,city_2379_montana_shelby
+S272279172,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2025-09-08,2025,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,23,0.112,1,Traveling,48.5078043,-111.8712045,13,13,city_2379_montana_shelby
+S273967495,L4908771,Shelby--Andy Anderson Park,2025-09-17,2025,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,2.269,1,Traveling,48.5041469,-111.8562346,0,0,city_2379_montana_shelby
+S274280581,L16057447,"Johnson Memorial Park (Swimming Pool Park), Shelby, Montana, US (48.508, -111.871)",2025-09-19,2025,2379,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,46,0.308,1,Traveling,48.5078043,-111.8712045,21,21,city_2379_montana_shelby

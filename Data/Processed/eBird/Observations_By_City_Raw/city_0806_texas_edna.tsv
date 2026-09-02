@@ -1,14 +1,14 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S24148661	2015-07-04	L291029	Edna	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	28.9785600	-96.6460500	Traveling	1	0
 S24148661	2015-07-04	L291029	Edna	Purple Martin	Progne subis	24081	species	12	28.9785600	-96.6460500	Traveling	1	0
+S24148661	2015-07-04	L291029	Edna	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	28.9785600	-96.6460500	Traveling	1	0
+S24148661	2015-07-04	L291029	Edna	White-winged Dove	Zenaida asiatica	2389	species	3	28.9785600	-96.6460500	Traveling	1	0
+S24148661	2015-07-04	L291029	Edna	Mississippi Kite	Ictinia mississippiensis	8388	species	1	28.9785600	-96.6460500	Traveling	1	0
 S24148661	2015-07-04	L291029	Edna	House Sparrow	Passer domesticus	31534	species	15	28.9785600	-96.6460500	Traveling	1	0
 S24148661	2015-07-04	L291029	Edna	Northern Mockingbird	Mimus polyglottos	28114	species	2	28.9785600	-96.6460500	Traveling	1	0
 S24148661	2015-07-04	L291029	Edna	Western Kingbird	Tyrannus verticalis	17467	species	4	28.9785600	-96.6460500	Traveling	1	0
 S24148661	2015-07-04	L291029	Edna	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	28.9785600	-96.6460500	Traveling	1	0
-S24148661	2015-07-04	L291029	Edna	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	28.9785600	-96.6460500	Traveling	1	0
-S24148661	2015-07-04	L291029	Edna	White-winged Dove	Zenaida asiatica	2389	species	3	28.9785600	-96.6460500	Traveling	1	0
 S24148661	2015-07-04	L291029	Edna	Loggerhead Shrike	Lanius ludovicianus	21091	species	2	28.9785600	-96.6460500	Traveling	1	0
-S24148661	2015-07-04	L291029	Edna	Mississippi Kite	Ictinia mississippiensis	8388	species	1	28.9785600	-96.6460500	Traveling	1	0
 S24148661	2015-07-04	L291029	Edna	Mourning Dove	Zenaida macroura	2412	species	9	28.9785600	-96.6460500	Traveling	1	0
 S27190674	2016-01-29	L291029	Edna	Northern Cardinal	Cardinalis cardinalis	34515	species	1	28.9785600	-96.6460500	Stationary	1	0
 S27190674	2016-01-29	L291029	Edna	Downy Woodpecker	Dryobates pubescens	11400	species	1	28.9785600	-96.6460500	Stationary	1	0
@@ -50,8 +50,8 @@ S34767279	2017-02-24	L5508849	US-TX-Edna-1300-1404 W Main St - 28.9672x-96.6686	
 S34767279	2017-02-24	L5508849	US-TX-Edna-1300-1404 W Main St - 28.9672x-96.6686	House Sparrow	Passer domesticus	31534	species	15	28.9672100	-96.6686220	Traveling	1	0
 S38439705	2017-08-02	L6145569	1001 N Wells St, Edna US-TX (28.9878,-96.6515)	European Starling	Sturnus vulgaris	27813	species	27	28.9878330	-96.6515000	Traveling	1	0
 S34388944	2017-02-14	L5442862	Edna	Northern Cardinal	Cardinalis cardinalis	34515	species	4	28.9785471	-96.6464067	Traveling	1	0
-S34388944	2017-02-14	L5442862	Edna	Mourning Dove	Zenaida macroura	2412	species	6	28.9785471	-96.6464067	Traveling	1	0
 S34388944	2017-02-14	L5442862	Edna	Crested Caracara	Caracara plancus	11963	issf	1	28.9785471	-96.6464067	Traveling	1	0
+S34388944	2017-02-14	L5442862	Edna	Mourning Dove	Zenaida macroura	2412	species	6	28.9785471	-96.6464067	Traveling	1	0
 S34767279	2017-02-24	L5508849	US-TX-Edna-1300-1404 W Main St - 28.9672x-96.6686	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	28.9672100	-96.6686220	Traveling	1	0
 S34767279	2017-02-24	L5508849	US-TX-Edna-1300-1404 W Main St - 28.9672x-96.6686	Carolina Wren	Thryothorus ludovicianus	27348	species	1	28.9672100	-96.6686220	Traveling	1	0
 S34767279	2017-02-24	L5508849	US-TX-Edna-1300-1404 W Main St - 28.9672x-96.6686	Blue Jay	Cyanocitta cristata	21294	species	2	28.9672100	-96.6686220	Traveling	1	0
@@ -86,46 +86,46 @@ S44113194	2018-03-31	L7147392	102 E Houston Hwy, Edna US-TX (28.9877,-96.6499)	S
 S44121472	2018-03-31	L7147392	102 E Houston Hwy, Edna US-TX (28.9877,-96.6499)	Barn Swallow	Hirundo rustica	24187	species	1	28.9877070	-96.6499350	Stationary	1	0
 S44113194	2018-03-31	L7147392	102 E Houston Hwy, Edna US-TX (28.9877,-96.6499)	European Starling	Sturnus vulgaris	27813	species	2	28.9877070	-96.6499350	Stationary	1	0
 S43876841	2018-03-22	L7105442	Edna	American Kestrel	Falco sparverius	12028	species	2	28.9783223	-96.6466037	Traveling	1	0
-S68989785	2020-05-13	L2611373	Edna	Blue Jay	Cyanocitta cristata	21294	species	3	28.9724041	-96.6597748	Traveling	1	0
 S74325346	2020-10-02	L2611373	Edna	Turkey Vulture	Cathartes aura	7815	species	2	28.9724041	-96.6597748	Traveling	1	0
+S68989785	2020-05-13	L2611373	Edna	Blue Jay	Cyanocitta cristata	21294	species	3	28.9724041	-96.6597748	Traveling	1	0
 S68865527	2020-05-09	L291029	Edna	White-winged Dove	Zenaida asiatica	2389	species	1	28.9785600	-96.6460500	Stationary	1	0
-S68989785	2020-05-13	L2611373	Edna	Eastern Wood-Pewee	Contopus virens	16924	species	1	28.9724041	-96.6597748	Traveling	1	0
-S68989785	2020-05-13	L2611373	Edna	Acadian Flycatcher	Empidonax virescens	16950	species	1	28.9724041	-96.6597748	Traveling	1	0
-S68989785	2020-05-13	L2611373	Edna	House Sparrow	Passer domesticus	31534	species	2	28.9724041	-96.6597748	Traveling	1	0
-S68865527	2020-05-09	L291029	Edna	American Crow	Corvus brachyrhynchos	21557	species	1	28.9785600	-96.6460500	Stationary	1	0
 S68865527	2020-05-09	L291029	Edna	Northern Cardinal	Cardinalis cardinalis	34515	species	1	28.9785600	-96.6460500	Stationary	1	0
 S69066643	2020-05-13	L291029	Edna	Eastern Bluebird	Sialia sialis	28126	species	1	28.9785600	-96.6460500	Stationary	1	0
+S68989785	2020-05-13	L2611373	Edna	House Sparrow	Passer domesticus	31534	species	2	28.9724041	-96.6597748	Traveling	1	0
+S68989785	2020-05-13	L2611373	Edna	Acadian Flycatcher	Empidonax virescens	16950	species	1	28.9724041	-96.6597748	Traveling	1	0
+S68989785	2020-05-13	L2611373	Edna	Eastern Wood-Pewee	Contopus virens	16924	species	1	28.9724041	-96.6597748	Traveling	1	0
+S68865527	2020-05-09	L291029	Edna	American Crow	Corvus brachyrhynchos	21557	species	1	28.9785600	-96.6460500	Stationary	1	0
+S68989785	2020-05-13	L2611373	Edna	Northern Cardinal	Cardinalis cardinalis	34515	species	4	28.9724041	-96.6597748	Traveling	1	0
 S68865527	2020-05-09	L291029	Edna	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	1	28.9785600	-96.6460500	Stationary	1	0
 S66200180	2020-03-25	L291029	Edna	Ruby-throated Hummingbird	Archilochus colubris	4802	species	2	28.9785600	-96.6460500	Stationary	1	0
-S68989785	2020-05-13	L2611373	Edna	Northern Cardinal	Cardinalis cardinalis	34515	species	4	28.9724041	-96.6597748	Traveling	1	0
 S68989785	2020-05-13	L2611373	Edna	Purple Martin	Progne subis	24081	species	2	28.9724041	-96.6597748	Traveling	1	0
 S68989785	2020-05-13	L2611373	Edna	swallow sp.	Hirundinidae sp.	24305	spuh	5	28.9724041	-96.6597748	Traveling	1	0
-S68865527	2020-05-09	L291029	Edna	Turkey Vulture	Cathartes aura	7815	species	1	28.9785600	-96.6460500	Stationary	1	0
 S68865527	2020-05-09	L291029	Edna	Blue Jay	Cyanocitta cristata	21294	species	1	28.9785600	-96.6460500	Stationary	1	0
-S68989785	2020-05-13	L2611373	Edna	American Robin	Turdus migratorius	28633	species	1	28.9724041	-96.6597748	Traveling	1	0
+S68865527	2020-05-09	L291029	Edna	Turkey Vulture	Cathartes aura	7815	species	1	28.9785600	-96.6460500	Stationary	1	0
 S68989785	2020-05-13	L2611373	Edna	Chimney Swift	Chaetura pelagica	3896	species	2	28.9724041	-96.6597748	Traveling	1	0
+S68989785	2020-05-13	L2611373	Edna	American Robin	Turdus migratorius	28633	species	1	28.9724041	-96.6597748	Traveling	1	0
 S68989785	2020-05-13	L2611373	Edna	Carolina Wren	Thryothorus ludovicianus	27348	species	6	28.9724041	-96.6597748	Traveling	1	0
-S68989785	2020-05-13	L2611373	Edna	American Redstart	Setophaga ruticilla	34058	species	1	28.9724041	-96.6597748	Traveling	1	0
 S68865527	2020-05-09	L291029	Edna	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	28.9785600	-96.6460500	Stationary	1	0
+S68989785	2020-05-13	L2611373	Edna	American Redstart	Setophaga ruticilla	34058	species	1	28.9724041	-96.6597748	Traveling	1	0
 S68989785	2020-05-13	L2611373	Edna	Black-and-white Warbler	Mniotilta varia	33962	species	2	28.9724041	-96.6597748	Traveling	1	0
 S66200180	2020-03-25	L291029	Edna	Swallow-tailed Kite	Elanoides forficatus	7921	species	2	28.9785600	-96.6460500	Stationary	1	0
 S68865527	2020-05-09	L291029	Edna	Cliff/Cave Swallow	Petrochelidon pyrrhonota/fulva	24299	slash	1	28.9785600	-96.6460500	Stationary	1	0
 S68865527	2020-05-09	L291029	Edna	Purple Martin	Progne subis	24081	species	1	28.9785600	-96.6460500	Stationary	1	0
 S68865527	2020-05-09	L291029	Edna	Killdeer	Charadrius vociferus	5827	species	1	28.9785600	-96.6460500	Stationary	1	0
-S68989785	2020-05-13	L2611373	Edna	Canada Warbler	Cardellina canadensis	34344	species	1	28.9724041	-96.6597748	Traveling	1	0
-S68989785	2020-05-13	L2611373	Edna	Chestnut-sided Warbler	Setophaga pensylvanica	34133	species	1	28.9724041	-96.6597748	Traveling	1	0
 S68865527	2020-05-09	L291029	Edna	Carolina Chickadee	Poecile carolinensis	22060	species	1	28.9785600	-96.6460500	Stationary	1	0
+S68989785	2020-05-13	L2611373	Edna	Chestnut-sided Warbler	Setophaga pensylvanica	34133	species	1	28.9724041	-96.6597748	Traveling	1	0
+S68989785	2020-05-13	L2611373	Edna	Canada Warbler	Cardellina canadensis	34344	species	1	28.9724041	-96.6597748	Traveling	1	0
 S68865527	2020-05-09	L291029	Edna	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	28.9785600	-96.6460500	Stationary	1	0
 S68989785	2020-05-13	L2611373	Edna	White-winged Dove	Zenaida asiatica	2389	species	15	28.9724041	-96.6597748	Traveling	1	0
 S68989785	2020-05-13	L2611373	Edna	Hooded Warbler	Setophaga citrina	34057	species	1	28.9724041	-96.6597748	Traveling	1	0
-S68989785	2020-05-13	L2611373	Edna	Golden-winged Warbler	Vermivora chrysoptera	33956	species	1	28.9724041	-96.6597748	Traveling	1	0
 S74325346	2020-10-02	L2611373	Edna	Blue Jay	Cyanocitta cristata	21294	species	2	28.9724041	-96.6597748	Traveling	1	0
+S68989785	2020-05-13	L2611373	Edna	Golden-winged Warbler	Vermivora chrysoptera	33956	species	1	28.9724041	-96.6597748	Traveling	1	0
 S74325346	2020-10-02	L2611373	Edna	Ruby-throated Hummingbird	Archilochus colubris	4802	species	2	28.9724041	-96.6597748	Traveling	1	0
-S68989785	2020-05-13	L2611373	Edna	Mississippi Kite	Ictinia mississippiensis	8388	species	2	28.9724041	-96.6597748	Traveling	1	0
-S74325346	2020-10-02	L2611373	Edna	House Sparrow	Passer domesticus	31534	species	8	28.9724041	-96.6597748	Traveling	1	0
+S74325346	2020-10-02	L2611373	Edna	Inca Dove	Columbina inca	2242	species	1	28.9724041	-96.6597748	Traveling	1	0
 S68989785	2020-05-13	L2611373	Edna	Tufted Titmouse	Baeolophus bicolor	22160	species	3	28.9724041	-96.6597748	Traveling	1	0
 S68865527	2020-05-09	L291029	Edna	Tufted Titmouse	Baeolophus bicolor	22160	species	1	28.9785600	-96.6460500	Stationary	1	0
-S74325346	2020-10-02	L2611373	Edna	Inca Dove	Columbina inca	2242	species	1	28.9724041	-96.6597748	Traveling	1	0
+S74325346	2020-10-02	L2611373	Edna	House Sparrow	Passer domesticus	31534	species	8	28.9724041	-96.6597748	Traveling	1	0
+S68989785	2020-05-13	L2611373	Edna	Mississippi Kite	Ictinia mississippiensis	8388	species	2	28.9724041	-96.6597748	Traveling	1	0
 S68865527	2020-05-09	L291029	Edna	Western Cattle-Egret	Ardea ibis	7724	species	1	28.9785600	-96.6460500	Stationary	1	0
 S68989785	2020-05-13	L2611373	Edna	Carolina Chickadee	Poecile carolinensis	22060	species	1	28.9724041	-96.6597748	Traveling	1	0
 S68865527	2020-05-09	L291029	Edna	Baltimore Oriole	Icterus galbula	33770	species	1	28.9785600	-96.6460500	Stationary	1	0
@@ -134,94 +134,94 @@ S68865527	2020-05-09	L291029	Edna	Carolina Wren	Thryothorus ludovicianus	27348	s
 S68865527	2020-05-09	L291029	Edna	Rose-breasted Grosbeak	Pheucticus ludovicianus	34557	species	1	28.9785600	-96.6460500	Stationary	1	0
 S66200180	2020-03-25	L291029	Edna	Buff-bellied Hummingbird	Amazilia yucatanensis	5106	species	1	28.9785600	-96.6460500	Stationary	1	0
 S68865527	2020-05-09	L291029	Edna	Mourning Dove	Zenaida macroura	2412	species	1	28.9785600	-96.6460500	Stationary	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Killdeer	Charadrius vociferus	5827	species	2	28.9679380	-96.6677020	Traveling	1	0
 S96636489	2021-10-24	L16722147	802 1st Street, Edna, Texas, US (28.984, -96.64)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	28.9838450	-96.6402275	Traveling	1	0
 S96636489	2021-10-24	L16722147	802 1st Street, Edna, Texas, US (28.984, -96.64)	European Starling	Sturnus vulgaris	27813	species	1	28.9838450	-96.6402275	Traveling	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Mourning Dove	Zenaida macroura	2412	species	3	28.9679380	-96.6677020	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Killdeer	Charadrius vociferus	5827	species	2	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Carolina Wren	Thryothorus ludovicianus	27348	species	2	28.9679380	-96.6677020	Traveling	1	0
-S96636489	2021-10-24	L16722147	802 1st Street, Edna, Texas, US (28.984, -96.64)	House Sparrow	Passer domesticus	31534	species	4	28.9838450	-96.6402275	Traveling	1	0
-S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	28.9732460	-96.6565690	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Mourning Dove	Zenaida macroura	2412	species	3	28.9679380	-96.6677020	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Common Grackle	Quiscalus quiscula	33853	species	2	28.9732460	-96.6565690	Traveling	1	0
-S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Purple Martin	Progne subis	24081	species	1	28.9732460	-96.6565690	Traveling	1	0
+S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	28.9732460	-96.6565690	Traveling	1	0
+S96636489	2021-10-24	L16722147	802 1st Street, Edna, Texas, US (28.984, -96.64)	House Sparrow	Passer domesticus	31534	species	4	28.9838450	-96.6402275	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Northern Mockingbird	Mimus polyglottos	28114	species	1	28.9679380	-96.6677020	Traveling	1	0
+S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Purple Martin	Progne subis	24081	species	1	28.9732460	-96.6565690	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Mourning Dove	Zenaida macroura	2412	species	3	28.9732460	-96.6565690	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Rock Pigeon	Columba livia	1868	domestic	8	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Common Nighthawk	Chordeiles minor	3492	species	1	28.9679380	-96.6677020	Traveling	1	0
 S96636489	2021-10-24	L16722147	802 1st Street, Edna, Texas, US (28.984, -96.64)	Western Cattle-Egret	Ardea ibis	7724	species	125	28.9838450	-96.6402275	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Purple Martin	Progne subis	24081	species	2	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Inca Dove	Columbina inca	2242	species	5	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	28.9679380	-96.6677020	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Laughing Gull	Leucophaeus atricilla	6490	species	1	28.9732460	-96.6565690	Traveling	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	White-winged Dove	Zenaida asiatica	2389	species	6	28.9679380	-96.6677020	Traveling	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Purple Martin	Progne subis	24081	species	2	28.9679380	-96.6677020	Traveling	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	House Sparrow	Passer domesticus	31534	species	8	28.9679380	-96.6677020	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	28.9679380	-96.6677020	Traveling	1	0
 S96636489	2021-10-24	L16722147	802 1st Street, Edna, Texas, US (28.984, -96.64)	Eastern Meadowlark	Sturnella magna	33568	species	4	28.9838450	-96.6402275	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	House Sparrow	Passer domesticus	31534	species	8	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Western Cattle-Egret	Ardea ibis	7724	species	2	28.9679380	-96.6677020	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Mississippi Kite	Ictinia mississippiensis	8388	species	2	28.9679380	-96.6677020	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Northern Mockingbird	Mimus polyglottos	28114	species	1	28.9732460	-96.6565690	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Turkey Vulture	Cathartes aura	7815	species	4	28.9679380	-96.6677020	Traveling	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Mississippi Kite	Ictinia mississippiensis	8388	species	2	28.9679380	-96.6677020	Traveling	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Northern Cardinal	Cardinalis cardinalis	34515	species	1	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Blue Jay	Cyanocitta cristata	21294	species	1	28.9679380	-96.6677020	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Northern Cardinal	Cardinalis cardinalis	34515	species	1	28.9679380	-96.6677020	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	White-winged Dove	Zenaida asiatica	2389	species	4	28.9732460	-96.6565690	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	28.9732460	-96.6565690	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	House Sparrow	Passer domesticus	31534	species	4	28.9732460	-96.6565690	Traveling	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	28.9679380	-96.6677020	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Great Egret	Ardea alba	7729	species	2	28.9732460	-96.6565690	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	European Starling	Sturnus vulgaris	27813	species	1	28.9732460	-96.6565690	Traveling	1	0
-S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Black Vulture	Coragyps atratus	7811	species	8	28.9679380	-96.6677020	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	28.9679380	-96.6677020	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Killdeer	Charadrius vociferus	5827	species	1	28.9732460	-96.6565690	Traveling	1	0
+S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Black Vulture	Coragyps atratus	7811	species	8	28.9679380	-96.6677020	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	European Starling	Sturnus vulgaris	27813	species	5	28.9679380	-96.6677020	Traveling	1	0
+S96636489	2021-10-24	L16722147	802 1st Street, Edna, Texas, US (28.984, -96.64)	Rock Pigeon	Columba livia	1868	domestic	50	28.9838450	-96.6402275	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Western Cattle-Egret	Ardea ibis	7724	species	5	28.9732460	-96.6565690	Traveling	1	0
 S91594754	2021-07-11	L15726744	1361–1403 W Main St, Edna US-TX 28.96794, -96.66770	Ladder-backed Woodpecker	Dryobates scalaris	11412	species	1	28.9679380	-96.6677020	Traveling	1	0
-S96636489	2021-10-24	L16722147	802 1st Street, Edna, Texas, US (28.984, -96.64)	Rock Pigeon	Columba livia	1868	domestic	50	28.9838450	-96.6402275	Traveling	1	0
 S91586376	2021-07-11	L15724649	905 W Main St, Edna US-TX 28.97325, -96.65657	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	28.9732460	-96.6565690	Traveling	1	0
-S107229213	2022-04-16	L18541083	Jackson Co	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	28.9866840	-96.6490610	Traveling	1	0
-S108447860	2022-04-30	L291029	Edna	European Starling	Sturnus vulgaris	27813	species	10	28.9785600	-96.6460500	Traveling	1	0
-S108447860	2022-04-30	L291029	Edna	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	28.9785600	-96.6460500	Traveling	1	0
 S107229213	2022-04-16	L18541083	Jackson Co	Turkey Vulture	Cathartes aura	7815	species	1	28.9866840	-96.6490610	Traveling	1	0
+S108447860	2022-04-30	L291029	Edna	European Starling	Sturnus vulgaris	27813	species	10	28.9785600	-96.6460500	Traveling	1	0
 S108246540	2022-04-27	L291029	Edna	European Starling	Sturnus vulgaris	27813	species	6	28.9785600	-96.6460500	Traveling	1	0
+S108447860	2022-04-30	L291029	Edna	Great-tailed Grackle	Quiscalus mexicanus	33864	species	20	28.9785600	-96.6460500	Traveling	1	0
+S107229213	2022-04-16	L18541083	Jackson Co	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	28.9866840	-96.6490610	Traveling	1	0
 S108038680	2022-04-25	L18689433	112 E Houston Hwy, Edna US-TX 28.98870, -96.64864	House Sparrow	Passer domesticus	31534	species	1	28.9886970	-96.6486360	Stationary	1	0
 S108447860	2022-04-30	L291029	Edna	Common Grackle	Quiscalus quiscula	33853	species	13	28.9785600	-96.6460500	Traveling	1	0
-S108246540	2022-04-27	L291029	Edna	Northern Mockingbird	Mimus polyglottos	28114	species	2	28.9785600	-96.6460500	Traveling	1	0
 S108447860	2022-04-30	L291029	Edna	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	28.9785600	-96.6460500	Traveling	1	0
-S107229213	2022-04-16	L18541083	Jackson Co	Northern Mockingbird	Mimus polyglottos	28114	species	2	28.9866840	-96.6490610	Traveling	1	0
-S108246540	2022-04-27	L291029	Edna	White-winged Dove	Zenaida asiatica	2389	species	7	28.9785600	-96.6460500	Traveling	1	0
+S108246540	2022-04-27	L291029	Edna	Northern Mockingbird	Mimus polyglottos	28114	species	2	28.9785600	-96.6460500	Traveling	1	0
 S107229213	2022-04-16	L18541083	Jackson Co	Brown-headed Cowbird	Molothrus ater	33833	species	28	28.9866840	-96.6490610	Traveling	1	0
+S107229213	2022-04-16	L18541083	Jackson Co	Northern Mockingbird	Mimus polyglottos	28114	species	2	28.9866840	-96.6490610	Traveling	1	0
 S108246540	2022-04-27	L291029	Edna	Chimney Swift	Chaetura pelagica	3896	species	4	28.9785600	-96.6460500	Traveling	1	0
+S108246540	2022-04-27	L291029	Edna	White-winged Dove	Zenaida asiatica	2389	species	7	28.9785600	-96.6460500	Traveling	1	0
 S103707338	2022-02-25	L16461819	310 E Houston Hwy, Edna US-TX 28.98925, -96.64757	White-winged Dove	Zenaida asiatica	2389	species	5	28.9892530	-96.6475650	Stationary	1	0
 S108447860	2022-04-30	L291029	Edna	Rock Pigeon	Columba livia	1868	domestic	2	28.9785600	-96.6460500	Traveling	1	0
 S107229213	2022-04-16	L18541083	Jackson Co	Black-bellied Whistling-Duck	Dendrocygna autumnalis	244	issf	4	28.9866840	-96.6490610	Traveling	1	0
-S108038680	2022-04-25	L18689433	112 E Houston Hwy, Edna US-TX 28.98870, -96.64864	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	28.9886970	-96.6486360	Stationary	1	0
-S108246540	2022-04-27	L291029	Edna	Barn Swallow	Hirundo rustica	24187	species	2	28.9785600	-96.6460500	Traveling	1	0
-S108246540	2022-04-27	L291029	Edna	Mourning Dove	Zenaida macroura	2412	species	1	28.9785600	-96.6460500	Traveling	1	0
-S107229213	2022-04-16	L18541083	Jackson Co	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	28.9866840	-96.6490610	Traveling	1	0
 S108447860	2022-04-30	L291029	Edna	Northern Mockingbird	Mimus polyglottos	28114	species	1	28.9785600	-96.6460500	Traveling	1	0
+S107229213	2022-04-16	L18541083	Jackson Co	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	28.9866840	-96.6490610	Traveling	1	0
+S108038680	2022-04-25	L18689433	112 E Houston Hwy, Edna US-TX 28.98870, -96.64864	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	28.9886970	-96.6486360	Stationary	1	0
+S108246540	2022-04-27	L291029	Edna	Mourning Dove	Zenaida macroura	2412	species	1	28.9785600	-96.6460500	Traveling	1	0
+S108246540	2022-04-27	L291029	Edna	Barn Swallow	Hirundo rustica	24187	species	2	28.9785600	-96.6460500	Traveling	1	0
 S108038680	2022-04-25	L18689433	112 E Houston Hwy, Edna US-TX 28.98870, -96.64864	Northern Mockingbird	Mimus polyglottos	28114	species	1	28.9886970	-96.6486360	Stationary	1	0
 S103707338	2022-02-25	L16461819	310 E Houston Hwy, Edna US-TX 28.98925, -96.64757	Cooper's Hawk	Astur cooperii	8278	species	1	28.9892530	-96.6475650	Stationary	1	0
+S108447860	2022-04-30	L291029	Edna	Killdeer	Charadrius vociferus	5827	species	1	28.9785600	-96.6460500	Traveling	1	0
 S108447860	2022-04-30	L291029	Edna	Laughing Gull	Leucophaeus atricilla	6490	species	1	28.9785600	-96.6460500	Traveling	1	0
 S103707338	2022-02-25	L16461819	310 E Houston Hwy, Edna US-TX 28.98925, -96.64757	Blue Jay	Cyanocitta cristata	21294	species	2	28.9892530	-96.6475650	Stationary	1	0
 S108038680	2022-04-25	L18689433	112 E Houston Hwy, Edna US-TX 28.98870, -96.64864	Black Vulture	Coragyps atratus	7811	species	2	28.9886970	-96.6486360	Stationary	1	0
-S108447860	2022-04-30	L291029	Edna	Killdeer	Charadrius vociferus	5827	species	1	28.9785600	-96.6460500	Traveling	1	0
-S108447860	2022-04-30	L291029	Edna	Western Cattle-Egret	Ardea ibis	7724	species	15	28.9785600	-96.6460500	Traveling	1	0
 S103707338	2022-02-25	L16461819	310 E Houston Hwy, Edna US-TX 28.98925, -96.64757	Eastern Meadowlark	Sturnella magna	33568	species	5	28.9892530	-96.6475650	Stationary	1	0
+S108447860	2022-04-30	L291029	Edna	Western Cattle-Egret	Ardea ibis	7724	species	15	28.9785600	-96.6460500	Traveling	1	0
 S103707338	2022-02-25	L16461819	310 E Houston Hwy, Edna US-TX 28.98925, -96.64757	Turkey Vulture	Cathartes aura	7815	species	4	28.9892530	-96.6475650	Stationary	1	0
 S108447860	2022-04-30	L291029	Edna	Brown-headed Cowbird	Molothrus ater	33833	species	1	28.9785600	-96.6460500	Traveling	1	0
 S108038680	2022-04-25	L18689433	112 E Houston Hwy, Edna US-TX 28.98870, -96.64864	European Starling	Sturnus vulgaris	27813	species	2	28.9886970	-96.6486360	Stationary	1	0
-S108246540	2022-04-27	L291029	Edna	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	28.9785600	-96.6460500	Traveling	1	0
 S108447860	2022-04-30	L291029	Edna	White-winged Dove	Zenaida asiatica	2389	species	5	28.9785600	-96.6460500	Traveling	1	0
+S108246540	2022-04-27	L291029	Edna	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	28.9785600	-96.6460500	Traveling	1	0
 S108447860	2022-04-30	L291029	Edna	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	1	28.9785600	-96.6460500	Traveling	1	0
+S107229213	2022-04-16	L18541083	Jackson Co	Tree Swallow	Tachycineta bicolor	24064	species	2	28.9866840	-96.6490610	Traveling	1	0
 S107229213	2022-04-16	L18541083	Jackson Co	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	28.9866840	-96.6490610	Traveling	1	0
 S103707338	2022-02-25	L16461819	310 E Houston Hwy, Edna US-TX 28.98925, -96.64757	European Starling	Sturnus vulgaris	27813	species	50	28.9892530	-96.6475650	Stationary	1	0
-S107229213	2022-04-16	L18541083	Jackson Co	Tree Swallow	Tachycineta bicolor	24064	species	2	28.9866840	-96.6490610	Traveling	1	0
-S107229213	2022-04-16	L18541083	Jackson Co	Mourning Dove	Zenaida macroura	2412	species	7	28.9866840	-96.6490610	Traveling	1	0
 S108447860	2022-04-30	L291029	Edna	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	7	28.9785600	-96.6460500	Traveling	1	0
+S107229213	2022-04-16	L18541083	Jackson Co	Mourning Dove	Zenaida macroura	2412	species	7	28.9866840	-96.6490610	Traveling	1	0
 S108447860	2022-04-30	L291029	Edna	House Sparrow	Passer domesticus	31534	species	3	28.9785600	-96.6460500	Traveling	1	0
 S107229213	2022-04-16	L18541083	Jackson Co	Northern Cardinal	Cardinalis cardinalis	34515	species	1	28.9866840	-96.6490610	Traveling	1	0
 S107229213	2022-04-16	L18541083	Jackson Co	Forster's Tern	Sterna forsteri	6731	species	4	28.9866840	-96.6490610	Traveling	1	0
 S108246540	2022-04-27	L291029	Edna	Crested Caracara	Caracara plancus	11962	species	1	28.9785600	-96.6460500	Traveling	1	0
-S108246540	2022-04-27	L291029	Edna	House Sparrow	Passer domesticus	31534	species	11	28.9785600	-96.6460500	Traveling	1	0
 S108246540	2022-04-27	L291029	Edna	Mississippi Kite	Ictinia mississippiensis	8388	species	1	28.9785600	-96.6460500	Traveling	1	0
+S108246540	2022-04-27	L291029	Edna	House Sparrow	Passer domesticus	31534	species	11	28.9785600	-96.6460500	Traveling	1	0
 S108038680	2022-04-25	L18689433	112 E Houston Hwy, Edna US-TX 28.98870, -96.64864	Turkey Vulture	Cathartes aura	7815	species	1	28.9886970	-96.6486360	Stationary	1	0
 S140585429	2023-06-05	L24963360	Edna (Jackson Co. TX)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	28.9786040	-96.6463607	Traveling	1	0
 S140585429	2023-06-05	L24963360	Edna (Jackson Co. TX)	Tufted Titmouse	Baeolophus bicolor	22160	species	2	28.9786040	-96.6463607	Traveling	1	0
@@ -244,12 +244,12 @@ S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Mo
 S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	28.9755860	-96.6516610	Traveling	1	0
 S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Swallow-tailed Kite	Elanoides forficatus	7921	species	1	28.9755860	-96.6516610	Traveling	1	1
 S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	28.9755860	-96.6516610	Traveling	1	0
-S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Turkey Vulture	Cathartes aura	7815	species	2	28.9755860	-96.6516610	Traveling	1	0
 S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Common Grackle	Quiscalus quiscula	33853	species	5	28.9755860	-96.6516610	Traveling	1	0
+S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Turkey Vulture	Cathartes aura	7815	species	2	28.9755860	-96.6516610	Traveling	1	0
 S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	European Starling	Sturnus vulgaris	27813	species	2	28.9755860	-96.6516610	Traveling	1	0
-S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Barn Swallow	Hirundo rustica	24187	species	2	28.9755860	-96.6516610	Traveling	1	0
 S283048603	2025-11-05	L54824972	TX Edna - Whataburger	Red-shouldered Hawk	Buteo lineatus	8487	species	1	28.9885710	-96.6485430	Stationary	1	0
+S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Barn Swallow	Hirundo rustica	24187	species	2	28.9755860	-96.6516610	Traveling	1	0
 S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Northern Mockingbird	Mimus polyglottos	28114	species	1	28.9755860	-96.6516610	Traveling	1	0
 S226404781	2025-04-17	L42807371	505 W Main St, Edna US-TX 28.97559, -96.65166	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	28.9755860	-96.6516610	Traveling	1	0
-S283048603	2025-11-05	L54824972	TX Edna - Whataburger	Eastern Phoebe	Sayornis phoebe	17007	species	1	28.9885710	-96.6485430	Stationary	1	0
 S283048603	2025-11-05	L54824972	TX Edna - Whataburger	House Sparrow	Passer domesticus	31534	species	5	28.9885710	-96.6485430	Stationary	1	0
+S283048603	2025-11-05	L54824972	TX Edna - Whataburger	Eastern Phoebe	Sayornis phoebe	17007	species	1	28.9885710	-96.6485430	Stationary	1	0

@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1662,"Mathis, TX",Mathis,Texas,San Patricio,2015,10324084.6926337,14,15,city_1662_texas_mathis,1001.9125156402588,22.544270833333332,30.7861411543458,humid,12
-1662,"Mathis, TX",Mathis,Texas,San Patricio,2017,10324084.6926337,34,44,city_1662_texas_mathis,722.9312553405762,23.411458333333332,21.637225413155207,dry subhumid,12
-1662,"Mathis, TX",Mathis,Texas,San Patricio,2019,10324084.6926337,9,9,city_1662_texas_mathis,667.2937526702881,22.8828125,20.29308632496956,dry subhumid,12
-1662,"Mathis, TX",Mathis,Texas,San Patricio,2020,10324084.6926337,7,12,city_1662_texas_mathis,623.5625038146973,23.520833333333332,18.602237528343984,semiarid,12
-1662,"Mathis, TX",Mathis,Texas,San Patricio,2021,10324084.6926337,12,14,city_1662_texas_mathis,905.7312431335448,22.822916666666668,27.594477734313013,dry subhumid,12
-1662,"Mathis, TX",Mathis,Texas,San Patricio,2022,10324084.6926337,30,54,city_1662_texas_mathis,568.0750026702881,22.9453125,17.242969016314174,semiarid,12
-1662,"Mathis, TX",Mathis,Texas,San Patricio,2025,10324084.6926337,10,11,city_1662_texas_mathis,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1662,2015,"Mathis, TX",Mathis,Texas,San Patricio,99.9999999999975,14,15,city_1662_texas_mathis,1001.91251564026,22.5442708333333,30.7861411543458,humid,12
+1662,2017,"Mathis, TX",Mathis,Texas,San Patricio,99.9999999999975,34,44,city_1662_texas_mathis,722.931255340576,23.4114583333333,21.6372254131552,dry subhumid,12
+1662,2019,"Mathis, TX",Mathis,Texas,San Patricio,99.9999999999975,9,9,city_1662_texas_mathis,667.293752670288,22.8828125,20.2930863249696,dry subhumid,12
+1662,2020,"Mathis, TX",Mathis,Texas,San Patricio,99.9999999999975,7,12,city_1662_texas_mathis,623.562503814697,23.5208333333333,18.602237528344,semiarid,12
+1662,2021,"Mathis, TX",Mathis,Texas,San Patricio,99.9999999999975,12,14,city_1662_texas_mathis,905.731243133545,22.8229166666667,27.594477734313,dry subhumid,12
+1662,2022,"Mathis, TX",Mathis,Texas,San Patricio,99.9999999999975,30,54,city_1662_texas_mathis,568.075002670288,22.9453125,17.2429690163142,semiarid,12
+1662,2025,"Mathis, TX",Mathis,Texas,San Patricio,99.9999999999975,10,11,city_1662_texas_mathis,,,,,

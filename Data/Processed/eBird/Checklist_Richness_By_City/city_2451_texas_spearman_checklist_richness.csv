@@ -1,12 +1,12 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S40926566,L6536749,Spearman area (Hansfor Co.),2017-12-02,2017,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,15,2.414,1,36.1986649,-101.1999607,9,9,city_2451_texas_spearman
-S51615490,L290612,Spearman,2019-01-11,2019,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,5,,1,36.19833,-101.19244,2,2,city_2451_texas_spearman
-S90250788,L15393707,"Spearman (36.1981,-101.1984)",2021-06-13,2021,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,6,2.242,1,36.198052,-101.198441,9,9,city_2451_texas_spearman
-S79597981,L13337642,"Spearman, Texas",2021-01-20,2021,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,26,30.342,1,36.1980593,-101.1988422,7,7,city_2451_texas_spearman
-S107852851,L18655824,"101 Collard St, Spearman US-TX 36.19848, -101.19772",2022-04-23,2022,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,7,,1,36.198479,-101.197721,6,6,city_2451_texas_spearman
-S157343614,L28482157,"703 Collard Street, Spearman, Texas, US (36.204, -101.192)",2023-12-28,2023,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,8,2.365,1,36.2037994,-101.1915952,4,4,city_2451_texas_spearman
-S195418189,L36639516,"Triangle Park, Spearman US-TX 36.19817, -101.19616",2024-09-16,2024,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,36,3,1,36.198173,-101.196161,10,10,city_2451_texas_spearman
-S206898271,L38932175,"316 West Kenneth Avenue, Spearman, Texas, US (36.198, -101.197)",2024-12-28,2024,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,6,,1,36.1982524,-101.1969295,4,4,city_2451_texas_spearman
-S230323180,L43612666,Rudy’s house,2025-04-26,2025,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,40,,1,36.198665,-101.190762,10,10,city_2451_texas_spearman
-S289321660,L56133430,"201–249 E Kenneth Ave, Spearman US-TX 36.19818, -101.18912",2025-12-20,2025,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,33,13.888,1,36.198185,-101.189116,10,10,city_2451_texas_spearman
-S222167259,L40332352,822 Barkley,2025-03-31,2025,2451,"Spearman, TX",Spearman,Texas,Hansford,3943153.21199152,30,,1,36.1969505,-101.1929213,1,1,city_2451_texas_spearman
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S40926566,L6536749,Spearman area (Hansfor Co.),2017-12-02,2017,2451,"Spearman, TX",Spearman,Texas,Hansford,100,15,2.414,1,Traveling,36.1986649,-101.1999607,9,9,city_2451_texas_spearman
+S51615490,L290612,Spearman,2019-01-11,2019,2451,"Spearman, TX",Spearman,Texas,Hansford,100,5,,1,Stationary,36.19833,-101.19244,2,2,city_2451_texas_spearman
+S79597981,L13337642,"Spearman, Texas",2021-01-20,2021,2451,"Spearman, TX",Spearman,Texas,Hansford,100,26,30.342,1,Traveling,36.1980593,-101.1988422,7,7,city_2451_texas_spearman
+S90250788,L15393707,"Spearman (36.1981,-101.1984)",2021-06-13,2021,2451,"Spearman, TX",Spearman,Texas,Hansford,100,6,2.242,1,Traveling,36.198052,-101.198441,8,8,city_2451_texas_spearman
+S107852851,L18655824,"101 Collard St, Spearman US-TX 36.19848, -101.19772",2022-04-23,2022,2451,"Spearman, TX",Spearman,Texas,Hansford,100,7,,1,Stationary,36.198479,-101.197721,6,6,city_2451_texas_spearman
+S157343614,L28482157,"703 Collard Street, Spearman, Texas, US (36.204, -101.192)",2023-12-28,2023,2451,"Spearman, TX",Spearman,Texas,Hansford,100,8,2.365,1,Traveling,36.2037994,-101.1915952,4,4,city_2451_texas_spearman
+S195418189,L36639516,"Triangle Park, Spearman US-TX 36.19817, -101.19616",2024-09-16,2024,2451,"Spearman, TX",Spearman,Texas,Hansford,100,36,3,1,Traveling,36.198173,-101.196161,10,10,city_2451_texas_spearman
+S206898271,L38932175,"316 West Kenneth Avenue, Spearman, Texas, US (36.198, -101.197)",2024-12-28,2024,2451,"Spearman, TX",Spearman,Texas,Hansford,100,6,,1,Stationary,36.1982524,-101.1969295,4,4,city_2451_texas_spearman
+S222167259,L40332352,822 Barkley,2025-03-31,2025,2451,"Spearman, TX",Spearman,Texas,Hansford,100,30,,1,Stationary,36.1969505,-101.1929213,1,1,city_2451_texas_spearman
+S230323180,L43612666,Rudy’s house,2025-04-26,2025,2451,"Spearman, TX",Spearman,Texas,Hansford,100,40,,1,Stationary,36.198665,-101.190762,10,10,city_2451_texas_spearman
+S289321660,L56133430,"201–249 E Kenneth Ave, Spearman US-TX 36.19818, -101.18912",2025-12-20,2025,2451,"Spearman, TX",Spearman,Texas,Hansford,100,33,13.888,1,Traveling,36.198185,-101.189116,10,10,city_2451_texas_spearman

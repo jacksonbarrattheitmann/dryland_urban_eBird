@@ -1,106 +1,106 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22803553,L156704,Decatur,2015-04-11,2015,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,26,8.047,1,33.23432,-97.58611,9,9,city_0702_texas_decatur
-S26667844,L4128400,Kenny Renshaw Southpark,2016-01-04,2016,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,21,0.805,1,33.2096084,-97.5981241,23,23,city_0702_texas_decatur
-S27545717,L1972734,Fox backyard,2016-02-12,2016,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,240,,1,33.2321994,-97.5910056,10,10,city_0702_texas_decatur
-S27545882,L1972734,Fox backyard,2016-02-13,2016,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,10,,1,33.2321994,-97.5910056,2,2,city_0702_texas_decatur
-S35274333,L5589815,US-TX-Decatur- Wise County Courthouse,2017-03-19,2017,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,17,0.483,1,33.23448,-97.586596,6,6,city_0702_texas_decatur
-S39267064,L1001028,Melba Doyle Park,2017-09-14,2017,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,10,1.609,1,33.2464583,-97.5976306,5,5,city_0702_texas_decatur
-S37093961,L5876662,Texas-Wise Co.-US 380 Decatur,2017-05-19,2017,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,5,8.047,1,33.2453636,-97.5852442,2,2,city_0702_texas_decatur
-S48126652,L7377426,Decatur,2018-08-28,2018,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,25,0.483,1,33.2412001,-97.6003718,17,17,city_0702_texas_decatur
-S74030378,L1001028,Melba Doyle Park,2018-04-15,2018,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,62,2.092,1,33.2464583,-97.5976306,29,29,city_0702_texas_decatur
-S48131360,L7377426,Decatur,2018-08-28,2018,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,25,0.483,1,33.2412001,-97.6003718,8,8,city_0702_texas_decatur
-S51045576,L8319384,"Court House square 106 West Walnut Street, Decatur, Texas, US (33.235, -97.587)",2018-12-29,2018,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,5,0.129,1,33.2348128,-97.5868517,3,3,city_0702_texas_decatur
-S42093512,L1001028,Melba Doyle Park,2018-01-20,2018,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,29,0.361,1,33.2464583,-97.5976306,5,5,city_0702_texas_decatur
-S61146883,L1001028,Melba Doyle Park,2019-11-03,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,31,0.338,1,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
-S56274142,L9266159,"100 U.S. 380 Business, Decatur, Texas, US (33.235, -97.586)",2019-05-14,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,10,2.977,1,33.2354103,-97.5864243,11,11,city_0702_texas_decatur
-S62138367,L1001028,Melba Doyle Park,2019-12-08,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,25,0.402,1,33.2464583,-97.5976306,10,10,city_0702_texas_decatur
-S59210134,L9767245,Decatur Home,2019-08-23,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,50,,1,33.2284633,-97.5896091,3,3,city_0702_texas_decatur
-S61327427,L9767245,Decatur Home,2019-11-10,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,20,,1,33.2284633,-97.5896091,8,8,city_0702_texas_decatur
-S55438588,L1001028,Melba Doyle Park,2019-04-26,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,26,0.15,1,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
-S56276745,L1001028,Melba Doyle Park,2019-05-14,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,5,0.322,1,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
-S59244528,L1001028,Melba Doyle Park,2019-08-25,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,50,0.644,1,33.2464583,-97.5976306,12,12,city_0702_texas_decatur
-S59232233,L9767245,Decatur Home,2019-08-24,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,10,,1,33.2284633,-97.5896091,5,5,city_0702_texas_decatur
-S60980576,L9767245,Decatur Home,2019-10-27,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,40,,1,33.2284633,-97.5896091,6,6,city_0702_texas_decatur
-S60011342,L9767245,Decatur Home,2019-09-22,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,90,,1,33.2284633,-97.5896091,11,11,city_0702_texas_decatur
-S59911941,L9767245,Decatur Home,2019-09-18,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,15,,1,33.2284633,-97.5896091,6,6,city_0702_texas_decatur
-S56303508,L1001028,Melba Doyle Park,2019-05-15,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,82,0.499,1,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
-S52765899,L1972734,Fox backyard,2019-02-15,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,240,,1,33.2321994,-97.5910056,14,14,city_0702_texas_decatur
-S60781127,L1001028,Melba Doyle Park,2019-10-20,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,25,0.402,1,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
-S59047334,L1001028,Melba Doyle Park,2019-08-17,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,45,0.402,1,33.2464583,-97.5976306,7,7,city_0702_texas_decatur
-S59425998,L9767245,Decatur Home,2019-09-01,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,45,,1,33.2284633,-97.5896091,8,8,city_0702_texas_decatur
-S59396114,L9767245,Decatur Home,2019-08-31,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,5,,1,33.2284633,-97.5896091,6,6,city_0702_texas_decatur
-S59235680,L9767245,Decatur Home,2019-08-24,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,15,,1,33.2284633,-97.5896091,3,3,city_0702_texas_decatur
-S59093043,L9767245,Decatur Home,2019-08-18,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,45,,1,33.2284633,-97.5896091,7,7,city_0702_texas_decatur
-S60534378,L10018616,"Decatur US-TX (33.2348,-97.5868)",2019-10-11,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,14,2.028,1,33.234782,-97.586834,4,4,city_0702_texas_decatur
-S58599628,L4128400,Kenny Renshaw Southpark,2019-07-24,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,45,,1,33.2096084,-97.5981241,10,10,city_0702_texas_decatur
-S58599413,L4128400,Kenny Renshaw Southpark,2019-07-23,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,30,,1,33.2096084,-97.5981241,7,7,city_0702_texas_decatur
-S60172948,L9767245,Decatur Home,2019-09-28,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,20,,1,33.2284633,-97.5896091,7,7,city_0702_texas_decatur
-S58893528,L9767245,Decatur Home,2019-08-10,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,10,,1,33.2284633,-97.5896091,4,4,city_0702_texas_decatur
-S59185805,L9767245,Decatur Home,2019-08-22,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,45,,1,33.2284633,-97.5896091,6,6,city_0702_texas_decatur
-S62305296,L1001028,Melba Doyle Park,2019-12-14,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,28,0.805,1,33.2464583,-97.5976306,2,2,city_0702_texas_decatur
-S59473846,L9767245,Decatur Home,2019-09-02,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,5,,1,33.2284633,-97.5896091,4,4,city_0702_texas_decatur
-S61719633,L9767245,Decatur Home,2019-11-24,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,30,,1,33.2284633,-97.5896091,8,8,city_0702_texas_decatur
-S59521526,L9767245,Decatur Home,2019-09-04,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,30,,1,33.2284633,-97.5896091,3,3,city_0702_texas_decatur
-S59394522,L9767245,Decatur Home,2019-08-31,2019,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,15,,1,33.2284633,-97.5896091,5,5,city_0702_texas_decatur
-S74453756,L1001028,Melba Doyle Park,2020-10-05,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,60,0.805,1,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
-S70023018,L4128400,Kenny Renshaw Southpark,2020-05-31,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,45,1.283,1,33.2096084,-97.5981241,15,15,city_0702_texas_decatur
-S68076257,L1001028,Melba Doyle Park,2020-04-29,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,29,0.789,1,33.2464583,-97.5976306,9,9,city_0702_texas_decatur
-S62993944,L1001028,Melba Doyle Park,2020-01-04,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,30,0.644,1,33.2464583,-97.5976306,9,9,city_0702_texas_decatur
-S69107871,L1001028,Melba Doyle Park,2020-05-15,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,20,0.402,1,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
-S69803650,L11576782,"908 S Washburn St, Decatur US-TX 33.23218, -97.59690",2020-05-29,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,42,5.806,1,33.232176,-97.596898,7,7,city_0702_texas_decatur
-S68860502,L1972734,Fox backyard,2020-05-10,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,35,,1,33.2321994,-97.5910056,10,10,city_0702_texas_decatur
-S68534758,L1001028,Melba Doyle Park,2020-05-07,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,35,0.483,1,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
-S68093164,L1001028,Melba Doyle Park,2020-04-29,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,163,,1,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
-S68003880,L1001028,Melba Doyle Park,2020-04-28,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,159,,1,33.2464583,-97.5976306,18,18,city_0702_texas_decatur
-S62953226,L4128400,Kenny Renshaw Southpark,2020-01-03,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,15,0.322,1,33.2096084,-97.5981241,7,7,city_0702_texas_decatur
-S70484748,L1001028,Melba Doyle Park,2020-06-15,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,35,0.483,1,33.2464583,-97.5976306,5,5,city_0702_texas_decatur
-S70415950,L11691376,"701 West Hale Avenue, Decatur, Texas, US (33.228, -97.591)",2020-06-14,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,5,,1,33.2279307,-97.5914585,9,9,city_0702_texas_decatur
-S69310005,L1001028,Melba Doyle Park,2020-05-19,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,27,0.789,1,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
-S67907565,L11259617,"800 Medical Center Dr, Decatur US-TX 33.21900, -97.59459",2020-04-27,2020,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,12,3.057,1,33.219004,-97.594592,6,6,city_0702_texas_decatur
-S88649509,L1001028,Melba Doyle Park,2021-05-21,2021,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,33,,1,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
-S97115125,L1001028,Melba Doyle Park,2021-11-04,2021,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,39,0.717,1,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
-S91110417,L15603554,"287 N, Wise County",2021-07-02,2021,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,5,,1,33.219751,-97.587947,5,5,city_0702_texas_decatur
-S98796467,L1001028,Melba Doyle Park,2021-12-12,2021,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,34,0.483,1,33.2464583,-97.5976306,4,4,city_0702_texas_decatur
-S81824228,L4836321,Fox backyard,2021-02-12,2021,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,60,,1,33.2324215,-97.5906602,12,12,city_0702_texas_decatur
-S95359638,L16502476,"Catholic Church, North Workman Road, Decatur, Texas, US (33.237, -97.603)",2021-09-29,2021,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,11,,1,33.236514,-97.602525,2,2,city_0702_texas_decatur
-S93381116,L1001028,Melba Doyle Park,2021-08-17,2021,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,10,,1,33.2464583,-97.5976306,3,3,city_0702_texas_decatur
-S99720581,L16502476,"Catholic Church, North Workman Road, Decatur, Texas, US (33.237, -97.603)",2021-12-30,2021,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,25,,1,33.236514,-97.602525,2,2,city_0702_texas_decatur
-S107337019,L1001028,Melba Doyle Park,2022-04-17,2022,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,35,0.673,1,33.2464583,-97.5976306,17,17,city_0702_texas_decatur
-S117340161,L1001028,Melba Doyle Park,2022-08-21,2022,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,27,0.098,1,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
-S100963869,L17471041,Wise County,2022-01-17,2022,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,20,8.047,1,33.215051,-97.584055,17,17,city_0702_texas_decatur
-S106606870,L18429664,"Wise - US-380 E, Decatur US-TX 33.23999, -97.59971",2022-04-09,2022,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,6,11.788,1,33.239992,-97.599707,8,8,city_0702_texas_decatur
-S103575814,L1972734,Fox backyard,2022-02-18,2022,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,15,,1,33.2321994,-97.5910056,3,3,city_0702_texas_decatur
-S117859127,L1001028,Melba Doyle Park,2022-08-27,2022,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,10,0.322,1,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
-S104941046,L1001028,Melba Doyle Park,2022-03-16,2022,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,21,0.251,1,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
-S155803473,L1001028,Melba Doyle Park,2023-12-05,2023,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,26,4.811,1,33.2464583,-97.5976306,4,4,city_0702_texas_decatur
-S133945190,L23632003,"701 Park Ridge St, Decatur US-TX 33.23866, -97.59329",2023-04-16,2023,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,30,,1,33.238661,-97.593291,14,14,city_0702_texas_decatur
-S152642918,L27602537,"1405 US-287 N, Decatur US-TX 33.22486, -97.58977",2023-10-19,2023,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,15,,1,33.224859,-97.589772,7,7,city_0702_texas_decatur
-S155794656,L28184316,"Decatur, Texas, US (33.224, -97.591)",2023-12-05,2023,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,7,6.074,1,33.2242835,-97.590538,2,2,city_0702_texas_decatur
-S156036633,L1001028,Melba Doyle Park,2023-12-09,2023,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,29,0.339,1,33.2464583,-97.5976306,3,3,city_0702_texas_decatur
-S152552792,L27586105,Shell Decatur,2023-10-18,2023,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,18,,1,33.2403436,-97.5723672,3,3,city_0702_texas_decatur
-S156033496,L4128400,Kenny Renshaw Southpark,2023-12-09,2023,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,13,0.194,1,33.2096084,-97.5981241,2,2,city_0702_texas_decatur
-S207254302,L39015938,"2105 S College Ave, Decatur US-TX 33.21491, -97.58275",2024-12-30,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,14,0.366,1,33.214914,-97.582746,7,7,city_0702_texas_decatur
-S194595500,L1001028,Melba Doyle Park,2024-09-09,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,49,0.463,1,33.2464583,-97.5976306,7,7,city_0702_texas_decatur
-S190824994,L35623369,"900 US-287 S, Decatur US-TX 33.22766, -97.59430",2024-08-09,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,14,,1,33.227655,-97.594302,5,5,city_0702_texas_decatur
-S193021303,L36122749,"700 S Cowan St, Decatur US-TX 33.23009, -97.59241",2024-08-23,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,90,1.664,1,33.23009,-97.592413,2,2,city_0702_texas_decatur
-S193716785,L36290265,"Road Travel: FM-51 (Decatur to Springtown), Wise County, Texas",2024-09-02,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,20,32.187,1,33.2282145,-97.5928543,5,5,city_0702_texas_decatur
-S200807922,L4128400,Kenny Renshaw Southpark,2024-10-30,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,16,0.724,1,33.2096084,-97.5981241,10,10,city_0702_texas_decatur
-S161357814,L1001028,Melba Doyle Park,2024-02-12,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,18,0.229,1,33.2464583,-97.5976306,7,7,city_0702_texas_decatur
-S162287093,L29388979,"1305 U.S. 81, Decatur, Texas, US (33.226, -97.59)",2024-02-19,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,24,,1,33.2259706,-97.5904694,3,3,city_0702_texas_decatur
-S161359641,L29230818,"Wise - Decatur High School, Decatur US-TX 33.21828, -97.57791",2024-02-12,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,8,0.182,1,33.218278,-97.577909,7,7,city_0702_texas_decatur
-S182794037,L33675460,"Wise County - 800 U.S. 380, Decatur, Texas, US (33.241, -97.599)",2024-06-12,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,20,16.093,1,33.2406294,-97.5994465,9,9,city_0702_texas_decatur
-S165319267,L1001028,Melba Doyle Park,2024-03-18,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,25,0.402,1,33.2464583,-97.5976306,7,7,city_0702_texas_decatur
-S173237923,L31517354,"1300 Farm to Market Road 1810, Decatur, Texas, US (33.243, -97.608)Woods",2024-05-10,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,15,,1,33.2434847,-97.6083803,9,9,city_0702_texas_decatur
-S196489334,L36855955,"Braums 701 West Business 380, Decatur, Texas, US (33.23, -97.593)",2024-09-25,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,10,0.063,1,33.2299055,-97.5929915,4,4,city_0702_texas_decatur
-S197148326,L1001028,Melba Doyle Park,2024-10-01,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,24,0.44,1,33.2464583,-97.5976306,5,5,city_0702_texas_decatur
-S193021199,L36122749,"700 S Cowan St, Decatur US-TX 33.23009, -97.59241",2024-08-24,2024,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,120,0.837,1,33.23009,-97.592413,2,2,city_0702_texas_decatur
-S235236907,L1001028,Melba Doyle Park,2025-05-09,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,77,,1,33.2464583,-97.5976306,21,21,city_0702_texas_decatur
-S289121605,L1001028,Melba Doyle Park,2025-12-18,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,25,,1,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
-S235162911,L44492590,"905 W Thompson St, Decatur US-TX 33.22136, -97.59563",2025-05-09,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,11,,1,33.221361,-97.595631,4,4,city_0702_texas_decatur
-S230158652,L1001028,Melba Doyle Park,2025-04-27,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,29,0.287,1,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
-S228264808,L43215610,"Melba Doyle Park, Decatur US-TX (33.2465,-97.5980)",2025-04-22,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,50,0.659,1,33.246517,-97.597992,9,9,city_0702_texas_decatur
-S275861593,L53347058,"Valero 1105 Farm to Market 51, Decatur, Texas, US (33.226, -97.593)",2025-09-27,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,16,,1,33.2261367,-97.5932402,4,4,city_0702_texas_decatur
-S254071969,L1001028,Melba Doyle Park,2025-06-25,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,16,0.305,1,33.2464583,-97.5976306,10,10,city_0702_texas_decatur
-S230985010,L43730765,Casa Torres,2025-04-28,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,30,,1,33.2099302,-97.6003832,10,10,city_0702_texas_decatur
-S233071222,L1001028,Melba Doyle Park,2025-05-04,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,7,0.209,1,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
-S262456147,L50398289,"1151 Farm to Market 51, Decatur, Texas, US (33.243, -97.577)",2025-07-24,2025,702,"Decatur, TX",Decatur,Texas,Wise,13005396.10902,5,9.315,1,33.2429932,-97.5766202,3,3,city_0702_texas_decatur
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22803553,L156704,Decatur,2015-04-11,2015,702,"Decatur, TX",Decatur,Texas,Wise,100,26,8.047,1,Traveling,33.23432,-97.58611,9,9,city_0702_texas_decatur
+S26667844,L4128400,Kenny Renshaw Southpark,2016-01-04,2016,702,"Decatur, TX",Decatur,Texas,Wise,100,21,0.805,1,Traveling,33.2096084,-97.5981241,23,23,city_0702_texas_decatur
+S27545717,L1972734,Fox backyard,2016-02-12,2016,702,"Decatur, TX",Decatur,Texas,Wise,100,240,,1,Stationary,33.2321994,-97.5910056,10,10,city_0702_texas_decatur
+S27545882,L1972734,Fox backyard,2016-02-13,2016,702,"Decatur, TX",Decatur,Texas,Wise,100,10,,1,Stationary,33.2321994,-97.5910056,2,2,city_0702_texas_decatur
+S35274333,L5589815,US-TX-Decatur- Wise County Courthouse,2017-03-19,2017,702,"Decatur, TX",Decatur,Texas,Wise,100,17,0.483,1,Traveling,33.23448,-97.586596,6,6,city_0702_texas_decatur
+S37093961,L5876662,Texas-Wise Co.-US 380 Decatur,2017-05-19,2017,702,"Decatur, TX",Decatur,Texas,Wise,100,5,8.047,1,Traveling,33.2453636,-97.5852442,2,2,city_0702_texas_decatur
+S39267064,L1001028,Melba Doyle Park,2017-09-14,2017,702,"Decatur, TX",Decatur,Texas,Wise,100,10,1.609,1,Traveling,33.2464583,-97.5976306,5,5,city_0702_texas_decatur
+S42093512,L1001028,Melba Doyle Park,2018-01-20,2018,702,"Decatur, TX",Decatur,Texas,Wise,100,29,0.361,1,Traveling,33.2464583,-97.5976306,5,5,city_0702_texas_decatur
+S74030378,L1001028,Melba Doyle Park,2018-04-15,2018,702,"Decatur, TX",Decatur,Texas,Wise,100,62,2.092,1,Traveling,33.2464583,-97.5976306,29,29,city_0702_texas_decatur
+S48126652,L7377426,Decatur,2018-08-28,2018,702,"Decatur, TX",Decatur,Texas,Wise,100,25,0.483,1,Traveling,33.2412001,-97.6003718,17,17,city_0702_texas_decatur
+S48131360,L7377426,Decatur,2018-08-28,2018,702,"Decatur, TX",Decatur,Texas,Wise,100,25,0.483,1,Traveling,33.2412001,-97.6003718,8,8,city_0702_texas_decatur
+S51045576,L8319384,"Court House square 106 West Walnut Street, Decatur, Texas, US (33.235, -97.587)",2018-12-29,2018,702,"Decatur, TX",Decatur,Texas,Wise,100,5,0.129,1,Traveling,33.2348128,-97.5868517,3,3,city_0702_texas_decatur
+S52765899,L1972734,Fox backyard,2019-02-15,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,240,,1,Stationary,33.2321994,-97.5910056,14,14,city_0702_texas_decatur
+S55438588,L1001028,Melba Doyle Park,2019-04-26,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,26,0.15,1,Traveling,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
+S56276745,L1001028,Melba Doyle Park,2019-05-14,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,5,0.322,1,Traveling,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
+S56274142,L9266159,"100 U.S. 380 Business, Decatur, Texas, US (33.235, -97.586)",2019-05-14,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,10,2.977,1,Traveling,33.2354103,-97.5864243,11,11,city_0702_texas_decatur
+S56303508,L1001028,Melba Doyle Park,2019-05-15,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,82,0.499,1,Traveling,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
+S58599413,L4128400,Kenny Renshaw Southpark,2019-07-23,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,30,,1,Stationary,33.2096084,-97.5981241,7,7,city_0702_texas_decatur
+S58599628,L4128400,Kenny Renshaw Southpark,2019-07-24,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,45,,1,Stationary,33.2096084,-97.5981241,10,10,city_0702_texas_decatur
+S58893528,L9767245,Decatur Home,2019-08-10,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,10,,1,Stationary,33.2284633,-97.5896091,4,4,city_0702_texas_decatur
+S59047334,L1001028,Melba Doyle Park,2019-08-17,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,45,0.402,1,Traveling,33.2464583,-97.5976306,7,7,city_0702_texas_decatur
+S59093043,L9767245,Decatur Home,2019-08-18,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,45,,1,Stationary,33.2284633,-97.5896091,7,7,city_0702_texas_decatur
+S59185805,L9767245,Decatur Home,2019-08-22,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,45,,1,Stationary,33.2284633,-97.5896091,6,6,city_0702_texas_decatur
+S59210134,L9767245,Decatur Home,2019-08-23,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,50,,1,Stationary,33.2284633,-97.5896091,3,3,city_0702_texas_decatur
+S59235680,L9767245,Decatur Home,2019-08-24,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,15,,1,Stationary,33.2284633,-97.5896091,3,3,city_0702_texas_decatur
+S59232233,L9767245,Decatur Home,2019-08-24,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,10,,1,Stationary,33.2284633,-97.5896091,5,5,city_0702_texas_decatur
+S59244528,L1001028,Melba Doyle Park,2019-08-25,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,50,0.644,1,Traveling,33.2464583,-97.5976306,12,12,city_0702_texas_decatur
+S59394522,L9767245,Decatur Home,2019-08-31,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,15,,1,Stationary,33.2284633,-97.5896091,5,5,city_0702_texas_decatur
+S59396114,L9767245,Decatur Home,2019-08-31,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,5,,1,Stationary,33.2284633,-97.5896091,6,6,city_0702_texas_decatur
+S59425998,L9767245,Decatur Home,2019-09-01,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,45,,1,Stationary,33.2284633,-97.5896091,8,8,city_0702_texas_decatur
+S59473846,L9767245,Decatur Home,2019-09-02,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,5,,1,Stationary,33.2284633,-97.5896091,4,4,city_0702_texas_decatur
+S59521526,L9767245,Decatur Home,2019-09-04,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,30,,1,Stationary,33.2284633,-97.5896091,3,3,city_0702_texas_decatur
+S59911941,L9767245,Decatur Home,2019-09-18,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,15,,1,Stationary,33.2284633,-97.5896091,6,6,city_0702_texas_decatur
+S60011342,L9767245,Decatur Home,2019-09-22,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,90,,1,Stationary,33.2284633,-97.5896091,11,11,city_0702_texas_decatur
+S60172948,L9767245,Decatur Home,2019-09-28,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,20,,1,Stationary,33.2284633,-97.5896091,7,7,city_0702_texas_decatur
+S60534378,L10018616,"Decatur US-TX (33.2348,-97.5868)",2019-10-11,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,14,2.028,1,Traveling,33.234782,-97.586834,4,4,city_0702_texas_decatur
+S60781127,L1001028,Melba Doyle Park,2019-10-20,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,25,0.402,1,Traveling,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
+S60980576,L9767245,Decatur Home,2019-10-27,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,40,,1,Stationary,33.2284633,-97.5896091,6,6,city_0702_texas_decatur
+S61146883,L1001028,Melba Doyle Park,2019-11-03,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,31,0.338,1,Traveling,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
+S61327427,L9767245,Decatur Home,2019-11-10,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,20,,1,Stationary,33.2284633,-97.5896091,8,8,city_0702_texas_decatur
+S61719633,L9767245,Decatur Home,2019-11-24,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,30,,1,Stationary,33.2284633,-97.5896091,8,8,city_0702_texas_decatur
+S62138367,L1001028,Melba Doyle Park,2019-12-08,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,25,0.402,1,Traveling,33.2464583,-97.5976306,10,10,city_0702_texas_decatur
+S62305296,L1001028,Melba Doyle Park,2019-12-14,2019,702,"Decatur, TX",Decatur,Texas,Wise,100,28,0.805,1,Traveling,33.2464583,-97.5976306,2,2,city_0702_texas_decatur
+S62953226,L4128400,Kenny Renshaw Southpark,2020-01-03,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,15,0.322,1,Traveling,33.2096084,-97.5981241,7,7,city_0702_texas_decatur
+S62993944,L1001028,Melba Doyle Park,2020-01-04,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,30,0.644,1,Traveling,33.2464583,-97.5976306,9,9,city_0702_texas_decatur
+S67907565,L11259617,"800 Medical Center Dr, Decatur US-TX 33.21900, -97.59459",2020-04-27,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,12,3.057,1,Traveling,33.219004,-97.594592,6,6,city_0702_texas_decatur
+S68003880,L1001028,Melba Doyle Park,2020-04-28,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,159,,1,Stationary,33.2464583,-97.5976306,18,18,city_0702_texas_decatur
+S68076257,L1001028,Melba Doyle Park,2020-04-29,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,29,0.789,1,Traveling,33.2464583,-97.5976306,9,9,city_0702_texas_decatur
+S68093164,L1001028,Melba Doyle Park,2020-04-29,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,163,,1,Stationary,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
+S68534758,L1001028,Melba Doyle Park,2020-05-07,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,35,0.483,1,Traveling,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
+S68860502,L1972734,Fox backyard,2020-05-10,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,35,,1,Stationary,33.2321994,-97.5910056,10,10,city_0702_texas_decatur
+S69107871,L1001028,Melba Doyle Park,2020-05-15,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,20,0.402,1,Traveling,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
+S69310005,L1001028,Melba Doyle Park,2020-05-19,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,27,0.789,1,Traveling,33.2464583,-97.5976306,8,8,city_0702_texas_decatur
+S69803650,L11576782,"908 S Washburn St, Decatur US-TX 33.23218, -97.59690",2020-05-29,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,42,5.806,1,Traveling,33.232176,-97.596898,7,7,city_0702_texas_decatur
+S70023018,L4128400,Kenny Renshaw Southpark,2020-05-31,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,45,1.283,1,Traveling,33.2096084,-97.5981241,15,15,city_0702_texas_decatur
+S70415950,L11691376,"701 West Hale Avenue, Decatur, Texas, US (33.228, -97.591)",2020-06-14,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,5,,1,Stationary,33.2279307,-97.5914585,9,9,city_0702_texas_decatur
+S70484748,L1001028,Melba Doyle Park,2020-06-15,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,35,0.483,1,Traveling,33.2464583,-97.5976306,5,5,city_0702_texas_decatur
+S74453756,L1001028,Melba Doyle Park,2020-10-05,2020,702,"Decatur, TX",Decatur,Texas,Wise,100,60,0.805,1,Traveling,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
+S81824228,L4836321,Fox backyard,2021-02-12,2021,702,"Decatur, TX",Decatur,Texas,Wise,100,60,,1,Stationary,33.2324215,-97.5906602,12,12,city_0702_texas_decatur
+S88649509,L1001028,Melba Doyle Park,2021-05-21,2021,702,"Decatur, TX",Decatur,Texas,Wise,100,33,,1,Stationary,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
+S91110417,L15603554,"287 N, Wise County",2021-07-02,2021,702,"Decatur, TX",Decatur,Texas,Wise,100,5,,1,Stationary,33.219751,-97.587947,5,5,city_0702_texas_decatur
+S93381116,L1001028,Melba Doyle Park,2021-08-17,2021,702,"Decatur, TX",Decatur,Texas,Wise,100,10,,1,Stationary,33.2464583,-97.5976306,3,3,city_0702_texas_decatur
+S95359638,L16502476,"Catholic Church, North Workman Road, Decatur, Texas, US (33.237, -97.603)",2021-09-29,2021,702,"Decatur, TX",Decatur,Texas,Wise,100,11,,1,Stationary,33.236514,-97.602525,2,2,city_0702_texas_decatur
+S97115125,L1001028,Melba Doyle Park,2021-11-04,2021,702,"Decatur, TX",Decatur,Texas,Wise,100,39,0.717,1,Traveling,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
+S98796467,L1001028,Melba Doyle Park,2021-12-12,2021,702,"Decatur, TX",Decatur,Texas,Wise,100,34,0.483,1,Traveling,33.2464583,-97.5976306,4,4,city_0702_texas_decatur
+S99720581,L16502476,"Catholic Church, North Workman Road, Decatur, Texas, US (33.237, -97.603)",2021-12-30,2021,702,"Decatur, TX",Decatur,Texas,Wise,100,25,,1,Stationary,33.236514,-97.602525,2,2,city_0702_texas_decatur
+S100963869,L17471041,Wise County,2022-01-17,2022,702,"Decatur, TX",Decatur,Texas,Wise,100,20,8.047,1,Traveling,33.215051,-97.584055,17,17,city_0702_texas_decatur
+S103575814,L1972734,Fox backyard,2022-02-18,2022,702,"Decatur, TX",Decatur,Texas,Wise,100,15,,1,Stationary,33.2321994,-97.5910056,3,3,city_0702_texas_decatur
+S104941046,L1001028,Melba Doyle Park,2022-03-16,2022,702,"Decatur, TX",Decatur,Texas,Wise,100,21,0.251,1,Traveling,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
+S106606870,L18429664,"Wise - US-380 E, Decatur US-TX 33.23999, -97.59971",2022-04-09,2022,702,"Decatur, TX",Decatur,Texas,Wise,100,6,11.788,1,Traveling,33.239992,-97.599707,8,8,city_0702_texas_decatur
+S107337019,L1001028,Melba Doyle Park,2022-04-17,2022,702,"Decatur, TX",Decatur,Texas,Wise,100,35,0.673,1,Traveling,33.2464583,-97.5976306,17,17,city_0702_texas_decatur
+S117340161,L1001028,Melba Doyle Park,2022-08-21,2022,702,"Decatur, TX",Decatur,Texas,Wise,100,27,0.098,1,Traveling,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
+S117859127,L1001028,Melba Doyle Park,2022-08-27,2022,702,"Decatur, TX",Decatur,Texas,Wise,100,10,0.322,1,Traveling,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
+S133945190,L23632003,"701 Park Ridge St, Decatur US-TX 33.23866, -97.59329",2023-04-16,2023,702,"Decatur, TX",Decatur,Texas,Wise,100,30,,1,Stationary,33.238661,-97.593291,14,14,city_0702_texas_decatur
+S152552792,L27586105,Shell Decatur,2023-10-18,2023,702,"Decatur, TX",Decatur,Texas,Wise,100,18,,1,Stationary,33.2403436,-97.5723672,3,3,city_0702_texas_decatur
+S152642918,L27602537,"1405 US-287 N, Decatur US-TX 33.22486, -97.58977",2023-10-19,2023,702,"Decatur, TX",Decatur,Texas,Wise,100,15,,1,Stationary,33.224859,-97.589772,7,7,city_0702_texas_decatur
+S155803473,L1001028,Melba Doyle Park,2023-12-05,2023,702,"Decatur, TX",Decatur,Texas,Wise,100,26,4.811,1,Traveling,33.2464583,-97.5976306,4,4,city_0702_texas_decatur
+S155794656,L28184316,"Decatur, Texas, US (33.224, -97.591)",2023-12-05,2023,702,"Decatur, TX",Decatur,Texas,Wise,100,7,6.074,1,Traveling,33.2242835,-97.590538,2,2,city_0702_texas_decatur
+S156036633,L1001028,Melba Doyle Park,2023-12-09,2023,702,"Decatur, TX",Decatur,Texas,Wise,100,29,0.339,1,Traveling,33.2464583,-97.5976306,3,3,city_0702_texas_decatur
+S156033496,L4128400,Kenny Renshaw Southpark,2023-12-09,2023,702,"Decatur, TX",Decatur,Texas,Wise,100,13,0.194,1,Traveling,33.2096084,-97.5981241,2,2,city_0702_texas_decatur
+S161357814,L1001028,Melba Doyle Park,2024-02-12,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,18,0.229,1,Traveling,33.2464583,-97.5976306,7,7,city_0702_texas_decatur
+S161359641,L29230818,"Wise - Decatur High School, Decatur US-TX 33.21828, -97.57791",2024-02-12,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,8,0.182,1,Traveling,33.218278,-97.577909,7,7,city_0702_texas_decatur
+S162287093,L29388979,"1305 U.S. 81, Decatur, Texas, US (33.226, -97.59)",2024-02-19,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,24,,1,Stationary,33.2259706,-97.5904694,3,3,city_0702_texas_decatur
+S165319267,L1001028,Melba Doyle Park,2024-03-18,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,25,0.402,1,Traveling,33.2464583,-97.5976306,7,7,city_0702_texas_decatur
+S173237923,L31517354,"1300 Farm to Market Road 1810, Decatur, Texas, US (33.243, -97.608)Woods",2024-05-10,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,15,,1,Stationary,33.2434847,-97.6083803,9,9,city_0702_texas_decatur
+S182794037,L33675460,"Wise County - 800 U.S. 380, Decatur, Texas, US (33.241, -97.599)",2024-06-12,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,20,16.093,1,Traveling,33.2406294,-97.5994465,9,9,city_0702_texas_decatur
+S190824994,L35623369,"900 US-287 S, Decatur US-TX 33.22766, -97.59430",2024-08-09,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,14,,1,Stationary,33.227655,-97.594302,5,5,city_0702_texas_decatur
+S193021303,L36122749,"700 S Cowan St, Decatur US-TX 33.23009, -97.59241",2024-08-23,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,90,1.664,1,Traveling,33.23009,-97.592413,2,2,city_0702_texas_decatur
+S193021199,L36122749,"700 S Cowan St, Decatur US-TX 33.23009, -97.59241",2024-08-24,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,120,0.837,1,Traveling,33.23009,-97.592413,2,2,city_0702_texas_decatur
+S193716785,L36290265,"Road Travel: FM-51 (Decatur to Springtown), Wise County, Texas",2024-09-02,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,20,32.187,1,Traveling,33.2282145,-97.5928543,5,5,city_0702_texas_decatur
+S194595500,L1001028,Melba Doyle Park,2024-09-09,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,49,0.463,1,Traveling,33.2464583,-97.5976306,7,7,city_0702_texas_decatur
+S196489334,L36855955,"Braums 701 West Business 380, Decatur, Texas, US (33.23, -97.593)",2024-09-25,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,10,0.063,1,Traveling,33.2299055,-97.5929915,4,4,city_0702_texas_decatur
+S197148326,L1001028,Melba Doyle Park,2024-10-01,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,24,0.44,1,Traveling,33.2464583,-97.5976306,5,5,city_0702_texas_decatur
+S200807922,L4128400,Kenny Renshaw Southpark,2024-10-30,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,16,0.724,1,Traveling,33.2096084,-97.5981241,10,10,city_0702_texas_decatur
+S207254302,L39015938,"2105 S College Ave, Decatur US-TX 33.21491, -97.58275",2024-12-30,2024,702,"Decatur, TX",Decatur,Texas,Wise,100,14,0.366,1,Traveling,33.214914,-97.582746,7,7,city_0702_texas_decatur
+S228264808,L43215610,"Melba Doyle Park, Decatur US-TX (33.2465,-97.5980)",2025-04-22,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,50,0.659,1,Traveling,33.246517,-97.597992,9,9,city_0702_texas_decatur
+S230158652,L1001028,Melba Doyle Park,2025-04-27,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,29,0.287,1,Traveling,33.2464583,-97.5976306,13,13,city_0702_texas_decatur
+S230985010,L43730765,Casa Torres,2025-04-28,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,30,,1,Stationary,33.2099302,-97.6003832,10,10,city_0702_texas_decatur
+S233071222,L1001028,Melba Doyle Park,2025-05-04,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,7,0.209,1,Traveling,33.2464583,-97.5976306,6,6,city_0702_texas_decatur
+S235236907,L1001028,Melba Doyle Park,2025-05-09,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,77,,1,Stationary,33.2464583,-97.5976306,21,21,city_0702_texas_decatur
+S235162911,L44492590,"905 W Thompson St, Decatur US-TX 33.22136, -97.59563",2025-05-09,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,11,,1,Stationary,33.221361,-97.595631,4,4,city_0702_texas_decatur
+S254071969,L1001028,Melba Doyle Park,2025-06-25,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,16,0.305,1,Traveling,33.2464583,-97.5976306,10,10,city_0702_texas_decatur
+S262456147,L50398289,"1151 Farm to Market 51, Decatur, Texas, US (33.243, -97.577)",2025-07-24,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,5,9.315,1,Traveling,33.2429932,-97.5766202,3,3,city_0702_texas_decatur
+S275861593,L53347058,"Valero 1105 Farm to Market 51, Decatur, Texas, US (33.226, -97.593)",2025-09-27,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,16,,1,Stationary,33.2261367,-97.5932402,4,4,city_0702_texas_decatur
+S289121605,L1001028,Melba Doyle Park,2025-12-18,2025,702,"Decatur, TX",Decatur,Texas,Wise,100,25,,1,Stationary,33.2464583,-97.5976306,8,8,city_0702_texas_decatur

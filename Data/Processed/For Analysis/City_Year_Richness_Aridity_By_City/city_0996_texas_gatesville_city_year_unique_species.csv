@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2015,16760095.5146424,20,25,city_0996_texas_gatesville,1148.3750038146973,19.372395833333332,39.097083204614215,humid,12
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2018,16760095.5146424,31,35,city_0996_texas_gatesville,852.1812467575073,19.463541666666668,28.923245426452432,dry subhumid,12
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2019,16760095.5146424,32,36,city_0996_texas_gatesville,760.0437545776367,19.302083333333332,25.93821558459052,dry subhumid,12
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2020,16760095.5146424,31,35,city_0996_texas_gatesville,776.1750049591064,19.895833333333332,25.962648249503214,dry subhumid,12
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2021,16760095.5146424,16,26,city_0996_texas_gatesville,851.3437519073486,19.203125,29.152488026789893,dry subhumid,12
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2022,16760095.5146424,18,18,city_0996_texas_gatesville,499.21250343322754,19.791666666666668,16.75678333202442,semiarid,12
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2023,16760095.5146424,9,11,city_0996_texas_gatesville,704.3375072479248,20.4765625,23.110792342408196,dry subhumid,12
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2024,16760095.5146424,19,23,city_0996_texas_gatesville,787.6812515258789,20.817708333333332,25.55937135253824,dry subhumid,12
-996,"Gatesville, TX",Gatesville,Texas,Coryell,2025,16760095.5146424,14,17,city_0996_texas_gatesville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+996,2015,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,20,25,city_0996_texas_gatesville,1148.3750038147,19.3723958333333,39.0970832046142,humid,12
+996,2018,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,31,35,city_0996_texas_gatesville,852.181246757507,19.4635416666667,28.9232454264524,dry subhumid,12
+996,2019,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,32,36,city_0996_texas_gatesville,760.043754577637,19.3020833333333,25.9382155845905,dry subhumid,12
+996,2020,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,31,35,city_0996_texas_gatesville,776.175004959107,19.8958333333333,25.9626482495032,dry subhumid,12
+996,2021,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,16,26,city_0996_texas_gatesville,851.343751907349,19.203125,29.1524880267899,dry subhumid,12
+996,2022,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,18,18,city_0996_texas_gatesville,499.212503433228,19.7916666666667,16.7567833320244,semiarid,12
+996,2023,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,9,11,city_0996_texas_gatesville,704.337507247925,20.4765625,23.1107923424082,dry subhumid,12
+996,2024,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,19,23,city_0996_texas_gatesville,787.681251525879,20.8177083333333,25.5593713525382,dry subhumid,12
+996,2025,"Gatesville, TX",Gatesville,Texas,Coryell,99.9999999999994,14,17,city_0996_texas_gatesville,,,,,

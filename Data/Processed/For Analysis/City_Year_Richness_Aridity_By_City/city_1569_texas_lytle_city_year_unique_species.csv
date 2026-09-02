@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2016,11085995.1455893,11,12,city_1569_texas_lytle,1005.2625122070312,21.7421875,31.669604125646075,humid,12
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2018,11085995.1455893,4,8,city_1569_texas_lytle,740.4312353134155,21.138020833333332,23.779007640741955,dry subhumid,12
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2019,11085995.1455893,8,9,city_1569_texas_lytle,507.9999990463257,21.200520833333332,16.281779453617318,semiarid,12
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2020,11085995.1455893,61,113,city_1569_texas_lytle,507.743748664856,21.578125,16.07897076425076,semiarid,12
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2021,11085995.1455893,20,23,city_1569_texas_lytle,693.3562507629395,21.203125,22.220731121095707,dry subhumid,12
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2022,11085995.1455893,16,29,city_1569_texas_lytle,379.0437450408935,21.510416666666668,12.02915686741348,semiarid,12
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2023,11085995.1455893,32,43,city_1569_texas_lytle,619.0937461853027,22.294270833333332,19.17038936659594,semiarid,12
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2024,11085995.1455893,19,20,city_1569_texas_lytle,540.181248664856,22.5390625,16.601008362329306,semiarid,12
-1569,"Lytle, TX",Lytle,Texas,Atascosa,2025,11085995.1455893,5,5,city_1569_texas_lytle,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1569,2016,"Lytle, TX",Lytle,Texas,Atascosa,100,11,12,city_1569_texas_lytle,1005.26251220703,21.7421875,31.6696041256461,humid,12
+1569,2018,"Lytle, TX",Lytle,Texas,Atascosa,100,4,8,city_1569_texas_lytle,740.431235313416,21.1380208333333,23.779007640742,dry subhumid,12
+1569,2019,"Lytle, TX",Lytle,Texas,Atascosa,100,8,9,city_1569_texas_lytle,507.999999046326,21.2005208333333,16.2817794536173,semiarid,12
+1569,2020,"Lytle, TX",Lytle,Texas,Atascosa,100,61,113,city_1569_texas_lytle,507.743748664856,21.578125,16.0789707642508,semiarid,12
+1569,2021,"Lytle, TX",Lytle,Texas,Atascosa,100,20,23,city_1569_texas_lytle,693.35625076294,21.203125,22.2207311210957,dry subhumid,12
+1569,2022,"Lytle, TX",Lytle,Texas,Atascosa,100,16,29,city_1569_texas_lytle,379.043745040894,21.5104166666667,12.0291568674135,semiarid,12
+1569,2023,"Lytle, TX",Lytle,Texas,Atascosa,100,32,43,city_1569_texas_lytle,619.093746185303,22.2942708333333,19.1703893665959,semiarid,12
+1569,2024,"Lytle, TX",Lytle,Texas,Atascosa,100,19,20,city_1569_texas_lytle,540.181248664856,22.5390625,16.6010083623293,semiarid,12
+1569,2025,"Lytle, TX",Lytle,Texas,Atascosa,100,5,5,city_1569_texas_lytle,,,,,

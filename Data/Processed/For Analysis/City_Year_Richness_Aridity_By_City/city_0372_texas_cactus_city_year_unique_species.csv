@@ -1,3 +1,3 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-372,"Cactus, TX",Cactus,Texas,Moore,2019,1866652.36637554,6,6,city_0372_texas_cactus,454.90624618530273,13.442708333333334,19.405020943696535,semiarid,12
-372,"Cactus, TX",Cactus,Texas,Moore,2023,1866652.36637554,8,8,city_0372_texas_cactus,451.9875044822693,14.390625,18.5311981338022,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+372,2019,"Cactus, TX",Cactus,Texas,Moore,100,6,6,city_0372_texas_cactus,454.906246185303,13.4427083333333,19.4050209436965,semiarid,12
+372,2023,"Cactus, TX",Cactus,Texas,Moore,100,8,8,city_0372_texas_cactus,451.987504482269,14.390625,18.5311981338022,semiarid,12

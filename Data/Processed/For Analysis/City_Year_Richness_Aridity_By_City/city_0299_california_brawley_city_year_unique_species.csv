@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-299,"Brawley, CA",Brawley,California,Imperial,2015,20550181.970084,108,793,city_0299_california_brawley,61.59375095367432,24.3046875,1.795490804388593,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2016,20550181.970084,85,542,city_0299_california_brawley,60.58124935626984,23.979166666666668,1.7828939111593818,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2017,20550181.970084,90,849,city_0299_california_brawley,52.32499957084656,24.1953125,1.5301804763692848,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2018,20550181.970084,103,1189,city_0299_california_brawley,56.33749920129776,24.075520833333332,1.6533129303246727,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2019,20550181.970084,90,700,city_0299_california_brawley,81.737499833107,23.203125,2.4617411714441637,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2020,20550181.970084,91,1002,city_0299_california_brawley,42.756249487400055,24.109375,1.2535043367813117,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2021,20550181.970084,103,1010,city_0299_california_brawley,98.05625009536745,23.778645833333332,2.902906486517701,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2022,20550181.970084,85,752,city_0299_california_brawley,50.63749986886978,23.598958333333332,1.5071151720389089,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2023,20550181.970084,98,1925,city_0299_california_brawley,73.26250010728836,22.8828125,2.2279876487842505,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2024,20550181.970084,110,1458,city_0299_california_brawley,58.124999940395355,23.783854166666668,1.720496413868173,extremely arid,12
-299,"Brawley, CA",Brawley,California,Imperial,2025,20550181.970084,106,1085,city_0299_california_brawley,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+299,2015,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,108,793,city_0299_california_brawley,61.5937509536743,24.3046875,1.79549080438859,extremely arid,12
+299,2016,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,85,542,city_0299_california_brawley,60.5812493562699,23.9791666666667,1.78289391115938,extremely arid,12
+299,2017,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,90,849,city_0299_california_brawley,52.3249995708466,24.1953125,1.53018047636928,extremely arid,12
+299,2018,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,103,1189,city_0299_california_brawley,56.3374992012978,24.0755208333333,1.65331293032467,extremely arid,12
+299,2019,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,90,700,city_0299_california_brawley,81.737499833107,23.203125,2.46174117144416,extremely arid,12
+299,2020,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,91,1002,city_0299_california_brawley,42.7562494874001,24.109375,1.25350433678131,extremely arid,12
+299,2021,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,103,1010,city_0299_california_brawley,98.0562500953675,23.7786458333333,2.9029064865177,extremely arid,12
+299,2022,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,85,752,city_0299_california_brawley,50.6374998688698,23.5989583333333,1.50711517203891,extremely arid,12
+299,2023,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,98,1925,city_0299_california_brawley,73.2625001072884,22.8828125,2.22798764878425,extremely arid,12
+299,2024,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,110,1458,city_0299_california_brawley,58.1249999403954,23.7838541666667,1.72049641386817,extremely arid,12
+299,2025,"Brawley, CA",Brawley,California,Imperial,99.9999999999947,106,1085,city_0299_california_brawley,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1695,"Merced, CA",Merced,California,Merced,2015,123040970.359368,44,140,city_1695_california_merced,190.0687488913536,18.091145833333332,6.76614439364789,arid,12
-1695,"Merced, CA",Merced,California,Merced,2016,123040970.359368,73,555,city_1695_california_merced,319.00624656677246,17.919270833333332,11.42602356884998,semiarid,12
-1695,"Merced, CA",Merced,California,Merced,2017,123040970.359368,76,972,city_1695_california_merced,361.1687489748001,17.950520833333332,12.921718029099344,semiarid,12
-1695,"Merced, CA",Merced,California,Merced,2018,123040970.359368,67,457,city_1695_california_merced,264.63124948740005,17.791666666666668,9.521963999546628,arid,12
-1695,"Merced, CA",Merced,California,Merced,2019,123040970.359368,65,659,city_1695_california_merced,350.5750010609627,17.223958333333332,12.877444079530292,semiarid,12
-1695,"Merced, CA",Merced,California,Merced,2020,123040970.359368,49,306,city_1695_california_merced,139.99374914169312,18.0078125,4.998382117192948,extremely arid,12
-1695,"Merced, CA",Merced,California,Merced,2021,123040970.359368,82,894,city_1695_california_merced,266.89999598264694,17.723958333333332,9.627052269146764,arid,12
-1695,"Merced, CA",Merced,California,Merced,2022,123040970.359368,84,1060,city_1695_california_merced,190.7062497138977,17.630208333333332,6.902092355338051,arid,12
-1695,"Merced, CA",Merced,California,Merced,2023,123040970.359368,95,1210,city_1695_california_merced,354.6999957561493,17.057291666666668,13.109220247388,semiarid,12
-1695,"Merced, CA",Merced,California,Merced,2024,123040970.359368,95,1363,city_1695_california_merced,335.41874837875366,17.966145833333332,11.993742376146889,semiarid,12
-1695,"Merced, CA",Merced,California,Merced,2025,123040970.359368,84,841,city_1695_california_merced,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1695,2015,"Merced, CA",Merced,California,Merced,99.9999999999686,44,140,city_1695_california_merced,190.068748891354,18.0911458333333,6.76614439364789,arid,12
+1695,2016,"Merced, CA",Merced,California,Merced,99.9999999999686,73,555,city_1695_california_merced,319.006246566772,17.9192708333333,11.42602356885,semiarid,12
+1695,2017,"Merced, CA",Merced,California,Merced,99.9999999999686,76,972,city_1695_california_merced,361.1687489748,17.9505208333333,12.9217180290993,semiarid,12
+1695,2018,"Merced, CA",Merced,California,Merced,99.9999999999686,67,457,city_1695_california_merced,264.6312494874,17.7916666666667,9.52196399954663,arid,12
+1695,2019,"Merced, CA",Merced,California,Merced,99.9999999999686,65,659,city_1695_california_merced,350.575001060963,17.2239583333333,12.8774440795303,semiarid,12
+1695,2020,"Merced, CA",Merced,California,Merced,99.9999999999686,49,306,city_1695_california_merced,139.993749141693,18.0078125,4.99838211719295,extremely arid,12
+1695,2021,"Merced, CA",Merced,California,Merced,99.9999999999686,82,894,city_1695_california_merced,266.899995982647,17.7239583333333,9.62705226914676,arid,12
+1695,2022,"Merced, CA",Merced,California,Merced,99.9999999999686,84,1060,city_1695_california_merced,190.706249713898,17.6302083333333,6.90209235533805,arid,12
+1695,2023,"Merced, CA",Merced,California,Merced,99.9999999999686,95,1210,city_1695_california_merced,354.699995756149,17.0572916666667,13.109220247388,semiarid,12
+1695,2024,"Merced, CA",Merced,California,Merced,99.9999999999686,95,1363,city_1695_california_merced,335.418748378754,17.9661458333333,11.9937423761469,semiarid,12
+1695,2025,"Merced, CA",Merced,California,Merced,99.9999999999686,84,841,city_1695_california_merced,,,,,

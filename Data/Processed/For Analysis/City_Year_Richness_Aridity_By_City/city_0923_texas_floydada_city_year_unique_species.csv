@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-923,"Floydada, TX",Floydada,Texas,Floyd,2016,4286748.33666242,20,20,city_0923_texas_floydada,563.8625011444092,16.369791666666668,21.382895559890688,dry subhumid,12
-923,"Floydada, TX",Floydada,Texas,Floyd,2017,4286748.33666242,12,12,city_0923_texas_floydada,570.387508392334,16.3515625,21.645301237538913,dry subhumid,12
-923,"Floydada, TX",Floydada,Texas,Floyd,2018,4286748.33666242,48,142,city_0923_texas_floydada,506.54999554157257,15.721354166666668,19.693752990580528,semiarid,12
-923,"Floydada, TX",Floydada,Texas,Floyd,2019,4286748.33666242,12,22,city_0923_texas_floydada,520.5437483787537,15.328125,20.552004871215445,dry subhumid,12
-923,"Floydada, TX",Floydada,Texas,Floyd,2020,4286748.33666242,3,3,city_0923_texas_floydada,360.23749923706055,16.049479166666668,13.828971279319328,semiarid,12
-923,"Floydada, TX",Floydada,Texas,Floyd,2021,4286748.33666242,6,11,city_0923_texas_floydada,500.962498664856,15.677083333333332,19.5101013678808,semiarid,12
-923,"Floydada, TX",Floydada,Texas,Floyd,2022,4286748.33666242,15,21,city_0923_texas_floydada,383.30625343322754,16.096354166666668,14.68811509014663,semiarid,12
-923,"Floydada, TX",Floydada,Texas,Floyd,2023,4286748.33666242,10,11,city_0923_texas_floydada,418.0812549591065,16.533854166666668,15.756521926027762,semiarid,12
-923,"Floydada, TX",Floydada,Texas,Floyd,2025,4286748.33666242,6,6,city_0923_texas_floydada,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+923,2016,"Floydada, TX",Floydada,Texas,Floyd,100,20,20,city_0923_texas_floydada,563.862501144409,16.3697916666667,21.3828955598907,dry subhumid,12
+923,2017,"Floydada, TX",Floydada,Texas,Floyd,100,12,12,city_0923_texas_floydada,570.387508392334,16.3515625,21.6453012375389,dry subhumid,12
+923,2018,"Floydada, TX",Floydada,Texas,Floyd,100,48,142,city_0923_texas_floydada,506.549995541573,15.7213541666667,19.6937529905805,semiarid,12
+923,2019,"Floydada, TX",Floydada,Texas,Floyd,100,12,22,city_0923_texas_floydada,520.543748378754,15.328125,20.5520048712154,dry subhumid,12
+923,2020,"Floydada, TX",Floydada,Texas,Floyd,100,3,3,city_0923_texas_floydada,360.237499237061,16.0494791666667,13.8289712793193,semiarid,12
+923,2021,"Floydada, TX",Floydada,Texas,Floyd,100,6,11,city_0923_texas_floydada,500.962498664856,15.6770833333333,19.5101013678808,semiarid,12
+923,2022,"Floydada, TX",Floydada,Texas,Floyd,100,15,21,city_0923_texas_floydada,383.306253433228,16.0963541666667,14.6881150901466,semiarid,12
+923,2023,"Floydada, TX",Floydada,Texas,Floyd,100,10,11,city_0923_texas_floydada,418.081254959107,16.5338541666667,15.7565219260278,semiarid,12
+923,2025,"Floydada, TX",Floydada,Texas,Floyd,100,6,6,city_0923_texas_floydada,,,,,

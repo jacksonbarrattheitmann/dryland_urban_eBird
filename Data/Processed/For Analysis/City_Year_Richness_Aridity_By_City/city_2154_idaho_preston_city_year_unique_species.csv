@@ -1,6 +1,6 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2154,"Preston, ID",Preston,Idaho,Franklin,2016,7780664.25311153,10,10,city_2154_idaho_preston,405.1625008583069,8.8671875,21.474451391247737,dry subhumid,12
-2154,"Preston, ID",Preston,Idaho,Franklin,2018,7780664.25311153,7,7,city_2154_idaho_preston,341.51250433921814,8.903645833333332,18.065959728097504,semiarid,12
-2154,"Preston, ID",Preston,Idaho,Franklin,2019,7780664.25311153,2,2,city_2154_idaho_preston,458.91875171661377,7.7109375,25.91160133203642,dry subhumid,12
-2154,"Preston, ID",Preston,Idaho,Franklin,2024,7780664.25311153,3,3,city_2154_idaho_preston,345.86250352859497,9.671875,17.58157285610014,semiarid,12
-2154,"Preston, ID",Preston,Idaho,Franklin,2025,7780664.25311153,6,8,city_2154_idaho_preston,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2154,2016,"Preston, ID",Preston,Idaho,Franklin,99.9999999999925,10,10,city_2154_idaho_preston,405.162500858307,8.8671875,21.4744513912477,dry subhumid,12
+2154,2018,"Preston, ID",Preston,Idaho,Franklin,99.9999999999925,7,7,city_2154_idaho_preston,341.512504339218,8.90364583333333,18.0659597280975,semiarid,12
+2154,2019,"Preston, ID",Preston,Idaho,Franklin,99.9999999999925,2,2,city_2154_idaho_preston,458.918751716614,7.7109375,25.9116013320364,dry subhumid,12
+2154,2024,"Preston, ID",Preston,Idaho,Franklin,99.9999999999925,3,3,city_2154_idaho_preston,345.862503528595,9.671875,17.5815728561001,semiarid,12
+2154,2025,"Preston, ID",Preston,Idaho,Franklin,99.9999999999925,6,8,city_2154_idaho_preston,,,,,

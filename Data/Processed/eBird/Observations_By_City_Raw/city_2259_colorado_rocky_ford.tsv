@@ -2,20 +2,20 @@ checklist_id	observation_date	locality_id	locality	common_name	scientific_name	t
 S21156789	2015-01-02	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	65	38.0535000	-103.7180000	Traveling	1	0
 S21156789	2015-01-02	L338017	Rocky Ford (town)	Harris's Sparrow	Zonotrichia querula	33198	species	1	38.0535000	-103.7180000	Traveling	1	0
 S25117750	2015-09-19	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	1	38.0535000	-103.7180000	Traveling	1	0
-S21156789	2015-01-02	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	3	38.0535000	-103.7180000	Traveling	1	0
-S21156789	2015-01-02	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	44	38.0535000	-103.7180000	Traveling	1	0
-S21156789	2015-01-02	L338017	Rocky Ford (town)	Blue Jay	Cyanocitta cristata	21294	species	5	38.0535000	-103.7180000	Traveling	1	0
 S21156789	2015-01-02	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	15	38.0535000	-103.7180000	Traveling	1	0
-S21156789	2015-01-02	L338017	Rocky Ford (town)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	38.0535000	-103.7180000	Traveling	1	1
 S25117750	2015-09-19	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	1	38.0535000	-103.7180000	Traveling	1	0
 S21156789	2015-01-02	L338017	Rocky Ford (town)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	46	38.0535000	-103.7180000	Traveling	1	0
 S21156789	2015-01-02	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	22	38.0535000	-103.7180000	Traveling	1	0
 S21156789	2015-01-02	L338017	Rocky Ford (town)	Mallard	Anas platyrhynchos	545	species	32	38.0535000	-103.7180000	Traveling	1	0
-S21156789	2015-01-02	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	36	38.0535000	-103.7180000	Traveling	1	1
 S21156789	2015-01-02	L338017	Rocky Ford (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	38.0535000	-103.7180000	Traveling	1	0
+S21156789	2015-01-02	L338017	Rocky Ford (town)	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	38.0535000	-103.7180000	Traveling	1	0
+S21156789	2015-01-02	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	3	38.0535000	-103.7180000	Traveling	1	0
+S21156789	2015-01-02	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	44	38.0535000	-103.7180000	Traveling	1	0
+S21156789	2015-01-02	L338017	Rocky Ford (town)	Blue Jay	Cyanocitta cristata	21294	species	5	38.0535000	-103.7180000	Traveling	1	0
+S21156789	2015-01-02	L338017	Rocky Ford (town)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	38.0535000	-103.7180000	Traveling	1	1
+S21156789	2015-01-02	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	36	38.0535000	-103.7180000	Traveling	1	1
 S21156789	2015-01-02	L338017	Rocky Ford (town)	Dark-eyed Junco	Junco hyemalis	33124	species	21	38.0535000	-103.7180000	Traveling	1	0
 S21156789	2015-01-02	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	34	38.0535000	-103.7180000	Traveling	1	0
-S21156789	2015-01-02	L338017	Rocky Ford (town)	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	38.0535000	-103.7180000	Traveling	1	0
 S21156789	2015-01-02	L338017	Rocky Ford (town)	Northern Flicker	Colaptes auratus	11900	species	4	38.0535000	-103.7180000	Traveling	1	0
 S30952486	2016-08-02	L3161275	1208 Washington Ave., Rocky Ford	American White Pelican	Pelecanus erythrorhynchos	7791	species	17	38.0439963	-103.7189519	Traveling	1	0
 S30921493	2016-07-31	L3161275	1208 Washington Ave., Rocky Ford	California Gull	Larus californicus	6591	species	2	38.0439963	-103.7189519	Traveling	1	0
@@ -33,9 +33,9 @@ S32658604	2016-11-21	L338017	Rocky Ford (town)	Rough-legged Hawk	Buteo lagopus	8
 S32658604	2016-11-21	L338017	Rocky Ford (town)	American Crow	Corvus brachyrhynchos	21557	species	12	38.0535000	-103.7180000	Traveling	1	0
 S30921493	2016-07-31	L3161275	1208 Washington Ave., Rocky Ford	Western Meadowlark	Sturnella neglecta	33565	species	2	38.0439963	-103.7189519	Traveling	1	0
 S30073522	2016-05-05	L4671686	US-CO-Rocky Ford	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	38.0518930	-103.7193167	Stationary	1	0
-S30073522	2016-05-05	L4671686	US-CO-Rocky Ford	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	38.0518930	-103.7193167	Stationary	1	0
 S30952486	2016-08-02	L3161275	1208 Washington Ave., Rocky Ford	Barn Swallow	Hirundo rustica	24187	species	3	38.0439963	-103.7189519	Traveling	1	0
 S30073522	2016-05-05	L4671686	US-CO-Rocky Ford	American Robin	Turdus migratorius	28633	species	1	38.0518930	-103.7193167	Stationary	1	0
+S30073522	2016-05-05	L4671686	US-CO-Rocky Ford	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	38.0518930	-103.7193167	Stationary	1	0
 S32658604	2016-11-21	L338017	Rocky Ford (town)	White-crowned Sparrow	Zonotrichia leucophrys	33191	issf	2	38.0535000	-103.7180000	Traveling	1	0
 S30952486	2016-08-02	L3161275	1208 Washington Ave., Rocky Ford	Clark's Grebe	Aechmophorus clarkii	6891	species	12	38.0439963	-103.7189519	Traveling	1	0
 S30952486	2016-08-02	L3161275	1208 Washington Ave., Rocky Ford	Lark Sparrow	Chondestes grammacus	33029	species	11	38.0439963	-103.7189519	Traveling	1	0
@@ -45,8 +45,8 @@ S30952486	2016-08-02	L3161275	1208 Washington Ave., Rocky Ford	Mourning Dove	Zen
 S30921493	2016-07-31	L3161275	1208 Washington Ave., Rocky Ford	Western Kingbird	Tyrannus verticalis	17467	species	6	38.0439963	-103.7189519	Traveling	1	0
 S30921493	2016-07-31	L3161275	1208 Washington Ave., Rocky Ford	Ring-billed Gull	Larus delawarensis	6521	species	71	38.0439963	-103.7189519	Traveling	1	0
 S30073522	2016-05-05	L4671686	US-CO-Rocky Ford	Swainson's Hawk	Buteo swainsoni	8504	species	1	38.0518930	-103.7193167	Stationary	1	0
-S30952486	2016-08-02	L3161275	1208 Washington Ave., Rocky Ford	Bank Swallow	Riparia riparia	24051	species	65	38.0439963	-103.7189519	Traveling	1	0
 S30073522	2016-05-05	L4671686	US-CO-Rocky Ford	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	38.0518930	-103.7193167	Stationary	1	0
+S30952486	2016-08-02	L3161275	1208 Washington Ave., Rocky Ford	Bank Swallow	Riparia riparia	24051	species	65	38.0439963	-103.7189519	Traveling	1	0
 S30921493	2016-07-31	L3161275	1208 Washington Ave., Rocky Ford	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	38.0439963	-103.7189519	Traveling	1	0
 S30952486	2016-08-02	L3161275	1208 Washington Ave., Rocky Ford	Spotted Sandpiper	Actitis macularius	6126	species	1	38.0439963	-103.7189519	Traveling	1	0
 S32658604	2016-11-21	L338017	Rocky Ford (town)	Wild Turkey	Meleagris gallopavo	1274	species	10	38.0535000	-103.7180000	Traveling	1	0
@@ -112,14 +112,14 @@ S37021819	2017-05-20	L5864568	Rocky Ford, CO	Cliff Swallow	Petrochelidon pyrrhon
 S35124952	2017-03-11	L338017	Rocky Ford (town)	Dark-eyed Junco	Junco hyemalis	33124	species	5	38.0535000	-103.7180000	Stationary	1	0
 S37021819	2017-05-20	L5864568	Rocky Ford, CO	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	38.0521690	-103.7132330	Traveling	1	0
 S37021819	2017-05-20	L5864568	Rocky Ford, CO	Western Kingbird	Tyrannus verticalis	17467	species	1	38.0521690	-103.7132330	Traveling	1	0
-S37021819	2017-05-20	L5864568	Rocky Ford, CO	Mallard	Anas platyrhynchos	545	species	2	38.0521690	-103.7132330	Traveling	1	0
 S38861673	2017-08-19	L6220748	811 S 13th St, Rocky Ford US-CO (38.0444,-103.7189)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	38.0443620	-103.7189260	Stationary	1	0
+S37021819	2017-05-20	L5864568	Rocky Ford, CO	Mallard	Anas platyrhynchos	545	species	2	38.0521690	-103.7132330	Traveling	1	0
 S35124952	2017-03-11	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	38.0535000	-103.7180000	Stationary	1	0
 S37021819	2017-05-20	L5864568	Rocky Ford, CO	Swainson's Hawk	Buteo swainsoni	8504	species	1	38.0521690	-103.7132330	Traveling	1	0
 S37021819	2017-05-20	L5864568	Rocky Ford, CO	European Starling	Sturnus vulgaris	27813	species	23	38.0521690	-103.7132330	Traveling	1	0
 S37021819	2017-05-20	L5864568	Rocky Ford, CO	Barn Swallow	Hirundo rustica	24187	species	31	38.0521690	-103.7132330	Traveling	1	0
-S37021819	2017-05-20	L5864568	Rocky Ford, CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	11	38.0521690	-103.7132330	Traveling	1	0
 S37021819	2017-05-20	L5864568	Rocky Ford, CO	Brown-headed Cowbird	Molothrus ater	33833	species	2	38.0521690	-103.7132330	Traveling	1	0
+S37021819	2017-05-20	L5864568	Rocky Ford, CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	11	38.0521690	-103.7132330	Traveling	1	0
 S37021819	2017-05-20	L5864568	Rocky Ford, CO	Mourning Dove	Zenaida macroura	2412	species	7	38.0521690	-103.7132330	Traveling	1	0
 S42451477	2018-02-03	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	59	38.0535000	-103.7180000	Traveling	1	0
 S47497371	2018-07-21	L338017	Rocky Ford (town)	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	38.0535000	-103.7180000	Traveling	1	0
@@ -136,37 +136,37 @@ S50771422	2018-12-17	L338017	Rocky Ford (town)	Red-tailed Hawk	Buteo jamaicensis
 S42451477	2018-02-03	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	10	38.0535000	-103.7180000	Traveling	1	0
 S42451477	2018-02-03	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	6	38.0535000	-103.7180000	Traveling	1	0
 S72072490	2020-08-03	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	8	38.0535000	-103.7180000	Traveling	1	0
+S70004780	2020-06-03	L11613213	1321 Elm Avenue, Rocky Ford, Colorado, US (38.051, -103.712)	Chimney Swift	Chaetura pelagica	3896	species	3	38.0514469	-103.7122669	Stationary	1	0
 S72072490	2020-08-03	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	3	38.0535000	-103.7180000	Traveling	1	0
 S74667056	2020-10-09	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	5	38.0535000	-103.7180000	Traveling	1	0
-S70004780	2020-06-03	L11613213	1321 Elm Avenue, Rocky Ford, Colorado, US (38.051, -103.712)	Chimney Swift	Chaetura pelagica	3896	species	3	38.0514469	-103.7122669	Stationary	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	38.0443040	-103.7365140	Stationary	1	0
+S74667056	2020-10-09	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	4	38.0535000	-103.7180000	Traveling	1	0
 S72072490	2020-08-03	L338017	Rocky Ford (town)	Mississippi Kite	Ictinia mississippiensis	8388	species	1	38.0535000	-103.7180000	Traveling	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	Barn Swallow	Hirundo rustica	24187	species	3	38.0443040	-103.7365140	Stationary	1	0
-S74667056	2020-10-09	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	4	38.0535000	-103.7180000	Traveling	1	0
 S74667056	2020-10-09	L338017	Rocky Ford (town)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	38.0535000	-103.7180000	Traveling	1	0
-S72072490	2020-08-03	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	38.0535000	-103.7180000	Traveling	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	European Starling	Sturnus vulgaris	27813	species	2	38.0443040	-103.7365140	Stationary	1	0
+S72072490	2020-08-03	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	38.0535000	-103.7180000	Traveling	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	Rose-breasted Grosbeak	Pheucticus ludovicianus	34557	species	1	38.0443040	-103.7365140	Stationary	1	0
 S72072490	2020-08-03	L338017	Rocky Ford (town)	Turkey Vulture	Cathartes aura	7815	species	1	38.0535000	-103.7180000	Traveling	1	0
 S74667056	2020-10-09	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	1	38.0535000	-103.7180000	Traveling	1	0
 S70004780	2020-06-03	L11613213	1321 Elm Avenue, Rocky Ford, Colorado, US (38.051, -103.712)	House Finch	Haemorhous mexicanus	32310	species	3	38.0514469	-103.7122669	Stationary	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	Turkey Vulture	Cathartes aura	7815	species	3	38.0443040	-103.7365140	Stationary	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	Blue Jay	Cyanocitta cristata	21294	species	2	38.0443040	-103.7365140	Stationary	1	0
-S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	American Robin	Turdus migratorius	28633	species	4	38.0443040	-103.7365140	Stationary	1	0
-S74667056	2020-10-09	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	2	38.0535000	-103.7180000	Traveling	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	Common Grackle	Quiscalus quiscula	33853	species	3	38.0443040	-103.7365140	Stationary	1	0
+S74667056	2020-10-09	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	2	38.0535000	-103.7180000	Traveling	1	0
+S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	American Robin	Turdus migratorius	28633	species	4	38.0443040	-103.7365140	Stationary	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	hummingbird sp.	Trochilidae sp.	5214	spuh	2	38.0443040	-103.7365140	Stationary	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	House Sparrow	Passer domesticus	31534	species	3	38.0443040	-103.7365140	Stationary	1	0
 S72072490	2020-08-03	L338017	Rocky Ford (town)	Chimney Swift	Chaetura pelagica	3896	species	4	38.0535000	-103.7180000	Traveling	1	0
 S68236719	2020-05-02	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	House Finch	Haemorhous mexicanus	32310	species	5	38.0443040	-103.7365140	Stationary	1	0
 S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	White-winged Dove	Zenaida asiatica	2389	species	1	38.0446710	-103.7338780	Stationary	1	0
-S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Pine Siskin	Spinus pinus	32595	species	11	38.0446710	-103.7338780	Stationary	1	1
 S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Lesser Goldfinch	Spinus psaltria	32609	species	2	38.0446710	-103.7338780	Stationary	1	1
+S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Pine Siskin	Spinus pinus	32595	species	11	38.0446710	-103.7338780	Stationary	1	1
 S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Western Kingbird	Tyrannus verticalis	17467	species	1	38.0446710	-103.7338780	Stationary	1	0
 S98631676	2021-12-08	L8657439	285–297 W Washington Ave, Rocky Ford US-CO (38.0443,-103.7365)	Canyon Towhee	Melozone fusca	33330	species	1	38.0443040	-103.7365140	Stationary	1	0
 S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	House Sparrow	Passer domesticus	31534	species	2	38.0446710	-103.7338780	Stationary	1	0
-S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Common Grackle	Quiscalus quiscula	33853	species	3	38.0446710	-103.7338780	Stationary	1	0
 S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	38.0446710	-103.7338780	Stationary	1	0
+S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Common Grackle	Quiscalus quiscula	33853	species	3	38.0446710	-103.7338780	Stationary	1	0
 S88310236	2021-05-16	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Mississippi Kite	Ictinia mississippiensis	8388	species	1	38.0446710	-103.7338780	Stationary	1	0
 S108316428	2022-04-28	L18735836	101 W Washington Ave, Rocky Ford US-CO 38.04471, -103.73346	Mourning Dove	Zenaida macroura	2412	species	1	38.0447070	-103.7334600	Stationary	1	0
 S108316428	2022-04-28	L18735836	101 W Washington Ave, Rocky Ford US-CO 38.04471, -103.73346	Blue Jay	Cyanocitta cristata	21294	species	1	38.0447070	-103.7334600	Stationary	1	0
@@ -188,212 +188,212 @@ S108316428	2022-04-28	L18735836	101 W Washington Ave, Rocky Ford US-CO 38.04471,
 S108039173	2022-04-25	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	38.0535000	-103.7180000	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Finch	Haemorhous mexicanus	32310	species	2	38.0418070	-103.7442390	Traveling	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	European Starling	Sturnus vulgaris	27813	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Western Meadowlark	Sturnella neglecta	33565	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Rock Wren	Salpinctes obsoletus	27150	species	1	38.0418070	-103.7442390	Traveling	1	0
+S135554784	2023-04-30	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	15	38.0535000	-103.7180000	Traveling	1	0
+S142276584	2023-06-21	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	25	38.0535000	-103.7180000	Traveling	1	0
 S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Sparrow	Passer domesticus	31534	species	1	38.0418070	-103.7442390	Stationary	1	0
 S142276584	2023-06-21	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	3	38.0535000	-103.7180000	Traveling	1	0
-S135554784	2023-04-30	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	15	38.0535000	-103.7180000	Traveling	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Rock Wren	Salpinctes obsoletus	27150	species	1	38.0418070	-103.7442390	Traveling	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Western Meadowlark	Sturnella neglecta	33565	species	1	38.0418070	-103.7442390	Stationary	1	0
-S142276584	2023-06-21	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	25	38.0535000	-103.7180000	Traveling	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Mourning Dove	Zenaida macroura	2412	species	1	38.0418070	-103.7442390	Stationary	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Chimney Swift	Chaetura pelagica	3896	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Finch	Haemorhous mexicanus	32310	species	1	38.0418070	-103.7442390	Stationary	1	0
-S136226821	2023-05-05	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	35	38.0535000	-103.7180000	Traveling	1	0
 S142276584	2023-06-21	L338017	Rocky Ford (town)	Barn Swallow	Hirundo rustica	24187	species	1	38.0535000	-103.7180000	Traveling	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Mourning Dove	Zenaida macroura	2412	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	38.0418070	-103.7442390	Stationary	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Common Grackle	Quiscalus quiscula	33853	species	1	38.0418070	-103.7442390	Stationary	1	0
-S136226821	2023-05-05	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	14	38.0535000	-103.7180000	Traveling	1	0
-S142276584	2023-06-21	L338017	Rocky Ford (town)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	38.0535000	-103.7180000	Traveling	1	0
+S136226821	2023-05-05	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	35	38.0535000	-103.7180000	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Chimney Swift	Chaetura pelagica	3896	species	3	38.0418070	-103.7442390	Traveling	1	0
 S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Western Kingbird	Tyrannus verticalis	17467	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Common Grackle	Quiscalus quiscula	33853	species	1	38.0418070	-103.7442390	Stationary	1	0
+S142276584	2023-06-21	L338017	Rocky Ford (town)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	38.0535000	-103.7180000	Traveling	1	0
+S136226821	2023-05-05	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	14	38.0535000	-103.7180000	Traveling	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Northern Mockingbird	Mimus polyglottos	28114	species	2	38.0418070	-103.7442390	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Brown-headed Cowbird	Molothrus ater	33833	species	1	38.0418070	-103.7442390	Traveling	1	0
-S136226821	2023-05-05	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	6	38.0535000	-103.7180000	Traveling	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	38.0418070	-103.7442390	Stationary	1	0
+S136226821	2023-05-05	L338017	Rocky Ford (town)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	38.0535000	-103.7180000	Traveling	1	0
 S135554784	2023-04-30	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	12	38.0535000	-103.7180000	Traveling	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Finch	Haemorhous mexicanus	32310	species	1	38.0418070	-103.7442390	Stationary	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Northern Mockingbird	Mimus polyglottos	28114	species	2	38.0418070	-103.7442390	Traveling	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	38.0418070	-103.7442390	Stationary	1	0
 S142276584	2023-06-21	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	38.0535000	-103.7180000	Traveling	1	0
-S136226821	2023-05-05	L338017	Rocky Ford (town)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	38.0535000	-103.7180000	Traveling	1	0
+S136226821	2023-05-05	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	6	38.0535000	-103.7180000	Traveling	1	0
+S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Chimney Swift	Chaetura pelagica	3896	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Downy Woodpecker	Dryobates pubescens	11400	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Western Kingbird	Tyrannus verticalis	17467	species	2	38.0418070	-103.7442390	Stationary	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	American Kestrel	Falco sparverius	12028	species	1	38.0418070	-103.7442390	Traveling	1	0
 S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Mourning Dove	Zenaida macroura	2412	species	2	38.0418070	-103.7442390	Stationary	1	0
 S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0418070	-103.7442390	Stationary	1	0
-S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Downy Woodpecker	Dryobates pubescens	11400	species	1	38.0418070	-103.7442390	Stationary	1	0
 S131862426	2023-03-26	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	2	38.0535000	-103.7180000	Traveling	1	0
 S136226821	2023-05-05	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	23	38.0535000	-103.7180000	Traveling	1	0
-S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0418070	-103.7442390	Stationary	1	0
-S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Chimney Swift	Chaetura pelagica	3896	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	White-winged Dove	Zenaida asiatica	2389	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	American Robin	Turdus migratorius	28633	species	6	38.0418070	-103.7442390	Stationary	1	0
 S142276584	2023-06-21	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	3	38.0535000	-103.7180000	Traveling	1	0
-S131862426	2023-03-26	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	1	38.0535000	-103.7180000	Traveling	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Lark Sparrow	Chondestes grammacus	33029	species	1	38.0418070	-103.7442390	Traveling	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	White-winged Dove	Zenaida asiatica	2389	species	1	38.0418070	-103.7442390	Stationary	1	0
 S135554784	2023-04-30	L338017	Rocky Ford (town)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	38.0535000	-103.7180000	Traveling	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Common Yellowthroat	Geothlypis trichas	34028	species	1	38.0418070	-103.7442390	Traveling	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Lark Sparrow	Chondestes grammacus	33029	species	1	38.0418070	-103.7442390	Traveling	1	0
+S131862426	2023-03-26	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	1	38.0535000	-103.7180000	Traveling	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Black-billed Magpie	Pica hudsonia	21476	species	1	38.0418070	-103.7442390	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Spotted Towhee	Pipilo maculatus	33386	species	1	38.0418070	-103.7442390	Traveling	1	0
+S142276584	2023-06-21	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	25	38.0535000	-103.7180000	Traveling	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Common Yellowthroat	Geothlypis trichas	34028	species	1	38.0418070	-103.7442390	Traveling	1	0
 S131862426	2023-03-26	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	2	38.0535000	-103.7180000	Traveling	1	0
 S142276584	2023-06-21	L338017	Rocky Ford (town)	Lesser Goldfinch	Spinus psaltria	32609	species	1	38.0535000	-103.7180000	Traveling	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Black-billed Magpie	Pica hudsonia	21476	species	1	38.0418070	-103.7442390	Traveling	1	0
-S142276584	2023-06-21	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	25	38.0535000	-103.7180000	Traveling	1	0
 S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Finch	Haemorhous mexicanus	32310	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Sparrow	Passer domesticus	31534	species	5	38.0418070	-103.7442390	Traveling	1	0
-S135554784	2023-04-30	L338017	Rocky Ford (town)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	38.0535000	-103.7180000	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Western Meadowlark	Sturnella neglecta	33565	species	4	38.0418070	-103.7442390	Traveling	1	0
+S135554784	2023-04-30	L338017	Rocky Ford (town)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	38.0535000	-103.7180000	Traveling	1	0
+S131862426	2023-03-26	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	1	38.0535000	-103.7180000	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Barn Swallow	Hirundo rustica	24187	species	1	38.0418070	-103.7442390	Traveling	1	0
 S135554784	2023-04-30	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	9	38.0535000	-103.7180000	Traveling	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Northern Mockingbird	Mimus polyglottos	28114	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Common Grackle	Quiscalus quiscula	33853	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Northern Mockingbird	Mimus polyglottos	28114	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Sparrow	Passer domesticus	31534	species	1	38.0418070	-103.7442390	Stationary	1	0
-S131862426	2023-03-26	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	1	38.0535000	-103.7180000	Traveling	1	0
 S135554784	2023-04-30	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	8	38.0535000	-103.7180000	Traveling	1	0
-S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Lark Sparrow	Chondestes grammacus	33029	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Western Meadowlark	Sturnella neglecta	33565	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Lark Sparrow	Chondestes grammacus	33029	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0418070	-103.7442390	Traveling	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Bullock's Oriole	Icterus bullockii	33736	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Bullock's Oriole	Icterus bullockii	33736	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Common Grackle	Quiscalus quiscula	33853	species	4	38.0418070	-103.7442390	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	American Robin	Turdus migratorius	28633	species	10	38.0418070	-103.7442390	Traveling	1	0
 S131862426	2023-03-26	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	2	38.0535000	-103.7180000	Traveling	1	0
 S135554784	2023-04-30	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	3	38.0535000	-103.7180000	Traveling	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Bullock's Oriole	Icterus bullockii	33736	species	1	38.0418070	-103.7442390	Stationary	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0418070	-103.7442390	Traveling	1	0
-S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Bullock's Oriole	Icterus bullockii	33736	species	1	38.0418070	-103.7442390	Stationary	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Lark Sparrow	Chondestes grammacus	33029	species	1	38.0418070	-103.7442390	Stationary	1	0
-S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Sparrow	Passer domesticus	31534	species	1	38.0418070	-103.7442390	Stationary	1	0
-S142276584	2023-06-21	L338017	Rocky Ford (town)	Lazuli Bunting	Passerina amoena	34606	species	1	38.0535000	-103.7180000	Traveling	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Mourning Dove	Zenaida macroura	2412	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Chimney Swift	Chaetura pelagica	3896	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Lark Sparrow	Chondestes grammacus	33029	species	1	38.0418070	-103.7442390	Stationary	1	0
 S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Northern Mockingbird	Mimus polyglottos	28114	species	1	38.0418070	-103.7442390	Stationary	1	0
 S136226821	2023-05-05	L338017	Rocky Ford (town)	Western Kingbird	Tyrannus verticalis	17467	species	3	38.0535000	-103.7180000	Traveling	1	0
+S142276584	2023-06-21	L338017	Rocky Ford (town)	Lazuli Bunting	Passerina amoena	34606	species	1	38.0535000	-103.7180000	Traveling	1	0
 S131862426	2023-03-26	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	2	38.0535000	-103.7180000	Traveling	1	0
+S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Sparrow	Passer domesticus	31534	species	1	38.0418070	-103.7442390	Stationary	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Say's Phoebe	Sayornis saya	17010	species	1	38.0418070	-103.7442390	Traveling	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Western Kingbird	Tyrannus verticalis	17467	species	1	38.0418070	-103.7442390	Stationary	1	0
 S131862426	2023-03-26	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	3	38.0535000	-103.7180000	Traveling	1	0
 S136226821	2023-05-05	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	2	38.0535000	-103.7180000	Traveling	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Say's Phoebe	Sayornis saya	17010	species	1	38.0418070	-103.7442390	Traveling	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	38.0418070	-103.7442390	Traveling	1	0
 S136226821	2023-05-05	L338017	Rocky Ford (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	38.0535000	-103.7180000	Traveling	1	0
-S135554784	2023-04-30	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	30	38.0535000	-103.7180000	Traveling	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	38.0418070	-103.7442390	Traveling	1	0
 S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Bullock's Oriole	Icterus bullockii	33736	species	1	38.0418070	-103.7442390	Stationary	1	0
 S131862426	2023-03-26	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	38.0535000	-103.7180000	Traveling	1	0
+S135554784	2023-04-30	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	30	38.0535000	-103.7180000	Traveling	1	0
+S135554784	2023-04-30	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	2	38.0535000	-103.7180000	Traveling	1	0
+S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	European Starling	Sturnus vulgaris	27813	species	2	38.0418070	-103.7442390	Stationary	1	0
+S136226821	2023-05-05	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	3	38.0535000	-103.7180000	Traveling	1	0
 S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Western Meadowlark	Sturnella neglecta	33565	species	1	38.0418070	-103.7442390	Stationary	1	0
 S135554784	2023-04-30	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	5	38.0535000	-103.7180000	Traveling	1	0
-S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	European Starling	Sturnus vulgaris	27813	species	2	38.0418070	-103.7442390	Stationary	1	0
 S131862426	2023-03-26	L338017	Rocky Ford (town)	Blue Jay	Cyanocitta cristata	21294	species	1	38.0535000	-103.7180000	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Bullock's Oriole	Icterus bullockii	33736	species	1	38.0418070	-103.7442390	Traveling	1	0
 S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	European Starling	Sturnus vulgaris	27813	species	4	38.0418070	-103.7442390	Traveling	1	0
-S135554784	2023-04-30	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	2	38.0535000	-103.7180000	Traveling	1	0
-S136226821	2023-05-05	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	3	38.0535000	-103.7180000	Traveling	1	0
-S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	American Robin	Turdus migratorius	28633	species	4	38.0418070	-103.7442390	Stationary	1	0
 S140699682	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Northern Mockingbird	Mimus polyglottos	28114	species	1	38.0418070	-103.7442390	Stationary	1	0
-S135554784	2023-04-30	L338017	Rocky Ford (town)	American Goldfinch	Spinus tristis	32617	species	5	38.0535000	-103.7180000	Traveling	1	0
-S142276584	2023-06-21	L338017	Rocky Ford (town)	Western Kingbird	Tyrannus verticalis	17467	species	4	38.0535000	-103.7180000	Traveling	1	0
+S140760056	2023-06-06	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	American Robin	Turdus migratorius	28633	species	4	38.0418070	-103.7442390	Stationary	1	0
 S140889740	2023-06-08	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	American Robin	Turdus migratorius	28633	species	3	38.0418070	-103.7442390	Stationary	1	0
-S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Mourning Dove	Zenaida macroura	2412	species	2	38.0418070	-103.7442390	Traveling	1	0
+S142276584	2023-06-21	L338017	Rocky Ford (town)	Western Kingbird	Tyrannus verticalis	17467	species	4	38.0535000	-103.7180000	Traveling	1	0
+S135554784	2023-04-30	L338017	Rocky Ford (town)	American Goldfinch	Spinus tristis	32617	species	5	38.0535000	-103.7180000	Traveling	1	0
 S142276584	2023-06-21	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	2	38.0535000	-103.7180000	Traveling	1	0
-S240428516	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Northern Shrike	Lanius borealis	21103	species	1	38.0520480	-103.7154870	Traveling	1	0
-S172526673	2024-05-02	L338017	Rocky Ford (town)	Barn Swallow	Hirundo rustica	24187	species	4	38.0535000	-103.7180000	Traveling	1	0
+S140795510	2023-06-07	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Mourning Dove	Zenaida macroura	2412	species	2	38.0418070	-103.7442390	Traveling	1	0
 S197526504	2024-10-04	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	6	38.0535000	-103.7180000	Traveling	1	0
+S172526673	2024-05-02	L338017	Rocky Ford (town)	Barn Swallow	Hirundo rustica	24187	species	4	38.0535000	-103.7180000	Traveling	1	0
+S240428516	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Northern Shrike	Lanius borealis	21103	species	1	38.0520480	-103.7154870	Traveling	1	0
 S171559810	2024-05-02	L338017	Rocky Ford (town)	Barn Swallow	Hirundo rustica	24187	species	4	38.0535000	-103.7180000	Traveling	1	0
-S172237438	2024-05-05	L338017	Rocky Ford (town)	Bank Swallow	Riparia riparia	24051	species	1	38.0535000	-103.7180000	Traveling	1	0
 S178574009	2024-06-01	L32666094	Crystal Lake	Chimney Swift	Chaetura pelagica	3896	species	1	38.0604040	-103.7217310	Traveling	1	0
-S166388441	2024-03-28	L338017	Rocky Ford (town)	Killdeer	Charadrius vociferus	5827	species	2	38.0535000	-103.7180000	Traveling	1	0
 S197526504	2024-10-04	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	38.0535000	-103.7180000	Traveling	1	0
+S172237438	2024-05-05	L338017	Rocky Ford (town)	Bank Swallow	Riparia riparia	24051	species	1	38.0535000	-103.7180000	Traveling	1	0
+S166388441	2024-03-28	L338017	Rocky Ford (town)	Killdeer	Charadrius vociferus	5827	species	2	38.0535000	-103.7180000	Traveling	1	0
 S166388441	2024-03-28	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	9	38.0535000	-103.7180000	Traveling	1	0
 S197536921	2024-10-04	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	6	38.0535000	-103.7180000	Stationary	1	0
+S240428516	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Rock Pigeon	Columba livia	1868	domestic	10	38.0520480	-103.7154870	Traveling	1	0
 S172526673	2024-05-02	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	2	38.0535000	-103.7180000	Traveling	1	0
 S171559810	2024-05-02	L338017	Rocky Ford (town)	Western Kingbird	Tyrannus verticalis	17467	species	1	38.0535000	-103.7180000	Traveling	1	0
-S240428516	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Rock Pigeon	Columba livia	1868	domestic	10	38.0520480	-103.7154870	Traveling	1	0
 S197526504	2024-10-04	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	4	38.0535000	-103.7180000	Traveling	1	0
 S172526673	2024-05-02	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	2	38.0535000	-103.7180000	Traveling	1	0
+S172526673	2024-05-02	L338017	Rocky Ford (town)	Western Kingbird	Tyrannus verticalis	17467	species	1	38.0535000	-103.7180000	Traveling	1	0
 S178574009	2024-06-01	L32666094	Crystal Lake	Western Kingbird	Tyrannus verticalis	17467	species	3	38.0604040	-103.7217310	Traveling	1	0
 S172237438	2024-05-05	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	2	38.0535000	-103.7180000	Traveling	1	0
 S171559810	2024-05-02	L338017	Rocky Ford (town)	White-winged Dove	Zenaida asiatica	2389	species	2	38.0535000	-103.7180000	Traveling	1	0
-S172526673	2024-05-02	L338017	Rocky Ford (town)	Western Kingbird	Tyrannus verticalis	17467	species	1	38.0535000	-103.7180000	Traveling	1	0
-S160450127	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	European Starling	Sturnus vulgaris	27813	species	20	38.0520480	-103.7154870	Traveling	1	0
-S166388441	2024-03-28	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	9	38.0535000	-103.7180000	Traveling	1	0
-S197536921	2024-10-04	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	2	38.0535000	-103.7180000	Stationary	1	0
 S160450127	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Northern Shrike	Lanius borealis	21103	species	1	38.0520480	-103.7154870	Traveling	1	0
+S160450127	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	European Starling	Sturnus vulgaris	27813	species	20	38.0520480	-103.7154870	Traveling	1	0
 S178574009	2024-06-01	L32666094	Crystal Lake	Common Grackle	Quiscalus quiscula	33853	species	1	38.0604040	-103.7217310	Traveling	1	0
+S197536921	2024-10-04	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	2	38.0535000	-103.7180000	Stationary	1	0
+S166388441	2024-03-28	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	9	38.0535000	-103.7180000	Traveling	1	0
 S188047810	2024-07-21	L32734988	Main Street house	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	38.0467170	-103.7237030	Stationary	1	0
-S178574009	2024-06-01	L32666094	Crystal Lake	Mourning Dove	Zenaida macroura	2412	species	2	38.0604040	-103.7217310	Traveling	1	0
-S172237438	2024-05-05	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	3	38.0535000	-103.7180000	Traveling	1	0
 S172526673	2024-05-02	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	17	38.0535000	-103.7180000	Traveling	1	0
-S171559810	2024-05-02	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	17	38.0535000	-103.7180000	Traveling	1	0
-S166388441	2024-03-28	L338017	Rocky Ford (town)	Western Meadowlark	Sturnella neglecta	33565	species	2	38.0535000	-103.7180000	Traveling	1	0
-S160450127	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Canada Goose	Branta canadensis	342	species	8	38.0520480	-103.7154870	Traveling	1	0
+S172237438	2024-05-05	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	3	38.0535000	-103.7180000	Traveling	1	0
+S178574009	2024-06-01	L32666094	Crystal Lake	Mourning Dove	Zenaida macroura	2412	species	2	38.0604040	-103.7217310	Traveling	1	0
 S178574009	2024-06-01	L32666094	Crystal Lake	Lazuli Bunting	Passerina amoena	34606	species	2	38.0604040	-103.7217310	Traveling	1	0
-S166388441	2024-03-28	L338017	Rocky Ford (town)	Blue Jay	Cyanocitta cristata	21294	species	1	38.0535000	-103.7180000	Traveling	1	0
+S160450127	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Canada Goose	Branta canadensis	342	species	8	38.0520480	-103.7154870	Traveling	1	0
+S166388441	2024-03-28	L338017	Rocky Ford (town)	Western Meadowlark	Sturnella neglecta	33565	species	2	38.0535000	-103.7180000	Traveling	1	0
+S171559810	2024-05-02	L338017	Rocky Ford (town)	American Robin	Turdus migratorius	28633	species	17	38.0535000	-103.7180000	Traveling	1	0
 S188047810	2024-07-21	L32734988	Main Street house	Mourning Dove	Zenaida macroura	2412	species	4	38.0467170	-103.7237030	Stationary	1	0
 S166388441	2024-03-28	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	9	38.0535000	-103.7180000	Traveling	1	0
 S166388441	2024-03-28	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	38.0535000	-103.7180000	Traveling	1	0
-S172526673	2024-05-02	L338017	Rocky Ford (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0535000	-103.7180000	Traveling	1	0
+S166388441	2024-03-28	L338017	Rocky Ford (town)	Blue Jay	Cyanocitta cristata	21294	species	1	38.0535000	-103.7180000	Traveling	1	0
 S240428516	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	European Starling	Sturnus vulgaris	27813	species	20	38.0520480	-103.7154870	Traveling	1	0
-S171559810	2024-05-02	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	12	38.0535000	-103.7180000	Traveling	1	0
-S188047810	2024-07-21	L32734988	Main Street house	European Starling	Sturnus vulgaris	27813	species	8	38.0467170	-103.7237030	Stationary	1	0
+S172526673	2024-05-02	L338017	Rocky Ford (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0535000	-103.7180000	Traveling	1	0
 S240428516	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Canada Goose	Branta canadensis	342	species	8	38.0520480	-103.7154870	Traveling	1	0
+S188047810	2024-07-21	L32734988	Main Street house	European Starling	Sturnus vulgaris	27813	species	8	38.0467170	-103.7237030	Stationary	1	0
 S197526504	2024-10-04	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	8	38.0535000	-103.7180000	Traveling	1	0
 S172526673	2024-05-02	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	12	38.0535000	-103.7180000	Traveling	1	0
+S171559810	2024-05-02	L338017	Rocky Ford (town)	European Starling	Sturnus vulgaris	27813	species	12	38.0535000	-103.7180000	Traveling	1	0
 S188047810	2024-07-21	L32734988	Main Street house	Western Kingbird	Tyrannus verticalis	17467	species	2	38.0467170	-103.7237030	Stationary	1	0
 S172237438	2024-05-05	L338017	Rocky Ford (town)	Mourning Dove	Zenaida macroura	2412	species	1	38.0535000	-103.7180000	Traveling	1	0
-S166388441	2024-03-28	L338017	Rocky Ford (town)	Turkey Vulture	Cathartes aura	7815	species	1	38.0535000	-103.7180000	Traveling	1	0
-S178574009	2024-06-01	L32666094	Crystal Lake	American Robin	Turdus migratorius	28633	species	4	38.0604040	-103.7217310	Traveling	1	0
-S171559810	2024-05-02	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	5	38.0535000	-103.7180000	Traveling	1	0
-S172237438	2024-05-05	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	1	38.0535000	-103.7180000	Traveling	1	0
 S160450127	2024-02-02	L29061477	1150 Elm Ave, Rocky Ford US-CO 38.05205, -103.71549	Rock Pigeon	Columba livia	1868	domestic	10	38.0520480	-103.7154870	Traveling	1	0
 S178574009	2024-06-01	L32666094	Crystal Lake	European Starling	Sturnus vulgaris	27813	species	3	38.0604040	-103.7217310	Traveling	1	0
+S178574009	2024-06-01	L32666094	Crystal Lake	American Robin	Turdus migratorius	28633	species	4	38.0604040	-103.7217310	Traveling	1	0
+S172237438	2024-05-05	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	1	38.0535000	-103.7180000	Traveling	1	0
+S171559810	2024-05-02	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	5	38.0535000	-103.7180000	Traveling	1	0
+S166388441	2024-03-28	L338017	Rocky Ford (town)	Turkey Vulture	Cathartes aura	7815	species	1	38.0535000	-103.7180000	Traveling	1	0
 S197536921	2024-10-04	L338017	Rocky Ford (town)	Chimney Swift	Chaetura pelagica	3896	species	8	38.0535000	-103.7180000	Stationary	1	1
 S166388441	2024-03-28	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	1	38.0535000	-103.7180000	Traveling	1	0
-S166388441	2024-03-28	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	1	38.0535000	-103.7180000	Traveling	1	0
 S171559810	2024-05-02	L338017	Rocky Ford (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	38.0535000	-103.7180000	Traveling	1	0
+S166388441	2024-03-28	L338017	Rocky Ford (town)	Common Grackle	Quiscalus quiscula	33853	species	1	38.0535000	-103.7180000	Traveling	1	0
 S172237438	2024-05-05	L338017	Rocky Ford (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	38.0535000	-103.7180000	Traveling	1	0
-S188047810	2024-07-21	L32734988	Main Street house	Mississippi Kite	Ictinia mississippiensis	8388	species	5	38.0467170	-103.7237030	Stationary	1	0
 S171559810	2024-05-02	L338017	Rocky Ford (town)	House Sparrow	Passer domesticus	31534	species	2	38.0535000	-103.7180000	Traveling	1	0
-S197526504	2024-10-04	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	6	38.0535000	-103.7180000	Traveling	1	0
-S197526504	2024-10-04	L338017	Rocky Ford (town)	Blue Jay	Cyanocitta cristata	21294	species	1	38.0535000	-103.7180000	Traveling	1	0
-S172526673	2024-05-02	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	5	38.0535000	-103.7180000	Traveling	1	0
+S188047810	2024-07-21	L32734988	Main Street house	Mississippi Kite	Ictinia mississippiensis	8388	species	5	38.0467170	-103.7237030	Stationary	1	0
 S178574009	2024-06-01	L32666094	Crystal Lake	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	38.0604040	-103.7217310	Traveling	1	0
+S197526504	2024-10-04	L338017	Rocky Ford (town)	Blue Jay	Cyanocitta cristata	21294	species	1	38.0535000	-103.7180000	Traveling	1	0
+S197526504	2024-10-04	L338017	Rocky Ford (town)	Rock Pigeon	Columba livia	1868	domestic	6	38.0535000	-103.7180000	Traveling	1	0
+S172526673	2024-05-02	L338017	Rocky Ford (town)	House Finch	Haemorhous mexicanus	32310	species	5	38.0535000	-103.7180000	Traveling	1	0
 S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	American Robin	Turdus migratorius	28633	species	2	38.0446710	-103.7338780	Stationary	1	0
 S273731463	2025-09-16	L52907724	28082 Emerald St, Rocky Ford US-CO 38.04186, -103.74389	House Finch	Haemorhous mexicanus	32310	species	3	38.0418600	-103.7438900	Traveling	1	0
+S215758254	2025-02-27	L40678657	703 S Sixth St, Rocky Ford US-CO 38.04944, -103.72727	European Starling	Sturnus vulgaris	27813	species	4	38.0494400	-103.7272730	Stationary	1	0
 S243546301	2025-05-09	L18735836	101 W Washington Ave, Rocky Ford US-CO 38.04471, -103.73346	American Goldfinch	Spinus tristis	32617	species	5	38.0447070	-103.7334600	Stationary	1	0
 S235467577	2025-05-10	L32734988	Main Street house	Western Kingbird	Tyrannus verticalis	17467	species	1	38.0467170	-103.7237030	Traveling	1	0
-S215758254	2025-02-27	L40678657	703 S Sixth St, Rocky Ford US-CO 38.04944, -103.72727	European Starling	Sturnus vulgaris	27813	species	4	38.0494400	-103.7272730	Stationary	1	0
 S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Curve-billed Thrasher	Toxostoma curvirostre	28024	species	1	38.0446710	-103.7338780	Stationary	1	0
 S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Sparrow	Passer domesticus	31534	species	2	38.0418070	-103.7442390	Stationary	1	0
 S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Savannah Sparrow	Passerculus sandwichensis	33244	species	1	38.0418070	-103.7442390	Stationary	1	0
-S273731463	2025-09-16	L52907724	28082 Emerald St, Rocky Ford US-CO 38.04186, -103.74389	Mourning Dove	Zenaida macroura	2412	species	6	38.0418600	-103.7438900	Traveling	1	0
 S273731463	2025-09-16	L52907724	28082 Emerald St, Rocky Ford US-CO 38.04186, -103.74389	Barn Swallow	Hirundo rustica	24187	species	3	38.0418600	-103.7438900	Traveling	1	0
+S273731463	2025-09-16	L52907724	28082 Emerald St, Rocky Ford US-CO 38.04186, -103.74389	Mourning Dove	Zenaida macroura	2412	species	6	38.0418600	-103.7438900	Traveling	1	0
 S243546301	2025-05-09	L18735836	101 W Washington Ave, Rocky Ford US-CO 38.04471, -103.73346	American Robin	Turdus migratorius	28633	species	2	38.0447070	-103.7334600	Stationary	1	0
 S235467577	2025-05-10	L32734988	Main Street house	Mourning Dove	Zenaida macroura	2412	species	4	38.0467170	-103.7237030	Traveling	1	0
 S252506718	2025-06-20	L48096235	305 N Tenth St, Rocky Ford US-CO 38.05371, -103.71803	Rock Pigeon	Columba livia	1868	domestic	4	38.0537110	-103.7180290	Traveling	1	0
-S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Common Grackle	Quiscalus quiscula	33853	species	1	38.0418070	-103.7442390	Stationary	1	0
-S234573911	2025-05-08	L32666094	Crystal Lake	American Robin	Turdus migratorius	28633	species	5	38.0604040	-103.7217310	Traveling	1	0
 S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Chipping Sparrow	Spizella passerina	32990	species	2	38.0418070	-103.7442390	Stationary	1	0
 S234573911	2025-05-08	L32666094	Crystal Lake	Common Grackle	Quiscalus quiscula	33853	species	4	38.0604040	-103.7217310	Traveling	1	0
-S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Blue Jay	Cyanocitta cristata	21294	species	2	38.0446710	-103.7338780	Stationary	1	0
-S243546301	2025-05-09	L18735836	101 W Washington Ave, Rocky Ford US-CO 38.04471, -103.73346	Pine Siskin	Spinus pinus	32595	species	5	38.0447070	-103.7334600	Stationary	1	0
+S234573911	2025-05-08	L32666094	Crystal Lake	American Robin	Turdus migratorius	28633	species	5	38.0604040	-103.7217310	Traveling	1	0
+S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Common Grackle	Quiscalus quiscula	33853	species	1	38.0418070	-103.7442390	Stationary	1	0
 S235467577	2025-05-10	L32734988	Main Street house	American Robin	Turdus migratorius	28633	species	1	38.0467170	-103.7237030	Traveling	1	0
 S235467577	2025-05-10	L32734988	Main Street house	European Starling	Sturnus vulgaris	27813	species	4	38.0467170	-103.7237030	Traveling	1	0
-S273731463	2025-09-16	L52907724	28082 Emerald St, Rocky Ford US-CO 38.04186, -103.74389	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	38.0418600	-103.7438900	Traveling	1	0
-S252506718	2025-06-20	L48096235	305 N Tenth St, Rocky Ford US-CO 38.05371, -103.71803	Common Grackle	Quiscalus quiscula	33853	species	1	38.0537110	-103.7180290	Traveling	1	0
+S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Blue Jay	Cyanocitta cristata	21294	species	2	38.0446710	-103.7338780	Stationary	1	0
+S243546301	2025-05-09	L18735836	101 W Washington Ave, Rocky Ford US-CO 38.04471, -103.73346	Pine Siskin	Spinus pinus	32595	species	5	38.0447070	-103.7334600	Stationary	1	0
 S234573911	2025-05-08	L32666094	Crystal Lake	European Starling	Sturnus vulgaris	27813	species	12	38.0604040	-103.7217310	Traveling	1	0
+S252506718	2025-06-20	L48096235	305 N Tenth St, Rocky Ford US-CO 38.05371, -103.71803	Common Grackle	Quiscalus quiscula	33853	species	1	38.0537110	-103.7180290	Traveling	1	0
+S273731463	2025-09-16	L52907724	28082 Emerald St, Rocky Ford US-CO 38.04186, -103.74389	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	38.0418600	-103.7438900	Traveling	1	0
 S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	American Robin	Turdus migratorius	28633	species	1	38.0418070	-103.7442390	Stationary	1	0
+S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	38.0418070	-103.7442390	Stationary	1	0
+S234573911	2025-05-08	L32666094	Crystal Lake	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	38.0604040	-103.7217310	Traveling	1	0
 S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	House Finch	Haemorhous mexicanus	32310	species	4	38.0418070	-103.7442390	Stationary	1	0
 S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	European Starling	Sturnus vulgaris	27813	species	1	38.0418070	-103.7442390	Stationary	1	0
-S234573911	2025-05-08	L32666094	Crystal Lake	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	38.0604040	-103.7217310	Traveling	1	0
-S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	38.0418070	-103.7442390	Stationary	1	0
 S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	House Finch	Haemorhous mexicanus	32310	species	4	38.0446710	-103.7338780	Stationary	1	0
 S215758254	2025-02-27	L40678657	703 S Sixth St, Rocky Ford US-CO 38.04944, -103.72727	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	38.0494400	-103.7272730	Stationary	1	0
 S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Common Grackle	Quiscalus quiscula	33853	species	2	38.0446710	-103.7338780	Stationary	1	0
+S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Mourning Dove	Zenaida macroura	2412	species	8	38.0446710	-103.7338780	Stationary	1	0
 S235467577	2025-05-10	L32734988	Main Street house	Common Grackle	Quiscalus quiscula	33853	species	1	38.0467170	-103.7237030	Traveling	1	0
 S235467577	2025-05-10	L32734988	Main Street house	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	38.0467170	-103.7237030	Traveling	1	0
-S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Mourning Dove	Zenaida macroura	2412	species	8	38.0446710	-103.7338780	Stationary	1	0
-S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	American Goldfinch	Spinus tristis	32617	species	6	38.0446710	-103.7338780	Stationary	1	0
-S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Blue Jay	Cyanocitta cristata	21294	species	2	38.0418070	-103.7442390	Stationary	1	0
 S243546301	2025-05-09	L18735836	101 W Washington Ave, Rocky Ford US-CO 38.04471, -103.73346	Mourning Dove	Zenaida macroura	2412	species	2	38.0447070	-103.7334600	Stationary	1	0
 S234573911	2025-05-08	L32666094	Crystal Lake	Mourning Dove	Zenaida macroura	2412	species	12	38.0604040	-103.7217310	Traveling	1	0
 S235467577	2025-05-10	L32734988	Main Street house	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	38.0467170	-103.7237030	Traveling	1	0
 S215758254	2025-02-27	L40678657	703 S Sixth St, Rocky Ford US-CO 38.04944, -103.72727	White-winged Dove	Zenaida asiatica	2389	species	2	38.0494400	-103.7272730	Stationary	1	0
+S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	American Goldfinch	Spinus tristis	32617	species	6	38.0446710	-103.7338780	Stationary	1	0
+S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Blue Jay	Cyanocitta cristata	21294	species	2	38.0418070	-103.7442390	Stationary	1	0
+S235467577	2025-05-10	L32734988	Main Street house	Mississippi Kite	Ictinia mississippiensis	8388	species	2	38.0467170	-103.7237030	Traveling	1	0
 S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	Pine Siskin	Spinus pinus	32595	species	8	38.0446710	-103.7338780	Stationary	1	0
 S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	38.0418070	-103.7442390	Stationary	1	0
-S235467577	2025-05-10	L32734988	Main Street house	Mississippi Kite	Ictinia mississippiensis	8388	species	2	38.0467170	-103.7237030	Traveling	1	0
-S215758254	2025-02-27	L40678657	703 S Sixth St, Rocky Ford US-CO 38.04944, -103.72727	House Finch	Haemorhous mexicanus	32310	species	6	38.0494400	-103.7272730	Stationary	1	0
 S273718389	2025-09-16	L24989048	28103 Emerald St, Rocky Ford US-CO 38.04181, -103.74424	Barn Swallow	Hirundo rustica	24187	species	2	38.0418070	-103.7442390	Stationary	1	0
-S273731463	2025-09-16	L52907724	28082 Emerald St, Rocky Ford US-CO 38.04186, -103.74389	Blue Jay	Cyanocitta cristata	21294	species	2	38.0418600	-103.7438900	Traveling	1	0
+S215758254	2025-02-27	L40678657	703 S Sixth St, Rocky Ford US-CO 38.04944, -103.72727	House Finch	Haemorhous mexicanus	32310	species	6	38.0494400	-103.7272730	Stationary	1	0
 S235476756	2025-05-10	L14971502	Babcock Park, Rocky Ford US-CO 38.04467, -103.73388	House Sparrow	Passer domesticus	31534	species	2	38.0446710	-103.7338780	Stationary	1	0
+S273731463	2025-09-16	L52907724	28082 Emerald St, Rocky Ford US-CO 38.04186, -103.74389	Blue Jay	Cyanocitta cristata	21294	species	2	38.0418600	-103.7438900	Traveling	1	0

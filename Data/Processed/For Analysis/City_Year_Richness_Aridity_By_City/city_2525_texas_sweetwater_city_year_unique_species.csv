@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2015,12772689.494172,44,56,city_2525_texas_sweetwater,923.2124996185304,18.018229166666668,32.95042288814161,humid,12
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2016,12772689.494172,7,7,city_2525_texas_sweetwater,771.0749983787537,18.71875,26.84918383908609,dry subhumid,12
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2017,12772689.494172,30,30,city_2525_texas_sweetwater,650.9437465667725,18.6953125,22.68467181065801,dry subhumid,12
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2018,12772689.494172,14,14,city_2525_texas_sweetwater,654.39999127388,17.971354166666668,23.39536324822362,dry subhumid,12
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2019,12772689.494172,14,14,city_2525_texas_sweetwater,583.949996471405,17.7890625,21.01366307234744,dry subhumid,12
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2020,12772689.494172,9,9,city_2525_texas_sweetwater,468.05625343322754,18.393229166666668,16.484784125319578,semiarid,12
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2021,12772689.494172,54,138,city_2525_texas_sweetwater,598.431248664856,17.950520833333332,21.41037915655499,dry subhumid,12
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2024,12772689.494172,13,22,city_2525_texas_sweetwater,581.8124904632568,19.450520833333332,19.755592566795528,semiarid,12
-2525,"Sweetwater, TX",Sweetwater,Texas,Nolan,2025,12772689.494172,6,6,city_2525_texas_sweetwater,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2525,2015,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,44,56,city_2525_texas_sweetwater,923.21249961853,18.0182291666667,32.9504228881416,humid,12
+2525,2016,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,7,7,city_2525_texas_sweetwater,771.074998378754,18.71875,26.8491838390861,dry subhumid,12
+2525,2017,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,30,30,city_2525_texas_sweetwater,650.943746566773,18.6953125,22.684671810658,dry subhumid,12
+2525,2018,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,14,14,city_2525_texas_sweetwater,654.39999127388,17.9713541666667,23.3953632482236,dry subhumid,12
+2525,2019,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,14,14,city_2525_texas_sweetwater,583.949996471405,17.7890625,21.0136630723474,dry subhumid,12
+2525,2020,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,9,9,city_2525_texas_sweetwater,468.056253433228,18.3932291666667,16.4847841253196,semiarid,12
+2525,2021,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,54,138,city_2525_texas_sweetwater,598.431248664856,17.9505208333333,21.410379156555,dry subhumid,12
+2525,2024,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,13,22,city_2525_texas_sweetwater,581.812490463257,19.4505208333333,19.7555925667955,semiarid,12
+2525,2025,"Sweetwater, TX",Sweetwater,Texas,Nolan,99.9999999999975,6,6,city_2525_texas_sweetwater,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-135,"Avenal, CA",Avenal,California,Kings,2015,7905911.08241156,41,144,city_0135_california_avenal,107.26874828338624,19.106770833333332,3.685353792683217,extremely arid,12
-135,"Avenal, CA",Avenal,California,Kings,2016,7905911.08241156,38,126,city_0135_california_avenal,183.2124999165535,18.778645833333332,6.366265493435575,arid,12
-135,"Avenal, CA",Avenal,California,Kings,2017,7905911.08241156,32,85,city_0135_california_avenal,222.4625068306923,18.8671875,7.706414309696512,arid,12
-135,"Avenal, CA",Avenal,California,Kings,2018,7905911.08241156,22,45,city_0135_california_avenal,141.6062509417534,18.752604166666668,4.924988711315397,extremely arid,12
-135,"Avenal, CA",Avenal,California,Kings,2019,7905911.08241156,15,19,city_0135_california_avenal,226.7062530219555,18.213541666666668,8.035370238178965,arid,12
-135,"Avenal, CA",Avenal,California,Kings,2020,7905911.08241156,8,8,city_0135_california_avenal,99.83749771118164,18.924479166666668,3.4516610354815653,extremely arid,12
-135,"Avenal, CA",Avenal,California,Kings,2021,7905911.08241156,22,42,city_0135_california_avenal,160.28749811649325,18.598958333333332,5.604662108608031,arid,12
-135,"Avenal, CA",Avenal,California,Kings,2022,7905911.08241156,10,10,city_0135_california_avenal,113.5374967455864,18.533854166666668,3.979045245076679,extremely arid,12
-135,"Avenal, CA",Avenal,California,Kings,2023,7905911.08241156,14,30,city_0135_california_avenal,238.09374949336052,17.890625,8.536694659705923,arid,12
-135,"Avenal, CA",Avenal,California,Kings,2024,7905911.08241156,15,15,city_0135_california_avenal,214.7375037074089,18.783854166666668,7.460345736329052,arid,12
-135,"Avenal, CA",Avenal,California,Kings,2025,7905911.08241156,10,10,city_0135_california_avenal,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+135,2015,"Avenal, CA",Avenal,California,Kings,99.9999999999935,41,144,city_0135_california_avenal,107.268748283386,19.1067708333333,3.68535379268322,extremely arid,12
+135,2016,"Avenal, CA",Avenal,California,Kings,99.9999999999935,38,126,city_0135_california_avenal,183.212499916554,18.7786458333333,6.36626549343558,arid,12
+135,2017,"Avenal, CA",Avenal,California,Kings,99.9999999999935,32,85,city_0135_california_avenal,222.462506830692,18.8671875,7.70641430969651,arid,12
+135,2018,"Avenal, CA",Avenal,California,Kings,99.9999999999935,22,45,city_0135_california_avenal,141.606250941753,18.7526041666667,4.9249887113154,extremely arid,12
+135,2019,"Avenal, CA",Avenal,California,Kings,99.9999999999935,15,19,city_0135_california_avenal,226.706253021956,18.2135416666667,8.03537023817897,arid,12
+135,2020,"Avenal, CA",Avenal,California,Kings,99.9999999999935,8,8,city_0135_california_avenal,99.8374977111816,18.9244791666667,3.45166103548157,extremely arid,12
+135,2021,"Avenal, CA",Avenal,California,Kings,99.9999999999935,22,42,city_0135_california_avenal,160.287498116493,18.5989583333333,5.60466210860803,arid,12
+135,2022,"Avenal, CA",Avenal,California,Kings,99.9999999999935,10,10,city_0135_california_avenal,113.537496745586,18.5338541666667,3.97904524507668,extremely arid,12
+135,2023,"Avenal, CA",Avenal,California,Kings,99.9999999999935,14,30,city_0135_california_avenal,238.093749493361,17.890625,8.53669465970592,arid,12
+135,2024,"Avenal, CA",Avenal,California,Kings,99.9999999999935,15,15,city_0135_california_avenal,214.737503707409,18.7838541666667,7.46034573632905,arid,12
+135,2025,"Avenal, CA",Avenal,California,Kings,99.9999999999935,10,10,city_0135_california_avenal,,,,,

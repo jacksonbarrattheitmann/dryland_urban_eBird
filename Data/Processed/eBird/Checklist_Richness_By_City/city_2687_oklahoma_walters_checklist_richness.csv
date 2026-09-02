@@ -1,8 +1,8 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S63883638,L10640718,"401–423 W Missouri St, Walters US-OK (34.3624,-98.3142). Walters coop elevator",2020-01-28,2020,2687,"Walters, OK",Walters,Oklahoma,Cotton,3393389.03291562,15,,1,34.362427,-98.314189,6,6,city_2687_oklahoma_walters
-S187056878,L34733730,"Youth Park, Walters",2024-07-14,2024,2687,"Walters, OK",Walters,Oklahoma,Cotton,3393389.03291562,22,0.682,1,34.358284,-98.301094,19,19,city_2687_oklahoma_walters
-S190907190,L35643114,"309 W Missouri St, Walters US-OK 34.36226, -98.31203",2024-08-10,2024,2687,"Walters, OK",Walters,Oklahoma,Cotton,3393389.03291562,18,,1,34.362265,-98.312028,5,5,city_2687_oklahoma_walters
-S245145988,L24357716,Home,2025-05-31,2025,2687,"Walters, OK",Walters,Oklahoma,Cotton,3393389.03291562,51,,1,34.34894,-98.311185,7,7,city_2687_oklahoma_walters
-S208724150,L39312093,"615 W Wyoming St, Walters US-OK 34.34879, -98.31650",2025-01-10,2025,2687,"Walters, OK",Walters,Oklahoma,Cotton,3393389.03291562,5,3.158,1,34.348794,-98.316503,3,3,city_2687_oklahoma_walters
-S244528477,L24357716,Home,2025-05-30,2025,2687,"Walters, OK",Walters,Oklahoma,Cotton,3393389.03291562,23,,1,34.34894,-98.311185,5,5,city_2687_oklahoma_walters
-S245057063,L24357716,Home,2025-05-31,2025,2687,"Walters, OK",Walters,Oklahoma,Cotton,3393389.03291562,126,,1,34.34894,-98.311185,3,3,city_2687_oklahoma_walters
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S63883638,L10640718,"401–423 W Missouri St, Walters US-OK (34.3624,-98.3142). Walters coop elevator",2020-01-28,2020,2687,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,15,,1,Stationary,34.362427,-98.314189,6,6,city_2687_oklahoma_walters
+S187056878,L34733730,"Youth Park, Walters",2024-07-14,2024,2687,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,22,0.682,1,Traveling,34.358284,-98.301094,19,19,city_2687_oklahoma_walters
+S190907190,L35643114,"309 W Missouri St, Walters US-OK 34.36226, -98.31203",2024-08-10,2024,2687,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,18,,1,Stationary,34.362265,-98.312028,5,5,city_2687_oklahoma_walters
+S208724150,L39312093,"615 W Wyoming St, Walters US-OK 34.34879, -98.31650",2025-01-10,2025,2687,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,5,3.158,1,Traveling,34.348794,-98.316503,3,3,city_2687_oklahoma_walters
+S244528477,L24357716,Home,2025-05-30,2025,2687,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,23,,1,Stationary,34.34894,-98.311185,5,5,city_2687_oklahoma_walters
+S245145988,L24357716,Home,2025-05-31,2025,2687,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,51,,1,Stationary,34.34894,-98.311185,7,7,city_2687_oklahoma_walters
+S245057063,L24357716,Home,2025-05-31,2025,2687,"Walters, OK",Walters,Oklahoma,Cotton,99.9999999999985,126,,1,Stationary,34.34894,-98.311185,3,3,city_2687_oklahoma_walters

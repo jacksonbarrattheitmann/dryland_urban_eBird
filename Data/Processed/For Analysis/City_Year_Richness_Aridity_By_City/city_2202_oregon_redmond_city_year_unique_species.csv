@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2015,35267703.0457094,70,475,city_2202_oregon_redmond,265.8124985694885,10.328125,13.076095240927952,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2016,35267703.0457094,60,233,city_2202_oregon_redmond,303.8750023841858,9.958333333333334,15.225469848059412,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2017,35267703.0457094,39,137,city_2202_oregon_redmond,301.3749988079071,8.817708333333334,16.015499521483022,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2018,35267703.0457094,31,59,city_2202_oregon_redmond,217.8562512397766,9.328125,11.271463281605255,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2019,35267703.0457094,66,682,city_2202_oregon_redmond,247.46874856948853,8.6328125,13.281341642303786,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2020,35267703.0457094,80,654,city_2202_oregon_redmond,269.3937497138977,9.270833333333334,13.97935133650496,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2021,35267703.0457094,72,964,city_2202_oregon_redmond,258.4124994277954,9.497395833333334,13.25369303863676,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2022,35267703.0457094,91,840,city_2202_oregon_redmond,282.43750190734863,8.8671875,14.969772357822205,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2023,35267703.0457094,87,707,city_2202_oregon_redmond,231.52500104904175,9.5,11.873076976873936,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2024,35267703.0457094,64,381,city_2202_oregon_redmond,306.8812508583069,9.638020833333334,15.626893028721632,semiarid,12
-2202,"Redmond, OR",Redmond,Oregon,Deschutes,2025,35267703.0457094,67,450,city_2202_oregon_redmond,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2202,2015,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,70,475,city_2202_oregon_redmond,265.812498569489,10.328125,13.076095240928,semiarid,12
+2202,2016,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,60,233,city_2202_oregon_redmond,303.875002384186,9.95833333333333,15.2254698480594,semiarid,12
+2202,2017,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,39,137,city_2202_oregon_redmond,301.374998807907,8.81770833333333,16.015499521483,semiarid,12
+2202,2018,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,31,59,city_2202_oregon_redmond,217.856251239777,9.328125,11.2714632816053,semiarid,12
+2202,2019,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,66,682,city_2202_oregon_redmond,247.468748569489,8.6328125,13.2813416423038,semiarid,12
+2202,2020,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,80,654,city_2202_oregon_redmond,269.393749713898,9.27083333333333,13.979351336505,semiarid,12
+2202,2021,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,72,964,city_2202_oregon_redmond,258.412499427795,9.49739583333333,13.2536930386368,semiarid,12
+2202,2022,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,91,840,city_2202_oregon_redmond,282.437501907349,8.8671875,14.9697723578222,semiarid,12
+2202,2023,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,87,707,city_2202_oregon_redmond,231.525001049042,9.5,11.8730769768739,semiarid,12
+2202,2024,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,64,381,city_2202_oregon_redmond,306.881250858307,9.63802083333333,15.6268930287216,semiarid,12
+2202,2025,"Redmond, OR",Redmond,Oregon,Deschutes,99.9999999999756,67,450,city_2202_oregon_redmond,,,,,

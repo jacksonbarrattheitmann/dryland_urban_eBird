@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2015,32141715.7227912,4,4,city_0243_idaho_blackfoot,271.64375495910645,8.9140625,14.361999436086586,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2016,32141715.7227912,9,9,city_0243_idaho_blackfoot,263.3124990463257,8.481770833333332,14.247146630095685,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2017,32141715.7227912,2,2,city_0243_idaho_blackfoot,285.0812473297119,8.072916666666668,15.77394797905034,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2019,32141715.7227912,7,7,city_0243_idaho_blackfoot,288.0125036239624,7.013020833333334,16.92894556736592,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2020,32141715.7227912,20,30,city_0243_idaho_blackfoot,249.31250095367432,8.34375,13.59114144892262,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2021,32141715.7227912,6,6,city_0243_idaho_blackfoot,251.83124923706055,8.755208333333332,13.427270162042662,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2022,32141715.7227912,3,3,city_0243_idaho_blackfoot,261.0687494277954,7.703125,14.747043215691884,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2023,32141715.7227912,14,16,city_0243_idaho_blackfoot,296.71249866485596,7.903645833333334,16.572741743607953,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2024,32141715.7227912,22,29,city_0243_idaho_blackfoot,260.14999771118164,9.065104166666668,13.645348875986032,semiarid,12
-243,"Blackfoot, ID",Blackfoot,Idaho,Bingham,2025,32141715.7227912,5,5,city_0243_idaho_blackfoot,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+243,2015,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,4,4,city_0243_idaho_blackfoot,271.643754959106,8.9140625,14.3619994360866,semiarid,12
+243,2016,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,9,9,city_0243_idaho_blackfoot,263.312499046326,8.48177083333333,14.2471466300957,semiarid,12
+243,2017,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,2,2,city_0243_idaho_blackfoot,285.081247329712,8.07291666666667,15.7739479790503,semiarid,12
+243,2019,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,7,7,city_0243_idaho_blackfoot,288.012503623962,7.01302083333333,16.9289455673659,semiarid,12
+243,2020,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,20,30,city_0243_idaho_blackfoot,249.312500953674,8.34375,13.5911414489226,semiarid,12
+243,2021,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,6,6,city_0243_idaho_blackfoot,251.831249237061,8.75520833333333,13.4272701620427,semiarid,12
+243,2022,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,3,3,city_0243_idaho_blackfoot,261.068749427795,7.703125,14.7470432156919,semiarid,12
+243,2023,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,14,16,city_0243_idaho_blackfoot,296.712498664856,7.90364583333333,16.572741743608,semiarid,12
+243,2024,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,22,29,city_0243_idaho_blackfoot,260.149997711182,9.06510416666667,13.645348875986,semiarid,12
+243,2025,"Blackfoot, ID",Blackfoot,Idaho,Bingham,100,5,5,city_0243_idaho_blackfoot,,,,,

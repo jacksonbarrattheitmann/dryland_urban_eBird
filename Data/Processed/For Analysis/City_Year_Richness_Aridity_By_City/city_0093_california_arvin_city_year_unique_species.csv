@@ -1,2 +1,2 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-93,"Arvin, CA",Arvin,California,Kern,2023,11353398.2828448,5,6,city_0093_california_arvin,294.4062502384186,17.7109375,10.62418946448198,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+93,2023,"Arvin, CA",Arvin,California,Kern,99.9999999999961,5,6,city_0093_california_arvin,294.406250238419,17.7109375,10.624189464482,semiarid,12

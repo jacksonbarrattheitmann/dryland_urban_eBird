@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1747,"Modesto, CA",Modesto,California,Stanislaus,2015,239560285.695177,113,3434,city_1747_california_modesto,211.16249787807465,18.268229166666668,7.469958469385597,arid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2016,239560285.695177,109,3761,city_1747_california_modesto,345.8375033736229,17.932291666666668,12.381279255591195,semiarid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2017,239560285.695177,112,4768,city_1747_california_modesto,378.5187546014786,17.971354166666668,13.532371452096433,semiarid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2018,239560285.695177,127,6853,city_1747_california_modesto,298.5624992251396,17.799479166666668,10.73985945690432,semiarid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2019,239560285.695177,129,9785,city_1747_california_modesto,353.46875607967377,17.497395833333332,12.854626606174328,semiarid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2020,239560285.695177,134,14644,city_1747_california_modesto,149.27500039339066,18.080729166666668,5.3159232264733385,arid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2021,239560285.695177,158,15083,city_1747_california_modesto,285.8875033557415,17.739583333333332,10.30612103723289,semiarid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2022,239560285.695177,143,15624,city_1747_california_modesto,211.6312445700169,17.778645833333332,7.618486726810395,arid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2023,239560285.695177,142,15116,city_1747_california_modesto,356.04375368356705,17.15625,13.11093224151225,semiarid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2024,239560285.695177,149,16078,city_1747_california_modesto,359.27499878406525,18.041666666666668,12.812184206266814,semiarid,12
-1747,"Modesto, CA",Modesto,California,Stanislaus,2025,239560285.695177,140,15600,city_1747_california_modesto,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1747,2015,"Modesto, CA",Modesto,California,Stanislaus,100,113,3434,city_1747_california_modesto,211.162497878075,18.2682291666667,7.4699584693856,arid,12
+1747,2016,"Modesto, CA",Modesto,California,Stanislaus,100,109,3761,city_1747_california_modesto,345.837503373623,17.9322916666667,12.3812792555912,semiarid,12
+1747,2017,"Modesto, CA",Modesto,California,Stanislaus,100,112,4768,city_1747_california_modesto,378.518754601479,17.9713541666667,13.5323714520964,semiarid,12
+1747,2018,"Modesto, CA",Modesto,California,Stanislaus,100,127,6853,city_1747_california_modesto,298.56249922514,17.7994791666667,10.7398594569043,semiarid,12
+1747,2019,"Modesto, CA",Modesto,California,Stanislaus,100,129,9785,city_1747_california_modesto,353.468756079674,17.4973958333333,12.8546266061743,semiarid,12
+1747,2020,"Modesto, CA",Modesto,California,Stanislaus,100,134,14644,city_1747_california_modesto,149.275000393391,18.0807291666667,5.31592322647334,arid,12
+1747,2021,"Modesto, CA",Modesto,California,Stanislaus,100,158,15084,city_1747_california_modesto,285.887503355742,17.7395833333333,10.3061210372329,semiarid,12
+1747,2022,"Modesto, CA",Modesto,California,Stanislaus,100,143,15624,city_1747_california_modesto,211.631244570017,17.7786458333333,7.6184867268104,arid,12
+1747,2023,"Modesto, CA",Modesto,California,Stanislaus,100,142,15116,city_1747_california_modesto,356.043753683567,17.15625,13.1109322415123,semiarid,12
+1747,2024,"Modesto, CA",Modesto,California,Stanislaus,100,149,16078,city_1747_california_modesto,359.274998784065,18.0416666666667,12.8121842062668,semiarid,12
+1747,2025,"Modesto, CA",Modesto,California,Stanislaus,100,140,15600,city_1747_california_modesto,,,,,

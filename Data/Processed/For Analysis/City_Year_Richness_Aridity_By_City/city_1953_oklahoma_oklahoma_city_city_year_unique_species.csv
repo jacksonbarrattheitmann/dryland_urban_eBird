@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2015,1083733427.2238,220,11309,city_1953_oklahoma_oklahoma_city,1169.506248474121,16.815104166666668,43.613712674959935,humid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2016,1083733427.2238,235,19451,city_1953_oklahoma_oklahoma_city,856.5125045776367,17.549479166666668,31.089970862823755,humid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2017,1083733427.2238,232,26043,city_1953_oklahoma_oklahoma_city,899.8812503814697,17.2265625,33.051592553465746,humid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2018,1083733427.2238,242,33409,city_1953_oklahoma_oklahoma_city,937.8562612533568,16.416666666666668,35.502445220947266,humid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2019,1083733427.2238,231,34380,city_1953_oklahoma_oklahoma_city,1132.974983215332,16.171875,43.28979040345149,humid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2020,1083733427.2238,245,42204,city_1953_oklahoma_oklahoma_city,914.0312480926514,16.713541666666668,34.21602644448997,humid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2021,1083733427.2238,252,47528,city_1953_oklahoma_oklahoma_city,840.5062580108643,16.786458333333332,31.37802868716429,humid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2022,1083733427.2238,255,43060,city_1953_oklahoma_oklahoma_city,767.9562473297119,16.708333333333332,28.753432037305902,dry subhumid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2023,1083733427.2238,259,48320,city_1953_oklahoma_oklahoma_city,884.5812511444092,17.364583333333332,32.325770883084616,humid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2024,1083733427.2238,249,45657,city_1953_oklahoma_oklahoma_city,787.6374931335449,17.916666666666668,28.213880351052353,dry subhumid,12
-1953,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,2025,1083733427.2238,257,44300,city_1953_oklahoma_oklahoma_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1953,2015,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,220,11309,city_1953_oklahoma_oklahoma_city,1169.50624847412,16.8151041666667,43.6137126749599,humid,12
+1953,2016,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,235,19451,city_1953_oklahoma_oklahoma_city,856.512504577637,17.5494791666667,31.0899708628238,humid,12
+1953,2017,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,232,26047,city_1953_oklahoma_oklahoma_city,899.88125038147,17.2265625,33.0515925534657,humid,12
+1953,2018,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,242,33411,city_1953_oklahoma_oklahoma_city,937.856261253357,16.4166666666667,35.5024452209473,humid,12
+1953,2019,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,231,34380,city_1953_oklahoma_oklahoma_city,1132.97498321533,16.171875,43.2897904034515,humid,12
+1953,2020,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,245,42204,city_1953_oklahoma_oklahoma_city,914.031248092651,16.7135416666667,34.21602644449,humid,12
+1953,2021,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,252,47533,city_1953_oklahoma_oklahoma_city,840.506258010864,16.7864583333333,31.3780286871643,humid,12
+1953,2022,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,255,43082,city_1953_oklahoma_oklahoma_city,767.956247329712,16.7083333333333,28.7534320373059,dry subhumid,12
+1953,2023,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,259,48320,city_1953_oklahoma_oklahoma_city,884.581251144409,17.3645833333333,32.3257708830846,humid,12
+1953,2024,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,249,45684,city_1953_oklahoma_oklahoma_city,787.637493133545,17.9166666666667,28.2138803510524,dry subhumid,12
+1953,2025,"Oklahoma City, OK",Oklahoma City,Oklahoma,Oklahoma,100,257,44423,city_1953_oklahoma_oklahoma_city,,,,,

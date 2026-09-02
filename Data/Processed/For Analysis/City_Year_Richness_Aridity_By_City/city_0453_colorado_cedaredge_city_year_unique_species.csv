@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2015,8382338.45484917,27,33,city_0453_colorado_cedaredge,453.993748664856,9.497395833333332,23.28484032153128,dry subhumid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2016,8382338.45484917,21,28,city_0453_colorado_cedaredge,334.4312496185303,9.453125,17.19164656673569,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2017,8382338.45484917,40,167,city_0453_colorado_cedaredge,253.3187470436096,9.731770833333334,12.838115199253805,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2018,8382338.45484917,34,121,city_0453_colorado_cedaredge,293.6250011920929,9.395833333333332,15.138560748894156,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2019,8382338.45484917,33,82,city_0453_colorado_cedaredge,335.31250286102295,8.216145833333334,18.407434038403544,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2020,8382338.45484917,37,95,city_0453_colorado_cedaredge,196.42499923706055,9.3984375,10.12581550638089,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2021,8382338.45484917,54,170,city_0453_colorado_cedaredge,355.01874828338623,9.638020833333332,18.07813278621142,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2022,8382338.45484917,26,46,city_0453_colorado_cedaredge,331.75624656677246,8.971354166666668,17.4872201347482,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2023,8382338.45484917,40,66,city_0453_colorado_cedaredge,318.5812520980835,8.997395833333332,16.769732804066358,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2024,8382338.45484917,41,100,city_0453_colorado_cedaredge,343.4374990463257,10.216145833333332,16.988277680508705,semiarid,12
-453,"Cedaredge, CO",Cedaredge,Colorado,Delta,2025,8382338.45484917,52,202,city_0453_colorado_cedaredge,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+453,2015,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,27,33,city_0453_colorado_cedaredge,453.993748664856,9.49739583333333,23.2848403215313,dry subhumid,12
+453,2016,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,21,28,city_0453_colorado_cedaredge,334.43124961853,9.453125,17.1916465667357,semiarid,12
+453,2017,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,40,167,city_0453_colorado_cedaredge,253.31874704361,9.73177083333333,12.8381151992538,semiarid,12
+453,2018,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,34,121,city_0453_colorado_cedaredge,293.625001192093,9.39583333333333,15.1385607488942,semiarid,12
+453,2019,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,33,81,city_0453_colorado_cedaredge,335.312502861023,8.21614583333333,18.4074340384035,semiarid,12
+453,2020,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,35,87,city_0453_colorado_cedaredge,196.424999237061,9.3984375,10.1258155063809,semiarid,12
+453,2021,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,54,170,city_0453_colorado_cedaredge,355.018748283386,9.63802083333333,18.0781327862114,semiarid,12
+453,2022,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,26,46,city_0453_colorado_cedaredge,331.756246566772,8.97135416666667,17.4872201347482,semiarid,12
+453,2023,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,39,63,city_0453_colorado_cedaredge,318.581252098084,8.99739583333333,16.7697328040664,semiarid,12
+453,2024,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,41,96,city_0453_colorado_cedaredge,343.437499046326,10.2161458333333,16.9882776805087,semiarid,12
+453,2025,"Cedaredge, CO",Cedaredge,Colorado,Delta,100,52,202,city_0453_colorado_cedaredge,,,,,

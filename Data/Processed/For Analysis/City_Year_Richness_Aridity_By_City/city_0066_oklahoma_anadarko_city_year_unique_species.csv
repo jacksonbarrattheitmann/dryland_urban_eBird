@@ -1,3 +1,3 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-66,"Anadarko, OK",Anadarko,Oklahoma,Caddo,2024,6362871.82257116,13,14,city_0066_oklahoma_anadarko,679.500002861023,17.940104166666668,24.31988079957431,dry subhumid,12
-66,"Anadarko, OK",Anadarko,Oklahoma,Caddo,2025,6362871.82257116,12,12,city_0066_oklahoma_anadarko,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+66,2024,"Anadarko, OK",Anadarko,Oklahoma,Caddo,100,13,14,city_0066_oklahoma_anadarko,679.500002861023,17.9401041666667,24.3198807995743,dry subhumid,12
+66,2025,"Anadarko, OK",Anadarko,Oklahoma,Caddo,100,12,12,city_0066_oklahoma_anadarko,,,,,

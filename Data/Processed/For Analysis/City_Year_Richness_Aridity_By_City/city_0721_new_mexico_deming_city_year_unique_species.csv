@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-721,"Deming, NM",Deming,New Mexico,Luna,2015,21403205.5083367,40,97,city_0721_new_mexico_deming,312.68125200271606,17.65625,11.305988772979564,semiarid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2016,21403205.5083367,32,80,city_0721_new_mexico_deming,234.10000264644623,17.958333333333332,8.373174461273784,arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2017,21403205.5083367,29,74,city_0721_new_mexico_deming,255.0374983549118,18.440104166666668,8.967530388085901,arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2018,21403205.5083367,18,48,city_0721_new_mexico_deming,237.56875109672544,17.953125,8.498826199100296,arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2019,21403205.5083367,21,90,city_0721_new_mexico_deming,215.54374814033508,17.606770833333332,7.807640721242211,arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2020,21403205.5083367,65,162,city_0721_new_mexico_deming,114.65624928474426,18.286458333333332,4.053397139140287,extremely arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2021,21403205.5083367,80,371,city_0721_new_mexico_deming,271.7062563896179,17.90625,9.736394405898965,arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2022,21403205.5083367,65,371,city_0721_new_mexico_deming,202.53125190734863,17.684895833333332,7.31558656122866,arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2023,21403205.5083367,81,575,city_0721_new_mexico_deming,146.1437509059906,18.2578125,5.171799866178269,arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2024,21403205.5083367,84,356,city_0721_new_mexico_deming,180.8375016450882,18.848958333333332,6.26842396025581,arid,12
-721,"Deming, NM",Deming,New Mexico,Luna,2025,21403205.5083367,102,878,city_0721_new_mexico_deming,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+721,2015,"Deming, NM",Deming,New Mexico,Luna,100,40,97,city_0721_new_mexico_deming,312.681252002716,17.65625,11.3059887729796,semiarid,12
+721,2016,"Deming, NM",Deming,New Mexico,Luna,100,32,80,city_0721_new_mexico_deming,234.100002646446,17.9583333333333,8.37317446127378,arid,12
+721,2017,"Deming, NM",Deming,New Mexico,Luna,100,29,74,city_0721_new_mexico_deming,255.037498354912,18.4401041666667,8.9675303880859,arid,12
+721,2018,"Deming, NM",Deming,New Mexico,Luna,100,18,48,city_0721_new_mexico_deming,237.568751096725,17.953125,8.4988261991003,arid,12
+721,2019,"Deming, NM",Deming,New Mexico,Luna,100,21,90,city_0721_new_mexico_deming,215.543748140335,17.6067708333333,7.80764072124221,arid,12
+721,2020,"Deming, NM",Deming,New Mexico,Luna,100,65,162,city_0721_new_mexico_deming,114.656249284744,18.2864583333333,4.05339713914029,extremely arid,12
+721,2021,"Deming, NM",Deming,New Mexico,Luna,100,80,371,city_0721_new_mexico_deming,271.706256389618,17.90625,9.73639440589896,arid,12
+721,2022,"Deming, NM",Deming,New Mexico,Luna,100,65,371,city_0721_new_mexico_deming,202.531251907349,17.6848958333333,7.31558656122866,arid,12
+721,2023,"Deming, NM",Deming,New Mexico,Luna,100,81,575,city_0721_new_mexico_deming,146.143750905991,18.2578125,5.17179986617827,arid,12
+721,2024,"Deming, NM",Deming,New Mexico,Luna,100,84,356,city_0721_new_mexico_deming,180.837501645088,18.8489583333333,6.26842396025581,arid,12
+721,2025,"Deming, NM",Deming,New Mexico,Luna,100,102,878,city_0721_new_mexico_deming,,,,,

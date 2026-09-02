@@ -1,37 +1,37 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S21770114,L3353551,pecan house,2015-02-11,2015,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,25,,1,30.8500687,-96.9745588,16,16,city_0399_texas_cameron
-S38703346,L2321029,"Milam Co, Tx",2017-08-18,2017,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,25,8.047,1,30.8650996,-96.9735718,4,4,city_0399_texas_cameron
-S56965960,L9387262,"104 West 1st Street, Cameron, Texas, US (30.85, -96.977)",2019-06-01,2019,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,7,,1,30.8503081,-96.9767867,5,5,city_0399_texas_cameron
-S51831991,L8457544,"703 E 21st St, Cameron US-TX (30.8645,-96.9654)",2019-01-19,2019,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,68,19.312,1,30.864538,-96.965391,20,20,city_0399_texas_cameron
-S54489401,L8961993,"1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)",2019-04-02,2019,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,80,1.207,1,30.842432,-96.984356,9,9,city_0399_texas_cameron
-S66906972,L11121822,"N Lamar Ave, Cameron US-TX 30.85268, -96.97386",2020-04-10,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,9,0.419,1,30.85268,-96.973861,14,14,city_0399_texas_cameron
-S71939203,L11592688,yard,2020-07-26,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,30,1.609,1,30.8615296,-96.9637974,4,4,city_0399_texas_cameron
-S70214465,L11586473,Milam County Courthouse,2020-06-08,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,10,0.161,1,30.8497181,-96.975951,7,7,city_0399_texas_cameron
-S70240247,L11592688,yard,2020-06-06,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,30,1.609,1,30.8615296,-96.9637974,2,2,city_0399_texas_cameron
-S69859209,L11586473,Milam County Courthouse,2020-05-30,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,30,0.322,1,30.8497181,-96.975951,13,13,city_0399_texas_cameron
-S70214595,L11653113,Orchard Park,2020-06-08,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,15,0.322,1,30.8521843,-96.9646877,9,9,city_0399_texas_cameron
-S63474130,L10502894,"1202 N Houston Ave, Cameron US-TX (30.8592,-96.9744)",2020-01-17,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,5,2.414,1,30.859177,-96.974405,4,4,city_0399_texas_cameron
-S70646068,L11592688,yard,2020-06-15,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,30,0.805,1,30.8615296,-96.9637974,2,2,city_0399_texas_cameron
-S71788528,L11592688,yard,2020-07-23,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,45,1.609,1,30.8615296,-96.9637974,3,3,city_0399_texas_cameron
-S65470740,L10904872,"76520, Cameron US-TX (30.8641,-96.9850)",2020-03-05,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,35,0.797,1,30.864074,-96.985022,8,8,city_0399_texas_cameron
-S70240399,L11592688,yard,2020-06-07,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,45,1.609,1,30.8615296,-96.9637974,1,1,city_0399_texas_cameron
-S71611593,L11592688,yard,2020-07-18,2020,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,30,1.609,1,30.8615296,-96.9637974,3,3,city_0399_texas_cameron
-S89681211,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-06-02,2021,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,60,,1,30.861696,-96.963502,4,4,city_0399_texas_cameron
-S81493417,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-02-13,2021,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,60,,1,30.861696,-96.963502,4,4,city_0399_texas_cameron
-S78395354,L13111112,"101–199 W First St, Cameron US-TX 30.85057, -96.97662",2021-01-01,2021,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,11,0.859,1,30.850569,-96.976618,4,4,city_0399_texas_cameron
-S82747840,L13914837,"N Lamar Ave, Cameron US-TX 30.85258, -96.97391",2021-03-04,2021,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,16,,1,30.85258,-96.973914,7,7,city_0399_texas_cameron
-S81009896,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-02-12,2021,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,78,,1,30.861696,-96.963502,2,2,city_0399_texas_cameron
-S81495225,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-02-07,2021,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,45,,1,30.861696,-96.963502,3,3,city_0399_texas_cameron
-S93080626,L16074297,190 Cameron,2021-08-11,2021,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,8,10.889,1,30.8515361,-96.9685892,6,6,city_0399_texas_cameron
-S81494198,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-02-14,2021,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,30,,1,30.861696,-96.963502,2,2,city_0399_texas_cameron
-S116026364,L20355233,"1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)",2022-07-30,2022,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,8,1.947,1,30.8602119,-96.9735228,10,10,city_0399_texas_cameron
-S109869120,L19008299,"204 N Central Ave, Cameron US-TX 30.85188, -96.97623",2022-05-13,2022,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,18,2.112,1,30.851884,-96.976225,11,11,city_0399_texas_cameron
-S114722270,L20056266,"Milam Courthouse Cameron US-TX 30.85043, -96.97589",2022-07-09,2022,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,12,0.917,1,30.850433,-96.975885,7,7,city_0399_texas_cameron
-S155289693,L28098856,"1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)",2023-11-26,2023,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,35,3.219,1,30.8479047,-96.9670651,11,11,city_0399_texas_cameron
-S134005555,L23643614,"206 coffee shop on S Central Ave, Cameron US-TX",2023-04-15,2023,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,5,,1,30.849483,-96.976984,3,3,city_0399_texas_cameron
-S167767955,L30459889,"105 W Main St, Cameron US-TX 30.84986, -96.97693",2024-04-08,2024,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,62,0.176,1,30.849864,-96.976933,3,3,city_0399_texas_cameron
-S276831888,L53535391,"102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)",2025-10-02,2025,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,44,1.476,1,30.850048,-96.976131,18,18,city_0399_texas_cameron
-S244655131,L10650690,"N Lamar Ave, Cameron US-TX (30.8527,-96.9738)",2025-05-30,2025,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,6,,1,30.85274,-96.973758,4,4,city_0399_texas_cameron
-S258772419,L22968782,Cameron,2025-07-10,2025,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,5,0.805,1,30.8510067,-96.9789577,5,5,city_0399_texas_cameron
-S243150928,L22968782,Cameron,2025-05-24,2025,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,5,0.805,1,30.8510067,-96.9789577,5,5,city_0399_texas_cameron
-S239292243,L45269181,"2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)",2025-05-17,2025,399,"Cameron, TX",Cameron,Texas,Milam,8013107.15517867,27,,1,30.8670397,-96.9730392,9,9,city_0399_texas_cameron
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21770114,L3353551,pecan house,2015-02-11,2015,399,"Cameron, TX",Cameron,Texas,Milam,100,25,,1,Stationary,30.8500687,-96.9745588,16,16,city_0399_texas_cameron
+S38703346,L2321029,"Milam Co, Tx",2017-08-18,2017,399,"Cameron, TX",Cameron,Texas,Milam,100,25,8.047,1,Traveling,30.8650996,-96.9735718,4,4,city_0399_texas_cameron
+S51831991,L8457544,"703 E 21st St, Cameron US-TX (30.8645,-96.9654)",2019-01-19,2019,399,"Cameron, TX",Cameron,Texas,Milam,100,68,19.312,1,Traveling,30.864538,-96.965391,20,20,city_0399_texas_cameron
+S54489401,L8961993,"1079–1099 S College Ave, Cameron US-TX (30.8424,-96.9844)",2019-04-02,2019,399,"Cameron, TX",Cameron,Texas,Milam,100,80,1.207,1,Traveling,30.842432,-96.984356,9,9,city_0399_texas_cameron
+S56965960,L9387262,"104 West 1st Street, Cameron, Texas, US (30.85, -96.977)",2019-06-01,2019,399,"Cameron, TX",Cameron,Texas,Milam,100,7,,1,Stationary,30.8503081,-96.9767867,5,5,city_0399_texas_cameron
+S63474130,L10502894,"1202 N Houston Ave, Cameron US-TX (30.8592,-96.9744)",2020-01-17,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,5,2.414,1,Traveling,30.859177,-96.974405,4,4,city_0399_texas_cameron
+S65470740,L10904872,"76520, Cameron US-TX (30.8641,-96.9850)",2020-03-05,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,35,0.797,1,Traveling,30.864074,-96.985022,8,8,city_0399_texas_cameron
+S66906972,L11121822,"N Lamar Ave, Cameron US-TX 30.85268, -96.97386",2020-04-10,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,9,0.419,1,Traveling,30.85268,-96.973861,14,14,city_0399_texas_cameron
+S69859209,L11586473,Milam County Courthouse,2020-05-30,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,30,0.322,1,Traveling,30.8497181,-96.975951,13,13,city_0399_texas_cameron
+S70240247,L11592688,yard,2020-06-06,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,30,1.609,1,Traveling,30.8615296,-96.9637974,2,2,city_0399_texas_cameron
+S70240399,L11592688,yard,2020-06-07,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,45,1.609,1,Traveling,30.8615296,-96.9637974,1,1,city_0399_texas_cameron
+S70214465,L11586473,Milam County Courthouse,2020-06-08,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,10,0.161,1,Traveling,30.8497181,-96.975951,7,7,city_0399_texas_cameron
+S70214595,L11653113,Orchard Park,2020-06-08,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,15,0.322,1,Traveling,30.8521843,-96.9646877,9,9,city_0399_texas_cameron
+S70646068,L11592688,yard,2020-06-15,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,30,0.805,1,Traveling,30.8615296,-96.9637974,2,2,city_0399_texas_cameron
+S71611593,L11592688,yard,2020-07-18,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,30,1.609,1,Traveling,30.8615296,-96.9637974,3,3,city_0399_texas_cameron
+S71788528,L11592688,yard,2020-07-23,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,45,1.609,1,Traveling,30.8615296,-96.9637974,3,3,city_0399_texas_cameron
+S71939203,L11592688,yard,2020-07-26,2020,399,"Cameron, TX",Cameron,Texas,Milam,100,30,1.609,1,Traveling,30.8615296,-96.9637974,4,4,city_0399_texas_cameron
+S78395354,L13111112,"101–199 W First St, Cameron US-TX 30.85057, -96.97662",2021-01-01,2021,399,"Cameron, TX",Cameron,Texas,Milam,100,11,0.859,1,Traveling,30.850569,-96.976618,4,4,city_0399_texas_cameron
+S81495225,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-02-07,2021,399,"Cameron, TX",Cameron,Texas,Milam,100,45,,1,Stationary,30.861696,-96.963502,3,3,city_0399_texas_cameron
+S81009896,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-02-12,2021,399,"Cameron, TX",Cameron,Texas,Milam,100,78,,1,Stationary,30.861696,-96.963502,2,2,city_0399_texas_cameron
+S81493417,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-02-13,2021,399,"Cameron, TX",Cameron,Texas,Milam,100,60,,1,Stationary,30.861696,-96.963502,4,4,city_0399_texas_cameron
+S81494198,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-02-14,2021,399,"Cameron, TX",Cameron,Texas,Milam,100,30,,1,Stationary,30.861696,-96.963502,2,2,city_0399_texas_cameron
+S82747840,L13914837,"N Lamar Ave, Cameron US-TX 30.85258, -96.97391",2021-03-04,2021,399,"Cameron, TX",Cameron,Texas,Milam,100,16,,1,Stationary,30.85258,-96.973914,7,7,city_0399_texas_cameron
+S89681211,L13597600,"906 E 18th St, Cameron US-TX 30.86170, -96.96350",2021-06-02,2021,399,"Cameron, TX",Cameron,Texas,Milam,100,60,,1,Stationary,30.861696,-96.963502,4,4,city_0399_texas_cameron
+S93080626,L16074297,190 Cameron,2021-08-11,2021,399,"Cameron, TX",Cameron,Texas,Milam,100,8,10.889,1,Traveling,30.8515361,-96.9685892,6,6,city_0399_texas_cameron
+S109869120,L19008299,"204 N Central Ave, Cameron US-TX 30.85188, -96.97623",2022-05-13,2022,399,"Cameron, TX",Cameron,Texas,Milam,100,18,2.112,1,Traveling,30.851884,-96.976225,11,11,city_0399_texas_cameron
+S114722270,L20056266,"Milam Courthouse Cameron US-TX 30.85043, -96.97589",2022-07-09,2022,399,"Cameron, TX",Cameron,Texas,Milam,100,12,0.917,1,Traveling,30.850433,-96.975885,7,7,city_0399_texas_cameron
+S116026364,L20355233,"1405 North Houston Avenue, Cameron, Texas, US (30.86, -96.974)",2022-07-30,2022,399,"Cameron, TX",Cameron,Texas,Milam,100,8,1.947,1,Traveling,30.8602119,-96.9735228,10,10,city_0399_texas_cameron
+S134005555,L23643614,"206 coffee shop on S Central Ave, Cameron US-TX",2023-04-15,2023,399,"Cameron, TX",Cameron,Texas,Milam,100,5,,1,Stationary,30.849483,-96.976984,3,3,city_0399_texas_cameron
+S155289693,L28098856,"1104 East 1st Street, Cameron, Texas, US (30.848, -96.967)",2023-11-26,2023,399,"Cameron, TX",Cameron,Texas,Milam,100,35,3.219,1,Traveling,30.8479047,-96.9670651,11,11,city_0399_texas_cameron
+S167767955,L30459889,"105 W Main St, Cameron US-TX 30.84986, -96.97693",2024-04-08,2024,399,"Cameron, TX",Cameron,Texas,Milam,100,62,0.176,1,Traveling,30.849864,-96.976933,3,3,city_0399_texas_cameron
+S239292243,L45269181,"2106 North Travis Avenue, Cameron, Texas, US (30.867, -96.973)",2025-05-17,2025,399,"Cameron, TX",Cameron,Texas,Milam,100,27,,1,Stationary,30.8670397,-96.9730392,9,9,city_0399_texas_cameron
+S243150928,L22968782,Cameron,2025-05-24,2025,399,"Cameron, TX",Cameron,Texas,Milam,100,5,0.805,1,Traveling,30.8510067,-96.9789577,5,5,city_0399_texas_cameron
+S244655131,L10650690,"N Lamar Ave, Cameron US-TX (30.8527,-96.9738)",2025-05-30,2025,399,"Cameron, TX",Cameron,Texas,Milam,100,6,,1,Stationary,30.85274,-96.973758,4,4,city_0399_texas_cameron
+S258772419,L22968782,Cameron,2025-07-10,2025,399,"Cameron, TX",Cameron,Texas,Milam,100,5,0.805,1,Traveling,30.8510067,-96.9789577,5,5,city_0399_texas_cameron
+S276831888,L53535391,"102 S Fannin Ave, Cameron US-TX (30.8500,-96.9761)",2025-10-02,2025,399,"Cameron, TX",Cameron,Texas,Milam,100,44,1.476,1,Traveling,30.850048,-96.976131,18,18,city_0399_texas_cameron

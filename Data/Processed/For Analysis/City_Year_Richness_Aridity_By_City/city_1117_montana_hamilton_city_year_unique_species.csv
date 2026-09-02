@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2015,10750975.7259174,54,205,city_1117_montana_hamilton,306.149995803833,8.729166666666668,16.34616217862512,semiarid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2016,10750975.7259174,55,187,city_1117_montana_hamilton,337.3874988555908,8.229166666666668,18.508114222935266,semiarid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2017,10750975.7259174,43,93,city_1117_montana_hamilton,375.40000224113464,7.354166666666666,21.63169280621184,dry subhumid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2018,10750975.7259174,85,357,city_1117_montana_hamilton,358.3937542438507,7.557291666666666,20.412815430085832,dry subhumid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2019,10750975.7259174,76,243,city_1117_montana_hamilton,365.8874988555908,6.536458333333334,22.126110167015252,dry subhumid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2020,10750975.7259174,56,238,city_1117_montana_hamilton,341.2250008583069,7.776041666666666,19.195780886256937,semiarid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2021,10750975.7259174,99,545,city_1117_montana_hamilton,272.2687544822693,8.263020833333334,14.90819930431932,semiarid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2022,10750975.7259174,83,641,city_1117_montana_hamilton,354.2500047683716,7.080729166666666,20.739747191805872,dry subhumid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2023,10750975.7259174,73,303,city_1117_montana_hamilton,344.0437479019165,7.877604166666666,19.244399008643256,semiarid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2024,10750975.7259174,110,1947,city_1117_montana_hamilton,319.2874994277954,8.299479166666668,17.447900922196304,semiarid,12
-1117,"Hamilton, MT",Hamilton,Montana,Ravalli,2025,10750975.7259174,95,1638,city_1117_montana_hamilton,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1117,2015,"Hamilton, MT",Hamilton,Montana,Ravalli,100,54,205,city_1117_montana_hamilton,306.149995803833,8.72916666666667,16.3461621786251,semiarid,12
+1117,2016,"Hamilton, MT",Hamilton,Montana,Ravalli,100,55,187,city_1117_montana_hamilton,337.387498855591,8.22916666666667,18.5081142229353,semiarid,12
+1117,2017,"Hamilton, MT",Hamilton,Montana,Ravalli,100,43,93,city_1117_montana_hamilton,375.400002241135,7.35416666666667,21.6316928062118,dry subhumid,12
+1117,2018,"Hamilton, MT",Hamilton,Montana,Ravalli,100,85,357,city_1117_montana_hamilton,358.393754243851,7.55729166666667,20.4128154300858,dry subhumid,12
+1117,2019,"Hamilton, MT",Hamilton,Montana,Ravalli,100,76,243,city_1117_montana_hamilton,365.887498855591,6.53645833333333,22.1261101670153,dry subhumid,12
+1117,2020,"Hamilton, MT",Hamilton,Montana,Ravalli,100,56,238,city_1117_montana_hamilton,341.225000858307,7.77604166666667,19.1957808862569,semiarid,12
+1117,2021,"Hamilton, MT",Hamilton,Montana,Ravalli,100,99,545,city_1117_montana_hamilton,272.268754482269,8.26302083333333,14.9081993043193,semiarid,12
+1117,2022,"Hamilton, MT",Hamilton,Montana,Ravalli,100,83,641,city_1117_montana_hamilton,354.250004768372,7.08072916666667,20.7397471918059,dry subhumid,12
+1117,2023,"Hamilton, MT",Hamilton,Montana,Ravalli,100,73,303,city_1117_montana_hamilton,344.043747901917,7.87760416666667,19.2443990086433,semiarid,12
+1117,2024,"Hamilton, MT",Hamilton,Montana,Ravalli,100,110,1947,city_1117_montana_hamilton,319.287499427795,8.29947916666667,17.4479009221963,semiarid,12
+1117,2025,"Hamilton, MT",Hamilton,Montana,Ravalli,100,95,1638,city_1117_montana_hamilton,,,,,

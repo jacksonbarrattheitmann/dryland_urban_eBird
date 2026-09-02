@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2037,"Parowan, UT",Parowan,Utah,Iron,2016,4581803.80858951,9,9,city_2037_utah_parowan,299.13750171661377,9.890625,15.039120274833683,semiarid,12
-2037,"Parowan, UT",Parowan,Utah,Iron,2018,4581803.80858951,32,42,city_2037_utah_parowan,265.7500014305115,10.0234375,13.271947008624842,semiarid,12
-2037,"Parowan, UT",Parowan,Utah,Iron,2019,4581803.80858951,22,39,city_2037_utah_parowan,361.7312479019165,8.919270833333332,19.119724596605085,semiarid,12
-2037,"Parowan, UT",Parowan,Utah,Iron,2020,4581803.80858951,33,83,city_2037_utah_parowan,229.31875038146973,10.010416666666668,11.459968785331126,semiarid,12
-2037,"Parowan, UT",Parowan,Utah,Iron,2021,4581803.80858951,32,47,city_2037_utah_parowan,281.99374628067017,10.028645833333332,14.079521332957658,semiarid,12
-2037,"Parowan, UT",Parowan,Utah,Iron,2022,4581803.80858951,28,47,city_2037_utah_parowan,294.01250171661377,9.361979166666668,15.185043800831162,semiarid,12
-2037,"Parowan, UT",Parowan,Utah,Iron,2023,4581803.80858951,13,14,city_2037_utah_parowan,343.48125171661377,9.096354166666668,17.986744941930954,semiarid,12
-2037,"Parowan, UT",Parowan,Utah,Iron,2024,4581803.80858951,31,83,city_2037_utah_parowan,290.6437463760376,10.341145833333332,14.288464807117968,semiarid,12
-2037,"Parowan, UT",Parowan,Utah,Iron,2025,4581803.80858951,16,29,city_2037_utah_parowan,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2037,2016,"Parowan, UT",Parowan,Utah,Iron,100,9,9,city_2037_utah_parowan,299.137501716614,9.890625,15.0391202748337,semiarid,12
+2037,2018,"Parowan, UT",Parowan,Utah,Iron,100,32,42,city_2037_utah_parowan,265.750001430511,10.0234375,13.2719470086248,semiarid,12
+2037,2019,"Parowan, UT",Parowan,Utah,Iron,100,22,39,city_2037_utah_parowan,361.731247901917,8.91927083333333,19.1197245966051,semiarid,12
+2037,2020,"Parowan, UT",Parowan,Utah,Iron,100,33,83,city_2037_utah_parowan,229.31875038147,10.0104166666667,11.4599687853311,semiarid,12
+2037,2021,"Parowan, UT",Parowan,Utah,Iron,100,32,47,city_2037_utah_parowan,281.99374628067,10.0286458333333,14.0795213329577,semiarid,12
+2037,2022,"Parowan, UT",Parowan,Utah,Iron,100,28,47,city_2037_utah_parowan,294.012501716614,9.36197916666667,15.1850438008312,semiarid,12
+2037,2023,"Parowan, UT",Parowan,Utah,Iron,100,13,14,city_2037_utah_parowan,343.481251716614,9.09635416666667,17.986744941931,semiarid,12
+2037,2024,"Parowan, UT",Parowan,Utah,Iron,100,31,83,city_2037_utah_parowan,290.643746376038,10.3411458333333,14.288464807118,semiarid,12
+2037,2025,"Parowan, UT",Parowan,Utah,Iron,100,16,29,city_2037_utah_parowan,,,,,

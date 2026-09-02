@@ -1,45 +1,45 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23745215,L2416840,S. S. Forest Park,2015-05-30,2015,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,50,1.609,1,32.7163523,-102.6678586,16,16,city_2364_texas_seminole
-S25563007,L2416840,S. S. Forest Park,2015-10-24,2015,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,52,1.207,1,32.7163523,-102.6678586,17,17,city_2364_texas_seminole
-S25997301,L4026439,"Youth Center Park in Seminole, Gaines, Texas",2015-11-25,2015,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,60,1.207,1,32.7208198,-102.6495552,2,2,city_2364_texas_seminole
-S32509770,L2416840,S. S. Forest Park,2016-11-12,2016,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,39,1.207,1,32.7163523,-102.6678586,9,9,city_2364_texas_seminole
-S32510933,L1240894,Seminole,2016-11-12,2016,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,6,2.092,1,32.7190016,-102.6450437,1,1,city_2364_texas_seminole
-S40028329,L2416840,S. S. Forest Park,2017-10-20,2017,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,55,1.287,1,32.7163523,-102.6678586,14,14,city_2364_texas_seminole
-S51060323,L2416840,S. S. Forest Park,2018-12-29,2018,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,16,0.691,1,32.7163523,-102.6678586,11,11,city_2364_texas_seminole
-S51045006,L2416840,S. S. Forest Park,2018-12-29,2018,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,7,0.322,1,32.7163523,-102.6678586,5,5,city_2364_texas_seminole
-S55153061,L7005987,Seminole (town),2019-04-19,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,16,4.538,1,32.7166454,-102.6448727,9,9,city_2364_texas_seminole
-S61936009,L10228462,Gaines Co. (Seminole),2019-11-30,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,22,4.828,1,32.7183542,-102.6450169,5,5,city_2364_texas_seminole
-S54628745,L2416840,S. S. Forest Park,2019-04-06,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,5,,1,32.7163523,-102.6678586,3,3,city_2364_texas_seminole
-S53705863,L839699,Seminole,2019-03-11,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,15,8.047,1,32.719,-102.64447,3,3,city_2364_texas_seminole
-S53705872,L2416840,S. S. Forest Park,2019-03-11,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,5,,1,32.7163523,-102.6678586,3,3,city_2364_texas_seminole
-S66023442,L2416840,S. S. Forest Park,2020-03-15,2020,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,10,,1,32.7163523,-102.6678586,6,6,city_2364_texas_seminole
-S97974362,L2416840,S. S. Forest Park,2021-11-23,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,7,,1,32.7163523,-102.6678586,1,1,city_2364_texas_seminole
-S78680459,L13167603,US385- Gaines county,2021-01-04,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,18,28.968,1,32.718967,-102.645545,6,6,city_2364_texas_seminole
-S78853977,L13167603,US385- Gaines county,2021-01-04,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,18,28.968,1,32.718967,-102.645545,6,6,city_2364_texas_seminole
-S86511889,L2416840,S. S. Forest Park,2021-04-27,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,15,0.676,1,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
-S98315582,L17011879,Hwy 62 Seminole Tx,2021-11-29,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,12,3.219,1,32.7189768,-102.6457731,4,4,city_2364_texas_seminole
-S116027288,L20355469,"Seminole Splash Pad, Seminole US-TX 32.72030, -102.64947",2022-07-30,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,8,0.09,1,32.720304,-102.649473,6,6,city_2364_texas_seminole
-S116058855,L2416840,S. S. Forest Park,2022-07-30,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,31,0.685,1,32.7163523,-102.6678586,15,15,city_2364_texas_seminole
-S114554805,L2416840,S. S. Forest Park,2022-07-06,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,5,1.903,1,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
-S112101490,L2416840,S. S. Forest Park,2022-06-04,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,32,0.895,1,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
-S112369499,L2416840,S. S. Forest Park,2022-06-07,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,50,1.21,1,32.7163523,-102.6678586,9,9,city_2364_texas_seminole
-S121444932,L2416840,S. S. Forest Park,2022-10-28,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,6,1.34,1,32.7163523,-102.6678586,7,7,city_2364_texas_seminole
-S123160236,L2416840,S. S. Forest Park,2022-11-28,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,20,0.433,1,32.7163523,-102.6678586,7,7,city_2364_texas_seminole
-S114897091,L20097982,"803 SE Avenue G, Seminole US-TX 32.71135, -102.63320",2022-07-11,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,14,,1,32.711346,-102.633197,6,6,city_2364_texas_seminole
-S122122958,L2416840,S. S. Forest Park,2022-11-09,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,28,0.635,1,32.7163523,-102.6678586,3,3,city_2364_texas_seminole
-S112193135,L2416840,S. S. Forest Park,2022-06-05,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,36,0.929,1,32.7163523,-102.6678586,9,9,city_2364_texas_seminole
-S118160402,L20785235,"704 Hobbs Highway, Seminole, Texas, US (32.72, -102.653)",2022-09-05,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,7,0.113,1,32.719965,-102.6529342,4,4,city_2364_texas_seminole
-S147951947,L2416840,S. S. Forest Park,2023-08-23,2023,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,5,1.151,1,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
-S140142385,L24860112,"1301 S Main St, Seminole US-TX 32.70446, -102.64481",2023-06-01,2023,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,10,0.461,1,32.704459,-102.644813,4,4,city_2364_texas_seminole
-S147472430,L26623397,"801 N Main St, Seminole US-TX 32.72840, -102.64563",2023-08-17,2023,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,10,,1,32.728398,-102.645628,4,4,city_2364_texas_seminole
-S168956992,L2416840,S. S. Forest Park,2024-04-16,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,16,0.684,1,32.7163523,-102.6678586,11,11,city_2364_texas_seminole
-S183574323,L2416840,S. S. Forest Park,2024-06-24,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,25,1.369,1,32.7163523,-102.6678586,14,14,city_2364_texas_seminole
-S170744321,L2416840,S. S. Forest Park,2024-04-28,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,10,1.006,1,32.7163523,-102.6678586,12,12,city_2364_texas_seminole
-S166199827,L2416840,S. S. Forest Park,2024-03-27,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,7,0.74,1,32.7163523,-102.6678586,6,6,city_2364_texas_seminole
-S185561048,L34361073,"32.71919339459464, -102.64522825931864",2024-07-05,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,7,,1,32.7192487,-102.6452757,3,3,city_2364_texas_seminole
-S268156169,L51727083,"510 Southwest Avenue B, Seminole, Texas, US (32.719, -102.65)",2025-08-18,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,36,65.2,1,32.719065,-102.650325,12,12,city_2364_texas_seminole
-S270871014,L2416840,S. S. Forest Park,2025-09-01,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,26,0.124,1,32.7163523,-102.6678586,17,17,city_2364_texas_seminole
-S291773979,L56694203,"Phillips 66 Hobbs Highway, Seminole, Texas",2025-12-21,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,5,,1,32.72013,-102.656632,1,1,city_2364_texas_seminole
-S212190218,L2416840,S. S. Forest Park,2025-02-06,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,17,1.035,1,32.7163523,-102.6678586,9,9,city_2364_texas_seminole
-S264843344,L2416840,S. S. Forest Park,2025-08-03,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,6,0.965,1,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
-S289701420,L2416840,S. S. Forest Park,2025-12-22,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,7866667.42305262,5,0.277,1,32.7163523,-102.6678586,7,7,city_2364_texas_seminole
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23745215,L2416840,S. S. Forest Park,2015-05-30,2015,2364,"Seminole, TX",Seminole,Texas,Gaines,100,50,1.609,1,Traveling,32.7163523,-102.6678586,16,16,city_2364_texas_seminole
+S25563007,L2416840,S. S. Forest Park,2015-10-24,2015,2364,"Seminole, TX",Seminole,Texas,Gaines,100,52,1.207,1,Traveling,32.7163523,-102.6678586,17,17,city_2364_texas_seminole
+S25997301,L4026439,"Youth Center Park in Seminole, Gaines, Texas",2015-11-25,2015,2364,"Seminole, TX",Seminole,Texas,Gaines,100,60,1.207,1,Traveling,32.7208198,-102.6495552,2,2,city_2364_texas_seminole
+S32510933,L1240894,Seminole,2016-11-12,2016,2364,"Seminole, TX",Seminole,Texas,Gaines,100,6,2.092,1,Traveling,32.7190016,-102.6450437,1,1,city_2364_texas_seminole
+S32509770,L2416840,S. S. Forest Park,2016-11-12,2016,2364,"Seminole, TX",Seminole,Texas,Gaines,100,39,1.207,1,Traveling,32.7163523,-102.6678586,9,9,city_2364_texas_seminole
+S40028329,L2416840,S. S. Forest Park,2017-10-20,2017,2364,"Seminole, TX",Seminole,Texas,Gaines,100,55,1.287,1,Traveling,32.7163523,-102.6678586,14,14,city_2364_texas_seminole
+S51045006,L2416840,S. S. Forest Park,2018-12-29,2018,2364,"Seminole, TX",Seminole,Texas,Gaines,100,7,0.322,1,Traveling,32.7163523,-102.6678586,5,5,city_2364_texas_seminole
+S51060323,L2416840,S. S. Forest Park,2018-12-29,2018,2364,"Seminole, TX",Seminole,Texas,Gaines,100,16,0.691,1,Traveling,32.7163523,-102.6678586,11,11,city_2364_texas_seminole
+S53705872,L2416840,S. S. Forest Park,2019-03-11,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,100,5,,1,Stationary,32.7163523,-102.6678586,3,3,city_2364_texas_seminole
+S53705863,L839699,Seminole,2019-03-11,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,100,15,8.047,1,Traveling,32.719,-102.64447,3,3,city_2364_texas_seminole
+S54628745,L2416840,S. S. Forest Park,2019-04-06,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,100,5,,1,Stationary,32.7163523,-102.6678586,3,3,city_2364_texas_seminole
+S55153061,L7005987,Seminole (town),2019-04-19,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,100,16,4.538,1,Traveling,32.7166454,-102.6448727,9,9,city_2364_texas_seminole
+S61936009,L10228462,Gaines Co. (Seminole),2019-11-30,2019,2364,"Seminole, TX",Seminole,Texas,Gaines,100,22,4.828,1,Traveling,32.7183542,-102.6450169,5,5,city_2364_texas_seminole
+S66023442,L2416840,S. S. Forest Park,2020-03-15,2020,2364,"Seminole, TX",Seminole,Texas,Gaines,100,10,,1,Stationary,32.7163523,-102.6678586,6,6,city_2364_texas_seminole
+S78853977,L13167603,US385- Gaines county,2021-01-04,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,100,18,28.968,1,Traveling,32.718967,-102.645545,6,6,city_2364_texas_seminole
+S78680459,L13167603,US385- Gaines county,2021-01-04,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,100,18,28.968,1,Traveling,32.718967,-102.645545,6,6,city_2364_texas_seminole
+S86511889,L2416840,S. S. Forest Park,2021-04-27,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,100,15,0.676,1,Traveling,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
+S97974362,L2416840,S. S. Forest Park,2021-11-23,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,100,7,,1,Stationary,32.7163523,-102.6678586,1,1,city_2364_texas_seminole
+S98315582,L17011879,Hwy 62 Seminole Tx,2021-11-29,2021,2364,"Seminole, TX",Seminole,Texas,Gaines,100,12,3.219,1,Traveling,32.7189768,-102.6457731,4,4,city_2364_texas_seminole
+S112101490,L2416840,S. S. Forest Park,2022-06-04,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,32,0.895,1,Traveling,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
+S112193135,L2416840,S. S. Forest Park,2022-06-05,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,36,0.929,1,Traveling,32.7163523,-102.6678586,9,9,city_2364_texas_seminole
+S112369499,L2416840,S. S. Forest Park,2022-06-07,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,50,1.21,1,Traveling,32.7163523,-102.6678586,9,9,city_2364_texas_seminole
+S114554805,L2416840,S. S. Forest Park,2022-07-06,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,5,1.903,1,Traveling,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
+S114897091,L20097982,"803 SE Avenue G, Seminole US-TX 32.71135, -102.63320",2022-07-11,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,14,,1,Stationary,32.711346,-102.633197,6,6,city_2364_texas_seminole
+S116027288,L20355469,"Seminole Splash Pad, Seminole US-TX 32.72030, -102.64947",2022-07-30,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,8,0.09,1,Traveling,32.720304,-102.649473,6,6,city_2364_texas_seminole
+S116058855,L2416840,S. S. Forest Park,2022-07-30,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,31,0.685,1,Traveling,32.7163523,-102.6678586,15,15,city_2364_texas_seminole
+S118160402,L20785235,"704 Hobbs Highway, Seminole, Texas, US (32.72, -102.653)",2022-09-05,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,7,0.113,1,Traveling,32.719965,-102.6529342,4,4,city_2364_texas_seminole
+S121444932,L2416840,S. S. Forest Park,2022-10-28,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,6,1.34,1,Traveling,32.7163523,-102.6678586,7,7,city_2364_texas_seminole
+S122122958,L2416840,S. S. Forest Park,2022-11-09,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,28,0.635,1,Traveling,32.7163523,-102.6678586,3,3,city_2364_texas_seminole
+S123160236,L2416840,S. S. Forest Park,2022-11-28,2022,2364,"Seminole, TX",Seminole,Texas,Gaines,100,20,0.433,1,Traveling,32.7163523,-102.6678586,7,7,city_2364_texas_seminole
+S140142385,L24860112,"1301 S Main St, Seminole US-TX 32.70446, -102.64481",2023-06-01,2023,2364,"Seminole, TX",Seminole,Texas,Gaines,100,10,0.461,1,Traveling,32.704459,-102.644813,4,4,city_2364_texas_seminole
+S147472430,L26623397,"801 N Main St, Seminole US-TX 32.72840, -102.64563",2023-08-17,2023,2364,"Seminole, TX",Seminole,Texas,Gaines,100,10,,1,Stationary,32.728398,-102.645628,4,4,city_2364_texas_seminole
+S147951947,L2416840,S. S. Forest Park,2023-08-23,2023,2364,"Seminole, TX",Seminole,Texas,Gaines,100,5,1.151,1,Traveling,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
+S166199827,L2416840,S. S. Forest Park,2024-03-27,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,100,7,0.74,1,Traveling,32.7163523,-102.6678586,6,6,city_2364_texas_seminole
+S168956992,L2416840,S. S. Forest Park,2024-04-16,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,100,16,0.684,1,Traveling,32.7163523,-102.6678586,11,11,city_2364_texas_seminole
+S170744321,L2416840,S. S. Forest Park,2024-04-28,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,100,10,1.006,1,Traveling,32.7163523,-102.6678586,12,12,city_2364_texas_seminole
+S183574323,L2416840,S. S. Forest Park,2024-06-24,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,100,25,1.369,1,Traveling,32.7163523,-102.6678586,14,14,city_2364_texas_seminole
+S185561048,L34361073,"32.71919339459464, -102.64522825931864",2024-07-05,2024,2364,"Seminole, TX",Seminole,Texas,Gaines,100,7,,1,Stationary,32.7192487,-102.6452757,3,3,city_2364_texas_seminole
+S212190218,L2416840,S. S. Forest Park,2025-02-06,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,100,17,1.035,1,Traveling,32.7163523,-102.6678586,9,9,city_2364_texas_seminole
+S264843344,L2416840,S. S. Forest Park,2025-08-03,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,100,6,0.965,1,Traveling,32.7163523,-102.6678586,8,8,city_2364_texas_seminole
+S268156169,L51727083,"510 Southwest Avenue B, Seminole, Texas, US (32.719, -102.65)",2025-08-18,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,100,36,65.2,1,Traveling,32.719065,-102.650325,12,12,city_2364_texas_seminole
+S270871014,L2416840,S. S. Forest Park,2025-09-01,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,100,26,0.124,1,Traveling,32.7163523,-102.6678586,17,17,city_2364_texas_seminole
+S291773979,L56694203,"Phillips 66 Hobbs Highway, Seminole, Texas",2025-12-21,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,100,5,,1,Stationary,32.72013,-102.656632,1,1,city_2364_texas_seminole
+S289701420,L2416840,S. S. Forest Park,2025-12-22,2025,2364,"Seminole, TX",Seminole,Texas,Gaines,100,5,0.277,1,Traveling,32.7163523,-102.6678586,7,7,city_2364_texas_seminole

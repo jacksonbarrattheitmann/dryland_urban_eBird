@@ -1,11 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1051,"Grandview, WA",Grandview,Washington,Yakima,2015,28802239.5276984,15,19,city_1051_washington_grandview,178.76874923706055,12.888020833333332,7.810581375245335,arid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2017,28802239.5276984,24,34,city_1051_washington_grandview,222.48125076293945,11.2578125,10.4658581762794,semiarid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2018,28802239.5276984,40,62,city_1051_washington_grandview,163.65624862909317,11.895833333333332,7.474310118169813,arid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2019,28802239.5276984,37,60,city_1051_washington_grandview,160.08125019073486,11.0390625,7.608763469890109,arid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2020,28802239.5276984,37,72,city_1051_washington_grandview,186.77499890327456,11.950520833333332,8.508909666491569,arid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2021,28802239.5276984,55,209,city_1051_washington_grandview,170.25624859333038,12.440104166666668,7.587141633960643,arid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2022,28802239.5276984,48,128,city_1051_washington_grandview,199.61875009536743,11.346354166666668,9.351421256145064,arid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2023,28802239.5276984,45,103,city_1051_washington_grandview,161.74375247955322,12.174479166666668,7.294139865196528,arid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2024,28802239.5276984,53,130,city_1051_washington_grandview,190.862500667572,12.388020833333332,8.525206497190608,arid,12
-1051,"Grandview, WA",Grandview,Washington,Yakima,2025,28802239.5276984,58,141,city_1051_washington_grandview,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1051,2015,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,15,19,city_1051_washington_grandview,178.768749237061,12.8880208333333,7.81058137524534,arid,12
+1051,2016,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,0,0,city_1051_washington_grandview,195.081249713898,12.4296875,8.69745731918457,arid,12
+1051,2017,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,24,34,city_1051_washington_grandview,222.481250762939,11.2578125,10.4658581762794,semiarid,12
+1051,2018,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,40,62,city_1051_washington_grandview,163.656248629093,11.8958333333333,7.47431011816981,arid,12
+1051,2019,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,37,60,city_1051_washington_grandview,160.081250190735,11.0390625,7.60876346989011,arid,12
+1051,2020,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,37,72,city_1051_washington_grandview,186.774998903275,11.9505208333333,8.50890966649157,arid,12
+1051,2021,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,55,209,city_1051_washington_grandview,170.25624859333,12.4401041666667,7.58714163396064,arid,12
+1051,2022,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,48,128,city_1051_washington_grandview,199.618750095367,11.3463541666667,9.35142125614506,arid,12
+1051,2023,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,45,103,city_1051_washington_grandview,161.743752479553,12.1744791666667,7.29413986519653,arid,12
+1051,2024,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,53,130,city_1051_washington_grandview,190.862500667572,12.3880208333333,8.52520649719061,arid,12
+1051,2025,"Grandview, WA",Grandview,Washington,Yakima,99.9999999999781,58,141,city_1051_washington_grandview,,,,,

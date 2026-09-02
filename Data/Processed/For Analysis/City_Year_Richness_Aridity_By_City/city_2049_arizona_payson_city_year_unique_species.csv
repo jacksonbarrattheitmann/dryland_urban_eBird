@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2049,"Payson, AZ",Payson,Arizona,Gila,2015,20272063.0782347,24,27,city_2049_arizona_payson,651.9062519073486,14.622395833333334,26.476150262551226,dry subhumid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2016,20272063.0782347,32,73,city_2049_arizona_payson,503.868748664856,14.546875,20.526798163304125,dry subhumid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2017,20272063.0782347,24,41,city_2049_arizona_payson,353.54999589920044,15.109375,14.080398094305432,semiarid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2018,20272063.0782347,41,113,city_2049_arizona_payson,440.4937437772751,14.75,17.797727021304045,semiarid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2019,20272063.0782347,60,322,city_2049_arizona_payson,558.40625619888306,13.635416666666668,23.62582661749351,dry subhumid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2020,20272063.0782347,60,218,city_2049_arizona_payson,334.6312423944473,14.7734375,13.50766289072509,semiarid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2021,20272063.0782347,83,258,city_2049_arizona_payson,467.2187569141388,14.643229166666668,18.95931550829856,semiarid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2022,20272063.0782347,78,334,city_2049_arizona_payson,404.7000045776367,14.192708333333332,16.728181028828043,semiarid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2023,20272063.0782347,111,1336,city_2049_arizona_payson,369.8749966025353,14.192708333333332,15.288697383786172,semiarid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2024,20272063.0782347,88,663,city_2049_arizona_payson,434.1812564134598,15.208333333333332,17.223719262682703,semiarid,12
-2049,"Payson, AZ",Payson,Arizona,Gila,2025,20272063.0782347,97,1147,city_2049_arizona_payson,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2049,2015,"Payson, AZ",Payson,Arizona,Gila,100,24,27,city_2049_arizona_payson,651.906251907349,14.6223958333333,26.4761502625512,dry subhumid,12
+2049,2016,"Payson, AZ",Payson,Arizona,Gila,100,32,73,city_2049_arizona_payson,503.868748664856,14.546875,20.5267981633041,dry subhumid,12
+2049,2017,"Payson, AZ",Payson,Arizona,Gila,100,24,41,city_2049_arizona_payson,353.5499958992,15.109375,14.0803980943054,semiarid,12
+2049,2018,"Payson, AZ",Payson,Arizona,Gila,100,41,113,city_2049_arizona_payson,440.493743777275,14.75,17.797727021304,semiarid,12
+2049,2019,"Payson, AZ",Payson,Arizona,Gila,100,60,322,city_2049_arizona_payson,558.406256198883,13.6354166666667,23.6258266174935,dry subhumid,12
+2049,2020,"Payson, AZ",Payson,Arizona,Gila,100,60,218,city_2049_arizona_payson,334.631242394447,14.7734375,13.5076628907251,semiarid,12
+2049,2021,"Payson, AZ",Payson,Arizona,Gila,100,83,258,city_2049_arizona_payson,467.218756914139,14.6432291666667,18.9593155082986,semiarid,12
+2049,2022,"Payson, AZ",Payson,Arizona,Gila,100,78,334,city_2049_arizona_payson,404.700004577637,14.1927083333333,16.728181028828,semiarid,12
+2049,2023,"Payson, AZ",Payson,Arizona,Gila,100,111,1336,city_2049_arizona_payson,369.874996602535,14.1927083333333,15.2886973837862,semiarid,12
+2049,2024,"Payson, AZ",Payson,Arizona,Gila,100,88,663,city_2049_arizona_payson,434.18125641346,15.2083333333333,17.2237192626827,semiarid,12
+2049,2025,"Payson, AZ",Payson,Arizona,Gila,100,97,1147,city_2049_arizona_payson,,,,,

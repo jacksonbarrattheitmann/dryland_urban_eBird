@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2015,22154007.2091223,52,205,city_1735_texas_mineral_wells,1173.9249801635742,19.028645833333332,40.44022538645488,humid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2016,22154007.2091223,54,107,city_1735_texas_mineral_wells,996.8624954223632,19.794270833333332,33.458194060150994,humid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2017,22154007.2091223,49,183,city_1735_texas_mineral_wells,739.2562503814697,19.833333333333332,24.779539118931947,dry subhumid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2018,22154007.2091223,44,94,city_1735_texas_mineral_wells,829.6750092506409,18.9140625,28.694515315882743,dry subhumid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2019,22154007.2091223,38,41,city_1735_texas_mineral_wells,857.5250148773193,18.890625,29.68177444680824,dry subhumid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2020,22154007.2091223,42,64,city_1735_texas_mineral_wells,857.4562435150146,19.244791666666668,29.319964159373608,dry subhumid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2021,22154007.2091223,78,190,city_1735_texas_mineral_wells,822.7187557220459,18.8046875,28.561974703667445,dry subhumid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2022,22154007.2091223,47,145,city_1735_texas_mineral_wells,522.1874933242798,19.356770833333332,17.78763394274137,semiarid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2023,22154007.2091223,44,146,city_1735_texas_mineral_wells,773.6812515258789,19.9453125,25.83647278771524,dry subhumid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2024,22154007.2091223,14,17,city_1735_texas_mineral_wells,853.6062488555908,20.401041666666668,28.07819081382104,dry subhumid,12
-1735,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,2025,22154007.2091223,31,66,city_1735_texas_mineral_wells,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1735,2015,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,52,205,city_1735_texas_mineral_wells,1173.92498016357,19.0286458333333,40.4402253864549,humid,12
+1735,2016,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,54,107,city_1735_texas_mineral_wells,996.862495422363,19.7942708333333,33.458194060151,humid,12
+1735,2017,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,49,183,city_1735_texas_mineral_wells,739.25625038147,19.8333333333333,24.779539118932,dry subhumid,12
+1735,2018,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,44,94,city_1735_texas_mineral_wells,829.675009250641,18.9140625,28.6945153158827,dry subhumid,12
+1735,2019,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,38,41,city_1735_texas_mineral_wells,857.525014877319,18.890625,29.6817744468082,dry subhumid,12
+1735,2020,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,42,64,city_1735_texas_mineral_wells,857.456243515015,19.2447916666667,29.3199641593736,dry subhumid,12
+1735,2021,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,78,190,city_1735_texas_mineral_wells,822.718755722046,18.8046875,28.5619747036674,dry subhumid,12
+1735,2022,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,47,145,city_1735_texas_mineral_wells,522.18749332428,19.3567708333333,17.7876339427414,semiarid,12
+1735,2023,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,44,146,city_1735_texas_mineral_wells,773.681251525879,19.9453125,25.8364727877152,dry subhumid,12
+1735,2024,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,14,17,city_1735_texas_mineral_wells,853.606248855591,20.4010416666667,28.078190813821,dry subhumid,12
+1735,2025,"Mineral Wells, TX",Mineral Wells,Texas,Palo Pinto,99.9999999999994,31,66,city_1735_texas_mineral_wells,,,,,

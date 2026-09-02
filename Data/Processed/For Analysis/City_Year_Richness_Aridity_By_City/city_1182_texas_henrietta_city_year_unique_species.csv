@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2015,3405891.84747291,32,130,city_1182_texas_henrietta,1002.637508392334,18.247395833333332,35.494865236715796,humid,12
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2016,3405891.84747291,35,174,city_1182_texas_henrietta,842.7187623977661,18.989583333333332,29.069709374842095,dry subhumid,12
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2017,3405891.84747291,33,134,city_1182_texas_henrietta,733.424991607666,18.890625,25.38626255429455,dry subhumid,12
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2018,3405891.84747291,37,359,city_1182_texas_henrietta,833.9500131607056,18.036458333333332,29.74519831448179,dry subhumid,12
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2019,3405891.84747291,12,12,city_1182_texas_henrietta,858.9749946594238,17.822916666666668,30.87293129438588,humid,12
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2021,3405891.84747291,24,24,city_1182_texas_henrietta,733.9437484741211,18.125,26.095777723524307,dry subhumid,12
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2022,3405891.84747291,27,64,city_1182_texas_henrietta,553.1062450408936,18.2734375,19.56275196607747,semiarid,12
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2023,3405891.84747291,5,5,city_1182_texas_henrietta,749.2124919891357,18.981770833333332,25.851163350150788,dry subhumid,12
-1182,"Henrietta, TX",Henrietta,Texas,Clay,2025,3405891.84747291,5,5,city_1182_texas_henrietta,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1182,2015,"Henrietta, TX",Henrietta,Texas,Clay,100,32,130,city_1182_texas_henrietta,1002.63750839233,18.2473958333333,35.4948652367158,humid,12
+1182,2016,"Henrietta, TX",Henrietta,Texas,Clay,100,35,174,city_1182_texas_henrietta,842.718762397766,18.9895833333333,29.0697093748421,dry subhumid,12
+1182,2017,"Henrietta, TX",Henrietta,Texas,Clay,100,33,134,city_1182_texas_henrietta,733.424991607666,18.890625,25.3862625542946,dry subhumid,12
+1182,2018,"Henrietta, TX",Henrietta,Texas,Clay,100,37,359,city_1182_texas_henrietta,833.950013160706,18.0364583333333,29.7451983144818,dry subhumid,12
+1182,2019,"Henrietta, TX",Henrietta,Texas,Clay,100,12,12,city_1182_texas_henrietta,858.974994659424,17.8229166666667,30.8729312943859,humid,12
+1182,2021,"Henrietta, TX",Henrietta,Texas,Clay,100,24,24,city_1182_texas_henrietta,733.943748474121,18.125,26.0957777235243,dry subhumid,12
+1182,2022,"Henrietta, TX",Henrietta,Texas,Clay,100,27,64,city_1182_texas_henrietta,553.106245040894,18.2734375,19.5627519660775,semiarid,12
+1182,2023,"Henrietta, TX",Henrietta,Texas,Clay,100,5,5,city_1182_texas_henrietta,749.212491989136,18.9817708333333,25.8511633501508,dry subhumid,12
+1182,2025,"Henrietta, TX",Henrietta,Texas,Clay,100,5,5,city_1182_texas_henrietta,,,,,

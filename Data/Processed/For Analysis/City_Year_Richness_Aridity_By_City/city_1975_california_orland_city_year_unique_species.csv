@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1975,"Orland, CA",Orland,California,Glenn,2016,15105756.6142633,10,10,city_1975_california_orland,624.837509572506,18.036458333333332,22.28660632322518,dry subhumid,12
-1975,"Orland, CA",Orland,California,Glenn,2017,15105756.6142633,5,5,city_1975_california_orland,662.0187512040138,17.994791666666668,23.647925624403843,dry subhumid,12
-1975,"Orland, CA",Orland,California,Glenn,2019,15105756.6142633,31,34,city_1975_california_orland,650.7750065922737,17.5,23.664545694264497,dry subhumid,12
-1975,"Orland, CA",Orland,California,Glenn,2020,15105756.6142633,19,26,city_1975_california_orland,257.02500116825104,18.122395833333332,9.139512959404426,arid,12
-1975,"Orland, CA",Orland,California,Glenn,2021,15105756.6142633,11,14,city_1975_california_orland,487.8499963283539,17.848958333333332,17.5177107340647,semiarid,12
-1975,"Orland, CA",Orland,California,Glenn,2022,15105756.6142633,8,8,city_1975_california_orland,333.9249987602234,17.8515625,11.989452970914051,semiarid,12
-1975,"Orland, CA",Orland,California,Glenn,2023,15105756.6142633,34,57,city_1975_california_orland,597.181249499321,17.328125,21.852258415069493,dry subhumid,12
-1975,"Orland, CA",Orland,California,Glenn,2024,15105756.6142633,22,32,city_1975_california_orland,680.6749897003174,18.098958333333332,24.22420723307895,dry subhumid,12
-1975,"Orland, CA",Orland,California,Glenn,2025,15105756.6142633,24,38,city_1975_california_orland,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1975,2016,"Orland, CA",Orland,California,Glenn,99.9999999999957,10,10,city_1975_california_orland,624.837509572506,18.0364583333333,22.2866063232252,dry subhumid,12
+1975,2017,"Orland, CA",Orland,California,Glenn,99.9999999999957,5,5,city_1975_california_orland,662.018751204014,17.9947916666667,23.6479256244038,dry subhumid,12
+1975,2019,"Orland, CA",Orland,California,Glenn,99.9999999999957,31,34,city_1975_california_orland,650.775006592274,17.5,23.6645456942645,dry subhumid,12
+1975,2020,"Orland, CA",Orland,California,Glenn,99.9999999999957,19,26,city_1975_california_orland,257.025001168251,18.1223958333333,9.13951295940443,arid,12
+1975,2021,"Orland, CA",Orland,California,Glenn,99.9999999999957,11,14,city_1975_california_orland,487.849996328354,17.8489583333333,17.5177107340647,semiarid,12
+1975,2022,"Orland, CA",Orland,California,Glenn,99.9999999999957,8,8,city_1975_california_orland,333.924998760223,17.8515625,11.9894529709141,semiarid,12
+1975,2023,"Orland, CA",Orland,California,Glenn,99.9999999999957,34,57,city_1975_california_orland,597.181249499321,17.328125,21.8522584150695,dry subhumid,12
+1975,2024,"Orland, CA",Orland,California,Glenn,99.9999999999957,22,32,city_1975_california_orland,680.674989700317,18.0989583333333,24.224207233079,dry subhumid,12
+1975,2025,"Orland, CA",Orland,California,Glenn,99.9999999999957,24,38,city_1975_california_orland,,,,,

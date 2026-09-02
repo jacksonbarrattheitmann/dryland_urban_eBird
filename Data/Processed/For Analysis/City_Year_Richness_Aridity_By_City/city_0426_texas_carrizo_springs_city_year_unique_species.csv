@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2015,10134268.9099122,17,17,city_0426_texas_carrizo_springs,718.7000064849854,22.3828125,22.19387233536263,dry subhumid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2016,10134268.9099122,31,43,city_0426_texas_carrizo_springs,786.7375040054321,23.072916666666668,23.787968625046133,dry subhumid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2017,10134268.9099122,7,7,city_0426_texas_carrizo_springs,499.1187582015991,23.309895833333332,14.984098440263786,semiarid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2019,10134268.9099122,15,27,city_0426_texas_carrizo_springs,405.08750200271606,22.622395833333332,12.417466334241478,semiarid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2020,10134268.9099122,18,29,city_0426_texas_carrizo_springs,385.6812472343445,23.236979166666668,11.603980172215644,semiarid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2021,10134268.9099122,26,42,city_0426_texas_carrizo_springs,556.1312551498413,22.6171875,17.050251654893337,semiarid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2022,10134268.9099122,8,9,city_0426_texas_carrizo_springs,338.4249973297119,22.9296875,10.277200393405248,semiarid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2023,10134268.9099122,15,33,city_0426_texas_carrizo_springs,538.3374929428101,23.666666666666668,15.990222562657722,semiarid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2024,10134268.9099122,2,2,city_0426_texas_carrizo_springs,409.31249713897705,23.96875,12.049677928654338,semiarid,12
-426,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,2025,10134268.9099122,31,55,city_0426_texas_carrizo_springs,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+426,2015,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,17,17,city_0426_texas_carrizo_springs,718.700006484985,22.3828125,22.1938723353626,dry subhumid,12
+426,2016,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,31,43,city_0426_texas_carrizo_springs,786.737504005432,23.0729166666667,23.7879686250461,dry subhumid,12
+426,2017,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,7,7,city_0426_texas_carrizo_springs,499.118758201599,23.3098958333333,14.9840984402638,semiarid,12
+426,2019,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,15,27,city_0426_texas_carrizo_springs,405.087502002716,22.6223958333333,12.4174663342415,semiarid,12
+426,2020,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,18,29,city_0426_texas_carrizo_springs,385.681247234345,23.2369791666667,11.6039801722156,semiarid,12
+426,2021,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,26,42,city_0426_texas_carrizo_springs,556.131255149841,22.6171875,17.0502516548933,semiarid,12
+426,2022,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,8,9,city_0426_texas_carrizo_springs,338.424997329712,22.9296875,10.2772003934052,semiarid,12
+426,2023,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,15,33,city_0426_texas_carrizo_springs,538.33749294281,23.6666666666667,15.9902225626577,semiarid,12
+426,2024,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,2,2,city_0426_texas_carrizo_springs,409.312497138977,23.96875,12.0496779286543,semiarid,12
+426,2025,"Carrizo Springs, TX",Carrizo Springs,Texas,Dimmit,100,31,55,city_0426_texas_carrizo_springs,,,,,

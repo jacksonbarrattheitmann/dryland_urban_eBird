@@ -1,10 +1,11 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25932308,L1179296,Manti City Park,2015-11-21,2015,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,44,0.402,1,39.267547,-111.6436028,9,9,city_1620_utah_manti
-S46740053,L1179296,Manti City Park,2018-06-15,2018,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,11,0.054,1,39.267547,-111.6436028,8,8,city_1620_utah_manti
-S90144768,L1179296,Manti City Park,2021-06-13,2021,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,10,0.402,1,39.267547,-111.6436028,7,7,city_1620_utah_manti
-S94926659,L16426787,Manti Main Street,2021-09-20,2021,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,20,,1,39.2675304,-111.6373372,4,4,city_1620_utah_manti
-S94955589,L1179296,Manti City Park,2021-09-20,2021,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,40,1.609,1,39.267547,-111.6436028,8,8,city_1620_utah_manti
-S94910732,L16423990,"Main Street, Manti",2021-09-19,2021,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,15,8.047,1,39.2674053,-111.6374535,7,7,city_1620_utah_manti
-S118969214,L1179296,Manti City Park,2022-09-18,2022,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,60,,1,39.267547,-111.6436028,13,13,city_1620_utah_manti
-S139305737,L1179296,Manti City Park,2023-05-26,2023,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,9,,1,39.267547,-111.6436028,10,10,city_1620_utah_manti
-S218178359,L1179296,Manti City Park,2025-03-12,2025,1620,"Manti, UT",Manti,Utah,Sanpete,4218201.51595694,10,,1,39.267547,-111.6436028,4,4,city_1620_utah_manti
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S25932308,L1179296,Manti City Park,2015-11-21,2015,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,44,0.402,1,Traveling,39.267547,-111.6436028,9,9,city_1620_utah_manti
+S46740053,L1179296,Manti City Park,2018-06-15,2018,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,11,0.054,1,Traveling,39.267547,-111.6436028,8,8,city_1620_utah_manti
+S90144768,L1179296,Manti City Park,2021-06-13,2021,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,10,0.402,1,Traveling,39.267547,-111.6436028,7,7,city_1620_utah_manti
+S94910732,L16423990,"Main Street, Manti",2021-09-19,2021,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,15,8.047,1,Traveling,39.2674053,-111.6374535,7,7,city_1620_utah_manti
+S94955589,L1179296,Manti City Park,2021-09-20,2021,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,40,1.609,1,Traveling,39.267547,-111.6436028,8,8,city_1620_utah_manti
+S94926659,L16426787,Manti Main Street,2021-09-20,2021,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,20,,1,Stationary,39.2675304,-111.6373372,4,4,city_1620_utah_manti
+S103482854,L17883362,Grandmas Backyard,2022-02-21,2022,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,20,,1,Stationary,39.264739,-111.644963,0,0,city_1620_utah_manti
+S118969214,L1179296,Manti City Park,2022-09-18,2022,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,60,,1,Stationary,39.267547,-111.6436028,13,13,city_1620_utah_manti
+S139305737,L1179296,Manti City Park,2023-05-26,2023,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,9,,1,Stationary,39.267547,-111.6436028,10,10,city_1620_utah_manti
+S218178359,L1179296,Manti City Park,2025-03-12,2025,1620,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,10,,1,Stationary,39.267547,-111.6436028,4,4,city_1620_utah_manti

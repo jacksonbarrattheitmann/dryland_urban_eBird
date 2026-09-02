@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2015,30584660.5883527,9,9,city_0766_oklahoma_duncan,1081.4937591552734,17.130208333333332,39.86308346281676,humid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2016,30584660.5883527,16,50,city_0766_oklahoma_duncan,854.0437321662903,17.981770833333332,30.521432587422566,humid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2017,30584660.5883527,12,18,city_0766_oklahoma_duncan,805.9624967575073,17.78125,29.011023505332098,dry subhumid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2018,30584660.5883527,19,19,city_0766_oklahoma_duncan,903.1124978065492,16.903645833333332,33.56840568751475,humid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2019,30584660.5883527,15,18,city_0766_oklahoma_duncan,1019.2437572479248,16.713541666666668,38.15457231265384,humid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2020,30584660.5883527,30,63,city_0766_oklahoma_duncan,866.625,17.078125,32.00461627236007,humid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2021,30584660.5883527,46,167,city_0766_oklahoma_duncan,801.1937561035156,17.015625,29.65668038786871,dry subhumid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2022,30584660.5883527,40,114,city_0766_oklahoma_duncan,656.8375129699707,17.278645833333332,24.078816704579356,dry subhumid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2023,30584660.5883527,26,56,city_0766_oklahoma_duncan,831.1749992370605,17.8203125,29.876551503045143,dry subhumid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2024,30584660.5883527,30,48,city_0766_oklahoma_duncan,795.3249979019165,18.453125,27.952114149216175,dry subhumid,12
-766,"Duncan, OK",Duncan,Oklahoma,Stephens,2025,30584660.5883527,31,59,city_0766_oklahoma_duncan,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+766,2015,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,9,9,city_0766_oklahoma_duncan,1081.49375915527,17.1302083333333,39.8630834628168,humid,12
+766,2016,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,16,50,city_0766_oklahoma_duncan,854.04373216629,17.9817708333333,30.5214325874226,humid,12
+766,2017,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,12,18,city_0766_oklahoma_duncan,805.962496757507,17.78125,29.0110235053321,dry subhumid,12
+766,2018,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,19,19,city_0766_oklahoma_duncan,903.112497806549,16.9036458333333,33.5684056875148,humid,12
+766,2019,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,15,18,city_0766_oklahoma_duncan,1019.24375724792,16.7135416666667,38.1545723126538,humid,12
+766,2020,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,30,63,city_0766_oklahoma_duncan,866.625,17.078125,32.0046162723601,humid,12
+766,2021,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,46,167,city_0766_oklahoma_duncan,801.193756103516,17.015625,29.6566803878687,dry subhumid,12
+766,2022,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,40,114,city_0766_oklahoma_duncan,656.837512969971,17.2786458333333,24.0788167045794,dry subhumid,12
+766,2023,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,26,56,city_0766_oklahoma_duncan,831.174999237061,17.8203125,29.8765515030451,dry subhumid,12
+766,2024,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,30,48,city_0766_oklahoma_duncan,795.324997901917,18.453125,27.9521141492162,dry subhumid,12
+766,2025,"Duncan, OK",Duncan,Oklahoma,Stephens,99.9999999999979,31,59,city_0766_oklahoma_duncan,,,,,

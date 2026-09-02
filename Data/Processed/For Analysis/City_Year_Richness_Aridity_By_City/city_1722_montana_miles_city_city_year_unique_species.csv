@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1722,"Miles City, MT",Miles City,Montana,Custer,2015,18290643.7632001,8,8,city_1722_montana_miles_city,343.6375050544739,8.893229166666668,18.18839447841736,semiarid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2016,18290643.7632001,50,108,city_1722_montana_miles_city,343.53124713897705,9.216145833333332,17.87721898649779,semiarid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2017,18290643.7632001,51,96,city_1722_montana_miles_city,317.8499975204468,8.1328125,17.528995985617055,semiarid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2018,18290643.7632001,67,211,city_1722_montana_miles_city,384.46875,6.838541666666667,22.83266316115063,dry subhumid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2019,18290643.7632001,47,89,city_1722_montana_miles_city,411.7187514305115,6.330729166666667,25.211290152976623,dry subhumid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2020,18290643.7632001,46,93,city_1722_montana_miles_city,283.3687505722046,8.5,15.317229760659709,semiarid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2021,18290643.7632001,76,232,city_1722_montana_miles_city,263.67500257492065,9.03125,13.854844141867751,semiarid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2022,18290643.7632001,67,238,city_1722_montana_miles_city,340.8624987602234,7.708333333333334,19.248705812342024,semiarid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2023,18290643.7632001,45,138,city_1722_montana_miles_city,434.7000026702881,8.447916666666668,23.56363650838377,dry subhumid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2024,18290643.7632001,87,473,city_1722_montana_miles_city,287.1374912261963,9.223958333333332,14.936439532763394,semiarid,12
-1722,"Miles City, MT",Miles City,Montana,Custer,2025,18290643.7632001,91,870,city_1722_montana_miles_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1722,2015,"Miles City, MT",Miles City,Montana,Custer,100,8,8,city_1722_montana_miles_city,343.637505054474,8.89322916666667,18.1883944784174,semiarid,12
+1722,2016,"Miles City, MT",Miles City,Montana,Custer,100,50,108,city_1722_montana_miles_city,343.531247138977,9.21614583333333,17.8772189864978,semiarid,12
+1722,2017,"Miles City, MT",Miles City,Montana,Custer,100,51,96,city_1722_montana_miles_city,317.849997520447,8.1328125,17.5289959856171,semiarid,12
+1722,2018,"Miles City, MT",Miles City,Montana,Custer,100,67,211,city_1722_montana_miles_city,384.46875,6.83854166666667,22.8326631611506,dry subhumid,12
+1722,2019,"Miles City, MT",Miles City,Montana,Custer,100,47,89,city_1722_montana_miles_city,411.718751430511,6.33072916666667,25.2112901529766,dry subhumid,12
+1722,2020,"Miles City, MT",Miles City,Montana,Custer,100,46,93,city_1722_montana_miles_city,283.368750572205,8.5,15.3172297606597,semiarid,12
+1722,2021,"Miles City, MT",Miles City,Montana,Custer,100,76,232,city_1722_montana_miles_city,263.675002574921,9.03125,13.8548441418678,semiarid,12
+1722,2022,"Miles City, MT",Miles City,Montana,Custer,100,67,238,city_1722_montana_miles_city,340.862498760223,7.70833333333333,19.248705812342,semiarid,12
+1722,2023,"Miles City, MT",Miles City,Montana,Custer,100,45,138,city_1722_montana_miles_city,434.700002670288,8.44791666666667,23.5636365083838,dry subhumid,12
+1722,2024,"Miles City, MT",Miles City,Montana,Custer,100,87,473,city_1722_montana_miles_city,287.137491226196,9.22395833333333,14.9364395327634,semiarid,12
+1722,2025,"Miles City, MT",Miles City,Montana,Custer,100,91,870,city_1722_montana_miles_city,,,,,

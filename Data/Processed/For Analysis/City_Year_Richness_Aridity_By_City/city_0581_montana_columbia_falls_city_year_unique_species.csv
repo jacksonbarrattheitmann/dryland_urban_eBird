@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2015,11702397.1669007,8,8,city_0581_montana_columbia_falls,512.3249969482422,6.9140625,30.28988434613164,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2016,11702397.1669007,4,4,city_0581_montana_columbia_falls,561.712495803833,6.71875,33.597756758360106,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2017,11702397.1669007,14,14,city_0581_montana_columbia_falls,624.6125068664551,5.53125,40.21649943606954,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2018,11702397.1669007,23,33,city_0581_montana_columbia_falls,561.1624894142151,5.395833333333334,36.44898442744563,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2019,11702397.1669007,27,49,city_0581_montana_columbia_falls,580.9937496185303,4.604166666666666,39.78273891824458,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2020,11702397.1669007,16,19,city_0581_montana_columbia_falls,550.0437531471252,6.0234375,34.32745022078598,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2021,11702397.1669007,10,11,city_0581_montana_columbia_falls,471.6125049591065,6.434895833333334,28.69580128415415,dry subhumid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2022,11702397.1669007,11,13,city_0581_montana_columbia_falls,559.9499979019165,5.346354166666666,36.48749349980247,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2023,11702397.1669007,40,68,city_0581_montana_columbia_falls,512.2375030517578,6.432291666666666,31.172615082706027,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2024,11702397.1669007,27,71,city_0581_montana_columbia_falls,544.9937582015991,6.684895833333334,32.6638993521795,humid,12
-581,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,2025,11702397.1669007,41,113,city_0581_montana_columbia_falls,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+581,2015,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,8,8,city_0581_montana_columbia_falls,512.324996948242,6.9140625,30.2898843461316,humid,12
+581,2016,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,4,4,city_0581_montana_columbia_falls,561.712495803833,6.71875,33.5977567583601,humid,12
+581,2017,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,14,14,city_0581_montana_columbia_falls,624.612506866455,5.53125,40.2164994360695,humid,12
+581,2018,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,23,33,city_0581_montana_columbia_falls,561.162489414215,5.39583333333333,36.4489844274456,humid,12
+581,2019,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,27,49,city_0581_montana_columbia_falls,580.99374961853,4.60416666666667,39.7827389182446,humid,12
+581,2020,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,16,19,city_0581_montana_columbia_falls,550.043753147125,6.0234375,34.327450220786,humid,12
+581,2021,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,10,11,city_0581_montana_columbia_falls,471.612504959107,6.43489583333333,28.6958012841542,dry subhumid,12
+581,2022,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,11,13,city_0581_montana_columbia_falls,559.949997901917,5.34635416666667,36.4874934998025,humid,12
+581,2023,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,40,68,city_0581_montana_columbia_falls,512.237503051758,6.43229166666667,31.172615082706,humid,12
+581,2024,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,27,71,city_0581_montana_columbia_falls,544.993758201599,6.68489583333333,32.6638993521795,humid,12
+581,2025,"Columbia Falls, MT",Columbia Falls,Montana,Flathead,99.9999999999843,41,113,city_0581_montana_columbia_falls,,,,,

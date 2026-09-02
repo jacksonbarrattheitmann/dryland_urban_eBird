@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2015,12036776.3268593,95,1275,city_2358_arizona_sedona,681.924991607666,13.8125,28.637269988773376,dry subhumid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2016,12036776.3268593,86,968,city_2358_arizona_sedona,528.9562492370605,13.625,22.389682507388805,dry subhumid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2017,12036776.3268593,107,1438,city_2358_arizona_sedona,364.13124656677246,14.015625,15.16226400798532,semiarid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2018,12036776.3268593,113,1667,city_2358_arizona_sedona,434.66249561309814,13.684895833333334,18.35188546623746,semiarid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2019,12036776.3268593,107,1608,city_2358_arizona_sedona,632.3875019550323,12.739583333333332,27.80998634341874,dry subhumid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2020,12036776.3268593,97,1281,city_2358_arizona_sedona,404.1187480688095,13.833333333333332,16.9560313875025,semiarid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2021,12036776.3268593,119,3130,city_2358_arizona_sedona,450.13124692440033,13.619791666666668,19.057375834506033,semiarid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2022,12036776.3268593,117,3793,city_2358_arizona_sedona,414.7249933481216,13.231770833333332,17.85163069674686,semiarid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2023,12036776.3268593,134,6117,city_2358_arizona_sedona,409.6375000476837,12.90625,17.883219647375004,semiarid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2024,12036776.3268593,126,4444,city_2358_arizona_sedona,459.5000015497208,14.067708333333332,19.091971499144424,semiarid,12
-2358,"Sedona, AZ",Sedona,Arizona,Coconino,2025,12036776.3268593,137,8771,city_2358_arizona_sedona,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2358,2015,"Sedona, AZ",Sedona,Arizona,Coconino,100,95,1275,city_2358_arizona_sedona,681.924991607666,13.8125,28.6372699887734,dry subhumid,12
+2358,2016,"Sedona, AZ",Sedona,Arizona,Coconino,100,86,968,city_2358_arizona_sedona,528.956249237061,13.625,22.3896825073888,dry subhumid,12
+2358,2017,"Sedona, AZ",Sedona,Arizona,Coconino,100,107,1438,city_2358_arizona_sedona,364.131246566772,14.015625,15.1622640079853,semiarid,12
+2358,2018,"Sedona, AZ",Sedona,Arizona,Coconino,100,113,1667,city_2358_arizona_sedona,434.662495613098,13.6848958333333,18.3518854662375,semiarid,12
+2358,2019,"Sedona, AZ",Sedona,Arizona,Coconino,100,107,1608,city_2358_arizona_sedona,632.387501955032,12.7395833333333,27.8099863434187,dry subhumid,12
+2358,2020,"Sedona, AZ",Sedona,Arizona,Coconino,100,97,1280,city_2358_arizona_sedona,404.11874806881,13.8333333333333,16.9560313875025,semiarid,12
+2358,2021,"Sedona, AZ",Sedona,Arizona,Coconino,100,119,3130,city_2358_arizona_sedona,450.1312469244,13.6197916666667,19.057375834506,semiarid,12
+2358,2022,"Sedona, AZ",Sedona,Arizona,Coconino,100,117,3793,city_2358_arizona_sedona,414.724993348122,13.2317708333333,17.8516306967469,semiarid,12
+2358,2023,"Sedona, AZ",Sedona,Arizona,Coconino,100,134,6117,city_2358_arizona_sedona,409.637500047684,12.90625,17.883219647375,semiarid,12
+2358,2024,"Sedona, AZ",Sedona,Arizona,Coconino,100,126,4444,city_2358_arizona_sedona,459.500001549721,14.0677083333333,19.0919714991444,semiarid,12
+2358,2025,"Sedona, AZ",Sedona,Arizona,Coconino,100,137,8771,city_2358_arizona_sedona,,,,,

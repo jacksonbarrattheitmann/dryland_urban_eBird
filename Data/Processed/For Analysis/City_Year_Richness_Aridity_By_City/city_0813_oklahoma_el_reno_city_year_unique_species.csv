@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-813,"El Reno, OK",El Reno,Oklahoma,Canadian,2017,18621273.061717,16,25,city_0813_oklahoma_el_reno,833.2749919891357,16.739583333333332,31.1626019598586,humid,12
-813,"El Reno, OK",El Reno,Oklahoma,Canadian,2019,18621273.061717,17,18,city_0813_oklahoma_el_reno,1042.5375137329102,15.6875,40.58540199446852,humid,12
-813,"El Reno, OK",El Reno,Oklahoma,Canadian,2020,18621273.061717,11,16,city_0813_oklahoma_el_reno,803.6624984741211,16.221354166666668,30.649160732353018,humid,12
-813,"El Reno, OK",El Reno,Oklahoma,Canadian,2021,18621273.061717,25,31,city_0813_oklahoma_el_reno,771.6875033378601,16.302083333333332,29.33940606749884,dry subhumid,12
-813,"El Reno, OK",El Reno,Oklahoma,Canadian,2022,18621273.061717,21,29,city_0813_oklahoma_el_reno,681.6937408447266,16.333333333333332,25.887104082711136,dry subhumid,12
-813,"El Reno, OK",El Reno,Oklahoma,Canadian,2023,18621273.061717,29,63,city_0813_oklahoma_el_reno,810.0125064849854,16.888020833333332,30.12540459953844,humid,12
-813,"El Reno, OK",El Reno,Oklahoma,Canadian,2024,18621273.061717,16,19,city_0813_oklahoma_el_reno,717.8562602996826,17.369791666666668,26.228049853004578,dry subhumid,12
-813,"El Reno, OK",El Reno,Oklahoma,Canadian,2025,18621273.061717,7,9,city_0813_oklahoma_el_reno,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+813,2017,"El Reno, OK",El Reno,Oklahoma,Canadian,100,16,25,city_0813_oklahoma_el_reno,833.274991989136,16.7395833333333,31.1626019598586,humid,12
+813,2019,"El Reno, OK",El Reno,Oklahoma,Canadian,100,17,18,city_0813_oklahoma_el_reno,1042.53751373291,15.6875,40.5854019944685,humid,12
+813,2020,"El Reno, OK",El Reno,Oklahoma,Canadian,100,11,16,city_0813_oklahoma_el_reno,803.662498474121,16.2213541666667,30.649160732353,humid,12
+813,2021,"El Reno, OK",El Reno,Oklahoma,Canadian,100,25,31,city_0813_oklahoma_el_reno,771.68750333786,16.3020833333333,29.3394060674988,dry subhumid,12
+813,2022,"El Reno, OK",El Reno,Oklahoma,Canadian,100,21,29,city_0813_oklahoma_el_reno,681.693740844727,16.3333333333333,25.8871040827111,dry subhumid,12
+813,2023,"El Reno, OK",El Reno,Oklahoma,Canadian,100,29,63,city_0813_oklahoma_el_reno,810.012506484985,16.8880208333333,30.1254045995384,humid,12
+813,2024,"El Reno, OK",El Reno,Oklahoma,Canadian,100,16,19,city_0813_oklahoma_el_reno,717.856260299683,17.3697916666667,26.2280498530046,dry subhumid,12
+813,2025,"El Reno, OK",El Reno,Oklahoma,Canadian,100,7,9,city_0813_oklahoma_el_reno,,,,,

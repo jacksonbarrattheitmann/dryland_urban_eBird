@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2015,12608775.0469635,15,15,city_2847_texas_woodcreek,1244.6437587738037,19.825520833333332,41.73083064429762,humid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2016,12608775.0469635,17,22,city_2847_texas_woodcreek,1204.8000087738037,20.552083333333332,39.434299639374416,humid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2017,12608775.0469635,46,438,city_2847_texas_woodcreek,741.7875022888184,20.606770833333332,24.23605895336563,dry subhumid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2018,12608775.0469635,62,138,city_2847_texas_woodcreek,869.0187511444092,19.9609375,29.005058708340123,dry subhumid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2019,12608775.0469635,91,428,city_2847_texas_woodcreek,758.0062484741211,20.005208333333332,25.26248910033523,dry subhumid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2020,12608775.0469635,77,290,city_2847_texas_woodcreek,697.8249893188477,20.53125,22.856089721804633,dry subhumid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2021,12608775.0469635,72,432,city_2847_texas_woodcreek,864.4500064849854,19.911458333333332,28.90029622934306,dry subhumid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2022,12608775.0469635,61,205,city_2847_texas_woodcreek,458.3124914169311,20.270833333333332,15.14039889057997,semiarid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2023,12608775.0469635,57,252,city_2847_texas_woodcreek,692.0375099182129,20.997395833333332,22.325666118507417,dry subhumid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2024,12608775.0469635,70,236,city_2847_texas_woodcreek,702.8062462806702,21.2578125,22.484178836272378,dry subhumid,12
-2847,"Woodcreek, TX",Woodcreek,Texas,Hays,2025,12608775.0469635,57,168,city_2847_texas_woodcreek,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2847,2015,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,15,15,city_2847_texas_woodcreek,1244.6437587738,19.8255208333333,41.7308306442976,humid,12
+2847,2016,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,17,22,city_2847_texas_woodcreek,1204.8000087738,20.5520833333333,39.4342996393744,humid,12
+2847,2017,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,46,438,city_2847_texas_woodcreek,741.787502288818,20.6067708333333,24.2360589533656,dry subhumid,12
+2847,2018,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,62,138,city_2847_texas_woodcreek,869.018751144409,19.9609375,29.0050587083401,dry subhumid,12
+2847,2019,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,91,428,city_2847_texas_woodcreek,758.006248474121,20.0052083333333,25.2624891003352,dry subhumid,12
+2847,2020,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,77,290,city_2847_texas_woodcreek,697.824989318848,20.53125,22.8560897218046,dry subhumid,12
+2847,2021,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,72,432,city_2847_texas_woodcreek,864.450006484985,19.9114583333333,28.9002962293431,dry subhumid,12
+2847,2022,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,61,205,city_2847_texas_woodcreek,458.312491416931,20.2708333333333,15.14039889058,semiarid,12
+2847,2023,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,57,288,city_2847_texas_woodcreek,692.037509918213,20.9973958333333,22.3256661185074,dry subhumid,12
+2847,2024,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,70,236,city_2847_texas_woodcreek,702.80624628067,21.2578125,22.4841788362724,dry subhumid,12
+2847,2025,"Woodcreek, TX",Woodcreek,Texas,Hays,99.9999999999982,57,168,city_2847_texas_woodcreek,,,,,

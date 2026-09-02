@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1786,"Morgan, UT",Morgan,Utah,Morgan,2015,6197292.9620347,45,186,city_1786_utah_morgan,526.6312561035156,8.807291666666668,28.00144036883827,dry subhumid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2017,6197292.9620347,16,20,city_1786_utah_morgan,497.3312454223633,8.044270833333334,27.56172582511004,dry subhumid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2018,6197292.9620347,12,12,city_1786_utah_morgan,429.42500054836273,8.080729166666668,23.750424918705356,dry subhumid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2019,6197292.9620347,36,60,city_1786_utah_morgan,605.2187452316284,6.893229166666666,35.82611348372828,humid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2020,6197292.9620347,5,7,city_1786_utah_morgan,309.412495136261,8.252604166666668,16.951690416938824,semiarid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2021,6197292.9620347,52,153,city_1786_utah_morgan,491.5437450408935,8.705729166666668,26.27771099759197,dry subhumid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2022,6197292.9620347,43,66,city_1786_utah_morgan,474.774995803833,7.671875,26.866135925239004,dry subhumid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2023,6197292.9620347,40,80,city_1786_utah_morgan,575.3624982833862,7.458333333333334,32.95632448401257,humid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2024,6197292.9620347,57,109,city_1786_utah_morgan,470.04374980926514,8.859375,24.9236122516926,dry subhumid,12
-1786,"Morgan, UT",Morgan,Utah,Morgan,2025,6197292.9620347,59,198,city_1786_utah_morgan,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1786,2015,"Morgan, UT",Morgan,Utah,Morgan,100,45,186,city_1786_utah_morgan,526.631256103516,8.80729166666667,28.0014403688383,dry subhumid,12
+1786,2017,"Morgan, UT",Morgan,Utah,Morgan,100,16,20,city_1786_utah_morgan,497.331245422363,8.04427083333333,27.56172582511,dry subhumid,12
+1786,2018,"Morgan, UT",Morgan,Utah,Morgan,100,12,12,city_1786_utah_morgan,429.425000548363,8.08072916666667,23.7504249187054,dry subhumid,12
+1786,2019,"Morgan, UT",Morgan,Utah,Morgan,100,36,60,city_1786_utah_morgan,605.218745231628,6.89322916666667,35.8261134837283,humid,12
+1786,2020,"Morgan, UT",Morgan,Utah,Morgan,100,5,7,city_1786_utah_morgan,309.412495136261,8.25260416666667,16.9516904169388,semiarid,12
+1786,2021,"Morgan, UT",Morgan,Utah,Morgan,100,52,153,city_1786_utah_morgan,491.543745040894,8.70572916666667,26.277710997592,dry subhumid,12
+1786,2022,"Morgan, UT",Morgan,Utah,Morgan,100,43,66,city_1786_utah_morgan,474.774995803833,7.671875,26.866135925239,dry subhumid,12
+1786,2023,"Morgan, UT",Morgan,Utah,Morgan,100,40,80,city_1786_utah_morgan,575.362498283386,7.45833333333333,32.9563244840126,humid,12
+1786,2024,"Morgan, UT",Morgan,Utah,Morgan,100,57,109,city_1786_utah_morgan,470.043749809265,8.859375,24.9236122516926,dry subhumid,12
+1786,2025,"Morgan, UT",Morgan,Utah,Morgan,100,59,198,city_1786_utah_morgan,,,,,

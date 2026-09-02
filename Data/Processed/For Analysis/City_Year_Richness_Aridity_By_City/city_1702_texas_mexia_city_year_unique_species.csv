@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1702,"Mexia, TX",Mexia,Texas,Limestone,2015,11949521.0794712,6,6,city_1702_texas_mexia,1280.8875160217283,19.591145833333332,43.28617496720442,humid,12
-1702,"Mexia, TX",Mexia,Texas,Limestone,2019,11949521.0794712,5,5,city_1702_texas_mexia,982.79376220703125,19.4765625,33.341532351576994,humid,12
-1702,"Mexia, TX",Mexia,Texas,Limestone,2020,11949521.0794712,11,15,city_1702_texas_mexia,1028.5562477111816,19.9296875,34.365752990611135,humid,12
-1702,"Mexia, TX",Mexia,Texas,Limestone,2021,11949521.0794712,13,19,city_1702_texas_mexia,987.4500045776368,19.5,33.47288151110633,humid,12
-1702,"Mexia, TX",Mexia,Texas,Limestone,2022,11949521.0794712,24,38,city_1702_texas_mexia,808.2187461853027,19.799479166666668,27.1219084623924,dry subhumid,12
-1702,"Mexia, TX",Mexia,Texas,Limestone,2023,11949521.0794712,19,20,city_1702_texas_mexia,948.9312496185304,20.580729166666668,31.03036701469093,humid,12
-1702,"Mexia, TX",Mexia,Texas,Limestone,2024,11949521.0794712,27,48,city_1702_texas_mexia,1081.2812461853027,21.0078125,34.87125208156179,humid,12
-1702,"Mexia, TX",Mexia,Texas,Limestone,2025,11949521.0794712,2,2,city_1702_texas_mexia,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1702,2015,"Mexia, TX",Mexia,Texas,Limestone,100,6,6,city_1702_texas_mexia,1280.88751602173,19.5911458333333,43.2861749672044,humid,12
+1702,2019,"Mexia, TX",Mexia,Texas,Limestone,100,5,5,city_1702_texas_mexia,982.793762207031,19.4765625,33.341532351577,humid,12
+1702,2020,"Mexia, TX",Mexia,Texas,Limestone,100,11,15,city_1702_texas_mexia,1028.55624771118,19.9296875,34.3657529906111,humid,12
+1702,2021,"Mexia, TX",Mexia,Texas,Limestone,100,13,19,city_1702_texas_mexia,987.450004577637,19.5,33.4728815111063,humid,12
+1702,2022,"Mexia, TX",Mexia,Texas,Limestone,100,24,38,city_1702_texas_mexia,808.218746185303,19.7994791666667,27.1219084623924,dry subhumid,12
+1702,2023,"Mexia, TX",Mexia,Texas,Limestone,100,19,20,city_1702_texas_mexia,948.93124961853,20.5807291666667,31.0303670146909,humid,12
+1702,2024,"Mexia, TX",Mexia,Texas,Limestone,100,27,48,city_1702_texas_mexia,1081.2812461853,21.0078125,34.8712520815618,humid,12
+1702,2025,"Mexia, TX",Mexia,Texas,Limestone,100,2,2,city_1702_texas_mexia,,,,,

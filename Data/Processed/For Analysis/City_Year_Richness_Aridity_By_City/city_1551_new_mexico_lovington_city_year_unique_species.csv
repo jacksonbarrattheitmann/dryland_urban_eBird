@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2015,18360996.8244372,42,87,city_1551_new_mexico_lovington,553.6687498092651,16.65625,20.770691669280755,dry subhumid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2016,18360996.8244372,60,137,city_1551_new_mexico_lovington,371.3312487602234,17.197916666666668,13.65292986632763,semiarid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2017,18360996.8244372,53,135,city_1551_new_mexico_lovington,417.9999995231629,17.182291666666668,15.37765853773659,semiarid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2018,18360996.8244372,69,243,city_1551_new_mexico_lovington,381.19375348091125,16.791666666666668,14.228071669583,semiarid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2019,18360996.8244372,50,105,city_1551_new_mexico_lovington,354.7374985218048,16.505208333333332,13.383690256668604,semiarid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2020,18360996.8244372,63,138,city_1551_new_mexico_lovington,184.24374771118164,17.114583333333332,6.7950056781688195,arid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2021,18360996.8244372,62,167,city_1551_new_mexico_lovington,397.74999713897705,16.489583333333332,15.015336109060872,semiarid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2022,18360996.8244372,41,89,city_1551_new_mexico_lovington,322.9437543153763,16.6875,12.100936929850166,semiarid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2023,18360996.8244372,63,118,city_1551_new_mexico_lovington,215.56874632835388,17.518229166666668,7.833670728691955,arid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2024,18360996.8244372,69,288,city_1551_new_mexico_lovington,350.61874997615814,17.890625,12.571204480937883,semiarid,12
-1551,"Lovington, NM",Lovington,New Mexico,Lea,2025,18360996.8244372,67,187,city_1551_new_mexico_lovington,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1551,2015,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,42,87,city_1551_new_mexico_lovington,553.668749809265,16.65625,20.7706916692808,dry subhumid,12
+1551,2016,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,60,137,city_1551_new_mexico_lovington,371.331248760223,17.1979166666667,13.6529298663276,semiarid,12
+1551,2017,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,53,135,city_1551_new_mexico_lovington,417.999999523163,17.1822916666667,15.3776585377366,semiarid,12
+1551,2018,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,69,243,city_1551_new_mexico_lovington,381.193753480911,16.7916666666667,14.228071669583,semiarid,12
+1551,2019,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,50,105,city_1551_new_mexico_lovington,354.737498521805,16.5052083333333,13.3836902566686,semiarid,12
+1551,2020,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,63,138,city_1551_new_mexico_lovington,184.243747711182,17.1145833333333,6.79500567816882,arid,12
+1551,2021,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,62,167,city_1551_new_mexico_lovington,397.749997138977,16.4895833333333,15.0153361090609,semiarid,12
+1551,2022,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,41,89,city_1551_new_mexico_lovington,322.943754315376,16.6875,12.1009369298502,semiarid,12
+1551,2023,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,63,118,city_1551_new_mexico_lovington,215.568746328354,17.5182291666667,7.83367072869196,arid,12
+1551,2024,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,69,288,city_1551_new_mexico_lovington,350.618749976158,17.890625,12.5712044809379,semiarid,12
+1551,2025,"Lovington, NM",Lovington,New Mexico,Lea,99.9999999999972,67,187,city_1551_new_mexico_lovington,,,,,

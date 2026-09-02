@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2015,14342522.7218313,73,141,city_2870_south_dakota_yankton,687.1687507629395,9.9921875,34.37186404754054,humid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2016,14342522.7218313,57,134,city_2870_south_dakota_yankton,601.2812566757202,10.6875,29.06495500547288,dry subhumid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2017,14342522.7218313,60,191,city_2870_south_dakota_yankton,600.525004863739,10.015625,30.002810547446757,humid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2018,14342522.7218313,66,154,city_2870_south_dakota_yankton,673.5750102996826,8.606770833333332,36.200532393992745,humid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2019,14342522.7218313,36,59,city_2870_south_dakota_yankton,762.2874937057495,8.236979166666668,41.79900008325115,humid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2020,14342522.7218313,70,498,city_2870_south_dakota_yankton,463.95624351501465,9.890625,23.325372808296105,dry subhumid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2021,14342522.7218313,43,79,city_2870_south_dakota_yankton,547.0687427520752,10.4765625,26.716825285107067,dry subhumid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2022,14342522.7218313,64,199,city_2870_south_dakota_yankton,398.9437470436096,9.216145833333332,20.76086175155795,dry subhumid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2023,14342522.7218313,53,130,city_2870_south_dakota_yankton,558.0875062942505,10.401041666666668,27.35583385460712,dry subhumid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2024,14342522.7218313,59,146,city_2870_south_dakota_yankton,564.7937445640564,10.84375,27.096551463343037,dry subhumid,12
-2870,"Yankton, SD",Yankton,South Dakota,Yankton,2025,14342522.7218313,56,111,city_2870_south_dakota_yankton,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2870,2015,"Yankton, SD",Yankton,South Dakota,Yankton,100,73,141,city_2870_south_dakota_yankton,687.16875076294,9.9921875,34.3718640475405,humid,12
+2870,2016,"Yankton, SD",Yankton,South Dakota,Yankton,100,57,134,city_2870_south_dakota_yankton,601.28125667572,10.6875,29.0649550054729,dry subhumid,12
+2870,2017,"Yankton, SD",Yankton,South Dakota,Yankton,100,60,191,city_2870_south_dakota_yankton,600.525004863739,10.015625,30.0028105474468,humid,12
+2870,2018,"Yankton, SD",Yankton,South Dakota,Yankton,100,66,154,city_2870_south_dakota_yankton,673.575010299683,8.60677083333333,36.2005323939927,humid,12
+2870,2019,"Yankton, SD",Yankton,South Dakota,Yankton,100,36,59,city_2870_south_dakota_yankton,762.28749370575,8.23697916666667,41.7990000832512,humid,12
+2870,2020,"Yankton, SD",Yankton,South Dakota,Yankton,100,70,498,city_2870_south_dakota_yankton,463.956243515015,9.890625,23.3253728082961,dry subhumid,12
+2870,2021,"Yankton, SD",Yankton,South Dakota,Yankton,100,43,79,city_2870_south_dakota_yankton,547.068742752075,10.4765625,26.7168252851071,dry subhumid,12
+2870,2022,"Yankton, SD",Yankton,South Dakota,Yankton,100,64,199,city_2870_south_dakota_yankton,398.94374704361,9.21614583333333,20.760861751558,dry subhumid,12
+2870,2023,"Yankton, SD",Yankton,South Dakota,Yankton,100,53,130,city_2870_south_dakota_yankton,558.087506294251,10.4010416666667,27.3558338546071,dry subhumid,12
+2870,2024,"Yankton, SD",Yankton,South Dakota,Yankton,100,59,146,city_2870_south_dakota_yankton,564.793744564056,10.84375,27.096551463343,dry subhumid,12
+2870,2025,"Yankton, SD",Yankton,South Dakota,Yankton,100,56,121,city_2870_south_dakota_yankton,,,,,

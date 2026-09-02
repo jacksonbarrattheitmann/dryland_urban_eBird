@@ -1,36 +1,36 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S45060349,L7311299,"(32.85, -97.476)",2018-04-29,2018,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,6,,1,32.6818859,-97.6015835,8,8,city_0036_texas_aledo
-S43038828,L7311299,"(32.85, -97.476)",2018-02-18,2018,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,90,,1,32.6818859,-97.6015835,8,8,city_0036_texas_aledo
-S45061999,L7311299,"(32.85, -97.476)",2018-04-29,2018,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,26,,1,32.6818859,-97.6015835,7,7,city_0036_texas_aledo
-S42893759,L7311299,"(32.85, -97.476)",2018-02-17,2018,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,31,,1,32.6818859,-97.6015835,9,9,city_0036_texas_aledo
-S99399219,L16245320,The Location,2021-12-25,2021,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,60,,1,32.671901,-97.644926,9,9,city_0036_texas_aledo
-S112417607,L19523251,Weatherford BBS stops 16-20,2022-06-05,2022,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,24,4.023,1,32.6812297,-97.6022782,26,26,city_0036_texas_aledo
-S119728399,L21069463,"Parker-Aledo Middle School, Aledo, Texas, US (32.693, -97.605)",2022-09-30,2022,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,7,0.119,1,32.6930582,-97.6052143,5,5,city_0036_texas_aledo
-S139521245,L19523251,Weatherford BBS stops 16-20,2023-05-20,2023,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,25,3.219,1,32.6812297,-97.6022782,23,23,city_0036_texas_aledo
-S137494791,L24302590,"157 Links Ln, Aledo US-TX 32.69718, -97.63953",2023-05-13,2023,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,221,8.086,1,32.697178,-97.639531,25,25,city_0036_texas_aledo
-S137583207,L24302590,"157 Links Ln, Aledo US-TX 32.69718, -97.63953",2023-05-13,2023,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,220,8.086,1,32.697178,-97.639531,25,25,city_0036_texas_aledo
-S143555735,L25583868,"176 Lakeview Dr, Aledo US-TX 32.67632, -97.64653",2023-07-04,2023,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,23,1.532,1,32.676321,-97.646528,4,4,city_0036_texas_aledo
-S193263828,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-30,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,185,,1,32.7008462,-97.6065461,22,22,city_0036_texas_aledo
-S193573137,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-01,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,7,,1,32.7008462,-97.6065461,30,30,city_0036_texas_aledo
-S192358287,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-22,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,5,,1,32.7008462,-97.6065461,21,21,city_0036_texas_aledo
-S193066079,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-28,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,220,,1,32.7008462,-97.6065461,27,27,city_0036_texas_aledo
-S191593323,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-15,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,160,,1,32.7008462,-97.6065461,27,27,city_0036_texas_aledo
-S192250485,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-21,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,210,,1,32.7008462,-97.6065461,19,19,city_0036_texas_aledo
-S192852875,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-26,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,5,,1,32.7008462,-97.6065461,23,23,city_0036_texas_aledo
-S194046588,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-05,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,5,,1,32.7008462,-97.6065461,26,26,city_0036_texas_aledo
-S195813054,L36718439,"Split Rail Annetta US-TX 32.69683, -97.64123",2024-09-20,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,197,10.548,1,32.696827,-97.641231,24,24,city_0036_texas_aledo
-S206893742,L37501512,Home,2024-12-28,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,13,,1,32.6802,-97.6588,4,4,city_0036_texas_aledo
-S193645877,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-01,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,30,,1,32.7008462,-97.6065461,1,1,city_0036_texas_aledo
-S191422584,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-14,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,145,,1,32.7008462,-97.6065461,26,26,city_0036_texas_aledo
-S192505796,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-23,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,5,,1,32.7008462,-97.6065461,19,19,city_0036_texas_aledo
-S206552013,L38851040,"101–103 Harvestwood Ln, Annetta US-TX 32.68164, -97.66049",2024-12-25,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,89,4.243,1,32.681639,-97.66049,18,18,city_0036_texas_aledo
-S194158014,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-06,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,85,,1,32.7008462,-97.6065461,16,16,city_0036_texas_aledo
-S193784562,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-02,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,25,,1,32.7008462,-97.6065461,8,8,city_0036_texas_aledo
-S183932406,L19523251,Weatherford BBS stops 16-20,2024-06-09,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,25,3.219,1,32.6812297,-97.6022782,24,24,city_0036_texas_aledo
-S191182938,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-12,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,125,,1,32.7008462,-97.6065461,24,24,city_0036_texas_aledo
-S192042496,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-19,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,126,,1,32.7008462,-97.6065461,19,19,city_0036_texas_aledo
-S191187836,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-12,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,20,,1,32.7008462,-97.6065461,11,11,city_0036_texas_aledo
-S202500908,L37501512,Home,2024-11-14,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,5,,1,32.6802,-97.6588,2,2,city_0036_texas_aledo
-S194174004,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-06,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,25,,1,32.7008462,-97.6065461,10,10,city_0036_texas_aledo
-S201712265,L37882388,"142 Deer Creek Dr, Annetta US-TX (32.6837,-97.6505)",2024-11-07,2024,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,5,,1,32.68369,-97.650484,1,1,city_0036_texas_aledo
-S234036133,L24987314,Meeker Lake,2025-05-06,2025,36,"Aledo, TX",Aledo,Texas,Parker,12254791.2671827,60,,1,32.679191,-97.6522733,4,4,city_0036_texas_aledo
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S42893759,L7311299,"(32.85, -97.476)",2018-02-17,2018,36,"Aledo, TX",Aledo,Texas,Parker,100,31,,1,Stationary,32.6818859,-97.6015835,9,9,city_0036_texas_aledo
+S43038828,L7311299,"(32.85, -97.476)",2018-02-18,2018,36,"Aledo, TX",Aledo,Texas,Parker,100,90,,1,Stationary,32.6818859,-97.6015835,8,8,city_0036_texas_aledo
+S45060349,L7311299,"(32.85, -97.476)",2018-04-29,2018,36,"Aledo, TX",Aledo,Texas,Parker,100,6,,1,Stationary,32.6818859,-97.6015835,8,8,city_0036_texas_aledo
+S45061999,L7311299,"(32.85, -97.476)",2018-04-29,2018,36,"Aledo, TX",Aledo,Texas,Parker,100,26,,1,Stationary,32.6818859,-97.6015835,7,7,city_0036_texas_aledo
+S99399219,L16245320,The Location,2021-12-25,2021,36,"Aledo, TX",Aledo,Texas,Parker,100,60,,1,Stationary,32.671901,-97.644926,9,9,city_0036_texas_aledo
+S112417607,L19523251,Weatherford BBS stops 16-20,2022-06-05,2022,36,"Aledo, TX",Aledo,Texas,Parker,100,24,4.023,1,Traveling,32.6812297,-97.6022782,26,26,city_0036_texas_aledo
+S119728399,L21069463,"Parker-Aledo Middle School, Aledo, Texas, US (32.693, -97.605)",2022-09-30,2022,36,"Aledo, TX",Aledo,Texas,Parker,100,7,0.119,1,Traveling,32.6930582,-97.6052143,5,5,city_0036_texas_aledo
+S137583207,L24302590,"157 Links Ln, Aledo US-TX 32.69718, -97.63953",2023-05-13,2023,36,"Aledo, TX",Aledo,Texas,Parker,100,220,8.086,1,Traveling,32.697178,-97.639531,25,25,city_0036_texas_aledo
+S137494791,L24302590,"157 Links Ln, Aledo US-TX 32.69718, -97.63953",2023-05-13,2023,36,"Aledo, TX",Aledo,Texas,Parker,100,221,8.086,1,Traveling,32.697178,-97.639531,25,25,city_0036_texas_aledo
+S139521245,L19523251,Weatherford BBS stops 16-20,2023-05-20,2023,36,"Aledo, TX",Aledo,Texas,Parker,100,25,3.219,1,Traveling,32.6812297,-97.6022782,23,23,city_0036_texas_aledo
+S143555735,L25583868,"176 Lakeview Dr, Aledo US-TX 32.67632, -97.64653",2023-07-04,2023,36,"Aledo, TX",Aledo,Texas,Parker,100,23,1.532,1,Traveling,32.676321,-97.646528,4,4,city_0036_texas_aledo
+S183932406,L19523251,Weatherford BBS stops 16-20,2024-06-09,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,25,3.219,1,Traveling,32.6812297,-97.6022782,24,24,city_0036_texas_aledo
+S191182938,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-12,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,125,,1,Stationary,32.7008462,-97.6065461,24,24,city_0036_texas_aledo
+S191187836,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-12,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,20,,1,Stationary,32.7008462,-97.6065461,11,11,city_0036_texas_aledo
+S191422584,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-14,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,145,,1,Stationary,32.7008462,-97.6065461,26,26,city_0036_texas_aledo
+S191593323,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-15,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,160,,1,Stationary,32.7008462,-97.6065461,27,27,city_0036_texas_aledo
+S192042496,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-19,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,126,,1,Stationary,32.7008462,-97.6065461,19,19,city_0036_texas_aledo
+S192250485,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-21,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,210,,1,Stationary,32.7008462,-97.6065461,19,19,city_0036_texas_aledo
+S192358287,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-22,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,5,,1,Stationary,32.7008462,-97.6065461,21,21,city_0036_texas_aledo
+S192505796,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-23,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,5,,1,Stationary,32.7008462,-97.6065461,19,19,city_0036_texas_aledo
+S192852875,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-26,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,5,,1,Stationary,32.7008462,-97.6065461,23,23,city_0036_texas_aledo
+S193066079,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-28,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,220,,1,Stationary,32.7008462,-97.6065461,27,27,city_0036_texas_aledo
+S193263828,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-08-30,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,185,,1,Stationary,32.7008462,-97.6065461,22,22,city_0036_texas_aledo
+S193645877,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-01,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,30,,1,Stationary,32.7008462,-97.6065461,1,1,city_0036_texas_aledo
+S193573137,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-01,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,7,,1,Stationary,32.7008462,-97.6065461,30,30,city_0036_texas_aledo
+S193784562,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-02,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,25,,1,Stationary,32.7008462,-97.6065461,8,8,city_0036_texas_aledo
+S194046588,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-05,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,5,,1,Stationary,32.7008462,-97.6065461,26,26,city_0036_texas_aledo
+S194174004,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-06,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,25,,1,Stationary,32.7008462,-97.6065461,10,10,city_0036_texas_aledo
+S194158014,L35537975,"212 Robert Street, Aledo, Texas, US (32.701, -97.607)",2024-09-06,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,85,,1,Stationary,32.7008462,-97.6065461,16,16,city_0036_texas_aledo
+S195813054,L36718439,"Split Rail Annetta US-TX 32.69683, -97.64123",2024-09-20,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,197,10.548,1,Traveling,32.696827,-97.641231,24,24,city_0036_texas_aledo
+S201712265,L37882388,"142 Deer Creek Dr, Annetta US-TX (32.6837,-97.6505)",2024-11-07,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,5,,1,Stationary,32.68369,-97.650484,1,1,city_0036_texas_aledo
+S202500908,L37501512,Home,2024-11-14,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,5,,1,Stationary,32.6802,-97.6588,2,2,city_0036_texas_aledo
+S206552013,L38851040,"101–103 Harvestwood Ln, Annetta US-TX 32.68164, -97.66049",2024-12-25,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,89,4.243,1,Traveling,32.681639,-97.66049,18,18,city_0036_texas_aledo
+S206893742,L37501512,Home,2024-12-28,2024,36,"Aledo, TX",Aledo,Texas,Parker,100,13,,1,Stationary,32.6802,-97.6588,4,4,city_0036_texas_aledo
+S234036133,L24987314,Meeker Lake,2025-05-06,2025,36,"Aledo, TX",Aledo,Texas,Parker,100,60,,1,Stationary,32.679191,-97.6522733,4,4,city_0036_texas_aledo

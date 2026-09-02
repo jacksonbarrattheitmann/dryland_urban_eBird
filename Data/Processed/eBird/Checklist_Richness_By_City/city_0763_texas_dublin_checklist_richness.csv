@@ -1,12 +1,12 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S37704556,L2357618,Community Park,2016-10-23,2016,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,30,1.609,1,32.0906731,-98.3503819,15,15,city_0763_texas_dublin
-S35998241,L5703588,Dublin (town),2017-04-15,2017,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,5,2.012,1,32.0851988,-98.3424237,8,8,city_0763_texas_dublin
-S34190370,L2357618,Community Park,2017-02-04,2017,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,45,1.609,1,32.0906731,-98.3503819,19,19,city_0763_texas_dublin
-S50402676,L3242028,Dublin City Park,2018-11-30,2018,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,20,1.287,1,32.090715,-98.3509934,10,10,city_0763_texas_dublin
-S42089794,L2357618,Community Park,2018-01-20,2018,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,21,1.996,1,32.0906731,-98.3503819,10,10,city_0763_texas_dublin
-S71574948,L11913176,Erath Co. - Dublin City Park,2020-07-16,2020,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,17,0.966,1,32.0914513,-98.3516533,14,14,city_0763_texas_dublin
-S67728726,L11233306,"931 E Blackjack St, Dublin US-TX 32.08389, -98.32827",2020-04-24,2020,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,10,14.135,1,32.083886,-98.328274,3,3,city_0763_texas_dublin
-S89848145,L15297384,"Community Park, Dublin US-TX 32.09008, -98.35278",2021-06-08,2021,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,21,0.811,1,32.090077,-98.352777,10,10,city_0763_texas_dublin
-S89480361,L3242028,Dublin City Park,2021-06-01,2021,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,12,0.161,1,32.090715,-98.3509934,5,5,city_0763_texas_dublin
-S187914682,L34938957,Dublin Library,2024-07-20,2024,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,9,0.349,1,32.085989,-98.343419,2,2,city_0763_texas_dublin
-S162127745,L29364272,City Park,2024-02-18,2024,763,"Dublin, TX",Dublin,Texas,Erath,5678511.64923385,30,1.609,1,32.091053,-98.350473,6,6,city_0763_texas_dublin
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S37704556,L2357618,Community Park,2016-10-23,2016,763,"Dublin, TX",Dublin,Texas,Erath,100,30,1.609,1,Historical,32.0906731,-98.3503819,15,15,city_0763_texas_dublin
+S34190370,L2357618,Community Park,2017-02-04,2017,763,"Dublin, TX",Dublin,Texas,Erath,100,45,1.609,1,Traveling,32.0906731,-98.3503819,19,19,city_0763_texas_dublin
+S35998241,L5703588,Dublin (town),2017-04-15,2017,763,"Dublin, TX",Dublin,Texas,Erath,100,5,2.012,1,Traveling,32.0851988,-98.3424237,8,8,city_0763_texas_dublin
+S42089794,L2357618,Community Park,2018-01-20,2018,763,"Dublin, TX",Dublin,Texas,Erath,100,21,1.996,1,Traveling,32.0906731,-98.3503819,10,10,city_0763_texas_dublin
+S50402676,L3242028,Dublin City Park,2018-11-30,2018,763,"Dublin, TX",Dublin,Texas,Erath,100,20,1.287,1,Traveling,32.090715,-98.3509934,10,10,city_0763_texas_dublin
+S67728726,L11233306,"931 E Blackjack St, Dublin US-TX 32.08389, -98.32827",2020-04-24,2020,763,"Dublin, TX",Dublin,Texas,Erath,100,10,14.135,1,Traveling,32.083886,-98.328274,3,3,city_0763_texas_dublin
+S71574948,L11913176,Erath Co. - Dublin City Park,2020-07-16,2020,763,"Dublin, TX",Dublin,Texas,Erath,100,17,0.966,1,Traveling,32.0914513,-98.3516533,14,14,city_0763_texas_dublin
+S89480361,L3242028,Dublin City Park,2021-06-01,2021,763,"Dublin, TX",Dublin,Texas,Erath,100,12,0.161,1,Traveling,32.090715,-98.3509934,5,5,city_0763_texas_dublin
+S89848145,L15297384,"Community Park, Dublin US-TX 32.09008, -98.35278",2021-06-08,2021,763,"Dublin, TX",Dublin,Texas,Erath,100,21,0.811,1,Traveling,32.090077,-98.352777,10,10,city_0763_texas_dublin
+S162127745,L29364272,City Park,2024-02-18,2024,763,"Dublin, TX",Dublin,Texas,Erath,100,30,1.609,1,Traveling,32.091053,-98.350473,6,6,city_0763_texas_dublin
+S187914682,L34938957,Dublin Library,2024-07-20,2024,763,"Dublin, TX",Dublin,Texas,Erath,100,9,0.349,1,Traveling,32.085989,-98.343419,2,2,city_0763_texas_dublin

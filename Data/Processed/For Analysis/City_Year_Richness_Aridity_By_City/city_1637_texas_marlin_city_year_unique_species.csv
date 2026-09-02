@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1637,"Marlin, TX",Marlin,Texas,Falls,2015,9971927.50605429,11,17,city_1637_texas_marlin,1214.5750122070312,20.231770833333332,40.17545048561461,humid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2016,9971927.50605429,12,12,city_1637_texas_marlin,1116.0375213623047,20.919270833333332,36.09520830481976,humid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2017,9971927.50605429,10,10,city_1637_texas_marlin,821.9625053405762,21.041666666666668,26.47932903110581,dry subhumid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2018,9971927.50605429,12,16,city_1637_texas_marlin,982.7187576293944,20.098958333333332,32.64959360872881,humid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2019,9971927.50605429,39,47,city_1637_texas_marlin,895.5125026702881,20.036458333333332,29.814184240106695,dry subhumid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2021,9971927.50605429,4,4,city_1637_texas_marlin,932.8687477111816,20.065104166666668,31.02828922659972,humid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2022,9971927.50605429,39,90,city_1637_texas_marlin,667.5499992370605,20.427083333333332,21.93933581881473,dry subhumid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2023,9971927.50605429,30,62,city_1637_texas_marlin,822.5437526702881,21.1875,26.374148382213647,dry subhumid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2024,9971927.50605429,21,21,city_1637_texas_marlin,918.106252670288,21.580729166666668,29.07172433622418,dry subhumid,12
-1637,"Marlin, TX",Marlin,Texas,Falls,2025,9971927.50605429,34,48,city_1637_texas_marlin,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1637,2015,"Marlin, TX",Marlin,Texas,Falls,100,11,17,city_1637_texas_marlin,1214.57501220703,20.2317708333333,40.1754504856146,humid,12
+1637,2016,"Marlin, TX",Marlin,Texas,Falls,100,12,12,city_1637_texas_marlin,1116.0375213623,20.9192708333333,36.0952083048198,humid,12
+1637,2017,"Marlin, TX",Marlin,Texas,Falls,100,10,10,city_1637_texas_marlin,821.962505340576,21.0416666666667,26.4793290311058,dry subhumid,12
+1637,2018,"Marlin, TX",Marlin,Texas,Falls,100,12,16,city_1637_texas_marlin,982.718757629394,20.0989583333333,32.6495936087288,humid,12
+1637,2019,"Marlin, TX",Marlin,Texas,Falls,100,39,47,city_1637_texas_marlin,895.512502670288,20.0364583333333,29.8141842401067,dry subhumid,12
+1637,2021,"Marlin, TX",Marlin,Texas,Falls,100,4,4,city_1637_texas_marlin,932.868747711182,20.0651041666667,31.0282892265997,humid,12
+1637,2022,"Marlin, TX",Marlin,Texas,Falls,100,39,90,city_1637_texas_marlin,667.549999237061,20.4270833333333,21.9393358188147,dry subhumid,12
+1637,2023,"Marlin, TX",Marlin,Texas,Falls,100,30,62,city_1637_texas_marlin,822.543752670288,21.1875,26.3741483822137,dry subhumid,12
+1637,2024,"Marlin, TX",Marlin,Texas,Falls,100,21,21,city_1637_texas_marlin,918.106252670288,21.5807291666667,29.0717243362242,dry subhumid,12
+1637,2025,"Marlin, TX",Marlin,Texas,Falls,100,34,48,city_1637_texas_marlin,,,,,

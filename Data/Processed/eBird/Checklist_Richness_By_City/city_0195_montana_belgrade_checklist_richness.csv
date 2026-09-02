@@ -1,378 +1,380 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25907068,L3471724,Feeders,2015-11-18,2015,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7785984,-111.1742592,7,7,city_0195_montana_belgrade
-S26251047,L4062580,Home,2015-12-12,2015,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.779759,-111.216342,4,4,city_0195_montana_belgrade
-S24355584,L3807879,US-MT-Belgrade-Bozeman Airport,2015-07-23,2015,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,33,,1,45.775306,-111.160085,5,5,city_0195_montana_belgrade
-S27821755,L4310743,US-MT-Belgrade-Gallatin Field Rd - 45.7786x-111.1625,2016-02-24,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,3.219,1,45.77859,-111.162457,2,2,city_0195_montana_belgrade
-S28820316,L4467312,S. Manhattn Rd.,2016-04-08,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,0.402,1,45.7876586,-111.1977339,3,3,city_0195_montana_belgrade
-S32840291,L1343384,Belgrade Gravel Pits,2016-12-03,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7571159,-111.1507257,5,5,city_0195_montana_belgrade
-S48325899,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2016-03-13,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7803808,-111.1549091,3,3,city_0195_montana_belgrade
-S27821926,L4310743,US-MT-Belgrade-Gallatin Field Rd - 45.7786x-111.1625,2016-02-24,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,3.219,1,45.77859,-111.162457,2,2,city_0195_montana_belgrade
-S36047695,L5220280,Belgrade,2017-04-17,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S34979964,L5220280,Belgrade,2017-03-05,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S35559632,L5220280,Belgrade,2017-03-31,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S39551722,L5220280,Belgrade,2017-10-04,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S34015162,L5220280,Belgrade,2017-01-29,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S33810157,L5220280,Belgrade,2017-01-20,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,3,3,city_0195_montana_belgrade
-S35165154,L5220280,Belgrade,2017-03-13,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S40378803,L5220280,Belgrade,2017-11-08,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,120,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S36118271,L5220280,Belgrade,2017-04-20,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S40980883,L5220280,Belgrade,2017-12-08,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S33930899,L5244970,Belgrade - West Main,2017-01-25,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,8.047,1,45.7860656,-111.1957061,2,2,city_0195_montana_belgrade
-S40304696,L5220280,Belgrade,2017-11-04,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,45,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S40963131,L5220280,Belgrade,2017-12-07,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S36458960,L5220280,Belgrade,2017-05-01,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S36741981,L5220280,Belgrade,2017-05-11,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S33705860,L5220280,Belgrade,2017-01-15,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,2,2,city_0195_montana_belgrade
-S41295332,L5220280,Belgrade,2017-12-24,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,76,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S35542226,L5220280,Belgrade,2017-03-30,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S40289686,L5220280,Belgrade,2017-11-03,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S37305775,L5220280,Belgrade,2017-06-01,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S35390969,L5220280,Belgrade,2017-03-24,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S34282118,L5220280,Belgrade,2017-02-10,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.7819505,-111.1837649,3,3,city_0195_montana_belgrade
-S34077945,L5220280,Belgrade,2017-01-31,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S35318561,L5220280,Belgrade,2017-03-20,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S35549034,L5220280,Belgrade,2017-03-30,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S40155032,L5220280,Belgrade,2017-10-27,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S38007445,L6060786,Airport rd,2017-06-28,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,1.609,1,45.7658874,-111.1384249,4,4,city_0195_montana_belgrade
-S33907106,L5220280,Belgrade,2017-01-24,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S40597764,L5220280,Belgrade,2017-11-19,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,35,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S36786356,L5220280,Belgrade,2017-05-13,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S35477283,L5220280,Belgrade,2017-03-27,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S40426236,L5220280,Belgrade,2017-11-10,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,62,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S35919410,L5220280,Belgrade,2017-04-13,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S33860292,L5220280,Belgrade,2017-01-22,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S33535971,L5220280,Belgrade,2017-01-08,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S34088215,L5220280,Belgrade,2017-02-01,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S33507566,L5220280,Belgrade,2017-01-07,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S34363163,L5220280,Belgrade,2017-02-14,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S34772038,L5220280,Belgrade,2017-02-24,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,128,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S35903162,L5220280,Belgrade,2017-04-12,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S40446970,L5220280,Belgrade,2017-11-11,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,104,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S35480876,L5220280,Belgrade,2017-03-27,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S39404121,L6300815,"6798–13660 Frontage Rd, Belgrade US-MT (45.7707,-111.1665)",2017-09-26,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,1.609,1,45.770713,-111.166469,4,4,city_0195_montana_belgrade
-S33773330,L5275954,Frontage Rd-Central Park Belgrade to Four corners,2017-01-18,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,11.265,1,45.7913698,-111.2067246,5,5,city_0195_montana_belgrade
-S34069416,L5220280,Belgrade,2017-01-31,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.7819505,-111.1837649,2,2,city_0195_montana_belgrade
-S41124514,L5220280,Belgrade,2017-12-16,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,60,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S33545115,L5238061,Dry Creek Road,2017-01-08,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,3.219,1,45.7949979,-111.1785936,2,2,city_0195_montana_belgrade
-S44257069,L7171623,Bolinger gravel pit.,2018-04-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7904496,-111.1995792,13,13,city_0195_montana_belgrade
-S50089511,L5220280,Belgrade,2018-11-20,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S50395639,L5220280,Belgrade,2018-12-03,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S45369603,L7358423,Airport,2018-05-05,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.779369,-111.163154,1,1,city_0195_montana_belgrade
-S48868757,L5220280,Belgrade,2018-10-01,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S50573993,L5220280,Belgrade,2018-12-10,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S50628672,L5220280,Belgrade,2018-12-12,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S50258396,L5220280,Belgrade,2018-11-27,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,84,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S41963234,L6727278,"501–507 Penwell Bridge Rd, Belgrade US-MT (45.8021,-111.1699)",2018-01-16,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,119,6.437,1,45.802115,-111.169903,13,13,city_0195_montana_belgrade
-S50306596,L5220280,Belgrade,2018-11-29,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,35,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S48930713,L1343384,Belgrade Gravel Pits,2018-10-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,7,0.161,1,45.7571159,-111.1507257,5,5,city_0195_montana_belgrade
-S46211908,L5220280,Belgrade,2018-06-01,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S45088555,L5220280,Belgrade,2018-04-29,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S48244699,L7886332,"900–902 Spooner Rd, Belgrade US-MT (45.7941,-111.1803)",2018-09-02,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,66,24.938,1,45.794052,-111.180281,17,17,city_0195_montana_belgrade
-S44907747,L7277114,"20959 Frontage Rd, Belgrade US-MT (45.7698,-111.1646)",2018-04-24,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,32,38.469,1,45.769813,-111.16457,9,9,city_0195_montana_belgrade
-S49715942,L5220280,Belgrade,2018-11-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S48678856,L1343384,Belgrade Gravel Pits,2018-09-22,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,9.656,1,45.7571159,-111.1507257,3,3,city_0195_montana_belgrade
-S44207048,L7163340,Weaver Road,2018-04-02,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,18,6.035,1,45.8164776,-111.2341905,8,8,city_0195_montana_belgrade
-S49583051,L5220280,Belgrade,2018-10-31,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,18,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S49802670,L5220280,Belgrade,2018-11-09,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,17,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S50231929,L5220280,Belgrade,2018-11-26,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S46986168,L3767297,Belgrade,2018-07-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,0.805,1,45.776156,-111.177144,9,9,city_0195_montana_belgrade
-S49903732,L5220280,Belgrade,2018-11-12,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S45110975,L7310431,Bollinger Road & Gravel Pit,2018-04-30,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,3.219,1,45.7901504,-111.1998582,12,12,city_0195_montana_belgrade
-S44420282,L7199592,"1680-1710 Remuda Drive, Belgrade, Montana, US (45.781, -111.227)",2018-04-09,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.7814814,-111.2274077,3,3,city_0195_montana_belgrade
-S41694789,L6674184,mile 297,2018-01-06,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,8.047,1,45.7894322,-111.2051582,4,4,city_0195_montana_belgrade
-S50947767,L5220280,Belgrade,2018-12-25,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S43668679,L1343384,Belgrade Gravel Pits,2018-03-13,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,9,,1,45.7571159,-111.1507257,5,5,city_0195_montana_belgrade
-S46801314,L5220280,Belgrade,2018-06-25,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S49871578,L5220280,Belgrade,2018-11-11,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S46325229,L5220280,Belgrade,2018-06-05,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S50163541,L5220280,Belgrade,2018-11-23,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S42487878,L6820314,"Interstate 90, Bozeman, Montana, US (45.762, -111.167)",2018-02-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,15.473,1,45.7619231,-111.1667193,3,3,city_0195_montana_belgrade
-S43109548,L6974875,"16479 Frontage Road, Belgrade, Montana, US (45.809, -111.239)",2018-02-22,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,50,6.437,1,45.8086179,-111.2389754,8,8,city_0195_montana_belgrade
-S43293641,L6974875,"16479 Frontage Road, Belgrade, Montana, US (45.809, -111.239)",2018-02-28,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,45,,1,45.8086179,-111.2389754,5,5,city_0195_montana_belgrade
-S46346647,L7528049,"6450 Jackrabbit Ln, Belgrade US-MT (45.7643,-111.1844)",2018-06-06,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.76433,-111.184402,9,9,city_0195_montana_belgrade
-S47581925,L7574270,"409 N Quaw Blvd, Belgrade US-MT (45.7824,-111.1749)",2018-08-01,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.782394,-111.174941,5,5,city_0195_montana_belgrade
-S51071894,L8324778,Belgrade Gardens subdivision,2018-12-29,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,17,1.77,1,45.797079,-111.208966,4,4,city_0195_montana_belgrade
-S45106644,L5220280,Belgrade,2018-04-30,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S51071848,L2947713,Belgrade Gravel Pits,2018-12-29,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,0.966,1,45.7581221,-111.1514711,5,5,city_0195_montana_belgrade
-S50666787,L1343384,Belgrade Gravel Pits,2018-12-14,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,11,,1,45.7571159,-111.1507257,3,3,city_0195_montana_belgrade
-S41664895,L6674184,mile 297,2018-01-05,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,8.047,1,45.7894322,-111.2051582,2,2,city_0195_montana_belgrade
-S53293388,L5220280,Belgrade,2019-03-02,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,21,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S51340076,L8373449,"529 Lagoon Rd, Belgrade US-MT (45.8021,-111.1621)",2019-01-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,6.36,1,45.802105,-111.162143,8,8,city_0195_montana_belgrade
-S51393806,L5220280,Belgrade,2019-01-06,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S60490486,L5220280,Belgrade,2019-10-09,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,116,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S54785029,L5220280,Belgrade,2019-04-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,48,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S60900378,L5220280,Belgrade,2019-10-24,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,80,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S55432725,L5220280,Belgrade,2019-04-26,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S54769909,L5220280,Belgrade,2019-04-09,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,46,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S56669361,L5220280,Belgrade,2019-05-23,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
-S53895668,L5220280,Belgrade,2019-03-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S52939810,L5220280,Belgrade,2019-02-19,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,115,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S51172734,L5220280,Belgrade,2019-01-01,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,3,3,city_0195_montana_belgrade
-S54585573,L5220280,Belgrade,2019-04-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S54676651,L5220280,Belgrade,2019-04-07,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S60317260,L5220280,Belgrade,2019-10-03,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,84,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S54484773,L5220280,Belgrade,2019-04-02,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,115,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S58858571,L5220280,Belgrade,2019-08-09,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,92,,1,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
-S54907433,L5220280,Belgrade,2019-04-13,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,130,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S58988725,L5220280,Belgrade,2019-08-14,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,77,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S52379547,L5220280,Belgrade,2019-02-04,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,108,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S52886513,L5220280,Belgrade,2019-02-18,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S53573630,L5220280,Belgrade,2019-03-07,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,43,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S61248403,L5220280,Belgrade,2019-11-07,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,33,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S55259362,L5220280,Belgrade,2019-04-22,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S60293224,L5220280,Belgrade,2019-10-02,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,160,,1,45.7819505,-111.1837649,12,12,city_0195_montana_belgrade
-S56497261,L5220280,Belgrade,2019-05-19,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,69,,1,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
-S55242553,L5220280,Belgrade,2019-04-21,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,23,,1,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
-S53747201,L5220280,Belgrade,2019-03-12,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S58766548,L5220280,Belgrade,2019-08-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,81,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S57256731,L9443862,Holiday Inn Express-Belgrade,2019-06-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7734867,-111.1879764,10,10,city_0195_montana_belgrade
-S56845098,L5220280,Belgrade,2019-05-28,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,51,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S51298830,L5220280,Belgrade,2019-01-04,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,24,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S56019103,L5220280,Belgrade,2019-05-08,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,90,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S52605639,L5220280,Belgrade,2019-02-11,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,97,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S51269150,L8360338,Dry Creek Road,2019-01-03,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,1.609,1,45.7859524,-111.1697471,3,3,city_0195_montana_belgrade
-S54815309,L5220280,Belgrade,2019-04-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S55171600,L5220280,Belgrade,2019-04-20,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S53717358,L5220280,Belgrade,2019-03-11,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S54865431,L5220280,Belgrade,2019-04-12,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,75,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S51531195,L2947713,Belgrade Gravel Pits,2019-01-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,2.414,1,45.7581221,-111.1514711,6,6,city_0195_montana_belgrade
-S56379642,L5220280,Belgrade,2019-05-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S60486254,L5220280,Belgrade,2019-10-09,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,105,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S57268841,L9446518,"305 E Main Street, Belgrade, Montana, US (45.775, -111.173)",2019-06-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,11,0.145,1,45.7747924,-111.1731984,4,4,city_0195_montana_belgrade
-S51253277,L5220280,Belgrade,2019-01-03,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S51747728,L7163340,Weaver Road,2019-01-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,4.426,1,45.8164776,-111.2341905,8,8,city_0195_montana_belgrade
-S55717748,L5220280,Belgrade,2019-05-03,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,60,,1,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
-S53603730,L5220280,Belgrade,2019-03-08,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,91,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S57150827,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2019-06-04,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.7803808,-111.1549091,2,2,city_0195_montana_belgrade
-S51939311,L5220280,Belgrade,2019-01-22,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,27,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S56469268,L5220280,Belgrade,2019-05-18,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,13,13,city_0195_montana_belgrade
-S55591834,L5220280,Belgrade,2019-04-30,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S53462201,L5220280,Belgrade,2019-03-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S55677305,L5220280,Belgrade,2019-05-02,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,93,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S56085729,L5220280,Belgrade,2019-05-06,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,75,,1,45.7819505,-111.1837649,12,12,city_0195_montana_belgrade
-S62811833,L5220280,Belgrade,2019-12-31,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,48,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S54021461,L5220280,Belgrade,2019-03-19,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S55757302,L5220280,Belgrade,2019-05-04,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,32,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S51997355,L5220280,Belgrade,2019-01-24,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S61543531,L10091238,neighborhood,2019-11-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7865057,-111.2162131,3,3,city_0195_montana_belgrade
-S55019726,L5220280,Belgrade,2019-04-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,60,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S52703720,L5220280,Belgrade,2019-02-14,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S57774450,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2019-06-28,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7803808,-111.1549091,2,2,city_0195_montana_belgrade
-S51351718,L5220280,Belgrade,2019-01-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S59611772,L5220280,Belgrade,2019-09-08,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,52,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S52443774,L5220280,Belgrade,2019-02-06,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,195,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S58258785,L9658084,"Jackrabbit Ln, Belgrade US-MT (45.7634,-111.1860)",2019-07-17,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.763363,-111.186018,2,2,city_0195_montana_belgrade
-S53222212,L5220280,Belgrade,2019-02-28,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S54145130,L8903827,"100 Gertrude Ave, Belgrade US-MT (45.7686,-111.1789)",2019-03-23,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,9,0.449,1,45.76858,-111.178903,6,6,city_0195_montana_belgrade
-S53857570,L5220280,Belgrade,2019-03-15,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.7819505,-111.1837649,3,3,city_0195_montana_belgrade
-S62345804,L5220280,Belgrade,2019-12-15,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,1.609,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S52826661,L5220280,Belgrade,2019-02-17,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
-S56713736,L8102452,"681 N River Rock Dr, Belgrade, MT",2019-05-25,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.779894,-111.214532,2,2,city_0195_montana_belgrade
-S70436186,L11696088,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77760, -111.16008",2020-06-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,7,0.098,1,45.777605,-111.160078,3,3,city_0195_montana_belgrade
-S75438406,L5220280,Belgrade,2020-10-26,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
-S74189958,L5220280,Belgrade,2020-09-28,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S72407376,L5220280,Belgrade,2020-08-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,45,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S72602182,L5220280,Belgrade,2020-08-18,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S73595511,L5220280,Belgrade,2020-09-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,32,,1,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
-S71984906,L5220280,Belgrade,2020-07-31,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,85,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S73836286,L5220280,Belgrade,2020-09-20,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,,1,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
-S75201182,L5220280,Belgrade,2020-10-21,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S71066422,L7163340,Weaver Road,2020-07-02,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,5.633,1,45.8164776,-111.2341905,11,11,city_0195_montana_belgrade
-S73782325,L5220280,Belgrade,2020-09-19,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S74789363,L5220280,Belgrade,2020-10-13,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S73141090,L5220280,Belgrade,2020-09-03,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S64466305,L5220280,Belgrade,2020-02-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S74031877,L5220280,Belgrade,2020-09-24,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,22,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S73546922,L5220280,Belgrade,2020-09-13,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,17,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S74826558,L12383150,Belgrade - Yard,2020-10-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7820764,-111.1839228,7,7,city_0195_montana_belgrade
-S73875475,L5220280,Belgrade,2020-09-21,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,140,,1,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
-S73743044,L5220280,Belgrade,2020-09-18,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,22,,1,45.7819505,-111.1837649,12,12,city_0195_montana_belgrade
-S73626803,L5220280,Belgrade,2020-09-15,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S73671034,L5220280,Belgrade,2020-09-16,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S78293378,L1343384,Belgrade Gravel Pits,2020-12-30,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,60,3.219,1,45.7571159,-111.1507257,10,10,city_0195_montana_belgrade
-S76766733,L5220280,Belgrade,2020-11-26,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,17,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S72669894,L5220280,Belgrade,2020-08-21,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S75236746,L5220280,Belgrade,2020-10-22,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S74304933,L5220280,Belgrade,2020-10-01,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S71958557,L5220280,Belgrade,2020-07-30,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,45,,1,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
-S74912345,L5220280,Belgrade,2020-10-16,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S75399204,L5220280,Belgrade,2020-10-25,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S72688637,L5220280,Belgrade,2020-08-22,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S72742567,L5220280,Belgrade,2020-08-23,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S72838056,L5220280,Belgrade,2020-08-26,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S72106458,L5220280,Belgrade,2020-08-04,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,,1,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
-S62862849,L5220280,Belgrade,2020-01-01,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,115,,1,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
-S72602469,L5220280,Belgrade,2020-08-19,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S73499324,L5220280,Belgrade,2020-09-12,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,,1,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
-S75761910,L12649527,Belgrade - Lewis & Clark Park,2020-11-02,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,16,0.322,1,45.7750698,-111.1733554,4,4,city_0195_montana_belgrade
-S63109799,L7163340,Weaver Road,2020-01-06,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,4.184,1,45.8164776,-111.2341905,4,4,city_0195_montana_belgrade
-S77608627,L1343384,Belgrade Gravel Pits,2020-12-17,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7571159,-111.1507257,8,8,city_0195_montana_belgrade
-S74540148,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2020-10-07,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.7803808,-111.1549091,1,1,city_0195_montana_belgrade
-S92128168,L10579692,"I-90 W, Belgrade US-MT (45.7546,-111.1461)",2021-07-22,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,6.965,1,45.754647,-111.1461,4,4,city_0195_montana_belgrade
-S84368019,L14210882,"Belgrade, Montana",2021-03-29,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,7,0.37,1,45.7730392,-111.1842285,6,6,city_0195_montana_belgrade
-S96205620,L14857849,Belgrade - Yard,2021-10-15,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,148,,1,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
-S90282300,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2021-06-16,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,0.206,1,45.7803808,-111.1549091,4,4,city_0195_montana_belgrade
-S90289426,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2021-06-02,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.7803808,-111.1549091,6,6,city_0195_montana_belgrade
-S94278870,L14857849,Belgrade - Yard,2021-09-06,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
-S91829325,L15780234,"6445 Jackrabbit Ln, Belgrade US-MT 45.76404, -111.18768",2021-07-16,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,39,0.136,1,45.764043,-111.187679,10,10,city_0195_montana_belgrade
-S91815328,L15780234,"6445 Jackrabbit Ln, Belgrade US-MT 45.76404, -111.18768",2021-07-15,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,101,0.14,1,45.764043,-111.187679,4,4,city_0195_montana_belgrade
-S92669523,L15983058,Belgrade--I-90,2021-08-02,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,23.798,1,45.768986,-111.18742,4,4,city_0195_montana_belgrade
-S78694365,L5220280,Belgrade,2021-01-04,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,3.541,1,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
-S91506917,L5224165,Penwell Bridge Road - West,2021-07-09,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.8011315,-111.1693454,3,3,city_0195_montana_belgrade
-S95343223,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2021-09-25,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,27,,1,45.7803808,-111.1549091,1,1,city_0195_montana_belgrade
-S105020901,L1343384,Belgrade Gravel Pits,2022-03-17,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,16,,1,45.7571159,-111.1507257,9,9,city_0195_montana_belgrade
-S111952409,L14857849,Belgrade - Yard,2022-06-01,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,27,,1,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
-S113878295,L14857849,Belgrade - Yard,2022-06-25,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,58,,1,45.7818295,-111.183601,9,9,city_0195_montana_belgrade
-S111952946,L14857849,Belgrade - Yard,2022-06-02,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,,1,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
-S116363054,L20428483,Backyard,2022-08-05,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.816246,-111.2383041,4,4,city_0195_montana_belgrade
-S112267424,L11170473,"420 Angus Drive, Belgrade, Montana, US (45.786, -111.216)",2022-06-01,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,120,,1,45.7864317,-111.2161529,12,12,city_0195_montana_belgrade
-S109882241,L14857849,Belgrade - Yard,2022-05-13,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,92,,1,45.7818295,-111.183601,14,14,city_0195_montana_belgrade
-S109563139,L14857849,Belgrade - Yard,2022-05-10,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,83,,1,45.7818295,-111.183601,12,12,city_0195_montana_belgrade
-S119965528,L14857849,Belgrade - Yard,2022-09-18,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,152,,1,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
-S111270273,L14857849,Belgrade - Yard,2022-05-25,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,37,,1,45.7818295,-111.183601,12,12,city_0195_montana_belgrade
-S123915086,L14857849,Belgrade - Yard,2022-12-13,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,98,,1,45.7818295,-111.183601,9,9,city_0195_montana_belgrade
-S118982195,L14857849,Belgrade - Yard,2022-09-18,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,152,,1,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
-S123964005,L14857849,Belgrade - Yard,2022-12-14,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,74,,1,45.7818295,-111.183601,9,9,city_0195_montana_belgrade
-S110906074,L14857849,Belgrade - Yard,2022-05-21,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,80,,1,45.7818295,-111.183601,14,14,city_0195_montana_belgrade
-S110663396,L14857849,Belgrade - Yard,2022-05-19,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,,1,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
-S116442822,L6113269,"Bozeman Yellowstone International Airport, Belgrade US-MT (45.7794,-111.1631)",2022-08-06,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,2.414,1,45.779394,-111.163069,4,4,city_0195_montana_belgrade
-S110042414,L14857849,Belgrade - Yard,2022-05-14,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,85,,1,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
-S117524813,L7962146,Wings Way,2022-08-22,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.771434,-111.153195,2,2,city_0195_montana_belgrade
-S106891501,L18480247,Weaver Road - West,2022-04-12,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,3.862,1,45.816323,-111.2519941,9,9,city_0195_montana_belgrade
-S113541672,L19774552,"6269 Jackrabbit Ln, Belgrade US-MT 45.76163, -111.18592",2022-06-22,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.761633,-111.185918,3,3,city_0195_montana_belgrade
-S110478519,L14857849,Belgrade - Yard,2022-05-17,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,78,,1,45.7818295,-111.183601,14,14,city_0195_montana_belgrade
-S114837434,L20084349,"I-90 W, Belgrade US-MT 45.75421, -111.14468",2022-07-10,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,9,20.143,1,45.75421,-111.144679,2,2,city_0195_montana_belgrade
-S108064412,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2022-04-25,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7803808,-111.1549091,4,4,city_0195_montana_belgrade
-S117384864,L20640587,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77945, -111.16226",2022-08-22,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,31,0.234,1,45.779451,-111.162263,1,1,city_0195_montana_belgrade
-S114171737,L19923079,Sloscu house (private),2022-06-30,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,49,,1,45.795152,-111.18869,4,4,city_0195_montana_belgrade
-S113029959,L19662248,"309 W Madison Ave, Belgrade US-MT 45.77355, -111.18789",2022-06-15,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,0.14,1,45.773552,-111.187894,7,7,city_0195_montana_belgrade
-S111368609,L14857849,Belgrade - Yard,2022-05-26,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,88,,1,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
-S105465504,L14857849,Belgrade - Yard,2022-03-24,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.7818295,-111.183601,2,2,city_0195_montana_belgrade
-S116946348,L14447606,Bolinger Road Gravel Pit,2022-08-14,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,13.655,1,45.79038,-111.1993848,4,4,city_0195_montana_belgrade
-S123443638,L21712134,Belgrade Yard,2022-12-04,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.788153,-111.180817,2,2,city_0195_montana_belgrade
-S105440764,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2022-03-23,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,19,,1,45.7803808,-111.1549091,2,2,city_0195_montana_belgrade
-S148901759,L14857849,Belgrade - Yard,2023-09-03,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,,1,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
-S138586506,L21712134,Belgrade Yard,2023-05-20,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,50,,1,45.788153,-111.180817,14,14,city_0195_montana_belgrade
-S152951645,L21712134,Belgrade Yard,2023-10-01,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,14,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S152951270,L21712134,Belgrade Yard,2023-10-17,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S147206030,L21712134,Belgrade Yard,2023-08-13,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,,1,45.788153,-111.180817,10,10,city_0195_montana_belgrade
-S148605938,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2023-08-31,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,55,7.467,1,45.7803808,-111.1549091,4,4,city_0195_montana_belgrade
-S141343042,L21712134,Belgrade Yard,2023-06-10,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,,1,45.788153,-111.180817,14,14,city_0195_montana_belgrade
-S125770607,L21712134,Belgrade Yard,2023-01-07,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,16,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S133243756,L21712134,Belgrade Yard,2023-04-08,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,16,,1,45.788153,-111.180817,10,10,city_0195_montana_belgrade
-S136400401,L21712134,Belgrade Yard,2023-05-04,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,17,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S138585142,L21712134,Belgrade Yard,2023-05-14,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.788153,-111.180817,8,8,city_0195_montana_belgrade
-S130653722,L21712134,Belgrade Yard,2023-02-11,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S133243459,L21712134,Belgrade Yard,2023-04-09,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,7,7,city_0195_montana_belgrade
-S148930428,L26928135,"513 N Kennedy St, Belgrade US-MT (45.7816,-111.1699)",2023-08-23,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,6.437,1,45.781595,-111.169855,4,4,city_0195_montana_belgrade
-S128256033,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2023-02-13,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,4.828,1,45.7803808,-111.1549091,5,5,city_0195_montana_belgrade
-S136400552,L21712134,Belgrade Yard,2023-05-06,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.788153,-111.180817,10,10,city_0195_montana_belgrade
-S136400450,L21712134,Belgrade Yard,2023-05-05,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S137279156,L24261532,Town and Country parking lot,2023-05-12,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.7738871,-111.1841084,9,9,city_0195_montana_belgrade
-S142506047,L25428190,"6999 Jackrabbit Ln, Belgrade US-MT 45.77115, -111.18680",2023-06-22,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,48,56.156,1,45.771153,-111.186801,1,1,city_0195_montana_belgrade
-S138659584,L24531081,"6450 Jackrabbit Lane, Belgrade, Montana, US (45.764, -111.185)",2023-05-21,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7642529,-111.1847172,5,5,city_0195_montana_belgrade
-S142435303,L21712134,Belgrade Yard,2023-06-13,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,10,10,city_0195_montana_belgrade
-S141342692,L21712134,Belgrade Yard,2023-06-06,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,,1,45.788153,-111.180817,10,10,city_0195_montana_belgrade
-S152951350,L21712134,Belgrade Yard,2023-10-07,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,18,,1,45.788153,-111.180817,9,9,city_0195_montana_belgrade
-S139763231,L21712134,Belgrade Yard,2023-05-23,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.788153,-111.180817,9,9,city_0195_montana_belgrade
-S138952198,L21712134,Belgrade Yard,2023-05-22,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,7,7,city_0195_montana_belgrade
-S139763409,L21712134,Belgrade Yard,2023-05-25,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,30,,1,45.788153,-111.180817,14,14,city_0195_montana_belgrade
-S133673619,L21712134,Belgrade Yard,2023-03-18,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S130780058,L21712134,Belgrade Yard,2023-03-12,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,23,,1,45.788153,-111.180817,7,7,city_0195_montana_belgrade
-S148700727,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2023-09-01,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,0.173,1,45.7803808,-111.1549091,3,3,city_0195_montana_belgrade
-S152951734,L21712134,Belgrade Yard,2023-09-20,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S140934517,L25043808,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77836, -111.16482",2023-06-08,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,9,4.691,1,45.778358,-111.164819,5,5,city_0195_montana_belgrade
-S152952209,L21712134,Belgrade Yard,2023-09-09,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,,1,45.788153,-111.180817,8,8,city_0195_montana_belgrade
-S138260959,L14857849,Belgrade - Yard,2023-05-18,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,126,,1,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
-S146561769,L21712134,Belgrade Yard,2023-08-05,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,7,,1,45.788153,-111.180817,1,1,city_0195_montana_belgrade
-S168928421,L21712134,Belgrade Yard,2024-04-13,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S157932745,L21712134,Belgrade Yard,2024-01-02,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.788153,-111.180817,4,4,city_0195_montana_belgrade
-S164848791,L21712134,Belgrade Yard,2024-03-14,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S158004458,L21712134,Belgrade Yard,2024-01-03,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.788153,-111.180817,2,2,city_0195_montana_belgrade
-S165104382,L21712134,Belgrade Yard,2024-03-15,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S167427220,L21712134,Belgrade Yard,2024-03-31,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,16,,1,45.788153,-111.180817,7,7,city_0195_montana_belgrade
-S187699594,L21712134,Belgrade Yard,2024-06-30,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.788153,-111.180817,9,9,city_0195_montana_belgrade
-S239934290,L21712134,Belgrade Yard,2024-08-18,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,14,,1,45.788153,-111.180817,10,10,city_0195_montana_belgrade
-S194210158,L29506710,Belgrade - North,2024-09-06,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,38,1.931,1,45.790131,-111.183589,9,9,city_0195_montana_belgrade
-S165302418,L29506710,Belgrade - North,2024-03-17,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,1.609,1,45.790131,-111.183589,7,7,city_0195_montana_belgrade
-S239944424,L29506710,Belgrade - North,2024-10-12,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,18,0.805,1,45.790131,-111.183589,10,10,city_0195_montana_belgrade
-S173099273,L31489576,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77758, -111.16057",2024-05-09,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,1.551,1,45.777577,-111.160572,4,4,city_0195_montana_belgrade
-S178199797,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,180,1.193,1,45.7801801,-111.1766712,16,16,city_0195_montana_belgrade
-S177397683,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,155,3.38,1,45.7801801,-111.1766712,17,17,city_0195_montana_belgrade
-S177364475,L32388891,"113 N Quaw's Blvd, Belgrade US-MT 45.77926, -111.17783",2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,14,0.574,1,45.779262,-111.177832,7,7,city_0195_montana_belgrade
-S176419994,L32170933,Belgrade (town),2024-05-22,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,38,0.966,1,45.7801801,-111.1766712,13,13,city_0195_montana_belgrade
-S177162112,L32170933,Belgrade (town),2024-05-25,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,184,2.1,1,45.7801801,-111.1766712,17,17,city_0195_montana_belgrade
-S177351905,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,127,3.016,1,45.7801801,-111.1766712,18,18,city_0195_montana_belgrade
-S197792246,L37119338,"Spooner Road, Belgrade",2024-10-06,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,50,1.287,1,45.7880977,-111.180336,10,10,city_0195_montana_belgrade
-S176154885,L15903951,"450 High-K St, Belgrade US-MT 45.77609, -111.22788",2024-05-21,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,8.93,1,45.776086,-111.227878,9,9,city_0195_montana_belgrade
-S187696889,L21712134,Belgrade Yard,2024-06-21,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S185453914,L21712134,Belgrade Yard,2024-07-04,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,80,,1,45.788153,-111.180817,10,10,city_0195_montana_belgrade
-S166845842,L30263607,"101 River Rock Rd, Belgrade US-MT 45.77494, -111.21770",2024-04-01,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,28,0.295,1,45.774939,-111.217702,7,7,city_0195_montana_belgrade
-S176522762,L32170933,Belgrade (town),2024-05-22,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,50,,1,45.7801801,-111.1766712,13,13,city_0195_montana_belgrade
-S214100016,L14857849,Belgrade - Yard,2024-06-01,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,104,,1,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
-S165104174,L21712134,Belgrade Yard,2024-03-16,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,19,,1,45.788153,-111.180817,8,8,city_0195_montana_belgrade
-S174992781,L21712134,Belgrade Yard,2024-05-08,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S175162456,L21712134,Belgrade Yard,2024-03-23,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,14,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S174991445,L21712134,Belgrade Yard,2024-05-16,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,23,0.161,1,45.788153,-111.180817,18,18,city_0195_montana_belgrade
-S187700014,L21712134,Belgrade Yard,2024-07-14,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,7,7,city_0195_montana_belgrade
-S177341102,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,181,2.319,1,45.7801801,-111.1766712,19,19,city_0195_montana_belgrade
-S178367322,L32170933,Belgrade (town),2024-05-28,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,68,18.079,1,45.7801801,-111.1766712,10,10,city_0195_montana_belgrade
-S190731878,L32170933,Belgrade (town),2024-08-08,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,11,0.966,1,45.7801801,-111.1766712,1,1,city_0195_montana_belgrade
-S176454451,L32178517,"North Quaw Boulevard, Belgrade, Montana",2024-05-22,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,7,,1,45.778846,-111.1786336,5,5,city_0195_montana_belgrade
-S171250598,L21712134,Belgrade Yard,2024-04-28,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S164847238,L21712134,Belgrade Yard,2024-03-09,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,13,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S177172086,L32170933,Belgrade (town),2024-05-25,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,117,1.304,1,45.7801801,-111.1766712,15,15,city_0195_montana_belgrade
-S168842666,L30676588,"529 Lagoon Rd, Belgrade US-MT 45.79807, -111.15960",2024-04-15,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,2.899,1,45.798067,-111.159596,5,5,city_0195_montana_belgrade
-S194175146,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2024-09-06,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7803808,-111.1549091,3,3,city_0195_montana_belgrade
-S179153428,L14857849,Belgrade - Yard,2024-06-01,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,104,,1,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
-S158301614,L21712134,Belgrade Yard,2024-01-06,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,1,1,city_0195_montana_belgrade
-S157715454,L21712134,Belgrade Yard,2024-01-01,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.788153,-111.180817,4,4,city_0195_montana_belgrade
-S174308161,L31489576,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77758, -111.16057",2024-05-09,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,1.551,1,45.777577,-111.160572,4,4,city_0195_montana_belgrade
-S160148812,L3315714,west davis rd,2024-01-29,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,33,4.828,1,45.7768406,-111.1738225,8,8,city_0195_montana_belgrade
-S177314473,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,180,2.838,1,45.7801801,-111.1766712,19,19,city_0195_montana_belgrade
-S158418996,L21712134,Belgrade Yard,2024-01-07,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.788153,-111.180817,3,3,city_0195_montana_belgrade
-S168928515,L21712134,Belgrade Yard,2024-04-12,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S164846281,L21712134,Belgrade Yard,2024-02-11,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,11,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S163640336,L29506710,Belgrade - North,2024-03-03,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,28,2.105,1,45.790131,-111.183589,5,5,city_0195_montana_belgrade
-S174170734,L31489576,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77758, -111.16057",2024-05-09,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,1.551,1,45.777577,-111.160572,4,4,city_0195_montana_belgrade
-S176468739,L32181459,"N Quaw's Blvd, Belgrade US-MT",2024-05-22,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,52,,1,45.779143,-111.177805,9,9,city_0195_montana_belgrade
-S196554351,L36868694,"Bozeman Airport (45.776, -111.163)",2024-09-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,19,1.453,1,45.7762866,-111.1632556,2,2,city_0195_montana_belgrade
-S159661126,L21712134,Belgrade Yard,2024-01-19,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,14,,1,45.788153,-111.180817,4,4,city_0195_montana_belgrade
-S162918115,L29506710,Belgrade - North,2024-02-25,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,1.349,1,45.790131,-111.183589,4,4,city_0195_montana_belgrade
-S177359551,L32387566,"107 N Quaw's Blvd, Belgrade US-MT 45.77881, -111.17830",2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,12,1.025,1,45.778812,-111.178297,3,3,city_0195_montana_belgrade
-S193186442,L36156634,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77952, -111.16228",2024-08-29,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,103,0.357,1,45.77952,-111.162284,4,4,city_0195_montana_belgrade
-S200690002,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2024-10-25,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,0.402,1,45.7803808,-111.1549091,2,2,city_0195_montana_belgrade
-S180225757,L32170933,Belgrade (town),2024-06-08,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,138,5.695,1,45.7801801,-111.1766712,4,4,city_0195_montana_belgrade
-S164845875,L21712134,Belgrade Yard,2024-02-03,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,8,,1,45.788153,-111.180817,3,3,city_0195_montana_belgrade
-S159916125,L21712134,Belgrade Yard,2024-01-24,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,9,,1,45.788153,-111.180817,1,1,city_0195_montana_belgrade
-S174541006,L7962146,Wings Way,2024-05-14,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.771434,-111.153195,2,2,city_0195_montana_belgrade
-S158666517,L21712134,Belgrade Yard,2024-01-11,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.788153,-111.180817,1,1,city_0195_montana_belgrade
-S174481301,L7962146,Wings Way,2024-05-12,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.771434,-111.153195,1,1,city_0195_montana_belgrade
-S200808594,L21712134,Belgrade Yard,2024-10-29,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.788153,-111.180817,1,1,city_0195_montana_belgrade
-S158844642,L21712134,Belgrade Yard,2024-01-13,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.788153,-111.180817,2,2,city_0195_montana_belgrade
-S280142806,L21712134,Belgrade Yard,2025-10-17,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,,1,45.788153,-111.180817,4,4,city_0195_montana_belgrade
-S250231482,L21712134,Belgrade Yard,2025-06-02,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,9,,1,45.788153,-111.180817,5,5,city_0195_montana_belgrade
-S273822076,L21712134,Belgrade Yard,2025-09-13,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,,1,45.788153,-111.180817,8,8,city_0195_montana_belgrade
-S243339513,L21712134,Belgrade Yard,2025-05-26,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,85,,1,45.788153,-111.180817,14,14,city_0195_montana_belgrade
-S250216239,L21712134,Belgrade Yard,2025-06-13,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.788153,-111.180817,8,8,city_0195_montana_belgrade
-S221350644,L21712134,Belgrade Yard,2025-03-25,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S230695288,L29506710,Belgrade - North,2025-04-27,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,1.77,1,45.790131,-111.183589,10,10,city_0195_montana_belgrade
-S213642698,L40282333,"1007 Silverbow Ave, Belgrade US-MT 45.76691, -111.16859",2025-02-15,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.766914,-111.168593,8,8,city_0195_montana_belgrade
-S242194151,L45874090,"450 High K Street, Belgrade, Montana, US (45.776, -111.228)",2025-05-24,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,,1,45.7757295,-111.2280081,5,5,city_0195_montana_belgrade
-S264110961,L21712134,Belgrade Yard,2025-07-31,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,40,,1,45.788153,-111.180817,9,9,city_0195_montana_belgrade
-S242260892,L21712134,Belgrade Yard,2025-05-20,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S275848829,L53344026,Lions Park,2025-09-27,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,17,0.095,1,45.783244,-111.171695,3,3,city_0195_montana_belgrade
-S212512216,L14857849,Belgrade - Yard,2025-02-15,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,36,,1,45.7818295,-111.183601,4,4,city_0195_montana_belgrade
-S276746602,L21712134,Belgrade Yard,2025-10-01,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,20,0.161,1,45.788153,-111.180817,6,6,city_0195_montana_belgrade
-S240895180,L14857849,Belgrade - Yard,2025-05-21,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,6,,1,45.7818295,-111.183601,9,9,city_0195_montana_belgrade
-S207596580,L21712134,Belgrade Yard,2025-01-01,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,15,,1,45.788153,-111.180817,3,3,city_0195_montana_belgrade
-S247165386,L46912427,La Quinta,2025-06-05,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,14,0.228,1,45.7640575,-111.1881674,3,3,city_0195_montana_belgrade
-S260862124,L50019945,"632–654 Airway Blvd, Belgrade US-MT 45.76380, -111.16313",2025-07-18,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,51,17.733,1,45.763798,-111.163127,3,3,city_0195_montana_belgrade
-S221943015,L41903018,"656–698 Airway Blvd, Belgrade US-MT 45.76415, -111.16318",2025-03-30,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,28,35.793,1,45.764148,-111.163182,4,4,city_0195_montana_belgrade
-S217538353,L32170933,Belgrade (town),2025-03-09,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,35,26.4,1,45.7801801,-111.1766712,8,8,city_0195_montana_belgrade
-S229713665,L43489931,"310 W Madison Ave, Belgrade US-MT 45.77263, -111.18677",2025-04-26,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.772627,-111.186768,3,3,city_0195_montana_belgrade
-S217120228,L1343384,Belgrade Gravel Pits,2025-03-07,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,5,,1,45.7571159,-111.1507257,5,5,city_0195_montana_belgrade
-S261732161,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2025-07-21,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,24,1.249,1,45.7803808,-111.1549091,3,3,city_0195_montana_belgrade
-S222962974,L29506710,Belgrade - North,2025-02-27,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,25,1.287,1,45.790131,-111.183589,6,6,city_0195_montana_belgrade
-S279766574,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2025-10-16,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,10,,1,45.7803808,-111.1549091,7,7,city_0195_montana_belgrade
-S320420666,L32170933,Belgrade (town),2025-09-04,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,26830062.330033,90,,1,45.7801801,-111.1766712,1,1,city_0195_montana_belgrade
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24355584,L3807879,US-MT-Belgrade-Bozeman Airport,2015-07-23,2015,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,33,,1,Stationary,45.775306,-111.160085,5,5,city_0195_montana_belgrade
+S25907068,L3471724,Feeders,2015-11-18,2015,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7785984,-111.1742592,7,7,city_0195_montana_belgrade
+S26251047,L4062580,Home,2015-12-12,2015,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.779759,-111.216342,4,4,city_0195_montana_belgrade
+S27821926,L4310743,US-MT-Belgrade-Gallatin Field Rd - 45.7786x-111.1625,2016-02-24,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,3.219,1,Traveling,45.77859,-111.162457,2,2,city_0195_montana_belgrade
+S27821755,L4310743,US-MT-Belgrade-Gallatin Field Rd - 45.7786x-111.1625,2016-02-24,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,3.219,1,Traveling,45.77859,-111.162457,2,2,city_0195_montana_belgrade
+S48325899,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2016-03-13,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7803808,-111.1549091,3,3,city_0195_montana_belgrade
+S28820316,L4467312,S. Manhattn Rd.,2016-04-08,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,0.402,1,Traveling,45.7876586,-111.1977339,3,3,city_0195_montana_belgrade
+S32840291,L1343384,Belgrade Gravel Pits,2016-12-03,2016,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7571159,-111.1507257,5,5,city_0195_montana_belgrade
+S33507566,L5220280,Belgrade,2017-01-07,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S33535971,L5220280,Belgrade,2017-01-08,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S33545115,L5238061,Dry Creek Road,2017-01-08,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,3.219,1,Traveling,45.7949979,-111.1785936,2,2,city_0195_montana_belgrade
+S33705860,L5220280,Belgrade,2017-01-15,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,2,2,city_0195_montana_belgrade
+S33773330,L5275954,Frontage Rd-Central Park Belgrade to Four corners,2017-01-18,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,11.265,1,Traveling,45.7913698,-111.2067246,5,5,city_0195_montana_belgrade
+S33810157,L5220280,Belgrade,2017-01-20,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,3,3,city_0195_montana_belgrade
+S33860292,L5220280,Belgrade,2017-01-22,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S33907106,L5220280,Belgrade,2017-01-24,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S33930899,L5244970,Belgrade - West Main,2017-01-25,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,8.047,1,Traveling,45.7860656,-111.1957061,2,2,city_0195_montana_belgrade
+S34015162,L5220280,Belgrade,2017-01-29,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S34069416,L5220280,Belgrade,2017-01-31,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.7819505,-111.1837649,2,2,city_0195_montana_belgrade
+S34077945,L5220280,Belgrade,2017-01-31,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S34088215,L5220280,Belgrade,2017-02-01,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S34282118,L5220280,Belgrade,2017-02-10,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.7819505,-111.1837649,3,3,city_0195_montana_belgrade
+S34363163,L5220280,Belgrade,2017-02-14,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S34772038,L5220280,Belgrade,2017-02-24,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,128,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S34979964,L5220280,Belgrade,2017-03-05,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S35165154,L5220280,Belgrade,2017-03-13,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S35318561,L5220280,Belgrade,2017-03-20,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S35390969,L5220280,Belgrade,2017-03-24,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S35477283,L5220280,Belgrade,2017-03-27,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S35480876,L5220280,Belgrade,2017-03-27,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S35549034,L5220280,Belgrade,2017-03-30,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S35542226,L5220280,Belgrade,2017-03-30,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S35559632,L5220280,Belgrade,2017-03-31,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S35903162,L5220280,Belgrade,2017-04-12,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S35919410,L5220280,Belgrade,2017-04-13,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S36047695,L5220280,Belgrade,2017-04-17,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S36118271,L5220280,Belgrade,2017-04-20,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S36458960,L5220280,Belgrade,2017-05-01,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S36741981,L5220280,Belgrade,2017-05-11,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S36786356,L5220280,Belgrade,2017-05-13,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S37305775,L5220280,Belgrade,2017-06-01,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S38007445,L6060786,Airport rd,2017-06-28,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,1.609,1,Traveling,45.7658874,-111.1384249,4,4,city_0195_montana_belgrade
+S39404121,L6300815,"6798–13660 Frontage Rd, Belgrade US-MT (45.7707,-111.1665)",2017-09-26,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,1.609,1,Traveling,45.770713,-111.166469,4,4,city_0195_montana_belgrade
+S39551722,L5220280,Belgrade,2017-10-04,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S40155032,L5220280,Belgrade,2017-10-27,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S40289686,L5220280,Belgrade,2017-11-03,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S40304696,L5220280,Belgrade,2017-11-04,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,45,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S40378803,L5220280,Belgrade,2017-11-08,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,120,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S40426236,L5220280,Belgrade,2017-11-10,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,62,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S40446970,L5220280,Belgrade,2017-11-11,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,104,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S40597764,L5220280,Belgrade,2017-11-19,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,35,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S40963131,L5220280,Belgrade,2017-12-07,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S40980883,L5220280,Belgrade,2017-12-08,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S41124514,L5220280,Belgrade,2017-12-16,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,60,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S41295332,L5220280,Belgrade,2017-12-24,2017,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,76,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S41664895,L6674184,mile 297,2018-01-05,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,8.047,1,Traveling,45.7894322,-111.2051582,2,2,city_0195_montana_belgrade
+S41694789,L6674184,mile 297,2018-01-06,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,8.047,1,Traveling,45.7894322,-111.2051582,4,4,city_0195_montana_belgrade
+S41963234,L6727278,"501–507 Penwell Bridge Rd, Belgrade US-MT (45.8021,-111.1699)",2018-01-16,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,119,6.437,1,Traveling,45.802115,-111.169903,13,13,city_0195_montana_belgrade
+S42487878,L6820314,"Interstate 90, Bozeman, Montana, US (45.762, -111.167)",2018-02-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,15.473,1,Traveling,45.7619231,-111.1667193,3,3,city_0195_montana_belgrade
+S43109548,L6974875,"16479 Frontage Road, Belgrade, Montana, US (45.809, -111.239)",2018-02-22,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,50,6.437,1,Traveling,45.8086179,-111.2389754,8,8,city_0195_montana_belgrade
+S43293641,L6974875,"16479 Frontage Road, Belgrade, Montana, US (45.809, -111.239)",2018-02-28,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,45,,1,Stationary,45.8086179,-111.2389754,5,5,city_0195_montana_belgrade
+S43668679,L1343384,Belgrade Gravel Pits,2018-03-13,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,9,,1,Stationary,45.7571159,-111.1507257,5,5,city_0195_montana_belgrade
+S44207048,L7163340,Weaver Road,2018-04-02,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,18,6.035,1,Traveling,45.8164776,-111.2341905,8,8,city_0195_montana_belgrade
+S44257069,L7171623,Bolinger gravel pit.,2018-04-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7904496,-111.1995792,13,13,city_0195_montana_belgrade
+S44420282,L7199592,"1680-1710 Remuda Drive, Belgrade, Montana, US (45.781, -111.227)",2018-04-09,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.7814814,-111.2274077,3,3,city_0195_montana_belgrade
+S44907747,L7277114,"20959 Frontage Rd, Belgrade US-MT (45.7698,-111.1646)",2018-04-24,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,32,38.469,1,Traveling,45.769813,-111.16457,9,9,city_0195_montana_belgrade
+S45088555,L5220280,Belgrade,2018-04-29,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S45106644,L5220280,Belgrade,2018-04-30,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S45110975,L7310431,Bollinger Road & Gravel Pit,2018-04-30,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,3.219,1,Traveling,45.7901504,-111.1998582,12,12,city_0195_montana_belgrade
+S45369603,L7358423,Airport,2018-05-05,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.779369,-111.163154,1,1,city_0195_montana_belgrade
+S46211908,L5220280,Belgrade,2018-06-01,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S46325229,L5220280,Belgrade,2018-06-05,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S46346647,L7528049,"6450 Jackrabbit Ln, Belgrade US-MT (45.7643,-111.1844)",2018-06-06,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.76433,-111.184402,9,9,city_0195_montana_belgrade
+S46801314,L5220280,Belgrade,2018-06-25,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S46986168,L3767297,Belgrade,2018-07-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,0.805,1,Traveling,45.776156,-111.177144,9,9,city_0195_montana_belgrade
+S47581925,L7574270,"409 N Quaw Blvd, Belgrade US-MT (45.7824,-111.1749)",2018-08-01,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.782394,-111.174941,5,5,city_0195_montana_belgrade
+S48244699,L7886332,"900–902 Spooner Rd, Belgrade US-MT (45.7941,-111.1803)",2018-09-02,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,66,24.938,1,Traveling,45.794052,-111.180281,17,17,city_0195_montana_belgrade
+S48678856,L1343384,Belgrade Gravel Pits,2018-09-22,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,9.656,1,Traveling,45.7571159,-111.1507257,3,3,city_0195_montana_belgrade
+S48868757,L5220280,Belgrade,2018-10-01,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S48930713,L1343384,Belgrade Gravel Pits,2018-10-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,7,0.161,1,Traveling,45.7571159,-111.1507257,5,5,city_0195_montana_belgrade
+S49583051,L5220280,Belgrade,2018-10-31,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,18,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S49715942,L5220280,Belgrade,2018-11-04,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S49802670,L5220280,Belgrade,2018-11-09,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,17,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S49871578,L5220280,Belgrade,2018-11-11,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S49903732,L5220280,Belgrade,2018-11-12,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S50089511,L5220280,Belgrade,2018-11-20,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S50163541,L5220280,Belgrade,2018-11-23,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S50231929,L5220280,Belgrade,2018-11-26,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S50258396,L5220280,Belgrade,2018-11-27,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,84,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S50306596,L5220280,Belgrade,2018-11-29,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,35,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S50395639,L5220280,Belgrade,2018-12-03,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S50573993,L5220280,Belgrade,2018-12-10,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S50628672,L5220280,Belgrade,2018-12-12,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S50666787,L1343384,Belgrade Gravel Pits,2018-12-14,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,11,,1,Stationary,45.7571159,-111.1507257,3,3,city_0195_montana_belgrade
+S50947767,L5220280,Belgrade,2018-12-25,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S51071848,L2947713,Belgrade Gravel Pits,2018-12-29,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,0.966,1,Traveling,45.7581221,-111.1514711,5,5,city_0195_montana_belgrade
+S51071894,L8324778,Belgrade Gardens subdivision,2018-12-29,2018,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,17,1.77,1,Traveling,45.797079,-111.208966,4,4,city_0195_montana_belgrade
+S51172734,L5220280,Belgrade,2019-01-01,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,3,3,city_0195_montana_belgrade
+S51253277,L5220280,Belgrade,2019-01-03,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S51269150,L8360338,Dry Creek Road,2019-01-03,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,1.609,1,Traveling,45.7859524,-111.1697471,3,3,city_0195_montana_belgrade
+S51298830,L5220280,Belgrade,2019-01-04,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,24,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S51351718,L5220280,Belgrade,2019-01-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S51340076,L8373449,"529 Lagoon Rd, Belgrade US-MT (45.8021,-111.1621)",2019-01-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,6.36,1,Traveling,45.802105,-111.162143,8,8,city_0195_montana_belgrade
+S51393806,L5220280,Belgrade,2019-01-06,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S51531195,L2947713,Belgrade Gravel Pits,2019-01-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,2.414,1,Traveling,45.7581221,-111.1514711,6,6,city_0195_montana_belgrade
+S51747728,L7163340,Weaver Road,2019-01-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,4.426,1,Traveling,45.8164776,-111.2341905,8,8,city_0195_montana_belgrade
+S51939311,L5220280,Belgrade,2019-01-22,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,27,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S51997355,L5220280,Belgrade,2019-01-24,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S52379547,L5220280,Belgrade,2019-02-04,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,108,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S52443774,L5220280,Belgrade,2019-02-06,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,195,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S52605639,L5220280,Belgrade,2019-02-11,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,97,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S52703720,L5220280,Belgrade,2019-02-14,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S52826661,L5220280,Belgrade,2019-02-17,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S52886513,L5220280,Belgrade,2019-02-18,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S52939810,L5220280,Belgrade,2019-02-19,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,115,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S53222212,L5220280,Belgrade,2019-02-28,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S53293388,L5220280,Belgrade,2019-03-02,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,21,,1,Stationary,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S53462201,L5220280,Belgrade,2019-03-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S53573630,L5220280,Belgrade,2019-03-07,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,43,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S53603730,L5220280,Belgrade,2019-03-08,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,91,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S53717358,L5220280,Belgrade,2019-03-11,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S53747201,L5220280,Belgrade,2019-03-12,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S53857570,L5220280,Belgrade,2019-03-15,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.7819505,-111.1837649,3,3,city_0195_montana_belgrade
+S53895668,L5220280,Belgrade,2019-03-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,4,4,city_0195_montana_belgrade
+S54021461,L5220280,Belgrade,2019-03-19,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S54145130,L8903827,"100 Gertrude Ave, Belgrade US-MT (45.7686,-111.1789)",2019-03-23,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,9,0.449,1,Traveling,45.76858,-111.178903,6,6,city_0195_montana_belgrade
+S54484773,L5220280,Belgrade,2019-04-02,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,115,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S54585573,L5220280,Belgrade,2019-04-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S54676651,L5220280,Belgrade,2019-04-07,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S54769909,L5220280,Belgrade,2019-04-09,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,46,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S54785029,L5220280,Belgrade,2019-04-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,48,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S54815309,L5220280,Belgrade,2019-04-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S54865431,L5220280,Belgrade,2019-04-12,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,75,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S54907433,L5220280,Belgrade,2019-04-13,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,130,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S55019726,L5220280,Belgrade,2019-04-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,60,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S55171600,L5220280,Belgrade,2019-04-20,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S55242553,L5220280,Belgrade,2019-04-21,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,23,,1,Stationary,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
+S55259362,L5220280,Belgrade,2019-04-22,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S55432725,L5220280,Belgrade,2019-04-26,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S55591834,L5220280,Belgrade,2019-04-30,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S55677305,L5220280,Belgrade,2019-05-02,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,93,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S55717748,L5220280,Belgrade,2019-05-03,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,60,,1,Stationary,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
+S55757302,L5220280,Belgrade,2019-05-04,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,32,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S56085729,L5220280,Belgrade,2019-05-06,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,75,,1,Stationary,45.7819505,-111.1837649,12,12,city_0195_montana_belgrade
+S56019103,L5220280,Belgrade,2019-05-08,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,90,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S56379642,L5220280,Belgrade,2019-05-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S56469268,L5220280,Belgrade,2019-05-18,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,13,13,city_0195_montana_belgrade
+S56497261,L5220280,Belgrade,2019-05-19,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,69,,1,Stationary,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
+S56669361,L5220280,Belgrade,2019-05-23,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
+S56713736,L8102452,"681 N River Rock Dr, Belgrade, MT",2019-05-25,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.779894,-111.214532,2,2,city_0195_montana_belgrade
+S56845098,L5220280,Belgrade,2019-05-28,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,51,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S57150827,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2019-06-04,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.7803808,-111.1549091,2,2,city_0195_montana_belgrade
+S57268841,L9446518,"305 E Main Street, Belgrade, Montana, US (45.775, -111.173)",2019-06-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,11,0.145,1,Traveling,45.7747924,-111.1731984,4,4,city_0195_montana_belgrade
+S57256731,L9443862,Holiday Inn Express-Belgrade,2019-06-10,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7734867,-111.1879764,10,10,city_0195_montana_belgrade
+S57774450,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2019-06-28,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7803808,-111.1549091,2,2,city_0195_montana_belgrade
+S58258785,L9658084,"Jackrabbit Ln, Belgrade US-MT (45.7634,-111.1860)",2019-07-17,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.763363,-111.186018,2,2,city_0195_montana_belgrade
+S58766548,L5220280,Belgrade,2019-08-05,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,81,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S58858571,L5220280,Belgrade,2019-08-09,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,92,,1,Stationary,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
+S58988725,L5220280,Belgrade,2019-08-14,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,77,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S59611772,L5220280,Belgrade,2019-09-08,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,52,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S60293224,L5220280,Belgrade,2019-10-02,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,160,,1,Stationary,45.7819505,-111.1837649,12,12,city_0195_montana_belgrade
+S60317260,L5220280,Belgrade,2019-10-03,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,84,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S60490486,L5220280,Belgrade,2019-10-09,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,116,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S60486254,L5220280,Belgrade,2019-10-09,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,105,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S60900378,L5220280,Belgrade,2019-10-24,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,80,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S61248403,L5220280,Belgrade,2019-11-07,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,33,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S61543531,L10091238,neighborhood,2019-11-16,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7865057,-111.2162131,3,3,city_0195_montana_belgrade
+S62345804,L5220280,Belgrade,2019-12-15,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,1.609,1,Traveling,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S62811833,L5220280,Belgrade,2019-12-31,2019,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,48,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S62862849,L5220280,Belgrade,2020-01-01,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,115,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S63109799,L7163340,Weaver Road,2020-01-06,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,4.184,1,Traveling,45.8164776,-111.2341905,4,4,city_0195_montana_belgrade
+S64466305,L5220280,Belgrade,2020-02-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S68879175,L4062580,Home,2020-05-11,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,,45.779759,-111.216342,0,0,city_0195_montana_belgrade
+S70436186,L11696088,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77760, -111.16008",2020-06-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,7,0.098,1,Traveling,45.777605,-111.160078,3,3,city_0195_montana_belgrade
+S71066422,L7163340,Weaver Road,2020-07-02,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,5.633,1,Traveling,45.8164776,-111.2341905,11,11,city_0195_montana_belgrade
+S71958557,L5220280,Belgrade,2020-07-30,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,45,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S71984906,L5220280,Belgrade,2020-07-31,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,85,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S72106458,L5220280,Belgrade,2020-08-04,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S72407376,L5220280,Belgrade,2020-08-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,45,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S72602182,L5220280,Belgrade,2020-08-18,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S72602469,L5220280,Belgrade,2020-08-19,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S72669894,L5220280,Belgrade,2020-08-21,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S72688637,L5220280,Belgrade,2020-08-22,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S72742567,L5220280,Belgrade,2020-08-23,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S72838056,L5220280,Belgrade,2020-08-26,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S73141090,L5220280,Belgrade,2020-09-03,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S73499324,L5220280,Belgrade,2020-09-12,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S73546922,L5220280,Belgrade,2020-09-13,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,17,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S73595511,L5220280,Belgrade,2020-09-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,32,,1,Stationary,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
+S73626803,L5220280,Belgrade,2020-09-15,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S73671034,L5220280,Belgrade,2020-09-16,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S73743044,L5220280,Belgrade,2020-09-18,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,22,,1,Stationary,45.7819505,-111.1837649,12,12,city_0195_montana_belgrade
+S73782325,L5220280,Belgrade,2020-09-19,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S73836286,L5220280,Belgrade,2020-09-20,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,,1,Stationary,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
+S73875475,L5220280,Belgrade,2020-09-21,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,140,,1,Stationary,45.7819505,-111.1837649,11,11,city_0195_montana_belgrade
+S74031877,L5220280,Belgrade,2020-09-24,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,22,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S74189958,L5220280,Belgrade,2020-09-28,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S74304933,L5220280,Belgrade,2020-10-01,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S74540148,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2020-10-07,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.7803808,-111.1549091,1,1,city_0195_montana_belgrade
+S74789363,L5220280,Belgrade,2020-10-13,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S74826558,L12383150,Belgrade - Yard,2020-10-14,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7820764,-111.1839228,7,7,city_0195_montana_belgrade
+S74912345,L5220280,Belgrade,2020-10-16,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S75201182,L5220280,Belgrade,2020-10-21,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7819505,-111.1837649,7,7,city_0195_montana_belgrade
+S75236746,L5220280,Belgrade,2020-10-22,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7819505,-111.1837649,10,10,city_0195_montana_belgrade
+S75399204,L5220280,Belgrade,2020-10-25,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.7819505,-111.1837649,9,9,city_0195_montana_belgrade
+S75438406,L5220280,Belgrade,2020-10-26,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7819505,-111.1837649,6,6,city_0195_montana_belgrade
+S75761910,L12649527,Belgrade - Lewis & Clark Park,2020-11-02,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,16,0.322,1,Traveling,45.7750698,-111.1733554,4,4,city_0195_montana_belgrade
+S76766733,L5220280,Belgrade,2020-11-26,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,17,,1,Stationary,45.7819505,-111.1837649,8,8,city_0195_montana_belgrade
+S77608627,L1343384,Belgrade Gravel Pits,2020-12-17,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7571159,-111.1507257,8,8,city_0195_montana_belgrade
+S78293378,L1343384,Belgrade Gravel Pits,2020-12-30,2020,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,60,3.219,1,Traveling,45.7571159,-111.1507257,10,10,city_0195_montana_belgrade
+S78694365,L5220280,Belgrade,2021-01-04,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,3.541,1,Traveling,45.7819505,-111.1837649,5,5,city_0195_montana_belgrade
+S84368019,L14210882,"Belgrade, Montana",2021-03-29,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,7,0.37,1,Traveling,45.7730392,-111.1842285,6,6,city_0195_montana_belgrade
+S90289426,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2021-06-02,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.7803808,-111.1549091,6,6,city_0195_montana_belgrade
+S90282300,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2021-06-16,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,0.206,1,Traveling,45.7803808,-111.1549091,4,4,city_0195_montana_belgrade
+S91506917,L5224165,Penwell Bridge Road - West,2021-07-09,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.8011315,-111.1693454,3,3,city_0195_montana_belgrade
+S91815328,L15780234,"6445 Jackrabbit Ln, Belgrade US-MT 45.76404, -111.18768",2021-07-15,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,101,0.14,1,Traveling,45.764043,-111.187679,4,4,city_0195_montana_belgrade
+S91829325,L15780234,"6445 Jackrabbit Ln, Belgrade US-MT 45.76404, -111.18768",2021-07-16,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,39,0.136,1,Traveling,45.764043,-111.187679,10,10,city_0195_montana_belgrade
+S92128168,L10579692,"I-90 W, Belgrade US-MT (45.7546,-111.1461)",2021-07-22,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,6.965,1,Traveling,45.754647,-111.1461,4,4,city_0195_montana_belgrade
+S92669523,L15983058,Belgrade--I-90,2021-08-02,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,23.798,1,Traveling,45.768986,-111.18742,4,4,city_0195_montana_belgrade
+S94278870,L14857849,Belgrade - Yard,2021-09-06,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
+S95343223,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2021-09-25,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,27,,1,Stationary,45.7803808,-111.1549091,1,1,city_0195_montana_belgrade
+S96205620,L14857849,Belgrade - Yard,2021-10-15,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,148,,1,Stationary,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
+S99241615,L17162935,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77945, -111.16219",2021-12-21,2021,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,60,0.284,1,,45.779452,-111.162186,0,0,city_0195_montana_belgrade
+S105020901,L1343384,Belgrade Gravel Pits,2022-03-17,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,16,,1,Stationary,45.7571159,-111.1507257,9,9,city_0195_montana_belgrade
+S105440764,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2022-03-23,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,19,,1,Stationary,45.7803808,-111.1549091,2,2,city_0195_montana_belgrade
+S105465504,L14857849,Belgrade - Yard,2022-03-24,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.7818295,-111.183601,2,2,city_0195_montana_belgrade
+S106891501,L18480247,Weaver Road - West,2022-04-12,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,3.862,1,Traveling,45.816323,-111.2519941,9,9,city_0195_montana_belgrade
+S108064412,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2022-04-25,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7803808,-111.1549091,4,4,city_0195_montana_belgrade
+S109563139,L14857849,Belgrade - Yard,2022-05-10,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,83,,1,Stationary,45.7818295,-111.183601,12,12,city_0195_montana_belgrade
+S109882241,L14857849,Belgrade - Yard,2022-05-13,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,92,,1,Stationary,45.7818295,-111.183601,14,14,city_0195_montana_belgrade
+S110042414,L14857849,Belgrade - Yard,2022-05-14,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,85,,1,Stationary,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
+S110478519,L14857849,Belgrade - Yard,2022-05-17,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,78,,1,Stationary,45.7818295,-111.183601,14,14,city_0195_montana_belgrade
+S110663396,L14857849,Belgrade - Yard,2022-05-19,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,,1,Stationary,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
+S110906074,L14857849,Belgrade - Yard,2022-05-21,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,80,,1,Stationary,45.7818295,-111.183601,14,14,city_0195_montana_belgrade
+S111270273,L14857849,Belgrade - Yard,2022-05-25,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,37,,1,Stationary,45.7818295,-111.183601,12,12,city_0195_montana_belgrade
+S111368609,L14857849,Belgrade - Yard,2022-05-26,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,88,,1,Stationary,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
+S112267424,L11170473,"420 Angus Drive, Belgrade, Montana, US (45.786, -111.216)",2022-06-01,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,120,,1,Stationary,45.7864317,-111.2161529,12,12,city_0195_montana_belgrade
+S111952409,L14857849,Belgrade - Yard,2022-06-01,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,27,,1,Stationary,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
+S111952946,L14857849,Belgrade - Yard,2022-06-02,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,,1,Stationary,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
+S113029959,L19662248,"309 W Madison Ave, Belgrade US-MT 45.77355, -111.18789",2022-06-15,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,0.14,1,Traveling,45.773552,-111.187894,7,7,city_0195_montana_belgrade
+S113541672,L19774552,"6269 Jackrabbit Ln, Belgrade US-MT 45.76163, -111.18592",2022-06-22,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.761633,-111.185918,3,3,city_0195_montana_belgrade
+S113878295,L14857849,Belgrade - Yard,2022-06-25,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,58,,1,Stationary,45.7818295,-111.183601,9,9,city_0195_montana_belgrade
+S114171737,L19923079,Sloscu house (private),2022-06-30,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,49,,1,Stationary,45.795152,-111.18869,4,4,city_0195_montana_belgrade
+S114837434,L20084349,"I-90 W, Belgrade US-MT 45.75421, -111.14468",2022-07-10,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,9,20.143,1,Traveling,45.75421,-111.144679,2,2,city_0195_montana_belgrade
+S116363054,L20428483,Backyard,2022-08-05,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.816246,-111.2383041,4,4,city_0195_montana_belgrade
+S116442822,L6113269,"Bozeman Yellowstone International Airport, Belgrade US-MT (45.7794,-111.1631)",2022-08-06,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,2.414,1,Traveling,45.779394,-111.163069,4,4,city_0195_montana_belgrade
+S116946348,L14447606,Bolinger Road Gravel Pit,2022-08-14,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,13.655,1,Traveling,45.79038,-111.1993848,4,4,city_0195_montana_belgrade
+S117384864,L20640587,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77945, -111.16226",2022-08-22,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,31,0.234,1,Traveling,45.779451,-111.162263,1,1,city_0195_montana_belgrade
+S117524813,L7962146,Wings Way,2022-08-22,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.771434,-111.153195,2,2,city_0195_montana_belgrade
+S118982195,L14857849,Belgrade - Yard,2022-09-18,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,152,,1,Stationary,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
+S119965528,L14857849,Belgrade - Yard,2022-09-18,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,152,,1,Stationary,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
+S123443638,L21712134,Belgrade Yard,2022-12-04,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.788153,-111.180817,2,2,city_0195_montana_belgrade
+S123915086,L14857849,Belgrade - Yard,2022-12-13,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,98,,1,Stationary,45.7818295,-111.183601,9,9,city_0195_montana_belgrade
+S123964005,L14857849,Belgrade - Yard,2022-12-14,2022,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,74,,1,Stationary,45.7818295,-111.183601,9,9,city_0195_montana_belgrade
+S125770607,L21712134,Belgrade Yard,2023-01-07,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,16,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S130653722,L21712134,Belgrade Yard,2023-02-11,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S128256033,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2023-02-13,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,4.828,1,Traveling,45.7803808,-111.1549091,5,5,city_0195_montana_belgrade
+S130780058,L21712134,Belgrade Yard,2023-03-12,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,23,,1,Stationary,45.788153,-111.180817,7,7,city_0195_montana_belgrade
+S133673619,L21712134,Belgrade Yard,2023-03-18,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S133243756,L21712134,Belgrade Yard,2023-04-08,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,16,,1,Stationary,45.788153,-111.180817,10,10,city_0195_montana_belgrade
+S133243459,L21712134,Belgrade Yard,2023-04-09,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,7,7,city_0195_montana_belgrade
+S136400401,L21712134,Belgrade Yard,2023-05-04,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,17,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S136400450,L21712134,Belgrade Yard,2023-05-05,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S136400552,L21712134,Belgrade Yard,2023-05-06,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.788153,-111.180817,10,10,city_0195_montana_belgrade
+S137279156,L24261532,Town and Country parking lot,2023-05-12,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.7738871,-111.1841084,9,9,city_0195_montana_belgrade
+S138585142,L21712134,Belgrade Yard,2023-05-14,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.788153,-111.180817,8,8,city_0195_montana_belgrade
+S138260959,L14857849,Belgrade - Yard,2023-05-18,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,126,,1,Stationary,45.7818295,-111.183601,10,10,city_0195_montana_belgrade
+S138586506,L21712134,Belgrade Yard,2023-05-20,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,50,,1,Stationary,45.788153,-111.180817,14,14,city_0195_montana_belgrade
+S138659584,L24531081,"6450 Jackrabbit Lane, Belgrade, Montana, US (45.764, -111.185)",2023-05-21,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7642529,-111.1847172,5,5,city_0195_montana_belgrade
+S138952198,L21712134,Belgrade Yard,2023-05-22,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,7,7,city_0195_montana_belgrade
+S139763231,L21712134,Belgrade Yard,2023-05-23,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.788153,-111.180817,9,9,city_0195_montana_belgrade
+S139763409,L21712134,Belgrade Yard,2023-05-25,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,30,,1,Stationary,45.788153,-111.180817,14,14,city_0195_montana_belgrade
+S141342692,L21712134,Belgrade Yard,2023-06-06,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,,1,Stationary,45.788153,-111.180817,10,10,city_0195_montana_belgrade
+S140934517,L25043808,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77836, -111.16482",2023-06-08,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,9,4.691,1,Traveling,45.778358,-111.164819,5,5,city_0195_montana_belgrade
+S141343042,L21712134,Belgrade Yard,2023-06-10,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,,1,Stationary,45.788153,-111.180817,14,14,city_0195_montana_belgrade
+S142435303,L21712134,Belgrade Yard,2023-06-13,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,10,10,city_0195_montana_belgrade
+S142506047,L25428190,"6999 Jackrabbit Ln, Belgrade US-MT 45.77115, -111.18680",2023-06-22,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,48,56.156,1,Traveling,45.771153,-111.186801,1,1,city_0195_montana_belgrade
+S146561769,L21712134,Belgrade Yard,2023-08-05,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,7,,1,Stationary,45.788153,-111.180817,1,1,city_0195_montana_belgrade
+S147206030,L21712134,Belgrade Yard,2023-08-13,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,,1,Stationary,45.788153,-111.180817,10,10,city_0195_montana_belgrade
+S148930428,L26928135,"513 N Kennedy St, Belgrade US-MT (45.7816,-111.1699)",2023-08-23,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,6.437,1,Traveling,45.781595,-111.169855,4,4,city_0195_montana_belgrade
+S148605938,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2023-08-31,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,55,7.467,1,Traveling,45.7803808,-111.1549091,4,4,city_0195_montana_belgrade
+S148700727,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2023-09-01,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,0.173,1,Traveling,45.7803808,-111.1549091,3,3,city_0195_montana_belgrade
+S148901759,L14857849,Belgrade - Yard,2023-09-03,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,,1,Stationary,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
+S152952209,L21712134,Belgrade Yard,2023-09-09,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,,1,Stationary,45.788153,-111.180817,8,8,city_0195_montana_belgrade
+S152951734,L21712134,Belgrade Yard,2023-09-20,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S152951645,L21712134,Belgrade Yard,2023-10-01,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,14,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S152951350,L21712134,Belgrade Yard,2023-10-07,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,18,,1,Stationary,45.788153,-111.180817,9,9,city_0195_montana_belgrade
+S152951270,L21712134,Belgrade Yard,2023-10-17,2023,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S157715454,L21712134,Belgrade Yard,2024-01-01,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.788153,-111.180817,4,4,city_0195_montana_belgrade
+S157932745,L21712134,Belgrade Yard,2024-01-02,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.788153,-111.180817,4,4,city_0195_montana_belgrade
+S158004458,L21712134,Belgrade Yard,2024-01-03,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.788153,-111.180817,2,2,city_0195_montana_belgrade
+S158301614,L21712134,Belgrade Yard,2024-01-06,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,1,1,city_0195_montana_belgrade
+S158418996,L21712134,Belgrade Yard,2024-01-07,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,3,3,city_0195_montana_belgrade
+S158666517,L21712134,Belgrade Yard,2024-01-11,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.788153,-111.180817,1,1,city_0195_montana_belgrade
+S158844642,L21712134,Belgrade Yard,2024-01-13,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.788153,-111.180817,2,2,city_0195_montana_belgrade
+S159661126,L21712134,Belgrade Yard,2024-01-19,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,14,,1,Stationary,45.788153,-111.180817,4,4,city_0195_montana_belgrade
+S159916125,L21712134,Belgrade Yard,2024-01-24,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,9,,1,Stationary,45.788153,-111.180817,1,1,city_0195_montana_belgrade
+S160148812,L3315714,west davis rd,2024-01-29,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,33,4.828,1,Traveling,45.7768406,-111.1738225,8,8,city_0195_montana_belgrade
+S164845875,L21712134,Belgrade Yard,2024-02-03,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.788153,-111.180817,3,3,city_0195_montana_belgrade
+S164846281,L21712134,Belgrade Yard,2024-02-11,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,11,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S162918115,L29506710,Belgrade - North,2024-02-25,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,1.349,1,Traveling,45.790131,-111.183589,4,4,city_0195_montana_belgrade
+S163640336,L29506710,Belgrade - North,2024-03-03,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,28,2.105,1,Traveling,45.790131,-111.183589,5,5,city_0195_montana_belgrade
+S164847238,L21712134,Belgrade Yard,2024-03-09,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S164848791,L21712134,Belgrade Yard,2024-03-14,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,8,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S165104382,L21712134,Belgrade Yard,2024-03-15,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S165104174,L21712134,Belgrade Yard,2024-03-16,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,19,,1,Stationary,45.788153,-111.180817,8,8,city_0195_montana_belgrade
+S165302418,L29506710,Belgrade - North,2024-03-17,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,1.609,1,Traveling,45.790131,-111.183589,7,7,city_0195_montana_belgrade
+S175162456,L21712134,Belgrade Yard,2024-03-23,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,14,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S167427220,L21712134,Belgrade Yard,2024-03-31,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,16,,1,Stationary,45.788153,-111.180817,7,7,city_0195_montana_belgrade
+S166845842,L30263607,"101 River Rock Rd, Belgrade US-MT 45.77494, -111.21770",2024-04-01,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,28,0.295,1,Traveling,45.774939,-111.217702,7,7,city_0195_montana_belgrade
+S168928515,L21712134,Belgrade Yard,2024-04-12,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S168928421,L21712134,Belgrade Yard,2024-04-13,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S168842666,L30676588,"529 Lagoon Rd, Belgrade US-MT 45.79807, -111.15960",2024-04-15,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,2.899,1,Traveling,45.798067,-111.159596,5,5,city_0195_montana_belgrade
+S171250598,L21712134,Belgrade Yard,2024-04-28,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S174992781,L21712134,Belgrade Yard,2024-05-08,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S174170734,L31489576,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77758, -111.16057",2024-05-09,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,1.551,1,Traveling,45.777577,-111.160572,4,4,city_0195_montana_belgrade
+S174308161,L31489576,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77758, -111.16057",2024-05-09,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,1.551,1,Traveling,45.777577,-111.160572,4,4,city_0195_montana_belgrade
+S173099273,L31489576,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77758, -111.16057",2024-05-09,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,1.551,1,Traveling,45.777577,-111.160572,4,4,city_0195_montana_belgrade
+S174481301,L7962146,Wings Way,2024-05-12,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.771434,-111.153195,1,1,city_0195_montana_belgrade
+S174541006,L7962146,Wings Way,2024-05-14,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.771434,-111.153195,2,2,city_0195_montana_belgrade
+S174991445,L21712134,Belgrade Yard,2024-05-16,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,23,0.161,1,Traveling,45.788153,-111.180817,18,18,city_0195_montana_belgrade
+S176154885,L15903951,"450 High-K St, Belgrade US-MT 45.77609, -111.22788",2024-05-21,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,8.93,1,Traveling,45.776086,-111.227878,9,9,city_0195_montana_belgrade
+S176419994,L32170933,Belgrade (town),2024-05-22,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,38,0.966,1,Traveling,45.78008,-111.17685,13,13,city_0195_montana_belgrade
+S176522762,L32170933,Belgrade (town),2024-05-22,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,50,,1,Stationary,45.78008,-111.17685,13,13,city_0195_montana_belgrade
+S176468739,L32181459,"N Quaw's Blvd, Belgrade US-MT",2024-05-22,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,52,,1,Stationary,45.779143,-111.177805,9,9,city_0195_montana_belgrade
+S176454451,L32178517,"North Quaw Boulevard, Belgrade, Montana",2024-05-22,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,7,,1,Stationary,45.778846,-111.1786336,5,5,city_0195_montana_belgrade
+S177172086,L32170933,Belgrade (town),2024-05-25,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,117,1.304,1,Traveling,45.78008,-111.17685,15,15,city_0195_montana_belgrade
+S177162112,L32170933,Belgrade (town),2024-05-25,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,184,2.1,1,Traveling,45.78008,-111.17685,17,17,city_0195_montana_belgrade
+S177314473,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,180,2.838,1,Traveling,45.78008,-111.17685,19,19,city_0195_montana_belgrade
+S178199797,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,180,1.193,1,Traveling,45.78008,-111.17685,16,16,city_0195_montana_belgrade
+S177351905,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,127,3.016,1,Traveling,45.78008,-111.17685,18,18,city_0195_montana_belgrade
+S177341102,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,181,2.319,1,Traveling,45.78008,-111.17685,19,19,city_0195_montana_belgrade
+S177397683,L32170933,Belgrade (town),2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,155,3.38,1,Traveling,45.78008,-111.17685,17,17,city_0195_montana_belgrade
+S177364475,L32388891,"113 N Quaw's Blvd, Belgrade US-MT 45.77926, -111.17783",2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,14,0.574,1,Traveling,45.779262,-111.177832,7,7,city_0195_montana_belgrade
+S177359551,L32387566,"107 N Quaw's Blvd, Belgrade US-MT 45.77881, -111.17830",2024-05-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,12,1.025,1,Traveling,45.778812,-111.178297,3,3,city_0195_montana_belgrade
+S178367322,L32170933,Belgrade (town),2024-05-28,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,68,18.079,1,Traveling,45.78008,-111.17685,10,10,city_0195_montana_belgrade
+S179153428,L14857849,Belgrade - Yard,2024-06-01,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,104,,1,Stationary,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
+S214100016,L14857849,Belgrade - Yard,2024-06-01,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,104,,1,Stationary,45.7818295,-111.183601,11,11,city_0195_montana_belgrade
+S180225757,L32170933,Belgrade (town),2024-06-08,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,138,5.695,1,Traveling,45.78008,-111.17685,4,4,city_0195_montana_belgrade
+S187696889,L21712134,Belgrade Yard,2024-06-21,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S187699594,L21712134,Belgrade Yard,2024-06-30,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.788153,-111.180817,9,9,city_0195_montana_belgrade
+S185453914,L21712134,Belgrade Yard,2024-07-04,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,80,,1,Stationary,45.788153,-111.180817,10,10,city_0195_montana_belgrade
+S187700014,L21712134,Belgrade Yard,2024-07-14,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.788153,-111.180817,7,7,city_0195_montana_belgrade
+S190731878,L32170933,Belgrade (town),2024-08-08,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,11,0.966,1,Traveling,45.78008,-111.17685,1,1,city_0195_montana_belgrade
+S239934290,L21712134,Belgrade Yard,2024-08-18,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,14,,1,Stationary,45.788153,-111.180817,10,10,city_0195_montana_belgrade
+S193186442,L36156634,"Bozeman Yellowstone International Airport, Belgrade US-MT 45.77952, -111.16228",2024-08-29,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,103,0.357,1,Traveling,45.77952,-111.162284,4,4,city_0195_montana_belgrade
+S194210158,L29506710,Belgrade - North,2024-09-06,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,38,1.931,1,Traveling,45.790131,-111.183589,9,9,city_0195_montana_belgrade
+S194175146,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2024-09-06,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7803808,-111.1549091,3,3,city_0195_montana_belgrade
+S196554351,L36868694,"Bozeman Airport (45.776, -111.163)",2024-09-26,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,19,1.453,1,Traveling,45.7762866,-111.1632556,2,2,city_0195_montana_belgrade
+S197792246,L37119338,"Spooner Road, Belgrade",2024-10-06,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,50,1.287,1,Traveling,45.7880977,-111.180336,10,10,city_0195_montana_belgrade
+S239944424,L29506710,Belgrade - North,2024-10-12,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,18,0.805,1,Traveling,45.790131,-111.183589,10,10,city_0195_montana_belgrade
+S200690002,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2024-10-25,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,0.402,1,Traveling,45.7803808,-111.1549091,2,2,city_0195_montana_belgrade
+S200808594,L21712134,Belgrade Yard,2024-10-29,2024,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.788153,-111.180817,1,1,city_0195_montana_belgrade
+S207596580,L21712134,Belgrade Yard,2025-01-01,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.788153,-111.180817,3,3,city_0195_montana_belgrade
+S212512216,L14857849,Belgrade - Yard,2025-02-15,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,36,,1,Stationary,45.7818295,-111.183601,4,4,city_0195_montana_belgrade
+S213642698,L40282333,"1007 Silverbow Ave, Belgrade US-MT 45.76691, -111.16859",2025-02-15,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.766914,-111.168593,8,8,city_0195_montana_belgrade
+S222962974,L29506710,Belgrade - North,2025-02-27,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,25,1.287,1,Traveling,45.790131,-111.183589,6,6,city_0195_montana_belgrade
+S217120228,L1343384,Belgrade Gravel Pits,2025-03-07,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.7571159,-111.1507257,5,5,city_0195_montana_belgrade
+S217538353,L32170933,Belgrade (town),2025-03-09,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,35,26.4,1,Traveling,45.78008,-111.17685,8,8,city_0195_montana_belgrade
+S221350644,L21712134,Belgrade Yard,2025-03-25,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S221943015,L41903018,"656–698 Airway Blvd, Belgrade US-MT 45.76415, -111.16318",2025-03-30,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,28,35.793,1,Traveling,45.764148,-111.163182,4,4,city_0195_montana_belgrade
+S229713665,L43489931,"310 W Madison Ave, Belgrade US-MT 45.77263, -111.18677",2025-04-26,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.772627,-111.186768,3,3,city_0195_montana_belgrade
+S230695288,L29506710,Belgrade - North,2025-04-27,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,1.77,1,Traveling,45.790131,-111.183589,10,10,city_0195_montana_belgrade
+S242260892,L21712134,Belgrade Yard,2025-05-20,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,5,,1,Stationary,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S240895180,L14857849,Belgrade - Yard,2025-05-21,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,6,,1,Stationary,45.7818295,-111.183601,9,9,city_0195_montana_belgrade
+S242194151,L45874090,"450 High K Street, Belgrade, Montana, US (45.776, -111.228)",2025-05-24,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,,1,Stationary,45.7757295,-111.2280081,5,5,city_0195_montana_belgrade
+S243339513,L21712134,Belgrade Yard,2025-05-26,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,85,,1,Stationary,45.788153,-111.180817,14,14,city_0195_montana_belgrade
+S250231482,L21712134,Belgrade Yard,2025-06-02,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,9,,1,Stationary,45.788153,-111.180817,5,5,city_0195_montana_belgrade
+S247165386,L46912427,La Quinta,2025-06-05,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,14,0.228,1,Traveling,45.7640575,-111.1881674,3,3,city_0195_montana_belgrade
+S250216239,L21712134,Belgrade Yard,2025-06-13,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,15,,1,Stationary,45.788153,-111.180817,8,8,city_0195_montana_belgrade
+S260862124,L50019945,"632–654 Airway Blvd, Belgrade US-MT 45.76380, -111.16313",2025-07-18,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,51,17.733,1,Traveling,45.763798,-111.163127,3,3,city_0195_montana_belgrade
+S261732161,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2025-07-21,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,24,1.249,1,Traveling,45.7803808,-111.1549091,3,3,city_0195_montana_belgrade
+S264110961,L21712134,Belgrade Yard,2025-07-31,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,,1,Stationary,45.788153,-111.180817,9,9,city_0195_montana_belgrade
+S320420666,L32170933,Belgrade (town),2025-09-04,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,90,,1,Stationary,45.78008,-111.17685,1,1,city_0195_montana_belgrade
+S273822076,L21712134,Belgrade Yard,2025-09-13,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,40,,1,Stationary,45.788153,-111.180817,8,8,city_0195_montana_belgrade
+S275848829,L53344026,Lions Park,2025-09-27,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,17,0.095,1,Traveling,45.783244,-111.171695,3,3,city_0195_montana_belgrade
+S276746602,L21712134,Belgrade Yard,2025-10-01,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,0.161,1,Traveling,45.788153,-111.180817,6,6,city_0195_montana_belgrade
+S279766574,L8404052,Bozeman Yellowstone International Airport and Gallatin Field,2025-10-16,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,10,,1,Stationary,45.7803808,-111.1549091,7,7,city_0195_montana_belgrade
+S280142806,L21712134,Belgrade Yard,2025-10-17,2025,195,"Belgrade, MT",Belgrade,Montana,Gallatin,100,20,,1,Stationary,45.788153,-111.180817,4,4,city_0195_montana_belgrade

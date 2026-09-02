@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2015,26338017.5028084,62,466,city_2408_new_mexico_silver_city,497.22499561309814,13.927083333333334,20.780844396542193,dry subhumid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2016,26338017.5028084,91,826,city_2408_new_mexico_silver_city,375.48749923706055,14.028645833333334,15.626660854777418,semiarid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2017,26338017.5028084,86,548,city_2408_new_mexico_silver_city,380.6062479019165,14.643229166666666,15.444658057099858,semiarid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2018,26338017.5028084,79,844,city_2408_new_mexico_silver_city,388.14374935626984,14.213541666666668,16.03002793641725,semiarid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2019,26338017.5028084,90,820,city_2408_new_mexico_silver_city,364.55624628067017,13.395833333333334,15.582101354828287,semiarid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2020,26338017.5028084,97,1206,city_2408_new_mexico_silver_city,215.74374961853027,14.390625,8.845355525679652,arid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2021,26338017.5028084,101,1053,city_2408_new_mexico_silver_city,433.4437532424927,14.15625,17.94333777976684,semiarid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2022,26338017.5028084,102,2441,city_2408_new_mexico_silver_city,339.56875598430634,13.7578125,14.29293020913884,semiarid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2023,26338017.5028084,105,2952,city_2408_new_mexico_silver_city,265.4250031709671,14.1875,10.973643541952129,semiarid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2024,26338017.5028084,113,1713,city_2408_new_mexico_silver_city,309.35624980926514,14.924479166666666,12.411743801771792,semiarid,12
-2408,"Silver City, NM",Silver City,New Mexico,Grant,2025,26338017.5028084,134,4071,city_2408_new_mexico_silver_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2408,2015,"Silver City, NM",Silver City,New Mexico,Grant,100,62,466,city_2408_new_mexico_silver_city,497.224995613098,13.9270833333333,20.7808443965422,dry subhumid,12
+2408,2016,"Silver City, NM",Silver City,New Mexico,Grant,100,91,826,city_2408_new_mexico_silver_city,375.487499237061,14.0286458333333,15.6266608547774,semiarid,12
+2408,2017,"Silver City, NM",Silver City,New Mexico,Grant,100,86,548,city_2408_new_mexico_silver_city,380.606247901917,14.6432291666667,15.4446580570999,semiarid,12
+2408,2018,"Silver City, NM",Silver City,New Mexico,Grant,100,79,844,city_2408_new_mexico_silver_city,388.14374935627,14.2135416666667,16.0300279364173,semiarid,12
+2408,2019,"Silver City, NM",Silver City,New Mexico,Grant,100,90,820,city_2408_new_mexico_silver_city,364.55624628067,13.3958333333333,15.5821013548283,semiarid,12
+2408,2020,"Silver City, NM",Silver City,New Mexico,Grant,100,97,1206,city_2408_new_mexico_silver_city,215.74374961853,14.390625,8.84535552567965,arid,12
+2408,2021,"Silver City, NM",Silver City,New Mexico,Grant,100,101,1053,city_2408_new_mexico_silver_city,433.443753242493,14.15625,17.9433377797668,semiarid,12
+2408,2022,"Silver City, NM",Silver City,New Mexico,Grant,100,102,2441,city_2408_new_mexico_silver_city,339.568755984306,13.7578125,14.2929302091388,semiarid,12
+2408,2023,"Silver City, NM",Silver City,New Mexico,Grant,100,105,2952,city_2408_new_mexico_silver_city,265.425003170967,14.1875,10.9736435419521,semiarid,12
+2408,2024,"Silver City, NM",Silver City,New Mexico,Grant,100,113,1713,city_2408_new_mexico_silver_city,309.356249809265,14.9244791666667,12.4117438017718,semiarid,12
+2408,2025,"Silver City, NM",Silver City,New Mexico,Grant,100,134,4071,city_2408_new_mexico_silver_city,,,,,

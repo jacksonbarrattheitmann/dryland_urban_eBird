@@ -1,6 +1,6 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-856,"Escalon, CA",Escalon,California,San Joaquin,2018,5125947.00100657,5,5,city_0856_california_escalon,342.1312482357025,17.513020833333332,12.4352483977766,semiarid,12
-856,"Escalon, CA",Escalon,California,San Joaquin,2020,5125947.00100657,14,19,city_0856_california_escalon,166.70625030994415,17.875,5.980493284661674,arid,12
-856,"Escalon, CA",Escalon,California,San Joaquin,2021,5125947.00100657,10,10,city_0856_california_escalon,325.97499388456345,17.5,11.853636141256851,semiarid,12
-856,"Escalon, CA",Escalon,California,San Joaquin,2022,5125947.00100657,8,8,city_0856_california_escalon,238.5937513113022,17.546875,8.661372707840805,arid,12
-856,"Escalon, CA",Escalon,California,San Joaquin,2025,5125947.00100657,3,3,city_0856_california_escalon,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+856,2018,"Escalon, CA",Escalon,California,San Joaquin,100,5,5,city_0856_california_escalon,342.131248235703,17.5130208333333,12.4352483977766,semiarid,12
+856,2020,"Escalon, CA",Escalon,California,San Joaquin,100,14,19,city_0856_california_escalon,166.706250309944,17.875,5.98049328466167,arid,12
+856,2021,"Escalon, CA",Escalon,California,San Joaquin,100,10,10,city_0856_california_escalon,325.974993884563,17.5,11.8536361412569,semiarid,12
+856,2022,"Escalon, CA",Escalon,California,San Joaquin,100,8,8,city_0856_california_escalon,238.593751311302,17.546875,8.66137270784081,arid,12
+856,2025,"Escalon, CA",Escalon,California,San Joaquin,100,3,3,city_0856_california_escalon,,,,,

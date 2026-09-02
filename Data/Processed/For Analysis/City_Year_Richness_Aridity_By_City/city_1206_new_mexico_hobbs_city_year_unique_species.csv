@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2015,53012854.4504455,43,243,city_1206_new_mexico_hobbs,598.0687551498413,16.981770833333332,22.16565987622228,dry subhumid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2016,53012854.4504455,25,46,city_1206_new_mexico_hobbs,392.0812497138977,17.658854166666668,14.175614338587394,semiarid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2017,53012854.4504455,49,99,city_1206_new_mexico_hobbs,429.9312539100647,17.575520833333332,15.591047455044372,semiarid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2018,53012854.4504455,23,57,city_1206_new_mexico_hobbs,402.29374158382416,17.106770833333332,14.841079524275962,semiarid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2019,53012854.4504455,44,100,city_1206_new_mexico_hobbs,385.03125405311584,16.8671875,14.330910299156391,semiarid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2020,53012854.4504455,58,189,city_1206_new_mexico_hobbs,201.0187501907349,17.416666666666668,7.331990888415861,arid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2021,53012854.4504455,56,174,city_1206_new_mexico_hobbs,415.612491607666,16.8515625,15.478149236479853,semiarid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2022,53012854.4504455,46,155,city_1206_new_mexico_hobbs,322.2124967575073,17.153645833333332,11.866270140489386,semiarid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2023,53012854.4504455,46,139,city_1206_new_mexico_hobbs,232.81875038146973,17.872395833333332,8.353022530737586,arid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2024,53012854.4504455,59,264,city_1206_new_mexico_hobbs,377.5687460899353,18.315104166666668,13.334534948821409,semiarid,12
-1206,"Hobbs, NM",Hobbs,New Mexico,Lea,2025,53012854.4504455,66,194,city_1206_new_mexico_hobbs,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1206,2015,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,43,243,city_1206_new_mexico_hobbs,598.068755149841,16.9817708333333,22.1656598762223,dry subhumid,12
+1206,2016,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,25,46,city_1206_new_mexico_hobbs,392.081249713898,17.6588541666667,14.1756143385874,semiarid,12
+1206,2017,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,49,99,city_1206_new_mexico_hobbs,429.931253910065,17.5755208333333,15.5910474550444,semiarid,12
+1206,2018,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,23,57,city_1206_new_mexico_hobbs,402.293741583824,17.1067708333333,14.841079524276,semiarid,12
+1206,2019,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,44,100,city_1206_new_mexico_hobbs,385.031254053116,16.8671875,14.3309102991564,semiarid,12
+1206,2020,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,58,189,city_1206_new_mexico_hobbs,201.018750190735,17.4166666666667,7.33199088841586,arid,12
+1206,2021,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,56,174,city_1206_new_mexico_hobbs,415.612491607666,16.8515625,15.4781492364799,semiarid,12
+1206,2022,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,46,155,city_1206_new_mexico_hobbs,322.212496757507,17.1536458333333,11.8662701404894,semiarid,12
+1206,2023,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,46,139,city_1206_new_mexico_hobbs,232.81875038147,17.8723958333333,8.35302253073759,arid,12
+1206,2024,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,59,264,city_1206_new_mexico_hobbs,377.568746089935,18.3151041666667,13.3345349488214,semiarid,12
+1206,2025,"Hobbs, NM",Hobbs,New Mexico,Lea,99.999999999999,66,194,city_1206_new_mexico_hobbs,,,,,

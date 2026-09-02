@@ -1,6 +1,6 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2650,"Venus, TX",Venus,Texas,Johnson,2017,7937569.44340199,4,4,city_2650_texas_venus,801.318754196167,20.190104166666668,26.542430916184603,dry subhumid,12
-2650,"Venus, TX",Venus,Texas,Johnson,2019,7937569.44340199,10,10,city_2650_texas_venus,900.943733215332,19.1328125,30.92539497226133,humid,12
-2650,"Venus, TX",Venus,Texas,Johnson,2020,7937569.44340199,7,7,city_2650_texas_venus,950.3812561035156,19.5546875,32.156701237443826,humid,12
-2650,"Venus, TX",Venus,Texas,Johnson,2021,7937569.44340199,9,9,city_2650_texas_venus,901.3937549591064,19.364583333333332,30.696630179522604,humid,12
-2650,"Venus, TX",Venus,Texas,Johnson,2024,7937569.44340199,4,4,city_2650_texas_venus,963.8374938964844,20.635416666666668,31.461543493390852,humid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2650,2017,"Venus, TX",Venus,Texas,Johnson,100,4,4,city_2650_texas_venus,801.318754196167,20.1901041666667,26.5424309161846,dry subhumid,12
+2650,2019,"Venus, TX",Venus,Texas,Johnson,100,10,10,city_2650_texas_venus,900.943733215332,19.1328125,30.9253949722613,humid,12
+2650,2020,"Venus, TX",Venus,Texas,Johnson,100,7,7,city_2650_texas_venus,950.381256103516,19.5546875,32.1567012374438,humid,12
+2650,2021,"Venus, TX",Venus,Texas,Johnson,100,9,9,city_2650_texas_venus,901.393754959106,19.3645833333333,30.6966301795226,humid,12
+2650,2024,"Venus, TX",Venus,Texas,Johnson,100,4,4,city_2650_texas_venus,963.837493896484,20.6354166666667,31.4615434933909,humid,12

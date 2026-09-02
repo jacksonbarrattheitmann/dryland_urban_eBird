@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-726,"Denver City, TX",Denver City,Texas,Yoakum,2015,6688532.5390157,13,14,city_0726_texas_denver_city,662.8750019073486,16.5390625,24.977333012699624,dry subhumid,12
-726,"Denver City, TX",Denver City,Texas,Yoakum,2017,6688532.5390157,18,28,city_0726_texas_denver_city,466.73749923706055,17.21875,17.147646355437356,semiarid,12
-726,"Denver City, TX",Denver City,Texas,Yoakum,2019,6688532.5390157,17,22,city_0726_texas_denver_city,422.08749985694885,16.309895833333332,16.04291793972764,semiarid,12
-726,"Denver City, TX",Denver City,Texas,Yoakum,2020,6688532.5390157,25,37,city_0726_texas_denver_city,235.41875171661377,16.848958333333332,8.768263885468448,arid,12
-726,"Denver City, TX",Denver City,Texas,Yoakum,2021,6688532.5390157,9,11,city_0726_texas_denver_city,449.84373927116394,16.356770833333332,17.067483043190094,semiarid,12
-726,"Denver City, TX",Denver City,Texas,Yoakum,2022,6688532.5390157,18,24,city_0726_texas_denver_city,335.2437560558319,16.861979166666668,12.480232896310174,semiarid,12
-726,"Denver City, TX",Denver City,Texas,Yoakum,2023,6688532.5390157,27,55,city_0726_texas_denver_city,269.16875171661377,17.466145833333332,9.80001902523748,arid,12
-726,"Denver City, TX",Denver City,Texas,Yoakum,2024,6688532.5390157,15,17,city_0726_texas_denver_city,412.03750371932983,17.838541666666668,14.80097300544646,semiarid,12
-726,"Denver City, TX",Denver City,Texas,Yoakum,2025,6688532.5390157,12,16,city_0726_texas_denver_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+726,2015,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,13,14,city_0726_texas_denver_city,662.875001907349,16.5390625,24.9773330126996,dry subhumid,12
+726,2017,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,18,28,city_0726_texas_denver_city,466.737499237061,17.21875,17.1476463554374,semiarid,12
+726,2019,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,17,22,city_0726_texas_denver_city,422.087499856949,16.3098958333333,16.0429179397276,semiarid,12
+726,2020,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,25,37,city_0726_texas_denver_city,235.418751716614,16.8489583333333,8.76826388546845,arid,12
+726,2021,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,9,11,city_0726_texas_denver_city,449.843739271164,16.3567708333333,17.0674830431901,semiarid,12
+726,2022,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,18,24,city_0726_texas_denver_city,335.243756055832,16.8619791666667,12.4802328963102,semiarid,12
+726,2023,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,27,55,city_0726_texas_denver_city,269.168751716614,17.4661458333333,9.80001902523748,arid,12
+726,2024,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,15,17,city_0726_texas_denver_city,412.03750371933,17.8385416666667,14.8009730054465,semiarid,12
+726,2025,"Denver City, TX",Denver City,Texas,Yoakum,99.9999999999992,12,16,city_0726_texas_denver_city,,,,,

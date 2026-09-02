@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1993,"Othello, WA",Othello,Washington,Adams,2015,20358187.4152422,30,30,city_1993_washington_othello,182.50625014305115,12.700520833333332,8.039738448426252,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2016,20358187.4152422,54,91,city_1993_washington_othello,195.70000076293945,12.184895833333332,8.821317090382529,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2017,20358187.4152422,7,7,city_1993_washington_othello,227.36250436306,11.033854166666668,10.809360118288351,semiarid,12
-1993,"Othello, WA",Othello,Washington,Adams,2018,20358187.4152422,19,19,city_1993_washington_othello,169.8062504529953,11.643229166666668,7.845698492834821,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2019,20358187.4152422,9,12,city_1993_washington_othello,161.89375066757202,10.869791666666668,7.757324713794317,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2020,20358187.4152422,17,34,city_1993_washington_othello,191.09375095367432,11.6875,8.811239237057029,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2021,20358187.4152422,18,25,city_1993_washington_othello,168.2062507867813,11.919270833333332,7.673898099337534,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2022,20358187.4152422,31,101,city_1993_washington_othello,202.66874635219577,11.1015625,9.60444262609443,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2023,20358187.4152422,27,50,city_1993_washington_othello,163.39375066757202,11.966145833333332,7.438435122270024,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2024,20358187.4152422,45,295,city_1993_washington_othello,194.7125015258789,12.111979166666668,8.805747330813508,arid,12
-1993,"Othello, WA",Othello,Washington,Adams,2025,20358187.4152422,22,54,city_1993_washington_othello,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1993,2015,"Othello, WA",Othello,Washington,Adams,99.9999999999952,30,30,city_1993_washington_othello,182.506250143051,12.7005208333333,8.03973844842625,arid,12
+1993,2016,"Othello, WA",Othello,Washington,Adams,99.9999999999952,54,91,city_1993_washington_othello,195.700000762939,12.1848958333333,8.82131709038253,arid,12
+1993,2017,"Othello, WA",Othello,Washington,Adams,99.9999999999952,7,7,city_1993_washington_othello,227.36250436306,11.0338541666667,10.8093601182884,semiarid,12
+1993,2018,"Othello, WA",Othello,Washington,Adams,99.9999999999952,19,19,city_1993_washington_othello,169.806250452995,11.6432291666667,7.84569849283482,arid,12
+1993,2019,"Othello, WA",Othello,Washington,Adams,99.9999999999952,9,12,city_1993_washington_othello,161.893750667572,10.8697916666667,7.75732471379432,arid,12
+1993,2020,"Othello, WA",Othello,Washington,Adams,99.9999999999952,17,34,city_1993_washington_othello,191.093750953674,11.6875,8.81123923705703,arid,12
+1993,2021,"Othello, WA",Othello,Washington,Adams,99.9999999999952,18,25,city_1993_washington_othello,168.206250786781,11.9192708333333,7.67389809933753,arid,12
+1993,2022,"Othello, WA",Othello,Washington,Adams,99.9999999999952,31,101,city_1993_washington_othello,202.668746352196,11.1015625,9.60444262609443,arid,12
+1993,2023,"Othello, WA",Othello,Washington,Adams,99.9999999999952,27,50,city_1993_washington_othello,163.393750667572,11.9661458333333,7.43843512227002,arid,12
+1993,2024,"Othello, WA",Othello,Washington,Adams,99.9999999999952,45,295,city_1993_washington_othello,194.712501525879,12.1119791666667,8.80574733081351,arid,12
+1993,2025,"Othello, WA",Othello,Washington,Adams,99.9999999999952,22,54,city_1993_washington_othello,,,,,

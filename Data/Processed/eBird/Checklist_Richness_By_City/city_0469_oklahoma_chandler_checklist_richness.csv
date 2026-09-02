@@ -1,4 +1,4 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24201175,L3778966,Chandler,2015-07-09,2015,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,5589057.33042502,25,3.219,1,35.7023001,-96.886518,26,26,city_0469_oklahoma_chandler
-S35907403,L5688175,US-OK-Chandler-357-499 W 12th St - 35.6982x-96.8851,2017-04-12,2017,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,5589057.33042502,11,1.127,1,35.698224,-96.885111,10,10,city_0469_oklahoma_chandler
-S54824671,L9020561,"740 E 1st St, Chandler US-OK (35.7099,-96.8716)",2019-04-11,2019,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,5589057.33042502,19,1.677,1,35.709905,-96.871616,6,6,city_0469_oklahoma_chandler
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24201175,L3778966,Chandler,2015-07-09,2015,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,100,25,3.219,1,Traveling,35.7023001,-96.886518,26,26,city_0469_oklahoma_chandler
+S35907403,L5688175,US-OK-Chandler-357-499 W 12th St - 35.6982x-96.8851,2017-04-12,2017,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,100,11,1.127,1,Traveling,35.698224,-96.885111,10,10,city_0469_oklahoma_chandler
+S54824671,L9020561,"740 E 1st St, Chandler US-OK (35.7099,-96.8716)",2019-04-11,2019,469,"Chandler, OK",Chandler,Oklahoma,Lincoln,100,19,1.677,1,Traveling,35.709905,-96.871616,6,6,city_0469_oklahoma_chandler

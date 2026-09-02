@@ -1,9 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-380,"Caldwell, TX",Caldwell,Texas,Burleson,2017,7931407.14306034,3,3,city_0380_texas_caldwell,884.3375072479248,20.984375,28.54140215021038,dry subhumid,12
-380,"Caldwell, TX",Caldwell,Texas,Burleson,2019,7931407.14306034,32,49,city_0380_texas_caldwell,981.2000064849854,20.247395833333332,32.439156477850574,humid,12
-380,"Caldwell, TX",Caldwell,Texas,Burleson,2020,7931407.14306034,42,74,city_0380_texas_caldwell,884.9562530517578,20.799479166666668,28.73283175546419,dry subhumid,12
-380,"Caldwell, TX",Caldwell,Texas,Burleson,2021,7931407.14306034,53,109,city_0380_texas_caldwell,980.2687492370604,20.255208333333332,32.399999974783206,humid,12
-380,"Caldwell, TX",Caldwell,Texas,Burleson,2022,7931407.14306034,33,44,city_0380_texas_caldwell,649.0812492370605,20.572916666666668,21.23059622717472,dry subhumid,12
-380,"Caldwell, TX",Caldwell,Texas,Burleson,2023,7931407.14306034,14,16,city_0380_texas_caldwell,804.0937480926514,21.208333333333332,25.765353743956787,dry subhumid,12
-380,"Caldwell, TX",Caldwell,Texas,Burleson,2024,7931407.14306034,43,110,city_0380_texas_caldwell,934.1437644958496,21.598958333333332,29.56248603646005,dry subhumid,12
-380,"Caldwell, TX",Caldwell,Texas,Burleson,2025,7931407.14306034,20,44,city_0380_texas_caldwell,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+380,2015,"Caldwell, TX",Caldwell,Texas,Burleson,100,0,0,city_0380_texas_caldwell,1319.11249923706,20.3307291666667,43.4909590200937,humid,12
+380,2017,"Caldwell, TX",Caldwell,Texas,Burleson,100,3,3,city_0380_texas_caldwell,884.337507247925,20.984375,28.5414021502104,dry subhumid,12
+380,2019,"Caldwell, TX",Caldwell,Texas,Burleson,100,32,49,city_0380_texas_caldwell,981.200006484985,20.2473958333333,32.4391564778506,humid,12
+380,2020,"Caldwell, TX",Caldwell,Texas,Burleson,100,42,74,city_0380_texas_caldwell,884.956253051758,20.7994791666667,28.7328317554642,dry subhumid,12
+380,2021,"Caldwell, TX",Caldwell,Texas,Burleson,100,53,109,city_0380_texas_caldwell,980.268749237061,20.2552083333333,32.3999999747832,humid,12
+380,2022,"Caldwell, TX",Caldwell,Texas,Burleson,100,33,44,city_0380_texas_caldwell,649.081249237061,20.5729166666667,21.2305962271747,dry subhumid,12
+380,2023,"Caldwell, TX",Caldwell,Texas,Burleson,100,14,16,city_0380_texas_caldwell,804.093748092651,21.2083333333333,25.7653537439568,dry subhumid,12
+380,2024,"Caldwell, TX",Caldwell,Texas,Burleson,100,43,110,city_0380_texas_caldwell,934.14376449585,21.5989583333333,29.5624860364601,dry subhumid,12
+380,2025,"Caldwell, TX",Caldwell,Texas,Burleson,100,20,44,city_0380_texas_caldwell,,,,,

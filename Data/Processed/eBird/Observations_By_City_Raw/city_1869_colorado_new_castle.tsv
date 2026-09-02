@@ -31,8 +31,8 @@ S29289950	2016-04-29	L4545983	New Castle Boat Ramp	Barn Swallow	Hirundo rustica	
 S29289950	2016-04-29	L4545983	New Castle Boat Ramp	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5690991	-107.5255322	Traveling	1	0
 S31846704	2016-10-01	L4961766	CO - New Castle	Mallard	Anas platyrhynchos	545	species	1	39.5675943	-107.5179105	Stationary	1	0
 S28730536	2016-04-03	L3204576	Grand River Park	Black-billed Magpie	Pica hudsonia	21476	species	12	39.5645624	-107.5097609	Stationary	1	0
-S28730536	2016-04-03	L3204576	Grand River Park	Rock Pigeon	Columba livia	1868	domestic	6	39.5645624	-107.5097609	Stationary	1	0
 S33319401	2016-12-31	L5199284	Grand River Park	Mallard	Anas platyrhynchos	545	species	50	39.5646931	-107.5116277	Traveling	1	0
+S28730536	2016-04-03	L3204576	Grand River Park	Rock Pigeon	Columba livia	1868	domestic	6	39.5645624	-107.5097609	Stationary	1	0
 S31846704	2016-10-01	L4961766	CO - New Castle	Canada Goose	Branta canadensis	342	species	6	39.5675943	-107.5179105	Stationary	1	0
 S28730536	2016-04-03	L3204576	Grand River Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	39.5645624	-107.5097609	Stationary	1	0
 S33319401	2016-12-31	L5199284	Grand River Park	American Dipper	Cinclus mexicanus	27668	species	1	39.5646931	-107.5116277	Traveling	1	0
@@ -79,8 +79,8 @@ S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.
 S51065525	2018-12-29	L8323684	County Road 335	Canada Goose	Branta canadensis	342	species	66	39.5595890	-107.5502310	Traveling	1	0
 S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Common Merganser	Mergus merganser	762	species	2	39.5626640	-107.5061290	Stationary	1	0
 S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Say's Phoebe	Sayornis saya	17010	species	1	39.5626640	-107.5061290	Stationary	1	0
-S48215108	2018-09-01	L7881856	Sunset Trail	Bewick's Wren	Thryomanes bewickii	27362	species	1	39.5838777	-107.5245512	Traveling	1	0
 S50179230	2018-11-24	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5838777	-107.5245512	Traveling	1	0
+S48215108	2018-09-01	L7881856	Sunset Trail	Bewick's Wren	Thryomanes bewickii	27362	species	1	39.5838777	-107.5245512	Traveling	1	0
 S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Mountain Chickadee	Poecile gambeli	22077	species	1	39.5626640	-107.5061290	Stationary	1	0
 S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Northern Flicker	Colaptes auratus	11900	species	1	39.5626640	-107.5061290	Stationary	1	0
 S45002983	2018-04-25	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Northern Flicker	Colaptes auratus	11900	species	1	39.5626640	-107.5061290	Stationary	1	0
@@ -111,16 +111,16 @@ S48215108	2018-09-01	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	3231
 S45002983	2018-04-25	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Common Merganser	Mergus merganser	762	species	5	39.5626640	-107.5061290	Stationary	1	0
 S50179230	2018-11-24	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	2	39.5838777	-107.5245512	Traveling	1	0
 S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Common Merganser	Mergus merganser	762	species	1	39.5626640	-107.5061290	Stationary	1	0
-S48215108	2018-09-01	L7881856	Sunset Trail	Lesser Goldfinch	Spinus psaltria	32609	species	1	39.5838777	-107.5245512	Traveling	1	0
 S45002983	2018-04-25	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Mallard	Anas platyrhynchos	545	species	3	39.5626640	-107.5061290	Stationary	1	0
+S48215108	2018-09-01	L7881856	Sunset Trail	Lesser Goldfinch	Spinus psaltria	32609	species	1	39.5838777	-107.5245512	Traveling	1	0
 S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	European Starling	Sturnus vulgaris	27813	species	9	39.5626640	-107.5061290	Stationary	1	0
 S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	39.5626640	-107.5061290	Stationary	1	0
 S50179230	2018-11-24	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5838777	-107.5245512	Traveling	1	0
 S48215108	2018-09-01	L7881856	Sunset Trail	Barn Swallow	Hirundo rustica	24195	issf	1	39.5838777	-107.5245512	Traveling	1	1
 S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	American Robin	Turdus migratorius	28633	species	7	39.5626640	-107.5061290	Stationary	1	0
 S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Western Kingbird	Tyrannus verticalis	17467	species	4	39.5626640	-107.5061290	Stationary	1	0
-S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Turkey Vulture	Cathartes aura	7815	species	5	39.5626640	-107.5061290	Stationary	1	0
 S45002983	2018-04-25	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Canada Goose	Branta canadensis	342	species	9	39.5626640	-107.5061290	Stationary	1	0
+S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Turkey Vulture	Cathartes aura	7815	species	5	39.5626640	-107.5061290	Stationary	1	0
 S45002983	2018-04-25	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Black-billed Magpie	Pica hudsonia	21476	species	7	39.5626640	-107.5061290	Stationary	1	0
 S51065525	2018-12-29	L8323684	County Road 335	Common Raven	Corvus corax	21624	species	2	39.5595890	-107.5502310	Traveling	1	0
 S47071079	2018-07-08	L7684784	Bruce Rd, New Castle US-CO (39.5645,-107.5166)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	20	39.5644670	-107.5165530	Stationary	1	0
@@ -145,8 +145,8 @@ S45002983	2018-04-25	L7218788	7061–7137 County Road 335, New Castle US-CO (39.
 S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Black-billed Magpie	Pica hudsonia	21476	species	17	39.5626640	-107.5061290	Stationary	1	0
 S41682700	2018-01-06	L6626027	Lariat Loop, New Castle US-CO (39.5850,-107.5383)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	39.5849870	-107.5382990	Stationary	1	0
 S47071079	2018-07-08	L7684784	Bruce Rd, New Castle US-CO (39.5645,-107.5166)	Turkey Vulture	Cathartes aura	7815	species	1	39.5644670	-107.5165530	Stationary	1	0
-S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	39.5626640	-107.5061290	Stationary	1	0
 S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Tree Swallow	Tachycineta bicolor	24064	species	13	39.5626640	-107.5061290	Stationary	1	0
+S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	39.5626640	-107.5061290	Stationary	1	0
 S47118487	2018-07-10	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	large falcon sp.	Falco sp. (large falcon sp.)	12139	spuh	1	39.5626640	-107.5061290	Stationary	1	0
 S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	Cooper's Hawk	Astur cooperii	8278	species	1	39.5626640	-107.5061290	Stationary	1	0
 S44546182	2018-04-13	L7218788	7061–7137 County Road 335, New Castle US-CO (39.5627,-107.5061)	American Kestrel	Falco sparverius	12028	species	1	39.5626640	-107.5061290	Stationary	1	0
@@ -156,47 +156,47 @@ S50179230	2018-11-24	L7881856	Sunset Trail	Bushtit	Psaltriparus minimus	25253	sp
 S51065525	2018-12-29	L8323684	County Road 335	Mallard	Anas platyrhynchos	545	species	13	39.5595890	-107.5502310	Traveling	1	0
 S62252203	2019-12-12	L10281393	6255–6519 County Road 335, New Castle US-CO (39.5688,-107.5357)	Mallard	Anas platyrhynchos	545	species	4	39.5687700	-107.5356920	Traveling	1	0
 S62252203	2019-12-12	L10281393	6255–6519 County Road 335, New Castle US-CO (39.5688,-107.5357)	American Dipper	Cinclus mexicanus	27668	species	1	39.5687700	-107.5356920	Traveling	1	0
-S51348540	2019-01-05	L8375156	60 El Diente Way, New Castle US-CO (39.5772,-107.5327)	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5772470	-107.5326810	Stationary	1	0
 S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Common Raven	Corvus corax	21624	species	1	39.5838976	-107.5274882	Traveling	1	0
 S51348540	2019-01-05	L8375156	60 El Diente Way, New Castle US-CO (39.5772,-107.5327)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	39.5772470	-107.5326810	Stationary	1	0
 S62252203	2019-12-12	L10281393	6255–6519 County Road 335, New Castle US-CO (39.5688,-107.5357)	Canada Goose	Branta canadensis	342	species	20	39.5687700	-107.5356920	Traveling	1	0
-S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Chipping Sparrow	Spizella passerina	32990	species	1	39.5838976	-107.5274882	Traveling	1	0
 S51348540	2019-01-05	L8375156	60 El Diente Way, New Castle US-CO (39.5772,-107.5327)	Spotted Towhee	Pipilo maculatus	33386	species	1	39.5772470	-107.5326810	Stationary	1	0
 S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Violet-green Swallow	Tachycineta thalassina	24074	species	2	39.5838976	-107.5274882	Traveling	1	0
 S51348540	2019-01-05	L8375156	60 El Diente Way, New Castle US-CO (39.5772,-107.5327)	House Finch	Haemorhous mexicanus	32310	species	2	39.5772470	-107.5326810	Stationary	1	0
 S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Pine Siskin	Spinus pinus	32595	species	8	39.5838976	-107.5274882	Traveling	1	0
 S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5838976	-107.5274882	Traveling	1	0
 S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	House Finch	Haemorhous mexicanus	32310	species	3	39.5838976	-107.5274882	Traveling	1	0
-S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Plumbeous Vireo	Vireo plumbeus	19231	species	1	39.5838976	-107.5274882	Traveling	1	0
 S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Western Kingbird	Tyrannus verticalis	17467	species	1	39.5838976	-107.5274882	Traveling	1	0
 S62252203	2019-12-12	L10281393	6255–6519 County Road 335, New Castle US-CO (39.5688,-107.5357)	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5687700	-107.5356920	Traveling	1	0
-S70576369	2020-06-18	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	1	39.5838777	-107.5245512	Traveling	1	0
+S51348540	2019-01-05	L8375156	60 El Diente Way, New Castle US-CO (39.5772,-107.5327)	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5772470	-107.5326810	Stationary	1	0
+S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Chipping Sparrow	Spizella passerina	32990	species	1	39.5838976	-107.5274882	Traveling	1	0
+S56721656	2019-05-25	L5897690	Sunrise Trail ,Newcastle	Plumbeous Vireo	Vireo plumbeus	19231	species	1	39.5838976	-107.5274882	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Violet-green Swallow	Tachycineta thalassina	24074	species	10	39.5752400	-107.5407900	Stationary	1	0
 S68838987	2020-05-10	L11411842	290 Mikala Ln, New Castle US-CO 39.57527, -107.54087	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	39.5752650	-107.5408710	Traveling	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Lesser Goldfinch	Spinus psaltria	32609	species	2	39.5767506	-107.5207463	Stationary	1	0
+S74493633	2020-10-06	L7881856	Sunset Trail	Townsend's Solitaire	Myadestes townsendi	28163	species	2	39.5838777	-107.5245512	Traveling	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33142	issf	2	39.5838777	-107.5245512	Traveling	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	Yellow-rumped Warbler	Setophaga coronata	34161	issf	3	39.5838777	-107.5245512	Traveling	1	0
-S74493633	2020-10-06	L7881856	Sunset Trail	Townsend's Solitaire	Myadestes townsendi	28163	species	2	39.5838777	-107.5245512	Traveling	1	0
-S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Western Tanager	Piranga ludoviciana	34439	species	1	39.5752400	-107.5407900	Stationary	1	0
+S70576369	2020-06-18	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	1	39.5838777	-107.5245512	Traveling	1	0
+S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Lazuli Bunting	Passerina amoena	34606	species	1	39.5751360	-107.5412080	Stationary	1	0
+S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5767506	-107.5207463	Traveling	1	0
+S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	House Sparrow	Passer domesticus	31534	species	10	39.5767506	-107.5207463	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Turkey Vulture	Cathartes aura	7815	species	4	39.5752400	-107.5407900	Stationary	1	0
+S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Western Tanager	Piranga ludoviciana	34439	species	1	39.5752400	-107.5407900	Stationary	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Belted Kingfisher	Megaceryle alcyon	10306	species	1	39.5752400	-107.5407900	Stationary	1	0
 S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Violet-green Swallow	Tachycineta thalassina	24074	species	2	39.5751360	-107.5412080	Stationary	1	0
 S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	House Finch	Haemorhous mexicanus	32310	species	10	39.5767506	-107.5207463	Traveling	1	0
 S70576369	2020-06-18	L7881856	Sunset Trail	Ash-throated Flycatcher	Myiarchus cinerascens	17323	species	1	39.5838777	-107.5245512	Traveling	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	1	39.5838777	-107.5245512	Traveling	1	0
-S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Lazuli Bunting	Passerina amoena	34606	species	1	39.5751360	-107.5412080	Stationary	1	0
-S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5767506	-107.5207463	Traveling	1	0
-S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	House Sparrow	Passer domesticus	31534	species	10	39.5767506	-107.5207463	Traveling	1	0
 S67626149	2020-04-22	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Belted Kingfisher	Megaceryle alcyon	10306	species	1	39.5752400	-107.5407900	Stationary	1	0
 S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Western Flycatcher	Empidonax difficilis	16980	issf	1	39.5767506	-107.5207463	Traveling	1	0
-S74493633	2020-10-06	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	3	39.5838777	-107.5245512	Traveling	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	2	39.5838777	-107.5245512	Traveling	1	0
+S74493633	2020-10-06	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	3	39.5838777	-107.5245512	Traveling	1	0
 S68838987	2020-05-10	L11411842	290 Mikala Ln, New Castle US-CO 39.57527, -107.54087	Pine Siskin	Spinus pinus	32595	species	5	39.5752650	-107.5408710	Traveling	1	0
-S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Brown-headed Cowbird	Molothrus ater	33833	species	2	39.5751360	-107.5412080	Stationary	1	0
-S70576369	2020-06-18	L7881856	Sunset Trail	Lesser Goldfinch	Spinus psaltria	32609	species	3	39.5838777	-107.5245512	Traveling	1	0
-S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Mountain Bluebird	Sialia currucoides	28144	species	10	39.5767506	-107.5207463	Traveling	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Mountain Chickadee	Poecile gambeli	22077	species	1	39.5767506	-107.5207463	Stationary	1	0
+S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Mountain Bluebird	Sialia currucoides	28144	species	10	39.5767506	-107.5207463	Traveling	1	0
+S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Brown-headed Cowbird	Molothrus ater	33833	species	2	39.5751360	-107.5412080	Stationary	1	0
 S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5751360	-107.5412080	Stationary	1	0
+S70576369	2020-06-18	L7881856	Sunset Trail	Lesser Goldfinch	Spinus psaltria	32609	species	3	39.5838777	-107.5245512	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Pine Siskin	Spinus pinus	32595	species	7	39.5752400	-107.5407900	Stationary	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	Rock Pigeon	Columba livia	1868	domestic	12	39.5838777	-107.5245512	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	European Starling	Sturnus vulgaris	27813	species	1	39.5752400	-107.5407900	Stationary	1	0
@@ -206,8 +206,8 @@ S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54
 S72860788	2020-08-26	L12055542	NewCastle Spirit Way CO	Mountain Chickadee	Poecile gambeli	22077	species	1	39.5767506	-107.5207463	Stationary	1	0
 S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	House Sparrow	Passer domesticus	31534	species	1	39.5751360	-107.5412080	Stationary	1	0
 S70576369	2020-06-18	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	5	39.5838777	-107.5245512	Traveling	1	0
-S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Evening Grosbeak	Hesperiphona vespertina	32085	species	1	39.5752400	-107.5407900	Stationary	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Lazuli Bunting	Passerina amoena	34606	species	1	39.5752400	-107.5407900	Stationary	1	0
+S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Evening Grosbeak	Hesperiphona vespertina	32085	species	1	39.5752400	-107.5407900	Stationary	1	0
 S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5767506	-107.5207463	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Brown-headed Cowbird	Molothrus ater	33833	species	1	39.5752400	-107.5407900	Stationary	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Rufous Hummingbird	Selasphorus rufus	4826	species	1	39.5767506	-107.5207463	Stationary	1	0
@@ -218,188 +218,188 @@ S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Western Kingbird	Tyrannus
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Rock Pigeon	Columba livia	1868	domestic	5	39.5767506	-107.5207463	Stationary	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	House Finch	Haemorhous mexicanus	32310	species	2	39.5752400	-107.5407900	Stationary	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Western Tanager	Piranga ludoviciana	34439	species	1	39.5767506	-107.5207463	Stationary	1	0
-S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Bullock's Oriole	Icterus bullockii	33736	species	1	39.5751360	-107.5412080	Stationary	1	0
 S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Rufous Hummingbird	Selasphorus rufus	4826	species	2	39.5767506	-107.5207463	Traveling	1	0
 S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	39.5751360	-107.5412080	Stationary	1	0
+S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Bullock's Oriole	Icterus bullockii	33736	species	1	39.5751360	-107.5412080	Stationary	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	American Kestrel	Falco sparverius	12028	species	1	39.5767506	-107.5207463	Stationary	1	0
-S70576369	2020-06-18	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	2	39.5838777	-107.5245512	Traveling	1	0
-S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Black-billed Magpie	Pica hudsonia	21476	species	4	39.5767506	-107.5207463	Traveling	1	0
-S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Red-winged Blackbird	Agelaius phoeniceus	33779	species	8	39.5767506	-107.5207463	Traveling	1	0
-S70576369	2020-06-18	L7881856	Sunset Trail	Western Meadowlark	Sturnella neglecta	33565	species	3	39.5838777	-107.5245512	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Northern Flicker	Colaptes auratus	11900	species	1	39.5752400	-107.5407900	Stationary	1	0
+S70576369	2020-06-18	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	2	39.5838777	-107.5245512	Traveling	1	0
+S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Red-winged Blackbird	Agelaius phoeniceus	33779	species	8	39.5767506	-107.5207463	Traveling	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5838777	-107.5245512	Traveling	1	0
-S70576369	2020-06-18	L7881856	Sunset Trail	Turkey Vulture	Cathartes aura	7815	species	1	39.5838777	-107.5245512	Traveling	1	0
+S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Black-billed Magpie	Pica hudsonia	21476	species	4	39.5767506	-107.5207463	Traveling	1	0
+S70576369	2020-06-18	L7881856	Sunset Trail	Western Meadowlark	Sturnella neglecta	33565	species	3	39.5838777	-107.5245512	Traveling	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	House Sparrow	Passer domesticus	31534	species	15	39.5767506	-107.5207463	Stationary	1	0
-S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	American Robin	Turdus migratorius	28633	species	2	39.5767506	-107.5207463	Traveling	1	0
-S67626149	2020-04-22	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5752400	-107.5407900	Stationary	1	0
 S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Rufous Hummingbird	Selasphorus rufus	4826	species	1	39.5751360	-107.5412080	Stationary	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Mountain Bluebird	Sialia currucoides	28144	species	2	39.5767506	-107.5207463	Stationary	1	0
-S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Western Kingbird	Tyrannus verticalis	17467	species	4	39.5767506	-107.5207463	Stationary	1	0
+S70576369	2020-06-18	L7881856	Sunset Trail	Turkey Vulture	Cathartes aura	7815	species	1	39.5838777	-107.5245512	Traveling	1	0
+S67626149	2020-04-22	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5752400	-107.5407900	Stationary	1	0
+S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	American Robin	Turdus migratorius	28633	species	2	39.5767506	-107.5207463	Traveling	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	39.5767506	-107.5207463	Stationary	1	0
+S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Western Kingbird	Tyrannus verticalis	17467	species	4	39.5767506	-107.5207463	Stationary	1	0
 S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Black-chinned Hummingbird	Archilochus alexandri	4803	species	8	39.5767506	-107.5207463	Traveling	1	0
 S70576369	2020-06-18	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	1	39.5838777	-107.5245512	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	American Crow	Corvus brachyrhynchos	21557	species	3	39.5752400	-107.5407900	Stationary	1	0
-S70576369	2020-06-18	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	2	39.5838777	-107.5245512	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	American Goldfinch	Spinus tristis	32617	species	2	39.5752400	-107.5407900	Stationary	1	0
+S70576369	2020-06-18	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	2	39.5838777	-107.5245512	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5752400	-107.5407900	Stationary	1	0
 S68838987	2020-05-10	L11411842	290 Mikala Ln, New Castle US-CO 39.57527, -107.54087	Bullock's Oriole	Icterus bullockii	33736	species	1	39.5752650	-107.5408710	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	3	39.5752400	-107.5407900	Stationary	1	0
-S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Spotted Towhee	Pipilo maculatus	33386	species	1	39.5751360	-107.5412080	Stationary	1	0
 S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Downy Woodpecker	Dryobates pubescens	11400	species	1	39.5751360	-107.5412080	Stationary	1	0
 S72860788	2020-08-26	L12055542	NewCastle Spirit Way CO	House Finch	Haemorhous mexicanus	32310	species	3	39.5767506	-107.5207463	Stationary	1	0
+S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Spotted Towhee	Pipilo maculatus	33386	species	1	39.5751360	-107.5412080	Stationary	1	0
+S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Mourning Dove	Zenaida macroura	2412	species	4	39.5767506	-107.5207463	Stationary	1	0
 S68838987	2020-05-10	L11411842	290 Mikala Ln, New Castle US-CO 39.57527, -107.54087	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	39.5752650	-107.5408710	Traveling	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	3	39.5838777	-107.5245512	Traveling	1	0
-S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Mourning Dove	Zenaida macroura	2412	species	4	39.5767506	-107.5207463	Stationary	1	0
 S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	Turkey Vulture	Cathartes aura	7815	species	1	39.5751360	-107.5412080	Stationary	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	39.5752400	-107.5407900	Stationary	1	0
-S68838987	2020-05-10	L11411842	290 Mikala Ln, New Castle US-CO 39.57527, -107.54087	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	4	39.5752650	-107.5408710	Traveling	1	0
 S71558323	2020-07-16	L11909820	289 Mikala Ln, New Castle US-CO 39.57514, -107.54121	House Finch	Haemorhous mexicanus	32310	species	1	39.5751360	-107.5412080	Stationary	1	0
-S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	39.5767506	-107.5207463	Traveling	1	0
-S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Cassin's Finch	Haemorhous cassinii	32329	species	5	39.5752400	-107.5407900	Stationary	1	0
 S72860788	2020-08-26	L12055542	NewCastle Spirit Way CO	Lesser Goldfinch	Spinus psaltria	32609	species	1	39.5767506	-107.5207463	Stationary	1	0
+S68838987	2020-05-10	L11411842	290 Mikala Ln, New Castle US-CO 39.57527, -107.54087	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	4	39.5752650	-107.5408710	Traveling	1	0
+S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Cassin's Finch	Haemorhous cassinii	32329	species	5	39.5752400	-107.5407900	Stationary	1	0
+S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	39.5767506	-107.5207463	Traveling	1	0
 S70576369	2020-06-18	L7881856	Sunset Trail	Barn Swallow	Hirundo rustica	24187	species	2	39.5838777	-107.5245512	Traveling	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	4	39.5838777	-107.5245512	Traveling	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	House Finch	Haemorhous mexicanus	32310	species	8	39.5767506	-107.5207463	Stationary	1	0
 S72860788	2020-08-26	L12055542	NewCastle Spirit Way CO	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	39.5767506	-107.5207463	Stationary	1	0
 S72347116	2020-08-11	L12055542	NewCastle Spirit Way CO	Mourning Dove	Zenaida macroura	2412	species	8	39.5767506	-107.5207463	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Western Kingbird	Tyrannus verticalis	17467	species	1	39.5752400	-107.5407900	Stationary	1	0
-S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Black-chinned Hummingbird	Archilochus alexandri	4803	species	10	39.5767506	-107.5207463	Stationary	1	0
-S70576369	2020-06-18	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	4	39.5838777	-107.5245512	Traveling	1	0
 S70576369	2020-06-18	L7881856	Sunset Trail	Say's Phoebe	Sayornis saya	17010	species	1	39.5838777	-107.5245512	Traveling	1	0
-S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Northern House Wren	Troglodytes aedon	27191	species	1	39.5752400	-107.5407900	Stationary	1	0
+S70576369	2020-06-18	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	4	39.5838777	-107.5245512	Traveling	1	0
+S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Black-chinned Hummingbird	Archilochus alexandri	4803	species	10	39.5767506	-107.5207463	Stationary	1	0
 S72860788	2020-08-26	L12055542	NewCastle Spirit Way CO	Common Nighthawk	Chordeiles minor	3492	species	1	39.5767506	-107.5207463	Stationary	1	0
 S67626149	2020-04-22	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	American Goldfinch	Spinus tristis	32617	species	1	39.5752400	-107.5407900	Stationary	1	0
 S74493633	2020-10-06	L7881856	Sunset Trail	Pinyon Jay	Gymnorhinus cyanocephalus	21273	species	8	39.5838777	-107.5245512	Traveling	1	0
-S68838987	2020-05-10	L11411842	290 Mikala Ln, New Castle US-CO 39.57527, -107.54087	Western Tanager	Piranga ludoviciana	34439	species	1	39.5752650	-107.5408710	Traveling	1	0
 S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	39.5752400	-107.5407900	Stationary	1	0
 S72416966	2020-08-14	L12055542	NewCastle Spirit Way CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5767506	-107.5207463	Stationary	1	0
+S68757125	2020-05-09	L11217982	290 Mikala Ln, New Castle US-CO 39.57524, -107.54079	Northern House Wren	Troglodytes aedon	27191	species	1	39.5752400	-107.5407900	Stationary	1	0
+S68838987	2020-05-10	L11411842	290 Mikala Ln, New Castle US-CO 39.57527, -107.54087	Western Tanager	Piranga ludoviciana	34439	species	1	39.5752650	-107.5408710	Traveling	1	0
 S72860788	2020-08-26	L12055542	NewCastle Spirit Way CO	Barn Swallow	Hirundo rustica	24187	species	1	39.5767506	-107.5207463	Stationary	1	0
-S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	39.5649329	-107.5109518	Traveling	1	0
-S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	European Starling	Sturnus vulgaris	27813	species	4	39.5649329	-107.5109518	Traveling	1	0
 S82504902	2021-02-28	L13228889	Home	House Finch	Haemorhous mexicanus	32310	species	2	39.5725430	-107.5364790	Stationary	1	0
 S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	American Robin	Turdus migratorius	28633	species	3	39.5863752	-107.5313572	Traveling	1	0
-S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	House Finch	Haemorhous mexicanus	32310	species	1	39.5863752	-107.5313572	Traveling	1	0
+S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	39.5649329	-107.5109518	Traveling	1	0
 S79172950	2021-01-13	L4545179	Newcastle Area	Common Raven	Corvus corax	21624	species	3	39.5706823	-107.5364542	Traveling	1	0
+S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	House Finch	Haemorhous mexicanus	32310	species	1	39.5863752	-107.5313572	Traveling	1	0
+S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	European Starling	Sturnus vulgaris	27813	species	4	39.5649329	-107.5109518	Traveling	1	0
 S87088474	2021-05-04	L12140252	Buckskin Cir	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5850114	-107.5288978	Stationary	1	0
+S79172950	2021-01-13	L4545179	Newcastle Area	House Sparrow	Passer domesticus	31534	species	4	39.5706823	-107.5364542	Traveling	1	0
 S82266887	2021-02-24	L13228889	Home	House Finch	Haemorhous mexicanus	32310	species	2	39.5725430	-107.5364790	Stationary	1	0
 S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Turkey Vulture	Cathartes aura	7815	species	5	39.5863752	-107.5313572	Traveling	1	0
-S79172950	2021-01-13	L4545179	Newcastle Area	House Sparrow	Passer domesticus	31534	species	4	39.5706823	-107.5364542	Traveling	1	0
 S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Ash-throated Flycatcher	Myiarchus cinerascens	17323	species	1	39.5863752	-107.5313572	Traveling	1	0
 S97584784	2021-11-14	L16894266	525 Wagon Wheel Cir, New Castle US-CO 39.58399, -107.53700	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	39.5839870	-107.5369990	Traveling	1	0
 S87088474	2021-05-04	L12140252	Buckskin Cir	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5850114	-107.5288978	Stationary	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Say's Phoebe	Sayornis saya	17010	species	2	39.5649329	-107.5109518	Traveling	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Black-billed Magpie	Pica hudsonia	21476	species	12	39.5649329	-107.5109518	Traveling	1	0
 S79172950	2021-01-13	L4545179	Newcastle Area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	39.5706823	-107.5364542	Traveling	1	0
+S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5863752	-107.5313572	Traveling	1	0
 S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Western Wood-Pewee	Contopus sordidulus	16912	species	1	39.5863752	-107.5313572	Traveling	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	American Robin	Turdus migratorius	28633	species	6	39.5649329	-107.5109518	Traveling	1	0
-S82266887	2021-02-24	L13228889	Home	Pine Siskin	Spinus pinus	32595	species	1	39.5725430	-107.5364790	Stationary	1	0
-S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5863752	-107.5313572	Traveling	1	0
 S98093879	2021-11-26	L16976057	4039 County Road 335, New Castle US-CO 39.55358, -107.55777	Mallard	Anas platyrhynchos	545	species	6	39.5535770	-107.5577740	Traveling	1	0
+S82266887	2021-02-24	L13228889	Home	Pine Siskin	Spinus pinus	32595	species	1	39.5725430	-107.5364790	Stationary	1	0
 S87088474	2021-05-04	L12140252	Buckskin Cir	Common Raven	Corvus corax	21624	species	2	39.5850114	-107.5288978	Stationary	1	0
-S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5863752	-107.5313572	Traveling	1	0
-S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Great Blue Heron	Ardea herodias	7753	species	1	39.5649329	-107.5109518	Traveling	1	0
 S97584784	2021-11-14	L16894266	525 Wagon Wheel Cir, New Castle US-CO 39.58399, -107.53700	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	39.5839870	-107.5369990	Traveling	1	0
+S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Great Blue Heron	Ardea herodias	7753	species	1	39.5649329	-107.5109518	Traveling	1	0
+S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5863752	-107.5313572	Traveling	1	0
+S87088474	2021-05-04	L12140252	Buckskin Cir	Turkey Vulture	Cathartes aura	7815	species	6	39.5850114	-107.5288978	Stationary	1	0
+S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Spotted Towhee	Pipilo maculatus	33386	species	2	39.5863752	-107.5313572	Traveling	1	0
+S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	swallow sp.	Hirundinidae sp.	24305	spuh	3	39.5863752	-107.5313572	Traveling	1	0
+S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5863752	-107.5313572	Traveling	1	0
 S82504902	2021-02-28	L13228889	Home	Pine Siskin	Spinus pinus	32595	species	2	39.5725430	-107.5364790	Stationary	1	0
 S82266887	2021-02-24	L13228889	Home	Northern Flicker	Colaptes auratus	11900	species	1	39.5725430	-107.5364790	Stationary	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	15	39.5649329	-107.5109518	Traveling	1	0
-S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5863752	-107.5313572	Traveling	1	0
-S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	swallow sp.	Hirundinidae sp.	24305	spuh	3	39.5863752	-107.5313572	Traveling	1	0
-S87088474	2021-05-04	L12140252	Buckskin Cir	Turkey Vulture	Cathartes aura	7815	species	6	39.5850114	-107.5288978	Stationary	1	0
-S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Spotted Towhee	Pipilo maculatus	33386	species	2	39.5863752	-107.5313572	Traveling	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	39.5649329	-107.5109518	Traveling	1	0
-S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Western Kingbird	Tyrannus verticalis	17467	species	2	39.5649329	-107.5109518	Traveling	1	0
 S87088474	2021-05-04	L12140252	Buckskin Cir	House Finch	Haemorhous mexicanus	32310	species	3	39.5850114	-107.5288978	Stationary	1	0
 S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Swainson's Hawk	Buteo swainsoni	8504	species	1	39.5863752	-107.5313572	Traveling	1	0
+S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Western Kingbird	Tyrannus verticalis	17467	species	2	39.5649329	-107.5109518	Traveling	1	0
+S87088474	2021-05-04	L12140252	Buckskin Cir	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5850114	-107.5288978	Stationary	1	0
+S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Mallard	Anas platyrhynchos	545	species	2	39.5649329	-107.5109518	Traveling	1	0
 S87088474	2021-05-04	L12140252	Buckskin Cir	American Goldfinch	Spinus tristis	32617	species	2	39.5850114	-107.5288978	Stationary	1	0
+S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Bullock's Oriole	Icterus bullockii	33736	species	1	39.5649329	-107.5109518	Traveling	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Double-crested Cormorant	Nannopterum auritum	7424	species	1	39.5649329	-107.5109518	Traveling	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Tree Swallow	Tachycineta bicolor	24064	species	2	39.5649329	-107.5109518	Traveling	1	0
-S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Mallard	Anas platyrhynchos	545	species	2	39.5649329	-107.5109518	Traveling	1	0
-S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Bullock's Oriole	Icterus bullockii	33736	species	1	39.5649329	-107.5109518	Traveling	1	0
-S87088474	2021-05-04	L12140252	Buckskin Cir	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5850114	-107.5288978	Stationary	1	0
-S87088474	2021-05-04	L12140252	Buckskin Cir	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	39.5850114	-107.5288978	Stationary	1	0
 S87088474	2021-05-04	L12140252	Buckskin Cir	Evening Grosbeak	Hesperiphona vespertina	32085	species	3	39.5850114	-107.5288978	Stationary	1	0
-S82266887	2021-02-24	L13228889	Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5725430	-107.5364790	Stationary	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	House Finch	Haemorhous mexicanus	32310	species	5	39.5649329	-107.5109518	Traveling	1	0
+S82266887	2021-02-24	L13228889	Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5725430	-107.5364790	Stationary	1	0
+S87088474	2021-05-04	L12140252	Buckskin Cir	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	39.5850114	-107.5288978	Stationary	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	39.5649329	-107.5109518	Traveling	1	0
-S82266887	2021-02-24	L13228889	Home	Dark-eyed Junco	Junco hyemalis	33124	species	6	39.5725430	-107.5364790	Stationary	1	0
-S82266887	2021-02-24	L13228889	Home	Black-capped Chickadee	Poecile atricapillus	22065	species	1	39.5725430	-107.5364790	Stationary	1	0
+S87088474	2021-05-04	L12140252	Buckskin Cir	Rock Pigeon	Columba livia	1868	domestic	4	39.5850114	-107.5288978	Stationary	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Common Raven	Corvus corax	21624	species	3	39.5649329	-107.5109518	Traveling	1	0
 S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Common Raven	Corvus corax	21624	species	2	39.5863752	-107.5313572	Traveling	1	0
-S87088474	2021-05-04	L12140252	Buckskin Cir	Rock Pigeon	Columba livia	1868	domestic	4	39.5850114	-107.5288978	Stationary	1	0
-S82504902	2021-02-28	L13228889	Home	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	39.5725430	-107.5364790	Stationary	1	0
-S87088474	2021-05-04	L12140252	Buckskin Cir	American Robin	Turdus migratorius	28633	species	3	39.5850114	-107.5288978	Stationary	1	0
-S82266887	2021-02-24	L13228889	Home	Golden Eagle	Aquila chrysaetos	8064	species	1	39.5725430	-107.5364790	Stationary	1	0
 S97584784	2021-11-14	L16894266	525 Wagon Wheel Cir, New Castle US-CO 39.58399, -107.53700	House Sparrow	Passer domesticus	31534	species	3	39.5839870	-107.5369990	Traveling	1	0
+S82266887	2021-02-24	L13228889	Home	Dark-eyed Junco	Junco hyemalis	33124	species	6	39.5725430	-107.5364790	Stationary	1	0
+S87088474	2021-05-04	L12140252	Buckskin Cir	American Robin	Turdus migratorius	28633	species	3	39.5850114	-107.5288978	Stationary	1	0
+S82266887	2021-02-24	L13228889	Home	Black-capped Chickadee	Poecile atricapillus	22065	species	1	39.5725430	-107.5364790	Stationary	1	0
+S82504902	2021-02-28	L13228889	Home	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	39.5725430	-107.5364790	Stationary	1	0
+S82266887	2021-02-24	L13228889	Home	Golden Eagle	Aquila chrysaetos	8064	species	1	39.5725430	-107.5364790	Stationary	1	0
 S79172950	2021-01-13	L4545179	Newcastle Area	American Crow	Corvus brachyrhynchos	21557	species	4	39.5706823	-107.5364542	Traveling	1	0
-S97584784	2021-11-14	L16894266	525 Wagon Wheel Cir, New Castle US-CO 39.58399, -107.53700	Juniper Titmouse	Baeolophus ridgwayi	22155	species	2	39.5839870	-107.5369990	Traveling	1	0
-S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Accipitrine hawk sp. (former Accipiter sp.)	Aerospiza/Tachyspiza/Accipiter/Astur sp.	8304	spuh	1	39.5649329	-107.5109518	Traveling	1	0
-S98093879	2021-11-26	L16976057	4039 County Road 335, New Castle US-CO 39.55358, -107.55777	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21310	issf	1	39.5535770	-107.5577740	Traveling	1	0
 S87088474	2021-05-04	L12140252	Buckskin Cir	House Sparrow	Passer domesticus	31534	species	2	39.5850114	-107.5288978	Stationary	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Rock Pigeon	Columba livia	1868	domestic	14	39.5649329	-107.5109518	Traveling	1	0
+S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Accipitrine hawk sp. (former Accipiter sp.)	Aerospiza/Tachyspiza/Accipiter/Astur sp.	8304	spuh	1	39.5649329	-107.5109518	Traveling	1	0
 S97584784	2021-11-14	L16894266	525 Wagon Wheel Cir, New Castle US-CO 39.58399, -107.53700	Black-billed Magpie	Pica hudsonia	21476	species	1	39.5839870	-107.5369990	Traveling	1	0
-S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5863752	-107.5313572	Traveling	1	0
-S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Lark Sparrow	Chondestes grammacus	33029	species	3	39.5863752	-107.5313572	Traveling	1	0
+S98093879	2021-11-26	L16976057	4039 County Road 335, New Castle US-CO 39.55358, -107.55777	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21310	issf	1	39.5535770	-107.5577740	Traveling	1	0
+S97584784	2021-11-14	L16894266	525 Wagon Wheel Cir, New Castle US-CO 39.58399, -107.53700	Juniper Titmouse	Baeolophus ridgwayi	22155	species	2	39.5839870	-107.5369990	Traveling	1	0
 S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Mountain Bluebird	Sialia currucoides	28144	species	2	39.5863752	-107.5313572	Traveling	1	0
-S82504902	2021-02-28	L13228889	Home	Dark-eyed Junco	Junco hyemalis	33124	species	1	39.5725430	-107.5364790	Stationary	1	0
-S98093879	2021-11-26	L16976057	4039 County Road 335, New Castle US-CO 39.55358, -107.55777	Spotted Towhee	Pipilo maculatus	33386	species	1	39.5535770	-107.5577740	Traveling	1	0
+S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Lark Sparrow	Chondestes grammacus	33029	species	3	39.5863752	-107.5313572	Traveling	1	0
+S89904834	2021-06-09	L15191833	New Castle, Castle Valley area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5863752	-107.5313572	Traveling	1	0
 S82504902	2021-02-28	L13228889	Home	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	39.5725430	-107.5364790	Stationary	1	0
 S87088474	2021-05-04	L12140252	Buckskin Cir	Dark-eyed Junco	Junco hyemalis	33124	species	5	39.5850114	-107.5288978	Stationary	1	0
 S82266887	2021-02-24	L13228889	Home	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	39.5725430	-107.5364790	Stationary	1	0
+S82504902	2021-02-28	L13228889	Home	Dark-eyed Junco	Junco hyemalis	33124	species	1	39.5725430	-107.5364790	Stationary	1	0
+S98093879	2021-11-26	L16976057	4039 County Road 335, New Castle US-CO 39.55358, -107.55777	Spotted Towhee	Pipilo maculatus	33386	species	1	39.5535770	-107.5577740	Traveling	1	0
 S79172950	2021-01-13	L4545179	Newcastle Area	Black-billed Magpie	Pica hudsonia	21476	species	7	39.5706823	-107.5364542	Traveling	1	0
-S98093879	2021-11-26	L16976057	4039 County Road 335, New Castle US-CO 39.55358, -107.55777	American Crow	Corvus brachyrhynchos	21557	species	2	39.5535770	-107.5577740	Traveling	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Swainson's Hawk	Buteo swainsoni	8504	species	1	39.5649329	-107.5109518	Traveling	1	0
+S98093879	2021-11-26	L16976057	4039 County Road 335, New Castle US-CO 39.55358, -107.55777	American Crow	Corvus brachyrhynchos	21557	species	2	39.5535770	-107.5577740	Traveling	1	0
 S97584784	2021-11-14	L16894266	525 Wagon Wheel Cir, New Castle US-CO 39.58399, -107.53700	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	39.5839870	-107.5369990	Traveling	1	0
 S98093879	2021-11-26	L16976057	4039 County Road 335, New Castle US-CO 39.55358, -107.55777	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	39.5535770	-107.5577740	Traveling	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	House Sparrow	Passer domesticus	31534	species	5	39.5649329	-107.5109518	Traveling	1	0
 S88996901	2021-05-25	L15108129	Grand River Park, New Castle, CO	Canada Goose	Branta canadensis	342	species	7	39.5649329	-107.5109518	Traveling	1	0
 S100798445	2022-01-15	L13228889	Home	House Finch	Haemorhous mexicanus	32310	species	4	39.5725430	-107.5364790	Stationary	1	0
 S105370114	2022-03-22	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Rock Pigeon	Columba livia	1868	domestic	34	39.5714090	-107.5327060	Traveling	1	0
-S100798445	2022-01-15	L13228889	Home	American Crow	Corvus brachyrhynchos	21557	species	3	39.5725430	-107.5364790	Stationary	1	0
 S100877765	2022-01-16	L13228889	Home	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	39.5725430	-107.5364790	Stationary	1	0
+S100798445	2022-01-15	L13228889	Home	American Crow	Corvus brachyrhynchos	21557	species	3	39.5725430	-107.5364790	Stationary	1	0
 S100877765	2022-01-16	L13228889	Home	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5725430	-107.5364790	Stationary	1	0
 S105370114	2022-03-22	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	American Crow	Corvus brachyrhynchos	21557	species	3	39.5714090	-107.5327060	Traveling	1	0
 S115796705	2022-07-26	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	2	39.5838777	-107.5245512	Traveling	1	0
+S115796705	2022-07-26	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	1	39.5838777	-107.5245512	Traveling	1	0
 S100798445	2022-01-15	L13228889	Home	Northern Flicker	Colaptes auratus	11900	species	2	39.5725430	-107.5364790	Stationary	1	0
 S105370114	2022-03-22	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	House Sparrow	Passer domesticus	31534	species	18	39.5714090	-107.5327060	Traveling	1	0
-S115796705	2022-07-26	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	1	39.5838777	-107.5245512	Traveling	1	0
-S115796705	2022-07-26	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	2	39.5838777	-107.5245512	Traveling	1	0
-S100798445	2022-01-15	L13228889	Home	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5725430	-107.5364790	Stationary	1	0
-S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	American Robin	Turdus migratorius	28633	species	3	39.5714090	-107.5327060	Stationary	1	0
-S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	Song Sparrow	Melospiza melodia	33277	species	3	39.5694410	-107.5388740	Traveling	1	0
-S119055921	2022-09-19	L20932605	The Lodge grounds	House Sparrow	Passer domesticus	31534	species	2	39.5676044	-107.5172710	Stationary	1	0
 S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5694410	-107.5388740	Traveling	1	0
+S100798445	2022-01-15	L13228889	Home	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5725430	-107.5364790	Stationary	1	0
+S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	Song Sparrow	Melospiza melodia	33277	species	3	39.5694410	-107.5388740	Traveling	1	0
+S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	American Robin	Turdus migratorius	28633	species	3	39.5714090	-107.5327060	Stationary	1	0
+S119055921	2022-09-19	L20932605	The Lodge grounds	House Sparrow	Passer domesticus	31534	species	2	39.5676044	-107.5172710	Stationary	1	0
+S115796705	2022-07-26	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	2	39.5838777	-107.5245512	Traveling	1	0
 S100877765	2022-01-16	L13228889	Home	Downy Woodpecker	Dryobates pubescens	11400	species	1	39.5725430	-107.5364790	Stationary	1	0
 S100877765	2022-01-16	L13228889	Home	Northern Flicker	Colaptes auratus	11900	species	1	39.5725430	-107.5364790	Stationary	1	0
+S115796705	2022-07-26	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	7	39.5838777	-107.5245512	Traveling	1	0
 S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Killdeer	Charadrius vociferus	5827	species	1	39.5714090	-107.5327060	Stationary	1	0
 S119055921	2022-09-19	L20932605	The Lodge grounds	American Crow	Corvus brachyrhynchos	21557	species	1	39.5676044	-107.5172710	Stationary	1	0
 S111723524	2022-05-30	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	1	39.5838777	-107.5245512	Traveling	1	0
-S115796705	2022-07-26	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	7	39.5838777	-107.5245512	Traveling	1	0
 S111723524	2022-05-30	L7881856	Sunset Trail	Pine Siskin	Spinus pinus	32595	species	5	39.5838777	-107.5245512	Traveling	1	0
 S115796705	2022-07-26	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	3	39.5838777	-107.5245512	Traveling	1	0
 S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	House Sparrow	Passer domesticus	31534	species	1	39.5714090	-107.5327060	Stationary	1	0
 S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	American Crow	Corvus brachyrhynchos	21557	species	1	39.5714090	-107.5327060	Stationary	1	0
 S105370114	2022-03-22	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	39.5714090	-107.5327060	Traveling	1	0
-S111723524	2022-05-30	L7881856	Sunset Trail	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	39.5838777	-107.5245512	Traveling	1	0
 S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Black-billed Magpie	Pica hudsonia	21476	species	1	39.5714090	-107.5327060	Stationary	1	0
 S115796705	2022-07-26	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5838777	-107.5245512	Traveling	1	0
+S111723524	2022-05-30	L7881856	Sunset Trail	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	39.5838777	-107.5245512	Traveling	1	0
 S100798445	2022-01-15	L13228889	Home	Downy Woodpecker	Dryobates pubescens	11400	species	1	39.5725430	-107.5364790	Stationary	1	0
 S100798445	2022-01-15	L13228889	Home	Dark-eyed Junco	Junco hyemalis	33124	species	4	39.5725430	-107.5364790	Stationary	1	0
 S100798445	2022-01-15	L13228889	Home	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	39.5725430	-107.5364790	Stationary	1	0
+S115796705	2022-07-26	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	4	39.5838777	-107.5245512	Traveling	1	0
+S115796705	2022-07-26	L7881856	Sunset Trail	Ash-throated Flycatcher	Myiarchus cinerascens	17323	species	2	39.5838777	-107.5245512	Traveling	1	0
 S100798445	2022-01-15	L13228889	Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	39.5725430	-107.5364790	Stationary	1	0
 S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Lesser Goldfinch	Spinus psaltria	32609	species	3	39.5714090	-107.5327060	Stationary	1	0
-S115796705	2022-07-26	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	4	39.5838777	-107.5245512	Traveling	1	0
 S100877765	2022-01-16	L13228889	Home	European Starling	Sturnus vulgaris	27813	species	6	39.5725430	-107.5364790	Stationary	1	0
-S115796705	2022-07-26	L7881856	Sunset Trail	Ash-throated Flycatcher	Myiarchus cinerascens	17323	species	2	39.5838777	-107.5245512	Traveling	1	0
 S115796705	2022-07-26	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	1	39.5838777	-107.5245512	Traveling	1	0
 S115796705	2022-07-26	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	3	39.5838777	-107.5245512	Traveling	1	0
 S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	Canada Goose	Branta canadensis	342	species	2	39.5694410	-107.5388740	Traveling	1	0
 S111723524	2022-05-30	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5838777	-107.5245512	Traveling	1	0
-S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	39.5714090	-107.5327060	Stationary	1	0
-S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	new world warbler sp.	Parulidae sp.	34397	spuh	2	39.5694410	-107.5388740	Traveling	1	0
-S100877765	2022-01-16	L13228889	Home	American Crow	Corvus brachyrhynchos	21557	species	5	39.5725430	-107.5364790	Stationary	1	0
 S100877765	2022-01-16	L13228889	Home	House Finch	Haemorhous mexicanus	32310	species	8	39.5725430	-107.5364790	Stationary	1	0
 S105370114	2022-03-22	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	39.5714090	-107.5327060	Traveling	1	0
+S100877765	2022-01-16	L13228889	Home	American Crow	Corvus brachyrhynchos	21557	species	5	39.5725430	-107.5364790	Stationary	1	0
 S111723524	2022-05-30	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	3	39.5838777	-107.5245512	Traveling	1	0
+S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	39.5714090	-107.5327060	Stationary	1	0
+S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	new world warbler sp.	Parulidae sp.	34397	spuh	2	39.5694410	-107.5388740	Traveling	1	0
 S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	American Crow	Corvus brachyrhynchos	21557	species	1	39.5694410	-107.5388740	Traveling	1	0
 S100877765	2022-01-16	L13228889	Home	American Goldfinch	Spinus tristis	32617	species	2	39.5725430	-107.5364790	Stationary	1	0
 S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	House Sparrow	Passer domesticus	31534	species	2	39.5694410	-107.5388740	Traveling	1	0
@@ -410,259 +410,259 @@ S105370114	2022-03-22	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.
 S115796705	2022-07-26	L7881856	Sunset Trail	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	2	39.5838777	-107.5245512	Traveling	1	0
 S111723524	2022-05-30	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	1	39.5838777	-107.5245512	Traveling	1	0
 S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	European Starling	Sturnus vulgaris	27813	species	1	39.5694410	-107.5388740	Traveling	1	0
-S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	House Finch	Haemorhous mexicanus	32310	species	1	39.5714090	-107.5327060	Stationary	1	0
 S112936096	2022-05-11	L19640223	Colo.—Garfield Co.—I-70 (near New Castle)	swallow sp.	Hirundinidae sp.	24305	spuh	2	39.5694410	-107.5388740	Traveling	1	0
 S119055921	2022-09-19	L20932605	The Lodge grounds	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5676044	-107.5172710	Stationary	1	0
+S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	House Finch	Haemorhous mexicanus	32310	species	1	39.5714090	-107.5327060	Stationary	1	0
 S105370114	2022-03-22	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	House Finch	Haemorhous mexicanus	32310	species	1	39.5714090	-107.5327060	Traveling	1	0
 S100798445	2022-01-15	L13228889	Home	European Starling	Sturnus vulgaris	27813	species	6	39.5725430	-107.5364790	Stationary	1	0
+S111723524	2022-05-30	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	4	39.5838777	-107.5245512	Traveling	1	0
 S100877765	2022-01-16	L13228889	Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5725430	-107.5364790	Stationary	1	0
 S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	39.5714090	-107.5327060	Stationary	1	0
 S112555463	2022-06-09	L18213187	Jasper Ward Ave, New Castle US-CO (39.5714,-107.5327)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	39.5714090	-107.5327060	Stationary	1	0
-S111723524	2022-05-30	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	4	39.5838777	-107.5245512	Traveling	1	0
-S131713153	2023-03-24	L23202269	Eagles	American Wigeon	Mareca americana	517	species	10	39.5626430	-107.5058740	Traveling	1	0
-S148834734	2023-09-02	L7881856	Sunset Trail	Pine Siskin	Spinus pinus	32595	species	1	39.5838777	-107.5245512	Traveling	1	0
 S148834734	2023-09-02	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	7	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Brown-headed Cowbird	Molothrus ater	33833	species	1	39.5838777	-107.5245512	Traveling	1	0
+S131713153	2023-03-24	L23202269	Eagles	American Wigeon	Mareca americana	517	species	10	39.5626430	-107.5058740	Traveling	1	0
 S133078211	2023-04-08	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	7	39.5838777	-107.5245512	Traveling	1	0
-S131713153	2023-03-24	L23202269	Eagles	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	39.5626430	-107.5058740	Traveling	1	0
+S148834734	2023-09-02	L7881856	Sunset Trail	Pine Siskin	Spinus pinus	32595	species	1	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Ash-throated Flycatcher	Myiarchus cinerascens	17323	species	3	39.5838777	-107.5245512	Traveling	1	0
+S131713153	2023-03-24	L23202269	Eagles	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	39.5626430	-107.5058740	Traveling	1	0
 S136375607	2023-05-06	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5838777	-107.5245512	Traveling	1	0
 S131713153	2023-03-24	L23202269	Eagles	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	39.5626430	-107.5058740	Traveling	1	0
+S131713153	2023-03-24	L23202269	Eagles	Canada Goose	Branta canadensis	342	species	14	39.5626430	-107.5058740	Traveling	1	0
+S131713153	2023-03-24	L23202269	Eagles	Northern Harrier	Circus hudsonius	8324	species	1	39.5626430	-107.5058740	Traveling	1	0
 S131713153	2023-03-24	L23202269	Eagles	Green-winged Teal	Anas crecca	612	species	5	39.5626430	-107.5058740	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Western Meadowlark	Sturnella neglecta	33565	species	2	39.5838777	-107.5245512	Traveling	1	0
 S136375607	2023-05-06	L7881856	Sunset Trail	Virginia's Warbler	Leiothlypis virginiae	33986	species	1	39.5838777	-107.5245512	Traveling	1	0
-S131713153	2023-03-24	L23202269	Eagles	Northern Harrier	Circus hudsonius	8324	species	1	39.5626430	-107.5058740	Traveling	1	0
-S131713153	2023-03-24	L23202269	Eagles	Canada Goose	Branta canadensis	342	species	14	39.5626430	-107.5058740	Traveling	1	0
 S131713153	2023-03-24	L23202269	Eagles	Common Merganser	Mergus merganser	762	species	2	39.5626430	-107.5058740	Traveling	1	0
-S148834734	2023-09-02	L7881856	Sunset Trail	Western Tanager	Piranga ludoviciana	34439	species	1	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	12	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Brewer's Sparrow	Spizella breweri	33007	species	2	39.5838777	-107.5245512	Traveling	1	0
 S133078211	2023-04-08	L7881856	Sunset Trail	Spotted Towhee	Pipilo maculatus	33386	species	1	39.5838777	-107.5245512	Traveling	1	0
-S131713153	2023-03-24	L23202269	Eagles	Black-capped Chickadee	Poecile atricapillus	22065	species	1	39.5626430	-107.5058740	Traveling	1	0
-S143367276	2023-07-02	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	1	39.5838777	-107.5245512	Traveling	1	0
-S148834734	2023-09-02	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5838777	-107.5245512	Traveling	1	0
+S148834734	2023-09-02	L7881856	Sunset Trail	Western Tanager	Piranga ludoviciana	34439	species	1	39.5838777	-107.5245512	Traveling	1	0
 S148834734	2023-09-02	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	6	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Bullock's Oriole	Icterus bullockii	33736	species	2	39.5838777	-107.5245512	Traveling	1	0
 S136375607	2023-05-06	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	1	39.5838777	-107.5245512	Traveling	1	0
+S148834734	2023-09-02	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5838777	-107.5245512	Traveling	1	0
+S143367276	2023-07-02	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	1	39.5838777	-107.5245512	Traveling	1	0
+S131713153	2023-03-24	L23202269	Eagles	Black-capped Chickadee	Poecile atricapillus	22065	species	1	39.5626430	-107.5058740	Traveling	1	0
 S136375607	2023-05-06	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5838777	-107.5245512	Traveling	1	0
 S128969858	2023-02-19	L13228889	Home	American Crow	Corvus brachyrhynchos	21557	species	1	39.5725430	-107.5364790	Stationary	1	0
-S128969858	2023-02-19	L13228889	Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5725430	-107.5364790	Stationary	1	0
-S143367276	2023-07-02	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	1	39.5838777	-107.5245512	Traveling	1	0
 S133078211	2023-04-08	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	5	39.5838777	-107.5245512	Traveling	1	0
-S128969858	2023-02-19	L13228889	Home	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5725430	-107.5364790	Stationary	1	0
-S131713153	2023-03-24	L23202269	Eagles	Steller's Jay	Cyanocitta stelleri	21274	species	2	39.5626430	-107.5058740	Traveling	1	0
-S136375607	2023-05-06	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21310	issf	1	39.5838777	-107.5245512	Traveling	1	0
-S148834734	2023-09-02	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	1	39.5838777	-107.5245512	Traveling	1	0
-S136375607	2023-05-06	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	1	39.5838777	-107.5245512	Traveling	1	0
+S143367276	2023-07-02	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	1	39.5838777	-107.5245512	Traveling	1	0
+S128969858	2023-02-19	L13228889	Home	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5725430	-107.5364790	Stationary	1	0
 S128969858	2023-02-19	L13228889	Home	American Goldfinch	Spinus tristis	32617	species	1	39.5725430	-107.5364790	Stationary	1	0
+S128969858	2023-02-19	L13228889	Home	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5725430	-107.5364790	Stationary	1	0
 S136375607	2023-05-06	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	1	39.5838777	-107.5245512	Traveling	1	0
-S136375607	2023-05-06	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	39.5838777	-107.5245512	Traveling	1	0
+S136375607	2023-05-06	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	1	39.5838777	-107.5245512	Traveling	1	0
+S131713153	2023-03-24	L23202269	Eagles	Steller's Jay	Cyanocitta stelleri	21274	species	2	39.5626430	-107.5058740	Traveling	1	0
+S148834734	2023-09-02	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	1	39.5838777	-107.5245512	Traveling	1	0
+S136375607	2023-05-06	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21310	issf	1	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Lesser Goldfinch	Spinus psaltria	32609	species	1	39.5838777	-107.5245512	Traveling	1	0
+S136375607	2023-05-06	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5838777	-107.5245512	Traveling	1	0
-S143367276	2023-07-02	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	3	39.5838777	-107.5245512	Traveling	1	0
-S151652746	2023-10-07	L27419048	Riverside Middle School, New Castle US-CO 39.58213, -107.53024	Rock Pigeon	Columba livia	1868	domestic	3	39.5821350	-107.5302390	Traveling	1	0
-S136375607	2023-05-06	L7881856	Sunset Trail	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Say's Phoebe	Sayornis saya	17010	species	1	39.5838777	-107.5245512	Traveling	1	0
 S133078211	2023-04-08	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5838777	-107.5245512	Traveling	1	0
 S148834734	2023-09-02	L7881856	Sunset Trail	Turkey Vulture	Cathartes aura	7815	species	1	39.5838777	-107.5245512	Traveling	1	0
-S131713153	2023-03-24	L23202269	Eagles	Mallard	Anas platyrhynchos	545	species	20	39.5626430	-107.5058740	Traveling	1	0
-S131713153	2023-03-24	L23202269	Eagles	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	1	39.5626430	-107.5058740	Traveling	1	0
+S151652746	2023-10-07	L27419048	Riverside Middle School, New Castle US-CO 39.58213, -107.53024	Rock Pigeon	Columba livia	1868	domestic	3	39.5821350	-107.5302390	Traveling	1	0
+S136375607	2023-05-06	L7881856	Sunset Trail	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	39.5838777	-107.5245512	Traveling	1	0
+S143367276	2023-07-02	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	3	39.5838777	-107.5245512	Traveling	1	0
 S128969858	2023-02-19	L13228889	Home	Pine Siskin	Spinus pinus	32595	species	1	39.5725430	-107.5364790	Stationary	1	0
+S131713153	2023-03-24	L23202269	Eagles	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	1	39.5626430	-107.5058740	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Bushtit	Psaltriparus minimus	25253	species	2	39.5838777	-107.5245512	Traveling	1	0
+S131713153	2023-03-24	L23202269	Eagles	Mallard	Anas platyrhynchos	545	species	20	39.5626430	-107.5058740	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5838777	-107.5245512	Traveling	1	0
-S131713153	2023-03-24	L23202269	Eagles	Black-billed Magpie	Pica hudsonia	21476	species	4	39.5626430	-107.5058740	Traveling	1	0
-S143367276	2023-07-02	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
 S128969858	2023-02-19	L13228889	Home	Downy Woodpecker	Dryobates pubescens	11400	species	1	39.5725430	-107.5364790	Stationary	1	0
 S131713153	2023-03-24	L23202269	Eagles	European Starling	Sturnus vulgaris	27813	species	40	39.5626430	-107.5058740	Traveling	1	0
+S131713153	2023-03-24	L23202269	Eagles	Black-billed Magpie	Pica hudsonia	21476	species	4	39.5626430	-107.5058740	Traveling	1	0
 S151652746	2023-10-07	L27419048	Riverside Middle School, New Castle US-CO 39.58213, -107.53024	European Starling	Sturnus vulgaris	27813	species	15	39.5821350	-107.5302390	Traveling	1	0
 S148834734	2023-09-02	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	39.5838777	-107.5245512	Traveling	1	0
-S128969858	2023-02-19	L13228889	Home	House Finch	Haemorhous mexicanus	32310	species	3	39.5725430	-107.5364790	Stationary	1	0
-S131713153	2023-03-24	L23202269	Eagles	Common Goldeneye	Bucephala clangula	743	species	15	39.5626430	-107.5058740	Traveling	1	0
-S136375607	2023-05-06	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	40	39.5838777	-107.5245512	Traveling	1	1
+S143367276	2023-07-02	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
 S128969858	2023-02-19	L13228889	Home	Northern Flicker	Colaptes auratus	11900	species	1	39.5725430	-107.5364790	Stationary	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	1	39.5838777	-107.5245512	Traveling	1	0
 S136375607	2023-05-06	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	5	39.5838777	-107.5245512	Traveling	1	0
 S136375607	2023-05-06	L7881856	Sunset Trail	Turkey Vulture	Cathartes aura	7815	species	2	39.5838777	-107.5245512	Traveling	1	0
+S128969858	2023-02-19	L13228889	Home	House Finch	Haemorhous mexicanus	32310	species	3	39.5725430	-107.5364790	Stationary	1	0
+S131713153	2023-03-24	L23202269	Eagles	Common Goldeneye	Bucephala clangula	743	species	15	39.5626430	-107.5058740	Traveling	1	0
+S136375607	2023-05-06	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	40	39.5838777	-107.5245512	Traveling	1	1
 S148834734	2023-09-02	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5838777	-107.5245512	Traveling	1	0
 S133078211	2023-04-08	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	9	39.5838777	-107.5245512	Traveling	1	0
 S148834734	2023-09-02	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	3	39.5838777	-107.5245512	Traveling	1	0
-S133078211	2023-04-08	L7881856	Sunset Trail	Turkey Vulture	Cathartes aura	7815	species	2	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	8	39.5838777	-107.5245512	Traveling	1	0
+S133078211	2023-04-08	L7881856	Sunset Trail	Turkey Vulture	Cathartes aura	7815	species	2	39.5838777	-107.5245512	Traveling	1	0
 S136375607	2023-05-06	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	5	39.5838777	-107.5245512	Traveling	1	0
 S128969858	2023-02-19	L13228889	Home	Dark-eyed Junco	Junco hyemalis	33124	species	1	39.5725430	-107.5364790	Stationary	1	0
-S143367276	2023-07-02	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	2	39.5838777	-107.5245512	Traveling	1	0
+S143367276	2023-07-02	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5838777	-107.5245512	Traveling	1	0
 S143367276	2023-07-02	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	1	39.5838777	-107.5245512	Traveling	1	0
-S133078211	2023-04-08	L7881856	Sunset Trail	Townsend's Solitaire	Myadestes townsendi	28163	species	2	39.5838777	-107.5245512	Traveling	1	0
 S148834734	2023-09-02	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	4	39.5838777	-107.5245512	Traveling	1	0
-S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Western Flycatcher	Empidonax difficilis	16975	species	2	39.5756390	-107.5408300	Traveling	1	0
-S174520800	2024-05-14	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	2	39.5838777	-107.5245512	Traveling	1	0
-S173104962	2024-05-09	L7881856	Sunset Trail	Green-tailed Towhee	Pipilo chlorurus	33385	species	1	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	Lazuli Bunting	Passerina amoena	34606	species	1	39.5838777	-107.5245512	Traveling	1	0
+S133078211	2023-04-08	L7881856	Sunset Trail	Townsend's Solitaire	Myadestes townsendi	28163	species	2	39.5838777	-107.5245512	Traveling	1	0
 S188076560	2024-07-21	L34979162	Grand River Park, New Castle US-CO	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	4	39.5648740	-107.5125980	Traveling	1	0
+S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Western Flycatcher	Empidonax difficilis	16975	species	2	39.5756390	-107.5408300	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	Lazuli Bunting	Passerina amoena	34606	species	1	39.5838777	-107.5245512	Traveling	1	0
 S206771076	2024-12-27	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Mallard	Anas platyrhynchos	545	species	4	39.5643000	-107.5086530	Traveling	1	0
+S173104962	2024-05-09	L7881856	Sunset Trail	Green-tailed Towhee	Pipilo chlorurus	33385	species	1	39.5838777	-107.5245512	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	2	39.5838777	-107.5245512	Traveling	1	0
+S174520800	2024-05-14	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
+S173104962	2024-05-09	L7881856	Sunset Trail	Pine Siskin	Spinus pinus	32595	species	1	39.5838777	-107.5245512	Traveling	1	0
 S165589594	2024-03-22	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5838777	-107.5245512	Traveling	1	0
 S186452970	2024-07-11	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
-S173104962	2024-05-09	L7881856	Sunset Trail	Pine Siskin	Spinus pinus	32595	species	1	39.5838777	-107.5245512	Traveling	1	0
 S188076560	2024-07-21	L34979162	Grand River Park, New Castle US-CO	House Finch	Haemorhous mexicanus	32310	species	2	39.5648740	-107.5125980	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Cackling/Canada Goose	Branta hutchinsii/canadensis	363	slash	2	39.5756390	-107.5408300	Traveling	1	0
-S165589594	2024-03-22	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	5	39.5838777	-107.5245512	Traveling	1	0
-S165589594	2024-03-22	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	5	39.5838777	-107.5245512	Traveling	1	0
+S174520800	2024-05-14	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	1	39.5838777	-107.5245512	Traveling	1	0
 S174520800	2024-05-14	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	1	39.5838777	-107.5245512	Traveling	1	0
 S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Dark-eyed Junco	Junco hyemalis	33124	species	5	39.5745650	-107.5287840	Traveling	1	0
 S206771076	2024-12-27	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	39.5643000	-107.5086530	Traveling	1	0
-S174520800	2024-05-14	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	1	39.5838777	-107.5245512	Traveling	1	0
+S165589594	2024-03-22	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	5	39.5838777	-107.5245512	Traveling	1	0
+S165589594	2024-03-22	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	5	39.5838777	-107.5245512	Traveling	1	0
 S165589594	2024-03-22	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	2	39.5838777	-107.5245512	Traveling	1	0
 S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Western Meadowlark	Sturnella neglecta	33565	species	1	39.5733250	-107.5221490	Traveling	1	0
+S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Black-capped Chickadee	Poecile atricapillus	22065	species	1	39.5745650	-107.5287840	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	Rock Wren	Salpinctes obsoletus	27150	species	1	39.5838777	-107.5245512	Traveling	1	0
 S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	Bushtit	Psaltriparus minimus	25253	species	3	39.5733190	-107.5213440	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5756390	-107.5408300	Traveling	1	0
-S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Black-capped Chickadee	Poecile atricapillus	22065	species	1	39.5745650	-107.5287840	Traveling	1	0
+S173104962	2024-05-09	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5838777	-107.5245512	Traveling	1	0
 S174520800	2024-05-14	L7881856	Sunset Trail	Lazuli Bunting	Passerina amoena	34606	species	1	39.5838777	-107.5245512	Traveling	1	0
 S173104962	2024-05-09	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5838777	-107.5245512	Traveling	1	0
-S173104962	2024-05-09	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	Rock Wren	Salpinctes obsoletus	27150	species	1	39.5838777	-107.5245512	Traveling	1	0
-S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Rock Wren	Salpinctes obsoletus	27150	species	2	39.5733250	-107.5221490	Traveling	1	0
 S174520800	2024-05-14	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	4	39.5838777	-107.5245512	Traveling	1	0
+S165589594	2024-03-22	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
 S173104962	2024-05-09	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5838777	-107.5245512	Traveling	1	0
-S174520800	2024-05-14	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	2	39.5838777	-107.5245512	Traveling	1	0
 S173104962	2024-05-09	L7881856	Sunset Trail	Western Meadowlark	Sturnella neglecta	33565	species	1	39.5838777	-107.5245512	Traveling	1	0
+S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Rock Wren	Salpinctes obsoletus	27150	species	2	39.5733250	-107.5221490	Traveling	1	0
 S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	American Crow	Corvus brachyrhynchos	21557	species	5	39.5745650	-107.5287840	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5756390	-107.5408300	Traveling	1	0
 S173104962	2024-05-09	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	1	39.5838777	-107.5245512	Traveling	1	0
-S165589594	2024-03-22	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
+S174520800	2024-05-14	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	2	39.5838777	-107.5245512	Traveling	1	0
 S188076560	2024-07-21	L34979162	Grand River Park, New Castle US-CO	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	39.5648740	-107.5125980	Traveling	1	0
-S173104962	2024-05-09	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	2	39.5838777	-107.5245512	Traveling	1	0
 S174520800	2024-05-14	L7881856	Sunset Trail	Pinyon Jay	Gymnorhinus cyanocephalus	21273	species	2	39.5838777	-107.5245512	Traveling	1	0
+S173104962	2024-05-09	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	2	39.5838777	-107.5245512	Traveling	1	0
 S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	Chipping Sparrow	Spizella passerina	32990	species	1	39.5733190	-107.5213440	Traveling	1	0
-S174520800	2024-05-14	L7881856	Sunset Trail	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	3	39.5838777	-107.5245512	Traveling	1	0
-S173104962	2024-05-09	L7881856	Sunset Trail	Turkey Vulture	Cathartes aura	7815	species	1	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	3	39.5838777	-107.5245512	Traveling	1	0
-S165589594	2024-03-22	L7881856	Sunset Trail	Western Meadowlark	Sturnella neglecta	33565	species	1	39.5838777	-107.5245512	Traveling	1	0
 S188076560	2024-07-21	L34979162	Grand River Park, New Castle US-CO	Western Kingbird	Tyrannus verticalis	17467	species	2	39.5648740	-107.5125980	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	3	39.5838777	-107.5245512	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5838777	-107.5245512	Traveling	1	0
 S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	European Starling	Sturnus vulgaris	27813	species	4	39.5745650	-107.5287840	Traveling	1	0
 S165589594	2024-03-22	L7881856	Sunset Trail	Pine Siskin	Spinus pinus	32595	species	2	39.5838777	-107.5245512	Traveling	1	0
 S174520800	2024-05-14	L7881856	Sunset Trail	Ash-throated Flycatcher	Myiarchus cinerascens	17323	species	3	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5838777	-107.5245512	Traveling	1	0
-S173104962	2024-05-09	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	2	39.5838777	-107.5245512	Traveling	1	0
+S174520800	2024-05-14	L7881856	Sunset Trail	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	39.5838777	-107.5245512	Traveling	1	0
+S173104962	2024-05-09	L7881856	Sunset Trail	Turkey Vulture	Cathartes aura	7815	species	1	39.5838777	-107.5245512	Traveling	1	0
+S165589594	2024-03-22	L7881856	Sunset Trail	Western Meadowlark	Sturnella neglecta	33565	species	1	39.5838777	-107.5245512	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	3	39.5838777	-107.5245512	Traveling	1	0
+S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5745650	-107.5287840	Traveling	1	0
 S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5733250	-107.5221490	Traveling	1	0
 S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Rock Pigeon	Columba livia	1868	domestic	6	39.5745650	-107.5287840	Traveling	1	0
-S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5745650	-107.5287840	Traveling	1	0
+S173104962	2024-05-09	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	2	39.5838777	-107.5245512	Traveling	1	0
+S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	House Finch	Haemorhous mexicanus	32310	species	4	39.5733190	-107.5213440	Traveling	1	0
 S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Lazuli Bunting	Passerina amoena	34606	species	4	39.5733250	-107.5221490	Traveling	1	0
+S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Rock Pigeon	Columba livia	1868	domestic	2	39.5733250	-107.5221490	Traveling	1	0
+S174520800	2024-05-14	L7881856	Sunset Trail	Say's Phoebe	Sayornis saya	17010	species	2	39.5838777	-107.5245512	Traveling	1	0
+S165589594	2024-03-22	L7881856	Sunset Trail	Northern Flicker	Colaptes auratus	11900	species	1	39.5838777	-107.5245512	Traveling	1	0
 S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	Lazuli Bunting	Passerina amoena	34606	species	2	39.5733190	-107.5213440	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Violet-green Swallow	Tachycineta thalassina	24074	species	1	39.5756390	-107.5408300	Traveling	1	0
-S174520800	2024-05-14	L7881856	Sunset Trail	Say's Phoebe	Sayornis saya	17010	species	2	39.5838777	-107.5245512	Traveling	1	0
 S186452970	2024-07-11	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	2	39.5838777	-107.5245512	Traveling	1	0
-S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	House Finch	Haemorhous mexicanus	32310	species	4	39.5733190	-107.5213440	Traveling	1	0
-S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Rock Pigeon	Columba livia	1868	domestic	2	39.5733250	-107.5221490	Traveling	1	0
-S165589594	2024-03-22	L7881856	Sunset Trail	Northern Flicker	Colaptes auratus	11900	species	1	39.5838777	-107.5245512	Traveling	1	0
 S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5733190	-107.5213440	Traveling	1	0
-S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	39.5745650	-107.5287840	Traveling	1	0
 S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5733250	-107.5221490	Traveling	1	0
 S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	American Robin	Turdus migratorius	28633	species	1	39.5745650	-107.5287840	Traveling	1	0
+S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	39.5745650	-107.5287840	Traveling	1	0
 S165589594	2024-03-22	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5838777	-107.5245512	Traveling	1	0
+S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	House Sparrow	Passer domesticus	31534	species	3	39.5756390	-107.5408300	Traveling	1	0
+S188076560	2024-07-21	L34979162	Grand River Park, New Castle US-CO	Song Sparrow	Melospiza melodia	33277	species	3	39.5648740	-107.5125980	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	American Robin	Turdus migratorius	28633	species	1	39.5756390	-107.5408300	Traveling	1	0
 S186452970	2024-07-11	L7881856	Sunset Trail	Spotted Towhee	Pipilo maculatus	33386	species	2	39.5838777	-107.5245512	Traveling	1	0
 S174520800	2024-05-14	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	3	39.5838777	-107.5245512	Traveling	1	0
-S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	House Sparrow	Passer domesticus	31534	species	3	39.5756390	-107.5408300	Traveling	1	0
-S188076560	2024-07-21	L34979162	Grand River Park, New Castle US-CO	Song Sparrow	Melospiza melodia	33277	species	3	39.5648740	-107.5125980	Traveling	1	0
-S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	Western Meadowlark	Sturnella neglecta	33565	species	2	39.5733190	-107.5213440	Traveling	1	0
 S186452970	2024-07-11	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	5	39.5838777	-107.5245512	Traveling	1	0
-S174520800	2024-05-14	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	1	39.5838777	-107.5245512	Traveling	1	0
-S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Rock Pigeon	Columba livia	1868	domestic	1	39.5756390	-107.5408300	Traveling	1	0
-S206771076	2024-12-27	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	House Sparrow	Passer domesticus	31534	species	4	39.5643000	-107.5086530	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	Juniper Titmouse	Baeolophus ridgwayi	22155	species	1	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	3	39.5838777	-107.5245512	Traveling	1	0
 S165589594	2024-03-22	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	39.5838777	-107.5245512	Traveling	1	0
 S173104962	2024-05-09	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	1	39.5838777	-107.5245512	Traveling	1	0
+S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	Western Meadowlark	Sturnella neglecta	33565	species	2	39.5733190	-107.5213440	Traveling	1	0
+S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Rock Pigeon	Columba livia	1868	domestic	1	39.5756390	-107.5408300	Traveling	1	0
+S206771076	2024-12-27	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	House Sparrow	Passer domesticus	31534	species	4	39.5643000	-107.5086530	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	3	39.5838777	-107.5245512	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	Juniper Titmouse	Baeolophus ridgwayi	22155	species	1	39.5838777	-107.5245512	Traveling	1	0
 S165589594	2024-03-22	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	6	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	39.5838777	-107.5245512	Traveling	1	0
+S174520800	2024-05-14	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	1	39.5838777	-107.5245512	Traveling	1	0
 S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	House Finch	Haemorhous mexicanus	32310	species	7	39.5745650	-107.5287840	Traveling	1	0
 S186452970	2024-07-11	L7881856	Sunset Trail	Pinyon Jay	Gymnorhinus cyanocephalus	21273	species	1	39.5838777	-107.5245512	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	House Finch	Haemorhous mexicanus	32310	species	2	39.5756390	-107.5408300	Traveling	1	0
-S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Bushtit	Psaltriparus minimus	25253	species	2	39.5733250	-107.5221490	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	39.5838777	-107.5245512	Traveling	1	0
 S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5733190	-107.5213440	Traveling	1	0
-S206771076	2024-12-27	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Mountain Chickadee	Poecile gambeli	22077	species	1	39.5643000	-107.5086530	Traveling	1	0
-S165589594	2024-03-22	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	2	39.5838777	-107.5245512	Traveling	1	0
-S174520800	2024-05-14	L7881856	Sunset Trail	Pine Siskin	Spinus pinus	32595	species	1	39.5838777	-107.5245512	Traveling	1	0
 S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	39.5745650	-107.5287840	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	American Crow	Corvus brachyrhynchos	21557	species	7	39.5756390	-107.5408300	Traveling	1	0
+S174520800	2024-05-14	L7881856	Sunset Trail	Pine Siskin	Spinus pinus	32595	species	1	39.5838777	-107.5245512	Traveling	1	0
+S180851409	2024-06-11	L33192189	81647, New Castle US-CO 39.57333, -107.52215	Bushtit	Psaltriparus minimus	25253	species	2	39.5733250	-107.5221490	Traveling	1	0
+S206771076	2024-12-27	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Mountain Chickadee	Poecile gambeli	22077	species	1	39.5643000	-107.5086530	Traveling	1	0
+S165589594	2024-03-22	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	2	39.5838777	-107.5245512	Traveling	1	0
 S186452970	2024-07-11	L7881856	Sunset Trail	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	39.5838777	-107.5245512	Traveling	1	0
-S206771076	2024-12-27	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	House Finch	Haemorhous mexicanus	32310	species	2	39.5643000	-107.5086530	Traveling	1	0
 S180019215	2024-06-07	L32994353	Jolley Trail, New Castle US-CO 39.57332, -107.52134	American Robin	Turdus migratorius	28633	species	1	39.5733190	-107.5213440	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	39.5756390	-107.5408300	Traveling	1	0
-S165589594	2024-03-22	L7881856	Sunset Trail	Townsend's Solitaire	Myadestes townsendi	28163	species	1	39.5838777	-107.5245512	Traveling	1	0
-S186452970	2024-07-11	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	4	39.5838777	-107.5245512	Traveling	1	0
-S174520800	2024-05-14	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5838777	-107.5245512	Traveling	1	0
 S186452970	2024-07-11	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	7	39.5838777	-107.5245512	Traveling	1	0
-S165589594	2024-03-22	L7881856	Sunset Trail	Juniper Titmouse	Baeolophus ridgwayi	22155	species	1	39.5838777	-107.5245512	Traveling	1	0
+S174520800	2024-05-14	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5838777	-107.5245512	Traveling	1	0
+S206771076	2024-12-27	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	House Finch	Haemorhous mexicanus	32310	species	2	39.5643000	-107.5086530	Traveling	1	0
+S186452970	2024-07-11	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	4	39.5838777	-107.5245512	Traveling	1	0
+S165589594	2024-03-22	L7881856	Sunset Trail	Townsend's Solitaire	Myadestes townsendi	28163	species	1	39.5838777	-107.5245512	Traveling	1	0
 S174520800	2024-05-14	L7881856	Sunset Trail	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	39.5838777	-107.5245512	Traveling	1	0
+S165589594	2024-03-22	L7881856	Sunset Trail	Juniper Titmouse	Baeolophus ridgwayi	22155	species	1	39.5838777	-107.5245512	Traveling	1	0
+S188076560	2024-07-21	L34979162	Grand River Park, New Castle US-CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	39.5648740	-107.5125980	Traveling	1	0
 S205873702	2024-07-25	L38702746	882 N Midland Ave, New Castle US-CO 39.57564, -107.54083	Mallard	Anas platyrhynchos	545	species	1	39.5756390	-107.5408300	Traveling	1	0
 S205132841	2024-12-11	L38566321	C-Avenue Trail, New Castle US-CO 39.57456, -107.52878	Common Raven	Corvus corax	21624	species	2	39.5745650	-107.5287840	Traveling	1	0
 S165589594	2024-03-22	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	2	39.5838777	-107.5245512	Traveling	1	0
-S188076560	2024-07-21	L34979162	Grand River Park, New Castle US-CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	39.5648740	-107.5125980	Traveling	1	0
-S173104962	2024-05-09	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	2	39.5838777	-107.5245512	Traveling	1	0
 S174520800	2024-05-14	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	5	39.5838777	-107.5245512	Traveling	1	0
+S173104962	2024-05-09	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides	28144	species	2	39.5838777	-107.5245512	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Canada Goose	Branta canadensis	342	species	5	39.5714440	-107.5368790	Traveling	1	0
-S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Say's Phoebe	Sayornis saya	17010	species	2	39.5643000	-107.5086530	Traveling	1	0
+S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Western Kingbird	Tyrannus verticalis	17467	species	1	39.5643000	-107.5086530	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Barn Swallow	Hirundo rustica	24187	species	4	39.5714440	-107.5368790	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Lesser Goldfinch	Spinus psaltria	32609	species	1	39.5714440	-107.5368790	Traveling	1	0
+S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Rufous Hummingbird	Selasphorus rufus	4826	species	2	39.5643000	-107.5086530	Traveling	1	0
+S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Say's Phoebe	Sayornis saya	17010	species	2	39.5643000	-107.5086530	Traveling	1	0
+S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5716000	-107.5182230	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	Chipping Sparrow	Spizella passerina	32990	species	2	39.5838777	-107.5245512	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	American Robin	Turdus migratorius	28633	species	3	39.5838777	-107.5245512	Traveling	1	0
-S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Western Kingbird	Tyrannus verticalis	17467	species	1	39.5643000	-107.5086530	Traveling	1	0
-S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Rufous Hummingbird	Selasphorus rufus	4826	species	2	39.5643000	-107.5086530	Traveling	1	0
-S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5716000	-107.5182230	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	1	39.5838777	-107.5245512	Traveling	1	0
-S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	2	39.5643000	-107.5086530	Traveling	1	0
-S258872554	2025-07-10	L49552660	New Castle, CO	House Sparrow	Passer domesticus	31534	species	12	39.5714440	-107.5368790	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5838777	-107.5245512	Traveling	1	0
 S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Spotted Sandpiper	Actitis macularius	6126	species	1	39.5643000	-107.5086530	Traveling	1	0
 S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Black-billed Magpie	Pica hudsonia	21476	species	2	39.5716000	-107.5182230	Traveling	1	0
-S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Lazuli Bunting	Passerina amoena	34606	species	1	39.5643000	-107.5086530	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5838777	-107.5245512	Traveling	1	0
+S258872554	2025-07-10	L49552660	New Castle, CO	House Sparrow	Passer domesticus	31534	species	12	39.5714440	-107.5368790	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	2	39.5838777	-107.5245512	Traveling	1	0
+S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	2	39.5643000	-107.5086530	Traveling	1	0
 S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	39.5643000	-107.5086530	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5838777	-107.5245512	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	Bushtit	Psaltriparus minimus	25253	species	2	39.5838777	-107.5245512	Traveling	1	0
-S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	House Sparrow	Passer domesticus	31534	species	5	39.5643000	-107.5086530	Traveling	1	0
-S258872554	2025-07-10	L49552660	New Castle, CO	American Crow	Corvus brachyrhynchos	21557	species	1	39.5714440	-107.5368790	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	5	39.5838777	-107.5245512	Traveling	1	0
-S248199847	2025-06-08	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	1	39.5838777	-107.5245512	Traveling	1	0
+S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Lazuli Bunting	Passerina amoena	34606	species	1	39.5643000	-107.5086530	Traveling	1	0
 S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Barn Swallow	Hirundo rustica	24187	species	5	39.5643000	-107.5086530	Traveling	1	0
+S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	House Sparrow	Passer domesticus	31534	species	5	39.5643000	-107.5086530	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5714440	-107.5368790	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	Ash-throated Flycatcher	Myiarchus cinerascens	17323	species	2	39.5838777	-107.5245512	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	5	39.5838777	-107.5245512	Traveling	1	0
+S258872554	2025-07-10	L49552660	New Castle, CO	American Crow	Corvus brachyrhynchos	21557	species	1	39.5714440	-107.5368790	Traveling	1	0
+S248199847	2025-06-08	L7881856	Sunset Trail	Lark Sparrow	Chondestes grammacus	33029	species	1	39.5838777	-107.5245512	Traveling	1	0
 S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	American Robin	Turdus migratorius	28633	species	7	39.5643000	-107.5086530	Traveling	1	0
-S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Western Meadowlark	Sturnella neglecta	33565	species	3	39.5716000	-107.5182230	Traveling	1	0
 S225350310	2025-04-13	L42595846	Medaris Ditch Trail, New Castle US-CO 39.57419, -107.52887	Dark-eyed Junco	Junco hyemalis	33124	species	3	39.5741880	-107.5288660	Traveling	1	0
-S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	39.5643000	-107.5086530	Traveling	1	0
+S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Western Meadowlark	Sturnella neglecta	33565	species	3	39.5716000	-107.5182230	Traveling	1	0
+S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Song Sparrow	Melospiza melodia	33277	species	1	39.5643000	-107.5086530	Traveling	1	0
+S258872554	2025-07-10	L49552660	New Castle, CO	American Robin	Turdus migratorius	28633	species	2	39.5714440	-107.5368790	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Brown-headed Cowbird	Molothrus ater	33833	species	1	39.5714440	-107.5368790	Traveling	1	0
+S258872554	2025-07-10	L49552660	New Castle, CO	House Finch	Haemorhous mexicanus	32310	species	1	39.5714440	-107.5368790	Traveling	1	0
+S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	39.5643000	-107.5086530	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	Mountain Chickadee	Poecile gambeli	22077	species	1	39.5838777	-107.5245512	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	American Crow	Corvus brachyrhynchos	21557	species	2	39.5838777	-107.5245512	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Rock Pigeon	Columba livia	1868	domestic	6	39.5714440	-107.5368790	Traveling	1	0
-S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Song Sparrow	Melospiza melodia	33277	species	1	39.5643000	-107.5086530	Traveling	1	0
-S258872554	2025-07-10	L49552660	New Castle, CO	American Robin	Turdus migratorius	28633	species	2	39.5714440	-107.5368790	Traveling	1	0
-S258872554	2025-07-10	L49552660	New Castle, CO	House Finch	Haemorhous mexicanus	32310	species	1	39.5714440	-107.5368790	Traveling	1	0
+S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5643000	-107.5086530	Traveling	1	0
 S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	House Finch	Haemorhous mexicanus	32310	species	4	39.5716000	-107.5182230	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Tree Swallow	Tachycineta bicolor	24064	species	1	39.5714440	-107.5368790	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	2	39.5838777	-107.5245512	Traveling	1	0
-S258872554	2025-07-10	L49552660	New Castle, CO	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	8	39.5714440	-107.5368790	Traveling	1	0
-S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5643000	-107.5086530	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Northern Flicker	Colaptes auratus	11900	species	1	39.5838777	-107.5245512	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5838777	-107.5245512	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	2	39.5838777	-107.5245512	Traveling	1	0
-S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5716000	-107.5182230	Traveling	1	0
-S258872554	2025-07-10	L49552660	New Castle, CO	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	39.5714440	-107.5368790	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	3	39.5838777	-107.5245512	Traveling	1	0
+S258872554	2025-07-10	L49552660	New Castle, CO	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	8	39.5714440	-107.5368790	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Northern Flicker	Colaptes auratus	11900	species	1	39.5838777	-107.5245512	Traveling	1	0
 S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Western Kingbird	Tyrannus verticalis	17467	species	1	39.5643000	-107.5086530	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Common Raven	Corvus corax	21624	species	3	39.5838777	-107.5245512	Traveling	1	0
+S248199847	2025-06-08	L7881856	Sunset Trail	Brown-headed Cowbird	Molothrus ater	33833	species	2	39.5838777	-107.5245512	Traveling	1	0
 S225350310	2025-04-13	L42595846	Medaris Ditch Trail, New Castle US-CO 39.57419, -107.52887	Juniper Titmouse	Baeolophus ridgwayi	22155	species	4	39.5741880	-107.5288660	Traveling	1	0
 S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Mountain Bluebird	Sialia currucoides	28144	species	2	39.5716000	-107.5182230	Traveling	1	0
-S248199847	2025-06-08	L7881856	Sunset Trail	Brown-headed Cowbird	Molothrus ater	33833	species	2	39.5838777	-107.5245512	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	MacGillivray's Warbler	Geothlypis tolmiei	34005	species	2	39.5838777	-107.5245512	Traveling	1	0
+S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Dark-eyed Junco	Junco hyemalis	33124	species	2	39.5716000	-107.5182230	Traveling	1	0
+S258872554	2025-07-10	L49552660	New Castle, CO	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	39.5714440	-107.5368790	Traveling	1	0
 S225350310	2025-04-13	L42595846	Medaris Ditch Trail, New Castle US-CO 39.57419, -107.52887	Woodhouse's Scrub-Jay	Aphelocoma woodhouseii	21309	species	1	39.5741880	-107.5288660	Traveling	1	0
-S248199847	2025-06-08	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5838777	-107.5245512	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	39.5838777	-107.5245512	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	Western Meadowlark	Sturnella neglecta	33565	species	2	39.5838777	-107.5245512	Traveling	1	0
+S248199847	2025-06-08	L7881856	Sunset Trail	Black-billed Magpie	Pica hudsonia	21476	species	3	39.5838777	-107.5245512	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	MacGillivray's Warbler	Geothlypis tolmiei	34005	species	2	39.5838777	-107.5245512	Traveling	1	0
 S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	American Robin	Turdus migratorius	28633	species	2	39.5716000	-107.5182230	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	Say's Phoebe	Sayornis saya	17010	species	3	39.5838777	-107.5245512	Traveling	1	0
 S225350310	2025-04-13	L42595846	Medaris Ditch Trail, New Castle US-CO 39.57419, -107.52887	Common Raven	Corvus corax	21624	species	3	39.5741880	-107.5288660	Traveling	1	0
@@ -670,25 +670,25 @@ S242951763	2025-05-26	L7881856	Sunset Trail	Mountain Bluebird	Sialia currucoides
 S248199847	2025-06-08	L7881856	Sunset Trail	House Finch	Haemorhous mexicanus	32310	species	3	39.5838777	-107.5245512	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	Evening Grosbeak	Hesperiphona vespertina	32085	species	1	39.5838777	-107.5245512	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	39.5714440	-107.5368790	Traveling	1	0
+S258872554	2025-07-10	L49552660	New Castle, CO	Violet-green Swallow	Tachycineta thalassina	24074	species	3	39.5714440	-107.5368790	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	Violet-green Swallow	Tachycineta thalassina	24074	species	4	39.5838777	-107.5245512	Traveling	1	0
 S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	House Finch	Haemorhous mexicanus	32310	species	5	39.5643000	-107.5086530	Traveling	1	0
-S258872554	2025-07-10	L49552660	New Castle, CO	Violet-green Swallow	Tachycineta thalassina	24074	species	3	39.5714440	-107.5368790	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5838777	-107.5245512	Traveling	1	0
 S242951763	2025-05-26	L7881856	Sunset Trail	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	39.5838777	-107.5245512	Traveling	1	0
+S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Brown-headed Cowbird	Molothrus ater	33833	species	1	39.5643000	-107.5086530	Traveling	1	0
 S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	6	39.5643000	-107.5086530	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	Northern Flicker	Colaptes auratus	11900	species	1	39.5838777	-107.5245512	Traveling	1	0
-S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Brown-headed Cowbird	Molothrus ater	33833	species	1	39.5643000	-107.5086530	Traveling	1	0
-S258872554	2025-07-10	L49552660	New Castle, CO	Say's Phoebe	Sayornis saya	17010	species	1	39.5714440	-107.5368790	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	4	39.5838777	-107.5245512	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	Downy Woodpecker	Dryobates pubescens	11400	species	1	39.5838777	-107.5245512	Traveling	1	0
-S248199847	2025-06-08	L7881856	Sunset Trail	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5838777	-107.5245512	Traveling	1	0
-S248199847	2025-06-08	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5838777	-107.5245512	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	House Sparrow	Passer domesticus	31534	species	4	39.5838777	-107.5245512	Traveling	1	0
+S258872554	2025-07-10	L49552660	New Castle, CO	Say's Phoebe	Sayornis saya	17010	species	1	39.5714440	-107.5368790	Traveling	1	0
 S262142730	2025-07-23	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Black-capped Chickadee	Poecile atricapillus	22065	species	1	39.5643000	-107.5086530	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	39.5838777	-107.5245512	Traveling	1	0
+S248199847	2025-06-08	L7881856	Sunset Trail	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	39.5838777	-107.5245512	Traveling	1	0
 S248199847	2025-06-08	L7881856	Sunset Trail	Western Meadowlark	Sturnella neglecta	33565	species	1	39.5838777	-107.5245512	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Juniper Titmouse	Baeolophus ridgwayi	22155	species	1	39.5838777	-107.5245512	Traveling	1	0
-S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Western Kingbird	Tyrannus verticalis	17467	species	1	39.5716000	-107.5182230	Traveling	1	0
-S242951763	2025-05-26	L7881856	Sunset Trail	Song Sparrow	Melospiza melodia	33277	species	4	39.5838777	-107.5245512	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Broad-tailed Hummingbird	Selasphorus platycercus	4839	species	1	39.5838777	-107.5245512	Traveling	1	0
+S248199847	2025-06-08	L7881856	Sunset Trail	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5838777	-107.5245512	Traveling	1	0
+S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	39.5643000	-107.5086530	Traveling	1	0
 S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	39.5716000	-107.5182230	Traveling	1	0
 S258872554	2025-07-10	L49552660	New Castle, CO	Northern Flicker	Colaptes auratus	11900	species	1	39.5714440	-107.5368790	Traveling	1	0
-S311702404	2025-06-30	L38903024	633 River View Dr, New Castle US-CO 39.56430, -107.50865	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	39.5643000	-107.5086530	Traveling	1	0
+S237841191	2025-05-09	L44983321	Jolley Trail, New Castle US-CO (39.5716,-107.5182)	Western Kingbird	Tyrannus verticalis	17467	species	1	39.5716000	-107.5182230	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Song Sparrow	Melospiza melodia	33277	species	4	39.5838777	-107.5245512	Traveling	1	0
+S242951763	2025-05-26	L7881856	Sunset Trail	Juniper Titmouse	Baeolophus ridgwayi	22155	species	1	39.5838777	-107.5245512	Traveling	1	0

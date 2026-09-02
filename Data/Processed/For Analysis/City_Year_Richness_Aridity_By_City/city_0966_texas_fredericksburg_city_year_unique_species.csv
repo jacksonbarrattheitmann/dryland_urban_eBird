@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2015,19612904.4382023,33,87,city_0966_texas_fredericksburg,1082.549991607666,19.0078125,37.31925637645603,humid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2016,19612904.4382023,39,80,city_0966_texas_fredericksburg,1040.637508392334,19.765625,34.96105015071358,humid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2017,19612904.4382023,58,179,city_0966_texas_fredericksburg,652.2437553405762,19.921875,21.79822472156495,dry subhumid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2018,19612904.4382023,36,121,city_0966_texas_fredericksburg,774.4874973297119,19.21875,26.506523972781583,dry subhumid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2019,19612904.4382023,35,123,city_0966_texas_fredericksburg,586.012496471405,19.255208333333332,20.03104848184258,dry subhumid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2020,19612904.4382023,67,296,city_0966_texas_fredericksburg,573.59375,19.692708333333332,19.31766356779513,semiarid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2021,19612904.4382023,81,535,city_0966_texas_fredericksburg,746.5562582015991,19.177083333333332,25.587076325367196,dry subhumid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2022,19612904.4382023,61,304,city_0966_texas_fredericksburg,388.21875286102295,19.619791666666668,13.106734754583506,semiarid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2023,19612904.4382023,70,367,city_0966_texas_fredericksburg,621.9437465667725,20.247395833333332,20.561893988948828,dry subhumid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2024,19612904.4382023,77,776,city_0966_texas_fredericksburg,602.0937523841858,20.536458333333332,19.71720969772534,semiarid,12
-966,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,2025,19612904.4382023,87,1101,city_0966_texas_fredericksburg,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+966,2015,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,33,87,city_0966_texas_fredericksburg,1082.54999160767,19.0078125,37.319256376456,humid,12
+966,2016,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,39,80,city_0966_texas_fredericksburg,1040.63750839233,19.765625,34.9610501507136,humid,12
+966,2017,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,58,179,city_0966_texas_fredericksburg,652.243755340576,19.921875,21.798224721565,dry subhumid,12
+966,2018,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,36,121,city_0966_texas_fredericksburg,774.487497329712,19.21875,26.5065239727816,dry subhumid,12
+966,2019,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,35,123,city_0966_texas_fredericksburg,586.012496471405,19.2552083333333,20.0310484818426,dry subhumid,12
+966,2020,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,67,296,city_0966_texas_fredericksburg,573.59375,19.6927083333333,19.3176635677951,semiarid,12
+966,2021,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,81,535,city_0966_texas_fredericksburg,746.556258201599,19.1770833333333,25.5870763253672,dry subhumid,12
+966,2022,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,61,304,city_0966_texas_fredericksburg,388.218752861023,19.6197916666667,13.1067347545835,semiarid,12
+966,2023,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,70,367,city_0966_texas_fredericksburg,621.943746566773,20.2473958333333,20.5618939889488,dry subhumid,12
+966,2024,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,77,776,city_0966_texas_fredericksburg,602.093752384186,20.5364583333333,19.7172096977253,semiarid,12
+966,2025,"Fredericksburg, TX",Fredericksburg,Texas,Gillespie,100,87,1101,city_0966_texas_fredericksburg,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2015,26830062.330033,13,16,city_0195_montana_belgrade,371.2624988555908,8.408854166666668,20.16760497390676,dry subhumid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2016,26830062.330033,11,15,city_0195_montana_belgrade,409.53125286102295,8.25,22.440068649919063,dry subhumid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2017,26830062.330033,33,267,city_0195_montana_belgrade,402.9062523841858,7.1796875,23.452478538051743,dry subhumid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2018,26830062.330033,56,287,city_0195_montana_belgrade,450.68750381469727,6.760416666666666,26.889994012561186,dry subhumid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2019,26830062.330033,53,534,city_0195_montana_belgrade,464.01249980926514,6.067708333333334,28.878573732051507,dry subhumid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2020,26830062.330033,47,334,city_0195_montana_belgrade,379.2000021934509,7.708333333333334,21.41364718268899,dry subhumid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2021,26830062.330033,29,68,city_0195_montana_belgrade,283.5125036239624,8.002604166666668,15.74841622907588,semiarid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2022,26830062.330033,52,238,city_0195_montana_belgrade,387.7812452316284,6.955729166666666,22.870219347096505,dry subhumid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2023,26830062.330033,55,249,city_0195_montana_belgrade,473.6124897003174,7.833333333333334,26.557709702821533,dry subhumid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2024,26830062.330033,63,457,city_0195_montana_belgrade,339.3062481880188,8.3359375,18.50498498852425,semiarid,12
-195,"Belgrade, MT",Belgrade,Montana,Gallatin,2025,26830062.330033,53,151,city_0195_montana_belgrade,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+195,2015,"Belgrade, MT",Belgrade,Montana,Gallatin,100,13,16,city_0195_montana_belgrade,371.262498855591,8.40885416666667,20.1676049739068,dry subhumid,12
+195,2016,"Belgrade, MT",Belgrade,Montana,Gallatin,100,11,15,city_0195_montana_belgrade,409.531252861023,8.25,22.4400686499191,dry subhumid,12
+195,2017,"Belgrade, MT",Belgrade,Montana,Gallatin,100,33,267,city_0195_montana_belgrade,402.906252384186,7.1796875,23.4524785380517,dry subhumid,12
+195,2018,"Belgrade, MT",Belgrade,Montana,Gallatin,100,56,287,city_0195_montana_belgrade,450.687503814697,6.76041666666667,26.8899940125612,dry subhumid,12
+195,2019,"Belgrade, MT",Belgrade,Montana,Gallatin,100,53,534,city_0195_montana_belgrade,464.012499809265,6.06770833333333,28.8785737320515,dry subhumid,12
+195,2020,"Belgrade, MT",Belgrade,Montana,Gallatin,100,47,334,city_0195_montana_belgrade,379.200002193451,7.70833333333333,21.413647182689,dry subhumid,12
+195,2021,"Belgrade, MT",Belgrade,Montana,Gallatin,100,29,68,city_0195_montana_belgrade,283.512503623962,8.00260416666667,15.7484162290759,semiarid,12
+195,2022,"Belgrade, MT",Belgrade,Montana,Gallatin,100,52,238,city_0195_montana_belgrade,387.781245231628,6.95572916666667,22.8702193470965,dry subhumid,12
+195,2023,"Belgrade, MT",Belgrade,Montana,Gallatin,100,55,249,city_0195_montana_belgrade,473.612489700317,7.83333333333333,26.5577097028215,dry subhumid,12
+195,2024,"Belgrade, MT",Belgrade,Montana,Gallatin,100,63,457,city_0195_montana_belgrade,339.306248188019,8.3359375,18.5049849885243,semiarid,12
+195,2025,"Belgrade, MT",Belgrade,Montana,Gallatin,100,53,151,city_0195_montana_belgrade,,,,,

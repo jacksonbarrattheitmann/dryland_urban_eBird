@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-717,"Delta, CO",Delta,Colorado,Delta,2015,14858012.1352088,4,4,city_0717_colorado_delta,301.5687484741211,12.578125,13.35667813310986,semiarid,12
-717,"Delta, CO",Delta,Colorado,Delta,2016,14858012.1352088,2,2,city_0717_colorado_delta,206.66249895095825,12.598958333333332,9.144779856783588,arid,12
-717,"Delta, CO",Delta,Colorado,Delta,2017,14858012.1352088,5,6,city_0717_colorado_delta,158.76874995231628,12.8671875,6.943081651484962,arid,12
-717,"Delta, CO",Delta,Colorado,Delta,2018,14858012.1352088,13,16,city_0717_colorado_delta,198.30625128746033,12.559895833333332,8.790211300286826,arid,12
-717,"Delta, CO",Delta,Colorado,Delta,2019,14858012.1352088,24,44,city_0717_colorado_delta,204.48125171661377,11.3515625,9.576875309083997,arid,12
-717,"Delta, CO",Delta,Colorado,Delta,2020,14858012.1352088,32,41,city_0717_colorado_delta,129.17499995231628,12.541666666666668,5.730499073670223,arid,12
-717,"Delta, CO",Delta,Colorado,Delta,2021,14858012.1352088,21,44,city_0717_colorado_delta,244.2249979972839,12.809895833333332,10.706975594355182,semiarid,12
-717,"Delta, CO",Delta,Colorado,Delta,2022,14858012.1352088,14,14,city_0717_colorado_delta,230.07500219345093,12.109375,10.406219180481171,semiarid,12
-717,"Delta, CO",Delta,Colorado,Delta,2023,14858012.1352088,5,5,city_0717_colorado_delta,199.6999983787537,12.15625,9.013258036840783,arid,12
-717,"Delta, CO",Delta,Colorado,Delta,2024,14858012.1352088,29,49,city_0717_colorado_delta,227.4499955177307,13.377604166666668,9.72939715704674,arid,12
-717,"Delta, CO",Delta,Colorado,Delta,2025,14858012.1352088,14,17,city_0717_colorado_delta,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+717,2015,"Delta, CO",Delta,Colorado,Delta,100,4,4,city_0717_colorado_delta,301.568748474121,12.578125,13.3566781331099,semiarid,12
+717,2016,"Delta, CO",Delta,Colorado,Delta,100,2,2,city_0717_colorado_delta,206.662498950958,12.5989583333333,9.14477985678359,arid,12
+717,2017,"Delta, CO",Delta,Colorado,Delta,100,5,6,city_0717_colorado_delta,158.768749952316,12.8671875,6.94308165148496,arid,12
+717,2018,"Delta, CO",Delta,Colorado,Delta,100,13,16,city_0717_colorado_delta,198.30625128746,12.5598958333333,8.79021130028683,arid,12
+717,2019,"Delta, CO",Delta,Colorado,Delta,100,24,44,city_0717_colorado_delta,204.481251716614,11.3515625,9.576875309084,arid,12
+717,2020,"Delta, CO",Delta,Colorado,Delta,100,32,41,city_0717_colorado_delta,129.174999952316,12.5416666666667,5.73049907367022,arid,12
+717,2021,"Delta, CO",Delta,Colorado,Delta,100,21,44,city_0717_colorado_delta,244.224997997284,12.8098958333333,10.7069755943552,semiarid,12
+717,2022,"Delta, CO",Delta,Colorado,Delta,100,12,12,city_0717_colorado_delta,230.075002193451,12.109375,10.4062191804812,semiarid,12
+717,2023,"Delta, CO",Delta,Colorado,Delta,100,5,5,city_0717_colorado_delta,199.699998378754,12.15625,9.01325803684078,arid,12
+717,2024,"Delta, CO",Delta,Colorado,Delta,100,29,48,city_0717_colorado_delta,227.449995517731,13.3776041666667,9.72939715704674,arid,12
+717,2025,"Delta, CO",Delta,Colorado,Delta,100,14,17,city_0717_colorado_delta,,,,,

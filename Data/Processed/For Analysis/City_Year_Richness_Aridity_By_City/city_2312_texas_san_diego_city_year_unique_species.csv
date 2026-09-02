@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2312,"San Diego, TX",San Diego,Texas,Duval,2016,4765455.84359326,12,12,city_2312_texas_san_diego,774.8562564849854,23.203125,23.33684725413603,dry subhumid,12
-2312,"San Diego, TX",San Diego,Texas,Duval,2019,4765455.84359326,41,48,city_2312_texas_san_diego,540.7312536239624,22.614583333333332,16.579431602651038,semiarid,12
-2312,"San Diego, TX",San Diego,Texas,Duval,2020,4765455.84359326,47,76,city_2312_texas_san_diego,538.5625047683716,23.239583333333332,16.20244451825875,semiarid,12
-2312,"San Diego, TX",San Diego,Texas,Duval,2021,4765455.84359326,24,51,city_2312_texas_san_diego,752.04376220703125,22.59375,23.073250614213805,dry subhumid,12
-2312,"San Diego, TX",San Diego,Texas,Duval,2023,4765455.84359326,18,22,city_2312_texas_san_diego,578.6624994277954,23.690104166666668,17.176037704280237,semiarid,12
-2312,"San Diego, TX",San Diego,Texas,Duval,2024,4765455.84359326,33,35,city_2312_texas_san_diego,677.3687496185303,23.9375,19.9593001729217,semiarid,12
-2312,"San Diego, TX",San Diego,Texas,Duval,2025,4765455.84359326,21,28,city_2312_texas_san_diego,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2312,2016,"San Diego, TX",San Diego,Texas,Duval,99.9999999999992,12,12,city_2312_texas_san_diego,774.856256484985,23.203125,23.336847254136,dry subhumid,12
+2312,2019,"San Diego, TX",San Diego,Texas,Duval,99.9999999999992,41,48,city_2312_texas_san_diego,540.731253623962,22.6145833333333,16.579431602651,semiarid,12
+2312,2020,"San Diego, TX",San Diego,Texas,Duval,99.9999999999992,47,76,city_2312_texas_san_diego,538.562504768372,23.2395833333333,16.2024445182588,semiarid,12
+2312,2021,"San Diego, TX",San Diego,Texas,Duval,99.9999999999992,24,51,city_2312_texas_san_diego,752.043762207031,22.59375,23.0732506142138,dry subhumid,12
+2312,2023,"San Diego, TX",San Diego,Texas,Duval,99.9999999999992,18,22,city_2312_texas_san_diego,578.662499427795,23.6901041666667,17.1760377042802,semiarid,12
+2312,2024,"San Diego, TX",San Diego,Texas,Duval,99.9999999999992,33,35,city_2312_texas_san_diego,677.36874961853,23.9375,19.9593001729217,semiarid,12
+2312,2025,"San Diego, TX",San Diego,Texas,Duval,99.9999999999992,21,28,city_2312_texas_san_diego,,,,,

@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-616,"Corcoran, CA",Corcoran,California,Kings,2015,16988069.2083002,78,275,city_0616_california_corcoran,113.49374920129776,19.013020833333332,3.911821173440297,extremely arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2016,16988069.2083002,55,115,city_0616_california_corcoran,188.71875071525577,18.75,6.564130459661069,arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2017,16988069.2083002,44,82,city_0616_california_corcoran,225.4437471628189,18.901041666666668,7.800540539783967,arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2018,16988069.2083002,5,5,city_0616_california_corcoran,145.73749786615372,18.716145833333332,5.075106482325476,arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2019,16988069.2083002,26,32,city_0616_california_corcoran,243.12500089406967,18.2109375,8.61811135819466,arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2020,16988069.2083002,51,82,city_0616_california_corcoran,113.99999678134918,18.9140625,3.942718072956686,extremely arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2021,16988069.2083002,38,39,city_0616_california_corcoran,164.26249754428864,18.661458333333332,5.73112838969715,arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2022,16988069.2083002,35,61,city_0616_california_corcoran,118.59374797344208,18.544270833333332,4.154730336812495,extremely arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2023,16988069.2083002,48,108,city_0616_california_corcoran,242.69375336170197,17.9375,8.687024728830496,arid,12
-616,"Corcoran, CA",Corcoran,California,Kings,2024,16988069.2083002,21,36,city_0616_california_corcoran,224.0875023007393,18.877604166666668,7.759906293036693,arid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+616,2015,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,78,275,city_0616_california_corcoran,113.493749201298,19.0130208333333,3.9118211734403,extremely arid,12
+616,2016,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,55,115,city_0616_california_corcoran,188.718750715256,18.75,6.56413045966107,arid,12
+616,2017,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,44,82,city_0616_california_corcoran,225.443747162819,18.9010416666667,7.80054053978397,arid,12
+616,2018,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,5,5,city_0616_california_corcoran,145.737497866154,18.7161458333333,5.07510648232548,arid,12
+616,2019,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,26,32,city_0616_california_corcoran,243.12500089407,18.2109375,8.61811135819466,arid,12
+616,2020,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,51,82,city_0616_california_corcoran,113.999996781349,18.9140625,3.94271807295669,extremely arid,12
+616,2021,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,38,39,city_0616_california_corcoran,164.262497544289,18.6614583333333,5.73112838969715,arid,12
+616,2022,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,35,61,city_0616_california_corcoran,118.593747973442,18.5442708333333,4.1547303368125,extremely arid,12
+616,2023,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,48,108,city_0616_california_corcoran,242.693753361702,17.9375,8.6870247288305,arid,12
+616,2024,"Corcoran, CA",Corcoran,California,Kings,99.9999999999811,21,36,city_0616_california_corcoran,224.087502300739,18.8776041666667,7.75990629303669,arid,12

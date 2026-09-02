@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-215,"Benton City, WA",Benton City,Washington,Benton,2017,6352516.83812233,1,1,city_0215_washington_benton_city,246.86249846220016,11.690104166666668,11.381342227096273,semiarid,12
-215,"Benton City, WA",Benton City,Washington,Benton,2021,6352516.83812233,20,62,city_0215_washington_benton_city,182.1874989271164,12.825520833333332,7.981745532003731,arid,12
-215,"Benton City, WA",Benton City,Washington,Benton,2022,6352516.83812233,7,7,city_0215_washington_benton_city,220.287499666214,11.7734375,10.117258685782344,semiarid,12
-215,"Benton City, WA",Benton City,Washington,Benton,2023,6352516.83812233,24,61,city_0215_washington_benton_city,174.80000245571136,12.59375,7.736652944097875,arid,12
-215,"Benton City, WA",Benton City,Washington,Benton,2024,6352516.83812233,36,102,city_0215_washington_benton_city,210.88749754428864,12.807291666666668,9.246494525805758,arid,12
-215,"Benton City, WA",Benton City,Washington,Benton,2025,6352516.83812233,54,236,city_0215_washington_benton_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+215,2017,"Benton City, WA",Benton City,Washington,Benton,99.9999999999634,1,1,city_0215_washington_benton_city,246.8624984622,11.6901041666667,11.3813422270963,semiarid,12
+215,2021,"Benton City, WA",Benton City,Washington,Benton,99.9999999999634,20,62,city_0215_washington_benton_city,182.187498927116,12.8255208333333,7.98174553200373,arid,12
+215,2022,"Benton City, WA",Benton City,Washington,Benton,99.9999999999634,7,7,city_0215_washington_benton_city,220.287499666214,11.7734375,10.1172586857823,semiarid,12
+215,2023,"Benton City, WA",Benton City,Washington,Benton,99.9999999999634,24,61,city_0215_washington_benton_city,174.800002455711,12.59375,7.73665294409788,arid,12
+215,2024,"Benton City, WA",Benton City,Washington,Benton,99.9999999999634,36,102,city_0215_washington_benton_city,210.887497544289,12.8072916666667,9.24649452580576,arid,12
+215,2025,"Benton City, WA",Benton City,Washington,Benton,99.9999999999634,54,236,city_0215_washington_benton_city,,,,,

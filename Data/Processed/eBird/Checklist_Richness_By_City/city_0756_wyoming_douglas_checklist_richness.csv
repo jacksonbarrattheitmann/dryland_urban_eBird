@@ -1,68 +1,70 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23551947,L3660020,US-WY-Douglas-342-598 US-87 BUS,2015-05-20,2015,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,25,0.322,1,42.763194,-105.393065,11,11,city_0756_wyoming_douglas
-S24266002,L1139624,"Douglas, WY",2015-07-13,2015,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,70,1.609,1,42.7626418,-105.393219,25,25,city_0756_wyoming_douglas
-S28449339,L1139624,"Douglas, WY",2016-03-20,2016,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,88,0.805,1,42.7626418,-105.393219,10,10,city_0756_wyoming_douglas
-S32019245,L2665219,Douglas (town),2016-10-10,2016,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,120,8.047,1,42.7599951,-105.3826833,17,17,city_0756_wyoming_douglas
-S37020566,L1139624,"Douglas, WY",2017-05-20,2017,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,138,1.609,1,42.7626418,-105.393219,27,27,city_0756_wyoming_douglas
-S39598623,L6328721,"342-598 West Yellowstone Highway, Douglas, Wyoming, US (42.763, -105.393)",2017-10-05,2017,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,10,,1,42.7630066,-105.3932716,5,5,city_0756_wyoming_douglas
-S38710751,L2665219,Douglas (town),2017-08-18,2017,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,45,0.161,1,42.7599951,-105.3826833,3,3,city_0756_wyoming_douglas
-S38758964,L2665219,Douglas (town),2017-08-21,2017,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,30,0.805,1,42.7599951,-105.3826833,5,5,city_0756_wyoming_douglas
-S46907456,L7651016,~ Justice Center,2018-06-30,2018,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,15,,1,42.7427475,-105.3652704,5,5,city_0756_wyoming_douglas
-S44823139,L1139624,"Douglas, WY",2018-04-22,2018,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,94,2.229,1,42.7626418,-105.393219,19,19,city_0756_wyoming_douglas
-S44380012,L7193364,"Cemetery Road, Douglas, Wyoming, US (42.756, -105.375)",2018-04-08,2018,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,60,,1,42.7558646,-105.3751848,8,8,city_0756_wyoming_douglas
-S70843772,L11776300,"Bartling Park, Douglas US-WY 42.74392, -105.37716",2020-06-26,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,6,,1,42.74392,-105.377162,7,7,city_0756_wyoming_douglas
-S70121038,L2665219,Douglas (town),2020-06-06,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,5,0.994,1,42.7599951,-105.3826833,8,8,city_0756_wyoming_douglas
-S69730669,L11564605,"1942 Park Ct, Douglas US-WY 42.74701, -105.35937",2020-05-27,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,7,,1,42.747012,-105.359371,3,3,city_0756_wyoming_douglas
-S87277833,L11728851,Riverside Park,2020-05-20,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,10,0.161,1,42.7631288,-105.3924035,18,18,city_0756_wyoming_douglas
-S74184255,L2665219,Douglas (town),2020-09-28,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,12,28.962,1,42.7599951,-105.3826833,2,2,city_0756_wyoming_douglas
-S87728184,L2665219,Douglas (town),2021-05-04,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,10,,1,42.7599951,-105.3826833,6,6,city_0756_wyoming_douglas
-S92576754,L15961716,"Riverside Park, Douglas US-WY 42.76303, -105.39266",2021-07-31,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,14,,1,42.763028,-105.392661,1,1,city_0756_wyoming_douglas
-S99209865,L17157345,Douglas Cemetery,2021-12-20,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,11,0.644,1,42.7562566,-105.3756546,3,3,city_0756_wyoming_douglas
-S99324495,L1139624,"Douglas, WY",2021-12-23,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,37,4.072,1,42.7626418,-105.393219,1,1,city_0756_wyoming_douglas
-S109808594,L17157345,Douglas Cemetery,2022-05-12,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,63,0.954,1,42.7562566,-105.3756546,20,20,city_0756_wyoming_douglas
-S115222405,L19467817,"1200 Sweetwater Rd, Douglas US-WY (42.7651,-105.4031)",2022-07-16,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,5,,1,42.765072,-105.403057,6,6,city_0756_wyoming_douglas
-S117908621,L20736817,"Riverside Park, Douglas US-WY 42.76341, -105.39174",2022-09-01,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,32,0.499,1,42.763412,-105.391735,7,7,city_0756_wyoming_douglas
-S110269598,L17157345,Douglas Cemetery,2022-05-15,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,12,0.718,1,42.7562566,-105.3756546,14,14,city_0756_wyoming_douglas
-S110158141,L18711010,Douglas,2022-04-25,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,150,6.437,1,42.762328,-105.382196,9,9,city_0756_wyoming_douglas
-S110663233,L19152367,"420 West Grant Street, Douglas, Wyoming, US (42.764, -105.393)",2022-05-19,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,116,,1,42.7636476,-105.3932559,8,8,city_0756_wyoming_douglas
-S111445153,L17157345,Douglas Cemetery,2022-05-27,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,31,1.451,1,42.7562566,-105.3756546,11,11,city_0756_wyoming_douglas
-S120517329,L17157345,Douglas Cemetery,2022-10-11,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,24,1.186,1,42.7562566,-105.3756546,6,6,city_0756_wyoming_douglas
-S101212932,L17512286,Douglas Riverside Park,2022-01-22,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,30,0.191,1,42.7630445,-105.3933114,4,4,city_0756_wyoming_douglas
-S112341571,L17157345,Douglas Cemetery,2022-06-06,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,34,1.421,1,42.7562566,-105.3756546,12,12,city_0756_wyoming_douglas
-S105568164,L17157345,Douglas Cemetery,2022-03-24,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,10,0.644,1,42.7562566,-105.3756546,6,6,city_0756_wyoming_douglas
-S106962230,L17157345,Douglas Cemetery,2022-04-13,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,28,1.357,1,42.7562566,-105.3756546,7,7,city_0756_wyoming_douglas
-S123278913,L2665219,Douglas (town),2022-11-30,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,8,0.22,1,42.7599951,-105.3826833,3,3,city_0756_wyoming_douglas
-S115296220,L2665219,Douglas (town),2022-07-17,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,46,,1,42.7599951,-105.3826833,2,2,city_0756_wyoming_douglas
-S148833047,L17157345,Douglas Cemetery,2023-09-02,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,72,1.502,1,42.7562566,-105.3756546,16,16,city_0756_wyoming_douglas
-S142703594,L25479058,Douglas Railroad Museum,2023-06-25,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,30,0.18,1,42.758969,-105.387312,10,10,city_0756_wyoming_douglas
-S134139473,L17157345,Douglas Cemetery,2023-04-17,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,38,1.209,1,42.7562566,-105.3756546,8,8,city_0756_wyoming_douglas
-S134856699,L17157345,Douglas Cemetery,2023-04-24,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,47,1.344,1,42.7562566,-105.3756546,17,17,city_0756_wyoming_douglas
-S151175598,L17157345,Douglas Cemetery,2023-10-01,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,37,1.228,1,42.7562566,-105.3756546,12,12,city_0756_wyoming_douglas
-S125935857,L17157345,Douglas Cemetery,2023-01-11,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,33,1.482,1,42.7562566,-105.3756546,8,8,city_0756_wyoming_douglas
-S130653903,L22998720,"Converse, Douglas, Riverview Park",2023-03-05,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,15,,1,42.7632098,-105.3914843,5,5,city_0756_wyoming_douglas
-S142807717,L25504689,"1255 Birch St, Douglas US-WY 42.75219, -105.36875",2023-06-26,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,20,,1,42.752193,-105.368749,4,4,city_0756_wyoming_douglas
-S152245022,L27383185,"1207 Sweetwater Road, Douglas, Wyoming, US (42.765, -105.403)",2023-10-14,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,20,0.724,1,42.7648555,-105.4029324,13,13,city_0756_wyoming_douglas
-S155249084,L22255621,"601–647 Big Horn Dr, Douglas US-WY 42.76504, -105.40253",2023-11-26,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,7,,1,42.765045,-105.402527,5,5,city_0756_wyoming_douglas
-S173571368,L17157345,Douglas Cemetery,2024-05-11,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,115,0.945,1,42.7562566,-105.3756546,22,22,city_0756_wyoming_douglas
-S196010236,L36762786,"Riverside  Park, West Grant Street, Douglas, Wyoming, US (42.764, -105.391)",2024-09-21,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,15,0.176,1,42.7635737,-105.3914494,8,8,city_0756_wyoming_douglas
-S177980517,L17157345,Douglas Cemetery,2024-05-17,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,22,1.014,1,42.7562566,-105.3756546,11,11,city_0756_wyoming_douglas
-S180246380,L2665219,Douglas (town),2024-06-08,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,20,0.237,1,42.7599951,-105.3826833,10,10,city_0756_wyoming_douglas
-S173450933,L17157345,Douglas Cemetery,2024-05-11,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,46,1.238,1,42.7562566,-105.3756546,24,24,city_0756_wyoming_douglas
-S194956458,L17157345,Douglas Cemetery,2024-09-12,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,56,0.724,1,42.7562566,-105.3756546,13,13,city_0756_wyoming_douglas
-S184014035,L33970748,"Riverside Park, Douglas US-WY 42.76317, -105.39291",2024-06-27,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,6,,1,42.763172,-105.392913,4,4,city_0756_wyoming_douglas
-S194596036,L17157345,Douglas Cemetery,2024-09-09,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,20,0.805,1,42.7562566,-105.3756546,15,15,city_0756_wyoming_douglas
-S237307634,L17157345,Douglas Cemetery,2025-05-13,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,24,0.944,1,42.7562566,-105.3756546,18,18,city_0756_wyoming_douglas
-S233972054,L17157345,Douglas Cemetery,2025-05-06,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,29,1.143,1,42.7562566,-105.3756546,17,17,city_0756_wyoming_douglas
-S238001387,L17157345,Douglas Cemetery,2025-05-14,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,49,0.572,1,42.7562566,-105.3756546,15,15,city_0756_wyoming_douglas
-S243273824,L46104154,Douglas--River Rd,2025-05-26,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,22,0.483,1,42.759729,-105.394491,27,27,city_0756_wyoming_douglas
-S271264837,L17157345,Douglas Cemetery,2025-09-03,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,38,0.991,1,42.7562566,-105.3756546,18,18,city_0756_wyoming_douglas
-S279423058,L17157345,Douglas Cemetery,2025-10-14,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,18,0.627,1,42.7562566,-105.3756546,8,8,city_0756_wyoming_douglas
-S267475297,L17157345,Douglas Cemetery,2025-08-15,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,29,0.943,1,42.7562566,-105.3756546,16,16,city_0756_wyoming_douglas
-S208153617,L22255621,"601–647 Big Horn Dr, Douglas US-WY 42.76504, -105.40253",2025-01-05,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,20,,1,42.765045,-105.402527,4,4,city_0756_wyoming_douglas
-S231756322,L43867708,"1090 West Yellowstone Highway, Douglas, Wyoming, US (42.763, -105.401)",2025-05-01,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,15,0.108,1,42.7632724,-105.4009411,6,6,city_0756_wyoming_douglas
-S243273899,L46104169,Douglas--Washington Park,2025-05-26,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,11,0.446,1,42.758531,-105.377928,16,16,city_0756_wyoming_douglas
-S208289394,L17157345,Douglas Cemetery,2025-01-06,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,45,0.952,1,42.7562566,-105.3756546,14,14,city_0756_wyoming_douglas
-S241925238,L45809958,"1372 Sweetwater Rd, Douglas US-WY 42.76567, -105.40580",2025-05-24,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,5,,1,42.765668,-105.405798,10,10,city_0756_wyoming_douglas
-S266301388,L51308263,"601 Big Horn Drive, Douglas, Wyoming, US (42.765, -105.402)",2025-08-10,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,8,0.33,1,42.7652772,-105.4022952,10,10,city_0756_wyoming_douglas
-S271193319,L17157345,Douglas Cemetery,2025-09-02,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,22,0.572,1,42.7562566,-105.3756546,8,8,city_0756_wyoming_douglas
-S256494743,L48921944,"731 S Fifth St, Douglas US-WY 42.75015, -105.38103",2025-07-03,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,8425557.02248813,5,0.078,1,42.750153,-105.381034,8,8,city_0756_wyoming_douglas
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23551947,L3660020,US-WY-Douglas-342-598 US-87 BUS,2015-05-20,2015,756,"Douglas, WY",Douglas,Wyoming,Converse,100,25,0.322,1,Traveling,42.763194,-105.393065,11,11,city_0756_wyoming_douglas
+S24266002,L1139624,"Douglas, WY",2015-07-13,2015,756,"Douglas, WY",Douglas,Wyoming,Converse,100,70,1.609,1,Traveling,42.7626418,-105.393219,25,25,city_0756_wyoming_douglas
+S28449339,L1139624,"Douglas, WY",2016-03-20,2016,756,"Douglas, WY",Douglas,Wyoming,Converse,100,88,0.805,1,Traveling,42.7626418,-105.393219,10,10,city_0756_wyoming_douglas
+S32019245,L2665219,Douglas (town),2016-10-10,2016,756,"Douglas, WY",Douglas,Wyoming,Converse,100,120,8.047,1,Traveling,42.7599951,-105.3826833,17,17,city_0756_wyoming_douglas
+S37020566,L1139624,"Douglas, WY",2017-05-20,2017,756,"Douglas, WY",Douglas,Wyoming,Converse,100,138,1.609,1,Traveling,42.7626418,-105.393219,27,27,city_0756_wyoming_douglas
+S38710751,L2665219,Douglas (town),2017-08-18,2017,756,"Douglas, WY",Douglas,Wyoming,Converse,100,45,0.161,1,Traveling,42.7599951,-105.3826833,3,3,city_0756_wyoming_douglas
+S38758964,L2665219,Douglas (town),2017-08-21,2017,756,"Douglas, WY",Douglas,Wyoming,Converse,100,30,0.805,1,Traveling,42.7599951,-105.3826833,5,5,city_0756_wyoming_douglas
+S39598623,L6328721,"342-598 West Yellowstone Highway, Douglas, Wyoming, US (42.763, -105.393)",2017-10-05,2017,756,"Douglas, WY",Douglas,Wyoming,Converse,100,10,,1,Stationary,42.7630066,-105.3932716,5,5,city_0756_wyoming_douglas
+S44380012,L7193364,"Cemetery Road, Douglas, Wyoming, US (42.756, -105.375)",2018-04-08,2018,756,"Douglas, WY",Douglas,Wyoming,Converse,100,60,,1,Stationary,42.7558646,-105.3751848,8,8,city_0756_wyoming_douglas
+S44823139,L1139624,"Douglas, WY",2018-04-22,2018,756,"Douglas, WY",Douglas,Wyoming,Converse,100,94,2.229,1,Traveling,42.7626418,-105.393219,19,19,city_0756_wyoming_douglas
+S46907456,L7651016,~ Justice Center,2018-06-30,2018,756,"Douglas, WY",Douglas,Wyoming,Converse,100,15,,1,Stationary,42.7427475,-105.3652704,5,5,city_0756_wyoming_douglas
+S87277833,L11728851,Riverside Park,2020-05-20,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,100,10,0.161,1,Traveling,42.7631288,-105.3924035,18,18,city_0756_wyoming_douglas
+S69730669,L11564605,"1942 Park Ct, Douglas US-WY 42.74701, -105.35937",2020-05-27,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,100,7,,1,Stationary,42.747012,-105.359371,3,3,city_0756_wyoming_douglas
+S70121038,L2665219,Douglas (town),2020-06-06,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,100,5,0.994,1,Traveling,42.7599951,-105.3826833,8,8,city_0756_wyoming_douglas
+S70843772,L11776300,"Bartling Park, Douglas US-WY 42.74392, -105.37716",2020-06-26,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,100,6,,1,Stationary,42.74392,-105.377162,7,7,city_0756_wyoming_douglas
+S74184255,L2665219,Douglas (town),2020-09-28,2020,756,"Douglas, WY",Douglas,Wyoming,Converse,100,12,28.962,1,Traveling,42.7599951,-105.3826833,2,2,city_0756_wyoming_douglas
+S81267400,L13561695,1228 Village Drive,2021-02-13,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,100,30,,1,,42.7531891,-105.3701477,0,0,city_0756_wyoming_douglas
+S87728184,L2665219,Douglas (town),2021-05-04,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,100,10,,1,Stationary,42.7599951,-105.3826833,6,6,city_0756_wyoming_douglas
+S92576754,L15961716,"Riverside Park, Douglas US-WY 42.76303, -105.39266",2021-07-31,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,100,14,,1,Stationary,42.763028,-105.392661,1,1,city_0756_wyoming_douglas
+S99209865,L17157345,Douglas Cemetery,2021-12-20,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,100,11,0.644,1,Traveling,42.7562566,-105.3756546,3,3,city_0756_wyoming_douglas
+S99324495,L1139624,"Douglas, WY",2021-12-23,2021,756,"Douglas, WY",Douglas,Wyoming,Converse,100,37,4.072,1,Traveling,42.7626418,-105.393219,1,1,city_0756_wyoming_douglas
+S101212932,L17512286,Douglas Riverside Park,2022-01-22,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,30,0.191,1,Traveling,42.7630445,-105.3933114,4,4,city_0756_wyoming_douglas
+S105568164,L17157345,Douglas Cemetery,2022-03-24,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,10,0.644,1,Traveling,42.7562566,-105.3756546,6,6,city_0756_wyoming_douglas
+S106962230,L17157345,Douglas Cemetery,2022-04-13,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,28,1.357,1,Traveling,42.7562566,-105.3756546,7,7,city_0756_wyoming_douglas
+S110158141,L18711010,Douglas,2022-04-25,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,150,6.437,1,Traveling,42.762328,-105.382196,9,9,city_0756_wyoming_douglas
+S109808594,L17157345,Douglas Cemetery,2022-05-12,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,63,0.954,1,Traveling,42.7562566,-105.3756546,20,20,city_0756_wyoming_douglas
+S110130082,L19057231,Converse Public Library,2022-05-13,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,20,,1,,42.7610925,-105.3837918,0,0,city_0756_wyoming_douglas
+S110269598,L17157345,Douglas Cemetery,2022-05-15,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,12,0.718,1,Traveling,42.7562566,-105.3756546,14,14,city_0756_wyoming_douglas
+S110663233,L19152367,"420 West Grant Street, Douglas, Wyoming, US (42.764, -105.393)",2022-05-19,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,116,,1,Stationary,42.7636476,-105.3932559,8,8,city_0756_wyoming_douglas
+S111445153,L17157345,Douglas Cemetery,2022-05-27,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,31,1.451,1,Traveling,42.7562566,-105.3756546,11,11,city_0756_wyoming_douglas
+S112341571,L17157345,Douglas Cemetery,2022-06-06,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,34,1.421,1,Traveling,42.7562566,-105.3756546,12,12,city_0756_wyoming_douglas
+S115222405,L19467817,"1200 Sweetwater Rd, Douglas US-WY (42.7651,-105.4031)",2022-07-16,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,5,,1,Stationary,42.765072,-105.403057,6,6,city_0756_wyoming_douglas
+S115296220,L2665219,Douglas (town),2022-07-17,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,46,,1,Stationary,42.7599951,-105.3826833,2,2,city_0756_wyoming_douglas
+S117908621,L20736817,"Riverside Park, Douglas US-WY 42.76341, -105.39174",2022-09-01,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,32,0.499,1,Traveling,42.763412,-105.391735,7,7,city_0756_wyoming_douglas
+S120517329,L17157345,Douglas Cemetery,2022-10-11,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,24,1.186,1,Traveling,42.7562566,-105.3756546,6,6,city_0756_wyoming_douglas
+S123278913,L2665219,Douglas (town),2022-11-30,2022,756,"Douglas, WY",Douglas,Wyoming,Converse,100,8,0.22,1,Traveling,42.7599951,-105.3826833,3,3,city_0756_wyoming_douglas
+S125935857,L17157345,Douglas Cemetery,2023-01-11,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,33,1.482,1,Traveling,42.7562566,-105.3756546,8,8,city_0756_wyoming_douglas
+S130653903,L22998720,"Converse, Douglas, Riverview Park",2023-03-05,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,15,,1,Stationary,42.7632098,-105.3914843,5,5,city_0756_wyoming_douglas
+S134139473,L17157345,Douglas Cemetery,2023-04-17,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,38,1.209,1,Traveling,42.7562566,-105.3756546,8,8,city_0756_wyoming_douglas
+S134856699,L17157345,Douglas Cemetery,2023-04-24,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,47,1.344,1,Traveling,42.7562566,-105.3756546,17,17,city_0756_wyoming_douglas
+S142703594,L25479058,Douglas Railroad Museum,2023-06-25,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,30,0.18,1,Traveling,42.758969,-105.387312,10,10,city_0756_wyoming_douglas
+S142807717,L25504689,"1255 Birch St, Douglas US-WY 42.75219, -105.36875",2023-06-26,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,20,,1,Stationary,42.752193,-105.368749,4,4,city_0756_wyoming_douglas
+S148833047,L17157345,Douglas Cemetery,2023-09-02,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,72,1.502,1,Traveling,42.7562566,-105.3756546,16,16,city_0756_wyoming_douglas
+S151175598,L17157345,Douglas Cemetery,2023-10-01,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,37,1.228,1,Traveling,42.7562566,-105.3756546,12,12,city_0756_wyoming_douglas
+S152245022,L27383185,"1207 Sweetwater Road, Douglas, Wyoming, US (42.765, -105.403)",2023-10-14,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,20,0.724,1,Traveling,42.7648555,-105.4029324,13,13,city_0756_wyoming_douglas
+S155249084,L22255621,"601–647 Big Horn Dr, Douglas US-WY 42.76504, -105.40253",2023-11-26,2023,756,"Douglas, WY",Douglas,Wyoming,Converse,100,7,,1,Stationary,42.765045,-105.402527,5,5,city_0756_wyoming_douglas
+S173571368,L17157345,Douglas Cemetery,2024-05-11,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,100,115,0.945,1,Traveling,42.7562566,-105.3756546,22,22,city_0756_wyoming_douglas
+S173450933,L17157345,Douglas Cemetery,2024-05-11,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,100,46,1.238,1,Traveling,42.7562566,-105.3756546,24,24,city_0756_wyoming_douglas
+S177980517,L17157345,Douglas Cemetery,2024-05-17,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,100,22,1.014,1,Traveling,42.7562566,-105.3756546,11,11,city_0756_wyoming_douglas
+S180246380,L2665219,Douglas (town),2024-06-08,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,100,20,0.237,1,Traveling,42.7599951,-105.3826833,10,10,city_0756_wyoming_douglas
+S184014035,L33970748,"Riverside Park, Douglas US-WY 42.76317, -105.39291",2024-06-27,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,100,6,,1,Stationary,42.763172,-105.392913,4,4,city_0756_wyoming_douglas
+S194596036,L17157345,Douglas Cemetery,2024-09-09,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,100,20,0.805,1,Traveling,42.7562566,-105.3756546,15,15,city_0756_wyoming_douglas
+S194956458,L17157345,Douglas Cemetery,2024-09-12,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,100,56,0.724,1,Traveling,42.7562566,-105.3756546,13,13,city_0756_wyoming_douglas
+S196010236,L36762786,"Riverside  Park, West Grant Street, Douglas, Wyoming, US (42.764, -105.391)",2024-09-21,2024,756,"Douglas, WY",Douglas,Wyoming,Converse,100,15,0.176,1,Traveling,42.7635737,-105.3914494,8,8,city_0756_wyoming_douglas
+S208153617,L22255621,"601–647 Big Horn Dr, Douglas US-WY 42.76504, -105.40253",2025-01-05,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,20,,1,Stationary,42.765045,-105.402527,4,4,city_0756_wyoming_douglas
+S208289394,L17157345,Douglas Cemetery,2025-01-06,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,45,0.952,1,Traveling,42.7562566,-105.3756546,14,14,city_0756_wyoming_douglas
+S231756322,L43867708,"1090 West Yellowstone Highway, Douglas, Wyoming, US (42.763, -105.401)",2025-05-01,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,15,0.108,1,Traveling,42.7632724,-105.4009411,6,6,city_0756_wyoming_douglas
+S233972054,L17157345,Douglas Cemetery,2025-05-06,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,29,1.143,1,Traveling,42.7562566,-105.3756546,17,17,city_0756_wyoming_douglas
+S237307634,L17157345,Douglas Cemetery,2025-05-13,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,24,0.944,1,Traveling,42.7562566,-105.3756546,18,18,city_0756_wyoming_douglas
+S238001387,L17157345,Douglas Cemetery,2025-05-14,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,49,0.572,1,Traveling,42.7562566,-105.3756546,15,15,city_0756_wyoming_douglas
+S241925238,L45809958,"1372 Sweetwater Rd, Douglas US-WY 42.76567, -105.40580",2025-05-24,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,5,,1,Stationary,42.765668,-105.405798,10,10,city_0756_wyoming_douglas
+S243273824,L46104154,Douglas--River Rd,2025-05-26,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,22,0.483,1,Traveling,42.759729,-105.394491,27,27,city_0756_wyoming_douglas
+S243273899,L46104169,Douglas--Washington Park,2025-05-26,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,11,0.446,1,Traveling,42.758531,-105.377928,16,16,city_0756_wyoming_douglas
+S256494743,L48921944,"731 S Fifth St, Douglas US-WY 42.75015, -105.38103",2025-07-03,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,5,0.078,1,Traveling,42.750153,-105.381034,8,8,city_0756_wyoming_douglas
+S266301388,L51308263,"601 Big Horn Drive, Douglas, Wyoming, US (42.765, -105.402)",2025-08-10,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,8,0.33,1,Traveling,42.7652772,-105.4022952,10,10,city_0756_wyoming_douglas
+S267475297,L17157345,Douglas Cemetery,2025-08-15,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,29,0.943,1,Traveling,42.7562566,-105.3756546,16,16,city_0756_wyoming_douglas
+S271193319,L17157345,Douglas Cemetery,2025-09-02,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,22,0.572,1,Traveling,42.7562566,-105.3756546,8,8,city_0756_wyoming_douglas
+S271264837,L17157345,Douglas Cemetery,2025-09-03,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,38,0.991,1,Traveling,42.7562566,-105.3756546,18,18,city_0756_wyoming_douglas
+S279423058,L17157345,Douglas Cemetery,2025-10-14,2025,756,"Douglas, WY",Douglas,Wyoming,Converse,100,18,0.627,1,Traveling,42.7562566,-105.3756546,8,8,city_0756_wyoming_douglas

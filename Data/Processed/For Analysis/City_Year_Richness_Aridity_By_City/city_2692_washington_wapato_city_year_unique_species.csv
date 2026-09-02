@@ -1,3 +1,3 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2692,"Wapato, WA",Wapato,Washington,Yakima,2016,6883567.21556765,8,8,city_2692_washington_wapato,201.8937501907349,12.130208333333332,9.122993654182418,arid,12
-2692,"Wapato, WA",Wapato,Washington,Yakima,2022,6883567.21556765,15,28,city_2692_washington_wapato,205.8687514066696,11.020833333333332,9.793558045114116,arid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2692,2016,"Wapato, WA",Wapato,Washington,Yakima,100,8,8,city_2692_washington_wapato,201.893750190735,12.1302083333333,9.12299365418242,arid,12
+2692,2022,"Wapato, WA",Wapato,Washington,Yakima,100,14,27,city_2692_washington_wapato,205.86875140667,11.0208333333333,9.79355804511412,arid,12

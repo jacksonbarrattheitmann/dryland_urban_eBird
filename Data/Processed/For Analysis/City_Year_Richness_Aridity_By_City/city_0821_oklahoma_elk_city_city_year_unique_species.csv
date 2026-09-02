@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2015,16681932.3049569,11,16,city_0821_oklahoma_elk_city,849.1374950408936,16.0234375,32.629720614000114,humid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2016,16681932.3049569,14,16,city_0821_oklahoma_elk_city,657.5187463760376,16.588541666666668,24.729402410225116,dry subhumid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2018,16681932.3049569,11,13,city_0821_oklahoma_elk_city,649.806250333786,15.674479166666668,25.309422875359957,dry subhumid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2019,16681932.3049569,11,12,city_0821_oklahoma_elk_city,769.5500020980835,15.2734375,30.44896453432911,humid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2020,16681932.3049569,14,15,city_0821_oklahoma_elk_city,579.2624969482422,16.013020833333332,22.268174875175195,dry subhumid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2021,16681932.3049569,22,48,city_0821_oklahoma_elk_city,601.5312519073486,15.9296875,23.198553854817906,dry subhumid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2022,16681932.3049569,12,13,city_0821_oklahoma_elk_city,493.40624809265137,15.973958333333332,18.996190020811923,semiarid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2023,16681932.3049569,13,17,city_0821_oklahoma_elk_city,664.7750015258789,16.34375,25.23463825483763,dry subhumid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2024,16681932.3049569,5,6,city_0821_oklahoma_elk_city,587.9187421798706,17.078125,21.7119443159329,dry subhumid,12
-821,"Elk City, OK",Elk City,Oklahoma,Beckham,2025,16681932.3049569,27,46,city_0821_oklahoma_elk_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+821,2015,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,11,16,city_0821_oklahoma_elk_city,849.137495040894,16.0234375,32.6297206140001,humid,12
+821,2016,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,14,16,city_0821_oklahoma_elk_city,657.518746376038,16.5885416666667,24.7294024102251,dry subhumid,12
+821,2018,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,11,13,city_0821_oklahoma_elk_city,649.806250333786,15.6744791666667,25.30942287536,dry subhumid,12
+821,2019,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,11,12,city_0821_oklahoma_elk_city,769.550002098084,15.2734375,30.4489645343291,humid,12
+821,2020,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,14,15,city_0821_oklahoma_elk_city,579.262496948242,16.0130208333333,22.2681748751752,dry subhumid,12
+821,2021,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,22,48,city_0821_oklahoma_elk_city,601.531251907349,15.9296875,23.1985538548179,dry subhumid,12
+821,2022,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,12,13,city_0821_oklahoma_elk_city,493.406248092651,15.9739583333333,18.9961900208119,semiarid,12
+821,2023,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,13,17,city_0821_oklahoma_elk_city,664.775001525879,16.34375,25.2346382548376,dry subhumid,12
+821,2024,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,5,6,city_0821_oklahoma_elk_city,587.918742179871,17.078125,21.7119443159329,dry subhumid,12
+821,2025,"Elk City, OK",Elk City,Oklahoma,Beckham,99.9999999999998,27,46,city_0821_oklahoma_elk_city,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2015,10683863.6294086,87,338,city_1295_wyoming_jackson,473.287504196167,4.356770833333334,32.966153022189026,humid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2016,10683863.6294086,89,327,city_1295_wyoming_jackson,513.7812519073486,4.067708333333334,36.52202901377672,humid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2017,10683863.6294086,92,400,city_1295_wyoming_jackson,527.1437439918518,3.4375,39.22930187846339,humid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2018,10683863.6294086,108,1099,city_1295_wyoming_jackson,489.268741607666,3.4322916666666665,36.42481519529736,humid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2019,10683863.6294086,120,1189,city_1295_wyoming_jackson,535.1124992370605,2.4140625,43.105349214816705,humid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2020,10683863.6294086,113,1070,city_1295_wyoming_jackson,362.0625009536743,3.7604166666666665,26.31188500496044,dry subhumid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2021,10683863.6294086,127,2253,city_1295_wyoming_jackson,417.1437520980835,4.255208333333334,29.262550384666433,dry subhumid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2022,10683863.6294086,130,1896,city_1295_wyoming_jackson,486.2437477111816,3.1119791666666665,37.08393229813183,humid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2023,10683863.6294086,132,3904,city_1295_wyoming_jackson,572.600004196167,3.4479166666666674,42.57908629189158,humid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2024,10683863.6294086,129,2570,city_1295_wyoming_jackson,396.30000019073486,4.557291666666666,27.223470496107726,dry subhumid,12
-1295,"Jackson, WY",Jackson,Wyoming,Teton,2025,10683863.6294086,122,3108,city_1295_wyoming_jackson,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1295,2015,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,87,338,city_1295_wyoming_jackson,473.287504196167,4.35677083333333,32.966153022189,humid,12
+1295,2016,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,89,327,city_1295_wyoming_jackson,513.781251907349,4.06770833333333,36.5220290137767,humid,12
+1295,2017,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,92,400,city_1295_wyoming_jackson,527.143743991852,3.4375,39.2293018784634,humid,12
+1295,2018,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,108,1099,city_1295_wyoming_jackson,489.268741607666,3.43229166666667,36.4248151952974,humid,12
+1295,2019,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,120,1189,city_1295_wyoming_jackson,535.112499237061,2.4140625,43.1053492148167,humid,12
+1295,2020,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,113,1070,city_1295_wyoming_jackson,362.062500953674,3.76041666666667,26.3118850049604,dry subhumid,12
+1295,2021,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,127,2258,city_1295_wyoming_jackson,417.143752098084,4.25520833333333,29.2625503846664,dry subhumid,12
+1295,2022,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,130,1896,city_1295_wyoming_jackson,486.243747711182,3.11197916666667,37.0839322981318,humid,12
+1295,2023,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,132,3904,city_1295_wyoming_jackson,572.600004196167,3.44791666666667,42.5790862918916,humid,12
+1295,2024,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,129,2570,city_1295_wyoming_jackson,396.300000190735,4.55729166666667,27.2234704961077,dry subhumid,12
+1295,2025,"Jackson, WY",Jackson,Wyoming,Teton,99.9999999999967,122,3118,city_1295_wyoming_jackson,,,,,

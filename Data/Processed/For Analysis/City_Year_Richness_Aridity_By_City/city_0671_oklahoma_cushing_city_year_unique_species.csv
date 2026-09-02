@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-671,"Cushing, OK",Cushing,Oklahoma,Payne,2015,11408282.0991408,13,18,city_0671_oklahoma_cushing,1175.4249954223633,16.546875,44.2773394391002,humid,12
-671,"Cushing, OK",Cushing,Oklahoma,Payne,2018,11408282.0991408,4,4,city_0671_oklahoma_cushing,960.6187410354614,16.015625,36.92468434010182,humid,12
-671,"Cushing, OK",Cushing,Oklahoma,Payne,2019,11408282.0991408,2,2,city_0671_oklahoma_cushing,1179.9999866485596,15.8828125,45.59009909176445,humid,12
-671,"Cushing, OK",Cushing,Oklahoma,Payne,2020,11408282.0991408,6,7,city_0671_oklahoma_cushing,973.0000038146972,16.208333333333332,37.12559632997255,humid,12
-671,"Cushing, OK",Cushing,Oklahoma,Payne,2021,11408282.0991408,11,11,city_0671_oklahoma_cushing,867.2687463760376,16.440104166666668,32.801260574056776,humid,12
-671,"Cushing, OK",Cushing,Oklahoma,Payne,2022,11408282.0991408,38,104,city_0671_oklahoma_cushing,836.7562580108643,16.372395833333332,31.7284885036212,humid,12
-671,"Cushing, OK",Cushing,Oklahoma,Payne,2023,11408282.0991408,12,13,city_0671_oklahoma_cushing,891.8937454223633,16.989583333333332,33.0458508531636,humid,12
-671,"Cushing, OK",Cushing,Oklahoma,Payne,2024,11408282.0991408,30,37,city_0671_oklahoma_cushing,848.1812477111816,17.455729166666668,30.892687007596862,humid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+671,2015,"Cushing, OK",Cushing,Oklahoma,Payne,100,13,18,city_0671_oklahoma_cushing,1175.42499542236,16.546875,44.2773394391002,humid,12
+671,2018,"Cushing, OK",Cushing,Oklahoma,Payne,100,4,4,city_0671_oklahoma_cushing,960.618741035461,16.015625,36.9246843401018,humid,12
+671,2019,"Cushing, OK",Cushing,Oklahoma,Payne,100,2,2,city_0671_oklahoma_cushing,1179.99998664856,15.8828125,45.5900990917645,humid,12
+671,2020,"Cushing, OK",Cushing,Oklahoma,Payne,100,6,7,city_0671_oklahoma_cushing,973.000003814697,16.2083333333333,37.1255963299726,humid,12
+671,2021,"Cushing, OK",Cushing,Oklahoma,Payne,100,11,11,city_0671_oklahoma_cushing,867.268746376038,16.4401041666667,32.8012605740568,humid,12
+671,2022,"Cushing, OK",Cushing,Oklahoma,Payne,100,38,86,city_0671_oklahoma_cushing,836.756258010864,16.3723958333333,31.7284885036212,humid,12
+671,2023,"Cushing, OK",Cushing,Oklahoma,Payne,100,12,13,city_0671_oklahoma_cushing,891.893745422363,16.9895833333333,33.0458508531636,humid,12
+671,2024,"Cushing, OK",Cushing,Oklahoma,Payne,100,30,37,city_0671_oklahoma_cushing,848.181247711182,17.4557291666667,30.8926870075969,humid,12

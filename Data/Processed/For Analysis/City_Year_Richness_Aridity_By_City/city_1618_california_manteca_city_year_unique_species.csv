@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1618,"Manteca, CA",Manteca,California,San Joaquin,2015,57489616.8165443,132,1296,city_1618_california_manteca,190.06249856948853,17.755208333333332,6.847813797211821,arid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2016,57489616.8165443,110,1196,city_1618_california_manteca,322.93124812841415,17.3359375,11.81343234079366,semiarid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2017,57489616.8165443,100,915,city_1618_california_manteca,345.6749969422817,17.361979166666668,12.633406188810904,semiarid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2018,57489616.8165443,88,300,city_1618_california_manteca,273.68749618530273,17.216145833333332,10.056071049196849,semiarid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2019,57489616.8165443,111,920,city_1618_california_manteca,330.0562547445297,17.0234375,12.213703558051405,semiarid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2020,57489616.8165443,151,4108,city_1618_california_manteca,131.2937489748001,17.453125,4.782470082178262,extremely arid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2021,57489616.8165443,158,7673,city_1618_california_manteca,270.84999746084213,17.0234375,10.022781056660246,semiarid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2022,57489616.8165443,161,9068,city_1618_california_manteca,196.4687494635582,17.158854166666668,7.234058854540833,arid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2023,57489616.8165443,149,6919,city_1618_california_manteca,334.65625044703484,16.627604166666668,12.5680195766906,semiarid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2024,57489616.8165443,157,7387,city_1618_california_manteca,332.07500499486923,17.419270833333332,12.111007875204653,semiarid,12
-1618,"Manteca, CA",Manteca,California,San Joaquin,2025,57489616.8165443,157,6862,city_1618_california_manteca,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1618,2015,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,132,1296,city_1618_california_manteca,190.062498569489,17.7552083333333,6.84781379721182,arid,12
+1618,2016,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,110,1196,city_1618_california_manteca,322.931248128414,17.3359375,11.8134323407937,semiarid,12
+1618,2017,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,100,915,city_1618_california_manteca,345.674996942282,17.3619791666667,12.6334061888109,semiarid,12
+1618,2018,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,88,300,city_1618_california_manteca,273.687496185303,17.2161458333333,10.0560710491968,semiarid,12
+1618,2019,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,111,920,city_1618_california_manteca,330.05625474453,17.0234375,12.2137035580514,semiarid,12
+1618,2020,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,151,4108,city_1618_california_manteca,131.2937489748,17.453125,4.78247008217826,extremely arid,12
+1618,2021,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,158,7673,city_1618_california_manteca,270.849997460842,17.0234375,10.0227810566602,semiarid,12
+1618,2022,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,161,9068,city_1618_california_manteca,196.468749463558,17.1588541666667,7.23405885454083,arid,12
+1618,2023,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,149,6919,city_1618_california_manteca,334.656250447035,16.6276041666667,12.5680195766906,semiarid,12
+1618,2024,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,157,7387,city_1618_california_manteca,332.075004994869,17.4192708333333,12.1110078752047,semiarid,12
+1618,2025,"Manteca, CA",Manteca,California,San Joaquin,99.9999999999784,157,6862,city_1618_california_manteca,,,,,

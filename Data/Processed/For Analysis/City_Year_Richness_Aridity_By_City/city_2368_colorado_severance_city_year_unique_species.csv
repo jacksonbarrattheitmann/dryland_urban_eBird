@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2368,"Severance, CO",Severance,Colorado,Weld,2015,3957808.12603913,39,69,city_2368_colorado_severance,470.75624990463257,10.317708333333332,23.16975134111496,dry subhumid,12
-2368,"Severance, CO",Severance,Colorado,Weld,2016,3957808.12603913,55,129,city_2368_colorado_severance,411.9250011444092,10.513020833333332,20.081147700831934,dry subhumid,12
-2368,"Severance, CO",Severance,Colorado,Weld,2017,3957808.12603913,38,60,city_2368_colorado_severance,408.58124828338623,10.190104166666666,20.23670828593065,dry subhumid,12
-2368,"Severance, CO",Severance,Colorado,Weld,2018,3957808.12603913,35,55,city_2368_colorado_severance,339.43749952316284,9.736979166666668,17.198047211623503,semiarid,12
-2368,"Severance, CO",Severance,Colorado,Weld,2019,3957808.12603913,34,62,city_2368_colorado_severance,470.30625438690186,8.911458333333334,24.86885178801574,dry subhumid,12
-2368,"Severance, CO",Severance,Colorado,Weld,2021,3957808.12603913,5,13,city_2368_colorado_severance,380.05000019073486,10.408854166666668,18.621819583162203,semiarid,12
-2368,"Severance, CO",Severance,Colorado,Weld,2023,3957808.12603913,7,7,city_2368_colorado_severance,446.1812515258789,9.666666666666668,22.68718228097689,dry subhumid,12
-2368,"Severance, CO",Severance,Colorado,Weld,2024,3957808.12603913,4,4,city_2368_colorado_severance,337.2687478065491,10.9609375,16.09034652226548,semiarid,12
-2368,"Severance, CO",Severance,Colorado,Weld,2025,3957808.12603913,15,32,city_2368_colorado_severance,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2368,2015,"Severance, CO",Severance,Colorado,Weld,100,39,69,city_2368_colorado_severance,470.756249904633,10.3177083333333,23.169751341115,dry subhumid,12
+2368,2016,"Severance, CO",Severance,Colorado,Weld,100,55,129,city_2368_colorado_severance,411.925001144409,10.5130208333333,20.0811477008319,dry subhumid,12
+2368,2017,"Severance, CO",Severance,Colorado,Weld,100,38,60,city_2368_colorado_severance,408.581248283386,10.1901041666667,20.2367082859307,dry subhumid,12
+2368,2018,"Severance, CO",Severance,Colorado,Weld,100,35,55,city_2368_colorado_severance,339.437499523163,9.73697916666667,17.1980472116235,semiarid,12
+2368,2019,"Severance, CO",Severance,Colorado,Weld,100,34,62,city_2368_colorado_severance,470.306254386902,8.91145833333333,24.8688517880157,dry subhumid,12
+2368,2021,"Severance, CO",Severance,Colorado,Weld,100,5,13,city_2368_colorado_severance,380.050000190735,10.4088541666667,18.6218195831622,semiarid,12
+2368,2023,"Severance, CO",Severance,Colorado,Weld,100,7,7,city_2368_colorado_severance,446.181251525879,9.66666666666667,22.6871822809769,dry subhumid,12
+2368,2024,"Severance, CO",Severance,Colorado,Weld,100,4,4,city_2368_colorado_severance,337.268747806549,10.9609375,16.0903465222655,semiarid,12
+2368,2025,"Severance, CO",Severance,Colorado,Weld,100,15,32,city_2368_colorado_severance,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-413,"Canyon, TX",Canyon,Texas,Randall,2015,15957745.1517756,22,77,city_0413_texas_canyon,708.9562568664551,14.7890625,28.599559054177828,dry subhumid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2016,15957745.1517756,73,375,city_0413_texas_canyon,487.83749198913574,15.466145833333332,19.156314237020975,semiarid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2017,15957745.1517756,42,119,city_0413_texas_canyon,528.5312473773956,15.236979166666666,20.94273026446393,dry subhumid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2018,15957745.1517756,66,245,city_0413_texas_canyon,444.93124520778656,14.6171875,18.074008056679364,semiarid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2019,15957745.1517756,65,672,city_0413_texas_canyon,454.99374294281006,14.403645833333334,18.64449869704824,semiarid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2020,15957745.1517756,68,779,city_0413_texas_canyon,308.03124952316284,15.049479166666666,12.296912341916473,semiarid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2021,15957745.1517756,81,1573,city_0413_texas_canyon,422.26874965429306,14.674479166666668,17.113583099445755,semiarid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2022,15957745.1517756,70,974,city_0413_texas_canyon,355.5750050544739,14.799479166666668,14.33800293404578,semiarid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2023,15957745.1517756,83,1392,city_0413_texas_canyon,403.4874997138977,15.440104166666668,15.860292751575056,semiarid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2024,15957745.1517756,126,3374,city_0413_texas_canyon,440.2187478542328,15.950520833333334,16.96377312353491,semiarid,12
-413,"Canyon, TX",Canyon,Texas,Randall,2025,15957745.1517756,150,6782,city_0413_texas_canyon,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+413,2015,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,22,77,city_0413_texas_canyon,708.956256866455,14.7890625,28.5995590541778,dry subhumid,12
+413,2016,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,73,375,city_0413_texas_canyon,487.837491989136,15.4661458333333,19.156314237021,semiarid,12
+413,2017,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,42,119,city_0413_texas_canyon,528.531247377396,15.2369791666667,20.9427302644639,dry subhumid,12
+413,2018,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,66,245,city_0413_texas_canyon,444.931245207787,14.6171875,18.0740080566794,semiarid,12
+413,2019,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,65,672,city_0413_texas_canyon,454.99374294281,14.4036458333333,18.6444986970482,semiarid,12
+413,2020,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,68,779,city_0413_texas_canyon,308.031249523163,15.0494791666667,12.2969123419165,semiarid,12
+413,2021,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,81,1573,city_0413_texas_canyon,422.268749654293,14.6744791666667,17.1135830994458,semiarid,12
+413,2022,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,70,974,city_0413_texas_canyon,355.575005054474,14.7994791666667,14.3380029340458,semiarid,12
+413,2023,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,83,1392,city_0413_texas_canyon,403.487499713898,15.4401041666667,15.8602927515751,semiarid,12
+413,2024,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,126,3374,city_0413_texas_canyon,440.218747854233,15.9505208333333,16.9637731235349,semiarid,12
+413,2025,"Canyon, TX",Canyon,Texas,Randall,99.9999999999957,150,6782,city_0413_texas_canyon,,,,,

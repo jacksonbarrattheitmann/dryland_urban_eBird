@@ -1,6 +1,6 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S21771461	2015-02-11	L2286848	El Campo area	Turkey Vulture	Cathartes aura	7815	species	4	29.2026820	-96.2445910	Traveling	1	0
 S21771461	2015-02-11	L2286848	El Campo area	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	29.2026820	-96.2445910	Traveling	1	0
+S21771461	2015-02-11	L2286848	El Campo area	Turkey Vulture	Cathartes aura	7815	species	4	29.2026820	-96.2445910	Traveling	1	0
 S21771461	2015-02-11	L2286848	El Campo area	American Kestrel	Falco sparverius	12028	species	2	29.2026820	-96.2445910	Traveling	1	0
 S27468730	2016-02-12	L4242046	My backyard	Blue Jay	Cyanocitta cristata	21294	species	4	29.2030860	-96.2659166	Stationary	1	0
 S27477794	2016-02-13	L4242046	My backyard	American Goldfinch	Spinus tristis	32617	species	6	29.2030860	-96.2659166	Stationary	1	0
@@ -11,8 +11,8 @@ S27477794	2016-02-13	L4242046	My backyard	Blue Jay	Cyanocitta cristata	21294	spe
 S27477794	2016-02-13	L4242046	My backyard	Downy Woodpecker	Dryobates pubescens	11400	species	1	29.2030860	-96.2659166	Stationary	1	0
 S31183474	2016-08-21	L2703291	US-TX-Danevang	House Sparrow	Passer domesticus	31534	species	10	29.2088830	-96.2732460	Traveling	1	0
 S31183474	2016-08-21	L2703291	US-TX-Danevang	White Ibis	Eudocimus albus	7462	species	2	29.2088830	-96.2732460	Traveling	1	0
-S29400277	2016-05-04	L4561997	US-TX-El Campo-1602 S Mechanic St - 29.1813x-96.2610	Rock Pigeon	Columba livia	1868	domestic	4	29.1812630	-96.2609720	Traveling	1	0
 S29400277	2016-05-04	L4561997	US-TX-El Campo-1602 S Mechanic St - 29.1813x-96.2610	Barn Swallow	Hirundo rustica	24187	species	3	29.1812630	-96.2609720	Traveling	1	0
+S29400277	2016-05-04	L4561997	US-TX-El Campo-1602 S Mechanic St - 29.1813x-96.2610	Rock Pigeon	Columba livia	1868	domestic	4	29.1812630	-96.2609720	Traveling	1	0
 S31183474	2016-08-21	L2703291	US-TX-Danevang	Turkey Vulture	Cathartes aura	7815	species	1	29.2088830	-96.2732460	Traveling	1	0
 S31183474	2016-08-21	L2703291	US-TX-Danevang	Black Tern	Chlidonias niger	6725	species	18	29.2088830	-96.2732460	Traveling	1	0
 S27468730	2016-02-12	L4242046	My backyard	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.2030860	-96.2659166	Stationary	1	0
@@ -63,53 +63,53 @@ S46440915	2018-06-09	L7549526	El Campo,Wharton Co	European Starling	Sturnus vulg
 S46440915	2018-06-09	L7549526	El Campo,Wharton Co	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.1928556	-96.2714767	Traveling	1	0
 S46440915	2018-06-09	L7549526	El Campo,Wharton Co	House Sparrow	Passer domesticus	31534	species	6	29.1928556	-96.2714767	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.2098818	-96.2717986	Stationary	1	0
-S51792632	2019-01-18	L8450034	Rotary Park	White-winged Dove	Zenaida asiatica	2389	species	1	29.2057370	-96.2595060	Traveling	1	0
-S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.2098818	-96.2717986	Stationary	1	0
 S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Blue Jay	Cyanocitta cristata	21294	species	2	29.2091713	-96.2731610	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Savannah Sparrow	Passerculus sandwichensis	33244	species	4	29.2098818	-96.2717986	Stationary	1	0
-S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.2098818	-96.2717986	Stationary	1	0
 S61180638	2019-11-04	L10114382	25634–25672 US-59 S, El Campo US-TX (29.1752,-96.2730)	European Starling	Sturnus vulgaris	27813	species	40	29.1752280	-96.2730480	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Purple Martin	Progne subis	24081	species	6	29.2098818	-96.2717986	Stationary	1	0
 S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Northern Mockingbird	Mimus polyglottos	28114	species	4	29.2091713	-96.2731610	Traveling	1	0
-S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.2006216	-96.2609189	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Great-tailed Grackle	Quiscalus mexicanus	33864	species	10	29.2098818	-96.2717986	Stationary	1	0
 S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Loggerhead Shrike	Lanius ludovicianus	21091	species	4	29.2006216	-96.2609189	Traveling	1	0
 S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	White-winged Dove	Zenaida asiatica	2389	species	3	29.2006216	-96.2609189	Traveling	1	0
 S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	White-winged Dove	Zenaida asiatica	2389	species	3	29.2091713	-96.2731610	Traveling	1	0
 S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Rock Pigeon	Columba livia	1868	domestic	5	29.2006216	-96.2609189	Traveling	1	0
 S51792632	2019-01-18	L8450034	Rotary Park	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.2057370	-96.2595060	Traveling	1	0
-S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.2091713	-96.2731610	Traveling	1	0
 S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	European Starling	Sturnus vulgaris	27813	species	7	29.2091713	-96.2731610	Traveling	1	0
-S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Mourning Dove	Zenaida macroura	2412	species	4	29.2006216	-96.2609189	Traveling	1	0
-S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Crested Caracara	Caracara plancus	11963	issf	1	29.2091713	-96.2731610	Traveling	1	0
-S51792632	2019-01-18	L8450034	Rotary Park	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	29.2057370	-96.2595060	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Common Grackle	Quiscalus quiscula	33853	species	10	29.2098818	-96.2717986	Stationary	1	0
-S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.2091713	-96.2731610	Traveling	1	0
-S56798698	2019-05-27	L9354715	City Park, El Campo, Texas, US (29.19, -96.272)	European Starling	Sturnus vulgaris	27813	species	6	29.1900139	-96.2716176	Traveling	1	0
-S61180638	2019-11-04	L10114382	25634–25672 US-59 S, El Campo US-TX (29.1752,-96.2730)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.1752280	-96.2730480	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Rock Pigeon	Columba livia	1868	domestic	1	29.2098818	-96.2717986	Stationary	1	0
-S56798698	2019-05-27	L9354715	City Park, El Campo, Texas, US (29.19, -96.272)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.1900139	-96.2716176	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Eastern Meadowlark	Sturnella magna	33568	species	1	29.2098818	-96.2717986	Stationary	1	0
-S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	European Starling	Sturnus vulgaris	27813	species	15	29.2006216	-96.2609189	Traveling	1	0
 S51792632	2019-01-18	L8450034	Rotary Park	Tufted Titmouse	Baeolophus bicolor	22160	species	1	29.2057370	-96.2595060	Traveling	1	0
+S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	European Starling	Sturnus vulgaris	27813	species	15	29.2006216	-96.2609189	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Mourning Dove	Zenaida macroura	2412	species	4	29.2098818	-96.2717986	Stationary	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.2098818	-96.2717986	Stationary	1	0
-S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	European Starling	Sturnus vulgaris	27813	species	3	29.2098818	-96.2717986	Stationary	1	0
 S56798698	2019-05-27	L9354715	City Park, El Campo, Texas, US (29.19, -96.272)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.1900139	-96.2716176	Traveling	1	0
 S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	29.2091713	-96.2731610	Traveling	1	0
 S51792632	2019-01-18	L8450034	Rotary Park	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.2057370	-96.2595060	Traveling	1	0
-S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Common Grackle	Quiscalus quiscula	33853	species	5	29.2091713	-96.2731610	Traveling	1	0
-S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	White-winged Dove	Zenaida asiatica	2389	species	2	29.2098818	-96.2717986	Stationary	1	0
 S56798698	2019-05-27	L9354715	City Park, El Campo, Texas, US (29.19, -96.272)	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	29.1900139	-96.2716176	Traveling	1	0
 S61180638	2019-11-04	L10114382	25634–25672 US-59 S, El Campo US-TX (29.1752,-96.2730)	American Kestrel	Falco sparverius	12028	species	1	29.1752280	-96.2730480	Traveling	1	0
 S61180638	2019-11-04	L10114382	25634–25672 US-59 S, El Campo US-TX (29.1752,-96.2730)	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	29.1752280	-96.2730480	Traveling	1	0
-S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Barn Swallow	Hirundo rustica	24187	species	2	29.2091713	-96.2731610	Traveling	1	0
 S51792632	2019-01-18	L8450034	Rotary Park	European Starling	Sturnus vulgaris	27813	species	14	29.2057370	-96.2595060	Traveling	1	0
+S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Barn Swallow	Hirundo rustica	24187	species	2	29.2091713	-96.2731610	Traveling	1	0
 S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	House Sparrow	Passer domesticus	31534	species	1	29.2098818	-96.2717986	Stationary	1	0
 S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Common Grackle	Quiscalus quiscula	33853	species	4	29.2006216	-96.2609189	Traveling	1	0
+S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Blue Jay	Cyanocitta cristata	21294	species	1	29.2098818	-96.2717986	Stationary	1	0
+S51792632	2019-01-18	L8450034	Rotary Park	White-winged Dove	Zenaida asiatica	2389	species	1	29.2057370	-96.2595060	Traveling	1	0
+S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.2098818	-96.2717986	Stationary	1	0
+S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.2098818	-96.2717986	Stationary	1	0
+S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.2006216	-96.2609189	Traveling	1	0
+S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.2091713	-96.2731610	Traveling	1	0
+S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Mourning Dove	Zenaida macroura	2412	species	4	29.2006216	-96.2609189	Traveling	1	0
+S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Crested Caracara	Caracara plancus	11963	issf	1	29.2091713	-96.2731610	Traveling	1	0
+S51792632	2019-01-18	L8450034	Rotary Park	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	29.2057370	-96.2595060	Traveling	1	0
+S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.2091713	-96.2731610	Traveling	1	0
+S56798698	2019-05-27	L9354715	City Park, El Campo, Texas, US (29.19, -96.272)	European Starling	Sturnus vulgaris	27813	species	6	29.1900139	-96.2716176	Traveling	1	0
+S61180638	2019-11-04	L10114382	25634–25672 US-59 S, El Campo US-TX (29.1752,-96.2730)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.1752280	-96.2730480	Traveling	1	0
+S56798698	2019-05-27	L9354715	City Park, El Campo, Texas, US (29.19, -96.272)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.1900139	-96.2716176	Traveling	1	0
+S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	European Starling	Sturnus vulgaris	27813	species	3	29.2098818	-96.2717986	Stationary	1	0
+S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Common Grackle	Quiscalus quiscula	33853	species	5	29.2091713	-96.2731610	Traveling	1	0
+S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	White-winged Dove	Zenaida asiatica	2389	species	2	29.2098818	-96.2717986	Stationary	1	0
 S56797580	2019-05-27	L9354484	Friendship Park, El Campo, Texas, US (29.209, -96.273)	Loggerhead Shrike	Lanius ludovicianus	21091	species	2	29.2091713	-96.2731610	Traveling	1	0
 S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Barn Swallow	Hirundo rustica	24187	species	1	29.2006216	-96.2609189	Traveling	1	0
-S54770478	2019-04-09	L9012002	Wharton Co. - Friendship Park	Blue Jay	Cyanocitta cristata	21294	species	1	29.2098818	-96.2717986	Stationary	1	0
 S56796950	2019-05-27	L9354366	El Campo, Texas, US (29.201, -96.261)	Northern Mockingbird	Mimus polyglottos	28114	species	4	29.2006216	-96.2609189	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Barn Swallow	Hirundo rustica	24187	species	2	29.1763600	-96.2767820	Traveling	1	0
 S67412621	2020-04-18	L2286848	El Campo area	gull sp.	Larinae sp.	6619	spuh	10	29.2026820	-96.2445910	Traveling	1	0
@@ -117,11 +117,11 @@ S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678
 S67412621	2020-04-18	L2286848	El Campo area	European Starling	Sturnus vulgaris	27813	species	2	29.2026820	-96.2445910	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Chimney Swift	Chaetura pelagica	3896	species	2	29.1763600	-96.2767820	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.1763600	-96.2767820	Traveling	1	0
-S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	white egret sp.	Egretta/Ardea sp.	7783	spuh	10	29.1763600	-96.2767820	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Purple Martin	Progne subis	24081	species	2	29.1763600	-96.2767820	Traveling	1	0
+S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	white egret sp.	Egretta/Ardea sp.	7783	spuh	10	29.1763600	-96.2767820	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Loggerhead Shrike	Lanius ludovicianus	21091	species	2	29.1763600	-96.2767820	Traveling	1	0
-S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	White-winged Dove	Zenaida asiatica	2389	species	1	29.1763600	-96.2767820	Traveling	1	0
 S67412621	2020-04-18	L2286848	El Campo area	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.2026820	-96.2445910	Traveling	1	0
+S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	White-winged Dove	Zenaida asiatica	2389	species	1	29.1763600	-96.2767820	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Mourning Dove	Zenaida macroura	2412	species	4	29.1763600	-96.2767820	Traveling	1	0
 S67412621	2020-04-18	L2286848	El Campo area	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.2026820	-96.2445910	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	House Sparrow	Passer domesticus	31534	species	20	29.1763600	-96.2767820	Traveling	1	0
@@ -131,16 +131,16 @@ S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678
 S67412621	2020-04-18	L2286848	El Campo area	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	29.2026820	-96.2445910	Traveling	1	0
 S66111507	2020-03-22	L11011568	1154 County Road 479, El Campo US-TX 29.21598, -96.26276	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.2159770	-96.2627630	Stationary	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Western Kingbird	Tyrannus verticalis	17467	species	2	29.1763600	-96.2767820	Traveling	1	0
-S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.1763600	-96.2767820	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.1763600	-96.2767820	Traveling	1	0
+S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.1763600	-96.2767820	Traveling	1	0
 S66111507	2020-03-22	L11011568	1154 County Road 479, El Campo US-TX 29.21598, -96.26276	Common Grackle	Quiscalus quiscula	33853	species	150	29.2159770	-96.2627630	Stationary	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Common Grackle	Quiscalus quiscula	33853	species	25	29.1763600	-96.2767820	Traveling	1	0
 S70449557	2020-06-14	L11698886	25880 US-59 S, El Campo US-TX 29.17636, -96.27678	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.1763600	-96.2767820	Traveling	1	0
 S66111507	2020-03-22	L11011568	1154 County Road 479, El Campo US-TX 29.21598, -96.26276	European Starling	Sturnus vulgaris	27813	species	25	29.2159770	-96.2627630	Stationary	1	0
 S66111507	2020-03-22	L11011568	1154 County Road 479, El Campo US-TX 29.21598, -96.26276	Northern Mockingbird	Mimus polyglottos	28114	species	6	29.2159770	-96.2627630	Stationary	1	0
 S67412621	2020-04-18	L2286848	El Campo area	Mourning Dove	Zenaida macroura	2412	species	1	29.2026820	-96.2445910	Traveling	1	0
-S90530012	2021-06-20	L15462095	TX: El Campo	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.2086398	-96.2792275	Stationary	1	0
 S97192156	2021-11-06	L16826780	1710 S Mechanic St, El Campo US-TX 29.17905, -96.26155	Rock Pigeon	Columba livia	1868	domestic	6	29.1790540	-96.2615460	Traveling	1	0
+S90530012	2021-06-20	L15462095	TX: El Campo	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.2086398	-96.2792275	Stationary	1	0
 S97192156	2021-11-06	L16826780	1710 S Mechanic St, El Campo US-TX 29.17905, -96.26155	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	29.1790540	-96.2615460	Traveling	1	0
 S97192156	2021-11-06	L16826780	1710 S Mechanic St, El Campo US-TX 29.17905, -96.26155	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.1790540	-96.2615460	Traveling	1	0
 S97192156	2021-11-06	L16826780	1710 S Mechanic St, El Campo US-TX 29.17905, -96.26155	Turkey Vulture	Cathartes aura	7815	species	5	29.1790540	-96.2615460	Traveling	1	0
@@ -150,8 +150,8 @@ S97192156	2021-11-06	L16826780	1710 S Mechanic St, El Campo US-TX 29.17905, -96.
 S90530012	2021-06-20	L15462095	TX: El Campo	Purple Martin	Progne subis	24081	species	3	29.2086398	-96.2792275	Stationary	1	0
 S97192156	2021-11-06	L16826780	1710 S Mechanic St, El Campo US-TX 29.17905, -96.26155	European Starling	Sturnus vulgaris	27813	species	16	29.1790540	-96.2615460	Traveling	1	0
 S97192156	2021-11-06	L16826780	1710 S Mechanic St, El Campo US-TX 29.17905, -96.26155	American Kestrel	Falco sparverius	12028	species	1	29.1790540	-96.2615460	Traveling	1	0
-S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -96.27)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	29.1895896	-96.2697042	Traveling	1	0
 S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -96.27)	Yellow-crowned Night Heron	Nyctanassa violacea	7591	species	1	29.1895896	-96.2697042	Traveling	1	0
+S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -96.27)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	29.1895896	-96.2697042	Traveling	1	0
 S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -96.27)	House Sparrow	Passer domesticus	31534	species	25	29.1895896	-96.2697042	Traveling	1	0
 S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -96.27)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.1895896	-96.2697042	Traveling	1	0
 S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -96.27)	Mourning Dove	Zenaida macroura	2412	species	5	29.1895896	-96.2697042	Traveling	1	0
@@ -169,34 +169,34 @@ S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -
 S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -96.27)	Blue Jay	Cyanocitta cristata	21294	species	2	29.1895896	-96.2697042	Traveling	1	0
 S114714207	2022-07-09	L20054236	501 Tegner Street, El Campo, Texas, US (29.19, -96.27)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.1895896	-96.2697042	Traveling	1	0
 S155639200	2023-12-02	L4540368	US-Texas-El Campo-26044-26214 U.S. 59 - 29.175x-96.28	Red-tailed Hawk	Buteo jamaicensis	8506	species	5	29.1751536	-96.2803561	Traveling	1	0
-S155639200	2023-12-02	L4540368	US-Texas-El Campo-26044-26214 U.S. 59 - 29.175x-96.28	Crested Caracara	Caracara plancus	11962	species	1	29.1751536	-96.2803561	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Eastern Wood-Pewee	Contopus virens	16924	species	1	29.1865120	-96.2755650	Traveling	1	0
+S155639200	2023-12-02	L4540368	US-Texas-El Campo-26044-26214 U.S. 59 - 29.175x-96.28	Crested Caracara	Caracara plancus	11962	species	1	29.1751536	-96.2803561	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	White-winged Dove	Zenaida asiatica	2389	species	3	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Turkey Vulture	Cathartes aura	7815	species	2	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Rose-breasted Grosbeak	Pheucticus ludovicianus	34557	species	1	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Inca Dove	Columbina inca	2242	species	3	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Blue Jay	Cyanocitta cristata	21294	species	3	29.1865120	-96.2755650	Traveling	1	0
-S127021435	2023-01-27	L22360494	2403 West Loop, El Campo, Texas, US (29.219, -96.289)	House Sparrow	Passer domesticus	31534	species	3	29.2185206	-96.2886880	Stationary	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Cedar Waxwing	Bombycilla cedrorum	29888	species	14	29.1865120	-96.2755650	Traveling	1	0
+S127021435	2023-01-27	L22360494	2403 West Loop, El Campo, Texas, US (29.219, -96.289)	House Sparrow	Passer domesticus	31534	species	3	29.2185206	-96.2886880	Stationary	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Carolina Wren	Thryothorus ludovicianus	27348	species	3	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Ruby-throated Hummingbird	Archilochus colubris	4802	species	2	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	29.1865120	-96.2755650	Traveling	1	0
-S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.1865120	-96.2755650	Traveling	1	0
-S155639200	2023-12-02	L4540368	US-Texas-El Campo-26044-26214 U.S. 59 - 29.175x-96.28	Turkey Vulture	Cathartes aura	7815	species	1	29.1751536	-96.2803561	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Northern Mockingbird	Mimus polyglottos	28114	species	3	29.1865120	-96.2755650	Traveling	1	0
+S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Black Vulture	Coragyps atratus	7811	species	2	29.1865120	-96.2755650	Traveling	1	0
+S155639200	2023-12-02	L4540368	US-Texas-El Campo-26044-26214 U.S. 59 - 29.175x-96.28	Turkey Vulture	Cathartes aura	7815	species	1	29.1751536	-96.2803561	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Mississippi Kite	Ictinia mississippiensis	8388	species	8	29.1865120	-96.2755650	Traveling	1	0
-S155639200	2023-12-02	L4540368	US-Texas-El Campo-26044-26214 U.S. 59 - 29.175x-96.28	Great Blue Heron	Ardea herodias	7753	species	1	29.1751536	-96.2803561	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Red-eyed Vireo	Vireo olivaceus	19267	species	1	29.1865120	-96.2755650	Traveling	1	0
+S155639200	2023-12-02	L4540368	US-Texas-El Campo-26044-26214 U.S. 59 - 29.175x-96.28	Great Blue Heron	Ardea herodias	7753	species	1	29.1751536	-96.2803561	Traveling	1	0
+S127021435	2023-01-27	L22360494	2403 West Loop, El Campo, Texas, US (29.219, -96.289)	European Starling	Sturnus vulgaris	27813	species	2	29.2185206	-96.2886880	Stationary	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Northern Cardinal	Cardinalis cardinalis	34515	species	7	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	European Starling	Sturnus vulgaris	27813	species	23	29.1865120	-96.2755650	Traveling	1	0
-S127021435	2023-01-27	L22360494	2403 West Loop, El Campo, Texas, US (29.219, -96.289)	European Starling	Sturnus vulgaris	27813	species	2	29.2185206	-96.2886880	Stationary	1	0
 S127021435	2023-01-27	L22360494	2403 West Loop, El Campo, Texas, US (29.219, -96.289)	Killdeer	Charadrius vociferus	5827	species	1	29.2185206	-96.2886880	Stationary	1	0
-S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	House Sparrow	Passer domesticus	31534	species	11	29.1865120	-96.2755650	Traveling	1	0
-S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Common Grackle	Quiscalus quiscula	33853	species	11	29.1865120	-96.2755650	Traveling	1	0
 S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Downy Woodpecker	Dryobates pubescens	11400	species	1	29.1865120	-96.2755650	Traveling	1	0
+S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	Common Grackle	Quiscalus quiscula	33853	species	11	29.1865120	-96.2755650	Traveling	1	0
+S136972926	2023-05-10	L24208564	506 Roth St, El Campo US-TX 29.18651, -96.27557	House Sparrow	Passer domesticus	31534	species	11	29.1865120	-96.2755650	Traveling	1	0
 S216901058	2025-03-06	L40903033	1710 SH-71, El Campo US-TX 29.17884, -96.26160	Great-tailed Grackle	Quiscalus mexicanus	33864	species	70	29.1788420	-96.2616020	Stationary	1	0
 S216901058	2025-03-06	L40903033	1710 SH-71, El Campo US-TX 29.17884, -96.26160	European Starling	Sturnus vulgaris	27813	species	45	29.1788420	-96.2616020	Stationary	1	0
 S216901058	2025-03-06	L40903033	1710 SH-71, El Campo US-TX 29.17884, -96.26160	Turkey Vulture	Cathartes aura	7815	species	5	29.1788420	-96.2616020	Stationary	1	0

@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-76,"Anna, TX",Anna,Texas,Collin,2015,18151046.4711148,17,30,city_0076_texas_anna,1246.0187454223633,18.3046875,44.02163936352815,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2016,18151046.4711148,1,1,city_0076_texas_anna,966.5999908447266,19.018229166666668,33.31009570890918,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2017,18151046.4711148,3,3,city_0076_texas_anna,944.0812492370604,18.997395833333332,32.55744945729962,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2019,18151046.4711148,23,66,city_0076_texas_anna,1134.162504196167,17.994791666666668,40.51333968477471,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2020,18151046.4711148,38,144,city_0076_texas_anna,1150.7624969482422,18.341145833333332,40.6039510087407,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2021,18151046.4711148,28,70,city_0076_texas_anna,997.1187381744384,18.223958333333332,35.328805633787084,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2022,18151046.4711148,34,143,city_0076_texas_anna,894.2249984741211,18.432291666666668,31.451034934425948,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2023,18151046.4711148,35,133,city_0076_texas_anna,1033.5500087738037,19.158854166666668,35.4454946297348,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2024,18151046.4711148,14,22,city_0076_texas_anna,1118.1312522888184,19.5078125,37.892719166790776,humid,12
-76,"Anna, TX",Anna,Texas,Collin,2025,18151046.4711148,19,41,city_0076_texas_anna,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+76,2015,"Anna, TX",Anna,Texas,Collin,100,17,30,city_0076_texas_anna,1246.01874542236,18.3046875,44.0216393635282,humid,12
+76,2016,"Anna, TX",Anna,Texas,Collin,100,1,1,city_0076_texas_anna,966.599990844727,19.0182291666667,33.3100957089092,humid,12
+76,2017,"Anna, TX",Anna,Texas,Collin,100,3,3,city_0076_texas_anna,944.08124923706,18.9973958333333,32.5574494572996,humid,12
+76,2019,"Anna, TX",Anna,Texas,Collin,100,23,66,city_0076_texas_anna,1134.16250419617,17.9947916666667,40.5133396847747,humid,12
+76,2020,"Anna, TX",Anna,Texas,Collin,100,38,144,city_0076_texas_anna,1150.76249694824,18.3411458333333,40.6039510087407,humid,12
+76,2021,"Anna, TX",Anna,Texas,Collin,100,28,70,city_0076_texas_anna,997.118738174438,18.2239583333333,35.3288056337871,humid,12
+76,2022,"Anna, TX",Anna,Texas,Collin,100,34,143,city_0076_texas_anna,894.224998474121,18.4322916666667,31.451034934426,humid,12
+76,2023,"Anna, TX",Anna,Texas,Collin,100,35,133,city_0076_texas_anna,1033.5500087738,19.1588541666667,35.4454946297348,humid,12
+76,2024,"Anna, TX",Anna,Texas,Collin,100,14,22,city_0076_texas_anna,1118.13125228882,19.5078125,37.8927191667908,humid,12
+76,2025,"Anna, TX",Anna,Texas,Collin,100,19,41,city_0076_texas_anna,,,,,

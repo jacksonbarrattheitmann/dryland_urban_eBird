@@ -1,19 +1,19 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Black Vulture	Coragyps atratus	7811	species	2	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Turkey Vulture	Cathartes aura	7815	species	1	29.6703600	-97.6501800	Stationary	1	0
+S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.6703600	-97.6501800	Stationary	1	0
+S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Chimney Swift	Chaetura pelagica	3896	species	2	29.6703600	-97.6501800	Stationary	1	0
+S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Mourning Dove	Zenaida macroura	2412	species	3	29.6703600	-97.6501800	Stationary	1	0
+S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Black Vulture	Coragyps atratus	7811	species	2	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Brown-headed Cowbird	Molothrus ater	33833	species	30	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	House Sparrow	Passer domesticus	31534	species	8	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Cedar Waxwing	Bombycilla cedrorum	29888	species	12	29.6703600	-97.6501800	Stationary	1	0
-S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Northern Cardinal	Cardinalis cardinalis	34515	species	6	29.6703600	-97.6501800	Stationary	1	0
-S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Chimney Swift	Chaetura pelagica	3896	species	2	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Yellow-rumped Warbler	Setophaga coronata	34160	issf	1	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	European Starling	Sturnus vulgaris	27813	species	8	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Inca Dove	Columbina inca	2242	species	4	29.6703600	-97.6501800	Stationary	1	0
-S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Mourning Dove	Zenaida macroura	2412	species	3	29.6703600	-97.6501800	Stationary	1	0
 S22710892	2015-04-05	L3525933	Luling, 101-113 Thompson Drive	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	29.6703600	-97.6501800	Stationary	1	0
 S27213335	2016-01-30	L197543	Luling	Great Egret	Ardea alba	7729	species	1	29.6805300	-97.6474800	Stationary	1	0
 S27213335	2016-01-30	L197543	Luling	Mourning Dove	Zenaida macroura	2412	species	6	29.6805300	-97.6474800	Stationary	1	0
@@ -50,8 +50,8 @@ S27213335	2016-01-30	L197543	Luling	European Starling	Sturnus vulgaris	27813	spe
 S27213335	2016-01-30	L197543	Luling	Northern Cardinal	Cardinalis cardinalis	34515	species	5	29.6805300	-97.6474800	Stationary	1	0
 S27213335	2016-01-30	L197543	Luling	Tufted Titmouse	Baeolophus bicolor	22160	species	3	29.6805300	-97.6474800	Stationary	1	0
 S27213335	2016-01-30	L197543	Luling	Chipping Sparrow	Spizella passerina	32990	species	10	29.6805300	-97.6474800	Stationary	1	0
-S27213335	2016-01-30	L197543	Luling	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.6805300	-97.6474800	Stationary	1	0
 S27213335	2016-01-30	L197543	Luling	American Goldfinch	Spinus tristis	32617	species	10	29.6805300	-97.6474800	Stationary	1	0
+S27213335	2016-01-30	L197543	Luling	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.6805300	-97.6474800	Stationary	1	0
 S27213335	2016-01-30	L197543	Luling	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	3	29.6805300	-97.6474800	Stationary	1	0
 S31723273	2016-09-23	L4943692	US-TX-Luling Cemetery	Northern Cardinal	Cardinalis cardinalis	34515	species	6	29.6768320	-97.6359180	Traveling	1	0
 S29204971	2016-04-25	L4534065	US-TX-Luling-Willow Ave - 29.6841x-97.6301	Western Kingbird	Tyrannus verticalis	17467	species	2	29.6841280	-97.6301280	Traveling	1	0
@@ -121,8 +121,8 @@ S44874814	2018-04-23	L7272057	700 E Pierce St, Luling US-TX (29.6804,-97.6470)	G
 S51020772	2018-12-28	L8317701	Luling City Cemetery	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.6763952	-97.6356568	Traveling	1	0
 S44874814	2018-04-23	L7272057	700 E Pierce St, Luling US-TX (29.6804,-97.6470)	Barn Swallow	Hirundo rustica	24187	species	1	29.6803970	-97.6469590	Traveling	1	0
 S47764506	2018-08-10	L4459678	Blanche Square Park, Luling	European Starling	Sturnus vulgaris	27813	species	2	29.6836161	-97.6464124	Traveling	1	0
-S51022452	2018-12-28	L8314996	1115 S Laurel Ave, Luling US-TX (29.6679,-97.6506)	Yellow-rumped Warbler	Setophaga coronata	34160	issf	20	29.6678650	-97.6506220	Traveling	1	0
 S47764506	2018-08-10	L4459678	Blanche Square Park, Luling	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.6836161	-97.6464124	Traveling	1	0
+S51022452	2018-12-28	L8314996	1115 S Laurel Ave, Luling US-TX (29.6679,-97.6506)	Yellow-rumped Warbler	Setophaga coronata	34160	issf	20	29.6678650	-97.6506220	Traveling	1	0
 S51022452	2018-12-28	L8314996	1115 S Laurel Ave, Luling US-TX (29.6679,-97.6506)	House Finch	Haemorhous mexicanus	32310	species	2	29.6678650	-97.6506220	Traveling	1	0
 S51020772	2018-12-28	L8317701	Luling City Cemetery	Ruby-crowned Kinglet	Corthylio calendula	26844	species	2	29.6763952	-97.6356568	Traveling	1	0
 S45562571	2018-05-11	L7389166	205–261 S Magnolia Ave, Luling US-TX (29.6788,-97.6477)	European Starling	Sturnus vulgaris	27813	species	1	29.6787700	-97.6477500	Traveling	1	0
@@ -137,49 +137,49 @@ S51020772	2018-12-28	L8317701	Luling City Cemetery	Inca Dove	Columbina inca	2242
 S51020772	2018-12-28	L8317701	Luling City Cemetery	Savannah Sparrow	Passerculus sandwichensis	33244	species	10	29.6763952	-97.6356568	Traveling	1	0
 S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.6750360	-97.6468460	Traveling	1	0
 S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	Black Vulture	Coragyps atratus	7811	species	4	29.6804667	-97.6475123	Traveling	1	0
-S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	House Finch	Haemorhous mexicanus	32310	species	1	29.6749286	-97.6466185	Stationary	1	0
-S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	House Sparrow	Passer domesticus	31534	species	X	29.6804667	-97.6475123	Traveling	1	0
-S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	Mourning Dove	Zenaida macroura	2412	species	1	29.6804667	-97.6475123	Traveling	1	0
 S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.6749286	-97.6466185	Stationary	1	0
 S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	House Sparrow	Passer domesticus	31534	species	6	29.6750360	-97.6468460	Traveling	1	0
 S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	Barn Swallow	Hirundo rustica	24195	issf	2	29.6749286	-97.6466185	Stationary	1	0
 S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	European Starling	Sturnus vulgaris	27813	species	2	29.6804667	-97.6475123	Traveling	1	0
-S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	White-winged Dove	Zenaida asiatica	2389	species	6	29.6749286	-97.6466185	Stationary	1	0
 S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	29.6750360	-97.6468460	Traveling	1	0
-S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	Western Kingbird	Tyrannus verticalis	17467	species	1	29.6749286	-97.6466185	Stationary	1	0
-S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.6749286	-97.6466185	Stationary	1	0
-S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.6750360	-97.6468460	Traveling	1	0
 S52829311	2019-02-17	L8638948	US 183 - Caldwell County	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.6846961	-97.6469842	Traveling	1	0
-S54383102	2019-03-30	L8944345	121 S Magnolia Ave, Luling US-TX (29.6800,-97.6475)	European Starling	Sturnus vulgaris	27813	species	1	29.6799520	-97.6474960	Stationary	1	0
-S52829311	2019-02-17	L8638948	US 183 - Caldwell County	Turkey Vulture	Cathartes aura	7815	species	1	29.6846961	-97.6469842	Traveling	1	0
 S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	White-winged Dove	Zenaida asiatica	2389	species	3	29.6804667	-97.6475123	Traveling	1	0
-S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	House Finch	Haemorhous mexicanus	32310	species	2	29.6750360	-97.6468460	Traveling	1	0
-S52829311	2019-02-17	L8638948	US 183 - Caldwell County	American Kestrel	Falco sparverius	12028	species	2	29.6846961	-97.6469842	Traveling	1	0
 S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	Black Vulture	Coragyps atratus	7811	species	1	29.6750360	-97.6468460	Traveling	1	0
-S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.6804667	-97.6475123	Traveling	1	0
-S54383102	2019-03-30	L8944345	121 S Magnolia Ave, Luling US-TX (29.6800,-97.6475)	Barn Swallow	Hirundo rustica	24187	species	8	29.6799520	-97.6474960	Stationary	1	0
-S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6804667	-97.6475123	Traveling	1	0
-S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	American Goldfinch	Spinus tristis	32617	species	3	29.6750360	-97.6468460	Traveling	1	0
-S54383102	2019-03-30	L8944345	121 S Magnolia Ave, Luling US-TX (29.6800,-97.6475)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6799520	-97.6474960	Stationary	1	0
 S52829311	2019-02-17	L8638948	US 183 - Caldwell County	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.6846961	-97.6469842	Traveling	1	0
 S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.6750360	-97.6468460	Traveling	1	0
 S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	House Sparrow	Passer domesticus	31534	species	4	29.6749286	-97.6466185	Stationary	1	0
 S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	Mourning Dove	Zenaida macroura	2412	species	2	29.6750360	-97.6468460	Traveling	1	0
 S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6804667	-97.6475123	Traveling	1	0
 S52829311	2019-02-17	L8638948	US 183 - Caldwell County	Rock Pigeon	Columba livia	1868	domestic	5	29.6846961	-97.6469842	Traveling	1	0
-S52829311	2019-02-17	L8638948	US 183 - Caldwell County	House Sparrow	Passer domesticus	31534	species	6	29.6846961	-97.6469842	Traveling	1	0
 S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.6749286	-97.6466185	Stationary	1	0
 S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	Downy Woodpecker	Dryobates pubescens	11400	species	1	29.6749286	-97.6466185	Stationary	1	0
+S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	House Finch	Haemorhous mexicanus	32310	species	1	29.6749286	-97.6466185	Stationary	1	0
+S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	House Sparrow	Passer domesticus	31534	species	X	29.6804667	-97.6475123	Traveling	1	0
+S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	Mourning Dove	Zenaida macroura	2412	species	1	29.6804667	-97.6475123	Traveling	1	0
+S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	White-winged Dove	Zenaida asiatica	2389	species	6	29.6749286	-97.6466185	Stationary	1	0
+S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	Western Kingbird	Tyrannus verticalis	17467	species	1	29.6749286	-97.6466185	Stationary	1	0
+S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.6749286	-97.6466185	Stationary	1	0
+S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.6750360	-97.6468460	Traveling	1	0
+S54383102	2019-03-30	L8944345	121 S Magnolia Ave, Luling US-TX (29.6800,-97.6475)	European Starling	Sturnus vulgaris	27813	species	1	29.6799520	-97.6474960	Stationary	1	0
+S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	House Finch	Haemorhous mexicanus	32310	species	2	29.6750360	-97.6468460	Traveling	1	0
+S52829311	2019-02-17	L8638948	US 183 - Caldwell County	Turkey Vulture	Cathartes aura	7815	species	1	29.6846961	-97.6469842	Traveling	1	0
+S52829311	2019-02-17	L8638948	US 183 - Caldwell County	American Kestrel	Falco sparverius	12028	species	2	29.6846961	-97.6469842	Traveling	1	0
+S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.6804667	-97.6475123	Traveling	1	0
+S54383102	2019-03-30	L8944345	121 S Magnolia Ave, Luling US-TX (29.6800,-97.6475)	Barn Swallow	Hirundo rustica	24187	species	8	29.6799520	-97.6474960	Stationary	1	0
+S55569227	2019-04-29	L9146497	Luling, Texas, US (29.68, -97.648)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6804667	-97.6475123	Traveling	1	0
+S52721871	2019-02-15	L8614674	615 S Oak Ave, Luling US-TX (29.6750,-97.6468)	American Goldfinch	Spinus tristis	32617	species	3	29.6750360	-97.6468460	Traveling	1	0
+S54383102	2019-03-30	L8944345	121 S Magnolia Ave, Luling US-TX (29.6800,-97.6475)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6799520	-97.6474960	Stationary	1	0
+S52829311	2019-02-17	L8638948	US 183 - Caldwell County	House Sparrow	Passer domesticus	31534	species	6	29.6846961	-97.6469842	Traveling	1	0
 S57510524	2019-06-19	L9322266	Luling--Luling Housing Authority and Senior Center	European Starling	Sturnus vulgaris	27813	species	2	29.6749286	-97.6466185	Stationary	1	0
-S65279950	2020-02-29	L10717008	US183- Caldwell county	Crested Caracara	Caracara plancus	11963	issf	1	29.6815990	-97.6474200	Traveling	1	0
 S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Carolina Chickadee	Poecile carolinensis	22060	species	2	29.6676930	-97.6513580	Traveling	1	0
-S65279950	2020-02-29	L10717008	US183- Caldwell county	American Kestrel	Falco sparverius	12028	species	1	29.6815990	-97.6474200	Traveling	1	0
-S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Downy Woodpecker	Dryobates pubescens	11400	species	2	29.6676930	-97.6513580	Traveling	1	0
+S65279950	2020-02-29	L10717008	US183- Caldwell county	Crested Caracara	Caracara plancus	11963	issf	1	29.6815990	-97.6474200	Traveling	1	0
 S64400624	2020-02-12	L10738180	Hillcrest Nursing homeLuling US-TX (29.6728,-97.6325)	American Kestrel	Falco sparverius	12028	species	1	29.6728050	-97.6325400	Stationary	1	0
 S64315101	2020-02-10	L10717008	US183- Caldwell county	Common Grackle	Quiscalus quiscula	33853	species	1	29.6815990	-97.6474200	Traveling	1	0
+S65279950	2020-02-29	L10717008	US183- Caldwell county	American Kestrel	Falco sparverius	12028	species	1	29.6815990	-97.6474200	Traveling	1	0
+S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Downy Woodpecker	Dryobates pubescens	11400	species	2	29.6676930	-97.6513580	Traveling	1	0
 S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	House Sparrow	Passer domesticus	31534	species	7	29.6730940	-97.6481100	Traveling	1	0
-S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Carolina Wren	Thryothorus ludovicianus	27348	species	3	29.6676930	-97.6513580	Traveling	1	0
 S64315101	2020-02-10	L10717008	US183- Caldwell county	American Kestrel	Falco sparverius	12028	species	2	29.6815990	-97.6474200	Traveling	1	0
+S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Carolina Wren	Thryothorus ludovicianus	27348	species	3	29.6676930	-97.6513580	Traveling	1	0
 S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.6730940	-97.6481100	Traveling	1	0
 S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Turkey Vulture	Cathartes aura	7815	species	2	29.6676930	-97.6513580	Traveling	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	Turkey Vulture	Cathartes aura	7815	species	25	29.6815990	-97.6474200	Traveling	1	0
@@ -192,121 +192,121 @@ S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Mourn
 S64315101	2020-02-10	L10717008	US183- Caldwell county	European Starling	Sturnus vulgaris	27813	species	60	29.6815990	-97.6474200	Traveling	1	0
 S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Mourning Dove	Zenaida macroura	2412	species	3	29.6676930	-97.6513580	Traveling	1	0
 S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.6676930	-97.6513580	Traveling	1	0
+S64315101	2020-02-10	L10717008	US183- Caldwell county	House Sparrow	Passer domesticus	31534	species	16	29.6815990	-97.6474200	Traveling	1	0
 S64315101	2020-02-10	L10717008	US183- Caldwell county	Great-tailed Grackle	Quiscalus mexicanus	33864	species	25	29.6815990	-97.6474200	Traveling	1	0
 S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Lesser Goldfinch	Spinus psaltria	32609	species	1	29.6676930	-97.6513580	Traveling	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.6815990	-97.6474200	Traveling	1	0
-S64315101	2020-02-10	L10717008	US183- Caldwell county	House Sparrow	Passer domesticus	31534	species	16	29.6815990	-97.6474200	Traveling	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	European Starling	Sturnus vulgaris	27813	species	5	29.6815990	-97.6474200	Traveling	1	0
 S64400624	2020-02-12	L10738180	Hillcrest Nursing homeLuling US-TX (29.6728,-97.6325)	Killdeer	Charadrius vociferus	5827	species	7	29.6728050	-97.6325400	Stationary	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	Black Vulture	Coragyps atratus	7811	species	1	29.6815990	-97.6474200	Traveling	1	0
 S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Blue Jay	Cyanocitta cristata	21294	species	2	29.6730940	-97.6481100	Traveling	1	0
 S64400624	2020-02-12	L10738180	Hillcrest Nursing homeLuling US-TX (29.6728,-97.6325)	Chipping Sparrow	Spizella passerina	32990	species	3	29.6728050	-97.6325400	Stationary	1	0
-S64315101	2020-02-10	L10717008	US183- Caldwell county	Red-tailed Hawk	Buteo jamaicensis	8506	species	5	29.6815990	-97.6474200	Traveling	1	0
-S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6730940	-97.6481100	Traveling	1	0
-S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	White-eyed Vireo	Vireo griseus	19165	species	2	29.6676930	-97.6513580	Traveling	1	0
-S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.6676930	-97.6513580	Traveling	1	0
-S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.6676930	-97.6513580	Traveling	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	House Sparrow	Passer domesticus	31534	species	7	29.6815990	-97.6474200	Traveling	1	0
 S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Barn Swallow	Hirundo rustica	24187	species	5	29.6676930	-97.6513580	Traveling	1	0
+S64315101	2020-02-10	L10717008	US183- Caldwell county	Red-tailed Hawk	Buteo jamaicensis	8506	species	5	29.6815990	-97.6474200	Traveling	1	0
+S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6730940	-97.6481100	Traveling	1	0
+S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.6676930	-97.6513580	Traveling	1	0
+S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.6676930	-97.6513580	Traveling	1	0
+S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	White-eyed Vireo	Vireo griseus	19165	species	2	29.6676930	-97.6513580	Traveling	1	0
 S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.6730940	-97.6481100	Traveling	1	0
 S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	House Sparrow	Passer domesticus	31534	species	18	29.6676930	-97.6513580	Traveling	1	0
-S65279950	2020-02-29	L10717008	US183- Caldwell county	American Crow	Corvus brachyrhynchos	21557	species	1	29.6815990	-97.6474200	Traveling	1	0
-S64315101	2020-02-10	L10717008	US183- Caldwell county	Rock Pigeon	Columba livia	1868	domestic	8	29.6815990	-97.6474200	Traveling	1	0
-S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	White-winged Dove	Zenaida asiatica	2389	species	1	29.6676930	-97.6513580	Traveling	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	White-winged Dove	Zenaida asiatica	2389	species	1	29.6815990	-97.6474200	Traveling	1	0
 S64315101	2020-02-10	L10717008	US183- Caldwell county	Black Vulture	Coragyps atratus	7811	species	2	29.6815990	-97.6474200	Traveling	1	0
-S64400624	2020-02-12	L10738180	Hillcrest Nursing homeLuling US-TX (29.6728,-97.6325)	Mourning Dove	Zenaida macroura	2412	species	1	29.6728050	-97.6325400	Stationary	1	0
+S64315101	2020-02-10	L10717008	US183- Caldwell county	Rock Pigeon	Columba livia	1868	domestic	8	29.6815990	-97.6474200	Traveling	1	0
 S66790959	2020-04-07	L4459678	Blanche Square Park, Luling	European Starling	Sturnus vulgaris	27813	species	12	29.6836161	-97.6464124	Traveling	1	0
+S65279950	2020-02-29	L10717008	US183- Caldwell county	American Crow	Corvus brachyrhynchos	21557	species	1	29.6815990	-97.6474200	Traveling	1	0
+S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	White-winged Dove	Zenaida asiatica	2389	species	1	29.6676930	-97.6513580	Traveling	1	0
+S64400624	2020-02-12	L10738180	Hillcrest Nursing homeLuling US-TX (29.6728,-97.6325)	Mourning Dove	Zenaida macroura	2412	species	1	29.6728050	-97.6325400	Stationary	1	0
+S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Chimney Swift	Chaetura pelagica	3896	species	2	29.6676930	-97.6513580	Traveling	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	29.6815990	-97.6474200	Traveling	1	0
 S64400624	2020-02-12	L10738180	Hillcrest Nursing homeLuling US-TX (29.6728,-97.6325)	House Sparrow	Passer domesticus	31534	species	9	29.6728050	-97.6325400	Stationary	1	0
 S66790959	2020-04-07	L4459678	Blanche Square Park, Luling	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	29.6836161	-97.6464124	Traveling	1	0
-S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Chimney Swift	Chaetura pelagica	3896	species	2	29.6676930	-97.6513580	Traveling	1	0
 S66790959	2020-04-07	L4459678	Blanche Square Park, Luling	Northern Mockingbird	Mimus polyglottos	28114	species	3	29.6836161	-97.6464124	Traveling	1	0
 S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	White-winged Dove	Zenaida asiatica	2389	species	2	29.6730940	-97.6481100	Traveling	1	0
 S64315101	2020-02-10	L10717008	US183- Caldwell county	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	29.6815990	-97.6474200	Traveling	1	0
 S66790959	2020-04-07	L4459678	Blanche Square Park, Luling	House Sparrow	Passer domesticus	31534	species	5	29.6836161	-97.6464124	Traveling	1	0
 S73024980	2020-08-16	L12189948	Caldwell County - Zedler Mill	Black Vulture	Coragyps atratus	7811	species	2	29.6676930	-97.6513580	Traveling	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	Cave Swallow	Petrochelidon fulva	24289	species	5	29.6815990	-97.6474200	Traveling	1	0
-S64315101	2020-02-10	L10717008	US183- Caldwell county	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.6815990	-97.6474200	Traveling	1	0
 S64315101	2020-02-10	L10717008	US183- Caldwell county	Mourning Dove	Zenaida macroura	2412	species	15	29.6815990	-97.6474200	Traveling	1	0
 S64400624	2020-02-12	L10738180	Hillcrest Nursing homeLuling US-TX (29.6728,-97.6325)	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	29.6728050	-97.6325400	Stationary	1	0
-S66790959	2020-04-07	L4459678	Blanche Square Park, Luling	White-winged Dove	Zenaida asiatica	2389	species	3	29.6836161	-97.6464124	Traveling	1	0
 S66790959	2020-04-07	L4459678	Blanche Square Park, Luling	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.6836161	-97.6464124	Traveling	1	0
+S64315101	2020-02-10	L10717008	US183- Caldwell county	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.6815990	-97.6474200	Traveling	1	0
 S65279950	2020-02-29	L10717008	US183- Caldwell county	Rock Pigeon	Columba livia	1868	domestic	2	29.6815990	-97.6474200	Traveling	1	0
 S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.6730940	-97.6481100	Traveling	1	0
-S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.6730940	-97.6481100	Traveling	1	0
+S66790959	2020-04-07	L4459678	Blanche Square Park, Luling	White-winged Dove	Zenaida asiatica	2389	species	3	29.6836161	-97.6464124	Traveling	1	0
 S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Black Vulture	Coragyps atratus	7811	species	1	29.6730940	-97.6481100	Traveling	1	0
+S64472468	2020-02-14	L10752640	Patton park Luling US-TX (29.6731,-97.6481)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.6730940	-97.6481100	Traveling	1	0
 S66790959	2020-04-07	L4459678	Blanche Square Park, Luling	Great-tailed Grackle	Quiscalus mexicanus	33864	species	13	29.6836161	-97.6464124	Traveling	1	0
-S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Couch's Kingbird	Tyrannus couchii	17459	species	2	29.6676930	-97.6513580	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Blue Jay	Cyanocitta cristata	21294	species	1	29.6676930	-97.6513580	Traveling	1	0
-S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Turkey Vulture	Cathartes aura	7815	species	1	29.6676930	-97.6513580	Traveling	1	0
+S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Couch's Kingbird	Tyrannus couchii	17459	species	2	29.6676930	-97.6513580	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Western Kingbird	Tyrannus verticalis	17467	species	1	29.6676930	-97.6513580	Traveling	1	0
 S98383450	2021-12-02	L4459678	Blanche Square Park, Luling	Crested Caracara	Caracara plancus	11962	species	1	29.6836161	-97.6464124	Stationary	1	0
-S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.6792350	-97.6471770	Stationary	1	0
-S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	White-winged Dove	Zenaida asiatica	2389	species	3	29.6792350	-97.6471770	Stationary	1	0
+S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Turkey Vulture	Cathartes aura	7815	species	1	29.6676930	-97.6513580	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Northern Mockingbird	Mimus polyglottos	28114	species	4	29.6676930	-97.6513580	Traveling	1	0
+S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	White-winged Dove	Zenaida asiatica	2389	species	3	29.6792350	-97.6471770	Stationary	1	0
+S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.6792350	-97.6471770	Stationary	1	0
 S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	House Sparrow	Passer domesticus	31534	species	10	29.6792350	-97.6471770	Stationary	1	0
-S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	House Sparrow	Passer domesticus	31534	species	1	29.6804800	-97.6444920	Traveling	1	0
 S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	Blue Jay	Cyanocitta cristata	21294	species	2	29.6792350	-97.6471770	Stationary	1	0
+S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	House Sparrow	Passer domesticus	31534	species	1	29.6804800	-97.6444920	Traveling	1	0
+S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	White-winged Dove	Zenaida asiatica	2389	species	2	29.6804800	-97.6444920	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Summer Tanager	Piranga rubra	34432	species	4	29.6676930	-97.6513580	Traveling	1	0
 S96840893	2021-10-29	L16762338	125 Willow Ave, Luling US-TX 29.67881, -97.63384	Carolina Chickadee	Poecile carolinensis	22060	species	2	29.6788070	-97.6338430	Traveling	1	0
-S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	White-winged Dove	Zenaida asiatica	2389	species	2	29.6804800	-97.6444920	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Mississippi Kite	Ictinia mississippiensis	8388	species	4	29.6676930	-97.6513580	Traveling	1	0
 S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	Barn Swallow	Hirundo rustica	24187	species	3	29.6792350	-97.6471770	Stationary	1	0
 S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.6804800	-97.6444920	Traveling	1	0
 S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	Mourning Dove	Zenaida macroura	2412	species	1	29.6804800	-97.6444920	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	29.6676930	-97.6513580	Traveling	1	0
-S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.6676930	-97.6513580	Traveling	1	0
-S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Barn Swallow	Hirundo rustica	24187	species	2	29.6676930	-97.6513580	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Northern Cardinal	Cardinalis cardinalis	34515	species	5	29.6676930	-97.6513580	Traveling	1	0
+S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Barn Swallow	Hirundo rustica	24187	species	2	29.6676930	-97.6513580	Traveling	1	0
+S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.6676930	-97.6513580	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Common Grackle	Quiscalus quiscula	33857	issf	1	29.6676930	-97.6513580	Traveling	1	0
 S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Black Vulture	Coragyps atratus	7811	species	12	29.6676930	-97.6513580	Traveling	1	0
+S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Cave Swallow	Petrochelidon fulva	24289	species	1	29.6676930	-97.6513580	Traveling	1	0
+S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	House Sparrow	Passer domesticus	31534	species	6	29.6676930	-97.6513580	Traveling	1	0
+S96840893	2021-10-29	L16762338	125 Willow Ave, Luling US-TX 29.67881, -97.63384	Turkey Vulture	Cathartes aura	7815	species	1	29.6788070	-97.6338430	Traveling	1	0
 S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	29.6792350	-97.6471770	Stationary	1	0
 S96840893	2021-10-29	L16762338	125 Willow Ave, Luling US-TX 29.67881, -97.63384	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.6788070	-97.6338430	Traveling	1	0
-S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Cave Swallow	Petrochelidon fulva	24289	species	1	29.6676930	-97.6513580	Traveling	1	0
-S96840893	2021-10-29	L16762338	125 Willow Ave, Luling US-TX 29.67881, -97.63384	Turkey Vulture	Cathartes aura	7815	species	1	29.6788070	-97.6338430	Traveling	1	0
-S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	House Sparrow	Passer domesticus	31534	species	6	29.6676930	-97.6513580	Traveling	1	0
 S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	Great-tailed Grackle	Quiscalus mexicanus	33864	species	7	29.6792350	-97.6471770	Stationary	1	0
 S96840893	2021-10-29	L16762338	125 Willow Ave, Luling US-TX 29.67881, -97.63384	House Sparrow	Passer domesticus	31534	species	1	29.6788070	-97.6338430	Traveling	1	0
 S98383450	2021-12-02	L4459678	Blanche Square Park, Luling	American Crow	Corvus brachyrhynchos	21557	species	1	29.6836161	-97.6464124	Stationary	1	0
 S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	Barn Swallow	Hirundo rustica	24187	species	2	29.6804800	-97.6444920	Traveling	1	0
-S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	Lesser Goldfinch	Spinus psaltria	32609	species	2	29.6792350	-97.6471770	Stationary	1	0
-S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Mourning Dove	Zenaida macroura	2412	species	7	29.6676930	-97.6513580	Traveling	1	0
 S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	29.6804800	-97.6444920	Traveling	1	0
+S91948922	2021-07-17	L12189948	Caldwell County - Zedler Mill	Mourning Dove	Zenaida macroura	2412	species	7	29.6676930	-97.6513580	Traveling	1	0
+S85815429	2021-04-18	L14509374	708 E Crockett St, Luling US-TX 29.67923, -97.64718	Lesser Goldfinch	Spinus psaltria	32609	species	2	29.6792350	-97.6471770	Stationary	1	0
 S92890022	2021-08-07	L16031956	900–912 E Pierce St, Luling US-TX 29.68048, -97.64449	Crested Caracara	Caracara plancus	11963	issf	1	29.6804800	-97.6444920	Traveling	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Common Grackle	Quiscalus quiscula	33857	issf	17	29.6768320	-97.6359180	Traveling	1	0
-S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Crested Caracara	Caracara plancus	11962	species	1	29.6798317	-97.6420123	Stationary	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	White-winged Dove	Zenaida asiatica	2389	species	6	29.6836161	-97.6464124	Traveling	1	0
-S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.6836161	-97.6464124	Traveling	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Northern Mockingbird	Mimus polyglottos	28114	species	9	29.6768320	-97.6359180	Traveling	1	0
+S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Crested Caracara	Caracara plancus	11962	species	1	29.6798317	-97.6420123	Stationary	1	0
+S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.6836161	-97.6464124	Traveling	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.6798317	-97.6420123	Stationary	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Black Vulture	Coragyps atratus	7811	species	4	29.6798317	-97.6420123	Stationary	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Great-tailed Grackle	Quiscalus mexicanus	33864	species	15	29.6836161	-97.6464124	Traveling	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Turkey Vulture	Cathartes aura	7815	species	4	29.6836161	-97.6464124	Traveling	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Eastern Bluebird	Sialia sialis	28126	species	1	29.6768320	-97.6359180	Traveling	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Painted Bunting	Passerina ciris	34621	species	3	29.6768320	-97.6359180	Traveling	1	0
-S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Chimney Swift	Chaetura pelagica	3896	species	1	29.6798317	-97.6420123	Stationary	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Turkey Vulture	Cathartes aura	7815	species	2	29.6798317	-97.6420123	Stationary	1	0
+S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Chimney Swift	Chaetura pelagica	3896	species	1	29.6798317	-97.6420123	Stationary	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Northern Cardinal	Cardinalis cardinalis	34515	species	11	29.6768320	-97.6359180	Traveling	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Great Blue Heron	Ardea herodias	7753	species	1	29.6836161	-97.6464124	Traveling	1	0
-S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	29.6768320	-97.6359180	Traveling	1	0
 S112314483	2022-06-06	L4459678	Blanche Square Park, Luling	House Sparrow	Passer domesticus	31534	species	3	29.6836161	-97.6464124	Stationary	1	0
+S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	29.6768320	-97.6359180	Traveling	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	29.6768320	-97.6359180	Traveling	1	0
-S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	House Sparrow	Passer domesticus	31534	species	4	29.6798317	-97.6420123	Stationary	1	0
-S112314483	2022-06-06	L4459678	Blanche Square Park, Luling	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.6836161	-97.6464124	Stationary	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Common Grackle	Quiscalus quiscula	33853	species	2	29.6798317	-97.6420123	Stationary	1	0
+S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	House Sparrow	Passer domesticus	31534	species	4	29.6798317	-97.6420123	Stationary	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.6768320	-97.6359180	Traveling	1	0
+S112314483	2022-06-06	L4459678	Blanche Square Park, Luling	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.6836161	-97.6464124	Stationary	1	0
+S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Pileated Woodpecker	Dryocopus pileatus	11762	species	1	29.6836161	-97.6464124	Traveling	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Crested Caracara	Caracara plancus	11962	species	1	29.6836161	-97.6464124	Traveling	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Killdeer	Charadrius vociferus	5827	species	10	29.6836161	-97.6464124	Traveling	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Rock Pigeon	Columba livia	1868	domestic	3	29.6798317	-97.6420123	Stationary	1	0
-S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Pileated Woodpecker	Dryocopus pileatus	11762	species	1	29.6836161	-97.6464124	Traveling	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Crested Caracara	Caracara plancus	11963	issf	1	29.6768320	-97.6359180	Traveling	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	3	29.6798317	-97.6420123	Stationary	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.6836161	-97.6464124	Traveling	1	0
+S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	White-winged Dove	Zenaida asiatica	2389	species	3	29.6768320	-97.6359180	Traveling	1	0
 S112314483	2022-06-06	L4459678	Blanche Square Park, Luling	House Finch	Haemorhous mexicanus	32310	species	1	29.6836161	-97.6464124	Stationary	1	0
 S112314483	2022-06-06	L4459678	Blanche Square Park, Luling	Black Vulture	Coragyps atratus	7811	species	1	29.6836161	-97.6464124	Stationary	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.6768320	-97.6359180	Traveling	1	0
-S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	White-winged Dove	Zenaida asiatica	2389	species	3	29.6768320	-97.6359180	Traveling	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	European Starling	Sturnus vulgaris	27813	species	2	29.6768320	-97.6359180	Traveling	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	American Kestrel	Falco sparverius	12028	species	2	29.6836161	-97.6464124	Traveling	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.6836161	-97.6464124	Traveling	1	0
@@ -318,15 +318,15 @@ S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Belted Kingfisher	Meg
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Couch's Kingbird	Tyrannus couchii	17459	species	1	29.6768320	-97.6359180	Traveling	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	29.6798317	-97.6420123	Stationary	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Purple Martin	Progne subis	24081	species	1	29.6768320	-97.6359180	Traveling	1	0
-S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6798317	-97.6420123	Stationary	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	European Starling	Sturnus vulgaris	27813	species	4	29.6798317	-97.6420123	Stationary	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Blue Jay	Cyanocitta cristata	21294	species	1	29.6768320	-97.6359180	Traveling	1	0
+S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6798317	-97.6420123	Stationary	1	0
 S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Rock Pigeon	Columba livia	1868	domestic	2	29.6836161	-97.6464124	Traveling	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Brown-headed Cowbird	Molothrus ater	33833	species	6	29.6768320	-97.6359180	Traveling	1	0
 S108061845	2022-04-24	L18693380	East Pierce Street, Luling, Texas, US (29.68, -97.642)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.6798317	-97.6420123	Stationary	1	0
 S108796989	2022-04-29	L4943692	US-TX-Luling Cemetery	Turkey Vulture	Cathartes aura	7815	species	1	29.6768320	-97.6359180	Traveling	1	0
-S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Mallard	Anas platyrhynchos	545	species	1	29.6836161	-97.6464124	Traveling	1	0
 S112314483	2022-06-06	L4459678	Blanche Square Park, Luling	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6836161	-97.6464124	Stationary	1	0
+S123102551	2022-11-27	L4459678	Blanche Square Park, Luling	Mallard	Anas platyrhynchos	545	species	1	29.6836161	-97.6464124	Traveling	1	0
 S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	Barn Swallow	Hirundo rustica	24187	species	3	29.6836161	-97.6464124	Traveling	1	0
 S130456165	2023-03-07	L22962400	901–949 Magnolia St, Luling US-TX 29.66788, -97.64921	Turkey Vulture	Cathartes aura	7815	species	1	29.6678800	-97.6492130	Traveling	1	0
 S130456165	2023-03-07	L22962400	901–949 Magnolia St, Luling US-TX 29.66788, -97.64921	Mourning Dove	Zenaida macroura	2412	species	7	29.6678800	-97.6492130	Traveling	1	0
@@ -335,152 +335,152 @@ S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	Blue Jay	Cyanocitta c
 S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	White-winged Dove	Zenaida asiatica	2389	species	3	29.6836161	-97.6464124	Traveling	1	0
 S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	European Starling	Sturnus vulgaris	27813	species	1	29.6836161	-97.6464124	Traveling	1	0
 S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	House Sparrow	Passer domesticus	31534	species	8	29.6836161	-97.6464124	Traveling	1	0
-S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.6836161	-97.6464124	Traveling	1	0
 S130456165	2023-03-07	L22962400	901–949 Magnolia St, Luling US-TX 29.66788, -97.64921	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.6678800	-97.6492130	Traveling	1	0
+S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.6836161	-97.6464124	Traveling	1	0
 S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.6836161	-97.6464124	Traveling	1	0
 S147527416	2023-08-18	L4459678	Blanche Square Park, Luling	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6836161	-97.6464124	Traveling	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Mourning Dove	Zenaida macroura	2412	species	1	29.6808819	-97.6528647	Traveling	1	0
-S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.6808819	-97.6528647	Traveling	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	House Sparrow	Passer domesticus	31534	species	5	29.6836161	-97.6464124	Traveling	1	0
 S162884595	2024-02-25	L4459678	Blanche Square Park, Luling	Yellow-rumped Warbler	Setophaga coronata	34160	issf	1	29.6836161	-97.6464124	Traveling	1	0
+S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.6808819	-97.6528647	Traveling	1	0
 S160902558	2024-02-07	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	White-winged Dove	Zenaida asiatica	2389	species	4	29.6808819	-97.6528647	Traveling	1	0
 S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.6784020	-97.6492420	Stationary	1	0
-S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	Carolina Chickadee	Poecile carolinensis	22060	species	2	29.6784020	-97.6492420	Stationary	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Blue Jay	Cyanocitta cristata	21294	species	3	29.6808819	-97.6528647	Traveling	1	0
+S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	Carolina Chickadee	Poecile carolinensis	22060	species	2	29.6784020	-97.6492420	Stationary	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Chimney Swift	Chaetura pelagica	3896	species	2	29.6836161	-97.6464124	Traveling	1	0
 S193271319	2024-08-30	L4459678	Blanche Square Park, Luling	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6836161	-97.6464124	Traveling	1	0
 S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	House Sparrow	Passer domesticus	31534	species	3	29.6784020	-97.6492420	Stationary	1	0
-S162884595	2024-02-25	L4459678	Blanche Square Park, Luling	Rock Pigeon	Columba livia	1868	domestic	3	29.6836161	-97.6464124	Traveling	1	0
 S193271319	2024-08-30	L4459678	Blanche Square Park, Luling	European Starling	Sturnus vulgaris	27813	species	15	29.6836161	-97.6464124	Traveling	1	0
+S162884595	2024-02-25	L4459678	Blanche Square Park, Luling	Rock Pigeon	Columba livia	1868	domestic	3	29.6836161	-97.6464124	Traveling	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Mourning Dove	Zenaida macroura	2412	species	2	29.6836161	-97.6464124	Traveling	1	0
+S168247914	2024-04-12	L30555839	1115 N Magnolia Ave, Luling US-TX 29.69909, -97.64720	Double-crested Cormorant	Nannopterum auritum	7424	species	1	29.6990890	-97.6471970	Traveling	1	0
+S193271319	2024-08-30	L4459678	Blanche Square Park, Luling	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.6836161	-97.6464124	Traveling	1	0
+S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6836161	-97.6464124	Traveling	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Barn Swallow	Hirundo rustica	24195	issf	3	29.6836161	-97.6464124	Traveling	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	European Starling	Sturnus vulgaris	27813	species	3	29.6836161	-97.6464124	Traveling	1	0
-S168247914	2024-04-12	L30555839	1115 N Magnolia Ave, Luling US-TX 29.69909, -97.64720	Double-crested Cormorant	Nannopterum auritum	7424	species	1	29.6990890	-97.6471970	Traveling	1	0
-S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6836161	-97.6464124	Traveling	1	0
-S193271319	2024-08-30	L4459678	Blanche Square Park, Luling	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.6836161	-97.6464124	Traveling	1	0
-S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.6808819	-97.6528647	Traveling	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Great-tailed Grackle	Quiscalus mexicanus	33869	issf	6	29.6836161	-97.6464124	Traveling	1	0
 S193271319	2024-08-30	L4459678	Blanche Square Park, Luling	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.6836161	-97.6464124	Traveling	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Black Vulture	Coragyps atratus	7811	species	2	29.6836161	-97.6464124	Traveling	1	0
-S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	29.6808819	-97.6528647	Traveling	1	0
 S160902558	2024-02-07	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Black Vulture	Coragyps atratus	7811	species	1	29.6808819	-97.6528647	Traveling	1	0
+S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	29.6808819	-97.6528647	Traveling	1	0
+S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.6808819	-97.6528647	Traveling	1	0
 S162884595	2024-02-25	L4459678	Blanche Square Park, Luling	European Starling	Sturnus vulgaris	27813	species	2	29.6836161	-97.6464124	Traveling	1	0
 S160902558	2024-02-07	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Mourning Dove	Zenaida macroura	2412	species	3	29.6808819	-97.6528647	Traveling	1	0
-S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.6808819	-97.6528647	Traveling	1	0
 S162884595	2024-02-25	L4459678	Blanche Square Park, Luling	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.6836161	-97.6464124	Traveling	1	0
+S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.6808819	-97.6528647	Traveling	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.6836161	-97.6464124	Traveling	1	0
+S207380825	2024-12-31	L39043240	Second EGGO Spot	Egyptian Goose	Alopochen aegyptiaca	417	species	2	29.7024304	-97.6428137	Stationary	1	1
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	29.6808819	-97.6528647	Traveling	1	0
 S160902558	2024-02-07	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	House Sparrow	Passer domesticus	31534	species	15	29.6808819	-97.6528647	Traveling	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	House Sparrow	Passer domesticus	31534	species	50	29.6808819	-97.6528647	Traveling	1	0
-S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	House Finch	Haemorhous mexicanus	32310	species	1	29.6808819	-97.6528647	Traveling	1	0
-S207380825	2024-12-31	L39043240	Second EGGO Spot	Egyptian Goose	Alopochen aegyptiaca	417	species	2	29.7024304	-97.6428137	Stationary	1	1
-S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.6808819	-97.6528647	Traveling	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Black Vulture	Coragyps atratus	7811	species	2	29.6808819	-97.6528647	Traveling	1	0
-S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	Mourning Dove	Zenaida macroura	2412	species	1	29.6784020	-97.6492420	Stationary	1	0
+S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.6808819	-97.6528647	Traveling	1	0
+S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	House Finch	Haemorhous mexicanus	32310	species	1	29.6808819	-97.6528647	Traveling	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Rock Pigeon	Columba livia	1868	domestic	4	29.6808819	-97.6528647	Traveling	1	0
-S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	Blue Jay	Cyanocitta cristata	21294	species	1	29.6784020	-97.6492420	Stationary	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	European Starling	Sturnus vulgaris	27813	species	20	29.6808819	-97.6528647	Traveling	1	0
+S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	Blue Jay	Cyanocitta cristata	21294	species	1	29.6784020	-97.6492420	Stationary	1	0
+S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	Mourning Dove	Zenaida macroura	2412	species	1	29.6784020	-97.6492420	Stationary	1	0
 S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	White-winged Dove	Zenaida asiatica	2389	species	3	29.6784020	-97.6492420	Stationary	1	0
-S193271319	2024-08-30	L4459678	Blanche Square Park, Luling	Mourning Dove	Zenaida macroura	2412	species	2	29.6836161	-97.6464124	Traveling	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Savannah Sparrow	Passerculus sandwichensis	33244	species	2	29.6808819	-97.6528647	Traveling	1	0
 S159629698	2024-01-23	L4459678	Blanche Square Park, Luling	House Finch	Haemorhous mexicanus	32310	species	1	29.6836161	-97.6464124	Traveling	1	0
-S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.6808819	-97.6528647	Traveling	1	0
-S162884595	2024-02-25	L4459678	Blanche Square Park, Luling	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.6836161	-97.6464124	Traveling	1	0
+S193271319	2024-08-30	L4459678	Blanche Square Park, Luling	Mourning Dove	Zenaida macroura	2412	species	2	29.6836161	-97.6464124	Traveling	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	White-winged Dove	Zenaida asiatica	2389	species	2	29.6808819	-97.6528647	Traveling	1	0
 S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Western Kingbird	Tyrannus verticalis	17467	species	1	29.6836161	-97.6464124	Traveling	1	0
+S162884595	2024-02-25	L4459678	Blanche Square Park, Luling	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.6836161	-97.6464124	Traveling	1	0
+S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.6808819	-97.6528647	Traveling	1	0
 S162884595	2024-02-25	L4459678	Blanche Square Park, Luling	House Sparrow	Passer domesticus	31534	species	3	29.6836161	-97.6464124	Traveling	1	0
-S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	29.6836161	-97.6464124	Traveling	1	0
 S159629698	2024-01-23	L4459678	Blanche Square Park, Luling	House Sparrow	Passer domesticus	31534	species	3	29.6836161	-97.6464124	Traveling	1	0
-S159629698	2024-01-23	L4459678	Blanche Square Park, Luling	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.6836161	-97.6464124	Traveling	1	0
 S159629698	2024-01-23	L4459678	Blanche Square Park, Luling	White-winged Dove	Zenaida asiatica	2389	species	1	29.6836161	-97.6464124	Traveling	1	0
-S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Killdeer	Charadrius vociferus	5827	species	1	29.6808819	-97.6528647	Traveling	1	0
-S159629698	2024-01-23	L4459678	Blanche Square Park, Luling	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	29.6836161	-97.6464124	Traveling	1	0
-S168247914	2024-04-12	L30555839	1115 N Magnolia Ave, Luling US-TX 29.69909, -97.64720	Cliff/Cave Swallow	Petrochelidon pyrrhonota/fulva	24299	slash	30	29.6990890	-97.6471970	Traveling	1	0
+S174480967	2024-05-14	L4459678	Blanche Square Park, Luling	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	29.6836161	-97.6464124	Traveling	1	0
+S159629698	2024-01-23	L4459678	Blanche Square Park, Luling	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.6836161	-97.6464124	Traveling	1	0
 S192144808	2024-08-20	L35929240	Longer Park, Luling US-TX 29.67840, -97.64924	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6784020	-97.6492420	Stationary	1	0
+S168247914	2024-04-12	L30555839	1115 N Magnolia Ave, Luling US-TX 29.69909, -97.64720	Cliff/Cave Swallow	Petrochelidon pyrrhonota/fulva	24299	slash	30	29.6990890	-97.6471970	Traveling	1	0
+S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Killdeer	Charadrius vociferus	5827	species	1	29.6808819	-97.6528647	Traveling	1	0
 S193271319	2024-08-30	L4459678	Blanche Square Park, Luling	White-winged Dove	Zenaida asiatica	2389	species	1	29.6836161	-97.6464124	Traveling	1	0
+S159629698	2024-01-23	L4459678	Blanche Square Park, Luling	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	29.6836161	-97.6464124	Traveling	1	0
 S160935376	2024-02-08	L29144544	208 North Cypress Avenue, Luling, Texas, US (29.681, -97.653)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.6808819	-97.6528647	Traveling	1	0
+S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	House Sparrow	Passer domesticus	31534	species	2	29.6858280	-97.6573040	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Turkey Vulture	Cathartes aura	7815	species	4	29.6681260	-97.6236750	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.6681260	-97.6236750	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Tufted x Black-crested Titmouse (hybrid)	Baeolophus bicolor x atricristatus	22167	hybrid	6	29.6681260	-97.6236750	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Northern Mockingbird	Mimus polyglottos	28114	species	3	29.6681260	-97.6236750	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	House Sparrow	Passer domesticus	31534	species	12	29.6681260	-97.6236750	Traveling	1	0
-S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	House Sparrow	Passer domesticus	31534	species	2	29.6858280	-97.6573040	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Turkey Vulture	Cathartes aura	7815	species	4	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.6681260	-97.6236750	Traveling	1	0
-S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Mourning Dove	Zenaida macroura	2412	species	3	29.6674417	-97.6514442	Traveling	1	0
 S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	X	29.6674417	-97.6514442	Traveling	1	0
 S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Western Kingbird	Tyrannus verticalis	17467	species	2	29.6819247	-97.6512654	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Mourning Dove	Zenaida macroura	2412	species	5	29.6681260	-97.6236750	Traveling	1	0
+S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Mourning Dove	Zenaida macroura	2412	species	3	29.6674417	-97.6514442	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	White-winged Dove	Zenaida asiatica	2389	species	2	29.6681260	-97.6236750	Traveling	1	0
 S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Mourning Dove	Zenaida macroura	2412	species	2	29.6819247	-97.6512654	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	European Starling	Sturnus vulgaris	27813	species	23	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	White-winged Dove	Zenaida asiatica	2389	species	2	29.6681260	-97.6236750	Traveling	1	0
 S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6819247	-97.6512654	Traveling	1	0
 S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	House Sparrow	Passer domesticus	31534	species	1	29.6819247	-97.6512654	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Northern House Wren	Troglodytes aedon	27191	species	1	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	29.6681260	-97.6236750	Traveling	1	0
-S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.6674417	-97.6514442	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Crested Caracara	Caracara plancus	11962	species	2	29.6681260	-97.6236750	Traveling	1	0
+S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.6674417	-97.6514442	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	29.6681260	-97.6236750	Traveling	1	0
 S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Purple Martin	Progne subis	24081	species	3	29.6858280	-97.6573040	Traveling	1	0
+S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Rock Pigeon	Columba livia	1868	domestic	3	29.6819247	-97.6512654	Traveling	1	0
 S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.6674417	-97.6514442	Traveling	1	0
 S280811541	2025-10-22	L54343800	Town of Luling	Black Vulture	Coragyps atratus	7811	species	2	29.6784460	-97.6472270	Traveling	1	0
-S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Rock Pigeon	Columba livia	1868	domestic	3	29.6819247	-97.6512654	Traveling	1	0
+S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	29.6819247	-97.6512654	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Eastern Bluebird	Sialia sialis	28126	species	4	29.6681260	-97.6236750	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Wilson's Snipe	Gallinago delicata	6104	species	8	29.6681260	-97.6236750	Traveling	1	0
 S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	House Sparrow	Passer domesticus	31534	species	3	29.6674417	-97.6514442	Traveling	1	0
 S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.6674417	-97.6514442	Traveling	1	0
 S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Rock Pigeon	Columba livia	1868	domestic	1	29.6674417	-97.6514442	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Eastern Bluebird	Sialia sialis	28126	species	4	29.6681260	-97.6236750	Traveling	1	0
-S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	29.6819247	-97.6512654	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Wilson's Snipe	Gallinago delicata	6104	species	8	29.6681260	-97.6236750	Traveling	1	0
 S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.6674417	-97.6514442	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Blue Jay	Cyanocitta cristata	21294	species	1	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Carolina Chickadee	Poecile carolinensis	22060	species	5	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Killdeer	Charadrius vociferus	5827	species	2	29.6681260	-97.6236750	Traveling	1	0
 S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Purple Martin	Progne subis	24081	species	2	29.6674417	-97.6514442	Traveling	1	0
 S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Brown-headed Cowbird	Molothrus ater	33833	species	1	29.6674417	-97.6514442	Traveling	1	0
 S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	European Starling	Sturnus vulgaris	27813	species	8	29.6858280	-97.6573040	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Carolina Chickadee	Poecile carolinensis	22060	species	5	29.6681260	-97.6236750	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Killdeer	Charadrius vociferus	5827	species	2	29.6681260	-97.6236750	Traveling	1	0
 S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Crested Caracara	Caracara plancus	11962	species	1	29.6858280	-97.6573040	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Eastern Phoebe	Sayornis phoebe	17007	species	5	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.6681260	-97.6236750	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	19	29.6681260	-97.6236750	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.6681260	-97.6236750	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Eastern Phoebe	Sayornis phoebe	17007	species	5	29.6681260	-97.6236750	Traveling	1	0
 S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.6674417	-97.6514442	Traveling	1	0
 S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Blue Jay	Cyanocitta cristata	21294	species	1	29.6858280	-97.6573040	Traveling	1	0
-S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	30	29.6858280	-97.6573040	Traveling	1	0
-S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.6819247	-97.6512654	Traveling	1	0
 S280811541	2025-10-22	L54343800	Town of Luling	House Sparrow	Passer domesticus	31534	species	3	29.6784460	-97.6472270	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Red-winged Blackbird	Agelaius phoeniceus	33779	species	35	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	American Crow	Corvus brachyrhynchos	21557	species	14	29.6681260	-97.6236750	Traveling	1	0
+S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	30	29.6858280	-97.6573040	Traveling	1	0
+S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.6819247	-97.6512654	Traveling	1	0
 S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.6674417	-97.6514442	Traveling	1	0
 S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Orchard Oriole	Icterus spurius	33679	species	1	29.6674417	-97.6514442	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	American Crow	Corvus brachyrhynchos	21557	species	14	29.6681260	-97.6236750	Traveling	1	0
 S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	29.6858280	-97.6573040	Traveling	1	0
-S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	European Starling	Sturnus vulgaris	27813	species	1	29.6674417	-97.6514442	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	American Wigeon	Mareca americana	517	species	4	29.6681260	-97.6236750	Traveling	1	0
+S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	European Starling	Sturnus vulgaris	27813	species	1	29.6674417	-97.6514442	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Gadwall	Mareca strepera	505	species	42	29.6681260	-97.6236750	Traveling	1	0
-S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Brown-headed Cowbird	Molothrus ater	33833	species	1	29.6674417	-97.6514442	Traveling	1	0
-S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Black Vulture	Coragyps atratus	7811	species	1	29.6858280	-97.6573040	Traveling	1	0
 S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Turkey Vulture	Cathartes aura	7815	species	1	29.6674417	-97.6514442	Traveling	1	0
-S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	White-winged Dove	Zenaida asiatica	2389	species	1	29.6674417	-97.6514442	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Northern Cardinal	Cardinalis cardinalis	34515	species	6	29.6681260	-97.6236750	Traveling	1	0
 S280811541	2025-10-22	L54343800	Town of Luling	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6784460	-97.6472270	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Egyptian Goose	Alopochen aegyptiaca	417	species	2	29.6681260	-97.6236750	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Ruby-crowned Kinglet	Corthylio calendula	26844	species	2	29.6681260	-97.6236750	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Yellow-rumped Warbler	Setophaga coronata	34159	species	24	29.6681260	-97.6236750	Traveling	1	0
-S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6674417	-97.6514442	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Egyptian Goose	Alopochen aegyptiaca	417	species	2	29.6681260	-97.6236750	Traveling	1	0
+S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Brown-headed Cowbird	Molothrus ater	33833	species	1	29.6674417	-97.6514442	Traveling	1	0
+S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	White-winged Dove	Zenaida asiatica	2389	species	1	29.6674417	-97.6514442	Traveling	1	0
+S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Black Vulture	Coragyps atratus	7811	species	1	29.6858280	-97.6573040	Traveling	1	0
 S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Couch's Kingbird	Tyrannus couchii	17459	species	1	29.6674417	-97.6514442	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Rock Pigeon	Columba livia	1868	domestic	11	29.6681260	-97.6236750	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	American Kestrel	Falco sparverius	12028	species	3	29.6681260	-97.6236750	Traveling	1	0
+S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.6674417	-97.6514442	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Rock Pigeon	Columba livia	1868	domestic	11	29.6681260	-97.6236750	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Yellow-rumped Warbler	Setophaga coronata	34159	species	24	29.6681260	-97.6236750	Traveling	1	0
 S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.6674417	-97.6514442	Traveling	1	0
-S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Green Heron	Butorides virescens	7704	species	1	29.6674417	-97.6514442	Traveling	1	0
 S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Barn Swallow	Hirundo rustica	24187	species	2	29.6819247	-97.6512654	Traveling	1	0
 S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Common Nighthawk	Chordeiles minor	3492	species	1	29.6819247	-97.6512654	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Eastern Meadowlark	Sturnella magna	33568	species	12	29.6681260	-97.6236750	Traveling	1	0
-S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	European Starling	Sturnus vulgaris	27813	species	1	29.6819247	-97.6512654	Traveling	1	0
+S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Green Heron	Butorides virescens	7704	species	1	29.6674417	-97.6514442	Traveling	1	0
 S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	Blue Jay	Cyanocitta cristata	21294	species	1	29.6674417	-97.6514442	Traveling	1	0
 S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	White-winged Dove	Zenaida asiatica	2389	species	1	29.6858280	-97.6573040	Traveling	1	0
-S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	House Finch	Haemorhous mexicanus	32310	species	2	29.6819247	-97.6512654	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Eastern Meadowlark	Sturnella magna	33568	species	12	29.6681260	-97.6236750	Traveling	1	0
+S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	European Starling	Sturnus vulgaris	27813	species	1	29.6819247	-97.6512654	Traveling	1	0
+S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Chimney Swift	Chaetura pelagica	3896	species	1	29.6819247	-97.6512654	Traveling	1	0
 S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	6	29.6858280	-97.6573040	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Black Vulture	Coragyps atratus	7811	species	4	29.6681260	-97.6236750	Traveling	1	0
-S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	Chimney Swift	Chaetura pelagica	3896	species	1	29.6819247	-97.6512654	Traveling	1	0
-S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.6681260	-97.6236750	Traveling	1	0
 S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Western Kingbird	Tyrannus verticalis	17467	species	2	29.6674417	-97.6514442	Traveling	1	0
-S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	House Finch	Haemorhous mexicanus	32310	species	1	29.6674417	-97.6514442	Traveling	1	0
-S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Northern Cardinal	Cardinalis cardinalis	34515	species	3	29.6674417	-97.6514442	Traveling	1	0
 S222974807	2025-04-04	L42101766	224 San Marcos Hwy, Luling US-TX (29.6858,-97.6573)	Rock Pigeon	Columba livia	1868	domestic	1	29.6858280	-97.6573040	Traveling	1	0
 S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Savannah Sparrow	Passerculus sandwichensis	33244	species	58	29.6681260	-97.6236750	Traveling	1	0
+S242758458	2025-05-25	L35256635	Zedler Mill (Caldwell Co.)	House Finch	Haemorhous mexicanus	32310	species	1	29.6674417	-97.6514442	Traveling	1	0
+S261525628	2025-07-20	L35256635	Zedler Mill (Caldwell Co.)	Northern Cardinal	Cardinalis cardinalis	34515	species	3	29.6674417	-97.6514442	Traveling	1	0
+S263385029	2025-06-26	L50624905	Luling Watermelon Thump Pavillion	House Finch	Haemorhous mexicanus	32310	species	2	29.6819247	-97.6512654	Traveling	1	0
+S290782201	2025-12-28	L56467035	2601–2681 E Pierce St, Luling US-TX 29.66813, -97.62368	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.6681260	-97.6236750	Traveling	1	0

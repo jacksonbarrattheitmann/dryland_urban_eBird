@@ -1,18 +1,18 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S21929265	2015-02-15	L1952303	Huron	Pine Siskin	Spinus pinus	32595	species	3	44.3442305	-98.2057571	Stationary	1	0
+S21929265	2015-02-15	L1952303	Huron	Dark-eyed Junco	Junco hyemalis	33124	species	9	44.3442305	-98.2057571	Stationary	1	0
+S21934620	2015-02-16	L3392320	Huron, SD	American Goldfinch	Spinus tristis	32617	species	20	44.3605098	-98.2074094	Stationary	1	0
+S21929265	2015-02-15	L1952303	Huron	Northern Cardinal	Cardinalis cardinalis	34515	species	1	44.3442305	-98.2057571	Stationary	1	0
+S21934620	2015-02-16	L3392320	Huron, SD	Black-capped Chickadee	Poecile atricapillus	22065	species	12	44.3605098	-98.2074094	Stationary	1	0
 S21934620	2015-02-16	L3392320	Huron, SD	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	44.3605098	-98.2074094	Stationary	1	0
 S21934620	2015-02-16	L3392320	Huron, SD	Downy Woodpecker	Dryobates pubescens	11400	species	4	44.3605098	-98.2074094	Stationary	1	0
-S21929265	2015-02-15	L1952303	Huron	Dark-eyed Junco	Junco hyemalis	33124	species	9	44.3442305	-98.2057571	Stationary	1	0
 S21929265	2015-02-15	L1952303	Huron	Downy Woodpecker	Dryobates pubescens	11400	species	1	44.3442305	-98.2057571	Stationary	1	0
 S21929265	2015-02-15	L1952303	Huron	House Sparrow	Passer domesticus	31534	species	7	44.3442305	-98.2057571	Stationary	1	0
 S21929265	2015-02-15	L1952303	Huron	Black-capped Chickadee	Poecile atricapillus	22065	species	12	44.3442305	-98.2057571	Stationary	1	0
 S21934620	2015-02-16	L3392320	Huron, SD	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	44.3605098	-98.2074094	Stationary	1	0
-S21934620	2015-02-16	L3392320	Huron, SD	American Goldfinch	Spinus tristis	32617	species	20	44.3605098	-98.2074094	Stationary	1	0
 S21934620	2015-02-16	L3392320	Huron, SD	House Sparrow	Passer domesticus	31534	species	10	44.3605098	-98.2074094	Stationary	1	0
-S21929265	2015-02-15	L1952303	Huron	Northern Cardinal	Cardinalis cardinalis	34515	species	1	44.3442305	-98.2057571	Stationary	1	0
 S21929265	2015-02-15	L1952303	Huron	Purple Finch	Haemorhous purpureus	32324	species	10	44.3442305	-98.2057571	Stationary	1	0
 S21934620	2015-02-16	L3392320	Huron, SD	House Finch	Haemorhous mexicanus	32310	species	14	44.3605098	-98.2074094	Stationary	1	0
-S21934620	2015-02-16	L3392320	Huron, SD	Black-capped Chickadee	Poecile atricapillus	22065	species	12	44.3605098	-98.2074094	Stationary	1	0
 S21929265	2015-02-15	L1952303	Huron	American Tree Sparrow	Spizelloides arborea	33095	species	8	44.3442305	-98.2057571	Stationary	1	0
 S32321184	2016-10-29	L194786	Huron	Red-breasted Nuthatch	Sitta canadensis	26937	species	3	44.3632800	-98.2142700	Stationary	1	0
 S32613837	2016-11-16	L194786	Huron	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	44.3632800	-98.2142700	Stationary	1	0
@@ -78,21 +78,21 @@ S44797237	2018-04-21	L7259354	Easy Street, Huron, South Dakota, US (44.369, -98.
 S91812763	2021-07-15	L15779676	345 9th Street Southwest, Huron, South Dakota, US (44.357, -98.218)	Rock Pigeon	Columba livia	1868	domestic	3	44.3573062	-98.2184071	Stationary	1	0
 S91812763	2021-07-15	L15779676	345 9th Street Southwest, Huron, South Dakota, US (44.357, -98.218)	Chimney Swift	Chaetura pelagica	3896	species	3	44.3573062	-98.2184071	Stationary	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	Mallard	Anas platyrhynchos	545	species	2	44.3638137	-98.2306231	Traveling	1	0
-S106954101	2022-04-13	L18490600	521 Dakota S Campbell Park, Huron, South Dakota, US (44.36, -98.215)	Rock Pigeon	Columba livia	1868	domestic	10	44.3596503	-98.2149773	Stationary	1	0
 S106954101	2022-04-13	L18490600	521 Dakota S Campbell Park, Huron, South Dakota, US (44.36, -98.215)	Turkey Vulture	Cathartes aura	7815	species	2	44.3596503	-98.2149773	Stationary	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	Snow Goose	Anser caerulescens	267	species	1	44.3638137	-98.2306231	Traveling	1	0
+S106954101	2022-04-13	L18490600	521 Dakota S Campbell Park, Huron, South Dakota, US (44.36, -98.215)	Rock Pigeon	Columba livia	1868	domestic	10	44.3596503	-98.2149773	Stationary	1	0
 S106954101	2022-04-13	L18490600	521 Dakota S Campbell Park, Huron, South Dakota, US (44.36, -98.215)	American Robin	Turdus migratorius	28633	species	8	44.3596503	-98.2149773	Stationary	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	American Robin	Turdus migratorius	28633	species	1	44.3638137	-98.2306231	Traveling	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	House Sparrow	Passer domesticus	31534	species	10	44.3638137	-98.2306231	Traveling	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	Canada Goose	Branta canadensis	342	species	3	44.3638137	-98.2306231	Traveling	1	0
-S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	Downy Woodpecker	Dryobates pubescens	11400	species	1	44.3638137	-98.2306231	Traveling	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	44.3638137	-98.2306231	Traveling	1	0
+S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	Downy Woodpecker	Dryobates pubescens	11400	species	1	44.3638137	-98.2306231	Traveling	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	House Finch	Haemorhous mexicanus	32310	species	3	44.3638137	-98.2306231	Traveling	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	Wood Duck	Aix sponsa	455	species	4	44.3638137	-98.2306231	Traveling	1	0
 S105987524	2022-03-31	L18321432	Huron GFP,-South Dakota, US (44.364, -98.231)	Dark-eyed Junco	Junco hyemalis	33124	species	1	44.3638137	-98.2306231	Traveling	1	0
 S150486051	2023-09-22	L27198752	126 Ravine Park Road, Huron, South Dakota, US (44.367, -98.202)	Great Blue Heron	Ardea herodias	7753	species	1	44.3666535	-98.2017504	Stationary	1	0
-S150486051	2023-09-22	L27198752	126 Ravine Park Road, Huron, South Dakota, US (44.367, -98.202)	Northern Flicker	Colaptes auratus	11900	species	2	44.3666535	-98.2017504	Stationary	1	0
 S150486051	2023-09-22	L27198752	126 Ravine Park Road, Huron, South Dakota, US (44.367, -98.202)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	44.3666535	-98.2017504	Stationary	1	0
+S150486051	2023-09-22	L27198752	126 Ravine Park Road, Huron, South Dakota, US (44.367, -98.202)	Northern Flicker	Colaptes auratus	11900	species	2	44.3666535	-98.2017504	Stationary	1	0
 S150486051	2023-09-22	L27198752	126 Ravine Park Road, Huron, South Dakota, US (44.367, -98.202)	Franklin's Gull	Leucophaeus pipixcan	6494	species	25	44.3666535	-98.2017504	Stationary	1	0
 S150486051	2023-09-22	L27198752	126 Ravine Park Road, Huron, South Dakota, US (44.367, -98.202)	Mourning Dove	Zenaida macroura	2412	species	1	44.3666535	-98.2017504	Stationary	1	0
 S150486051	2023-09-22	L27198752	126 Ravine Park Road, Huron, South Dakota, US (44.367, -98.202)	Blue Jay	Cyanocitta cristata	21294	species	1	44.3666535	-98.2017504	Stationary	1	0
@@ -103,10 +103,10 @@ S206009847	2024-12-20	L38729308	1048 Ohio Avenue Southwest, Huron, South Dakota,
 S206009847	2024-12-20	L38729308	1048 Ohio Avenue Southwest, Huron, South Dakota, US (44.354, -98.219)	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	44.3544209	-98.2188714	Stationary	1	0
 S276009077	2025-09-28	L15616672	1880 Cardinal Ln, Huron US-SD 44.34435, -98.22533	American Robin	Turdus migratorius	28633	species	2	44.3443540	-98.2253350	Stationary	1	0
 S276009077	2025-09-28	L15616672	1880 Cardinal Ln, Huron US-SD 44.34435, -98.22533	White-throated Sparrow	Zonotrichia albicollis	33201	species	1	44.3443540	-98.2253350	Stationary	1	0
-S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	Turkey Vulture	Cathartes aura	7815	species	2	44.3442040	-98.2250000	Stationary	1	0
 S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	American Goldfinch	Spinus tristis	32617	species	1	44.3442040	-98.2250000	Stationary	1	0
-S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	Northern Flicker	Colaptes auratus	11900	species	1	44.3442040	-98.2250000	Stationary	1	0
+S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	Turkey Vulture	Cathartes aura	7815	species	2	44.3442040	-98.2250000	Stationary	1	0
 S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	Black-capped Chickadee	Poecile atricapillus	22065	species	2	44.3442040	-98.2250000	Stationary	1	0
+S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	Northern Flicker	Colaptes auratus	11900	species	1	44.3442040	-98.2250000	Stationary	1	0
 S276009077	2025-09-28	L15616672	1880 Cardinal Ln, Huron US-SD 44.34435, -98.22533	Chipping Sparrow	Spizella passerina	32990	species	1	44.3443540	-98.2253350	Stationary	1	0
 S276009077	2025-09-28	L15616672	1880 Cardinal Ln, Huron US-SD 44.34435, -98.22533	Common Grackle	Quiscalus quiscula	33853	species	2	44.3443540	-98.2253350	Stationary	1	0
 S276009077	2025-09-28	L15616672	1880 Cardinal Ln, Huron US-SD 44.34435, -98.22533	Blue Jay	Cyanocitta cristata	21294	species	1	44.3443540	-98.2253350	Stationary	1	0
@@ -115,10 +115,10 @@ S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.2250
 S290606186	2025-12-27	L56424105	Crown Park (Huron)	Cooper's Hawk	Astur cooperii	8278	species	1	44.3718127	-98.2054704	Traveling	1	0
 S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	Hermit Thrush	Catharus guttatus	28333	species	1	44.3442040	-98.2250000	Stationary	1	0
 S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	44.3442040	-98.2250000	Stationary	1	0
-S207669213	2025-01-02	L39104611	1030 Ohio Ave SW, Huron US-SD 44.35454, -98.21877	Downy Woodpecker	Dryobates pubescens	11400	species	2	44.3545380	-98.2187730	Stationary	1	0
 S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	American Robin	Turdus migratorius	28633	species	6	44.3442040	-98.2250000	Stationary	1	0
-S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	House Finch	Haemorhous mexicanus	32310	species	3	44.3442040	-98.2250000	Stationary	1	0
+S207669213	2025-01-02	L39104611	1030 Ohio Ave SW, Huron US-SD 44.35454, -98.21877	Downy Woodpecker	Dryobates pubescens	11400	species	2	44.3545380	-98.2187730	Stationary	1	0
 S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	44.3442040	-98.2250000	Stationary	1	0
+S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	House Finch	Haemorhous mexicanus	32310	species	3	44.3442040	-98.2250000	Stationary	1	0
 S207669213	2025-01-02	L39104611	1030 Ohio Ave SW, Huron US-SD 44.35454, -98.21877	Brown Creeper	Certhia americana	27026	species	1	44.3545380	-98.2187730	Stationary	1	0
 S275789220	2025-09-27	L53294675	1880 Cardinal Ln, Huron US-SD 44.34420, -98.22500	Nashville Warbler	Leiothlypis ruficapilla	33981	species	1	44.3442040	-98.2250000	Stationary	1	0
 S276009077	2025-09-28	L15616672	1880 Cardinal Ln, Huron US-SD 44.34435, -98.22533	House Finch	Haemorhous mexicanus	32310	species	1	44.3443540	-98.2253350	Stationary	1	0

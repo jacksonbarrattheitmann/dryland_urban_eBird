@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2015,27786897.1379113,77,220,city_1536_california_lompoc,218.5562525987625,16.2578125,8.323475255174532,arid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2016,27786897.1379113,79,400,city_1536_california_lompoc,421.06250298023224,15.84375,16.292624057276218,semiarid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2017,27786897.1379113,79,359,city_1536_california_lompoc,493.2124999463558,15.9609375,18.99825458716026,semiarid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2018,27786897.1379113,56,131,city_1536_california_lompoc,321.93124654889107,15.890625,12.434278683843711,semiarid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2019,27786897.1379113,80,616,city_1536_california_lompoc,585.0312445759773,15.2734375,23.14806779156881,dry subhumid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2020,27786897.1379113,120,2575,city_1536_california_lompoc,274.8374978899956,16.0390625,10.55481540051588,semiarid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2021,27786897.1379113,109,2359,city_1536_california_lompoc,392.2874965071678,15.505208333333334,15.380681913288996,semiarid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2022,27786897.1379113,104,1207,city_1536_california_lompoc,269.8937456011772,15.416666666666666,10.618770318734844,semiarid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2023,27786897.1379113,95,782,city_1536_california_lompoc,617.9562366604805,14.796875,24.92073040092675,dry subhumid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2024,27786897.1379113,123,2119,city_1536_california_lompoc,557.9124979674816,15.494791666666666,21.88339113580316,dry subhumid,12
-1536,"Lompoc, CA",Lompoc,California,Santa Barbara,2025,27786897.1379113,106,943,city_1536_california_lompoc,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1536,2015,"Lompoc, CA",Lompoc,California,Santa Barbara,100,77,220,city_1536_california_lompoc,218.556252598763,16.2578125,8.32347525517453,arid,12
+1536,2016,"Lompoc, CA",Lompoc,California,Santa Barbara,100,79,400,city_1536_california_lompoc,421.062502980232,15.84375,16.2926240572762,semiarid,12
+1536,2017,"Lompoc, CA",Lompoc,California,Santa Barbara,100,79,359,city_1536_california_lompoc,493.212499946356,15.9609375,18.9982545871603,semiarid,12
+1536,2018,"Lompoc, CA",Lompoc,California,Santa Barbara,100,56,131,city_1536_california_lompoc,321.931246548891,15.890625,12.4342786838437,semiarid,12
+1536,2019,"Lompoc, CA",Lompoc,California,Santa Barbara,100,80,616,city_1536_california_lompoc,585.031244575977,15.2734375,23.1480677915688,dry subhumid,12
+1536,2020,"Lompoc, CA",Lompoc,California,Santa Barbara,100,120,2575,city_1536_california_lompoc,274.837497889996,16.0390625,10.5548154005159,semiarid,12
+1536,2021,"Lompoc, CA",Lompoc,California,Santa Barbara,100,109,2359,city_1536_california_lompoc,392.287496507168,15.5052083333333,15.380681913289,semiarid,12
+1536,2022,"Lompoc, CA",Lompoc,California,Santa Barbara,100,104,1207,city_1536_california_lompoc,269.893745601177,15.4166666666667,10.6187703187348,semiarid,12
+1536,2023,"Lompoc, CA",Lompoc,California,Santa Barbara,100,95,782,city_1536_california_lompoc,617.956236660481,14.796875,24.9207304009268,dry subhumid,12
+1536,2024,"Lompoc, CA",Lompoc,California,Santa Barbara,100,123,2119,city_1536_california_lompoc,557.912497967482,15.4947916666667,21.8833911358032,dry subhumid,12
+1536,2025,"Lompoc, CA",Lompoc,California,Santa Barbara,100,106,943,city_1536_california_lompoc,,,,,

@@ -1,79 +1,77 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S22418362	2015-03-18	L1138184	Riverton, WY	Mountain Chickadee	Poecile gambeli	22077	species	2	43.0246041	-108.3806419	Traveling	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	American Goldfinch	Spinus tristis	32617	species	2	43.0478420	-108.3816790	Stationary	1	0
-S22418362	2015-03-18	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	13	43.0246041	-108.3806419	Traveling	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	Ring-billed Gull	Larus delawarensis	6521	species	2	43.0246041	-108.3806419	Traveling	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Mourning Dove	Zenaida macroura	2412	species	7	43.0478420	-108.3816790	Stationary	1	0
-S22418362	2015-03-18	L1138184	Riverton, WY	Golden-crowned Kinglet	Regulus satrapa	26848	species	2	43.0246041	-108.3806419	Traveling	1	0
 S21260974	2015-01-08	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	2	43.0246041	-108.3806419	Traveling	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	43.0478420	-108.3816790	Stationary	1	0
-S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	House Sparrow	Passer domesticus	31534	species	8	43.0478420	-108.3816790	Stationary	1	0
-S22890871	2015-04-15	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0246041	-108.3806419	Traveling	1	0
-S21260974	2015-01-08	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	6	43.0246041	-108.3806419	Traveling	1	0
-S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Killdeer	Charadrius vociferus	5827	species	1	43.0478420	-108.3816790	Stationary	1	0
 S24663756	2015-08-11	L1138184	Riverton, WY	Northern Harrier	Circus hudsonius	8324	species	1	43.0246041	-108.3806419	Traveling	1	0
 S21435988	2015-01-20	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0246041	-108.3806419	Stationary	1	0
-S24244549	2015-07-06	L3787410	Riverton -- McDonald's	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	43.0320117	-108.3798847	Stationary	1	0
-S24663756	2015-08-11	L1138184	Riverton, WY	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0246041	-108.3806419	Traveling	1	0
-S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0478420	-108.3816790	Stationary	1	0
-S21435988	2015-01-20	L1138184	Riverton, WY	Blue Jay	Cyanocitta cristata	21294	species	1	43.0246041	-108.3806419	Stationary	1	0
-S21435988	2015-01-20	L1138184	Riverton, WY	Steller's Jay	Cyanocitta stelleri	21274	species	1	43.0246041	-108.3806419	Stationary	1	0
 S22664584	2015-04-03	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	16	43.0246041	-108.3806419	Stationary	1	0
-S21260974	2015-01-08	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
-S22890871	2015-04-15	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	2	43.0246041	-108.3806419	Traveling	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	American Kestrel	Falco sparverius	12028	species	2	43.0246041	-108.3806419	Traveling	1	0
-S21260974	2015-01-08	L1138184	Riverton, WY	Mountain Chickadee	Poecile gambeli	22077	species	1	43.0246041	-108.3806419	Traveling	1	0
-S22418362	2015-03-18	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	4	43.0246041	-108.3806419	Traveling	1	0
-S21435988	2015-01-20	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	15	43.0246041	-108.3806419	Stationary	1	0
-S22890871	2015-04-15	L1138184	Riverton, WY	Killdeer	Charadrius vociferus	5827	species	2	43.0246041	-108.3806419	Traveling	1	0
-S22418362	2015-03-18	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	1	43.0246041	-108.3806419	Traveling	1	0
-S21260974	2015-01-08	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0246041	-108.3806419	Traveling	1	0
-S24244549	2015-07-06	L3787410	Riverton -- McDonald's	Western Kingbird	Tyrannus verticalis	17467	species	X	43.0320117	-108.3798847	Stationary	1	0
-S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	American Robin	Turdus migratorius	28633	species	2	43.0478420	-108.3816790	Stationary	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Northern Rough-winged Swallow	Stelgidopteryx serripennis	24106	species	1	43.0478420	-108.3816790	Stationary	1	0
-S194998336	2015-05-13	L25642303	Riverton (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	43.0245961	-108.3806164	Historical	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	15	43.0478420	-108.3816790	Stationary	1	0
 S22304175	2015-03-11	L1138184	Riverton, WY	Golden-crowned Kinglet	Regulus satrapa	26848	species	1	43.0246041	-108.3806419	Traveling	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	1	43.0246041	-108.3806419	Traveling	1	0
 S24663756	2015-08-11	L1138184	Riverton, WY	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	43.0246041	-108.3806419	Traveling	1	0
 S22304175	2015-03-11	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	2	43.0246041	-108.3806419	Traveling	1	0
-S21435988	2015-01-20	L1138184	Riverton, WY	Red Crossbill	Loxia curvirostra	32498	species	19	43.0246041	-108.3806419	Stationary	1	0
 S22304175	2015-03-11	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0246041	-108.3806419	Traveling	1	0
+S21435988	2015-01-20	L1138184	Riverton, WY	Red Crossbill	Loxia curvirostra	32498	species	19	43.0246041	-108.3806419	Stationary	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	Sandhill Crane	Antigone canadensis	5697	species	2	43.0246041	-108.3806419	Traveling	1	0
 S24663756	2015-08-11	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0246041	-108.3806419	Traveling	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Mountain Bluebird	Sialia currucoides	28144	species	1	43.0478420	-108.3816790	Stationary	1	0
-S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Western Kingbird	Tyrannus verticalis	17467	species	4	43.0478420	-108.3816790	Stationary	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Tree Swallow	Tachycineta bicolor	24064	species	2	43.0478420	-108.3816790	Stationary	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Eastern Kingbird	Tyrannus tyrannus	17472	species	2	43.0478420	-108.3816790	Stationary	1	0
-S21260974	2015-01-08	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	3	43.0246041	-108.3806419	Traveling	1	0
-S22890871	2015-04-15	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	2	43.0246041	-108.3806419	Traveling	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	43.0246041	-108.3806419	Traveling	1	0
-S22664584	2015-04-03	L1138184	Riverton, WY	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	43.0246041	-108.3806419	Stationary	1	0
 S22418362	2015-03-18	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	1	43.0246041	-108.3806419	Traveling	1	0
 S21435988	2015-01-20	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	2	43.0246041	-108.3806419	Stationary	1	0
-S24244549	2015-07-06	L3787410	Riverton -- McDonald's	Rock Pigeon	Columba livia	1868	domestic	X	43.0320117	-108.3798847	Stationary	1	0
 S21260974	2015-01-08	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0246041	-108.3806419	Traveling	1	0
-S24244549	2015-07-06	L3787410	Riverton -- McDonald's	House Sparrow	Passer domesticus	31534	species	X	43.0320117	-108.3798847	Stationary	1	0
 S21260974	2015-01-08	L1138184	Riverton, WY	Great Horned Owl	Bubo virginianus	8910	species	2	43.0246041	-108.3806419	Traveling	1	0
 S24663756	2015-08-11	L1138184	Riverton, WY	Western Kingbird	Tyrannus verticalis	17467	species	1	43.0246041	-108.3806419	Traveling	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	Northern Shoveler	Spatula clypeata	501	species	1	43.0246041	-108.3806419	Traveling	1	0
 S21751942	2015-02-09	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0246041	-108.3806419	Stationary	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	2	43.0478420	-108.3816790	Stationary	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Barn Swallow	Hirundo rustica	24187	species	8	43.0478420	-108.3816790	Stationary	1	0
-S22890871	2015-04-15	L1138184	Riverton, WY	Red-winged Blackbird	Agelaius phoeniceus	33779	species	8	43.0246041	-108.3806419	Traveling	1	0
-S22418362	2015-03-18	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	4	43.0246041	-108.3806419	Traveling	1	0
-S21435988	2015-01-20	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Stationary	1	0
-S22664584	2015-04-03	L1138184	Riverton, WY	Ring-billed Gull	Larus delawarensis	6521	species	8	43.0246041	-108.3806419	Stationary	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	5	43.0246041	-108.3806419	Traveling	1	0
-S194998336	2015-05-13	L25642303	Riverton (town)	Black-billed Magpie	Pica hudsonia	21476	species	1	43.0245961	-108.3806164	Historical	1	0
-S22664584	2015-04-03	L1138184	Riverton, WY	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	3	43.0246041	-108.3806419	Stationary	1	0
-S21751942	2015-02-09	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0246041	-108.3806419	Stationary	1	0
 S24244549	2015-07-06	L3787410	Riverton -- McDonald's	California Gull	Larus californicus	6591	species	1	43.0320117	-108.3798847	Stationary	1	0
-S22418362	2015-03-18	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33124	species	15	43.0246041	-108.3806419	Traveling	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	Western Meadowlark	Sturnella neglecta	33565	species	2	43.0246041	-108.3806419	Traveling	1	0
-S22304175	2015-03-11	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	43.0246041	-108.3806419	Traveling	1	0
 S22418362	2015-03-18	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	22	43.0246041	-108.3806419	Traveling	1	0
 S22890871	2015-04-15	L1138184	Riverton, WY	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	11	43.0246041	-108.3806419	Traveling	1	0
+S22418362	2015-03-18	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	13	43.0246041	-108.3806419	Traveling	1	0
+S22418362	2015-03-18	L1138184	Riverton, WY	Golden-crowned Kinglet	Regulus satrapa	26848	species	2	43.0246041	-108.3806419	Traveling	1	0
+S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	House Sparrow	Passer domesticus	31534	species	8	43.0478420	-108.3816790	Stationary	1	0
+S22890871	2015-04-15	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0246041	-108.3806419	Traveling	1	0
+S21260974	2015-01-08	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	6	43.0246041	-108.3806419	Traveling	1	0
+S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Killdeer	Charadrius vociferus	5827	species	1	43.0478420	-108.3816790	Stationary	1	0
+S24244549	2015-07-06	L3787410	Riverton -- McDonald's	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	X	43.0320117	-108.3798847	Stationary	1	0
+S24663756	2015-08-11	L1138184	Riverton, WY	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0246041	-108.3806419	Traveling	1	0
+S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0478420	-108.3816790	Stationary	1	0
+S21435988	2015-01-20	L1138184	Riverton, WY	Blue Jay	Cyanocitta cristata	21294	species	1	43.0246041	-108.3806419	Stationary	1	0
+S21435988	2015-01-20	L1138184	Riverton, WY	Steller's Jay	Cyanocitta stelleri	21274	species	1	43.0246041	-108.3806419	Stationary	1	0
+S21260974	2015-01-08	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
+S22890871	2015-04-15	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	2	43.0246041	-108.3806419	Traveling	1	0
+S21260974	2015-01-08	L1138184	Riverton, WY	Mountain Chickadee	Poecile gambeli	22077	species	1	43.0246041	-108.3806419	Traveling	1	0
+S22418362	2015-03-18	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	4	43.0246041	-108.3806419	Traveling	1	0
+S22890871	2015-04-15	L1138184	Riverton, WY	Killdeer	Charadrius vociferus	5827	species	2	43.0246041	-108.3806419	Traveling	1	0
+S21435988	2015-01-20	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	15	43.0246041	-108.3806419	Stationary	1	0
+S22418362	2015-03-18	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	1	43.0246041	-108.3806419	Traveling	1	0
+S21260974	2015-01-08	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0246041	-108.3806419	Traveling	1	0
+S24244549	2015-07-06	L3787410	Riverton -- McDonald's	Western Kingbird	Tyrannus verticalis	17467	species	X	43.0320117	-108.3798847	Stationary	1	0
+S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	American Robin	Turdus migratorius	28633	species	2	43.0478420	-108.3816790	Stationary	1	0
+S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	Western Kingbird	Tyrannus verticalis	17467	species	4	43.0478420	-108.3816790	Stationary	1	0
+S21260974	2015-01-08	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	3	43.0246041	-108.3806419	Traveling	1	0
+S22890871	2015-04-15	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	2	43.0246041	-108.3806419	Traveling	1	0
+S22664584	2015-04-03	L1138184	Riverton, WY	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	43.0246041	-108.3806419	Stationary	1	0
+S24244549	2015-07-06	L3787410	Riverton -- McDonald's	Rock Pigeon	Columba livia	1868	domestic	X	43.0320117	-108.3798847	Stationary	1	0
+S24244549	2015-07-06	L3787410	Riverton -- McDonald's	House Sparrow	Passer domesticus	31534	species	X	43.0320117	-108.3798847	Stationary	1	0
+S22418362	2015-03-18	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	4	43.0246041	-108.3806419	Traveling	1	0
+S22890871	2015-04-15	L1138184	Riverton, WY	Red-winged Blackbird	Agelaius phoeniceus	33779	species	8	43.0246041	-108.3806419	Traveling	1	0
+S21435988	2015-01-20	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Stationary	1	0
+S22664584	2015-04-03	L1138184	Riverton, WY	Ring-billed Gull	Larus delawarensis	6521	species	8	43.0246041	-108.3806419	Stationary	1	0
+S22664584	2015-04-03	L1138184	Riverton, WY	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	3	43.0246041	-108.3806419	Stationary	1	0
+S21751942	2015-02-09	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0246041	-108.3806419	Stationary	1	0
+S22418362	2015-03-18	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33124	species	15	43.0246041	-108.3806419	Traveling	1	0
+S22304175	2015-03-11	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	7	43.0246041	-108.3806419	Traveling	1	0
 S24624753	2015-08-15	L3849878	US-WY-Riverton-2500 N Federal Blvd -	blackbird sp.	Icteridae sp.	33944	spuh	200	43.0478420	-108.3816790	Stationary	1	0
 S30537618	2016-07-04	L4761421	US-WY-Riverton-1618 E Park Ave - 43.0276x-108.3699	American Robin	Turdus migratorius	28633	species	3	43.0276310	-108.3699490	Traveling	1	0
 S27785098	2016-02-13	L243144	Riverton	House Finch	Haemorhous mexicanus	32310	species	1	43.0249600	-108.3796600	Stationary	1	0
@@ -87,8 +85,8 @@ S27078925	2016-01-23	L1138184	Riverton, WY	American Robin	Turdus migratorius	286
 S30537618	2016-07-04	L4761421	US-WY-Riverton-1618 E Park Ave - 43.0276x-108.3699	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.0276310	-108.3699490	Traveling	1	0
 S30565761	2016-07-06	L4761421	US-WY-Riverton-1618 E Park Ave - 43.0276x-108.3699	European Starling	Sturnus vulgaris	27813	species	2	43.0276310	-108.3699490	Stationary	1	0
 S32438386	2016-11-08	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0246041	-108.3806419	Traveling	1	0
-S27211759	2016-01-30	L1138184	Riverton, WY	Black-billed Magpie	Pica hudsonia	21476	species	1	43.0246041	-108.3806419	Stationary	1	0
 S32438386	2016-11-08	L1138184	Riverton, WY	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	43.0246041	-108.3806419	Traveling	1	0
+S27211759	2016-01-30	L1138184	Riverton, WY	Black-billed Magpie	Pica hudsonia	21476	species	1	43.0246041	-108.3806419	Stationary	1	0
 S32506947	2016-11-12	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	1	43.0246041	-108.3806419	Traveling	1	0
 S32438386	2016-11-08	L1138184	Riverton, WY	Rough-legged Hawk	Buteo lagopus	8528	species	1	43.0246041	-108.3806419	Traveling	1	0
 S27078925	2016-01-23	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	3	43.0246041	-108.3806419	Stationary	1	0
@@ -98,8 +96,8 @@ S27078925	2016-01-23	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33124	
 S30537618	2016-07-04	L4761421	US-WY-Riverton-1618 E Park Ave - 43.0276x-108.3699	European Starling	Sturnus vulgaris	27813	species	1	43.0276310	-108.3699490	Traveling	1	0
 S27785160	2016-02-14	L243144	Riverton	Northern Flicker	Colaptes auratus	11906	issf	1	43.0249600	-108.3796600	Stationary	1	0
 S30537618	2016-07-04	L4761421	US-WY-Riverton-1618 E Park Ave - 43.0276x-108.3699	Mourning Dove	Zenaida macroura	2412	species	2	43.0276310	-108.3699490	Traveling	1	0
-S33235355	2016-12-27	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	12	43.0246041	-108.3806419	Traveling	1	0
 S32506947	2016-11-12	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	5	43.0246041	-108.3806419	Traveling	1	0
+S33235355	2016-12-27	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	12	43.0246041	-108.3806419	Traveling	1	0
 S30537618	2016-07-04	L4761421	US-WY-Riverton-1618 E Park Ave - 43.0276x-108.3699	Western Kingbird	Tyrannus verticalis	17467	species	3	43.0276310	-108.3699490	Traveling	1	0
 S33235355	2016-12-27	L1138184	Riverton, WY	American Kestrel	Falco sparverius	12028	species	1	43.0246041	-108.3806419	Traveling	1	0
 S27078925	2016-01-23	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Stationary	1	0
@@ -158,8 +156,8 @@ S33586684	2017-01-10	L1138184	Riverton, WY	American Goshawk	Astur atricapillus	8
 S34226694	2017-02-07	L1138184	Riverton, WY	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	43.0246041	-108.3806419	Traveling	1	0
 S36257635	2017-04-25	L1138184	Riverton, WY	Northern Harrier	Circus hudsonius	8324	species	1	43.0246041	-108.3806419	Stationary	1	0
 S33587600	2017-01-10	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	119	43.0246041	-108.3806419	Traveling	1	0
-S33587600	2017-01-10	L1138184	Riverton, WY	Rough-legged Hawk	Buteo lagopus	8528	species	3	43.0246041	-108.3806419	Traveling	1	0
 S38746756	2017-08-21	L6200981	Riverton Riverwalk 	Gray Catbird	Dumetella carolinensis	28000	species	3	43.0124780	-108.3987550	Traveling	1	0
+S33587600	2017-01-10	L1138184	Riverton, WY	Rough-legged Hawk	Buteo lagopus	8528	species	3	43.0246041	-108.3806419	Traveling	1	0
 S34226694	2017-02-07	L1138184	Riverton, WY	Rough-legged Hawk	Buteo lagopus	8528	species	2	43.0246041	-108.3806419	Traveling	1	0
 S38746756	2017-08-21	L6200981	Riverton Riverwalk 	Northern House Wren	Troglodytes aedon	27191	species	1	43.0124780	-108.3987550	Traveling	1	0
 S34226694	2017-02-07	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	3	43.0246041	-108.3806419	Traveling	1	0
@@ -167,12 +165,12 @@ S36257635	2017-04-25	L1138184	Riverton, WY	Mountain Bluebird	Sialia currucoides	
 S38746756	2017-08-21	L6200981	Riverton Riverwalk 	Chipping Sparrow	Spizella passerina	32990	species	2	43.0124780	-108.3987550	Traveling	1	0
 S34226694	2017-02-07	L1138184	Riverton, WY	Horned Lark	Eremophila alpestris	22710	species	60	43.0246041	-108.3806419	Traveling	1	0
 S38746756	2017-08-21	L6200981	Riverton Riverwalk 	American Robin	Turdus migratorius	28633	species	1	43.0124780	-108.3987550	Traveling	1	0
-S33587600	2017-01-10	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	127	43.0246041	-108.3806419	Traveling	1	0
 S33586043	2017-01-10	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0246041	-108.3806419	Traveling	1	0
+S33587600	2017-01-10	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	127	43.0246041	-108.3806419	Traveling	1	0
 S38746756	2017-08-21	L6200981	Riverton Riverwalk 	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0124780	-108.3987550	Traveling	1	0
 S33586684	2017-01-10	L1138184	Riverton, WY	American Goldfinch	Spinus tristis	32617	species	1	43.0246041	-108.3806419	Traveling	1	0
-S33586684	2017-01-10	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	22	43.0246041	-108.3806419	Traveling	1	0
 S39213072	2017-09-16	L6274195	Sunset Park	Northern Flicker	Colaptes auratus	11900	species	2	43.0330610	-108.3958640	Traveling	1	0
+S33586684	2017-01-10	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	22	43.0246041	-108.3806419	Traveling	1	0
 S34226694	2017-02-07	L1138184	Riverton, WY	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	43.0246041	-108.3806419	Traveling	1	0
 S33417969	2017-01-03	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	43.0246041	-108.3806419	Traveling	1	0
 S36257635	2017-04-25	L1138184	Riverton, WY	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	43.0246041	-108.3806419	Stationary	1	0
@@ -189,11 +187,11 @@ S38746756	2017-08-21	L6200981	Riverton Riverwalk 	Common Grackle	Quiscalus quisc
 S33586043	2017-01-10	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	8	43.0246041	-108.3806419	Traveling	1	0
 S34226694	2017-02-07	L1138184	Riverton, WY	Ring-necked Pheasant	Phasianus colchicus	1477	species	2	43.0246041	-108.3806419	Traveling	1	0
 S33586043	2017-01-10	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	3	43.0246041	-108.3806419	Traveling	1	0
-S36257635	2017-04-25	L1138184	Riverton, WY	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	1	43.0246041	-108.3806419	Stationary	1	0
 S38746756	2017-08-21	L6200981	Riverton Riverwalk 	Barn Swallow	Hirundo rustica	24187	species	5	43.0124780	-108.3987550	Traveling	1	0
+S36257635	2017-04-25	L1138184	Riverton, WY	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	1	43.0246041	-108.3806419	Stationary	1	0
 S36257635	2017-04-25	L1138184	Riverton, WY	Wilson's Snipe	Gallinago delicata	6104	species	1	43.0246041	-108.3806419	Stationary	1	0
-S33417969	2017-01-03	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	4	43.0246041	-108.3806419	Traveling	1	0
 S39213072	2017-09-16	L6274195	Sunset Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0330610	-108.3958640	Traveling	1	0
+S33417969	2017-01-03	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	4	43.0246041	-108.3806419	Traveling	1	0
 S38746756	2017-08-21	L6200981	Riverton Riverwalk 	Eastern Kingbird	Tyrannus tyrannus	17472	species	2	43.0124780	-108.3987550	Traveling	1	0
 S38746756	2017-08-21	L6200981	Riverton Riverwalk 	Wilson's Warbler	Cardellina pusilla	34346	species	5	43.0124780	-108.3987550	Traveling	1	0
 S36257635	2017-04-25	L1138184	Riverton, WY	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	43.0246041	-108.3806419	Stationary	1	0
@@ -215,8 +213,8 @@ S50657969	2018-12-14	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27
 S49951634	2018-11-15	L1138184	Riverton, WY	Prairie Falcon	Falco mexicanus	12136	species	1	43.0246041	-108.3806419	Traveling	1	0
 S50657969	2018-12-14	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	2	43.0246041	-108.3806419	Traveling	1	0
 S43335115	2018-03-03	L907911	Kim and Wendy's House	House Finch	Haemorhous mexicanus	32310	species	5	43.0269570	-108.4112406	Stationary	1	0
-S50657969	2018-12-14	L1138184	Riverton, WY	Rough-legged Hawk	Buteo lagopus	8528	species	2	43.0246041	-108.3806419	Traveling	1	0
 S42351576	2018-01-29	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	46	43.0246041	-108.3806419	Traveling	1	0
+S50657969	2018-12-14	L1138184	Riverton, WY	Rough-legged Hawk	Buteo lagopus	8528	species	2	43.0246041	-108.3806419	Traveling	1	0
 S43335115	2018-03-03	L907911	Kim and Wendy's House	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0269570	-108.4112406	Stationary	1	0
 S43335115	2018-03-03	L907911	Kim and Wendy's House	Pine Siskin	Spinus pinus	32595	species	6	43.0269570	-108.4112406	Stationary	1	0
 S41566529	2018-01-02	L1138184	Riverton, WY	Cedar Waxwing	Bombycilla cedrorum	29888	species	13	43.0246041	-108.3806419	Traveling	1	0
@@ -224,8 +222,8 @@ S49277178	2018-10-18	L907911	Kim and Wendy's House	White-crowned Sparrow	Zonotri
 S49277178	2018-10-18	L907911	Kim and Wendy's House	Northern Flicker	Colaptes auratus	11900	species	1	43.0269570	-108.4112406	Stationary	1	0
 S47209003	2018-07-15	L7712489	Riverview Road, Riverton, Wyoming, US (43.023, -108.406)	Sandhill Crane	Antigone canadensis	5697	species	2	43.0229107	-108.4057152	Traveling	1	0
 S47209003	2018-07-15	L7712489	Riverview Road, Riverton, Wyoming, US (43.023, -108.406)	European Starling	Sturnus vulgaris	27813	species	2	43.0229107	-108.4057152	Traveling	1	0
-S50657969	2018-12-14	L1138184	Riverton, WY	Northern Harrier	Circus hudsonius	8324	species	1	43.0246041	-108.3806419	Traveling	1	0
 S50657969	2018-12-14	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	502	43.0246041	-108.3806419	Traveling	1	0
+S50657969	2018-12-14	L1138184	Riverton, WY	Northern Harrier	Circus hudsonius	8324	species	1	43.0246041	-108.3806419	Traveling	1	0
 S47209003	2018-07-15	L7712489	Riverview Road, Riverton, Wyoming, US (43.023, -108.406)	American Robin	Turdus migratorius	28633	species	2	43.0229107	-108.4057152	Traveling	1	0
 S47209003	2018-07-15	L7712489	Riverview Road, Riverton, Wyoming, US (43.023, -108.406)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	43.0229107	-108.4057152	Traveling	1	0
 S47209003	2018-07-15	L7712489	Riverview Road, Riverton, Wyoming, US (43.023, -108.406)	Western Meadowlark	Sturnella neglecta	33565	species	4	43.0229107	-108.4057152	Traveling	1	0
@@ -243,430 +241,430 @@ S42351576	2018-01-29	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	2
 S49277178	2018-10-18	L907911	Kim and Wendy's House	House Sparrow	Passer domesticus	31534	species	5	43.0269570	-108.4112406	Stationary	1	0
 S43335115	2018-03-03	L907911	Kim and Wendy's House	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0269570	-108.4112406	Stationary	1	0
 S41566529	2018-01-02	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	2	43.0246041	-108.3806419	Traveling	1	0
-S50657969	2018-12-14	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
 S49277178	2018-10-18	L907911	Kim and Wendy's House	Dark-eyed Junco	Junco hyemalis	33124	species	3	43.0269570	-108.4112406	Stationary	1	0
+S50657969	2018-12-14	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
 S47209003	2018-07-15	L7712489	Riverview Road, Riverton, Wyoming, US (43.023, -108.406)	House Sparrow	Passer domesticus	31534	species	4	43.0229107	-108.4057152	Traveling	1	0
 S49277178	2018-10-18	L907911	Kim and Wendy's House	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0269570	-108.4112406	Stationary	1	0
 S47209003	2018-07-15	L7712489	Riverview Road, Riverton, Wyoming, US (43.023, -108.406)	Mourning Dove	Zenaida macroura	2412	species	6	43.0229107	-108.4057152	Traveling	1	0
-S49951634	2018-11-15	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	1	43.0246041	-108.3806419	Traveling	1	0
 S43335115	2018-03-03	L907911	Kim and Wendy's House	European Starling	Sturnus vulgaris	27813	species	8	43.0269570	-108.4112406	Stationary	1	0
+S49951634	2018-11-15	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	1	43.0246041	-108.3806419	Traveling	1	0
 S49277178	2018-10-18	L907911	Kim and Wendy's House	House Finch	Haemorhous mexicanus	32310	species	5	43.0269570	-108.4112406	Stationary	1	0
 S41566529	2018-01-02	L1138184	Riverton, WY	Bohemian Waxwing	Bombycilla garrulus	29885	species	3	43.0246041	-108.3806419	Traveling	1	0
 S47209003	2018-07-15	L7712489	Riverview Road, Riverton, Wyoming, US (43.023, -108.406)	Northern Flicker	Colaptes auratus	11900	species	1	43.0229107	-108.4057152	Traveling	1	0
 S45277662	2018-05-05	L3243919	Riverton	Great Horned Owl	Bubo virginianus	8910	species	1	43.0247296	-108.3869934	Stationary	1	0
 S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Common Grackle	Quiscalus quiscula	33853	species	10	43.0335640	-108.4228180	Traveling	1	0
-S62379590	2019-12-16	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	42	43.0246041	-108.3806419	Stationary	1	0
-S52051783	2019-01-26	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0246041	-108.3806419	Traveling	1	0
 S53391983	2019-03-04	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	2	43.0246041	-108.3806419	Traveling	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	Black-billed Magpie	Pica hudsonia	21476	species	1	43.0246041	-108.3806419	Traveling	1	0
 S62176936	2019-12-09	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	2	43.0246041	-108.3806419	Stationary	1	0
-S62176936	2019-12-09	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0246041	-108.3806419	Stationary	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0479280	-108.3832100	Stationary	1	0
-S61023199	2019-10-29	L1138184	Riverton, WY	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	43.0246041	-108.3806419	Stationary	1	0
 S58342222	2019-07-21	L9674661	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	1	43.0479280	-108.3832100	Stationary	1	0
-S62640848	2019-12-26	L907911	Kim and Wendy's House	Pine Siskin	Spinus pinus	32595	species	1	43.0269570	-108.4112406	Stationary	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0246041	-108.3806419	Traveling	1	0
 S55690989	2019-05-02	L1138184	Riverton, WY	Barn Swallow	Hirundo rustica	24187	species	1	43.0246041	-108.3806419	Traveling	1	0
-S62176936	2019-12-09	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Stationary	1	0
 S62640848	2019-12-26	L907911	Kim and Wendy's House	Northern Flicker	Colaptes auratus	11900	species	1	43.0269570	-108.4112406	Stationary	1	0
-S62640848	2019-12-26	L907911	Kim and Wendy's House	Northern Flicker	Colaptes auratus	11906	issf	1	43.0269570	-108.4112406	Stationary	1	0
-S53576610	2019-03-07	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	2	43.0246041	-108.3806419	Traveling	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Say's Phoebe	Sayornis saya	17010	species	4	43.0479280	-108.3832100	Stationary	1	0
 S53576610	2019-03-07	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0246041	-108.3806419	Traveling	1	0
 S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Mourning Dove	Zenaida macroura	2412	species	2	43.0335640	-108.4228180	Traveling	1	0
-S60666170	2019-10-16	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	10	43.0246041	-108.3806419	Traveling	1	0
 S56697571	2019-05-24	L9335080	877 N 8th St W, Riverton US-WY (43.0337,-108.4001)	Western Kingbird	Tyrannus verticalis	17467	species	1	43.0337490	-108.4000740	Traveling	1	0
 S58342222	2019-07-21	L9674661	Riverton, WY	Ring-billed Gull	Larus delawarensis	6521	species	1	43.0479280	-108.3832100	Stationary	1	0
-S62640848	2019-12-26	L907911	Kim and Wendy's House	Rock Pigeon	Columba livia	1868	domestic	4	43.0269570	-108.4112406	Stationary	1	0
 S62640848	2019-12-26	L907911	Kim and Wendy's House	American Goldfinch	Spinus tristis	32617	species	15	43.0269570	-108.4112406	Stationary	1	0
 S62392145	2019-12-17	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	2	43.0246041	-108.3806419	Traveling	1	0
-S53576610	2019-03-07	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	2	43.0246041	-108.3806419	Traveling	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33124	species	9	43.0246041	-108.3806419	Traveling	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	Sharp-shinned Hawk	Accipiter striatus	8256	species	2	43.0246041	-108.3806419	Traveling	1	0
 S55690989	2019-05-02	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	2	43.0246041	-108.3806419	Traveling	1	0
-S55690989	2019-05-02	L1138184	Riverton, WY	Turkey Vulture	Cathartes aura	7815	species	1	43.0246041	-108.3806419	Traveling	1	0
-S52051783	2019-01-26	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	4	43.0246041	-108.3806419	Traveling	1	0
 S52931367	2019-02-19	L1138184	Riverton, WY	Merlin	Falco columbarius	12062	species	1	43.0246041	-108.3806419	Traveling	1	0
-S61959063	2019-12-03	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	9	43.0246041	-108.3806419	Stationary	1	0
-S61959063	2019-12-03	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33138	issf	1	43.0246041	-108.3806419	Stationary	1	0
 S51555624	2019-01-11	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	3	43.0246041	-108.3806419	Stationary	1	0
-S55690989	2019-05-02	L1138184	Riverton, WY	California Gull	Larus californicus	6591	species	1	43.0246041	-108.3806419	Traveling	1	0
-S52931367	2019-02-19	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	9	43.0246041	-108.3806419	Traveling	1	0
-S53576610	2019-03-07	L1138184	Riverton, WY	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	43.0246041	-108.3806419	Traveling	1	0
-S60666170	2019-10-16	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0246041	-108.3806419	Traveling	1	0
-S52051783	2019-01-26	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	5	43.0246041	-108.3806419	Traveling	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	Cooper's Hawk	Astur cooperii	8278	species	1	43.0246041	-108.3806419	Traveling	1	0
 S53391983	2019-03-04	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	2	43.0246041	-108.3806419	Traveling	1	0
 S60666170	2019-10-16	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	25	43.0246041	-108.3806419	Traveling	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	43.0479280	-108.3832100	Stationary	1	0
-S58787262	2019-07-18	L9740414	US-WY, Riverton area	Barn Swallow	Hirundo rustica	24187	species	2	43.0244781	-108.4012569	Stationary	1	0
-S53391983	2019-03-04	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	19	43.0246041	-108.3806419	Traveling	1	0
 S62176936	2019-12-09	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33138	issf	1	43.0246041	-108.3806419	Stationary	1	0
-S55462489	2019-04-27	L9128245	Riverton Soccer Fields	California Gull	Larus californicus	6591	species	2	43.0335640	-108.4228180	Traveling	1	0
-S58787262	2019-07-18	L9740414	US-WY, Riverton area	Common Grackle	Quiscalus quiscula	33853	species	3	43.0244781	-108.4012569	Stationary	1	0
 S62586587	2019-12-24	L907911	Kim and Wendy's House	European Starling	Sturnus vulgaris	27813	species	12	43.0269570	-108.4112406	Stationary	1	0
-S53576610	2019-03-07	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	6	43.0246041	-108.3806419	Traveling	1	0
-S62640848	2019-12-26	L907911	Kim and Wendy's House	Northern Flicker	Colaptes auratus	11903	issf	1	43.0269570	-108.4112406	Stationary	1	1
 S61023199	2019-10-29	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	4	43.0246041	-108.3806419	Stationary	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	Blue Jay	Cyanocitta cristata	21294	species	5	43.0246041	-108.3806419	Traveling	1	1
 S61959063	2019-12-03	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0246041	-108.3806419	Stationary	1	0
-S60666170	2019-10-16	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	11	43.0246041	-108.3806419	Traveling	1	0
 S62586587	2019-12-24	L907911	Kim and Wendy's House	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0269570	-108.4112406	Stationary	1	0
 S62640848	2019-12-26	L907911	Kim and Wendy's House	Canada Goose	Branta canadensis	342	species	3	43.0269570	-108.4112406	Stationary	1	0
 S53576610	2019-03-07	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	1	43.0246041	-108.3806419	Traveling	1	0
 S53391983	2019-03-04	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	2	43.0246041	-108.3806419	Traveling	1	0
 S58787262	2019-07-18	L9740414	US-WY, Riverton area	American Kestrel	Falco sparverius	12028	species	1	43.0244781	-108.4012569	Stationary	1	0
-S52051783	2019-01-26	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	21	43.0246041	-108.3806419	Traveling	1	0
-S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Rock Pigeon	Columba livia	1868	domestic	4	43.0335640	-108.4228180	Traveling	1	0
 S53576610	2019-03-07	L1138184	Riverton, WY	Great Horned Owl	Bubo virginianus	8910	species	1	43.0246041	-108.3806419	Traveling	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	17	43.0479280	-108.3832100	Stationary	1	0
 S62379590	2019-12-16	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	65	43.0246041	-108.3806419	Stationary	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Northern Flicker	Colaptes auratus	11900	species	1	43.0479280	-108.3832100	Stationary	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	17	43.0479280	-108.3832100	Stationary	1	0
 S62392145	2019-12-17	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	23	43.0246041	-108.3806419	Traveling	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	48	43.0246041	-108.3806419	Traveling	1	0
-S58787262	2019-07-18	L9740414	US-WY, Riverton area	California Gull	Larus californicus	6591	species	3	43.0244781	-108.4012569	Stationary	1	0
 S55462489	2019-04-27	L9128245	Riverton Soccer Fields	American Robin	Turdus migratorius	28633	species	6	43.0335640	-108.4228180	Traveling	1	0
-S51555624	2019-01-11	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0246041	-108.3806419	Stationary	1	0
 S58342222	2019-07-21	L9674661	Riverton, WY	House Sparrow	Passer domesticus	31534	species	3	43.0479280	-108.3832100	Stationary	1	0
+S62586587	2019-12-24	L907911	Kim and Wendy's House	House Finch	Haemorhous mexicanus	32310	species	2	43.0269570	-108.4112406	Stationary	1	0
+S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Black-capped Chickadee	Poecile atricapillus	22065	species	3	43.0335640	-108.4228180	Traveling	1	0
+S62586587	2019-12-24	L907911	Kim and Wendy's House	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0269570	-108.4112406	Stationary	1	0
+S61023199	2019-10-29	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Stationary	1	0
+S61023199	2019-10-29	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	1	43.0246041	-108.3806419	Stationary	1	0
+S62724282	2019-12-28	L1138184	Riverton, WY	Horned Lark	Eremophila alpestris	22710	species	4	43.0246041	-108.3806419	Traveling	1	0
+S60666170	2019-10-16	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	22	43.0246041	-108.3806419	Traveling	1	0
+S62724282	2019-12-28	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	58	43.0246041	-108.3806419	Traveling	1	0
+S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0335640	-108.4228180	Traveling	1	0
+S62724282	2019-12-28	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	3	43.0246041	-108.3806419	Traveling	1	0
+S62392145	2019-12-17	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	36	43.0246041	-108.3806419	Traveling	1	0
+S55690989	2019-05-02	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	29	43.0246041	-108.3806419	Traveling	1	0
+S62640848	2019-12-26	L907911	Kim and Wendy's House	House Finch	Haemorhous mexicanus	32310	species	12	43.0269570	-108.4112406	Stationary	1	0
+S62724282	2019-12-28	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	71	43.0246041	-108.3806419	Traveling	1	0
+S55690989	2019-05-02	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	1	43.0246041	-108.3806419	Traveling	1	0
+S53391983	2019-03-04	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0246041	-108.3806419	Traveling	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Bullock's Oriole	Icterus bullockii	33736	species	3	43.0479280	-108.3832100	Stationary	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Common Grackle	Quiscalus quiscula	33853	species	1	43.0479280	-108.3832100	Stationary	1	0
+S62586587	2019-12-24	L907911	Kim and Wendy's House	American Goshawk	Astur atricapillus	8292	species	1	43.0269570	-108.4112406	Stationary	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Mourning Dove	Zenaida macroura	2412	species	2	43.0479280	-108.3832100	Stationary	1	0
+S56697571	2019-05-24	L9335080	877 N 8th St W, Riverton US-WY (43.0337,-108.4001)	Barn Swallow	Hirundo rustica	24187	species	3	43.0337490	-108.4000740	Traveling	1	0
+S61023199	2019-10-29	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Stationary	1	0
+S61023199	2019-10-29	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	15	43.0246041	-108.3806419	Stationary	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0479280	-108.3832100	Stationary	1	0
+S62392145	2019-12-17	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
+S62640848	2019-12-26	L907911	Kim and Wendy's House	American Crow	Corvus brachyrhynchos	21557	species	2	43.0269570	-108.4112406	Stationary	1	0
+S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Western Meadowlark	Sturnella neglecta	33565	species	3	43.0335640	-108.4228180	Traveling	1	0
+S62586587	2019-12-24	L907911	Kim and Wendy's House	American Goldfinch	Spinus tristis	32617	species	25	43.0269570	-108.4112406	Stationary	1	0
+S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Killdeer	Charadrius vociferus	5827	species	3	43.0335640	-108.4228180	Traveling	1	0
+S53576610	2019-03-07	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	72	43.0246041	-108.3806419	Traveling	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Western Meadowlark	Sturnella neglecta	33565	species	2	43.0479280	-108.3832100	Stationary	1	0
+S58787262	2019-07-18	L9740414	US-WY, Riverton area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0244781	-108.4012569	Stationary	1	0
+S55462489	2019-04-27	L9128245	Riverton Soccer Fields	American Goldfinch	Spinus tristis	32617	species	7	43.0335640	-108.4228180	Traveling	1	0
+S55690989	2019-05-02	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	9	43.0246041	-108.3806419	Traveling	1	0
+S51555624	2019-01-11	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0246041	-108.3806419	Stationary	1	0
+S62724282	2019-12-28	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	65	43.0246041	-108.3806419	Traveling	1	0
+S62640848	2019-12-26	L907911	Kim and Wendy's House	Dark-eyed Junco	Junco hyemalis	33138	issf	1	43.0269570	-108.4112406	Stationary	1	0
+S53576610	2019-03-07	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	3	43.0246041	-108.3806419	Traveling	1	0
+S62724282	2019-12-28	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	305	43.0246041	-108.3806419	Traveling	1	0
+S61023199	2019-10-29	L1138184	Riverton, WY	Townsend's Solitaire	Myadestes townsendi	28163	species	1	43.0246041	-108.3806419	Stationary	1	0
+S53391983	2019-03-04	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0246041	-108.3806419	Traveling	1	0
+S62379590	2019-12-16	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	42	43.0246041	-108.3806419	Stationary	1	0
+S52051783	2019-01-26	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0246041	-108.3806419	Traveling	1	0
+S62176936	2019-12-09	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0246041	-108.3806419	Stationary	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0479280	-108.3832100	Stationary	1	0
+S61023199	2019-10-29	L1138184	Riverton, WY	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	43.0246041	-108.3806419	Stationary	1	0
+S62640848	2019-12-26	L907911	Kim and Wendy's House	Pine Siskin	Spinus pinus	32595	species	1	43.0269570	-108.4112406	Stationary	1	0
+S62176936	2019-12-09	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Stationary	1	0
+S62640848	2019-12-26	L907911	Kim and Wendy's House	Northern Flicker	Colaptes auratus	11906	issf	1	43.0269570	-108.4112406	Stationary	1	0
+S53576610	2019-03-07	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	2	43.0246041	-108.3806419	Traveling	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Say's Phoebe	Sayornis saya	17010	species	4	43.0479280	-108.3832100	Stationary	1	0
+S60666170	2019-10-16	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	10	43.0246041	-108.3806419	Traveling	1	0
+S62640848	2019-12-26	L907911	Kim and Wendy's House	Rock Pigeon	Columba livia	1868	domestic	4	43.0269570	-108.4112406	Stationary	1	0
+S53576610	2019-03-07	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	2	43.0246041	-108.3806419	Traveling	1	0
+S62724282	2019-12-28	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33124	species	9	43.0246041	-108.3806419	Traveling	1	0
+S55690989	2019-05-02	L1138184	Riverton, WY	Turkey Vulture	Cathartes aura	7815	species	1	43.0246041	-108.3806419	Traveling	1	0
+S52051783	2019-01-26	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	4	43.0246041	-108.3806419	Traveling	1	0
+S61959063	2019-12-03	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	9	43.0246041	-108.3806419	Stationary	1	0
+S61959063	2019-12-03	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33138	issf	1	43.0246041	-108.3806419	Stationary	1	0
+S55690989	2019-05-02	L1138184	Riverton, WY	California Gull	Larus californicus	6591	species	1	43.0246041	-108.3806419	Traveling	1	0
+S53576610	2019-03-07	L1138184	Riverton, WY	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	43.0246041	-108.3806419	Traveling	1	0
+S52931367	2019-02-19	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	9	43.0246041	-108.3806419	Traveling	1	0
+S60666170	2019-10-16	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	1	43.0246041	-108.3806419	Traveling	1	0
+S52051783	2019-01-26	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	5	43.0246041	-108.3806419	Traveling	1	0
+S62724282	2019-12-28	L1138184	Riverton, WY	Cooper's Hawk	Astur cooperii	8278	species	1	43.0246041	-108.3806419	Traveling	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	43.0479280	-108.3832100	Stationary	1	0
+S58787262	2019-07-18	L9740414	US-WY, Riverton area	Barn Swallow	Hirundo rustica	24187	species	2	43.0244781	-108.4012569	Stationary	1	0
+S53391983	2019-03-04	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	19	43.0246041	-108.3806419	Traveling	1	0
+S55462489	2019-04-27	L9128245	Riverton Soccer Fields	California Gull	Larus californicus	6591	species	2	43.0335640	-108.4228180	Traveling	1	0
+S58787262	2019-07-18	L9740414	US-WY, Riverton area	Common Grackle	Quiscalus quiscula	33853	species	3	43.0244781	-108.4012569	Stationary	1	0
+S53576610	2019-03-07	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	6	43.0246041	-108.3806419	Traveling	1	0
+S62640848	2019-12-26	L907911	Kim and Wendy's House	Northern Flicker	Colaptes auratus	11903	issf	1	43.0269570	-108.4112406	Stationary	1	1
+S62724282	2019-12-28	L1138184	Riverton, WY	Blue Jay	Cyanocitta cristata	21294	species	5	43.0246041	-108.3806419	Traveling	1	1
+S60666170	2019-10-16	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	11	43.0246041	-108.3806419	Traveling	1	0
+S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Rock Pigeon	Columba livia	1868	domestic	4	43.0335640	-108.4228180	Traveling	1	0
+S52051783	2019-01-26	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	21	43.0246041	-108.3806419	Traveling	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Northern Flicker	Colaptes auratus	11900	species	1	43.0479280	-108.3832100	Stationary	1	0
+S58787262	2019-07-18	L9740414	US-WY, Riverton area	California Gull	Larus californicus	6591	species	3	43.0244781	-108.4012569	Stationary	1	0
+S51555624	2019-01-11	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0246041	-108.3806419	Stationary	1	0
 S58787262	2019-07-18	L9740414	US-WY, Riverton area	Western Kingbird	Tyrannus verticalis	17467	species	1	43.0244781	-108.4012569	Stationary	1	0
 S62640848	2019-12-26	L907911	Kim and Wendy's House	European Starling	Sturnus vulgaris	27813	species	7	43.0269570	-108.4112406	Stationary	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11900	species	12	43.0246041	-108.3806419	Traveling	1	0
 S58787262	2019-07-18	L9740414	US-WY, Riverton area	European Starling	Sturnus vulgaris	27813	species	10	43.0244781	-108.4012569	Stationary	1	0
-S62586587	2019-12-24	L907911	Kim and Wendy's House	House Finch	Haemorhous mexicanus	32310	species	2	43.0269570	-108.4112406	Stationary	1	0
-S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Black-capped Chickadee	Poecile atricapillus	22065	species	3	43.0335640	-108.4228180	Traveling	1	0
-S62586587	2019-12-24	L907911	Kim and Wendy's House	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0269570	-108.4112406	Stationary	1	0
 S58342222	2019-07-21	L9674661	Riverton, WY	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	43.0479280	-108.3832100	Stationary	1	0
 S56697571	2019-05-24	L9335080	877 N 8th St W, Riverton US-WY (43.0337,-108.4001)	American Robin	Turdus migratorius	28633	species	3	43.0337490	-108.4000740	Traveling	1	0
-S61023199	2019-10-29	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Stationary	1	0
-S61023199	2019-10-29	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	1	43.0246041	-108.3806419	Stationary	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	Horned Lark	Eremophila alpestris	22710	species	4	43.0246041	-108.3806419	Traveling	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	58	43.0246041	-108.3806419	Traveling	1	0
-S60666170	2019-10-16	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	22	43.0246041	-108.3806419	Traveling	1	0
-S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0335640	-108.4228180	Traveling	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	3	43.0246041	-108.3806419	Traveling	1	0
-S62392145	2019-12-17	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	36	43.0246041	-108.3806419	Traveling	1	0
 S55690989	2019-05-02	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	5	43.0246041	-108.3806419	Traveling	1	0
-S55690989	2019-05-02	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	29	43.0246041	-108.3806419	Traveling	1	0
-S55690989	2019-05-02	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	1	43.0246041	-108.3806419	Traveling	1	0
-S62640848	2019-12-26	L907911	Kim and Wendy's House	House Finch	Haemorhous mexicanus	32310	species	12	43.0269570	-108.4112406	Stationary	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	71	43.0246041	-108.3806419	Traveling	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	8	43.0246041	-108.3806419	Traveling	1	0
-S53391983	2019-03-04	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0246041	-108.3806419	Traveling	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Bullock's Oriole	Icterus bullockii	33736	species	3	43.0479280	-108.3832100	Stationary	1	0
 S51555624	2019-01-11	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	2	43.0246041	-108.3806419	Stationary	1	0
 S62392145	2019-12-17	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	64	43.0246041	-108.3806419	Traveling	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Common Grackle	Quiscalus quiscula	33853	species	1	43.0479280	-108.3832100	Stationary	1	0
 S53576610	2019-03-07	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0246041	-108.3806419	Traveling	1	0
 S55462489	2019-04-27	L9128245	Riverton Soccer Fields	European Starling	Sturnus vulgaris	27813	species	7	43.0335640	-108.4228180	Traveling	1	0
 S53391983	2019-03-04	L1138184	Riverton, WY	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	43.0246041	-108.3806419	Traveling	1	0
-S62586587	2019-12-24	L907911	Kim and Wendy's House	American Goshawk	Astur atricapillus	8292	species	1	43.0269570	-108.4112406	Stationary	1	0
 S58342222	2019-07-21	L9674661	Riverton, WY	Killdeer	Charadrius vociferus	5827	species	3	43.0479280	-108.3832100	Stationary	1	0
 S53576610	2019-03-07	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	46	43.0246041	-108.3806419	Traveling	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Mourning Dove	Zenaida macroura	2412	species	2	43.0479280	-108.3832100	Stationary	1	0
 S62586587	2019-12-24	L907911	Kim and Wendy's House	American Crow	Corvus brachyrhynchos	21557	species	8	43.0269570	-108.4112406	Stationary	1	0
 S60666170	2019-10-16	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
-S55690989	2019-05-02	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	8	43.0246041	-108.3806419	Traveling	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0246041	-108.3806419	Traveling	1	0
-S56697571	2019-05-24	L9335080	877 N 8th St W, Riverton US-WY (43.0337,-108.4001)	Barn Swallow	Hirundo rustica	24187	species	3	43.0337490	-108.4000740	Traveling	1	0
+S55690989	2019-05-02	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	8	43.0246041	-108.3806419	Traveling	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	5	43.0246041	-108.3806419	Traveling	1	0
-S61023199	2019-10-29	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Stationary	1	0
-S61023199	2019-10-29	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	15	43.0246041	-108.3806419	Stationary	1	0
 S62640848	2019-12-26	L907911	Kim and Wendy's House	Song Sparrow	Melospiza melodia	33277	species	1	43.0269570	-108.4112406	Stationary	1	0
 S53391983	2019-03-04	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	10	43.0246041	-108.3806419	Traveling	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0479280	-108.3832100	Stationary	1	0
-S62392145	2019-12-17	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Western Kingbird	Tyrannus verticalis	17467	species	5	43.0479280	-108.3832100	Stationary	1	0
 S52931367	2019-02-19	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	1	43.0246041	-108.3806419	Traveling	1	0
-S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Osprey	Pandion haliaetus	7832	species	1	43.0335640	-108.4228180	Traveling	1	0
+S58342222	2019-07-21	L9674661	Riverton, WY	Western Kingbird	Tyrannus verticalis	17467	species	5	43.0479280	-108.3832100	Stationary	1	0
 S55690989	2019-05-02	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	4	43.0246041	-108.3806419	Traveling	1	0
+S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Osprey	Pandion haliaetus	7832	species	1	43.0335640	-108.4228180	Traveling	1	0
 S56697571	2019-05-24	L9335080	877 N 8th St W, Riverton US-WY (43.0337,-108.4001)	Canada Goose	Branta canadensis	342	species	2	43.0337490	-108.4000740	Traveling	1	0
-S62640848	2019-12-26	L907911	Kim and Wendy's House	American Crow	Corvus brachyrhynchos	21557	species	2	43.0269570	-108.4112406	Stationary	1	0
-S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Western Meadowlark	Sturnella neglecta	33565	species	3	43.0335640	-108.4228180	Traveling	1	0
 S52931367	2019-02-19	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
-S62586587	2019-12-24	L907911	Kim and Wendy's House	American Goldfinch	Spinus tristis	32617	species	25	43.0269570	-108.4112406	Stationary	1	0
 S53391983	2019-03-04	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	29	43.0246041	-108.3806419	Traveling	1	0
-S55462489	2019-04-27	L9128245	Riverton Soccer Fields	Killdeer	Charadrius vociferus	5827	species	3	43.0335640	-108.4228180	Traveling	1	0
-S53576610	2019-03-07	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	72	43.0246041	-108.3806419	Traveling	1	0
 S62640848	2019-12-26	L907911	Kim and Wendy's House	House Sparrow	Passer domesticus	31534	species	1	43.0269570	-108.4112406	Stationary	1	0
-S58342222	2019-07-21	L9674661	Riverton, WY	Western Meadowlark	Sturnella neglecta	33565	species	2	43.0479280	-108.3832100	Stationary	1	0
 S58787262	2019-07-18	L9740414	US-WY, Riverton area	House Sparrow	Passer domesticus	31534	species	10	43.0244781	-108.4012569	Stationary	1	0
 S53576610	2019-03-07	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33124	species	1	43.0246041	-108.3806419	Traveling	1	0
-S58787262	2019-07-18	L9740414	US-WY, Riverton area	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0244781	-108.4012569	Stationary	1	0
 S56697571	2019-05-24	L9335080	877 N 8th St W, Riverton US-WY (43.0337,-108.4001)	European Starling	Sturnus vulgaris	27813	species	5	43.0337490	-108.4000740	Traveling	1	0
 S62640848	2019-12-26	L907911	Kim and Wendy's House	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	26	43.0269570	-108.4112406	Stationary	1	0
 S62176936	2019-12-09	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Stationary	1	0
 S51555624	2019-01-11	L1138184	Riverton, WY	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	43.0246041	-108.3806419	Stationary	1	0
-S55462489	2019-04-27	L9128245	Riverton Soccer Fields	American Goldfinch	Spinus tristis	32617	species	7	43.0335640	-108.4228180	Traveling	1	0
-S51555624	2019-01-11	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0246041	-108.3806419	Stationary	1	0
-S55690989	2019-05-02	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	9	43.0246041	-108.3806419	Traveling	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	65	43.0246041	-108.3806419	Traveling	1	0
-S62640848	2019-12-26	L907911	Kim and Wendy's House	Dark-eyed Junco	Junco hyemalis	33138	issf	1	43.0269570	-108.4112406	Stationary	1	0
 S61023199	2019-10-29	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0246041	-108.3806419	Stationary	1	0
 S58787262	2019-07-18	L9740414	US-WY, Riverton area	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	43.0244781	-108.4012569	Stationary	1	0
-S53576610	2019-03-07	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	3	43.0246041	-108.3806419	Traveling	1	0
 S62724282	2019-12-28	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	169	43.0246041	-108.3806419	Traveling	1	1
 S61959063	2019-12-03	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0246041	-108.3806419	Stationary	1	0
 S55690989	2019-05-02	L1138184	Riverton, WY	Common Grackle	Quiscalus quiscula	33853	species	7	43.0246041	-108.3806419	Traveling	1	0
-S62724282	2019-12-28	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	305	43.0246041	-108.3806419	Traveling	1	0
-S61023199	2019-10-29	L1138184	Riverton, WY	Townsend's Solitaire	Myadestes townsendi	28163	species	1	43.0246041	-108.3806419	Stationary	1	0
 S51555624	2019-01-11	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	2	43.0246041	-108.3806419	Stationary	1	0
-S53391983	2019-03-04	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0246041	-108.3806419	Traveling	1	0
+S76365392	2020-11-17	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	10	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	9	43.0246041	-108.3806419	Traveling	1	0
 S78212311	2020-12-29	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	2	43.0246041	-108.3806419	Traveling	1	0
-S76365392	2020-11-17	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	10	43.0246041	-108.3806419	Traveling	1	0
-S77935882	2020-12-24	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	17	43.0246041	-108.3806419	Traveling	1	0
+S77935882	2020-12-24	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Traveling	1	0
 S77935882	2020-12-24	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	4	43.0246041	-108.3806419	Traveling	1	0
-S63396633	2020-01-14	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	22	43.0246041	-108.3806419	Stationary	1	0
 S76365392	2020-11-17	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
-S63396633	2020-01-14	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	14	43.0246041	-108.3806419	Stationary	1	0
+S63396633	2020-01-14	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	22	43.0246041	-108.3806419	Stationary	1	0
 S63022937	2020-01-04	L1138184	Riverton, WY	Canada Goose	Branta canadensis	342	species	38	43.0246041	-108.3806419	Traveling	1	0
+S63396633	2020-01-14	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	14	43.0246041	-108.3806419	Stationary	1	0
 S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	43.0169850	-108.4392990	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	American Kestrel	Falco sparverius	12028	species	1	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	Black-throated Gray Warbler	Setophaga nigrescens	34200	species	1	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	Yellow-rumped Warbler	Setophaga coronata	34161	issf	1	43.0246041	-108.3806419	Traveling	1	0
 S63396633	2020-01-14	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	2	43.0246041	-108.3806419	Stationary	1	0
-S63022937	2020-01-04	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	13	43.0246041	-108.3806419	Traveling	1	0
 S77935882	2020-12-24	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	1	43.0246041	-108.3806419	Traveling	1	0
+S63022937	2020-01-04	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	13	43.0246041	-108.3806419	Traveling	1	0
 S63022937	2020-01-04	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	22	43.0246041	-108.3806419	Traveling	1	0
 S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Dark-eyed Junco	Junco hyemalis	33124	species	2	43.0169850	-108.4392990	Traveling	1	0
+S76365392	2020-11-17	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	31	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	American Goldfinch	Spinus tristis	32617	species	2	43.0246041	-108.3806419	Traveling	1	0
 S77098164	2020-12-05	L12875266	843 North Point Circle, Riverton, Wyoming, US (43.028, -108.403)	American Crow	Corvus brachyrhynchos	21557	species	1	43.0280031	-108.4027062	Stationary	1	0
 S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Common Goldeneye	Bucephala clangula	743	species	1	43.0169850	-108.4392990	Traveling	1	0
-S76365392	2020-11-17	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	31	43.0246041	-108.3806419	Traveling	1	0
-S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Northern Flicker	Colaptes auratus	11906	issf	3	43.0169850	-108.4392990	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	Western Kingbird	Tyrannus verticalis	17467	species	2	43.0246041	-108.3806419	Traveling	1	0
-S63176899	2020-01-08	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	2	43.0246041	-108.3806419	Traveling	1	0
 S77098164	2020-12-05	L12875266	843 North Point Circle, Riverton, Wyoming, US (43.028, -108.403)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0280031	-108.4027062	Stationary	1	0
-S78212311	2020-12-29	L1138184	Riverton, WY	Sharp-shinned Hawk	Accipiter striatus	8257	issf	1	43.0246041	-108.3806419	Traveling	1	0
+S63176899	2020-01-08	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	2	43.0246041	-108.3806419	Traveling	1	0
+S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Northern Flicker	Colaptes auratus	11906	issf	3	43.0169850	-108.4392990	Traveling	1	0
+S78212311	2020-12-29	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0246041	-108.3806419	Traveling	1	0
 S78212311	2020-12-29	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	121	43.0246041	-108.3806419	Traveling	1	0
 S77098164	2020-12-05	L12875266	843 North Point Circle, Riverton, Wyoming, US (43.028, -108.403)	Northern Flicker	Colaptes auratus	11900	species	1	43.0280031	-108.4027062	Stationary	1	0
+S78212311	2020-12-29	L1138184	Riverton, WY	Sharp-shinned Hawk	Accipiter striatus	8257	issf	1	43.0246041	-108.3806419	Traveling	1	0
 S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	House Finch	Haemorhous mexicanus	32310	species	5	43.0169850	-108.4392990	Traveling	1	0
 S78212311	2020-12-29	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	18	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	7	43.0246041	-108.3806419	Traveling	1	0
-S78212311	2020-12-29	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0246041	-108.3806419	Traveling	1	0
 S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	43.0169850	-108.4392990	Traveling	1	0
 S63396633	2020-01-14	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0246041	-108.3806419	Stationary	1	0
+S78212311	2020-12-29	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0246041	-108.3806419	Traveling	1	0
+S78212311	2020-12-29	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	85	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	31	43.0246041	-108.3806419	Traveling	1	0
 S76365392	2020-11-17	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	43.0246041	-108.3806419	Traveling	1	0
-S78212311	2020-12-29	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	85	43.0246041	-108.3806419	Traveling	1	0
-S78212311	2020-12-29	L1138184	Riverton, WY	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0246041	-108.3806419	Traveling	1	0
-S69034561	2020-05-14	L1138184	Riverton, WY	Common Grackle	Quiscalus quiscula	33853	species	15	43.0246041	-108.3806419	Traveling	1	0
-S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0169850	-108.4392990	Traveling	1	0
 S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Canada Goose	Branta canadensis	342	species	19	43.0169850	-108.4392990	Traveling	1	0
 S76365392	2020-11-17	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	3	43.0246041	-108.3806419	Traveling	1	0
+S69034561	2020-05-14	L1138184	Riverton, WY	Common Grackle	Quiscalus quiscula	33853	species	15	43.0246041	-108.3806419	Traveling	1	0
+S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0169850	-108.4392990	Traveling	1	0
 S63396633	2020-01-14	L1138184	Riverton, WY	Dark-eyed Junco	Junco hyemalis	33138	issf	1	43.0246041	-108.3806419	Stationary	1	0
 S63176899	2020-01-08	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	84	43.0246041	-108.3806419	Traveling	1	0
 S63176899	2020-01-08	L1138184	Riverton, WY	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	43.0246041	-108.3806419	Traveling	1	0
+S69034561	2020-05-14	L1138184	Riverton, WY	Bullock's Oriole	Icterus bullockii	33736	species	2	43.0246041	-108.3806419	Traveling	1	0
 S78212311	2020-12-29	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	95	43.0246041	-108.3806419	Traveling	1	0
 S77935882	2020-12-24	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0246041	-108.3806419	Traveling	1	0
-S69034561	2020-05-14	L1138184	Riverton, WY	Bullock's Oriole	Icterus bullockii	33736	species	2	43.0246041	-108.3806419	Traveling	1	0
 S76365392	2020-11-17	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	10	43.0246041	-108.3806419	Traveling	1	0
 S78212311	2020-12-29	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	10	43.0246041	-108.3806419	Traveling	1	0
-S69034561	2020-05-14	L1138184	Riverton, WY	Mourning Dove	Zenaida macroura	2412	species	7	43.0246041	-108.3806419	Traveling	1	0
 S78212311	2020-12-29	L1138184	Riverton, WY	House Finch	Haemorhous mexicanus	32310	species	49	43.0246041	-108.3806419	Traveling	1	0
-S69034561	2020-05-14	L1138184	Riverton, WY	Western Meadowlark	Sturnella neglecta	33565	species	1	43.0246041	-108.3806419	Traveling	1	0
+S69034561	2020-05-14	L1138184	Riverton, WY	Mourning Dove	Zenaida macroura	2412	species	7	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	18	43.0246041	-108.3806419	Traveling	1	0
+S69034561	2020-05-14	L1138184	Riverton, WY	Western Meadowlark	Sturnella neglecta	33565	species	1	43.0246041	-108.3806419	Traveling	1	0
 S76365392	2020-11-17	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	1	43.0246041	-108.3806419	Traveling	1	0
 S77098164	2020-12-05	L12875266	843 North Point Circle, Riverton, Wyoming, US (43.028, -108.403)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0280031	-108.4027062	Stationary	1	0
-S78212311	2020-12-29	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	5	43.0246041	-108.3806419	Traveling	1	0
-S69034561	2020-05-14	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Traveling	1	0
 S69034561	2020-05-14	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	23	43.0246041	-108.3806419	Traveling	1	0
 S64670345	2020-02-17	L10796093	3555 Riverside Dr, Riverton US-WY (43.0170,-108.4393)	Black-billed Magpie	Pica hudsonia	21476	species	1	43.0169850	-108.4392990	Traveling	1	0
-S81014093	2021-02-12	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0246041	-108.3806419	Traveling	1	0
-S99290845	2021-12-22	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	1	43.0246041	-108.3806419	Traveling	1	0
-S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	6	43.0215950	-108.4025820	Stationary	1	0
-S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	43.0215950	-108.4025820	Stationary	1	0
+S69034561	2020-05-14	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Traveling	1	0
+S78212311	2020-12-29	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	5	43.0246041	-108.3806419	Traveling	1	0
 S96330409	2021-10-18	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	8	43.0246041	-108.3806419	Traveling	1	0
 S95671834	2021-10-06	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	2	43.0246041	-108.3806419	Traveling	1	0
 S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	2	43.0215950	-108.4025820	Stationary	1	0
+S81014093	2021-02-12	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0246041	-108.3806419	Traveling	1	0
+S99290845	2021-12-22	L1138184	Riverton, WY	Common Raven	Corvus corax	21624	species	1	43.0246041	-108.3806419	Traveling	1	0
+S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	6	43.0215950	-108.4025820	Stationary	1	0
 S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0215950	-108.4025820	Traveling	1	0
+S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	43.0215950	-108.4025820	Stationary	1	0
 S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	Common Grackle	Quiscalus quiscula	33853	species	2	43.0309260	-108.3751900	Traveling	1	0
-S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Bullock's Oriole	Icterus bullockii	33736	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0215950	-108.4025820	Stationary	1	0
 S81014093	2021-02-12	L1138184	Riverton, WY	Red-tailed Hawk	Buteo jamaicensis	8509	issf	1	43.0246041	-108.3806419	Traveling	1	0
-S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0215950	-108.4025820	Stationary	1	0
 S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.0215950	-108.4025820	Stationary	1	0
+S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0215950	-108.4025820	Stationary	1	0
+S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Bullock's Oriole	Icterus bullockii	33736	species	1	43.0215950	-108.4025820	Stationary	1	0
 S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Traveling	1	0
 S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	43.0215950	-108.4025820	Stationary	1	0
 S91585485	2021-07-11	L15724512	2500 N Federal Blvd, Riverton US-WY 43.04778, -108.38188	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0477760	-108.3818810	Traveling	1	0
 S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0309260	-108.3751900	Traveling	1	0
-S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Bullock's Oriole	Icterus bullockii	33736	species	1	43.0215950	-108.4025820	Stationary	1	0
-S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	2	43.0215950	-108.4025820	Stationary	1	0
 S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Bullock's Oriole	Icterus bullockii	33736	species	1	43.0215950	-108.4025820	Traveling	1	0
+S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	2	43.0215950	-108.4025820	Stationary	1	0
+S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Bullock's Oriole	Icterus bullockii	33736	species	1	43.0215950	-108.4025820	Stationary	1	0
 S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	4	43.0215950	-108.4025820	Stationary	1	0
-S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	American Goldfinch	Spinus tristis	32617	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0215950	-108.4025820	Stationary	1	0
-S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	10	43.0215950	-108.4025820	Traveling	1	0
-S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0215950	-108.4025820	Stationary	1	0
 S81014093	2021-02-12	L1138184	Riverton, WY	Cackling Goose	Branta hutchinsii	331	species	1	43.0246041	-108.3806419	Traveling	1	0
 S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	American Goldfinch	Spinus tristis	32617	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0215950	-108.4025820	Stationary	1	0
+S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	10	43.0215950	-108.4025820	Traveling	1	0
+S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	American Goldfinch	Spinus tristis	32617	species	2	43.0215950	-108.4025820	Stationary	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Killdeer	Charadrius vociferus	5827	species	1	43.0215950	-108.4025820	Stationary	1	0
 S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0215950	-108.4025820	Stationary	1	0
+S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
+S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Killdeer	Charadrius vociferus	5827	species	1	43.0215950	-108.4025820	Stationary	1	0
 S95671834	2021-10-06	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0246041	-108.3806419	Traveling	1	0
 S91585485	2021-07-11	L15724512	2500 N Federal Blvd, Riverton US-WY 43.04778, -108.38188	Mourning Dove	Zenaida macroura	2412	species	2	43.0477760	-108.3818810	Traveling	1	0
 S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Killdeer	Charadrius vociferus	5827	species	1	43.0215950	-108.4025820	Stationary	1	0
-S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0215950	-108.4025820	Stationary	1	0
-S96330409	2021-10-18	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	11	43.0246041	-108.3806419	Traveling	1	0
-S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
-S86648939	2021-04-29	L14660472	Motel 6 Riverton	American Robin	Turdus migratorius	28633	species	3	43.0261090	-108.3874650	Stationary	1	0
-S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Common Raven	Corvus corax	21624	species	1	43.0215950	-108.4025820	Stationary	1	0
-S85722663	2021-04-17	L907911	Kim and Wendy's House	European Starling	Sturnus vulgaris	27813	species	15	43.0269570	-108.4112406	Stationary	1	0
-S96330409	2021-10-18	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	13	43.0246041	-108.3806419	Traveling	1	0
 S95671834	2021-10-06	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	9	43.0246041	-108.3806419	Traveling	1	0
+S96330409	2021-10-18	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	13	43.0246041	-108.3806419	Traveling	1	0
 S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0215950	-108.4025820	Stationary	1	0
+S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	American Goldfinch	Spinus tristis	32617	species	1	43.0215950	-108.4025820	Stationary	1	0
+S96330409	2021-10-18	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	11	43.0246041	-108.3806419	Traveling	1	0
+S86648939	2021-04-29	L14660472	Motel 6 Riverton	American Robin	Turdus migratorius	28633	species	3	43.0261090	-108.3874650	Stationary	1	0
+S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Common Raven	Corvus corax	21624	species	1	43.0215950	-108.4025820	Stationary	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0215950	-108.4025820	Stationary	1	0
 S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	Killdeer	Charadrius vociferus	5827	species	1	43.0215950	-108.4025820	Stationary	1	0
-S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	American Goldfinch	Spinus tristis	32617	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.0215950	-108.4025820	Traveling	1	0
-S85722663	2021-04-17	L907911	Kim and Wendy's House	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0269570	-108.4112406	Stationary	1	0
+S85722663	2021-04-17	L907911	Kim and Wendy's House	European Starling	Sturnus vulgaris	27813	species	15	43.0269570	-108.4112406	Stationary	1	0
 S99195952	2021-12-20	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0246041	-108.3806419	Traveling	1	0
 S99195952	2021-12-20	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	8	43.0246041	-108.3806419	Traveling	1	0
 S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	Rock Pigeon	Columba livia	1868	domestic	1	43.0309260	-108.3751900	Traveling	1	0
 S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	2	43.0215950	-108.4025820	Stationary	1	0
 S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	15	43.0215950	-108.4025820	Traveling	1	0
 S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	6	43.0215950	-108.4025820	Traveling	1	0
-S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	6	43.0215950	-108.4025820	Stationary	1	0
-S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0215950	-108.4025820	Stationary	1	0
-S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Killdeer	Charadrius vociferus	5827	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.0215950	-108.4025820	Traveling	1	0
+S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0215950	-108.4025820	Stationary	1	0
 S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	American Goldfinch	Spinus tristis	32617	species	2	43.0215950	-108.4025820	Stationary	1	0
+S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Killdeer	Charadrius vociferus	5827	species	1	43.0215950	-108.4025820	Stationary	1	0
+S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	6	43.0215950	-108.4025820	Stationary	1	0
+S85722663	2021-04-17	L907911	Kim and Wendy's House	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0269570	-108.4112406	Stationary	1	0
+S99195952	2021-12-20	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	3	43.0246041	-108.3806419	Traveling	1	0
+S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	5	43.0215950	-108.4025820	Stationary	1	0
+S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	8	43.0215950	-108.4025820	Traveling	1	0
+S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Common Raven	Corvus corax	21624	species	1	43.0215950	-108.4025820	Stationary	1	0
 S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	European Starling	Sturnus vulgaris	27813	species	1	43.0309260	-108.3751900	Traveling	1	0
 S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	1	43.0215950	-108.4025820	Stationary	1	0
 S91585485	2021-07-11	L15724512	2500 N Federal Blvd, Riverton US-WY 43.04778, -108.38188	California Gull	Larus californicus	6591	species	2	43.0477760	-108.3818810	Traveling	1	0
 S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	1	43.0215950	-108.4025820	Stationary	1	0
-S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Common Raven	Corvus corax	21624	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	8	43.0215950	-108.4025820	Traveling	1	0
-S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	5	43.0215950	-108.4025820	Stationary	1	0
-S99195952	2021-12-20	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	3	43.0246041	-108.3806419	Traveling	1	0
 S85722663	2021-04-17	L907911	Kim and Wendy's House	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0269570	-108.4112406	Stationary	1	0
-S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
 S99290845	2021-12-22	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	1	43.0246041	-108.3806419	Traveling	1	0
 S95336647	2021-09-29	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	4	43.0246041	-108.3806419	Traveling	1	0
-S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	2	43.0215950	-108.4025820	Stationary	1	0
 S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0215950	-108.4025820	Stationary	1	0
 S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	2	43.0215950	-108.4025820	Stationary	1	0
+S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	2	43.0215950	-108.4025820	Stationary	1	0
 S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	4	43.0215950	-108.4025820	Stationary	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	4	43.0215950	-108.4025820	Stationary	1	0
+S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	4	43.0215950	-108.4025820	Stationary	1	0
+S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	10	43.0215950	-108.4025820	Stationary	1	0
 S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Empidonax sp.	Empidonax sp.	16997	spuh	1	43.0215950	-108.4025820	Traveling	1	0
 S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	43.0215950	-108.4025820	Stationary	1	0
-S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	2	43.0215950	-108.4025820	Stationary	1	0
-S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	4	43.0215950	-108.4025820	Stationary	1	0
-S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	10	43.0215950	-108.4025820	Stationary	1	0
 S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
-S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
 S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	10	43.0215950	-108.4025820	Stationary	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0215950	-108.4025820	Stationary	1	0
+S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
 S91585485	2021-07-11	L15724512	2500 N Federal Blvd, Riverton US-WY 43.04778, -108.38188	Western Kingbird	Tyrannus verticalis	17467	species	1	43.0477760	-108.3818810	Traveling	1	0
-S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Empidonax sp.	Empidonax sp.	16997	spuh	1	43.0215950	-108.4025820	Traveling	1	0
-S96770863	2021-10-27	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	16	43.0246041	-108.3806419	Traveling	1	0
-S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	5	43.0215950	-108.4025820	Stationary	1	0
-S91585485	2021-07-11	L15724512	2500 N Federal Blvd, Riverton US-WY 43.04778, -108.38188	Common Grackle	Quiscalus quiscula	33853	species	50	43.0477760	-108.3818810	Traveling	1	0
-S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	American Goldfinch	Spinus tristis	32617	species	1	43.0309260	-108.3751900	Traveling	1	0
-S85722663	2021-04-17	L907911	Kim and Wendy's House	House Sparrow	Passer domesticus	31534	species	4	43.0269570	-108.4112406	Stationary	1	0
+S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
 S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	House Sparrow	Passer domesticus	31534	species	15	43.0215950	-108.4025820	Traveling	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.0215950	-108.4025820	Stationary	1	0
-S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
+S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	American Goldfinch	Spinus tristis	32617	species	1	43.0309260	-108.3751900	Traveling	1	0
+S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	5	43.0215950	-108.4025820	Stationary	1	0
+S91585485	2021-07-11	L15724512	2500 N Federal Blvd, Riverton US-WY 43.04778, -108.38188	Common Grackle	Quiscalus quiscula	33853	species	50	43.0477760	-108.3818810	Traveling	1	0
+S96770863	2021-10-27	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	16	43.0246041	-108.3806419	Traveling	1	0
+S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Empidonax sp.	Empidonax sp.	16997	spuh	1	43.0215950	-108.4025820	Traveling	1	0
+S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
+S90478430	2021-06-20	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	2	43.0215950	-108.4025820	Stationary	1	0
 S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	8	43.0215950	-108.4025820	Traveling	1	0
-S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Common Grackle	Quiscalus quiscula	33853	species	5	43.0215950	-108.4025820	Stationary	1	0
-S86648939	2021-04-29	L14660472	Motel 6 Riverton	House Sparrow	Passer domesticus	31534	species	4	43.0261090	-108.3874650	Stationary	1	0
-S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
-S96770863	2021-10-27	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	4	43.0246041	-108.3806419	Traveling	1	0
+S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
+S85722663	2021-04-17	L907911	Kim and Wendy's House	House Sparrow	Passer domesticus	31534	species	4	43.0269570	-108.4112406	Stationary	1	0
 S85722663	2021-04-17	L907911	Kim and Wendy's House	Dark-eyed Junco	Junco hyemalis	33138	issf	14	43.0269570	-108.4112406	Stationary	1	0
 S95671834	2021-10-06	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	23	43.0246041	-108.3806419	Traveling	1	0
-S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	6	43.0215950	-108.4025820	Traveling	1	0
-S85722663	2021-04-17	L907911	Kim and Wendy's House	Dark-eyed Junco	Junco hyemalis	33130	issf	2	43.0269570	-108.4112406	Stationary	1	0
 S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
-S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0215950	-108.4025820	Stationary	1	0
-S96330409	2021-10-18	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0246041	-108.3806419	Traveling	1	0
-S81014093	2021-02-12	L1138184	Riverton, WY	Canada Goose	Branta canadensis	343	issf	173	43.0246041	-108.3806419	Traveling	1	0
-S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Traveling	1	0
-S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	4	43.0215950	-108.4025820	Stationary	1	0
+S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	6	43.0215950	-108.4025820	Traveling	1	0
+S96770863	2021-10-27	L1138184	Riverton, WY	House Sparrow	Passer domesticus	31534	species	4	43.0246041	-108.3806419	Traveling	1	0
+S86648939	2021-04-29	L14660472	Motel 6 Riverton	House Sparrow	Passer domesticus	31534	species	4	43.0261090	-108.3874650	Stationary	1	0
+S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	House Finch	Haemorhous mexicanus	32310	species	2	43.0215950	-108.4025820	Stationary	1	0
+S85722663	2021-04-17	L907911	Kim and Wendy's House	Dark-eyed Junco	Junco hyemalis	33130	issf	2	43.0269570	-108.4112406	Stationary	1	0
 S96770863	2021-10-27	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	16	43.0246041	-108.3806419	Traveling	1	0
-S95671834	2021-10-06	L1138184	Riverton, WY	Turkey Vulture	Cathartes aura	7816	issf	1	43.0246041	-108.3806419	Traveling	1	0
+S81014093	2021-02-12	L1138184	Riverton, WY	Canada Goose	Branta canadensis	343	issf	173	43.0246041	-108.3806419	Traveling	1	0
 S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	gull sp.	Larinae sp.	6619	spuh	1	43.0215950	-108.4025820	Stationary	1	0
-S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	5	43.0215950	-108.4025820	Stationary	1	0
+S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	4	43.0215950	-108.4025820	Stationary	1	0
+S96330409	2021-10-18	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0246041	-108.3806419	Traveling	1	0
+S95671834	2021-10-06	L1138184	Riverton, WY	Turkey Vulture	Cathartes aura	7816	issf	1	43.0246041	-108.3806419	Traveling	1	0
+S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Traveling	1	0
 S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	gull sp.	Larinae sp.	6619	spuh	1	43.0215950	-108.4025820	Stationary	1	0
-S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	American Robin	Turdus migratorius	28633	species	3	43.0309260	-108.3751900	Traveling	1	0
-S85722663	2021-04-17	L907911	Kim and Wendy's House	Northern Flicker	Colaptes auratus	11906	issf	1	43.0269570	-108.4112406	Stationary	1	0
+S109684436	2021-06-20	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	5	43.0215950	-108.4025820	Stationary	1	0
 S96770863	2021-10-27	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0246041	-108.3806419	Traveling	1	0
-S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0215950	-108.4025820	Traveling	1	0
+S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	American Robin	Turdus migratorius	28633	species	3	43.0309260	-108.3751900	Traveling	1	0
 S85722663	2021-04-17	L907911	Kim and Wendy's House	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	10	43.0269570	-108.4112406	Stationary	1	0
-S99290845	2021-12-22	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0246041	-108.3806419	Traveling	1	0
 S85722663	2021-04-17	L907911	Kim and Wendy's House	American Goldfinch	Spinus tristis	32617	species	5	43.0269570	-108.4112406	Stationary	1	0
-S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	Mourning Dove	Zenaida macroura	2412	species	1	43.0309260	-108.3751900	Traveling	1	0
-S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Bullock's Oriole	Icterus bullockii	33736	species	1	43.0215950	-108.4025820	Traveling	1	0
+S109684444	2021-06-21	L15431370	Pinnacle Drive - Riverton	gull sp.	Larinae sp.	6619	spuh	1	43.0215950	-108.4025820	Stationary	1	0
+S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0215950	-108.4025820	Traveling	1	0
+S85722663	2021-04-17	L907911	Kim and Wendy's House	Northern Flicker	Colaptes auratus	11906	issf	1	43.0269570	-108.4112406	Stationary	1	0
 S85722663	2021-04-17	L907911	Kim and Wendy's House	gull sp.	Larinae sp.	6619	spuh	1	43.0269570	-108.4112406	Stationary	1	0
-S81014093	2021-02-12	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	8	43.0246041	-108.3806419	Traveling	1	0
+S81014093	2021-02-12	L1138184	Riverton, WY	Rough-legged Hawk	Buteo lagopus	8528	species	2	43.0246041	-108.3806419	Traveling	1	0
 S95336647	2021-09-29	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0246041	-108.3806419	Traveling	1	0
-S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0215950	-108.4025820	Traveling	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0215950	-108.4025820	Stationary	1	0
 S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	43.0215950	-108.4025820	Stationary	1	0
-S81014093	2021-02-12	L1138184	Riverton, WY	Rough-legged Hawk	Buteo lagopus	8528	species	2	43.0246041	-108.3806419	Traveling	1	0
+S99290845	2021-12-22	L1138184	Riverton, WY	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0246041	-108.3806419	Traveling	1	0
+S81014093	2021-02-12	L1138184	Riverton, WY	Rock Pigeon	Columba livia	1868	domestic	8	43.0246041	-108.3806419	Traveling	1	0
+S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	Mourning Dove	Zenaida macroura	2412	species	1	43.0309260	-108.3751900	Traveling	1	0
+S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Bullock's Oriole	Icterus bullockii	33736	species	1	43.0215950	-108.4025820	Traveling	1	0
+S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0215950	-108.4025820	Traveling	1	0
 S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0215950	-108.4025820	Stationary	1	0
 S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0215950	-108.4025820	Stationary	1	0
-S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0215950	-108.4025820	Traveling	1	0
-S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0215950	-108.4025820	Stationary	1	0
-S96330409	2021-10-18	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	8	43.0246041	-108.3806419	Traveling	1	0
-S95336647	2021-09-29	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	5	43.0246041	-108.3806419	Traveling	1	0
-S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0215950	-108.4025820	Stationary	1	0
-S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	4	43.0215950	-108.4025820	Stationary	1	0
 S99290845	2021-12-22	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	16	43.0246041	-108.3806419	Traveling	1	0
 S90423947	2021-06-19	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0215950	-108.4025820	Stationary	1	0
 S88023046	2021-05-13	L14917076	1205 Mary Anne Dr, Riverton US-WY 43.03093, -108.37519	Chipping Sparrow	Spizella passerina	32990	species	1	43.0309260	-108.3751900	Traveling	1	0
-S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	10	43.0215950	-108.4025820	Traveling	1	0
+S90755867	2021-06-25	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0215950	-108.4025820	Stationary	1	0
+S95336647	2021-09-29	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	5	43.0246041	-108.3806419	Traveling	1	0
+S96330409	2021-10-18	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	8	43.0246041	-108.3806419	Traveling	1	0
+S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0215950	-108.4025820	Traveling	1	0
+S109684433	2021-06-19	L15431370	Pinnacle Drive - Riverton	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0215950	-108.4025820	Stationary	1	0
+S109684384	2021-06-25	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	4	43.0215950	-108.4025820	Stationary	1	0
 S90546660	2021-06-21	L15431370	Pinnacle Drive - Riverton	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0215950	-108.4025820	Stationary	1	0
+S109684431	2021-06-18	L15431370	Pinnacle Drive - Riverton	American Robin	Turdus migratorius	28633	species	10	43.0215950	-108.4025820	Traveling	1	0
 S90407172	2021-06-18	L15431370	Pinnacle Drive - Riverton	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.0215950	-108.4025820	Traveling	1	0
 S85722663	2021-04-17	L907911	Kim and Wendy's House	American Robin	Turdus migratorius	28633	species	6	43.0269570	-108.4112406	Stationary	1	0
-S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	Rock Pigeon	Columba livia	1868	domestic	1	43.0421435	-108.3813558	Stationary	1	0
-S102336632	2022-02-09	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Traveling	1	0
 S114010371	2022-06-28	L19886267	214 South 2 Street, Riverton, Wyoming, US (43.023, -108.389)	House Sparrow	Passer domesticus	31534	species	12	43.0231211	-108.3890094	Stationary	1	0
 S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	European Starling	Sturnus vulgaris	27813	species	1	43.0421435	-108.3813558	Stationary	1	0
 S103138814	2022-02-19	L907911	Kim and Wendy's House	Cedar Waxwing	Bombycilla cedrorum	29888	species	6	43.0269570	-108.4112406	Stationary	1	0
+S102336632	2022-02-09	L1138184	Riverton, WY	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0246041	-108.3806419	Traveling	1	0
+S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	Rock Pigeon	Columba livia	1868	domestic	1	43.0421435	-108.3813558	Stationary	1	0
 S102336632	2022-02-09	L1138184	Riverton, WY	Northern Flicker	Colaptes auratus	11906	issf	1	43.0246041	-108.3806419	Traveling	1	0
 S105559561	2022-03-25	L18246231	Wendy’s	European Starling	Sturnus vulgaris	27813	species	55	43.0421980	-108.3814110	Stationary	1	0
 S100543189	2022-01-11	L17398188	Central WWyoming College,  Riverton, Wyoming, US (43.031, -108.425)	American Crow	Corvus brachyrhynchos	21557	species	36	43.0309669	-108.4249580	Traveling	1	0
-S100543189	2022-01-11	L17398188	Central WWyoming College,  Riverton, Wyoming, US (43.031, -108.425)	House Sparrow	Passer domesticus	31534	species	1	43.0309669	-108.4249580	Traveling	1	0
 S114010371	2022-06-28	L19886267	214 South 2 Street, Riverton, Wyoming, US (43.023, -108.389)	House Finch	Haemorhous mexicanus	32310	species	3	43.0231211	-108.3890094	Stationary	1	0
 S103138814	2022-02-19	L907911	Kim and Wendy's House	Dark-eyed Junco	Junco hyemalis	33124	species	1	43.0269570	-108.4112406	Stationary	1	0
-S116978175	2022-08-12	L20561387	1015 East Pershing Avenue, Riverton, Wyoming, US (43.03, -108.377)	Cooper's Hawk	Astur cooperii	8278	species	2	43.0301861	-108.3767631	Stationary	1	0
 S103138814	2022-02-19	L907911	Kim and Wendy's House	Pine Siskin	Spinus pinus	32595	species	35	43.0269570	-108.4112406	Stationary	1	0
+S100543189	2022-01-11	L17398188	Central WWyoming College,  Riverton, Wyoming, US (43.031, -108.425)	House Sparrow	Passer domesticus	31534	species	1	43.0309669	-108.4249580	Traveling	1	0
+S116978175	2022-08-12	L20561387	1015 East Pershing Avenue, Riverton, Wyoming, US (43.03, -108.377)	Cooper's Hawk	Astur cooperii	8278	species	2	43.0301861	-108.3767631	Stationary	1	0
 S103138814	2022-02-19	L907911	Kim and Wendy's House	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	43.0269570	-108.4112406	Stationary	1	0
 S102336632	2022-02-09	L1138184	Riverton, WY	Mallard	Anas platyrhynchos	545	species	3	43.0246041	-108.3806419	Traveling	1	0
 S102336632	2022-02-09	L1138184	Riverton, WY	American Robin	Turdus migratorius	28633	species	4	43.0246041	-108.3806419	Traveling	1	0
-S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	House Sparrow	Passer domesticus	31534	species	3	43.0421435	-108.3813558	Stationary	1	0
 S100543189	2022-01-11	L17398188	Central WWyoming College,  Riverton, Wyoming, US (43.031, -108.425)	European Starling	Sturnus vulgaris	27813	species	1	43.0309669	-108.4249580	Traveling	1	0
+S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	House Sparrow	Passer domesticus	31534	species	3	43.0421435	-108.3813558	Stationary	1	0
 S103138814	2022-02-19	L907911	Kim and Wendy's House	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0269570	-108.4112406	Stationary	1	0
 S100236019	2022-01-06	L17345867	3204 West Main Street, Riverton, Wyoming, US (43.031, -108.435)	Merlin	Falco columbarius	12062	species	1	43.0310607	-108.4346414	Stationary	1	0
 S114010371	2022-06-28	L19886267	214 South 2 Street, Riverton, Wyoming, US (43.023, -108.389)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0231211	-108.3890094	Stationary	1	0
 S105559561	2022-03-25	L18246231	Wendy’s	American Crow	Corvus brachyrhynchos	21557	species	3	43.0421980	-108.3814110	Stationary	1	0
-S103138814	2022-02-19	L907911	Kim and Wendy's House	American Goldfinch	Spinus tristis	32617	species	3	43.0269570	-108.4112406	Stationary	1	0
 S103138814	2022-02-19	L907911	Kim and Wendy's House	House Finch	Haemorhous mexicanus	32310	species	8	43.0269570	-108.4112406	Stationary	1	0
+S103138814	2022-02-19	L907911	Kim and Wendy's House	American Goldfinch	Spinus tristis	32617	species	3	43.0269570	-108.4112406	Stationary	1	0
 S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	Ring-billed Gull	Larus delawarensis	6521	species	1	43.0421435	-108.3813558	Stationary	1	0
 S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	California Gull	Larus californicus	6591	species	1	43.0421435	-108.3813558	Stationary	1	0
-S114010371	2022-06-28	L19886267	214 South 2 Street, Riverton, Wyoming, US (43.023, -108.389)	American Robin	Turdus migratorius	28633	species	1	43.0231211	-108.3890094	Stationary	1	0
-S105559561	2022-03-25	L18246231	Wendy’s	California Gull	Larus californicus	6591	species	1	43.0421980	-108.3814110	Stationary	1	0
 S100543189	2022-01-11	L17398188	Central WWyoming College,  Riverton, Wyoming, US (43.031, -108.425)	House Finch	Haemorhous mexicanus	32310	species	2	43.0309669	-108.4249580	Traveling	1	0
 S105559561	2022-03-25	L18246231	Wendy’s	House Sparrow	Passer domesticus	31534	species	6	43.0421980	-108.3814110	Stationary	1	0
-S103138814	2022-02-19	L907911	Kim and Wendy's House	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0269570	-108.4112406	Stationary	1	0
-S103138814	2022-02-19	L907911	Kim and Wendy's House	American Crow	Corvus brachyrhynchos	21557	species	5	43.0269570	-108.4112406	Stationary	1	0
+S114010371	2022-06-28	L19886267	214 South 2 Street, Riverton, Wyoming, US (43.023, -108.389)	American Robin	Turdus migratorius	28633	species	1	43.0231211	-108.3890094	Stationary	1	0
+S105559561	2022-03-25	L18246231	Wendy’s	California Gull	Larus californicus	6591	species	1	43.0421980	-108.3814110	Stationary	1	0
 S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0421435	-108.3813558	Stationary	1	0
 S115761123	2022-07-25	L20296183	1800 North Federal Boulevard, Riverton, Wyoming, US (43.042, -108.381)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	1	43.0421435	-108.3813558	Stationary	1	0
+S103138814	2022-02-19	L907911	Kim and Wendy's House	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0269570	-108.4112406	Stationary	1	0
 S103138814	2022-02-19	L907911	Kim and Wendy's House	European Starling	Sturnus vulgaris	27813	species	10	43.0269570	-108.4112406	Stationary	1	0
+S103138814	2022-02-19	L907911	Kim and Wendy's House	American Crow	Corvus brachyrhynchos	21557	species	5	43.0269570	-108.4112406	Stationary	1	0
 S196919554	2023-08-19	L25642303	Riverton (town)	Sandhill Crane	Antigone canadensis	5697	species	1	43.0245961	-108.3806164	Stationary	1	0
 S126267244	2023-01-15	L907911	Kim and Wendy's House	American Goshawk	Astur atricapillus	8292	species	1	43.0269570	-108.4112406	Stationary	1	0
 S196919554	2023-08-19	L25642303	Riverton (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0245961	-108.3806164	Stationary	1	0
@@ -675,308 +673,308 @@ S147134247	2023-08-13	L25642303	Riverton (town)	House Sparrow	Passer domesticus	
 S130512846	2023-03-09	L17398188	Central WWyoming College,  Riverton, Wyoming, US (43.031, -108.425)	American Crow	Corvus brachyrhynchos	21557	species	6	43.0309669	-108.4249580	Stationary	1	0
 S147134247	2023-08-13	L25642303	Riverton (town)	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0245961	-108.3806164	Stationary	1	0
 S147134247	2023-08-13	L25642303	Riverton (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	43.0245961	-108.3806164	Stationary	1	0
-S147134247	2023-08-13	L25642303	Riverton (town)	Mourning Dove	Zenaida macroura	2412	species	2	43.0245961	-108.3806164	Stationary	1	0
 S196919554	2023-08-19	L25642303	Riverton (town)	House Sparrow	Passer domesticus	31534	species	1	43.0245961	-108.3806164	Stationary	1	0
+S147134247	2023-08-13	L25642303	Riverton (town)	Mourning Dove	Zenaida macroura	2412	species	2	43.0245961	-108.3806164	Stationary	1	0
 S147134247	2023-08-13	L25642303	Riverton (town)	Killdeer	Charadrius vociferus	5827	species	2	43.0245961	-108.3806164	Stationary	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	43.0477130	-108.3817260	Traveling	1	0
+S159516429	2024-01-21	L28892243	Sherry’s House	Pine Siskin	Spinus pinus	32595	species	8	43.0277330	-108.3916500	Stationary	1	0
 S160724855	2024-02-05	L29112565	West Monroe Avenue, Riverton, Wyoming, US (43.019, -108.402)	American Crow	Corvus brachyrhynchos	21557	species	1	43.0194582	-108.4015384	Traveling	1	0
 S160724855	2024-02-05	L29112565	West Monroe Avenue, Riverton, Wyoming, US (43.019, -108.402)	European Starling	Sturnus vulgaris	27813	species	1	43.0194582	-108.4015384	Traveling	1	0
-S159516429	2024-01-21	L28892243	Sherry’s House	Pine Siskin	Spinus pinus	32595	species	8	43.0277330	-108.3916500	Stationary	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Red-winged Blackbird	Agelaius phoeniceus	33779	species	9	43.0477130	-108.3817260	Traveling	1	0
 S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Savannah Sparrow	Passerculus sandwichensis	33244	species	2	43.0477130	-108.3817260	Traveling	1	0
-S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	3	43.0260760	-108.4197300	Stationary	1	0
-S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Common Raven	Corvus corax	21624	species	3	43.0260760	-108.4197300	Traveling	1	0
-S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	4	43.0260760	-108.4197300	Stationary	1	0
 S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Northern Flicker	Colaptes auratus	11906	issf	1	43.0260760	-108.4197300	Stationary	1	0
+S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	4	43.0260760	-108.4197300	Stationary	1	0
+S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Common Raven	Corvus corax	21624	species	3	43.0260760	-108.4197300	Traveling	1	0
+S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	3	43.0260760	-108.4197300	Stationary	1	0
 S159516429	2024-01-21	L28892243	Sherry’s House	American Goldfinch	Spinus tristis	32617	species	5	43.0277330	-108.3916500	Stationary	1	0
 S160724855	2024-02-05	L29112565	West Monroe Avenue, Riverton, Wyoming, US (43.019, -108.402)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0194582	-108.4015384	Traveling	1	0
-S201016153	2024-11-01	L37749322	Jaycee Park, Sunset Drive, Riverton, Wyoming, US (43.035, -108.412)	American Crow	Corvus brachyrhynchos	21557	species	1	43.0345394	-108.4122031	Traveling	1	0
+S201016153	2024-11-01	L37749322	Jaycee Park, Sunset Drive, Riverton, Wyoming, US (43.035, -108.412)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	43.0345394	-108.4122031	Traveling	1	0
 S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	12	43.0260760	-108.4197300	Stationary	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	1	43.0260760	-108.4197300	Stationary	1	0
 S159516429	2024-01-21	L28892243	Sherry’s House	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0277330	-108.3916500	Stationary	1	0
-S201016153	2024-11-01	L37749322	Jaycee Park, Sunset Drive, Riverton, Wyoming, US (43.035, -108.412)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	43.0345394	-108.4122031	Traveling	1	0
+S201016153	2024-11-01	L37749322	Jaycee Park, Sunset Drive, Riverton, Wyoming, US (43.035, -108.412)	American Crow	Corvus brachyrhynchos	21557	species	1	43.0345394	-108.4122031	Traveling	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Traveling	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	4	43.0260760	-108.4197300	Traveling	1	0
 S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33124	species	5	43.0260760	-108.4197300	Stationary	1	0
 S199327049	2024-10-18	L1138184	Riverton, WY	European Starling	Sturnus vulgaris	27813	species	1	43.0246041	-108.3806419	Traveling	1	0
 S159516429	2024-01-21	L28892243	Sherry’s House	Black-capped Chickadee	Poecile atricapillus	22065	species	4	43.0277330	-108.3916500	Stationary	1	0
+S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Brown Creeper	Certhia americana	27026	species	1	43.0260760	-108.4197300	Stationary	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	American Robin	Turdus migratorius	28633	species	1	43.0260760	-108.4197300	Stationary	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	30	43.0260760	-108.4197300	Stationary	1	0
-S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Brown Creeper	Certhia americana	27026	species	1	43.0260760	-108.4197300	Stationary	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	43.0477130	-108.3817260	Traveling	1	0
+S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
+S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	9	43.0260760	-108.4197300	Stationary	1	0
 S199327049	2024-10-18	L1138184	Riverton, WY	American Crow	Corvus brachyrhynchos	21557	species	7	43.0246041	-108.3806419	Traveling	1	0
+S159516429	2024-01-21	L28892243	Sherry’s House	American Robin	Turdus migratorius	28633	species	1	43.0277330	-108.3916500	Stationary	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	European Starling	Sturnus vulgaris	27813	species	10	43.0477130	-108.3817260	Traveling	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	American Crow	Corvus brachyrhynchos	21557	species	2	43.0260760	-108.4197300	Stationary	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	3	43.0260760	-108.4197300	Traveling	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	European Starling	Sturnus vulgaris	27813	species	10	43.0477130	-108.3817260	Traveling	1	0
-S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	9	43.0260760	-108.4197300	Stationary	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	43.0477130	-108.3817260	Traveling	1	0
-S159516429	2024-01-21	L28892243	Sherry’s House	American Robin	Turdus migratorius	28633	species	1	43.0277330	-108.3916500	Stationary	1	0
-S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
 S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	1	43.0260760	-108.4197300	Stationary	1	0
-S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	American Crow	Corvus brachyrhynchos	21557	species	11	43.0260760	-108.4197300	Traveling	1	0
-S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Northern Flicker	Colaptes auratus	11912	intergrade	2	43.0260760	-108.4197300	Traveling	1	1
 S159516429	2024-01-21	L28892243	Sherry’s House	Lesser Goldfinch	Spinus psaltria	32609	species	1	43.0277330	-108.3916500	Stationary	1	1
 S160724855	2024-02-05	L29112565	West Monroe Avenue, Riverton, Wyoming, US (43.019, -108.402)	Common Raven	Corvus corax	21624	species	1	43.0194582	-108.4015384	Traveling	1	0
+S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Northern Flicker	Colaptes auratus	11912	intergrade	2	43.0260760	-108.4197300	Traveling	1	1
+S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	American Crow	Corvus brachyrhynchos	21557	species	11	43.0260760	-108.4197300	Traveling	1	0
+S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33124	species	10	43.0260760	-108.4197300	Stationary	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	43.0260760	-108.4197300	Traveling	1	0
 S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	4	43.0260760	-108.4197300	Stationary	1	0
 S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0260760	-108.4197300	Stationary	1	0
-S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33124	species	10	43.0260760	-108.4197300	Stationary	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Song Sparrow	Melospiza melodia	33277	species	1	43.0260760	-108.4197300	Traveling	1	0
 S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0260760	-108.4197300	Stationary	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0260760	-108.4197300	Stationary	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Killdeer	Charadrius vociferus	5827	species	1	43.0477130	-108.3817260	Traveling	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	5	43.0260760	-108.4197300	Traveling	1	0
 S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	3	43.0260760	-108.4197300	Stationary	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Western Kingbird	Tyrannus verticalis	17467	species	2	43.0477130	-108.3817260	Traveling	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Mourning Dove	Zenaida macroura	2412	species	4	43.0477130	-108.3817260	Traveling	1	0
-S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	4	43.0260760	-108.4197300	Stationary	1	0
+S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	43.0260760	-108.4197300	Stationary	1	0
+S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0260760	-108.4197300	Stationary	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	4	43.0260760	-108.4197300	Stationary	1	0
+S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	4	43.0260760	-108.4197300	Stationary	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0260760	-108.4197300	Stationary	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	2	43.0260760	-108.4197300	Stationary	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Western Kingbird	Tyrannus verticalis	17467	species	2	43.0477130	-108.3817260	Traveling	1	0
-S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0260760	-108.4197300	Stationary	1	0
-S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	43.0260760	-108.4197300	Stationary	1	0
-S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	2	43.0260760	-108.4197300	Stationary	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Spotted Sandpiper	Actitis macularius	6126	species	1	43.0477130	-108.3817260	Traveling	1	0
-S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	4	43.0260760	-108.4197300	Stationary	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	House Finch	Haemorhous mexicanus	32310	species	3	43.0477130	-108.3817260	Traveling	1	0
-S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Spotted Sandpiper	Actitis macularius	6126	species	1	43.0477130	-108.3817260	Traveling	1	0
 S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	3	43.0260760	-108.4197300	Stationary	1	0
-S160724855	2024-02-05	L29112565	West Monroe Avenue, Riverton, Wyoming, US (43.019, -108.402)	Cooper's Hawk	Astur cooperii	8278	species	1	43.0194582	-108.4015384	Traveling	1	0
+S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	2	43.0260760	-108.4197300	Stationary	1	0
+S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
+S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	4	43.0260760	-108.4197300	Stationary	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33124	species	12	43.0260760	-108.4197300	Traveling	1	0
+S160724855	2024-02-05	L29112565	West Monroe Avenue, Riverton, Wyoming, US (43.019, -108.402)	Cooper's Hawk	Astur cooperii	8278	species	1	43.0194582	-108.4015384	Traveling	1	0
 S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	2	43.0260760	-108.4197300	Stationary	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Sandhill Crane	Antigone canadensis	5697	species	1	43.0477130	-108.3817260	Traveling	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Horned Lark	Eremophila alpestris	22710	species	2	43.0477130	-108.3817260	Traveling	1	0
-S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	3	43.0260760	-108.4197300	Stationary	1	0
-S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Northern Flicker	Colaptes auratus	11906	issf	1	43.0260760	-108.4197300	Stationary	1	0
-S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0260760	-108.4197300	Stationary	1	0
 S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	2	43.0260760	-108.4197300	Stationary	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	American Robin	Turdus migratorius	28633	species	1	43.0260760	-108.4197300	Traveling	1	0
+S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	3	43.0260760	-108.4197300	Stationary	1	0
+S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0260760	-108.4197300	Stationary	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Sandhill Crane	Antigone canadensis	5697	species	1	43.0477130	-108.3817260	Traveling	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	American Robin	Turdus migratorius	28633	species	1	43.0477130	-108.3817260	Traveling	1	0
+S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Northern Flicker	Colaptes auratus	11906	issf	1	43.0260760	-108.4197300	Stationary	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Wilson's Snipe	Gallinago delicata	6104	species	1	43.0477130	-108.3817260	Traveling	1	0
-S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Canada Goose	Branta canadensis	342	species	12	43.0260760	-108.4197300	Traveling	1	0
-S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Mallard	Anas platyrhynchos	545	species	1	43.0260760	-108.4197300	Traveling	1	0
 S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	15	43.0260760	-108.4197300	Stationary	1	0
 S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	4	43.0260760	-108.4197300	Stationary	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Western Meadowlark	Sturnella neglecta	33565	species	5	43.0477130	-108.3817260	Traveling	1	0
-S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0260760	-108.4197300	Stationary	1	0
-S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0260760	-108.4197300	Traveling	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0477130	-108.3817260	Traveling	1	0
+S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Mallard	Anas platyrhynchos	545	species	1	43.0260760	-108.4197300	Traveling	1	0
+S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Canada Goose	Branta canadensis	342	species	12	43.0260760	-108.4197300	Traveling	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	California Gull	Larus californicus	6591	species	1	43.0477130	-108.3817260	Traveling	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0477130	-108.3817260	Traveling	1	0
 S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	1	43.0260760	-108.4197300	Stationary	1	0
+S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0260760	-108.4197300	Traveling	1	0
+S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0260760	-108.4197300	Stationary	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Western Meadowlark	Sturnella neglecta	33565	species	5	43.0477130	-108.3817260	Traveling	1	0
 S206555781	2024-12-25	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	20	43.0260760	-108.4197300	Stationary	1	0
-S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Common Nighthawk	Chordeiles minor	3492	species	1	43.0477130	-108.3817260	Traveling	1	0
-S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	5	43.0260760	-108.4197300	Stationary	1	0
-S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
-S159516429	2024-01-21	L28892243	Sherry’s House	House Sparrow	Passer domesticus	31534	species	4	43.0277330	-108.3916500	Stationary	1	0
 S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Rock Pigeon	Columba livia	1868	domestic	5	43.0477130	-108.3817260	Traveling	1	0
+S206119321	2024-12-21	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	5	43.0260760	-108.4197300	Stationary	1	0
 S204083962	2024-11-30	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	4	43.0260760	-108.4197300	Stationary	1	0
-S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Northern Flicker	Colaptes auratus	11900	species	1	43.0260760	-108.4197300	Stationary	1	0
+S159516429	2024-01-21	L28892243	Sherry’s House	House Sparrow	Passer domesticus	31534	species	4	43.0277330	-108.3916500	Stationary	1	0
+S177535055	2024-05-27	L32429431	Hampton Inn and adjacent fields	Common Nighthawk	Chordeiles minor	3492	species	1	43.0477130	-108.3817260	Traveling	1	0
+S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
+S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	3	43.0260760	-108.4197300	Traveling	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	13	43.0260760	-108.4197300	Traveling	1	0
 S203775726	2024-11-27	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
+S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Northern Flicker	Colaptes auratus	11900	species	1	43.0260760	-108.4197300	Stationary	1	0
 S206227848	2024-12-22	L38286573	Peck Preserve (our backyard)	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0260760	-108.4197300	Stationary	1	0
-S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	3	43.0260760	-108.4197300	Traveling	1	0
 S205834929	2024-12-18	L38286573	Peck Preserve (our backyard)	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	43.0260760	-108.4197300	Traveling	1	0
 S253565345	2025-06-23	L25642303	Riverton (town)	Ring-billed Gull	Larus delawarensis	6521	species	4	43.0245961	-108.3806164	Traveling	1	0
 S253565345	2025-06-23	L25642303	Riverton (town)	Rock Pigeon	Columba livia	1868	domestic	2	43.0245961	-108.3806164	Traveling	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Brown Creeper	Certhia americana	27026	species	1	43.0260760	-108.4197300	Stationary	1	0
+S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Canada Goose	Branta canadensis	342	species	25	43.0260760	-108.4197300	Stationary	1	0
+S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0260760	-108.4197300	Traveling	1	0
 S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	1	43.0260760	-108.4197300	Stationary	1	0
 S289861734	2025-12-23	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0260760	-108.4197300	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Say's Phoebe	Sayornis saya	17010	species	1	43.0148460	-108.3911940	Traveling	1	0
+S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Common Yellowthroat	Geothlypis trichas	34028	species	1	43.0471620	-108.3815420	Traveling	1	0
 S259020878	2025-07-11	L49589602	900 E Sunset Dr, Riverton US-WY 43.03488, -108.37854	Mourning Dove	Zenaida macroura	2412	species	1	43.0348830	-108.3785430	Stationary	1	0
 S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	2	43.0260760	-108.4197300	Stationary	1	0
 S207708402	2025-01-02	L38753151	CWC Campus	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0304824	-108.4269208	Traveling	1	0
 S207708402	2025-01-02	L38753151	CWC Campus	Downy Woodpecker	Dryobates pubescens	11400	species	2	43.0304824	-108.4269208	Traveling	1	0
-S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0260760	-108.4197300	Traveling	1	0
-S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Canada Goose	Branta canadensis	342	species	25	43.0260760	-108.4197300	Stationary	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Brown Creeper	Certhia americana	27026	species	1	43.0260760	-108.4197300	Stationary	1	0
 S222499622	2025-04-02	L42009114	Riverton River Walk	Common Raven	Corvus corax	21624	species	3	43.0129220	-108.3809030	Traveling	1	0
 S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	Dark-eyed Junco	Junco hyemalis	33124	species	5	43.0156100	-108.4360980	Stationary	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Common Yellowthroat	Geothlypis trichas	34028	species	1	43.0148460	-108.3911940	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Spotted Towhee	Pipilo maculatus	33386	species	1	43.0148460	-108.3911940	Traveling	1	0
-S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Common Yellowthroat	Geothlypis trichas	34028	species	1	43.0471620	-108.3815420	Traveling	1	0
-S253565345	2025-06-23	L25642303	Riverton (town)	Mourning Dove	Zenaida macroura	2412	species	1	43.0245961	-108.3806164	Traveling	1	0
-S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0260760	-108.4197300	Stationary	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	43.0125430	-108.3818330	Traveling	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Spotted Sandpiper	Actitis macularius	6126	species	1	43.0125430	-108.3818330	Traveling	1	0
-S208291913	2025-01-06	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	20	43.0260760	-108.4197300	Stationary	1	0
-S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	43.0260760	-108.4197300	Stationary	1	0
 S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	2	43.0260760	-108.4197300	Stationary	1	0
 S252542148	2025-06-20	L38286573	Peck Preserve (our backyard)	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0260760	-108.4197300	Stationary	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Mallard	Anas platyrhynchos	545	species	1	43.0129220	-108.3809030	Traveling	1	0
+S208291913	2025-01-06	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	20	43.0260760	-108.4197300	Stationary	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	2	43.0125430	-108.3818330	Traveling	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Brown-headed Cowbird	Molothrus ater	33833	species	2	43.0125430	-108.3818330	Traveling	1	0
 S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Western Kingbird	Tyrannus verticalis	17467	species	3	43.0471620	-108.3815420	Traveling	1	0
+S253565345	2025-06-23	L25642303	Riverton (town)	Mourning Dove	Zenaida macroura	2412	species	1	43.0245961	-108.3806164	Traveling	1	0
+S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0260760	-108.4197300	Stationary	1	0
+S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	43.0260760	-108.4197300	Stationary	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Mallard	Anas platyrhynchos	545	species	1	43.0129220	-108.3809030	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Spotted Sandpiper	Actitis macularius	6126	species	1	43.0125430	-108.3818330	Traveling	1	0
+S253565345	2025-06-23	L25642303	Riverton (town)	House Sparrow	Passer domesticus	31534	species	1	43.0245961	-108.3806164	Traveling	1	0
 S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0260760	-108.4197300	Stationary	1	0
 S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	7	43.0260760	-108.4197300	Stationary	1	0
-S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	7	43.0260760	-108.4197300	Stationary	1	0
-S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	American Crow	Corvus brachyrhynchos	21557	species	5	43.0260760	-108.4197300	Stationary	1	0
-S208296286	2025-01-06	L38753151	CWC Campus	American Crow	Corvus brachyrhynchos	21557	species	20	43.0304824	-108.4269208	Traveling	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Osprey	Pandion haliaetus	7832	species	1	43.0148460	-108.3911940	Traveling	1	0
-S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.0471620	-108.3815420	Traveling	1	0
-S253565345	2025-06-23	L25642303	Riverton (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0245961	-108.3806164	Traveling	1	0
-S253565345	2025-06-23	L25642303	Riverton (town)	House Sparrow	Passer domesticus	31534	species	1	43.0245961	-108.3806164	Traveling	1	0
 S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Osprey	Pandion haliaetus	7832	species	1	43.0148460	-108.3911940	Traveling	1	0
+S253565345	2025-06-23	L25642303	Riverton (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0245961	-108.3806164	Traveling	1	0
+S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	American Crow	Corvus brachyrhynchos	21557	species	5	43.0260760	-108.4197300	Stationary	1	0
+S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	7	43.0260760	-108.4197300	Stationary	1	0
+S208296286	2025-01-06	L38753151	CWC Campus	American Crow	Corvus brachyrhynchos	21557	species	20	43.0304824	-108.4269208	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Mourning Dove	Zenaida macroura	2412	species	2	43.0148460	-108.3911940	Traveling	1	0
-S289861734	2025-12-23	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	1	43.0260760	-108.4197300	Traveling	1	0
-S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	Common Raven	Corvus corax	21624	species	1	43.0260760	-108.4197300	Traveling	1	0
-S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
+S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.0471620	-108.3815420	Traveling	1	0
 S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0260760	-108.4197300	Stationary	1	0
+S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
 S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Common Grackle	Quiscalus quiscula	33853	species	2	43.0260760	-108.4197300	Stationary	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0260760	-108.4197300	Stationary	1	0
 S208291913	2025-01-06	L38286573	Peck Preserve (our backyard)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	43.0260760	-108.4197300	Stationary	1	0
-S246481927	2025-06-03	L46773895	1812 N Federal Blvd, Riverton US-WY 43.04248, -108.38152	California Gull	Larus californicus	6591	species	3	43.0424840	-108.3815210	Stationary	1	0
-S208515880	2025-01-08	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0260760	-108.4197300	Stationary	1	0
 S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	House Finch	Haemorhous mexicanus	32310	species	15	43.0156100	-108.4360980	Stationary	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Forster's Tern	Sterna forsteri	6731	species	1	43.0125430	-108.3818330	Traveling	1	0
 S222499622	2025-04-02	L42009114	Riverton River Walk	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	43.0129220	-108.3809030	Traveling	1	0
+S246481927	2025-06-03	L46773895	1812 N Federal Blvd, Riverton US-WY 43.04248, -108.38152	California Gull	Larus californicus	6591	species	3	43.0424840	-108.3815210	Stationary	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Forster's Tern	Sterna forsteri	6731	species	1	43.0125430	-108.3818330	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	American White Pelican	Pelecanus erythrorhynchos	7791	species	16	43.0125430	-108.3818330	Traveling	1	0
+S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	Common Raven	Corvus corax	21624	species	1	43.0260760	-108.4197300	Traveling	1	0
+S289861734	2025-12-23	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	1	43.0260760	-108.4197300	Traveling	1	0
+S208515880	2025-01-08	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Song Sparrow	Melospiza melodia	33277	species	1	43.0148460	-108.3911940	Traveling	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Lazuli Bunting	Passerina amoena	34606	species	2	43.0125430	-108.3818330	Traveling	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	American White Pelican	Pelecanus erythrorhynchos	7791	species	16	43.0125430	-108.3818330	Traveling	1	0
 S253565345	2025-06-23	L25642303	Riverton (town)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	3	43.0245961	-108.3806164	Traveling	1	0
 S274814998	2025-09-21	L25642303	Riverton (town)	Common Raven	Corvus corax	21624	species	2	43.0245961	-108.3806164	Stationary	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	43.0129220	-108.3809030	Traveling	1	0
-S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	Northern Flicker	Colaptes auratus	11906	issf	2	43.0156100	-108.4360980	Stationary	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	1	43.0260760	-108.4197300	Stationary	1	0
-S208296286	2025-01-06	L38753151	CWC Campus	Canada Goose	Branta canadensis	342	species	5	43.0304824	-108.4269208	Traveling	1	0
 S253565345	2025-06-23	L25642303	Riverton (town)	American Kestrel	Falco sparverius	12028	species	2	43.0245961	-108.3806164	Traveling	1	0
-S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	European Starling	Sturnus vulgaris	27813	species	25	43.0260760	-108.4197300	Stationary	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33129	issf	2	43.0260760	-108.4197300	Stationary	1	1
 S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33129	issf	1	43.0260760	-108.4197300	Stationary	1	1
 S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Gray Catbird	Dumetella carolinensis	28000	species	1	43.0260760	-108.4197300	Stationary	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	43.0129220	-108.3809030	Traveling	1	0
+S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	Northern Flicker	Colaptes auratus	11906	issf	2	43.0156100	-108.4360980	Stationary	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Killdeer	Charadrius vociferus	5827	species	7	43.0129220	-108.3809030	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Spotted Towhee	Pipilo maculatus	33386	species	3	43.0125430	-108.3818330	Traveling	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33129	issf	2	43.0260760	-108.4197300	Stationary	1	1
+S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	European Starling	Sturnus vulgaris	27813	species	25	43.0260760	-108.4197300	Stationary	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	1	43.0260760	-108.4197300	Stationary	1	0
+S208296286	2025-01-06	L38753151	CWC Campus	Canada Goose	Branta canadensis	342	species	5	43.0304824	-108.4269208	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	1	43.0148460	-108.3911940	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	American Goldfinch	Spinus tristis	32617	species	4	43.0148460	-108.3911940	Traveling	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	43.0125430	-108.3818330	Traveling	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Killdeer	Charadrius vociferus	5827	species	7	43.0129220	-108.3809030	Traveling	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Spotted Towhee	Pipilo maculatus	33386	species	3	43.0125430	-108.3818330	Traveling	1	0
-S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	5	43.0260760	-108.4197300	Stationary	1	0
-S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	3	43.0260760	-108.4197300	Stationary	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	House Finch	Haemorhous mexicanus	32310	species	7	43.0129220	-108.3809030	Traveling	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Double-crested Cormorant	Nannopterum auritum	7424	species	1	43.0125430	-108.3818330	Traveling	1	0
 S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	3	43.0260760	-108.4197300	Stationary	1	0
-S252542148	2025-06-20	L38286573	Peck Preserve (our backyard)	Lazuli Bunting	Passerina amoena	34606	species	1	43.0260760	-108.4197300	Stationary	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Ring-billed Gull	Larus delawarensis	6521	species	3	43.0125430	-108.3818330	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Double-crested Cormorant	Nannopterum auritum	7424	species	1	43.0125430	-108.3818330	Traveling	1	0
 S246481927	2025-06-03	L46773895	1812 N Federal Blvd, Riverton US-WY 43.04248, -108.38152	House Sparrow	Passer domesticus	31534	species	14	43.0424840	-108.3815210	Stationary	1	0
+S252542148	2025-06-20	L38286573	Peck Preserve (our backyard)	Lazuli Bunting	Passerina amoena	34606	species	1	43.0260760	-108.4197300	Stationary	1	0
+S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	3	43.0260760	-108.4197300	Stationary	1	0
+S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	House Sparrow	Passer domesticus	31534	species	5	43.0260760	-108.4197300	Stationary	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	House Finch	Haemorhous mexicanus	32310	species	7	43.0129220	-108.3809030	Traveling	1	0
 S289861734	2025-12-23	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	6	43.0260760	-108.4197300	Traveling	1	0
-S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0260760	-108.4197300	Traveling	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0260760	-108.4197300	Stationary	1	0
-S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	2	43.0260760	-108.4197300	Stationary	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	California Gull	Larus californicus	6591	species	5	43.0129220	-108.3809030	Traveling	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Northern House Wren	Troglodytes aedon	27191	species	1	43.0148460	-108.3911940	Traveling	1	0
+S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	5	43.0260760	-108.4197300	Stationary	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0148460	-108.3911940	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Caspian Tern	Hydroprogne caspia	6718	species	1	43.0148460	-108.3911940	Traveling	1	0
 S274814998	2025-09-21	L25642303	Riverton (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	43.0245961	-108.3806164	Stationary	1	0
 S253565345	2025-06-23	L25642303	Riverton (town)	American Robin	Turdus migratorius	28633	species	1	43.0245961	-108.3806164	Traveling	1	0
 S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	4	43.0260760	-108.4197300	Stationary	1	0
 S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	3	43.0260760	-108.4197300	Stationary	1	0
-S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	5	43.0260760	-108.4197300	Stationary	1	0
+S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0260760	-108.4197300	Traveling	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0260760	-108.4197300	Stationary	1	0
 S222499622	2025-04-02	L42009114	Riverton River Walk	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.0129220	-108.3809030	Traveling	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0148460	-108.3911940	Traveling	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	California Gull	Larus californicus	6591	species	5	43.0129220	-108.3809030	Traveling	1	0
+S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	2	43.0260760	-108.4197300	Stationary	1	0
 S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	American Robin	Turdus migratorius	28633	species	1	43.0471620	-108.3815420	Traveling	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Caspian Tern	Hydroprogne caspia	6718	species	1	43.0148460	-108.3911940	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Northern House Wren	Troglodytes aedon	27191	species	1	43.0148460	-108.3911940	Traveling	1	0
 S274814998	2025-09-21	L25642303	Riverton (town)	European Starling	Sturnus vulgaris	27813	species	5	43.0245961	-108.3806164	Stationary	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	43.0148460	-108.3911940	Traveling	1	0
+S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0260760	-108.4197300	Stationary	1	0
+S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	3	43.0260760	-108.4197300	Stationary	1	0
 S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Common Grackle	Quiscalus quiscula	33853	species	4	43.0471620	-108.3815420	Traveling	1	0
 S222499622	2025-04-02	L42009114	Riverton River Walk	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	5	43.0129220	-108.3809030	Traveling	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0129220	-108.3809030	Traveling	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Northern Flicker	Colaptes auratus	11900	species	1	43.0129220	-108.3809030	Traveling	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0125430	-108.3818330	Traveling	1	0
 S259020878	2025-07-11	L49589602	900 E Sunset Dr, Riverton US-WY 43.03488, -108.37854	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0348830	-108.3785430	Stationary	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	7	43.0148460	-108.3911940	Traveling	1	0
-S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	3	43.0260760	-108.4197300	Stationary	1	0
-S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0260760	-108.4197300	Stationary	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	American Robin	Turdus migratorius	28633	species	4	43.0125430	-108.3818330	Traveling	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Northern Flicker	Colaptes auratus	11900	species	1	43.0129220	-108.3809030	Traveling	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0129220	-108.3809030	Traveling	1	0
+S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	American Crow	Corvus brachyrhynchos	21557	species	6	43.0156100	-108.4360980	Stationary	1	0
+S208515880	2025-01-08	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	1	43.0260760	-108.4197300	Stationary	1	0
+S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Western Meadowlark	Sturnella neglecta	33565	species	2	43.0471620	-108.3815420	Traveling	1	0
 S207708402	2025-01-02	L38753151	CWC Campus	House Sparrow	Passer domesticus	31534	species	2	43.0304824	-108.4269208	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Brown-headed Cowbird	Molothrus ater	33833	species	5	43.0148460	-108.3911940	Traveling	1	0
-S208515880	2025-01-08	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	1	43.0260760	-108.4197300	Stationary	1	0
-S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	American Crow	Corvus brachyrhynchos	21557	species	6	43.0156100	-108.4360980	Stationary	1	0
-S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Western Meadowlark	Sturnella neglecta	33565	species	2	43.0471620	-108.3815420	Traveling	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	43.0129220	-108.3809030	Traveling	1	0
-S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Song Sparrow	Melospiza melodia	33277	species	2	43.0471620	-108.3815420	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	American Robin	Turdus migratorius	28633	species	4	43.0125430	-108.3818330	Traveling	1	0
 S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Sharp-shinned Hawk	Accipiter striatus	8256	species	1	43.0260760	-108.4197300	Stationary	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	3	43.0260760	-108.4197300	Stationary	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	12	43.0260760	-108.4197300	Stationary	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	European Starling	Sturnus vulgaris	27813	species	120	43.0260760	-108.4197300	Stationary	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Killdeer	Charadrius vociferus	5827	species	1	43.0125430	-108.3818330	Traveling	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Least Flycatcher	Empidonax minimus	16963	species	2	43.0148460	-108.3911940	Traveling	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Mallard	Anas platyrhynchos	545	species	1	43.0125430	-108.3818330	Traveling	1	0
-S253565345	2025-06-23	L25642303	Riverton (town)	Mallard	Anas platyrhynchos	545	species	2	43.0245961	-108.3806164	Traveling	1	0
 S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Western Wood-Pewee	Contopus sordidulus	16912	species	2	43.0260760	-108.4197300	Stationary	1	0
 S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Rock Pigeon	Columba livia	1868	domestic	2	43.0471620	-108.3815420	Traveling	1	0
+S253565345	2025-06-23	L25642303	Riverton (town)	Mallard	Anas platyrhynchos	545	species	2	43.0245961	-108.3806164	Traveling	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	43.0129220	-108.3809030	Traveling	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	3	43.0260760	-108.4197300	Stationary	1	0
+S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Song Sparrow	Melospiza melodia	33277	species	2	43.0471620	-108.3815420	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Least Flycatcher	Empidonax minimus	16963	species	2	43.0148460	-108.3911940	Traveling	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	European Starling	Sturnus vulgaris	27813	species	120	43.0260760	-108.4197300	Stationary	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	12	43.0260760	-108.4197300	Stationary	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Mallard	Anas platyrhynchos	545	species	1	43.0125430	-108.3818330	Traveling	1	0
 S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	20	43.0260760	-108.4197300	Stationary	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	43.0148460	-108.3911940	Traveling	1	0
-S253565345	2025-06-23	L25642303	Riverton (town)	European Starling	Sturnus vulgaris	27813	species	1	43.0245961	-108.3806164	Traveling	1	0
 S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	duck sp.	Anatidae (duck sp.)	792	spuh	2	43.0260760	-108.4197300	Traveling	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Mallard	Anas platyrhynchos	545	species	50	43.0260760	-108.4197300	Stationary	1	0
+S207708402	2025-01-02	L38753151	CWC Campus	American Crow	Corvus brachyrhynchos	21557	species	100	43.0304824	-108.4269208	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Northern Yellow Warbler	Setophaga aestiva	34087	species	3	43.0148460	-108.3911940	Traveling	1	0
 S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Mourning Dove	Zenaida macroura	2412	species	4	43.0471620	-108.3815420	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Killdeer	Charadrius vociferus	5827	species	1	43.0148460	-108.3911940	Traveling	1	0
+S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0260760	-108.4197300	Stationary	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Dark-eyed Junco	Junco hyemalis	33124	species	2	43.0129220	-108.3809030	Traveling	1	0
 S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	American Robin	Turdus migratorius	28633	species	1	43.0260760	-108.4197300	Stationary	1	0
 S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33126	issf	1	43.0260760	-108.4197300	Stationary	1	0
-S259020878	2025-07-11	L49589602	900 E Sunset Dr, Riverton US-WY 43.03488, -108.37854	House Sparrow	Passer domesticus	31534	species	2	43.0348830	-108.3785430	Stationary	1	0
 S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	15	43.0260760	-108.4197300	Stationary	1	0
-S207708402	2025-01-02	L38753151	CWC Campus	American Crow	Corvus brachyrhynchos	21557	species	100	43.0304824	-108.4269208	Traveling	1	0
-S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.0260760	-108.4197300	Stationary	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Killdeer	Charadrius vociferus	5827	species	1	43.0148460	-108.3911940	Traveling	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Dark-eyed Junco	Junco hyemalis	33124	species	2	43.0129220	-108.3809030	Traveling	1	0
-S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Lazuli Bunting	Passerina amoena	34606	species	1	43.0260760	-108.4197300	Stationary	1	0
-S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	43.0260760	-108.4197300	Stationary	1	0
-S208291913	2025-01-06	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
-S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0260760	-108.4197300	Stationary	1	0
-S208933994	2025-01-11	L39354479	US Energy	Great Horned Owl	Bubo virginianus	8910	species	1	43.0332360	-108.3982290	Stationary	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	House Sparrow	Passer domesticus	31534	species	2	43.0125430	-108.3818330	Traveling	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Spotted Sandpiper	Actitis macularius	6126	species	1	43.0148460	-108.3911940	Traveling	1	0
+S253565345	2025-06-23	L25642303	Riverton (town)	European Starling	Sturnus vulgaris	27813	species	1	43.0245961	-108.3806164	Traveling	1	0
+S259020878	2025-07-11	L49589602	900 E Sunset Dr, Riverton US-WY 43.03488, -108.37854	House Sparrow	Passer domesticus	31534	species	2	43.0348830	-108.3785430	Stationary	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Mallard	Anas platyrhynchos	545	species	50	43.0260760	-108.4197300	Stationary	1	0
 S208515880	2025-01-08	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33138	issf	1	43.0260760	-108.4197300	Stationary	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Lark Sparrow	Chondestes grammacus	33029	species	2	43.0148460	-108.3911940	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	House Sparrow	Passer domesticus	31534	species	2	43.0125430	-108.3818330	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Common Grackle	Quiscalus quiscula	33853	species	3	43.0148460	-108.3911940	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Lark Sparrow	Chondestes grammacus	33029	species	2	43.0148460	-108.3911940	Traveling	1	0
 S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	Black-capped Chickadee	Poecile atricapillus	22065	species	5	43.0156100	-108.4360980	Stationary	1	0
 S259020878	2025-07-11	L49589602	900 E Sunset Dr, Riverton US-WY 43.03488, -108.37854	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	43.0348830	-108.3785430	Stationary	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.0125430	-108.3818330	Traveling	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	43.0125430	-108.3818330	Traveling	1	0
+S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Lazuli Bunting	Passerina amoena	34606	species	1	43.0260760	-108.4197300	Stationary	1	0
+S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	43.0260760	-108.4197300	Stationary	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Spotted Sandpiper	Actitis macularius	6126	species	1	43.0148460	-108.3911940	Traveling	1	0
+S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.0260760	-108.4197300	Stationary	1	0
+S208291913	2025-01-06	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
+S208933994	2025-01-11	L39354479	US Energy	Great Horned Owl	Bubo virginianus	8910	species	1	43.0332360	-108.3982290	Stationary	1	0
 S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Canada Goose	Branta canadensis	342	species	100	43.0260760	-108.4197300	Stationary	1	0
-S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	3	43.0260760	-108.4197300	Stationary	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	American Robin	Turdus migratorius	28633	species	16	43.0129220	-108.3809030	Traveling	1	0
-S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0260760	-108.4197300	Stationary	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	American Goldfinch	Spinus tristis	32617	species	4	43.0125430	-108.3818330	Traveling	1	0
 S274814998	2025-09-21	L25642303	Riverton (town)	Rock Pigeon	Columba livia	1868	domestic	2	43.0245961	-108.3806164	Stationary	1	0
-S289861734	2025-12-23	L38286573	Peck Preserve (our backyard)	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0260760	-108.4197300	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	43.0125430	-108.3818330	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	43.0125430	-108.3818330	Traveling	1	0
 S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	American Robin	Turdus migratorius	28633	species	2	43.0260760	-108.4197300	Stationary	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Barn Swallow	Hirundo rustica	24187	species	2	43.0148460	-108.3911940	Traveling	1	0
-S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0471620	-108.3815420	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Black-headed Grosbeak	Pheucticus melanocephalus	34559	species	3	43.0148460	-108.3911940	Traveling	1	0
-S252542148	2025-06-20	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0260760	-108.4197300	Stationary	1	0
-S207708402	2025-01-02	L38753151	CWC Campus	European Starling	Sturnus vulgaris	27813	species	100	43.0304824	-108.4269208	Traveling	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Common Grackle	Quiscalus quiscula	33853	species	6	43.0125430	-108.3818330	Traveling	1	0
-S208291913	2025-01-06	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0260760	-108.4197300	Stationary	1	0
-S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33129	issf	2	43.0260760	-108.4197300	Stationary	1	1
-S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Rock Pigeon	Columba livia	1868	domestic	9	43.0129220	-108.3809030	Traveling	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	2	43.0260760	-108.4197300	Stationary	1	0
-S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	43.0156100	-108.4360980	Stationary	1	0
+S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0260760	-108.4197300	Stationary	1	0
+S289861734	2025-12-23	L38286573	Peck Preserve (our backyard)	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0260760	-108.4197300	Traveling	1	0
+S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	3	43.0260760	-108.4197300	Stationary	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	American Goldfinch	Spinus tristis	32617	species	4	43.0125430	-108.3818330	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Barn Swallow	Hirundo rustica	24187	species	2	43.0148460	-108.3911940	Traveling	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	American Robin	Turdus migratorius	28633	species	16	43.0129220	-108.3809030	Traveling	1	0
+S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0471620	-108.3815420	Traveling	1	0
 S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	Common Raven	Corvus corax	21624	species	1	43.0156100	-108.4360980	Stationary	1	0
+S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
+S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Mourning Dove	Zenaida macroura	2412	species	2	43.0260760	-108.4197300	Stationary	1	0
+S208291913	2025-01-06	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0260760	-108.4197300	Stationary	1	0
 S222499622	2025-04-02	L42009114	Riverton River Walk	European Starling	Sturnus vulgaris	27813	species	17	43.0129220	-108.3809030	Traveling	1	0
 S242092687	2025-05-24	L45849796	Riverton dog park	Western Kingbird	Tyrannus verticalis	17467	species	3	43.0148460	-108.3911940	Traveling	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Rock Pigeon	Columba livia	1868	domestic	9	43.0129220	-108.3809030	Traveling	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Common Merganser	Mergus merganser	762	species	1	43.0125430	-108.3818330	Traveling	1	0
-S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Mourning Dove	Zenaida macroura	2412	species	2	43.0260760	-108.4197300	Stationary	1	0
-S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	1	43.0260760	-108.4197300	Stationary	1	0
-S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	2	43.0260760	-108.4197300	Traveling	1	0
-S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	5	43.0260760	-108.4197300	Stationary	1	0
 S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	American Robin	Turdus migratorius	28633	species	1	43.0156100	-108.4360980	Stationary	1	0
+S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	American Goldfinch	Spinus tristis	32617	species	5	43.0260760	-108.4197300	Stationary	1	0
+S289785797	2025-12-22	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	2	43.0260760	-108.4197300	Traveling	1	0
+S252542148	2025-06-20	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	43.0260760	-108.4197300	Stationary	1	0
+S207708402	2025-01-02	L38753151	CWC Campus	European Starling	Sturnus vulgaris	27813	species	100	43.0304824	-108.4269208	Traveling	1	0
+S208412642	2025-01-07	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.0260760	-108.4197300	Stationary	1	0
+S208001811	2025-01-04	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33129	issf	2	43.0260760	-108.4197300	Stationary	1	1
+S249518874	2025-06-12	L47431195	Riverton river walk	Common Grackle	Quiscalus quiscula	33853	species	6	43.0125430	-108.3818330	Traveling	1	0
+S207494626	2025-01-01	L4495391	US-WY-Riverton-Riverside Dr	Bald Eagle	Haliaeetus leucocephalus	8367	species	1	43.0156100	-108.4360980	Stationary	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Dark-eyed Junco	Junco hyemalis	33130	issf	2	43.0260760	-108.4197300	Stationary	1	0
 S208291913	2025-01-06	L38286573	Peck Preserve (our backyard)	Canada Goose	Branta canadensis	342	species	12	43.0260760	-108.4197300	Stationary	1	0
 S289861734	2025-12-23	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	43.0260760	-108.4197300	Traveling	1	0
 S289861734	2025-12-23	L38286573	Peck Preserve (our backyard)	Black-capped Chickadee	Poecile atricapillus	22065	species	4	43.0260760	-108.4197300	Traveling	1	0
+S253565345	2025-06-23	L25642303	Riverton (town)	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.0245961	-108.3806164	Traveling	1	0
+S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Lazuli Bunting	Passerina amoena	34606	species	2	43.0260760	-108.4197300	Stationary	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.0125430	-108.3818330	Traveling	1	0
 S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.0260760	-108.4197300	Stationary	1	0
 S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.0260760	-108.4197300	Stationary	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Osprey	Pandion haliaetus	7832	species	2	43.0125430	-108.3818330	Traveling	1	0
 S259020878	2025-07-11	L49589602	900 E Sunset Dr, Riverton US-WY 43.03488, -108.37854	American Robin	Turdus migratorius	28633	species	2	43.0348830	-108.3785430	Stationary	1	0
-S253565345	2025-06-23	L25642303	Riverton (town)	Swainson's Hawk	Buteo swainsoni	8504	species	1	43.0245961	-108.3806164	Traveling	1	0
-S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Lazuli Bunting	Passerina amoena	34606	species	2	43.0260760	-108.4197300	Stationary	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.0125430	-108.3818330	Traveling	1	0
-S252542148	2025-06-20	L38286573	Peck Preserve (our backyard)	American Robin	Turdus migratorius	28633	species	2	43.0260760	-108.4197300	Stationary	1	0
-S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	2	43.0260760	-108.4197300	Stationary	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Tree Swallow	Tachycineta bicolor	24064	species	5	43.0125430	-108.3818330	Traveling	1	0
-S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	15	43.0260760	-108.4197300	Stationary	1	0
-S222499622	2025-04-02	L42009114	Riverton River Walk	Canada Goose	Branta canadensis	342	species	4	43.0129220	-108.3809030	Traveling	1	0
-S246481927	2025-06-03	L46773895	1812 N Federal Blvd, Riverton US-WY 43.04248, -108.38152	Canada Goose	Branta canadensis	342	species	6	43.0424840	-108.3815210	Stationary	1	0
-S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0260760	-108.4197300	Stationary	1	0
-S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Western Tanager	Piranga ludoviciana	34439	species	1	43.0260760	-108.4197300	Stationary	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	European Starling	Sturnus vulgaris	27813	species	3	43.0148460	-108.3911940	Traveling	1	0
-S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0471620	-108.3815420	Traveling	1	0
 S208296286	2025-01-06	L38753151	CWC Campus	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.0304824	-108.4269208	Traveling	1	0
 S222499622	2025-04-02	L42009114	Riverton River Walk	Song Sparrow	Melospiza melodia	33277	species	4	43.0129220	-108.3809030	Traveling	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.0148460	-108.3911940	Traveling	1	0
+S208628093	2025-01-09	L38286573	Peck Preserve (our backyard)	House Finch	Haemorhous mexicanus	32310	species	15	43.0260760	-108.4197300	Stationary	1	0
+S246481927	2025-06-03	L46773895	1812 N Federal Blvd, Riverton US-WY 43.04248, -108.38152	Canada Goose	Branta canadensis	342	species	6	43.0424840	-108.3815210	Stationary	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	House Finch	Haemorhous mexicanus	32310	species	2	43.0125430	-108.3818330	Traveling	1	0
-S242092687	2025-05-24	L45849796	Riverton dog park	American Robin	Turdus migratorius	28633	species	2	43.0148460	-108.3911940	Traveling	1	0
-S249518874	2025-06-12	L47431195	Riverton river walk	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	43.0125430	-108.3818330	Traveling	1	0
 S249518874	2025-06-12	L47431195	Riverton river walk	Canada Goose	Branta canadensis	342	species	8	43.0125430	-108.3818330	Traveling	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Eastern Kingbird	Tyrannus tyrannus	17472	species	1	43.0125430	-108.3818330	Traveling	1	0
+S207666634	2025-01-02	L38286573	Peck Preserve (our backyard)	Pine Siskin	Spinus pinus	32595	species	2	43.0260760	-108.4197300	Stationary	1	0
+S249518874	2025-06-12	L47431195	Riverton river walk	Tree Swallow	Tachycineta bicolor	24064	species	5	43.0125430	-108.3818330	Traveling	1	0
+S222499622	2025-04-02	L42009114	Riverton River Walk	Canada Goose	Branta canadensis	342	species	4	43.0129220	-108.3809030	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.0148460	-108.3911940	Traveling	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	European Starling	Sturnus vulgaris	27813	species	3	43.0148460	-108.3911940	Traveling	1	0
+S252088306	2025-06-19	L38286573	Peck Preserve (our backyard)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.0260760	-108.4197300	Stationary	1	0
+S252542148	2025-06-20	L38286573	Peck Preserve (our backyard)	American Robin	Turdus migratorius	28633	species	2	43.0260760	-108.4197300	Stationary	1	0
+S252796541	2025-06-21	L38286573	Peck Preserve (our backyard)	Western Tanager	Piranga ludoviciana	34439	species	1	43.0260760	-108.4197300	Stationary	1	0
+S242092687	2025-05-24	L45849796	Riverton dog park	American Robin	Turdus migratorius	28633	species	2	43.0148460	-108.3911940	Traveling	1	0
+S252695529	2025-06-21	L48136640	2466–2598 N Federal Blvd, Riverton US-WY 43.04716, -108.38154	Western Wood-Pewee	Contopus sordidulus	16912	species	1	43.0471620	-108.3815420	Traveling	1	0

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-212,"Benson, AZ",Benson,Arizona,Cochise,2015,6517158.3847384,18,29,city_0212_arizona_benson,436.32500672340393,18.8671875,15.114912276209932,semiarid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2016,6517158.3847384,54,191,city_0212_arizona_benson,356.9937461614609,18.908854166666668,12.348941404017744,semiarid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2017,6517158.3847384,25,40,city_0212_arizona_benson,372.43749833106995,19.375,12.67872334744068,semiarid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2018,6517158.3847384,42,143,city_0212_arizona_benson,354.9437536597252,19.125,12.186909996900436,semiarid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2019,6517158.3847384,22,37,city_0212_arizona_benson,271.506249666214,18.1875,9.632150764211582,arid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2020,6517158.3847384,28,61,city_0212_arizona_benson,147.30624866485596,19.091145833333332,5.0636110900818805,arid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2021,6517158.3847384,30,104,city_0212_arizona_benson,498.9812481999397,18.841145833333332,17.301020253614162,semiarid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2022,6517158.3847384,44,93,city_0212_arizona_benson,273.36874985694885,18.466145833333332,9.603293380758243,arid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2023,6517158.3847384,36,99,city_0212_arizona_benson,214.31250113248825,18.684895833333332,7.471266494314616,arid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2024,6517158.3847384,60,154,city_0212_arizona_benson,254.23749846220016,19.552083333333332,8.60303131912979,arid,12
-212,"Benson, AZ",Benson,Arizona,Cochise,2025,6517158.3847384,34,52,city_0212_arizona_benson,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+212,2015,"Benson, AZ",Benson,Arizona,Cochise,100,18,29,city_0212_arizona_benson,436.325006723404,18.8671875,15.1149122762099,semiarid,12
+212,2016,"Benson, AZ",Benson,Arizona,Cochise,100,54,191,city_0212_arizona_benson,356.993746161461,18.9088541666667,12.3489414040177,semiarid,12
+212,2017,"Benson, AZ",Benson,Arizona,Cochise,100,25,40,city_0212_arizona_benson,372.43749833107,19.375,12.6787233474407,semiarid,12
+212,2018,"Benson, AZ",Benson,Arizona,Cochise,100,42,143,city_0212_arizona_benson,354.943753659725,19.125,12.1869099969004,semiarid,12
+212,2019,"Benson, AZ",Benson,Arizona,Cochise,100,22,37,city_0212_arizona_benson,271.506249666214,18.1875,9.63215076421158,arid,12
+212,2020,"Benson, AZ",Benson,Arizona,Cochise,100,28,61,city_0212_arizona_benson,147.306248664856,19.0911458333333,5.06361109008188,arid,12
+212,2021,"Benson, AZ",Benson,Arizona,Cochise,100,30,104,city_0212_arizona_benson,498.98124819994,18.8411458333333,17.3010202536142,semiarid,12
+212,2022,"Benson, AZ",Benson,Arizona,Cochise,100,44,93,city_0212_arizona_benson,273.368749856949,18.4661458333333,9.60329338075824,arid,12
+212,2023,"Benson, AZ",Benson,Arizona,Cochise,100,36,99,city_0212_arizona_benson,214.312501132488,18.6848958333333,7.47126649431462,arid,12
+212,2024,"Benson, AZ",Benson,Arizona,Cochise,100,60,154,city_0212_arizona_benson,254.2374984622,19.5520833333333,8.60303131912979,arid,12
+212,2025,"Benson, AZ",Benson,Arizona,Cochise,100,34,52,city_0212_arizona_benson,,,,,

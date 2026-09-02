@@ -1,4 +1,4 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1392,"Krum, TX",Krum,Texas,Denton,2018,4512615.0593167,1,1,city_1392_texas_krum,1023.3812675476074,18.505208333333332,35.90155369434326,humid,12
-1392,"Krum, TX",Krum,Texas,Denton,2023,4512615.0593167,8,10,city_1392_texas_krum,936.4249935150146,19.6171875,31.617620461599017,humid,12
-1392,"Krum, TX",Krum,Texas,Denton,2024,4512615.0593167,12,20,city_1392_texas_krum,1021.5,20.075520833333332,33.96449909083038,humid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1392,2018,"Krum, TX",Krum,Texas,Denton,100,1,1,city_1392_texas_krum,1023.38126754761,18.5052083333333,35.9015536943433,humid,12
+1392,2023,"Krum, TX",Krum,Texas,Denton,100,8,10,city_1392_texas_krum,936.424993515015,19.6171875,31.617620461599,humid,12
+1392,2024,"Krum, TX",Krum,Texas,Denton,100,12,20,city_1392_texas_krum,1021.5,20.0755208333333,33.9644990908304,humid,12

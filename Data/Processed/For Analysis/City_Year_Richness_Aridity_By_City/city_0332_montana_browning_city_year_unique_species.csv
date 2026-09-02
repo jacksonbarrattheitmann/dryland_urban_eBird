@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-332,"Browning, MT",Browning,Montana,Glacier,2015,4910382.69988711,33,33,city_0332_montana_browning,358.8687524795532,6.846354166666666,21.30245802321046,dry subhumid,12
-332,"Browning, MT",Browning,Montana,Glacier,2016,4910382.69988711,19,30,city_0332_montana_browning,430.68125438690186,6.747395833333334,25.71631187755719,dry subhumid,12
-332,"Browning, MT",Browning,Montana,Glacier,2017,4910382.69988711,13,13,city_0332_montana_browning,407.6624903678894,5.5546875,26.208336899593093,dry subhumid,12
-332,"Browning, MT",Browning,Montana,Glacier,2018,4910382.69988711,40,49,city_0332_montana_browning,405.8687481880188,5.140625,26.80660462748525,dry subhumid,12
-332,"Browning, MT",Browning,Montana,Glacier,2022,4910382.69988711,12,12,city_0332_montana_browning,394.162504196167,5.380208333333334,25.62790409944601,dry subhumid,12
-332,"Browning, MT",Browning,Montana,Glacier,2023,4910382.69988711,2,3,city_0332_montana_browning,408.98125076293945,6.427083333333334,24.896766057858073,dry subhumid,12
-332,"Browning, MT",Browning,Montana,Glacier,2024,4910382.69988711,12,20,city_0332_montana_browning,410.94999980926514,6.59375,24.76534838775233,dry subhumid,12
-332,"Browning, MT",Browning,Montana,Glacier,2025,4910382.69988711,3,3,city_0332_montana_browning,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+332,2015,"Browning, MT",Browning,Montana,Glacier,100,33,33,city_0332_montana_browning,358.868752479553,6.84635416666667,21.3024580232105,dry subhumid,12
+332,2016,"Browning, MT",Browning,Montana,Glacier,100,19,30,city_0332_montana_browning,430.681254386902,6.74739583333333,25.7163118775572,dry subhumid,12
+332,2017,"Browning, MT",Browning,Montana,Glacier,100,13,13,city_0332_montana_browning,407.662490367889,5.5546875,26.2083368995931,dry subhumid,12
+332,2018,"Browning, MT",Browning,Montana,Glacier,100,40,49,city_0332_montana_browning,405.868748188019,5.140625,26.8066046274853,dry subhumid,12
+332,2022,"Browning, MT",Browning,Montana,Glacier,100,12,12,city_0332_montana_browning,394.162504196167,5.38020833333333,25.627904099446,dry subhumid,12
+332,2023,"Browning, MT",Browning,Montana,Glacier,100,2,3,city_0332_montana_browning,408.981250762939,6.42708333333333,24.8967660578581,dry subhumid,12
+332,2024,"Browning, MT",Browning,Montana,Glacier,100,12,20,city_0332_montana_browning,410.949999809265,6.59375,24.7653483877523,dry subhumid,12
+332,2025,"Browning, MT",Browning,Montana,Glacier,100,3,3,city_0332_montana_browning,,,,,

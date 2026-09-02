@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2016,8141696.87604884,8,10,city_2268_utah_roosevelt,191.40624904632568,9.205729166666668,9.966101645259531,arid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2017,8141696.87604884,9,9,city_2268_utah_roosevelt,158.4249997138977,9.260416666666668,8.225419130629627,arid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2018,8141696.87604884,10,14,city_2268_utah_roosevelt,172.21250128746033,9.151041666666668,8.992330771605216,arid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2019,8141696.87604884,7,7,city_2268_utah_roosevelt,202.37499713897705,7.9453125,11.277318081754052,semiarid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2020,8141696.87604884,3,3,city_2268_utah_roosevelt,125.19375085830688,9.127604166666668,6.545187247051033,arid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2021,8141696.87604884,11,12,city_2268_utah_roosevelt,217.96875190734863,9.4921875,11.182364827310872,semiarid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2022,8141696.87604884,6,6,city_2268_utah_roosevelt,193.97500085830688,8.572916666666668,10.44397088188304,semiarid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2023,8141696.87604884,14,20,city_2268_utah_roosevelt,204.6624994277954,8.721354166666668,10.932035022989767,semiarid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2024,8141696.87604884,4,4,city_2268_utah_roosevelt,192.2749981880188,10.0546875,9.58753399613027,arid,12
-2268,"Roosevelt, UT",Roosevelt,Utah,Duchesne,2025,8141696.87604884,10,11,city_2268_utah_roosevelt,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2268,2016,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,8,10,city_2268_utah_roosevelt,191.406249046326,9.20572916666667,9.96610164525953,arid,12
+2268,2017,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,9,9,city_2268_utah_roosevelt,158.424999713898,9.26041666666667,8.22541913062963,arid,12
+2268,2018,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,10,14,city_2268_utah_roosevelt,172.21250128746,9.15104166666667,8.99233077160522,arid,12
+2268,2019,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,7,7,city_2268_utah_roosevelt,202.374997138977,7.9453125,11.2773180817541,semiarid,12
+2268,2020,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,3,3,city_2268_utah_roosevelt,125.193750858307,9.12760416666667,6.54518724705103,arid,12
+2268,2021,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,11,12,city_2268_utah_roosevelt,217.968751907349,9.4921875,11.1823648273109,semiarid,12
+2268,2022,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,6,6,city_2268_utah_roosevelt,193.975000858307,8.57291666666667,10.443970881883,semiarid,12
+2268,2023,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,14,20,city_2268_utah_roosevelt,204.662499427795,8.72135416666667,10.9320350229898,semiarid,12
+2268,2024,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,4,4,city_2268_utah_roosevelt,192.274998188019,10.0546875,9.58753399613027,arid,12
+2268,2025,"Roosevelt, UT",Roosevelt,Utah,Duchesne,100,10,11,city_2268_utah_roosevelt,,,,,

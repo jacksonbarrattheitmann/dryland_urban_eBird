@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2015,5254297.13004344,97,249,city_2017_texas_palacios,1503.5562343597412,21.955729166666668,47.051225979475234,humid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2016,5254297.13004344,73,116,city_2017_texas_palacios,1398.7625122070312,22.583333333333332,42.92877275315698,humid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2017,5254297.13004344,78,221,city_2017_texas_palacios,1042.8875122070312,22.765625,31.828708050190748,humid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2018,5254297.13004344,56,123,city_2017_texas_palacios,1099.2250137329102,22.143229166666668,34.19771573146216,humid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2019,5254297.13004344,93,205,city_2017_texas_palacios,1206.76873588562,22.158854166666668,37.52524047129954,humid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2020,5254297.13004344,91,371,city_2017_texas_palacios,954.6312465667723,22.6484375,29.239722316474484,dry subhumid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2021,5254297.13004344,92,309,city_2017_texas_palacios,1264.1375160217283,22.067708333333332,39.420887295139174,humid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2022,5254297.13004344,97,692,city_2017_texas_palacios,812.0312519073486,22.247395833333332,25.18129699849971,dry subhumid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2023,5254297.13004344,115,750,city_2017_texas_palacios,810.3875026702881,23.111979166666668,24.47414872397881,dry subhumid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2024,5254297.13004344,104,460,city_2017_texas_palacios,1201.2062606811523,23.375,35.99119882190718,humid,12
-2017,"Palacios, TX",Palacios,Texas,Matagorda,2025,5254297.13004344,81,385,city_2017_texas_palacios,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2017,2015,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,97,249,city_2017_texas_palacios,1503.55623435974,21.9557291666667,47.0512259794752,humid,12
+2017,2016,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,73,116,city_2017_texas_palacios,1398.76251220703,22.5833333333333,42.928772753157,humid,12
+2017,2017,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,78,221,city_2017_texas_palacios,1042.88751220703,22.765625,31.8287080501908,humid,12
+2017,2018,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,56,123,city_2017_texas_palacios,1099.22501373291,22.1432291666667,34.1977157314622,humid,12
+2017,2019,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,93,205,city_2017_texas_palacios,1206.76873588562,22.1588541666667,37.5252404712995,humid,12
+2017,2020,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,91,371,city_2017_texas_palacios,954.631246566772,22.6484375,29.2397223164745,dry subhumid,12
+2017,2021,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,92,309,city_2017_texas_palacios,1264.13751602173,22.0677083333333,39.4208872951392,humid,12
+2017,2022,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,97,692,city_2017_texas_palacios,812.031251907349,22.2473958333333,25.1812969984997,dry subhumid,12
+2017,2023,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,115,750,city_2017_texas_palacios,810.387502670288,23.1119791666667,24.4741487239788,dry subhumid,12
+2017,2024,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,104,460,city_2017_texas_palacios,1201.20626068115,23.375,35.9911988219072,humid,12
+2017,2025,"Palacios, TX",Palacios,Texas,Matagorda,98.2213423446314,81,385,city_2017_texas_palacios,,,,,

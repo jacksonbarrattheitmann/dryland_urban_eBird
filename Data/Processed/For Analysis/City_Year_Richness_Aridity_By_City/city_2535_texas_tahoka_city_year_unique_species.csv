@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2535,"Tahoka, TX",Tahoka,Texas,Lynn,2015,3791057.29650689,8,8,city_2535_texas_tahoka,785.6374988555908,16.763020833333332,29.35533711788916,dry subhumid,12
-2535,"Tahoka, TX",Tahoka,Texas,Lynn,2016,3791057.29650689,5,5,city_2535_texas_tahoka,529.9437437057495,17.473958333333332,19.288947638199794,semiarid,12
-2535,"Tahoka, TX",Tahoka,Texas,Lynn,2017,3791057.29650689,49,180,city_2535_texas_tahoka,533.9562559127808,17.455729166666668,19.447899295315167,semiarid,12
-2535,"Tahoka, TX",Tahoka,Texas,Lynn,2018,3791057.29650689,12,13,city_2535_texas_tahoka,500.7187544107437,16.734375,18.72939817784196,semiarid,12
-2535,"Tahoka, TX",Tahoka,Texas,Lynn,2019,3791057.29650689,10,11,city_2535_texas_tahoka,503.5750002861023,16.658854166666668,18.889596572224605,semiarid,12
-2535,"Tahoka, TX",Tahoka,Texas,Lynn,2020,3791057.29650689,15,33,city_2535_texas_tahoka,323.7562494277954,17.208333333333332,11.89915771250703,semiarid,12
-2535,"Tahoka, TX",Tahoka,Texas,Lynn,2021,3791057.29650689,12,21,city_2535_texas_tahoka,505.45625257492065,16.700520833333332,18.93057651309563,semiarid,12
-2535,"Tahoka, TX",Tahoka,Texas,Lynn,2024,3791057.29650689,7,7,city_2535_texas_tahoka,476.443745136261,18.182291666666668,16.905784340447624,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2535,2015,"Tahoka, TX",Tahoka,Texas,Lynn,100,8,8,city_2535_texas_tahoka,785.637498855591,16.7630208333333,29.3553371178892,dry subhumid,12
+2535,2016,"Tahoka, TX",Tahoka,Texas,Lynn,100,5,5,city_2535_texas_tahoka,529.94374370575,17.4739583333333,19.2889476381998,semiarid,12
+2535,2017,"Tahoka, TX",Tahoka,Texas,Lynn,100,49,180,city_2535_texas_tahoka,533.956255912781,17.4557291666667,19.4478992953152,semiarid,12
+2535,2018,"Tahoka, TX",Tahoka,Texas,Lynn,100,12,13,city_2535_texas_tahoka,500.718754410744,16.734375,18.729398177842,semiarid,12
+2535,2019,"Tahoka, TX",Tahoka,Texas,Lynn,100,10,11,city_2535_texas_tahoka,503.575000286102,16.6588541666667,18.8895965722246,semiarid,12
+2535,2020,"Tahoka, TX",Tahoka,Texas,Lynn,100,15,33,city_2535_texas_tahoka,323.756249427795,17.2083333333333,11.899157712507,semiarid,12
+2535,2021,"Tahoka, TX",Tahoka,Texas,Lynn,100,12,21,city_2535_texas_tahoka,505.456252574921,16.7005208333333,18.9305765130956,semiarid,12
+2535,2024,"Tahoka, TX",Tahoka,Texas,Lynn,100,7,7,city_2535_texas_tahoka,476.443745136261,18.1822916666667,16.9057843404476,semiarid,12

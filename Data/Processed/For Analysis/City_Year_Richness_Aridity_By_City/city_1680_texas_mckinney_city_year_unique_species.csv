@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1680,"McKinney, TX",McKinney,Texas,Collin,2015,191763069.101737,120,1212,city_1680_texas_mckinney,1208.8999938964844,18.627604166666668,42.22847245121896,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2016,191763069.101737,126,1558,city_1680_texas_mckinney,984.606258392334,19.4140625,33.47399762927457,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2017,191763069.101737,123,1484,city_1680_texas_mckinney,918.3375129699708,19.302083333333332,31.340348825139426,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2018,191763069.101737,151,2377,city_1680_texas_mckinney,1113.6812496185305,18.442708333333332,39.15524627847607,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2019,191763069.101737,149,3705,city_1680_texas_mckinney,1085.568748474121,18.182291666666668,38.51953422787493,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2020,191763069.101737,170,7424,city_1680_texas_mckinney,1104.9874839782717,18.653645833333332,38.563591188553694,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2021,191763069.101737,152,6911,city_1680_texas_mckinney,978.5062446594238,18.533854166666668,34.29281718985295,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2022,191763069.101737,157,3241,city_1680_texas_mckinney,855.3124942779541,18.828125,29.669376495278623,dry subhumid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2023,191763069.101737,150,2814,city_1680_texas_mckinney,1002.7312335968018,19.419270833333332,34.08416337976205,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2024,191763069.101737,153,4157,city_1680_texas_mckinney,1087.0875129699707,19.872395833333332,36.39103870460019,humid,12
-1680,"McKinney, TX",McKinney,Texas,Collin,2025,191763069.101737,163,5590,city_1680_texas_mckinney,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1680,2015,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,120,1211,city_1680_texas_mckinney,1208.89999389648,18.6276041666667,42.228472451219,humid,12
+1680,2016,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,126,1558,city_1680_texas_mckinney,984.606258392334,19.4140625,33.4739976292746,humid,12
+1680,2017,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,123,1483,city_1680_texas_mckinney,918.337512969971,19.3020833333333,31.3403488251394,humid,12
+1680,2018,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,151,2370,city_1680_texas_mckinney,1113.68124961853,18.4427083333333,39.1552462784761,humid,12
+1680,2019,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,149,3704,city_1680_texas_mckinney,1085.56874847412,18.1822916666667,38.5195342278749,humid,12
+1680,2020,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,170,7424,city_1680_texas_mckinney,1104.98748397827,18.6536458333333,38.5635911885537,humid,12
+1680,2021,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,151,6909,city_1680_texas_mckinney,978.506244659424,18.5338541666667,34.292817189853,humid,12
+1680,2022,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,157,3239,city_1680_texas_mckinney,855.312494277954,18.828125,29.6693764952786,dry subhumid,12
+1680,2023,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,150,2814,city_1680_texas_mckinney,1002.7312335968,19.4192708333333,34.0841633797621,humid,12
+1680,2024,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,153,4157,city_1680_texas_mckinney,1087.08751296997,19.8723958333333,36.3910387046002,humid,12
+1680,2025,"McKinney, TX",McKinney,Texas,Collin,99.1295450061586,163,5590,city_1680_texas_mckinney,,,,,

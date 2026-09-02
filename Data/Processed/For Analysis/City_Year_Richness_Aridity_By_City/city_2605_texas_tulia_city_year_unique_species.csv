@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2605,"Tulia, TX",Tulia,Texas,Swisher,2015,6538936.75760584,6,6,city_2605_texas_tulia,729.7999954223633,14.890625,29.320276024501727,dry subhumid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2017,6538936.75760584,9,12,city_2605_texas_tulia,534.1249928474426,15.403645833333332,21.025525090047974,dry subhumid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2018,6538936.75760584,3,3,city_2605_texas_tulia,464.1562497615814,14.783854166666668,18.72817063238912,semiarid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2019,6538936.75760584,12,12,city_2605_texas_tulia,467.0062460899353,14.5078125,19.055403091970582,semiarid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2020,6538936.75760584,13,17,city_2605_texas_tulia,318.65624809265137,15.15625,12.667080669521544,semiarid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2021,6538936.75760584,19,23,city_2605_texas_tulia,451.6499968767166,14.875,18.15678379403886,semiarid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2022,6538936.75760584,8,11,city_2605_texas_tulia,362.0437536239624,15.0546875,14.450140462696348,semiarid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2023,6538936.75760584,24,32,city_2605_texas_tulia,403.743748664856,15.658854166666668,15.73506541026131,semiarid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2024,6538936.75760584,11,16,city_2605_texas_tulia,445.0374991893768,16.182291666666668,16.997652644591277,semiarid,12
-2605,"Tulia, TX",Tulia,Texas,Swisher,2025,6538936.75760584,12,30,city_2605_texas_tulia,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2605,2015,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,6,6,city_2605_texas_tulia,729.799995422363,14.890625,29.3202760245017,dry subhumid,12
+2605,2017,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,9,12,city_2605_texas_tulia,534.124992847443,15.4036458333333,21.025525090048,dry subhumid,12
+2605,2018,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,3,3,city_2605_texas_tulia,464.156249761582,14.7838541666667,18.7281706323891,semiarid,12
+2605,2019,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,11,11,city_2605_texas_tulia,467.006246089935,14.5078125,19.0554030919706,semiarid,12
+2605,2020,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,13,17,city_2605_texas_tulia,318.656248092651,15.15625,12.6670806695215,semiarid,12
+2605,2021,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,19,23,city_2605_texas_tulia,451.649996876717,14.875,18.1567837940389,semiarid,12
+2605,2022,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,8,11,city_2605_texas_tulia,362.043753623962,15.0546875,14.4501404626963,semiarid,12
+2605,2023,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,24,32,city_2605_texas_tulia,403.743748664856,15.6588541666667,15.7350654102613,semiarid,12
+2605,2024,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,11,16,city_2605_texas_tulia,445.037499189377,16.1822916666667,16.9976526445913,semiarid,12
+2605,2025,"Tulia, TX",Tulia,Texas,Swisher,99.9999999999969,12,30,city_2605_texas_tulia,,,,,

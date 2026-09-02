@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2015,32281985.2566877,94,389,city_0432_nevada_carson_city,204.0187520980835,11.7578125,9.3768044052261,arid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2016,32281985.2566877,111,642,city_0432_nevada_carson_city,255.70625346899033,11.263020833333334,12.02586666651467,semiarid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2017,32281985.2566877,138,1192,city_0432_nevada_carson_city,268.00624573230743,11.4453125,12.497194700814337,semiarid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2018,32281985.2566877,140,3258,city_0432_nevada_carson_city,225.524997651577,11.403645833333334,10.53675618666572,semiarid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2019,32281985.2566877,136,2468,city_0432_nevada_carson_city,291.7750023007393,10.565104166666666,14.187868922816753,semiarid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2020,32281985.2566877,165,4406,city_0432_nevada_carson_city,118.7249995470047,11.591145833333332,5.498781790622338,arid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2021,32281985.2566877,161,5760,city_0432_nevada_carson_city,227.64374488592148,11.544270833333334,10.566323949739374,semiarid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2022,32281985.2566877,138,1980,city_0432_nevada_carson_city,174.70625168085098,11.296875,8.203374987215307,arid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2023,32281985.2566877,145,5074,city_0432_nevada_carson_city,281.55624854564667,10.5,13.73445114856813,semiarid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2024,32281985.2566877,144,5357,city_0432_nevada_carson_city,280.63750153779984,11.8125,12.865902649297414,semiarid,12
-432,"Carson City, NV",Carson City,Nevada,Carson City (city),2025,32281985.2566877,153,5599,city_0432_nevada_carson_city,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+432,2015,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,94,389,city_0432_nevada_carson_city,204.018752098084,11.7578125,9.3768044052261,arid,12
+432,2016,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,111,642,city_0432_nevada_carson_city,255.70625346899,11.2630208333333,12.0258666665147,semiarid,12
+432,2017,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,138,1192,city_0432_nevada_carson_city,268.006245732307,11.4453125,12.4971947008143,semiarid,12
+432,2018,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,140,3258,city_0432_nevada_carson_city,225.524997651577,11.4036458333333,10.5367561866657,semiarid,12
+432,2019,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,136,2468,city_0432_nevada_carson_city,291.775002300739,10.5651041666667,14.1878689228168,semiarid,12
+432,2020,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,165,4406,city_0432_nevada_carson_city,118.724999547005,11.5911458333333,5.49878179062234,arid,12
+432,2021,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,161,5760,city_0432_nevada_carson_city,227.643744885921,11.5442708333333,10.5663239497394,semiarid,12
+432,2022,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,138,1980,city_0432_nevada_carson_city,174.706251680851,11.296875,8.20337498721531,arid,12
+432,2023,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,145,5074,city_0432_nevada_carson_city,281.556248545647,10.5,13.7344511485681,semiarid,12
+432,2024,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,144,5357,city_0432_nevada_carson_city,280.6375015378,11.8125,12.8659026492974,semiarid,12
+432,2025,"Carson City, NV",Carson City,Nevada,Carson City (city),54.0067372630349,151,5592,city_0432_nevada_carson_city,,,,,

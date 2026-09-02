@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1377,"Kingman, KS",Kingman,Kansas,Kingman,2018,4761762.08425735,11,11,city_1377_kansas_kingman,771.6687393188477,13.9921875,32.16333397356317,humid,12
-1377,"Kingman, KS",Kingman,Kansas,Kingman,2020,4761762.08425735,63,125,city_1377_kansas_kingman,674.9312553405762,14.442708333333334,27.612785217428215,dry subhumid,12
-1377,"Kingman, KS",Kingman,Kansas,Kingman,2021,4761762.08425735,7,7,city_1377_kansas_kingman,672.1437587738037,14.770833333333332,27.134483112819662,dry subhumid,12
-1377,"Kingman, KS",Kingman,Kansas,Kingman,2022,4761762.08425735,33,40,city_1377_kansas_kingman,537.8125042915344,14.325520833333332,22.108982084139733,dry subhumid,12
-1377,"Kingman, KS",Kingman,Kansas,Kingman,2023,4761762.08425735,12,12,city_1377_kansas_kingman,685.84375,15.109375,27.314250155569383,dry subhumid,12
-1377,"Kingman, KS",Kingman,Kansas,Kingman,2024,4761762.08425735,50,122,city_1377_kansas_kingman,627.587498664856,15.489583333333332,24.62133219118356,dry subhumid,12
-1377,"Kingman, KS",Kingman,Kansas,Kingman,2025,4761762.08425735,58,165,city_1377_kansas_kingman,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1377,2018,"Kingman, KS",Kingman,Kansas,Kingman,100,11,11,city_1377_kansas_kingman,771.668739318848,13.9921875,32.1633339735632,humid,12
+1377,2020,"Kingman, KS",Kingman,Kansas,Kingman,100,63,125,city_1377_kansas_kingman,674.931255340576,14.4427083333333,27.6127852174282,dry subhumid,12
+1377,2021,"Kingman, KS",Kingman,Kansas,Kingman,100,7,7,city_1377_kansas_kingman,672.143758773804,14.7708333333333,27.1344831128197,dry subhumid,12
+1377,2022,"Kingman, KS",Kingman,Kansas,Kingman,100,33,40,city_1377_kansas_kingman,537.812504291534,14.3255208333333,22.1089820841397,dry subhumid,12
+1377,2023,"Kingman, KS",Kingman,Kansas,Kingman,100,12,12,city_1377_kansas_kingman,685.84375,15.109375,27.3142501555694,dry subhumid,12
+1377,2024,"Kingman, KS",Kingman,Kansas,Kingman,100,50,122,city_1377_kansas_kingman,627.587498664856,15.4895833333333,24.6213321911836,dry subhumid,12
+1377,2025,"Kingman, KS",Kingman,Kansas,Kingman,100,58,165,city_1377_kansas_kingman,,,,,

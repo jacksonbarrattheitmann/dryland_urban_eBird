@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1957,"Olney, TX",Olney,Texas,Young,2017,4667610.98750027,3,3,city_1957_texas_olney,711.5000076293945,19.028645833333332,24.51027208483785,dry subhumid,12
-1957,"Olney, TX",Olney,Texas,Young,2018,4667610.98750027,12,12,city_1957_texas_olney,772.2500059604645,18.169270833333332,27.41462533870929,dry subhumid,12
-1957,"Olney, TX",Olney,Texas,Young,2019,4667610.98750027,2,2,city_1957_texas_olney,815.6812343597412,17.9453125,29.188481408455935,dry subhumid,12
-1957,"Olney, TX",Olney,Texas,Young,2020,4667610.98750027,21,25,city_1957_texas_olney,726.1750049591064,18.447916666666668,25.526473993436184,dry subhumid,12
-1957,"Olney, TX",Olney,Texas,Young,2021,4667610.98750027,21,21,city_1957_texas_olney,712.5062437057495,18.140625,25.319488949010537,dry subhumid,12
-1957,"Olney, TX",Olney,Texas,Young,2022,4667610.98750027,16,27,city_1957_texas_olney,489.0250005722046,18.4609375,17.182322281976994,semiarid,12
-1957,"Olney, TX",Olney,Texas,Young,2023,4667610.98750027,7,7,city_1957_texas_olney,704.5499887466431,19.111979166666668,24.201377196413898,dry subhumid,12
-1957,"Olney, TX",Olney,Texas,Young,2024,4667610.98750027,12,16,city_1957_texas_olney,766.512505531311,19.580729166666668,25.912562912582395,dry subhumid,12
-1957,"Olney, TX",Olney,Texas,Young,2025,4667610.98750027,2,2,city_1957_texas_olney,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1957,2017,"Olney, TX",Olney,Texas,Young,100,3,3,city_1957_texas_olney,711.500007629395,19.0286458333333,24.5102720848379,dry subhumid,12
+1957,2018,"Olney, TX",Olney,Texas,Young,100,12,12,city_1957_texas_olney,772.250005960465,18.1692708333333,27.4146253387093,dry subhumid,12
+1957,2019,"Olney, TX",Olney,Texas,Young,100,2,2,city_1957_texas_olney,815.681234359741,17.9453125,29.1884814084559,dry subhumid,12
+1957,2020,"Olney, TX",Olney,Texas,Young,100,21,25,city_1957_texas_olney,726.175004959107,18.4479166666667,25.5264739934362,dry subhumid,12
+1957,2021,"Olney, TX",Olney,Texas,Young,100,21,21,city_1957_texas_olney,712.50624370575,18.140625,25.3194889490105,dry subhumid,12
+1957,2022,"Olney, TX",Olney,Texas,Young,100,16,27,city_1957_texas_olney,489.025000572205,18.4609375,17.182322281977,semiarid,12
+1957,2023,"Olney, TX",Olney,Texas,Young,100,7,7,city_1957_texas_olney,704.549988746643,19.1119791666667,24.2013771964139,dry subhumid,12
+1957,2024,"Olney, TX",Olney,Texas,Young,100,12,16,city_1957_texas_olney,766.512505531311,19.5807291666667,25.9125629125824,dry subhumid,12
+1957,2025,"Olney, TX",Olney,Texas,Young,100,2,2,city_1957_texas_olney,,,,,

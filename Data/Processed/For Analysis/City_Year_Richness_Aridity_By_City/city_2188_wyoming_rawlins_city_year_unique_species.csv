@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2015,11887701.3861487,17,24,city_2188_wyoming_rawlins,308.95625257492065,6.786458333333334,18.40508858032416,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2016,11887701.3861487,31,80,city_2188_wyoming_rawlins,288.3437509536743,6.963541666666666,16.997850839148136,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2017,11887701.3861487,19,32,city_2188_wyoming_rawlins,256.0874996185303,6.450520833333334,15.567136275687131,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2018,11887701.3861487,27,61,city_2188_wyoming_rawlins,254.956250667572,5.942708333333334,15.992028790648098,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2019,11887701.3861487,33,159,city_2188_wyoming_rawlins,295.7562503814697,5.078125,19.614922305092293,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2020,11887701.3861487,49,262,city_2188_wyoming_rawlins,175.8937497138977,6.513020833333334,10.651821461936084,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2021,11887701.3861487,24,46,city_2188_wyoming_rawlins,264.4874973297119,6.830729166666667,15.714559643294038,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2022,11887701.3861487,43,151,city_2188_wyoming_rawlins,238.25625038146973,5.96875,14.920156579661509,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2023,11887701.3861487,37,119,city_2188_wyoming_rawlins,300.91250133514404,6.0390625,18.76122755523548,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2024,11887701.3861487,85,729,city_2188_wyoming_rawlins,213.6062488555908,7.440104166666666,12.247991572427487,semiarid,12
-2188,"Rawlins, WY",Rawlins,Wyoming,Carbon,2025,11887701.3861487,86,983,city_2188_wyoming_rawlins,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2188,2015,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,17,24,city_2188_wyoming_rawlins,308.956252574921,6.78645833333333,18.4050885803242,semiarid,12
+2188,2016,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,31,80,city_2188_wyoming_rawlins,288.343750953674,6.96354166666667,16.9978508391481,semiarid,12
+2188,2017,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,19,32,city_2188_wyoming_rawlins,256.08749961853,6.45052083333333,15.5671362756871,semiarid,12
+2188,2018,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,27,61,city_2188_wyoming_rawlins,254.956250667572,5.94270833333333,15.9920287906481,semiarid,12
+2188,2019,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,33,159,city_2188_wyoming_rawlins,295.75625038147,5.078125,19.6149223050923,semiarid,12
+2188,2020,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,49,262,city_2188_wyoming_rawlins,175.893749713898,6.51302083333333,10.6518214619361,semiarid,12
+2188,2021,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,24,46,city_2188_wyoming_rawlins,264.487497329712,6.83072916666667,15.714559643294,semiarid,12
+2188,2022,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,43,151,city_2188_wyoming_rawlins,238.25625038147,5.96875,14.9201565796615,semiarid,12
+2188,2023,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,37,119,city_2188_wyoming_rawlins,300.912501335144,6.0390625,18.7612275552355,semiarid,12
+2188,2024,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,85,729,city_2188_wyoming_rawlins,213.606248855591,7.44010416666667,12.2479915724275,semiarid,12
+2188,2025,"Rawlins, WY",Rawlins,Wyoming,Carbon,99.9999999999909,86,983,city_2188_wyoming_rawlins,,,,,

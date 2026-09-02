@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2015,20545598.1651559,5,5,city_2587_utah_tremonton,417.125,10.3671875,20.48024549290372,dry subhumid,12
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2018,20545598.1651559,11,13,city_2587_utah_tremonton,350.24375009536743,9.713541666666668,17.76665786481124,semiarid,12
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2019,20545598.1651559,18,27,city_2587_utah_tremonton,492.618748664856,8.533854166666666,26.579401361150023,dry subhumid,12
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2020,20545598.1651559,21,23,city_2587_utah_tremonton,285.0125026702881,9.833333333333332,14.370378285896878,semiarid,12
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2021,20545598.1651559,44,86,city_2587_utah_tremonton,398.4999952316284,10.236979166666666,19.69167393758143,semiarid,12
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2022,20545598.1651559,20,22,city_2587_utah_tremonton,382.8875012397766,9.239583333333332,19.901028759620225,semiarid,12
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2023,20545598.1651559,30,58,city_2587_utah_tremonton,484.9312562942505,9.1953125,25.263003990909265,dry subhumid,12
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2024,20545598.1651559,50,132,city_2587_utah_tremonton,380.9437532424927,10.546875,18.54022829469166,semiarid,12
-2587,"Tremonton, UT",Tremonton,Utah,Box Elder,2025,20545598.1651559,41,64,city_2587_utah_tremonton,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2587,2015,"Tremonton, UT",Tremonton,Utah,Box Elder,100,5,5,city_2587_utah_tremonton,417.125,10.3671875,20.4802454929037,dry subhumid,12
+2587,2018,"Tremonton, UT",Tremonton,Utah,Box Elder,100,11,13,city_2587_utah_tremonton,350.243750095367,9.71354166666667,17.7666578648112,semiarid,12
+2587,2019,"Tremonton, UT",Tremonton,Utah,Box Elder,100,18,27,city_2587_utah_tremonton,492.618748664856,8.53385416666667,26.57940136115,dry subhumid,12
+2587,2020,"Tremonton, UT",Tremonton,Utah,Box Elder,100,21,23,city_2587_utah_tremonton,285.012502670288,9.83333333333333,14.3703782858969,semiarid,12
+2587,2021,"Tremonton, UT",Tremonton,Utah,Box Elder,100,44,86,city_2587_utah_tremonton,398.499995231628,10.2369791666667,19.6916739375814,semiarid,12
+2587,2022,"Tremonton, UT",Tremonton,Utah,Box Elder,100,20,22,city_2587_utah_tremonton,382.887501239777,9.23958333333333,19.9010287596202,semiarid,12
+2587,2023,"Tremonton, UT",Tremonton,Utah,Box Elder,100,30,58,city_2587_utah_tremonton,484.931256294251,9.1953125,25.2630039909093,dry subhumid,12
+2587,2024,"Tremonton, UT",Tremonton,Utah,Box Elder,100,50,132,city_2587_utah_tremonton,380.943753242493,10.546875,18.5402282946917,semiarid,12
+2587,2025,"Tremonton, UT",Tremonton,Utah,Box Elder,100,41,64,city_2587_utah_tremonton,,,,,

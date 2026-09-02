@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2015,298760274.388426,227,18119,city_0940_colorado_fort_collins,482.51249647140503,10.546875,23.483497927125416,dry subhumid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2016,298760274.388426,224,16266,city_0940_colorado_fort_collins,423.3562479019165,10.752604166666668,20.400150482411338,dry subhumid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2017,298760274.388426,240,25990,city_0940_colorado_fort_collins,419.3562526702881,10.46875,20.48763371824308,dry subhumid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2018,298760274.388426,263,42375,city_0940_colorado_fort_collins,339.1312565803528,10.020833333333332,16.93891812263989,semiarid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2019,298760274.388426,262,53628,city_0940_colorado_fort_collins,478.3874950408935,9.122395833333334,25.017131703078185,dry subhumid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2020,298760274.388426,281,100954,city_0940_colorado_fort_collins,237.1812481880188,10.5234375,11.556604403527372,semiarid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2021,298760274.388426,267,101995,city_0940_colorado_fort_collins,386.0437440872192,10.651041666666668,18.693669322760677,semiarid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2022,298760274.388426,281,114395,city_0940_colorado_fort_collins,303.80000019073486,9.942708333333332,15.233638035158291,semiarid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2023,298760274.388426,279,111920,city_0940_colorado_fort_collins,449.2250061035156,9.9140625,22.55817998479796,dry subhumid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2024,298760274.388426,278,109839,city_0940_colorado_fort_collins,347.6124994754791,11.190104166666668,16.40447336838933,semiarid,12
-940,"Fort Collins, CO",Fort Collins,Colorado,Larimer,2025,298760274.388426,275,115326,city_0940_colorado_fort_collins,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+940,2015,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,227,18119,city_0940_colorado_fort_collins,482.512496471405,10.546875,23.4834979271254,dry subhumid,12
+940,2016,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,224,16266,city_0940_colorado_fort_collins,423.356247901917,10.7526041666667,20.4001504824113,dry subhumid,12
+940,2017,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,240,25990,city_0940_colorado_fort_collins,419.356252670288,10.46875,20.4876337182431,dry subhumid,12
+940,2018,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,263,42375,city_0940_colorado_fort_collins,339.131256580353,10.0208333333333,16.9389181226399,semiarid,12
+940,2019,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,262,53627,city_0940_colorado_fort_collins,478.387495040894,9.12239583333333,25.0171317030782,dry subhumid,12
+940,2020,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,281,100954,city_0940_colorado_fort_collins,237.181248188019,10.5234375,11.5566044035274,semiarid,12
+940,2021,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,267,101995,city_0940_colorado_fort_collins,386.043744087219,10.6510416666667,18.6936693227607,semiarid,12
+940,2022,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,281,114405,city_0940_colorado_fort_collins,303.800000190735,9.94270833333333,15.2336380351583,semiarid,12
+940,2023,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,279,111950,city_0940_colorado_fort_collins,449.225006103516,9.9140625,22.558179984798,dry subhumid,12
+940,2024,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,278,109824,city_0940_colorado_fort_collins,347.612499475479,11.1901041666667,16.4044733683893,semiarid,12
+940,2025,"Fort Collins, CO",Fort Collins,Colorado,Larimer,100,275,115349,city_0940_colorado_fort_collins,,,,,

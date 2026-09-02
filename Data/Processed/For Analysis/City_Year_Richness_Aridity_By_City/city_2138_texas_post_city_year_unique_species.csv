@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2138,"Post, TX",Post,Texas,Garza,2015,4715428.84581945,11,17,city_2138_texas_post,816.5937576293945,17.2109375,30.00976198006388,humid,12
-2138,"Post, TX",Post,Texas,Garza,2018,4715428.84581945,10,12,city_2138_texas_post,540.4624917507172,17.09375,19.94786590083385,semiarid,12
-2138,"Post, TX",Post,Texas,Garza,2019,4715428.84581945,33,37,city_2138_texas_post,530.9124999046326,16.997395833333332,19.665322654902955,semiarid,12
-2138,"Post, TX",Post,Texas,Garza,2020,4715428.84581945,16,23,city_2138_texas_post,363.51874446868896,17.5625,13.188888688206402,semiarid,12
-2138,"Post, TX",Post,Texas,Garza,2021,4715428.84581945,9,13,city_2138_texas_post,522.2812402248383,17.036458333333332,19.317664828196676,semiarid,12
-2138,"Post, TX",Post,Texas,Garza,2022,4715428.84581945,15,20,city_2138_texas_post,393.74374532699585,17.424479166666668,14.357382794185396,semiarid,12
-2138,"Post, TX",Post,Texas,Garza,2023,4715428.84581945,15,17,city_2138_texas_post,410.8812494277954,18.158854166666668,14.59154719136904,semiarid,12
-2138,"Post, TX",Post,Texas,Garza,2024,4715428.84581945,38,61,city_2138_texas_post,500.3750009536743,18.575520833333332,17.510617002297543,semiarid,12
-2138,"Post, TX",Post,Texas,Garza,2025,4715428.84581945,2,2,city_2138_texas_post,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2138,2015,"Post, TX",Post,Texas,Garza,100,11,17,city_2138_texas_post,816.593757629395,17.2109375,30.0097619800639,humid,12
+2138,2018,"Post, TX",Post,Texas,Garza,100,10,12,city_2138_texas_post,540.462491750717,17.09375,19.9478659008339,semiarid,12
+2138,2019,"Post, TX",Post,Texas,Garza,100,33,37,city_2138_texas_post,530.912499904633,16.9973958333333,19.665322654903,semiarid,12
+2138,2020,"Post, TX",Post,Texas,Garza,100,16,23,city_2138_texas_post,363.518744468689,17.5625,13.1888886882064,semiarid,12
+2138,2021,"Post, TX",Post,Texas,Garza,100,9,13,city_2138_texas_post,522.281240224838,17.0364583333333,19.3176648281967,semiarid,12
+2138,2022,"Post, TX",Post,Texas,Garza,100,15,20,city_2138_texas_post,393.743745326996,17.4244791666667,14.3573827941854,semiarid,12
+2138,2023,"Post, TX",Post,Texas,Garza,100,15,17,city_2138_texas_post,410.881249427795,18.1588541666667,14.591547191369,semiarid,12
+2138,2024,"Post, TX",Post,Texas,Garza,100,38,61,city_2138_texas_post,500.375000953674,18.5755208333333,17.5106170022975,semiarid,12
+2138,2025,"Post, TX",Post,Texas,Garza,100,2,2,city_2138_texas_post,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2552,"Temple, TX",Temple,Texas,Bell,2015,140406031.014564,116,660,city_2552_texas_temple,1202.124994277954,20.0390625,40.01872542719848,humid,12
-2552,"Temple, TX",Temple,Texas,Bell,2016,140406031.014564,156,1397,city_2552_texas_temple,1137.4812564849854,20.768229166666668,36.96934426493731,humid,12
-2552,"Temple, TX",Temple,Texas,Bell,2017,140406031.014564,140,688,city_2552_texas_temple,778.9062633514404,20.888020833333332,25.217098484693796,dry subhumid,12
-2552,"Temple, TX",Temple,Texas,Bell,2018,140406031.014564,181,1776,city_2552_texas_temple,920.8562545776368,20.1484375,30.54407892872182,humid,12
-2552,"Temple, TX",Temple,Texas,Bell,2019,140406031.014564,202,4022,city_2552_texas_temple,821.9562540054321,20.125,27.28485490474463,dry subhumid,12
-2552,"Temple, TX",Temple,Texas,Bell,2020,140406031.014564,209,7477,city_2552_texas_temple,808.3374977111816,20.609375,26.408167357588376,dry subhumid,12
-2552,"Temple, TX",Temple,Texas,Bell,2021,140406031.014564,222,7417,city_2552_texas_temple,885.2749996185303,19.901041666666668,29.606828065974188,dry subhumid,12
-2552,"Temple, TX",Temple,Texas,Bell,2022,140406031.014564,218,8977,city_2552_texas_temple,555.3124980926514,20.393229166666668,18.270927878294756,semiarid,12
-2552,"Temple, TX",Temple,Texas,Bell,2023,140406031.014564,220,9131,city_2552_texas_temple,739.1125068664551,21.143229166666668,23.73268689996812,dry subhumid,12
-2552,"Temple, TX",Temple,Texas,Bell,2024,140406031.014564,213,8115,city_2552_texas_temple,816.1624946594238,21.447916666666668,25.952831893774324,dry subhumid,12
-2552,"Temple, TX",Temple,Texas,Bell,2025,140406031.014564,214,10092,city_2552_texas_temple,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2552,2015,"Temple, TX",Temple,Texas,Bell,100,116,660,city_2552_texas_temple,1202.12499427795,20.0390625,40.0187254271985,humid,12
+2552,2016,"Temple, TX",Temple,Texas,Bell,100,156,1397,city_2552_texas_temple,1137.48125648499,20.7682291666667,36.9693442649373,humid,12
+2552,2017,"Temple, TX",Temple,Texas,Bell,100,140,688,city_2552_texas_temple,778.906263351441,20.8880208333333,25.2170984846938,dry subhumid,12
+2552,2018,"Temple, TX",Temple,Texas,Bell,100,181,1776,city_2552_texas_temple,920.856254577637,20.1484375,30.5440789287218,humid,12
+2552,2019,"Temple, TX",Temple,Texas,Bell,100,202,4022,city_2552_texas_temple,821.956254005432,20.125,27.2848549047446,dry subhumid,12
+2552,2020,"Temple, TX",Temple,Texas,Bell,100,209,7477,city_2552_texas_temple,808.337497711182,20.609375,26.4081673575884,dry subhumid,12
+2552,2021,"Temple, TX",Temple,Texas,Bell,100,222,7417,city_2552_texas_temple,885.27499961853,19.9010416666667,29.6068280659742,dry subhumid,12
+2552,2022,"Temple, TX",Temple,Texas,Bell,100,218,8977,city_2552_texas_temple,555.312498092651,20.3932291666667,18.2709278782948,semiarid,12
+2552,2023,"Temple, TX",Temple,Texas,Bell,100,220,9131,city_2552_texas_temple,739.112506866455,21.1432291666667,23.7326868999681,dry subhumid,12
+2552,2024,"Temple, TX",Temple,Texas,Bell,100,213,8115,city_2552_texas_temple,816.162494659424,21.4479166666667,25.9528318937743,dry subhumid,12
+2552,2025,"Temple, TX",Temple,Texas,Bell,100,214,10092,city_2552_texas_temple,,,,,

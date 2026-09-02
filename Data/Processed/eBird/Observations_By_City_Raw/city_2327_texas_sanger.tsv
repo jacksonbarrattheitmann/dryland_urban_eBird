@@ -1,7 +1,7 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
+S78168368	2020-12-28	L13025478	I35, Sanger	Mourning Dove	Zenaida macroura	2412	species	2	33.3567926	-97.1795599	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Dark-eyed Junco	Junco hyemalis	33124	species	3	33.3560200	-97.1687270	Traveling	1	0
 S77942262	2020-12-24	L13025478	I35, Sanger	Turkey Vulture	Cathartes aura	7815	species	9	33.3567926	-97.1795599	Traveling	1	0
-S78168368	2020-12-28	L13025478	I35, Sanger	Mourning Dove	Zenaida macroura	2412	species	2	33.3567926	-97.1795599	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	33.3560200	-97.1687270	Traveling	1	0
 S77942262	2020-12-24	L13025478	I35, Sanger	Mallard	Anas platyrhynchos	545	species	7	33.3567926	-97.1795599	Traveling	1	0
 S78168368	2020-12-28	L13025478	I35, Sanger	Rock Pigeon	Columba livia	1868	domestic	5	33.3567926	-97.1795599	Traveling	1	0
@@ -14,26 +14,26 @@ S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	House Finch	Haemorhous 
 S78168368	2020-12-28	L13025478	I35, Sanger	Black Vulture	Coragyps atratus	7811	species	5	33.3567926	-97.1795599	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Common Grackle	Quiscalus quiscula	33853	species	40	33.3560200	-97.1687270	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Chipping Sparrow	Spizella passerina	32990	species	8	33.3560200	-97.1687270	Traveling	1	0
-S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Rock Pigeon	Columba livia	1868	domestic	16	33.3560200	-97.1687270	Traveling	1	0
 S77942262	2020-12-24	L13025478	I35, Sanger	Mallard	Anas platyrhynchos	548	domestic	2	33.3567926	-97.1795599	Traveling	1	0
+S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Rock Pigeon	Columba livia	1868	domestic	16	33.3560200	-97.1687270	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Great-tailed Grackle	Quiscalus mexicanus	33864	species	21	33.3560200	-97.1687270	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	12	33.3560200	-97.1687270	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Blue Jay	Cyanocitta cristata	21294	species	1	33.3560200	-97.1687270	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Mourning Dove	Zenaida macroura	2412	species	2	33.3560200	-97.1687270	Traveling	1	0
-S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	33.3560200	-97.1687270	Traveling	1	0
 S77942262	2020-12-24	L13025478	I35, Sanger	Rock Pigeon	Columba livia	1868	domestic	2	33.3567926	-97.1795599	Traveling	1	0
+S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Lincoln's Sparrow	Melospiza lincolnii	33310	species	1	33.3560200	-97.1687270	Traveling	1	0
 S78168368	2020-12-28	L13025478	I35, Sanger	Turkey Vulture	Cathartes aura	7815	species	4	33.3567926	-97.1795599	Traveling	1	0
 S77942262	2020-12-24	L13025478	I35, Sanger	Black Vulture	Coragyps atratus	7811	species	2	33.3567926	-97.1795599	Traveling	1	0
-S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	33.3560200	-97.1687270	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Northern Cardinal	Cardinalis cardinalis	34515	species	1	33.3560200	-97.1687270	Traveling	1	0
+S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	33.3560200	-97.1687270	Traveling	1	0
 S65913451	2020-03-17	L10980848	Sanger, TX - Railroad Ave	European Starling	Sturnus vulgaris	27813	species	100	33.3560200	-97.1687270	Traveling	1	0
+S85472576	2021-04-13	L13025478	I35, Sanger	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.3567926	-97.1795599	Traveling	1	0
 S85252393	2021-04-10	L13025478	I35, Sanger	Chimney Swift	Chaetura pelagica	3896	species	3	33.3567926	-97.1795599	Traveling	1	0
 S82815779	2021-03-05	L13025478	I35, Sanger	Rock Pigeon	Columba livia	1868	domestic	30	33.3567926	-97.1795599	Traveling	1	0
 S85472576	2021-04-13	L13025478	I35, Sanger	passerine sp.	Passeriformes sp.	35852	spuh	1	33.3567926	-97.1795599	Traveling	1	0
-S85472576	2021-04-13	L13025478	I35, Sanger	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.3567926	-97.1795599	Traveling	1	0
+S85472576	2021-04-13	L13025478	I35, Sanger	Barn Swallow	Hirundo rustica	24187	species	2	33.3567926	-97.1795599	Traveling	1	0
 S86056232	2021-04-21	L13025478	I35, Sanger	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	33.3567926	-97.1795599	Traveling	1	0
 S82815779	2021-03-05	L13025478	I35, Sanger	Turkey Vulture	Cathartes aura	7815	species	5	33.3567926	-97.1795599	Traveling	1	0
-S85472576	2021-04-13	L13025478	I35, Sanger	Barn Swallow	Hirundo rustica	24187	species	2	33.3567926	-97.1795599	Traveling	1	0
 S82815779	2021-03-05	L13025478	I35, Sanger	Great-tailed Grackle	Quiscalus mexicanus	33864	species	40	33.3567926	-97.1795599	Traveling	1	0
 S85472576	2021-04-13	L13025478	I35, Sanger	European Starling	Sturnus vulgaris	27813	species	6	33.3567926	-97.1795599	Traveling	1	0
 S82815779	2021-03-05	L13025478	I35, Sanger	American Kestrel	Falco sparverius	12028	species	2	33.3567926	-97.1795599	Traveling	1	0
@@ -62,8 +62,8 @@ S144516262	2023-07-14	L25925395	Sanger town square	Northern Mockingbird	Mimus po
 S144516262	2023-07-14	L25925395	Sanger town square	Western Kingbird	Tyrannus verticalis	17467	species	12	33.3623520	-97.1727290	Traveling	1	0
 S144516262	2023-07-14	L25925395	Sanger town square	Barn Swallow	Hirundo rustica	24187	species	2	33.3623520	-97.1727290	Traveling	1	0
 S144516262	2023-07-14	L25925395	Sanger town square	House Sparrow	Passer domesticus	31534	species	12	33.3623520	-97.1727290	Traveling	1	0
-S178250635	2024-05-30	L32591787	400 Locust St, Sanger US-TX 33.35968, -97.17326	Blue Jay	Cyanocitta cristata	21294	species	1	33.3596810	-97.1732650	Traveling	1	0
 S178250635	2024-05-30	L32591787	400 Locust St, Sanger US-TX 33.35968, -97.17326	American Robin	Turdus migratorius	28633	species	2	33.3596810	-97.1732650	Traveling	1	0
+S178250635	2024-05-30	L32591787	400 Locust St, Sanger US-TX 33.35968, -97.17326	Blue Jay	Cyanocitta cristata	21294	species	1	33.3596810	-97.1732650	Traveling	1	0
 S178250635	2024-05-30	L32591787	400 Locust St, Sanger US-TX 33.35968, -97.17326	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	33.3596810	-97.1732650	Traveling	1	0
 S178250635	2024-05-30	L32591787	400 Locust St, Sanger US-TX 33.35968, -97.17326	Western Kingbird	Tyrannus verticalis	17467	species	1	33.3596810	-97.1732650	Traveling	1	0
 S178250635	2024-05-30	L32591787	400 Locust St, Sanger US-TX 33.35968, -97.17326	Northern Mockingbird	Mimus polyglottos	28114	species	2	33.3596810	-97.1732650	Traveling	1	0

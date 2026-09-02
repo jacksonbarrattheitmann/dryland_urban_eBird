@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2244,"Robstown, TX",Robstown,Texas,Nueces,2015,8991636.2169309,16,23,city_2244_texas_robstown,923.15625,22.9765625,27.994314143567873,dry subhumid,12
-2244,"Robstown, TX",Robstown,Texas,Nueces,2016,8991636.2169309,6,6,city_2244_texas_robstown,846.831241607666,23.606770833333332,25.19823299320758,dry subhumid,12
-2244,"Robstown, TX",Robstown,Texas,Nueces,2017,8991636.2169309,3,3,city_2244_texas_robstown,697.6062488555908,23.708333333333332,20.695364613762894,dry subhumid,12
-2244,"Robstown, TX",Robstown,Texas,Nueces,2020,8991636.2169309,11,11,city_2244_texas_robstown,608.5374965667725,23.971354166666668,17.913254019290196,semiarid,12
-2244,"Robstown, TX",Robstown,Texas,Nueces,2021,8991636.2169309,14,15,city_2244_texas_robstown,871.2749996185303,23.325520833333332,26.144377577050538,dry subhumid,12
-2244,"Robstown, TX",Robstown,Texas,Nueces,2023,8991636.2169309,8,8,city_2244_texas_robstown,626.7937488555908,24.294270833333332,18.27692304355281,semiarid,12
-2244,"Robstown, TX",Robstown,Texas,Nueces,2024,8991636.2169309,15,19,city_2244_texas_robstown,797.1999950408936,24.6171875,23.02902265069609,dry subhumid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2244,2015,"Robstown, TX",Robstown,Texas,Nueces,99.9999999999989,16,23,city_2244_texas_robstown,923.15625,22.9765625,27.9943141435679,dry subhumid,12
+2244,2016,"Robstown, TX",Robstown,Texas,Nueces,99.9999999999989,6,6,city_2244_texas_robstown,846.831241607666,23.6067708333333,25.1982329932076,dry subhumid,12
+2244,2017,"Robstown, TX",Robstown,Texas,Nueces,99.9999999999989,3,3,city_2244_texas_robstown,697.606248855591,23.7083333333333,20.6953646137629,dry subhumid,12
+2244,2020,"Robstown, TX",Robstown,Texas,Nueces,99.9999999999989,11,11,city_2244_texas_robstown,608.537496566773,23.9713541666667,17.9132540192902,semiarid,12
+2244,2021,"Robstown, TX",Robstown,Texas,Nueces,99.9999999999989,14,15,city_2244_texas_robstown,871.27499961853,23.3255208333333,26.1443775770505,dry subhumid,12
+2244,2023,"Robstown, TX",Robstown,Texas,Nueces,99.9999999999989,8,8,city_2244_texas_robstown,626.793748855591,24.2942708333333,18.2769230435528,semiarid,12
+2244,2024,"Robstown, TX",Robstown,Texas,Nueces,99.9999999999989,15,19,city_2244_texas_robstown,797.199995040894,24.6171875,23.0290226506961,dry subhumid,12

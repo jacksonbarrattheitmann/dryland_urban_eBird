@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2015,7002715.34726945,4,5,city_1036_kansas_goodland,498.4374923706054,11.8046875,22.85918990449212,dry subhumid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2016,7002715.34726945,9,12,city_1036_kansas_goodland,471.862491607666,12.2734375,21.1849873468191,dry subhumid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2018,7002715.34726945,43,696,city_1036_kansas_goodland,469.1124954223633,11.21875,22.10839448234996,dry subhumid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2019,7002715.34726945,30,635,city_1036_kansas_goodland,557.7437496185303,10.734375,26.899472475950216,dry subhumid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2020,7002715.34726945,22,458,city_1036_kansas_goodland,372.8562479019165,11.783854166666666,17.116174440446617,semiarid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2021,7002715.34726945,42,384,city_1036_kansas_goodland,463.1375031471253,11.942708333333332,21.106669974898654,dry subhumid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2022,7002715.34726945,48,328,city_1036_kansas_goodland,350.4625005722046,11.4140625,16.36599783773885,semiarid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2023,7002715.34726945,49,287,city_1036_kansas_goodland,521.8062553405762,11.645833333333332,24.10654500129707,dry subhumid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2024,7002715.34726945,56,306,city_1036_kansas_goodland,432.1937441825866,12.598958333333332,19.124498475007293,semiarid,12
-1036,"Goodland, KS",Goodland,Kansas,Sherman,2025,7002715.34726945,68,472,city_1036_kansas_goodland,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1036,2015,"Goodland, KS",Goodland,Kansas,Sherman,100,4,5,city_1036_kansas_goodland,498.437492370606,11.8046875,22.8591899044921,dry subhumid,12
+1036,2016,"Goodland, KS",Goodland,Kansas,Sherman,100,9,12,city_1036_kansas_goodland,471.862491607666,12.2734375,21.1849873468191,dry subhumid,12
+1036,2018,"Goodland, KS",Goodland,Kansas,Sherman,100,43,696,city_1036_kansas_goodland,469.112495422363,11.21875,22.10839448235,dry subhumid,12
+1036,2019,"Goodland, KS",Goodland,Kansas,Sherman,100,30,635,city_1036_kansas_goodland,557.74374961853,10.734375,26.8994724759502,dry subhumid,12
+1036,2020,"Goodland, KS",Goodland,Kansas,Sherman,100,22,458,city_1036_kansas_goodland,372.856247901917,11.7838541666667,17.1161744404466,semiarid,12
+1036,2021,"Goodland, KS",Goodland,Kansas,Sherman,100,42,384,city_1036_kansas_goodland,463.137503147125,11.9427083333333,21.1066699748987,dry subhumid,12
+1036,2022,"Goodland, KS",Goodland,Kansas,Sherman,100,48,328,city_1036_kansas_goodland,350.462500572205,11.4140625,16.3659978377389,semiarid,12
+1036,2023,"Goodland, KS",Goodland,Kansas,Sherman,100,49,287,city_1036_kansas_goodland,521.806255340576,11.6458333333333,24.1065450012971,dry subhumid,12
+1036,2024,"Goodland, KS",Goodland,Kansas,Sherman,100,56,306,city_1036_kansas_goodland,432.193744182587,12.5989583333333,19.1244984750073,semiarid,12
+1036,2025,"Goodland, KS",Goodland,Kansas,Sherman,100,68,472,city_1036_kansas_goodland,,,,,

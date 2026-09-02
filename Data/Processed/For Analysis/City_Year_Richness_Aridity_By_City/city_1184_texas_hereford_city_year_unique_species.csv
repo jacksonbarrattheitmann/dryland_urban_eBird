@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2015,16647210.8864269,16,21,city_1184_texas_hereford,667.556248664856,14.283854166666668,27.489715762713637,dry subhumid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2017,16647210.8864269,26,52,city_1184_texas_hereford,488.1999946832657,14.817708333333332,19.671437351350896,semiarid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2018,16647210.8864269,12,12,city_1184_texas_hereford,400.9375004768371,14.140625,16.608414259234678,semiarid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2019,16647210.8864269,30,91,city_1184_texas_hereford,403.5687475204468,13.981770833333332,16.828146275149482,semiarid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2020,16647210.8864269,33,108,city_1184_texas_hereford,260.89374923706055,14.5703125,10.618251161317568,semiarid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2021,16647210.8864269,37,74,city_1184_texas_hereford,385.6374968290329,14.109375,15.995333633867858,semiarid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2022,16647210.8864269,22,40,city_1184_texas_hereford,343.98749816417694,14.3046875,14.153133964967743,semiarid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2023,16647210.8864269,21,41,city_1184_texas_hereford,336.7562551498413,15.080729166666666,13.426892532191784,semiarid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2024,16647210.8864269,35,53,city_1184_texas_hereford,413.7562462091446,15.533854166666666,16.2042221870792,semiarid,12
-1184,"Hereford, TX",Hereford,Texas,Deaf Smith,2025,16647210.8864269,27,48,city_1184_texas_hereford,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1184,2015,"Hereford, TX",Hereford,Texas,Deaf Smith,100,16,21,city_1184_texas_hereford,667.556248664856,14.2838541666667,27.4897157627136,dry subhumid,12
+1184,2017,"Hereford, TX",Hereford,Texas,Deaf Smith,100,26,52,city_1184_texas_hereford,488.199994683266,14.8177083333333,19.6714373513509,semiarid,12
+1184,2018,"Hereford, TX",Hereford,Texas,Deaf Smith,100,12,12,city_1184_texas_hereford,400.937500476837,14.140625,16.6084142592347,semiarid,12
+1184,2019,"Hereford, TX",Hereford,Texas,Deaf Smith,100,30,91,city_1184_texas_hereford,403.568747520447,13.9817708333333,16.8281462751495,semiarid,12
+1184,2020,"Hereford, TX",Hereford,Texas,Deaf Smith,100,33,108,city_1184_texas_hereford,260.893749237061,14.5703125,10.6182511613176,semiarid,12
+1184,2021,"Hereford, TX",Hereford,Texas,Deaf Smith,100,37,74,city_1184_texas_hereford,385.637496829033,14.109375,15.9953336338679,semiarid,12
+1184,2022,"Hereford, TX",Hereford,Texas,Deaf Smith,100,22,40,city_1184_texas_hereford,343.987498164177,14.3046875,14.1531339649677,semiarid,12
+1184,2023,"Hereford, TX",Hereford,Texas,Deaf Smith,100,21,41,city_1184_texas_hereford,336.756255149841,15.0807291666667,13.4268925321918,semiarid,12
+1184,2024,"Hereford, TX",Hereford,Texas,Deaf Smith,100,35,53,city_1184_texas_hereford,413.756246209145,15.5338541666667,16.2042221870792,semiarid,12
+1184,2025,"Hereford, TX",Hereford,Texas,Deaf Smith,100,27,48,city_1184_texas_hereford,,,,,

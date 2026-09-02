@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2015,36290227.0148998,7,10,city_2250_wyoming_rock_springs,233.81250143051147,6.697916666666666,14.002495406942671,semiarid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2016,36290227.0148998,1,1,city_2250_wyoming_rock_springs,203.81874990463257,6.755208333333334,12.164501082278347,semiarid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2017,36290227.0148998,56,389,city_2250_wyoming_rock_springs,171.5249981880188,6.322916666666666,10.508232179993495,semiarid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2018,36290227.0148998,78,1036,city_2250_wyoming_rock_springs,171.41875052452087,5.916666666666666,10.76976443085995,semiarid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2019,36290227.0148998,84,993,city_2250_wyoming_rock_springs,213.68749904632568,4.984375,14.260688153248012,semiarid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2020,36290227.0148998,67,653,city_2250_wyoming_rock_springs,124.80625009536745,6.309895833333334,7.652179472556456,arid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2021,36290227.0148998,53,374,city_2250_wyoming_rock_springs,199.08124780654907,6.682291666666667,11.933687036795948,semiarid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2022,36290227.0148998,68,424,city_2250_wyoming_rock_springs,187.0250005722046,5.8125,11.827668020376574,semiarid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2023,36290227.0148998,74,823,city_2250_wyoming_rock_springs,217.01250314712524,6.0703125,13.503937969291217,semiarid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2024,36290227.0148998,83,809,city_2250_wyoming_rock_springs,169.57500171661377,7.317708333333334,9.792000099124763,arid,12
-2250,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,2025,36290227.0148998,76,518,city_2250_wyoming_rock_springs,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2250,2015,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,7,10,city_2250_wyoming_rock_springs,233.812501430511,6.69791666666667,14.0024954069427,semiarid,12
+2250,2016,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,1,1,city_2250_wyoming_rock_springs,203.818749904633,6.75520833333333,12.1645010822783,semiarid,12
+2250,2017,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,56,389,city_2250_wyoming_rock_springs,171.524998188019,6.32291666666667,10.5082321799935,semiarid,12
+2250,2018,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,78,1036,city_2250_wyoming_rock_springs,171.418750524521,5.91666666666667,10.76976443086,semiarid,12
+2250,2019,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,84,993,city_2250_wyoming_rock_springs,213.687499046326,4.984375,14.260688153248,semiarid,12
+2250,2020,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,67,653,city_2250_wyoming_rock_springs,124.806250095367,6.30989583333333,7.65217947255646,arid,12
+2250,2021,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,53,374,city_2250_wyoming_rock_springs,199.081247806549,6.68229166666667,11.9336870367959,semiarid,12
+2250,2022,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,68,424,city_2250_wyoming_rock_springs,187.025000572205,5.8125,11.8276680203766,semiarid,12
+2250,2023,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,74,823,city_2250_wyoming_rock_springs,217.012503147125,6.0703125,13.5039379692912,semiarid,12
+2250,2024,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,83,809,city_2250_wyoming_rock_springs,169.575001716614,7.31770833333333,9.79200009912476,arid,12
+2250,2025,"Rock Springs, WY",Rock Springs,Wyoming,Sweetwater,99.9999999999926,77,523,city_2250_wyoming_rock_springs,,,,,

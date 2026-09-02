@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-865,"Eunice, NM",Eunice,New Mexico,Lea,2015,2956415.16002461,16,20,city_0865_new_mexico_eunice,536.893744468689,17.794270833333332,19.316705506978035,semiarid,12
-865,"Eunice, NM",Eunice,New Mexico,Lea,2017,2956415.16002461,8,8,city_0865_new_mexico_eunice,386.44374990463257,18.575520833333332,13.523594273524006,semiarid,12
-865,"Eunice, NM",Eunice,New Mexico,Lea,2018,2956415.16002461,8,8,city_0865_new_mexico_eunice,369.5062460899353,17.9921875,13.20033477519166,semiarid,12
-865,"Eunice, NM",Eunice,New Mexico,Lea,2020,2956415.16002461,24,34,city_0865_new_mexico_eunice,176.90624809265137,18.330729166666668,6.244323859507135,arid,12
-865,"Eunice, NM",Eunice,New Mexico,Lea,2021,2956415.16002461,32,77,city_0865_new_mexico_eunice,377.6000065803528,17.736979166666668,13.613595204849824,semiarid,12
-865,"Eunice, NM",Eunice,New Mexico,Lea,2022,2956415.16002461,19,19,city_0865_new_mexico_eunice,285.94375574588776,18.223958333333332,10.13124213013664,semiarid,12
-865,"Eunice, NM",Eunice,New Mexico,Lea,2023,2956415.16002461,14,20,city_0865_new_mexico_eunice,200.7874979972839,18.8046875,6.9706535784248285,arid,12
-865,"Eunice, NM",Eunice,New Mexico,Lea,2024,2956415.16002461,20,37,city_0865_new_mexico_eunice,341.4312517642975,19.28125,11.660405609879955,semiarid,12
-865,"Eunice, NM",Eunice,New Mexico,Lea,2025,2956415.16002461,11,19,city_0865_new_mexico_eunice,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+865,2015,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,16,20,city_0865_new_mexico_eunice,536.893744468689,17.7942708333333,19.316705506978,semiarid,12
+865,2017,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,8,8,city_0865_new_mexico_eunice,386.443749904633,18.5755208333333,13.523594273524,semiarid,12
+865,2018,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,8,8,city_0865_new_mexico_eunice,369.506246089935,17.9921875,13.2003347751917,semiarid,12
+865,2020,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,24,34,city_0865_new_mexico_eunice,176.906248092651,18.3307291666667,6.24432385950714,arid,12
+865,2021,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,32,77,city_0865_new_mexico_eunice,377.600006580353,17.7369791666667,13.6135952048498,semiarid,12
+865,2022,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,19,19,city_0865_new_mexico_eunice,285.943755745888,18.2239583333333,10.1312421301366,semiarid,12
+865,2023,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,14,20,city_0865_new_mexico_eunice,200.787497997284,18.8046875,6.97065357842483,arid,12
+865,2024,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,20,37,city_0865_new_mexico_eunice,341.431251764298,19.28125,11.66040560988,semiarid,12
+865,2025,"Eunice, NM",Eunice,New Mexico,Lea,99.9999999999902,11,19,city_0865_new_mexico_eunice,,,,,

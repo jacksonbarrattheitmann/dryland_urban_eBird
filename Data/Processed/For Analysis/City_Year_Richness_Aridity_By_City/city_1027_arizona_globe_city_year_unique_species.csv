@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1027,"Globe, AZ",Globe,Arizona,Gila,2015,19821528.9832775,28,70,city_1027_arizona_globe,574.8124961853027,18.575520833333332,20.115556232129432,dry subhumid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2016,19821528.9832775,38,72,city_1027_arizona_globe,440.91249656677246,18.502604166666668,15.469200427742404,semiarid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2017,19821528.9832775,43,119,city_1027_arizona_globe,339.46250307559967,19.0390625,11.689857517803809,semiarid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2018,19821528.9832775,42,81,city_1027_arizona_globe,430.5000002384186,18.596354166666668,15.054366641613036,semiarid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2019,19821528.9832775,40,60,city_1027_arizona_globe,510.0062527656555,17.5703125,18.49838491187416,semiarid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2020,19821528.9832775,82,496,city_1027_arizona_globe,282.58749997615814,18.690104166666668,9.849650539243417,arid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2021,19821528.9832775,71,704,city_1027_arizona_globe,447.24375426769257,18.611979166666668,15.631346285500497,semiarid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2022,19821528.9832775,66,552,city_1027_arizona_globe,362.2437423467636,18.158854166666668,12.864292708883497,semiarid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2023,19821528.9832775,75,830,city_1027_arizona_globe,348.6062488555908,18.028645833333332,12.437498797783784,semiarid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2024,19821528.9832775,85,1615,city_1027_arizona_globe,398.0875024795532,19.065104166666668,13.696407217287735,semiarid,12
-1027,"Globe, AZ",Globe,Arizona,Gila,2025,19821528.9832775,89,2168,city_1027_arizona_globe,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1027,2015,"Globe, AZ",Globe,Arizona,Gila,100,28,70,city_1027_arizona_globe,574.812496185303,18.5755208333333,20.1155562321294,dry subhumid,12
+1027,2016,"Globe, AZ",Globe,Arizona,Gila,100,38,72,city_1027_arizona_globe,440.912496566772,18.5026041666667,15.4692004277424,semiarid,12
+1027,2017,"Globe, AZ",Globe,Arizona,Gila,100,43,119,city_1027_arizona_globe,339.4625030756,19.0390625,11.6898575178038,semiarid,12
+1027,2018,"Globe, AZ",Globe,Arizona,Gila,100,42,81,city_1027_arizona_globe,430.500000238419,18.5963541666667,15.054366641613,semiarid,12
+1027,2019,"Globe, AZ",Globe,Arizona,Gila,100,40,60,city_1027_arizona_globe,510.006252765656,17.5703125,18.4983849118742,semiarid,12
+1027,2020,"Globe, AZ",Globe,Arizona,Gila,100,82,496,city_1027_arizona_globe,282.587499976158,18.6901041666667,9.84965053924342,arid,12
+1027,2021,"Globe, AZ",Globe,Arizona,Gila,100,71,704,city_1027_arizona_globe,447.243754267693,18.6119791666667,15.6313462855005,semiarid,12
+1027,2022,"Globe, AZ",Globe,Arizona,Gila,100,66,552,city_1027_arizona_globe,362.243742346764,18.1588541666667,12.8642927088835,semiarid,12
+1027,2023,"Globe, AZ",Globe,Arizona,Gila,100,75,830,city_1027_arizona_globe,348.606248855591,18.0286458333333,12.4374987977838,semiarid,12
+1027,2024,"Globe, AZ",Globe,Arizona,Gila,100,85,1615,city_1027_arizona_globe,398.087502479553,19.0651041666667,13.6964072172877,semiarid,12
+1027,2025,"Globe, AZ",Globe,Arizona,Gila,100,89,2168,city_1027_arizona_globe,,,,,

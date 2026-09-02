@@ -1,8 +1,8 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S26137264	2015-12-05	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.3679420	-100.0095790	Traveling	1	0
-S26137264	2015-12-05	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red Crossbill	Loxia curvirostra	32498	species	1	48.3679420	-100.0095790	Traveling	1	0
 S26137264	2015-12-05	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Black-capped Chickadee	Poecile atricapillus	22065	species	9	48.3679420	-100.0095790	Traveling	1	0
 S26137264	2015-12-05	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	48.3679420	-100.0095790	Traveling	1	0
+S26137264	2015-12-05	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red Crossbill	Loxia curvirostra	32498	species	1	48.3679420	-100.0095790	Traveling	1	0
 S26137264	2015-12-05	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Pine Siskin	Spinus pinus	32595	species	1	48.3679420	-100.0095790	Traveling	1	0
 S26137264	2015-12-05	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Dark-eyed Junco	Junco hyemalis	33126	issf	1	48.3679420	-100.0095790	Traveling	1	0
 S26137264	2015-12-05	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Crow	Corvus brachyrhynchos	21557	species	3	48.3679420	-100.0095790	Traveling	1	0
@@ -23,8 +23,8 @@ S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Mall
 S31038551	2016-08-09	L4846180	US-ND-Rugby-300-344 3rd Ave SW - 48.3672x-99.9987	Ring-billed Gull	Larus delawarensis	6521	species	5	48.3672010	-99.9986810	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Black Tern	Chlidonias niger	6725	species	1	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	3	48.3679420	-100.0095790	Traveling	1	0
-S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Black-capped Chickadee	Poecile atricapillus	22065	species	10	48.3679420	-100.0095790	Traveling	1	0
 S27588104	2016-02-15	L764924	Rugby	American Goldfinch	Spinus tristis	32617	species	14	48.3689000	-99.9962100	Traveling	1	0
+S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Black-capped Chickadee	Poecile atricapillus	22065	species	10	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	European Starling	Sturnus vulgaris	27813	species	1	48.3679420	-100.0095790	Traveling	1	0
 S31038551	2016-08-09	L4846180	US-ND-Rugby-300-344 3rd Ave SW - 48.3672x-99.9987	House Sparrow	Passer domesticus	31534	species	2	48.3672010	-99.9986810	Traveling	1	0
 S31038551	2016-08-09	L4846180	US-ND-Rugby-300-344 3rd Ave SW - 48.3672x-99.9987	Blue Jay	Cyanocitta cristata	21294	species	2	48.3672010	-99.9986810	Traveling	1	0
@@ -44,27 +44,27 @@ S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Barn
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Pine Siskin	Spinus pinus	32595	species	4	48.3679420	-100.0095790	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Robin	Turdus migratorius	28633	species	15	48.3679420	-100.0095790	Traveling	1	0
 S27588104	2016-02-15	L764924	Rugby	Black-capped Chickadee	Poecile atricapillus	22065	species	7	48.3689000	-99.9962100	Traveling	1	0
-S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Canada Goose	Branta canadensis	342	species	2	48.3679420	-100.0095790	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Orange-crowned Warbler	Leiothlypis celata	33973	species	6	48.3679420	-100.0095790	Traveling	1	0
+S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Canada Goose	Branta canadensis	342	species	2	48.3679420	-100.0095790	Traveling	1	0
 S27588104	2016-02-15	L764924	Rugby	House Sparrow	Passer domesticus	31534	species	4	48.3689000	-99.9962100	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Least Flycatcher	Empidonax minimus	16963	species	1	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Horned Lark	Eremophila alpestris	22710	species	1	48.3679420	-100.0095790	Traveling	1	0
-S27204902	2016-01-30	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3679420	-100.0095790	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Blue Jay	Cyanocitta cristata	21294	species	3	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Ring-necked Pheasant	Phasianus colchicus	1477	species	2	48.3679420	-100.0095790	Traveling	1	0
+S27204902	2016-01-30	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3679420	-100.0095790	Traveling	1	0
 S31038551	2016-08-09	L4846180	US-ND-Rugby-300-344 3rd Ave SW - 48.3672x-99.9987	American Goldfinch	Spinus tristis	32617	species	2	48.3672010	-99.9986810	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Blue-winged Teal	Spatula discors	485	species	14	48.3679420	-100.0095790	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Greater Yellowlegs	Tringa melanoleuca	6154	species	1	48.3679420	-100.0095790	Traveling	1	0
-S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Gadwall	Mareca strepera	505	species	2	48.3679420	-100.0095790	Traveling	1	0
 S27204902	2016-01-30	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	House Sparrow	Passer domesticus	31534	species	5	48.3679420	-100.0095790	Traveling	1	0
+S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Gadwall	Mareca strepera	505	species	2	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-eyed Vireo	Vireo olivaceus	19267	species	2	48.3679420	-100.0095790	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Eastern Phoebe	Sayornis phoebe	17007	species	1	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	48.3679420	-100.0095790	Traveling	1	0
-S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Double-crested Cormorant	Nannopterum auritum	7424	species	3	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern House Wren	Troglodytes aedon	27191	species	3	48.3679420	-100.0095790	Traveling	1	0
+S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Double-crested Cormorant	Nannopterum auritum	7424	species	3	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Common Grackle	Quiscalus quiscula	33853	species	30	48.3679420	-100.0095790	Traveling	1	0
-S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-breasted Nuthatch	Sitta canadensis	26937	species	5	48.3679420	-100.0095790	Traveling	1	0
 S27588104	2016-02-15	L764924	Rugby	Blue Jay	Cyanocitta cristata	21294	species	1	48.3689000	-99.9962100	Traveling	1	0
+S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-breasted Nuthatch	Sitta canadensis	26937	species	5	48.3679420	-100.0095790	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	48.3679420	-100.0095790	Traveling	1	0
 S31038551	2016-08-09	L4846180	US-ND-Rugby-300-344 3rd Ave SW - 48.3672x-99.9987	Red-breasted Nuthatch	Sitta canadensis	26937	species	3	48.3672010	-99.9986810	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Wigeon	Mareca americana	517	species	3	48.3679420	-100.0095790	Traveling	1	0
@@ -89,8 +89,8 @@ S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Vesp
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Double-crested Cormorant	Nannopterum auritum	7424	species	2	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Ovenbird	Seiurus aurocapilla	33946	species	1	48.3679420	-100.0095790	Traveling	1	0
 S31038551	2016-08-09	L4846180	US-ND-Rugby-300-344 3rd Ave SW - 48.3672x-99.9987	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	48.3672010	-99.9986810	Traveling	1	0
-S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Killdeer	Charadrius vociferus	5827	species	2	48.3679420	-100.0095790	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Crow	Corvus brachyrhynchos	21557	species	2	48.3679420	-100.0095790	Traveling	1	0
+S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Killdeer	Charadrius vociferus	5827	species	2	48.3679420	-100.0095790	Traveling	1	0
 S29770957	2016-05-19	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Tree Swallow	Tachycineta bicolor	24064	species	2	48.3679420	-100.0095790	Traveling	1	0
 S31038551	2016-08-09	L4846180	US-ND-Rugby-300-344 3rd Ave SW - 48.3672x-99.9987	Hooded Merganser	Lophodytes cucullatus	754	species	1	48.3672010	-99.9986810	Traveling	1	0
 S31619728	2016-09-17	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	48.3679420	-100.0095790	Traveling	1	0
@@ -124,29 +124,29 @@ S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Blue
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Black-capped Chickadee	Poecile atricapillus	22065	species	9	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Coot	Fulica americana	5500	species	15	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Wood Duck	Aix sponsa	455	species	10	48.3679420	-100.0095790	Traveling	1	0
-S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Gray Catbird	Dumetella carolinensis	28000	species	2	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Song Sparrow	Melospiza melodia	33277	species	1	48.3679420	-100.0095790	Traveling	1	0
+S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Gray Catbird	Dumetella carolinensis	28000	species	2	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Cedar Waxwing	Bombycilla cedrorum	29888	species	5	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern House Wren	Troglodytes aedon	27191	species	1	48.3679420	-100.0095790	Traveling	1	0
 S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Crow	Corvus brachyrhynchos	21557	species	2	48.3679420	-100.0095790	Traveling	1	0
-S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Common Grackle	Quiscalus quiscula	33853	species	4	48.3679420	-100.0095790	Traveling	1	0
+S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Goldfinch	Spinus tristis	32617	species	2	48.3679420	-100.0095790	Traveling	1	0
 S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Mourning Dove	Zenaida macroura	2412	species	5	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Mallard	Anas platyrhynchos	545	species	140	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Wilson's Warbler	Cardellina pusilla	34346	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	House Sparrow	Passer domesticus	31534	species	1	48.3679420	-100.0095790	Traveling	1	0
-S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Lesser Yellowlegs	Tringa flavipes	6145	species	5	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Lesser Yellowlegs	Tringa flavipes	6145	species	1	48.3679420	-100.0095790	Traveling	1	0
+S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Lesser Yellowlegs	Tringa flavipes	6145	species	5	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Canada Goose	Branta canadensis	342	species	5	48.3679420	-100.0095790	Traveling	1	0
+S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Pine Siskin	Spinus pinus	32595	species	35	48.3679420	-100.0095790	Traveling	1	0
 S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Least Flycatcher	Empidonax minimus	16963	species	4	48.3679420	-100.0095790	Traveling	1	0
 S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Rusty Blackbird	Euphagus carolinus	33848	species	1	48.3679420	-100.0095790	Traveling	1	0
-S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Pine Siskin	Spinus pinus	32595	species	35	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Wilson's Phalarope	Phalaropus tricolor	6119	species	20	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Robin	Turdus migratorius	28633	species	3	48.3679420	-100.0095790	Traveling	1	0
-S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Black-capped Chickadee	Poecile atricapillus	22065	species	6	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Goldfinch	Spinus tristis	32617	species	6	48.3679420	-100.0095790	Traveling	1	0
+S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Black-capped Chickadee	Poecile atricapillus	22065	species	6	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Least Flycatcher	Empidonax minimus	16963	species	3	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Cooper's Hawk	Astur cooperii	8278	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Spotted Sandpiper	Actitis macularius	6126	species	3	48.3679420	-100.0095790	Traveling	1	0
@@ -168,8 +168,8 @@ S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Blue
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Gadwall	Mareca strepera	505	species	20	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Barn Swallow	Hirundo rustica	24187	species	10	48.3679420	-100.0095790	Traveling	1	0
-S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Redstart	Setophaga ruticilla	34058	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Magnolia Warbler	Setophaga magnolia	34079	species	1	48.3679420	-100.0095790	Traveling	1	0
+S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Redstart	Setophaga ruticilla	34058	species	1	48.3679420	-100.0095790	Traveling	1	0
 S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Redpoll	Acanthis flammea	32484	form	4	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Common Grackle	Quiscalus quiscula	33853	species	20	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Redstart	Setophaga ruticilla	34058	species	5	48.3679420	-100.0095790	Traveling	1	0
@@ -180,14 +180,14 @@ S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Dark
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Bobolink	Dolichonyx oryzivorus	33564	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Common Yellowthroat	Geothlypis trichas	34028	species	1	48.3679420	-100.0095790	Traveling	1	0
 S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Green-winged Teal	Anas crecca	612	species	1	48.3679420	-100.0095790	Traveling	1	0
-S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	48.3679420	-100.0095790	Traveling	1	0
 S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Black-capped Chickadee	Poecile atricapillus	22065	species	4	48.3679420	-100.0095790	Traveling	1	0
+S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	48.3679420	-100.0095790	Traveling	1	0
 S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Eastern Phoebe	Sayornis phoebe	17007	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Belted Kingfisher	Megaceryle alcyon	10306	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	House Finch	Haemorhous mexicanus	32310	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Killdeer	Charadrius vociferus	5827	species	2	48.3679420	-100.0095790	Traveling	1	0
-S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Common Grackle	Quiscalus quiscula	33853	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-winged Blackbird	Agelaius phoeniceus	33779	species	250	48.3679420	-100.0095790	Traveling	1	0
+S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Common Grackle	Quiscalus quiscula	33853	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Double-crested Cormorant	Nannopterum auritum	7424	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.3679420	-100.0095790	Traveling	1	0
@@ -196,8 +196,8 @@ S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Bank
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Bank Swallow	Riparia riparia	24051	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern House Wren	Troglodytes aedon	27191	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38607836	2017-08-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Franklin's Gull	Leucophaeus pipixcan	6494	species	30	48.3679420	-100.0095790	Traveling	1	0
-S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	White-winged Crossbill	Loxia leucoptera	32542	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-breasted Nuthatch	Sitta canadensis	26937	species	4	48.3679420	-100.0095790	Traveling	1	0
+S40465160	2017-11-12	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	White-winged Crossbill	Loxia leucoptera	32542	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38851755	2017-08-27	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	House Sparrow	Passer domesticus	31534	species	1	48.3679420	-100.0095790	Traveling	1	0
 S38936718	2017-09-01	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	House Finch	Haemorhous mexicanus	32310	species	6	48.3679420	-100.0095790	Traveling	1	0
@@ -241,100 +241,100 @@ S43529404	2018-03-10	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Pine
 S43529404	2018-03-10	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Redpoll	Acanthis flammea	32491	form	1	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Least Flycatcher	Empidonax minimus	16963	species	6	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Mourning Dove	Zenaida macroura	2412	species	6	48.3679420	-100.0095790	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Turkey Vulture	Cathartes aura	7815	species	1	48.3713227	-100.0026469	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	American Coot	Fulica americana	5500	species	14	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	48.3713227	-100.0026469	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Wilson's Phalarope	Phalaropus tricolor	6119	species	225	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Mallard	Anas platyrhynchos	545	species	70	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Common Yellowthroat	Geothlypis trichas	34028	species	3	48.3679420	-100.0095790	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Horned Lark	Eremophila alpestris	22710	species	1	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Lark Bunting	Calamospiza melanocorys	33032	species	1	48.3713227	-100.0026469	Traveling	1	1
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Vesper Sparrow	Pooecetes gramineus	33217	species	2	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Western Kingbird	Tyrannus verticalis	17467	species	1	48.3713227	-100.0026469	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Franklin's Gull	Leucophaeus pipixcan	6494	species	150	48.3713227	-100.0026469	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Baird's Sandpiper	Calidris bairdii	6217	species	2	48.3679420	-100.0095790	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Ring-billed Gull	Larus delawarensis	6521	species	9	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern House Wren	Troglodytes aedon	27191	species	3	48.3679420	-100.0095790	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Olive-sided Flycatcher	Contopus cooperi	16890	species	1	48.3679420	-100.0095790	Traveling	1	1
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	American Goldfinch	Spinus tristis	32617	species	2	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Eastern Phoebe	Sayornis phoebe	17007	species	1	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Purple Martin	Progne subis	24081	species	2	48.3679420	-100.0095790	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Rock Pigeon	Columba livia	1868	domestic	4	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern Pintail	Anas acuta	594	species	25	48.3679420	-100.0095790	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Tree Swallow	Tachycineta bicolor	24064	species	6	48.3679420	-100.0095790	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Mourning Dove	Zenaida macroura	2412	species	5	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Gadwall	Mareca strepera	505	species	3	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Western Kingbird	Tyrannus verticalis	17467	species	2	48.3679420	-100.0095790	Traveling	1	0
 S60407494	2019-06-04	L10000057	Pierce Co ND Fairgrounds	Common Grackle	Quiscalus quiscula	33853	species	4	48.3727038	-99.9782225	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3713227	-100.0026469	Traveling	1	0
 S60407494	2019-06-04	L10000057	Pierce Co ND Fairgrounds	Lark Sparrow	Chondestes grammacus	33029	species	1	48.3727038	-99.9782225	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Barn Swallow	Hirundo rustica	24187	species	6	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Greater Yellowlegs	Tringa melanoleuca	6154	species	1	48.3679420	-100.0095790	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Lesser Yellowlegs	Tringa flavipes	6145	species	20	48.3679420	-100.0095790	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Alder Flycatcher	Empidonax alnorum	16951	species	1	48.3679420	-100.0095790	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern Shoveler	Spatula clypeata	501	species	65	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Song Sparrow	Melospiza melodia	33277	species	1	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	8	48.3713227	-100.0026469	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Pectoral Sandpiper	Calidris melanotos	6227	species	25	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Killdeer	Charadrius vociferus	5827	species	6	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Double-crested Cormorant	Nannopterum auritum	7424	species	9	48.3713227	-100.0026469	Traveling	1	0
+S60407494	2019-06-04	L10000057	Pierce Co ND Fairgrounds	Red-winged Blackbird	Agelaius phoeniceus	33779	species	10	48.3727038	-99.9782225	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Black-billed Magpie	Pica hudsonia	21476	species	2	48.3713227	-100.0026469	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Song Sparrow	Melospiza melodia	33277	species	4	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	House Sparrow	Passer domesticus	31534	species	9	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Wilson's Phalarope	Phalaropus tricolor	6119	species	1	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	American White Pelican	Pelecanus erythrorhynchos	7791	species	4	48.3713227	-100.0026469	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Long-billed Dowitcher	Limnodromus scolopaceus	6061	species	9	48.3679420	-100.0095790	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Stilt Sandpiper	Calidris himantopus	6183	species	10	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	European Starling	Sturnus vulgaris	27813	species	1	48.3713227	-100.0026469	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Turkey Vulture	Cathartes aura	7815	species	1	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Red-tailed Hawk	Buteo jamaicensis	8506	species	3	48.3713227	-100.0026469	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Wilson's Phalarope	Phalaropus tricolor	6119	species	225	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Horned Lark	Eremophila alpestris	22710	species	1	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Lark Bunting	Calamospiza melanocorys	33032	species	1	48.3713227	-100.0026469	Traveling	1	1
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Western Kingbird	Tyrannus verticalis	17467	species	1	48.3713227	-100.0026469	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Baird's Sandpiper	Calidris bairdii	6217	species	2	48.3679420	-100.0095790	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Olive-sided Flycatcher	Contopus cooperi	16890	species	1	48.3679420	-100.0095790	Traveling	1	1
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Eastern Phoebe	Sayornis phoebe	17007	species	1	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Mourning Dove	Zenaida macroura	2412	species	5	48.3713227	-100.0026469	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Tree Swallow	Tachycineta bicolor	24064	species	6	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Gadwall	Mareca strepera	505	species	3	48.3713227	-100.0026469	Traveling	1	0
+S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Barn Swallow	Hirundo rustica	24187	species	6	48.3679420	-100.0095790	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Clay-colored Sparrow	Spizella pallida	32996	species	3	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Wood Duck	Aix sponsa	455	species	10	48.3679420	-100.0095790	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Lesser Yellowlegs	Tringa flavipes	6145	species	20	48.3679420	-100.0095790	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Swainson's Hawk	Buteo swainsoni	8504	species	1	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Killdeer	Charadrius vociferus	5827	species	15	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Semipalmated Sandpiper	Calidris pusilla	6232	species	1	48.3679420	-100.0095790	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Alder Flycatcher	Empidonax alnorum	16951	species	1	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.3679420	-100.0095790	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Northern Shoveler	Spatula clypeata	501	species	65	48.3679420	-100.0095790	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Song Sparrow	Melospiza melodia	33277	species	1	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Chipping Sparrow	Spizella passerina	32990	species	4	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	House Finch	Haemorhous mexicanus	32310	species	3	48.3679420	-100.0095790	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	8	48.3713227	-100.0026469	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Pectoral Sandpiper	Calidris melanotos	6227	species	25	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	American Goldfinch	Spinus tristis	32617	species	5	48.3679420	-100.0095790	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Least Sandpiper	Calidris minutilla	6226	species	35	48.3679420	-100.0095790	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Great Egret	Ardea alba	7729	species	4	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Marsh Wren	Cistothorus palustris	27329	species	1	48.3679420	-100.0095790	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Spotted Sandpiper	Actitis macularius	6126	species	1	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Killdeer	Charadrius vociferus	5827	species	6	48.3713227	-100.0026469	Traveling	1	0
 S60407494	2019-06-04	L10000057	Pierce Co ND Fairgrounds	Barn Swallow	Hirundo rustica	24187	species	10	48.3727038	-99.9782225	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	48.3679420	-100.0095790	Traveling	1	0
 S60407494	2019-06-04	L10000057	Pierce Co ND Fairgrounds	American Robin	Turdus migratorius	28633	species	6	48.3727038	-99.9782225	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Double-crested Cormorant	Nannopterum auritum	7424	species	9	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Spotted Sandpiper	Actitis macularius	6126	species	8	48.3679420	-100.0095790	Traveling	1	0
-S60407494	2019-06-04	L10000057	Pierce Co ND Fairgrounds	Red-winged Blackbird	Agelaius phoeniceus	33779	species	10	48.3727038	-99.9782225	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Mallard	Anas platyrhynchos	545	species	2	48.3713227	-100.0026469	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Canada Goose	Branta canadensis	342	species	3	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Blue-winged Teal	Spatula discors	485	species	250	48.3679420	-100.0095790	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Black-billed Magpie	Pica hudsonia	21476	species	2	48.3713227	-100.0026469	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Song Sparrow	Melospiza melodia	33277	species	4	48.3679420	-100.0095790	Traveling	1	0
 S60407494	2019-06-04	L10000057	Pierce Co ND Fairgrounds	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	30	48.3727038	-99.9782225	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	House Sparrow	Passer domesticus	31534	species	9	48.3713227	-100.0026469	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Barn Swallow	Hirundo rustica	24187	species	10	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Eastern Kingbird	Tyrannus tyrannus	17472	species	6	48.3713227	-100.0026469	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Black Tern	Chlidonias niger	6725	species	55	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Cedar Waxwing	Bombycilla cedrorum	29888	species	5	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Eastern Kingbird	Tyrannus tyrannus	17472	species	6	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Gadwall	Mareca strepera	505	species	15	48.3679420	-100.0095790	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Wilson's Phalarope	Phalaropus tricolor	6119	species	1	48.3713227	-100.0026469	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Cedar Waxwing	Bombycilla cedrorum	29888	species	5	48.3713227	-100.0026469	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	American Robin	Turdus migratorius	28633	species	9	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	American White Pelican	Pelecanus erythrorhynchos	7791	species	4	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Common Grackle	Quiscalus quiscula	33853	species	15	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Common Grackle	Quiscalus quiscula	33853	species	1	48.3679420	-100.0095790	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	48.3713227	-100.0026469	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Long-billed Dowitcher	Limnodromus scolopaceus	6061	species	9	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Common Grackle	Quiscalus quiscula	33853	species	15	48.3713227	-100.0026469	Traveling	1	0
 S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Northern Harrier	Circus hudsonius	8324	species	1	48.3713227	-100.0026469	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Stilt Sandpiper	Calidris himantopus	6183	species	10	48.3679420	-100.0095790	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	European Starling	Sturnus vulgaris	27813	species	1	48.3713227	-100.0026469	Traveling	1	0
-S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Western Meadowlark	Sturnella neglecta	33565	species	5	48.3713227	-100.0026469	Traveling	1	0
 S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Solitary Sandpiper	Tringa solitaria	6129	species	1	48.3679420	-100.0095790	Traveling	1	0
-S58741308	2019-08-04	L4048908	Persilla Watts Cemetery, Rugby Sewage Lagoons	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3679420	-100.0095790	Traveling	1	0
+S59186167	2019-08-22	L9826215	Rugby, North Dakota, To Border	Western Meadowlark	Sturnella neglecta	33565	species	5	48.3713227	-100.0026469	Traveling	1	0
 S98745577	2021-12-11	L17077111	Rugby trailer house	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.3632050	-100.0027960	Stationary	1	0
 S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Black-capped Chickadee	Poecile atricapillus	22065	species	1	48.3674820	-100.0050880	Stationary	1	0
 S93011651	2021-08-09	L16059793	Geographic Center Of North America	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.3542183	-99.9984396	Traveling	1	0
-S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Chimney Swift	Chaetura pelagica	3896	species	8	48.3674820	-100.0050880	Stationary	1	0
-S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	48.3674820	-100.0050880	Stationary	1	0
-S93011651	2021-08-09	L16059793	Geographic Center Of North America	Rock Pigeon	Columba livia	1868	domestic	2	48.3542183	-99.9984396	Traveling	1	0
 S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Mourning Dove	Zenaida macroura	2412	species	2	48.3674820	-100.0050880	Stationary	1	0
+S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	1	48.3674820	-100.0050880	Stationary	1	0
+S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Chimney Swift	Chaetura pelagica	3896	species	8	48.3674820	-100.0050880	Stationary	1	0
+S93011651	2021-08-09	L16059793	Geographic Center Of North America	Rock Pigeon	Columba livia	1868	domestic	2	48.3542183	-99.9984396	Traveling	1	0
 S91188896	2021-07-03	L15623712	Rugby—Ellery Park	American Goldfinch	Spinus tristis	32617	species	1	48.3674820	-100.0050880	Stationary	1	0
 S98745577	2021-12-11	L17077111	Rugby trailer house	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	48.3632050	-100.0027960	Stationary	1	0
-S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Purple Martin	Progne subis	24081	species	1	48.3674820	-100.0050880	Stationary	1	0
-S98745577	2021-12-11	L17077111	Rugby trailer house	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	48.3632050	-100.0027960	Stationary	1	0
 S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.3674820	-100.0050880	Stationary	1	0
-S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Gray Catbird	Dumetella carolinensis	28000	species	1	48.3674820	-100.0050880	Stationary	1	0
+S98745577	2021-12-11	L17077111	Rugby trailer house	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	48.3632050	-100.0027960	Stationary	1	0
+S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Purple Martin	Progne subis	24081	species	1	48.3674820	-100.0050880	Stationary	1	0
 S93011651	2021-08-09	L16059793	Geographic Center Of North America	Barn Swallow	Hirundo rustica	24187	species	1	48.3542183	-99.9984396	Traveling	1	0
+S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Gray Catbird	Dumetella carolinensis	28000	species	1	48.3674820	-100.0050880	Stationary	1	0
 S91188896	2021-07-03	L15623712	Rugby—Ellery Park	American Robin	Turdus migratorius	28633	species	2	48.3674820	-100.0050880	Stationary	1	0
 S93011651	2021-08-09	L16059793	Geographic Center Of North America	Red-tailed Hawk	Buteo jamaicensis	8506	species	2	48.3542183	-99.9984396	Traveling	1	0
 S91188896	2021-07-03	L15623712	Rugby—Ellery Park	House Sparrow	Passer domesticus	31534	species	5	48.3674820	-100.0050880	Stationary	1	0
@@ -342,40 +342,40 @@ S93011651	2021-08-09	L16059793	Geographic Center Of North America	Prairie Falcon
 S91188896	2021-07-03	L15623712	Rugby—Ellery Park	Common Grackle	Quiscalus quiscula	33853	species	2	48.3674820	-100.0050880	Stationary	1	0
 S122781706	2022-11-21	L21596518	207 Fifth Ave NW, Rugby US-ND 48.37234, -100.00267	House Finch	Haemorhous mexicanus	32310	species	3	48.3723400	-100.0026690	Stationary	1	0
 S122780321	2022-11-21	L21596267	122–198 Seventh Ave SE, Rugby US-ND 48.36902, -99.98511	House Sparrow	Passer domesticus	31534	species	75	48.3690180	-99.9851100	Stationary	1	0
+S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Purple Finch	Haemorhous purpureus	32324	species	4	48.3685530	-100.0042980	Stationary	1	0
 S111766597	2022-05-30	L19380351	Rugby (town)	European Starling	Sturnus vulgaris	27813	species	1	48.3544078	-99.9966003	Traveling	1	0
 S111766597	2022-05-30	L19380351	Rugby (town)	Mallard	Anas platyrhynchos	545	species	1	48.3544078	-99.9966003	Traveling	1	0
-S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Purple Finch	Haemorhous purpureus	32324	species	4	48.3685530	-100.0042980	Stationary	1	0
 S111766597	2022-05-30	L19380351	Rugby (town)	American Robin	Turdus migratorius	28633	species	6	48.3544078	-99.9966003	Traveling	1	0
 S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	House Sparrow	Passer domesticus	31534	species	4	48.3685530	-100.0042980	Stationary	1	0
-S122780321	2022-11-21	L21596267	122–198 Seventh Ave SE, Rugby US-ND 48.36902, -99.98511	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	48.3690180	-99.9851100	Stationary	1	0
 S122780321	2022-11-21	L21596267	122–198 Seventh Ave SE, Rugby US-ND 48.36902, -99.98511	Rock Pigeon	Columba livia	1868	domestic	6	48.3690180	-99.9851100	Stationary	1	0
+S122780321	2022-11-21	L21596267	122–198 Seventh Ave SE, Rugby US-ND 48.36902, -99.98511	White-breasted Nuthatch	Sitta carolinensis	26889	species	1	48.3690180	-99.9851100	Stationary	1	0
 S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Black-capped Chickadee	Poecile atricapillus	22065	species	5	48.3685530	-100.0042980	Stationary	1	0
 S112017721	2022-06-03	L19432117	306 U.S. 2, Rugby, North Dakota, US (48.354, -99.991)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	48.3535922	-99.9914310	Stationary	1	0
 S122780321	2022-11-21	L21596267	122–198 Seventh Ave SE, Rugby US-ND 48.36902, -99.98511	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3690180	-99.9851100	Stationary	1	0
-S112017721	2022-06-03	L19432117	306 U.S. 2, Rugby, North Dakota, US (48.354, -99.991)	Canada Goose	Branta canadensis	342	species	16	48.3535922	-99.9914310	Stationary	1	0
 S111766597	2022-05-30	L19380351	Rugby (town)	Northern House Wren	Troglodytes aedon	27191	species	1	48.3544078	-99.9966003	Traveling	1	0
 S111766597	2022-05-30	L19380351	Rugby (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	48.3544078	-99.9966003	Traveling	1	0
+S112017721	2022-06-03	L19432117	306 U.S. 2, Rugby, North Dakota, US (48.354, -99.991)	Canada Goose	Branta canadensis	342	species	16	48.3535922	-99.9914310	Stationary	1	0
 S122780321	2022-11-21	L21596267	122–198 Seventh Ave SE, Rugby US-ND 48.36902, -99.98511	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.3690180	-99.9851100	Stationary	1	0
 S111766597	2022-05-30	L19380351	Rugby (town)	Common Grackle	Quiscalus quiscula	33853	species	15	48.3544078	-99.9966003	Traveling	1	0
 S112017721	2022-06-03	L19432117	306 U.S. 2, Rugby, North Dakota, US (48.354, -99.991)	Mourning Dove	Zenaida macroura	2412	species	1	48.3535922	-99.9914310	Stationary	1	0
-S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	48.3685530	-100.0042980	Stationary	1	0
 S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3685530	-100.0042980	Stationary	1	0
+S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Hairy Woodpecker	Leuconotopicus villosus	11427	species	1	48.3685530	-100.0042980	Stationary	1	0
 S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.3685530	-100.0042980	Stationary	1	0
-S111766597	2022-05-30	L19380351	Rugby (town)	House Sparrow	Passer domesticus	31534	species	25	48.3544078	-99.9966003	Traveling	1	0
 S112017721	2022-06-03	L19432117	306 U.S. 2, Rugby, North Dakota, US (48.354, -99.991)	Gray Catbird	Dumetella carolinensis	28000	species	2	48.3535922	-99.9914310	Stationary	1	0
+S111766597	2022-05-30	L19380351	Rugby (town)	House Sparrow	Passer domesticus	31534	species	25	48.3544078	-99.9966003	Traveling	1	0
 S122781706	2022-11-21	L21596518	207 Fifth Ave NW, Rugby US-ND 48.37234, -100.00267	Blue Jay	Cyanocitta cristata	21294	species	2	48.3723400	-100.0026690	Stationary	1	0
 S122781706	2022-11-21	L21596518	207 Fifth Ave NW, Rugby US-ND 48.37234, -100.00267	Red-breasted Nuthatch	Sitta canadensis	26937	species	9	48.3723400	-100.0026690	Stationary	1	0
 S122780321	2022-11-21	L21596267	122–198 Seventh Ave SE, Rugby US-ND 48.36902, -99.98511	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	50	48.3690180	-99.9851100	Stationary	1	0
-S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	House Finch	Haemorhous mexicanus	32310	species	30	48.3685530	-100.0042980	Stationary	1	0
 S122780321	2022-11-21	L21596267	122–198 Seventh Ave SE, Rugby US-ND 48.36902, -99.98511	House Finch	Haemorhous mexicanus	32310	species	2	48.3690180	-99.9851100	Stationary	1	0
+S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	House Finch	Haemorhous mexicanus	32310	species	30	48.3685530	-100.0042980	Stationary	1	0
 S112017721	2022-06-03	L19432117	306 U.S. 2, Rugby, North Dakota, US (48.354, -99.991)	Barn Swallow	Hirundo rustica	24187	species	2	48.3535922	-99.9914310	Stationary	1	0
-S111766597	2022-05-30	L19380351	Rugby (town)	Lesser Scaup	Aythya affinis	700	species	2	48.3544078	-99.9966003	Traveling	1	0
 S111766597	2022-05-30	L19380351	Rugby (town)	American Crow	Corvus brachyrhynchos	21557	species	1	48.3544078	-99.9966003	Traveling	1	0
 S122781706	2022-11-21	L21596518	207 Fifth Ave NW, Rugby US-ND 48.37234, -100.00267	Dark-eyed Junco	Junco hyemalis	33126	issf	3	48.3723400	-100.0026690	Stationary	1	0
-S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Blue Jay	Cyanocitta cristata	21294	species	2	48.3685530	-100.0042980	Stationary	1	0
-S111766597	2022-05-30	L19380351	Rugby (town)	Mourning Dove	Zenaida macroura	2412	species	4	48.3544078	-99.9966003	Traveling	1	0
+S111766597	2022-05-30	L19380351	Rugby (town)	Lesser Scaup	Aythya affinis	700	species	2	48.3544078	-99.9966003	Traveling	1	0
 S112017721	2022-06-03	L19432117	306 U.S. 2, Rugby, North Dakota, US (48.354, -99.991)	Common Grackle	Quiscalus quiscula	33853	species	4	48.3535922	-99.9914310	Stationary	1	0
+S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Blue Jay	Cyanocitta cristata	21294	species	2	48.3685530	-100.0042980	Stationary	1	0
 S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	White-breasted Nuthatch	Sitta carolinensis	26889	species	3	48.3685530	-100.0042980	Stationary	1	0
+S111766597	2022-05-30	L19380351	Rugby (town)	Mourning Dove	Zenaida macroura	2412	species	4	48.3544078	-99.9966003	Traveling	1	0
 S112017721	2022-06-03	L19432117	306 U.S. 2, Rugby, North Dakota, US (48.354, -99.991)	American Robin	Turdus migratorius	28633	species	2	48.3535922	-99.9914310	Stationary	1	0
 S122781706	2022-11-21	L21596518	207 Fifth Ave NW, Rugby US-ND 48.37234, -100.00267	Black-capped Chickadee	Poecile atricapillus	22065	species	5	48.3723400	-100.0026690	Stationary	1	0
 S122779609	2022-11-21	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.3685530	-100.0042980	Stationary	1	0
@@ -388,341 +388,341 @@ S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.004
 S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	White-breasted Nuthatch	Sitta carolinensis	26889	species	3	48.3685530	-100.0042980	Stationary	1	0
 S134836638	2023-04-24	L23799983	404 Second St SW, Rugby US-ND 48.36870, -100.00074	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.3686990	-100.0007380	Traveling	1	0
 S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Purple Martin	Progne subis	24081	species	4	48.3544032	-99.9980354	Traveling	1	0
-S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.3685530	-100.0042980	Stationary	1	0
-S134836638	2023-04-24	L23799983	404 Second St SW, Rugby US-ND 48.36870, -100.00074	Ring-billed Gull	Larus delawarensis	6521	species	3	48.3686990	-100.0007380	Traveling	1	0
 S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Northern Cardinal	Cardinalis cardinalis	34515	species	1	48.3685530	-100.0042980	Stationary	1	1
 S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Hairy Woodpecker	Leuconotopicus villosus	11427	species	3	48.3685530	-100.0042980	Stationary	1	0
-S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	48.3685530	-100.0042980	Stationary	1	0
+S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Downy Woodpecker	Dryobates pubescens	11400	species	1	48.3685530	-100.0042980	Stationary	1	0
+S134836638	2023-04-24	L23799983	404 Second St SW, Rugby US-ND 48.36870, -100.00074	Ring-billed Gull	Larus delawarensis	6521	species	3	48.3686990	-100.0007380	Traveling	1	0
 S154081274	2023-11-09	L27871935	46 Country Road, Rugby, North Dakota, US (48.361, -99.987)	Dark-eyed Junco	Junco hyemalis	33124	species	8	48.3606649	-99.9867801	Traveling	1	0
+S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	48.3685530	-100.0042980	Stationary	1	0
 S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Black-capped Chickadee	Poecile atricapillus	22065	species	7	48.3685530	-100.0042980	Stationary	1	0
 S128251013	2023-02-13	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	American Crow	Corvus brachyrhynchos	21557	species	1	48.3685530	-100.0042980	Stationary	1	0
 S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.3544032	-99.9980354	Traveling	1	0
 S154081274	2023-11-09	L27871935	46 Country Road, Rugby, North Dakota, US (48.361, -99.987)	duck sp.	Anatidae (duck sp.)	792	spuh	5	48.3606649	-99.9867801	Traveling	1	0
+S154081274	2023-11-09	L27871935	46 Country Road, Rugby, North Dakota, US (48.361, -99.987)	Black-capped Chickadee	Poecile atricapillus	22065	species	6	48.3606649	-99.9867801	Traveling	1	0
 S128251013	2023-02-13	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	House Sparrow	Passer domesticus	31534	species	2	48.3685530	-100.0042980	Stationary	1	0
 S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Killdeer	Charadrius vociferus	5827	species	1	48.3544032	-99.9980354	Traveling	1	0
 S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Cedar Waxwing	Bombycilla cedrorum	29888	species	20	48.3544032	-99.9980354	Traveling	1	0
 S154081274	2023-11-09	L27871935	46 Country Road, Rugby, North Dakota, US (48.361, -99.987)	Canada Goose	Branta canadensis	342	species	30	48.3606649	-99.9867801	Traveling	1	0
-S154081274	2023-11-09	L27871935	46 Country Road, Rugby, North Dakota, US (48.361, -99.987)	Black-capped Chickadee	Poecile atricapillus	22065	species	6	48.3606649	-99.9867801	Traveling	1	0
 S154081274	2023-11-09	L27871935	46 Country Road, Rugby, North Dakota, US (48.361, -99.987)	Blue Jay	Cyanocitta cristata	21294	species	3	48.3606649	-99.9867801	Traveling	1	0
-S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Franklin's Gull	Leucophaeus pipixcan	6494	species	2	48.3544032	-99.9980354	Traveling	1	0
 S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Red-breasted Nuthatch	Sitta canadensis	26937	species	4	48.3685530	-100.0042980	Stationary	1	0
+S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Franklin's Gull	Leucophaeus pipixcan	6494	species	2	48.3544032	-99.9980354	Traveling	1	0
 S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	House Sparrow	Passer domesticus	31534	species	15	48.3685530	-100.0042980	Stationary	1	0
 S134836638	2023-04-24	L23799983	404 Second St SW, Rugby US-ND 48.36870, -100.00074	Common Grackle	Quiscalus quiscula	33853	species	5	48.3686990	-100.0007380	Traveling	1	0
-S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Chipping Sparrow	Spizella passerina	32990	species	2	48.3544032	-99.9980354	Traveling	1	0
-S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	American Robin	Turdus migratorius	28633	species	2	48.3544032	-99.9980354	Traveling	1	0
 S128251013	2023-02-13	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	White-breasted Nuthatch	Sitta carolinensis	26889	species	2	48.3685530	-100.0042980	Stationary	1	0
-S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Common Grackle	Quiscalus quiscula	33853	species	4	48.3544032	-99.9980354	Traveling	1	0
+S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	American Robin	Turdus migratorius	28633	species	2	48.3544032	-99.9980354	Traveling	1	0
+S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Chipping Sparrow	Spizella passerina	32990	species	2	48.3544032	-99.9980354	Traveling	1	0
 S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	48.3544032	-99.9980354	Traveling	1	0
-S128251013	2023-02-13	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Rock Pigeon	Columba livia	1868	domestic	3	48.3685530	-100.0042980	Stationary	1	0
+S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Common Grackle	Quiscalus quiscula	33853	species	4	48.3544032	-99.9980354	Traveling	1	0
 S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	American Goldfinch	Spinus tristis	32617	species	1	48.3685530	-100.0042980	Stationary	1	0
-S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	48.3685530	-100.0042980	Stationary	1	0
 S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	House Finch	Haemorhous mexicanus	32310	species	2	48.3544032	-99.9980354	Traveling	1	0
 S134836638	2023-04-24	L23799983	404 Second St SW, Rugby US-ND 48.36870, -100.00074	American Robin	Turdus migratorius	28633	species	4	48.3686990	-100.0007380	Traveling	1	0
+S128251013	2023-02-13	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Rock Pigeon	Columba livia	1868	domestic	3	48.3685530	-100.0042980	Stationary	1	0
+S129851899	2023-02-28	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	48.3685530	-100.0042980	Stationary	1	0
 S128251013	2023-02-13	L21596153	603 Second St SW, Rugby US-ND 48.36855, -100.00430	Black-capped Chickadee	Poecile atricapillus	22065	species	10	48.3685530	-100.0042980	Stationary	1	0
 S137060727	2023-05-11	L24214022	Geographic Center of North America, Rugby, North Dakota, US (48.354, -99.998)	Mourning Dove	Zenaida macroura	2412	species	1	48.3544032	-99.9980354	Traveling	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
-S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
+S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	3	48.3566730	-99.9863690	Stationary	1	0
-S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
-S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
+S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Purple Finch	Haemorhous purpureus	32324	species	2	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Purple Finch	Haemorhous purpureus	32324	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	6	48.3566730	-99.9863690	Stationary	1	0
+S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	4	48.3566730	-99.9863690	Stationary	1	0
+S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Purple Finch	Haemorhous purpureus	32324	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	3	48.3566730	-99.9863690	Stationary	1	0
-S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Purple Finch	Haemorhous purpureus	32324	species	2	48.3566730	-99.9863690	Stationary	1	0
 S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Purple Finch	Haemorhous purpureus	32324	species	1	48.3566730	-99.9863690	Stationary	1	0
-S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	4	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	6	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-billed Gull	Larus delawarensis	6521	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	3	48.3566730	-99.9863690	Stationary	1	0
-S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	6	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
-S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	3	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
+S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	6	48.3566730	-99.9863690	Stationary	1	0
+S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	3	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-billed Gull	Larus delawarensis	6521	species	2	48.3566730	-99.9863690	Stationary	1	0
+S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	3	48.3566730	-99.9863690	Stationary	1	0
 S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	4	48.3566730	-99.9863690	Stationary	1	0
 S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	4	48.3566730	-99.9863690	Stationary	1	0
-S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Tree Sparrow	Spizelloides arborea	33095	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
+S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	3	48.3566730	-99.9863690	Stationary	1	0
 S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	6	48.3566730	-99.9863690	Stationary	1	0
+S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
+S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	2	48.3566730	-99.9863690	Stationary	1	0
 S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	3	48.3566730	-99.9863690	Stationary	1	0
 S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
-S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	3	48.3566730	-99.9863690	Stationary	1	0
-S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Field Sparrow	Spizella pusilla	33002	species	2	48.3566730	-99.9863690	Stationary	1	0
+S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Tree Sparrow	Spizelloides arborea	33095	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	2	48.3566730	-99.9863690	Stationary	1	0
-S181508776	2024-06-14	L33363258	US-2, Rugby US-ND 48.35470, -99.99119	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3546960	-99.9911910	Traveling	1	0
+S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Field Sparrow	Spizella pusilla	33002	species	2	48.3566730	-99.9863690	Stationary	1	0
 S184437112	2024-06-27	L34079418	Rugby, ND (from Amtrak train)	Rock Pigeon	Columba livia	1868	domestic	1	48.3698454	-99.9977013	Traveling	1	0
-S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	6	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	6	48.3566730	-99.9863690	Stationary	1	0
+S181508776	2024-06-14	L33363258	US-2, Rugby US-ND 48.35470, -99.99119	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3546960	-99.9911910	Traveling	1	0
 S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
 S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	7	48.3566730	-99.9863690	Stationary	1	0
+S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	6	48.3566730	-99.9863690	Stationary	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	3	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	6	48.3566730	-99.9863690	Stationary	1	0
 S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Ring-billed Gull	Larus delawarensis	6521	species	11	48.3539580	-99.9988300	Traveling	1	0
 S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	3	48.3566730	-99.9863690	Stationary	1	0
 S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	3	48.3566730	-99.9863690	Stationary	1	0
-S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	5	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	5	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	3	48.3566730	-99.9863690	Stationary	1	0
+S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	3	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	3	48.3566730	-99.9863690	Stationary	1	0
 S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.3566730	-99.9863690	Stationary	1	0
 S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	8	48.3566730	-99.9863690	Stationary	1	0
 S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	4	48.3566730	-99.9863690	Stationary	1	0
 S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3566730	-99.9863690	Stationary	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	3	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.3566730	-99.9863690	Stationary	1	0
-S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	3	48.3566730	-99.9863690	Stationary	1	0
+S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	5	48.3566730	-99.9863690	Stationary	1	0
+S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	5	48.3566730	-99.9863690	Stationary	1	0
 S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	4	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	8	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	3	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	6	48.3566730	-99.9863690	Stationary	1	0
-S184437112	2024-06-27	L34079418	Rugby, ND (from Amtrak train)	Mourning Dove	Zenaida macroura	2412	species	2	48.3698454	-99.9977013	Traveling	1	0
-S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Mallard	Anas platyrhynchos	545	species	4	48.3539580	-99.9988300	Traveling	1	0
-S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
-S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.3566730	-99.9863690	Stationary	1	0
-S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	2	48.3566730	-99.9863690	Stationary	1	0
 S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	2	48.3566730	-99.9863690	Stationary	1	0
 S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-billed Gull	Larus delawarensis	6521	species	3	48.3566730	-99.9863690	Stationary	1	0
+S184437112	2024-06-27	L34079418	Rugby, ND (from Amtrak train)	Mourning Dove	Zenaida macroura	2412	species	2	48.3698454	-99.9977013	Traveling	1	0
+S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Mallard	Anas platyrhynchos	545	species	4	48.3539580	-99.9988300	Traveling	1	0
 S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Western Meadowlark	Sturnella neglecta	33565	species	1	48.3539580	-99.9988300	Traveling	1	0
 S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Double-crested Cormorant	Nannopterum auritum	7424	species	5	48.3539580	-99.9988300	Traveling	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
+S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
+S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	2	48.3566730	-99.9863690	Stationary	1	0
+S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	2	48.3566730	-99.9863690	Stationary	1	0
 S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	4	48.3566730	-99.9863690	Stationary	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
-S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	6	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	5	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	3	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	2	48.3566730	-99.9863690	Stationary	1	0
+S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
 S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	3	48.3566730	-99.9863690	Stationary	1	0
 S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	3	48.3566730	-99.9863690	Stationary	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	3	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	48.3566730	-99.9863690	Stationary	1	0
-S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Tundra Swan	Cygnus columbianus	384	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	3	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3566730	-99.9863690	Stationary	1	0
+S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	6	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	5	48.3566730	-99.9863690	Stationary	1	0
+S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
 S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	6	48.3566730	-99.9863690	Stationary	1	0
-S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pine Siskin	Spinus pinus	32595	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	4	48.3566730	-99.9863690	Stationary	1	0
 S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	26	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.3566730	-99.9863690	Stationary	1	0
-S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	48.3566730	-99.9863690	Stationary	1	0
-S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Tundra Swan	Cygnus columbianus	384	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	3	48.3566730	-99.9863690	Stationary	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	6	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3566730	-99.9863690	Stationary	1	0
 S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	3	48.3566730	-99.9863690	Stationary	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Lapland Longspur	Calcarius lapponicus	32664	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	5	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	6	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Lapland Longspur	Calcarius lapponicus	32664	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.3566730	-99.9863690	Stationary	1	0
+S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	2	48.3566730	-99.9863690	Stationary	1	0
+S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	6	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	5	48.3566730	-99.9863690	Stationary	1	0
 S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	4	48.3566730	-99.9863690	Stationary	1	0
 S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Cedar Waxwing	Bombycilla cedrorum	29888	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	2	48.3566730	-99.9863690	Stationary	1	0
 S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Red-winged Blackbird	Agelaius phoeniceus	33779	species	100	48.3539580	-99.9988300	Traveling	1	0
-S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	5	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Merlin	Falco columbarius	12062	species	1	48.3566730	-99.9863690	Stationary	1	0
-S184437112	2024-06-27	L34079418	Rugby, ND (from Amtrak train)	Purple Martin	Progne subis	24081	species	2	48.3698454	-99.9977013	Traveling	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
 S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Song Sparrow	Melospiza melodia	33277	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
+S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	5	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Merlin	Falco columbarius	12062	species	1	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
-S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.3566730	-99.9863690	Stationary	1	0
-S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	5	48.3566730	-99.9863690	Stationary	1	0
-S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	2	48.3566730	-99.9863690	Stationary	1	0
-S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	4	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-necked Duck	Aythya collaris	673	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
+S184437112	2024-06-27	L34079418	Rugby, ND (from Amtrak train)	Purple Martin	Progne subis	24081	species	2	48.3698454	-99.9977013	Traveling	1	0
+S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Green-winged Teal	Anas crecca	612	species	1	48.3566730	-99.9863690	Stationary	1	0
+S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	8	48.3566730	-99.9863690	Stationary	1	0
 S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
-S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Green-winged Teal	Anas crecca	612	species	1	48.3566730	-99.9863690	Stationary	1	0
 S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Chipping Sparrow	Spizella passerina	32990	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
+S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	4	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-necked Duck	Aythya collaris	673	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
+S206896534	2024-10-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
+S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	5	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	48.3566730	-99.9863690	Stationary	1	0
-S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
-S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
 S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Purple Finch	Haemorhous purpureus	32324	species	2	48.3566730	-99.9863690	Stationary	1	0
 S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	American Coot	Fulica americana	5500	species	6	48.3539580	-99.9988300	Traveling	1	0
 S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Barn Swallow	Hirundo rustica	24187	species	2	48.3539580	-99.9988300	Traveling	1	0
-S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Purple Finch	Haemorhous purpureus	32324	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	6	48.3566730	-99.9863690	Stationary	1	0
 S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	6	48.3566730	-99.9863690	Stationary	1	0
 S197944684	2024-10-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	48.3566730	-99.9863690	Stationary	1	0
 S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Mourning Dove	Zenaida macroura	2412	species	20	48.3539580	-99.9988300	Traveling	1	0
-S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	20	48.3539580	-99.9988300	Traveling	1	0
+S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	6	48.3566730	-99.9863690	Stationary	1	0
+S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
+S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	2	48.3566730	-99.9863690	Stationary	1	0
+S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Song Sparrow	Melospiza melodia	33277	species	2	48.3566730	-99.9863690	Stationary	1	0
+S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	3	48.3566730	-99.9863690	Stationary	1	0
+S181508776	2024-06-14	L33363258	US-2, Rugby US-ND 48.35470, -99.99119	Common Grackle	Quiscalus quiscula	33853	species	2	48.3546960	-99.9911910	Traveling	1	0
+S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	3	48.3566730	-99.9863690	Stationary	1	0
+S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	100	48.3539580	-99.9988300	Traveling	1	0
 S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170212880	2024-04-25	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
-S181508776	2024-06-14	L33363258	US-2, Rugby US-ND 48.35470, -99.99119	Common Grackle	Quiscalus quiscula	33853	species	2	48.3546960	-99.9911910	Traveling	1	0
+S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	6	48.3566730	-99.9863690	Stationary	1	0
 S198471048	2024-10-12	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Yellow-rumped Warbler	Setophaga coronata	34159	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Purple Martin	Progne subis	24081	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170497515	2024-04-27	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	6	48.3566730	-99.9863690	Stationary	1	0
-S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	100	48.3539580	-99.9988300	Traveling	1	0
-S170073941	2024-04-24	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	2	48.3566730	-99.9863690	Stationary	1	0
 S170357346	2024-04-26	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	4	48.3566730	-99.9863690	Stationary	1	0
 S198324864	2024-10-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
-S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	3	48.3566730	-99.9863690	Stationary	1	0
 S206895608	2024-10-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170020337	2024-04-23	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Song Sparrow	Melospiza melodia	33277	species	2	48.3566730	-99.9863690	Stationary	1	0
-S170708931	2024-04-28	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	3	48.3566730	-99.9863690	Stationary	1	0
+S198058657	2024-10-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	3	48.3566730	-99.9863690	Stationary	1	0
+S185708695	2024-07-06	L34398652	ND-3, Rugby US-ND 48.35396, -99.99883	Yellow-headed Blackbird	Xanthocephalus xanthocephalus	33563	species	20	48.3539580	-99.9988300	Traveling	1	0
 S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	48.3566730	-99.9863690	Stationary	1	0
-S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	2	48.3566730	-99.9863690	Traveling	1	0
 S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Brown-headed Cowbird	Molothrus ater	33833	species	2	48.3566730	-99.9863690	Stationary	1	0
+S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	2	48.3566730	-99.9863690	Traveling	1	0
 S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
+S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
+S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	1	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	1	48.3566730	-99.9863690	Stationary	1	0
-S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	1	48.3566730	-99.9863690	Stationary	1	0
-S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
 S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	3	48.3566730	-99.9863690	Stationary	1	0
-S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Traveling	1	0
-S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
-S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	48.3566730	-99.9863690	Stationary	1	0
-S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
-S223704356	2025-04-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	8	48.3566730	-99.9863690	Stationary	1	0
-S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
-S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	1	48.3566730	-99.9863690	Stationary	1	0
 S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
+S223704356	2025-04-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	8	48.3566730	-99.9863690	Stationary	1	0
+S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
 S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Flicker	Colaptes auratus	11900	species	1	48.3566730	-99.9863690	Traveling	1	0
 S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	5	48.3566730	-99.9863690	Stationary	1	0
+S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	1	48.3566730	-99.9863690	Stationary	1	0
+S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
+S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
+S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Traveling	1	0
+S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Bald Eagle	Haliaeetus leucocephalus	8367	species	2	48.3566730	-99.9863690	Stationary	1	0
+S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3566730	-99.9863690	Stationary	1	0
+S224869934	2025-04-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	40	48.3566730	-99.9863690	Stationary	1	0
+S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
+S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	2	48.3566730	-99.9863690	Stationary	1	0
+S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Wilson's Snipe	Gallinago delicata	6104	species	1	48.3566730	-99.9863690	Traveling	1	0
 S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
 S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	1	48.3566730	-99.9863690	Stationary	1	0
 S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern House Wren	Troglodytes aedon	27191	species	3	48.3566730	-99.9863690	Traveling	1	0
-S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Wilson's Snipe	Gallinago delicata	6104	species	1	48.3566730	-99.9863690	Traveling	1	0
-S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	2	48.3566730	-99.9863690	Stationary	1	0
-S224869934	2025-04-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	40	48.3566730	-99.9863690	Stationary	1	0
-S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
-S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	3	48.3566730	-99.9863690	Stationary	1	0
-S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
+S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	2	48.3566730	-99.9863690	Stationary	1	0
 S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	1	48.3566730	-99.9863690	Stationary	1	0
 S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
-S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	3	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
-S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	2	48.3566730	-99.9863690	Stationary	1	0
-S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Coot	Fulica americana	5500	species	2	48.3566730	-99.9863690	Traveling	1	0
-S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.3566730	-99.9863690	Traveling	1	0
-S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	1	48.3566730	-99.9863690	Traveling	1	0
-S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	1	48.3566730	-99.9863690	Stationary	1	0
 S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
+S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
+S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	1	48.3566730	-99.9863690	Traveling	1	0
+S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.3566730	-99.9863690	Traveling	1	0
+S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	1	48.3566730	-99.9863690	Stationary	1	0
+S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Coot	Fulica americana	5500	species	2	48.3566730	-99.9863690	Traveling	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
+S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	3	48.3566730	-99.9863690	Stationary	1	0
 S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
+S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Great Egret	Ardea alba	7729	species	1	48.3566730	-99.9863690	Stationary	1	0
+S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	2	48.3566730	-99.9863690	Stationary	1	0
+S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Snow Goose	Anser caerulescens	267	species	12	48.3566730	-99.9863690	Stationary	1	0
+S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
+S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Traveling	1	0
 S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
 S224869934	2025-04-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Snow Goose	Anser caerulescens	267	species	30	48.3566730	-99.9863690	Stationary	1	0
-S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Traveling	1	0
-S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Snow Goose	Anser caerulescens	267	species	12	48.3566730	-99.9863690	Stationary	1	0
-S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	2	48.3566730	-99.9863690	Stationary	1	0
-S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Great Egret	Ardea alba	7729	species	1	48.3566730	-99.9863690	Stationary	1	0
-S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
-S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Traveling	1	0
-S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	14	48.3566730	-99.9863690	Stationary	1	0
-S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
-S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	2	48.3566730	-99.9863690	Traveling	1	0
-S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	3	48.3566730	-99.9863690	Stationary	1	0
 S224869934	2025-04-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Dark-eyed Junco	Junco hyemalis	33124	species	10	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
 S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-billed Gull	Larus delawarensis	6521	species	2	48.3566730	-99.9863690	Stationary	1	0
+S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	2	48.3566730	-99.9863690	Traveling	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
-S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
+S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	14	48.3566730	-99.9863690	Stationary	1	0
+S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Traveling	1	0
+S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	2	48.3566730	-99.9863690	Stationary	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
+S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	3	48.3566730	-99.9863690	Stationary	1	0
 S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	3	48.3566730	-99.9863690	Traveling	1	0
+S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern House Wren	Troglodytes aedon	27191	species	1	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
 S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	3	48.3566730	-99.9863690	Stationary	1	0
-S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	2	48.3566730	-99.9863690	Traveling	1	0
-S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	1	48.3566730	-99.9863690	Traveling	1	0
-S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
 S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	6	48.3566730	-99.9863690	Stationary	1	0
+S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Stationary	1	0
+S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Common Grackle	Quiscalus quiscula	33853	species	1	48.3566730	-99.9863690	Traveling	1	0
 S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	3	48.3566730	-99.9863690	Stationary	1	0
-S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Flicker	Colaptes auratus	11900	species	1	48.3566730	-99.9863690	Stationary	1	0
-S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	48.3566730	-99.9863690	Traveling	1	0
+S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	2	48.3566730	-99.9863690	Traveling	1	0
 S224869934	2025-04-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	3	48.3566730	-99.9863690	Stationary	1	0
+S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	2	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ruby-throated Hummingbird	Archilochus colubris	4802	species	2	48.3566730	-99.9863690	Stationary	1	0
 S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Barn Swallow	Hirundo rustica	24187	species	1	48.3566730	-99.9863690	Traveling	1	0
-S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Blue Jay	Cyanocitta cristata	21294	species	2	48.3566730	-99.9863690	Stationary	1	0
+S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	48.3566730	-99.9863690	Traveling	1	0
+S225536864	2025-04-14	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Flicker	Colaptes auratus	11900	species	1	48.3566730	-99.9863690	Stationary	1	0
 S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Pintail	Anas acuta	594	species	1	48.3566730	-99.9863690	Stationary	1	0
+S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
+S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Gadwall	Mareca strepera	505	species	2	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canvasback	Aythya valisineria	666	species	2	48.3566730	-99.9863690	Stationary	1	0
 S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
-S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Gadwall	Mareca strepera	505	species	2	48.3566730	-99.9863690	Stationary	1	0
-S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
 S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Redhead	Aythya americana	667	species	2	48.3566730	-99.9863690	Stationary	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-billed Gull	Larus delawarensis	6521	species	1	48.3566730	-99.9863690	Stationary	1	0
+S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
 S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	4	48.3566730	-99.9863690	Stationary	1	0
 S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	1	48.3566730	-99.9863690	Traveling	1	0
 S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
 S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
-S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-billed Gull	Larus delawarensis	6521	species	1	48.3566730	-99.9863690	Stationary	1	0
-S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
-S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
-S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
 S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Flicker	Colaptes auratus	11900	species	1	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	6	48.3566730	-99.9863690	Stationary	1	0
 S264211769	2025-08-01	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Black-capped Chickadee	Poecile atricapillus	22065	species	2	48.3566730	-99.9863690	Traveling	1	0
-S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Upland Sandpiper	Bartramia longicauda	6009	species	1	48.3566730	-99.9863690	Traveling	1	0
+S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
+S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	4	48.3566730	-99.9863690	Stationary	1	0
+S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
 S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mourning Dove	Zenaida macroura	2412	species	5	48.3566730	-99.9863690	Stationary	1	0
+S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Upland Sandpiper	Bartramia longicauda	6009	species	1	48.3566730	-99.9863690	Traveling	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Pintail	Anas acuta	594	species	1	48.3566730	-99.9863690	Stationary	1	0
 S265693643	2025-08-07	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
 S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Sparrow	Passer domesticus	31534	species	2	48.3566730	-99.9863690	Traveling	1	0
 S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Brown-headed Cowbird	Molothrus ater	33833	species	2	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Pintail	Anas acuta	594	species	1	48.3566730	-99.9863690	Stationary	1	0
-S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
-S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
-S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
-S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
-S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	2	48.3566730	-99.9863690	Stationary	1	0
-S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Shoveler	Spatula clypeata	501	species	2	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.3566730	-99.9863690	Stationary	1	0
 S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Killdeer	Charadrius vociferus	5827	species	1	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.3566730	-99.9863690	Stationary	1	0
-S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
+S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
+S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	2	48.3566730	-99.9863690	Stationary	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.3566730	-99.9863690	Stationary	1	0
+S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
+S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	4	48.3566730	-99.9863690	Stationary	1	0
+S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Shoveler	Spatula clypeata	501	species	2	48.3566730	-99.9863690	Stationary	1	0
+S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Goldfinch	Spinus tristis	32617	species	2	48.3566730	-99.9863690	Stationary	1	0
 S265965697	2025-08-08	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Red-winged Blackbird	Agelaius phoeniceus	33779	species	6	48.3566730	-99.9863690	Stationary	1	0
 S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
+S267008027	2025-08-13	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Robin	Turdus migratorius	28633	species	6	48.3566730	-99.9863690	Stationary	1	0
 S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	3	48.3566730	-99.9863690	Stationary	1	0
 S263982376	2025-07-31	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	European Starling	Sturnus vulgaris	27813	species	1	48.3566730	-99.9863690	Stationary	1	0
-S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
-S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Pintail	Anas acuta	594	species	1	48.3566730	-99.9863690	Stationary	1	0
 S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	3	48.3566730	-99.9863690	Stationary	1	0
 S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Pied-billed Grebe	Podilymbus podiceps	6855	species	1	48.3566730	-99.9863690	Stationary	1	0
-S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-billed Gull	Larus delawarensis	6521	species	1	48.3566730	-99.9863690	Stationary	1	0
+S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Canada Goose	Branta canadensis	342	species	4	48.3566730	-99.9863690	Stationary	1	0
+S266138479	2025-08-09	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Northern Pintail	Anas acuta	594	species	1	48.3566730	-99.9863690	Stationary	1	0
 S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	American Crow	Corvus brachyrhynchos	21557	species	1	48.3566730	-99.9863690	Traveling	1	0
-S224869934	2025-04-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	4	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	1	48.3566730	-99.9863690	Stationary	1	0
-S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
 S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	2	48.3566730	-99.9863690	Stationary	1	0
 S264914501	2025-08-02	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Traveling	1	0
-S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	7	48.3566730	-99.9863690	Stationary	1	0
 S264914038	2025-08-03	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Franklin's Gull	Leucophaeus pipixcan	6494	species	1	48.3566730	-99.9863690	Stationary	1	0
+S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Mallard	Anas platyrhynchos	545	species	7	48.3566730	-99.9863690	Stationary	1	0
+S266371190	2025-08-10	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ring-billed Gull	Larus delawarensis	6521	species	1	48.3566730	-99.9863690	Stationary	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Turkey Vulture	Cathartes aura	7815	species	2	48.3566730	-99.9863690	Stationary	1	0
+S224869934	2025-04-11	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	House Finch	Haemorhous mexicanus	32310	species	4	48.3566730	-99.9863690	Stationary	1	0
+S265144165	2025-08-04	L30901309	1504 Sixth Ave SE, Rugby US-ND 48.35667, -99.98637	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	48.3566730	-99.9863690	Stationary	1	0

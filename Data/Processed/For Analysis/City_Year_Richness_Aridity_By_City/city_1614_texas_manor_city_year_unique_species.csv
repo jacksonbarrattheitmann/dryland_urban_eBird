@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1614,"Manor, TX",Manor,Texas,Travis,2019,9362716.05709426,25,38,city_1614_texas_manor,813.5562477111816,20.473958333333332,26.696769707835735,dry subhumid,12
-1614,"Manor, TX",Manor,Texas,Travis,2020,9362716.05709426,22,25,city_1614_texas_manor,728.449990272522,20.997395833333332,23.50036093964954,dry subhumid,12
-1614,"Manor, TX",Manor,Texas,Travis,2021,9362716.05709426,11,15,city_1614_texas_manor,876.6624946594238,20.40625,28.831654500618257,dry subhumid,12
-1614,"Manor, TX",Manor,Texas,Travis,2022,9362716.05709426,60,155,city_1614_texas_manor,486.20624923706055,20.763020833333332,15.804892889785089,semiarid,12
-1614,"Manor, TX",Manor,Texas,Travis,2023,9362716.05709426,27,54,city_1614_texas_manor,679.7812519073486,21.575520833333332,21.52874232844717,dry subhumid,12
-1614,"Manor, TX",Manor,Texas,Travis,2024,9362716.05709426,58,323,city_1614_texas_manor,733.0937585830688,21.919270833333332,22.96712109781337,dry subhumid,12
-1614,"Manor, TX",Manor,Texas,Travis,2025,9362716.05709426,43,138,city_1614_texas_manor,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1614,2019,"Manor, TX",Manor,Texas,Travis,100,25,38,city_1614_texas_manor,813.556247711182,20.4739583333333,26.6967697078357,dry subhumid,12
+1614,2020,"Manor, TX",Manor,Texas,Travis,100,22,25,city_1614_texas_manor,728.449990272522,20.9973958333333,23.5003609396495,dry subhumid,12
+1614,2021,"Manor, TX",Manor,Texas,Travis,100,11,15,city_1614_texas_manor,876.662494659424,20.40625,28.8316545006183,dry subhumid,12
+1614,2022,"Manor, TX",Manor,Texas,Travis,100,60,155,city_1614_texas_manor,486.206249237061,20.7630208333333,15.8048928897851,semiarid,12
+1614,2023,"Manor, TX",Manor,Texas,Travis,100,27,54,city_1614_texas_manor,679.781251907349,21.5755208333333,21.5287423284472,dry subhumid,12
+1614,2024,"Manor, TX",Manor,Texas,Travis,100,58,323,city_1614_texas_manor,733.093758583069,21.9192708333333,22.9671210978134,dry subhumid,12
+1614,2025,"Manor, TX",Manor,Texas,Travis,100,43,138,city_1614_texas_manor,,,,,

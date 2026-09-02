@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2015,9566905.35721413,11,13,city_1034_texas_gonzales,1265.7249841690063,20.947916666666668,40.898552164330056,humid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2016,9566905.35721413,27,27,city_1034_texas_gonzales,1222.1437587738037,21.609375,38.6639646868628,humid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2017,9566905.35721413,15,17,city_1034_texas_gonzales,799.8812503814697,21.6953125,25.23657876480851,dry subhumid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2018,9566905.35721413,14,14,city_1034_texas_gonzales,869.6937427520752,21.0546875,28.00523247101022,dry subhumid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2019,9566905.35721413,24,37,city_1034_texas_gonzales,881.2562475204468,21.119791666666668,28.31819238894155,dry subhumid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2020,9566905.35721413,41,275,city_1034_texas_gonzales,707.8500118255615,21.580729166666668,22.41398569646373,dry subhumid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2021,9566905.35721413,22,76,city_1034_texas_gonzales,916.0500068664552,20.971354166666668,29.577331424932208,dry subhumid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2022,9566905.35721413,2,2,city_1034_texas_gonzales,528.1062431335449,21.307291666666668,16.868474244159145,semiarid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2023,9566905.35721413,15,15,city_1034_texas_gonzales,684.0437440872192,22.059895833333332,21.336430649784113,dry subhumid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2024,9566905.35721413,10,10,city_1034_texas_gonzales,745.493757724762,22.375,23.02683421543666,dry subhumid,12
-1034,"Gonzales, TX",Gonzales,Texas,Gonzales,2025,9566905.35721413,19,26,city_1034_texas_gonzales,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1034,2015,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,11,13,city_1034_texas_gonzales,1265.72498416901,20.9479166666667,40.8985521643301,humid,12
+1034,2016,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,27,27,city_1034_texas_gonzales,1222.1437587738,21.609375,38.6639646868628,humid,12
+1034,2017,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,15,17,city_1034_texas_gonzales,799.88125038147,21.6953125,25.2365787648085,dry subhumid,12
+1034,2018,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,14,14,city_1034_texas_gonzales,869.693742752075,21.0546875,28.0052324710102,dry subhumid,12
+1034,2019,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,24,37,city_1034_texas_gonzales,881.256247520447,21.1197916666667,28.3181923889416,dry subhumid,12
+1034,2020,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,41,275,city_1034_texas_gonzales,707.850011825562,21.5807291666667,22.4139856964637,dry subhumid,12
+1034,2021,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,22,76,city_1034_texas_gonzales,916.050006866455,20.9713541666667,29.5773314249322,dry subhumid,12
+1034,2022,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,2,2,city_1034_texas_gonzales,528.106243133545,21.3072916666667,16.8684742441591,semiarid,12
+1034,2023,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,15,15,city_1034_texas_gonzales,684.043744087219,22.0598958333333,21.3364306497841,dry subhumid,12
+1034,2024,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,10,10,city_1034_texas_gonzales,745.493757724762,22.375,23.0268342154367,dry subhumid,12
+1034,2025,"Gonzales, TX",Gonzales,Texas,Gonzales,99.9999999999994,19,26,city_1034_texas_gonzales,,,,,

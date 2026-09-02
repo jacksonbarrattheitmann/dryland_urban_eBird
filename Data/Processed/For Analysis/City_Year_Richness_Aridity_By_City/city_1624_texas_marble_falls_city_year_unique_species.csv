@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2016,9439098.72396891,34,43,city_1624_texas_marble_falls,1084.8812437057495,20.395833333333332,35.69177498140917,humid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2017,9439098.72396891,25,35,city_1624_texas_marble_falls,661.84375,20.481770833333332,21.712772319521573,dry subhumid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2018,9439098.72396891,60,184,city_1624_texas_marble_falls,795.0749969482422,19.908854166666668,26.58326502639312,dry subhumid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2019,9439098.72396891,53,107,city_1624_texas_marble_falls,665.7562551498413,19.984375,22.20343946304838,dry subhumid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2020,9439098.72396891,51,98,city_1624_texas_marble_falls,653.4312572479248,20.473958333333332,21.442283608203994,dry subhumid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2021,9439098.72396891,57,175,city_1624_texas_marble_falls,791.5937461853027,19.833333333333332,26.53386858721685,dry subhumid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2022,9439098.72396891,48,118,city_1624_texas_marble_falls,403.2812547683716,20.265625,13.324729119863594,semiarid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2023,9439098.72396891,49,109,city_1624_texas_marble_falls,635.6687526702881,21.1171875,20.4282200205365,dry subhumid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2024,9439098.72396891,140,7519,city_1624_texas_marble_falls,649.2312440872192,21.388020833333332,20.684045277482134,dry subhumid,12
-1624,"Marble Falls, TX",Marble Falls,Texas,Burnet,2025,9439098.72396891,151,8632,city_1624_texas_marble_falls,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1624,2016,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,34,43,city_1624_texas_marble_falls,1084.88124370575,20.3958333333333,35.6917749814092,humid,12
+1624,2017,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,25,35,city_1624_texas_marble_falls,661.84375,20.4817708333333,21.7127723195216,dry subhumid,12
+1624,2018,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,60,184,city_1624_texas_marble_falls,795.074996948242,19.9088541666667,26.5832650263931,dry subhumid,12
+1624,2019,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,53,107,city_1624_texas_marble_falls,665.756255149841,19.984375,22.2034394630484,dry subhumid,12
+1624,2020,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,51,98,city_1624_texas_marble_falls,653.431257247925,20.4739583333333,21.442283608204,dry subhumid,12
+1624,2021,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,57,175,city_1624_texas_marble_falls,791.593746185303,19.8333333333333,26.5338685872169,dry subhumid,12
+1624,2022,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,48,118,city_1624_texas_marble_falls,403.281254768372,20.265625,13.3247291198636,semiarid,12
+1624,2023,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,49,109,city_1624_texas_marble_falls,635.668752670288,21.1171875,20.4282200205365,dry subhumid,12
+1624,2024,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,140,7519,city_1624_texas_marble_falls,649.231244087219,21.3880208333333,20.6840452774821,dry subhumid,12
+1624,2025,"Marble Falls, TX",Marble Falls,Texas,Burnet,99.9999999999991,151,8632,city_1624_texas_marble_falls,,,,,

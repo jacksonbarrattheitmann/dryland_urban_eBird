@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2777,"Wheatland, CA",Wheatland,California,Yuba,2019,1790641.55452492,30,54,city_2777_california_wheatland,730.762500166893,17.986979166666668,26.110803020758063,dry subhumid,12
-2777,"Wheatland, CA",Wheatland,California,Yuba,2020,1790641.55452492,25,49,city_2777_california_wheatland,269.5312513113022,18.4609375,9.470216900314762,arid,12
-2777,"Wheatland, CA",Wheatland,California,Yuba,2021,1790641.55452492,22,45,city_2777_california_wheatland,582.5249907374382,18.138020833333332,20.70241521917411,dry subhumid,12
-2777,"Wheatland, CA",Wheatland,California,Yuba,2022,1790641.55452492,40,135,city_2777_california_wheatland,400.6750060319901,18.205729166666668,14.205447540973518,semiarid,12
-2777,"Wheatland, CA",Wheatland,California,Yuba,2023,1790641.55452492,39,176,city_2777_california_wheatland,680.6937544941902,17.7265625,24.55023966617536,dry subhumid,12
-2777,"Wheatland, CA",Wheatland,California,Yuba,2024,1790641.55452492,48,174,city_2777_california_wheatland,751.1749920845032,18.5078125,26.34979418657616,dry subhumid,12
-2777,"Wheatland, CA",Wheatland,California,Yuba,2025,1790641.55452492,33,73,city_2777_california_wheatland,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2777,2019,"Wheatland, CA",Wheatland,California,Yuba,93.0160819770608,30,54,city_2777_california_wheatland,730.762500166893,17.9869791666667,26.1108030207581,dry subhumid,12
+2777,2020,"Wheatland, CA",Wheatland,California,Yuba,93.0160819770608,25,49,city_2777_california_wheatland,269.531251311302,18.4609375,9.47021690031476,arid,12
+2777,2021,"Wheatland, CA",Wheatland,California,Yuba,93.0160819770608,22,45,city_2777_california_wheatland,582.524990737438,18.1380208333333,20.7024152191741,dry subhumid,12
+2777,2022,"Wheatland, CA",Wheatland,California,Yuba,93.0160819770608,40,135,city_2777_california_wheatland,400.67500603199,18.2057291666667,14.2054475409735,semiarid,12
+2777,2023,"Wheatland, CA",Wheatland,California,Yuba,93.0160819770608,39,176,city_2777_california_wheatland,680.69375449419,17.7265625,24.5502396661754,dry subhumid,12
+2777,2024,"Wheatland, CA",Wheatland,California,Yuba,93.0160819770608,48,174,city_2777_california_wheatland,751.174992084503,18.5078125,26.3497941865762,dry subhumid,12
+2777,2025,"Wheatland, CA",Wheatland,California,Yuba,93.0160819770608,33,73,city_2777_california_wheatland,,,,,

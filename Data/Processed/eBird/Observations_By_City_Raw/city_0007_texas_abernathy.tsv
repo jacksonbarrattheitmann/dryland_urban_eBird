@@ -47,8 +47,8 @@ S101195012	2022-01-22	L17509180	100 Avenue D, Abernathy, Texas, US (33.824, -101
 S111602683	2022-05-29	L19343720	512 Avenue D, Abernathy, Texas, US (33.829, -101.843)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	33.8290602	-101.8427520	Stationary	1	0
 S101195012	2022-01-22	L17509180	100 Avenue D, Abernathy, Texas, US (33.824, -101.842)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	33.8240773	-101.8421953	Stationary	1	0
 S111602683	2022-05-29	L19343720	512 Avenue D, Abernathy, Texas, US (33.829, -101.843)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.8290602	-101.8427520	Stationary	1	0
-S157434528	2023-12-29	L28501756	IH-27 N, Abernathy US-TX 33.83031, -101.84090	Red-tailed Hawk	Buteo jamaicensis	8506	species	4	33.8303070	-101.8408970	Traveling	1	0
 S157434528	2023-12-29	L28501756	IH-27 N, Abernathy US-TX 33.83031, -101.84090	Ross's Goose	Anser rossii	272	species	4	33.8303070	-101.8408970	Traveling	1	0
+S157434528	2023-12-29	L28501756	IH-27 N, Abernathy US-TX 33.83031, -101.84090	Red-tailed Hawk	Buteo jamaicensis	8506	species	4	33.8303070	-101.8408970	Traveling	1	0
 S157434528	2023-12-29	L28501756	IH-27 N, Abernathy US-TX 33.83031, -101.84090	Cackling Goose	Branta hutchinsii	331	species	200	33.8303070	-101.8408970	Traveling	1	0
 S157434528	2023-12-29	L28501756	IH-27 N, Abernathy US-TX 33.83031, -101.84090	Canada Goose	Branta canadensis	342	species	40	33.8303070	-101.8408970	Traveling	1	0
 S157434528	2023-12-29	L28501756	IH-27 N, Abernathy US-TX 33.83031, -101.84090	Rock Pigeon	Columba livia	1868	domestic	2	33.8303070	-101.8408970	Traveling	1	0
@@ -67,12 +67,12 @@ S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Gr
 S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	33.8325940	-101.8409820	Traveling	1	0
 S186892455	2024-07-06	L34691831	104 E First St, Abernathy US-TX 33.82452, -101.83893	Killdeer	Charadrius vociferus	5827	species	2	33.8245250	-101.8389250	Stationary	1	0
 S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Canada Goose	Branta canadensis	342	species	159	33.8325940	-101.8409820	Traveling	1	0
-S187196213	2024-07-15	L34691821	S Interstate 27, Abernathy US-TX 33.82445, -101.84136	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	1	33.8244480	-101.8413570	Stationary	1	0
 S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	European Starling	Sturnus vulgaris	27813	species	55	33.8325940	-101.8409820	Traveling	1	0
+S187196213	2024-07-15	L34691821	S Interstate 27, Abernathy US-TX 33.82445, -101.84136	Black-crowned Night Heron	Nycticorax nycticorax	7600	species	1	33.8244480	-101.8413570	Stationary	1	0
 S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Sandhill Crane	Antigone canadensis	5697	species	11	33.8325940	-101.8409820	Traveling	1	0
 S187196213	2024-07-15	L34691821	S Interstate 27, Abernathy US-TX 33.82445, -101.84136	Yellow-crowned Night Heron	Nyctanassa violacea	7591	species	2	33.8244480	-101.8413570	Stationary	1	0
-S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Ferruginous Hawk	Buteo regalis	8535	species	1	33.8325940	-101.8409820	Traveling	1	0
 S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Western/Eastern Meadowlark	Sturnella neglecta/magna	33586	slash	1	33.8325940	-101.8409820	Traveling	1	0
+S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Ferruginous Hawk	Buteo regalis	8535	species	1	33.8325940	-101.8409820	Traveling	1	0
 S187196213	2024-07-15	L34691821	S Interstate 27, Abernathy US-TX 33.82445, -101.84136	Killdeer	Charadrius vociferus	5827	species	10	33.8244480	-101.8413570	Stationary	1	0
 S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Northern Harrier	Circus hudsonius	8324	species	1	33.8325940	-101.8409820	Traveling	1	0
 S157902901	2024-01-01	L28597308	IH-27 N, Abernathy US-TX 33.83259, -101.84098	Rock Pigeon	Columba livia	1868	domestic	1	33.8325940	-101.8409820	Traveling	1	0

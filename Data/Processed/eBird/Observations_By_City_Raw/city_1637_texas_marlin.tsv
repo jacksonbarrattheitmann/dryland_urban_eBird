@@ -2,21 +2,21 @@ checklist_id	observation_date	locality_id	locality	common_name	scientific_name	t
 S22400482	2015-03-17	L2740646	Marlin	Mourning Dove	Zenaida macroura	2412	species	5	31.3062800	-96.8980700	Traveling	1	0
 S24046228	2015-06-24	L3749329	Falls Co, TX, Marlin, CR117	Northern Cardinal	Cardinalis cardinalis	34515	species	1	31.3272958	-96.8916943	Traveling	1	0
 S22400482	2015-03-17	L2740646	Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	5	31.3062800	-96.8980700	Traveling	1	0
-S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3088235	-96.9060445	Traveling	1	0
 S22400482	2015-03-17	L2740646	Marlin	European Starling	Sturnus vulgaris	27813	species	1	31.3062800	-96.8980700	Traveling	1	0
 S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	4	31.3088235	-96.9060445	Traveling	1	0
-S22400482	2015-03-17	L2740646	Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3062800	-96.8980700	Traveling	1	0
-S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.3088235	-96.9060445	Traveling	1	0
-S24046228	2015-06-24	L3749329	Falls Co, TX, Marlin, CR117	Painted Bunting	Passerina ciris	34621	species	1	31.3272958	-96.8916943	Traveling	1	0
 S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Red-shouldered Hawk	Buteo lineatus	8487	species	1	31.3088235	-96.9060445	Traveling	1	0
 S22400482	2015-03-17	L2740646	Marlin	Rock Pigeon	Columba livia	1868	domestic	6	31.3062800	-96.8980700	Traveling	1	0
-S22400482	2015-03-17	L2740646	Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3062800	-96.8980700	Traveling	1	0
 S22400482	2015-03-17	L2740646	Marlin	House Sparrow	Passer domesticus	31534	species	15	31.3062800	-96.8980700	Traveling	1	0
 S22400482	2015-03-17	L2740646	Marlin	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	31.3062800	-96.8980700	Traveling	1	0
 S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
-S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	2	31.3088235	-96.9060445	Traveling	1	0
 S22400482	2015-03-17	L2740646	Marlin	Blue Jay	Cyanocitta cristata	21294	species	1	31.3062800	-96.8980700	Traveling	1	0
 S24046228	2015-06-24	L3749329	Falls Co, TX, Marlin, CR117	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3272958	-96.8916943	Traveling	1	0
+S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3088235	-96.9060445	Traveling	1	0
+S22400482	2015-03-17	L2740646	Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3062800	-96.8980700	Traveling	1	0
+S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.3088235	-96.9060445	Traveling	1	0
+S24046228	2015-06-24	L3749329	Falls Co, TX, Marlin, CR117	Painted Bunting	Passerina ciris	34621	species	1	31.3272958	-96.8916943	Traveling	1	0
+S22400482	2015-03-17	L2740646	Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3062800	-96.8980700	Traveling	1	0
+S24046346	2015-06-24	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	2	31.3088235	-96.9060445	Traveling	1	0
 S29282921	2016-04-29	L4545052	US-TX-Marlin-226 Coleman St - 31.3064x-96.8984 Falls County Courthouse	Chimney Swift	Chaetura pelagica	3896	species	3	31.3064280	-96.8984470	Traveling	1	0
 S29282921	2016-04-29	L4545052	US-TX-Marlin-226 Coleman St - 31.3064x-96.8984 Falls County Courthouse	European Starling	Sturnus vulgaris	27813	species	1	31.3064280	-96.8984470	Traveling	1	0
 S29282921	2016-04-29	L4545052	US-TX-Marlin-226 Coleman St - 31.3064x-96.8984 Falls County Courthouse	House Sparrow	Passer domesticus	31534	species	6	31.3064280	-96.8984470	Traveling	1	0
@@ -57,281 +57,281 @@ S47915785	2018-08-18	L7834316	Marlin	White-winged Dove	Zenaida asiatica	2389	spe
 S47915785	2018-08-18	L7834316	Marlin	Western Kingbird	Tyrannus verticalis	17467	species	2	31.3066579	-96.9020302	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Lark Sparrow	Chondestes grammacus	33029	species	1	31.3088235	-96.9060445	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	2	31.3088235	-96.9060445	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	31.3066579	-96.9020302	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	Eastern Phoebe	Sayornis phoebe	17007	species	1	31.3066579	-96.9020302	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	31.3088235	-96.9060445	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.3066579	-96.9020302	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Mourning Dove	Zenaida macroura	2412	species	1	31.3066579	-96.9020302	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	Yellow-rumped Warbler	Setophaga coronata	34160	issf	8	31.3066579	-96.9020302	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3088235	-96.9060445	Traveling	1	0
-S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	American Kestrel	Falco sparverius	12028	species	1	31.3188170	-96.8806440	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	3	31.3088235	-96.9060445	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Black-throated Green Warbler	Setophaga virens	34218	species	1	31.3088235	-96.9060445	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Downy Woodpecker	Dryobates pubescens	11400	species	1	31.3066579	-96.9020302	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Song Sparrow	Melospiza melodia	33277	species	2	31.3066579	-96.9020302	Traveling	1	0
 S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	Mourning Dove	Zenaida macroura	2412	species	6	31.3188170	-96.8806440	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	House Sparrow	Passer domesticus	31534	species	5	31.3066579	-96.9020302	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	European Starling	Sturnus vulgaris	27813	species	3	31.3088235	-96.9060445	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	Ring-necked Duck	Aythya collaris	673	species	1	31.3066579	-96.9020302	Traveling	1	0
-S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	Rock Pigeon	Columba livia	1868	domestic	1	31.3188170	-96.8806440	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	Rock Pigeon	Columba livia	1868	domestic	4	31.3066579	-96.9020302	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Great Blue Heron	Ardea herodias	7753	species	1	31.3066579	-96.9020302	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	Pied-billed Grebe	Podilymbus podiceps	6855	species	5	31.3066579	-96.9020302	Traveling	1	0
-S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	European Starling	Sturnus vulgaris	27813	species	5	31.3188170	-96.8806440	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3066579	-96.9020302	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	5	31.3088235	-96.9060445	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Killdeer	Charadrius vociferus	5827	species	1	31.3066579	-96.9020302	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	31.3066579	-96.9020302	Traveling	1	0
 S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	Red-tailed Hawk	Buteo jamaicensis	8506	species	4	31.3188170	-96.8806440	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	31.3088235	-96.9060445	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Yellow-rumped Warbler	Setophaga coronata	34160	issf	8	31.3088235	-96.9060445	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Chipping Sparrow	Spizella passerina	32990	species	10	31.3088235	-96.9060445	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.3088235	-96.9060445	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	White-winged Dove	Zenaida asiatica	2389	species	7	31.3066579	-96.9020302	Traveling	1	0
-S55211020	2019-04-21	L9089580	422 Agnes Avenue, Marlin, Texas, US (31.314, -96.891)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	X	31.3136268	-96.8913396	Stationary	1	0
 S52053839	2019-01-26	L7834316	Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	2	31.3066579	-96.9020302	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	31.3088235	-96.9060445	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	2	31.3088235	-96.9060445	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	5	31.3088235	-96.9060445	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	2	31.3066579	-96.9020302	Traveling	1	0
 S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	31.3188170	-96.8806440	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Brown-headed Cowbird	Molothrus ater	33833	species	2	31.3088235	-96.9060445	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	Double-crested Cormorant	Nannopterum auritum	7424	species	13	31.3066579	-96.9020302	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Nashville Warbler	Leiothlypis ruficapilla	33981	species	3	31.3088235	-96.9060445	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	31.3088235	-96.9060445	Traveling	1	0
-S52053839	2019-01-26	L7834316	Marlin	American Robin	Turdus migratorius	28633	species	17	31.3066579	-96.9020302	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	1	31.3088235	-96.9060445	Traveling	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Northern House Wren	Troglodytes aedon	27191	species	1	31.3088235	-96.9060445	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	31.3066579	-96.9020302	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Mourning Dove	Zenaida macroura	2412	species	1	31.3066579	-96.9020302	Traveling	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3088235	-96.9060445	Traveling	1	0
+S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	American Kestrel	Falco sparverius	12028	species	1	31.3188170	-96.8806440	Traveling	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Black-throated Green Warbler	Setophaga virens	34218	species	1	31.3088235	-96.9060445	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Downy Woodpecker	Dryobates pubescens	11400	species	1	31.3066579	-96.9020302	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Song Sparrow	Melospiza melodia	33277	species	2	31.3066579	-96.9020302	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	House Sparrow	Passer domesticus	31534	species	5	31.3066579	-96.9020302	Traveling	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	European Starling	Sturnus vulgaris	27813	species	3	31.3088235	-96.9060445	Traveling	1	0
+S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	Rock Pigeon	Columba livia	1868	domestic	1	31.3188170	-96.8806440	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Great Blue Heron	Ardea herodias	7753	species	1	31.3066579	-96.9020302	Traveling	1	0
+S52600385	2019-02-11	L8594750	3173–3191 State Highway 6, Marlin US-TX (31.3188,-96.8806)	European Starling	Sturnus vulgaris	27813	species	5	31.3188170	-96.8806440	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3066579	-96.9020302	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Killdeer	Charadrius vociferus	5827	species	1	31.3066579	-96.9020302	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Lincoln's Sparrow	Melospiza lincolnii	33310	species	2	31.3066579	-96.9020302	Traveling	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	31.3088235	-96.9060445	Traveling	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Yellow-rumped Warbler	Setophaga coronata	34160	issf	8	31.3088235	-96.9060445	Traveling	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Chipping Sparrow	Spizella passerina	32990	species	10	31.3088235	-96.9060445	Traveling	1	0
+S55211020	2019-04-21	L9089580	422 Agnes Avenue, Marlin, Texas, US (31.314, -96.891)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	X	31.3136268	-96.8913396	Stationary	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	31.3088235	-96.9060445	Traveling	1	0
+S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	5	31.3088235	-96.9060445	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	Double-crested Cormorant	Nannopterum auritum	7424	species	13	31.3066579	-96.9020302	Traveling	1	0
+S52053839	2019-01-26	L7834316	Marlin	American Robin	Turdus migratorius	28633	species	17	31.3066579	-96.9020302	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	White-throated Sparrow	Zonotrichia albicollis	33201	species	5	31.3088235	-96.9060445	Traveling	1	0
 S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	3	31.3088235	-96.9060445	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	White-throated Sparrow	Zonotrichia albicollis	33201	species	9	31.3066579	-96.9020302	Traveling	1	0
 S52053839	2019-01-26	L7834316	Marlin	Gadwall	Mareca strepera	505	species	14	31.3066579	-96.9020302	Traveling	1	0
-S54939227	2019-04-14	L2797985	Calvary Cemetery, Marlin	Northern House Wren	Troglodytes aedon	27191	species	1	31.3088235	-96.9060445	Traveling	1	0
 S100865782	2021-11-30	L17454380	HEB Marlin Tx	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3065019	-96.8906128	Stationary	1	0
-S100865782	2021-11-30	L17454380	HEB Marlin Tx	House Sparrow	Passer domesticus	31534	species	6	31.3065019	-96.8906128	Stationary	1	0
 S100865782	2021-11-30	L17454380	HEB Marlin Tx	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	31.3065019	-96.8906128	Stationary	1	0
+S100865782	2021-11-30	L17454380	HEB Marlin Tx	House Sparrow	Passer domesticus	31534	species	6	31.3065019	-96.8906128	Stationary	1	0
 S100865782	2021-11-30	L17454380	HEB Marlin Tx	European Starling	Sturnus vulgaris	27813	species	3	31.3065019	-96.8906128	Stationary	1	0
 S111818497	2022-05-31	L19391013	100 Burnett St, Marlin US-TX 31.30632, -96.90440	Barn Swallow	Hirundo rustica	24187	species	1	31.3063210	-96.9044030	Stationary	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Downy Woodpecker	Dryobates pubescens	11400	species	1	31.3088235	-96.9060445	Traveling	1	0
 S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Barred Owl	Strix varia	9219	species	1	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	2	31.3088235	-96.9060445	Traveling	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	31.3088235	-96.9060445	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Downy Woodpecker	Dryobates pubescens	11400	species	1	31.3088235	-96.9060445	Traveling	1	0
 S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	3	31.3088235	-96.9060445	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	31.3088235	-96.9060445	Traveling	1	0
 S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3088235	-96.9060445	Traveling	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Brown-headed Cowbird	Molothrus ater	33833	species	2	31.3088235	-96.9060445	Traveling	1	0
-S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	31.3173510	-96.8938361	Stationary	1	0
 S101038487	2022-01-19	L17483179	SH-6 S, Marlin US-TX 31.31735, -96.87900	Black Vulture	Coragyps atratus	7811	species	1	31.3173470	-96.8789970	Traveling	1	0
+S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	31.3173510	-96.8938361	Stationary	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Brown-headed Cowbird	Molothrus ater	33833	species	2	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	4	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	2	31.3088235	-96.9060445	Traveling	1	0
-S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Eastern Bluebird	Sialia sialis	28126	species	2	31.3088235	-96.9060445	Traveling	1	0
 S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Ruby-throated Hummingbird	Archilochus colubris	4802	species	5	31.3088235	-96.9060445	Traveling	1	0
-S101038487	2022-01-19	L17483179	SH-6 S, Marlin US-TX 31.31735, -96.87900	Red-tailed Hawk	Buteo jamaicensis	8506	species	4	31.3173470	-96.8789970	Traveling	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	American Crow	Corvus brachyrhynchos	21557	species	2	31.3088235	-96.9060445	Traveling	1	0
-S114739449	2022-07-09	L20060705	Marlin US-TX 31.30749, -96.89564	Rock Pigeon	Columba livia	1868	domestic	11	31.3074900	-96.8956350	Traveling	1	0
+S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Eastern Bluebird	Sialia sialis	28126	species	2	31.3088235	-96.9060445	Traveling	1	0
 S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	European Starling	Sturnus vulgaris	27813	species	1	31.3173510	-96.8938361	Stationary	1	0
-S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	1	31.3088235	-96.9060445	Traveling	1	0
-S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	3	31.3088235	-96.9060445	Traveling	1	0
-S108650806	2022-05-01	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	5	31.3088235	-96.9060445	Traveling	1	0
+S101038487	2022-01-19	L17483179	SH-6 S, Marlin US-TX 31.31735, -96.87900	Red-tailed Hawk	Buteo jamaicensis	8506	species	4	31.3173470	-96.8789970	Traveling	1	0
+S114739449	2022-07-09	L20060705	Marlin US-TX 31.30749, -96.89564	Rock Pigeon	Columba livia	1868	domestic	11	31.3074900	-96.8956350	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	American Crow	Corvus brachyrhynchos	21557	species	2	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	2	31.3088235	-96.9060445	Traveling	1	0
-S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
+S108650806	2022-05-01	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	5	31.3088235	-96.9060445	Traveling	1	0
+S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	3	31.3088235	-96.9060445	Traveling	1	0
+S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	1	31.3088235	-96.9060445	Traveling	1	0
 S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	31.3088235	-96.9060445	Traveling	1	0
 S111818497	2022-05-31	L19391013	100 Burnett St, Marlin US-TX 31.30632, -96.90440	Western Kingbird	Tyrannus verticalis	17467	species	1	31.3063210	-96.9044030	Stationary	1	0
+S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
 S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.3088235	-96.9060445	Traveling	1	0
 S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	2	31.3088235	-96.9060445	Traveling	1	0
+S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
+S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	White-winged Dove	Zenaida asiatica	2389	species	1	31.3088235	-96.9060445	Traveling	1	0
+S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	1	31.3088235	-96.9060445	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3088235	-96.9060445	Traveling	1	0
+S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	X	31.3088235	-96.9060445	Traveling	1	0
 S111818497	2022-05-31	L19391013	100 Burnett St, Marlin US-TX 31.30632, -96.90440	Chimney Swift	Chaetura pelagica	3896	species	1	31.3063210	-96.9044030	Stationary	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Yellow-billed Cuckoo	Coccyzus americanus	3238	species	1	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	31.3088235	-96.9060445	Traveling	1	0
 S108650806	2022-05-01	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3088235	-96.9060445	Traveling	1	0
-S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	White-winged Dove	Zenaida asiatica	2389	species	1	31.3088235	-96.9060445	Traveling	1	0
-S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3088235	-96.9060445	Traveling	1	0
-S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	1	31.3088235	-96.9060445	Traveling	1	0
-S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	X	31.3088235	-96.9060445	Traveling	1	0
-S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.3088235	-96.9060445	Traveling	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	31.3088235	-96.9060445	Traveling	1	0
-S101038487	2022-01-19	L17483179	SH-6 S, Marlin US-TX 31.31735, -96.87900	Rock Pigeon	Columba livia	1868	domestic	8	31.3173470	-96.8789970	Traveling	1	0
-S111818497	2022-05-31	L19391013	100 Burnett St, Marlin US-TX 31.30632, -96.90440	House Sparrow	Passer domesticus	31534	species	3	31.3063210	-96.9044030	Stationary	1	0
 S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
+S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.3088235	-96.9060445	Traveling	1	0
+S101038487	2022-01-19	L17483179	SH-6 S, Marlin US-TX 31.31735, -96.87900	Rock Pigeon	Columba livia	1868	domestic	8	31.3173470	-96.8789970	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	31.3088235	-96.9060445	Traveling	1	0
+S111818497	2022-05-31	L19391013	100 Burnett St, Marlin US-TX 31.30632, -96.90440	House Sparrow	Passer domesticus	31534	species	3	31.3063210	-96.9044030	Stationary	1	0
 S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	1	31.3088235	-96.9060445	Traveling	1	0
-S108650806	2022-05-01	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	2	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	White-eyed Vireo	Vireo griseus	19165	species	1	31.3088235	-96.9060445	Traveling	1	0
-S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.3088235	-96.9060445	Traveling	1	0
-S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	2	31.3088235	-96.9060445	Traveling	1	0
-S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	White-throated Sparrow	Zonotrichia albicollis	33201	species	3	31.3088235	-96.9060445	Traveling	1	0
-S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	31.3088235	-96.9060445	Traveling	1	0
+S108650806	2022-05-01	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	2	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	1	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	European Starling	Sturnus vulgaris	27813	species	2	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.3088235	-96.9060445	Traveling	1	0
-S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	4	31.3088235	-96.9060445	Traveling	1	0
+S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	31.3088235	-96.9060445	Traveling	1	0
+S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.3088235	-96.9060445	Traveling	1	0
+S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	White-throated Sparrow	Zonotrichia albicollis	33201	species	3	31.3088235	-96.9060445	Traveling	1	0
+S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	2	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Lark Sparrow	Chondestes grammacus	33029	species	4	31.3088235	-96.9060445	Traveling	1	0
+S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	4	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	4	31.3088235	-96.9060445	Traveling	1	0
+S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	House Finch	Haemorhous mexicanus	32310	species	1	31.3088235	-96.9060445	Traveling	1	0
+S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Tufted Titmouse	Baeolophus bicolor	22160	species	1	31.3088235	-96.9060445	Traveling	1	0
+S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3173510	-96.8938361	Stationary	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	12	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	4	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	3	31.3088235	-96.9060445	Traveling	1	0
 S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Swainson's Hawk	Buteo swainsoni	8504	species	1	31.3088235	-96.9060445	Traveling	1	0
 S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	31.3173510	-96.8938361	Stationary	1	0
-S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	House Finch	Haemorhous mexicanus	32310	species	1	31.3088235	-96.9060445	Traveling	1	0
-S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Tufted Titmouse	Baeolophus bicolor	22160	species	1	31.3088235	-96.9060445	Traveling	1	0
-S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3173510	-96.8938361	Stationary	1	0
-S114739449	2022-07-09	L20060705	Marlin US-TX 31.30749, -96.89564	Western Kingbird	Tyrannus verticalis	17467	species	1	31.3074900	-96.8956350	Traveling	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Tufted Titmouse	Baeolophus bicolor	22160	species	5	31.3088235	-96.9060445	Traveling	1	0
-S111818497	2022-05-31	L19391013	100 Burnett St, Marlin US-TX 31.30632, -96.90440	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3063210	-96.9044030	Stationary	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	2	31.3088235	-96.9060445	Traveling	1	0
+S114739449	2022-07-09	L20060705	Marlin US-TX 31.30749, -96.89564	Western Kingbird	Tyrannus verticalis	17467	species	1	31.3074900	-96.8956350	Traveling	1	0
+S111818497	2022-05-31	L19391013	100 Burnett St, Marlin US-TX 31.30632, -96.90440	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3063210	-96.9044030	Stationary	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Tufted Titmouse	Baeolophus bicolor	22160	species	5	31.3088235	-96.9060445	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Cedar Waxwing	Bombycilla cedrorum	29888	species	3	31.3088235	-96.9060445	Traveling	1	0
+S108650806	2022-05-01	L2797985	Calvary Cemetery, Marlin	White-winged Dove	Zenaida asiatica	2389	species	1	31.3088235	-96.9060445	Traveling	1	0
+S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Chimney Swift	Chaetura pelagica	3896	species	4	31.3088235	-96.9060445	Traveling	1	0
+S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	4	31.3088235	-96.9060445	Traveling	1	0
 S101038487	2022-01-19	L17483179	SH-6 S, Marlin US-TX 31.31735, -96.87900	Turkey Vulture	Cathartes aura	7815	species	4	31.3173470	-96.8789970	Traveling	1	0
 S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	4	31.3088235	-96.9060445	Traveling	1	0
-S108650806	2022-05-01	L2797985	Calvary Cemetery, Marlin	White-winged Dove	Zenaida asiatica	2389	species	1	31.3088235	-96.9060445	Traveling	1	0
-S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	4	31.3088235	-96.9060445	Traveling	1	0
-S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Chimney Swift	Chaetura pelagica	3896	species	4	31.3088235	-96.9060445	Traveling	1	0
-S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	2	31.3088235	-96.9060445	Traveling	1	0
 S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	White-eyed Vireo	Vireo griseus	19165	species	1	31.3088235	-96.9060445	Traveling	1	0
 S108650806	2022-05-01	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3088235	-96.9060445	Traveling	1	0
+S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	2	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	12	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Purple Martin	Progne subis	24081	species	4	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	2	31.3088235	-96.9060445	Traveling	1	0
-S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	House Sparrow	Passer domesticus	31534	species	2	31.3173510	-96.8938361	Stationary	1	0
 S101038487	2022-01-19	L17483179	SH-6 S, Marlin US-TX 31.31735, -96.87900	Red-winged Blackbird	Agelaius phoeniceus	33779	species	30	31.3173470	-96.8789970	Traveling	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	7	31.3088235	-96.9060445	Traveling	1	0
 S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	3	31.3088235	-96.9060445	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	7	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	4	31.3088235	-96.9060445	Traveling	1	0
 S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	1	31.3173510	-96.8938361	Stationary	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	White-eyed Vireo	Vireo griseus	19165	species	1	31.3088235	-96.9060445	Traveling	1	0
-S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	3	31.3088235	-96.9060445	Traveling	1	0
-S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	House Finch	Haemorhous mexicanus	32310	species	2	31.3088235	-96.9060445	Traveling	1	0
-S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	1	31.3088235	-96.9060445	Traveling	1	0
+S108651109	2022-05-01	L8662306	Old Mill Lake, Marlin	House Sparrow	Passer domesticus	31534	species	2	31.3173510	-96.8938361	Stationary	1	0
 S118668060	2022-09-13	L2797985	Calvary Cemetery, Marlin	Orchard Oriole	Icterus spurius	33679	species	2	31.3088235	-96.9060445	Traveling	1	0
+S106128476	2022-04-02	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	1	31.3088235	-96.9060445	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	White-eyed Vireo	Vireo griseus	19165	species	1	31.3088235	-96.9060445	Traveling	1	0
+S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	House Finch	Haemorhous mexicanus	32310	species	2	31.3088235	-96.9060445	Traveling	1	0
+S106952915	2022-04-13	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	3	31.3088235	-96.9060445	Traveling	1	0
 S110974359	2022-05-22	L2797985	Calvary Cemetery, Marlin	Barred Owl	Strix varia	9219	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150735702	2023-09-25	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	2	31.3088235	-96.9060445	Traveling	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	1	31.3088235	-96.9060445	Traveling	1	0
 S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	American Crow	Corvus brachyrhynchos	21557	species	5	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	1	31.3088235	-96.9060445	Traveling	1	0
 S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
-S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3088235	-96.9060445	Traveling	1	0
-S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	1	31.3088235	-96.9060445	Traveling	1	0
+S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	2	31.3088235	-96.9060445	Traveling	1	0
+S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150727255	2023-09-25	L27247484	1219 Walker St, Marlin US-TX 31.32052, -96.88364	European Starling	Sturnus vulgaris	27813	species	7	31.3205230	-96.8836420	Stationary	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Yellow-billed Cuckoo	Coccyzus americanus	3238	species	1	31.3088235	-96.9060445	Traveling	1	0
-S150735702	2023-09-25	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	4	31.3088235	-96.9060445	Traveling	1	0
+S150735702	2023-09-25	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	3	31.3088235	-96.9060445	Traveling	1	0
-S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Eastern Phoebe	Sayornis phoebe	17007	species	1	31.3088235	-96.9060445	Traveling	1	0
 S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	5	31.3088235	-96.9060445	Traveling	1	0
+S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Eastern Phoebe	Sayornis phoebe	17007	species	1	31.3088235	-96.9060445	Traveling	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	4	31.3088235	-96.9060445	Traveling	1	0
-S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	3	31.3088235	-96.9060445	Traveling	1	0
-S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	3	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Chimney Swift	Chaetura pelagica	3896	species	2	31.3088235	-96.9060445	Traveling	1	0
+S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	3	31.3088235	-96.9060445	Traveling	1	0
+S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	3	31.3088235	-96.9060445	Traveling	1	0
+S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	2	31.3088235	-96.9060445	Traveling	1	0
+S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Red-shouldered Hawk	Buteo lineatus	8487	species	1	31.3088235	-96.9060445	Traveling	1	0
+S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Eastern Bluebird	Sialia sialis	28126	species	1	31.3088235	-96.9060445	Traveling	1	0
 S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.3088235	-96.9060445	Traveling	1	0
 S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	4	31.3088235	-96.9060445	Traveling	1	0
 S150735702	2023-09-25	L2797985	Calvary Cemetery, Marlin	White-winged Dove	Zenaida asiatica	2389	species	3	31.3088235	-96.9060445	Traveling	1	0
-S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Eastern Bluebird	Sialia sialis	28126	species	1	31.3088235	-96.9060445	Traveling	1	0
-S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Red-shouldered Hawk	Buteo lineatus	8487	species	1	31.3088235	-96.9060445	Traveling	1	0
-S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	2	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	31.3088235	-96.9060445	Traveling	1	0
 S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Downy Woodpecker	Dryobates pubescens	11400	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150735702	2023-09-25	L2797985	Calvary Cemetery, Marlin	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	31.3088235	-96.9060445	Traveling	1	0
-S150735702	2023-09-25	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3088235	-96.9060445	Traveling	1	0
 S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	4	31.3088235	-96.9060445	Traveling	1	0
-S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	3	31.3088235	-96.9060445	Traveling	1	0
+S150735702	2023-09-25	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3088235	-96.9060445	Traveling	1	0
 S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Mourning Dove	Zenaida macroura	2412	species	1	31.3088235	-96.9060445	Traveling	1	0
-S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	5	31.3088235	-96.9060445	Traveling	1	0
-S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
+S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	3	31.3088235	-96.9060445	Traveling	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Western Kingbird	Tyrannus verticalis	17467	species	3	31.3088235	-96.9060445	Traveling	1	0
 S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Eastern Bluebird	Sialia sialis	28126	species	1	31.3088235	-96.9060445	Traveling	1	0
-S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	3	31.3088235	-96.9060445	Traveling	1	0
+S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
+S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	5	31.3088235	-96.9060445	Traveling	1	0
 S150735702	2023-09-25	L2797985	Calvary Cemetery, Marlin	Chimney Swift	Chaetura pelagica	3896	species	4	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Tufted Titmouse	Baeolophus bicolor	22160	species	2	31.3088235	-96.9060445	Traveling	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	31.3088235	-96.9060445	Traveling	1	0
+S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	3	31.3088235	-96.9060445	Traveling	1	0
+S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Eastern Phoebe	Sayornis phoebe	17007	species	1	31.3088235	-96.9060445	Traveling	1	0
+S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Chimney Swift	Chaetura pelagica	3896	species	4	31.3088235	-96.9060445	Traveling	1	0
 S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Inca Dove	Columbina inca	2242	species	1	31.3088235	-96.9060445	Traveling	1	0
-S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Chimney Swift	Chaetura pelagica	3896	species	4	31.3088235	-96.9060445	Traveling	1	0
-S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Eastern Phoebe	Sayornis phoebe	17007	species	1	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	6	31.3088235	-96.9060445	Traveling	1	0
 S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	3	31.3088235	-96.9060445	Traveling	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	1	31.3088235	-96.9060445	Traveling	1	0
-S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	Ruby-throated Hummingbird	Archilochus colubris	4802	species	2	31.3088235	-96.9060445	Traveling	1	0
 S143823568	2023-07-07	L2797985	Calvary Cemetery, Marlin	American Crow	Corvus brachyrhynchos	21557	species	2	31.3088235	-96.9060445	Traveling	1	0
+S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
+S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	6	31.3088235	-96.9060445	Traveling	1	0
 S150727255	2023-09-25	L27247484	1219 Walker St, Marlin US-TX 31.32052, -96.88364	House Sparrow	Passer domesticus	31534	species	2	31.3205230	-96.8836420	Stationary	1	0
 S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	House Finch	Haemorhous mexicanus	32310	species	1	31.3088235	-96.9060445	Traveling	1	0
-S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	6	31.3088235	-96.9060445	Traveling	1	0
-S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
-S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	3	31.3088235	-96.9060445	Traveling	1	0
-S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	10	31.3088235	-96.9060445	Traveling	1	0
-S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Downy Woodpecker	Dryobates pubescens	11400	species	2	31.3088235	-96.9060445	Traveling	1	0
-S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	White-winged Dove	Zenaida asiatica	2389	species	3	31.3088235	-96.9060445	Traveling	1	0
 S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Swainson's Hawk	Buteo swainsoni	8504	species	1	31.3088235	-96.9060445	Traveling	1	0
+S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	3	31.3088235	-96.9060445	Traveling	1	0
+S151004495	2023-09-29	L2797985	Calvary Cemetery, Marlin	Downy Woodpecker	Dryobates pubescens	11400	species	2	31.3088235	-96.9060445	Traveling	1	0
+S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	10	31.3088235	-96.9060445	Traveling	1	0
+S150491552	2023-09-22	L2797985	Calvary Cemetery, Marlin	White-winged Dove	Zenaida asiatica	2389	species	3	31.3088235	-96.9060445	Traveling	1	0
 S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	31.3088235	-96.9060445	Traveling	1	0
-S167247153	2024-04-05	L30343554	708 Live Oak St, Marlin US-TX 31.30629, -96.88623	Red-winged Blackbird	Agelaius phoeniceus	33779	species	20	31.3062860	-96.8862290	Traveling	1	0
-S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Barred Owl	Strix varia	9219	species	1	31.3088235	-96.9060445	Traveling	1	0
+S153589998	2023-11-02	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
 S165170319	2024-03-17	L29926491	SH-6 S, Marlin US-TX 31.30327, -96.87487	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	31.3032710	-96.8748710	Traveling	1	0
+S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Barred Owl	Strix varia	9219	species	1	31.3088235	-96.9060445	Traveling	1	0
+S167247153	2024-04-05	L30343554	708 Live Oak St, Marlin US-TX 31.30629, -96.88623	Red-winged Blackbird	Agelaius phoeniceus	33779	species	20	31.3062860	-96.8862290	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Yellow-rumped Warbler	Setophaga coronata	34160	issf	1	31.3088235	-96.9060445	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	1	31.3088235	-96.9060445	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	1	31.3088235	-96.9060445	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	2	31.3088235	-96.9060445	Traveling	1	0
 S167247153	2024-04-05	L30343554	708 Live Oak St, Marlin US-TX 31.30629, -96.88623	American Crow	Corvus brachyrhynchos	21557	species	2	31.3062860	-96.8862290	Traveling	1	0
-S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Northern House Wren	Troglodytes aedon	27191	species	1	31.3088235	-96.9060445	Traveling	1	0
-S167247153	2024-04-05	L30343554	708 Live Oak St, Marlin US-TX 31.30629, -96.88623	Barn Swallow	Hirundo rustica	24187	species	1	31.3062860	-96.8862290	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Eastern Phoebe	Sayornis phoebe	17007	species	1	31.3088235	-96.9060445	Traveling	1	0
 S165170319	2024-03-17	L29926491	SH-6 S, Marlin US-TX 31.30327, -96.87487	Black Vulture	Coragyps atratus	7811	species	1	31.3032710	-96.8748710	Traveling	1	0
-S165170319	2024-03-17	L29926491	SH-6 S, Marlin US-TX 31.30327, -96.87487	Rock Pigeon	Columba livia	1868	domestic	1	31.3032710	-96.8748710	Traveling	1	0
+S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Northern House Wren	Troglodytes aedon	27191	species	1	31.3088235	-96.9060445	Traveling	1	0
+S167247153	2024-04-05	L30343554	708 Live Oak St, Marlin US-TX 31.30629, -96.88623	Barn Swallow	Hirundo rustica	24187	species	1	31.3062860	-96.8862290	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Downy Woodpecker	Dryobates pubescens	11400	species	1	31.3088235	-96.9060445	Traveling	1	0
-S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	1	31.3088235	-96.9060445	Traveling	1	0
+S165170319	2024-03-17	L29926491	SH-6 S, Marlin US-TX 31.30327, -96.87487	Rock Pigeon	Columba livia	1868	domestic	1	31.3032710	-96.8748710	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	White-throated Sparrow	Zonotrichia albicollis	33201	species	2	31.3088235	-96.9060445	Traveling	1	0
+S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	1	31.3088235	-96.9060445	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Golden-crowned Kinglet	Regulus satrapa	26848	species	1	31.3088235	-96.9060445	Traveling	1	0
 S165170319	2024-03-17	L29926491	SH-6 S, Marlin US-TX 31.30327, -96.87487	Crested Caracara	Caracara plancus	11962	species	1	31.3032710	-96.8748710	Traveling	1	0
-S167247153	2024-04-05	L30343554	708 Live Oak St, Marlin US-TX 31.30629, -96.88623	Common Grackle	Quiscalus quiscula	33853	species	1	31.3062860	-96.8862290	Traveling	1	0
 S167247153	2024-04-05	L30343554	708 Live Oak St, Marlin US-TX 31.30629, -96.88623	European Starling	Sturnus vulgaris	27813	species	3	31.3062860	-96.8862290	Traveling	1	0
+S167247153	2024-04-05	L30343554	708 Live Oak St, Marlin US-TX 31.30629, -96.88623	Common Grackle	Quiscalus quiscula	33853	species	1	31.3062860	-96.8862290	Traveling	1	0
+S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.3088235	-96.9060445	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	2	31.3088235	-96.9060445	Traveling	1	0
 S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	American Robin	Turdus migratorius	28633	species	2	31.3088235	-96.9060445	Traveling	1	0
-S161896891	2024-02-17	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Eastern Bluebird	Sialia sialis	28126	species	1	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Barred Owl	Strix varia	9219	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	2	31.3088235	-96.9060445	Traveling	1	0
-S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	1	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	6	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	1	31.3088235	-96.9060445	Traveling	1	0
-S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	3	31.3088235	-96.9060445	Traveling	1	0
+S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Turkey Vulture	Cathartes aura	7815	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Painted Bunting	Passerina ciris	34621	species	1	31.3088235	-96.9060445	Traveling	1	0
-S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	31.3088235	-96.9060445	Traveling	1	0
+S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	3	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	4	31.3088235	-96.9060445	Traveling	1	0
+S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	3	31.3088235	-96.9060445	Traveling	1	0
-S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	European Starling	Sturnus vulgaris	27813	species	9	31.3088235	-96.9060445	Traveling	1	0
-S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Tufted Titmouse	Baeolophus bicolor	22160	species	2	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	American Robin	Turdus migratorius	28633	species	1	31.3088235	-96.9060445	Traveling	1	0
-S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	31.3088235	-96.9060445	Traveling	1	0
+S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Tufted Titmouse	Baeolophus bicolor	22160	species	2	31.3088235	-96.9060445	Traveling	1	0
+S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	European Starling	Sturnus vulgaris	27813	species	9	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	31.3088235	-96.9060445	Traveling	1	0
+S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Great Crested Flycatcher	Myiarchus crinitus	17334	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Purple Martin	Progne subis	24081	species	1	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Eastern Phoebe	Sayornis phoebe	17007	species	1	31.3088235	-96.9060445	Traveling	1	0
-S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Brown-headed Cowbird	Molothrus ater	33833	species	3	31.3088235	-96.9060445	Traveling	1	0
-S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3088235	-96.9060445	Traveling	1	0
+S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Brown-headed Cowbird	Molothrus ater	33833	species	2	31.3088235	-96.9060445	Traveling	1	0
-S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	31.3088235	-96.9060445	Traveling	1	0
-S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.3088235	-96.9060445	Traveling	1	0
-S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	American Crow	Corvus brachyrhynchos	21557	species	3	31.3088235	-96.9060445	Traveling	1	0
+S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.3088235	-96.9060445	Traveling	1	0
+S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Brown-headed Cowbird	Molothrus ater	33833	species	3	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Cooper's Hawk	Astur cooperii	8278	species	1	31.3088235	-96.9060445	Traveling	1	0
+S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	American Crow	Corvus brachyrhynchos	21557	species	3	31.3088235	-96.9060445	Traveling	1	0
+S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	House Sparrow	Passer domesticus	31534	species	1	31.3088235	-96.9060445	Traveling	1	0
-S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Eastern Bluebird	Sialia sialis	28126	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Northern Cardinal	Cardinalis cardinalis	34515	species	2	31.3088235	-96.9060445	Traveling	1	0
+S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Eastern Bluebird	Sialia sialis	28126	species	1	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Carolina Chickadee	Poecile carolinensis	22060	species	5	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Lark Sparrow	Chondestes grammacus	33029	species	1	31.3088235	-96.9060445	Traveling	1	0
-S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	1	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Ruby-throated Hummingbird	Archilochus colubris	4802	species	2	31.3088235	-96.9060445	Traveling	1	0
+S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Blue Jay	Cyanocitta cristata	21294	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	House Finch	Haemorhous mexicanus	32310	species	2	31.3088235	-96.9060445	Traveling	1	0
-S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	3	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Red-shouldered Hawk	Buteo lineatus	8487	species	1	31.3088235	-96.9060445	Traveling	1	0
+S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Black Vulture	Coragyps atratus	7811	species	3	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Chimney Swift	Chaetura pelagica	3896	species	2	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Carolina Wren	Thryothorus ludovicianus	27348	species	2	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	Barn Swallow	Hirundo rustica	24187	species	6	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Common Grackle	Quiscalus quiscula	33853	species	2	31.3088235	-96.9060445	Traveling	1	0
+S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3088235	-96.9060445	Traveling	1	0
 S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	White-eyed Vireo	Vireo griseus	19165	species	3	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Red-shouldered Hawk	Buteo lineatus	8487	species	1	31.3088235	-96.9060445	Traveling	1	0
-S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.3088235	-96.9060445	Traveling	1	0
-S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	American Crow	Corvus brachyrhynchos	21557	species	2	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	31.3088235	-96.9060445	Traveling	1	0
 S249837442	2025-06-13	L2797985	Calvary Cemetery, Marlin	Western Kingbird	Tyrannus verticalis	17467	species	1	31.3088235	-96.9060445	Traveling	1	0
+S236502246	2025-05-11	L2797985	Calvary Cemetery, Marlin	American Crow	Corvus brachyrhynchos	21557	species	2	31.3088235	-96.9060445	Traveling	1	0

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2015,12054410.7960554,16,16,city_0046_nebraska_alliance,533.031252861023,10.026041666666668,26.61690521438658,dry subhumid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2016,12054410.7960554,25,43,city_0046_nebraska_alliance,448.7124967575073,10.317708333333332,22.084798609956785,dry subhumid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2017,12054410.7960554,31,66,city_0046_nebraska_alliance,412.71250009536743,9.942708333333332,20.69490729127985,dry subhumid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2018,12054410.7960554,25,34,city_0046_nebraska_alliance,537.274995803833,9.182291666666668,28.008905564576686,dry subhumid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2019,12054410.7960554,1,1,city_0046_nebraska_alliance,585.7437558174133,8.416666666666666,31.80509081361521,humid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2020,12054410.7960554,17,19,city_0046_nebraska_alliance,336.2000002861023,9.994791666666666,16.814378758773547,semiarid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2021,12054410.7960554,50,108,city_0046_nebraska_alliance,430.6874995231629,10.2421875,21.27672710882472,dry subhumid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2022,12054410.7960554,64,212,city_0046_nebraska_alliance,316.4000015258789,9.408854166666668,16.301838264583054,semiarid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2023,12054410.7960554,31,69,city_0046_nebraska_alliance,509.23124837875366,9.5546875,26.041390248693755,dry subhumid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2024,12054410.7960554,47,173,city_0046_nebraska_alliance,363.6375031471253,10.799479166666668,17.48301004238088,semiarid,12
-46,"Alliance, NE",Alliance,Nebraska,Box Butte,2025,12054410.7960554,56,195,city_0046_nebraska_alliance,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+46,2015,"Alliance, NE",Alliance,Nebraska,Box Butte,100,16,16,city_0046_nebraska_alliance,533.031252861023,10.0260416666667,26.6169052143866,dry subhumid,12
+46,2016,"Alliance, NE",Alliance,Nebraska,Box Butte,100,25,43,city_0046_nebraska_alliance,448.712496757507,10.3177083333333,22.0847986099568,dry subhumid,12
+46,2017,"Alliance, NE",Alliance,Nebraska,Box Butte,100,31,66,city_0046_nebraska_alliance,412.712500095367,9.94270833333333,20.6949072912799,dry subhumid,12
+46,2018,"Alliance, NE",Alliance,Nebraska,Box Butte,100,25,34,city_0046_nebraska_alliance,537.274995803833,9.18229166666667,28.0089055645767,dry subhumid,12
+46,2019,"Alliance, NE",Alliance,Nebraska,Box Butte,100,1,1,city_0046_nebraska_alliance,585.743755817413,8.41666666666667,31.8050908136152,humid,12
+46,2020,"Alliance, NE",Alliance,Nebraska,Box Butte,100,17,19,city_0046_nebraska_alliance,336.200000286102,9.99479166666667,16.8143787587735,semiarid,12
+46,2021,"Alliance, NE",Alliance,Nebraska,Box Butte,100,50,108,city_0046_nebraska_alliance,430.687499523163,10.2421875,21.2767271088247,dry subhumid,12
+46,2022,"Alliance, NE",Alliance,Nebraska,Box Butte,100,64,212,city_0046_nebraska_alliance,316.400001525879,9.40885416666667,16.3018382645831,semiarid,12
+46,2023,"Alliance, NE",Alliance,Nebraska,Box Butte,100,31,69,city_0046_nebraska_alliance,509.231248378754,9.5546875,26.0413902486938,dry subhumid,12
+46,2024,"Alliance, NE",Alliance,Nebraska,Box Butte,100,47,173,city_0046_nebraska_alliance,363.637503147125,10.7994791666667,17.4830100423809,semiarid,12
+46,2025,"Alliance, NE",Alliance,Nebraska,Box Butte,100,56,195,city_0046_nebraska_alliance,,,,,

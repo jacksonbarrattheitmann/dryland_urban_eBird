@@ -1,7 +1,7 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S57268208	2019-06-10	L9446430	600 U.S. 84, Teague, Texas, US (31.637, -96.28)	Barn Swallow	Hirundo rustica	24187	species	2	31.6371186	-96.2804573	Traveling	1	0
-S57268208	2019-06-10	L9446430	600 U.S. 84, Teague, Texas, US (31.637, -96.28)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	31.6371186	-96.2804573	Traveling	1	0
 S57268208	2019-06-10	L9446430	600 U.S. 84, Teague, Texas, US (31.637, -96.28)	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.6371186	-96.2804573	Traveling	1	0
+S57268208	2019-06-10	L9446430	600 U.S. 84, Teague, Texas, US (31.637, -96.28)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	3	31.6371186	-96.2804573	Traveling	1	0
 S57268208	2019-06-10	L9446430	600 U.S. 84, Teague, Texas, US (31.637, -96.28)	Mourning Dove	Zenaida macroura	2412	species	2	31.6371186	-96.2804573	Traveling	1	0
 S57268208	2019-06-10	L9446430	600 U.S. 84, Teague, Texas, US (31.637, -96.28)	Turkey Vulture	Cathartes aura	7815	species	1	31.6371186	-96.2804573	Traveling	1	0
 S57268208	2019-06-10	L9446430	600 U.S. 84, Teague, Texas, US (31.637, -96.28)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	31.6371186	-96.2804573	Traveling	1	0
@@ -26,44 +26,44 @@ S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627
 S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Killdeer	Charadrius vociferus	5827	species	10	31.6265389	-96.2926906	Stationary	1	0
 S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.6265389	-96.2926906	Stationary	1	0
 S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.6265389	-96.2926906	Stationary	1	0
-S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	American Pipit	Anthus rubescens	31883	species	20	31.6265389	-96.2926906	Stationary	1	0
 S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Northern Cardinal	Cardinalis cardinalis	34515	species	3	31.6265389	-96.2926906	Stationary	1	0
+S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	American Pipit	Anthus rubescens	31883	species	20	31.6265389	-96.2926906	Stationary	1	0
 S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Blue Jay	Cyanocitta cristata	21294	species	1	31.6265389	-96.2926906	Stationary	1	0
 S156867228	2023-12-22	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Chipping Sparrow	Spizella passerina	32990	species	1	31.6265389	-96.2926906	Stationary	1	0
 S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	4	31.6265389	-96.2926906	Stationary	1	0
-S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Blue Jay	Cyanocitta cristata	21294	species	2	31.6265389	-96.2926906	Stationary	1	0
 S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Eastern Phoebe	Sayornis phoebe	17007	species	1	31.6265389	-96.2926906	Stationary	1	0
+S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Blue Jay	Cyanocitta cristata	21294	species	2	31.6265389	-96.2926906	Stationary	1	0
 S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Killdeer	Charadrius vociferus	5827	species	1	31.6265389	-96.2926906	Stationary	1	0
 S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	31.6265389	-96.2926906	Stationary	1	0
 S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Eastern Bluebird	Sialia sialis	28126	species	1	31.6265389	-96.2926906	Stationary	1	0
 S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Crested Caracara	Caracara plancus	11962	species	2	31.6265389	-96.2926906	Stationary	1	0
-S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Northern Cardinal	Cardinalis cardinalis	34515	species	3	31.6265389	-96.2926906	Stationary	1	0
 S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Northern Mockingbird	Mimus polyglottos	28114	species	3	31.6265389	-96.2926906	Stationary	1	0
+S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Northern Cardinal	Cardinalis cardinalis	34515	species	3	31.6265389	-96.2926906	Stationary	1	0
 S188412119	2024-07-06	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Black Vulture	Coragyps atratus	7811	species	3	31.6265389	-96.2926906	Stationary	1	0
 S226801849	2025-04-15	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Black Vulture	Coragyps atratus	7811	species	1	31.6265389	-96.2926906	Stationary	1	0
+S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	European Starling	Sturnus vulgaris	27813	species	3	31.6259215	-96.2925122	Traveling	1	0
 S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Northern Mockingbird	Mimus polyglottos	28114	species	3	31.6259215	-96.2925122	Stationary	1	0
 S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	31.6259215	-96.2925122	Traveling	1	0
-S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	European Starling	Sturnus vulgaris	27813	species	3	31.6259215	-96.2925122	Traveling	1	0
-S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Barn Swallow	Hirundo rustica	24187	species	6	31.6259215	-96.2925122	Traveling	1	0
 S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Northern Cardinal	Cardinalis cardinalis	34515	species	4	31.6259215	-96.2925122	Stationary	1	0
 S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	31.6259215	-96.2925122	Traveling	1	0
+S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Barn Swallow	Hirundo rustica	24187	species	6	31.6259215	-96.2925122	Traveling	1	0
 S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	House Finch	Haemorhous mexicanus	32310	species	2	31.6259215	-96.2925122	Stationary	1	0
-S226801849	2025-04-15	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.6265389	-96.2926906	Stationary	1	0
 S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	31.6259215	-96.2925122	Traveling	1	0
+S226801849	2025-04-15	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Northern Mockingbird	Mimus polyglottos	28114	species	1	31.6265389	-96.2926906	Stationary	1	0
 S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Eastern Bluebird	Sialia sialis	28126	species	1	31.6259215	-96.2925122	Stationary	1	0
-S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Tufted Titmouse	Baeolophus bicolor	22160	species	1	31.6259215	-96.2925122	Stationary	1	0
-S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Mourning Dove	Zenaida macroura	2412	species	1	31.6259215	-96.2925122	Traveling	1	0
 S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Killdeer	Charadrius vociferus	5827	species	8	31.6259215	-96.2925122	Traveling	1	0
-S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Blue Jay	Cyanocitta cristata	21294	species	1	31.6259215	-96.2925122	Stationary	1	0
+S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Mourning Dove	Zenaida macroura	2412	species	1	31.6259215	-96.2925122	Traveling	1	0
+S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Tufted Titmouse	Baeolophus bicolor	22160	species	1	31.6259215	-96.2925122	Stationary	1	0
 S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Carolina Chickadee	Poecile carolinensis	22060	species	1	31.6259215	-96.2925122	Stationary	1	0
+S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Blue Jay	Cyanocitta cristata	21294	species	1	31.6259215	-96.2925122	Stationary	1	0
 S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.6259215	-96.2925122	Stationary	1	0
 S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Northern Cardinal	Cardinalis cardinalis	34515	species	4	31.6259215	-96.2925122	Traveling	1	0
 S226801849	2025-04-15	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Carolina Chickadee	Poecile carolinensis	22060	species	1	31.6265389	-96.2926906	Stationary	1	0
-S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Barn Swallow	Hirundo rustica	24187	species	4	31.6259215	-96.2925122	Stationary	1	0
 S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Black Vulture	Coragyps atratus	7811	species	2	31.6259215	-96.2925122	Stationary	1	0
+S226801812	2025-04-18	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Barn Swallow	Hirundo rustica	24187	species	4	31.6259215	-96.2925122	Stationary	1	0
 S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Eastern Bluebird	Sialia sialis	28126	species	2	31.6259215	-96.2925122	Traveling	1	0
 S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	31.6259215	-96.2925122	Traveling	1	0
 S226801849	2025-04-15	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	31.6265389	-96.2926906	Stationary	1	0
 S226801849	2025-04-15	L28382406	819 Washington Street, Teague, Texas, US (31.627, -96.293)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	31.6265389	-96.2926906	Stationary	1	0
-S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Blue Jay	Cyanocitta cristata	21294	species	2	31.6259215	-96.2925122	Traveling	1	0
 S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Northern Mockingbird	Mimus polyglottos	28114	species	6	31.6259215	-96.2925122	Traveling	1	0
+S227370648	2025-04-19	L42892348	218 Burnim Avenue, Teague, Texas, US (31.626, -96.293)	Blue Jay	Cyanocitta cristata	21294	species	2	31.6259215	-96.2925122	Traveling	1	0

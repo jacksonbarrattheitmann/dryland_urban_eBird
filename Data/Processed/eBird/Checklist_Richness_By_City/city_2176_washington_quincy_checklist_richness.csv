@@ -1,10 +1,10 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S39606264,L6329786,"Lauzier Park, Quincy",2017-10-07,2017,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,31,0.805,1,47.224789,-119.870973,11,11,city_2176_washington_quincy
-S34466990,L5451669,US-Washington-Quincy-129 M Street Southwest - 47.228x-119.857,2017-02-18,2017,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,5,,1,47.2277617,-119.8566045,1,1,city_2176_washington_quincy
-S34484584,L5451669,US-Washington-Quincy-129 M Street Southwest - 47.228x-119.857,2017-02-18,2017,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,43,,1,47.2277617,-119.8566045,4,4,city_2176_washington_quincy
-S48682033,L6329786,"Lauzier Park, Quincy",2018-09-22,2018,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,31,1.11,1,47.224789,-119.870973,8,8,city_2176_washington_quincy
-S42623641,L6851390,East park Quincy,2018-02-09,2018,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,37,1.718,1,47.232198,-119.840027,3,3,city_2176_washington_quincy
-S42823356,L6851390,East park Quincy,2018-02-15,2018,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,54,2.309,1,47.232198,-119.840027,2,2,city_2176_washington_quincy
-S94245966,L16303916,"Northeast, Quincy, Washington, US (47.243, -119.844)",2021-09-05,2021,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,42,3.444,1,47.2426254,-119.8436799,12,12,city_2176_washington_quincy
-S97404967,L16864131,"610 F St SE, Quincy US-WA 47.23396, -119.84242",2021-11-08,2021,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,9,15.396,1,47.233961,-119.842422,1,1,city_2176_washington_quincy
-S119397089,L21006372,"Lauzier Park, Quincy, Washington, US (47.226, -119.87)",2022-09-24,2022,2176,"Quincy, WA",Quincy,Washington,Grant,7607901.68995993,20,0.805,1,47.2261927,-119.8695171,1,1,city_2176_washington_quincy
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S34484584,L5451669,US-Washington-Quincy-129 M Street Southwest - 47.228x-119.857,2017-02-18,2017,2176,"Quincy, WA",Quincy,Washington,Grant,100,43,,1,Stationary,47.2277617,-119.8566045,4,4,city_2176_washington_quincy
+S34466990,L5451669,US-Washington-Quincy-129 M Street Southwest - 47.228x-119.857,2017-02-18,2017,2176,"Quincy, WA",Quincy,Washington,Grant,100,5,,1,Stationary,47.2277617,-119.8566045,1,1,city_2176_washington_quincy
+S39606264,L6329786,"Lauzier Park, Quincy",2017-10-07,2017,2176,"Quincy, WA",Quincy,Washington,Grant,100,31,0.805,1,Traveling,47.224789,-119.870973,11,11,city_2176_washington_quincy
+S42623641,L6851390,East park Quincy,2018-02-09,2018,2176,"Quincy, WA",Quincy,Washington,Grant,100,37,1.718,1,Traveling,47.232198,-119.840027,3,3,city_2176_washington_quincy
+S42823356,L6851390,East park Quincy,2018-02-15,2018,2176,"Quincy, WA",Quincy,Washington,Grant,100,54,2.309,1,Traveling,47.232198,-119.840027,2,2,city_2176_washington_quincy
+S48682033,L6329786,"Lauzier Park, Quincy",2018-09-22,2018,2176,"Quincy, WA",Quincy,Washington,Grant,100,31,1.11,1,Traveling,47.224789,-119.870973,8,8,city_2176_washington_quincy
+S94245966,L16303916,"Northeast, Quincy, Washington, US (47.243, -119.844)",2021-09-05,2021,2176,"Quincy, WA",Quincy,Washington,Grant,100,42,3.444,1,Traveling,47.2426254,-119.8436799,12,12,city_2176_washington_quincy
+S97404967,L16864131,"610 F St SE, Quincy US-WA 47.23396, -119.84242",2021-11-08,2021,2176,"Quincy, WA",Quincy,Washington,Grant,100,9,15.396,1,Traveling,47.233961,-119.842422,1,1,city_2176_washington_quincy
+S119397089,L21006372,"Lauzier Park, Quincy, Washington, US (47.226, -119.87)",2022-09-24,2022,2176,"Quincy, WA",Quincy,Washington,Grant,100,20,0.805,1,Traveling,47.2261927,-119.8695171,1,1,city_2176_washington_quincy

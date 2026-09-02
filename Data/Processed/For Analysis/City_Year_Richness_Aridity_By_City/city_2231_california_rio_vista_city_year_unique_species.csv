@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2015,8188551.49166652,1,1,city_2231_california_rio_vista,259.3375020623207,17.127604166666668,9.559911758849108,arid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2017,8188551.49166652,19,29,city_2231_california_rio_vista,554.4624993801117,16.833333333333332,20.663198734662547,dry subhumid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2018,8188551.49166652,41,41,city_2231_california_rio_vista,394.6249992251396,16.677083333333332,14.792659088486296,semiarid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2019,8188551.49166652,13,14,city_2231_california_rio_vista,530.8187419176102,16.515625,20.01909221138895,dry subhumid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2020,8188551.49166652,5,5,city_2231_california_rio_vista,174.84999990463257,17.065104166666668,6.460348307839786,arid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2021,8188551.49166652,44,119,city_2231_california_rio_vista,412.10001093149185,16.549479166666668,15.521962157694247,semiarid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2022,8188551.49166652,38,147,city_2231_california_rio_vista,273.9250071644783,16.643229166666668,10.2812240006998,semiarid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2023,8188551.49166652,9,9,city_2231_california_rio_vista,526.4374928474426,16.276041666666668,20.03488575355976,dry subhumid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2024,8188551.49166652,42,111,city_2231_california_rio_vista,518.668746471405,16.916666666666668,19.26942711348873,semiarid,12
-2231,"Rio Vista, CA",Rio Vista,California,Solano,2025,8188551.49166652,57,224,city_2231_california_rio_vista,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2231,2015,"Rio Vista, CA",Rio Vista,California,Solano,100,1,1,city_2231_california_rio_vista,259.337502062321,17.1276041666667,9.55991175884911,arid,12
+2231,2017,"Rio Vista, CA",Rio Vista,California,Solano,100,19,29,city_2231_california_rio_vista,554.462499380112,16.8333333333333,20.6631987346626,dry subhumid,12
+2231,2018,"Rio Vista, CA",Rio Vista,California,Solano,100,41,41,city_2231_california_rio_vista,394.62499922514,16.6770833333333,14.7926590884863,semiarid,12
+2231,2019,"Rio Vista, CA",Rio Vista,California,Solano,100,13,14,city_2231_california_rio_vista,530.81874191761,16.515625,20.019092211389,dry subhumid,12
+2231,2020,"Rio Vista, CA",Rio Vista,California,Solano,100,5,5,city_2231_california_rio_vista,174.849999904633,17.0651041666667,6.46034830783979,arid,12
+2231,2021,"Rio Vista, CA",Rio Vista,California,Solano,100,44,119,city_2231_california_rio_vista,412.100010931492,16.5494791666667,15.5219621576942,semiarid,12
+2231,2022,"Rio Vista, CA",Rio Vista,California,Solano,100,38,147,city_2231_california_rio_vista,273.925007164478,16.6432291666667,10.2812240006998,semiarid,12
+2231,2023,"Rio Vista, CA",Rio Vista,California,Solano,100,9,9,city_2231_california_rio_vista,526.437492847443,16.2760416666667,20.0348857535598,dry subhumid,12
+2231,2024,"Rio Vista, CA",Rio Vista,California,Solano,100,42,111,city_2231_california_rio_vista,518.668746471405,16.9166666666667,19.2694271134887,semiarid,12
+2231,2025,"Rio Vista, CA",Rio Vista,California,Solano,100,57,224,city_2231_california_rio_vista,,,,,

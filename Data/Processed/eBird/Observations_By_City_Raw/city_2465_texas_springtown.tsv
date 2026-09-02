@@ -1,7 +1,7 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S23751419	2015-05-31	L3692162	Texas-Parker Co.-Springtown	House Sparrow	Passer domesticus	31534	species	1	32.9632706	-97.6832414	Traveling	1	0
-S23751419	2015-05-31	L3692162	Texas-Parker Co.-Springtown	Mourning Dove	Zenaida macroura	2412	species	1	32.9632706	-97.6832414	Traveling	1	0
 S23751419	2015-05-31	L3692162	Texas-Parker Co.-Springtown	Turkey Vulture	Cathartes aura	7815	species	2	32.9632706	-97.6832414	Traveling	1	0
+S23751419	2015-05-31	L3692162	Texas-Parker Co.-Springtown	Mourning Dove	Zenaida macroura	2412	species	1	32.9632706	-97.6832414	Traveling	1	0
 S23751419	2015-05-31	L3692162	Texas-Parker Co.-Springtown	Northern Cardinal	Cardinalis cardinalis	34515	species	3	32.9632706	-97.6832414	Traveling	1	0
 S32760635	2016-11-26	L5111636	Parker - Springtown (sister's house)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	32.9692994	-97.6832682	Traveling	1	0
 S32760635	2016-11-26	L5111636	Parker - Springtown (sister's house)	Rock Pigeon	Columba livia	1868	domestic	2	32.9692994	-97.6832682	Traveling	1	0
@@ -51,17 +51,17 @@ S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, T
 S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	Northern Yellow Warbler	Setophaga aestiva	34087	species	8	32.9652622	-97.6737658	Traveling	1	0
 S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	32.9652622	-97.6737658	Traveling	1	0
 S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	White-eyed Vireo	Vireo griseus	19165	species	1	32.9652622	-97.6737658	Traveling	1	0
-S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	32.9652622	-97.6737658	Traveling	1	0
 S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	Blue Jay	Cyanocitta cristata	21294	species	1	32.9652622	-97.6737658	Traveling	1	0
+S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	32.9652622	-97.6737658	Traveling	1	0
 S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	Baltimore Oriole	Icterus galbula	33770	species	2	32.9652622	-97.6737658	Traveling	1	0
 S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	Eastern Phoebe	Sayornis phoebe	17007	species	1	32.9652622	-97.6737658	Traveling	1	0
 S48720727	2018-09-24	L7956830	Springtown Park 109 Westridge Drive, Springtown, Texas, US (32.965, -97.674)	Red-eyed Vireo	Vireo olivaceus	19267	species	1	32.9652622	-97.6737658	Traveling	1	0
 S93380053	2021-08-17	L16137840	Springtown, TX	Chimney Swift	Chaetura pelagica	3896	species	5	32.9635070	-97.6830030	Traveling	1	0
 S93380053	2021-08-17	L16137840	Springtown, TX	European Starling	Sturnus vulgaris	27813	species	3	32.9635070	-97.6830030	Traveling	1	0
-S93380053	2021-08-17	L16137840	Springtown, TX	Mississippi Kite	Ictinia mississippiensis	8388	species	1	32.9635070	-97.6830030	Traveling	1	0
 S93380053	2021-08-17	L16137840	Springtown, TX	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	32.9635070	-97.6830030	Traveling	1	0
-S93380053	2021-08-17	L16137840	Springtown, TX	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	32.9635070	-97.6830030	Traveling	1	0
+S93380053	2021-08-17	L16137840	Springtown, TX	Mississippi Kite	Ictinia mississippiensis	8388	species	1	32.9635070	-97.6830030	Traveling	1	0
 S93380053	2021-08-17	L16137840	Springtown, TX	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	32.9635070	-97.6830030	Traveling	1	0
+S93380053	2021-08-17	L16137840	Springtown, TX	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	32.9635070	-97.6830030	Traveling	1	0
 S93380053	2021-08-17	L16137840	Springtown, TX	Turkey Vulture	Cathartes aura	7815	species	2	32.9635070	-97.6830030	Traveling	1	0
 S93380053	2021-08-17	L16137840	Springtown, TX	White-winged Dove	Zenaida asiatica	2389	species	1	32.9635070	-97.6830030	Traveling	1	0
 S93380053	2021-08-17	L16137840	Springtown, TX	American Robin	Turdus migratorius	28633	species	1	32.9635070	-97.6830030	Traveling	1	0
@@ -69,16 +69,16 @@ S93380053	2021-08-17	L16137840	Springtown, TX	Black Vulture	Coragyps atratus	781
 S123133801	2022-11-27	L21661534	Springtown Park	Song Sparrow	Melospiza melodia	33277	species	1	32.9650300	-97.6741290	Traveling	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	Yellow-rumped Warbler	Setophaga coronata	34160	issf	4	32.9650300	-97.6741290	Traveling	1	0
 S105915978	2022-03-30	L5111636	Parker - Springtown (sister's house)	Turkey Vulture	Cathartes aura	7815	species	6	32.9692994	-97.6832682	Stationary	1	0
-S123133801	2022-11-27	L21661534	Springtown Park	Eastern Phoebe	Sayornis phoebe	17007	species	1	32.9650300	-97.6741290	Traveling	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	White-winged Dove	Zenaida asiatica	2389	species	7	32.9650300	-97.6741290	Traveling	1	0
+S123133801	2022-11-27	L21661534	Springtown Park	Eastern Phoebe	Sayornis phoebe	17007	species	1	32.9650300	-97.6741290	Traveling	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	Northern Cardinal	Cardinalis cardinalis	34515	species	2	32.9650300	-97.6741290	Traveling	1	0
 S105915978	2022-03-30	L5111636	Parker - Springtown (sister's house)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	32.9692994	-97.6832682	Stationary	1	0
 S116243821	2022-08-02	L506383	Springtown	Mississippi Kite	Ictinia mississippiensis	8388	species	3	32.9706517	-97.6931763	Stationary	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	Blue Jay	Cyanocitta cristata	21294	species	1	32.9650300	-97.6741290	Traveling	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	Brown Thrasher	Toxostoma rufum	28037	species	1	32.9650300	-97.6741290	Traveling	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	House Finch	Haemorhous mexicanus	32310	species	2	32.9650300	-97.6741290	Traveling	1	0
-S105915978	2022-03-30	L5111636	Parker - Springtown (sister's house)	Downy Woodpecker	Dryobates pubescens	11400	species	1	32.9692994	-97.6832682	Stationary	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	Western/Eastern Meadowlark	Sturnella neglecta/magna	33586	slash	9	32.9650300	-97.6741290	Traveling	1	0
+S105915978	2022-03-30	L5111636	Parker - Springtown (sister's house)	Downy Woodpecker	Dryobates pubescens	11400	species	1	32.9692994	-97.6832682	Stationary	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	Carolina Chickadee	Poecile carolinensis	22060	species	1	32.9650300	-97.6741290	Traveling	1	0
 S123133801	2022-11-27	L21661534	Springtown Park	American Robin	Turdus migratorius	28633	species	10	32.9650300	-97.6741290	Traveling	1	0
 S105915978	2022-03-30	L5111636	Parker - Springtown (sister's house)	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.9692994	-97.6832682	Stationary	1	0
@@ -90,13 +90,13 @@ S136060407	2023-05-04	L5111636	Parker - Springtown (sister's house)	House Sparro
 S140926953	2023-06-08	L5111636	Parker - Springtown (sister's house)	Turkey Vulture	Cathartes aura	7815	species	1	32.9692994	-97.6832682	Stationary	1	0
 S140926953	2023-06-08	L5111636	Parker - Springtown (sister's house)	House Sparrow	Passer domesticus	31534	species	6	32.9692994	-97.6832682	Stationary	1	0
 S140926953	2023-06-08	L5111636	Parker - Springtown (sister's house)	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	32.9692994	-97.6832682	Stationary	1	0
+S136060407	2023-05-04	L5111636	Parker - Springtown (sister's house)	Black Vulture	Coragyps atratus	7811	species	2	32.9692994	-97.6832682	Stationary	1	0
 S140926953	2023-06-08	L5111636	Parker - Springtown (sister's house)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	32.9692994	-97.6832682	Stationary	1	0
 S136060407	2023-05-04	L5111636	Parker - Springtown (sister's house)	Turkey Vulture	Cathartes aura	7815	species	1	32.9692994	-97.6832682	Stationary	1	0
-S136060407	2023-05-04	L5111636	Parker - Springtown (sister's house)	Black Vulture	Coragyps atratus	7811	species	2	32.9692994	-97.6832682	Stationary	1	0
-S140926953	2023-06-08	L5111636	Parker - Springtown (sister's house)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	32.9692994	-97.6832682	Stationary	1	0
 S136060407	2023-05-04	L5111636	Parker - Springtown (sister's house)	Barn Swallow	Hirundo rustica	24195	issf	1	32.9692994	-97.6832682	Stationary	1	0
 S136060407	2023-05-04	L5111636	Parker - Springtown (sister's house)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	32.9692994	-97.6832682	Stationary	1	0
 S140926953	2023-06-08	L5111636	Parker - Springtown (sister's house)	Carolina Chickadee	Poecile carolinensis	22060	species	1	32.9692994	-97.6832682	Stationary	1	0
+S140926953	2023-06-08	L5111636	Parker - Springtown (sister's house)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	32.9692994	-97.6832682	Stationary	1	0
 S140926953	2023-06-08	L5111636	Parker - Springtown (sister's house)	Bewick's Wren	Thryomanes bewickii	27362	species	1	32.9692994	-97.6832682	Stationary	1	0
 S136060407	2023-05-04	L5111636	Parker - Springtown (sister's house)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	32.9692994	-97.6832682	Stationary	1	0
 S136060407	2023-05-04	L5111636	Parker - Springtown (sister's house)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	32.9692994	-97.6832682	Stationary	1	0
@@ -111,8 +111,8 @@ S187193030	2024-07-15	L5111636	Parker - Springtown (sister's house)	Rock Pigeon	
 S187193030	2024-07-15	L5111636	Parker - Springtown (sister's house)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	32.9692994	-97.6832682	Stationary	1	0
 S187193030	2024-07-15	L5111636	Parker - Springtown (sister's house)	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.9692994	-97.6832682	Stationary	1	0
 S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	32.9692994	-97.6832682	Stationary	1	0
-S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	Black Vulture	Coragyps atratus	7811	species	1	32.9692994	-97.6832682	Stationary	1	0
 S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	32.9649828	-97.6733462	Traveling	1	0
+S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	Black Vulture	Coragyps atratus	7811	species	1	32.9692994	-97.6832682	Stationary	1	0
 S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Purple Martin	Progne subis	24081	species	6	32.9641413	-97.6742721	Traveling	1	0
 S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	American Robin	Turdus migratorius	28633	species	1	32.9641413	-97.6742721	Traveling	1	0
 S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Northern Cardinal	Cardinalis cardinalis	34515	species	9	32.9641413	-97.6742721	Traveling	1	0
@@ -120,8 +120,8 @@ S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, 
 S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Carolina Chickadee	Poecile carolinensis	22060	species	4	32.9649828	-97.6733462	Traveling	1	0
 S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	Dickcissel	Spiza americana	34627	species	1	32.9692994	-97.6832682	Stationary	1	0
 S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	American Crow	Corvus brachyrhynchos	21557	species	2	32.9649828	-97.6733462	Traveling	1	0
-S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Bewick's Wren	Thryomanes bewickii	27362	species	1	32.9649828	-97.6733462	Traveling	1	0
 S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	House Sparrow	Passer domesticus	31534	species	4	32.9692994	-97.6832682	Stationary	1	0
+S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Bewick's Wren	Thryomanes bewickii	27362	species	1	32.9649828	-97.6733462	Traveling	1	0
 S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	5	32.9641413	-97.6742721	Traveling	1	0
 S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Ruby-crowned Kinglet	Corthylio calendula	26844	species	2	32.9649828	-97.6733462	Traveling	1	0
 S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Carolina Wren	Thryothorus ludovicianus	27348	species	3	32.9649828	-97.6733462	Traveling	1	0
@@ -132,13 +132,13 @@ S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, 
 S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Black Vulture	Coragyps atratus	7811	species	1	32.9649828	-97.6733462	Traveling	1	0
 S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	European Starling	Sturnus vulgaris	27813	species	1	32.9692994	-97.6832682	Stationary	1	0
 S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Brown Creeper	Certhia americana	27026	species	1	32.9649828	-97.6733462	Traveling	1	0
-S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	32.9649828	-97.6733462	Traveling	1	0
 S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Northern Mockingbird	Mimus polyglottos	28114	species	3	32.9641413	-97.6742721	Traveling	1	0
 S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	Mississippi Kite	Ictinia mississippiensis	8388	species	3	32.9692994	-97.6832682	Stationary	1	0
+S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	32.9649828	-97.6733462	Traveling	1	0
 S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	European Starling	Sturnus vulgaris	27813	species	1	32.9641413	-97.6742721	Traveling	1	0
 S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	32.9692994	-97.6832682	Stationary	1	0
 S236569705	2025-05-11	L5111636	Parker - Springtown (sister's house)	Cliff Swallow	Petrochelidon pyrrhonota	24281	species	1	32.9692994	-97.6832682	Stationary	1	0
-S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	32.9641413	-97.6742721	Traveling	1	0
+S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Western Kingbird	Tyrannus verticalis	17467	species	2	32.9641413	-97.6742721	Traveling	1	0
 S289085252	2025-12-18	L56082112	Walnut Creek Road, Springtown, Texas, US (32.965, -97.673)	Northern Mockingbird	Mimus polyglottos	28114	species	1	32.9649828	-97.6733462	Traveling	1	0
 S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Carolina Chickadee	Poecile carolinensis	22060	species	2	32.9641413	-97.6742721	Traveling	1	0
-S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Western Kingbird	Tyrannus verticalis	17467	species	2	32.9641413	-97.6742721	Traveling	1	0
+S227148197	2025-04-19	L42969907	Springtown Park, 220 Hilltop Drive, Springtown, Texas, US (32.964, -97.674)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	32.9641413	-97.6742721	Traveling	1	0

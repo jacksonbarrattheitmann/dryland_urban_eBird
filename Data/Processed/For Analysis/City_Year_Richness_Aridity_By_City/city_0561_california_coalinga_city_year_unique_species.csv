@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-561,"Coalinga, CA",Coalinga,California,Fresno,2016,15427632.3427029,6,6,city_0561_california_coalinga,324.3000009059906,17.794270833333332,11.667872233477036,semiarid,12
-561,"Coalinga, CA",Coalinga,California,Fresno,2018,15427632.3427029,12,12,city_0561_california_coalinga,250.818751424551,17.692708333333332,9.057212765377804,arid,12
-561,"Coalinga, CA",Coalinga,California,Fresno,2019,15427632.3427029,4,5,city_0561_california_coalinga,386.2187445759773,17.203125,14.197587393947472,semiarid,12
-561,"Coalinga, CA",Coalinga,California,Fresno,2020,15427632.3427029,13,15,city_0561_california_coalinga,167.7437469959259,17.877604166666668,6.017150756322797,arid,12
-561,"Coalinga, CA",Coalinga,California,Fresno,2021,15427632.3427029,3,3,city_0561_california_coalinga,291.75625306367874,17.572916666666668,10.581261916929792,semiarid,12
-561,"Coalinga, CA",Coalinga,California,Fresno,2022,15427632.3427029,19,25,city_0561_california_coalinga,215.69374638795853,17.486979166666668,7.847124454095317,arid,12
-561,"Coalinga, CA",Coalinga,California,Fresno,2023,15427632.3427029,14,16,city_0561_california_coalinga,408.1499966979027,16.872395833333332,15.18844837019039,semiarid,12
-561,"Coalinga, CA",Coalinga,California,Fresno,2024,15427632.3427029,18,31,city_0561_california_coalinga,364.1374982893467,17.7578125,13.118378773159687,semiarid,12
-561,"Coalinga, CA",Coalinga,California,Fresno,2025,15427632.3427029,32,67,city_0561_california_coalinga,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+561,2016,"Coalinga, CA",Coalinga,California,Fresno,100,6,6,city_0561_california_coalinga,324.300000905991,17.7942708333333,11.667872233477,semiarid,12
+561,2018,"Coalinga, CA",Coalinga,California,Fresno,100,12,12,city_0561_california_coalinga,250.818751424551,17.6927083333333,9.0572127653778,arid,12
+561,2019,"Coalinga, CA",Coalinga,California,Fresno,100,4,5,city_0561_california_coalinga,386.218744575977,17.203125,14.1975873939475,semiarid,12
+561,2020,"Coalinga, CA",Coalinga,California,Fresno,100,13,15,city_0561_california_coalinga,167.743746995926,17.8776041666667,6.0171507563228,arid,12
+561,2021,"Coalinga, CA",Coalinga,California,Fresno,100,3,3,city_0561_california_coalinga,291.756253063679,17.5729166666667,10.5812619169298,semiarid,12
+561,2022,"Coalinga, CA",Coalinga,California,Fresno,100,19,25,city_0561_california_coalinga,215.693746387959,17.4869791666667,7.84712445409532,arid,12
+561,2023,"Coalinga, CA",Coalinga,California,Fresno,100,14,16,city_0561_california_coalinga,408.149996697903,16.8723958333333,15.1884483701904,semiarid,12
+561,2024,"Coalinga, CA",Coalinga,California,Fresno,100,18,31,city_0561_california_coalinga,364.137498289347,17.7578125,13.1183787731597,semiarid,12
+561,2025,"Coalinga, CA",Coalinga,California,Fresno,100,32,67,city_0561_california_coalinga,,,,,

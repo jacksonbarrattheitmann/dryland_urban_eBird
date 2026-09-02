@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1620,"Manti, UT",Manti,Utah,Sanpete,2015,4218201.51595694,9,9,city_1620_utah_manti,434.318751335144,7.578125,24.70791118706597,dry subhumid,12
-1620,"Manti, UT",Manti,Utah,Sanpete,2018,4218201.51595694,8,8,city_1620_utah_manti,322.168749332428,7.390625,18.525426736096488,semiarid,12
-1620,"Manti, UT",Manti,Utah,Sanpete,2021,4218201.51595694,15,26,city_1620_utah_manti,409.7749977111816,7.611979166666666,23.266834115199433,dry subhumid,12
-1620,"Manti, UT",Manti,Utah,Sanpete,2022,4218201.51595694,13,13,city_1620_utah_manti,375.31874561309814,6.731770833333334,22.431501683335355,dry subhumid,12
-1620,"Manti, UT",Manti,Utah,Sanpete,2023,4218201.51595694,10,10,city_1620_utah_manti,411.98749828338623,6.729166666666666,24.626899025656964,dry subhumid,12
-1620,"Manti, UT",Manti,Utah,Sanpete,2025,4218201.51595694,4,4,city_1620_utah_manti,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1620,2015,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,9,9,city_1620_utah_manti,434.318751335144,7.578125,24.707911187066,dry subhumid,12
+1620,2018,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,8,8,city_1620_utah_manti,322.168749332428,7.390625,18.5254267360965,semiarid,12
+1620,2021,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,15,26,city_1620_utah_manti,409.774997711182,7.61197916666667,23.2668341151994,dry subhumid,12
+1620,2022,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,13,13,city_1620_utah_manti,375.318745613098,6.73177083333333,22.4315016833354,dry subhumid,12
+1620,2023,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,10,10,city_1620_utah_manti,411.987498283386,6.72916666666667,24.626899025657,dry subhumid,12
+1620,2025,"Manti, UT",Manti,Utah,Sanpete,99.9999999999924,4,4,city_1620_utah_manti,,,,,

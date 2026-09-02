@@ -1,6 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,2016,9120445.62892182,15,15,city_2502_texas_sullivan_city,671.2125015258789,24.677083333333332,19.356082951782632,semiarid,12
-2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,2018,9120445.62892182,9,9,city_2502_texas_sullivan_city,549.574996471405,24.296875,16.02405456682001,semiarid,12
-2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,2019,9120445.62892182,3,3,city_2502_texas_sullivan_city,479.0437502861023,24.328125,13.954847527678902,semiarid,12
-2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,2022,9120445.62892182,3,3,city_2502_texas_sullivan_city,500.0500054359436,24.4140625,14.530397433779973,semiarid,12
-2502,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,2023,9120445.62892182,4,4,city_2502_texas_sullivan_city,591.7750029563904,25.065104166666668,16.87646499333486,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2502,2016,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,99.9999999999976,15,15,city_2502_texas_sullivan_city,671.212501525879,24.6770833333333,19.3560829517826,semiarid,12
+2502,2018,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,99.9999999999976,9,9,city_2502_texas_sullivan_city,549.574996471405,24.296875,16.02405456682,semiarid,12
+2502,2019,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,99.9999999999976,3,3,city_2502_texas_sullivan_city,479.043750286102,24.328125,13.9548475276789,semiarid,12
+2502,2022,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,99.9999999999976,3,3,city_2502_texas_sullivan_city,500.050005435944,24.4140625,14.53039743378,semiarid,12
+2502,2023,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,99.9999999999976,4,4,city_2502_texas_sullivan_city,591.77500295639,25.0651041666667,16.8764649933349,semiarid,12
+2502,2025,"Sullivan City, TX",Sullivan City,Texas,Hidalgo,99.9999999999976,0,0,city_2502_texas_sullivan_city,,,,,

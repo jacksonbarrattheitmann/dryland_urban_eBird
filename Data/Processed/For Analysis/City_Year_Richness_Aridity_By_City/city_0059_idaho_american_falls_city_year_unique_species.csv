@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-59,"American Falls, ID",American Falls,Idaho,Power,2017,3717746.10436692,8,8,city_0059_idaho_american_falls,286.17499923706055,9.143229166666668,14.94914973568647,semiarid,12
-59,"American Falls, ID",American Falls,Idaho,Power,2020,3717746.10436692,26,87,city_0059_idaho_american_falls,255.7562484741211,9.458333333333332,13.143790071475175,semiarid,12
-59,"American Falls, ID",American Falls,Idaho,Power,2021,3717746.10436692,13,16,city_0059_idaho_american_falls,266.06875228881836,9.924479166666668,13.353862355104724,semiarid,12
-59,"American Falls, ID",American Falls,Idaho,Power,2023,3717746.10436692,24,27,city_0059_idaho_american_falls,318.4125008583069,8.973958333333332,16.781553709798224,semiarid,12
-59,"American Falls, ID",American Falls,Idaho,Power,2024,3717746.10436692,19,37,city_0059_idaho_american_falls,268.96249866485596,10.1953125,13.31806569791163,semiarid,12
-59,"American Falls, ID",American Falls,Idaho,Power,2025,3717746.10436692,54,185,city_0059_idaho_american_falls,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+59,2017,"American Falls, ID",American Falls,Idaho,Power,99.9999999999934,8,8,city_0059_idaho_american_falls,286.174999237061,9.14322916666667,14.9491497356865,semiarid,12
+59,2020,"American Falls, ID",American Falls,Idaho,Power,99.9999999999934,26,87,city_0059_idaho_american_falls,255.756248474121,9.45833333333333,13.1437900714752,semiarid,12
+59,2021,"American Falls, ID",American Falls,Idaho,Power,99.9999999999934,13,16,city_0059_idaho_american_falls,266.068752288818,9.92447916666667,13.3538623551047,semiarid,12
+59,2023,"American Falls, ID",American Falls,Idaho,Power,99.9999999999934,24,27,city_0059_idaho_american_falls,318.412500858307,8.97395833333333,16.7815537097982,semiarid,12
+59,2024,"American Falls, ID",American Falls,Idaho,Power,99.9999999999934,19,37,city_0059_idaho_american_falls,268.962498664856,10.1953125,13.3180656979116,semiarid,12
+59,2025,"American Falls, ID",American Falls,Idaho,Power,99.9999999999934,54,185,city_0059_idaho_american_falls,,,,,

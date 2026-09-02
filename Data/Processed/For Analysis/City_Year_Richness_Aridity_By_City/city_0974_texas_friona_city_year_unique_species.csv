@@ -1,4 +1,4 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-974,"Friona, TX",Friona,Texas,Parmer,2016,3589165.79746531,8,8,city_0974_texas_friona,424.3374972343445,14.908854166666666,17.035608880082414,semiarid,12
-974,"Friona, TX",Friona,Texas,Parmer,2022,3589165.79746531,4,4,city_0974_texas_friona,345.86874318122864,14.294270833333332,14.23663815860133,semiarid,12
-974,"Friona, TX",Friona,Texas,Parmer,2023,3589165.79746531,9,9,city_0974_texas_friona,321.4937553405762,14.994791666666666,12.862429886516072,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+974,2016,"Friona, TX",Friona,Texas,Parmer,100,8,8,city_0974_texas_friona,424.337497234345,14.9088541666667,17.0356088800824,semiarid,12
+974,2022,"Friona, TX",Friona,Texas,Parmer,100,4,4,city_0974_texas_friona,345.868743181229,14.2942708333333,14.2366381586013,semiarid,12
+974,2023,"Friona, TX",Friona,Texas,Parmer,100,9,9,city_0974_texas_friona,321.493755340576,14.9947916666667,12.8624298865161,semiarid,12

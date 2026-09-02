@@ -1,7 +1,7 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S46142901,L7489932,"1014 W Doolin Ave, Blackwell US-OK (36.8120,-97.2972)",2018-05-29,2018,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,9163863.83441793,5,,1,36.811951,-97.297244,3,3,city_0247_oklahoma_blackwell
-S44660078,L7236859,"1022 W. Oklahoma, Blackwell, Ok",2018-04-16,2018,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,9163863.83441793,10,,1,36.8102783,-97.3186101,4,4,city_0247_oklahoma_blackwell
-S54058476,L7236859,"1022 W. Oklahoma, Blackwell, Ok",2019-03-20,2019,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,9163863.83441793,8,,1,36.8102783,-97.3186101,2,2,city_0247_oklahoma_blackwell
-S89492878,L15201324,"924 S Main St, Blackwell US-OK (36.7946,-97.2828)",2021-06-02,2021,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,9163863.83441793,7,,1,36.794641,-97.282799,5,5,city_0247_oklahoma_blackwell
-S89426805,L15201324,"924 S Main St, Blackwell US-OK (36.7946,-97.2828)",2021-06-01,2021,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,9163863.83441793,33,,1,36.794641,-97.282799,7,7,city_0247_oklahoma_blackwell
-S205262389,L38589961,"1221 W Doolin Ave, Blackwell US-OK",2024-12-13,2024,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,9163863.83441793,6,,1,36.811159,-97.298616,5,5,city_0247_oklahoma_blackwell
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S44660078,L7236859,"1022 W. Oklahoma, Blackwell, Ok",2018-04-16,2018,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,10,,1,Stationary,36.8102783,-97.3186101,4,4,city_0247_oklahoma_blackwell
+S46142901,L7489932,"1014 W Doolin Ave, Blackwell US-OK (36.8120,-97.2972)",2018-05-29,2018,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,5,,1,Stationary,36.811951,-97.297244,3,3,city_0247_oklahoma_blackwell
+S54058476,L7236859,"1022 W. Oklahoma, Blackwell, Ok",2019-03-20,2019,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,8,,1,Stationary,36.8102783,-97.3186101,2,2,city_0247_oklahoma_blackwell
+S89426805,L15201324,"924 S Main St, Blackwell US-OK (36.7946,-97.2828)",2021-06-01,2021,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,33,,1,Stationary,36.794641,-97.282799,7,7,city_0247_oklahoma_blackwell
+S89492878,L15201324,"924 S Main St, Blackwell US-OK (36.7946,-97.2828)",2021-06-02,2021,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,7,,1,Stationary,36.794641,-97.282799,5,5,city_0247_oklahoma_blackwell
+S205262389,L38589961,"1221 W Doolin Ave, Blackwell US-OK",2024-12-13,2024,247,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,6,,1,Stationary,36.811159,-97.298616,5,5,city_0247_oklahoma_blackwell

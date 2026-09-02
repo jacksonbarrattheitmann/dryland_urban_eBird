@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2015,7057832.81862966,60,116,city_0294_texas_brackettville,743.8874979019165,21.192708333333332,23.848121488924356,dry subhumid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2016,7057832.81862966,71,241,city_0294_texas_brackettville,776.4437580108643,21.927083333333332,24.31928246950831,dry subhumid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2017,7057832.81862966,98,371,city_0294_texas_brackettville,504.29375648498535,21.994791666666668,15.761745278384696,semiarid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2018,7057832.81862966,131,683,city_0294_texas_brackettville,587.7312531471252,21.447916666666668,18.689036204744625,semiarid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2019,7057832.81862966,95,854,city_0294_texas_brackettville,434.7062458992005,21.572916666666668,13.768327154841057,semiarid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2020,7057832.81862966,151,1149,city_0294_texas_brackettville,367.4437522888184,22.268229166666668,11.38716817681432,semiarid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2021,7057832.81862966,139,1154,city_0294_texas_brackettville,544.1937537193298,21.770833333333332,17.128721428542843,semiarid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2022,7057832.81862966,139,1243,city_0294_texas_brackettville,317.1187479496002,21.869791666666668,9.950449355503062,arid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2023,7057832.81862966,140,1293,city_0294_texas_brackettville,491.4312467575073,22.635416666666668,15.058218860108743,semiarid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2024,7057832.81862966,135,1149,city_0294_texas_brackettville,410.4562518596649,22.9296875,12.464626390993384,semiarid,12
-294,"Brackettville, TX",Brackettville,Texas,Kinney,2025,7057832.81862966,141,2407,city_0294_texas_brackettville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+294,2015,"Brackettville, TX",Brackettville,Texas,Kinney,100,60,116,city_0294_texas_brackettville,743.887497901917,21.1927083333333,23.8481214889244,dry subhumid,12
+294,2016,"Brackettville, TX",Brackettville,Texas,Kinney,100,71,241,city_0294_texas_brackettville,776.443758010864,21.9270833333333,24.3192824695083,dry subhumid,12
+294,2017,"Brackettville, TX",Brackettville,Texas,Kinney,100,98,371,city_0294_texas_brackettville,504.293756484985,21.9947916666667,15.7617452783847,semiarid,12
+294,2018,"Brackettville, TX",Brackettville,Texas,Kinney,100,131,683,city_0294_texas_brackettville,587.731253147125,21.4479166666667,18.6890362047446,semiarid,12
+294,2019,"Brackettville, TX",Brackettville,Texas,Kinney,100,95,854,city_0294_texas_brackettville,434.706245899201,21.5729166666667,13.7683271548411,semiarid,12
+294,2020,"Brackettville, TX",Brackettville,Texas,Kinney,100,151,1149,city_0294_texas_brackettville,367.443752288818,22.2682291666667,11.3871681768143,semiarid,12
+294,2021,"Brackettville, TX",Brackettville,Texas,Kinney,100,139,1154,city_0294_texas_brackettville,544.19375371933,21.7708333333333,17.1287214285428,semiarid,12
+294,2022,"Brackettville, TX",Brackettville,Texas,Kinney,100,139,1243,city_0294_texas_brackettville,317.1187479496,21.8697916666667,9.95044935550306,arid,12
+294,2023,"Brackettville, TX",Brackettville,Texas,Kinney,100,140,1293,city_0294_texas_brackettville,491.431246757507,22.6354166666667,15.0582188601087,semiarid,12
+294,2024,"Brackettville, TX",Brackettville,Texas,Kinney,100,135,1149,city_0294_texas_brackettville,410.456251859665,22.9296875,12.4646263909934,semiarid,12
+294,2025,"Brackettville, TX",Brackettville,Texas,Kinney,100,141,2407,city_0294_texas_brackettville,,,,,

@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-806,"Edna, TX",Edna,Texas,Jackson,2015,8727393.66958518,11,11,city_0806_texas_edna,1397.6749935150146,21.861979166666668,43.86654658845653,humid,12
-806,"Edna, TX",Edna,Texas,Jackson,2016,8727393.66958518,16,16,city_0806_texas_edna,1310.0312309265137,22.565104166666668,40.22806818678778,humid,12
-806,"Edna, TX",Edna,Texas,Jackson,2017,8727393.66958518,21,30,city_0806_texas_edna,967.9812507629396,22.6484375,29.648624096113007,dry subhumid,12
-806,"Edna, TX",Edna,Texas,Jackson,2018,8727393.66958518,15,27,city_0806_texas_edna,1034.162488937378,22.065104166666668,32.25196099666638,humid,12
-806,"Edna, TX",Edna,Texas,Jackson,2020,8727393.66958518,33,45,city_0806_texas_edna,877.8937492370605,22.643229166666668,26.8935939136044,dry subhumid,12
-806,"Edna, TX",Edna,Texas,Jackson,2021,8727393.66958518,25,40,city_0806_texas_edna,1172.2749919891355,22.049479166666668,36.577037208404,humid,12
-806,"Edna, TX",Edna,Texas,Jackson,2022,8727393.66958518,30,45,city_0806_texas_edna,733.0812587738037,22.205729166666668,22.76244872395412,dry subhumid,12
-806,"Edna, TX",Edna,Texas,Jackson,2023,8727393.66958518,11,11,city_0806_texas_edna,771.8999938964844,23.0703125,23.34117628602646,dry subhumid,12
-806,"Edna, TX",Edna,Texas,Jackson,2024,8727393.66958518,2,2,city_0806_texas_edna,1066.318748474121,23.348958333333332,31.974574372486533,humid,12
-806,"Edna, TX",Edna,Texas,Jackson,2025,8727393.66958518,13,15,city_0806_texas_edna,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+806,2015,"Edna, TX",Edna,Texas,Jackson,100,11,11,city_0806_texas_edna,1397.67499351501,21.8619791666667,43.8665465884565,humid,12
+806,2016,"Edna, TX",Edna,Texas,Jackson,100,16,16,city_0806_texas_edna,1310.03123092651,22.5651041666667,40.2280681867878,humid,12
+806,2017,"Edna, TX",Edna,Texas,Jackson,100,21,30,city_0806_texas_edna,967.98125076294,22.6484375,29.648624096113,dry subhumid,12
+806,2018,"Edna, TX",Edna,Texas,Jackson,100,15,27,city_0806_texas_edna,1034.16248893738,22.0651041666667,32.2519609966664,humid,12
+806,2020,"Edna, TX",Edna,Texas,Jackson,100,33,45,city_0806_texas_edna,877.893749237061,22.6432291666667,26.8935939136044,dry subhumid,12
+806,2021,"Edna, TX",Edna,Texas,Jackson,100,25,40,city_0806_texas_edna,1172.27499198914,22.0494791666667,36.577037208404,humid,12
+806,2022,"Edna, TX",Edna,Texas,Jackson,100,30,45,city_0806_texas_edna,733.081258773804,22.2057291666667,22.7624487239541,dry subhumid,12
+806,2023,"Edna, TX",Edna,Texas,Jackson,100,11,11,city_0806_texas_edna,771.899993896484,23.0703125,23.3411762860265,dry subhumid,12
+806,2024,"Edna, TX",Edna,Texas,Jackson,100,2,2,city_0806_texas_edna,1066.31874847412,23.3489583333333,31.9745743724865,humid,12
+806,2025,"Edna, TX",Edna,Texas,Jackson,100,13,15,city_0806_texas_edna,,,,,

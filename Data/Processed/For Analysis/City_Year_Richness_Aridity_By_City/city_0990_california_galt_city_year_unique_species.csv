@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-990,"Galt, CA",Galt,California,Sacramento,2015,20482528.8718825,75,564,city_0990_california_galt,297.55625343322754,17.294270833333332,10.901784306684418,semiarid,12
-990,"Galt, CA",Galt,California,Sacramento,2016,20482528.8718825,53,263,city_0990_california_galt,540.599994122982,16.9609375,20.051231309110896,dry subhumid,12
-990,"Galt, CA",Galt,California,Sacramento,2017,20482528.8718825,71,669,city_0990_california_galt,590.581253349781,16.9453125,21.917773391931565,dry subhumid,12
-990,"Galt, CA",Galt,California,Sacramento,2018,20482528.8718825,89,1720,city_0990_california_galt,447.756251513958,16.830729166666668,16.68818796286129,semiarid,12
-990,"Galt, CA",Galt,California,Sacramento,2019,20482528.8718825,65,341,city_0990_california_galt,572.0687602162361,16.658854166666668,21.458865285047832,dry subhumid,12
-990,"Galt, CA",Galt,California,Sacramento,2020,20482528.8718825,87,2074,city_0990_california_galt,203.75625228881836,17.075520833333332,7.525478587949048,arid,12
-990,"Galt, CA",Galt,California,Sacramento,2021,20482528.8718825,61,542,city_0990_california_galt,436.7874993681908,16.747395833333332,16.33009441703683,semiarid,12
-990,"Galt, CA",Galt,California,Sacramento,2022,20482528.8718825,72,868,city_0990_california_galt,298.556245803833,16.6953125,11.183845321302496,semiarid,12
-990,"Galt, CA",Galt,California,Sacramento,2023,20482528.8718825,75,604,city_0990_california_galt,566.4249898195267,16.421875,21.437728769041815,dry subhumid,12
-990,"Galt, CA",Galt,California,Sacramento,2024,20482528.8718825,61,774,city_0990_california_galt,554.9625116586685,17.0078125,20.548221432545436,dry subhumid,12
-990,"Galt, CA",Galt,California,Sacramento,2025,20482528.8718825,89,3234,city_0990_california_galt,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+990,2015,"Galt, CA",Galt,California,Sacramento,100,75,564,city_0990_california_galt,297.556253433228,17.2942708333333,10.9017843066844,semiarid,12
+990,2016,"Galt, CA",Galt,California,Sacramento,100,53,263,city_0990_california_galt,540.599994122982,16.9609375,20.0512313091109,dry subhumid,12
+990,2017,"Galt, CA",Galt,California,Sacramento,100,71,669,city_0990_california_galt,590.581253349781,16.9453125,21.9177733919316,dry subhumid,12
+990,2018,"Galt, CA",Galt,California,Sacramento,100,89,1720,city_0990_california_galt,447.756251513958,16.8307291666667,16.6881879628613,semiarid,12
+990,2019,"Galt, CA",Galt,California,Sacramento,100,65,341,city_0990_california_galt,572.068760216236,16.6588541666667,21.4588652850478,dry subhumid,12
+990,2020,"Galt, CA",Galt,California,Sacramento,100,87,2074,city_0990_california_galt,203.756252288818,17.0755208333333,7.52547858794905,arid,12
+990,2021,"Galt, CA",Galt,California,Sacramento,100,61,542,city_0990_california_galt,436.787499368191,16.7473958333333,16.3300944170368,semiarid,12
+990,2022,"Galt, CA",Galt,California,Sacramento,100,72,868,city_0990_california_galt,298.556245803833,16.6953125,11.1838453213025,semiarid,12
+990,2023,"Galt, CA",Galt,California,Sacramento,100,75,604,city_0990_california_galt,566.424989819527,16.421875,21.4377287690418,dry subhumid,12
+990,2024,"Galt, CA",Galt,California,Sacramento,100,61,774,city_0990_california_galt,554.962511658669,17.0078125,20.5482214325454,dry subhumid,12
+990,2025,"Galt, CA",Galt,California,Sacramento,100,89,3234,city_0990_california_galt,,,,,

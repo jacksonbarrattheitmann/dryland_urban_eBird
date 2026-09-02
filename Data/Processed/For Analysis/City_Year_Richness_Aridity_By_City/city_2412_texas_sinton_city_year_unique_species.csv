@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2412,"Sinton, TX",Sinton,Texas,San Patricio,2017,5737999.04286605,1,1,city_2412_texas_sinton,762.8250007629395,23.4453125,22.80812896464757,dry subhumid,12
-2412,"Sinton, TX",Sinton,Texas,San Patricio,2019,5737999.04286605,22,25,city_2412_texas_sinton,719.8687419891357,22.895833333333332,21.883280313792604,dry subhumid,12
-2412,"Sinton, TX",Sinton,Texas,San Patricio,2021,5737999.04286605,11,11,city_2412_texas_sinton,955.9374885559082,22.841145833333332,29.107921307229308,dry subhumid,12
-2412,"Sinton, TX",Sinton,Texas,San Patricio,2022,5737999.04286605,7,9,city_2412_texas_sinton,605.012508392334,22.927083333333332,18.37431218148183,semiarid,12
-2412,"Sinton, TX",Sinton,Texas,San Patricio,2023,5737999.04286605,16,16,city_2412_texas_sinton,663.0187473297119,23.7578125,19.640453519602666,semiarid,12
-2412,"Sinton, TX",Sinton,Texas,San Patricio,2025,5737999.04286605,9,9,city_2412_texas_sinton,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2412,2017,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,1,1,city_2412_texas_sinton,762.825000762939,23.4453125,22.8081289646476,dry subhumid,12
+2412,2019,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,22,25,city_2412_texas_sinton,719.868741989136,22.8958333333333,21.8832803137926,dry subhumid,12
+2412,2021,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,11,11,city_2412_texas_sinton,955.937488555908,22.8411458333333,29.1079213072293,dry subhumid,12
+2412,2022,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,7,9,city_2412_texas_sinton,605.012508392334,22.9270833333333,18.3743121814818,semiarid,12
+2412,2023,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,16,16,city_2412_texas_sinton,663.018747329712,23.7578125,19.6404535196027,semiarid,12
+2412,2025,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,9,9,city_2412_texas_sinton,,,,,

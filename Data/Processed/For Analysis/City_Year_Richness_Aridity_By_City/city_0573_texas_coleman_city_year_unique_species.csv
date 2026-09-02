@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-573,"Coleman, TX",Coleman,Texas,Coleman,2015,6474749.12543833,18,20,city_0573_texas_coleman,1018.4500045776368,18.755208333333332,35.417931693335674,humid,12
-573,"Coleman, TX",Coleman,Texas,Coleman,2016,6474749.12543833,29,34,city_0573_texas_coleman,963.362504005432,19.458333333333332,32.70254610485201,humid,12
-573,"Coleman, TX",Coleman,Texas,Coleman,2020,6474749.12543833,12,12,city_0573_texas_coleman,570.5624980926514,19.143229166666668,19.577875012740428,semiarid,12
-573,"Coleman, TX",Coleman,Texas,Coleman,2021,6474749.12543833,2,2,city_0573_texas_coleman,716.7062516212463,18.6640625,25.00365227787395,dry subhumid,12
-573,"Coleman, TX",Coleman,Texas,Coleman,2022,6474749.12543833,16,37,city_0573_texas_coleman,361.6187481880188,19.057291666666668,12.44502592796193,semiarid,12
-573,"Coleman, TX",Coleman,Texas,Coleman,2023,6474749.12543833,8,8,city_0573_texas_coleman,534.8437557220459,19.666666666666668,18.028441204113907,semiarid,12
-573,"Coleman, TX",Coleman,Texas,Coleman,2024,6474749.12543833,16,21,city_0573_texas_coleman,613.1812558174133,20.151041666666668,20.336984127991595,dry subhumid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+573,2015,"Coleman, TX",Coleman,Texas,Coleman,99.9999999999994,18,20,city_0573_texas_coleman,1018.45000457764,18.7552083333333,35.4179316933357,humid,12
+573,2016,"Coleman, TX",Coleman,Texas,Coleman,99.9999999999994,29,34,city_0573_texas_coleman,963.362504005432,19.4583333333333,32.702546104852,humid,12
+573,2020,"Coleman, TX",Coleman,Texas,Coleman,99.9999999999994,12,12,city_0573_texas_coleman,570.562498092651,19.1432291666667,19.5778750127404,semiarid,12
+573,2021,"Coleman, TX",Coleman,Texas,Coleman,99.9999999999994,2,2,city_0573_texas_coleman,716.706251621246,18.6640625,25.003652277874,dry subhumid,12
+573,2022,"Coleman, TX",Coleman,Texas,Coleman,99.9999999999994,16,37,city_0573_texas_coleman,361.618748188019,19.0572916666667,12.4450259279619,semiarid,12
+573,2023,"Coleman, TX",Coleman,Texas,Coleman,99.9999999999994,8,8,city_0573_texas_coleman,534.843755722046,19.6666666666667,18.0284412041139,semiarid,12
+573,2024,"Coleman, TX",Coleman,Texas,Coleman,99.9999999999994,16,21,city_0573_texas_coleman,613.181255817413,20.1510416666667,20.3369841279916,dry subhumid,12

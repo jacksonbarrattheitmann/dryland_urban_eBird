@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-43,"Alice, TX",Alice,Texas,Jim Wells,2016,28202446.9810093,3,3,city_0043_texas_alice,799.1437587738037,23.596354166666668,23.786621453309092,dry subhumid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2017,28202446.9810093,15,22,city_0043_texas_alice,640.9187507629395,23.6875,19.025417462350703,semiarid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2018,28202446.9810093,33,45,city_0043_texas_alice,705.8687534332275,23.072916666666668,21.34280325341412,dry subhumid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2019,28202446.9810093,26,32,city_0043_texas_alice,571.4499988555908,23.049479166666668,17.290741435706156,semiarid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2020,28202446.9810093,26,31,city_0043_texas_alice,558.9249973297119,23.544270833333332,16.662308747349538,semiarid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2021,28202446.9810093,65,291,city_0043_texas_alice,795.2687530517578,22.953125,24.13333342594239,dry subhumid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2022,28202446.9810093,55,198,city_0043_texas_alice,521.3000016212463,23.2109375,15.69663613444355,semiarid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2023,28202446.9810093,54,153,city_0043_texas_alice,598.6937503814697,24.057291666666668,17.57901820970212,semiarid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2024,28202446.9810093,46,139,city_0043_texas_alice,714.3937511444092,24.377604166666668,20.78078936743073,dry subhumid,12
-43,"Alice, TX",Alice,Texas,Jim Wells,2025,28202446.9810093,57,163,city_0043_texas_alice,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+43,2016,"Alice, TX",Alice,Texas,Jim Wells,100,3,3,city_0043_texas_alice,799.143758773804,23.5963541666667,23.7866214533091,dry subhumid,12
+43,2017,"Alice, TX",Alice,Texas,Jim Wells,100,15,22,city_0043_texas_alice,640.91875076294,23.6875,19.0254174623507,semiarid,12
+43,2018,"Alice, TX",Alice,Texas,Jim Wells,100,33,45,city_0043_texas_alice,705.868753433228,23.0729166666667,21.3428032534141,dry subhumid,12
+43,2019,"Alice, TX",Alice,Texas,Jim Wells,100,26,32,city_0043_texas_alice,571.449998855591,23.0494791666667,17.2907414357062,semiarid,12
+43,2020,"Alice, TX",Alice,Texas,Jim Wells,100,26,31,city_0043_texas_alice,558.924997329712,23.5442708333333,16.6623087473495,semiarid,12
+43,2021,"Alice, TX",Alice,Texas,Jim Wells,100,65,291,city_0043_texas_alice,795.268753051758,22.953125,24.1333334259424,dry subhumid,12
+43,2022,"Alice, TX",Alice,Texas,Jim Wells,100,55,198,city_0043_texas_alice,521.300001621246,23.2109375,15.6966361344436,semiarid,12
+43,2023,"Alice, TX",Alice,Texas,Jim Wells,100,54,153,city_0043_texas_alice,598.69375038147,24.0572916666667,17.5790182097021,semiarid,12
+43,2024,"Alice, TX",Alice,Texas,Jim Wells,100,46,139,city_0043_texas_alice,714.393751144409,24.3776041666667,20.7807893674307,dry subhumid,12
+43,2025,"Alice, TX",Alice,Texas,Jim Wells,100,57,163,city_0043_texas_alice,,,,,

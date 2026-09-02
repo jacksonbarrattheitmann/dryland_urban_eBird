@@ -1,4 +1,4 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2375,"Shallowater, TX",Shallowater,Texas,Lubbock,2019,3984053.12872389,7,7,city_2375_texas_shallowater,465.668749332428,15.619791666666668,18.176133334382225,semiarid,12
-2375,"Shallowater, TX",Shallowater,Texas,Lubbock,2020,3984053.12872389,7,7,city_2375_texas_shallowater,309.14999866485596,16.28125,11.763139069292974,semiarid,12
-2375,"Shallowater, TX",Shallowater,Texas,Lubbock,2023,3984053.12872389,3,3,city_2375_texas_shallowater,360.3312511444092,16.833333333333332,13.428493831468666,semiarid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2375,2019,"Shallowater, TX",Shallowater,Texas,Lubbock,100,7,7,city_2375_texas_shallowater,465.668749332428,15.6197916666667,18.1761333343822,semiarid,12
+2375,2020,"Shallowater, TX",Shallowater,Texas,Lubbock,100,7,7,city_2375_texas_shallowater,309.149998664856,16.28125,11.763139069293,semiarid,12
+2375,2023,"Shallowater, TX",Shallowater,Texas,Lubbock,100,3,3,city_2375_texas_shallowater,360.331251144409,16.8333333333333,13.4284938314687,semiarid,12

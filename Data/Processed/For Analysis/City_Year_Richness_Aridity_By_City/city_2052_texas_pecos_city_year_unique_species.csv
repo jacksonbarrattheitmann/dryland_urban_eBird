@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2052,"Pecos, TX",Pecos,Texas,Reeves,2016,16708094.3576284,12,23,city_2052_texas_pecos,290.2562551498413,19.640625,9.792514670316208,arid,12
-2052,"Pecos, TX",Pecos,Texas,Reeves,2017,16708094.3576284,5,6,city_2052_texas_pecos,313.13750171661377,19.731770833333332,10.532083792518147,semiarid,12
-2052,"Pecos, TX",Pecos,Texas,Reeves,2018,16708094.3576284,10,10,city_2052_texas_pecos,310.2624980211258,19.216145833333332,10.619556042438036,semiarid,12
-2052,"Pecos, TX",Pecos,Texas,Reeves,2020,16708094.3576284,23,38,city_2052_texas_pecos,141.78750133514404,19.846354166666668,4.750580273335251,extremely arid,12
-2052,"Pecos, TX",Pecos,Texas,Reeves,2021,16708094.3576284,47,95,city_2052_texas_pecos,304.81874895095825,19.1796875,10.446265024289868,semiarid,12
-2052,"Pecos, TX",Pecos,Texas,Reeves,2022,16708094.3576284,12,29,city_2052_texas_pecos,245.1500020027161,19.463541666666668,8.320452604652905,arid,12
-2052,"Pecos, TX",Pecos,Texas,Reeves,2023,16708094.3576284,22,45,city_2052_texas_pecos,167.14374911785126,20.234375,5.528268704673117,arid,12
-2052,"Pecos, TX",Pecos,Texas,Reeves,2024,16708094.3576284,24,55,city_2052_texas_pecos,256.8562505245209,20.53125,8.412896639493008,arid,12
-2052,"Pecos, TX",Pecos,Texas,Reeves,2025,16708094.3576284,14,27,city_2052_texas_pecos,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2052,2016,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,12,23,city_2052_texas_pecos,290.256255149841,19.640625,9.79251467031621,arid,12
+2052,2017,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,5,6,city_2052_texas_pecos,313.137501716614,19.7317708333333,10.5320837925181,semiarid,12
+2052,2018,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,10,10,city_2052_texas_pecos,310.262498021126,19.2161458333333,10.619556042438,semiarid,12
+2052,2020,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,23,38,city_2052_texas_pecos,141.787501335144,19.8463541666667,4.75058027333525,extremely arid,12
+2052,2021,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,47,95,city_2052_texas_pecos,304.818748950958,19.1796875,10.4462650242899,semiarid,12
+2052,2022,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,12,29,city_2052_texas_pecos,245.150002002716,19.4635416666667,8.32045260465291,arid,12
+2052,2023,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,22,45,city_2052_texas_pecos,167.143749117851,20.234375,5.52826870467312,arid,12
+2052,2024,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,24,55,city_2052_texas_pecos,256.856250524521,20.53125,8.41289663949301,arid,12
+2052,2025,"Pecos, TX",Pecos,Texas,Reeves,99.9999999999991,14,27,city_2052_texas_pecos,,,,,

@@ -1,6 +1,6 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1568,"Lyons, KS",Lyons,Kansas,Rice,2017,4465403.55806118,26,208,city_1568_kansas_lyons,766.7375059127808,14.015625,31.926610525971352,humid,12
-1568,"Lyons, KS",Lyons,Kansas,Rice,2018,4465403.55806118,21,25,city_1568_kansas_lyons,732.4749970436096,12.927083333333332,31.948023496677205,humid,12
-1568,"Lyons, KS",Lyons,Kansas,Rice,2023,4465403.55806118,25,30,city_1568_kansas_lyons,638.6562557220459,13.96875,26.645371816304394,dry subhumid,12
-1568,"Lyons, KS",Lyons,Kansas,Rice,2024,4465403.55806118,5,5,city_1568_kansas_lyons,599.4062595367432,14.638020833333332,24.32850688744418,dry subhumid,12
-1568,"Lyons, KS",Lyons,Kansas,Rice,2025,4465403.55806118,3,3,city_1568_kansas_lyons,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1568,2017,"Lyons, KS",Lyons,Kansas,Rice,99.9999999999997,26,208,city_1568_kansas_lyons,766.737505912781,14.015625,31.9266105259714,humid,12
+1568,2018,"Lyons, KS",Lyons,Kansas,Rice,99.9999999999997,21,25,city_1568_kansas_lyons,732.47499704361,12.9270833333333,31.9480234966772,humid,12
+1568,2023,"Lyons, KS",Lyons,Kansas,Rice,99.9999999999997,25,30,city_1568_kansas_lyons,638.656255722046,13.96875,26.6453718163044,dry subhumid,12
+1568,2024,"Lyons, KS",Lyons,Kansas,Rice,99.9999999999997,5,5,city_1568_kansas_lyons,599.406259536743,14.6380208333333,24.3285068874442,dry subhumid,12
+1568,2025,"Lyons, KS",Lyons,Kansas,Rice,99.9999999999997,3,3,city_1568_kansas_lyons,,,,,

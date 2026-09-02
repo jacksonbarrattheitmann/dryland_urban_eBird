@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2015,15313095.7213804,10,10,city_2191_texas_raymondville,819.5312480926514,23.5390625,24.435126893980755,dry subhumid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2017,15313095.7213804,32,43,city_2191_texas_raymondville,663.1375026702881,24.489583333333332,19.22718219762841,semiarid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2018,15313095.7213804,33,40,city_2191_texas_raymondville,678.756254196167,23.947916666666668,19.994047377364843,semiarid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2019,15313095.7213804,11,19,city_2191_texas_raymondville,581.8312559127808,23.963541666666668,17.13105369349086,semiarid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2020,15313095.7213804,15,15,city_2191_texas_raymondville,624.5062537193298,24.502604166666668,18.100264278679344,semiarid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2021,15313095.7213804,62,150,city_2191_texas_raymondville,908.8500003814696,23.947916666666668,26.77189323001567,dry subhumid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2022,15313095.7213804,30,52,city_2191_texas_raymondville,634.0437512397766,24.005208333333332,18.645489391642997,semiarid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2023,15313095.7213804,90,216,city_2191_texas_raymondville,624.0250072479248,24.924479166666668,17.867840040504294,semiarid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2024,15313095.7213804,59,118,city_2191_texas_raymondville,909.3000068664552,25.171875,25.853043287184864,dry subhumid,12
-2191,"Raymondville, TX",Raymondville,Texas,Willacy,2025,15313095.7213804,67,216,city_2191_texas_raymondville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2191,2015,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,10,10,city_2191_texas_raymondville,819.531248092651,23.5390625,24.4351268939808,dry subhumid,12
+2191,2017,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,32,43,city_2191_texas_raymondville,663.137502670288,24.4895833333333,19.2271821976284,semiarid,12
+2191,2018,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,33,40,city_2191_texas_raymondville,678.756254196167,23.9479166666667,19.9940473773648,semiarid,12
+2191,2019,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,11,19,city_2191_texas_raymondville,581.831255912781,23.9635416666667,17.1310536934909,semiarid,12
+2191,2020,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,15,15,city_2191_texas_raymondville,624.50625371933,24.5026041666667,18.1002642786793,semiarid,12
+2191,2021,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,62,150,city_2191_texas_raymondville,908.85000038147,23.9479166666667,26.7718932300157,dry subhumid,12
+2191,2022,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,30,52,city_2191_texas_raymondville,634.043751239777,24.0052083333333,18.645489391643,semiarid,12
+2191,2023,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,90,216,city_2191_texas_raymondville,624.025007247925,24.9244791666667,17.8678400405043,semiarid,12
+2191,2024,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,59,118,city_2191_texas_raymondville,909.300006866455,25.171875,25.8530432871849,dry subhumid,12
+2191,2025,"Raymondville, TX",Raymondville,Texas,Willacy,99.9999999999981,67,216,city_2191_texas_raymondville,,,,,

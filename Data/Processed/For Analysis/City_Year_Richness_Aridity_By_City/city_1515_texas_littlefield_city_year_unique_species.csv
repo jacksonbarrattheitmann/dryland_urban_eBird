@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2015,6498457.06048602,6,6,city_1515_texas_littlefield,708.2625102996826,15.375,27.911823065997343,dry subhumid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2017,6498457.06048602,24,48,city_1515_texas_littlefield,510.03749656677246,15.927083333333334,19.67199665343919,semiarid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2018,6498457.06048602,19,42,city_1515_texas_littlefield,447.7312556505203,15.229166666666668,17.746573304066867,semiarid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2019,6498457.06048602,25,132,city_1515_texas_littlefield,441.1499967575073,14.950520833333334,17.680993503275523,semiarid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2020,6498457.06048602,44,217,city_1515_texas_littlefield,284.762499332428,15.651041666666666,11.101400989203285,semiarid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2021,6498457.06048602,51,479,city_1515_texas_littlefield,450.4125020503998,15.278645833333332,17.817904686036215,semiarid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2022,6498457.06048602,51,814,city_1515_texas_littlefield,364.0187578201294,15.557291666666668,14.243244650797807,semiarid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2023,6498457.06048602,53,433,city_1515_texas_littlefield,346.9000015258789,16.119791666666668,13.281116708468344,semiarid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2024,6498457.06048602,10,13,city_1515_texas_littlefield,432.6124997138977,16.580729166666668,16.275418819451033,semiarid,12
-1515,"Littlefield, TX",Littlefield,Texas,Lamb,2025,6498457.06048602,13,13,city_1515_texas_littlefield,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1515,2015,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,6,6,city_1515_texas_littlefield,708.262510299683,15.375,27.9118230659973,dry subhumid,12
+1515,2017,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,24,48,city_1515_texas_littlefield,510.037496566773,15.9270833333333,19.6719966534392,semiarid,12
+1515,2018,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,19,42,city_1515_texas_littlefield,447.73125565052,15.2291666666667,17.7465733040669,semiarid,12
+1515,2019,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,25,132,city_1515_texas_littlefield,441.149996757507,14.9505208333333,17.6809935032755,semiarid,12
+1515,2020,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,44,217,city_1515_texas_littlefield,284.762499332428,15.6510416666667,11.1014009892033,semiarid,12
+1515,2021,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,51,479,city_1515_texas_littlefield,450.4125020504,15.2786458333333,17.8179046860362,semiarid,12
+1515,2022,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,51,814,city_1515_texas_littlefield,364.018757820129,15.5572916666667,14.2432446507978,semiarid,12
+1515,2023,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,53,433,city_1515_texas_littlefield,346.900001525879,16.1197916666667,13.2811167084683,semiarid,12
+1515,2024,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,10,13,city_1515_texas_littlefield,432.612499713898,16.5807291666667,16.275418819451,semiarid,12
+1515,2025,"Littlefield, TX",Littlefield,Texas,Lamb,99.9999999999982,13,13,city_1515_texas_littlefield,,,,,

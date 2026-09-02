@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,2015,3163149.23288657,9,14,city_2843_montana_wolf_point,316.69999980926514,8.830729166666668,16.818254726422044,semiarid,12
-2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,2017,3163149.23288657,10,10,city_2843_montana_wolf_point,292.9000005722046,8.125,16.160000031569908,semiarid,12
-2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,2019,3163149.23288657,2,2,city_2843_montana_wolf_point,372.5375051498413,6.3046875,22.84849097229501,dry subhumid,12
-2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,2022,3163149.23288657,10,14,city_2843_montana_wolf_point,331.8437490463257,7.5,18.962499945504323,semiarid,12
-2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,2023,3163149.23288657,19,36,city_2843_montana_wolf_point,358.29375648498535,8.466145833333332,19.402736213543136,semiarid,12
-2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,2024,3163149.23288657,10,15,city_2843_montana_wolf_point,334.6937551498413,9.0625,17.557705188188397,semiarid,12
-2843,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,2025,3163149.23288657,7,9,city_2843_montana_wolf_point,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2843,2015,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,100,9,14,city_2843_montana_wolf_point,316.699999809265,8.83072916666667,16.818254726422,semiarid,12
+2843,2017,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,100,10,10,city_2843_montana_wolf_point,292.900000572205,8.125,16.1600000315699,semiarid,12
+2843,2019,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,100,2,2,city_2843_montana_wolf_point,372.537505149841,6.3046875,22.848490972295,dry subhumid,12
+2843,2022,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,100,10,14,city_2843_montana_wolf_point,331.843749046326,7.5,18.9624999455043,semiarid,12
+2843,2023,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,100,19,36,city_2843_montana_wolf_point,358.293756484985,8.46614583333333,19.4027362135431,semiarid,12
+2843,2024,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,100,10,15,city_2843_montana_wolf_point,334.693755149841,9.0625,17.5577051881884,semiarid,12
+2843,2025,"Wolf Point, MT",Wolf Point,Montana,Roosevelt,100,7,9,city_2843_montana_wolf_point,,,,,

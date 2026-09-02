@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-734,"Devine, TX",Devine,Texas,Medina,2015,11203173.4897859,17,17,city_0734_texas_devine,903.318751335144,21.205729166666668,28.94720858822459,dry subhumid,12
-734,"Devine, TX",Devine,Texas,Medina,2016,11203173.4897859,3,3,city_0734_texas_devine,941.5500020980836,22.018229166666668,29.40668571009874,dry subhumid,12
-734,"Devine, TX",Devine,Texas,Medina,2018,11203173.4897859,1,1,city_0734_texas_devine,704.8937520980835,21.380208333333332,22.46300421623768,dry subhumid,12
-734,"Devine, TX",Devine,Texas,Medina,2019,11203173.4897859,12,12,city_0734_texas_devine,483.3187475204468,21.395833333333332,15.394359575966456,semiarid,12
-734,"Devine, TX",Devine,Texas,Medina,2020,11203173.4897859,27,38,city_0734_texas_devine,477.3874979019165,21.927083333333332,14.952430603126912,semiarid,12
-734,"Devine, TX",Devine,Texas,Medina,2021,11203173.4897859,26,57,city_0734_texas_devine,671.5500011444092,21.411458333333332,21.379141140727334,dry subhumid,12
-734,"Devine, TX",Devine,Texas,Medina,2022,11203173.4897859,10,10,city_0734_texas_devine,369.26250433921814,21.838541666666668,11.597971672358888,semiarid,12
-734,"Devine, TX",Devine,Texas,Medina,2023,11203173.4897859,22,28,city_0734_texas_devine,597.0812482833862,22.494791666666668,18.374675375927257,semiarid,12
-734,"Devine, TX",Devine,Texas,Medina,2024,11203173.4897859,32,65,city_0734_texas_devine,509.76874256134033,22.833333333333332,15.525951550091586,semiarid,12
-734,"Devine, TX",Devine,Texas,Medina,2025,11203173.4897859,14,18,city_0734_texas_devine,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+734,2015,"Devine, TX",Devine,Texas,Medina,100,17,17,city_0734_texas_devine,903.318751335144,21.2057291666667,28.9472085882246,dry subhumid,12
+734,2016,"Devine, TX",Devine,Texas,Medina,100,3,3,city_0734_texas_devine,941.550002098084,22.0182291666667,29.4066857100987,dry subhumid,12
+734,2018,"Devine, TX",Devine,Texas,Medina,100,1,1,city_0734_texas_devine,704.893752098084,21.3802083333333,22.4630042162377,dry subhumid,12
+734,2019,"Devine, TX",Devine,Texas,Medina,100,12,12,city_0734_texas_devine,483.318747520447,21.3958333333333,15.3943595759665,semiarid,12
+734,2020,"Devine, TX",Devine,Texas,Medina,100,27,38,city_0734_texas_devine,477.387497901917,21.9270833333333,14.9524306031269,semiarid,12
+734,2021,"Devine, TX",Devine,Texas,Medina,100,26,57,city_0734_texas_devine,671.550001144409,21.4114583333333,21.3791411407273,dry subhumid,12
+734,2022,"Devine, TX",Devine,Texas,Medina,100,10,10,city_0734_texas_devine,369.262504339218,21.8385416666667,11.5979716723589,semiarid,12
+734,2023,"Devine, TX",Devine,Texas,Medina,100,22,28,city_0734_texas_devine,597.081248283386,22.4947916666667,18.3746753759273,semiarid,12
+734,2024,"Devine, TX",Devine,Texas,Medina,100,32,65,city_0734_texas_devine,509.76874256134,22.8333333333333,15.5259515500916,semiarid,12
+734,2025,"Devine, TX",Devine,Texas,Medina,100,14,18,city_0734_texas_devine,,,,,

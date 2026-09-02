@@ -1,7 +1,5 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S23172650	2015-05-01	L3112835	Calipatria	Western Kingbird	Tyrannus verticalis	17467	species	2	33.1256032	-115.5141592	Traveling	1	0
-S23172650	2015-05-01	L3112835	Calipatria	House Finch	Haemorhous mexicanus	32310	species	1	33.1256032	-115.5141592	Traveling	1	0
-S23172650	2015-05-01	L3112835	Calipatria	European Starling	Sturnus vulgaris	27813	species	5	33.1256032	-115.5141592	Traveling	1	0
 S23172650	2015-05-01	L3112835	Calipatria	Inca Dove	Columbina inca	2242	species	3	33.1256032	-115.5141592	Traveling	1	0
 S23172650	2015-05-01	L3112835	Calipatria	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	25	33.1256032	-115.5141592	Traveling	1	0
 S23172650	2015-05-01	L3112835	Calipatria	House Sparrow	Passer domesticus	31534	species	12	33.1256032	-115.5141592	Traveling	1	0
@@ -9,6 +7,8 @@ S23172650	2015-05-01	L3112835	Calipatria	Northern Mockingbird	Mimus polyglottos	
 S23172650	2015-05-01	L3112835	Calipatria	White-winged Dove	Zenaida asiatica	2389	species	1	33.1256032	-115.5141592	Traveling	1	0
 S23172650	2015-05-01	L3112835	Calipatria	Mourning Dove	Zenaida macroura	2412	species	2	33.1256032	-115.5141592	Traveling	1	0
 S23172650	2015-05-01	L3112835	Calipatria	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	33.1256032	-115.5141592	Traveling	1	0
+S23172650	2015-05-01	L3112835	Calipatria	House Finch	Haemorhous mexicanus	32310	species	1	33.1256032	-115.5141592	Traveling	1	0
+S23172650	2015-05-01	L3112835	Calipatria	European Starling	Sturnus vulgaris	27813	species	5	33.1256032	-115.5141592	Traveling	1	0
 S33124536	2016-12-20	L5165050	Calipatria--town and vicinity 	Black-tailed Gnatcatcher	Polioptila melanura	27133	species	1	33.1257060	-115.5142120	Traveling	1	0
 S33124536	2016-12-20	L5165050	Calipatria--town and vicinity 	Turkey Vulture	Cathartes aura	7815	species	2	33.1257060	-115.5142120	Traveling	1	0
 S33124536	2016-12-20	L5165050	Calipatria--town and vicinity 	Common Ground Dove	Columbina passerina	2243	species	7	33.1257060	-115.5142120	Traveling	1	0
@@ -67,22 +67,22 @@ S136960243	2023-05-10	L1841990	Calipatria--east side	Turkey Vulture	Cathartes au
 S136960243	2023-05-10	L1841990	Calipatria--east side	White-winged Dove	Zenaida asiatica	2389	species	400	33.1212649	-115.5124841	Traveling	1	1
 S136960243	2023-05-10	L1841990	Calipatria--east side	Rock Pigeon	Columba livia	1868	domestic	100	33.1212649	-115.5124841	Traveling	1	0
 S136960243	2023-05-10	L1841990	Calipatria--east side	Western Meadowlark	Sturnella neglecta	33565	species	1	33.1212649	-115.5124841	Traveling	1	0
+S171164319	2024-04-30	L6553687	Calipatria--southwest	Western Tanager	Piranga ludoviciana	34439	species	1	33.1213248	-115.5190804	Traveling	1	0
 S179815805	2024-06-06	L1841990	Calipatria--east side	American Kestrel	Falco sparverius	12028	species	1	33.1212649	-115.5124841	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	Great-tailed Grackle	Quiscalus mexicanus	33864	species	7	33.1213248	-115.5190804	Traveling	1	0
-S171164319	2024-04-30	L6553687	Calipatria--southwest	Western Tanager	Piranga ludoviciana	34439	species	1	33.1213248	-115.5190804	Traveling	1	0
-S171164319	2024-04-30	L6553687	Calipatria--southwest	American Kestrel	Falco sparverius	12028	species	2	33.1213248	-115.5190804	Traveling	1	0
 S180434039	2024-06-09	L6553687	Calipatria--southwest	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.1213248	-115.5190804	Traveling	1	0
+S171164319	2024-04-30	L6553687	Calipatria--southwest	American Kestrel	Falco sparverius	12028	species	2	33.1213248	-115.5190804	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	White-winged Dove	Zenaida asiatica	2389	species	1	33.1213248	-115.5190804	Traveling	1	0
-S179815805	2024-06-06	L1841990	Calipatria--east side	House Sparrow	Passer domesticus	31534	species	6	33.1212649	-115.5124841	Traveling	1	0
-S171164319	2024-04-30	L6553687	Calipatria--southwest	Common Ground Dove	Columbina passerina	2243	species	2	33.1213248	-115.5190804	Traveling	1	0
-S171164319	2024-04-30	L6553687	Calipatria--southwest	Verdin	Auriparus flaviceps	22269	species	2	33.1213248	-115.5190804	Traveling	1	0
-S179815805	2024-06-06	L1841990	Calipatria--east side	Rock Pigeon	Columba livia	1868	domestic	33	33.1212649	-115.5124841	Traveling	1	0
-S171164319	2024-04-30	L6553687	Calipatria--southwest	Western Kingbird	Tyrannus verticalis	17467	species	2	33.1213248	-115.5190804	Traveling	1	0
 S180434039	2024-06-09	L6553687	Calipatria--southwest	House Sparrow	Passer domesticus	31534	species	10	33.1213248	-115.5190804	Traveling	1	0
+S171164319	2024-04-30	L6553687	Calipatria--southwest	Western Kingbird	Tyrannus verticalis	17467	species	2	33.1213248	-115.5190804	Traveling	1	0
+S179815805	2024-06-06	L1841990	Calipatria--east side	House Sparrow	Passer domesticus	31534	species	6	33.1212649	-115.5124841	Traveling	1	0
+S179815805	2024-06-06	L1841990	Calipatria--east side	Rock Pigeon	Columba livia	1868	domestic	33	33.1212649	-115.5124841	Traveling	1	0
+S171164319	2024-04-30	L6553687	Calipatria--southwest	Verdin	Auriparus flaviceps	22269	species	2	33.1213248	-115.5190804	Traveling	1	0
+S171164319	2024-04-30	L6553687	Calipatria--southwest	Common Ground Dove	Columbina passerina	2243	species	2	33.1213248	-115.5190804	Traveling	1	0
 S180434039	2024-06-09	L6553687	Calipatria--southwest	Anna's Hummingbird	Calypte anna	4814	species	1	33.1213248	-115.5190804	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	Turkey Vulture	Cathartes aura	7815	species	1	33.1213248	-115.5190804	Traveling	1	0
-S180434039	2024-06-09	L6553687	Calipatria--southwest	European Starling	Sturnus vulgaris	27813	species	6	33.1213248	-115.5190804	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	European Starling	Sturnus vulgaris	27813	species	6	33.1213248	-115.5190804	Traveling	1	0
+S180434039	2024-06-09	L6553687	Calipatria--southwest	European Starling	Sturnus vulgaris	27813	species	6	33.1213248	-115.5190804	Traveling	1	0
 S180434039	2024-06-09	L6553687	Calipatria--southwest	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	25	33.1213248	-115.5190804	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	Western Meadowlark	Sturnella neglecta	33565	species	1	33.1213248	-115.5190804	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	Mourning Dove	Zenaida macroura	2412	species	5	33.1213248	-115.5190804	Traveling	1	0
@@ -98,40 +98,40 @@ S179815805	2024-06-06	L1841990	Calipatria--east side	Eurasian Collared-Dove	Stre
 S179815805	2024-06-06	L1841990	Calipatria--east side	Brown-headed Cowbird	Molothrus ater	33833	species	2	33.1212649	-115.5124841	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	Black Phoebe	Sayornis nigricans	16998	species	2	33.1213248	-115.5190804	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	Greater Roadrunner	Geococcyx californianus	3038	species	1	33.1213248	-115.5190804	Traveling	1	0
-S180434039	2024-06-09	L6553687	Calipatria--southwest	American Kestrel	Falco sparverius	12028	species	1	33.1213248	-115.5190804	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	House Sparrow	Passer domesticus	31534	species	10	33.1213248	-115.5190804	Traveling	1	0
+S180434039	2024-06-09	L6553687	Calipatria--southwest	American Kestrel	Falco sparverius	12028	species	1	33.1213248	-115.5190804	Traveling	1	0
 S171164319	2024-04-30	L6553687	Calipatria--southwest	Northern Mockingbird	Mimus polyglottos	28114	species	2	33.1213248	-115.5190804	Traveling	1	0
+S289225470	2025-12-16	L6553687	Calipatria--southwest	Black Phoebe	Sayornis nigricans	16998	species	1	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	33.1213248	-115.5190804	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	Rock Pigeon	Columba livia	1868	domestic	70	33.1213248	-115.5190804	Traveling	1	0
-S289225470	2025-12-16	L6553687	Calipatria--southwest	Black Phoebe	Sayornis nigricans	16998	species	1	33.1213248	-115.5190804	Traveling	1	0
-S289239499	2025-12-16	L6553687	Calipatria--southwest	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	33.1213248	-115.5190804	Traveling	1	0
 S207744830	2025-01-02	L39115373	Calipatria 184 ft flagpole	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	33.1266070	-115.5165970	Traveling	1	0
-S289225470	2025-12-16	L6553687	Calipatria--southwest	Anna's Hummingbird	Calypte anna	4814	species	7	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	3	33.1213248	-115.5190804	Traveling	1	0
+S289225470	2025-12-16	L6553687	Calipatria--southwest	Anna's Hummingbird	Calypte anna	4814	species	7	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	American Kestrel	Falco sparverius	12028	species	7	33.1213248	-115.5190804	Traveling	1	0
+S289239499	2025-12-16	L6553687	Calipatria--southwest	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	33.1213248	-115.5190804	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	33.1213248	-115.5190804	Traveling	1	0
-S289239499	2025-12-16	L6553687	Calipatria--southwest	Anna's Hummingbird	Calypte anna	4814	species	7	33.1213248	-115.5190804	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	Orange-crowned Warbler	Leiothlypis celata	33973	species	1	33.1213248	-115.5190804	Traveling	1	0
+S289239499	2025-12-16	L6553687	Calipatria--southwest	Anna's Hummingbird	Calypte anna	4814	species	7	33.1213248	-115.5190804	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	Vermilion Flycatcher	Pyrocephalus rubinus	17029	species	1	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	Yellow-rumped Warbler	Setophaga coronata	34161	issf	20	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	150	33.1213248	-115.5190804	Traveling	1	0
-S289225470	2025-12-16	L6553687	Calipatria--southwest	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	House Sparrow	Passer domesticus	31534	species	30	33.1213248	-115.5190804	Traveling	1	0
-S289239499	2025-12-16	L6553687	Calipatria--southwest	Verdin	Auriparus flaviceps	22269	species	2	33.1213248	-115.5190804	Traveling	1	0
+S289225470	2025-12-16	L6553687	Calipatria--southwest	Loggerhead Shrike	Lanius ludovicianus	21091	species	1	33.1213248	-115.5190804	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	Double-crested Cormorant	Nannopterum auritum	7424	species	1	33.1213248	-115.5190804	Traveling	1	0
+S289239499	2025-12-16	L6553687	Calipatria--southwest	Verdin	Auriparus flaviceps	22269	species	2	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	Vermilion Flycatcher	Pyrocephalus rubinus	17029	species	1	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	20	33.1213248	-115.5190804	Traveling	1	0
+S289239499	2025-12-16	L6553687	Calipatria--southwest	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	150	33.1213248	-115.5190804	Traveling	1	0
 S207744830	2025-01-02	L39115373	Calipatria 184 ft flagpole	American Kestrel	Falco sparverius	12028	species	1	33.1266070	-115.5165970	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	Yellow-rumped Warbler	Setophaga coronata	34161	issf	20	33.1213248	-115.5190804	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	House Sparrow	Passer domesticus	31534	species	30	33.1213248	-115.5190804	Traveling	1	0
-S289239499	2025-12-16	L6553687	Calipatria--southwest	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	150	33.1213248	-115.5190804	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	3	33.1213248	-115.5190804	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	White-crowned Sparrow	Zonotrichia leucophrys	33187	species	20	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	Verdin	Auriparus flaviceps	22269	species	2	33.1213248	-115.5190804	Traveling	1	0
-S207744830	2025-01-02	L39115373	Calipatria 184 ft flagpole	House Finch	Haemorhous mexicanus	32310	species	5	33.1266070	-115.5165970	Traveling	1	0
 S289239499	2025-12-16	L6553687	Calipatria--southwest	American Kestrel	Falco sparverius	12028	species	7	33.1213248	-115.5190804	Traveling	1	0
-S289225470	2025-12-16	L6553687	Calipatria--southwest	Rock Pigeon	Columba livia	1868	domestic	70	33.1213248	-115.5190804	Traveling	1	0
-S289239499	2025-12-16	L6553687	Calipatria--southwest	Black Phoebe	Sayornis nigricans	16998	species	1	33.1213248	-115.5190804	Traveling	1	0
 S289225470	2025-12-16	L6553687	Calipatria--southwest	Double-crested Cormorant	Nannopterum auritum	7424	species	1	33.1213248	-115.5190804	Traveling	1	0
+S289239499	2025-12-16	L6553687	Calipatria--southwest	Black Phoebe	Sayornis nigricans	16998	species	1	33.1213248	-115.5190804	Traveling	1	0
+S207744830	2025-01-02	L39115373	Calipatria 184 ft flagpole	House Finch	Haemorhous mexicanus	32310	species	5	33.1266070	-115.5165970	Traveling	1	0
+S289225470	2025-12-16	L6553687	Calipatria--southwest	Rock Pigeon	Columba livia	1868	domestic	70	33.1213248	-115.5190804	Traveling	1	0
 S207744830	2025-01-02	L39115373	Calipatria 184 ft flagpole	Rock Pigeon	Columba livia	1868	domestic	6	33.1266070	-115.5165970	Traveling	1	0

@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1212,"Holdenville, OK",Holdenville,Oklahoma,Hughes,2015,8441610.2203941,9,9,city_1212_oklahoma_holdenville,1241.3312644958496,16.971354166666668,46.02406155898486,humid,12
-1212,"Holdenville, OK",Holdenville,Oklahoma,Hughes,2016,8441610.2203941,6,6,city_1212_oklahoma_holdenville,866.9125118255615,17.947916666666668,31.018859908778943,humid,12
-1212,"Holdenville, OK",Holdenville,Oklahoma,Hughes,2021,8441610.2203941,37,62,city_1212_oklahoma_holdenville,987.9062652587892,16.895833333333332,36.7308293822013,humid,12
-1212,"Holdenville, OK",Holdenville,Oklahoma,Hughes,2022,8441610.2203941,21,24,city_1212_oklahoma_holdenville,954.7187519073486,16.8671875,35.534748544385174,humid,12
-1212,"Holdenville, OK",Holdenville,Oklahoma,Hughes,2023,8441610.2203941,10,10,city_1212_oklahoma_holdenville,1014.1937484741212,17.739583333333332,36.56124665922479,humid,12
-1212,"Holdenville, OK",Holdenville,Oklahoma,Hughes,2024,8441610.2203941,10,10,city_1212_oklahoma_holdenville,1003.2125053405762,18.067708333333332,35.742586941063394,humid,12
-1212,"Holdenville, OK",Holdenville,Oklahoma,Hughes,2025,8441610.2203941,1,1,city_1212_oklahoma_holdenville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1212,2015,"Holdenville, OK",Holdenville,Oklahoma,Hughes,100,9,9,city_1212_oklahoma_holdenville,1241.33126449585,16.9713541666667,46.0240615589849,humid,12
+1212,2016,"Holdenville, OK",Holdenville,Oklahoma,Hughes,100,6,6,city_1212_oklahoma_holdenville,866.912511825562,17.9479166666667,31.0188599087789,humid,12
+1212,2021,"Holdenville, OK",Holdenville,Oklahoma,Hughes,100,37,62,city_1212_oklahoma_holdenville,987.906265258789,16.8958333333333,36.7308293822013,humid,12
+1212,2022,"Holdenville, OK",Holdenville,Oklahoma,Hughes,100,21,24,city_1212_oklahoma_holdenville,954.718751907349,16.8671875,35.5347485443852,humid,12
+1212,2023,"Holdenville, OK",Holdenville,Oklahoma,Hughes,100,10,10,city_1212_oklahoma_holdenville,1014.19374847412,17.7395833333333,36.5612466592248,humid,12
+1212,2024,"Holdenville, OK",Holdenville,Oklahoma,Hughes,100,10,10,city_1212_oklahoma_holdenville,1003.21250534058,18.0677083333333,35.7425869410634,humid,12
+1212,2025,"Holdenville, OK",Holdenville,Oklahoma,Hughes,100,1,1,city_1212_oklahoma_holdenville,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2015,32200197.7388439,28,72,city_0508_arizona_chino_valley,524.2937450408936,15.513020833333332,20.550045738052784,dry subhumid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2016,32200197.7388439,18,23,city_0508_arizona_chino_valley,386.318745136261,15.252604166666666,15.298174500600622,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2017,32200197.7388439,34,65,city_0508_arizona_chino_valley,300.7687523365021,15.682291666666666,11.711133735268383,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2018,32200197.7388439,21,27,city_0508_arizona_chino_valley,362.2625002861023,15.364583333333332,14.282217670417175,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2019,32200197.7388439,8,8,city_0508_arizona_chino_valley,446.0937488079071,14.434895833333332,18.25642113846705,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2020,32200197.7388439,28,106,city_0508_arizona_chino_valley,273.918749332428,15.502604166666668,10.740814841586063,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2021,32200197.7388439,22,40,city_0508_arizona_chino_valley,377.2312527894974,15.296875,14.912168115211756,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2022,32200197.7388439,43,197,city_0508_arizona_chino_valley,347.1374953985214,14.877604166666668,13.953815370358235,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2023,32200197.7388439,22,38,city_0508_arizona_chino_valley,343.87499833106995,14.6484375,13.951188521831046,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2024,32200197.7388439,26,49,city_0508_arizona_chino_valley,315.35625636577606,15.765625,12.239418076051953,semiarid,12
-508,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,2025,32200197.7388439,41,119,city_0508_arizona_chino_valley,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+508,2015,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,28,72,city_0508_arizona_chino_valley,524.293745040894,15.5130208333333,20.5500457380528,dry subhumid,12
+508,2016,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,18,23,city_0508_arizona_chino_valley,386.318745136261,15.2526041666667,15.2981745006006,semiarid,12
+508,2017,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,34,65,city_0508_arizona_chino_valley,300.768752336502,15.6822916666667,11.7111337352684,semiarid,12
+508,2018,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,21,27,city_0508_arizona_chino_valley,362.262500286102,15.3645833333333,14.2822176704172,semiarid,12
+508,2019,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,8,8,city_0508_arizona_chino_valley,446.093748807907,14.4348958333333,18.2564211384671,semiarid,12
+508,2020,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,28,106,city_0508_arizona_chino_valley,273.918749332428,15.5026041666667,10.7408148415861,semiarid,12
+508,2021,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,22,40,city_0508_arizona_chino_valley,377.231252789497,15.296875,14.9121681152118,semiarid,12
+508,2022,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,43,197,city_0508_arizona_chino_valley,347.137495398521,14.8776041666667,13.9538153703582,semiarid,12
+508,2023,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,22,38,city_0508_arizona_chino_valley,343.87499833107,14.6484375,13.951188521831,semiarid,12
+508,2024,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,26,49,city_0508_arizona_chino_valley,315.356256365776,15.765625,12.239418076052,semiarid,12
+508,2025,"Chino Valley, AZ",Chino Valley,Arizona,Yavapai,99.9999999999972,41,119,city_0508_arizona_chino_valley,,,,,

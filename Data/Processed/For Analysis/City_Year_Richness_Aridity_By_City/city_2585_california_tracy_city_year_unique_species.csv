@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2585,"Tracy, CA",Tracy,California,San Joaquin,2015,57604028.0233502,34,143,city_2585_california_tracy,175.1062492132187,17.8203125,6.294186997835437,arid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2016,57604028.0233502,29,50,city_2585_california_tracy,302.18750062584877,17.338541666666668,11.053534029369969,semiarid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2017,57604028.0233502,40,245,city_2585_california_tracy,321.03125008940697,17.354166666666668,11.73610053639873,semiarid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2018,57604028.0233502,55,516,city_2585_california_tracy,252.32500225305557,17.221354166666668,9.2693772950515,arid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2019,57604028.0233502,48,448,city_2585_california_tracy,306.8437488079071,17.075520833333332,11.332884441880958,semiarid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2020,57604028.0233502,87,1737,city_2585_california_tracy,120.92500138282776,17.497395833333332,4.397689225400688,extremely arid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2021,57604028.0233502,95,2088,city_2585_california_tracy,256.44374853372574,17.096354166666668,9.464142185194683,arid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2022,57604028.0233502,106,3682,city_2585_california_tracy,183.56250205636024,17.203125,6.747846141072404,arid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2023,57604028.0233502,96,1446,city_2585_california_tracy,313.63125452399254,16.716145833333332,11.739389973409995,semiarid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2024,57604028.0233502,80,751,city_2585_california_tracy,309.256245970726,17.463541666666668,11.26061051135585,semiarid,12
-2585,"Tracy, CA",Tracy,California,San Joaquin,2025,57604028.0233502,70,599,city_2585_california_tracy,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2585,2015,"Tracy, CA",Tracy,California,San Joaquin,100,33,142,city_2585_california_tracy,175.106249213219,17.8203125,6.29418699783544,arid,12
+2585,2016,"Tracy, CA",Tracy,California,San Joaquin,100,29,50,city_2585_california_tracy,302.187500625849,17.3385416666667,11.05353402937,semiarid,12
+2585,2017,"Tracy, CA",Tracy,California,San Joaquin,100,40,245,city_2585_california_tracy,321.031250089407,17.3541666666667,11.7361005363987,semiarid,12
+2585,2018,"Tracy, CA",Tracy,California,San Joaquin,100,55,516,city_2585_california_tracy,252.325002253056,17.2213541666667,9.2693772950515,arid,12
+2585,2019,"Tracy, CA",Tracy,California,San Joaquin,100,48,448,city_2585_california_tracy,306.843748807907,17.0755208333333,11.332884441881,semiarid,12
+2585,2020,"Tracy, CA",Tracy,California,San Joaquin,100,87,1737,city_2585_california_tracy,120.925001382828,17.4973958333333,4.39768922540069,extremely arid,12
+2585,2021,"Tracy, CA",Tracy,California,San Joaquin,100,95,2088,city_2585_california_tracy,256.443748533726,17.0963541666667,9.46414218519468,arid,12
+2585,2022,"Tracy, CA",Tracy,California,San Joaquin,100,106,3682,city_2585_california_tracy,183.56250205636,17.203125,6.7478461410724,arid,12
+2585,2023,"Tracy, CA",Tracy,California,San Joaquin,100,96,1446,city_2585_california_tracy,313.631254523993,16.7161458333333,11.73938997341,semiarid,12
+2585,2024,"Tracy, CA",Tracy,California,San Joaquin,100,80,751,city_2585_california_tracy,309.256245970726,17.4635416666667,11.2606105113559,semiarid,12
+2585,2025,"Tracy, CA",Tracy,California,San Joaquin,100,70,599,city_2585_california_tracy,,,,,

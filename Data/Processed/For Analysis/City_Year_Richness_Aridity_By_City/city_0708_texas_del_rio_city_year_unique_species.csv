@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2015,50332363.5760853,100,430,city_0708_texas_del_rio,652.4624919891357,21.578125,20.661850315341265,dry subhumid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2016,50332363.5760853,91,283,city_0708_texas_del_rio,684.9375019073486,22.286458333333332,21.21438947672382,dry subhumid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2017,50332363.5760853,91,347,city_0708_texas_del_rio,480.93125343322754,22.481770833333332,14.806189474734175,semiarid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2018,50332363.5760853,118,864,city_0708_texas_del_rio,565.7500030994415,21.7890625,17.797001817824654,semiarid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2019,50332363.5760853,107,708,city_0708_texas_del_rio,393.0687522888184,21.932291666666668,12.309443881822398,semiarid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2020,50332363.5760853,141,1168,city_0708_texas_del_rio,323.5500020980835,22.591145833333332,9.927543012837722,arid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2021,50332363.5760853,141,1286,city_0708_texas_del_rio,459.8250060081482,22.028645833333332,14.35667959241637,semiarid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2022,50332363.5760853,213,3607,city_0708_texas_del_rio,302.6562478542328,22.158854166666668,9.41128829670624,arid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2023,50332363.5760853,208,4915,city_0708_texas_del_rio,427.94999647140503,23.036458333333332,12.95387030151502,semiarid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2024,50332363.5760853,171,1971,city_0708_texas_del_rio,383.0062522888184,23.268229166666668,11.512673258622796,semiarid,12
-708,"Del Rio, TX",Del Rio,Texas,Val Verde,2025,50332363.5760853,147,1766,city_0708_texas_del_rio,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+708,2015,"Del Rio, TX",Del Rio,Texas,Val Verde,100,100,430,city_0708_texas_del_rio,652.462491989136,21.578125,20.6618503153413,dry subhumid,12
+708,2016,"Del Rio, TX",Del Rio,Texas,Val Verde,100,91,283,city_0708_texas_del_rio,684.937501907349,22.2864583333333,21.2143894767238,dry subhumid,12
+708,2017,"Del Rio, TX",Del Rio,Texas,Val Verde,100,91,347,city_0708_texas_del_rio,480.931253433228,22.4817708333333,14.8061894747342,semiarid,12
+708,2018,"Del Rio, TX",Del Rio,Texas,Val Verde,100,118,864,city_0708_texas_del_rio,565.750003099442,21.7890625,17.7970018178247,semiarid,12
+708,2019,"Del Rio, TX",Del Rio,Texas,Val Verde,100,107,708,city_0708_texas_del_rio,393.068752288818,21.9322916666667,12.3094438818224,semiarid,12
+708,2020,"Del Rio, TX",Del Rio,Texas,Val Verde,100,141,1168,city_0708_texas_del_rio,323.550002098084,22.5911458333333,9.92754301283772,arid,12
+708,2021,"Del Rio, TX",Del Rio,Texas,Val Verde,100,141,1286,city_0708_texas_del_rio,459.825006008148,22.0286458333333,14.3566795924164,semiarid,12
+708,2022,"Del Rio, TX",Del Rio,Texas,Val Verde,100,213,3607,city_0708_texas_del_rio,302.656247854233,22.1588541666667,9.41128829670624,arid,12
+708,2023,"Del Rio, TX",Del Rio,Texas,Val Verde,100,208,4915,city_0708_texas_del_rio,427.949996471405,23.0364583333333,12.953870301515,semiarid,12
+708,2024,"Del Rio, TX",Del Rio,Texas,Val Verde,100,171,1971,city_0708_texas_del_rio,383.006252288818,23.2682291666667,11.5126732586228,semiarid,12
+708,2025,"Del Rio, TX",Del Rio,Texas,Val Verde,100,147,1765,city_0708_texas_del_rio,,,,,

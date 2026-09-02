@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1439,"Lander, WY",Lander,Wyoming,Fremont,2015,6701267.73584947,49,109,city_1439_wyoming_lander,343.22499656677246,6.510416666666666,20.788390959249313,dry subhumid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2016,6701267.73584947,58,321,city_1439_wyoming_lander,337.5687460899353,6.625,20.30488698285325,dry subhumid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2017,6701267.73584947,86,530,city_1439_wyoming_lander,308.7499990463257,6.088541666666666,19.190676535090496,semiarid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2018,6701267.73584947,114,1688,city_1439_wyoming_lander,299.4437532424927,5.5,19.318951822096302,semiarid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2019,6701267.73584947,90,1140,city_1439_wyoming_lander,367.51250648498535,4.622395833333334,25.1335356171388,dry subhumid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2020,6701267.73584947,101,1317,city_1439_wyoming_lander,200.2249994277954,6.106770833333334,12.431107482663448,semiarid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2021,6701267.73584947,111,2323,city_1439_wyoming_lander,290.95625162124634,6.567708333333333,17.561647378585132,semiarid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2022,6701267.73584947,84,1154,city_1439_wyoming_lander,286.80624866485596,5.692708333333334,18.27640217180629,semiarid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2023,6701267.73584947,97,997,city_1439_wyoming_lander,355.67499828338623,5.869791666666666,22.41207734506405,dry subhumid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2024,6701267.73584947,87,1244,city_1439_wyoming_lander,233.0250020027161,7.1171875,13.613509929871135,semiarid,12
-1439,"Lander, WY",Lander,Wyoming,Fremont,2025,6701267.73584947,98,2309,city_1439_wyoming_lander,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1439,2015,"Lander, WY",Lander,Wyoming,Fremont,100,49,109,city_1439_wyoming_lander,343.224996566772,6.51041666666667,20.7883909592493,dry subhumid,12
+1439,2016,"Lander, WY",Lander,Wyoming,Fremont,100,58,321,city_1439_wyoming_lander,337.568746089935,6.625,20.3048869828533,dry subhumid,12
+1439,2017,"Lander, WY",Lander,Wyoming,Fremont,100,86,530,city_1439_wyoming_lander,308.749999046326,6.08854166666667,19.1906765350905,semiarid,12
+1439,2018,"Lander, WY",Lander,Wyoming,Fremont,100,114,1688,city_1439_wyoming_lander,299.443753242493,5.5,19.3189518220963,semiarid,12
+1439,2019,"Lander, WY",Lander,Wyoming,Fremont,100,90,1140,city_1439_wyoming_lander,367.512506484985,4.62239583333333,25.1335356171388,dry subhumid,12
+1439,2020,"Lander, WY",Lander,Wyoming,Fremont,100,101,1317,city_1439_wyoming_lander,200.224999427795,6.10677083333333,12.4311074826634,semiarid,12
+1439,2021,"Lander, WY",Lander,Wyoming,Fremont,100,111,2323,city_1439_wyoming_lander,290.956251621246,6.56770833333333,17.5616473785851,semiarid,12
+1439,2022,"Lander, WY",Lander,Wyoming,Fremont,100,84,1154,city_1439_wyoming_lander,286.806248664856,5.69270833333333,18.2764021718063,semiarid,12
+1439,2023,"Lander, WY",Lander,Wyoming,Fremont,100,97,997,city_1439_wyoming_lander,355.674998283386,5.86979166666667,22.412077345064,dry subhumid,12
+1439,2024,"Lander, WY",Lander,Wyoming,Fremont,100,87,1244,city_1439_wyoming_lander,233.025002002716,7.1171875,13.6135099298711,semiarid,12
+1439,2025,"Lander, WY",Lander,Wyoming,Fremont,100,98,2309,city_1439_wyoming_lander,,,,,

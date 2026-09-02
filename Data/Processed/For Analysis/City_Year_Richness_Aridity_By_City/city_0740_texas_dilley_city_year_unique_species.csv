@@ -1,4 +1,4 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-740,"Dilley, TX",Dilley,Texas,Frio,2018,5137596.66847544,8,8,city_0740_texas_dilley,670.3562612533569,21.942708333333332,20.986206124350975,dry subhumid,12
-740,"Dilley, TX",Dilley,Texas,Frio,2021,5137596.66847544,2,2,city_0740_texas_dilley,657.975001335144,21.932291666666668,20.605317282066164,dry subhumid,12
-740,"Dilley, TX",Dilley,Texas,Frio,2025,5137596.66847544,1,1,city_0740_texas_dilley,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+740,2018,"Dilley, TX",Dilley,Texas,Frio,99.999999999996,8,8,city_0740_texas_dilley,670.356261253357,21.9427083333333,20.986206124351,dry subhumid,12
+740,2021,"Dilley, TX",Dilley,Texas,Frio,99.999999999996,2,2,city_0740_texas_dilley,657.975001335144,21.9322916666667,20.6053172820662,dry subhumid,12
+740,2025,"Dilley, TX",Dilley,Texas,Frio,99.999999999996,1,1,city_0740_texas_dilley,,,,,

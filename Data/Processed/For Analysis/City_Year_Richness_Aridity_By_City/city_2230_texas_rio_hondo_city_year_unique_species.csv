@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2015,9591668.09730279,43,71,city_2230_texas_rio_hondo,818.9875001907349,23.473958333333332,24.46640734971544,dry subhumid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2016,9591668.09730279,81,224,city_2230_texas_rio_hondo,733.212498664856,24.135416666666668,21.479523915723576,dry subhumid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2017,9591668.09730279,44,79,city_2230_texas_rio_hondo,672.7375049591064,24.270833333333332,19.63003053984019,semiarid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2018,9591668.09730279,31,44,city_2230_texas_rio_hondo,670.3375129699707,23.7265625,19.87565477418491,semiarid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2019,9591668.09730279,60,83,city_2230_texas_rio_hondo,587.9062547683716,23.796875,17.39528446841229,semiarid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2020,9591668.09730279,63,124,city_2230_texas_rio_hondo,629.1937589645386,24.315104166666668,18.335767127751595,semiarid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2021,9591668.09730279,16,17,city_2230_texas_rio_hondo,928.950002670288,23.700520833333332,27.564855963634237,dry subhumid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2022,9591668.09730279,41,108,city_2230_texas_rio_hondo,665.2124905586243,23.890625,19.62821548905115,semiarid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2023,9591668.09730279,59,194,city_2230_texas_rio_hondo,632.7375059127808,24.658854166666668,18.25615765801396,semiarid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2024,9591668.09730279,45,63,city_2230_texas_rio_hondo,944.6812562942504,25.0234375,26.972830873447258,dry subhumid,12
-2230,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,2025,9591668.09730279,92,335,city_2230_texas_rio_hondo,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2230,2015,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,43,71,city_2230_texas_rio_hondo,818.987500190735,23.4739583333333,24.4664073497154,dry subhumid,12
+2230,2016,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,81,224,city_2230_texas_rio_hondo,733.212498664856,24.1354166666667,21.4795239157236,dry subhumid,12
+2230,2017,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,44,79,city_2230_texas_rio_hondo,672.737504959107,24.2708333333333,19.6300305398402,semiarid,12
+2230,2018,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,31,44,city_2230_texas_rio_hondo,670.337512969971,23.7265625,19.8756547741849,semiarid,12
+2230,2019,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,60,83,city_2230_texas_rio_hondo,587.906254768372,23.796875,17.3952844684123,semiarid,12
+2230,2020,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,63,124,city_2230_texas_rio_hondo,629.193758964539,24.3151041666667,18.3357671277516,semiarid,12
+2230,2021,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,16,17,city_2230_texas_rio_hondo,928.950002670288,23.7005208333333,27.5648559636342,dry subhumid,12
+2230,2022,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,41,108,city_2230_texas_rio_hondo,665.212490558624,23.890625,19.6282154890512,semiarid,12
+2230,2023,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,59,194,city_2230_texas_rio_hondo,632.737505912781,24.6588541666667,18.256157658014,semiarid,12
+2230,2024,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,45,63,city_2230_texas_rio_hondo,944.68125629425,25.0234375,26.9728308734473,dry subhumid,12
+2230,2025,"Rio Hondo, TX",Rio Hondo,Texas,Cameron,99.9999999999969,92,335,city_2230_texas_rio_hondo,,,,,

@@ -1,68 +1,69 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S37955190,L4110878,Presidio (town),2017-07-03,2017,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,30,3.219,1,29.563379,-104.3747091,7,7,city_2152_texas_presidio
-S41967687,L6728209,"Anderson Street, Presidio, Texas, US (29.56, -104.375)",2018-01-16,2018,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,41,11.217,1,29.5601615,-104.3751513,5,5,city_2152_texas_presidio
-S61313222,L10133899,"(29.5685,-104.3710) Presidio",2019-11-09,2019,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,10,,1,29.568522,-104.371002,2,2,city_2152_texas_presidio
-S51813322,L454516,Presidio,2019-01-16,2019,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,10,,1,29.56078,-104.37248,5,5,city_2152_texas_presidio
-S62674655,L10356155,Presidio,2019-12-27,2019,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,5,1.609,1,29.5698392,-104.3709921,2,2,city_2152_texas_presidio
-S123397434,L17505157,Presidio (general),2022-12-03,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,32,4.346,1,29.552746,-104.354676,6,6,city_2152_texas_presidio
-S113988032,L17505157,Presidio (general),2022-06-27,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,22,2.575,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S114182889,L17505157,Presidio (general),2022-06-29,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,29,4.184,1,29.552746,-104.354676,10,10,city_2152_texas_presidio
-S106685357,L17505157,Presidio (general),2022-04-10,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,8,1.609,1,29.552746,-104.354676,7,7,city_2152_texas_presidio
-S106562089,L17505157,Presidio (general),2022-04-06,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,37,1.255,1,29.552746,-104.354676,15,15,city_2152_texas_presidio
-S103053436,L17505157,Presidio (general),2022-02-18,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,7,0.57,1,29.552746,-104.354676,6,6,city_2152_texas_presidio
-S120901214,L17505157,Presidio (general),2022-10-18,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,14,4.129,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S101659307,L17505157,Presidio (general),2022-01-29,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,31,2.607,1,29.552746,-104.354676,9,9,city_2152_texas_presidio
-S121699854,L17505157,Presidio (general),2022-11-01,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,20,0.058,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S124542503,L4110878,Presidio (town),2022-12-24,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,7,6.976,1,29.563379,-104.3747091,6,6,city_2152_texas_presidio
-S102038360,L17505157,Presidio (general),2022-01-31,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,28,3.322,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S104167430,L17505157,Presidio (general),2022-03-04,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,13,3.543,1,29.552746,-104.354676,12,12,city_2152_texas_presidio
-S123867162,L17505157,Presidio (general),2022-12-12,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,10,2.68,1,29.552746,-104.354676,6,6,city_2152_texas_presidio
-S118475122,L17505157,Presidio (general),2022-09-10,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,49,1.062,1,29.552746,-104.354676,10,10,city_2152_texas_presidio
-S120675747,L17505157,Presidio (general),2022-10-14,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,22,2.95,1,29.552746,-104.354676,9,9,city_2152_texas_presidio
-S109109292,L17505157,Presidio (general),2022-05-05,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,22,0.789,1,29.552746,-104.354676,9,9,city_2152_texas_presidio
-S115149772,L17505157,Presidio (general),2022-07-13,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,10,1.845,1,29.552746,-104.354676,7,7,city_2152_texas_presidio
-S101948019,L17505157,Presidio (general),2022-02-03,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,14,3.844,1,29.552746,-104.354676,4,4,city_2152_texas_presidio
-S123157423,L17505157,Presidio (general),2022-11-28,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,12,1.291,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S124425553,L17505157,Presidio (general),2022-12-22,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,15,3.912,1,29.552746,-104.354676,4,4,city_2152_texas_presidio
-S104244751,L17505157,Presidio (general),2022-03-05,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,13,1.935,1,29.552746,-104.354676,7,7,city_2152_texas_presidio
-S107471966,L17505157,Presidio (general),2022-04-19,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,23,3.74,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S120401992,L17505157,Presidio (general),2022-10-10,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,28,4.623,1,29.552746,-104.354676,10,10,city_2152_texas_presidio
-S102356277,L17505157,Presidio (general),2022-02-09,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,9,1.73,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S122784365,L17505157,Presidio (general),2022-11-21,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,10,1.658,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S101450139,L17505157,Presidio (general),2022-01-25,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,23,5.263,1,29.552746,-104.354676,4,4,city_2152_texas_presidio
-S120547904,L17505157,Presidio (general),2022-10-12,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,25,4.705,1,29.552746,-104.354676,6,6,city_2152_texas_presidio
-S123346728,L17505157,Presidio (general),2022-12-02,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,23,6.196,1,29.552746,-104.354676,4,4,city_2152_texas_presidio
-S108410210,L17505157,Presidio (general),2022-04-29,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,21,2.664,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S101560335,L17505157,Presidio (general),2022-01-26,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,12,3.187,1,29.552746,-104.354676,3,3,city_2152_texas_presidio
-S104499720,L17505157,Presidio (general),2022-03-09,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,25,4.127,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S117911749,L17505157,Presidio (general),2022-09-01,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,22,2.945,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S116847115,L17505157,Presidio (general),2022-08-13,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,10,1.563,1,29.552746,-104.354676,6,6,city_2152_texas_presidio
-S125953791,L17505157,Presidio (general),2023-01-10,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,11,1.513,1,29.552746,-104.354676,4,4,city_2152_texas_presidio
-S127655742,L17505157,Presidio (general),2023-02-05,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,16,4.329,1,29.552746,-104.354676,9,9,city_2152_texas_presidio
-S150649336,L17505157,Presidio (general),2023-09-24,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,31,4.94,1,29.552746,-104.354676,17,17,city_2152_texas_presidio
-S140572150,L17505157,Presidio (general),2023-06-04,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,10,2.738,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S155160379,L17505157,Presidio (general),2023-11-25,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,13,1.996,1,29.552746,-104.354676,10,10,city_2152_texas_presidio
-S131038650,L17505157,Presidio (general),2023-03-16,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,40,2.108,1,29.552746,-104.354676,10,10,city_2152_texas_presidio
-S138398757,L17505157,Presidio (general),2023-05-18,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,19,2.034,1,29.552746,-104.354676,17,17,city_2152_texas_presidio
-S125427572,L17505157,Presidio (general),2023-01-03,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,29,3.959,1,29.552746,-104.354676,6,6,city_2152_texas_presidio
-S140389094,L17505157,Presidio (general),2023-06-03,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,19,4.522,1,29.552746,-104.354676,10,10,city_2152_texas_presidio
-S125495325,L17505157,Presidio (general),2023-01-04,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,15,3.828,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S147183307,L17505157,Presidio (general),2023-08-11,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,25,4.438,1,29.552746,-104.354676,11,11,city_2152_texas_presidio
-S128392540,L17505157,Presidio (general),2023-02-15,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,19,4.178,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S137597490,L17505157,Presidio (general),2023-05-13,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,16,2.575,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S168363015,L17505157,Presidio (general),2024-04-13,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,12,2.672,1,29.552746,-104.354676,14,14,city_2152_texas_presidio
-S165162648,L17505157,Presidio (general),2024-03-17,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,13,4.077,1,29.552746,-104.354676,10,10,city_2152_texas_presidio
-S175560637,L17505157,Presidio (general),2024-05-19,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,8,3.041,1,29.552746,-104.354676,13,13,city_2152_texas_presidio
-S184440809,L34080588,Presidio Trading Post,2024-06-28,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,6,,1,29.5486478,-104.348626,10,10,city_2152_texas_presidio
-S184398297,L17505157,Presidio (general),2024-06-29,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,16,2.012,1,29.552746,-104.354676,6,6,city_2152_texas_presidio
-S159608673,L17505157,Presidio (general),2024-01-22,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,14,3.683,1,29.552746,-104.354676,6,6,city_2152_texas_presidio
-S183175669,L17505157,Presidio (general),2024-06-22,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,20,5.467,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S179782565,L17505157,Presidio (general),2024-06-06,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,9,2.012,1,29.552746,-104.354676,12,12,city_2152_texas_presidio
-S186818366,L17505157,Presidio (general),2024-07-13,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,23,3.798,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S190114923,L17505157,Presidio (general),2024-08-03,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,7,3.856,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S200105830,L17505157,Presidio (general),2024-10-24,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,16,1.239,1,29.552746,-104.354676,8,8,city_2152_texas_presidio
-S166933104,L17505157,Presidio (general),2024-04-02,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,6,,1,29.552746,-104.354676,7,7,city_2152_texas_presidio
-S186232612,L17505157,Presidio (general),2024-07-09,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,13,0.684,1,29.552746,-104.354676,5,5,city_2152_texas_presidio
-S216917224,L40906205,"Fourth St, Presidio US-TX 29.55343, -104.35009",2025-03-06,2025,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,7,2.846,1,29.553433,-104.350087,3,3,city_2152_texas_presidio
-S210284197,L39626280,"1000 FM-170, Presidio US-TX",2025-01-22,2025,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,35,0,1,29.569883,-104.371486,5,5,city_2152_texas_presidio
-S216944436,L40910450,"316 Jose Rodriguez St, Presidio US-TX 29.56417, -104.38036",2025-03-06,2025,2152,"Presidio, TX",Presidio,Texas,Presidio,5690486.99609243,5,,1,29.564173,-104.380364,2,2,city_2152_texas_presidio
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S37955190,L4110878,Presidio (town),2017-07-03,2017,2152,"Presidio, TX",Presidio,Texas,Presidio,100,30,3.219,1,Traveling,29.563379,-104.3747091,7,7,city_2152_texas_presidio
+S41967687,L6728209,"Anderson Street, Presidio, Texas, US (29.56, -104.375)",2018-01-16,2018,2152,"Presidio, TX",Presidio,Texas,Presidio,100,41,11.217,1,Traveling,29.5601615,-104.3751513,5,5,city_2152_texas_presidio
+S51813322,L454516,Presidio,2019-01-16,2019,2152,"Presidio, TX",Presidio,Texas,Presidio,100,10,,1,Stationary,29.56078,-104.37248,5,5,city_2152_texas_presidio
+S61313222,L10133899,"(29.5685,-104.3710) Presidio",2019-11-09,2019,2152,"Presidio, TX",Presidio,Texas,Presidio,100,10,,1,Stationary,29.568522,-104.371002,2,2,city_2152_texas_presidio
+S62674655,L10356155,Presidio,2019-12-27,2019,2152,"Presidio, TX",Presidio,Texas,Presidio,100,5,1.609,1,Traveling,29.5698392,-104.3709921,2,2,city_2152_texas_presidio
+S101450139,L17505157,Presidio (general),2022-01-25,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,23,5.263,1,Traveling,29.552746,-104.354676,4,4,city_2152_texas_presidio
+S101560335,L17505157,Presidio (general),2022-01-26,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,12,3.187,1,Traveling,29.552746,-104.354676,3,3,city_2152_texas_presidio
+S101659307,L17505157,Presidio (general),2022-01-29,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,31,2.607,1,Traveling,29.552746,-104.354676,9,9,city_2152_texas_presidio
+S102038360,L17505157,Presidio (general),2022-01-31,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,28,3.322,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S101948019,L17505157,Presidio (general),2022-02-03,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,14,3.844,1,Traveling,29.552746,-104.354676,4,4,city_2152_texas_presidio
+S102356277,L17505157,Presidio (general),2022-02-09,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,9,1.73,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S103053436,L17505157,Presidio (general),2022-02-18,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,7,0.57,1,Traveling,29.552746,-104.354676,6,6,city_2152_texas_presidio
+S104167430,L17505157,Presidio (general),2022-03-04,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,13,3.543,1,Traveling,29.552746,-104.354676,12,12,city_2152_texas_presidio
+S104244751,L17505157,Presidio (general),2022-03-05,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,13,1.935,1,Traveling,29.552746,-104.354676,7,7,city_2152_texas_presidio
+S104499720,L17505157,Presidio (general),2022-03-09,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,25,4.127,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S106562089,L17505157,Presidio (general),2022-04-06,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,37,1.255,1,Traveling,29.552746,-104.354676,15,15,city_2152_texas_presidio
+S106685357,L17505157,Presidio (general),2022-04-10,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,8,1.609,1,Traveling,29.552746,-104.354676,7,7,city_2152_texas_presidio
+S107471966,L17505157,Presidio (general),2022-04-19,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,23,3.74,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S108410210,L17505157,Presidio (general),2022-04-29,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,21,2.664,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S109109292,L17505157,Presidio (general),2022-05-05,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,22,0.789,1,Traveling,29.552746,-104.354676,9,9,city_2152_texas_presidio
+S113988032,L17505157,Presidio (general),2022-06-27,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,22,2.575,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S114182889,L17505157,Presidio (general),2022-06-29,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,29,4.184,1,Traveling,29.552746,-104.354676,10,10,city_2152_texas_presidio
+S115149772,L17505157,Presidio (general),2022-07-13,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,10,1.845,1,Traveling,29.552746,-104.354676,7,7,city_2152_texas_presidio
+S116847115,L17505157,Presidio (general),2022-08-13,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,10,1.563,1,Traveling,29.552746,-104.354676,6,6,city_2152_texas_presidio
+S117911749,L17505157,Presidio (general),2022-09-01,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,22,2.945,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S118475122,L17505157,Presidio (general),2022-09-10,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,49,1.062,1,Traveling,29.552746,-104.354676,10,10,city_2152_texas_presidio
+S120401992,L17505157,Presidio (general),2022-10-10,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,28,4.623,1,Traveling,29.552746,-104.354676,10,10,city_2152_texas_presidio
+S120547904,L17505157,Presidio (general),2022-10-12,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,25,4.705,1,Traveling,29.552746,-104.354676,6,6,city_2152_texas_presidio
+S120675747,L17505157,Presidio (general),2022-10-14,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,22,2.95,1,Traveling,29.552746,-104.354676,9,9,city_2152_texas_presidio
+S120901214,L17505157,Presidio (general),2022-10-18,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,14,4.129,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S121699854,L17505157,Presidio (general),2022-11-01,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,20,0.058,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S122784365,L17505157,Presidio (general),2022-11-21,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,10,1.658,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S123157423,L17505157,Presidio (general),2022-11-28,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,12,1.291,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S123346728,L17505157,Presidio (general),2022-12-02,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,23,6.196,1,Traveling,29.552746,-104.354676,4,4,city_2152_texas_presidio
+S123397434,L17505157,Presidio (general),2022-12-03,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,32,4.346,1,Traveling,29.552746,-104.354676,6,6,city_2152_texas_presidio
+S123867162,L17505157,Presidio (general),2022-12-12,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,10,2.68,1,Traveling,29.552746,-104.354676,6,6,city_2152_texas_presidio
+S124425553,L17505157,Presidio (general),2022-12-22,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,15,3.912,1,Traveling,29.552746,-104.354676,4,4,city_2152_texas_presidio
+S124542503,L4110878,Presidio (town),2022-12-24,2022,2152,"Presidio, TX",Presidio,Texas,Presidio,100,7,6.976,1,Traveling,29.563379,-104.3747091,6,6,city_2152_texas_presidio
+S125427572,L17505157,Presidio (general),2023-01-03,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,29,3.959,1,Traveling,29.552746,-104.354676,6,6,city_2152_texas_presidio
+S125495325,L17505157,Presidio (general),2023-01-04,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,15,3.828,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S125953791,L17505157,Presidio (general),2023-01-10,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,11,1.513,1,Traveling,29.552746,-104.354676,4,4,city_2152_texas_presidio
+S127655742,L17505157,Presidio (general),2023-02-05,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,16,4.329,1,Traveling,29.552746,-104.354676,9,9,city_2152_texas_presidio
+S128392540,L17505157,Presidio (general),2023-02-15,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,19,4.178,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S131038650,L17505157,Presidio (general),2023-03-16,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,40,2.108,1,Traveling,29.552746,-104.354676,10,10,city_2152_texas_presidio
+S137597490,L17505157,Presidio (general),2023-05-13,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,16,2.575,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S138398757,L17505157,Presidio (general),2023-05-18,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,19,2.034,1,Traveling,29.552746,-104.354676,17,17,city_2152_texas_presidio
+S140389094,L17505157,Presidio (general),2023-06-03,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,19,4.522,1,Traveling,29.552746,-104.354676,10,10,city_2152_texas_presidio
+S140572150,L17505157,Presidio (general),2023-06-04,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,10,2.738,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S147183307,L17505157,Presidio (general),2023-08-11,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,25,4.438,1,Traveling,29.552746,-104.354676,11,11,city_2152_texas_presidio
+S150649336,L17505157,Presidio (general),2023-09-24,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,31,4.94,1,Traveling,29.552746,-104.354676,17,17,city_2152_texas_presidio
+S155160379,L17505157,Presidio (general),2023-11-25,2023,2152,"Presidio, TX",Presidio,Texas,Presidio,100,13,1.996,1,Traveling,29.552746,-104.354676,10,10,city_2152_texas_presidio
+S157931432,L28602899,"316 U.S. 67A Business, Presidio, Texas, US (29.564, -104.38)",2024-01-03,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,5,,1,Stationary,29.5641488,-104.380233,0,0,city_2152_texas_presidio
+S159608673,L17505157,Presidio (general),2024-01-22,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,14,3.683,1,Traveling,29.552746,-104.354676,6,6,city_2152_texas_presidio
+S165162648,L17505157,Presidio (general),2024-03-17,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,13,4.077,1,Traveling,29.552746,-104.354676,10,10,city_2152_texas_presidio
+S166933104,L17505157,Presidio (general),2024-04-02,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,6,,1,Stationary,29.552746,-104.354676,7,7,city_2152_texas_presidio
+S168363015,L17505157,Presidio (general),2024-04-13,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,12,2.672,1,Traveling,29.552746,-104.354676,14,14,city_2152_texas_presidio
+S175560637,L17505157,Presidio (general),2024-05-19,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,8,3.041,1,Traveling,29.552746,-104.354676,13,13,city_2152_texas_presidio
+S179782565,L17505157,Presidio (general),2024-06-06,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,9,2.012,1,Traveling,29.552746,-104.354676,12,12,city_2152_texas_presidio
+S183175669,L17505157,Presidio (general),2024-06-22,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,20,5.467,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S184440809,L34080588,Presidio Trading Post,2024-06-28,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,6,,1,Stationary,29.5486478,-104.348626,10,10,city_2152_texas_presidio
+S184398297,L17505157,Presidio (general),2024-06-29,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,16,2.012,1,Traveling,29.552746,-104.354676,6,6,city_2152_texas_presidio
+S186232612,L17505157,Presidio (general),2024-07-09,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,13,0.684,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S186818366,L17505157,Presidio (general),2024-07-13,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,23,3.798,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S190114923,L17505157,Presidio (general),2024-08-03,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,7,3.856,1,Traveling,29.552746,-104.354676,5,5,city_2152_texas_presidio
+S200105830,L17505157,Presidio (general),2024-10-24,2024,2152,"Presidio, TX",Presidio,Texas,Presidio,100,16,1.239,1,Traveling,29.552746,-104.354676,8,8,city_2152_texas_presidio
+S210284197,L39626280,"1000 FM-170, Presidio US-TX",2025-01-22,2025,2152,"Presidio, TX",Presidio,Texas,Presidio,100,35,0,1,Traveling,29.569883,-104.371486,5,5,city_2152_texas_presidio
+S216917224,L40906205,"Fourth St, Presidio US-TX 29.55343, -104.35009",2025-03-06,2025,2152,"Presidio, TX",Presidio,Texas,Presidio,100,7,2.846,1,Traveling,29.553433,-104.350087,3,3,city_2152_texas_presidio
+S216944436,L40910450,"316 Jose Rodriguez St, Presidio US-TX 29.56417, -104.38036",2025-03-06,2025,2152,"Presidio, TX",Presidio,Texas,Presidio,100,5,,1,Stationary,29.564173,-104.380364,2,2,city_2152_texas_presidio

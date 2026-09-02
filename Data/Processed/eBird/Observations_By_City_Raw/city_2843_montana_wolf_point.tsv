@@ -1,14 +1,14 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S23862463	2015-05-03	L3713076	Wolf Point--southern residential area	Pine Siskin	Spinus pinus	32595	species	1	48.0855724	-105.6368279	Traveling	1	0
 S23862454	2015-05-03	L3713073	Central Wolf Point	Common Grackle	Quiscalus quiscula	33853	species	2	48.0927103	-105.6427503	Traveling	1	0
-S23862454	2015-05-03	L3713073	Central Wolf Point	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	48.0927103	-105.6427503	Traveling	1	0
-S23862454	2015-05-03	L3713073	Central Wolf Point	House Sparrow	Passer domesticus	31534	species	1	48.0927103	-105.6427503	Traveling	1	0
-S24157313	2015-06-27	L3770966	Gas Station Wolf Point	House Sparrow	Passer domesticus	31534	species	4	48.0920405	-105.6363773	Stationary	1	0
 S23862463	2015-05-03	L3713076	Wolf Point--southern residential area	Rock Pigeon	Columba livia	1868	domestic	2	48.0855724	-105.6368279	Traveling	1	0
 S23862463	2015-05-03	L3713076	Wolf Point--southern residential area	House Sparrow	Passer domesticus	31534	species	3	48.0855724	-105.6368279	Traveling	1	0
 S23862463	2015-05-03	L3713076	Wolf Point--southern residential area	Common Grackle	Quiscalus quiscula	33853	species	10	48.0855724	-105.6368279	Traveling	1	0
 S23862454	2015-05-03	L3713073	Central Wolf Point	Chipping Sparrow	Spizella passerina	32990	species	1	48.0927103	-105.6427503	Traveling	1	0
 S23862454	2015-05-03	L3713073	Central Wolf Point	gull sp.	Larinae sp.	6619	spuh	5	48.0927103	-105.6427503	Traveling	1	0
+S23862463	2015-05-03	L3713076	Wolf Point--southern residential area	Pine Siskin	Spinus pinus	32595	species	1	48.0855724	-105.6368279	Traveling	1	0
+S23862454	2015-05-03	L3713073	Central Wolf Point	Yellow-rumped Warbler	Setophaga coronata	34160	issf	2	48.0927103	-105.6427503	Traveling	1	0
+S23862454	2015-05-03	L3713073	Central Wolf Point	House Sparrow	Passer domesticus	31534	species	1	48.0927103	-105.6427503	Traveling	1	0
+S24157313	2015-06-27	L3770966	Gas Station Wolf Point	House Sparrow	Passer domesticus	31534	species	4	48.0920405	-105.6363773	Stationary	1	0
 S23862463	2015-05-03	L3713076	Wolf Point--southern residential area	American Robin	Turdus migratorius	28633	species	2	48.0855724	-105.6368279	Traveling	1	0
 S23862454	2015-05-03	L3713073	Central Wolf Point	American Robin	Turdus migratorius	28633	species	1	48.0927103	-105.6427503	Traveling	1	0
 S23862463	2015-05-03	L3713076	Wolf Point--southern residential area	Western Meadowlark	Sturnella neglecta	33565	species	1	48.0855724	-105.6368279	Traveling	1	0
@@ -31,13 +31,13 @@ S37257700	2017-05-29	L6250940	Nellies Park	American Robin	Turdus migratorius	286
 S60058476	2019-09-23	L9950018	509 Alder St, Wolf Point US-MT (48.0913,-105.6452)	Mourning Dove	Zenaida macroura	2412	species	1	48.0912900	-105.6452390	Traveling	1	0
 S60058476	2019-09-23	L9950018	509 Alder St, Wolf Point US-MT (48.0913,-105.6452)	Turkey Vulture	Cathartes aura	7815	species	1	48.0912900	-105.6452390	Traveling	1	0
 S60058476	2019-09-23	L9950018	509 Alder St, Wolf Point US-MT (48.0913,-105.6452)	blackbird sp.	Icteridae sp.	33944	spuh	15	48.0912900	-105.6452390	Traveling	1	0
-S111672337	2022-05-28	L19360113	Wolf Point, Montana	American Robin	Turdus migratorius	28633	species	4	48.0944453	-105.6399581	Traveling	1	0
-S111672337	2022-05-28	L19360113	Wolf Point, Montana	House Finch	Haemorhous mexicanus	32310	species	1	48.0944453	-105.6399581	Traveling	1	0
 S111672337	2022-05-28	L19360113	Wolf Point, Montana	Chimney Swift	Chaetura pelagica	3896	species	4	48.0944453	-105.6399581	Traveling	1	0
-S111672337	2022-05-28	L19360113	Wolf Point, Montana	Mourning Dove	Zenaida macroura	2412	species	2	48.0944453	-105.6399581	Traveling	1	0
+S111672337	2022-05-28	L19360113	Wolf Point, Montana	House Finch	Haemorhous mexicanus	32310	species	1	48.0944453	-105.6399581	Traveling	1	0
+S111672337	2022-05-28	L19360113	Wolf Point, Montana	American Robin	Turdus migratorius	28633	species	4	48.0944453	-105.6399581	Traveling	1	0
 S120109315	2022-10-06	L17585852	Wolf Point (town)	Mourning Dove	Zenaida macroura	2412	species	5	48.0903000	-105.6408000	Traveling	1	0
-S111672337	2022-05-28	L19360113	Wolf Point, Montana	European Starling	Sturnus vulgaris	27813	species	1	48.0944453	-105.6399581	Traveling	1	0
+S111672337	2022-05-28	L19360113	Wolf Point, Montana	Mourning Dove	Zenaida macroura	2412	species	2	48.0944453	-105.6399581	Traveling	1	0
 S111672337	2022-05-28	L19360113	Wolf Point, Montana	Ring-billed Gull	Larus delawarensis	6521	species	15	48.0944453	-105.6399581	Traveling	1	0
+S111672337	2022-05-28	L19360113	Wolf Point, Montana	European Starling	Sturnus vulgaris	27813	species	1	48.0944453	-105.6399581	Traveling	1	0
 S111672337	2022-05-28	L19360113	Wolf Point, Montana	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	1	48.0944453	-105.6399581	Traveling	1	0
 S111672337	2022-05-28	L19360113	Wolf Point, Montana	Rock Pigeon	Columba livia	1868	domestic	5	48.0944453	-105.6399581	Traveling	1	0
 S111672337	2022-05-28	L19360113	Wolf Point, Montana	House Sparrow	Passer domesticus	31534	species	10	48.0944453	-105.6399581	Traveling	1	0
@@ -47,22 +47,22 @@ S120122933	2022-10-07	L17585852	Wolf Point (town)	Yellow-rumped Warbler	Setophag
 S120122933	2022-10-07	L17585852	Wolf Point (town)	American Robin	Turdus migratorius	28633	species	25	48.0903000	-105.6408000	Traveling	1	0
 S120109315	2022-10-06	L17585852	Wolf Point (town)	American Robin	Turdus migratorius	28633	species	2	48.0903000	-105.6408000	Traveling	1	0
 S149756334	2023-09-12	L17585852	Wolf Point (town)	American Robin	Turdus migratorius	28633	species	4	48.0903000	-105.6408000	Stationary	1	0
-S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	48.0953808	-105.6348753	Traveling	1	0
 S149756334	2023-09-12	L17585852	Wolf Point (town)	Mourning Dove	Zenaida macroura	2412	species	2	48.0903000	-105.6408000	Stationary	1	0
 S149756334	2023-09-12	L17585852	Wolf Point (town)	House Sparrow	Passer domesticus	31534	species	15	48.0903000	-105.6408000	Stationary	1	0
-S149756334	2023-09-12	L17585852	Wolf Point (town)	House Finch	Haemorhous mexicanus	32310	species	2	48.0903000	-105.6408000	Stationary	1	0
+S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	48.0953808	-105.6348753	Traveling	1	0
 S149756334	2023-09-12	L17585852	Wolf Point (town)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	1	48.0903000	-105.6408000	Stationary	1	0
+S149756334	2023-09-12	L17585852	Wolf Point (town)	House Finch	Haemorhous mexicanus	32310	species	2	48.0903000	-105.6408000	Stationary	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Northern Flicker	Colaptes auratus	11900	species	1	48.0953808	-105.6348753	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Pine Siskin	Spinus pinus	32595	species	1	48.0953808	-105.6348753	Traveling	1	0
 S149893991	2023-09-13	L17585852	Wolf Point (town)	Red Crossbill	Loxia curvirostra	32498	species	1	48.0903000	-105.6408000	Traveling	1	0
 S149756334	2023-09-12	L17585852	Wolf Point (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	48.0903000	-105.6408000	Stationary	1	0
-S149893991	2023-09-13	L17585852	Wolf Point (town)	Mourning Dove	Zenaida macroura	2412	species	22	48.0903000	-105.6408000	Traveling	1	0
-S149893991	2023-09-13	L17585852	Wolf Point (town)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	48.0903000	-105.6408000	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.0953808	-105.6348753	Traveling	1	0
-S149893991	2023-09-13	L17585852	Wolf Point (town)	Rock Pigeon	Columba livia	1868	domestic	35	48.0903000	-105.6408000	Traveling	1	0
-S149756455	2023-09-12	L15169418	Wolf Point--Nellies Park	Chipping Sparrow	Spizella passerina	32990	species	1	48.0953808	-105.6348753	Traveling	1	0
-S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	48.0953808	-105.6348753	Traveling	1	0
+S149893991	2023-09-13	L17585852	Wolf Point (town)	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	3	48.0903000	-105.6408000	Traveling	1	0
+S149893991	2023-09-13	L17585852	Wolf Point (town)	Mourning Dove	Zenaida macroura	2412	species	22	48.0903000	-105.6408000	Traveling	1	0
 S149893991	2023-09-13	L17585852	Wolf Point (town)	Chipping Sparrow	Spizella passerina	32990	species	1	48.0903000	-105.6408000	Traveling	1	0
+S149893991	2023-09-13	L17585852	Wolf Point (town)	Rock Pigeon	Columba livia	1868	domestic	35	48.0903000	-105.6408000	Traveling	1	0
+S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Northern Yellow Warbler	Setophaga aestiva	34087	species	2	48.0953808	-105.6348753	Traveling	1	0
+S149756455	2023-09-12	L15169418	Wolf Point--Nellies Park	Chipping Sparrow	Spizella passerina	32990	species	1	48.0953808	-105.6348753	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Least Flycatcher	Empidonax minimus	16963	species	1	48.0953808	-105.6348753	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Chipping Sparrow	Spizella passerina	32990	species	2	48.0953808	-105.6348753	Traveling	1	0
 S149756455	2023-09-12	L15169418	Wolf Point--Nellies Park	Hooded Merganser	Lophodytes cucullatus	754	species	1	48.0953808	-105.6348753	Traveling	1	0
@@ -70,36 +70,36 @@ S149893991	2023-09-13	L17585852	Wolf Point (town)	American Robin	Turdus migrator
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	House Finch	Haemorhous mexicanus	32310	species	3	48.0953808	-105.6348753	Traveling	1	0
 S149756334	2023-09-12	L17585852	Wolf Point (town)	Rock Pigeon	Columba livia	1868	domestic	6	48.0903000	-105.6408000	Stationary	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Red-winged Blackbird	Agelaius phoeniceus	33779	species	535	48.0953808	-105.6348753	Traveling	1	1
-S149756455	2023-09-12	L15169418	Wolf Point--Nellies Park	Rock Pigeon	Columba livia	1868	domestic	1	48.0953808	-105.6348753	Traveling	1	0
-S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	5	48.0953808	-105.6348753	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Common Grackle	Quiscalus quiscula	33853	species	3	48.0953808	-105.6348753	Traveling	1	0
+S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	5	48.0953808	-105.6348753	Traveling	1	0
+S149756455	2023-09-12	L15169418	Wolf Point--Nellies Park	Rock Pigeon	Columba livia	1868	domestic	1	48.0953808	-105.6348753	Traveling	1	0
 S149893991	2023-09-13	L17585852	Wolf Point (town)	Song Sparrow	Melospiza melodia	33277	species	1	48.0903000	-105.6408000	Traveling	1	0
 S149893991	2023-09-13	L17585852	Wolf Point (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	2	48.0903000	-105.6408000	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Rock Pigeon	Columba livia	1868	domestic	72	48.0953808	-105.6348753	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Mourning Dove	Zenaida macroura	2412	species	2	48.0953808	-105.6348753	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	Blue Jay	Cyanocitta cristata	21294	species	2	48.0953808	-105.6348753	Traveling	1	0
+S149893991	2023-09-13	L17585852	Wolf Point (town)	Blue Jay	Cyanocitta cristata	21294	species	1	48.0903000	-105.6408000	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	European Starling	Sturnus vulgaris	27813	species	10	48.0953808	-105.6348753	Traveling	1	0
 S149893991	2023-09-13	L17585852	Wolf Point (town)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	48.0903000	-105.6408000	Traveling	1	0
-S149893991	2023-09-13	L17585852	Wolf Point (town)	Blue Jay	Cyanocitta cristata	21294	species	1	48.0903000	-105.6408000	Traveling	1	0
 S149893991	2023-09-13	L17585852	Wolf Point (town)	House Sparrow	Passer domesticus	31534	species	9	48.0903000	-105.6408000	Traveling	1	0
-S149756455	2023-09-12	L15169418	Wolf Point--Nellies Park	American Robin	Turdus migratorius	28633	species	36	48.0953808	-105.6348753	Traveling	1	0
 S149894477	2023-09-13	L15169418	Wolf Point--Nellies Park	American Robin	Turdus migratorius	28633	species	34	48.0953808	-105.6348753	Traveling	1	0
-S149893991	2023-09-13	L17585852	Wolf Point (town)	Pine Siskin	Spinus pinus	32595	species	2	48.0903000	-105.6408000	Traveling	1	0
 S149893991	2023-09-13	L17585852	Wolf Point (town)	European Starling	Sturnus vulgaris	27813	species	6	48.0903000	-105.6408000	Traveling	1	0
+S149756455	2023-09-12	L15169418	Wolf Point--Nellies Park	American Robin	Turdus migratorius	28633	species	36	48.0953808	-105.6348753	Traveling	1	0
+S149893991	2023-09-13	L17585852	Wolf Point (town)	Pine Siskin	Spinus pinus	32595	species	2	48.0903000	-105.6408000	Traveling	1	0
 S172992902	2024-05-09	L17585852	Wolf Point (town)	Common Grackle	Quiscalus quiscula	33853	species	1	48.0903000	-105.6408000	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	Red-winged Blackbird	Agelaius phoeniceus	33779	species	1	48.0906520	-105.6359720	Traveling	1	0
 S172992902	2024-05-09	L17585852	Wolf Point (town)	House Sparrow	Passer domesticus	31534	species	5	48.0903000	-105.6408000	Traveling	1	0
 S172992902	2024-05-09	L17585852	Wolf Point (town)	Rock Pigeon	Columba livia	1868	domestic	2	48.0903000	-105.6408000	Traveling	1	0
 S172992902	2024-05-09	L17585852	Wolf Point (town)	Western Meadowlark	Sturnella neglecta	33565	species	1	48.0903000	-105.6408000	Traveling	1	0
-S173897788	2024-05-12	L31649671	Sherman hotel	European Starling	Sturnus vulgaris	27813	species	1	48.0906520	-105.6359720	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	Mourning Dove	Zenaida macroura	2412	species	2	48.0906520	-105.6359720	Traveling	1	0
+S173897788	2024-05-12	L31649671	Sherman hotel	European Starling	Sturnus vulgaris	27813	species	1	48.0906520	-105.6359720	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	Clay-colored Sparrow	Spizella pallida	32996	species	2	48.0906520	-105.6359720	Traveling	1	0
 S172992902	2024-05-09	L17585852	Wolf Point (town)	American Robin	Turdus migratorius	28633	species	2	48.0903000	-105.6408000	Traveling	1	0
-S172992902	2024-05-09	L17585852	Wolf Point (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.0903000	-105.6408000	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	Common Grackle	Quiscalus quiscula	33853	species	4	48.0906520	-105.6359720	Traveling	1	0
+S172992902	2024-05-09	L17585852	Wolf Point (town)	Red-winged Blackbird	Agelaius phoeniceus	33779	species	4	48.0903000	-105.6408000	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	House Sparrow	Passer domesticus	31534	species	2	48.0906520	-105.6359720	Traveling	1	0
-S173897788	2024-05-12	L31649671	Sherman hotel	Western Kingbird	Tyrannus verticalis	17467	species	1	48.0906520	-105.6359720	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	American Kestrel	Falco sparverius	12028	species	1	48.0906520	-105.6359720	Traveling	1	0
+S173897788	2024-05-12	L31649671	Sherman hotel	Western Kingbird	Tyrannus verticalis	17467	species	1	48.0906520	-105.6359720	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	Western Meadowlark	Sturnella neglecta	33565	species	2	48.0906520	-105.6359720	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	American Robin	Turdus migratorius	28633	species	1	48.0906520	-105.6359720	Traveling	1	0
 S173897788	2024-05-12	L31649671	Sherman hotel	Rock Pigeon	Columba livia	1868	domestic	25	48.0906520	-105.6359720	Traveling	1	0

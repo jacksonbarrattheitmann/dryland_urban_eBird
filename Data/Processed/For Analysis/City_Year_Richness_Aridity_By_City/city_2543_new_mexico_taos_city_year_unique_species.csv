@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2543,"Taos, NM",Taos,New Mexico,Taos,2015,41539066.0893778,113,1917,city_2543_new_mexico_taos,522.3812570571899,8.697916666666668,27.937939096094837,dry subhumid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2016,41539066.0893778,131,3055,city_2543_new_mexico_taos,340.46874713897705,9.046875,17.875307478994692,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2017,41539066.0893778,139,5330,city_2543_new_mexico_taos,384.33124923706055,9.247395833333334,19.96796099405104,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2018,41539066.0893778,157,4914,city_2543_new_mexico_taos,338.10624980926514,8.8203125,17.964964705515126,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2019,41539066.0893778,145,3048,city_2543_new_mexico_taos,347.1687488555908,8.127604166666668,19.1513862319418,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2020,41539066.0893778,151,3853,city_2543_new_mexico_taos,251.18124914169312,9.109375,13.144398973890729,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2021,41539066.0893778,158,7142,city_2543_new_mexico_taos,302.86874437332153,8.8828125,16.03938737268728,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2022,41539066.0893778,175,9138,city_2543_new_mexico_taos,316.89999532699585,8.544270833333332,17.088835585671454,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2023,41539066.0893778,177,13402,city_2543_new_mexico_taos,319.3937530517578,8.984375,16.82403308256173,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2024,41539066.0893778,171,13141,city_2543_new_mexico_taos,361.2562475204468,9.6484375,18.38600384994719,semiarid,12
-2543,"Taos, NM",Taos,New Mexico,Taos,2025,41539066.0893778,176,12672,city_2543_new_mexico_taos,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2543,2015,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,113,1918,city_2543_new_mexico_taos,522.38125705719,8.69791666666667,27.9379390960948,dry subhumid,12
+2543,2016,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,131,3055,city_2543_new_mexico_taos,340.468747138977,9.046875,17.8753074789947,semiarid,12
+2543,2017,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,139,5330,city_2543_new_mexico_taos,384.331249237061,9.24739583333333,19.967960994051,semiarid,12
+2543,2018,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,157,4914,city_2543_new_mexico_taos,338.106249809265,8.8203125,17.9649647055151,semiarid,12
+2543,2019,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,145,3048,city_2543_new_mexico_taos,347.168748855591,8.12760416666667,19.1513862319418,semiarid,12
+2543,2020,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,151,3854,city_2543_new_mexico_taos,251.181249141693,9.109375,13.1443989738907,semiarid,12
+2543,2021,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,158,7142,city_2543_new_mexico_taos,302.868744373322,8.8828125,16.0393873726873,semiarid,12
+2543,2022,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,175,9138,city_2543_new_mexico_taos,316.899995326996,8.54427083333333,17.0888355856715,semiarid,12
+2543,2023,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,177,13401,city_2543_new_mexico_taos,319.393753051758,8.984375,16.8240330825617,semiarid,12
+2543,2024,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,171,13122,city_2543_new_mexico_taos,361.256247520447,9.6484375,18.3860038499472,semiarid,12
+2543,2025,"Taos, NM",Taos,New Mexico,Taos,99.9999999999798,176,12657,city_2543_new_mexico_taos,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-51,"Alpine, TX",Alpine,Texas,Brewster,2015,10924892.6386317,25,38,city_0051_texas_alpine,491.4124994277954,16.96875,18.221552701841777,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2016,10924892.6386317,47,161,city_0051_texas_alpine,442.6187562942505,17.614583333333332,16.028442325253884,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2017,10924892.6386317,64,188,city_0051_texas_alpine,425.9625058174134,17.763020833333332,15.342801072496645,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2018,10924892.6386317,99,692,city_0051_texas_alpine,422.9812502861023,17.169270833333332,15.568369607003095,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2019,10924892.6386317,93,651,city_0051_texas_alpine,375.2812504768371,17.2734375,13.759954185343783,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2020,10924892.6386317,134,1552,city_0051_texas_alpine,221.7062516212463,17.9140625,7.94245737685965,arid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2021,10924892.6386317,96,867,city_0051_texas_alpine,439.3750009536743,17.236979166666668,16.131561369749587,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2022,10924892.6386317,126,1935,city_0051_texas_alpine,369.193749666214,17.59375,13.379614936940936,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2023,10924892.6386317,159,4474,city_0051_texas_alpine,284.1249988079071,18.380208333333332,10.011378192534073,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2024,10924892.6386317,150,3752,city_0051_texas_alpine,327.9874951839447,18.661458333333332,11.443503375489255,semiarid,12
-51,"Alpine, TX",Alpine,Texas,Brewster,2025,10924892.6386317,150,3926,city_0051_texas_alpine,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+51,2015,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,25,38,city_0051_texas_alpine,491.412499427795,16.96875,18.2215527018418,semiarid,12
+51,2016,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,47,161,city_0051_texas_alpine,442.61875629425,17.6145833333333,16.0284423252539,semiarid,12
+51,2017,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,64,188,city_0051_texas_alpine,425.962505817413,17.7630208333333,15.3428010724966,semiarid,12
+51,2018,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,99,692,city_0051_texas_alpine,422.981250286102,17.1692708333333,15.5683696070031,semiarid,12
+51,2019,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,93,651,city_0051_texas_alpine,375.281250476837,17.2734375,13.7599541853438,semiarid,12
+51,2020,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,134,1552,city_0051_texas_alpine,221.706251621246,17.9140625,7.94245737685965,arid,12
+51,2021,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,96,867,city_0051_texas_alpine,439.375000953674,17.2369791666667,16.1315613697496,semiarid,12
+51,2022,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,126,1935,city_0051_texas_alpine,369.193749666214,17.59375,13.3796149369409,semiarid,12
+51,2023,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,159,4474,city_0051_texas_alpine,284.124998807907,18.3802083333333,10.0113781925341,semiarid,12
+51,2024,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,150,3752,city_0051_texas_alpine,327.987495183945,18.6614583333333,11.4435033754893,semiarid,12
+51,2025,"Alpine, TX",Alpine,Texas,Brewster,99.9999999999977,150,3926,city_0051_texas_alpine,,,,,

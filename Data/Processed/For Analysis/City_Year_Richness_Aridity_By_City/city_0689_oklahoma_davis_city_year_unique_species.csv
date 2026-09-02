@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-689,"Davis, OK",Davis,Oklahoma,Murray,2015,4423986.64230801,20,25,city_0689_oklahoma_davis,1199.0437469482422,17.3046875,43.91347628308298,humid,12
-689,"Davis, OK",Davis,Oklahoma,Murray,2018,4423986.64230801,21,33,city_0689_oklahoma_davis,1080.8749952316284,17.005208333333332,40.024686419377566,humid,12
-689,"Davis, OK",Davis,Oklahoma,Murray,2019,4423986.64230801,57,566,city_0689_oklahoma_davis,1215.012523651123,16.776041666666668,45.37685363567703,humid,12
-689,"Davis, OK",Davis,Oklahoma,Murray,2020,4423986.64230801,49,282,city_0689_oklahoma_davis,1086.5250091552734,17.192708333333332,39.956483768973854,humid,12
-689,"Davis, OK",Davis,Oklahoma,Murray,2021,4423986.64230801,47,146,city_0689_oklahoma_davis,941.4749908447266,17.1171875,34.718755064282625,humid,12
-689,"Davis, OK",Davis,Oklahoma,Murray,2022,4423986.64230801,83,482,city_0689_oklahoma_davis,851.737491607666,17.278645833333332,31.223598737693916,humid,12
-689,"Davis, OK",Davis,Oklahoma,Murray,2023,4423986.64230801,38,90,city_0689_oklahoma_davis,968.1625022888184,17.955729166666668,34.63198890348451,humid,12
-689,"Davis, OK",Davis,Oklahoma,Murray,2024,4423986.64230801,7,7,city_0689_oklahoma_davis,949.5312461853028,18.5546875,33.253077841783515,humid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+689,2015,"Davis, OK",Davis,Oklahoma,Murray,100,20,25,city_0689_oklahoma_davis,1199.04374694824,17.3046875,43.913476283083,humid,12
+689,2018,"Davis, OK",Davis,Oklahoma,Murray,100,21,33,city_0689_oklahoma_davis,1080.87499523163,17.0052083333333,40.0246864193776,humid,12
+689,2019,"Davis, OK",Davis,Oklahoma,Murray,100,57,566,city_0689_oklahoma_davis,1215.01252365112,16.7760416666667,45.376853635677,humid,12
+689,2020,"Davis, OK",Davis,Oklahoma,Murray,100,49,282,city_0689_oklahoma_davis,1086.52500915527,17.1927083333333,39.9564837689739,humid,12
+689,2021,"Davis, OK",Davis,Oklahoma,Murray,100,47,146,city_0689_oklahoma_davis,941.474990844727,17.1171875,34.7187550642826,humid,12
+689,2022,"Davis, OK",Davis,Oklahoma,Murray,100,83,482,city_0689_oklahoma_davis,851.737491607666,17.2786458333333,31.2235987376939,humid,12
+689,2023,"Davis, OK",Davis,Oklahoma,Murray,100,38,90,city_0689_oklahoma_davis,968.162502288818,17.9557291666667,34.6319889034845,humid,12
+689,2024,"Davis, OK",Davis,Oklahoma,Murray,100,7,7,city_0689_oklahoma_davis,949.531246185303,18.5546875,33.2530778417835,humid,12

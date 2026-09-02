@@ -1,101 +1,102 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24643320,L3284526,"Anna, 100-312 5th Street",2015-08-16,2015,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,45,1.609,1,33.34801,-96.5465,5,5,city_0076_texas_anna
-S24313548,L3800163,"Anna, 214 South Easton Street",2015-07-19,2015,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,1.609,1,33.34764,-96.54642,9,9,city_0076_texas_anna
-S21725201,L3284526,"Anna, 100-312 5th Street",2015-02-08,2015,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,30,1.609,1,33.34801,-96.5465,7,7,city_0076_texas_anna
-S21405728,L3284526,"Anna, 100-312 5th Street",2015-01-18,2015,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,30,2.414,1,33.34801,-96.5465,4,4,city_0076_texas_anna
-S21186271,L3265068,"Anna, TX",2015-01-04,2015,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,60,2.414,1,33.3452192,-96.5454966,5,5,city_0076_texas_anna
-S27432489,L4238269,My Backyard,2016-02-10,2016,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,20,,1,33.354894,-96.558159,1,1,city_0076_texas_anna
-S37981236,L6055882,2513 Thousand Oaks Drive,2017-07-04,2017,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,10,,1,33.3759948,-96.5628998,3,3,city_0076_texas_anna
-S57707536,L6945414,Home,2019-06-26,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,105,,1,33.3511452,-96.5728411,8,8,city_0076_texas_anna
-S54139404,L6945414,Home,2019-03-23,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,45,,1,33.3511452,-96.5728411,11,11,city_0076_texas_anna
-S62588537,L3284526,"Anna, 100-312 5th Street",2019-12-24,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,1.69,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S62539656,L3265068,"Anna, TX",2019-12-22,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,60,1.835,1,33.3452192,-96.5454966,8,8,city_0076_texas_anna
-S52516325,L6945414,Home,2019-02-09,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,70,,1,33.3511452,-96.5728411,10,10,city_0076_texas_anna
-S57322671,L6945414,Home,2019-06-11,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,15,,1,33.3511452,-96.5728411,2,2,city_0076_texas_anna
-S62645636,L3284526,"Anna, 100-312 5th Street",2019-12-26,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,45,1.078,1,33.34801,-96.5465,6,6,city_0076_texas_anna
-S53611587,L8814085,"789 West Jefferson Street, Van Alstyne, Texas, US (33.422, -96.587)",2019-03-08,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,53,7.902,1,33.4215073,-96.5868422,2,2,city_0076_texas_anna
-S52002978,L6945414,Home,2019-01-24,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,240,,1,33.3511452,-96.5728411,5,5,city_0076_texas_anna
-S57708963,L6945414,Home,2019-06-26,2019,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,15,,1,33.3511452,-96.5728411,5,5,city_0076_texas_anna
-S67245482,L3284526,"Anna, 100-312 5th Street",2020-04-15,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,49,1.963,1,33.34801,-96.5465,6,6,city_0076_texas_anna
-S66647029,L3284526,"Anna, 100-312 5th Street",2020-04-04,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,53,1.786,1,33.34801,-96.5465,13,13,city_0076_texas_anna
-S67589005,L3284526,"Anna, 100-312 5th Street",2020-04-21,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,19,0.624,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S74368878,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-10-03,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,34,1.304,1,33.34784,-96.5471968,2,2,city_0076_texas_anna
-S72734238,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-08-23,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,36,1.497,1,33.34784,-96.5471968,8,8,city_0076_texas_anna
-S65826630,L3284526,"Anna, 100-312 5th Street",2020-03-15,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,45,0.998,1,33.34801,-96.5465,10,10,city_0076_texas_anna
-S63327851,L3284526,"Anna, 100-312 5th Street",2020-01-12,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,34,1.368,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S66049377,L3284526,"Anna, 100-312 5th Street",2020-03-21,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,55,1.4,1,33.34801,-96.5465,16,16,city_0076_texas_anna
-S70432782,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-06-14,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,24,0.837,1,33.34784,-96.5471968,5,5,city_0076_texas_anna
-S64067682,L3284526,"Anna, 100-312 5th Street",2020-02-02,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,30,1.609,1,33.34801,-96.5465,5,5,city_0076_texas_anna
-S65845109,L3284526,"Anna, 100-312 5th Street",2020-03-15,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,27,1.287,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S66366435,L3284526,"Anna, 100-312 5th Street",2020-03-29,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,44,1.448,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S71931080,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-07-29,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,41,1.143,1,33.34784,-96.5471968,10,10,city_0076_texas_anna
-S62873895,L3265068,"Anna, TX",2020-01-01,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,30,0.805,1,33.3452192,-96.5454966,4,4,city_0076_texas_anna
-S64609271,L3284526,"Anna, 100-312 5th Street",2020-02-16,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,24,0.38,1,33.34801,-96.5465,8,8,city_0076_texas_anna
-S63563170,L3284526,"Anna, 100-312 5th Street",2020-01-19,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,1.352,1,33.34801,-96.5465,5,5,city_0076_texas_anna
-S64296177,L3284526,"Anna, 100-312 5th Street",2020-02-09,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,1.69,1,33.34801,-96.5465,4,4,city_0076_texas_anna
-S73012198,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-08-30,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,21,0.821,1,33.34784,-96.5471968,5,5,city_0076_texas_anna
-S66842509,L3284526,"Anna, 100-312 5th Street",2020-04-08,2020,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,41,1.014,1,33.34801,-96.5465,7,7,city_0076_texas_anna
-S87081348,L13433251,"2000 Hanakoa Falls Drive, Anna, Texas, US (33.351, -96.573)",2021-05-04,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,30,,1,33.351047,-96.5727194,7,7,city_0076_texas_anna
-S91294309,L3284526,"Anna, 100-312 5th Street",2021-07-05,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,46,1.497,1,33.34801,-96.5465,12,12,city_0076_texas_anna
-S78522411,L3284526,"Anna, 100-312 5th Street",2021-01-02,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,48,1.4,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S98033125,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2021-11-21,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,14,,1,33.34784,-96.5471968,6,6,city_0076_texas_anna
-S89734851,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2021-06-06,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,11,0.354,1,33.34784,-96.5471968,3,3,city_0076_texas_anna
-S80887657,L6945414,Home,2021-02-12,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,18,,1,33.3511452,-96.5728411,6,6,city_0076_texas_anna
-S79025375,L3284526,"Anna, 100-312 5th Street",2021-01-10,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,25,0.839,1,33.34801,-96.5465,7,7,city_0076_texas_anna
-S98217566,L3800163,"Anna, 214 South Easton Street",2021-11-28,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,41,2.028,1,33.34764,-96.54642,3,3,city_0076_texas_anna
-S83461238,L13433251,"2000 Hanakoa Falls Drive, Anna, Texas, US (33.351, -96.573)",2021-03-15,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,0.078,1,33.351047,-96.5727194,5,5,city_0076_texas_anna
-S81775001,L3284526,"Anna, 100-312 5th Street",2021-02-16,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,40,2.35,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S95560907,L3284526,"Anna, 100-312 5th Street",2021-10-03,2021,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,1.161,1,33.34801,-96.5465,3,3,city_0076_texas_anna
-S124546031,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2022-12-24,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,39,0.982,1,33.34784,-96.5471968,11,11,city_0076_texas_anna
-S101314867,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2022-01-23,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,46,1.545,1,33.34784,-96.5471968,6,6,city_0076_texas_anna
-S107228567,L17641329,Backyard Van Alstyne,2022-04-16,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,6,,1,33.4095679,-96.5769637,8,8,city_0076_texas_anna
-S121674591,L18610415,Van Alstyne,2022-11-01,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,57,1.59,1,33.420801,-96.573854,12,12,city_0076_texas_anna
-S101908472,L3800163,"Anna, 214 South Easton Street",2022-02-02,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,1.159,1,33.34764,-96.54642,7,7,city_0076_texas_anna
-S104504886,L3284526,"Anna, 100-312 5th Street",2022-03-09,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,15,1.352,1,33.34801,-96.5465,3,3,city_0076_texas_anna
-S121883722,L18610415,Van Alstyne,2022-11-05,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,54,1.302,1,33.420801,-96.573854,13,13,city_0076_texas_anna
-S121601886,L18610415,Van Alstyne,2022-10-30,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,59,2.474,1,33.420801,-96.573854,9,9,city_0076_texas_anna
-S108204272,L18610415,Van Alstyne,2022-04-27,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,24,0.99,1,33.420801,-96.573854,5,5,city_0076_texas_anna
-S103640051,L3284526,"Anna, 100-312 5th Street",2022-02-24,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,28,1.03,1,33.34801,-96.5465,5,5,city_0076_texas_anna
-S102160255,L3800163,"Anna, 214 South Easton Street",2022-02-06,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,23,1.062,1,33.34764,-96.54642,2,2,city_0076_texas_anna
-S106026105,L3800163,"Anna, 214 South Easton Street",2022-04-01,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,28,1.432,1,33.34764,-96.54642,5,5,city_0076_texas_anna
-S120736189,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2022-10-15,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,11,0.559,1,33.34784,-96.5471968,7,7,city_0076_texas_anna
-S100291593,L3284526,"Anna, 100-312 5th Street",2022-01-07,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,29,1.304,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S102441019,L3800163,"Anna, 214 South Easton Street",2022-02-11,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,24,1.3,1,33.34764,-96.54642,2,2,city_0076_texas_anna
-S104876618,L6945414,Home,2022-03-15,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,15,,1,33.3511452,-96.5728411,11,11,city_0076_texas_anna
-S100983652,L6945414,Home,2022-01-18,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,23,,1,33.3511452,-96.5728411,5,5,city_0076_texas_anna
-S122459120,L6945414,Home,2022-11-15,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,17,,1,33.3511452,-96.5728411,6,6,city_0076_texas_anna
-S103659438,L17641329,Backyard Van Alstyne,2022-02-24,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,10,,1,33.4095679,-96.5769637,3,3,city_0076_texas_anna
-S104458807,L17641329,Backyard Van Alstyne,2022-03-08,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,196,4.554,1,33.4095679,-96.5769637,2,2,city_0076_texas_anna
-S102009343,L17641329,Backyard Van Alstyne,2022-02-03,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,60,,1,33.4095679,-96.5769637,3,3,city_0076_texas_anna
-S105014976,L6945414,Home,2022-03-17,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,15,,1,33.3511452,-96.5728411,5,5,city_0076_texas_anna
-S102009289,L17641329,Backyard Van Alstyne,2022-02-04,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,5,,1,33.4095679,-96.5769637,2,2,city_0076_texas_anna
-S121050237,L21304049,"North 75 Nb, Anna, Texas, US (33.343, -96.586)",2022-10-21,2022,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,6,12.74,1,33.3425156,-96.5862001,2,2,city_0076_texas_anna
-S126750732,L3284526,"Anna, 100-312 5th Street",2023-01-22,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,44,1.786,1,33.34801,-96.5465,8,8,city_0076_texas_anna
-S153849365,L3284526,"Anna, 100-312 5th Street",2023-11-05,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,1.159,1,33.34801,-96.5465,6,6,city_0076_texas_anna
-S127227992,L3284526,"Anna, 100-312 5th Street",2023-01-29,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,35,1.465,1,33.34801,-96.5465,9,9,city_0076_texas_anna
-S127325411,L6945414,Home,2023-01-31,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,25,,1,33.3511452,-96.5728411,8,8,city_0076_texas_anna
-S131680937,L6945414,Home,2023-03-24,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,13,,1,33.3511452,-96.5728411,7,7,city_0076_texas_anna
-S126161476,L18610415,Van Alstyne,2023-01-14,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,23,1.11,1,33.420801,-96.573854,5,5,city_0076_texas_anna
-S126851922,L6945414,Home,2023-01-24,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,14,,1,33.3511452,-96.5728411,6,6,city_0076_texas_anna
-S141218593,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2023-06-11,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,28,1.191,1,33.34784,-96.5471968,8,8,city_0076_texas_anna
-S131462186,L23155682,"255 S Main Dr, Van Alstyne US-TX 33.42091, -96.57381",2023-03-21,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,61,0.179,1,33.420906,-96.573814,16,16,city_0076_texas_anna
-S142066470,L3284526,"Anna, 100-312 5th Street",2023-06-19,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,23,1.143,1,33.34801,-96.5465,7,7,city_0076_texas_anna
-S143339469,L3284526,"Anna, 100-312 5th Street",2023-07-02,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,32,1.163,1,33.34801,-96.5465,8,8,city_0076_texas_anna
-S133341596,L22272589,Slayter Creek Trail,2023-04-10,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,40,3.258,1,33.356253,-96.554372,6,6,city_0076_texas_anna
-S127342343,L6945414,Home,2023-01-31,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,,1,33.3511452,-96.5728411,5,5,city_0076_texas_anna
-S127221494,L17641329,Backyard Van Alstyne,2023-01-29,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,13,,1,33.4095679,-96.5769637,6,6,city_0076_texas_anna
-S125733227,L3284526,"Anna, 100-312 5th Street",2023-01-08,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,36,0.72,1,33.34801,-96.5465,5,5,city_0076_texas_anna
-S126620142,L6945414,Home,2023-01-21,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,34,,1,33.3511452,-96.5728411,7,7,city_0076_texas_anna
-S125326630,L6945414,Home,2023-01-03,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,7,,1,33.3511452,-96.5728411,3,3,city_0076_texas_anna
-S151206376,L3284526,"Anna, 100-312 5th Street",2023-10-01,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,31,1.014,1,33.34801,-96.5465,8,8,city_0076_texas_anna
-S127342704,L6945414,Home,2023-01-31,2023,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,33,,1,33.3511452,-96.5728411,5,5,city_0076_texas_anna
-S164720890,L29838109,"314–596 N Bamborough Dr, Anna US-TX (33.3529,-96.5551)",2024-03-13,2024,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,7,,1,33.352903,-96.555141,2,2,city_0076_texas_anna
-S202092173,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2024-11-10,2024,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,34,1.432,1,33.34784,-96.5471968,5,5,city_0076_texas_anna
-S191707530,L35826864,"1216 Birdsong Trail, Anna, Texas, US (33.361, -96.555)",2024-04-13,2024,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,45,1.239,1,33.360986,-96.5551647,7,7,city_0076_texas_anna
-S192794474,L3284526,"Anna, 100-312 5th Street",2024-08-25,2024,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,29,1.384,1,33.34801,-96.5465,4,4,city_0076_texas_anna
-S197841842,L3284526,"Anna, 100-312 5th Street",2024-10-06,2024,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,13,0.714,1,33.34801,-96.5465,4,4,city_0076_texas_anna
-S211377764,L39846802,Greenbelt,2025-01-31,2025,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,14,0.475,1,33.3584128,-96.5553469,10,10,city_0076_texas_anna
-S225333156,L39846802,Greenbelt,2025-04-11,2025,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,29,0.167,1,33.3584128,-96.5553469,10,10,city_0076_texas_anna
-S270255431,L52181303,Johnson Park,2025-08-29,2025,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,50,0.131,1,33.351947,-96.547909,7,7,city_0076_texas_anna
-S211377463,L39846802,Greenbelt,2025-01-30,2025,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,29,0.29,1,33.3584128,-96.5553469,10,10,city_0076_texas_anna
-S228727401,L30458046,"1132 Foxtail Dr, Anna, Texas, US (33.353, -96.562)",2025-04-08,2025,76,"Anna, TX",Anna,Texas,Collin,18151046.4711148,40,0.805,1,33.3534165,-96.5622019,4,4,city_0076_texas_anna
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21186271,L3265068,"Anna, TX",2015-01-04,2015,76,"Anna, TX",Anna,Texas,Collin,100,60,2.414,1,Traveling,33.3452192,-96.5454966,5,5,city_0076_texas_anna
+S21405728,L3284526,"Anna, 100-312 5th Street",2015-01-18,2015,76,"Anna, TX",Anna,Texas,Collin,100,30,2.414,1,Traveling,33.34801,-96.5465,4,4,city_0076_texas_anna
+S21725201,L3284526,"Anna, 100-312 5th Street",2015-02-08,2015,76,"Anna, TX",Anna,Texas,Collin,100,30,1.609,1,Traveling,33.34801,-96.5465,7,7,city_0076_texas_anna
+S24313548,L3800163,"Anna, 214 South Easton Street",2015-07-19,2015,76,"Anna, TX",Anna,Texas,Collin,100,33,1.609,1,Traveling,33.34764,-96.54642,9,9,city_0076_texas_anna
+S24643320,L3284526,"Anna, 100-312 5th Street",2015-08-16,2015,76,"Anna, TX",Anna,Texas,Collin,100,45,1.609,1,Traveling,33.34801,-96.5465,5,5,city_0076_texas_anna
+S27432489,L4238269,My Backyard,2016-02-10,2016,76,"Anna, TX",Anna,Texas,Collin,100,20,,1,Stationary,33.354894,-96.558159,1,1,city_0076_texas_anna
+S37981236,L6055882,2513 Thousand Oaks Drive,2017-07-04,2017,76,"Anna, TX",Anna,Texas,Collin,100,10,,1,Stationary,33.3759948,-96.5628998,3,3,city_0076_texas_anna
+S52002978,L6945414,Home,2019-01-24,2019,76,"Anna, TX",Anna,Texas,Collin,100,240,,1,Stationary,33.3511452,-96.5728411,5,5,city_0076_texas_anna
+S52516325,L6945414,Home,2019-02-09,2019,76,"Anna, TX",Anna,Texas,Collin,100,70,,1,Stationary,33.3511452,-96.5728411,10,10,city_0076_texas_anna
+S53611587,L8814085,"789 West Jefferson Street, Van Alstyne, Texas, US (33.422, -96.587)",2019-03-08,2019,76,"Anna, TX",Anna,Texas,Collin,100,53,7.902,1,Traveling,33.4215073,-96.5868422,2,2,city_0076_texas_anna
+S54139404,L6945414,Home,2019-03-23,2019,76,"Anna, TX",Anna,Texas,Collin,100,45,,1,Stationary,33.3511452,-96.5728411,11,11,city_0076_texas_anna
+S57322671,L6945414,Home,2019-06-11,2019,76,"Anna, TX",Anna,Texas,Collin,100,15,,1,Stationary,33.3511452,-96.5728411,2,2,city_0076_texas_anna
+S57707536,L6945414,Home,2019-06-26,2019,76,"Anna, TX",Anna,Texas,Collin,100,105,,1,Stationary,33.3511452,-96.5728411,8,8,city_0076_texas_anna
+S57708963,L6945414,Home,2019-06-26,2019,76,"Anna, TX",Anna,Texas,Collin,100,15,,1,Stationary,33.3511452,-96.5728411,5,5,city_0076_texas_anna
+S62539656,L3265068,"Anna, TX",2019-12-22,2019,76,"Anna, TX",Anna,Texas,Collin,100,60,1.835,1,Traveling,33.3452192,-96.5454966,8,8,city_0076_texas_anna
+S62588537,L3284526,"Anna, 100-312 5th Street",2019-12-24,2019,76,"Anna, TX",Anna,Texas,Collin,100,33,1.69,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S62645636,L3284526,"Anna, 100-312 5th Street",2019-12-26,2019,76,"Anna, TX",Anna,Texas,Collin,100,45,1.078,1,Traveling,33.34801,-96.5465,6,6,city_0076_texas_anna
+S62873895,L3265068,"Anna, TX",2020-01-01,2020,76,"Anna, TX",Anna,Texas,Collin,100,30,0.805,1,Traveling,33.3452192,-96.5454966,4,4,city_0076_texas_anna
+S63327851,L3284526,"Anna, 100-312 5th Street",2020-01-12,2020,76,"Anna, TX",Anna,Texas,Collin,100,34,1.368,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S63563170,L3284526,"Anna, 100-312 5th Street",2020-01-19,2020,76,"Anna, TX",Anna,Texas,Collin,100,33,1.352,1,Traveling,33.34801,-96.5465,5,5,city_0076_texas_anna
+S64067682,L3284526,"Anna, 100-312 5th Street",2020-02-02,2020,76,"Anna, TX",Anna,Texas,Collin,100,30,1.609,1,Traveling,33.34801,-96.5465,5,5,city_0076_texas_anna
+S64296177,L3284526,"Anna, 100-312 5th Street",2020-02-09,2020,76,"Anna, TX",Anna,Texas,Collin,100,33,1.69,1,Traveling,33.34801,-96.5465,4,4,city_0076_texas_anna
+S64543259,L10750907,San Carlos Dr.,2020-02-15,2020,76,"Anna, TX",Anna,Texas,Collin,100,120,,1,Stationary,33.4094012,-96.5723604,0,0,city_0076_texas_anna
+S64609271,L3284526,"Anna, 100-312 5th Street",2020-02-16,2020,76,"Anna, TX",Anna,Texas,Collin,100,24,0.38,1,Traveling,33.34801,-96.5465,8,8,city_0076_texas_anna
+S65845109,L3284526,"Anna, 100-312 5th Street",2020-03-15,2020,76,"Anna, TX",Anna,Texas,Collin,100,27,1.287,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S65826630,L3284526,"Anna, 100-312 5th Street",2020-03-15,2020,76,"Anna, TX",Anna,Texas,Collin,100,45,0.998,1,Traveling,33.34801,-96.5465,10,10,city_0076_texas_anna
+S66049377,L3284526,"Anna, 100-312 5th Street",2020-03-21,2020,76,"Anna, TX",Anna,Texas,Collin,100,55,1.4,1,Traveling,33.34801,-96.5465,16,16,city_0076_texas_anna
+S66366435,L3284526,"Anna, 100-312 5th Street",2020-03-29,2020,76,"Anna, TX",Anna,Texas,Collin,100,44,1.448,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S66647029,L3284526,"Anna, 100-312 5th Street",2020-04-04,2020,76,"Anna, TX",Anna,Texas,Collin,100,53,1.786,1,Traveling,33.34801,-96.5465,13,13,city_0076_texas_anna
+S66842509,L3284526,"Anna, 100-312 5th Street",2020-04-08,2020,76,"Anna, TX",Anna,Texas,Collin,100,41,1.014,1,Traveling,33.34801,-96.5465,7,7,city_0076_texas_anna
+S67245482,L3284526,"Anna, 100-312 5th Street",2020-04-15,2020,76,"Anna, TX",Anna,Texas,Collin,100,49,1.963,1,Traveling,33.34801,-96.5465,6,6,city_0076_texas_anna
+S67589005,L3284526,"Anna, 100-312 5th Street",2020-04-21,2020,76,"Anna, TX",Anna,Texas,Collin,100,19,0.624,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S70432782,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-06-14,2020,76,"Anna, TX",Anna,Texas,Collin,100,24,0.837,1,Traveling,33.34784,-96.5471968,5,5,city_0076_texas_anna
+S71931080,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-07-29,2020,76,"Anna, TX",Anna,Texas,Collin,100,41,1.143,1,Traveling,33.34784,-96.5471968,10,10,city_0076_texas_anna
+S72734238,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-08-23,2020,76,"Anna, TX",Anna,Texas,Collin,100,36,1.497,1,Traveling,33.34784,-96.5471968,8,8,city_0076_texas_anna
+S73012198,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-08-30,2020,76,"Anna, TX",Anna,Texas,Collin,100,21,0.821,1,Traveling,33.34784,-96.5471968,5,5,city_0076_texas_anna
+S74368878,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2020-10-03,2020,76,"Anna, TX",Anna,Texas,Collin,100,34,1.304,1,Traveling,33.34784,-96.5471968,2,2,city_0076_texas_anna
+S78522411,L3284526,"Anna, 100-312 5th Street",2021-01-02,2021,76,"Anna, TX",Anna,Texas,Collin,100,48,1.4,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S79025375,L3284526,"Anna, 100-312 5th Street",2021-01-10,2021,76,"Anna, TX",Anna,Texas,Collin,100,25,0.839,1,Traveling,33.34801,-96.5465,7,7,city_0076_texas_anna
+S80887657,L6945414,Home,2021-02-12,2021,76,"Anna, TX",Anna,Texas,Collin,100,18,,1,Stationary,33.3511452,-96.5728411,6,6,city_0076_texas_anna
+S81775001,L3284526,"Anna, 100-312 5th Street",2021-02-16,2021,76,"Anna, TX",Anna,Texas,Collin,100,40,2.35,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S83461238,L13433251,"2000 Hanakoa Falls Drive, Anna, Texas, US (33.351, -96.573)",2021-03-15,2021,76,"Anna, TX",Anna,Texas,Collin,100,33,0.078,1,Traveling,33.351047,-96.5727194,5,5,city_0076_texas_anna
+S87081348,L13433251,"2000 Hanakoa Falls Drive, Anna, Texas, US (33.351, -96.573)",2021-05-04,2021,76,"Anna, TX",Anna,Texas,Collin,100,30,,1,Stationary,33.351047,-96.5727194,7,7,city_0076_texas_anna
+S89734851,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2021-06-06,2021,76,"Anna, TX",Anna,Texas,Collin,100,11,0.354,1,Traveling,33.34784,-96.5471968,3,3,city_0076_texas_anna
+S91294309,L3284526,"Anna, 100-312 5th Street",2021-07-05,2021,76,"Anna, TX",Anna,Texas,Collin,100,46,1.497,1,Traveling,33.34801,-96.5465,12,12,city_0076_texas_anna
+S95560907,L3284526,"Anna, 100-312 5th Street",2021-10-03,2021,76,"Anna, TX",Anna,Texas,Collin,100,33,1.161,1,Traveling,33.34801,-96.5465,3,3,city_0076_texas_anna
+S98033125,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2021-11-21,2021,76,"Anna, TX",Anna,Texas,Collin,100,14,,1,Stationary,33.34784,-96.5471968,6,6,city_0076_texas_anna
+S98217566,L3800163,"Anna, 214 South Easton Street",2021-11-28,2021,76,"Anna, TX",Anna,Texas,Collin,100,41,2.028,1,Traveling,33.34764,-96.54642,3,3,city_0076_texas_anna
+S100291593,L3284526,"Anna, 100-312 5th Street",2022-01-07,2022,76,"Anna, TX",Anna,Texas,Collin,100,29,1.304,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S100983652,L6945414,Home,2022-01-18,2022,76,"Anna, TX",Anna,Texas,Collin,100,23,,1,Stationary,33.3511452,-96.5728411,5,5,city_0076_texas_anna
+S101314867,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2022-01-23,2022,76,"Anna, TX",Anna,Texas,Collin,100,46,1.545,1,Traveling,33.34784,-96.5471968,6,6,city_0076_texas_anna
+S101908472,L3800163,"Anna, 214 South Easton Street",2022-02-02,2022,76,"Anna, TX",Anna,Texas,Collin,100,33,1.159,1,Traveling,33.34764,-96.54642,7,7,city_0076_texas_anna
+S102009343,L17641329,Backyard Van Alstyne,2022-02-03,2022,76,"Anna, TX",Anna,Texas,Collin,100,60,,1,Stationary,33.4095679,-96.5769637,3,3,city_0076_texas_anna
+S102009289,L17641329,Backyard Van Alstyne,2022-02-04,2022,76,"Anna, TX",Anna,Texas,Collin,100,5,,1,Stationary,33.4095679,-96.5769637,2,2,city_0076_texas_anna
+S102160255,L3800163,"Anna, 214 South Easton Street",2022-02-06,2022,76,"Anna, TX",Anna,Texas,Collin,100,23,1.062,1,Traveling,33.34764,-96.54642,2,2,city_0076_texas_anna
+S102441019,L3800163,"Anna, 214 South Easton Street",2022-02-11,2022,76,"Anna, TX",Anna,Texas,Collin,100,24,1.3,1,Traveling,33.34764,-96.54642,2,2,city_0076_texas_anna
+S103659438,L17641329,Backyard Van Alstyne,2022-02-24,2022,76,"Anna, TX",Anna,Texas,Collin,100,10,,1,Stationary,33.4095679,-96.5769637,3,3,city_0076_texas_anna
+S103640051,L3284526,"Anna, 100-312 5th Street",2022-02-24,2022,76,"Anna, TX",Anna,Texas,Collin,100,28,1.03,1,Traveling,33.34801,-96.5465,5,5,city_0076_texas_anna
+S104458807,L17641329,Backyard Van Alstyne,2022-03-08,2022,76,"Anna, TX",Anna,Texas,Collin,100,196,4.554,1,Traveling,33.4095679,-96.5769637,2,2,city_0076_texas_anna
+S104504886,L3284526,"Anna, 100-312 5th Street",2022-03-09,2022,76,"Anna, TX",Anna,Texas,Collin,100,15,1.352,1,Traveling,33.34801,-96.5465,3,3,city_0076_texas_anna
+S104876618,L6945414,Home,2022-03-15,2022,76,"Anna, TX",Anna,Texas,Collin,100,15,,1,Stationary,33.3511452,-96.5728411,11,11,city_0076_texas_anna
+S105014976,L6945414,Home,2022-03-17,2022,76,"Anna, TX",Anna,Texas,Collin,100,15,,1,Stationary,33.3511452,-96.5728411,5,5,city_0076_texas_anna
+S106026105,L3800163,"Anna, 214 South Easton Street",2022-04-01,2022,76,"Anna, TX",Anna,Texas,Collin,100,28,1.432,1,Traveling,33.34764,-96.54642,5,5,city_0076_texas_anna
+S107228567,L17641329,Backyard Van Alstyne,2022-04-16,2022,76,"Anna, TX",Anna,Texas,Collin,100,6,,1,Stationary,33.4095679,-96.5769637,8,8,city_0076_texas_anna
+S108204272,L18610415,Van Alstyne,2022-04-27,2022,76,"Anna, TX",Anna,Texas,Collin,100,24,0.99,1,Traveling,33.420801,-96.573854,5,5,city_0076_texas_anna
+S120736189,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2022-10-15,2022,76,"Anna, TX",Anna,Texas,Collin,100,11,0.559,1,Traveling,33.34784,-96.5471968,7,7,city_0076_texas_anna
+S121050237,L21304049,"North 75 Nb, Anna, Texas, US (33.343, -96.586)",2022-10-21,2022,76,"Anna, TX",Anna,Texas,Collin,100,6,12.74,1,Traveling,33.3425156,-96.5862001,2,2,city_0076_texas_anna
+S121601886,L18610415,Van Alstyne,2022-10-30,2022,76,"Anna, TX",Anna,Texas,Collin,100,59,2.474,1,Traveling,33.420801,-96.573854,9,9,city_0076_texas_anna
+S121674591,L18610415,Van Alstyne,2022-11-01,2022,76,"Anna, TX",Anna,Texas,Collin,100,57,1.59,1,Traveling,33.420801,-96.573854,12,12,city_0076_texas_anna
+S121883722,L18610415,Van Alstyne,2022-11-05,2022,76,"Anna, TX",Anna,Texas,Collin,100,54,1.302,1,Traveling,33.420801,-96.573854,13,13,city_0076_texas_anna
+S122459120,L6945414,Home,2022-11-15,2022,76,"Anna, TX",Anna,Texas,Collin,100,17,,1,Stationary,33.3511452,-96.5728411,6,6,city_0076_texas_anna
+S124546031,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2022-12-24,2022,76,"Anna, TX",Anna,Texas,Collin,100,39,0.982,1,Traveling,33.34784,-96.5471968,11,11,city_0076_texas_anna
+S125326630,L6945414,Home,2023-01-03,2023,76,"Anna, TX",Anna,Texas,Collin,100,7,,1,Stationary,33.3511452,-96.5728411,3,3,city_0076_texas_anna
+S125733227,L3284526,"Anna, 100-312 5th Street",2023-01-08,2023,76,"Anna, TX",Anna,Texas,Collin,100,36,0.72,1,Traveling,33.34801,-96.5465,5,5,city_0076_texas_anna
+S126161476,L18610415,Van Alstyne,2023-01-14,2023,76,"Anna, TX",Anna,Texas,Collin,100,23,1.11,1,Traveling,33.420801,-96.573854,5,5,city_0076_texas_anna
+S126620142,L6945414,Home,2023-01-21,2023,76,"Anna, TX",Anna,Texas,Collin,100,34,,1,Stationary,33.3511452,-96.5728411,7,7,city_0076_texas_anna
+S126750732,L3284526,"Anna, 100-312 5th Street",2023-01-22,2023,76,"Anna, TX",Anna,Texas,Collin,100,44,1.786,1,Traveling,33.34801,-96.5465,8,8,city_0076_texas_anna
+S126851922,L6945414,Home,2023-01-24,2023,76,"Anna, TX",Anna,Texas,Collin,100,14,,1,Stationary,33.3511452,-96.5728411,6,6,city_0076_texas_anna
+S127221494,L17641329,Backyard Van Alstyne,2023-01-29,2023,76,"Anna, TX",Anna,Texas,Collin,100,13,,1,Stationary,33.4095679,-96.5769637,6,6,city_0076_texas_anna
+S127227992,L3284526,"Anna, 100-312 5th Street",2023-01-29,2023,76,"Anna, TX",Anna,Texas,Collin,100,35,1.465,1,Traveling,33.34801,-96.5465,9,9,city_0076_texas_anna
+S127342343,L6945414,Home,2023-01-31,2023,76,"Anna, TX",Anna,Texas,Collin,100,33,,1,Stationary,33.3511452,-96.5728411,5,5,city_0076_texas_anna
+S127325411,L6945414,Home,2023-01-31,2023,76,"Anna, TX",Anna,Texas,Collin,100,25,,1,Stationary,33.3511452,-96.5728411,8,8,city_0076_texas_anna
+S127342704,L6945414,Home,2023-01-31,2023,76,"Anna, TX",Anna,Texas,Collin,100,33,,1,Stationary,33.3511452,-96.5728411,5,5,city_0076_texas_anna
+S131462186,L23155682,"255 S Main Dr, Van Alstyne US-TX 33.42091, -96.57381",2023-03-21,2023,76,"Anna, TX",Anna,Texas,Collin,100,61,0.179,1,Traveling,33.420906,-96.573814,16,16,city_0076_texas_anna
+S131680937,L6945414,Home,2023-03-24,2023,76,"Anna, TX",Anna,Texas,Collin,100,13,,1,Stationary,33.3511452,-96.5728411,7,7,city_0076_texas_anna
+S133341596,L22272589,Slayter Creek Trail,2023-04-10,2023,76,"Anna, TX",Anna,Texas,Collin,100,40,3.258,1,Traveling,33.356253,-96.554372,6,6,city_0076_texas_anna
+S141218593,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2023-06-11,2023,76,"Anna, TX",Anna,Texas,Collin,100,28,1.191,1,Traveling,33.34784,-96.5471968,8,8,city_0076_texas_anna
+S142066470,L3284526,"Anna, 100-312 5th Street",2023-06-19,2023,76,"Anna, TX",Anna,Texas,Collin,100,23,1.143,1,Traveling,33.34801,-96.5465,7,7,city_0076_texas_anna
+S143339469,L3284526,"Anna, 100-312 5th Street",2023-07-02,2023,76,"Anna, TX",Anna,Texas,Collin,100,32,1.163,1,Traveling,33.34801,-96.5465,8,8,city_0076_texas_anna
+S151206376,L3284526,"Anna, 100-312 5th Street",2023-10-01,2023,76,"Anna, TX",Anna,Texas,Collin,100,31,1.014,1,Traveling,33.34801,-96.5465,8,8,city_0076_texas_anna
+S153849365,L3284526,"Anna, 100-312 5th Street",2023-11-05,2023,76,"Anna, TX",Anna,Texas,Collin,100,33,1.159,1,Traveling,33.34801,-96.5465,6,6,city_0076_texas_anna
+S164720890,L29838109,"314–596 N Bamborough Dr, Anna US-TX (33.3529,-96.5551)",2024-03-13,2024,76,"Anna, TX",Anna,Texas,Collin,100,7,,1,Stationary,33.352903,-96.555141,2,2,city_0076_texas_anna
+S191707530,L35826864,"1216 Birdsong Trail, Anna, Texas, US (33.361, -96.555)",2024-04-13,2024,76,"Anna, TX",Anna,Texas,Collin,100,45,1.239,1,Traveling,33.360986,-96.5551647,7,7,city_0076_texas_anna
+S192794474,L3284526,"Anna, 100-312 5th Street",2024-08-25,2024,76,"Anna, TX",Anna,Texas,Collin,100,29,1.384,1,Traveling,33.34801,-96.5465,4,4,city_0076_texas_anna
+S197841842,L3284526,"Anna, 100-312 5th Street",2024-10-06,2024,76,"Anna, TX",Anna,Texas,Collin,100,13,0.714,1,Traveling,33.34801,-96.5465,4,4,city_0076_texas_anna
+S202092173,L11125748,"214 5th Street, Anna, Texas, US (33.348, -96.547)",2024-11-10,2024,76,"Anna, TX",Anna,Texas,Collin,100,34,1.432,1,Traveling,33.34784,-96.5471968,5,5,city_0076_texas_anna
+S211377463,L39846802,Greenbelt,2025-01-30,2025,76,"Anna, TX",Anna,Texas,Collin,100,29,0.29,1,Traveling,33.3584128,-96.5553469,10,10,city_0076_texas_anna
+S211377764,L39846802,Greenbelt,2025-01-31,2025,76,"Anna, TX",Anna,Texas,Collin,100,14,0.475,1,Traveling,33.3584128,-96.5553469,10,10,city_0076_texas_anna
+S228727401,L30458046,"1132 Foxtail Dr, Anna, Texas, US (33.353, -96.562)",2025-04-08,2025,76,"Anna, TX",Anna,Texas,Collin,100,40,0.805,1,Traveling,33.3534165,-96.5622019,4,4,city_0076_texas_anna
+S225333156,L39846802,Greenbelt,2025-04-11,2025,76,"Anna, TX",Anna,Texas,Collin,100,29,0.167,1,Traveling,33.3584128,-96.5553469,10,10,city_0076_texas_anna
+S270255431,L52181303,Johnson Park,2025-08-29,2025,76,"Anna, TX",Anna,Texas,Collin,100,50,0.131,1,Traveling,33.351947,-96.547909,7,7,city_0076_texas_anna

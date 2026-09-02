@@ -1,4 +1,4 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S45228510,L7329913,Dilley (town),2018-04-27,2018,740,"Dilley, TX",Dilley,Texas,Frio,5137596.66847544,6,2.414,1,28.6670604,-99.1703606,8,8,city_0740_texas_dilley
-S93683254,L16199702,"16290 Interstate 35 Frontage Road, Dilley, Texas, US (28.681, -99.182)",2021-08-24,2021,740,"Dilley, TX",Dilley,Texas,Frio,5137596.66847544,10,,1,28.6807716,-99.1819064,2,2,city_0740_texas_dilley
-S286992639,L55573185,"202 West Harris Street, Dilley, Texas, US (28.667, -99.174)",2025-12-01,2025,740,"Dilley, TX",Dilley,Texas,Frio,5137596.66847544,5,,1,28.6673633,-99.1737847,1,1,city_0740_texas_dilley
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S45228510,L7329913,Dilley (town),2018-04-27,2018,740,"Dilley, TX",Dilley,Texas,Frio,99.999999999996,6,2.414,1,Traveling,28.6670604,-99.1703606,8,8,city_0740_texas_dilley
+S93683254,L16199702,"16290 Interstate 35 Frontage Road, Dilley, Texas, US (28.681, -99.182)",2021-08-24,2021,740,"Dilley, TX",Dilley,Texas,Frio,99.999999999996,10,,1,Stationary,28.6807716,-99.1819064,2,2,city_0740_texas_dilley
+S286992639,L55573185,"202 West Harris Street, Dilley, Texas, US (28.667, -99.174)",2025-12-01,2025,740,"Dilley, TX",Dilley,Texas,Frio,99.999999999996,5,,1,Stationary,28.6673633,-99.1737847,1,1,city_0740_texas_dilley

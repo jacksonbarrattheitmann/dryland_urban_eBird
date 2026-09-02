@@ -1,50 +1,50 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23371834,L3632964,"Scott City, 901-999 Myrtle Street",2015-05-09,2015,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,50,,1,38.4777,-100.90346,18,18,city_2346_kansas_scott_city
-S24006446,L4838022,Scott City (town),2015-06-18,2015,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,11,2.575,1,38.482477,-100.9069052,9,9,city_2346_kansas_scott_city
-S30049173,L4666672,US-KS-Scott City-701-799 Monroe Ct - 38.4797x-100.9001,2016-06-02,2016,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,60,,1,38.479698,-100.90012,10,10,city_2346_kansas_scott_city
-S46396584,L738381,"Patton Park, Scott City",2018-06-08,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,16,0.338,1,38.4745862,-100.9059262,10,10,city_2346_kansas_scott_city
-S46480722,L7558050,"110 W 8th St, Scott City US-KS (38,4796,-100,9081)",2018-06-11,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,20,,1,38.479569,-100.908128,7,7,city_2346_kansas_scott_city
-S46694554,L4838022,Scott City (town),2018-06-21,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,91,6.437,1,38.482477,-100.9069052,10,10,city_2346_kansas_scott_city
-S47002168,L4838022,Scott City (town),2018-07-05,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,8,10.866,1,38.482477,-100.9069052,8,8,city_2346_kansas_scott_city
-S49864701,L8131471,"321 W 5th St, Scott City US-KS (38.4824,-100.9107)",2018-11-11,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,16,22.241,1,38.482408,-100.910696,3,3,city_2346_kansas_scott_city
-S54431383,L4838022,Scott City (town),2019-03-31,2019,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,5,1.191,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S57106328,L9412292,"110 West 8th Street, Scott City, Kansas, US (38.48, -100.908)",2019-06-05,2019,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,6,,1,38.479602,-100.9079646,9,9,city_2346_kansas_scott_city
-S58731408,L4838022,Scott City (town),2019-08-03,2019,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,55,1.931,1,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
-S59372446,L4838022,Scott City (town),2019-08-30,2019,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,6,0.813,1,38.482477,-100.9069052,3,3,city_2346_kansas_scott_city
-S76018765,L12500930,"609 Madison St, Scott City US-KS 38.48063, -100.89941",2020-11-08,2020,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,32,1.009,1,38.480633,-100.899406,12,12,city_2346_kansas_scott_city
-S74008055,L4838022,Scott City (town),2020-09-19,2020,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,30,4.828,1,38.482477,-100.9069052,14,14,city_2346_kansas_scott_city
-S69579051,L4838022,Scott City (town),2020-05-24,2020,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,9,0.826,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S90688304,L15500234,"1320 Court St, Scott City US-KS 38.47206, -100.90778",2021-06-24,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,22,,1,38.472059,-100.907783,9,9,city_2346_kansas_scott_city
-S92002277,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,180,,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S91700373,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,180,,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S85868101,L4838022,Scott City (town),2021-04-18,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,10,1.609,1,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
-S88897889,L15088362,"201–249 Glenn Ave, Scott City US-KS (38.4697,-100.9085)",2021-05-24,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,16,,1,38.469736,-100.908522,11,11,city_2346_kansas_scott_city
-S91715615,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,180,,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S213105621,L4838022,Scott City (town),2021-04-18,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,10,1.609,1,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
-S91699871,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,180,,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S87792923,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,180,,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S84706715,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,180,,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S94853666,L4838022,Scott City (town),2021-09-18,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,36,3.908,1,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
-S96931130,L738381,"Patton Park, Scott City",2021-09-15,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,20,8.047,1,38.4745862,-100.9059262,5,5,city_2346_kansas_scott_city
-S99686258,L738381,"Patton Park, Scott City",2021-12-30,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,20,5.262,1,38.4745862,-100.9059262,2,2,city_2346_kansas_scott_city
-S114724153,L20056765,"1107 Viola St, Scott City US-KS 38.47964, -100.92145",2022-07-09,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,15,0.078,1,38.479644,-100.921447,8,8,city_2346_kansas_scott_city
-S113768753,L4838022,Scott City (town),2022-06-25,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,8,3.356,1,38.482477,-100.9069052,11,11,city_2346_kansas_scott_city
-S110734135,L19166005,"1509 South Court Street, Scott City, Kansas, US (38.469, -100.908)",2022-05-20,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,15,0.063,1,38.4689924,-100.9082343,9,9,city_2346_kansas_scott_city
-S112828953,L738381,"Patton Park, Scott City",2022-06-10,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,34,0.318,1,38.4745862,-100.9059262,8,8,city_2346_kansas_scott_city
-S117338258,L20631374,Manor Drive House,2022-08-21,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,7,,1,38.483915,-100.899981,2,2,city_2346_kansas_scott_city
-S144088699,L4838022,Scott City (town),2023-07-09,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,8,9.003,1,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
-S125595816,L4838022,Scott City (town),2023-01-07,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,24,5.489,1,38.482477,-100.9069052,9,9,city_2346_kansas_scott_city
-S125602649,L22106177,"301–399 W First St, Scott City US-KS (38.4865,-100.9097)",2023-01-07,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,41,4.979,1,38.486468,-100.909667,6,6,city_2346_kansas_scott_city
-S125608402,L22107223,"686–770 E First St, Scott City US-KS (38.4865,-100.8989)",2023-01-07,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,20,1.991,1,38.486523,-100.898943,3,3,city_2346_kansas_scott_city
-S151362249,L738381,"Patton Park, Scott City",2023-10-03,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,24,0.483,1,38.4745862,-100.9059262,3,3,city_2346_kansas_scott_city
-S132652345,L4838022,Scott City (town),2023-04-03,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,5,3.757,1,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
-S125615234,L22108510,"901 W Fifth St, Scott City US-KS 38.48187, -100.91809",2023-01-07,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,16,5.14,1,38.481866,-100.91809,3,3,city_2346_kansas_scott_city
-S179554915,L32884910,Scott City library,2024-06-05,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,13,,1,38.479724,-100.908151,7,7,city_2346_kansas_scott_city
-S167996844,L4838022,Scott City (town),2024-04-10,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,22,2.301,1,38.482477,-100.9069052,17,17,city_2346_kansas_scott_city
-S180013240,L4838022,Scott City (town),2024-06-07,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,15,5.783,1,38.482477,-100.9069052,12,12,city_2346_kansas_scott_city
-S190706452,L4838022,Scott City (town),2024-08-08,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,12,2.833,1,38.482477,-100.9069052,6,6,city_2346_kansas_scott_city
-S159793857,L4838022,Scott City (town),2024-01-25,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,11,1.223,1,38.482477,-100.9069052,8,8,city_2346_kansas_scott_city
-S167380633,L4838022,Scott City (town),2024-04-06,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,10,4.947,1,38.482477,-100.9069052,12,12,city_2346_kansas_scott_city
-S225710331,L4838022,Scott City (town),2025-04-14,2025,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,5,,1,38.482477,-100.9069052,13,13,city_2346_kansas_scott_city
-S230641193,L43670091,"316 S Main St, Scott City US-KS 38.48401, -100.90668",2025-04-28,2025,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,107,0.89,1,38.48401,-100.906678,3,3,city_2346_kansas_scott_city
-S238420915,L4838022,Scott City (town),2025-05-15,2025,2346,"Scott City, KS",Scott City,Kansas,Scott,3969066.93917214,8,4.909,1,38.482477,-100.9069052,12,12,city_2346_kansas_scott_city
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S23371834,L3632964,"Scott City, 901-999 Myrtle Street",2015-05-09,2015,2346,"Scott City, KS",Scott City,Kansas,Scott,100,50,,1,Stationary,38.4777,-100.90346,18,18,city_2346_kansas_scott_city
+S24006446,L4838022,Scott City (town),2015-06-18,2015,2346,"Scott City, KS",Scott City,Kansas,Scott,100,11,2.575,1,Traveling,38.482477,-100.9069052,9,9,city_2346_kansas_scott_city
+S30049173,L4666672,US-KS-Scott City-701-799 Monroe Ct - 38.4797x-100.9001,2016-06-02,2016,2346,"Scott City, KS",Scott City,Kansas,Scott,100,60,,1,Stationary,38.479698,-100.90012,10,10,city_2346_kansas_scott_city
+S46396584,L738381,"Patton Park, Scott City",2018-06-08,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,100,16,0.338,1,Traveling,38.4745862,-100.9059262,10,10,city_2346_kansas_scott_city
+S46480722,L7558050,"110 W 8th St, Scott City US-KS (38,4796,-100,9081)",2018-06-11,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,100,20,,1,Stationary,38.479569,-100.908128,7,7,city_2346_kansas_scott_city
+S46694554,L4838022,Scott City (town),2018-06-21,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,100,91,6.437,1,Traveling,38.482477,-100.9069052,10,10,city_2346_kansas_scott_city
+S47002168,L4838022,Scott City (town),2018-07-05,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,100,8,10.866,1,Traveling,38.482477,-100.9069052,8,8,city_2346_kansas_scott_city
+S49864701,L8131471,"321 W 5th St, Scott City US-KS (38.4824,-100.9107)",2018-11-11,2018,2346,"Scott City, KS",Scott City,Kansas,Scott,100,16,22.241,1,Traveling,38.482408,-100.910696,3,3,city_2346_kansas_scott_city
+S54431383,L4838022,Scott City (town),2019-03-31,2019,2346,"Scott City, KS",Scott City,Kansas,Scott,100,5,1.191,1,Traveling,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S57106328,L9412292,"110 West 8th Street, Scott City, Kansas, US (38.48, -100.908)",2019-06-05,2019,2346,"Scott City, KS",Scott City,Kansas,Scott,100,6,,1,Stationary,38.479602,-100.9079646,9,9,city_2346_kansas_scott_city
+S58731408,L4838022,Scott City (town),2019-08-03,2019,2346,"Scott City, KS",Scott City,Kansas,Scott,100,55,1.931,1,Traveling,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
+S59372446,L4838022,Scott City (town),2019-08-30,2019,2346,"Scott City, KS",Scott City,Kansas,Scott,100,6,0.813,1,Traveling,38.482477,-100.9069052,3,3,city_2346_kansas_scott_city
+S69579051,L4838022,Scott City (town),2020-05-24,2020,2346,"Scott City, KS",Scott City,Kansas,Scott,100,9,0.826,1,Traveling,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S74008055,L4838022,Scott City (town),2020-09-19,2020,2346,"Scott City, KS",Scott City,Kansas,Scott,100,30,4.828,1,Traveling,38.482477,-100.9069052,14,14,city_2346_kansas_scott_city
+S76018765,L12500930,"609 Madison St, Scott City US-KS 38.48063, -100.89941",2020-11-08,2020,2346,"Scott City, KS",Scott City,Kansas,Scott,100,32,1.009,1,Traveling,38.480633,-100.899406,12,12,city_2346_kansas_scott_city
+S91700373,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,180,,1,Stationary,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S87792923,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,180,,1,Stationary,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S92002277,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,180,,1,Stationary,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S91715615,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,180,,1,Stationary,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S91699871,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,180,,1,Stationary,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S84706715,L4838022,Scott City (town),2021-04-03,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,180,,1,Stationary,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S85868101,L4838022,Scott City (town),2021-04-18,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,10,1.609,1,Traveling,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
+S213105621,L4838022,Scott City (town),2021-04-18,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,10,1.609,1,Traveling,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
+S88897889,L15088362,"201–249 Glenn Ave, Scott City US-KS (38.4697,-100.9085)",2021-05-24,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,16,,1,Stationary,38.469736,-100.908522,11,11,city_2346_kansas_scott_city
+S90688304,L15500234,"1320 Court St, Scott City US-KS 38.47206, -100.90778",2021-06-24,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,22,,1,Stationary,38.472059,-100.907783,9,9,city_2346_kansas_scott_city
+S96931130,L738381,"Patton Park, Scott City",2021-09-15,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,20,8.047,1,Traveling,38.4745862,-100.9059262,5,5,city_2346_kansas_scott_city
+S94853666,L4838022,Scott City (town),2021-09-18,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,36,3.908,1,Traveling,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
+S99686258,L738381,"Patton Park, Scott City",2021-12-30,2021,2346,"Scott City, KS",Scott City,Kansas,Scott,100,20,5.262,1,Traveling,38.4745862,-100.9059262,2,2,city_2346_kansas_scott_city
+S110734135,L19166005,"1509 South Court Street, Scott City, Kansas, US (38.469, -100.908)",2022-05-20,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,100,15,0.063,1,Traveling,38.4689924,-100.9082343,9,9,city_2346_kansas_scott_city
+S112828953,L738381,"Patton Park, Scott City",2022-06-10,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,100,34,0.318,1,Area,38.4745862,-100.9059262,8,8,city_2346_kansas_scott_city
+S113768753,L4838022,Scott City (town),2022-06-25,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,100,8,3.356,1,Traveling,38.482477,-100.9069052,11,11,city_2346_kansas_scott_city
+S114724153,L20056765,"1107 Viola St, Scott City US-KS 38.47964, -100.92145",2022-07-09,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,100,15,0.078,1,Traveling,38.479644,-100.921447,8,8,city_2346_kansas_scott_city
+S117338258,L20631374,Manor Drive House,2022-08-21,2022,2346,"Scott City, KS",Scott City,Kansas,Scott,100,7,,1,Stationary,38.483915,-100.899981,2,2,city_2346_kansas_scott_city
+S125602649,L22106177,"301–399 W First St, Scott City US-KS (38.4865,-100.9097)",2023-01-07,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,100,41,4.979,1,Traveling,38.486468,-100.909667,6,6,city_2346_kansas_scott_city
+S125608402,L22107223,"686–770 E First St, Scott City US-KS (38.4865,-100.8989)",2023-01-07,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,100,20,1.991,1,Traveling,38.486523,-100.898943,3,3,city_2346_kansas_scott_city
+S125615234,L22108510,"901 W Fifth St, Scott City US-KS 38.48187, -100.91809",2023-01-07,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,100,16,5.14,1,Traveling,38.481866,-100.91809,3,3,city_2346_kansas_scott_city
+S125595816,L4838022,Scott City (town),2023-01-07,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,100,24,5.489,1,Traveling,38.482477,-100.9069052,9,9,city_2346_kansas_scott_city
+S132652345,L4838022,Scott City (town),2023-04-03,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,100,5,3.757,1,Traveling,38.482477,-100.9069052,5,5,city_2346_kansas_scott_city
+S144088699,L4838022,Scott City (town),2023-07-09,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,100,8,9.003,1,Traveling,38.482477,-100.9069052,7,7,city_2346_kansas_scott_city
+S151362249,L738381,"Patton Park, Scott City",2023-10-03,2023,2346,"Scott City, KS",Scott City,Kansas,Scott,100,24,0.483,1,Traveling,38.4745862,-100.9059262,3,3,city_2346_kansas_scott_city
+S159793857,L4838022,Scott City (town),2024-01-25,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,100,11,1.223,1,Traveling,38.482477,-100.9069052,8,8,city_2346_kansas_scott_city
+S167380633,L4838022,Scott City (town),2024-04-06,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,100,10,4.947,1,Traveling,38.482477,-100.9069052,12,12,city_2346_kansas_scott_city
+S167996844,L4838022,Scott City (town),2024-04-10,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,100,22,2.301,1,Traveling,38.482477,-100.9069052,17,17,city_2346_kansas_scott_city
+S179554915,L32884910,Scott City library,2024-06-05,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,100,13,,1,Stationary,38.479724,-100.908151,7,7,city_2346_kansas_scott_city
+S180013240,L4838022,Scott City (town),2024-06-07,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,100,15,5.783,1,Traveling,38.482477,-100.9069052,12,12,city_2346_kansas_scott_city
+S190706452,L4838022,Scott City (town),2024-08-08,2024,2346,"Scott City, KS",Scott City,Kansas,Scott,100,12,2.833,1,Traveling,38.482477,-100.9069052,6,6,city_2346_kansas_scott_city
+S225710331,L4838022,Scott City (town),2025-04-14,2025,2346,"Scott City, KS",Scott City,Kansas,Scott,100,5,,1,Stationary,38.482477,-100.9069052,13,13,city_2346_kansas_scott_city
+S230641193,L43670091,"316 S Main St, Scott City US-KS 38.48401, -100.90668",2025-04-28,2025,2346,"Scott City, KS",Scott City,Kansas,Scott,100,107,0.89,1,Traveling,38.48401,-100.906678,3,3,city_2346_kansas_scott_city
+S238420915,L4838022,Scott City (town),2025-05-15,2025,2346,"Scott City, KS",Scott City,Kansas,Scott,100,8,4.909,1,Traveling,38.482477,-100.9069052,12,12,city_2346_kansas_scott_city

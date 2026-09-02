@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2015,2746684.32886307,4,4,city_0230_texas_big_lake,705.725004196167,18.229166666666668,24.99985254717049,dry subhumid,12
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2018,2746684.32886307,17,27,city_0230_texas_big_lake,535.7562559843063,18.489583333333332,18.805338418461943,semiarid,12
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2019,2746684.32886307,8,8,city_0230_texas_big_lake,421.15000104904175,18.666666666666668,14.691279106361922,semiarid,12
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2020,2746684.32886307,17,18,city_0230_texas_big_lake,318.1375036239624,19.239583333333332,10.880370626255928,semiarid,12
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2021,2746684.32886307,5,5,city_0230_texas_big_lake,451.7687430381775,18.583333333333332,15.805320456146152,semiarid,12
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2022,2746684.32886307,4,4,city_0230_texas_big_lake,285.9624993801117,18.807291666666668,9.926740170128628,arid,12
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2023,2746684.32886307,17,37,city_0230_texas_big_lake,358.9250011444092,19.661458333333332,12.100719968345317,semiarid,12
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2024,2746684.32886307,7,10,city_0230_texas_big_lake,429.7249994277954,19.981770833333332,14.33287586035555,semiarid,12
-230,"Big Lake, TX",Big Lake,Texas,Reagan,2025,2746684.32886307,22,57,city_0230_texas_big_lake,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+230,2015,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,4,4,city_0230_texas_big_lake,705.725004196167,18.2291666666667,24.9998525471705,dry subhumid,12
+230,2018,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,17,27,city_0230_texas_big_lake,535.756255984306,18.4895833333333,18.8053384184619,semiarid,12
+230,2019,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,8,8,city_0230_texas_big_lake,421.150001049042,18.6666666666667,14.6912791063619,semiarid,12
+230,2020,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,17,18,city_0230_texas_big_lake,318.137503623962,19.2395833333333,10.8803706262559,semiarid,12
+230,2021,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,5,5,city_0230_texas_big_lake,451.768743038178,18.5833333333333,15.8053204561462,semiarid,12
+230,2022,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,4,4,city_0230_texas_big_lake,285.962499380112,18.8072916666667,9.92674017012863,arid,12
+230,2023,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,17,37,city_0230_texas_big_lake,358.925001144409,19.6614583333333,12.1007199683453,semiarid,12
+230,2024,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,7,10,city_0230_texas_big_lake,429.724999427795,19.9817708333333,14.3328758603556,semiarid,12
+230,2025,"Big Lake, TX",Big Lake,Texas,Reagan,99.9999999999997,22,57,city_0230_texas_big_lake,,,,,

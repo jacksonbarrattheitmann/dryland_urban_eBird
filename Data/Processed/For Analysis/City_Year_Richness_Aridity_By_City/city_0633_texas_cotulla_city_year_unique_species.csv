@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-633,"Cotulla, TX",Cotulla,Texas,La Salle,2017,5023771.39487888,8,8,city_0633_texas_cotulla,546.3249883651733,23.359375,16.37695515474056,semiarid,12
-633,"Cotulla, TX",Cotulla,Texas,La Salle,2019,5023771.39487888,4,4,city_0633_texas_cotulla,428.58124828338623,22.807291666666668,13.063597344087974,semiarid,12
-633,"Cotulla, TX",Cotulla,Texas,La Salle,2020,5023771.39487888,42,78,city_0633_texas_cotulla,412.9999942779541,23.315104166666668,12.39677931702762,semiarid,12
-633,"Cotulla, TX",Cotulla,Texas,La Salle,2021,5023771.39487888,43,48,city_0633_texas_cotulla,611.5750007629395,22.75,18.674045824822574,semiarid,12
-633,"Cotulla, TX",Cotulla,Texas,La Salle,2022,5023771.39487888,5,5,city_0633_texas_cotulla,388.5187499523163,22.986979166666668,11.777942684273263,semiarid,12
-633,"Cotulla, TX",Cotulla,Texas,La Salle,2023,5023771.39487888,9,11,city_0633_texas_cotulla,563.2437515258789,23.7421875,16.692567769231882,semiarid,12
-633,"Cotulla, TX",Cotulla,Texas,La Salle,2024,5023771.39487888,26,33,city_0633_texas_cotulla,474.1687479019165,24.044270833333332,13.92800422200994,semiarid,12
-633,"Cotulla, TX",Cotulla,Texas,La Salle,2025,5023771.39487888,10,10,city_0633_texas_cotulla,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+633,2017,"Cotulla, TX",Cotulla,Texas,La Salle,100,8,8,city_0633_texas_cotulla,546.324988365173,23.359375,16.3769551547406,semiarid,12
+633,2019,"Cotulla, TX",Cotulla,Texas,La Salle,100,4,4,city_0633_texas_cotulla,428.581248283386,22.8072916666667,13.063597344088,semiarid,12
+633,2020,"Cotulla, TX",Cotulla,Texas,La Salle,100,42,78,city_0633_texas_cotulla,412.999994277954,23.3151041666667,12.3967793170276,semiarid,12
+633,2021,"Cotulla, TX",Cotulla,Texas,La Salle,100,43,48,city_0633_texas_cotulla,611.575000762939,22.75,18.6740458248226,semiarid,12
+633,2022,"Cotulla, TX",Cotulla,Texas,La Salle,100,5,5,city_0633_texas_cotulla,388.518749952316,22.9869791666667,11.7779426842733,semiarid,12
+633,2023,"Cotulla, TX",Cotulla,Texas,La Salle,100,9,11,city_0633_texas_cotulla,563.243751525879,23.7421875,16.6925677692319,semiarid,12
+633,2024,"Cotulla, TX",Cotulla,Texas,La Salle,100,26,33,city_0633_texas_cotulla,474.168747901917,24.0442708333333,13.9280042220099,semiarid,12
+633,2025,"Cotulla, TX",Cotulla,Texas,La Salle,100,10,10,city_0633_texas_cotulla,,,,,

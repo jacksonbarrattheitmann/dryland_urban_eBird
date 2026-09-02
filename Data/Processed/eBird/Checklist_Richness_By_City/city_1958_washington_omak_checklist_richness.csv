@@ -1,120 +1,121 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S26280606,L4044249,US-WA-Okanogan-110-214 Crestview Dr,2015-12-13,2015,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,10,,1,48.367379,-119.58588,1,1,city_1958_washington_omak
-S24516835,L3833331,Omak Stampede Grounds,2015-08-06,2015,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,90,1.609,1,48.410314,-119.515404,13,13,city_1958_washington_omak
-S26104407,L4044249,US-WA-Okanogan-110-214 Crestview Dr,2015-12-02,2015,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,10,,1,48.367379,-119.58588,1,1,city_1958_washington_omak
-S33276871,L5191378,End of S Ash St along the river,2016-12-27,2016,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,35,0.644,1,48.403127,-119.53076,15,15,city_1958_washington_omak
-S33234812,L5184566,US-WA-Omak-302 S Ash St - 48.4069x-119.5302,2016-12-27,2016,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,6,0.161,1,48.406882,-119.530172,8,8,city_1958_washington_omak
-S30057478,L1346809,"Omak, WA",2016-06-02,2016,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,45,3.219,1,48.4129969,-119.5310248,21,21,city_1958_washington_omak
-S31230035,L3001139,"Eastside Park, Omak",2016-07-13,2016,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,60,3.219,1,48.4113143,-119.5197487,4,4,city_1958_washington_omak
-S37291874,L5913315,Alma Park,2017-05-31,2017,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,180,,1,48.3604124,-119.5826411,6,6,city_1958_washington_omak
-S35196098,L4906202,Okanogan (town),2017-03-15,2017,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,18,3.219,1,48.3600807,-119.5857066,13,13,city_1958_washington_omak
-S39184868,L3001139,"Eastside Park, Omak",2017-09-14,2017,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,30,,1,48.4113143,-119.5197487,5,5,city_1958_washington_omak
-S37555186,L3001139,"Eastside Park, Omak",2017-05-05,2017,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,180,1.609,1,48.4113143,-119.5197487,5,5,city_1958_washington_omak
-S37815044,L6022143,"800 Riverside Dr, Omak US-WA (48.4159,-119.5109)",2017-06-26,2017,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,35,,1,48.415886,-119.510895,2,2,city_1958_washington_omak
-S59649925,L1349970,"US 97, Okanogan, WA",2017-05-29,2017,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,15,2.414,1,48.3628871,-119.5831422,3,3,city_1958_washington_omak
-S40215635,L6427039,Omak duck pond,2017-10-30,2017,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,10,,1,48.411339,-119.537625,3,3,city_1958_washington_omak
-S46860347,L3001139,"Eastside Park, Omak",2018-06-27,2018,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,45,0.483,1,48.4113143,-119.5197487,15,15,city_1958_washington_omak
-S46363480,L3001139,"Eastside Park, Omak",2018-06-01,2018,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,26,0.805,1,48.4113143,-119.5197487,6,6,city_1958_washington_omak
-S49172968,L3001139,"Eastside Park, Omak",2018-10-13,2018,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,29,1.933,1,48.4113143,-119.5197487,13,13,city_1958_washington_omak
-S46883530,L7401328,"Okanogan, Washington, US (48.368, -119.583)",2018-06-29,2018,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,45,,1,48.3682371,-119.583168,7,7,city_1958_washington_omak
-S49452542,L5273998,Omak,2018-10-25,2018,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,5,,1,48.4115992,-119.5280957,2,2,city_1958_washington_omak
-S43639409,L7063975,"820 Koala Ave, Omak US-WA (48.4210,-119.5049)",2018-03-14,2018,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,10,,1,48.420963,-119.504866,1,1,city_1958_washington_omak
-S62738876,L10369015,"1100 1st Avenue South, Okanogan, Washington, US (48.356, -119.59)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,6,,1,48.3558584,-119.5899438,12,12,city_1958_washington_omak
-S61496458,L10160901,Omak Ave. Bridge,2019-11-16,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,12,,1,48.4106349,-119.5264125,4,4,city_1958_washington_omak
-S62920031,L10404799,"1033 7th Avenue South, Okanogan, Washington, US (48.36, -119.592)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,42,6.38,1,48.359783,-119.5921365,14,14,city_1958_washington_omak
-S62739512,L10369119,Boat Launch,2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,8,,1,48.3602564,-119.5815979,4,4,city_1958_washington_omak
-S62741644,L10369485,"828 4th Avenue North, Okanogan, Washington, US (48.37, -119.576)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,20,,1,48.3702649,-119.5756869,7,7,city_1958_washington_omak
-S55534177,L3001139,"Eastside Park, Omak",2019-04-28,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,15,0.332,1,48.4113143,-119.5197487,6,6,city_1958_washington_omak
-S62099653,L4906202,Okanogan (town),2019-12-06,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,29,0.5,1,48.3600807,-119.5857066,7,7,city_1958_washington_omak
-S56919488,L9377516,"412 4th Ave S, Okanogan US-WA (48.3630,-119.5852)",2019-05-25,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,60,,1,48.363014,-119.585153,7,7,city_1958_washington_omak
-S62742285,L10369614,"331 5th Avenue North, Okanogan, Washington, US (48.367, -119.581)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,12,1.014,1,48.3671553,-119.581336,3,3,city_1958_washington_omak
-S57960419,L4906202,Okanogan (town),2019-07-05,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,20,,1,48.3600807,-119.5857066,5,5,city_1958_washington_omak
-S53403341,L4906202,Okanogan (town),2019-03-02,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,5,,1,48.3600807,-119.5857066,7,7,city_1958_washington_omak
-S55578457,L3001139,"Eastside Park, Omak",2019-04-28,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,15,0.332,1,48.4113143,-119.5197487,6,6,city_1958_washington_omak
-S55578462,L3001139,"Eastside Park, Omak",2019-04-27,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,10,,1,48.4113143,-119.5197487,1,1,city_1958_washington_omak
-S60808778,L10060680,Omak--Safeway,2019-10-17,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,5,,1,48.4184426,-119.5096131,2,2,city_1958_washington_omak
-S55535053,L3001139,"Eastside Park, Omak",2019-04-27,2019,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,10,,1,48.4113143,-119.5197487,1,1,city_1958_washington_omak
-S65692496,L8597221,Okanogan Backyard,2020-03-11,2020,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,13,,1,48.3710651,-119.5745308,6,6,city_1958_washington_omak
-S75613703,L8597221,Okanogan Backyard,2020-10-30,2020,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,19,,1,48.3710651,-119.5745308,2,2,city_1958_washington_omak
-S64225145,L8597221,Okanogan Backyard,2020-02-08,2020,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,7,,1,48.3710651,-119.5745308,1,1,city_1958_washington_omak
-S91991302,L3001139,"Eastside Park, Omak",2021-07-18,2021,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,36,0.183,1,48.4113143,-119.5197487,3,3,city_1958_washington_omak
-S92156902,L15861612,Okanogan--American Legion Park,2021-07-22,2021,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,48,6.132,1,48.3725995,-119.5701718,11,11,city_1958_washington_omak
-S90516882,L4906202,Okanogan (town),2021-06-20,2021,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,35,2.22,1,48.3600807,-119.5857066,4,4,city_1958_washington_omak
-S90492043,L4906202,Okanogan (town),2021-06-20,2021,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,6,5.42,1,48.3600807,-119.5857066,9,9,city_1958_washington_omak
-S82706778,L13907264,"Elmway Street, Okanogan, Washington, US (48.394, -119.546)",2021-03-03,2021,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,28,,1,48.3940895,-119.5464214,6,6,city_1958_washington_omak
-S105838218,L18296312,"180 Viewmont, Okanogan",2022-03-29,2022,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,15,,1,48.369612,-119.5850408,6,6,city_1958_washington_omak
-S122388185,L21531537,Omak River dike south,2022-11-13,2022,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,24,1.08,1,48.402098,-119.535687,10,10,city_1958_washington_omak
-S107537350,L12769750,Aviary,2022-04-20,2022,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,63,0.075,1,48.37059,-119.575922,14,14,city_1958_washington_omak
-S99980211,L8597221,Okanogan Backyard,2022-01-02,2022,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,133,,1,48.3710651,-119.5745308,15,15,city_1958_washington_omak
-S105278802,L8597221,Okanogan Backyard,2022-03-20,2022,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,60,,1,48.3710651,-119.5745308,16,16,city_1958_washington_omak
-S105280099,L8597221,Okanogan Backyard,2022-03-20,2022,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,60,,1,48.3710651,-119.5745308,16,16,city_1958_washington_omak
-S123206133,L21670282,Omak—Best Western Peppertree Inn,2022-11-29,2022,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,20,,1,48.420843,-119.504857,1,1,city_1958_washington_omak
-S134054035,L21531537,Omak River dike south,2023-04-16,2023,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,47,1.873,1,48.402098,-119.535687,18,18,city_1958_washington_omak
-S141174074,L3001139,"Eastside Park, Omak",2023-06-09,2023,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,22,0.648,1,48.4113143,-119.5197487,4,4,city_1958_washington_omak
-S150295645,L27163918,"1321 1st Avenue South, Okanogan, Washington, US (48.354, -119.595)",2023-08-29,2023,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,16,0.917,1,48.3539255,-119.5954407,6,6,city_1958_washington_omak
-S150295661,L27163919,"671 1st Avenue South, Okanogan, Washington, US (48.36, -119.582)",2023-08-29,2023,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,25,0.386,1,48.359801,-119.581855,8,8,city_1958_washington_omak
-S134525717,L3001139,"Eastside Park, Omak",2023-04-21,2023,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,14,0.671,1,48.4113143,-119.5197487,5,5,city_1958_washington_omak
-S165241248,L24979110,Omak Dike,2024-03-17,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,53,2.179,1,48.400096,-119.534984,23,23,city_1958_washington_omak
-S196538691,L36865539,"153 Nolan St, Okanogan US-WA 48.37714, -119.56301",2024-09-26,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,31,0.307,1,48.377137,-119.563009,17,17,city_1958_washington_omak
-S185635467,L4906202,Okanogan (town),2024-07-06,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,30,,1,48.3600807,-119.5857066,18,18,city_1958_washington_omak
-S195309072,L4906202,Okanogan (town),2024-09-15,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,30,,1,48.3600807,-119.5857066,15,15,city_1958_washington_omak
-S195744233,L4906202,Okanogan (town),2024-09-18,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,15,,1,48.3600807,-119.5857066,16,16,city_1958_washington_omak
-S166733896,L30241681,Aston Island,2024-03-31,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,71,2.435,1,48.402142,-119.532597,19,19,city_1958_washington_omak
-S185459678,L34333451,"102 Granite St S, Omak US-WA 48.40974, -119.53942",2024-07-05,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,35,0.232,1,48.409744,-119.539416,9,9,city_1958_washington_omak
-S185338240,L34333451,"102 Granite St S, Omak US-WA 48.40974, -119.53942",2024-07-04,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,15,0.177,1,48.409744,-119.539416,7,7,city_1958_washington_omak
-S161586842,L4906202,Okanogan (town),2024-02-15,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,18,,1,48.3600807,-119.5857066,2,2,city_1958_washington_omak
-S205942126,L38715727,"703 Omache Drive, Omak, Washington, US (48.419, -119.508)",2024-11-06,2024,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,12,,1,48.4192917,-119.5080286,2,2,city_1958_washington_omak
-S217357701,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-03-08,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,98,,1,48.4193495,-119.5272939,13,13,city_1958_washington_omak
-S225727718,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-04-14,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,27,,1,48.4193495,-119.5272939,12,12,city_1958_washington_omak
-S222775740,L30241681,Aston Island,2025-04-03,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,88,0.64,1,48.402142,-119.532597,20,20,city_1958_washington_omak
-S209554557,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-16,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,70,4.313,1,48.4107179,-119.5273363,14,14,city_1958_washington_omak
-S262268247,L39787654,Shelrock Point,2025-07-23,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,21,,1,48.3952357,-119.5457892,12,12,city_1958_washington_omak
-S228042875,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-04-21,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,76,4.748,1,48.4107179,-119.5273363,27,27,city_1958_washington_omak
-S216527236,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-03-03,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,56,2.068,1,48.4107179,-119.5273363,13,13,city_1958_washington_omak
-S210216173,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-21,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,82,4.369,1,48.4107179,-119.5273363,22,22,city_1958_washington_omak
-S209446076,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-15,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,45,2.945,1,48.4107179,-119.5273363,14,14,city_1958_washington_omak
-S278046224,L40456523,Okanogan,2025-10-08,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,133,0.23,1,48.3632922,-119.5848259,14,14,city_1958_washington_omak
-S230864402,L43461498,"Kokanee Cabins, Okanagon",2025-04-29,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,74,1.207,1,48.3611527,-119.585042,22,22,city_1958_washington_omak
-S229582473,L43461498,"Kokanee Cabins, Okanagon",2025-04-26,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,51,1.495,1,48.3611527,-119.585042,12,12,city_1958_washington_omak
-S283887728,L43461498,"Kokanee Cabins, Okanagon",2025-11-10,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,151,3.28,1,48.3611527,-119.585042,19,19,city_1958_washington_omak
-S256012991,L4906202,Okanogan (town),2025-07-01,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,103,12.739,1,48.3600807,-119.5857066,24,24,city_1958_washington_omak
-S249950377,L47525969,Omak Lark Meadows,2025-06-13,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,31,1.046,1,48.4222058,-119.5084894,12,12,city_1958_washington_omak
-S240429493,L4906202,Okanogan (town),2025-05-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,97,4.683,1,48.3600807,-119.5857066,28,28,city_1958_washington_omak
-S283230285,L54858534,Omak Springs,2025-11-05,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,32,2.694,1,48.4077481,-119.5392326,15,15,city_1958_washington_omak
-S269122579,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-08-23,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,97,,1,48.4193495,-119.5272939,10,10,city_1958_washington_omak
-S222551980,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-04-02,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,196,0.08,1,48.4193495,-119.5272939,12,12,city_1958_washington_omak
-S260591012,L3001139,"Eastside Park, Omak",2025-07-17,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,66,2.481,1,48.4113143,-119.5197487,12,12,city_1958_washington_omak
-S267190734,L3001139,"Eastside Park, Omak",2025-08-14,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,33,0.563,1,48.4113143,-119.5197487,11,11,city_1958_washington_omak
-S277285157,L30241681,Aston Island,2025-10-04,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,12,0.396,1,48.402142,-119.532597,13,13,city_1958_washington_omak
-S265692629,L30241681,Aston Island,2025-08-07,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,89,2.228,1,48.402142,-119.532597,26,26,city_1958_washington_omak
-S221981256,L30241681,Aston Island,2025-03-30,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,75,2.414,1,48.402142,-119.532597,17,17,city_1958_washington_omak
-S274809634,L37281678,Backyard,2025-09-21,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,60,,1,48.397026,-119.539223,18,18,city_1958_washington_omak
-S222381502,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-04-01,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,8,0.164,1,48.4107179,-119.5273363,9,9,city_1958_washington_omak
-S208555816,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-08,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,65,4.458,1,48.4107179,-119.5273363,15,15,city_1958_washington_omak
-S208754093,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-10,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,74,3.911,1,48.4107179,-119.5273363,22,22,city_1958_washington_omak
-S230601101,L43461498,"Kokanee Cabins, Okanagon",2025-04-28,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,27,1.287,1,48.3611527,-119.585042,22,22,city_1958_washington_omak
-S229661945,L43478415,"AlmaPark - 671 1st Avenue South, Okanogan, Washington, US (48.36, -119.582)",2025-04-26,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,52,1.207,1,48.3596102,-119.5823883,19,19,city_1958_washington_omak
-S230085107,L43461498,"Kokanee Cabins, Okanagon",2025-04-27,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,129,4.345,1,48.3611527,-119.585042,26,26,city_1958_washington_omak
-S247460034,L46939961,"801e Riverside Drive, Omak, Washington, US (48.417, -119.511)",2025-06-06,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,6,,1,48.4171399,-119.5109029,8,8,city_1958_washington_omak
-S257171373,L49155575,"14 Granite St S, Omak US-WA 48.41021, -119.54001",2025-07-05,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,15,,1,48.41021,-119.540013,5,5,city_1958_washington_omak
-S214468132,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-02-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,221,,1,48.4193495,-119.5272939,10,10,city_1958_washington_omak
-S240206267,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-05-18,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,91,,1,48.4193495,-119.5272939,11,11,city_1958_washington_omak
-S222561530,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-04-02,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,67,4.426,1,48.4107179,-119.5273363,21,21,city_1958_washington_omak
-S214189044,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-02-17,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,42,3.066,1,48.4107179,-119.5273363,8,8,city_1958_washington_omak
-S211074113,L39787654,Shelrock Point,2025-01-28,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,101,6.663,1,48.3952357,-119.5457892,20,20,city_1958_washington_omak
-S278390322,L40456523,Okanogan,2025-10-10,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,124,0.927,1,48.3632922,-119.5848259,8,8,city_1958_washington_omak
-S229626530,L43470777,"425 Omak River Road, Omak, Washington, US (48.414, -119.506) WalMart",2025-04-26,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,74,10.944,1,48.4139813,-119.5061138,13,13,city_1958_washington_omak
-S249497494,L4906202,Okanogan (town),2025-06-12,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,15,,1,48.3600807,-119.5857066,15,15,city_1958_washington_omak
-S219703512,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-03-20,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,59,,1,48.4193495,-119.5272939,14,14,city_1958_washington_omak
-S217607397,L30241681,Aston Island,2025-03-09,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,47,2.111,1,48.402142,-119.532597,16,16,city_1958_washington_omak
-S240046119,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-05-18,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,91,,1,48.4193495,-119.5272939,11,11,city_1958_washington_omak
-S237157876,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-05-12,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,77,3.685,1,48.4107179,-119.5273363,24,24,city_1958_washington_omak
-S280425000,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-10-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,182,,1,48.4193495,-119.5272939,14,14,city_1958_washington_omak
-S284018759,L43461498,"Kokanee Cabins, Okanagon",2025-11-11,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,135,4.166,1,48.3611527,-119.585042,14,14,city_1958_washington_omak
-S259378815,L4906202,Okanogan (town),2025-07-12,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,16,0.521,1,48.3600807,-119.5857066,6,6,city_1958_washington_omak
-S280373683,L3001139,"Eastside Park, Omak",2025-10-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,14,0.387,1,48.4113143,-119.5197487,4,4,city_1958_washington_omak
-S211768937,L4906202,Okanogan (town),2025-02-02,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,7,,1,48.3600807,-119.5857066,3,3,city_1958_washington_omak
-S281856407,L54565372,Omak Safeway,2025-10-28,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,5,,1,48.4180499,-119.5097729,1,1,city_1958_washington_omak
-S277276224,L40456523,Okanogan,2025-10-04,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,5,,1,48.3632922,-119.5848259,2,2,city_1958_washington_omak
-S227107762,L10368304,"1118 5th Avenue South, Okanogan, Washington, US (48.359, -119.594)",2025-04-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,19,,1,48.3593286,-119.5938321,3,3,city_1958_washington_omak
-S284152479,L43461498,"Kokanee Cabins, Okanagon",2025-11-12,2025,1958,"Omak, WA",Omak,Washington,Okanogan,12441520.6509986,109,0.416,1,48.3611527,-119.585042,1,1,city_1958_washington_omak
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24516835,L3833331,Omak Stampede Grounds,2015-08-06,2015,1958,"Omak, WA",Omak,Washington,Okanogan,100,90,1.609,1,Traveling,48.410314,-119.515404,13,13,city_1958_washington_omak
+S26104407,L4044249,US-WA-Okanogan-110-214 Crestview Dr,2015-12-02,2015,1958,"Omak, WA",Omak,Washington,Okanogan,100,10,,1,Stationary,48.367379,-119.58588,1,1,city_1958_washington_omak
+S26280606,L4044249,US-WA-Okanogan-110-214 Crestview Dr,2015-12-13,2015,1958,"Omak, WA",Omak,Washington,Okanogan,100,10,,1,Stationary,48.367379,-119.58588,1,1,city_1958_washington_omak
+S30057478,L1346809,"Omak, WA",2016-06-02,2016,1958,"Omak, WA",Omak,Washington,Okanogan,100,45,3.219,1,Traveling,48.4129969,-119.5310248,21,21,city_1958_washington_omak
+S31230035,L3001139,"Eastside Park, Omak",2016-07-13,2016,1958,"Omak, WA",Omak,Washington,Okanogan,100,60,3.219,1,Traveling,48.4113143,-119.5197487,4,4,city_1958_washington_omak
+S33234812,L5184566,US-WA-Omak-302 S Ash St - 48.4069x-119.5302,2016-12-27,2016,1958,"Omak, WA",Omak,Washington,Okanogan,100,6,0.161,1,Traveling,48.406882,-119.530172,8,8,city_1958_washington_omak
+S33276871,L5191378,End of S Ash St along the river,2016-12-27,2016,1958,"Omak, WA",Omak,Washington,Okanogan,100,35,0.644,1,Traveling,48.403127,-119.53076,15,15,city_1958_washington_omak
+S35196098,L4906202,Okanogan (town),2017-03-15,2017,1958,"Omak, WA",Omak,Washington,Okanogan,100,18,3.219,1,Traveling,48.3600807,-119.5857066,13,13,city_1958_washington_omak
+S37555186,L3001139,"Eastside Park, Omak",2017-05-05,2017,1958,"Omak, WA",Omak,Washington,Okanogan,100,180,1.609,1,Traveling,48.4113143,-119.5197487,5,5,city_1958_washington_omak
+S59649925,L1349970,"US 97, Okanogan, WA",2017-05-29,2017,1958,"Omak, WA",Omak,Washington,Okanogan,100,15,2.414,1,Traveling,48.3628871,-119.5831422,3,3,city_1958_washington_omak
+S37291874,L5913315,Alma Park,2017-05-31,2017,1958,"Omak, WA",Omak,Washington,Okanogan,100,180,,1,Stationary,48.3604124,-119.5826411,6,6,city_1958_washington_omak
+S37815044,L6022143,"800 Riverside Dr, Omak US-WA (48.4159,-119.5109)",2017-06-26,2017,1958,"Omak, WA",Omak,Washington,Okanogan,100,35,,1,Stationary,48.415886,-119.510895,2,2,city_1958_washington_omak
+S39184868,L3001139,"Eastside Park, Omak",2017-09-14,2017,1958,"Omak, WA",Omak,Washington,Okanogan,100,30,,1,Stationary,48.4113143,-119.5197487,5,5,city_1958_washington_omak
+S40215635,L6427039,Omak duck pond,2017-10-30,2017,1958,"Omak, WA",Omak,Washington,Okanogan,100,10,,1,Stationary,48.411339,-119.537625,3,3,city_1958_washington_omak
+S43639409,L7063975,"820 Koala Ave, Omak US-WA (48.4210,-119.5049)",2018-03-14,2018,1958,"Omak, WA",Omak,Washington,Okanogan,100,10,,1,Stationary,48.420963,-119.504866,1,1,city_1958_washington_omak
+S46363480,L3001139,"Eastside Park, Omak",2018-06-01,2018,1958,"Omak, WA",Omak,Washington,Okanogan,100,26,0.805,1,Traveling,48.4113143,-119.5197487,6,6,city_1958_washington_omak
+S46860347,L3001139,"Eastside Park, Omak",2018-06-27,2018,1958,"Omak, WA",Omak,Washington,Okanogan,100,45,0.483,1,Traveling,48.4113143,-119.5197487,15,15,city_1958_washington_omak
+S46883530,L7401328,"Okanogan, Washington, US (48.368, -119.583)",2018-06-29,2018,1958,"Omak, WA",Omak,Washington,Okanogan,100,45,,1,Stationary,48.3682371,-119.583168,7,7,city_1958_washington_omak
+S49172968,L3001139,"Eastside Park, Omak",2018-10-13,2018,1958,"Omak, WA",Omak,Washington,Okanogan,100,29,1.933,1,Traveling,48.4113143,-119.5197487,13,13,city_1958_washington_omak
+S49452542,L5273998,Omak,2018-10-25,2018,1958,"Omak, WA",Omak,Washington,Okanogan,100,5,,1,Stationary,48.4115992,-119.5280957,2,2,city_1958_washington_omak
+S53403341,L4906202,Okanogan (town),2019-03-02,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,5,,1,Stationary,48.3600807,-119.5857066,7,7,city_1958_washington_omak
+S55535053,L3001139,"Eastside Park, Omak",2019-04-27,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,10,,1,Stationary,48.4113143,-119.5197487,1,1,city_1958_washington_omak
+S55578462,L3001139,"Eastside Park, Omak",2019-04-27,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,10,,1,Stationary,48.4113143,-119.5197487,1,1,city_1958_washington_omak
+S55578457,L3001139,"Eastside Park, Omak",2019-04-28,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,15,0.332,1,Traveling,48.4113143,-119.5197487,6,6,city_1958_washington_omak
+S55534177,L3001139,"Eastside Park, Omak",2019-04-28,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,15,0.332,1,Traveling,48.4113143,-119.5197487,6,6,city_1958_washington_omak
+S56919488,L9377516,"412 4th Ave S, Okanogan US-WA (48.3630,-119.5852)",2019-05-25,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,60,,1,Stationary,48.363014,-119.585153,7,7,city_1958_washington_omak
+S57960419,L4906202,Okanogan (town),2019-07-05,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,20,,1,Stationary,48.3600807,-119.5857066,5,5,city_1958_washington_omak
+S60808778,L10060680,Omak--Safeway,2019-10-17,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,5,,1,Stationary,48.4184426,-119.5096131,2,2,city_1958_washington_omak
+S61496458,L10160901,Omak Ave. Bridge,2019-11-16,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,12,,1,Stationary,48.4106349,-119.5264125,4,4,city_1958_washington_omak
+S62099653,L4906202,Okanogan (town),2019-12-06,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,29,0.5,1,Traveling,48.3600807,-119.5857066,7,7,city_1958_washington_omak
+S62735054,L10368304,"1118 5th Avenue South, Okanogan, Washington, US (48.359, -119.594)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,8,1.304,1,,48.3593286,-119.5938321,0,0,city_1958_washington_omak
+S62738876,L10369015,"1100 1st Avenue South, Okanogan, Washington, US (48.356, -119.59)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,6,,1,Stationary,48.3558584,-119.5899438,12,12,city_1958_washington_omak
+S62739512,L10369119,Boat Launch,2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,8,,1,Stationary,48.3602564,-119.5815979,4,4,city_1958_washington_omak
+S62741644,L10369485,"828 4th Avenue North, Okanogan, Washington, US (48.37, -119.576)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,20,,1,Stationary,48.3702649,-119.5756869,7,7,city_1958_washington_omak
+S62742285,L10369614,"331 5th Avenue North, Okanogan, Washington, US (48.367, -119.581)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,12,1.014,1,Traveling,48.3671553,-119.581336,3,3,city_1958_washington_omak
+S62920031,L10404799,"1033 7th Avenue South, Okanogan, Washington, US (48.36, -119.592)",2019-12-29,2019,1958,"Omak, WA",Omak,Washington,Okanogan,100,42,6.38,1,Traveling,48.359783,-119.5921365,14,14,city_1958_washington_omak
+S64225145,L8597221,Okanogan Backyard,2020-02-08,2020,1958,"Omak, WA",Omak,Washington,Okanogan,100,7,,1,Stationary,48.3710651,-119.5745308,1,1,city_1958_washington_omak
+S65692496,L8597221,Okanogan Backyard,2020-03-11,2020,1958,"Omak, WA",Omak,Washington,Okanogan,100,13,,1,Stationary,48.3710651,-119.5745308,6,6,city_1958_washington_omak
+S75613703,L8597221,Okanogan Backyard,2020-10-30,2020,1958,"Omak, WA",Omak,Washington,Okanogan,100,19,,1,Stationary,48.3710651,-119.5745308,2,2,city_1958_washington_omak
+S82706778,L13907264,"Elmway Street, Okanogan, Washington, US (48.394, -119.546)",2021-03-03,2021,1958,"Omak, WA",Omak,Washington,Okanogan,100,28,,1,Stationary,48.3940895,-119.5464214,6,6,city_1958_washington_omak
+S90516882,L4906202,Okanogan (town),2021-06-20,2021,1958,"Omak, WA",Omak,Washington,Okanogan,100,35,2.22,1,Traveling,48.3600807,-119.5857066,4,4,city_1958_washington_omak
+S90492043,L4906202,Okanogan (town),2021-06-20,2021,1958,"Omak, WA",Omak,Washington,Okanogan,100,6,5.42,1,Traveling,48.3600807,-119.5857066,9,9,city_1958_washington_omak
+S91991302,L3001139,"Eastside Park, Omak",2021-07-18,2021,1958,"Omak, WA",Omak,Washington,Okanogan,100,36,0.183,1,Traveling,48.4113143,-119.5197487,3,3,city_1958_washington_omak
+S92156902,L15861612,Okanogan--American Legion Park,2021-07-22,2021,1958,"Omak, WA",Omak,Washington,Okanogan,100,48,6.132,1,Traveling,48.3725995,-119.5701718,11,11,city_1958_washington_omak
+S99980211,L8597221,Okanogan Backyard,2022-01-02,2022,1958,"Omak, WA",Omak,Washington,Okanogan,100,133,,1,Stationary,48.3710651,-119.5745308,15,15,city_1958_washington_omak
+S105280099,L8597221,Okanogan Backyard,2022-03-20,2022,1958,"Omak, WA",Omak,Washington,Okanogan,100,60,,1,Stationary,48.3710651,-119.5745308,16,16,city_1958_washington_omak
+S105278802,L8597221,Okanogan Backyard,2022-03-20,2022,1958,"Omak, WA",Omak,Washington,Okanogan,100,60,,1,Stationary,48.3710651,-119.5745308,16,16,city_1958_washington_omak
+S105838218,L18296312,"180 Viewmont, Okanogan",2022-03-29,2022,1958,"Omak, WA",Omak,Washington,Okanogan,100,15,,1,Stationary,48.369612,-119.5850408,6,6,city_1958_washington_omak
+S107537350,L12769750,Aviary,2022-04-20,2022,1958,"Omak, WA",Omak,Washington,Okanogan,100,63,0.075,1,Traveling,48.37059,-119.575922,14,14,city_1958_washington_omak
+S122388185,L21531537,Omak River dike south,2022-11-13,2022,1958,"Omak, WA",Omak,Washington,Okanogan,100,24,1.08,1,Traveling,48.402098,-119.535687,10,10,city_1958_washington_omak
+S123206133,L21670282,Omak—Best Western Peppertree Inn,2022-11-29,2022,1958,"Omak, WA",Omak,Washington,Okanogan,100,20,,1,Stationary,48.420843,-119.504857,1,1,city_1958_washington_omak
+S134054035,L21531537,Omak River dike south,2023-04-16,2023,1958,"Omak, WA",Omak,Washington,Okanogan,100,47,1.873,1,Traveling,48.402098,-119.535687,18,18,city_1958_washington_omak
+S134525717,L3001139,"Eastside Park, Omak",2023-04-21,2023,1958,"Omak, WA",Omak,Washington,Okanogan,100,14,0.671,1,Traveling,48.4113143,-119.5197487,5,5,city_1958_washington_omak
+S141174074,L3001139,"Eastside Park, Omak",2023-06-09,2023,1958,"Omak, WA",Omak,Washington,Okanogan,100,22,0.648,1,Traveling,48.4113143,-119.5197487,4,4,city_1958_washington_omak
+S150295645,L27163918,"1321 1st Avenue South, Okanogan, Washington, US (48.354, -119.595)",2023-08-29,2023,1958,"Omak, WA",Omak,Washington,Okanogan,100,16,0.917,1,Traveling,48.3539255,-119.5954407,6,6,city_1958_washington_omak
+S150295661,L27163919,"671 1st Avenue South, Okanogan, Washington, US (48.36, -119.582)",2023-08-29,2023,1958,"Omak, WA",Omak,Washington,Okanogan,100,25,0.386,1,Traveling,48.359801,-119.581855,8,8,city_1958_washington_omak
+S161586842,L4906202,Okanogan (town),2024-02-15,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,18,,1,Stationary,48.3600807,-119.5857066,2,2,city_1958_washington_omak
+S165241248,L24979110,Omak Dike,2024-03-17,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,53,2.179,1,Traveling,48.400096,-119.534984,23,23,city_1958_washington_omak
+S166733896,L30241681,Aston Island,2024-03-31,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,71,2.435,1,Traveling,48.402142,-119.532597,19,19,city_1958_washington_omak
+S185338240,L34333451,"102 Granite St S, Omak US-WA 48.40974, -119.53942",2024-07-04,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,15,0.177,1,Traveling,48.409744,-119.539416,7,7,city_1958_washington_omak
+S185459678,L34333451,"102 Granite St S, Omak US-WA 48.40974, -119.53942",2024-07-05,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,35,0.232,1,Traveling,48.409744,-119.539416,9,9,city_1958_washington_omak
+S185635467,L4906202,Okanogan (town),2024-07-06,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,30,,1,Stationary,48.3600807,-119.5857066,18,18,city_1958_washington_omak
+S195309072,L4906202,Okanogan (town),2024-09-15,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,30,,1,Stationary,48.3600807,-119.5857066,15,15,city_1958_washington_omak
+S195744233,L4906202,Okanogan (town),2024-09-18,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,15,,1,Stationary,48.3600807,-119.5857066,16,16,city_1958_washington_omak
+S196538691,L36865539,"153 Nolan St, Okanogan US-WA 48.37714, -119.56301",2024-09-26,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,31,0.307,1,Traveling,48.377137,-119.563009,17,17,city_1958_washington_omak
+S205942126,L38715727,"703 Omache Drive, Omak, Washington, US (48.419, -119.508)",2024-11-06,2024,1958,"Omak, WA",Omak,Washington,Okanogan,100,12,,1,Stationary,48.4192917,-119.5080286,2,2,city_1958_washington_omak
+S208555816,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-08,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,65,4.458,1,Traveling,48.4107179,-119.5273363,15,15,city_1958_washington_omak
+S208754093,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-10,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,74,3.911,1,Traveling,48.4107179,-119.5273363,22,22,city_1958_washington_omak
+S209446076,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-15,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,45,2.945,1,Traveling,48.4107179,-119.5273363,14,14,city_1958_washington_omak
+S209554557,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-16,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,70,4.313,1,Traveling,48.4107179,-119.5273363,14,14,city_1958_washington_omak
+S210216173,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-01-21,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,82,4.369,1,Traveling,48.4107179,-119.5273363,22,22,city_1958_washington_omak
+S211074113,L39787654,Shelrock Point,2025-01-28,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,101,6.663,1,Traveling,48.3952357,-119.5457892,20,20,city_1958_washington_omak
+S211768937,L4906202,Okanogan (town),2025-02-02,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,7,,1,Stationary,48.3600807,-119.5857066,3,3,city_1958_washington_omak
+S214189044,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-02-17,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,42,3.066,1,Traveling,48.4107179,-119.5273363,8,8,city_1958_washington_omak
+S214468132,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-02-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,221,,1,Stationary,48.4193495,-119.5272939,10,10,city_1958_washington_omak
+S216527236,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-03-03,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,56,2.068,1,Traveling,48.4107179,-119.5273363,13,13,city_1958_washington_omak
+S217357701,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-03-08,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,98,,1,Stationary,48.4193495,-119.5272939,13,13,city_1958_washington_omak
+S217607397,L30241681,Aston Island,2025-03-09,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,47,2.111,1,Traveling,48.402142,-119.532597,16,16,city_1958_washington_omak
+S219703512,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-03-20,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,59,,1,Stationary,48.4193495,-119.5272939,14,14,city_1958_washington_omak
+S221981256,L30241681,Aston Island,2025-03-30,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,75,2.414,1,Traveling,48.402142,-119.532597,17,17,city_1958_washington_omak
+S222381502,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-04-01,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,8,0.164,1,Traveling,48.4107179,-119.5273363,9,9,city_1958_washington_omak
+S222551980,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-04-02,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,196,0.08,1,Traveling,48.4193495,-119.5272939,12,12,city_1958_washington_omak
+S222561530,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-04-02,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,67,4.426,1,Traveling,48.4107179,-119.5273363,21,21,city_1958_washington_omak
+S222775740,L30241681,Aston Island,2025-04-03,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,88,0.64,1,Traveling,48.402142,-119.532597,20,20,city_1958_washington_omak
+S225727718,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-04-14,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,27,,1,Stationary,48.4193495,-119.5272939,12,12,city_1958_washington_omak
+S227107762,L10368304,"1118 5th Avenue South, Okanogan, Washington, US (48.359, -119.594)",2025-04-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,19,,1,Stationary,48.3593286,-119.5938321,3,3,city_1958_washington_omak
+S228042875,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-04-21,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,76,4.748,1,Traveling,48.4107179,-119.5273363,27,27,city_1958_washington_omak
+S229582473,L43461498,"Kokanee Cabins, Okanagon",2025-04-26,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,51,1.495,1,Traveling,48.3611527,-119.585042,12,12,city_1958_washington_omak
+S229626530,L43470777,"425 Omak River Road, Omak, Washington, US (48.414, -119.506) WalMart",2025-04-26,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,74,10.944,1,Traveling,48.4139813,-119.5061138,13,13,city_1958_washington_omak
+S229661945,L43478415,"AlmaPark - 671 1st Avenue South, Okanogan, Washington, US (48.36, -119.582)",2025-04-26,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,52,1.207,1,Traveling,48.3596102,-119.5823883,19,19,city_1958_washington_omak
+S230085107,L43461498,"Kokanee Cabins, Okanagon",2025-04-27,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,129,4.345,1,Traveling,48.3611527,-119.585042,26,26,city_1958_washington_omak
+S230601101,L43461498,"Kokanee Cabins, Okanagon",2025-04-28,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,27,1.287,1,Traveling,48.3611527,-119.585042,22,22,city_1958_washington_omak
+S230864402,L43461498,"Kokanee Cabins, Okanagon",2025-04-29,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,74,1.207,1,Traveling,48.3611527,-119.585042,22,22,city_1958_washington_omak
+S237157876,L39280154,"Omak Levee, 10 Central Avenue West, Omak, Washington, US (48.411, -119.527)",2025-05-12,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,77,3.685,1,Traveling,48.4107179,-119.5273363,24,24,city_1958_washington_omak
+S240046119,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-05-18,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,91,,1,Stationary,48.4193495,-119.5272939,11,11,city_1958_washington_omak
+S240206267,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-05-18,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,91,,1,Stationary,48.4193495,-119.5272939,11,11,city_1958_washington_omak
+S240429493,L4906202,Okanogan (town),2025-05-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,97,4.683,1,Traveling,48.3600807,-119.5857066,28,28,city_1958_washington_omak
+S247460034,L46939961,"801e Riverside Drive, Omak, Washington, US (48.417, -119.511)",2025-06-06,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,6,,1,Stationary,48.4171399,-119.5109029,8,8,city_1958_washington_omak
+S249497494,L4906202,Okanogan (town),2025-06-12,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,15,,1,Stationary,48.3600807,-119.5857066,15,15,city_1958_washington_omak
+S249950377,L47525969,Omak Lark Meadows,2025-06-13,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,31,1.046,1,Traveling,48.4222058,-119.5084894,12,12,city_1958_washington_omak
+S256012991,L4906202,Okanogan (town),2025-07-01,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,103,12.739,1,Traveling,48.3600807,-119.5857066,24,24,city_1958_washington_omak
+S257171373,L49155575,"14 Granite St S, Omak US-WA 48.41021, -119.54001",2025-07-05,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,15,,1,Stationary,48.41021,-119.540013,5,5,city_1958_washington_omak
+S259378815,L4906202,Okanogan (town),2025-07-12,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,16,0.521,1,Traveling,48.3600807,-119.5857066,6,6,city_1958_washington_omak
+S260591012,L3001139,"Eastside Park, Omak",2025-07-17,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,66,2.481,1,Traveling,48.4113143,-119.5197487,12,12,city_1958_washington_omak
+S262268247,L39787654,Shelrock Point,2025-07-23,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,21,,1,Stationary,48.3952357,-119.5457892,12,12,city_1958_washington_omak
+S265692629,L30241681,Aston Island,2025-08-07,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,89,2.228,1,Traveling,48.402142,-119.532597,26,26,city_1958_washington_omak
+S267190734,L3001139,"Eastside Park, Omak",2025-08-14,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,33,0.563,1,Traveling,48.4113143,-119.5197487,11,11,city_1958_washington_omak
+S269122579,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-08-23,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,97,,1,Stationary,48.4193495,-119.5272939,10,10,city_1958_washington_omak
+S274809634,L37281678,Backyard,2025-09-21,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,60,,1,Stationary,48.397026,-119.539223,18,18,city_1958_washington_omak
+S277285157,L30241681,Aston Island,2025-10-04,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,12,0.396,1,Traveling,48.402142,-119.532597,13,13,city_1958_washington_omak
+S277276224,L40456523,Okanogan,2025-10-04,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,5,,1,Stationary,48.3632922,-119.5848259,2,2,city_1958_washington_omak
+S278046224,L40456523,Okanogan,2025-10-08,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,133,0.23,1,Traveling,48.3632922,-119.5848259,14,14,city_1958_washington_omak
+S278390322,L40456523,Okanogan,2025-10-10,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,124,0.927,1,Traveling,48.3632922,-119.5848259,8,8,city_1958_washington_omak
+S280425000,L29818705,"704 Ironwood Street, Omak, Washington, US (48.419, -119.527)",2025-10-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,182,,1,Stationary,48.4193495,-119.5272939,14,14,city_1958_washington_omak
+S280373683,L3001139,"Eastside Park, Omak",2025-10-19,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,14,0.387,1,Traveling,48.4113143,-119.5197487,4,4,city_1958_washington_omak
+S281856407,L54565372,Omak Safeway,2025-10-28,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,5,,1,Stationary,48.4180499,-119.5097729,1,1,city_1958_washington_omak
+S283230285,L54858534,Omak Springs,2025-11-05,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,32,2.694,1,Traveling,48.4077481,-119.5392326,15,15,city_1958_washington_omak
+S283887728,L43461498,"Kokanee Cabins, Okanagon",2025-11-10,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,151,3.28,1,Traveling,48.3611527,-119.585042,19,19,city_1958_washington_omak
+S284018759,L43461498,"Kokanee Cabins, Okanagon",2025-11-11,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,135,4.166,1,Traveling,48.3611527,-119.585042,14,14,city_1958_washington_omak
+S284152479,L43461498,"Kokanee Cabins, Okanagon",2025-11-12,2025,1958,"Omak, WA",Omak,Washington,Okanogan,100,109,0.416,1,Traveling,48.3611527,-119.585042,1,1,city_1958_washington_omak

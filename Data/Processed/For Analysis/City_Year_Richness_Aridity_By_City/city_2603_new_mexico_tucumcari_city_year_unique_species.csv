@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2015,7707714.28755067,21,35,city_2603_new_mexico_tucumcari,602.2812452316284,15.604166666666668,23.522782563969212,dry subhumid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2016,7707714.28755067,75,1427,city_2603_new_mexico_tucumcari,364.4562449455261,15.981770833333332,14.027382786316732,semiarid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2017,7707714.28755067,48,577,city_2603_new_mexico_tucumcari,430.4124925136566,16.260416666666668,16.39016234879454,semiarid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2018,7707714.28755067,31,83,city_2603_new_mexico_tucumcari,352.93750512599945,15.776041666666668,13.692463322730228,semiarid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2019,7707714.28755067,16,33,city_2603_new_mexico_tucumcari,364.1500005722046,15.140625,14.484524572169729,semiarid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2020,7707714.28755067,15,24,city_2603_new_mexico_tucumcari,247.3437523841858,16.15625,9.456391966898382,arid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2021,7707714.28755067,23,48,city_2603_new_mexico_tucumcari,328.27500009536743,15.770833333333332,12.738237675487175,semiarid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2022,7707714.28755067,30,563,city_2603_new_mexico_tucumcari,326.6874990463257,15.4921875,12.815200698109006,semiarid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2023,7707714.28755067,26,108,city_2603_new_mexico_tucumcari,295.6250023841858,16.052083333333332,11.347461107109892,semiarid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2024,7707714.28755067,32,174,city_2603_new_mexico_tucumcari,383.1812492609024,16.575520833333332,14.418579100067276,semiarid,12
-2603,"Tucumcari, NM",Tucumcari,New Mexico,Quay,2025,7707714.28755067,44,375,city_2603_new_mexico_tucumcari,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2603,2015,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,21,35,city_2603_new_mexico_tucumcari,602.281245231628,15.6041666666667,23.5227825639692,dry subhumid,12
+2603,2016,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,75,1427,city_2603_new_mexico_tucumcari,364.456244945526,15.9817708333333,14.0273827863167,semiarid,12
+2603,2017,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,48,577,city_2603_new_mexico_tucumcari,430.412492513657,16.2604166666667,16.3901623487945,semiarid,12
+2603,2018,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,31,83,city_2603_new_mexico_tucumcari,352.937505125999,15.7760416666667,13.6924633227302,semiarid,12
+2603,2019,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,16,33,city_2603_new_mexico_tucumcari,364.150000572205,15.140625,14.4845245721697,semiarid,12
+2603,2020,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,15,24,city_2603_new_mexico_tucumcari,247.343752384186,16.15625,9.45639196689838,arid,12
+2603,2021,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,23,48,city_2603_new_mexico_tucumcari,328.275000095367,15.7708333333333,12.7382376754872,semiarid,12
+2603,2022,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,30,563,city_2603_new_mexico_tucumcari,326.687499046326,15.4921875,12.815200698109,semiarid,12
+2603,2023,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,26,108,city_2603_new_mexico_tucumcari,295.625002384186,16.0520833333333,11.3474611071099,semiarid,12
+2603,2024,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,32,174,city_2603_new_mexico_tucumcari,383.181249260902,16.5755208333333,14.4185791000673,semiarid,12
+2603,2025,"Tucumcari, NM",Tucumcari,New Mexico,Quay,99.9999999999984,44,375,city_2603_new_mexico_tucumcari,,,,,

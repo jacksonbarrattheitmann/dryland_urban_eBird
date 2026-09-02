@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2015,21771346.9553955,103,3221,city_2858_oklahoma_woodward,806.4187574386597,15.466145833333332,31.666305640295057,humid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2016,21771346.9553955,101,2795,city_2858_oklahoma_woodward,607.0749912261963,16.026041666666668,23.325675068126813,dry subhumid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2017,21771346.9553955,80,1113,city_2858_oklahoma_woodward,632.1937546730042,15.671875,24.625928362186407,dry subhumid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2018,21771346.9553955,66,365,city_2858_oklahoma_woodward,585.9437551498413,14.9375,23.496491434580104,dry subhumid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2019,21771346.9553955,63,152,city_2858_oklahoma_woodward,703.8125066757202,14.627604166666668,28.57819631632405,dry subhumid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2020,21771346.9553955,40,136,city_2858_oklahoma_woodward,525.4874992370605,15.361979166666666,20.719498891778542,dry subhumid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2021,21771346.9553955,93,1206,city_2858_oklahoma_woodward,522.3812394142151,15.4140625,20.55481052721166,dry subhumid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2022,21771346.9553955,87,826,city_2858_oklahoma_woodward,444.6062521934509,15.276041666666668,17.590026874333933,semiarid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2023,21771346.9553955,83,667,city_2858_oklahoma_woodward,595.7312488555908,15.729166666666668,23.15392708102701,dry subhumid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2024,21771346.9553955,101,1015,city_2858_oklahoma_woodward,522.1749954223633,16.4453125,19.745465114937225,semiarid,12
-2858,"Woodward, OK",Woodward,Oklahoma,Woodward,2025,21771346.9553955,105,2246,city_2858_oklahoma_woodward,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2858,2015,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,103,3221,city_2858_oklahoma_woodward,806.41875743866,15.4661458333333,31.6663056402951,humid,12
+2858,2016,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,101,2795,city_2858_oklahoma_woodward,607.074991226196,16.0260416666667,23.3256750681268,dry subhumid,12
+2858,2017,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,80,1113,city_2858_oklahoma_woodward,632.193754673004,15.671875,24.6259283621864,dry subhumid,12
+2858,2018,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,66,365,city_2858_oklahoma_woodward,585.943755149841,14.9375,23.4964914345801,dry subhumid,12
+2858,2019,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,63,152,city_2858_oklahoma_woodward,703.81250667572,14.6276041666667,28.5781963163241,dry subhumid,12
+2858,2020,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,40,136,city_2858_oklahoma_woodward,525.487499237061,15.3619791666667,20.7194988917785,dry subhumid,12
+2858,2021,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,93,1206,city_2858_oklahoma_woodward,522.381239414215,15.4140625,20.5548105272117,dry subhumid,12
+2858,2022,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,87,826,city_2858_oklahoma_woodward,444.606252193451,15.2760416666667,17.5900268743339,semiarid,12
+2858,2023,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,83,667,city_2858_oklahoma_woodward,595.731248855591,15.7291666666667,23.153927081027,dry subhumid,12
+2858,2024,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,101,1015,city_2858_oklahoma_woodward,522.174995422363,16.4453125,19.7454651149372,semiarid,12
+2858,2025,"Woodward, OK",Woodward,Oklahoma,Woodward,99.9999999999985,105,2246,city_2858_oklahoma_woodward,,,,,

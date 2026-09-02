@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-841,"Ely, NV",Ely,Nevada,White Pine,2015,6579531.60552347,21,24,city_0841_nevada_ely,328.11875343322754,8.127604166666668,18.10050299071389,semiarid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2016,6579531.60552347,35,64,city_0841_nevada_ely,299.64999771118164,7.7734375,16.859428442651097,semiarid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2017,6579531.60552347,21,42,city_0841_nevada_ely,267.7187476158142,7.9765625,14.89265523460418,semiarid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2018,6579531.60552347,32,78,city_0841_nevada_ely,247.03750085830688,7.9375,13.772125483389932,semiarid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2019,6579531.60552347,24,38,city_0841_nevada_ely,362.6812467575073,6.825520833333334,21.555424664120537,dry subhumid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2020,6579531.60552347,51,142,city_0841_nevada_ely,185.56875133514404,7.895833333333334,10.369383078098853,semiarid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2021,6579531.60552347,39,73,city_0841_nevada_ely,276.8312544822693,8.145833333333332,15.255912990986138,semiarid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2022,6579531.60552347,25,46,city_0841_nevada_ely,262.9875020980835,7.3984375,15.115581620365823,semiarid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2023,6579531.60552347,44,90,city_0841_nevada_ely,343.49374985694885,7.052083333333334,20.143799625086796,dry subhumid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2024,6579531.60552347,26,42,city_0841_nevada_ely,306.5625,8.536458333333332,16.538353470075865,semiarid,12
-841,"Ely, NV",Ely,Nevada,White Pine,2025,6579531.60552347,24,57,city_0841_nevada_ely,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+841,2015,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,21,24,city_0841_nevada_ely,328.118753433228,8.12760416666667,18.1005029907139,semiarid,12
+841,2016,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,35,64,city_0841_nevada_ely,299.649997711182,7.7734375,16.8594284426511,semiarid,12
+841,2017,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,21,42,city_0841_nevada_ely,267.718747615814,7.9765625,14.8926552346042,semiarid,12
+841,2018,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,32,78,city_0841_nevada_ely,247.037500858307,7.9375,13.7721254833899,semiarid,12
+841,2019,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,24,38,city_0841_nevada_ely,362.681246757507,6.82552083333333,21.5554246641205,dry subhumid,12
+841,2020,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,51,142,city_0841_nevada_ely,185.568751335144,7.89583333333333,10.3693830780989,semiarid,12
+841,2021,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,39,73,city_0841_nevada_ely,276.831254482269,8.14583333333333,15.2559129909861,semiarid,12
+841,2022,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,25,46,city_0841_nevada_ely,262.987502098084,7.3984375,15.1155816203658,semiarid,12
+841,2023,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,44,90,city_0841_nevada_ely,343.493749856949,7.05208333333333,20.1437996250868,dry subhumid,12
+841,2024,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,26,42,city_0841_nevada_ely,306.5625,8.53645833333333,16.5383534700759,semiarid,12
+841,2025,"Ely, NV",Ely,Nevada,White Pine,99.9999999999925,24,57,city_0841_nevada_ely,,,,,

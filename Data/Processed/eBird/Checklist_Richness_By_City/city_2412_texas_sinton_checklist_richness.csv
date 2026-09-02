@@ -1,11 +1,11 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S34387509,L5442674,Sinton,2017-02-13,2017,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,5,3.219,1,28.0367224,-97.5165233,1,1,city_2412_texas_sinton
-S57592846,L9514757,Sinton,2019-06-22,2019,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,51,15.33,1,28.036556,-97.513855,13,13,city_2412_texas_sinton
-S55448728,L9125738,Sinton HS Library,2019-04-26,2019,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,37,,1,28.041287,-97.497914,4,4,city_2412_texas_sinton
-S61680932,L10188429,San Patricio Co - Sinton High School,2019-11-16,2019,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,20,0.161,1,28.0410111,-97.4974778,8,8,city_2412_texas_sinton
-S87935623,L14901157,San Patricio St through Sinton,2021-05-12,2021,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,23,,1,28.035555,-97.51706,9,9,city_2412_texas_sinton
-S101830163,L10188429,San Patricio Co - Sinton High School,2021-11-13,2021,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,5,0.161,1,28.0410111,-97.4974778,2,2,city_2412_texas_sinton
-S105912664,L18308878,"301 South San Patricio Street, Sinton, Texas, US (28.034, -97.516)",2022-03-30,2022,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,5,,1,28.0344467,-97.516,4,4,city_2412_texas_sinton
-S107185568,L18308878,"301 South San Patricio Street, Sinton, Texas, US (28.034, -97.516)",2022-04-16,2022,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,6,,1,28.0344467,-97.516,5,5,city_2412_texas_sinton
-S130212712,L22917847,Hitching post rv park sinfonia tx,2023-03-05,2023,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,57,0.312,1,28.03726,-97.521873,16,16,city_2412_texas_sinton
-S261639965,L50207311,"1017 FM-2046, Sinton US-TX 28.02647, -97.50455",2025-07-21,2025,2412,"Sinton, TX",Sinton,Texas,San Patricio,5737999.04286605,7,9.598,1,28.026473,-97.504552,9,9,city_2412_texas_sinton
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S34387509,L5442674,Sinton,2017-02-13,2017,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,5,3.219,1,Traveling,28.0367224,-97.5165233,1,1,city_2412_texas_sinton
+S55448728,L9125738,Sinton HS Library,2019-04-26,2019,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,37,,1,Stationary,28.041287,-97.497914,4,4,city_2412_texas_sinton
+S57592846,L9514757,Sinton,2019-06-22,2019,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,51,15.33,1,Traveling,28.036556,-97.513855,13,13,city_2412_texas_sinton
+S61680932,L10188429,San Patricio Co - Sinton High School,2019-11-16,2019,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,20,0.161,1,Traveling,28.0410111,-97.4974778,8,8,city_2412_texas_sinton
+S87935623,L14901157,San Patricio St through Sinton,2021-05-12,2021,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,23,,1,Stationary,28.035555,-97.51706,9,9,city_2412_texas_sinton
+S101830163,L10188429,San Patricio Co - Sinton High School,2021-11-13,2021,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,5,0.161,1,Traveling,28.0410111,-97.4974778,2,2,city_2412_texas_sinton
+S105912664,L18308878,"301 South San Patricio Street, Sinton, Texas, US (28.034, -97.516)",2022-03-30,2022,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,5,,1,Stationary,28.0344467,-97.516,4,4,city_2412_texas_sinton
+S107185568,L18308878,"301 South San Patricio Street, Sinton, Texas, US (28.034, -97.516)",2022-04-16,2022,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,6,,1,Stationary,28.0344467,-97.516,5,5,city_2412_texas_sinton
+S130212712,L22917847,Hitching post rv park sinfonia tx,2023-03-05,2023,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,57,0.312,1,Traveling,28.03726,-97.521873,16,16,city_2412_texas_sinton
+S261639965,L50207311,"1017 FM-2046, Sinton US-TX 28.02647, -97.50455",2025-07-21,2025,2412,"Sinton, TX",Sinton,Texas,San Patricio,99.999999999999,7,9.598,1,Traveling,28.026473,-97.504552,9,9,city_2412_texas_sinton

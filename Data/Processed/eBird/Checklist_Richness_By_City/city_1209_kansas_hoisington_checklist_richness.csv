@@ -1,7 +1,7 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S30506343,L4756019,US-Kansas-Hoisington-Town,2016-07-03,2016,1209,"Hoisington, KS",Hoisington,Kansas,Barton,2799848.78475512,5,4.828,1,38.5202546,-98.7781626,9,9,city_1209_kansas_hoisington
-S46821186,L7629143,Hoisington Heritage Park,2018-06-26,2018,1209,"Hoisington, KS",Hoisington,Kansas,Barton,2799848.78475512,34,,1,38.5144082,-98.7835591,8,8,city_1209_kansas_hoisington
-S110179984,L19065570,Hoisington (town),2022-05-14,2022,1209,"Hoisington, KS",Hoisington,Kansas,Barton,2799848.78475512,6,1.127,1,38.512324,-98.777079,12,12,city_1209_kansas_hoisington
-S171226902,L31065867,"1200 Susank Road, Hoisington, Kansas",2024-04-30,2024,1209,"Hoisington, KS",Hoisington,Kansas,Barton,2799848.78475512,40,0.772,1,38.5242326,-98.7720134,18,18,city_1209_kansas_hoisington
-S202423653,L38018728,Hoisington (town),2024-11-13,2024,1209,"Hoisington, KS",Hoisington,Kansas,Barton,2799848.78475512,38,3.219,1,38.5167651,-98.7773216,2,2,city_1209_kansas_hoisington
-S170844092,L31065867,"1200 Susank Road, Hoisington, Kansas",2024-04-28,2024,1209,"Hoisington, KS",Hoisington,Kansas,Barton,2799848.78475512,56,0.837,1,38.5242326,-98.7720134,13,13,city_1209_kansas_hoisington
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S30506343,L4756019,US-Kansas-Hoisington-Town,2016-07-03,2016,1209,"Hoisington, KS",Hoisington,Kansas,Barton,100,5,4.828,1,Traveling,38.5202546,-98.7781626,9,9,city_1209_kansas_hoisington
+S46821186,L7629143,Hoisington Heritage Park,2018-06-26,2018,1209,"Hoisington, KS",Hoisington,Kansas,Barton,100,34,,1,Stationary,38.5144082,-98.7835591,8,8,city_1209_kansas_hoisington
+S110179984,L19065570,Hoisington (town),2022-05-14,2022,1209,"Hoisington, KS",Hoisington,Kansas,Barton,100,6,1.127,1,Traveling,38.512324,-98.777079,12,12,city_1209_kansas_hoisington
+S170844092,L31065867,"1200 Susank Road, Hoisington, Kansas",2024-04-28,2024,1209,"Hoisington, KS",Hoisington,Kansas,Barton,100,56,0.837,1,Traveling,38.5242326,-98.7720134,13,13,city_1209_kansas_hoisington
+S171226902,L31065867,"1200 Susank Road, Hoisington, Kansas",2024-04-30,2024,1209,"Hoisington, KS",Hoisington,Kansas,Barton,100,40,0.772,1,Traveling,38.5242326,-98.7720134,18,18,city_1209_kansas_hoisington
+S202423653,L38018728,Hoisington (town),2024-11-13,2024,1209,"Hoisington, KS",Hoisington,Kansas,Barton,100,38,3.219,1,Traveling,38.5167651,-98.7773216,2,2,city_1209_kansas_hoisington

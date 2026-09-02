@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2399,"Sidney, MT",Sidney,Montana,Richland,2017,10296942.4497047,9,9,city_2399_montana_sidney,330.16250228881836,7.859375,18.48678927951389,semiarid,12
-2399,"Sidney, MT",Sidney,Montana,Richland,2018,10296942.4497047,18,35,city_2399_montana_sidney,407.69374799728394,6.401041666666667,24.857796003645127,dry subhumid,12
-2399,"Sidney, MT",Sidney,Montana,Richland,2019,10296942.4497047,11,18,city_2399_montana_sidney,492.53124475479126,5.817708333333333,31.137964765531752,humid,12
-2399,"Sidney, MT",Sidney,Montana,Richland,2020,10296942.4497047,34,66,city_2399_montana_sidney,299.6312475204468,7.955729166666667,16.68722248699805,semiarid,12
-2399,"Sidney, MT",Sidney,Montana,Richland,2021,10296942.4497047,5,5,city_2399_montana_sidney,322.08749771118164,8.846354166666668,17.090175365634067,semiarid,12
-2399,"Sidney, MT",Sidney,Montana,Richland,2022,10296942.4497047,19,48,city_2399_montana_sidney,369.88750076293945,7.044270833333333,21.701573765159473,dry subhumid,12
-2399,"Sidney, MT",Sidney,Montana,Richland,2023,10296942.4497047,20,29,city_2399_montana_sidney,427.10624837875366,8.283854166666668,23.359749234787262,dry subhumid,12
-2399,"Sidney, MT",Sidney,Montana,Richland,2024,10296942.4497047,28,35,city_2399_montana_sidney,368.193754196167,8.8671875,19.51503127830616,semiarid,12
-2399,"Sidney, MT",Sidney,Montana,Richland,2025,10296942.4497047,21,27,city_2399_montana_sidney,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2399,2017,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,9,9,city_2399_montana_sidney,330.162502288818,7.859375,18.4867892795139,semiarid,12
+2399,2018,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,18,35,city_2399_montana_sidney,407.693747997284,6.40104166666667,24.8577960036451,dry subhumid,12
+2399,2019,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,11,18,city_2399_montana_sidney,492.531244754791,5.81770833333333,31.1379647655318,humid,12
+2399,2020,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,34,66,city_2399_montana_sidney,299.631247520447,7.95572916666667,16.6872224869981,semiarid,12
+2399,2021,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,5,5,city_2399_montana_sidney,322.087497711182,8.84635416666667,17.0901753656341,semiarid,12
+2399,2022,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,19,48,city_2399_montana_sidney,369.887500762939,7.04427083333333,21.7015737651595,dry subhumid,12
+2399,2023,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,20,29,city_2399_montana_sidney,427.106248378754,8.28385416666667,23.3597492347873,dry subhumid,12
+2399,2024,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,28,35,city_2399_montana_sidney,368.193754196167,8.8671875,19.5150312783062,semiarid,12
+2399,2025,"Sidney, MT",Sidney,Montana,Richland,99.9999999999948,21,27,city_2399_montana_sidney,,,,,

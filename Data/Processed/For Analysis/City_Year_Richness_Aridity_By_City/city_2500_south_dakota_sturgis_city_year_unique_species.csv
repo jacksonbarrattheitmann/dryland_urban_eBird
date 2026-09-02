@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2015,9590047.67081375,11,11,city_2500_south_dakota_sturgis,768.0937614440918,8.859375,40.72742397052351,humid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2016,9590047.67081375,12,13,city_2500_south_dakota_sturgis,647.2624912261963,9.114583333333332,33.862233873414084,humid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2017,9590047.67081375,15,15,city_2500_south_dakota_sturgis,533.2812557220459,8.440104166666668,28.919644428366844,dry subhumid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2018,9590047.67081375,10,11,city_2500_south_dakota_sturgis,804.9687519073486,7.388020833333334,46.29444372209403,humid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2019,9590047.67081375,23,28,city_2500_south_dakota_sturgis,888.1124973297119,6.901041666666667,52.54779645217401,humid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2020,9590047.67081375,14,25,city_2500_south_dakota_sturgis,450.36249446868896,8.580729166666668,24.238149667270715,dry subhumid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2021,9590047.67081375,15,22,city_2500_south_dakota_sturgis,563.9187526702881,8.924479166666668,29.79837636237658,dry subhumid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2022,9590047.67081375,23,31,city_2500_south_dakota_sturgis,552.1812505722046,7.90625,30.8373473268945,humid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2023,9590047.67081375,22,53,city_2500_south_dakota_sturgis,795.8499984741211,8.4296875,43.18304357977427,humid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2024,9590047.67081375,20,31,city_2500_south_dakota_sturgis,546.6000032424927,9.247395833333332,28.398647171575863,dry subhumid,12
-2500,"Sturgis, SD",Sturgis,South Dakota,Meade,2025,9590047.67081375,2,2,city_2500_south_dakota_sturgis,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2500,2015,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,11,11,city_2500_south_dakota_sturgis,768.093761444092,8.859375,40.7274239705235,humid,12
+2500,2016,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,12,13,city_2500_south_dakota_sturgis,647.262491226196,9.11458333333333,33.8622338734141,humid,12
+2500,2017,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,15,15,city_2500_south_dakota_sturgis,533.281255722046,8.44010416666667,28.9196444283668,dry subhumid,12
+2500,2018,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,10,11,city_2500_south_dakota_sturgis,804.968751907349,7.38802083333333,46.294443722094,humid,12
+2500,2019,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,23,28,city_2500_south_dakota_sturgis,888.112497329712,6.90104166666667,52.547796452174,humid,12
+2500,2020,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,14,25,city_2500_south_dakota_sturgis,450.362494468689,8.58072916666667,24.2381496672707,dry subhumid,12
+2500,2021,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,15,22,city_2500_south_dakota_sturgis,563.918752670288,8.92447916666667,29.7983763623766,dry subhumid,12
+2500,2022,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,23,31,city_2500_south_dakota_sturgis,552.181250572205,7.90625,30.8373473268945,humid,12
+2500,2023,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,22,53,city_2500_south_dakota_sturgis,795.849998474121,8.4296875,43.1830435797743,humid,12
+2500,2024,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,20,31,city_2500_south_dakota_sturgis,546.600003242493,9.24739583333333,28.3986471715759,dry subhumid,12
+2500,2025,"Sturgis, SD",Sturgis,South Dakota,Meade,99.9999999999991,2,2,city_2500_south_dakota_sturgis,,,,,

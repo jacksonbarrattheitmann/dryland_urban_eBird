@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2015,7392942.37541126,2,2,city_0057_texas_alvarado,1157.068759918213,19.158854166666668,39.68155790020485,humid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2016,7392942.37541126,15,21,city_0057_texas_alvarado,1036.0312519073486,19.8359375,34.72427343392004,humid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2017,7392942.37541126,21,24,city_0057_texas_alvarado,785.3562412261963,19.893229166666668,26.27204430968371,dry subhumid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2018,7392942.37541126,1,1,city_0057_texas_alvarado,929.3000011444092,18.997395833333332,32.047705472784294,humid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2019,7392942.37541126,20,25,city_0057_texas_alvarado,892.137508392334,18.8359375,30.938390971069833,humid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2020,7392942.37541126,15,18,city_0057_texas_alvarado,935.750005722046,19.216145833333332,32.028523237121455,humid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2021,7392942.37541126,28,32,city_0057_texas_alvarado,897.5187606811523,19.049479166666668,30.89620834617324,humid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2022,7392942.37541126,43,64,city_0057_texas_alvarado,644.8624954223633,19.364583333333332,21.960553231836425,dry subhumid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2023,7392942.37541126,5,5,city_0057_texas_alvarado,852.1187438964844,20.002604166666668,28.401492722528424,dry subhumid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2024,7392942.37541126,26,46,city_0057_texas_alvarado,948.6999969482422,20.419270833333332,31.187466726147164,humid,12
-57,"Alvarado, TX",Alvarado,Texas,Johnson,2025,7392942.37541126,4,4,city_0057_texas_alvarado,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+57,2015,"Alvarado, TX",Alvarado,Texas,Johnson,100,2,2,city_0057_texas_alvarado,1157.06875991821,19.1588541666667,39.6815579002049,humid,12
+57,2016,"Alvarado, TX",Alvarado,Texas,Johnson,100,15,21,city_0057_texas_alvarado,1036.03125190735,19.8359375,34.72427343392,humid,12
+57,2017,"Alvarado, TX",Alvarado,Texas,Johnson,100,21,24,city_0057_texas_alvarado,785.356241226196,19.8932291666667,26.2720443096837,dry subhumid,12
+57,2018,"Alvarado, TX",Alvarado,Texas,Johnson,100,1,1,city_0057_texas_alvarado,929.300001144409,18.9973958333333,32.0477054727843,humid,12
+57,2019,"Alvarado, TX",Alvarado,Texas,Johnson,100,20,25,city_0057_texas_alvarado,892.137508392334,18.8359375,30.9383909710698,humid,12
+57,2020,"Alvarado, TX",Alvarado,Texas,Johnson,100,15,18,city_0057_texas_alvarado,935.750005722046,19.2161458333333,32.0285232371215,humid,12
+57,2021,"Alvarado, TX",Alvarado,Texas,Johnson,100,28,32,city_0057_texas_alvarado,897.518760681152,19.0494791666667,30.8962083461732,humid,12
+57,2022,"Alvarado, TX",Alvarado,Texas,Johnson,100,43,64,city_0057_texas_alvarado,644.862495422363,19.3645833333333,21.9605532318364,dry subhumid,12
+57,2023,"Alvarado, TX",Alvarado,Texas,Johnson,100,5,5,city_0057_texas_alvarado,852.118743896484,20.0026041666667,28.4014927225284,dry subhumid,12
+57,2024,"Alvarado, TX",Alvarado,Texas,Johnson,100,26,46,city_0057_texas_alvarado,948.699996948242,20.4192708333333,31.1874667261472,humid,12
+57,2025,"Alvarado, TX",Alvarado,Texas,Johnson,100,4,4,city_0057_texas_alvarado,,,,,

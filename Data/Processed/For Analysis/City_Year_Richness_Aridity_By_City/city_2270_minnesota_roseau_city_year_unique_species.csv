@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2270,"Roseau, MN",Roseau,Minnesota,Roseau,2018,6501346.19430079,3,3,city_2270_minnesota_roseau,543.2750091552734,2.5625,43.24577187305659,humid,12
-2270,"Roseau, MN",Roseau,Minnesota,Roseau,2019,6501346.19430079,16,26,city_2270_minnesota_roseau,689.2000007629395,2.044270833333333,57.222227090371625,humid,12
-2270,"Roseau, MN",Roseau,Minnesota,Roseau,2021,6501346.19430079,13,29,city_2270_minnesota_roseau,519.8937568664551,4.622395833333333,35.55462201900601,humid,12
-2270,"Roseau, MN",Roseau,Minnesota,Roseau,2022,6501346.19430079,58,119,city_2270_minnesota_roseau,646.34375,2.28125,52.62849872773537,humid,12
-2270,"Roseau, MN",Roseau,Minnesota,Roseau,2023,6501346.19430079,31,38,city_2270_minnesota_roseau,478.65625190734863,4.549479166666667,32.89851453954213,humid,12
-2270,"Roseau, MN",Roseau,Minnesota,Roseau,2024,6501346.19430079,51,85,city_2270_minnesota_roseau,625.4499940872192,5.5078125,40.331284253483155,humid,12
-2270,"Roseau, MN",Roseau,Minnesota,Roseau,2025,6501346.19430079,15,22,city_2270_minnesota_roseau,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2270,2018,"Roseau, MN",Roseau,Minnesota,Roseau,99.324209070589,3,3,city_2270_minnesota_roseau,543.275009155274,2.5625,43.2457718730566,humid,12
+2270,2019,"Roseau, MN",Roseau,Minnesota,Roseau,99.324209070589,16,26,city_2270_minnesota_roseau,689.200000762939,2.04427083333333,57.2222270903716,humid,12
+2270,2021,"Roseau, MN",Roseau,Minnesota,Roseau,99.324209070589,13,29,city_2270_minnesota_roseau,519.893756866455,4.62239583333333,35.554622019006,humid,12
+2270,2022,"Roseau, MN",Roseau,Minnesota,Roseau,99.324209070589,58,119,city_2270_minnesota_roseau,646.34375,2.28125,52.6284987277354,humid,12
+2270,2023,"Roseau, MN",Roseau,Minnesota,Roseau,99.324209070589,31,38,city_2270_minnesota_roseau,478.656251907349,4.54947916666667,32.8985145395421,humid,12
+2270,2024,"Roseau, MN",Roseau,Minnesota,Roseau,99.324209070589,51,85,city_2270_minnesota_roseau,625.449994087219,5.5078125,40.3312842534832,humid,12
+2270,2025,"Roseau, MN",Roseau,Minnesota,Roseau,99.324209070589,15,22,city_2270_minnesota_roseau,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2015,3739799.6155277,44,158,city_0704_montana_deer_lodge,245.23125457763672,7.0546875,14.379111583113836,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2016,3739799.6155277,33,121,city_0704_montana_deer_lodge,286.96875047683716,6.973958333333334,16.90641303821808,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2017,3739799.6155277,40,191,city_0704_montana_deer_lodge,271.5125002861023,5.919270833333334,17.05558647306777,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2018,3739799.6155277,59,299,city_0704_montana_deer_lodge,295.8375005722046,5.604166666666666,18.958878541342884,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2019,3739799.6155277,47,433,city_0704_montana_deer_lodge,311.66875314712524,4.877604166666666,20.94885370357012,dry subhumid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2020,3739799.6155277,73,1322,city_0704_montana_deer_lodge,272.9437518119812,6.3125,16.732184019125285,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2021,3739799.6155277,64,867,city_0704_montana_deer_lodge,210.72500085830688,6.6953125,12.621806321882676,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2022,3739799.6155277,63,869,city_0704_montana_deer_lodge,274.05625009536743,5.651041666666666,17.510415979471066,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2023,3739799.6155277,55,1283,city_0704_montana_deer_lodge,300.62499809265137,6.59375,18.116760713681437,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2024,3739799.6155277,64,1122,city_0704_montana_deer_lodge,250.75000095367432,6.989583333333334,14.759043587708602,semiarid,12
-704,"Deer Lodge, MT",Deer Lodge,Montana,Powell,2025,3739799.6155277,59,755,city_0704_montana_deer_lodge,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+704,2015,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,44,158,city_0704_montana_deer_lodge,245.231254577637,7.0546875,14.3791115831138,semiarid,12
+704,2016,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,33,121,city_0704_montana_deer_lodge,286.968750476837,6.97395833333333,16.9064130382181,semiarid,12
+704,2017,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,40,191,city_0704_montana_deer_lodge,271.512500286102,5.91927083333333,17.0555864730678,semiarid,12
+704,2018,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,59,299,city_0704_montana_deer_lodge,295.837500572205,5.60416666666667,18.9588785413429,semiarid,12
+704,2019,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,47,433,city_0704_montana_deer_lodge,311.668753147125,4.87760416666667,20.9488537035701,dry subhumid,12
+704,2020,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,73,1322,city_0704_montana_deer_lodge,272.943751811981,6.3125,16.7321840191253,semiarid,12
+704,2021,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,64,867,city_0704_montana_deer_lodge,210.725000858307,6.6953125,12.6218063218827,semiarid,12
+704,2022,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,63,869,city_0704_montana_deer_lodge,274.056250095367,5.65104166666667,17.5104159794711,semiarid,12
+704,2023,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,55,1283,city_0704_montana_deer_lodge,300.624998092651,6.59375,18.1167607136814,semiarid,12
+704,2024,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,64,1122,city_0704_montana_deer_lodge,250.750000953674,6.98958333333333,14.7590435877086,semiarid,12
+704,2025,"Deer Lodge, MT",Deer Lodge,Montana,Powell,100,59,755,city_0704_montana_deer_lodge,,,,,

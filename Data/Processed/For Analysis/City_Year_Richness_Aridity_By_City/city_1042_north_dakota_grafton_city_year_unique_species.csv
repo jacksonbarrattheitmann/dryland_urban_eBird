@@ -1,2 +1,2 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1042,"Grafton, ND",Grafton,North Dakota,Walsh,2015,4764322.54027946,11,22,city_1042_north_dakota_grafton,513.1374998092651,5.578125,32.93961884432595,humid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1042,2015,"Grafton, ND",Grafton,North Dakota,Walsh,99.9999999999993,11,22,city_1042_north_dakota_grafton,513.137499809265,5.578125,32.939618844326,humid,12

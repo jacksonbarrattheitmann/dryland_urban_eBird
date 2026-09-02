@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2015,18254117.6535968,73,174,city_0870_wyoming_evanston,319.0437521934509,5.911458333333334,20.051194900537663,dry subhumid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2016,18254117.6535968,12,15,city_0870_wyoming_evanston,291.67500162124634,5.575520833333334,18.72650068927581,semiarid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2017,18254117.6535968,64,175,city_0870_wyoming_evanston,254.71250104904175,5.40625,16.533062948416504,semiarid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2018,18254117.6535968,54,173,city_0870_wyoming_evanston,233.61875128746033,5.200520833333334,15.369128061398794,semiarid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2019,18254117.6535968,46,104,city_0870_wyoming_evanston,314.1812505722046,4.018229166666666,22.41233516992877,dry subhumid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2020,18254117.6535968,36,77,city_0870_wyoming_evanston,169.0250005722046,5.390625,10.982335062559486,semiarid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2021,18254117.6535968,80,368,city_0870_wyoming_evanston,283.9812502861023,5.838541666666666,17.929759965449406,semiarid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2022,18254117.6535968,54,177,city_0870_wyoming_evanston,268.6187515258789,4.776041666666666,18.179344481131036,semiarid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2023,18254117.6535968,74,458,city_0870_wyoming_evanston,321.6000008583069,4.8515625,21.65428727504644,dry subhumid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2024,18254117.6535968,80,651,city_0870_wyoming_evanston,244.10624599456787,6.372395833333334,14.909622787007166,semiarid,12
-870,"Evanston, WY",Evanston,Wyoming,Uinta,2025,18254117.6535968,71,464,city_0870_wyoming_evanston,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+870,2015,"Evanston, WY",Evanston,Wyoming,Uinta,100,73,174,city_0870_wyoming_evanston,319.043752193451,5.91145833333333,20.0511949005377,dry subhumid,12
+870,2016,"Evanston, WY",Evanston,Wyoming,Uinta,100,12,15,city_0870_wyoming_evanston,291.675001621246,5.57552083333333,18.7265006892758,semiarid,12
+870,2017,"Evanston, WY",Evanston,Wyoming,Uinta,100,64,175,city_0870_wyoming_evanston,254.712501049042,5.40625,16.5330629484165,semiarid,12
+870,2018,"Evanston, WY",Evanston,Wyoming,Uinta,100,54,173,city_0870_wyoming_evanston,233.61875128746,5.20052083333333,15.3691280613988,semiarid,12
+870,2019,"Evanston, WY",Evanston,Wyoming,Uinta,100,46,104,city_0870_wyoming_evanston,314.181250572205,4.01822916666667,22.4123351699288,dry subhumid,12
+870,2020,"Evanston, WY",Evanston,Wyoming,Uinta,100,36,77,city_0870_wyoming_evanston,169.025000572205,5.390625,10.9823350625595,semiarid,12
+870,2021,"Evanston, WY",Evanston,Wyoming,Uinta,100,80,368,city_0870_wyoming_evanston,283.981250286102,5.83854166666667,17.9297599654494,semiarid,12
+870,2022,"Evanston, WY",Evanston,Wyoming,Uinta,100,54,177,city_0870_wyoming_evanston,268.618751525879,4.77604166666667,18.179344481131,semiarid,12
+870,2023,"Evanston, WY",Evanston,Wyoming,Uinta,100,74,458,city_0870_wyoming_evanston,321.600000858307,4.8515625,21.6542872750464,dry subhumid,12
+870,2024,"Evanston, WY",Evanston,Wyoming,Uinta,100,80,651,city_0870_wyoming_evanston,244.106245994568,6.37239583333333,14.9096227870072,semiarid,12
+870,2025,"Evanston, WY",Evanston,Wyoming,Uinta,100,71,464,city_0870_wyoming_evanston,,,,,

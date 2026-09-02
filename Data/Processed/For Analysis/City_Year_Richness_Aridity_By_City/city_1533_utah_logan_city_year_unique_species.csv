@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1533,"Logan, UT",Logan,Utah,Cache,2015,113776967.411046,146,6866,city_1533_utah_logan,456.1812438964844,7.145833333333334,26.605953471483897,dry subhumid,12
-1533,"Logan, UT",Logan,Utah,Cache,2016,113776967.411046,141,5189,city_1533_utah_logan,472.76249957084656,6.721354166666666,28.272979261050477,dry subhumid,12
-1533,"Logan, UT",Logan,Utah,Cache,2017,113776967.411046,144,4601,city_1533_utah_logan,461.5187520980835,6.705729166666666,27.626375807585983,dry subhumid,12
-1533,"Logan, UT",Logan,Utah,Cache,2018,113776967.411046,125,3837,city_1533_utah_logan,384.62499475479126,6.75,22.962686254017388,dry subhumid,12
-1533,"Logan, UT",Logan,Utah,Cache,2019,113776967.411046,130,3380,city_1533_utah_logan,523.4312553405762,5.5546875,33.65102997669199,humid,12
-1533,"Logan, UT",Logan,Utah,Cache,2020,113776967.411046,140,4195,city_1533_utah_logan,288.5499973297119,6.690104166666666,17.288687622813136,semiarid,12
-1533,"Logan, UT",Logan,Utah,Cache,2021,113776967.411046,141,4928,city_1533_utah_logan,434.4250020980835,7.1953125,25.264152779897632,dry subhumid,12
-1533,"Logan, UT",Logan,Utah,Cache,2022,113776967.411046,168,9258,city_1533_utah_logan,423.5124988555908,6.229166666666666,26.09576372922768,dry subhumid,12
-1533,"Logan, UT",Logan,Utah,Cache,2023,113776967.411046,176,9585,city_1533_utah_logan,530.5812492370605,6.098958333333333,32.957489438212754,humid,12
-1533,"Logan, UT",Logan,Utah,Cache,2024,113776967.411046,172,8139,city_1533_utah_logan,393.9062466621399,7.567708333333334,22.42217591435839,dry subhumid,12
-1533,"Logan, UT",Logan,Utah,Cache,2025,113776967.411046,175,9335,city_1533_utah_logan,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1533,2015,"Logan, UT",Logan,Utah,Cache,100,146,6864,city_1533_utah_logan,456.181243896484,7.14583333333333,26.6059534714839,dry subhumid,12
+1533,2016,"Logan, UT",Logan,Utah,Cache,100,141,5189,city_1533_utah_logan,472.762499570847,6.72135416666667,28.2729792610505,dry subhumid,12
+1533,2017,"Logan, UT",Logan,Utah,Cache,100,144,4601,city_1533_utah_logan,461.518752098084,6.70572916666667,27.626375807586,dry subhumid,12
+1533,2018,"Logan, UT",Logan,Utah,Cache,100,125,3837,city_1533_utah_logan,384.624994754791,6.75,22.9626862540174,dry subhumid,12
+1533,2019,"Logan, UT",Logan,Utah,Cache,100,130,3380,city_1533_utah_logan,523.431255340576,5.5546875,33.651029976692,humid,12
+1533,2020,"Logan, UT",Logan,Utah,Cache,100,140,4195,city_1533_utah_logan,288.549997329712,6.69010416666667,17.2886876228131,semiarid,12
+1533,2021,"Logan, UT",Logan,Utah,Cache,100,141,4930,city_1533_utah_logan,434.425002098084,7.1953125,25.2641527798976,dry subhumid,12
+1533,2022,"Logan, UT",Logan,Utah,Cache,100,168,9258,city_1533_utah_logan,423.512498855591,6.22916666666667,26.0957637292277,dry subhumid,12
+1533,2023,"Logan, UT",Logan,Utah,Cache,100,176,9585,city_1533_utah_logan,530.581249237061,6.09895833333333,32.9574894382128,humid,12
+1533,2024,"Logan, UT",Logan,Utah,Cache,100,172,8139,city_1533_utah_logan,393.90624666214,7.56770833333333,22.4221759143584,dry subhumid,12
+1533,2025,"Logan, UT",Logan,Utah,Cache,100,175,9341,city_1533_utah_logan,,,,,

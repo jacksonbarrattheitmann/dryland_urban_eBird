@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-504,"Childress, TX",Childress,Texas,Childress,2015,6979250.52910767,4,4,city_0504_texas_childress,706.6062469482422,17.184895833333332,25.99260454335904,dry subhumid,12
-504,"Childress, TX",Childress,Texas,Childress,2017,6979250.52910767,18,18,city_0504_texas_childress,538.9000005722046,17.747395833333332,19.421642442020325,semiarid,12
-504,"Childress, TX",Childress,Texas,Childress,2019,6979250.52910767,19,35,city_0504_texas_childress,548.9000015258789,16.645833333333332,20.599843685099444,dry subhumid,12
-504,"Childress, TX",Childress,Texas,Childress,2020,6979250.52910767,10,13,city_0504_texas_childress,417.3125,17.2578125,15.309830897105188,semiarid,12
-504,"Childress, TX",Childress,Texas,Childress,2021,6979250.52910767,4,5,city_0504_texas_childress,472.49999928474426,17.140625,17.40932639851677,semiarid,12
-504,"Childress, TX",Childress,Texas,Childress,2022,6979250.52910767,8,10,city_0504_texas_childress,362.3062529563904,17.424479166666668,13.211053189179935,semiarid,12
-504,"Childress, TX",Childress,Texas,Childress,2023,6979250.52910767,7,8,city_0504_texas_childress,481.7312345504761,17.934895833333332,17.2447836363739,semiarid,12
-504,"Childress, TX",Childress,Texas,Childress,2024,6979250.52910767,49,131,city_0504_texas_childress,489.34375524520874,18.3671875,17.250344442684305,semiarid,12
-504,"Childress, TX",Childress,Texas,Childress,2025,6979250.52910767,27,39,city_0504_texas_childress,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+504,2015,"Childress, TX",Childress,Texas,Childress,99.9999999999996,4,4,city_0504_texas_childress,706.606246948242,17.1848958333333,25.992604543359,dry subhumid,12
+504,2017,"Childress, TX",Childress,Texas,Childress,99.9999999999996,18,18,city_0504_texas_childress,538.900000572205,17.7473958333333,19.4216424420203,semiarid,12
+504,2019,"Childress, TX",Childress,Texas,Childress,99.9999999999996,19,35,city_0504_texas_childress,548.900001525879,16.6458333333333,20.5998436850994,dry subhumid,12
+504,2020,"Childress, TX",Childress,Texas,Childress,99.9999999999996,10,13,city_0504_texas_childress,417.3125,17.2578125,15.3098308971052,semiarid,12
+504,2021,"Childress, TX",Childress,Texas,Childress,99.9999999999996,4,5,city_0504_texas_childress,472.499999284744,17.140625,17.4093263985168,semiarid,12
+504,2022,"Childress, TX",Childress,Texas,Childress,99.9999999999996,8,10,city_0504_texas_childress,362.30625295639,17.4244791666667,13.2110531891799,semiarid,12
+504,2023,"Childress, TX",Childress,Texas,Childress,99.9999999999996,7,8,city_0504_texas_childress,481.731234550476,17.9348958333333,17.2447836363739,semiarid,12
+504,2024,"Childress, TX",Childress,Texas,Childress,99.9999999999996,49,131,city_0504_texas_childress,489.343755245209,18.3671875,17.2503444426843,semiarid,12
+504,2025,"Childress, TX",Childress,Texas,Childress,99.9999999999996,27,39,city_0504_texas_childress,,,,,

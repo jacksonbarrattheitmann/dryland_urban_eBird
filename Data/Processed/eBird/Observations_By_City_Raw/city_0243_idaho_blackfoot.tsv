@@ -1,8 +1,8 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
-S23968062	2015-06-18	L3734200	US-ID-Blackfoot-252 Jefferson St - 43.1911x-112.3345	European Starling	Sturnus vulgaris	27813	species	2	43.1910960	-112.3345320	Stationary	1	0
 S23968062	2015-06-18	L3734200	US-ID-Blackfoot-252 Jefferson St - 43.1911x-112.3345	House Sparrow	Passer domesticus	31534	species	2	43.1910960	-112.3345320	Stationary	1	0
 S23968062	2015-06-18	L3734200	US-ID-Blackfoot-252 Jefferson St - 43.1911x-112.3345	American Goldfinch	Spinus tristis	32617	species	10	43.1910960	-112.3345320	Stationary	1	0
 S23968062	2015-06-18	L3734200	US-ID-Blackfoot-252 Jefferson St - 43.1911x-112.3345	House Finch	Haemorhous mexicanus	32310	species	9	43.1910960	-112.3345320	Stationary	1	0
+S23968062	2015-06-18	L3734200	US-ID-Blackfoot-252 Jefferson St - 43.1911x-112.3345	European Starling	Sturnus vulgaris	27813	species	2	43.1910960	-112.3345320	Stationary	1	0
 S27437384	2016-02-09	L4239362	Grove City Cemetery	Black-billed Magpie	Pica hudsonia	21476	species	7	43.2003740	-112.3281187	Traveling	1	0
 S27437384	2016-02-09	L4239362	Grove City Cemetery	Dark-eyed Junco	Junco hyemalis	33124	species	3	43.2003740	-112.3281187	Traveling	1	0
 S32021946	2016-10-13	L4986374	I15--Blackfoot Fast Food	House Sparrow	Passer domesticus	31534	species	4	43.1956080	-112.3606630	Stationary	1	0
@@ -14,18 +14,18 @@ S32021946	2016-10-13	L4986374	I15--Blackfoot Fast Food	European Starling	Sturnus
 S27437384	2016-02-09	L4239362	Grove City Cemetery	Red-breasted Nuthatch	Sitta canadensis	26937	species	2	43.2003740	-112.3281187	Traveling	1	0
 S34063172	2017-01-30	L5388572	Blackfoot, Idaho	European Starling	Sturnus vulgaris	27813	species	25	43.1936488	-112.3516846	Traveling	1	0
 S34063172	2017-01-30	L5388572	Blackfoot, Idaho	American Crow	Corvus brachyrhynchos	21557	species	4	43.1936488	-112.3516846	Traveling	1	0
+S57312078	2019-06-10	L9455357	Home	American Goldfinch	Spinus tristis	32617	species	6	43.2191064	-112.4159460	Stationary	1	0
+S57312078	2019-06-10	L9455357	Home	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	43.2191064	-112.4159460	Stationary	1	0
 S57312078	2019-06-10	L9455357	Home	House Sparrow	Passer domesticus	31534	species	12	43.2191064	-112.4159460	Stationary	1	0
 S57312078	2019-06-10	L9455357	Home	Red-breasted Nuthatch	Sitta canadensis	26937	species	1	43.2191064	-112.4159460	Stationary	1	0
 S57312078	2019-06-10	L9455357	Home	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	43.2191064	-112.4159460	Stationary	1	0
-S57312078	2019-06-10	L9455357	Home	American Goldfinch	Spinus tristis	32617	species	6	43.2191064	-112.4159460	Stationary	1	0
 S57312078	2019-06-10	L9455357	Home	European Starling	Sturnus vulgaris	27813	species	6	43.2191064	-112.4159460	Stationary	1	0
-S57312078	2019-06-10	L9455357	Home	Brewer's Blackbird	Euphagus cyanocephalus	33851	species	2	43.2191064	-112.4159460	Stationary	1	0
 S57312078	2019-06-10	L9455357	Home	American Robin	Turdus migratorius	28633	species	4	43.2191064	-112.4159460	Stationary	1	0
 S66925032	2020-04-10	L11122992	1550 York Dr, Blackfoot US-ID 43.17124, -112.34396	Canada Goose	Branta canadensis	342	species	2	43.1712430	-112.3439650	Traveling	1	0
+S66748909	2020-04-06	L11101807	1120 Packer Dr, Blackfoot US-ID 43.17485, -112.34013	European Starling	Sturnus vulgaris	27813	species	9	43.1748530	-112.3401340	Traveling	1	0
 S63528500	2020-01-18	L10511949	832 Lakeside Drive, Blackfoot, Idaho, US (43.201, -112.352)	American Kestrel	Falco sparverius	12028	species	2	43.2011156	-112.3518051	Traveling	1	0
 S66748909	2020-04-06	L11101807	1120 Packer Dr, Blackfoot US-ID 43.17485, -112.34013	Mallard	Anas platyrhynchos	545	species	4	43.1748530	-112.3401340	Traveling	1	0
 S66748909	2020-04-06	L11101807	1120 Packer Dr, Blackfoot US-ID 43.17485, -112.34013	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	43.1748530	-112.3401340	Traveling	1	0
-S66748909	2020-04-06	L11101807	1120 Packer Dr, Blackfoot US-ID 43.17485, -112.34013	European Starling	Sturnus vulgaris	27813	species	9	43.1748530	-112.3401340	Traveling	1	0
 S66925032	2020-04-10	L11122992	1550 York Dr, Blackfoot US-ID 43.17124, -112.34396	European Starling	Sturnus vulgaris	27813	species	4	43.1712430	-112.3439650	Traveling	1	0
 S66748909	2020-04-06	L11101807	1120 Packer Dr, Blackfoot US-ID 43.17485, -112.34013	Song Sparrow	Melospiza melodia	33277	species	3	43.1748530	-112.3401340	Traveling	1	0
 S66925032	2020-04-10	L11122992	1550 York Dr, Blackfoot US-ID 43.17124, -112.34396	Western Meadowlark	Sturnella neglecta	33565	species	1	43.1712430	-112.3439650	Traveling	1	0
@@ -46,17 +46,17 @@ S66925032	2020-04-10	L11122992	1550 York Dr, Blackfoot US-ID 43.17124, -112.3439
 S66925032	2020-04-10	L11122992	1550 York Dr, Blackfoot US-ID 43.17124, -112.34396	Black-capped Chickadee	Poecile atricapillus	22065	species	X	43.1712430	-112.3439650	Traveling	1	0
 S68666892	2020-05-09	L11375719	1120 Packer Dr, Blackfoot US-ID 43.17469, -112.34024	House Sparrow	Passer domesticus	31534	species	2	43.1746890	-112.3402380	Stationary	1	0
 S66748909	2020-04-06	L11101807	1120 Packer Dr, Blackfoot US-ID 43.17485, -112.34013	Ferruginous Hawk	Buteo regalis	8535	species	2	43.1748530	-112.3401340	Traveling	1	0
-S66925032	2020-04-10	L11122992	1550 York Dr, Blackfoot US-ID 43.17124, -112.34396	Killdeer	Charadrius vociferus	5827	species	1	43.1712430	-112.3439650	Traveling	1	0
 S63528500	2020-01-18	L10511949	832 Lakeside Drive, Blackfoot, Idaho, US (43.201, -112.352)	Bald Eagle	Haliaeetus leucocephalus	8367	species	4	43.2011156	-112.3518051	Traveling	1	0
+S66925032	2020-04-10	L11122992	1550 York Dr, Blackfoot US-ID 43.17124, -112.34396	Killdeer	Charadrius vociferus	5827	species	1	43.1712430	-112.3439650	Traveling	1	0
 S66925032	2020-04-10	L11122992	1550 York Dr, Blackfoot US-ID 43.17124, -112.34396	American Crow	Corvus brachyrhynchos	21557	species	6	43.1712430	-112.3439650	Traveling	1	0
-S68666892	2020-05-09	L11375719	1120 Packer Dr, Blackfoot US-ID 43.17469, -112.34024	European Starling	Sturnus vulgaris	27813	species	2	43.1746890	-112.3402380	Stationary	1	0
 S68666892	2020-05-09	L11375719	1120 Packer Dr, Blackfoot US-ID 43.17469, -112.34024	House Finch	Haemorhous mexicanus	32310	species	2	43.1746890	-112.3402380	Stationary	1	0
+S68666892	2020-05-09	L11375719	1120 Packer Dr, Blackfoot US-ID 43.17469, -112.34024	European Starling	Sturnus vulgaris	27813	species	2	43.1746890	-112.3402380	Stationary	1	0
 S66748909	2020-04-06	L11101807	1120 Packer Dr, Blackfoot US-ID 43.17485, -112.34013	Red-winged Blackbird	Agelaius phoeniceus	33779	species	5	43.1748530	-112.3401340	Traveling	1	0
 S94627413	2021-09-12	L16372666	1195 Parkway Dr, Blackfoot US-ID 43.19777, -112.35853	Black-billed Magpie	Pica hudsonia	21476	species	1	43.1977740	-112.3585270	Stationary	1	0
 S93389161	2021-08-17	L16139684	1241 Parkway Dr, Blackfoot US-ID 43.19680, -112.35878	House Sparrow	Passer domesticus	31534	species	5	43.1968020	-112.3587830	Stationary	1	0
 S94627413	2021-09-12	L16372666	1195 Parkway Dr, Blackfoot US-ID 43.19777, -112.35853	Double-crested Cormorant	Nannopterum auritum	7424	species	1	43.1977740	-112.3585270	Stationary	1	0
-S94627413	2021-09-12	L16372666	1195 Parkway Dr, Blackfoot US-ID 43.19777, -112.35853	American Crow	Corvus brachyrhynchos	21557	species	1	43.1977740	-112.3585270	Stationary	1	0
 S94627413	2021-09-12	L16372666	1195 Parkway Dr, Blackfoot US-ID 43.19777, -112.35853	European Starling	Sturnus vulgaris	27813	species	3	43.1977740	-112.3585270	Stationary	1	0
+S94627413	2021-09-12	L16372666	1195 Parkway Dr, Blackfoot US-ID 43.19777, -112.35853	American Crow	Corvus brachyrhynchos	21557	species	1	43.1977740	-112.3585270	Stationary	1	0
 S94627413	2021-09-12	L16372666	1195 Parkway Dr, Blackfoot US-ID 43.19777, -112.35853	Pinyon Jay	Gymnorhinus cyanocephalus	21273	species	6	43.1977740	-112.3585270	Stationary	1	0
 S100532394	2022-01-09	L9455357	Home	Red-tailed Hawk	Buteo jamaicensis	8506	species	1	43.2191064	-112.4159460	Stationary	1	0
 S100532394	2022-01-09	L9455357	Home	Ring-necked Pheasant	Phasianus colchicus	1477	species	1	43.2191064	-112.4159460	Stationary	1	0
@@ -78,35 +78,35 @@ S139702633	2023-05-28	L24762558	1040 Packer Dr, Blackfoot US-ID 43.17492, -112.3
 S151647973	2023-10-07	L27418082	130 NW Main St, Blackfoot US-ID	California Gull	Larus californicus	6591	species	2	43.1898670	-112.3434390	Traveling	1	0
 S151647973	2023-10-07	L27418082	130 NW Main St, Blackfoot US-ID	Ring-billed Gull	Larus delawarensis	6521	species	1	43.1898670	-112.3434390	Traveling	1	0
 S139741009	2023-05-29	L24762558	1040 Packer Dr, Blackfoot US-ID 43.17492, -112.34099	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	43.1749220	-112.3409910	Stationary	1	0
-S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	House Finch	Haemorhous mexicanus	32310	species	1	43.1992630	-112.3275120	Traveling	1	0
-S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.1992630	-112.3275120	Traveling	1	0
 S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Franklin's Gull	Leucophaeus pipixcan	6494	species	4	43.1927257	-112.3964270	Traveling	1	0
+S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Black-capped Chickadee	Poecile atricapillus	22065	species	1	43.1992630	-112.3275120	Traveling	1	0
+S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	House Finch	Haemorhous mexicanus	32310	species	1	43.1992630	-112.3275120	Traveling	1	0
 S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Dark-eyed Junco	Junco hyemalis	33124	species	2	43.1992630	-112.3275120	Traveling	1	0
-S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Pine Siskin	Spinus pinus	32595	species	1	43.1992630	-112.3275120	Traveling	1	0
 S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Downy Woodpecker	Dryobates pubescens	11400	species	1	43.1992630	-112.3275120	Traveling	1	0
-S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	43.1927257	-112.3964270	Traveling	1	0
+S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Pine Siskin	Spinus pinus	32595	species	1	43.1992630	-112.3275120	Traveling	1	0
 S183521866	2024-06-24	L33855415	130 NW Main St, Blackfoot US-ID 43.18911, -112.34453	Killdeer	Charadrius vociferus	5827	species	3	43.1891100	-112.3445330	Stationary	1	0
+S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	43.1927257	-112.3964270	Traveling	1	0
+S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	43.1927257	-112.3964270	Traveling	1	0
 S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	European Starling	Sturnus vulgaris	27813	species	12	43.1927257	-112.3964270	Traveling	1	0
 S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	American Robin	Turdus migratorius	28633	species	27	43.1992630	-112.3275120	Traveling	1	0
-S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	6	43.1927257	-112.3964270	Traveling	1	0
 S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	American Robin	Turdus migratorius	28633	species	8	43.1927257	-112.3964270	Traveling	1	0
 S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Brown Creeper	Certhia americana	27026	species	1	43.1992630	-112.3275120	Traveling	1	0
-S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Mourning Dove	Zenaida macroura	2412	species	1	43.1992630	-112.3275120	Traveling	1	0
 S183521866	2024-06-24	L33855415	130 NW Main St, Blackfoot US-ID 43.18911, -112.34453	House Sparrow	Passer domesticus	31534	species	1	43.1891100	-112.3445330	Stationary	1	0
 S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	American Goldfinch	Spinus tristis	32617	species	3	43.1927257	-112.3964270	Traveling	1	0
+S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Mourning Dove	Zenaida macroura	2412	species	1	43.1992630	-112.3275120	Traveling	1	0
 S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Chipping Sparrow	Spizella passerina	32990	species	2	43.1992630	-112.3275120	Traveling	1	0
-S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	43.1927257	-112.3964270	Traveling	1	0
 S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Mourning Dove	Zenaida macroura	2412	species	1	43.1927257	-112.3964270	Traveling	1	0
+S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Cedar Waxwing	Bombycilla cedrorum	29888	species	8	43.1927257	-112.3964270	Traveling	1	0
 S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Black-capped Chickadee	Poecile atricapillus	22065	species	2	43.1927257	-112.3964270	Traveling	1	0
 S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	43.1927257	-112.3964270	Traveling	1	0
-S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	House Finch	Haemorhous mexicanus	32310	species	6	43.1927257	-112.3964270	Traveling	1	0
 S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	House Sparrow	Passer domesticus	31534	species	30	43.1927257	-112.3964270	Traveling	1	0
-S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Pine Siskin	Spinus pinus	32595	species	2	43.1927257	-112.3964270	Traveling	1	0
-S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Black-billed Magpie	Pica hudsonia	21476	species	2	43.1992630	-112.3275120	Traveling	1	0
+S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	House Finch	Haemorhous mexicanus	32310	species	6	43.1927257	-112.3964270	Traveling	1	0
 S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Red-breasted Nuthatch	Sitta canadensis	26937	species	3	43.1992630	-112.3275120	Traveling	1	0
-S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	43.1927257	-112.3964270	Traveling	1	0
-S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Mountain Chickadee	Poecile gambeli	22077	species	1	43.1992630	-112.3275120	Traveling	1	0
+S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Black-billed Magpie	Pica hudsonia	21476	species	2	43.1992630	-112.3275120	Traveling	1	0
+S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Pine Siskin	Spinus pinus	32595	species	2	43.1927257	-112.3964270	Traveling	1	0
 S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	European Starling	Sturnus vulgaris	27813	species	1	43.1992630	-112.3275120	Traveling	1	0
+S196551156	2024-09-26	L36868087	Grove City Cemetery, Blackfoot US-ID 43.19926, -112.32751	Mountain Chickadee	Poecile gambeli	22077	species	1	43.1992630	-112.3275120	Traveling	1	0
+S190862725	2024-08-04	L35632545	501 West 27 South, Blackfoot, Idaho, US (43.193, -112.396)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	43.1927257	-112.3964270	Traveling	1	0
 S273130522	2025-09-13	L52782183	1279 Parkway Dr, Blackfoot US-ID 43.19677, -112.36355	House Sparrow	Passer domesticus	31534	species	21	43.1967710	-112.3635470	Traveling	1	0
 S273130522	2025-09-13	L52782183	1279 Parkway Dr, Blackfoot US-ID 43.19677, -112.36355	European Starling	Sturnus vulgaris	27813	species	17	43.1967710	-112.3635470	Traveling	1	0
 S273130522	2025-09-13	L52782183	1279 Parkway Dr, Blackfoot US-ID 43.19677, -112.36355	Rock Pigeon	Columba livia	1868	domestic	1	43.1967710	-112.3635470	Traveling	1	0

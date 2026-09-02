@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2015,13793042.3157134,29,70,city_1432_texas_lamesa,720.5687351226807,16.9765625,26.710917490791523,dry subhumid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2016,13793042.3157134,27,59,city_1432_texas_lamesa,476.5124945640564,17.78125,17.15230576608527,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2017,13793042.3157134,15,18,city_1432_texas_lamesa,487.1624941825866,17.747395833333332,17.557052817091815,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2018,13793042.3157134,47,106,city_1432_texas_lamesa,477.4437439441681,17.041666666666668,17.655854937842886,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2019,13793042.3157134,24,36,city_1432_texas_lamesa,453.0687494277954,16.859375,16.868179152634617,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2020,13793042.3157134,79,240,city_1432_texas_lamesa,287.83750438690186,17.5,10.466818341341886,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2021,13793042.3157134,44,92,city_1432_texas_lamesa,464.10625970363617,16.9296875,17.234000940546977,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2022,13793042.3157134,45,101,city_1432_texas_lamesa,324.21250081062317,17.40625,11.82987460198397,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2023,13793042.3157134,59,157,city_1432_texas_lamesa,320.7437562942505,18.0859375,11.420083673341882,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2024,13793042.3157134,36,77,city_1432_texas_lamesa,442.3937563896179,18.453125,15.548160576021717,semiarid,12
-1432,"Lamesa, TX",Lamesa,Texas,Dawson,2025,13793042.3157134,46,113,city_1432_texas_lamesa,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1432,2015,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,29,70,city_1432_texas_lamesa,720.568735122681,16.9765625,26.7109174907915,dry subhumid,12
+1432,2016,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,27,59,city_1432_texas_lamesa,476.512494564056,17.78125,17.1523057660853,semiarid,12
+1432,2017,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,15,18,city_1432_texas_lamesa,487.162494182587,17.7473958333333,17.5570528170918,semiarid,12
+1432,2018,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,47,106,city_1432_texas_lamesa,477.443743944168,17.0416666666667,17.6558549378429,semiarid,12
+1432,2019,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,24,36,city_1432_texas_lamesa,453.068749427795,16.859375,16.8681791526346,semiarid,12
+1432,2020,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,79,240,city_1432_texas_lamesa,287.837504386902,17.5,10.4668183413419,semiarid,12
+1432,2021,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,44,92,city_1432_texas_lamesa,464.106259703636,16.9296875,17.234000940547,semiarid,12
+1432,2022,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,45,101,city_1432_texas_lamesa,324.212500810623,17.40625,11.829874601984,semiarid,12
+1432,2023,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,59,157,city_1432_texas_lamesa,320.743756294251,18.0859375,11.4200836733419,semiarid,12
+1432,2024,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,36,77,city_1432_texas_lamesa,442.393756389618,18.453125,15.5481605760217,semiarid,12
+1432,2025,"Lamesa, TX",Lamesa,Texas,Dawson,99.9999999999973,46,113,city_1432_texas_lamesa,,,,,

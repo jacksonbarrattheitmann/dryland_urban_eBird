@@ -1,5 +1,9 @@
 checklist_id	observation_date	locality_id	locality	common_name	scientific_name	taxonomic_order	category	observation_count	latitude	longitude	protocol_name	approved	reviewed
 S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.5006740	-97.4517270	Traveling	1	0
+S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.5006740	-97.4517270	Traveling	1	0
+S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	European Starling	Sturnus vulgaris	27813	species	4	29.5006740	-97.4517270	Traveling	1	0
+S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	29.5006740	-97.4517270	Traveling	1	0
+S24306013	2015-07-18	L3798608	US-TX-Gonzales-Walmart	Painted Bunting	Passerina ciris	34621	species	1	29.5175630	-97.4482880	Stationary	1	0
 S24306013	2015-07-18	L3798608	US-TX-Gonzales-Walmart	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.5175630	-97.4482880	Stationary	1	0
 S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Mourning Dove	Zenaida macroura	2412	species	6	29.5006740	-97.4517270	Traveling	1	0
 S24306013	2015-07-18	L3798608	US-TX-Gonzales-Walmart	House Sparrow	Passer domesticus	31534	species	2	29.5175630	-97.4482880	Stationary	1	0
@@ -9,10 +13,6 @@ S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Western Kingbird	Tyrannus 
 S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	House Sparrow	Passer domesticus	31534	species	10	29.5006740	-97.4517270	Traveling	1	0
 S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Rock Pigeon	Columba livia	1868	domestic	65	29.5006740	-97.4517270	Traveling	1	0
 S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	4	29.5006740	-97.4517270	Traveling	1	0
-S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.5006740	-97.4517270	Traveling	1	0
-S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	European Starling	Sturnus vulgaris	27813	species	4	29.5006740	-97.4517270	Traveling	1	0
-S24308427	2015-07-18	L3799124	US-TX-Gonzales-downtown	Great-tailed Grackle	Quiscalus mexicanus	33864	species	12	29.5006740	-97.4517270	Traveling	1	0
-S24306013	2015-07-18	L3798608	US-TX-Gonzales-Walmart	Painted Bunting	Passerina ciris	34621	species	1	29.5175630	-97.4482880	Stationary	1	0
 S27343592	2016-02-06	L377869	Gonzales	Lincoln's Sparrow	Melospiza lincolnii	33310	species	7	29.5016400	-97.4524700	Traveling	1	0
 S27343592	2016-02-06	L377869	Gonzales	Orange-crowned Warbler	Leiothlypis celata	33973	species	6	29.5016400	-97.4524700	Traveling	1	0
 S27343592	2016-02-06	L377869	Gonzales	Snowy Egret	Egretta thula	7645	species	1	29.5016400	-97.4524700	Traveling	1	0
@@ -73,400 +73,400 @@ S43203841	2018-02-26	L6990370	Gonzales Cemeteries	Chipping Sparrow	Spizella pass
 S43203841	2018-02-26	L6990370	Gonzales Cemeteries	Northern Mockingbird	Mimus polyglottos	28114	species	5	29.5104530	-97.4603280	Traveling	1	0
 S43203841	2018-02-26	L6990370	Gonzales Cemeteries	Mourning Dove	Zenaida macroura	2412	species	8	29.5104530	-97.4603280	Traveling	1	0
 S51739911	2019-01-16	L8440701	1940–1954 N Saint Joseph St, Gonzales US-TX (29.5167,-97.4595)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.5167440	-97.4595310	Traveling	1	0
-S51739911	2019-01-16	L8440701	1940–1954 N Saint Joseph St, Gonzales US-TX (29.5167,-97.4595)	Northern Shoveler	Spatula clypeata	501	species	2	29.5167440	-97.4595310	Traveling	1	0
-S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	8	29.5021100	-97.4527770	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Inca Dove	Columbina inca	2242	species	1	29.5021100	-97.4527770	Traveling	1	0
-S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	White-winged Dove	Zenaida asiatica	2389	species	1	29.5021100	-97.4527770	Traveling	1	0
-S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	11	29.5025540	-97.4532980	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Common Nighthawk	Chordeiles minor	3492	species	1	29.5021100	-97.4527770	Traveling	1	0
-S58494436	2019-07-27	L9702677	1257–1305 Holmes St, Gonzales US-TX (29.5092,-97.4576)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	29.5092190	-97.4575690	Stationary	1	0
-S51739911	2019-01-16	L8440701	1940–1954 N Saint Joseph St, Gonzales US-TX (29.5167,-97.4595)	Great Blue Heron	Ardea herodias	7753	species	2	29.5167440	-97.4595310	Traveling	1	0
 S51739911	2019-01-16	L8440701	1940–1954 N Saint Joseph St, Gonzales US-TX (29.5167,-97.4595)	Great Egret	Ardea alba	7729	species	7	29.5167440	-97.4595310	Traveling	1	0
 S56655657	2019-05-23	L9327195	1201 Texas 97, Gonzales, Texas, US (29.508, -97.458)	Barn Swallow	Hirundo rustica	24187	species	4	29.5084684	-97.4582059	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Lesser Nighthawk	Chordeiles acutipennis	3484	species	2	29.5021100	-97.4527770	Traveling	1	1
-S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Western Cattle-Egret	Ardea ibis	7724	species	12	29.5025540	-97.4532980	Traveling	1	0
 S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	House Sparrow	Passer domesticus	31534	species	2	29.5025540	-97.4532980	Traveling	1	0
-S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	6	29.5021100	-97.4527770	Traveling	1	0
 S58494436	2019-07-27	L9702677	1257–1305 Holmes St, Gonzales US-TX (29.5092,-97.4576)	Mississippi Kite	Ictinia mississippiensis	8388	species	2	29.5092190	-97.4575690	Stationary	1	0
 S56655657	2019-05-23	L9327195	1201 Texas 97, Gonzales, Texas, US (29.508, -97.458)	Inca Dove	Columbina inca	2242	species	2	29.5084684	-97.4582059	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	European Starling	Sturnus vulgaris	27813	species	2	29.5021100	-97.4527770	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Bronzed Cowbird	Molothrus aeneus	33826	species	2	29.5021100	-97.4527770	Traveling	1	0
 S56655657	2019-05-23	L9327195	1201 Texas 97, Gonzales, Texas, US (29.508, -97.458)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.5084684	-97.4582059	Traveling	1	0
+S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.5021100	-97.4527770	Traveling	1	0
+S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Chimney Swift	Chaetura pelagica	3896	species	3	29.5021100	-97.4527770	Traveling	1	0
+S51739911	2019-01-16	L8440701	1940–1954 N Saint Joseph St, Gonzales US-TX (29.5167,-97.4595)	Double-crested Cormorant	Nannopterum auritum	7424	species	4	29.5167440	-97.4595310	Traveling	1	0
+S58494436	2019-07-27	L9702677	1257–1305 Holmes St, Gonzales US-TX (29.5092,-97.4576)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.5092190	-97.4575690	Stationary	1	0
+S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Barn Swallow	Hirundo rustica	24187	species	2	29.5025540	-97.4532980	Traveling	1	0
+S51739911	2019-01-16	L8440701	1940–1954 N Saint Joseph St, Gonzales US-TX (29.5167,-97.4595)	Northern Shoveler	Spatula clypeata	501	species	2	29.5167440	-97.4595310	Traveling	1	0
+S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	8	29.5021100	-97.4527770	Traveling	1	0
+S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	White-winged Dove	Zenaida asiatica	2389	species	1	29.5021100	-97.4527770	Traveling	1	0
+S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	11	29.5025540	-97.4532980	Traveling	1	0
+S58494436	2019-07-27	L9702677	1257–1305 Holmes St, Gonzales US-TX (29.5092,-97.4576)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	2	29.5092190	-97.4575690	Stationary	1	0
+S51739911	2019-01-16	L8440701	1940–1954 N Saint Joseph St, Gonzales US-TX (29.5167,-97.4595)	Great Blue Heron	Ardea herodias	7753	species	2	29.5167440	-97.4595310	Traveling	1	0
+S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Western Cattle-Egret	Ardea ibis	7724	species	12	29.5025540	-97.4532980	Traveling	1	0
+S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	6	29.5021100	-97.4527770	Traveling	1	0
 S58494436	2019-07-27	L9702677	1257–1305 Holmes St, Gonzales US-TX (29.5092,-97.4576)	Turkey Vulture	Cathartes aura	7815	species	1	29.5092190	-97.4575690	Stationary	1	0
 S56655657	2019-05-23	L9327195	1201 Texas 97, Gonzales, Texas, US (29.508, -97.458)	Northern Mockingbird	Mimus polyglottos	28114	species	3	29.5084684	-97.4582059	Traveling	1	0
 S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Chimney Swift	Chaetura pelagica	3896	species	3	29.5025540	-97.4532980	Traveling	1	0
 S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Mourning Dove	Zenaida macroura	2412	species	2	29.5025540	-97.4532980	Traveling	1	0
-S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.5021100	-97.4527770	Traveling	1	0
 S56655657	2019-05-23	L9327195	1201 Texas 97, Gonzales, Texas, US (29.508, -97.458)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.5084684	-97.4582059	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Killdeer	Charadrius vociferus	5827	species	1	29.5021100	-97.4527770	Traveling	1	0
-S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Chimney Swift	Chaetura pelagica	3896	species	3	29.5021100	-97.4527770	Traveling	1	0
-S51739911	2019-01-16	L8440701	1940–1954 N Saint Joseph St, Gonzales US-TX (29.5167,-97.4595)	Double-crested Cormorant	Nannopterum auritum	7424	species	4	29.5167440	-97.4595310	Traveling	1	0
 S56655657	2019-05-23	L9327195	1201 Texas 97, Gonzales, Texas, US (29.508, -97.458)	Mourning Dove	Zenaida macroura	2412	species	1	29.5084684	-97.4582059	Traveling	1	0
 S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	3	29.5025540	-97.4532980	Traveling	1	0
-S58494436	2019-07-27	L9702677	1257–1305 Holmes St, Gonzales US-TX (29.5092,-97.4576)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.5092190	-97.4575690	Stationary	1	0
-S55410966	2019-04-25	L9119525	601 N Saint Joseph St, Gonzales US-TX (29.5026,-97.4533)	Barn Swallow	Hirundo rustica	24187	species	2	29.5025540	-97.4532980	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	25	29.5021100	-97.4527770	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	House Sparrow	Passer domesticus	31534	species	10	29.5021100	-97.4527770	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Mourning Dove	Zenaida macroura	2412	species	5	29.5021100	-97.4527770	Traveling	1	0
 S55614634	2019-04-30	L9153756	500 Blk St Paul, Gonzales US-TX (29.5021,-97.4528)	Western Kingbird	Tyrannus verticalis	17467	species	4	29.5021100	-97.4527770	Traveling	1	0
-S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	4	29.4994914	-97.4534620	Stationary	1	0
-S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	2	29.4994914	-97.4534620	Stationary	1	0
-S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	3	29.4994914	-97.4534620	Stationary	1	0
-S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71748567	2020-07-23	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
-S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Traveling	1	0
 S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4994914	-97.4534620	Stationary	1	0
+S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Traveling	1	0
 S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Black Vulture	Coragyps atratus	7811	species	2	29.4995165	-97.4532561	Stationary	1	0
-S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	X	29.4995165	-97.4532561	Stationary	1	0
 S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Carolina Chickadee	Poecile carolinensis	22060	species	4	29.4995165	-97.4532561	Traveling	1	0
+S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	X	29.4995165	-97.4532561	Stationary	1	0
 S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Blue Jay	Cyanocitta cristata	21294	species	2	29.4995165	-97.4532561	Traveling	1	0
+S74241209	2020-09-30	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.4994914	-97.4534620	Stationary	1	0
 S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71352874	2020-07-11	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
-S74241209	2020-09-30	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.5103440	-97.4511680	Traveling	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Yellow-rumped Warbler	Setophaga coronata	34159	species	21	29.5103440	-97.4511680	Traveling	1	0
-S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
-S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
-S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70169742	2020-06-07	L11644348	Gonzales, US-TX	Great Egret	Ardea alba	7729	species	1	29.5152000	-97.4630260	Traveling	1	0
+S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	4	29.4994914	-97.4534620	Stationary	1	0
+S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71748567	2020-07-23	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	2	29.4994914	-97.4534620	Stationary	1	0
+S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	3	29.4994914	-97.4534620	Stationary	1	0
+S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
 S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4995165	-97.4532561	Stationary	1	0
-S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.4994914	-97.4534620	Stationary	1	0
-S74730531	2020-10-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Lark Sparrow	Chondestes grammacus	33029	species	1	29.4994914	-97.4534620	Traveling	1	0
 S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Traveling	1	0
+S74730531	2020-10-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Lark Sparrow	Chondestes grammacus	33029	species	1	29.4994914	-97.4534620	Traveling	1	0
+S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.4994914	-97.4534620	Stationary	1	0
 S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	20	29.4994914	-97.4534620	Traveling	1	0
 S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
+S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.5103440	-97.4511680	Traveling	1	0
+S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Yellow-rumped Warbler	Setophaga coronata	34159	species	21	29.5103440	-97.4511680	Traveling	1	0
+S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70169742	2020-06-07	L11644348	Gonzales, US-TX	Great Egret	Ardea alba	7729	species	1	29.5152000	-97.4630260	Traveling	1	0
+S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S63804976	2020-01-26	L10577712	Gonzales city cemetery	Blue Jay	Cyanocitta cristata	21294	species	1	29.5103440	-97.4511680	Traveling	1	0
+S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4995165	-97.4532561	Stationary	1	0
+S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	5	29.4994914	-97.4534620	Stationary	1	0
+S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
+S75643114	2020-10-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
+S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	1	29.4994914	-97.4534620	Stationary	1	0
+S74789300	2020-10-13	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Traveling	1	0
+S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
+S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	29.4995165	-97.4532561	Stationary	1	0
+S71352874	2020-07-11	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	29.4994914	-97.4534620	Stationary	1	0
+S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4994914	-97.4534620	Stationary	1	0
 S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4994914	-97.4534620	Stationary	1	0
 S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	7	29.4994914	-97.4534620	Stationary	1	0
-S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Stationary	1	0
-S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	29.4995165	-97.4532561	Stationary	1	0
-S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	29.4994914	-97.4534620	Stationary	1	0
-S71352874	2020-07-11	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Turkey Vulture	Cathartes aura	7815	species	1	29.5103440	-97.4511680	Traveling	1	0
 S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4995165	-97.4532561	Stationary	1	0
-S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4995165	-97.4532561	Stationary	1	0
-S75643114	2020-10-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
-S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
-S74789300	2020-10-13	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Traveling	1	0
-S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
-S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	1	29.4994914	-97.4534620	Stationary	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Turkey Vulture	Cathartes aura	7815	species	1	29.5103440	-97.4511680	Traveling	1	0
 S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4994914	-97.4534620	Stationary	1	0
-S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	5	29.4994914	-97.4534620	Stationary	1	0
-S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Stationary	1	0
 S69096971	2020-05-15	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4995165	-97.4532561	Stationary	1	0
-S74789300	2020-10-13	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	3	29.4994914	-97.4534620	Traveling	1	0
 S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Traveling	1	0
+S74789300	2020-10-13	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	3	29.4994914	-97.4534620	Traveling	1	0
 S71806783	2020-07-25	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
 S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	House Sparrow	Passer domesticus	31534	species	2	29.4995165	-97.4532561	Stationary	1	0
-S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.4995165	-97.4532561	Stationary	1	0
-S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4994914	-97.4534620	Stationary	1	0
-S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.4994914	-97.4534620	Stationary	1	0
 S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	11	29.4994914	-97.4534620	Traveling	1	0
-S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71806783	2020-07-25	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.4994914	-97.4534620	Stationary	1	0
+S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4994914	-97.4534620	Stationary	1	0
+S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.4994914	-97.4534620	Stationary	1	0
+S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.4994914	-97.4534620	Traveling	1	0
+S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	House Sparrow	Passer domesticus	31534	species	4	29.5102010	-97.4562880	Stationary	1	0
 S63804976	2020-01-26	L10577712	Gonzales city cemetery	Northern Cardinal	Cardinalis cardinalis	34515	species	4	29.5103440	-97.4511680	Traveling	1	0
 S69096971	2020-05-15	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	House Finch	Haemorhous mexicanus	32310	species	2	29.4995165	-97.4532561	Stationary	1	0
-S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	8	29.4994914	-97.4534620	Stationary	1	0
-S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.4994914	-97.4534620	Traveling	1	0
-S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.4994914	-97.4534620	Stationary	1	0
-S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.4994914	-97.4534620	Stationary	1	0
+S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.4995165	-97.4532561	Stationary	1	0
+S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71806783	2020-07-25	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Stationary	1	0
-S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	House Sparrow	Passer domesticus	31534	species	4	29.5102010	-97.4562880	Stationary	1	0
-S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	4	29.4994914	-97.4534620	Stationary	1	0
 S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
+S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71748567	2020-07-23	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
-S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	X	29.4994914	-97.4534620	Stationary	1	0
+S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4994914	-97.4534620	Stationary	1	0
+S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4994914	-97.4534620	Stationary	1	0
 S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	4	29.4994914	-97.4534620	Stationary	1	0
+S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.4994914	-97.4534620	Stationary	1	0
+S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
+S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
 S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4994914	-97.4534620	Traveling	1	0
-S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
-S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
-S74730531	2020-10-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Traveling	1	0
 S71748567	2020-07-23	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71806783	2020-07-25	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	5	29.4994914	-97.4534620	Stationary	1	0
+S74730531	2020-10-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Traveling	1	0
 S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great Blue Heron	Ardea herodias	7753	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70169742	2020-06-07	L11644348	Gonzales, US-TX	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.5152000	-97.4630260	Traveling	1	0
-S71806783	2020-07-25	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	5	29.4994914	-97.4534620	Stationary	1	0
-S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Traveling	1	0
 S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Traveling	1	0
 S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71352874	2020-07-11	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.4994914	-97.4534620	Stationary	1	0
 S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Mourning Dove	Zenaida macroura	2412	species	1	29.5102010	-97.4562880	Stationary	1	0
 S69096971	2020-05-15	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4995165	-97.4532561	Stationary	1	0
 S75643114	2020-10-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Sandhill Crane	Antigone canadensis	5697	species	X	29.4994914	-97.4534620	Stationary	1	0
 S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	5	29.4994914	-97.4534620	Traveling	1	0
-S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
+S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
+S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Black Vulture	Coragyps atratus	7811	species	1	29.5102010	-97.4562880	Stationary	1	0
 S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.5102010	-97.4562880	Stationary	1	0
 S69096971	2020-05-15	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4995165	-97.4532561	Stationary	1	0
 S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Stationary	1	0
-S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Common Nighthawk	Chordeiles minor	3492	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Painted Bunting	Passerina ciris	34621	species	1	29.4994914	-97.4534620	Stationary	1	0
-S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Black Vulture	Coragyps atratus	7811	species	1	29.5102010	-97.4562880	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	29.5103440	-97.4511680	Traveling	1	0
-S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Finch	Haemorhous mexicanus	32310	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	10	29.4994914	-97.4534620	Stationary	1	0
-S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	29.4994914	-97.4534620	Stationary	1	0
-S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Eastern Bluebird	Sialia sialis	28126	species	7	29.4995165	-97.4532561	Traveling	1	0
-S70169742	2020-06-07	L11644348	Gonzales, US-TX	House Sparrow	Passer domesticus	31534	species	2	29.5152000	-97.4630260	Traveling	1	0
-S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	6	29.4994914	-97.4534620	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	29.5103440	-97.4511680	Traveling	1	0
+S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
 S63804976	2020-01-26	L10577712	Gonzales city cemetery	Tufted Titmouse	Baeolophus bicolor	22160	species	2	29.5103440	-97.4511680	Traveling	1	0
+S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	10	29.4994914	-97.4534620	Stationary	1	0
+S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Finch	Haemorhous mexicanus	32310	species	1	29.4994914	-97.4534620	Stationary	1	0
 S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.4995165	-97.4532561	Stationary	1	0
 S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4994914	-97.4534620	Stationary	1	0
+S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Eastern Bluebird	Sialia sialis	28126	species	7	29.4995165	-97.4532561	Traveling	1	0
+S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	6	29.4994914	-97.4534620	Stationary	1	0
+S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	29.5103440	-97.4511680	Traveling	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Cedar Waxwing	Bombycilla cedrorum	29888	species	10	29.5103440	-97.4511680	Traveling	1	0
 S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.4994914	-97.4534620	Stationary	1	0
+S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated Hummingbird	Archilochus colubris	4802	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	4	29.4994914	-97.4534620	Stationary	1	0
+S70169742	2020-06-07	L11644348	Gonzales, US-TX	House Sparrow	Passer domesticus	31534	species	2	29.5152000	-97.4630260	Traveling	1	0
 S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	3	29.4994914	-97.4534620	Stationary	1	0
-S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
-S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated/Black-chinned Hummingbird	Archilochus colubris/alexandri	4807	slash	3	29.4994914	-97.4534620	Stationary	1	0
-S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4994914	-97.4534620	Stationary	1	0
+S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.4995165	-97.4532561	Stationary	1	0
+S75643114	2020-10-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	5	29.4994914	-97.4534620	Stationary	1	0
+S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Traveling	1	0
+S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70169742	2020-06-07	L11644348	Gonzales, US-TX	White-winged Dove	Zenaida asiatica	2389	species	1	29.5152000	-97.4630260	Traveling	1	0
+S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4994914	-97.4534620	Stationary	1	0
 S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Yellow Warbler	Setophaga aestiva	34087	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Turkey Vulture	Cathartes aura	7815	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71748567	2020-07-23	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	4	29.4994914	-97.4534620	Stationary	1	0
 S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.4994914	-97.4534620	Stationary	1	0
-S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.4995165	-97.4532561	Stationary	1	0
-S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Traveling	1	0
-S75643114	2020-10-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	5	29.4994914	-97.4534620	Stationary	1	0
-S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.4994914	-97.4534620	Stationary	1	0
-S74241209	2020-09-30	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	3	29.4994914	-97.4534620	Stationary	1	0
+S71748567	2020-07-23	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	4	29.4994914	-97.4534620	Stationary	1	0
+S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
+S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated/Black-chinned Hummingbird	Archilochus colubris/alexandri	4807	slash	3	29.4994914	-97.4534620	Stationary	1	0
+S70169742	2020-06-07	L11644348	Gonzales, US-TX	White-winged Dove	Zenaida asiatica	2389	species	1	29.5152000	-97.4630260	Traveling	1	0
 S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
+S74241209	2020-09-30	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	3	29.4994914	-97.4534620	Stationary	1	0
 S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Killdeer	Charadrius vociferus	5827	species	1	29.5102010	-97.4562880	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Bewick's Wren	Thryomanes bewickii	27362	species	1	29.5103440	-97.4511680	Traveling	1	0
 S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	11	29.4994914	-97.4534620	Traveling	1	0
 S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
-S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	12	29.4994914	-97.4534620	Stationary	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Bewick's Wren	Thryomanes bewickii	27362	species	1	29.5103440	-97.4511680	Traveling	1	0
+S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	2	29.4994914	-97.4534620	Stationary	1	0
+S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	5	29.4994914	-97.4534620	Stationary	1	0
 S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-eyed Vireo	Vireo griseus	19165	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70169742	2020-06-07	L11644348	Gonzales, US-TX	European Starling	Sturnus vulgaris	27813	species	1	29.5152000	-97.4630260	Traveling	1	0
-S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
-S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	2	29.4994914	-97.4534620	Stationary	1	0
-S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4995165	-97.4532561	Traveling	1	0
+S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	12	29.4994914	-97.4534620	Stationary	1	0
 S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4994914	-97.4534620	Stationary	1	0
 S78255169	2020-12-30	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4995165	-97.4532561	Stationary	1	0
+S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Chipping Sparrow	Spizella passerina	32990	species	4	29.5103440	-97.4511680	Traveling	1	0
-S74730531	2020-10-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Traveling	1	0
-S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	7	29.4994914	-97.4534620	Stationary	1	0
-S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S70169742	2020-06-07	L11644348	Gonzales, US-TX	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.5152000	-97.4630260	Traveling	1	0
 S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	29.5102010	-97.4562880	Stationary	1	0
-S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	2	29.4994914	-97.4534620	Stationary	1	0
-S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	3	29.4995165	-97.4532561	Stationary	1	0
 S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Killdeer	Charadrius vociferus	5827	species	2	29.4995165	-97.4532561	Traveling	1	0
-S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
+S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	3	29.4995165	-97.4532561	Stationary	1	0
 S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.4994914	-97.4534620	Stationary	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Chipping Sparrow	Spizella passerina	32990	species	4	29.5103440	-97.4511680	Traveling	1	0
+S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S70169742	2020-06-07	L11644348	Gonzales, US-TX	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.5152000	-97.4630260	Traveling	1	0
+S70201453	2020-06-08	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	2	29.4994914	-97.4534620	Stationary	1	0
+S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
+S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	7	29.4994914	-97.4534620	Stationary	1	0
+S74730531	2020-10-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Traveling	1	0
 S71160585	2020-07-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.4994914	-97.4534620	Stationary	1	0
+S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.4994914	-97.4534620	Stationary	1	0
 S74730531	2020-10-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated/Black-chinned Hummingbird	Archilochus colubris/alexandri	4807	slash	2	29.4994914	-97.4534620	Traveling	1	0
 S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.4994914	-97.4534620	Stationary	1	0
-S71994776	2020-07-31	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Scissor-tailed Flycatcher	Tyrannus forficatus	17489	species	1	29.4994914	-97.4534620	Stationary	1	0
-S73927774	2020-09-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	6	29.4994914	-97.4534620	Stationary	1	0
 S74241209	2020-09-30	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Tufted Titmouse	Baeolophus bicolor	22160	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
+S73927774	2020-09-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	6	29.4994914	-97.4534620	Stationary	1	0
 S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated/Black-chinned Hummingbird	Archilochus colubris/alexandri	4807	slash	2	29.4994914	-97.4534620	Stationary	1	0
+S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.4994914	-97.4534620	Stationary	1	0
+S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	6	29.4994914	-97.4534620	Stationary	1	0
+S78255169	2020-12-30	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71352874	2020-07-11	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	7	29.4994914	-97.4534620	Stationary	1	0
 S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	2	29.4994914	-97.4534620	Traveling	1	0
 S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	3	29.4994914	-97.4534620	Stationary	1	0
-S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	16	29.4994914	-97.4534620	Traveling	1	0
-S78255169	2020-12-30	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	6	29.4994914	-97.4534620	Stationary	1	0
-S70272471	2020-06-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.4994914	-97.4534620	Stationary	1	0
 S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Eastern Phoebe	Sayornis phoebe	17007	species	2	29.4995165	-97.4532561	Traveling	1	0
 S74730531	2020-10-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Traveling	1	0
 S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	2	29.4994914	-97.4534620	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	White-winged Dove	Zenaida asiatica	2389	species	2	29.5103440	-97.4511680	Traveling	1	0
-S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4995165	-97.4532561	Traveling	1	0
-S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	29.4994914	-97.4534620	Stationary	1	0
-S74789300	2020-10-13	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Traveling	1	0
-S69096971	2020-05-15	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4995165	-97.4532561	Stationary	1	0
-S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70169742	2020-06-07	L11644348	Gonzales, US-TX	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.5152000	-97.4630260	Traveling	1	0
-S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	House Finch	Haemorhous mexicanus	32310	species	1	29.4995165	-97.4532561	Stationary	1	0
+S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	16	29.4994914	-97.4534620	Traveling	1	0
 S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
 S76562369	2020-11-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Stationary	1	0
+S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4995165	-97.4532561	Traveling	1	0
+S74789300	2020-10-13	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Traveling	1	0
+S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	2	29.4994914	-97.4534620	Stationary	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	White-winged Dove	Zenaida asiatica	2389	species	2	29.5103440	-97.4511680	Traveling	1	0
+S69096971	2020-05-15	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4995165	-97.4532561	Stationary	1	0
+S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70169742	2020-06-07	L11644348	Gonzales, US-TX	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.5152000	-97.4630260	Traveling	1	0
+S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	House Finch	Haemorhous mexicanus	32310	species	1	29.4995165	-97.4532561	Stationary	1	0
 S71583648	2020-07-17	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	5	29.4994914	-97.4534620	Stationary	1	0
 S73992530	2020-09-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Stationary	1	0
 S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.4994914	-97.4534620	Stationary	1	0
-S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	2	29.4994914	-97.4534620	Stationary	1	0
-S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Traveling	1	0
-S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated/Black-chinned Hummingbird	Archilochus colubris/alexandri	4807	slash	X	29.4994914	-97.4534620	Stationary	1	0
-S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
 S63804976	2020-01-26	L10577712	Gonzales city cemetery	Carolina Chickadee	Poecile carolinensis	22060	species	2	29.5103440	-97.4511680	Traveling	1	0
+S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
+S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Traveling	1	0
+S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S70562926	2020-06-18	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Western Kingbird	Tyrannus verticalis	17467	species	2	29.4994914	-97.4534620	Stationary	1	0
+S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
+S74789300	2020-10-13	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Traveling	1	0
+S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
 S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4995165	-97.4532561	Stationary	1	0
 S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4995165	-97.4532561	Stationary	1	0
 S73508360	2020-09-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Stationary	1	0
-S74789300	2020-10-13	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Traveling	1	0
-S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
+S69031319	2020-05-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated/Black-chinned Hummingbird	Archilochus colubris/alexandri	4807	slash	X	29.4994914	-97.4534620	Stationary	1	0
 S68724820	2020-05-09	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Barn Swallow	Hirundo rustica	24187	species	4	29.4995165	-97.4532561	Stationary	1	0
 S71516753	2020-07-15	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4994914	-97.4534620	Stationary	1	0
-S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4995165	-97.4532561	Stationary	1	0
-S69096971	2020-05-15	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Barn Swallow	Hirundo rustica	24187	species	4	29.4995165	-97.4532561	Stationary	1	0
 S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	29.5103440	-97.4511680	Traveling	1	0
-S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4994914	-97.4534620	Stationary	1	0
+S69096971	2020-05-15	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Barn Swallow	Hirundo rustica	24187	species	4	29.4995165	-97.4532561	Stationary	1	0
+S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4995165	-97.4532561	Stationary	1	0
 S70776415	2020-06-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	2	29.4994914	-97.4534620	Stationary	1	0
 S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	2	29.4994914	-97.4534620	Stationary	1	0
-S63804976	2020-01-26	L10577712	Gonzales city cemetery	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.5103440	-97.4511680	Traveling	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Blue-gray Gnatcatcher	Polioptila caerulea	27123	species	2	29.5103440	-97.4511680	Traveling	1	0
+S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4994914	-97.4534620	Stationary	1	0
 S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Traveling	1	0
 S71806783	2020-07-25	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-chinned Hummingbird	Archilochus alexandri	4803	species	1	29.4994914	-97.4534620	Stationary	1	0
+S63804976	2020-01-26	L10577712	Gonzales city cemetery	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.5103440	-97.4511680	Traveling	1	0
 S71352874	2020-07-11	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	2	29.4994914	-97.4534620	Stationary	1	0
 S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Traveling	1	0
 S63804976	2020-01-26	L10577712	Gonzales city cemetery	Eastern Phoebe	Sayornis phoebe	17007	species	3	29.5103440	-97.4511680	Traveling	1	0
 S73314323	2020-09-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Chickadee	Poecile carolinensis	22060	species	2	29.4994914	-97.4534620	Stationary	1	0
-S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
+S70712039	2020-06-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70852065	2020-06-26	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Stationary	1	0
-S73927774	2020-09-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated/Black-chinned Hummingbird	Archilochus colubris/alexandri	4807	slash	2	29.4994914	-97.4534620	Stationary	1	0
-S76562369	2020-11-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	3	29.4994914	-97.4534620	Stationary	1	0
-S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Traveling	1	0
 S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Mississippi Kite	Ictinia mississippiensis	8388	species	4	29.5102010	-97.4562880	Stationary	1	0
+S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	4	29.4994914	-97.4534620	Stationary	1	0
+S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Stationary	1	0
 S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4995165	-97.4532561	Traveling	1	0
-S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.5102010	-97.4562880	Stationary	1	0
 S76562369	2020-11-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.4994914	-97.4534620	Stationary	1	0
 S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4994914	-97.4534620	Traveling	1	0
 S63804976	2020-01-26	L10577712	Gonzales city cemetery	Northern Mockingbird	Mimus polyglottos	28114	species	3	29.5103440	-97.4511680	Traveling	1	0
-S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4995165	-97.4532561	Stationary	1	0
 S77142730	2020-12-06	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Black Vulture	Coragyps atratus	7811	species	14	29.4995165	-97.4532561	Traveling	1	0
-S71352874	2020-07-11	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S69524670	2020-05-23	L11366102	304 Saint Louis Street, Gonzales, Texas, US (29.5, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4995165	-97.4532561	Stationary	1	0
 S72055494	2020-08-02	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Traveling	1	0
 S71387401	2020-07-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	5	29.4994914	-97.4534620	Stationary	1	0
-S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Stationary	1	0
-S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	4	29.4994914	-97.4534620	Stationary	1	0
-S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
+S71352874	2020-07-11	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S73927774	2020-09-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Ruby-throated/Black-chinned Hummingbird	Archilochus colubris/alexandri	4807	slash	2	29.4994914	-97.4534620	Stationary	1	0
+S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	3	29.4994914	-97.4534620	Stationary	1	0
+S71314973	2020-07-10	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Traveling	1	0
+S76562369	2020-11-22	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70079512	2020-06-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	White-winged Dove	Zenaida asiatica	2389	species	1	29.4994914	-97.4534620	Stationary	1	0
+S70363767	2020-06-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
+S72214366	2020-08-08	L12032984	Williams St, Gonzales US-TX (29.5102,-97.4563)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.5102010	-97.4562880	Stationary	1	0
 S70169742	2020-06-07	L11644348	Gonzales, US-TX	Western Kingbird	Tyrannus verticalis	17467	species	1	29.5152000	-97.4630260	Traveling	1	0
-S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Stationary	1	0
 S70018461	2020-06-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S92636513	2021-08-01	L15975688	TX: Gonzales downtown	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.5028300	-97.4533493	Traveling	1	0
+S70141108	2020-06-06	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Killdeer	Charadrius vociferus	5827	species	1	29.4994914	-97.4534620	Stationary	1	0
 S85402743	2021-04-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.4994914	-97.4534620	Stationary	1	0
 S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	30	29.4994914	-97.4534620	Stationary	1	0
-S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	3	29.4994914	-97.4534620	Stationary	1	0
-S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
 S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	3	29.4994914	-97.4534620	Stationary	1	0
-S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4994914	-97.4534620	Stationary	1	0
+S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	3	29.4994914	-97.4534620	Stationary	1	0
+S92636513	2021-08-01	L15975688	TX: Gonzales downtown	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.5028300	-97.4533493	Traveling	1	0
 S85402743	2021-04-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
-S78592731	2021-01-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
-S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	3	29.4994914	-97.4534620	Stationary	1	0
-S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	Mississippi Kite	Ictinia mississippiensis	8388	species	2	29.4996100	-97.4519160	Traveling	1	0
-S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4996100	-97.4519160	Traveling	1	0
-S92636513	2021-08-01	L15975688	TX: Gonzales downtown	House Sparrow	Passer domesticus	31534	species	10	29.5028300	-97.4533493	Traveling	1	0
+S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4994914	-97.4534620	Stationary	1	0
 S78592731	2021-01-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	3	29.4994914	-97.4534620	Stationary	1	0
+S92636513	2021-08-01	L15975688	TX: Gonzales downtown	House Sparrow	Passer domesticus	31534	species	10	29.5028300	-97.4533493	Traveling	1	0
+S78592731	2021-01-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
 S83795455	2021-03-21	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S83739447	2021-03-20	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
+S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	Mississippi Kite	Ictinia mississippiensis	8388	species	2	29.4996100	-97.4519160	Traveling	1	0
+S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4996100	-97.4519160	Traveling	1	0
 S80467779	2021-02-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.4994914	-97.4534620	Stationary	1	0
 S80603363	2021-02-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	10	29.4994914	-97.4534620	Stationary	1	0
-S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S83795455	2021-03-21	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.4994914	-97.4534620	Stationary	1	0
+S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
 S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	Barn Swallow	Hirundo rustica	24187	species	1	29.4996100	-97.4519160	Traveling	1	0
 S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	House Sparrow	Passer domesticus	31534	species	25	29.5151700	-97.4495884	Traveling	1	0
-S83739447	2021-03-20	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S84028122	2021-03-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4994914	-97.4534620	Stationary	1	0
+S83739447	2021-03-20	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
-S83739447	2021-03-20	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
 S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	5	29.4994914	-97.4534620	Stationary	1	0
 S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.4994914	-97.4534620	Stationary	1	0
 S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	4	29.4994914	-97.4534620	Stationary	1	0
 S83795455	2021-03-21	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Carolina Chickadee	Poecile carolinensis	22060	species	1	29.4994914	-97.4534620	Stationary	1	0
-S80467779	2021-02-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	American Robin	Turdus migratorius	28633	species	1	29.4994914	-97.4534620	Stationary	1	0
+S83739447	2021-03-20	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
+S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	29.4994914	-97.4534620	Stationary	1	0
 S83795455	2021-03-21	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Crested Caracara	Caracara plancus	11963	issf	1	29.4994914	-97.4534620	Stationary	1	0
+S80467779	2021-02-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	American Robin	Turdus migratorius	28633	species	1	29.4994914	-97.4534620	Stationary	1	0
 S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	Mourning Dove	Zenaida macroura	2412	species	15	29.4996100	-97.4519160	Traveling	1	0
 S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Mississippi Kite	Ictinia mississippiensis	8388	species	2	29.5151700	-97.4495884	Traveling	1	0
-S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	X	29.4994914	-97.4534620	Stationary	1	0
-S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eastern Kingbird	Tyrannus tyrannus	17472	species	2	29.4994914	-97.4534620	Stationary	1	0
-S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Rock Pigeon	Columba livia	1868	domestic	75	29.5151700	-97.4495884	Traveling	1	1
 S84028122	2021-03-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Finch	Haemorhous mexicanus	32310	species	1	29.4994914	-97.4534620	Stationary	1	0
+S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Rock Pigeon	Columba livia	1868	domestic	75	29.5151700	-97.4495884	Traveling	1	1
+S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eastern Kingbird	Tyrannus tyrannus	17472	species	2	29.4994914	-97.4534620	Stationary	1	0
 S84028122	2021-03-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.5151700	-97.4495884	Traveling	1	0
+S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	29.5151700	-97.4495884	Traveling	1	0
 S85402743	2021-04-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
 S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	Western Kingbird	Tyrannus verticalis	17467	species	1	29.4996100	-97.4519160	Traveling	1	0
-S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	8	29.5151700	-97.4495884	Traveling	1	0
-S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Carolina Wren	Thryothorus ludovicianus	27348	species	2	29.5151700	-97.4495884	Traveling	1	0
-S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
-S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
 S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.4994914	-97.4534620	Stationary	1	0
 S84028122	2021-03-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	2	29.4994914	-97.4534620	Stationary	1	0
+S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
+S82431956	2021-02-27	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
 S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S83739447	2021-03-20	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4994914	-97.4534620	Stationary	1	0
 S83739447	2021-03-20	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Turkey Vulture	Cathartes aura	7815	species	1	29.4994914	-97.4534620	Stationary	1	0
 S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Mourning Dove	Zenaida macroura	2412	species	6	29.5151700	-97.4495884	Traveling	1	0
 S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Swainson's Hawk	Buteo swainsoni	8504	species	1	29.5151700	-97.4495884	Traveling	1	0
-S80603363	2021-02-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
 S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Yellow-rumped Warbler	Setophaga coronata	34159	species	4	29.4994914	-97.4534620	Stationary	1	0
 S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.5151700	-97.4495884	Traveling	1	0
+S80603363	2021-02-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
+S80603363	2021-02-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.4994914	-97.4534620	Stationary	1	0
+S78592731	2021-01-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
 S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
 S92636513	2021-08-01	L15975688	TX: Gonzales downtown	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.5028300	-97.4533493	Traveling	1	0
-S78592731	2021-01-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
-S80603363	2021-02-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eastern Phoebe	Sayornis phoebe	17007	species	1	29.4994914	-97.4534620	Stationary	1	0
 S85515186	2021-04-14	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	1	29.4994914	-97.4534620	Stationary	1	0
 S92636513	2021-08-01	L15975688	TX: Gonzales downtown	Barn Swallow	Hirundo rustica	24187	species	2	29.5028300	-97.4533493	Traveling	1	0
 S92636513	2021-08-01	L15975688	TX: Gonzales downtown	Great-tailed Grackle	Quiscalus mexicanus	33864	species	6	29.5028300	-97.4533493	Traveling	1	0
 S92615804	2021-08-01	L15970683	1433 Church Street, Gonzales, Texas, US (29.515, -97.45)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	10	29.5151700	-97.4495884	Traveling	1	0
-S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	House Sparrow	Passer domesticus	31534	species	3	29.4996100	-97.4519160	Traveling	1	0
-S85402743	2021-04-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S80603363	2021-02-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.4994914	-97.4534620	Stationary	1	0
+S85402743	2021-04-12	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	House Sparrow	Passer domesticus	31534	species	X	29.4994914	-97.4534620	Stationary	1	0
 S83795455	2021-03-21	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	2	29.4994914	-97.4534620	Stationary	1	0
 S84028122	2021-03-24	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
 S78592731	2021-01-03	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.4994914	-97.4534620	Stationary	1	0
-S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Stationary	1	0
+S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	House Sparrow	Passer domesticus	31534	species	3	29.4996100	-97.4519160	Traveling	1	0
+S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
+S83795455	2021-03-21	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
+S80467779	2021-02-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
 S83739447	2021-03-20	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Mourning Dove	Zenaida macroura	2412	species	1	29.4994914	-97.4534620	Stationary	1	0
 S91562541	2021-07-10	L15718835	301–309 N St Joseph St, Gonzales US-TX 29.49961, -97.45192	Black Vulture	Coragyps atratus	7811	species	14	29.4996100	-97.4519160	Traveling	1	0
-S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Mockingbird	Mimus polyglottos	28114	species	1	29.4994914	-97.4534620	Stationary	1	0
-S80467779	2021-02-05	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Black Vulture	Coragyps atratus	7811	species	1	29.4994914	-97.4534620	Stationary	1	0
-S83795455	2021-03-21	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Barn Swallow	Hirundo rustica	24187	species	2	29.4994914	-97.4534620	Stationary	1	0
-S92905949	2021-08-07	L16035958	624 Saint Matthew St, Gonzales US-TX 29.50037, -97.44869	Mississippi Kite	Ictinia mississippiensis	8388	species	4	29.5003750	-97.4486900	Traveling	1	0
-S80603363	2021-02-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.4994914	-97.4534620	Stationary	1	0
+S85065326	2021-04-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4994914	-97.4534620	Stationary	1	0
 S83795455	2021-03-21	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Northern Cardinal	Cardinalis cardinalis	34515	species	2	29.4994914	-97.4534620	Stationary	1	0
+S80603363	2021-02-07	L11443513	315 Saint James Street, Gonzales, Texas, US (29.499, -97.453)	Yellow-rumped Warbler	Setophaga coronata	34159	species	1	29.4994914	-97.4534620	Stationary	1	0
+S92905949	2021-08-07	L16035958	624 Saint Matthew St, Gonzales US-TX 29.50037, -97.44869	Mississippi Kite	Ictinia mississippiensis	8388	species	4	29.5003750	-97.4486900	Traveling	1	0
 S119423083	2022-09-25	L21011098	US 183 Highway, Gonzales, Texas, US (29.493, -97.449)	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.4931450	-97.4493938	Traveling	1	0
 S120943891	2022-10-19	L21285783	411 Saint Lawrence St, Gonzales US-TX 29.50230, -97.45264	Turkey Vulture	Cathartes aura	7815	species	1	29.5023000	-97.4526420	Stationary	1	0
 S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	House Sparrow	Passer domesticus	31534	species	6	29.5083317	-97.4309144	Traveling	1	0
@@ -479,16 +479,16 @@ S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Brown-crested
 S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Cave Swallow	Petrochelidon fulva	24289	species	12	29.5083317	-97.4309144	Traveling	1	0
 S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Carolina Wren	Thryothorus ludovicianus	27348	species	3	29.5083317	-97.4309144	Traveling	1	0
 S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Inca Dove	Columbina inca	2242	species	4	29.5083317	-97.4309144	Traveling	1	0
-S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Blue Jay	Cyanocitta cristata	21294	species	2	29.5083317	-97.4309144	Traveling	1	0
 S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Carolina Chickadee	Poecile carolinensis	22060	species	4	29.5083317	-97.4309144	Traveling	1	0
+S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Blue Jay	Cyanocitta cristata	21294	species	2	29.5083317	-97.4309144	Traveling	1	0
 S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	7	29.5083317	-97.4309144	Traveling	1	0
 S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Eastern Bluebird	Sialia sialis	28126	species	2	29.5083317	-97.4309144	Traveling	1	0
 S137652316	2023-05-14	L18551152	Gonzales City Park/Kerr Creek Park	Mourning Dove	Zenaida macroura	2412	species	3	29.5083317	-97.4309144	Traveling	1	0
 S206009131	2024-12-19	L38729152	1114 East Sarah DeWitt Drive, Gonzales, Texas, US (29.518, -97.448)	Marsh Wren	Cistothorus palustris	27329	species	1	29.5175793	-97.4479592	Stationary	1	0
 S206009131	2024-12-19	L38729152	1114 East Sarah DeWitt Drive, Gonzales, Texas, US (29.518, -97.448)	Common Yellowthroat	Geothlypis trichas	34028	species	1	29.5175793	-97.4479592	Stationary	1	1
 S206009131	2024-12-19	L38729152	1114 East Sarah DeWitt Drive, Gonzales, Texas, US (29.518, -97.448)	Northern Cardinal	Cardinalis cardinalis	34515	species	3	29.5175793	-97.4479592	Stationary	1	0
-S172494986	2024-05-02	L31372758	Gonzales	European Starling	Sturnus vulgaris	27813	species	8	29.5081524	-97.4580475	Traveling	1	0
 S172494986	2024-05-02	L31372758	Gonzales	Great-tailed Grackle	Quiscalus mexicanus	33864	species	3	29.5081524	-97.4580475	Traveling	1	0
+S172494986	2024-05-02	L31372758	Gonzales	European Starling	Sturnus vulgaris	27813	species	8	29.5081524	-97.4580475	Traveling	1	0
 S172494986	2024-05-02	L31372758	Gonzales	House Sparrow	Passer domesticus	31534	species	2	29.5081524	-97.4580475	Traveling	1	0
 S206009131	2024-12-19	L38729152	1114 East Sarah DeWitt Drive, Gonzales, Texas, US (29.518, -97.448)	Belted Kingfisher	Megaceryle alcyon	10306	species	1	29.5175793	-97.4479592	Stationary	1	0
 S206009131	2024-12-19	L38729152	1114 East Sarah DeWitt Drive, Gonzales, Texas, US (29.518, -97.448)	Ruby-crowned Kinglet	Corthylio calendula	26844	species	1	29.5175793	-97.4479592	Stationary	1	0
@@ -496,27 +496,27 @@ S206009131	2024-12-19	L38729152	1114 East Sarah DeWitt Drive, Gonzales, Texas, U
 S172494986	2024-05-02	L31372758	Gonzales	Killdeer	Charadrius vociferus	5827	species	2	29.5081524	-97.4580475	Traveling	1	0
 S229690499	2025-04-26	L43484689	600–698 N St Joseph St, Gonzales US-TX 29.50254, -97.45327	Great-tailed Grackle	Quiscalus mexicanus	33864	species	1	29.5025430	-97.4532670	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Black Vulture	Coragyps atratus	7811	species	1	29.4998470	-97.4547560	Traveling	1	0
-S229690499	2025-04-26	L43484689	600–698 N St Joseph St, Gonzales US-TX 29.50254, -97.45327	House Sparrow	Passer domesticus	31534	species	1	29.5025430	-97.4532670	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Inca Dove	Columbina inca	2242	species	2	29.4998470	-97.4547560	Traveling	1	0
+S229690499	2025-04-26	L43484689	600–698 N St Joseph St, Gonzales US-TX 29.50254, -97.45327	House Sparrow	Passer domesticus	31534	species	1	29.5025430	-97.4532670	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	White-winged Dove	Zenaida asiatica	2389	species	1	29.4998470	-97.4547560	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Great-tailed Grackle	Quiscalus mexicanus	33864	species	8	29.4998470	-97.4547560	Traveling	1	0
-S240395268	2025-05-19	L45496657	100–198 Qualls St, Gonzales US-TX 29.51269, -97.46160	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.5126880	-97.4616020	Traveling	1	0
-S240395268	2025-05-19	L45496657	100–198 Qualls St, Gonzales US-TX 29.51269, -97.46160	Great-tailed Grackle	Quiscalus mexicanus	33864	species	13	29.5126880	-97.4616020	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Turkey Vulture	Cathartes aura	7815	species	1	29.4998470	-97.4547560	Traveling	1	0
+S240395268	2025-05-19	L45496657	100–198 Qualls St, Gonzales US-TX 29.51269, -97.46160	Great-tailed Grackle	Quiscalus mexicanus	33864	species	13	29.5126880	-97.4616020	Traveling	1	0
+S240395268	2025-05-19	L45496657	100–198 Qualls St, Gonzales US-TX 29.51269, -97.46160	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.5126880	-97.4616020	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Western Kingbird	Tyrannus verticalis	17467	species	4	29.4998470	-97.4547560	Traveling	1	0
-S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.4998470	-97.4547560	Traveling	1	0
 S240395268	2025-05-19	L45496657	100–198 Qualls St, Gonzales US-TX 29.51269, -97.46160	Western Kingbird	Tyrannus verticalis	17467	species	2	29.5126880	-97.4616020	Traveling	1	0
+S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Mississippi Kite	Ictinia mississippiensis	8388	species	1	29.4998470	-97.4547560	Traveling	1	0
 S267903315	2025-08-17	L51669271	Gonzales Memorial Museum	Red-bellied Woodpecker	Melanerpes carolinus	11199	species	1	29.5039480	-97.4436570	Traveling	1	0
-S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Mourning Dove	Zenaida macroura	2412	species	5	29.4998470	-97.4547560	Traveling	1	0
-S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4998470	-97.4547560	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Barn Swallow	Hirundo rustica	24187	species	3	29.4998470	-97.4547560	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	House Sparrow	Passer domesticus	31534	species	32	29.4998470	-97.4547560	Traveling	1	0
-S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4998470	-97.4547560	Traveling	1	0
+S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Mourning Dove	Zenaida macroura	2412	species	5	29.4998470	-97.4547560	Traveling	1	0
+S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Eurasian Collared-Dove	Streptopelia decaocto	2031	species	1	29.4998470	-97.4547560	Traveling	1	0
 S267903315	2025-08-17	L51669271	Gonzales Memorial Museum	Northern Cardinal	Cardinalis cardinalis	34515	species	1	29.5039480	-97.4436570	Traveling	1	0
-S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Downy Woodpecker	Dryobates pubescens	11400	species	1	29.4998470	-97.4547560	Traveling	1	0
+S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Carolina Wren	Thryothorus ludovicianus	27348	species	1	29.4998470	-97.4547560	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Black-bellied Whistling-Duck	Dendrocygna autumnalis	243	species	2	29.4998470	-97.4547560	Traveling	1	0
-S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	White-eyed Vireo	Vireo griseus	19165	species	1	29.4998470	-97.4547560	Traveling	1	0
+S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Downy Woodpecker	Dryobates pubescens	11400	species	1	29.4998470	-97.4547560	Traveling	1	0
 S240395268	2025-05-19	L45496657	100–198 Qualls St, Gonzales US-TX 29.51269, -97.46160	House Sparrow	Passer domesticus	31534	species	5	29.5126880	-97.4616020	Traveling	1	0
 S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	Northern Mockingbird	Mimus polyglottos	28114	species	2	29.4998470	-97.4547560	Traveling	1	0
 S229690499	2025-04-26	L43484689	600–698 N St Joseph St, Gonzales US-TX 29.50254, -97.45327	Barn Swallow	Hirundo rustica	24187	species	1	29.5025430	-97.4532670	Traveling	1	0
+S259612412	2025-07-12	L49731023	Downtown - Squares and Guadalupe Dam, 415 Saint John St, Gonzales US-TX 29.49985, -97.45476	White-eyed Vireo	Vireo griseus	19165	species	1	29.4998470	-97.4547560	Traveling	1	0
 S267903315	2025-08-17	L51669271	Gonzales Memorial Museum	Red-shouldered Hawk	Buteo lineatus	8487	species	1	29.5039480	-97.4436570	Traveling	1	0

@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2015,4854123.7006058,17,22,city_1097_texas_groesbeck,1231.6937370300293,19.705729166666668,41.46317130003781,humid,12
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2016,4854123.7006058,27,44,city_1097_texas_groesbeck,1092.8874969482422,20.4375,35.905954725198924,humid,12
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2017,4854123.7006058,22,24,city_1097_texas_groesbeck,875.3625030517578,20.5078125,28.693060279289373,dry subhumid,12
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2018,4854123.7006058,20,35,city_1097_texas_groesbeck,1084.9437522888184,19.598958333333332,36.65479507996712,humid,12
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2019,4854123.7006058,46,92,city_1097_texas_groesbeck,951.7312469482422,19.578125,32.176862020437135,humid,12
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2020,4854123.7006058,11,11,city_1097_texas_groesbeck,972.0187568664552,20.0078125,32.39218976279778,humid,12
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2021,4854123.7006058,13,13,city_1097_texas_groesbeck,966.549991607666,19.627604166666668,32.62329232463248,humid,12
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2024,4854123.7006058,4,4,city_1097_texas_groesbeck,1017.4875030517578,21.122395833333332,32.69309691003891,humid,12
-1097,"Groesbeck, TX",Groesbeck,Texas,Limestone,2025,4854123.7006058,12,14,city_1097_texas_groesbeck,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1097,2015,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,17,22,city_1097_texas_groesbeck,1231.69373703003,19.7057291666667,41.4631713000378,humid,12
+1097,2016,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,27,44,city_1097_texas_groesbeck,1092.88749694824,20.4375,35.9059547251989,humid,12
+1097,2017,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,22,24,city_1097_texas_groesbeck,875.362503051758,20.5078125,28.6930602792894,dry subhumid,12
+1097,2018,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,20,35,city_1097_texas_groesbeck,1084.94375228882,19.5989583333333,36.6547950799671,humid,12
+1097,2019,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,46,92,city_1097_texas_groesbeck,951.731246948242,19.578125,32.1768620204371,humid,12
+1097,2020,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,11,11,city_1097_texas_groesbeck,972.018756866455,20.0078125,32.3921897627978,humid,12
+1097,2021,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,13,13,city_1097_texas_groesbeck,966.549991607666,19.6276041666667,32.6232923246325,humid,12
+1097,2024,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,4,4,city_1097_texas_groesbeck,1017.48750305176,21.1223958333333,32.6930969100389,humid,12
+1097,2025,"Groesbeck, TX",Groesbeck,Texas,Limestone,99.9999999999988,12,14,city_1097_texas_groesbeck,,,,,

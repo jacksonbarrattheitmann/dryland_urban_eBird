@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2673,"Waco, TX",Waco,Texas,McLennan,2015,235174432.758805,77,1197,city_2673_texas_waco,1161.1187553405762,19.971354166666668,38.74095073862032,humid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2016,235174432.758805,94,3208,city_2673_texas_waco,1064,20.7265625,34.628019323671495,humid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2017,235174432.758805,100,2075,city_2673_texas_waco,786.2749977111816,20.705729166666668,25.606784761351346,dry subhumid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2018,235174432.758805,117,2389,city_2673_texas_waco,947.6874980926514,19.9453125,31.647273612277427,humid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2019,235174432.758805,141,2878,city_2673_texas_waco,853.4750099182129,19.934895833333332,28.51103991375326,dry subhumid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2020,235174432.758805,153,7944,city_2673_texas_waco,868.799991607666,20.3515625,28.6245557080518,dry subhumid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2021,235174432.758805,179,11355,city_2673_texas_waco,895.2624969482422,19.932291666666668,29.90958750897207,dry subhumid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2022,235174432.758805,152,5696,city_2673_texas_waco,645.7249984741211,20.1953125,21.38494173471863,dry subhumid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2023,235174432.758805,157,6646,city_2673_texas_waco,805.2999973297119,20.973958333333332,25.99926004494782,dry subhumid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2024,235174432.758805,164,6016,city_2673_texas_waco,896.40625,21.307291666666668,28.632507070370984,dry subhumid,12
-2673,"Waco, TX",Waco,Texas,McLennan,2025,235174432.758805,163,6002,city_2673_texas_waco,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2673,2015,"Waco, TX",Waco,Texas,McLennan,100,77,1197,city_2673_texas_waco,1161.11875534058,19.9713541666667,38.7409507386203,humid,12
+2673,2016,"Waco, TX",Waco,Texas,McLennan,100,94,3208,city_2673_texas_waco,1064,20.7265625,34.6280193236715,humid,12
+2673,2017,"Waco, TX",Waco,Texas,McLennan,100,100,2075,city_2673_texas_waco,786.274997711182,20.7057291666667,25.6067847613513,dry subhumid,12
+2673,2018,"Waco, TX",Waco,Texas,McLennan,100,117,2389,city_2673_texas_waco,947.687498092651,19.9453125,31.6472736122774,humid,12
+2673,2019,"Waco, TX",Waco,Texas,McLennan,100,141,2878,city_2673_texas_waco,853.475009918213,19.9348958333333,28.5110399137533,dry subhumid,12
+2673,2020,"Waco, TX",Waco,Texas,McLennan,100,153,7944,city_2673_texas_waco,868.799991607666,20.3515625,28.6245557080518,dry subhumid,12
+2673,2021,"Waco, TX",Waco,Texas,McLennan,100,179,11355,city_2673_texas_waco,895.262496948242,19.9322916666667,29.9095875089721,dry subhumid,12
+2673,2022,"Waco, TX",Waco,Texas,McLennan,100,152,5696,city_2673_texas_waco,645.724998474121,20.1953125,21.3849417347186,dry subhumid,12
+2673,2023,"Waco, TX",Waco,Texas,McLennan,100,157,6646,city_2673_texas_waco,805.299997329712,20.9739583333333,25.9992600449478,dry subhumid,12
+2673,2024,"Waco, TX",Waco,Texas,McLennan,100,164,6016,city_2673_texas_waco,896.40625,21.3072916666667,28.632507070371,dry subhumid,12
+2673,2025,"Waco, TX",Waco,Texas,McLennan,100,163,6002,city_2673_texas_waco,,,,,

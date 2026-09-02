@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2015,8726596.51252461,22,67,city_0975_texas_fritch,687.5499906539917,15.317708333333332,27.15688093099494,dry subhumid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2016,8726596.51252461,24,45,city_0975_texas_fritch,493.1624913215637,15.859375,19.07093622029008,semiarid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2017,8726596.51252461,60,126,city_0975_texas_fritch,564.2749985456467,15.75,21.913592176529967,dry subhumid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2018,8726596.51252461,32,51,city_0975_texas_fritch,455.2437479496002,15.041666666666668,18.179450833261903,semiarid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2019,8726596.51252461,30,54,city_0975_texas_fritch,508.62500286102295,14.7421875,20.5569941162649,dry subhumid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2020,8726596.51252461,16,16,city_0975_texas_fritch,368.8312530517578,15.455729166666666,14.489125439578006,semiarid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2021,8726596.51252461,27,49,city_0975_texas_fritch,415.3062490224838,15.229166666666668,16.46135421393825,semiarid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2022,8726596.51252461,8,8,city_0975_texas_fritch,343.1124939918518,15.2578125,13.584410526123424,semiarid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2023,8726596.51252461,32,59,city_0975_texas_fritch,486.9124937057495,15.856770833333332,18.83114085839539,semiarid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2024,8726596.51252461,20,24,city_0975_texas_fritch,461.88124775886536,16.411458333333332,17.48791156965138,semiarid,12
-975,"Fritch, TX",Fritch,Texas,Hutchinson,2025,8726596.51252461,20,70,city_0975_texas_fritch,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+975,2015,"Fritch, TX",Fritch,Texas,Hutchinson,100,22,67,city_0975_texas_fritch,687.549990653992,15.3177083333333,27.1568809309949,dry subhumid,12
+975,2016,"Fritch, TX",Fritch,Texas,Hutchinson,100,24,45,city_0975_texas_fritch,493.162491321564,15.859375,19.0709362202901,semiarid,12
+975,2017,"Fritch, TX",Fritch,Texas,Hutchinson,100,60,126,city_0975_texas_fritch,564.274998545647,15.75,21.91359217653,dry subhumid,12
+975,2018,"Fritch, TX",Fritch,Texas,Hutchinson,100,32,51,city_0975_texas_fritch,455.2437479496,15.0416666666667,18.1794508332619,semiarid,12
+975,2019,"Fritch, TX",Fritch,Texas,Hutchinson,100,30,54,city_0975_texas_fritch,508.625002861023,14.7421875,20.5569941162649,dry subhumid,12
+975,2020,"Fritch, TX",Fritch,Texas,Hutchinson,100,16,16,city_0975_texas_fritch,368.831253051758,15.4557291666667,14.489125439578,semiarid,12
+975,2021,"Fritch, TX",Fritch,Texas,Hutchinson,100,27,49,city_0975_texas_fritch,415.306249022484,15.2291666666667,16.4613542139383,semiarid,12
+975,2022,"Fritch, TX",Fritch,Texas,Hutchinson,100,8,8,city_0975_texas_fritch,343.112493991852,15.2578125,13.5844105261234,semiarid,12
+975,2023,"Fritch, TX",Fritch,Texas,Hutchinson,100,32,59,city_0975_texas_fritch,486.91249370575,15.8567708333333,18.8311408583954,semiarid,12
+975,2024,"Fritch, TX",Fritch,Texas,Hutchinson,100,20,24,city_0975_texas_fritch,461.881247758865,16.4114583333333,17.4879115696514,semiarid,12
+975,2025,"Fritch, TX",Fritch,Texas,Hutchinson,100,20,70,city_0975_texas_fritch,,,,,

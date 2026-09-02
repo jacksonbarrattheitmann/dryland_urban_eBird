@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2015,118417257.490882,130,1901,city_1912_oklahoma_norman,1162.943754196167,16.8828125,43.259750228744366,humid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2016,118417257.490882,137,1544,city_1912_oklahoma_norman,847.1687550544739,17.575520833333332,30.721768055616018,humid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2017,118417257.490882,152,3301,city_1912_oklahoma_norman,917.2312498092653,17.278645833333332,33.6245155061344,humid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2018,118417257.490882,151,4172,city_1912_oklahoma_norman,958.943738937378,16.408854166666668,36.31144815619299,humid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2019,118417257.490882,139,2895,city_1912_oklahoma_norman,1159.3187370300293,16.213541666666668,44.22594824354572,humid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2020,118417257.490882,158,4891,city_1912_oklahoma_norman,966.6374969482422,16.572916666666668,36.37679329950264,humid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2021,118417257.490882,160,7707,city_1912_oklahoma_norman,861.4499979019165,16.7265625,32.23197887502055,humid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2022,118417257.490882,150,9560,city_1912_oklahoma_norman,793.1875009536743,16.7265625,29.677872002943676,dry subhumid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2023,118417257.490882,154,10824,city_1912_oklahoma_norman,896.2750129699707,17.505208333333332,32.58564712937595,humid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2024,118417257.490882,167,15849,city_1912_oklahoma_norman,835.9187412261963,17.96875,29.887597451662884,dry subhumid,12
-1912,"Norman, OK",Norman,Oklahoma,Cleveland,2025,118417257.490882,169,16723,city_1912_oklahoma_norman,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1912,2015,"Norman, OK",Norman,Oklahoma,Cleveland,100,130,1901,city_1912_oklahoma_norman,1162.94375419617,16.8828125,43.2597502287444,humid,12
+1912,2016,"Norman, OK",Norman,Oklahoma,Cleveland,100,137,1544,city_1912_oklahoma_norman,847.168755054474,17.5755208333333,30.721768055616,humid,12
+1912,2017,"Norman, OK",Norman,Oklahoma,Cleveland,100,152,3301,city_1912_oklahoma_norman,917.231249809265,17.2786458333333,33.6245155061344,humid,12
+1912,2018,"Norman, OK",Norman,Oklahoma,Cleveland,100,151,4172,city_1912_oklahoma_norman,958.943738937378,16.4088541666667,36.311448156193,humid,12
+1912,2019,"Norman, OK",Norman,Oklahoma,Cleveland,100,139,2895,city_1912_oklahoma_norman,1159.31873703003,16.2135416666667,44.2259482435457,humid,12
+1912,2020,"Norman, OK",Norman,Oklahoma,Cleveland,100,158,4891,city_1912_oklahoma_norman,966.637496948242,16.5729166666667,36.3767932995026,humid,12
+1912,2021,"Norman, OK",Norman,Oklahoma,Cleveland,100,161,7710,city_1912_oklahoma_norman,861.449997901917,16.7265625,32.2319788750206,humid,12
+1912,2022,"Norman, OK",Norman,Oklahoma,Cleveland,100,150,9560,city_1912_oklahoma_norman,793.187500953674,16.7265625,29.6778720029437,dry subhumid,12
+1912,2023,"Norman, OK",Norman,Oklahoma,Cleveland,100,154,10824,city_1912_oklahoma_norman,896.275012969971,17.5052083333333,32.585647129376,humid,12
+1912,2024,"Norman, OK",Norman,Oklahoma,Cleveland,100,167,15849,city_1912_oklahoma_norman,835.918741226196,17.96875,29.8875974516629,dry subhumid,12
+1912,2025,"Norman, OK",Norman,Oklahoma,Cleveland,100,169,16726,city_1912_oklahoma_norman,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2015,29827001.4392291,80,249,city_2081_south_dakota_pierre,509.70625162124634,9.830729166666668,25.702849720624897,dry subhumid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2016,29827001.4392291,66,161,city_2081_south_dakota_pierre,445.17499828338623,10.390625,21.832337080564535,dry subhumid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2017,29827001.4392291,104,482,city_2081_south_dakota_pierre,354.04999828338623,9.625,18.040764243739424,semiarid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2018,29827001.4392291,117,582,city_2081_south_dakota_pierre,496.2562475204468,8.263020833333332,27.172736211015483,dry subhumid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2019,29827001.4392291,120,675,city_2081_south_dakota_pierre,624.1750020980835,7.609375,35.44560792748655,humid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2020,29827001.4392291,93,386,city_2081_south_dakota_pierre,326.71249771118164,9.7734375,16.52279719756272,semiarid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2021,29827001.4392291,92,445,city_2081_south_dakota_pierre,384.1375036239624,10.401041666666668,18.82930832162389,semiarid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2022,29827001.4392291,124,605,city_2081_south_dakota_pierre,353.675000667572,8.890625,18.722249828556336,semiarid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2023,29827001.4392291,103,429,city_2081_south_dakota_pierre,459.8624987602234,9.736979166666668,23.299538134836492,dry subhumid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2024,29827001.4392291,127,789,city_2081_south_dakota_pierre,394.3187470436096,10.643229166666668,19.101601976125405,semiarid,12
-2081,"Pierre, SD",Pierre,South Dakota,Hughes,2025,29827001.4392291,154,1554,city_2081_south_dakota_pierre,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2081,2015,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,80,249,city_2081_south_dakota_pierre,509.706251621246,9.83072916666667,25.7028497206249,dry subhumid,12
+2081,2016,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,66,161,city_2081_south_dakota_pierre,445.174998283386,10.390625,21.8323370805645,dry subhumid,12
+2081,2017,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,104,482,city_2081_south_dakota_pierre,354.049998283386,9.625,18.0407642437394,semiarid,12
+2081,2018,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,117,582,city_2081_south_dakota_pierre,496.256247520447,8.26302083333333,27.1727362110155,dry subhumid,12
+2081,2019,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,120,675,city_2081_south_dakota_pierre,624.175002098084,7.609375,35.4456079274866,humid,12
+2081,2020,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,93,386,city_2081_south_dakota_pierre,326.712497711182,9.7734375,16.5227971975627,semiarid,12
+2081,2021,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,92,445,city_2081_south_dakota_pierre,384.137503623962,10.4010416666667,18.8293083216239,semiarid,12
+2081,2022,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,124,605,city_2081_south_dakota_pierre,353.675000667572,8.890625,18.7222498285563,semiarid,12
+2081,2023,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,103,429,city_2081_south_dakota_pierre,459.862498760223,9.73697916666667,23.2995381348365,dry subhumid,12
+2081,2024,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,127,789,city_2081_south_dakota_pierre,394.31874704361,10.6432291666667,19.1016019761254,semiarid,12
+2081,2025,"Pierre, SD",Pierre,South Dakota,Hughes,99.9999999999991,154,1554,city_2081_south_dakota_pierre,,,,,

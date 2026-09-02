@@ -1,6 +1,6 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S70640670,L11736100,"Wildflower Run, Bristow, Oklahoma, US (35.834, -96.404)",2020-06-20,2020,317,"Bristow, OK",Bristow,Oklahoma,Creek,4795249.28632119,5,,1,35.8342396,-96.4039164,5,5,city_0317_oklahoma_bristow
-S81330751,L13655005,"550–556 SH-66, Bristow US-OK 35.83045, -96.39931",2021-02-14,2021,317,"Bristow, OK",Bristow,Oklahoma,Creek,4795249.28632119,71,,1,35.830452,-96.399315,8,8,city_0317_oklahoma_bristow
-S90023646,L17284932,"35.829670, -96.386039",2021-06-11,2021,317,"Bristow, OK",Bristow,Oklahoma,Creek,4795249.28632119,9,,1,35.82967,-96.386039,9,9,city_0317_oklahoma_bristow
-S103107328,L17682795,"309 S Poplar St, Bristow US-OK (35.8304,-96.3860)",2022-02-19,2022,317,"Bristow, OK",Bristow,Oklahoma,Creek,4795249.28632119,10,,1,35.830355,-96.385957,10,10,city_0317_oklahoma_bristow
-S107509204,L17682795,"309 S Poplar St, Bristow US-OK (35.8304,-96.3860)",2022-04-19,2022,317,"Bristow, OK",Bristow,Oklahoma,Creek,4795249.28632119,60,3.831,1,35.830355,-96.385957,10,10,city_0317_oklahoma_bristow
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S70640670,L11736100,"Wildflower Run, Bristow, Oklahoma, US (35.834, -96.404)",2020-06-20,2020,317,"Bristow, OK",Bristow,Oklahoma,Creek,100,5,,1,Stationary,35.8342396,-96.4039164,5,5,city_0317_oklahoma_bristow
+S81330751,L13655005,"550–556 SH-66, Bristow US-OK 35.83045, -96.39931",2021-02-14,2021,317,"Bristow, OK",Bristow,Oklahoma,Creek,100,71,,1,Stationary,35.830452,-96.399315,8,8,city_0317_oklahoma_bristow
+S90023646,L17284932,"35.829670, -96.386039",2021-06-11,2021,317,"Bristow, OK",Bristow,Oklahoma,Creek,100,9,,1,Stationary,35.82967,-96.386039,9,9,city_0317_oklahoma_bristow
+S103107328,L17682795,"309 S Poplar St, Bristow US-OK (35.8304,-96.3860)",2022-02-19,2022,317,"Bristow, OK",Bristow,Oklahoma,Creek,100,10,,1,Stationary,35.830355,-96.385957,10,10,city_0317_oklahoma_bristow
+S107509204,L17682795,"309 S Poplar St, Bristow US-OK (35.8304,-96.3860)",2022-04-19,2022,317,"Bristow, OK",Bristow,Oklahoma,Creek,100,60,3.831,1,Traveling,35.830355,-96.385957,10,10,city_0317_oklahoma_bristow

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2015,8448843.20011594,9,9,city_2400_nebraska_sidney,541.6374983787537,10.296875,26.685758195719966,dry subhumid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2016,8448843.20011594,16,16,city_2400_nebraska_sidney,493.28124713897705,10.604166666666668,23.94084920391395,dry subhumid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2017,8448843.20011594,40,104,city_2400_nebraska_sidney,478.1874995231629,10.255208333333332,23.608125458587622,dry subhumid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2018,8448843.20011594,30,68,city_2400_nebraska_sidney,531.9249992370605,9.591145833333332,27.15129598657866,dry subhumid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2019,8448843.20011594,32,67,city_2400_nebraska_sidney,614.0312433242798,8.84375,32.585405947557135,humid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2020,8448843.20011594,33,63,city_2400_nebraska_sidney,343.89999771118164,10.3046875,16.936975647184013,semiarid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2021,8448843.20011594,38,117,city_2400_nebraska_sidney,472.1437439918518,10.494791666666668,23.03725510709925,dry subhumid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2022,8448843.20011594,31,103,city_2400_nebraska_sidney,326.53125047683716,9.736979166666668,16.544135134332425,semiarid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2023,8448843.20011594,32,95,city_2400_nebraska_sidney,555.4187445640564,9.809895833333332,28.037438926330704,dry subhumid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2024,8448843.20011594,42,155,city_2400_nebraska_sidney,403.2374942302704,11.059895833333332,19.14717420358895,semiarid,12
-2400,"Sidney, NE",Sidney,Nebraska,Cheyenne,2025,8448843.20011594,91,566,city_2400_nebraska_sidney,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2400,2015,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,9,9,city_2400_nebraska_sidney,541.637498378754,10.296875,26.68575819572,dry subhumid,12
+2400,2016,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,16,16,city_2400_nebraska_sidney,493.281247138977,10.6041666666667,23.940849203914,dry subhumid,12
+2400,2017,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,40,104,city_2400_nebraska_sidney,478.187499523163,10.2552083333333,23.6081254585876,dry subhumid,12
+2400,2018,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,30,68,city_2400_nebraska_sidney,531.924999237061,9.59114583333333,27.1512959865787,dry subhumid,12
+2400,2019,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,32,67,city_2400_nebraska_sidney,614.03124332428,8.84375,32.5854059475571,humid,12
+2400,2020,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,33,63,city_2400_nebraska_sidney,343.899997711182,10.3046875,16.936975647184,semiarid,12
+2400,2021,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,38,117,city_2400_nebraska_sidney,472.143743991852,10.4947916666667,23.0372551070993,dry subhumid,12
+2400,2022,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,31,103,city_2400_nebraska_sidney,326.531250476837,9.73697916666667,16.5441351343324,semiarid,12
+2400,2023,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,32,95,city_2400_nebraska_sidney,555.418744564056,9.80989583333333,28.0374389263307,dry subhumid,12
+2400,2024,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,42,155,city_2400_nebraska_sidney,403.23749423027,11.0598958333333,19.147174203589,semiarid,12
+2400,2025,"Sidney, NE",Sidney,Nebraska,Cheyenne,100,91,566,city_2400_nebraska_sidney,,,,,

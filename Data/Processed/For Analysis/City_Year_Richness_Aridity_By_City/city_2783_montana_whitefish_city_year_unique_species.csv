@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2015,12138926.4475544,33,69,city_2783_montana_whitefish,476.606258392334,7.315104166666666,27.52546296024309,dry subhumid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2016,12138926.4475544,78,263,city_2783_montana_whitefish,519.931245803833,7.020833333333334,30.54675617941736,humid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2017,12138926.4475544,60,379,city_2783_montana_whitefish,583.0062417984009,5.872395833333334,36.730828031269226,humid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2018,12138926.4475544,99,720,city_2783_montana_whitefish,524.943751335144,5.739583333333334,33.351820071590886,humid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2019,12138926.4475544,129,2256,city_2783_montana_whitefish,537.5125007629395,4.981770833333334,35.877768171904876,humid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2020,12138926.4475544,147,4656,city_2783_montana_whitefish,514.506251335144,6.328125,31.510430703779157,humid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2021,12138926.4475544,128,2125,city_2783_montana_whitefish,443.15625,6.7734375,26.4201210992082,dry subhumid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2022,12138926.4475544,146,2992,city_2783_montana_whitefish,525.5750007629395,5.692708333333334,33.49166948107679,humid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2023,12138926.4475544,139,2833,city_2783_montana_whitefish,473.4624977111816,6.713541666666666,28.328077145698625,dry subhumid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2024,12138926.4475544,140,2358,city_2783_montana_whitefish,509.8187484741211,6.979166666666666,30.026134879457445,humid,12
-2783,"Whitefish, MT",Whitefish,Montana,Flathead,2025,12138926.4475544,143,1965,city_2783_montana_whitefish,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2783,2015,"Whitefish, MT",Whitefish,Montana,Flathead,100,33,69,city_2783_montana_whitefish,476.606258392334,7.31510416666667,27.5254629602431,dry subhumid,12
+2783,2016,"Whitefish, MT",Whitefish,Montana,Flathead,100,78,263,city_2783_montana_whitefish,519.931245803833,7.02083333333333,30.5467561794174,humid,12
+2783,2017,"Whitefish, MT",Whitefish,Montana,Flathead,100,60,379,city_2783_montana_whitefish,583.006241798401,5.87239583333333,36.7308280312692,humid,12
+2783,2018,"Whitefish, MT",Whitefish,Montana,Flathead,100,99,720,city_2783_montana_whitefish,524.943751335144,5.73958333333333,33.3518200715909,humid,12
+2783,2019,"Whitefish, MT",Whitefish,Montana,Flathead,100,129,2256,city_2783_montana_whitefish,537.51250076294,4.98177083333333,35.8777681719049,humid,12
+2783,2020,"Whitefish, MT",Whitefish,Montana,Flathead,100,147,4656,city_2783_montana_whitefish,514.506251335144,6.328125,31.5104307037792,humid,12
+2783,2021,"Whitefish, MT",Whitefish,Montana,Flathead,100,128,2125,city_2783_montana_whitefish,443.15625,6.7734375,26.4201210992082,dry subhumid,12
+2783,2022,"Whitefish, MT",Whitefish,Montana,Flathead,100,146,2992,city_2783_montana_whitefish,525.57500076294,5.69270833333333,33.4916694810768,humid,12
+2783,2023,"Whitefish, MT",Whitefish,Montana,Flathead,100,139,2833,city_2783_montana_whitefish,473.462497711182,6.71354166666667,28.3280771456986,dry subhumid,12
+2783,2024,"Whitefish, MT",Whitefish,Montana,Flathead,100,140,2358,city_2783_montana_whitefish,509.818748474121,6.97916666666667,30.0261348794574,humid,12
+2783,2025,"Whitefish, MT",Whitefish,Montana,Flathead,100,143,1965,city_2783_montana_whitefish,,,,,

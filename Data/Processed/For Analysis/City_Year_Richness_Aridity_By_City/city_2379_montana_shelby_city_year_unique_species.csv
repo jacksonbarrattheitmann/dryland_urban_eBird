@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2379,"Shelby, MT",Shelby,Montana,Toole,2015,3731940.62959341,16,19,city_2379_montana_shelby,248.17500638961792,8.3203125,13.546439581181705,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2016,3731940.62959341,41,137,city_2379_montana_shelby,331.33749747276306,8.390625,18.016652368952283,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2017,3731940.62959341,68,565,city_2379_montana_shelby,252.0687479972839,7.096354166666666,14.744005975774112,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2018,3731940.62959341,60,258,city_2379_montana_shelby,285.7375030517578,6.2109375,17.62621705572289,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2019,3731940.62959341,30,83,city_2379_montana_shelby,326.82499837875366,5.705729166666666,20.809285255752183,dry subhumid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2020,3731940.62959341,40,62,city_2379_montana_shelby,292.19375228881836,7.466145833333334,16.72914878170661,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2021,3731940.62959341,37,129,city_2379_montana_shelby,237.1874952316284,7.700520833333334,13.400029155354613,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2022,3731940.62959341,9,14,city_2379_montana_shelby,277.9187502861023,6.8359375,16.50747101467336,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2023,3731940.62959341,8,10,city_2379_montana_shelby,314.98750162124634,7.875,17.621678412377417,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2024,3731940.62959341,9,28,city_2379_montana_shelby,304.72499537467957,8.03125,16.899826433257793,semiarid,12
-2379,"Shelby, MT",Shelby,Montana,Toole,2025,3731940.62959341,26,38,city_2379_montana_shelby,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2379,2015,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,16,19,city_2379_montana_shelby,248.175006389618,8.3203125,13.5464395811817,semiarid,12
+2379,2016,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,41,137,city_2379_montana_shelby,331.337497472763,8.390625,18.0166523689523,semiarid,12
+2379,2017,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,68,565,city_2379_montana_shelby,252.068747997284,7.09635416666667,14.7440059757741,semiarid,12
+2379,2018,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,60,258,city_2379_montana_shelby,285.737503051758,6.2109375,17.6262170557229,semiarid,12
+2379,2019,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,30,83,city_2379_montana_shelby,326.824998378754,5.70572916666667,20.8092852557522,dry subhumid,12
+2379,2020,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,40,62,city_2379_montana_shelby,292.193752288818,7.46614583333333,16.7291487817066,semiarid,12
+2379,2021,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,37,129,city_2379_montana_shelby,237.187495231628,7.70052083333333,13.4000291553546,semiarid,12
+2379,2022,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,14,city_2379_montana_shelby,277.918750286102,6.8359375,16.5074710146734,semiarid,12
+2379,2023,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,8,10,city_2379_montana_shelby,314.987501621246,7.875,17.6216784123774,semiarid,12
+2379,2024,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,9,28,city_2379_montana_shelby,304.72499537468,8.03125,16.8998264332578,semiarid,12
+2379,2025,"Shelby, MT",Shelby,Montana,Toole,99.9999999999818,26,38,city_2379_montana_shelby,,,,,

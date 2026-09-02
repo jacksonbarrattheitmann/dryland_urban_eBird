@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2015,21359341.1472523,6,6,city_0984_texas_gainesville,1225.962490081787,18.234375,43.42091829841415,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2016,21359341.1472523,79,334,city_0984_texas_gainesville,972.1437492370604,18.9296875,33.603672671440385,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2017,21359341.1472523,108,540,city_0984_texas_gainesville,903.2750034332277,19.041666666666668,31.10272608665346,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2018,21359341.1472523,64,189,city_0984_texas_gainesville,1107.1687622070312,18.106770833333332,39.39153198253498,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2019,21359341.1472523,100,542,city_0984_texas_gainesville,1104.556245803833,17.963541666666668,39.499869471845024,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2020,21359341.1472523,98,374,city_0984_texas_gainesville,1101.6500053405762,18.236979166666668,39.01444268659792,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2021,21359341.1472523,92,309,city_0984_texas_gainesville,947.8437404632568,18.203125,33.60775589454207,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2022,21359341.1472523,80,237,city_0984_texas_gainesville,805.9187507629395,18.486979166666668,28.290776148913864,dry subhumid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2023,21359341.1472523,70,399,city_0984_texas_gainesville,976.6125049591064,19.052083333333332,33.615919855171825,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2024,21359341.1472523,76,581,city_0984_texas_gainesville,1048.424991607666,19.528645833333332,35.50535292154015,humid,12
-984,"Gainesville, TX",Gainesville,Texas,Cooke,2025,21359341.1472523,66,167,city_0984_texas_gainesville,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+984,2015,"Gainesville, TX",Gainesville,Texas,Cooke,100,6,6,city_0984_texas_gainesville,1225.96249008179,18.234375,43.4209182984142,humid,12
+984,2016,"Gainesville, TX",Gainesville,Texas,Cooke,100,79,334,city_0984_texas_gainesville,972.14374923706,18.9296875,33.6036726714404,humid,12
+984,2017,"Gainesville, TX",Gainesville,Texas,Cooke,100,108,540,city_0984_texas_gainesville,903.275003433228,19.0416666666667,31.1027260866535,humid,12
+984,2018,"Gainesville, TX",Gainesville,Texas,Cooke,100,64,189,city_0984_texas_gainesville,1107.16876220703,18.1067708333333,39.391531982535,humid,12
+984,2019,"Gainesville, TX",Gainesville,Texas,Cooke,100,100,542,city_0984_texas_gainesville,1104.55624580383,17.9635416666667,39.499869471845,humid,12
+984,2020,"Gainesville, TX",Gainesville,Texas,Cooke,100,98,374,city_0984_texas_gainesville,1101.65000534058,18.2369791666667,39.0144426865979,humid,12
+984,2021,"Gainesville, TX",Gainesville,Texas,Cooke,100,92,309,city_0984_texas_gainesville,947.843740463257,18.203125,33.6077558945421,humid,12
+984,2022,"Gainesville, TX",Gainesville,Texas,Cooke,100,80,237,city_0984_texas_gainesville,805.918750762939,18.4869791666667,28.2907761489139,dry subhumid,12
+984,2023,"Gainesville, TX",Gainesville,Texas,Cooke,100,70,399,city_0984_texas_gainesville,976.612504959106,19.0520833333333,33.6159198551718,humid,12
+984,2024,"Gainesville, TX",Gainesville,Texas,Cooke,100,76,581,city_0984_texas_gainesville,1048.42499160767,19.5286458333333,35.5053529215402,humid,12
+984,2025,"Gainesville, TX",Gainesville,Texas,Cooke,100,66,167,city_0984_texas_gainesville,,,,,

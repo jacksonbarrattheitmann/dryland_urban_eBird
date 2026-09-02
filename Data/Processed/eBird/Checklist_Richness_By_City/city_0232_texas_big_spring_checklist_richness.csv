@@ -1,220 +1,223 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S25244564,L1857864,"Onemile Lake, Big Spring",2015-09-30,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,0.161,1,32.2507642,-101.4913131,7,7,city_0232_texas_big_spring
-S23587225,L165708,Big Spring SP (PHP 017),2015-05-22,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,113,3.54,1,32.229458,-101.48731,22,22,city_0232_texas_big_spring
-S24036125,L165708,Big Spring SP (PHP 017),2015-06-23,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,73,4.828,1,32.229458,-101.48731,23,23,city_0232_texas_big_spring
-S22349216,L1857864,"Onemile Lake, Big Spring",2015-03-14,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2507642,-101.4913131,11,11,city_0232_texas_big_spring
-S21192303,L1857864,"Onemile Lake, Big Spring",2015-01-04,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,16,,1,32.2507642,-101.4913131,10,10,city_0232_texas_big_spring
-S21903598,L1857864,"Onemile Lake, Big Spring",2015-02-16,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,6,,1,32.2507642,-101.4913131,10,10,city_0232_texas_big_spring
-S24025083,L165708,Big Spring SP (PHP 017),2015-06-22,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,89,4.828,1,32.229458,-101.48731,22,22,city_0232_texas_big_spring
-S21161247,L165708,Big Spring SP (PHP 017),2015-01-03,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,106,4.506,1,32.229458,-101.48731,17,17,city_0232_texas_big_spring
-S23889960,L165708,Big Spring SP (PHP 017),2015-06-13,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,120,2.816,1,32.229458,-101.48731,20,20,city_0232_texas_big_spring
-S23583467,L165708,Big Spring SP (PHP 017),2015-05-22,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,113,3.54,1,32.229458,-101.48731,22,22,city_0232_texas_big_spring
-S21162019,L1857779,Big Spring Airport Prairie Dog Town,2015-01-03,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,26,2.414,1,32.2320129,-101.5203548,6,6,city_0232_texas_big_spring
-S26072589,L165708,Big Spring SP (PHP 017),2015-11-30,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,149,4.828,1,32.229458,-101.48731,12,12,city_0232_texas_big_spring
-S21364385,L165708,Big Spring SP (PHP 017),2015-01-15,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,70,4.828,1,32.229458,-101.48731,13,13,city_0232_texas_big_spring
-S21192355,L165708,Big Spring SP (PHP 017),2015-01-04,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,64,4.828,1,32.229458,-101.48731,12,12,city_0232_texas_big_spring
-S21162605,L1857864,"Onemile Lake, Big Spring",2015-01-03,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2507642,-101.4913131,3,3,city_0232_texas_big_spring
-S25245979,L165708,Big Spring SP (PHP 017),2015-09-30,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,64,6.437,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S22148541,L3451885,"Motel 6 Big Spring, TX",2015-03-02,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,,1,32.265289,-101.4873562,2,2,city_0232_texas_big_spring
-S25773497,L165708,Big Spring SP (PHP 017),2015-10-28,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,55,,1,32.229458,-101.48731,1,1,city_0232_texas_big_spring
-S32813437,L5113102,US-TX-Big Spring-Big Spring State Park - 32.2297x-101.4892,2016-11-26,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,145,3.219,1,32.229736,-101.489156,10,10,city_0232_texas_big_spring
-S30460227,L165708,Big Spring SP (PHP 017),2016-06-28,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,35,4.828,1,32.229458,-101.48731,20,20,city_0232_texas_big_spring
-S32771650,L5113102,US-TX-Big Spring-Big Spring State Park - 32.2297x-101.4892,2016-11-26,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,145,3.219,1,32.229736,-101.489156,10,10,city_0232_texas_big_spring
-S31594680,L4925974,US-Texas-Big Spring-28-68 State Park Road 8 - 32.232x-101.491,2016-09-15,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,49,0.805,1,32.2322391,-101.4909852,11,11,city_0232_texas_big_spring
-S33400290,L3772373,Big Spring,2016-12-31,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,50,,1,32.2502445,-101.4785628,5,5,city_0232_texas_big_spring
-S29677149,L4603993,"Motel Six, Big Spring",2016-05-08,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,60,,1,32.2648055,-101.4884348,7,7,city_0232_texas_big_spring
-S35235884,L1857779,Big Spring Airport Prairie Dog Town,2017-03-17,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,27,,1,32.2320129,-101.5203548,14,14,city_0232_texas_big_spring
-S35430598,L165708,Big Spring SP (PHP 017),2017-03-25,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,81,0.644,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S35236688,L1857864,"Onemile Lake, Big Spring",2017-03-17,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,19,,1,32.2507642,-101.4913131,23,23,city_0232_texas_big_spring
-S35425195,L165708,Big Spring SP (PHP 017),2017-03-25,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,70,4.828,1,32.229458,-101.48731,7,7,city_0232_texas_big_spring
-S40805911,L165708,Big Spring SP (PHP 017),2017-11-29,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,21,,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S35425563,L165708,Big Spring SP (PHP 017),2017-03-25,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,96,2.092,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S36284712,L165708,Big Spring SP (PHP 017),2017-04-26,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,25,0.257,1,32.229458,-101.48731,5,5,city_0232_texas_big_spring
-S35688954,L165708,Big Spring SP (PHP 017),2017-03-25,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,75,4.023,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S40810214,L1857864,"Onemile Lake, Big Spring",2017-11-29,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
-S40806714,L1857864,"Onemile Lake, Big Spring",2017-11-29,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
-S34829084,L5519258,US-Texas-Big Spring-Lamesa Highway - 32.263x-101.49,2017-02-26,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,27,,1,32.2630607,-101.4901634,1,1,city_0232_texas_big_spring
-S40810213,L165708,Big Spring SP (PHP 017),2017-11-29,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,21,,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S41645392,L6670739,"2801–2813 S US Highway 87, Big Spring US-TX (32.2265,-101.4701)",2018-01-05,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,121,42.366,1,32.226511,-101.470053,25,25,city_0232_texas_big_spring
-S44899950,L7201482,Big Spring Area,2018-04-23,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,240,8.047,1,32.244912,-101.461144,39,39,city_0232_texas_big_spring
-S45951680,L7201482,Big Spring Area,2018-05-21,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,240,8.047,1,32.244912,-101.461144,16,16,city_0232_texas_big_spring
-S42414697,L165708,Big Spring SP (PHP 017),2018-02-01,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,81,3.798,1,32.229458,-101.48731,15,15,city_0232_texas_big_spring
-S48690235,L165708,Big Spring SP (PHP 017),2018-09-23,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,47,0.145,1,32.229458,-101.48731,13,13,city_0232_texas_big_spring
-S41939106,L1857864,"Onemile Lake, Big Spring",2018-01-15,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,29,8.224,1,32.2507642,-101.4913131,16,16,city_0232_texas_big_spring
-S41647655,L6671150,"201 W Marcy Dr, Big Spring US-TX (32.2279,-101.4692)",2018-01-05,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,68,26.353,1,32.227886,-101.469186,16,16,city_0232_texas_big_spring
-S42347134,L6796389,"800-802 West 3rd Street, Big Spring, Texas, US (32.25, -101.485)",2018-01-29,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2495855,-101.484755,1,1,city_0232_texas_big_spring
-S49764668,L165708,Big Spring SP (PHP 017),2018-10-29,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,30,0.805,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S44195054,L165708,Big Spring SP (PHP 017),2018-04-02,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,33,4.45,1,32.229458,-101.48731,4,4,city_0232_texas_big_spring
-S42495259,L165708,Big Spring SP (PHP 017),2018-02-02,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,18,4.828,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S56182465,L1857864,"Onemile Lake, Big Spring",2019-05-12,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,17,,1,32.2507642,-101.4913131,27,27,city_0232_texas_big_spring
-S61886306,L1857864,"Onemile Lake, Big Spring",2019-11-30,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,25,0.805,1,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
-S51524837,L7201482,Big Spring Area,2019-01-09,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,180,16.093,1,32.244912,-101.461144,28,28,city_0232_texas_big_spring
-S57295310,L165708,Big Spring SP (PHP 017),2019-06-10,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,45,0.612,1,32.229458,-101.48731,18,18,city_0232_texas_big_spring
-S61709222,L1857864,"Onemile Lake, Big Spring",2019-11-24,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,11,,1,32.2507642,-101.4913131,17,17,city_0232_texas_big_spring
-S61930145,L10227635,Howard Co. (Big Spring),2019-11-30,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,2.414,1,32.2565389,-101.4816126,4,4,city_0232_texas_big_spring
-S51657822,L165708,Big Spring SP (PHP 017),2019-01-13,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,120,4.828,1,32.229458,-101.48731,13,13,city_0232_texas_big_spring
-S61954043,L10230944,"Big Spring State Park, Texas",2019-12-03,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,47,0.483,1,32.2297197,-101.4899826,3,3,city_0232_texas_big_spring
-S52530308,L165708,Big Spring SP (PHP 017),2019-02-09,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,40,2.688,1,32.229458,-101.48731,4,4,city_0232_texas_big_spring
-S53919019,L1857779,Big Spring Airport Prairie Dog Town,2019-03-16,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,90,3.991,1,32.2320129,-101.5203548,9,9,city_0232_texas_big_spring
-S56936513,L165708,Big Spring SP (PHP 017),2019-05-31,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,109,4.828,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S54518301,L8966725,"94 State Park Road 8, Big Spring, Texas, US (32.229, -101.484)",2019-04-03,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,16,3.503,1,32.2287977,-101.4836367,2,2,city_0232_texas_big_spring
-S54914319,L9036031,"(32.2250,-101.4779)",2019-04-13,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,30,,1,32.225036,-101.477865,2,2,city_0232_texas_big_spring
-S62017851,L155292,Big Spring,2019-12-05,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,1.609,1,32.25042,-101.4784,2,2,city_0232_texas_big_spring
-S53907856,L8862451,"1911 Apron Drive, Big Spring, Texas, US (32.223, -101.512)",2019-03-16,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,21,0.563,1,32.2226032,-101.5115991,4,4,city_0232_texas_big_spring
-S76718870,L12809856,"97 State Park Road 8, Big Spring, Texas, US (32.229, -101.482)",2020-11-26,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,105,1.952,1,32.2291171,-101.4824542,12,12,city_0232_texas_big_spring
-S64457466,L165708,Big Spring SP (PHP 017),2020-02-14,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,46,3.495,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S76092563,L165708,Big Spring SP (PHP 017),2020-11-08,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,166,4.023,1,32.229458,-101.48731,13,13,city_0232_texas_big_spring
-S64451685,L1857864,"Onemile Lake, Big Spring",2020-02-14,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,16,0.441,1,32.2507642,-101.4913131,8,8,city_0232_texas_big_spring
-S77611216,L12870119,S McGregor Rd,2020-12-17,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,60,8.047,1,32.24599,-101.441518,15,15,city_0232_texas_big_spring
-S64431042,L165708,Big Spring SP (PHP 017),2020-02-13,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,49,0.966,1,32.229458,-101.48731,14,14,city_0232_texas_big_spring
-S76342721,L165708,Big Spring SP (PHP 017),2020-11-16,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,38,1.745,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S71650855,L165708,Big Spring SP (PHP 017),2020-07-15,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,49,43.766,1,32.229458,-101.48731,5,5,city_0232_texas_big_spring
-S77489156,L12941071,Big Spring 2020 CBC McMahon-Winkle Airport area,2020-12-14,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,71,16.093,1,32.2177639,-101.5290227,15,15,city_0232_texas_big_spring
-S71667645,L165708,Big Spring SP (PHP 017),2020-07-20,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,19,0.298,1,32.229458,-101.48731,11,11,city_0232_texas_big_spring
-S65546017,L165708,Big Spring SP (PHP 017),2020-03-07,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,23,10.172,1,32.229458,-101.48731,7,7,city_0232_texas_big_spring
-S76418420,L165708,Big Spring SP (PHP 017),2020-11-18,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,35,0.166,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S71107698,L11826345,"Doctor Morgan Park, Big Spring",2020-07-03,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,16,0.66,1,32.2571167,-101.4923893,7,7,city_0232_texas_big_spring
-S76798650,L165708,Big Spring SP (PHP 017),2020-11-28,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,83,4.506,1,32.229458,-101.48731,10,10,city_0232_texas_big_spring
-S74563620,L165708,Big Spring SP (PHP 017),2020-10-08,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,191,2.625,1,32.229458,-101.48731,24,24,city_0232_texas_big_spring
-S77050523,L165708,Big Spring SP (PHP 017),2020-11-29,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,110,5.649,1,32.229458,-101.48731,5,5,city_0232_texas_big_spring
-S71153475,L11835654,"1109 N Aylesford St, Big Spring US-TX 32.26291, -101.48859",2020-07-05,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,20,,1,32.262908,-101.488593,3,3,city_0232_texas_big_spring
-S74793656,L12491776,Big Spring--downtown,2020-10-13,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,60,,1,32.2510281,-101.4761594,10,10,city_0232_texas_big_spring
-S74539565,L165708,Big Spring SP (PHP 017),2020-10-07,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,26,0.927,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S64449627,L10747406,"212 E Third St, Big Spring US-TX 32.25298, -101.47504",2020-02-14,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,6,,1,32.252984,-101.475041,1,1,city_0232_texas_big_spring
-S79463385,L12870119,S McGregor Rd,2021-01-17,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,41,32.187,1,32.24599,-101.441518,10,10,city_0232_texas_big_spring
-S81481481,L13681511,"2410 Alabama St, Big Spring US-TX 32.24606, -101.44159",2021-02-14,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,7,,1,32.246056,-101.441595,11,11,city_0232_texas_big_spring
-S94451456,L16338041,Texas RV of Big Spring--site 63,2021-09-10,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,106,,1,32.208879,-101.477035,14,14,city_0232_texas_big_spring
-S81898632,L165708,Big Spring SP (PHP 017),2021-02-07,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,116,5.938,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S79441033,L165708,Big Spring SP (PHP 017),2021-01-17,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,63,6.195,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S88040686,L1857864,"Onemile Lake, Big Spring",2021-05-13,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,50,,1,32.2507642,-101.4913131,36,36,city_0232_texas_big_spring
-S81517287,L13688119,"2410 Alabama St, Big Spring US-TX 32.24602, -101.44160",2021-02-14,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,9,,1,32.246021,-101.441604,3,3,city_0232_texas_big_spring
-S84561814,L14254838,"Big Spring State Park, Big Spring US-TX 32.22879, -101.48339",2021-04-01,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,22,5.607,1,32.228792,-101.483387,4,4,city_0232_texas_big_spring
-S83145872,L13985538,"Big Spring State Park, Big Spring US-TX 32.22963, -101.48724",2021-03-10,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,51,0.76,1,32.229626,-101.487243,7,7,city_0232_texas_big_spring
-S98663202,L14254838,"Big Spring State Park, Big Spring US-TX 32.22879, -101.48339",2021-12-09,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,26,4.625,1,32.228792,-101.483387,3,3,city_0232_texas_big_spring
-S92564184,L165708,Big Spring SP (PHP 017),2021-07-31,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,150,4.023,1,32.229458,-101.48731,7,7,city_0232_texas_big_spring
-S97842407,L16933981,"500–598 N San Antonio St, Big Spring US-TX 32.26272, -101.49051",2021-11-20,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,9,8.435,1,32.262718,-101.490514,2,2,city_0232_texas_big_spring
-S79350642,L165708,Big Spring SP (PHP 017),2021-01-16,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,165,3.701,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S129275998,L16338041,Texas RV of Big Spring--site 63,2021-09-09,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,28,,1,32.208879,-101.477035,3,3,city_0232_texas_big_spring
-S80530174,L165708,Big Spring SP (PHP 017),2021-01-31,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,120,5.44,1,32.229458,-101.48731,4,4,city_0232_texas_big_spring
-S90502325,L165708,Big Spring SP (PHP 017),2021-06-20,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,20,3.852,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S94436417,L16338041,Texas RV of Big Spring--site 63,2021-09-09,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,56,,1,32.208879,-101.477035,8,8,city_0232_texas_big_spring
-S98425953,L165708,Big Spring SP (PHP 017),2021-12-03,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,25,4.345,1,32.229458,-101.48731,4,4,city_0232_texas_big_spring
-S94327537,L1857779,Big Spring Airport Prairie Dog Town,2021-09-07,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,26,6.132,1,32.2320129,-101.5203548,9,9,city_0232_texas_big_spring
-S96885017,L165708,Big Spring SP (PHP 017),2021-10-30,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,41,4.12,1,32.229458,-101.48731,2,2,city_0232_texas_big_spring
-S82055179,L165708,Big Spring SP (PHP 017),2021-02-08,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,60,,1,32.229458,-101.48731,1,1,city_0232_texas_big_spring
-S116674416,L165708,Big Spring SP (PHP 017),2022-08-10,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,22,2.575,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S109033549,L1857864,"Onemile Lake, Big Spring",2022-05-05,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,0.708,1,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
-S119978848,L165708,Big Spring SP (PHP 017),2022-10-04,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,80,3.898,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S116143915,L20382131,"Big Spring, Texas, US (32.263, -101.496)",2022-08-01,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,8,,1,32.2633747,-101.4962394,3,3,city_0232_texas_big_spring
-S105162683,L6676004,"215 Jones St, Big Spring US-TX (32.2507,-101.4965)",2022-03-14,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,45,,1,32.250668,-101.496505,8,8,city_0232_texas_big_spring
-S116796799,L165708,Big Spring SP (PHP 017),2022-08-12,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,42,,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S111547024,L19331870,"1102 W IH-20 Frontage Rd, Big Spring US-TX 32.26361, -101.49612",2022-05-28,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,36,0.097,1,32.263612,-101.496122,9,9,city_0232_texas_big_spring
-S113273549,L165708,Big Spring SP (PHP 017),2022-06-19,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,157,6.954,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S123815430,L165708,Big Spring SP (PHP 017),2022-12-11,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,162,33.376,1,32.229458,-101.48731,15,15,city_0232_texas_big_spring
-S112719019,L165708,Big Spring SP (PHP 017),2022-06-11,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,40,5.891,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S114915893,L20102329,"Howard - 1110 S Gregg St, Big Spring US-TX 32.24345, -101.47492",2022-07-12,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,7,3.806,1,32.243451,-101.474916,9,9,city_0232_texas_big_spring
-S116125079,L20378342,"Big Spring, Texas, US (32.265, -101.503)",2022-07-31,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,0.467,1,32.2651752,-101.5030339,9,9,city_0232_texas_big_spring
-S120351630,L21178861,"1100 Lamesa Hwy, Big Spring US-TX 32.26266, -101.48894",2022-10-09,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,20,8.047,1,32.262664,-101.48894,3,3,city_0232_texas_big_spring
-S116614701,L165708,Big Spring SP (PHP 017),2022-08-09,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,58,3.299,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S105162178,L6676004,"215 Jones St, Big Spring US-TX (32.2507,-101.4965)",2022-03-13,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,120,,1,32.250668,-101.496505,7,7,city_0232_texas_big_spring
-S105162340,L6676004,"215 Jones St, Big Spring US-TX (32.2507,-101.4965)",2022-03-13,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,180,,1,32.250668,-101.496505,3,3,city_0232_texas_big_spring
-S102231536,L17676079,"802 W Third St, Big Spring US-TX 32.24914, -101.48485",2022-02-07,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,15,,1,32.249136,-101.484854,2,2,city_0232_texas_big_spring
-S111583174,L19331870,"1102 W IH-20 Frontage Rd, Big Spring US-TX 32.26361, -101.49612",2022-05-29,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,11,0.176,1,32.263612,-101.496122,7,7,city_0232_texas_big_spring
-S115766288,L20297356,"Big Spring, Texas- Truck Stop",2022-07-25,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,14,0.161,1,32.2643799,-101.4899947,5,5,city_0232_texas_big_spring
-S105162809,L6676004,"215 Jones St, Big Spring US-TX (32.2507,-101.4965)",2022-03-14,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,75,,1,32.250668,-101.496505,3,3,city_0232_texas_big_spring
-S129439201,L165708,Big Spring SP (PHP 017),2023-02-23,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,28,0.883,1,32.229458,-101.48731,4,4,city_0232_texas_big_spring
-S142175072,L165708,Big Spring SP (PHP 017),2023-06-19,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,102,13.25,1,32.229458,-101.48731,10,10,city_0232_texas_big_spring
-S153105300,L165708,Big Spring SP (PHP 017),2023-10-26,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,44,6.099,1,32.229458,-101.48731,7,7,city_0232_texas_big_spring
-S127873528,L165708,Big Spring SP (PHP 017),2023-02-08,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,50,4.136,1,32.229458,-101.48731,7,7,city_0232_texas_big_spring
-S148768770,L165708,Big Spring SP (PHP 017),2023-09-02,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,46,1.115,1,32.229458,-101.48731,17,17,city_0232_texas_big_spring
-S134308669,L165708,Big Spring SP (PHP 017),2023-04-19,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,11,0.073,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S152414329,L1857864,"Onemile Lake, Big Spring",2023-10-16,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,26,0.252,1,32.2507642,-101.4913131,23,23,city_0232_texas_big_spring
-S128009548,L165708,Big Spring SP (PHP 017),2023-02-10,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,120,1.163,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S142131357,L165708,Big Spring SP (PHP 017),2023-06-19,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,35,0.805,1,32.229458,-101.48731,2,2,city_0232_texas_big_spring
-S126516031,L22267697,Howard College,2023-01-07,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,30,0.5,1,32.2528542,-101.4512545,4,4,city_0232_texas_big_spring
-S147866594,L26710230,"Big Spring State Park, Big Spring US-TX 32.22926, -101.48192",2023-08-22,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,14,0.181,1,32.229257,-101.481922,2,2,city_0232_texas_big_spring
-S125960925,L22166343,"Walmart Supercenter, Big Spring US-TX 32.22921, -101.46883",2023-01-11,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,20,,1,32.229215,-101.468831,1,1,city_0232_texas_big_spring
-S133917363,L165708,Big Spring SP (PHP 017),2023-04-14,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,15,2.635,1,32.229458,-101.48731,1,1,city_0232_texas_big_spring
-S125641891,L165708,Big Spring SP (PHP 017),2023-01-07,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,36,1.313,1,32.229458,-101.48731,1,1,city_0232_texas_big_spring
-S206013294,L165708,Big Spring SP (PHP 017),2024-12-18,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,57,1.066,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S198498809,L165708,Big Spring SP (PHP 017),2024-10-12,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,43,2.138,1,32.229458,-101.48731,4,4,city_0232_texas_big_spring
-S167411054,L165708,Big Spring SP (PHP 017),2024-04-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,14,0.307,1,32.229458,-101.48731,2,2,city_0232_texas_big_spring
-S195283978,L1857864,"Onemile Lake, Big Spring",2024-09-05,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,0.322,1,32.2507642,-101.4913131,3,3,city_0232_texas_big_spring
-S206157992,L165708,Big Spring SP (PHP 017),2024-12-21,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,35,0.644,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S205995944,L165708,Big Spring SP (PHP 017),2024-12-18,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,57,1.066,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S173972063,L165708,Big Spring SP (PHP 017),2024-05-12,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,191,3.657,1,32.229458,-101.48731,18,18,city_0232_texas_big_spring
-S167799855,L165708,Big Spring SP (PHP 017),2024-04-08,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,25,0.18,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S174224598,L1857779,Big Spring Airport Prairie Dog Town,2024-05-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,42,0.702,1,32.2320129,-101.5203548,12,12,city_0232_texas_big_spring
-S195286956,L165708,Big Spring SP (PHP 017),2024-09-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,65,4.828,1,32.229458,-101.48731,11,11,city_0232_texas_big_spring
-S198791749,L165708,Big Spring SP (PHP 017),2024-10-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,38,3.311,1,32.229458,-101.48731,7,7,city_0232_texas_big_spring
-S182174918,L1857779,Big Spring Airport Prairie Dog Town,2024-06-17,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,6,0.379,1,32.2320129,-101.5203548,7,7,city_0232_texas_big_spring
-S182266054,L165708,Big Spring SP (PHP 017),2024-06-17,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,56,3.842,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S170626326,L1857864,"Onemile Lake, Big Spring",2024-04-26,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,69,1.336,1,32.2507642,-101.4913131,15,15,city_0232_texas_big_spring
-S173460737,L24701912,Highland,2024-05-11,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,84,1.633,1,32.225674,-101.450948,21,21,city_0232_texas_big_spring
-S205522581,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2024-12-15,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,,1,32.2562246,-101.4488367,3,3,city_0232_texas_big_spring
-S164222889,L165708,Big Spring SP (PHP 017),2024-03-09,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,88,3.618,1,32.229458,-101.48731,15,15,city_0232_texas_big_spring
-S161660300,L165708,Big Spring SP (PHP 017),2024-02-14,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,70,3.64,1,32.229458,-101.48731,11,11,city_0232_texas_big_spring
-S185635683,L1857779,Big Spring Airport Prairie Dog Town,2024-07-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,30,0.267,1,32.2320129,-101.5203548,5,5,city_0232_texas_big_spring
-S193473144,L165708,Big Spring SP (PHP 017),2024-08-31,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,59,5.601,1,32.229458,-101.48731,14,14,city_0232_texas_big_spring
-S205758079,L165708,Big Spring SP (PHP 017),2024-12-17,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,30,0.805,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S195960344,L36749770,"401 Birdwell Ln, Big Spring US-TX 32.25822, -101.45293",2024-09-21,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,22,0.218,1,32.258223,-101.452933,3,3,city_0232_texas_big_spring
-S174243696,L1857864,"Onemile Lake, Big Spring",2024-05-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,55,0.117,1,32.2507642,-101.4913131,12,12,city_0232_texas_big_spring
-S205524523,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2024-12-15,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,,1,32.2562246,-101.4488367,4,4,city_0232_texas_big_spring
-S187744939,L165708,Big Spring SP (PHP 017),2024-07-19,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,55,0.158,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S195284534,L165708,Big Spring SP (PHP 017),2024-09-05,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,70,4.989,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S181247840,L165708,Big Spring SP (PHP 017),2024-06-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,39,3.96,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S168488885,L30607555,Comfort Inn Hotel Area,2024-04-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,18,6.437,1,32.2629126,-101.4885986,7,7,city_0232_texas_big_spring
-S204620799,L38459726,"Big Spring State Park, Big Spring US-TX 32.22900, -101.48360",2024-12-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,17,0.232,1,32.228999,-101.483596,3,3,city_0232_texas_big_spring
-S204286151,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2024-12-02,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,32,,1,32.2562246,-101.4488367,4,4,city_0232_texas_big_spring
-S190445928,L1857864,"Onemile Lake, Big Spring",2024-08-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,8,2.227,1,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
-S161248096,L165708,Big Spring SP (PHP 017),2024-02-11,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,13,2.473,1,32.229458,-101.48731,2,2,city_0232_texas_big_spring
-S205211714,L165708,Big Spring SP (PHP 017),2024-12-02,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,0.322,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S205602051,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2024-12-16,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2562246,-101.4488367,4,4,city_0232_texas_big_spring
-S158839187,L1857864,"Onemile Lake, Big Spring",2024-01-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,0.322,1,32.2507642,-101.4913131,2,2,city_0232_texas_big_spring
-S232153177,L165708,Big Spring SP (PHP 017),2025-04-19,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,6,0.531,1,32.229458,-101.48731,15,15,city_0232_texas_big_spring
-S227960464,L165708,Big Spring SP (PHP 017),2025-04-21,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,39,2.752,1,32.229458,-101.48731,8,8,city_0232_texas_big_spring
-S289197023,L1857779,Big Spring Airport Prairie Dog Town,2025-12-18,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,105,13.036,1,32.2320129,-101.5203548,26,26,city_0232_texas_big_spring
-S274678713,L165708,Big Spring SP (PHP 017),2025-09-21,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,90,0.736,1,32.229458,-101.48731,17,17,city_0232_texas_big_spring
-S218896828,L165708,Big Spring SP (PHP 017),2025-03-16,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,44,1.839,1,32.229458,-101.48731,16,16,city_0232_texas_big_spring
-S222440187,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-02,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,6,,1,32.2562246,-101.4488367,8,8,city_0232_texas_big_spring
-S226287254,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,7,,1,32.2562246,-101.4488367,10,10,city_0232_texas_big_spring
-S220115371,L41537953,"1102 W IH-20 Frontage Rd, Big Spring US-TX 32.26348, -101.49636",2025-03-22,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,14,,1,32.263483,-101.496363,8,8,city_0232_texas_big_spring
-S226340485,L42794153,"96 State Park Road 8, Big Spring, Texas, US (32.229, -101.483)",2025-04-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,34,0.998,1,32.2292443,-101.483275,12,12,city_0232_texas_big_spring
-S227856492,L42793719,Nature Trail at State Park,2025-04-21,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,0.062,1,32.2290344,-101.4869766,3,3,city_0232_texas_big_spring
-S248236565,L47154343,"911 Goliad St, Big Spring US-TX 32.24819, -101.46772",2025-06-08,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,0.138,1,32.248193,-101.467718,5,5,city_0232_texas_big_spring
-S290415885,L56378900,"1748 Purdue Avenue, Big Spring, Texas, US (32.255, -101.449)",2025-12-26,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,25,,1,32.2549929,-101.4490936,6,6,city_0232_texas_big_spring
-S219137497,L165708,Big Spring SP (PHP 017),2025-03-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,75,2.425,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S212119651,L165708,Big Spring SP (PHP 017),2025-02-05,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,70,1.719,1,32.229458,-101.48731,10,10,city_0232_texas_big_spring
-S246917171,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-06-05,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,6,,1,32.2562246,-101.4488367,7,7,city_0232_texas_big_spring
-S222378865,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-01,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,,1,32.2562246,-101.4488367,7,7,city_0232_texas_big_spring
-S220675933,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-03-25,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,,1,32.2562246,-101.4488367,10,10,city_0232_texas_big_spring
-S250302315,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-06-14,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,9,,1,32.2562246,-101.4488367,9,9,city_0232_texas_big_spring
-S221782104,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-03-30,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,7,,1,32.2562246,-101.4488367,9,9,city_0232_texas_big_spring
-S217045498,L165708,Big Spring SP (PHP 017),2025-03-02,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,57,0.894,1,32.229458,-101.48731,5,5,city_0232_texas_big_spring
-S215371434,L165708,Big Spring SP (PHP 017),2025-02-25,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,56,2.24,1,32.229458,-101.48731,9,9,city_0232_texas_big_spring
-S216313741,L165708,Big Spring SP (PHP 017),2025-03-02,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,57,0.894,1,32.229458,-101.48731,5,5,city_0232_texas_big_spring
-S209949293,L165708,Big Spring SP (PHP 017),2025-01-19,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,50,1.045,1,32.229458,-101.48731,12,12,city_0232_texas_big_spring
-S251976401,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-06-19,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2562246,-101.4488367,12,12,city_0232_texas_big_spring
-S214451427,L165708,Big Spring SP (PHP 017),2025-02-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,213,9.64,1,32.229458,-101.48731,12,12,city_0232_texas_big_spring
-S285190230,L165708,Big Spring SP (PHP 017),2025-11-18,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,15,1.1,1,32.229458,-101.48731,10,10,city_0232_texas_big_spring
-S244356100,L20102329,"Howard - 1110 S Gregg St, Big Spring US-TX 32.24345, -101.47492",2025-05-29,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,26,6.164,1,32.243451,-101.474916,7,7,city_0232_texas_big_spring
-S222764355,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-03,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2562246,-101.4488367,10,10,city_0232_texas_big_spring
-S219148692,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-03-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,12,,1,32.2562246,-101.4488367,7,7,city_0232_texas_big_spring
-S270156927,L165708,Big Spring SP (PHP 017),2025-08-29,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,25,,1,32.229458,-101.48731,2,2,city_0232_texas_big_spring
-S268487782,L165708,Big Spring SP (PHP 017),2025-08-20,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,62,1.9,1,32.229458,-101.48731,11,11,city_0232_texas_big_spring
-S241026690,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-05-21,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,6,,1,32.2562246,-101.4488367,5,5,city_0232_texas_big_spring
-S223869341,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-08,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,6,,1,32.2562246,-101.4488367,10,10,city_0232_texas_big_spring
-S225536398,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-14,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,8,0.113,1,32.2562246,-101.4488367,5,5,city_0232_texas_big_spring
-S228231053,L165708,Big Spring SP (PHP 017),2025-04-22,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,13,,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S244306502,L165708,Big Spring SP (PHP 017),2025-05-29,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,72,1.127,1,32.229458,-101.48731,6,6,city_0232_texas_big_spring
-S271297038,L165708,Big Spring SP (PHP 017),2025-09-03,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,61,2.774,1,32.229458,-101.48731,5,5,city_0232_texas_big_spring
-S222059616,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-03-31,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2562246,-101.4488367,9,9,city_0232_texas_big_spring
-S208027599,L165708,Big Spring SP (PHP 017),2025-01-03,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,200,6.968,1,32.229458,-101.48731,17,17,city_0232_texas_big_spring
-S228557733,L165708,Big Spring SP (PHP 017),2025-04-23,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,39,1.738,1,32.229458,-101.48731,3,3,city_0232_texas_big_spring
-S210930006,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-01-27,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,7,,1,32.2562246,-101.4488367,2,2,city_0232_texas_big_spring
-S222839623,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-04,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,5,,1,32.2562246,-101.4488367,7,7,city_0232_texas_big_spring
-S208499125,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-01-08,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,10,,1,32.2562246,-101.4488367,1,1,city_0232_texas_big_spring
-S209936874,L165708,Big Spring SP (PHP 017),2025-01-19,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,9,2.564,1,32.229458,-101.48731,5,5,city_0232_texas_big_spring
-S209762008,L165708,Big Spring SP (PHP 017),2025-01-18,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,24,1.118,1,32.229458,-101.48731,4,4,city_0232_texas_big_spring
-S212994748,L165708,Big Spring SP (PHP 017),2025-02-12,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,16,4.056,1,32.229458,-101.48731,1,1,city_0232_texas_big_spring
-S259232236,L49639038,"602 NE 11th St, Big Spring US-TX 32.26577, -101.47454",2025-07-12,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,38111401.9367003,18,,1,32.265772,-101.474536,3,3,city_0232_texas_big_spring
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21161247,L165708,Big Spring SP (PHP 017),2015-01-03,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,106,4.506,1,Traveling,32.229458,-101.48731,17,17,city_0232_texas_big_spring
+S21162019,L1857779,Big Spring Airport Prairie Dog Town,2015-01-03,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,26,2.414,1,Traveling,32.2320129,-101.5203548,6,6,city_0232_texas_big_spring
+S21162605,L1857864,"Onemile Lake, Big Spring",2015-01-03,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2507642,-101.4913131,3,3,city_0232_texas_big_spring
+S21192355,L165708,Big Spring SP (PHP 017),2015-01-04,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,64,4.828,1,Traveling,32.229458,-101.48731,12,12,city_0232_texas_big_spring
+S21192303,L1857864,"Onemile Lake, Big Spring",2015-01-04,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,16,,1,Stationary,32.2507642,-101.4913131,10,10,city_0232_texas_big_spring
+S21364385,L165708,Big Spring SP (PHP 017),2015-01-15,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,70,4.828,1,Traveling,32.229458,-101.48731,13,13,city_0232_texas_big_spring
+S21903598,L1857864,"Onemile Lake, Big Spring",2015-02-16,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,6,,1,Stationary,32.2507642,-101.4913131,10,10,city_0232_texas_big_spring
+S22148541,L3451885,"Motel 6 Big Spring, TX",2015-03-02,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,,1,Stationary,32.265289,-101.4873562,2,2,city_0232_texas_big_spring
+S22349216,L1857864,"Onemile Lake, Big Spring",2015-03-14,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2507642,-101.4913131,11,11,city_0232_texas_big_spring
+S23587225,L165708,Big Spring SP (PHP 017),2015-05-22,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,113,3.54,1,Traveling,32.229458,-101.48731,22,22,city_0232_texas_big_spring
+S23583467,L165708,Big Spring SP (PHP 017),2015-05-22,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,113,3.54,1,Traveling,32.229458,-101.48731,22,22,city_0232_texas_big_spring
+S23889960,L165708,Big Spring SP (PHP 017),2015-06-13,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,120,2.816,1,Traveling,32.229458,-101.48731,20,20,city_0232_texas_big_spring
+S24025083,L165708,Big Spring SP (PHP 017),2015-06-22,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,89,4.828,1,Traveling,32.229458,-101.48731,22,22,city_0232_texas_big_spring
+S24036125,L165708,Big Spring SP (PHP 017),2015-06-23,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,73,4.828,1,Traveling,32.229458,-101.48731,23,23,city_0232_texas_big_spring
+S25245979,L165708,Big Spring SP (PHP 017),2015-09-30,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,64,6.437,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S25244564,L1857864,"Onemile Lake, Big Spring",2015-09-30,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,0.161,1,Traveling,32.2507642,-101.4913131,7,7,city_0232_texas_big_spring
+S25773497,L165708,Big Spring SP (PHP 017),2015-10-28,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,55,,1,Historical,32.229458,-101.48731,1,1,city_0232_texas_big_spring
+S26072589,L165708,Big Spring SP (PHP 017),2015-11-30,2015,232,"Big Spring, TX",Big Spring,Texas,Howard,100,149,4.828,1,Traveling,32.229458,-101.48731,12,12,city_0232_texas_big_spring
+S29677149,L4603993,"Motel Six, Big Spring",2016-05-08,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,100,60,,1,Stationary,32.2648055,-101.4884348,7,7,city_0232_texas_big_spring
+S30460227,L165708,Big Spring SP (PHP 017),2016-06-28,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,100,35,4.828,1,Traveling,32.229458,-101.48731,20,20,city_0232_texas_big_spring
+S31594680,L4925974,US-Texas-Big Spring-28-68 State Park Road 8 - 32.232x-101.491,2016-09-15,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,100,49,0.805,1,Traveling,32.2322391,-101.4909852,11,11,city_0232_texas_big_spring
+S32771650,L5113102,US-TX-Big Spring-Big Spring State Park - 32.2297x-101.4892,2016-11-26,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,100,145,3.219,1,Traveling,32.229736,-101.489156,10,10,city_0232_texas_big_spring
+S32813437,L5113102,US-TX-Big Spring-Big Spring State Park - 32.2297x-101.4892,2016-11-26,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,100,145,3.219,1,Traveling,32.229736,-101.489156,10,10,city_0232_texas_big_spring
+S33400290,L3772373,Big Spring,2016-12-31,2016,232,"Big Spring, TX",Big Spring,Texas,Howard,100,50,,1,Stationary,32.2502445,-101.4785628,5,5,city_0232_texas_big_spring
+S34829084,L5519258,US-Texas-Big Spring-Lamesa Highway - 32.263x-101.49,2017-02-26,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,27,,1,Stationary,32.2630607,-101.4901634,1,1,city_0232_texas_big_spring
+S35235884,L1857779,Big Spring Airport Prairie Dog Town,2017-03-17,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,27,,1,Stationary,32.2320129,-101.5203548,14,14,city_0232_texas_big_spring
+S35236688,L1857864,"Onemile Lake, Big Spring",2017-03-17,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,19,,1,Stationary,32.2507642,-101.4913131,23,23,city_0232_texas_big_spring
+S35425563,L165708,Big Spring SP (PHP 017),2017-03-25,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,96,2.092,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S35425195,L165708,Big Spring SP (PHP 017),2017-03-25,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,70,4.828,1,Traveling,32.229458,-101.48731,7,7,city_0232_texas_big_spring
+S35430598,L165708,Big Spring SP (PHP 017),2017-03-25,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,81,0.644,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S35688954,L165708,Big Spring SP (PHP 017),2017-03-25,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,75,4.023,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S36284712,L165708,Big Spring SP (PHP 017),2017-04-26,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,25,0.257,1,Traveling,32.229458,-101.48731,5,5,city_0232_texas_big_spring
+S40805911,L165708,Big Spring SP (PHP 017),2017-11-29,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,21,,1,Stationary,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S40810213,L165708,Big Spring SP (PHP 017),2017-11-29,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,21,,1,Stationary,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S40810214,L1857864,"Onemile Lake, Big Spring",2017-11-29,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
+S40806714,L1857864,"Onemile Lake, Big Spring",2017-11-29,2017,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
+S41645392,L6670739,"2801–2813 S US Highway 87, Big Spring US-TX (32.2265,-101.4701)",2018-01-05,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,121,42.366,1,Traveling,32.226511,-101.470053,25,25,city_0232_texas_big_spring
+S41647655,L6671150,"201 W Marcy Dr, Big Spring US-TX (32.2279,-101.4692)",2018-01-05,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,68,26.353,1,Traveling,32.227886,-101.469186,16,16,city_0232_texas_big_spring
+S41939106,L1857864,"Onemile Lake, Big Spring",2018-01-15,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,29,8.224,1,Traveling,32.2507642,-101.4913131,16,16,city_0232_texas_big_spring
+S42347134,L6796389,"800-802 West 3rd Street, Big Spring, Texas, US (32.25, -101.485)",2018-01-29,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2495855,-101.484755,1,1,city_0232_texas_big_spring
+S42414697,L165708,Big Spring SP (PHP 017),2018-02-01,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,81,3.798,1,Traveling,32.229458,-101.48731,15,15,city_0232_texas_big_spring
+S42495259,L165708,Big Spring SP (PHP 017),2018-02-02,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,18,4.828,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S44195054,L165708,Big Spring SP (PHP 017),2018-04-02,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,33,4.45,1,Traveling,32.229458,-101.48731,4,4,city_0232_texas_big_spring
+S44899950,L7201482,Big Spring Area,2018-04-23,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,240,8.047,1,Traveling,32.244912,-101.461144,39,39,city_0232_texas_big_spring
+S45951680,L7201482,Big Spring Area,2018-05-21,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,240,8.047,1,Traveling,32.244912,-101.461144,16,16,city_0232_texas_big_spring
+S48690235,L165708,Big Spring SP (PHP 017),2018-09-23,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,47,0.145,1,Traveling,32.229458,-101.48731,13,13,city_0232_texas_big_spring
+S49764668,L165708,Big Spring SP (PHP 017),2018-10-29,2018,232,"Big Spring, TX",Big Spring,Texas,Howard,100,30,0.805,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S51524837,L7201482,Big Spring Area,2019-01-09,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,180,16.093,1,Traveling,32.244912,-101.461144,28,28,city_0232_texas_big_spring
+S51657822,L165708,Big Spring SP (PHP 017),2019-01-13,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,120,4.828,1,Traveling,32.229458,-101.48731,13,13,city_0232_texas_big_spring
+S52530308,L165708,Big Spring SP (PHP 017),2019-02-09,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,40,2.688,1,Traveling,32.229458,-101.48731,4,4,city_0232_texas_big_spring
+S53919019,L1857779,Big Spring Airport Prairie Dog Town,2019-03-16,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,90,3.991,1,Traveling,32.2320129,-101.5203548,9,9,city_0232_texas_big_spring
+S53907856,L8862451,"1911 Apron Drive, Big Spring, Texas, US (32.223, -101.512)",2019-03-16,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,21,0.563,1,Traveling,32.2226032,-101.5115991,4,4,city_0232_texas_big_spring
+S54518301,L8966725,"94 State Park Road 8, Big Spring, Texas, US (32.229, -101.484)",2019-04-03,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,16,3.503,1,Traveling,32.2287977,-101.4836367,2,2,city_0232_texas_big_spring
+S54914319,L9036031,"(32.2250,-101.4779)",2019-04-13,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,30,,1,Stationary,32.225036,-101.477865,2,2,city_0232_texas_big_spring
+S56182465,L1857864,"Onemile Lake, Big Spring",2019-05-12,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,17,,1,Stationary,32.2507642,-101.4913131,27,27,city_0232_texas_big_spring
+S56936513,L165708,Big Spring SP (PHP 017),2019-05-31,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,109,4.828,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S57295310,L165708,Big Spring SP (PHP 017),2019-06-10,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,45,0.612,1,Traveling,32.229458,-101.48731,18,18,city_0232_texas_big_spring
+S61709222,L1857864,"Onemile Lake, Big Spring",2019-11-24,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,11,,1,Stationary,32.2507642,-101.4913131,17,17,city_0232_texas_big_spring
+S61930145,L10227635,Howard Co. (Big Spring),2019-11-30,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,2.414,1,Traveling,32.2565389,-101.4816126,4,4,city_0232_texas_big_spring
+S61886306,L1857864,"Onemile Lake, Big Spring",2019-11-30,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,25,0.805,1,Traveling,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
+S61954043,L10230944,"Big Spring State Park, Texas",2019-12-03,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,47,0.483,1,Traveling,32.2297197,-101.4899826,3,3,city_0232_texas_big_spring
+S62017851,L155292,Big Spring,2019-12-05,2019,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,1.609,1,Traveling,32.25042,-101.4784,2,2,city_0232_texas_big_spring
+S64431042,L165708,Big Spring SP (PHP 017),2020-02-13,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,49,0.966,1,Traveling,32.229458,-101.48731,14,14,city_0232_texas_big_spring
+S64449627,L10747406,"212 E Third St, Big Spring US-TX 32.25298, -101.47504",2020-02-14,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,6,,1,Stationary,32.252984,-101.475041,1,1,city_0232_texas_big_spring
+S64457466,L165708,Big Spring SP (PHP 017),2020-02-14,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,46,3.495,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S64451685,L1857864,"Onemile Lake, Big Spring",2020-02-14,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,16,0.441,1,Traveling,32.2507642,-101.4913131,8,8,city_0232_texas_big_spring
+S65546017,L165708,Big Spring SP (PHP 017),2020-03-07,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,23,10.172,1,Traveling,32.229458,-101.48731,7,7,city_0232_texas_big_spring
+S71107698,L11826345,"Doctor Morgan Park, Big Spring",2020-07-03,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,16,0.66,1,Traveling,32.2571167,-101.4923893,7,7,city_0232_texas_big_spring
+S71153475,L11835654,"1109 N Aylesford St, Big Spring US-TX 32.26291, -101.48859",2020-07-05,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,20,,1,Stationary,32.262908,-101.488593,3,3,city_0232_texas_big_spring
+S71650855,L165708,Big Spring SP (PHP 017),2020-07-15,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,49,43.766,1,Traveling,32.229458,-101.48731,5,5,city_0232_texas_big_spring
+S71667645,L165708,Big Spring SP (PHP 017),2020-07-20,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,19,0.298,1,Traveling,32.229458,-101.48731,11,11,city_0232_texas_big_spring
+S74539565,L165708,Big Spring SP (PHP 017),2020-10-07,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,26,0.927,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S74563620,L165708,Big Spring SP (PHP 017),2020-10-08,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,191,2.625,1,Traveling,32.229458,-101.48731,24,24,city_0232_texas_big_spring
+S74793656,L12491776,Big Spring--downtown,2020-10-13,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,60,,1,Stationary,32.2510281,-101.4761594,10,10,city_0232_texas_big_spring
+S76092563,L165708,Big Spring SP (PHP 017),2020-11-08,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,166,4.023,1,Traveling,32.229458,-101.48731,13,13,city_0232_texas_big_spring
+S76342721,L165708,Big Spring SP (PHP 017),2020-11-16,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,38,1.745,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S76418420,L165708,Big Spring SP (PHP 017),2020-11-18,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,35,0.166,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S76718870,L12809856,"97 State Park Road 8, Big Spring, Texas, US (32.229, -101.482)",2020-11-26,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,105,1.952,1,Stationary,32.2291171,-101.4824542,12,12,city_0232_texas_big_spring
+S76798650,L165708,Big Spring SP (PHP 017),2020-11-28,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,83,4.506,1,Traveling,32.229458,-101.48731,10,10,city_0232_texas_big_spring
+S77050523,L165708,Big Spring SP (PHP 017),2020-11-29,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,110,5.649,1,Traveling,32.229458,-101.48731,5,5,city_0232_texas_big_spring
+S77489156,L12941071,Big Spring 2020 CBC McMahon-Winkle Airport area,2020-12-14,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,71,16.093,1,Traveling,32.2177639,-101.5290227,15,15,city_0232_texas_big_spring
+S77611216,L12870119,S McGregor Rd,2020-12-17,2020,232,"Big Spring, TX",Big Spring,Texas,Howard,100,60,8.047,1,Traveling,32.24599,-101.441518,15,15,city_0232_texas_big_spring
+S79350642,L165708,Big Spring SP (PHP 017),2021-01-16,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,165,3.701,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S79463385,L12870119,S McGregor Rd,2021-01-17,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,41,32.187,1,Traveling,32.24599,-101.441518,10,10,city_0232_texas_big_spring
+S79441033,L165708,Big Spring SP (PHP 017),2021-01-17,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,63,6.195,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S80530174,L165708,Big Spring SP (PHP 017),2021-01-31,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,120,5.44,1,Traveling,32.229458,-101.48731,4,4,city_0232_texas_big_spring
+S81898632,L165708,Big Spring SP (PHP 017),2021-02-07,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,116,5.938,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S82055179,L165708,Big Spring SP (PHP 017),2021-02-08,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,60,,1,Stationary,32.229458,-101.48731,1,1,city_0232_texas_big_spring
+S81481481,L13681511,"2410 Alabama St, Big Spring US-TX 32.24606, -101.44159",2021-02-14,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,7,,1,Stationary,32.246056,-101.441595,11,11,city_0232_texas_big_spring
+S81517287,L13688119,"2410 Alabama St, Big Spring US-TX 32.24602, -101.44160",2021-02-14,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,9,,1,Stationary,32.246021,-101.441604,3,3,city_0232_texas_big_spring
+S83145872,L13985538,"Big Spring State Park, Big Spring US-TX 32.22963, -101.48724",2021-03-10,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,51,0.76,1,Traveling,32.229626,-101.487243,7,7,city_0232_texas_big_spring
+S84561814,L14254838,"Big Spring State Park, Big Spring US-TX 32.22879, -101.48339",2021-04-01,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,22,5.607,1,Traveling,32.228792,-101.483387,4,4,city_0232_texas_big_spring
+S88040686,L1857864,"Onemile Lake, Big Spring",2021-05-13,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,50,,1,Stationary,32.2507642,-101.4913131,36,36,city_0232_texas_big_spring
+S90502325,L165708,Big Spring SP (PHP 017),2021-06-20,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,20,3.852,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S92564184,L165708,Big Spring SP (PHP 017),2021-07-31,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,150,4.023,1,Traveling,32.229458,-101.48731,7,7,city_0232_texas_big_spring
+S94327537,L1857779,Big Spring Airport Prairie Dog Town,2021-09-07,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,26,6.132,1,Traveling,32.2320129,-101.5203548,9,9,city_0232_texas_big_spring
+S129275998,L16338041,Texas RV of Big Spring--site 63,2021-09-09,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,28,,1,Stationary,32.208879,-101.477035,3,3,city_0232_texas_big_spring
+S94436417,L16338041,Texas RV of Big Spring--site 63,2021-09-09,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,56,,1,Stationary,32.208879,-101.477035,8,8,city_0232_texas_big_spring
+S94451456,L16338041,Texas RV of Big Spring--site 63,2021-09-10,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,106,,1,Stationary,32.208879,-101.477035,14,14,city_0232_texas_big_spring
+S96885017,L165708,Big Spring SP (PHP 017),2021-10-30,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,41,4.12,1,Traveling,32.229458,-101.48731,2,2,city_0232_texas_big_spring
+S97842407,L16933981,"500–598 N San Antonio St, Big Spring US-TX 32.26272, -101.49051",2021-11-20,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,9,8.435,1,Traveling,32.262718,-101.490514,2,2,city_0232_texas_big_spring
+S98425953,L165708,Big Spring SP (PHP 017),2021-12-03,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,25,4.345,1,Traveling,32.229458,-101.48731,4,4,city_0232_texas_big_spring
+S98663202,L14254838,"Big Spring State Park, Big Spring US-TX 32.22879, -101.48339",2021-12-09,2021,232,"Big Spring, TX",Big Spring,Texas,Howard,100,26,4.625,1,Traveling,32.228792,-101.483387,3,3,city_0232_texas_big_spring
+S102231536,L17676079,"802 W Third St, Big Spring US-TX 32.24914, -101.48485",2022-02-07,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,15,,1,Stationary,32.249136,-101.484854,2,2,city_0232_texas_big_spring
+S105162340,L6676004,"215 Jones St, Big Spring US-TX (32.2507,-101.4965)",2022-03-13,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,180,,1,Stationary,32.250668,-101.496505,3,3,city_0232_texas_big_spring
+S105162178,L6676004,"215 Jones St, Big Spring US-TX (32.2507,-101.4965)",2022-03-13,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,120,,1,Stationary,32.250668,-101.496505,7,7,city_0232_texas_big_spring
+S105162683,L6676004,"215 Jones St, Big Spring US-TX (32.2507,-101.4965)",2022-03-14,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,45,,1,Stationary,32.250668,-101.496505,8,8,city_0232_texas_big_spring
+S105162809,L6676004,"215 Jones St, Big Spring US-TX (32.2507,-101.4965)",2022-03-14,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,75,,1,Stationary,32.250668,-101.496505,3,3,city_0232_texas_big_spring
+S109033549,L1857864,"Onemile Lake, Big Spring",2022-05-05,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,0.708,1,Traveling,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
+S111547024,L19331870,"1102 W IH-20 Frontage Rd, Big Spring US-TX 32.26361, -101.49612",2022-05-28,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,36,0.097,1,Traveling,32.263612,-101.496122,9,9,city_0232_texas_big_spring
+S111583174,L19331870,"1102 W IH-20 Frontage Rd, Big Spring US-TX 32.26361, -101.49612",2022-05-29,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,11,0.176,1,Traveling,32.263612,-101.496122,7,7,city_0232_texas_big_spring
+S112719019,L165708,Big Spring SP (PHP 017),2022-06-11,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,40,5.891,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S113273549,L165708,Big Spring SP (PHP 017),2022-06-19,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,157,6.954,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S114915893,L20102329,"Howard - 1110 S Gregg St, Big Spring US-TX 32.24345, -101.47492",2022-07-12,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,7,3.806,1,Traveling,32.243451,-101.474916,9,9,city_0232_texas_big_spring
+S115766288,L20297356,"Big Spring, Texas- Truck Stop",2022-07-25,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,14,0.161,1,Traveling,32.2643799,-101.4899947,5,5,city_0232_texas_big_spring
+S116125079,L20378342,"Big Spring, Texas, US (32.265, -101.503)",2022-07-31,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,0.467,1,Traveling,32.2651752,-101.5030339,9,9,city_0232_texas_big_spring
+S116143915,L20382131,"Big Spring, Texas, US (32.263, -101.496)",2022-08-01,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,8,,1,Stationary,32.2633747,-101.4962394,3,3,city_0232_texas_big_spring
+S116614701,L165708,Big Spring SP (PHP 017),2022-08-09,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,58,3.299,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S116674416,L165708,Big Spring SP (PHP 017),2022-08-10,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,22,2.575,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S116796799,L165708,Big Spring SP (PHP 017),2022-08-12,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,42,,1,Stationary,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S119978848,L165708,Big Spring SP (PHP 017),2022-10-04,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,80,3.898,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S120351630,L21178861,"1100 Lamesa Hwy, Big Spring US-TX 32.26266, -101.48894",2022-10-09,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,20,8.047,1,Traveling,32.262664,-101.48894,3,3,city_0232_texas_big_spring
+S123815430,L165708,Big Spring SP (PHP 017),2022-12-11,2022,232,"Big Spring, TX",Big Spring,Texas,Howard,100,162,33.376,1,Traveling,32.229458,-101.48731,15,15,city_0232_texas_big_spring
+S125641891,L165708,Big Spring SP (PHP 017),2023-01-07,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,36,1.313,1,Traveling,32.229458,-101.48731,1,1,city_0232_texas_big_spring
+S126516031,L22267697,Howard College,2023-01-07,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,30,0.5,1,Traveling,32.2528542,-101.4512545,4,4,city_0232_texas_big_spring
+S125960925,L22166343,"Walmart Supercenter, Big Spring US-TX 32.22921, -101.46883",2023-01-11,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,20,,1,Stationary,32.229215,-101.468831,1,1,city_0232_texas_big_spring
+S127873528,L165708,Big Spring SP (PHP 017),2023-02-08,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,50,4.136,1,Traveling,32.229458,-101.48731,7,7,city_0232_texas_big_spring
+S128009548,L165708,Big Spring SP (PHP 017),2023-02-10,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,120,1.163,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S129439201,L165708,Big Spring SP (PHP 017),2023-02-23,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,28,0.883,1,Traveling,32.229458,-101.48731,4,4,city_0232_texas_big_spring
+S133917363,L165708,Big Spring SP (PHP 017),2023-04-14,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,15,2.635,1,Traveling,32.229458,-101.48731,1,1,city_0232_texas_big_spring
+S134308669,L165708,Big Spring SP (PHP 017),2023-04-19,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,11,0.073,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S142131357,L165708,Big Spring SP (PHP 017),2023-06-19,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,35,0.805,1,Traveling,32.229458,-101.48731,2,2,city_0232_texas_big_spring
+S142175072,L165708,Big Spring SP (PHP 017),2023-06-19,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,102,13.25,1,Traveling,32.229458,-101.48731,10,10,city_0232_texas_big_spring
+S147866594,L26710230,"Big Spring State Park, Big Spring US-TX 32.22926, -101.48192",2023-08-22,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,14,0.181,1,Traveling,32.229257,-101.481922,2,2,city_0232_texas_big_spring
+S148768770,L165708,Big Spring SP (PHP 017),2023-09-02,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,46,1.115,1,Traveling,32.229458,-101.48731,17,17,city_0232_texas_big_spring
+S152414329,L1857864,"Onemile Lake, Big Spring",2023-10-16,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,26,0.252,1,Traveling,32.2507642,-101.4913131,23,23,city_0232_texas_big_spring
+S153105300,L165708,Big Spring SP (PHP 017),2023-10-26,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,44,6.099,1,Traveling,32.229458,-101.48731,7,7,city_0232_texas_big_spring
+S154008772,L27859267,"601 North Benton Street, Big Spring, Texas, US (32.261, -101.473)",2023-11-08,2023,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,2.161,1,Traveling,32.2606597,-101.472873,0,0,city_0232_texas_big_spring
+S158839187,L1857864,"Onemile Lake, Big Spring",2024-01-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,0.322,1,Traveling,32.2507642,-101.4913131,2,2,city_0232_texas_big_spring
+S161248096,L165708,Big Spring SP (PHP 017),2024-02-11,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,13,2.473,1,Traveling,32.229458,-101.48731,2,2,city_0232_texas_big_spring
+S161660300,L165708,Big Spring SP (PHP 017),2024-02-14,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,70,3.64,1,Traveling,32.229458,-101.48731,11,11,city_0232_texas_big_spring
+S164222889,L165708,Big Spring SP (PHP 017),2024-03-09,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,88,3.618,1,Traveling,32.229458,-101.48731,15,15,city_0232_texas_big_spring
+S167411054,L165708,Big Spring SP (PHP 017),2024-04-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,14,0.307,1,Traveling,32.229458,-101.48731,2,2,city_0232_texas_big_spring
+S167799855,L165708,Big Spring SP (PHP 017),2024-04-08,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,25,0.18,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S168488885,L30607555,Comfort Inn Hotel Area,2024-04-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,18,6.437,1,Traveling,32.2629126,-101.4885986,7,7,city_0232_texas_big_spring
+S170626326,L1857864,"Onemile Lake, Big Spring",2024-04-26,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,69,1.336,1,Traveling,32.2507642,-101.4913131,15,15,city_0232_texas_big_spring
+S173460737,L24701912,Highland,2024-05-11,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,84,1.633,1,Traveling,32.225674,-101.450948,21,21,city_0232_texas_big_spring
+S173972063,L165708,Big Spring SP (PHP 017),2024-05-12,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,191,3.657,1,Traveling,32.229458,-101.48731,18,18,city_0232_texas_big_spring
+S174224598,L1857779,Big Spring Airport Prairie Dog Town,2024-05-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,42,0.702,1,Traveling,32.2320129,-101.5203548,12,12,city_0232_texas_big_spring
+S174243696,L1857864,"Onemile Lake, Big Spring",2024-05-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,55,0.117,1,Traveling,32.2507642,-101.4913131,12,12,city_0232_texas_big_spring
+S181247840,L165708,Big Spring SP (PHP 017),2024-06-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,39,3.96,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S182266054,L165708,Big Spring SP (PHP 017),2024-06-17,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,56,3.842,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S182174918,L1857779,Big Spring Airport Prairie Dog Town,2024-06-17,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,6,0.379,1,Traveling,32.2320129,-101.5203548,7,7,city_0232_texas_big_spring
+S185635683,L1857779,Big Spring Airport Prairie Dog Town,2024-07-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,30,0.267,1,Traveling,32.2320129,-101.5203548,5,5,city_0232_texas_big_spring
+S187744939,L165708,Big Spring SP (PHP 017),2024-07-19,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,55,0.158,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S190445928,L1857864,"Onemile Lake, Big Spring",2024-08-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,8,2.227,1,Traveling,32.2507642,-101.4913131,6,6,city_0232_texas_big_spring
+S193473144,L165708,Big Spring SP (PHP 017),2024-08-31,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,59,5.601,1,Traveling,32.229458,-101.48731,14,14,city_0232_texas_big_spring
+S195284534,L165708,Big Spring SP (PHP 017),2024-09-05,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,70,4.989,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S195283978,L1857864,"Onemile Lake, Big Spring",2024-09-05,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,0.322,1,Traveling,32.2507642,-101.4913131,3,3,city_0232_texas_big_spring
+S195286956,L165708,Big Spring SP (PHP 017),2024-09-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,65,4.828,1,Traveling,32.229458,-101.48731,11,11,city_0232_texas_big_spring
+S195960344,L36749770,"401 Birdwell Ln, Big Spring US-TX 32.25822, -101.45293",2024-09-21,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,22,0.218,1,Traveling,32.258223,-101.452933,3,3,city_0232_texas_big_spring
+S198498809,L165708,Big Spring SP (PHP 017),2024-10-12,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,43,2.138,1,Traveling,32.229458,-101.48731,4,4,city_0232_texas_big_spring
+S198791749,L165708,Big Spring SP (PHP 017),2024-10-13,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,38,3.311,1,Traveling,32.229458,-101.48731,7,7,city_0232_texas_big_spring
+S199670228,L37487083,"717 Tulane Avenue, Big Spring and, Texas, US (32.255, -101.447) Allyway Where I had Seen ground nesting Quail, or another Species. They Were Not Observed Today",2024-10-20,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,0.078,1,,32.2549891,-101.4470406,0,0,city_0232_texas_big_spring
+S205211714,L165708,Big Spring SP (PHP 017),2024-12-02,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,0.322,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S204286151,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2024-12-02,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,32,,1,Stationary,32.2562246,-101.4488367,4,4,city_0232_texas_big_spring
+S204620799,L38459726,"Big Spring State Park, Big Spring US-TX 32.22900, -101.48360",2024-12-06,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,17,0.232,1,Traveling,32.228999,-101.483596,3,3,city_0232_texas_big_spring
+S205524523,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2024-12-15,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,,1,Stationary,32.2562246,-101.4488367,4,4,city_0232_texas_big_spring
+S205522581,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2024-12-15,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,,1,Stationary,32.2562246,-101.4488367,3,3,city_0232_texas_big_spring
+S205602051,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2024-12-16,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2562246,-101.4488367,4,4,city_0232_texas_big_spring
+S205758079,L165708,Big Spring SP (PHP 017),2024-12-17,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,30,0.805,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S206013294,L165708,Big Spring SP (PHP 017),2024-12-18,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,57,1.066,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S205995944,L165708,Big Spring SP (PHP 017),2024-12-18,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,57,1.066,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S206157992,L165708,Big Spring SP (PHP 017),2024-12-21,2024,232,"Big Spring, TX",Big Spring,Texas,Howard,100,35,0.644,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S208027599,L165708,Big Spring SP (PHP 017),2025-01-03,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,200,6.968,1,Traveling,32.229458,-101.48731,17,17,city_0232_texas_big_spring
+S208499125,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-01-08,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,,1,Stationary,32.2562246,-101.4488367,1,1,city_0232_texas_big_spring
+S209762008,L165708,Big Spring SP (PHP 017),2025-01-18,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,24,1.118,1,Traveling,32.229458,-101.48731,4,4,city_0232_texas_big_spring
+S209936874,L165708,Big Spring SP (PHP 017),2025-01-19,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,9,2.564,1,Traveling,32.229458,-101.48731,5,5,city_0232_texas_big_spring
+S209949293,L165708,Big Spring SP (PHP 017),2025-01-19,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,50,1.045,1,Traveling,32.229458,-101.48731,12,12,city_0232_texas_big_spring
+S210930006,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-01-27,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,7,,1,Stationary,32.2562246,-101.4488367,2,2,city_0232_texas_big_spring
+S212119651,L165708,Big Spring SP (PHP 017),2025-02-05,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,70,1.719,1,Traveling,32.229458,-101.48731,10,10,city_0232_texas_big_spring
+S212994748,L165708,Big Spring SP (PHP 017),2025-02-12,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,16,4.056,1,Traveling,32.229458,-101.48731,1,1,city_0232_texas_big_spring
+S214451427,L165708,Big Spring SP (PHP 017),2025-02-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,213,9.64,1,Traveling,32.229458,-101.48731,12,12,city_0232_texas_big_spring
+S215371434,L165708,Big Spring SP (PHP 017),2025-02-25,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,56,2.24,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S217045498,L165708,Big Spring SP (PHP 017),2025-03-02,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,57,0.894,1,Traveling,32.229458,-101.48731,5,5,city_0232_texas_big_spring
+S216313741,L165708,Big Spring SP (PHP 017),2025-03-02,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,57,0.894,1,Traveling,32.229458,-101.48731,5,5,city_0232_texas_big_spring
+S218896828,L165708,Big Spring SP (PHP 017),2025-03-16,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,44,1.839,1,Traveling,32.229458,-101.48731,16,16,city_0232_texas_big_spring
+S219137497,L165708,Big Spring SP (PHP 017),2025-03-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,75,2.425,1,Traveling,32.229458,-101.48731,9,9,city_0232_texas_big_spring
+S219148692,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-03-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,12,,1,Stationary,32.2562246,-101.4488367,7,7,city_0232_texas_big_spring
+S220115371,L41537953,"1102 W IH-20 Frontage Rd, Big Spring US-TX 32.26348, -101.49636",2025-03-22,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,14,,1,Stationary,32.263483,-101.496363,8,8,city_0232_texas_big_spring
+S220675933,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-03-25,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,,1,Stationary,32.2562246,-101.4488367,10,10,city_0232_texas_big_spring
+S221782104,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-03-30,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,7,,1,Stationary,32.2562246,-101.4488367,9,9,city_0232_texas_big_spring
+S222059616,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-03-31,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2562246,-101.4488367,9,9,city_0232_texas_big_spring
+S222378865,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-01,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,,1,Stationary,32.2562246,-101.4488367,7,7,city_0232_texas_big_spring
+S222440187,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-02,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,6,,1,Stationary,32.2562246,-101.4488367,8,8,city_0232_texas_big_spring
+S222764355,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-03,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2562246,-101.4488367,10,10,city_0232_texas_big_spring
+S222839623,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-04,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2562246,-101.4488367,7,7,city_0232_texas_big_spring
+S223869341,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-08,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,6,,1,Stationary,32.2562246,-101.4488367,10,10,city_0232_texas_big_spring
+S225536398,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-14,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,8,0.113,1,Traveling,32.2562246,-101.4488367,5,5,city_0232_texas_big_spring
+S226287254,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,7,,1,Stationary,32.2562246,-101.4488367,10,10,city_0232_texas_big_spring
+S226340485,L42794153,"96 State Park Road 8, Big Spring, Texas, US (32.229, -101.483)",2025-04-17,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,34,0.998,1,Traveling,32.2292443,-101.483275,12,12,city_0232_texas_big_spring
+S232153177,L165708,Big Spring SP (PHP 017),2025-04-19,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,6,0.531,1,Traveling,32.229458,-101.48731,15,15,city_0232_texas_big_spring
+S227960464,L165708,Big Spring SP (PHP 017),2025-04-21,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,39,2.752,1,Traveling,32.229458,-101.48731,8,8,city_0232_texas_big_spring
+S227856492,L42793719,Nature Trail at State Park,2025-04-21,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,10,0.062,1,Traveling,32.2290344,-101.4869766,3,3,city_0232_texas_big_spring
+S228231053,L165708,Big Spring SP (PHP 017),2025-04-22,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,13,,1,Stationary,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S228557733,L165708,Big Spring SP (PHP 017),2025-04-23,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,39,1.738,1,Traveling,32.229458,-101.48731,3,3,city_0232_texas_big_spring
+S228578013,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-04-23,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,40,0.095,1,,32.2562246,-101.4488367,0,0,city_0232_texas_big_spring
+S241026690,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-05-21,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,6,,1,Stationary,32.2562246,-101.4488367,5,5,city_0232_texas_big_spring
+S244306502,L165708,Big Spring SP (PHP 017),2025-05-29,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,72,1.127,1,Traveling,32.229458,-101.48731,6,6,city_0232_texas_big_spring
+S244356100,L20102329,"Howard - 1110 S Gregg St, Big Spring US-TX 32.24345, -101.47492",2025-05-29,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,26,6.164,1,Traveling,32.243451,-101.474916,7,7,city_0232_texas_big_spring
+S246917171,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-06-05,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,6,,1,Stationary,32.2562246,-101.4488367,7,7,city_0232_texas_big_spring
+S248236565,L47154343,"911 Goliad St, Big Spring US-TX 32.24819, -101.46772",2025-06-08,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,0.138,1,Traveling,32.248193,-101.467718,5,5,city_0232_texas_big_spring
+S250302315,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-06-14,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,9,,1,Stationary,32.2562246,-101.4488367,9,9,city_0232_texas_big_spring
+S251976401,L37123977,"626 Tulane Avenue, Big Spring, Texas, US (32.256, -101.449)My Home",2025-06-19,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,5,,1,Stationary,32.2562246,-101.4488367,12,12,city_0232_texas_big_spring
+S259232236,L49639038,"602 NE 11th St, Big Spring US-TX 32.26577, -101.47454",2025-07-12,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,18,,1,Stationary,32.265772,-101.474536,3,3,city_0232_texas_big_spring
+S268487782,L165708,Big Spring SP (PHP 017),2025-08-20,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,62,1.9,1,Traveling,32.229458,-101.48731,11,11,city_0232_texas_big_spring
+S270156927,L165708,Big Spring SP (PHP 017),2025-08-29,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,25,,1,Stationary,32.229458,-101.48731,2,2,city_0232_texas_big_spring
+S271297038,L165708,Big Spring SP (PHP 017),2025-09-03,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,61,2.774,1,Traveling,32.229458,-101.48731,5,5,city_0232_texas_big_spring
+S274678713,L165708,Big Spring SP (PHP 017),2025-09-21,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,90,0.736,1,Traveling,32.229458,-101.48731,17,17,city_0232_texas_big_spring
+S285190230,L165708,Big Spring SP (PHP 017),2025-11-18,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,15,1.1,1,Traveling,32.229458,-101.48731,10,10,city_0232_texas_big_spring
+S289197023,L1857779,Big Spring Airport Prairie Dog Town,2025-12-18,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,105,13.036,1,Traveling,32.2320129,-101.5203548,26,26,city_0232_texas_big_spring
+S290415885,L56378900,"1748 Purdue Avenue, Big Spring, Texas, US (32.255, -101.449)",2025-12-26,2025,232,"Big Spring, TX",Big Spring,Texas,Howard,100,25,,1,Stationary,32.2549929,-101.4490936,6,6,city_0232_texas_big_spring

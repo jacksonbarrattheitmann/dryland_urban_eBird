@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2015,180257820.62572,129,2577,city_1845_idaho_nampa,258.6937508583069,12.471354166666668,11.512156719155156,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2016,180257820.62572,131,2692,city_1845_idaho_nampa,264.8812532424927,12.002604166666668,12.038631938113053,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2017,180257820.62572,135,4145,city_1845_idaho_nampa,354.162495136261,11.286458333333332,16.63792489996626,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2018,180257820.62572,136,5103,city_1845_idaho_nampa,270.57499623298645,11.640625,12.50310451906941,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2019,180257820.62572,138,5572,city_1845_idaho_nampa,312.35624563694,10.75,15.053313042744096,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2020,180257820.62572,148,8360,city_1845_idaho_nampa,310.9812505245209,11.955729166666668,14.164013782637412,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2021,180257820.62572,155,13671,city_1845_idaho_nampa,262.83124828338623,12.411458333333332,11.727538849735106,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2022,180257820.62572,156,13739,city_1845_idaho_nampa,292.59999775886536,11.317708333333332,13.72567788167656,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2023,180257820.62572,151,12896,city_1845_idaho_nampa,296.85000228881836,11.893229166666668,13.558986663364609,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2024,180257820.62572,151,14385,city_1845_idaho_nampa,343.80625581741333,12.546875,15.248510306524222,semiarid,12
-1845,"Nampa, ID",Nampa,Idaho,Canyon,2025,180257820.62572,136,12546,city_1845_idaho_nampa,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1845,2015,"Nampa, ID",Nampa,Idaho,Canyon,100,129,2577,city_1845_idaho_nampa,258.693750858307,12.4713541666667,11.5121567191552,semiarid,12
+1845,2016,"Nampa, ID",Nampa,Idaho,Canyon,100,131,2692,city_1845_idaho_nampa,264.881253242493,12.0026041666667,12.0386319381131,semiarid,12
+1845,2017,"Nampa, ID",Nampa,Idaho,Canyon,100,135,4146,city_1845_idaho_nampa,354.162495136261,11.2864583333333,16.6379248999663,semiarid,12
+1845,2018,"Nampa, ID",Nampa,Idaho,Canyon,100,136,5103,city_1845_idaho_nampa,270.574996232986,11.640625,12.5031045190694,semiarid,12
+1845,2019,"Nampa, ID",Nampa,Idaho,Canyon,100,138,5572,city_1845_idaho_nampa,312.35624563694,10.75,15.0533130427441,semiarid,12
+1845,2020,"Nampa, ID",Nampa,Idaho,Canyon,100,148,8360,city_1845_idaho_nampa,310.981250524521,11.9557291666667,14.1640137826374,semiarid,12
+1845,2021,"Nampa, ID",Nampa,Idaho,Canyon,100,155,13671,city_1845_idaho_nampa,262.831248283386,12.4114583333333,11.7275388497351,semiarid,12
+1845,2022,"Nampa, ID",Nampa,Idaho,Canyon,100,156,13739,city_1845_idaho_nampa,292.599997758865,11.3177083333333,13.7256778816766,semiarid,12
+1845,2023,"Nampa, ID",Nampa,Idaho,Canyon,100,151,12896,city_1845_idaho_nampa,296.850002288818,11.8932291666667,13.5589866633646,semiarid,12
+1845,2024,"Nampa, ID",Nampa,Idaho,Canyon,100,151,14385,city_1845_idaho_nampa,343.806255817413,12.546875,15.2485103065242,semiarid,12
+1845,2025,"Nampa, ID",Nampa,Idaho,Canyon,100,136,12546,city_1845_idaho_nampa,,,,,

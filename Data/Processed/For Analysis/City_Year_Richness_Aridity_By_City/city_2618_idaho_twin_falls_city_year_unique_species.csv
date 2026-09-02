@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2015,46948375.4238366,60,309,city_2618_idaho_twin_falls,249.43125104904175,11.463541666666668,11.621159961518082,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2016,46948375.4238366,63,205,city_2618_idaho_twin_falls,234.21875190734863,10.9140625,11.19910356523744,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2017,46948375.4238366,58,388,city_2618_idaho_twin_falls,284.40625071525574,10.544270833333332,13.84357970270734,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2018,46948375.4238366,57,334,city_2618_idaho_twin_falls,235.20625138282776,10.778645833333332,11.319614053265555,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2019,46948375.4238366,64,379,city_2618_idaho_twin_falls,301.4625012874603,9.8203125,15.20977539014384,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2020,46948375.4238366,81,590,city_2618_idaho_twin_falls,257.8187472820282,10.846354166666668,12.367570138200977,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2021,46948375.4238366,73,633,city_2618_idaho_twin_falls,248.65000104904175,11.268229166666668,11.691147349434557,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2022,46948375.4238366,77,1908,city_2618_idaho_twin_falls,242.6437530517578,10.286458333333332,11.960873064425549,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2023,46948375.4238366,70,801,city_2618_idaho_twin_falls,286.6687479019165,10.4765625,13.999847284031024,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2024,46948375.4238366,68,560,city_2618_idaho_twin_falls,293.9624981880188,11.427083333333332,13.719202637846283,semiarid,12
-2618,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,2025,46948375.4238366,65,537,city_2618_idaho_twin_falls,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2618,2015,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,60,309,city_2618_idaho_twin_falls,249.431251049042,11.4635416666667,11.6211599615181,semiarid,12
+2618,2016,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,63,205,city_2618_idaho_twin_falls,234.218751907349,10.9140625,11.1991035652374,semiarid,12
+2618,2017,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,58,388,city_2618_idaho_twin_falls,284.406250715256,10.5442708333333,13.8435797027073,semiarid,12
+2618,2018,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,57,334,city_2618_idaho_twin_falls,235.206251382828,10.7786458333333,11.3196140532656,semiarid,12
+2618,2019,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,64,379,city_2618_idaho_twin_falls,301.46250128746,9.8203125,15.2097753901438,semiarid,12
+2618,2020,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,81,590,city_2618_idaho_twin_falls,257.818747282028,10.8463541666667,12.367570138201,semiarid,12
+2618,2021,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,73,633,city_2618_idaho_twin_falls,248.650001049042,11.2682291666667,11.6911473494346,semiarid,12
+2618,2022,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,77,1908,city_2618_idaho_twin_falls,242.643753051758,10.2864583333333,11.9608730644255,semiarid,12
+2618,2023,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,70,801,city_2618_idaho_twin_falls,286.668747901917,10.4765625,13.999847284031,semiarid,12
+2618,2024,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,68,560,city_2618_idaho_twin_falls,293.962498188019,11.4270833333333,13.7192026378463,semiarid,12
+2618,2025,"Twin Falls, ID",Twin Falls,Idaho,Twin Falls,100,65,537,city_2618_idaho_twin_falls,,,,,

@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2016,19682238.4624299,26,30,city_1829_idaho_mountain_home,231.71875143051147,11.8984375,10.581519865538876,semiarid,12
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2017,19682238.4624299,21,31,city_1829_idaho_mountain_home,312.56874549388885,11.143229166666668,14.783396756947075,semiarid,12
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2018,19682238.4624299,12,33,city_1829_idaho_mountain_home,245.26249730587008,11.5,11.407558014226517,semiarid,12
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2020,19682238.4624299,23,40,city_1829_idaho_mountain_home,293.76875042915344,11.770833333333332,13.493684230238628,semiarid,12
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2021,19682238.4624299,26,41,city_1829_idaho_mountain_home,255.3249955177307,12.174479166666668,11.51436268688298,semiarid,12
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2022,19682238.4624299,37,84,city_1829_idaho_mountain_home,252.61874735355377,11.231770833333332,11.8981477963651,semiarid,12
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2023,19682238.4624299,71,115,city_1829_idaho_mountain_home,265.0187486410141,11.690104166666668,12.21841751448546,semiarid,12
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2024,19682238.4624299,27,51,city_1829_idaho_mountain_home,328.4874963760376,12.3203125,14.716975686430803,semiarid,12
-1829,"Mountain Home, ID",Mountain Home,Idaho,Elmore,2025,19682238.4624299,33,61,city_1829_idaho_mountain_home,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1829,2016,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,26,30,city_1829_idaho_mountain_home,231.718751430511,11.8984375,10.5815198655389,semiarid,12
+1829,2017,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,21,31,city_1829_idaho_mountain_home,312.568745493889,11.1432291666667,14.7833967569471,semiarid,12
+1829,2018,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,12,33,city_1829_idaho_mountain_home,245.26249730587,11.5,11.4075580142265,semiarid,12
+1829,2020,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,23,40,city_1829_idaho_mountain_home,293.768750429153,11.7708333333333,13.4936842302386,semiarid,12
+1829,2021,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,26,41,city_1829_idaho_mountain_home,255.324995517731,12.1744791666667,11.514362686883,semiarid,12
+1829,2022,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,37,84,city_1829_idaho_mountain_home,252.618747353554,11.2317708333333,11.8981477963651,semiarid,12
+1829,2023,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,71,115,city_1829_idaho_mountain_home,265.018748641014,11.6901041666667,12.2184175144855,semiarid,12
+1829,2024,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,27,51,city_1829_idaho_mountain_home,328.487496376038,12.3203125,14.7169756864308,semiarid,12
+1829,2025,"Mountain Home, ID",Mountain Home,Idaho,Elmore,100,33,61,city_1829_idaho_mountain_home,,,,,

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2015,134485624.709952,81,207,city_2788_texas_wichita_falls,951.456247329712,18.28125,33.64265183928263,humid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2016,134485624.709952,76,407,city_2788_texas_wichita_falls,800.2562460899353,19.052083333333332,27.545571754978052,dry subhumid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2017,134485624.709952,107,1049,city_2788_texas_wichita_falls,700.8437604904175,18.916666666666668,24.23667183252164,dry subhumid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2018,134485624.709952,164,2595,city_2788_texas_wichita_falls,768.0312533378601,18.075520833333332,27.355904023906714,dry subhumid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2019,134485624.709952,173,2468,city_2788_texas_wichita_falls,808.0687465667725,17.760416666666668,29.108667793774917,dry subhumid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2020,134485624.709952,192,5117,city_2788_texas_wichita_falls,722.6249942779541,18.2890625,25.544324569891774,dry subhumid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2021,134485624.709952,192,5301,city_2788_texas_wichita_falls,681.1312608718872,18.145833333333332,24.20007440551487,dry subhumid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2022,134485624.709952,212,6846,city_2788_texas_wichita_falls,509.7187576293946,18.385416666666668,17.957064488962157,semiarid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2023,134485624.709952,209,5168,city_2788_texas_wichita_falls,698.9937515258789,18.979166666666668,24.12056080031789,dry subhumid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2024,134485624.709952,228,9601,city_2788_texas_wichita_falls,738.7062501907349,19.447916666666668,25.085178641072,dry subhumid,12
-2788,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,2025,134485624.709952,182,3642,city_2788_texas_wichita_falls,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2788,2015,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,81,207,city_2788_texas_wichita_falls,951.456247329712,18.28125,33.6426518392826,humid,12
+2788,2016,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,76,407,city_2788_texas_wichita_falls,800.256246089935,19.0520833333333,27.5455717549781,dry subhumid,12
+2788,2017,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,107,1049,city_2788_texas_wichita_falls,700.843760490418,18.9166666666667,24.2366718325216,dry subhumid,12
+2788,2018,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,164,2595,city_2788_texas_wichita_falls,768.03125333786,18.0755208333333,27.3559040239067,dry subhumid,12
+2788,2019,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,173,2468,city_2788_texas_wichita_falls,808.068746566772,17.7604166666667,29.1086677937749,dry subhumid,12
+2788,2020,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,192,5117,city_2788_texas_wichita_falls,722.624994277954,18.2890625,25.5443245698918,dry subhumid,12
+2788,2021,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,192,5301,city_2788_texas_wichita_falls,681.131260871887,18.1458333333333,24.2000744055149,dry subhumid,12
+2788,2022,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,212,6846,city_2788_texas_wichita_falls,509.718757629395,18.3854166666667,17.9570644889622,semiarid,12
+2788,2023,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,209,5168,city_2788_texas_wichita_falls,698.993751525879,18.9791666666667,24.1205608003179,dry subhumid,12
+2788,2024,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,228,9601,city_2788_texas_wichita_falls,738.706250190735,19.4479166666667,25.085178641072,dry subhumid,12
+2788,2025,"Wichita Falls, TX",Wichita Falls,Texas,Wichita,99.9999999999993,182,3642,city_2788_texas_wichita_falls,,,,,

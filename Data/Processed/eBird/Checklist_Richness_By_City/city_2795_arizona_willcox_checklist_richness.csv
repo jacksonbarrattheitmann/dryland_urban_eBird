@@ -1,131 +1,133 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S21795157,L3358606,Willcox--Motel 6,2015-02-13,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,18,,1,32.265634,-109.84116,13,13,city_2795_arizona_willcox
-S23024813,L879682,Willcox Railroad Park,2015-04-23,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2521884,-109.8309016,6,6,city_2795_arizona_willcox
-S26520802,L3586755,Willcox (espresso),2015-04-24,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,6,0.161,1,32.251634,-109.831651,6,6,city_2795_arizona_willcox
-S26520804,L3586755,Willcox (espresso),2015-04-24,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,6,0.161,1,32.251634,-109.831651,6,6,city_2795_arizona_willcox
-S26520805,L3586755,Willcox (espresso),2015-04-24,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,6,0.161,1,32.251634,-109.831651,6,6,city_2795_arizona_willcox
-S23029477,L3586755,Willcox (espresso),2015-04-24,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,6,0.161,1,32.251634,-109.831651,6,6,city_2795_arizona_willcox
-S21574009,L3323085,Northern Cochise Hospital,2015-01-27,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
-S27226840,L9925099,Bisbee/Fremont St. (Jarrett's yard),2016-01-27,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,15,,1,32.2593611,-109.8412551,2,2,city_2795_arizona_willcox
-S28514223,L9925099,Bisbee/Fremont St. (Jarrett's yard),2016-03-23,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,40,,1,32.2593611,-109.8412551,17,17,city_2795_arizona_willcox
-S27419539,L961259,Willcox Town Limits (exclude Willcox Golf Course Ponds),2016-02-10,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,4.828,1,32.2539443,-109.8363304,5,5,city_2795_arizona_willcox
-S30144281,L4684976,Willcox-Historic Railroad Avenue Park,2016-05-26,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,0.1,1,32.2521385,-109.8308936,7,7,city_2795_arizona_willcox
-S26948425,L4166965,US-Arizona-Willcox-451 N Bisbee Ave - 32.259x-109.841,2016-01-17,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,,1,32.2593085,-109.8411383,6,6,city_2795_arizona_willcox
-S27210151,L196910,Willcox,2016-01-25,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,15,1.609,1,32.25287,-109.83162,3,3,city_2795_arizona_willcox
-S36474198,L5774689,Willcox--town,2017-04-25,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,25,1,1,32.252578,-109.8324774,7,7,city_2795_arizona_willcox
-S38977349,L6239145,"451 N Bisbee Ave, Willcox US-AZ (32.2593,-109.8408)",2017-09-03,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,58,,1,32.259278,-109.84083,10,10,city_2795_arizona_willcox
-S36616682,L5782876,Willcox - town,2017-05-06,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,20,,1,32.258467,-109.835397,6,6,city_2795_arizona_willcox
-S37018590,L2421553,Willcox Pizza Hut,2017-05-19,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,7,,1,32.2645286,-109.839254,3,3,city_2795_arizona_willcox
-S38977064,L6239145,"451 N Bisbee Ave, Willcox US-AZ (32.2593,-109.8408)",2017-09-03,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,58,,1,32.259278,-109.84083,10,10,city_2795_arizona_willcox
-S33428958,L5219307,Adolfo's Taco Shop,2017-01-03,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,12,,1,32.247165,-109.835679,1,1,city_2795_arizona_willcox
-S45614029,L9925099,Bisbee/Fremont St. (Jarrett's yard),2018-05-07,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,60,,1,32.2593611,-109.8412551,20,20,city_2795_arizona_willcox
-S49443958,L3323085,Northern Cochise Hospital,2018-10-25,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,,1,32.2646908,-109.8379719,2,2,city_2795_arizona_willcox
-S50962950,L3323085,Northern Cochise Hospital,2018-12-26,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,15,,1,32.2646908,-109.8379719,3,3,city_2795_arizona_willcox
-S44816291,L7262355,"1100 West Rex Allen Drive, Willcox, Arizona, US (32.263, -109.84)",2018-04-22,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,12,0.209,1,32.2634023,-109.8401857,4,4,city_2795_arizona_willcox
-S50613992,L3323085,Northern Cochise Hospital,2018-12-11,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2646908,-109.8379719,2,2,city_2795_arizona_willcox
-S43408729,L7024367,"Alley behind S. Haskell Ave, Willcox",2018-02-19,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,,1,32.2477337,-109.8362163,5,5,city_2795_arizona_willcox
-S52590633,L7024367,"Alley behind S. Haskell Ave, Willcox",2018-02-19,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,,1,32.2477337,-109.8362163,5,5,city_2795_arizona_willcox
-S45235599,L7330893,"(32.2623,-109.8334) Wilcox RV Park",2018-04-10,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,20,,1,32.262336,-109.833403,10,10,city_2795_arizona_willcox
-S50637778,L3323085,Northern Cochise Hospital,2018-12-12,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
-S43929779,L7114492,N Arizona Ave,2018-03-15,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,110,14.188,1,32.261873,-109.837555,3,3,city_2795_arizona_willcox
-S43434664,L7028710,"622 N Haskell Ave, Willcox US-AZ (32.2605,-109.8285)",2018-03-05,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.26048,-109.828515,1,1,city_2795_arizona_willcox
-S50582373,L3323085,Northern Cochise Hospital,2018-12-10,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,70,,1,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
-S55402315,L9117879,"173 N Haskell Ave, Willcox US-AZ (32.2534,-109.8318)",2019-04-25,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,14,0.118,1,32.253437,-109.831756,4,4,city_2795_arizona_willcox
-S62776566,L10373358,"Willcox Town, Willcox, Arizona, US (32.245, -109.84)",2019-12-30,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,131,4.216,1,32.2447766,-109.8403079,16,16,city_2795_arizona_willcox
-S57955224,L9592936,"130 North Railroad Avenue, Willcox, Arizona, US (32.252, -109.831)",2019-07-05,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,33,,1,32.2523533,-109.8308052,4,4,city_2795_arizona_willcox
-S51491876,L3323085,Northern Cochise Hospital,2019-01-08,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2646908,-109.8379719,3,3,city_2795_arizona_willcox
-S53776811,L3323085,Northern Cochise Hospital,2019-03-13,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,20,,1,32.2646908,-109.8379719,4,4,city_2795_arizona_willcox
-S58443252,L9693424,"340 S Haskell Ave, Willcox US-AZ (32.2498,-109.8348)",2019-07-25,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,6,,1,32.249811,-109.834799,6,6,city_2795_arizona_willcox
-S56195949,L9254996,"145 North Railview Avenue, Willcox, Arizona, US (32.252, -109.83)",2019-05-10,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2523344,-109.8303353,4,4,city_2795_arizona_willcox
-S51519178,L3323085,Northern Cochise Hospital,2019-01-09,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,,1,32.2646908,-109.8379719,2,2,city_2795_arizona_willcox
-S52680553,L8607569,Quality Inn,2019-02-14,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,7,,1,32.2637906,-109.8402032,2,2,city_2795_arizona_willcox
-S51378301,L3323085,Northern Cochise Hospital,2019-01-04,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
-S52327797,L3323085,Northern Cochise Hospital,2019-02-02,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,,1,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
-S63954960,L10652805,Willcox Community Center park,2020-01-25,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,25,,1,32.2545838,-109.8346138,8,8,city_2795_arizona_willcox
-S76475396,L12766932,451 N Bisbee Ave,2020-11-18,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,60,,1,32.2593165,-109.8411342,17,17,city_2795_arizona_willcox
-S76429945,L9925099,Bisbee/Fremont St. (Jarrett's yard),2020-11-16,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,65,,1,32.2593611,-109.8412551,17,17,city_2795_arizona_willcox
-S63043599,L10373358,"Willcox Town, Willcox, Arizona, US (32.245, -109.84)",2020-01-05,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,15,,1,32.2447766,-109.8403079,5,5,city_2795_arizona_willcox
-S68539010,L11354488,Grande VIsta RV Park,2020-05-07,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,45,,1,32.2620416,-109.8338628,11,11,city_2795_arizona_willcox
-S76418951,L12756690,Wilcox-- 451 N Bisbee Ave,2020-11-19,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,47,,1,32.25941,-109.841284,13,13,city_2795_arizona_willcox
-S76629686,L12794300,Max's,2020-11-24,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,52,,1,32.2592651,-109.8409861,16,16,city_2795_arizona_willcox
-S76950701,L12850908,"Rufous-backeed Robin,  Stakeout",2020-12-01,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,130,,1,32.2594044,-109.8410261,18,18,city_2795_arizona_willcox
-S76745389,L12814324,"451 N Bisbee Ave, Willcox US-AZ 32.25933, -109.84091",2020-11-27,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,49,,1,32.259329,-109.840905,10,10,city_2795_arizona_willcox
-S66654798,L879682,Willcox Railroad Park,2020-04-04,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,30,0.402,1,32.2521884,-109.8309016,12,12,city_2795_arizona_willcox
-S217537779,L11354488,Grande VIsta RV Park,2020-05-07,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,45,,1,32.2620416,-109.8338628,11,11,city_2795_arizona_willcox
-S78240927,L13082080,"120 W Rex Allen Dr, Willcox US-AZ 32.26124, -109.82844",2020-12-29,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,0.233,1,32.261241,-109.828437,3,3,city_2795_arizona_willcox
-S76633890,L12794987,"451 N Bisbee Ave, Willcox US-AZ (32.2593,-109.8413)",2020-11-22,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,22,,1,32.259265,-109.841273,10,10,city_2795_arizona_willcox
-S76900536,L12843130,"451 N Bisbee Ave, Willcox US-AZ (32.2593,-109.8409)",2020-11-30,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,45,,1,32.259321,-109.840888,13,13,city_2795_arizona_willcox
-S76690929,L12804915,"451 North Bisbee Avenue, Willcox, Arizona, US (32.259, -109.841)",2020-11-25,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,14,,1,32.2593408,-109.8408936,12,12,city_2795_arizona_willcox
-S65505884,L10910804,"Willcox (Town & Vicinity), Arizona, US",2020-03-06,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,45,4.828,1,32.2517186,-109.839479,7,7,city_2795_arizona_willcox
-S68454881,L11341478,"842–862 N Haskell Ave, Willcox US-AZ 32.26267, -109.82561",2020-05-05,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,20,2.435,1,32.262674,-109.825608,2,2,city_2795_arizona_willcox
-S63588816,L10521851,"Mcdonalds, Willcox",2020-01-20,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2647543,-109.8410618,3,3,city_2795_arizona_willcox
-S80837461,L13564721,"501 N Bisbee Ave, Willcox US-AZ 32.25955, -109.84099",2021-02-11,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,32,,1,32.259552,-109.84099,8,8,city_2795_arizona_willcox
-S81006716,L13596961,"451 N Bisbee Ave, Willcox US-AZ 32.25933, -109.84083",2021-02-12,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,42,,1,32.259331,-109.840827,9,9,city_2795_arizona_willcox
-S80815920,L13560790,"450 N Cochise Ave, Willcox US-AZ (32.2592,-109.8407)",2021-02-11,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,109,,1,32.259199,-109.840692,11,11,city_2795_arizona_willcox
-S82161763,L13721551,"441 North Bisbee Avenue, Willcox, Arizona, US (32.259, -109.841)",2021-02-22,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,82,7.918,1,32.2592331,-109.8413146,17,17,city_2795_arizona_willcox
-S81033417,L3651921,Willcox--Jarrett's House,2021-02-12,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,120,,1,32.2591737,-109.8408172,16,16,city_2795_arizona_willcox
-S81046190,L13604951,"401 N Cochise Ave, Willcox US-AZ 32.25847, -109.83981",2021-02-12,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,12,0.483,1,32.258467,-109.839813,4,4,city_2795_arizona_willcox
-S81724510,L13721551,"441 North Bisbee Avenue, Willcox, Arizona, US (32.259, -109.841)",2021-02-15,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,89,0.55,1,32.2592331,-109.8413146,22,22,city_2795_arizona_willcox
-S81011644,L13597964,"451 N Bisbee Ave, Willcox US-AZ 32.25927, -109.84073",2021-02-12,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,28,0.551,1,32.25927,-109.840729,12,12,city_2795_arizona_willcox
-S85898264,L14524758,Oyo,2021-04-19,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,30,,1,32.261599,-109.827597,9,9,city_2795_arizona_willcox
-S93478656,L16158327,1013 Flagstaff Av,2021-02-23,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,12,,1,32.267326,-109.8346674,9,9,city_2795_arizona_willcox
-S92600670,L15967060,"1190 West Rex Allen Drive, Willcox, Arizona, US (32.264, -109.841)",2021-08-01,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,15,,1,32.2637026,-109.8405309,2,2,city_2795_arizona_willcox
-S81653657,L13709306,"460 Cochise Avenue, Willcox, Arizona, US (32.259, -109.84)",2021-02-15,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,32,0.104,1,32.2593061,-109.8404313,10,10,city_2795_arizona_willcox
-S79245988,L13272335,Highway 92 bridge,2021-01-14,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,115,4.331,1,32.2587947,-109.8287554,9,9,city_2795_arizona_willcox
-S92815721,L16015555,"1105 W Rex Allen Dr, Willcox US-AZ 32.26478, -109.84078",2021-08-05,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.264776,-109.840782,1,1,city_2795_arizona_willcox
-S82154987,L13805263,"800 N Flagstaff Ave, Willcox US-AZ 32.26271, -109.83493",2021-02-22,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,7,,1,32.262706,-109.834928,7,7,city_2795_arizona_willcox
-S78852345,L3323085,Northern Cochise Hospital,2021-01-07,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
-S97766874,L16921523,Willcox - Corner of Maley and Business 10,2021-11-18,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,15,0.08,1,32.2523357,-109.8324321,3,3,city_2795_arizona_willcox
-S110150448,L19060711,"104 North Railroad Avenue, Willcox, Arizona, US (32.252, -109.831)",2022-05-14,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,13,,1,32.2520475,-109.8314657,5,5,city_2795_arizona_willcox
-S198228322,L37202458,"711 Prescott Ave, Willcox US-AZ 32.26087, -109.83429 Grande Vista RV Park",2022-04-21,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,60,,1,32.260866,-109.834288,17,17,city_2795_arizona_willcox
-S117077800,L20581389,Willcox town roads,2022-08-16,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,1.609,1,32.2525153,-109.8353038,6,6,city_2795_arizona_willcox
-S109084711,L3090027,Willcox,2022-05-05,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,7,1.706,1,32.25199,-109.83136,2,2,city_2795_arizona_willcox
-S107434281,L11732692,Wilcox McDonald’s,2022-04-18,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,7,,1,32.264909,-109.840896,1,1,city_2795_arizona_willcox
-S126171999,L13790027,Willcox--E Stewart St,2023-01-14,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,12,,1,32.2455499,-109.8165504,1,1,city_2795_arizona_willcox
-S127372574,L22272602,"660 N Haskell Ave, Willcox US-AZ 32.26063, -109.82741",2023-01-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,38,2.877,1,32.260634,-109.827411,20,20,city_2795_arizona_willcox
-S127387667,L22272602,"660 N Haskell Ave, Willcox US-AZ 32.26063, -109.82741",2023-01-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,38,2.877,1,32.260634,-109.827411,19,19,city_2795_arizona_willcox
-S126543836,L22272602,"660 N Haskell Ave, Willcox US-AZ 32.26063, -109.82741",2023-01-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,38,2.877,1,32.260634,-109.827411,20,20,city_2795_arizona_willcox
-S128021614,L22272602,"660 N Haskell Ave, Willcox US-AZ 32.26063, -109.82741",2023-01-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,38,2.877,1,32.260634,-109.827411,20,20,city_2795_arizona_willcox
-S126074423,L22186222,Willcox,2023-01-13,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,40,0.322,1,32.2535344,-109.8332001,12,12,city_2795_arizona_willcox
-S131926413,L23243461,"142 North Haskell Avenue, Willcox, Arizona, US (32.253, -109.832)",2023-03-26,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,15,1.014,1,32.2533328,-109.8322769,7,7,city_2795_arizona_willcox
-S147778066,L26691276,"937 South Arizona Avenue, Willcox, Arizona, US (32.244, -109.837)",2023-08-21,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,39,1.819,1,32.2438369,-109.8374493,10,10,city_2795_arizona_willcox
-S147186673,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-13,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,48,,1,32.259265,-109.840889,15,15,city_2795_arizona_willcox
-S147572587,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-18,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,60,,1,32.259265,-109.840889,18,18,city_2795_arizona_willcox
-S147305907,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-15,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,26,,1,32.259265,-109.840889,12,12,city_2795_arizona_willcox
-S147658105,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-19,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,60,,1,32.259265,-109.840889,20,20,city_2795_arizona_willcox
-S147814158,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-21,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,65,,1,32.259265,-109.840889,19,19,city_2795_arizona_willcox
-S126178951,L22205655,downtown Willcox,2023-01-14,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,1,1,32.2528333,-109.8323981,3,3,city_2795_arizona_willcox
-S132383764,L23341069,Willcox Community Center,2023-04-01,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,17,0.092,1,32.254998,-109.8346944,9,9,city_2795_arizona_willcox
-S147483719,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-17,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,7,,1,32.259265,-109.840889,15,15,city_2795_arizona_willcox
-S147234143,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-14,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,13,,1,32.259265,-109.840889,14,14,city_2795_arizona_willcox
-S134245024,L23687003,Willcox Comunity center,2023-01-12,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,30,0.322,1,32.2546161,-109.8343305,3,3,city_2795_arizona_willcox
-S147401543,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-16,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,19,,1,32.259265,-109.840889,19,19,city_2795_arizona_willcox
-S156706072,L28352369,"1000 Mesa Avenue, Willcox, Arizona, US (32.266, -109.837)",2023-12-19,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,16,0.628,1,32.2660718,-109.8370576,8,8,city_2795_arizona_willcox
-S147715457,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,60,,1,32.259265,-109.840889,19,19,city_2795_arizona_willcox
-S136400657,L24097577,Town Of Willcox,2023-05-06,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,63,1.915,1,32.2500661,-109.8336384,2,2,city_2795_arizona_willcox
-S146917688,L11697746,"121–151 W Maley St, Willcox US-AZ 32.25267, -109.83269",2023-08-10,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,11,,1,32.252666,-109.832686,4,4,city_2795_arizona_willcox
-S131632494,L23187349,"130 East Maley Street, Willcox, Arizona, US (32.252, -109.832)",2023-03-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2520596,-109.8318365,1,1,city_2795_arizona_willcox
-S126058942,L22183447,"600 South Curtis Avenue, Willcox, Arizona, US (32.247, -109.838)",2023-01-13,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,6,,1,32.2471371,-109.8375589,3,3,city_2795_arizona_willcox
-S133139146,L23476475,Historic Railroad Avenue Park,2023-04-08,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,0.176,1,32.252345,-109.83084,3,3,city_2795_arizona_willcox
-S132859509,L23420007,"Railroad Park 130 North Railroad Avenue, Willcox, Arizona, US (32.252, -109.831)",2023-04-06,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,20,1.078,1,32.2522482,-109.830855,7,7,city_2795_arizona_willcox
-S178719691,L16921523,Willcox - Corner of Maley and Business 10,2024-05-31,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.2523357,-109.8324321,3,3,city_2795_arizona_willcox
-S173012626,L24229173,Lifestyle RV park,2024-05-09,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,30,,1,32.2601727,-109.8280907,11,11,city_2795_arizona_willcox
-S169349856,L30771553,"1100 Arizona 186, Willcox, Arizona, US (32.264, -109.84)",2024-04-19,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,14,,1,32.2639754,-109.8402677,5,5,city_2795_arizona_willcox
-S177412365,L32401039,Desert Brew at Lifestyle RV Resort,2024-05-26,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,9,,1,32.260288,-109.82785,9,9,city_2795_arizona_willcox
-S201520815,L37847544,Lifestyle RV Resort—Willcox,2024-11-05,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,95,0.483,1,32.260233,-109.82764,14,14,city_2795_arizona_willcox
-S201491595,L37841965,"660 N Haskell Ave, Willcox US-AZ 32.26113, -109.82760",2024-11-05,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,5,,1,32.261128,-109.827596,3,3,city_2795_arizona_willcox
-S203579971,L38245281,"Willcox, AZ",2024-11-25,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,20,3.219,1,32.249362,-109.835032,8,8,city_2795_arizona_willcox
-S158875887,L28778724,"157 North Railroad Avenue, Willcox, Arizona, US (32.253, -109.831)",2024-01-14,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,36,0.306,1,32.2528043,-109.830698,11,11,city_2795_arizona_willcox
-S167002370,L30293978,"622 N Haskell Ave, Willcox US-AZ 32.26060, -109.82864",2024-04-02,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,,1,32.260602,-109.82864,7,7,city_2795_arizona_willcox
-S164935331,L29877978,Railroad Park Willcox,2024-03-15,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,10,,1,32.2527778,-109.8305556,6,6,city_2795_arizona_willcox
-S203574811,L38245281,"Willcox, AZ",2024-11-25,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,19,2.326,1,32.249362,-109.835032,6,6,city_2795_arizona_willcox
-S202926605,L38118863,"Historic railroad park, Wilcox",2024-11-11,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,30,,1,32.2526548,-109.8306038,5,5,city_2795_arizona_willcox
-S164345968,L24229173,Lifestyle RV park,2024-03-10,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,30,,1,32.2601727,-109.8280907,3,3,city_2795_arizona_willcox
-S158835088,L13790027,Willcox--E Stewart St,2024-01-13,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,11,,1,32.2455499,-109.8165504,1,1,city_2795_arizona_willcox
-S170206422,L30939425,"Arizona sunset inn, Willcox US-AZ 32.24805, -109.83562",2024-04-25,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,6,,1,32.248047,-109.835619,3,3,city_2795_arizona_willcox
-S209558812,L39478401,Willcox Community Center,2025-01-16,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,35,1.636,1,32.25436,-109.834828,9,9,city_2795_arizona_willcox
-S234324023,L44343730,"705 North Arizona Avenue, Willcox, Arizona, US (32.262, -109.838)",2025-05-07,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,11,3.405,1,32.2617159,-109.8376004,15,15,city_2795_arizona_willcox
-S234417388,L44343730,"705 North Arizona Avenue, Willcox, Arizona, US (32.262, -109.838)",2025-05-07,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,11,3.405,1,32.2617159,-109.8376004,15,15,city_2795_arizona_willcox
-S234450208,L44343730,"705 North Arizona Avenue, Willcox, Arizona, US (32.262, -109.838)",2025-05-07,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,11,3.405,1,32.2617159,-109.8376004,15,15,city_2795_arizona_willcox
-S234047211,L44295032,"Railroad Avenue Park (32.25249, -109.83080)",2025-05-05,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,25,,1,32.252486,-109.830798,6,6,city_2795_arizona_willcox
-S226483731,L42822953,Holiday Inn,2025-04-07,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,4365452.85559702,60,0.322,1,32.2638285,-109.8402567,6,6,city_2795_arizona_willcox
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21375274,L3296960,US-AZ-Willcox-322 S Haskell Ave,2015-01-16,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,,1,,32.249955,-109.834798,0,0,city_2795_arizona_willcox
+S21574009,L3323085,Northern Cochise Hospital,2015-01-27,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
+S21795157,L3358606,Willcox--Motel 6,2015-02-13,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,18,,1,Stationary,32.265634,-109.84116,13,13,city_2795_arizona_willcox
+S23024813,L879682,Willcox Railroad Park,2015-04-23,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2521884,-109.8309016,6,6,city_2795_arizona_willcox
+S23029477,L3586755,Willcox (espresso),2015-04-24,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,6,0.161,1,Traveling,32.251634,-109.831651,6,6,city_2795_arizona_willcox
+S26520802,L3586755,Willcox (espresso),2015-04-24,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,6,0.161,1,Traveling,32.251634,-109.831651,6,6,city_2795_arizona_willcox
+S26520804,L3586755,Willcox (espresso),2015-04-24,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,6,0.161,1,Traveling,32.251634,-109.831651,6,6,city_2795_arizona_willcox
+S26520805,L3586755,Willcox (espresso),2015-04-24,2015,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,6,0.161,1,Traveling,32.251634,-109.831651,6,6,city_2795_arizona_willcox
+S26948425,L4166965,US-Arizona-Willcox-451 N Bisbee Ave - 32.259x-109.841,2016-01-17,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,,1,Stationary,32.2593085,-109.8411383,6,6,city_2795_arizona_willcox
+S27210151,L196910,Willcox,2016-01-25,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,15,1.609,1,Traveling,32.25287,-109.83162,3,3,city_2795_arizona_willcox
+S27226840,L9925099,Bisbee/Fremont St. (Jarrett's yard),2016-01-27,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,15,,1,Stationary,32.2593611,-109.8412551,2,2,city_2795_arizona_willcox
+S27419539,L961259,Willcox Town Limits (exclude Willcox Golf Course Ponds),2016-02-10,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,4.828,1,Traveling,32.2539443,-109.8363304,5,5,city_2795_arizona_willcox
+S28514223,L9925099,Bisbee/Fremont St. (Jarrett's yard),2016-03-23,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,40,,1,Stationary,32.2593611,-109.8412551,17,17,city_2795_arizona_willcox
+S30144281,L4684976,Willcox-Historic Railroad Avenue Park,2016-05-26,2016,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,0.1,1,Traveling,32.2521385,-109.8308936,7,7,city_2795_arizona_willcox
+S33428958,L5219307,Adolfo's Taco Shop,2017-01-03,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,12,,1,Stationary,32.247165,-109.835679,1,1,city_2795_arizona_willcox
+S36474198,L5774689,Willcox--town,2017-04-25,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,25,1,1,Traveling,32.252578,-109.8324774,7,7,city_2795_arizona_willcox
+S36616682,L5782876,Willcox - town,2017-05-06,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,20,,1,Historical,32.258467,-109.835397,6,6,city_2795_arizona_willcox
+S37018590,L2421553,Willcox Pizza Hut,2017-05-19,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,7,,1,Stationary,32.2645286,-109.839254,3,3,city_2795_arizona_willcox
+S38977349,L6239145,"451 N Bisbee Ave, Willcox US-AZ (32.2593,-109.8408)",2017-09-03,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,58,,1,Stationary,32.259278,-109.84083,10,10,city_2795_arizona_willcox
+S38977064,L6239145,"451 N Bisbee Ave, Willcox US-AZ (32.2593,-109.8408)",2017-09-03,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,58,,1,Stationary,32.259278,-109.84083,10,10,city_2795_arizona_willcox
+S88400143,L196910,Willcox,2017-12-22,2017,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,3.219,1,,32.25287,-109.83162,0,0,city_2795_arizona_willcox
+S43408729,L7024367,"Alley behind S. Haskell Ave, Willcox",2018-02-19,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,,1,Stationary,32.2477337,-109.8362163,5,5,city_2795_arizona_willcox
+S52590633,L7024367,"Alley behind S. Haskell Ave, Willcox",2018-02-19,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,,1,Stationary,32.2477337,-109.8362163,5,5,city_2795_arizona_willcox
+S43434664,L7028710,"622 N Haskell Ave, Willcox US-AZ (32.2605,-109.8285)",2018-03-05,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.26048,-109.828515,1,1,city_2795_arizona_willcox
+S43929779,L7114492,N Arizona Ave,2018-03-15,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,110,14.188,1,Traveling,32.261873,-109.837555,3,3,city_2795_arizona_willcox
+S45235599,L7330893,"(32.2623,-109.8334) Wilcox RV Park",2018-04-10,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,20,,1,Stationary,32.262336,-109.833403,10,10,city_2795_arizona_willcox
+S44816291,L7262355,"1100 West Rex Allen Drive, Willcox, Arizona, US (32.263, -109.84)",2018-04-22,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,12,0.209,1,Traveling,32.2634023,-109.8401857,4,4,city_2795_arizona_willcox
+S45614029,L9925099,Bisbee/Fremont St. (Jarrett's yard),2018-05-07,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,,1,Stationary,32.2593611,-109.8412551,20,20,city_2795_arizona_willcox
+S49443958,L3323085,Northern Cochise Hospital,2018-10-25,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,,1,Stationary,32.2646908,-109.8379719,2,2,city_2795_arizona_willcox
+S50582373,L3323085,Northern Cochise Hospital,2018-12-10,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,70,,1,Stationary,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
+S50613992,L3323085,Northern Cochise Hospital,2018-12-11,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2646908,-109.8379719,2,2,city_2795_arizona_willcox
+S50637778,L3323085,Northern Cochise Hospital,2018-12-12,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
+S50962950,L3323085,Northern Cochise Hospital,2018-12-26,2018,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,15,,1,Stationary,32.2646908,-109.8379719,3,3,city_2795_arizona_willcox
+S51378301,L3323085,Northern Cochise Hospital,2019-01-04,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
+S51491876,L3323085,Northern Cochise Hospital,2019-01-08,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2646908,-109.8379719,3,3,city_2795_arizona_willcox
+S51519178,L3323085,Northern Cochise Hospital,2019-01-09,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,,1,Stationary,32.2646908,-109.8379719,2,2,city_2795_arizona_willcox
+S52327797,L3323085,Northern Cochise Hospital,2019-02-02,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,,1,Stationary,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
+S52680553,L8607569,Quality Inn,2019-02-14,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,7,,1,Stationary,32.2637906,-109.8402032,2,2,city_2795_arizona_willcox
+S53776811,L3323085,Northern Cochise Hospital,2019-03-13,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,20,,1,Stationary,32.2646908,-109.8379719,4,4,city_2795_arizona_willcox
+S55402315,L9117879,"173 N Haskell Ave, Willcox US-AZ (32.2534,-109.8318)",2019-04-25,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,14,0.118,1,Traveling,32.253437,-109.831756,4,4,city_2795_arizona_willcox
+S56195949,L9254996,"145 North Railview Avenue, Willcox, Arizona, US (32.252, -109.83)",2019-05-10,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2523344,-109.8303353,4,4,city_2795_arizona_willcox
+S57955224,L9592936,"130 North Railroad Avenue, Willcox, Arizona, US (32.252, -109.831)",2019-07-05,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,33,,1,Stationary,32.2523533,-109.8308052,4,4,city_2795_arizona_willcox
+S58443252,L9693424,"340 S Haskell Ave, Willcox US-AZ (32.2498,-109.8348)",2019-07-25,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,6,,1,Stationary,32.249811,-109.834799,6,6,city_2795_arizona_willcox
+S62776566,L10373358,"Willcox Town, Willcox, Arizona, US (32.245, -109.84)",2019-12-30,2019,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,131,4.216,1,Traveling,32.2447766,-109.8403079,16,16,city_2795_arizona_willcox
+S63043599,L10373358,"Willcox Town, Willcox, Arizona, US (32.245, -109.84)",2020-01-05,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,15,,1,Stationary,32.2447766,-109.8403079,5,5,city_2795_arizona_willcox
+S63588816,L10521851,"Mcdonalds, Willcox",2020-01-20,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2647543,-109.8410618,3,3,city_2795_arizona_willcox
+S63954960,L10652805,Willcox Community Center park,2020-01-25,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,25,,1,Stationary,32.2545838,-109.8346138,8,8,city_2795_arizona_willcox
+S65505884,L10910804,"Willcox (Town & Vicinity), Arizona, US",2020-03-06,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,45,4.828,1,Traveling,32.2517186,-109.839479,7,7,city_2795_arizona_willcox
+S66654798,L879682,Willcox Railroad Park,2020-04-04,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,30,0.402,1,Traveling,32.2521884,-109.8309016,12,12,city_2795_arizona_willcox
+S68454881,L11341478,"842–862 N Haskell Ave, Willcox US-AZ 32.26267, -109.82561",2020-05-05,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,20,2.435,1,Traveling,32.262674,-109.825608,2,2,city_2795_arizona_willcox
+S217537779,L11354488,Grande VIsta RV Park,2020-05-07,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,45,,1,Stationary,32.2620416,-109.8338628,11,11,city_2795_arizona_willcox
+S68539010,L11354488,Grande VIsta RV Park,2020-05-07,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,45,,1,Stationary,32.2620416,-109.8338628,11,11,city_2795_arizona_willcox
+S76429945,L9925099,Bisbee/Fremont St. (Jarrett's yard),2020-11-16,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,65,,1,Stationary,32.2593611,-109.8412551,17,17,city_2795_arizona_willcox
+S76475396,L12766932,451 N Bisbee Ave,2020-11-18,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,,1,Stationary,32.2593165,-109.8411342,17,17,city_2795_arizona_willcox
+S76418951,L12756690,Wilcox-- 451 N Bisbee Ave,2020-11-19,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,47,,1,Stationary,32.25941,-109.841284,13,13,city_2795_arizona_willcox
+S76633890,L12794987,"451 N Bisbee Ave, Willcox US-AZ (32.2593,-109.8413)",2020-11-22,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,22,,1,Stationary,32.259265,-109.841273,10,10,city_2795_arizona_willcox
+S76629686,L12794300,Max's,2020-11-24,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,52,,1,Stationary,32.2592651,-109.8409861,16,16,city_2795_arizona_willcox
+S76690929,L12804915,"451 North Bisbee Avenue, Willcox, Arizona, US (32.259, -109.841)",2020-11-25,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,14,,1,Stationary,32.2593408,-109.8408936,12,12,city_2795_arizona_willcox
+S76745389,L12814324,"451 N Bisbee Ave, Willcox US-AZ 32.25933, -109.84091",2020-11-27,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,49,,1,Stationary,32.259329,-109.840905,10,10,city_2795_arizona_willcox
+S76900536,L12843130,"451 N Bisbee Ave, Willcox US-AZ (32.2593,-109.8409)",2020-11-30,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,45,,1,Stationary,32.259321,-109.840888,13,13,city_2795_arizona_willcox
+S76950701,L12850908,"Rufous-backeed Robin,  Stakeout",2020-12-01,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,130,,1,Stationary,32.2594044,-109.8410261,18,18,city_2795_arizona_willcox
+S78240927,L13082080,"120 W Rex Allen Dr, Willcox US-AZ 32.26124, -109.82844",2020-12-29,2020,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,0.233,1,Traveling,32.261241,-109.828437,3,3,city_2795_arizona_willcox
+S78852345,L3323085,Northern Cochise Hospital,2021-01-07,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2646908,-109.8379719,1,1,city_2795_arizona_willcox
+S79245988,L13272335,Highway 92 bridge,2021-01-14,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,115,4.331,1,Traveling,32.2587947,-109.8287554,9,9,city_2795_arizona_willcox
+S80837461,L13564721,"501 N Bisbee Ave, Willcox US-AZ 32.25955, -109.84099",2021-02-11,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,32,,1,Stationary,32.259552,-109.84099,8,8,city_2795_arizona_willcox
+S80815920,L13560790,"450 N Cochise Ave, Willcox US-AZ (32.2592,-109.8407)",2021-02-11,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,109,,1,Stationary,32.259199,-109.840692,11,11,city_2795_arizona_willcox
+S81006716,L13596961,"451 N Bisbee Ave, Willcox US-AZ 32.25933, -109.84083",2021-02-12,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,42,,1,Stationary,32.259331,-109.840827,9,9,city_2795_arizona_willcox
+S81011644,L13597964,"451 N Bisbee Ave, Willcox US-AZ 32.25927, -109.84073",2021-02-12,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,28,0.551,1,Traveling,32.25927,-109.840729,12,12,city_2795_arizona_willcox
+S81046190,L13604951,"401 N Cochise Ave, Willcox US-AZ 32.25847, -109.83981",2021-02-12,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,12,0.483,1,Traveling,32.258467,-109.839813,4,4,city_2795_arizona_willcox
+S81033417,L3651921,Willcox--Jarrett's House,2021-02-12,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,120,,1,Stationary,32.2591737,-109.8408172,16,16,city_2795_arizona_willcox
+S81653657,L13709306,"460 Cochise Avenue, Willcox, Arizona, US (32.259, -109.84)",2021-02-15,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,32,0.104,1,Traveling,32.2593061,-109.8404313,10,10,city_2795_arizona_willcox
+S81724510,L13721551,"441 North Bisbee Avenue, Willcox, Arizona, US (32.259, -109.841)",2021-02-15,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,89,0.55,1,Traveling,32.2592331,-109.8413146,22,22,city_2795_arizona_willcox
+S82154987,L13805263,"800 N Flagstaff Ave, Willcox US-AZ 32.26271, -109.83493",2021-02-22,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,7,,1,Stationary,32.262706,-109.834928,7,7,city_2795_arizona_willcox
+S82161763,L13721551,"441 North Bisbee Avenue, Willcox, Arizona, US (32.259, -109.841)",2021-02-22,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,82,7.918,1,Traveling,32.2592331,-109.8413146,17,17,city_2795_arizona_willcox
+S93478656,L16158327,1013 Flagstaff Av,2021-02-23,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,12,,1,Stationary,32.267326,-109.8346674,9,9,city_2795_arizona_willcox
+S85898264,L14524758,Oyo,2021-04-19,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,30,,1,Stationary,32.261599,-109.827597,9,9,city_2795_arizona_willcox
+S92600670,L15967060,"1190 West Rex Allen Drive, Willcox, Arizona, US (32.264, -109.841)",2021-08-01,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,15,,1,Stationary,32.2637026,-109.8405309,2,2,city_2795_arizona_willcox
+S92815721,L16015555,"1105 W Rex Allen Dr, Willcox US-AZ 32.26478, -109.84078",2021-08-05,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.264776,-109.840782,1,1,city_2795_arizona_willcox
+S97766874,L16921523,Willcox - Corner of Maley and Business 10,2021-11-18,2021,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,15,0.08,1,Traveling,32.2523357,-109.8324321,3,3,city_2795_arizona_willcox
+S107434281,L11732692,Wilcox McDonald’s,2022-04-18,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,7,,1,Stationary,32.264909,-109.840896,1,1,city_2795_arizona_willcox
+S198228322,L37202458,"711 Prescott Ave, Willcox US-AZ 32.26087, -109.83429 Grande Vista RV Park",2022-04-21,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,,1,Stationary,32.260866,-109.834288,17,17,city_2795_arizona_willcox
+S109084711,L3090027,Willcox,2022-05-05,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,7,1.706,1,Traveling,32.25199,-109.83136,2,2,city_2795_arizona_willcox
+S110150448,L19060711,"104 North Railroad Avenue, Willcox, Arizona, US (32.252, -109.831)",2022-05-14,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,13,,1,Stationary,32.2520475,-109.8314657,5,5,city_2795_arizona_willcox
+S117077800,L20581389,Willcox town roads,2022-08-16,2022,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,1.609,1,Traveling,32.2525153,-109.8353038,6,6,city_2795_arizona_willcox
+S134245024,L23687003,Willcox Comunity center,2023-01-12,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,30,0.322,1,Traveling,32.2546161,-109.8343305,3,3,city_2795_arizona_willcox
+S126058942,L22183447,"600 South Curtis Avenue, Willcox, Arizona, US (32.247, -109.838)",2023-01-13,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,6,,1,Stationary,32.2471371,-109.8375589,3,3,city_2795_arizona_willcox
+S126074423,L22186222,Willcox,2023-01-13,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,40,0.322,1,Traveling,32.2535344,-109.8332001,12,12,city_2795_arizona_willcox
+S126171999,L13790027,Willcox--E Stewart St,2023-01-14,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,12,,1,Stationary,32.2455499,-109.8165504,1,1,city_2795_arizona_willcox
+S126178951,L22205655,downtown Willcox,2023-01-14,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,1,1,Traveling,32.2528333,-109.8323981,3,3,city_2795_arizona_willcox
+S127387667,L22272602,"660 N Haskell Ave, Willcox US-AZ 32.26063, -109.82741",2023-01-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,38,2.877,1,Traveling,32.260634,-109.827411,19,19,city_2795_arizona_willcox
+S126543836,L22272602,"660 N Haskell Ave, Willcox US-AZ 32.26063, -109.82741",2023-01-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,38,2.877,1,Traveling,32.260634,-109.827411,20,20,city_2795_arizona_willcox
+S127372574,L22272602,"660 N Haskell Ave, Willcox US-AZ 32.26063, -109.82741",2023-01-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,38,2.877,1,Traveling,32.260634,-109.827411,20,20,city_2795_arizona_willcox
+S128021614,L22272602,"660 N Haskell Ave, Willcox US-AZ 32.26063, -109.82741",2023-01-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,38,2.877,1,Traveling,32.260634,-109.827411,20,20,city_2795_arizona_willcox
+S131632494,L23187349,"130 East Maley Street, Willcox, Arizona, US (32.252, -109.832)",2023-03-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2520596,-109.8318365,1,1,city_2795_arizona_willcox
+S131926413,L23243461,"142 North Haskell Avenue, Willcox, Arizona, US (32.253, -109.832)",2023-03-26,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,15,1.014,1,Traveling,32.2533328,-109.8322769,7,7,city_2795_arizona_willcox
+S132383764,L23341069,Willcox Community Center,2023-04-01,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,17,0.092,1,Traveling,32.254998,-109.8346944,9,9,city_2795_arizona_willcox
+S132859509,L23420007,"Railroad Park 130 North Railroad Avenue, Willcox, Arizona, US (32.252, -109.831)",2023-04-06,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,20,1.078,1,Traveling,32.2522482,-109.830855,7,7,city_2795_arizona_willcox
+S133139146,L23476475,Historic Railroad Avenue Park,2023-04-08,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,0.176,1,Traveling,32.252345,-109.83084,3,3,city_2795_arizona_willcox
+S136400657,L24097577,Town Of Willcox,2023-05-06,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,63,1.915,1,Traveling,32.2500661,-109.8336384,2,2,city_2795_arizona_willcox
+S146917688,L11697746,"121–151 W Maley St, Willcox US-AZ 32.25267, -109.83269",2023-08-10,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,11,,1,Stationary,32.252666,-109.832686,4,4,city_2795_arizona_willcox
+S147186673,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-13,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,48,,1,Stationary,32.259265,-109.840889,15,15,city_2795_arizona_willcox
+S147234143,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-14,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,13,,1,Stationary,32.259265,-109.840889,14,14,city_2795_arizona_willcox
+S147305907,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-15,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,26,,1,Stationary,32.259265,-109.840889,12,12,city_2795_arizona_willcox
+S147401543,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-16,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,19,,1,Stationary,32.259265,-109.840889,19,19,city_2795_arizona_willcox
+S147483719,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-17,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,7,,1,Stationary,32.259265,-109.840889,15,15,city_2795_arizona_willcox
+S147572587,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-18,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,,1,Stationary,32.259265,-109.840889,18,18,city_2795_arizona_willcox
+S147658105,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-19,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,,1,Stationary,32.259265,-109.840889,20,20,city_2795_arizona_willcox
+S147715457,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-20,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,,1,Stationary,32.259265,-109.840889,19,19,city_2795_arizona_willcox
+S147814158,L26566659,"451 N Bisbee Ave, Willcox US-AZ 32.25926, -109.84089",2023-08-21,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,65,,1,Stationary,32.259265,-109.840889,19,19,city_2795_arizona_willcox
+S147778066,L26691276,"937 South Arizona Avenue, Willcox, Arizona, US (32.244, -109.837)",2023-08-21,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,39,1.819,1,Traveling,32.2438369,-109.8374493,10,10,city_2795_arizona_willcox
+S156706072,L28352369,"1000 Mesa Avenue, Willcox, Arizona, US (32.266, -109.837)",2023-12-19,2023,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,16,0.628,1,Traveling,32.2660718,-109.8370576,8,8,city_2795_arizona_willcox
+S158835088,L13790027,Willcox--E Stewart St,2024-01-13,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,11,,1,Stationary,32.2455499,-109.8165504,1,1,city_2795_arizona_willcox
+S158875887,L28778724,"157 North Railroad Avenue, Willcox, Arizona, US (32.253, -109.831)",2024-01-14,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,36,0.306,1,Traveling,32.2528043,-109.830698,11,11,city_2795_arizona_willcox
+S164345968,L24229173,Lifestyle RV park,2024-03-10,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,30,,1,Historical,32.2601727,-109.8280907,3,3,city_2795_arizona_willcox
+S164935331,L29877978,Railroad Park Willcox,2024-03-15,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,,1,Stationary,32.2527778,-109.8305556,6,6,city_2795_arizona_willcox
+S167002370,L30293978,"622 N Haskell Ave, Willcox US-AZ 32.26060, -109.82864",2024-04-02,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,10,,1,Stationary,32.260602,-109.82864,7,7,city_2795_arizona_willcox
+S169349856,L30771553,"1100 Arizona 186, Willcox, Arizona, US (32.264, -109.84)",2024-04-19,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,14,,1,Stationary,32.2639754,-109.8402677,5,5,city_2795_arizona_willcox
+S170206422,L30939425,"Arizona sunset inn, Willcox US-AZ 32.24805, -109.83562",2024-04-25,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,6,,1,Stationary,32.248047,-109.835619,3,3,city_2795_arizona_willcox
+S173012626,L24229173,Lifestyle RV park,2024-05-09,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,30,,1,Stationary,32.2601727,-109.8280907,11,11,city_2795_arizona_willcox
+S177412365,L32401039,Desert Brew at Lifestyle RV Resort,2024-05-26,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,9,,1,Stationary,32.260288,-109.82785,9,9,city_2795_arizona_willcox
+S178719691,L16921523,Willcox - Corner of Maley and Business 10,2024-05-31,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.2523357,-109.8324321,3,3,city_2795_arizona_willcox
+S201491595,L37841965,"660 N Haskell Ave, Willcox US-AZ 32.26113, -109.82760",2024-11-05,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,5,,1,Stationary,32.261128,-109.827596,3,3,city_2795_arizona_willcox
+S201520815,L37847544,Lifestyle RV Resort—Willcox,2024-11-05,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,95,0.483,1,Traveling,32.260233,-109.82764,14,14,city_2795_arizona_willcox
+S202926605,L38118863,"Historic railroad park, Wilcox",2024-11-11,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,30,,1,Stationary,32.2526548,-109.8306038,5,5,city_2795_arizona_willcox
+S203579971,L38245281,"Willcox, AZ",2024-11-25,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,20,3.219,1,Traveling,32.249362,-109.835032,8,8,city_2795_arizona_willcox
+S203574811,L38245281,"Willcox, AZ",2024-11-25,2024,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,19,2.326,1,Traveling,32.249362,-109.835032,6,6,city_2795_arizona_willcox
+S209558812,L39478401,Willcox Community Center,2025-01-16,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,35,1.636,1,Traveling,32.25436,-109.834828,9,9,city_2795_arizona_willcox
+S226483731,L42822953,Holiday Inn,2025-04-07,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,60,0.322,1,Traveling,32.2638285,-109.8402567,6,6,city_2795_arizona_willcox
+S234047211,L44295032,"Railroad Avenue Park (32.25249, -109.83080)",2025-05-05,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,25,,1,Stationary,32.252486,-109.830798,6,6,city_2795_arizona_willcox
+S234450208,L44343730,"705 North Arizona Avenue, Willcox, Arizona, US (32.262, -109.838)",2025-05-07,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,11,3.405,1,Traveling,32.2617159,-109.8376004,15,15,city_2795_arizona_willcox
+S234324023,L44343730,"705 North Arizona Avenue, Willcox, Arizona, US (32.262, -109.838)",2025-05-07,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,11,3.405,1,Traveling,32.2617159,-109.8376004,15,15,city_2795_arizona_willcox
+S234417388,L44343730,"705 North Arizona Avenue, Willcox, Arizona, US (32.262, -109.838)",2025-05-07,2025,2795,"Willcox, AZ",Willcox,Arizona,Cochise,100,11,3.405,1,Traveling,32.2617159,-109.8376004,15,15,city_2795_arizona_willcox

@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2439,"Sonora, TX",Sonora,Texas,Sutton,2015,5015037.03576918,36,64,city_2439_texas_sonora,747.9000072479248,18.596354166666668,26.15368388882644,dry subhumid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2016,5015037.03576918,33,78,city_2439_texas_sonora,703.8000068664551,19.364583333333332,23.967648335998472,dry subhumid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2017,5015037.03576918,50,104,city_2439_texas_sonora,529.875,19.510416666666668,17.955524179315212,semiarid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2018,5015037.03576918,47,131,city_2439_texas_sonora,599.5624947547913,18.864583333333332,20.771562431057365,dry subhumid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2019,5015037.03576918,50,138,city_2439_texas_sonora,458.75,18.966145833333332,15.837453924300998,semiarid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2020,5015037.03576918,50,157,city_2439_texas_sonora,398.0687484741211,19.5859375,13.454660629703591,semiarid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2021,5015037.03576918,60,264,city_2439_texas_sonora,534.2125010490417,18.940104166666668,18.459245964440928,semiarid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2022,5015037.03576918,66,269,city_2439_texas_sonora,346.3937487602234,19.309895833333332,11.818320704036054,semiarid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2023,5015037.03576918,73,508,city_2439_texas_sonora,452.36874198913574,20.0390625,15.059349538259916,semiarid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2024,5015037.03576918,74,460,city_2439_texas_sonora,465.57499837875366,20.4296875,15.300025620662508,semiarid,12
-2439,"Sonora, TX",Sonora,Texas,Sutton,2025,5015037.03576918,66,315,city_2439_texas_sonora,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2439,2015,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,36,64,city_2439_texas_sonora,747.900007247925,18.5963541666667,26.1536838888264,dry subhumid,12
+2439,2016,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,33,78,city_2439_texas_sonora,703.800006866455,19.3645833333333,23.9676483359985,dry subhumid,12
+2439,2017,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,50,104,city_2439_texas_sonora,529.875,19.5104166666667,17.9555241793152,semiarid,12
+2439,2018,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,47,131,city_2439_texas_sonora,599.562494754791,18.8645833333333,20.7715624310574,dry subhumid,12
+2439,2019,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,50,138,city_2439_texas_sonora,458.75,18.9661458333333,15.837453924301,semiarid,12
+2439,2020,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,50,157,city_2439_texas_sonora,398.068748474121,19.5859375,13.4546606297036,semiarid,12
+2439,2021,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,60,264,city_2439_texas_sonora,534.212501049042,18.9401041666667,18.4592459644409,semiarid,12
+2439,2022,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,66,260,city_2439_texas_sonora,346.393748760223,19.3098958333333,11.8183207040361,semiarid,12
+2439,2023,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,73,508,city_2439_texas_sonora,452.368741989136,20.0390625,15.0593495382599,semiarid,12
+2439,2024,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,74,460,city_2439_texas_sonora,465.574998378754,20.4296875,15.3000256206625,semiarid,12
+2439,2025,"Sonora, TX",Sonora,Texas,Sutton,99.9999999999928,66,315,city_2439_texas_sonora,,,,,

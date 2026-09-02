@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2015,27022911.3438406,25,61,city_2636_texas_uvalde,797.924994468689,21.111979166666668,25.646873514353107,dry subhumid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2016,27022911.3438406,27,49,city_2636_texas_uvalde,868.6937494277954,21.90625,27.22644464416205,dry subhumid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2017,27022911.3438406,59,122,city_2636_texas_uvalde,541.843747138977,22.03125,16.91609747165587,semiarid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2018,27022911.3438406,44,108,city_2636_texas_uvalde,629.0500016212463,21.401041666666668,20.032774972844468,dry subhumid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2019,27022911.3438406,87,297,city_2636_texas_uvalde,438.20624017715454,21.403645833333332,13.953992555603891,semiarid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2020,27022911.3438406,81,310,city_2636_texas_uvalde,408.6749978065491,21.833333333333332,12.837958046279027,semiarid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2021,27022911.3438406,87,441,city_2636_texas_uvalde,592.7375001907349,21.421875,18.86384883749728,semiarid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2022,27022911.3438406,74,289,city_2636_texas_uvalde,338.3749966621399,21.7109375,10.670608419008108,semiarid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2023,27022911.3438406,100,461,city_2636_texas_uvalde,552.4062509536743,22.455729166666668,17.020300117645103,semiarid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2024,27022911.3438406,103,544,city_2636_texas_uvalde,443.9874958992005,22.671875,13.58928729677132,semiarid,12
-2636,"Uvalde, TX",Uvalde,Texas,Uvalde,2025,27022911.3438406,112,885,city_2636_texas_uvalde,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2636,2015,"Uvalde, TX",Uvalde,Texas,Uvalde,100,25,61,city_2636_texas_uvalde,797.924994468689,21.1119791666667,25.6468735143531,dry subhumid,12
+2636,2016,"Uvalde, TX",Uvalde,Texas,Uvalde,100,27,49,city_2636_texas_uvalde,868.693749427795,21.90625,27.2264446441621,dry subhumid,12
+2636,2017,"Uvalde, TX",Uvalde,Texas,Uvalde,100,59,122,city_2636_texas_uvalde,541.843747138977,22.03125,16.9160974716559,semiarid,12
+2636,2018,"Uvalde, TX",Uvalde,Texas,Uvalde,100,44,108,city_2636_texas_uvalde,629.050001621246,21.4010416666667,20.0327749728445,dry subhumid,12
+2636,2019,"Uvalde, TX",Uvalde,Texas,Uvalde,100,87,297,city_2636_texas_uvalde,438.206240177155,21.4036458333333,13.9539925556039,semiarid,12
+2636,2020,"Uvalde, TX",Uvalde,Texas,Uvalde,100,81,310,city_2636_texas_uvalde,408.674997806549,21.8333333333333,12.837958046279,semiarid,12
+2636,2021,"Uvalde, TX",Uvalde,Texas,Uvalde,100,87,441,city_2636_texas_uvalde,592.737500190735,21.421875,18.8638488374973,semiarid,12
+2636,2022,"Uvalde, TX",Uvalde,Texas,Uvalde,100,74,289,city_2636_texas_uvalde,338.37499666214,21.7109375,10.6706084190081,semiarid,12
+2636,2023,"Uvalde, TX",Uvalde,Texas,Uvalde,100,100,461,city_2636_texas_uvalde,552.406250953674,22.4557291666667,17.0203001176451,semiarid,12
+2636,2024,"Uvalde, TX",Uvalde,Texas,Uvalde,100,103,544,city_2636_texas_uvalde,443.987495899201,22.671875,13.5892872967713,semiarid,12
+2636,2025,"Uvalde, TX",Uvalde,Texas,Uvalde,100,112,885,city_2636_texas_uvalde,,,,,

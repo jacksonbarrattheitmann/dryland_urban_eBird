@@ -1,7 +1,7 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2551,"Teague, TX",Teague,Texas,Freestone,2019,8580018.18199912,8,8,city_2551_texas_teague,1003.8062534332277,19.5234375,34.0003176606121,humid,12
-2551,"Teague, TX",Teague,Texas,Freestone,2020,8580018.18199912,5,5,city_2551_texas_teague,1038.34375,19.895833333333332,34.73205574912892,humid,12
-2551,"Teague, TX",Teague,Texas,Freestone,2021,8580018.18199912,8,8,city_2551_texas_teague,1001.3249855041504,19.6640625,33.755490688578156,humid,12
-2551,"Teague, TX",Teague,Texas,Freestone,2023,8580018.18199912,10,10,city_2551_texas_teague,961.2374954223632,20.697916666666668,31.312792521393575,humid,12
-2551,"Teague, TX",Teague,Texas,Freestone,2024,8580018.18199912,10,10,city_2551_texas_teague,1108.5687465667725,21.114583333333332,35.628590448747964,humid,12
-2551,"Teague, TX",Teague,Texas,Freestone,2025,8580018.18199912,17,27,city_2551_texas_teague,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2551,2019,"Teague, TX",Teague,Texas,Freestone,100,8,8,city_2551_texas_teague,1003.80625343323,19.5234375,34.0003176606121,humid,12
+2551,2020,"Teague, TX",Teague,Texas,Freestone,100,5,5,city_2551_texas_teague,1038.34375,19.8958333333333,34.7320557491289,humid,12
+2551,2021,"Teague, TX",Teague,Texas,Freestone,100,8,8,city_2551_texas_teague,1001.32498550415,19.6640625,33.7554906885782,humid,12
+2551,2023,"Teague, TX",Teague,Texas,Freestone,100,10,10,city_2551_texas_teague,961.237495422363,20.6979166666667,31.3127925213936,humid,12
+2551,2024,"Teague, TX",Teague,Texas,Freestone,100,10,10,city_2551_texas_teague,1108.56874656677,21.1145833333333,35.628590448748,humid,12
+2551,2025,"Teague, TX",Teague,Texas,Freestone,100,17,27,city_2551_texas_teague,,,,,

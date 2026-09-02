@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2017,57660307.8301067,20,33,city_0440_arizona_casa_grande,158.2750004529953,23.520833333333332,4.721690504502035,extremely arid,12
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2018,57660307.8301067,24,58,city_0440_arizona_casa_grande,210.1999997496605,23.119791666666668,6.346658272045103,arid,12
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2019,57660307.8301067,26,59,city_0440_arizona_casa_grande,226.56874948740003,22.270833333333332,7.020852146801294,arid,12
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2020,57660307.8301067,30,55,city_0440_arizona_casa_grande,121.94374769926073,23.268229166666668,3.6654715551088928,extremely arid,12
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2021,57660307.8301067,18,34,city_0440_arizona_casa_grande,225.9374998211861,23.049479166666668,6.8363407084812415,arid,12
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2022,57660307.8301067,33,124,city_0440_arizona_casa_grande,170.83125352859497,22.666666666666668,5.229528169242703,arid,12
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2023,57660307.8301067,43,186,city_0440_arizona_casa_grande,161.25000029802322,22.494791666666668,4.962333716496306,extremely arid,12
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2024,57660307.8301067,60,551,city_0440_arizona_casa_grande,168.02500218153,23.4765625,5.019183262365424,arid,12
-440,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,2025,57660307.8301067,90,1395,city_0440_arizona_casa_grande,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+440,2017,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,20,33,city_0440_arizona_casa_grande,158.275000452995,23.5208333333333,4.72169050450204,extremely arid,12
+440,2018,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,24,58,city_0440_arizona_casa_grande,210.199999749661,23.1197916666667,6.3466582720451,arid,12
+440,2019,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,26,59,city_0440_arizona_casa_grande,226.5687494874,22.2708333333333,7.02085214680129,arid,12
+440,2020,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,30,55,city_0440_arizona_casa_grande,121.943747699261,23.2682291666667,3.66547155510889,extremely arid,12
+440,2021,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,18,34,city_0440_arizona_casa_grande,225.937499821186,23.0494791666667,6.83634070848124,arid,12
+440,2022,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,33,124,city_0440_arizona_casa_grande,170.831253528595,22.6666666666667,5.2295281692427,arid,12
+440,2023,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,43,186,city_0440_arizona_casa_grande,161.250000298023,22.4947916666667,4.96233371649631,extremely arid,12
+440,2024,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,60,551,city_0440_arizona_casa_grande,168.02500218153,23.4765625,5.01918326236542,arid,12
+440,2025,"Casa Grande, AZ",Casa Grande,Arizona,Pinal,100,90,1395,city_0440_arizona_casa_grande,,,,,

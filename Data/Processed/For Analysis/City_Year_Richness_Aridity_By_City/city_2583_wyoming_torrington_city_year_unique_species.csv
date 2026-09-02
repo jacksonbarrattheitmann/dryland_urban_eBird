@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2015,8981492.49666961,14,20,city_2583_wyoming_torrington,456.3812506198883,9.731770833333332,23.129259632841112,dry subhumid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2017,8981492.49666961,7,9,city_2583_wyoming_torrington,338.687509059906,9.486979166666668,17.380195573834545,semiarid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2018,8981492.49666961,8,11,city_2583_wyoming_torrington,440.00624656677246,8.908854166666668,23.26985245581058,dry subhumid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2019,8981492.49666961,22,63,city_2583_wyoming_torrington,492.2687478065491,8.138020833333334,27.140157811588633,dry subhumid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2020,8981492.49666961,40,139,city_2583_wyoming_torrington,264.4625015258789,9.606770833333334,13.488325220605324,semiarid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2021,8981492.49666961,19,38,city_2583_wyoming_torrington,359.3187460899353,9.833333333333332,18.116911567559765,semiarid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2022,8981492.49666961,21,28,city_2583_wyoming_torrington,265.28749990463257,9.0546875,13.922427219267307,semiarid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2023,8981492.49666961,35,87,city_2583_wyoming_torrington,438.33124828338623,9.015625,23.051109194853503,dry subhumid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2024,8981492.49666961,29,50,city_2583_wyoming_torrington,282.61249923706055,10.427083333333332,13.835186092176343,semiarid,12
-2583,"Torrington, WY",Torrington,Wyoming,Goshen,2025,8981492.49666961,33,68,city_2583_wyoming_torrington,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2583,2015,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,14,20,city_2583_wyoming_torrington,456.381250619888,9.73177083333333,23.1292596328411,dry subhumid,12
+2583,2017,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,7,9,city_2583_wyoming_torrington,338.687509059906,9.48697916666667,17.3801955738345,semiarid,12
+2583,2018,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,8,11,city_2583_wyoming_torrington,440.006246566773,8.90885416666667,23.2698524558106,dry subhumid,12
+2583,2019,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,22,63,city_2583_wyoming_torrington,492.268747806549,8.13802083333333,27.1401578115886,dry subhumid,12
+2583,2020,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,40,139,city_2583_wyoming_torrington,264.462501525879,9.60677083333333,13.4883252206053,semiarid,12
+2583,2021,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,19,38,city_2583_wyoming_torrington,359.318746089935,9.83333333333333,18.1169115675598,semiarid,12
+2583,2022,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,21,28,city_2583_wyoming_torrington,265.287499904633,9.0546875,13.9224272192673,semiarid,12
+2583,2023,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,35,87,city_2583_wyoming_torrington,438.331248283386,9.015625,23.0511091948535,dry subhumid,12
+2583,2024,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,29,50,city_2583_wyoming_torrington,282.612499237061,10.4270833333333,13.8351860921763,semiarid,12
+2583,2025,"Torrington, WY",Torrington,Wyoming,Goshen,99.9999999999955,33,68,city_2583_wyoming_torrington,,,,,

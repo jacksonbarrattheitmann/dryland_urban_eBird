@@ -1,8 +1,8 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1033,"Gonzales, CA",Gonzales,California,Monterey,2015,4047930.94237907,65,343,city_1033_california_gonzales,278.474999666214,15.807291666666666,10.790554982020806,semiarid,12
-1033,"Gonzales, CA",Gonzales,California,Monterey,2016,4047930.94237907,44,125,city_1033_california_gonzales,495.5437549948692,15.515625,19.421188193307795,semiarid,12
-1033,"Gonzales, CA",Gonzales,California,Monterey,2017,4047930.94237907,28,59,city_1033_california_gonzales,529.9499977231026,15.53125,20.75691545549484,dry subhumid,12
-1033,"Gonzales, CA",Gonzales,California,Monterey,2022,4047930.94237907,6,6,city_1033_california_gonzales,334.6437490582466,15.447916666666666,13.150143229468554,semiarid,12
-1033,"Gonzales, CA",Gonzales,California,Monterey,2023,4047930.94237907,19,26,city_1033_california_gonzales,563.7687527537346,14.736979166666668,22.79052542977514,dry subhumid,12
-1033,"Gonzales, CA",Gonzales,California,Monterey,2024,4047930.94237907,12,12,city_1033_california_gonzales,521.3937584757805,15.703125,20.28522829328265,dry subhumid,12
-1033,"Gonzales, CA",Gonzales,California,Monterey,2025,4047930.94237907,4,4,city_1033_california_gonzales,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1033,2015,"Gonzales, CA",Gonzales,California,Monterey,100,65,343,city_1033_california_gonzales,278.474999666214,15.8072916666667,10.7905549820208,semiarid,12
+1033,2016,"Gonzales, CA",Gonzales,California,Monterey,100,44,125,city_1033_california_gonzales,495.543754994869,15.515625,19.4211881933078,semiarid,12
+1033,2017,"Gonzales, CA",Gonzales,California,Monterey,100,28,59,city_1033_california_gonzales,529.949997723103,15.53125,20.7569154554948,dry subhumid,12
+1033,2022,"Gonzales, CA",Gonzales,California,Monterey,100,6,6,city_1033_california_gonzales,334.643749058247,15.4479166666667,13.1501432294686,semiarid,12
+1033,2023,"Gonzales, CA",Gonzales,California,Monterey,100,19,26,city_1033_california_gonzales,563.768752753735,14.7369791666667,22.7905254297751,dry subhumid,12
+1033,2024,"Gonzales, CA",Gonzales,California,Monterey,100,12,12,city_1033_california_gonzales,521.393758475781,15.703125,20.2852282932827,dry subhumid,12
+1033,2025,"Gonzales, CA",Gonzales,California,Monterey,100,4,4,city_1033_california_gonzales,,,,,

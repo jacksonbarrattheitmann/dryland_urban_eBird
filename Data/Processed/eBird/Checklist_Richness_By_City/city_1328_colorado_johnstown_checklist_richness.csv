@@ -1,254 +1,255 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S22303534,L3481496,"WCR 17, Johnstown to CO 66",2015-03-11,2015,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,8.047,1,40.329964,-104.906189,2,2,city_1328_colorado_johnstown
-S33390462,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2016-05-28,2016,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,0.402,1,40.3415097,-104.9503434,6,6,city_1328_colorado_johnstown
-S31328433,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2016-08-27,2016,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,55,0.402,1,40.3415097,-104.9503434,8,8,city_1328_colorado_johnstown
-S36778607,L5229868,Johnstown - Home,2017-05-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,10,10,city_1328_colorado_johnstown
-S37081488,L5229868,Johnstown - Home,2017-05-22,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,10,10,city_1328_colorado_johnstown
-S34121245,L5229868,Johnstown - Home,2017-02-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S36274808,L5229868,Johnstown - Home,2017-04-25,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S37345646,L5229868,Johnstown - Home,2017-06-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S33415072,L5217160,US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953,2017-01-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3424184,-104.953216,6,6,city_1328_colorado_johnstown
-S36131206,L5229868,Johnstown - Home,2017-04-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S36061229,L5229868,Johnstown - Home,2017-04-17,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S36999681,L5229868,Johnstown - Home,2017-05-19,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S38310551,L5229868,Johnstown - Home,2017-07-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,10,10,city_1328_colorado_johnstown
-S33837474,L5229868,Johnstown - Home,2017-01-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S37254964,L5229868,Johnstown - Home,2017-05-29,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3353152,-104.9471508,12,12,city_1328_colorado_johnstown
-S35341963,L5229868,Johnstown - Home,2017-03-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S38899678,L5229868,Johnstown - Home,2017-08-29,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S35751782,L5229868,Johnstown - Home,2017-04-06,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S35615264,L5640931,Parish Park - Johnstown,2017-04-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3365911,-104.9089311,5,5,city_1328_colorado_johnstown
-S35659777,L5229868,Johnstown - Home,2017-04-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S37542187,L5229868,Johnstown - Home,2017-06-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S37147790,L5229868,Johnstown - Home,2017-05-25,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S37561784,L5229868,Johnstown - Home,2017-06-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S36926437,L5229868,Johnstown - Home,2017-05-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S33629905,L5229868,Johnstown - Home,2017-01-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,35,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S36155461,L5229868,Johnstown - Home,2017-04-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S37130046,L5229868,Johnstown - Home,2017-05-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,9,9,city_1328_colorado_johnstown
-S34996758,L5229868,Johnstown - Home,2017-03-05,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S35078680,L5229868,Johnstown - Home,2017-03-09,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S34038622,L5229868,Johnstown - Home,2017-01-29,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S35528262,L5229868,Johnstown - Home,2017-03-29,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S35936978,L5229868,Johnstown - Home,2017-04-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S35295585,L5229868,Johnstown - Home,2017-03-19,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S35889884,L5229868,Johnstown - Home,2017-04-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S38042422,L5229868,Johnstown - Home,2017-07-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,8,8,city_1328_colorado_johnstown
-S34336888,L5229868,Johnstown - Home,2017-02-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S35226815,L5229868,Johnstown - Home,2017-03-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S37027162,L5229868,Johnstown - Home,2017-05-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S34165197,L5229868,Johnstown - Home,2017-02-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S36189261,L5229868,Johnstown - Home,2017-04-22,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S37225940,L5229868,Johnstown - Home,2017-05-28,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,12,12,city_1328_colorado_johnstown
-S36219457,L5229868,Johnstown - Home,2017-04-23,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S35484353,L5229868,Johnstown - Home,2017-03-27,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S33411163,L5216504,"Home - Johnstown, CO",2017-01-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,75,,1,40.3353201,-104.9471244,2,2,city_1328_colorado_johnstown
-S33494850,L5216504,"Home - Johnstown, CO",2017-01-06,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353201,-104.9471244,2,2,city_1328_colorado_johnstown
-S34635083,L5229868,Johnstown - Home,2017-02-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S35459876,L5229868,Johnstown - Home,2017-03-26,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S34858518,L5229868,Johnstown - Home,2017-02-27,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S35186446,L5229868,Johnstown - Home,2017-03-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S34883183,L5229868,Johnstown - Home,2017-02-28,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S36026458,L5229868,Johnstown - Home,2017-04-15,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S35912614,L5229868,Johnstown - Home,2017-04-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S33466089,L5225387,"US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953 - Jan 5, 2017 2:29 PM",2017-01-05,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3424329,-104.9531954,6,6,city_1328_colorado_johnstown
-S35118343,L5229868,Johnstown - Home,2017-03-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S33677867,L5229868,Johnstown - Home,2017-01-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S34833745,L5229868,Johnstown - Home,2017-02-26,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S35055978,L5229868,Johnstown - Home,2017-03-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S37301346,L5229868,Johnstown - Home,2017-05-31,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,10,10,city_1328_colorado_johnstown
-S36895514,L5229868,Johnstown - Home,2017-05-15,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S35804607,L5229868,Johnstown - Home,2017-04-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S33532633,L5236072,Milliken-8527-8999 County Road 46 1/2,2017-01-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,1.609,1,40.327272,-104.8952358,8,8,city_1328_colorado_johnstown
-S35965948,L5229868,Johnstown - Home,2017-04-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S35683244,L5229868,Johnstown - Home,2017-04-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S34376777,L5229868,Johnstown - Home,2017-02-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S36030391,L5229868,Johnstown - Home,2017-04-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S35097050,L5229868,Johnstown - Home,2017-03-10,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S36499741,L5229868,Johnstown - Home,2017-05-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S34777480,L5229868,Johnstown - Home,2017-02-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S33609336,L5229868,Johnstown - Home,2017-01-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S34551643,L5229868,Johnstown - Home,2017-02-19,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S35628928,L5229868,Johnstown - Home,2017-04-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S34214325,L5229868,Johnstown - Home,2017-02-06,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S34231893,L5229868,Johnstown - Home,2017-02-07,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S35146825,L5229868,Johnstown - Home,2017-03-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S35406727,L5229868,Johnstown - Home,2017-03-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S33430398,L5217160,US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953,2017-01-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3424184,-104.953216,6,6,city_1328_colorado_johnstown
-S35865059,L5229868,Johnstown - Home,2017-04-10,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S35207062,L5229868,Johnstown - Home,2017-03-15,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S33424571,L5216504,"Home - Johnstown, CO",2017-01-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353201,-104.9471244,3,3,city_1328_colorado_johnstown
-S35429590,L5229868,Johnstown - Home,2017-03-25,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S37978215,L5229868,Johnstown - Home,2017-07-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
-S35706537,L5229868,Johnstown - Home,2017-04-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S36080820,L5229868,Johnstown - Home,2017-04-18,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S35167647,L5229868,Johnstown - Home,2017-03-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S35385555,L5229868,Johnstown - Home,2017-03-23,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S33572835,L5229868,Johnstown - Home,2017-01-09,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S33873254,L5229868,Johnstown - Home,2017-01-22,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S41251543,L5217160,US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953,2017-12-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3424184,-104.953216,1,1,city_1328_colorado_johnstown
-S33668366,L5258129,Milliken-8527-8999 County Road 46 1/2,2017-01-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,1.609,1,40.3272278,-104.8955938,4,4,city_1328_colorado_johnstown
-S35270391,L5229868,Johnstown - Home,2017-03-18,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S35246051,L5229868,Johnstown - Home,2017-03-17,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S36825766,L5229868,Johnstown - Home,2017-05-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S33774141,L5229868,Johnstown - Home,2017-01-18,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S35837888,L5229868,Johnstown - Home,2017-04-09,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S34271984,L5229868,Johnstown - Home,2017-02-09,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S33351699,L5205941,US-Colorado-Johnstown-3561 Brunner Boulevard - 40.342x-104.953,2017-01-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,0.805,1,40.3424946,-104.9532462,7,7,city_1328_colorado_johnstown
-S36322682,L5229868,Johnstown - Home,2017-04-27,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S39542199,L5229868,Johnstown - Home,2017-10-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,37,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S34908840,L5229868,Johnstown - Home,2017-03-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S34357363,L5229868,Johnstown - Home,2017-02-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S36725986,L5229868,Johnstown - Home,2017-05-10,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S33896210,L5229868,Johnstown - Home,2017-01-23,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S33813273,L5229868,Johnstown - Home,2017-01-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S34443040,L5229868,Johnstown - Home,2017-02-17,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S34253056,L5229868,Johnstown - Home,2017-02-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S33648816,L5229868,Johnstown - Home,2017-01-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S35017858,L5229868,Johnstown - Home,2017-03-06,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S33708048,L5229868,Johnstown - Home,2017-01-15,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S34489738,L5229868,Johnstown - Home,2017-02-18,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,45,,1,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
-S34411216,L5229868,Johnstown - Home,2017-02-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S33531164,L5235818,"US-Colorado-Johnstown - 40.341x-104.972 - Jan 8, 2017 8:05 AM",2017-01-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3412506,-104.9722775,2,2,city_1328_colorado_johnstown
-S35319057,L5229868,Johnstown - Home,2017-03-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S35364079,L5229868,Johnstown - Home,2017-03-22,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
-S33553840,L5229868,Johnstown - Home,2017-01-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S34926698,L5229868,Johnstown - Home,2017-03-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S34001111,L5229868,Johnstown - Home,2017-01-28,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S35728175,L5229868,Johnstown - Home,2017-04-05,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S34192013,L5229868,Johnstown - Home,2017-02-05,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S37920431,L5229868,Johnstown - Home,2017-07-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S34799606,L5229868,Johnstown - Home,2017-02-25,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S33916974,L5229868,Johnstown - Home,2017-01-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S34596645,L5229868,Johnstown - Home,2017-02-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S33794328,L5229868,Johnstown - Home,2017-01-19,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S33594326,L5229868,Johnstown - Home,2017-01-10,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S34945860,L5229868,Johnstown - Home,2017-03-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
-S34747157,L5229868,Johnstown - Home,2017-02-23,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S35774574,L5229868,Johnstown - Home,2017-04-07,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
-S34969814,L5229868,Johnstown - Home,2017-03-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S33732589,L5229868,Johnstown - Home,2017-01-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S34309683,L5229868,Johnstown - Home,2017-02-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
-S46487686,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2018-06-09,2018,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,40,0.402,1,40.3415097,-104.9503434,13,13,city_1328_colorado_johnstown
-S46493723,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2018-06-11,2018,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,60,0.805,1,40.3415097,-104.9503434,11,11,city_1328_colorado_johnstown
-S43104564,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2018-02-21,2018,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,60,0.805,1,40.3415097,-104.9503434,9,9,city_1328_colorado_johnstown
-S56857516,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2019-05-27,2019,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,45,0.805,1,40.3415097,-104.9503434,12,12,city_1328_colorado_johnstown
-S56862774,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2019-05-25,2019,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,60,,1,40.3415097,-104.9503434,8,8,city_1328_colorado_johnstown
-S57191555,L5229868,Johnstown - Home,2019-06-08,2019,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3353152,-104.9471508,11,11,city_1328_colorado_johnstown
-S74353068,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-03,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,8,,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S74561547,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-08,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
-S73820887,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-09-20,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S76764664,L12553111,"900 Country Acres Drive, Johnstown, CO",2020-11-27,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,14,0.513,1,40.3322387,-104.9164337,5,5,city_1328_colorado_johnstown
-S75136368,L12551543,"117 Hays Ave, Johnstown US-CO 40.33273, -104.91706",2020-10-20,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,50,0.483,1,40.332733,-104.917064,15,15,city_1328_colorado_johnstown
-S63140780,L10445794,"6037 Colorado 60, Johnstown, Colorado",2020-01-07,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3358315,-104.9415558,1,1,city_1328_colorado_johnstown
-S73852451,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-09-20,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3327481,-104.9168572,3,3,city_1328_colorado_johnstown
-S74281160,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-01,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,6,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S75433420,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-26,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,8,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S74601377,L12458397,"117 Hays Ave, Johnstown US-CO (40.3327,-104.9169)",2020-10-09,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,53,0.79,1,40.3327,-104.91692,13,13,city_1328_colorado_johnstown
-S66526977,L10782814,117 Hays Avenue,2020-04-02,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,9,,1,40.3328925,-104.9164332,9,9,city_1328_colorado_johnstown
-S76791455,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-11-28,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S68854817,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-05-11,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,9,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S74035558,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-09-25,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,6,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S68267503,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-05-02,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,11,,1,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
-S66370157,L5229868,Johnstown - Home,2020-03-29,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,99,0.531,1,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
-S75146152,L12553111,"900 Country Acres Drive, Johnstown, CO",2020-10-20,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,36,2.108,1,40.3322387,-104.9164337,6,6,city_1328_colorado_johnstown
-S66501196,L10782814,117 Hays Avenue,2020-04-01,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,9,,1,40.3328925,-104.9164332,6,6,city_1328_colorado_johnstown
-S74599557,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-09,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,8,,1,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
-S63912435,L10645554,Home,2020-01-27,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.331704,-104.948411,1,1,city_1328_colorado_johnstown
-S73789648,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-09-19,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,6,,1,40.3327481,-104.9168572,2,2,city_1328_colorado_johnstown
-S81561062,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-02-15,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,25,,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S90480704,L15449837,"1817 Saddleback Drive, Milliken, Colorado, US (40.323, -104.846)",2021-06-20,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,24,1.69,1,40.3234696,-104.8457941,19,19,city_1328_colorado_johnstown
-S117745837,L5216504,"Home - Johnstown, CO",2021-06-30,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,53,,1,40.3353201,-104.9471244,12,12,city_1328_colorado_johnstown
-S87564425,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-05-08,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,18,,1,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
-S83556950,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-03-17,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,21,,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S87827920,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-05-11,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,8,,1,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
-S79407859,L13301519,"1000 Country Acres Drive, Johnstown, Colorado, US (40.331, -104.918)",2021-01-17,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,0.66,1,40.3314402,-104.9178196,8,8,city_1328_colorado_johnstown
-S83641822,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2021-03-18,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,45,0.631,1,40.3415097,-104.9503434,9,9,city_1328_colorado_johnstown
-S88471687,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-05-18,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
-S90884318,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-06-27,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S82463337,L13861675,"505 North 2nd Street, Johnstown, Colorado, US (40.34, -104.912)",2021-02-27,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,40,0.467,1,40.3398241,-104.9118898,6,6,city_1328_colorado_johnstown
-S98785602,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-12-12,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,23,,1,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
-S118838513,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-09-16,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,28,,1,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
-S103587425,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-02-23,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,16,,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S104870470,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-03-15,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,11,,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S100163270,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-01-05,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,16,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S115084296,L19612941,The Hood,2022-07-14,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,80,2.381,1,40.311888,-104.907371,17,17,city_1328_colorado_johnstown
-S112001740,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2022-05-31,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,64,0.595,1,40.3415097,-104.9503434,14,14,city_1328_colorado_johnstown
-S110461448,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-17,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,22,,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S104156386,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-03-04,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S104931909,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-03-16,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,19,,1,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
-S119328898,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-09-24,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
-S120478179,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-11,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,0.102,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S114422998,L19985014,"Sunrise Park, Weld County",2022-07-02,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,30,0.483,1,40.3430641,-104.919894,7,7,city_1328_colorado_johnstown
-S115938664,L20335448,Weld - Michael’s,2022-07-28,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,9,,1,40.341052,-104.956199,4,4,city_1328_colorado_johnstown
-S109667223,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-11,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S114540442,L9786869,2208 Black Duck,2022-07-06,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.302262,-104.910908,10,10,city_1328_colorado_johnstown
-S120544309,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-12,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,16,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S103569615,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-02-23,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,27,,1,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
-S104322158,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-03-06,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S107323688,L18559547,"106 N Pauline Ave, Milliken US-CO 40.33131, -104.86592",2022-04-17,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,16,,1,40.331307,-104.86592,3,3,city_1328_colorado_johnstown
-S120894565,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-18,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,37,,1,40.3327481,-104.9168572,3,3,city_1328_colorado_johnstown
-S110118088,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-14,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S124519236,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-12-24,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,16,,1,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
-S109620753,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-10,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,12,,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S120640175,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-14,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,4,4,city_1328_colorado_johnstown
-S110153652,L19061247,"CO - Becker Circle, Johnstown",2022-05-14,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,22,,1,40.3389804,-104.9526674,8,8,city_1328_colorado_johnstown
-S103392951,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-02-21,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3327481,-104.9168572,3,3,city_1328_colorado_johnstown
-S108927136,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-04,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3327481,-104.9168572,5,5,city_1328_colorado_johnstown
-S120771373,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-16,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,18,,1,40.3327481,-104.9168572,3,3,city_1328_colorado_johnstown
-S103382604,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-02-21,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,22,,1,40.3327481,-104.9168572,4,4,city_1328_colorado_johnstown
-S112678830,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-06-11,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,10,,1,40.3327481,-104.9168572,5,5,city_1328_colorado_johnstown
-S116245379,L19612941,The Hood,2022-08-02,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,44,,1,40.311888,-104.907371,1,1,city_1328_colorado_johnstown
-S120147308,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-07,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,4,4,city_1328_colorado_johnstown
-S139312825,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-05-26,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
-S154442374,L26221146,Farm Road,2023-11-14,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,50,1.244,1,40.31188,-104.907528,4,4,city_1328_colorado_johnstown
-S145712417,L26221146,Farm Road,2023-07-26,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,72,2.535,1,40.31188,-104.907528,15,15,city_1328_colorado_johnstown
-S151097152,L27315764,"511 Peterson Drive, Johnstown, Colorado, US (40.337, -104.912)",2023-09-30,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,7,,1,40.3368036,-104.9115432,4,4,city_1328_colorado_johnstown
-S155341027,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2023-11-27,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,114,,1,40.3415097,-104.9503434,10,10,city_1328_colorado_johnstown
-S138361552,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-05-19,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,5,5,city_1328_colorado_johnstown
-S135618187,L19612941,The Hood,2023-04-27,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,45,1.83,1,40.311888,-104.907371,5,5,city_1328_colorado_johnstown
-S147851865,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-08-22,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,8,,1,40.3327481,-104.9168572,2,2,city_1328_colorado_johnstown
-S128906070,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-02-19,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,16,,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S143678534,L25717485,"1567 Goldeneye Dr, Johnstown US-CO 40.31172, -104.90760",2023-07-05,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,65,2.526,1,40.311718,-104.907602,13,13,city_1328_colorado_johnstown
-S132603496,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-04-03,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,18,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S131794685,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-03-25,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,18,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S138243035,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-05-18,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
-S144470331,L19612941,The Hood,2023-07-13,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,29,,1,40.311888,-104.907371,4,4,city_1328_colorado_johnstown
-S145237209,L26102264,"247 Tartan Drive, Johnstown, Colorado, US (40.34, -104.951)",2023-07-21,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,90,3.766,1,40.3400181,-104.9507937,3,3,city_1328_colorado_johnstown
-S147791375,L26694006,"Pioneer Ridge and Parish Ave, Johnstown US-CO 40.31298, -104.90709",2023-08-21,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,101,2.847,1,40.312984,-104.90709,7,7,city_1328_colorado_johnstown
-S134004215,L19612941,The Hood,2023-04-16,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,50,,1,40.311888,-104.907371,4,4,city_1328_colorado_johnstown
-S198473650,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2024-10-12,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,26,0.059,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S175106165,L12517647,Johnstown,2024-05-17,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,17,,1,40.3400726,-104.9222565,7,7,city_1328_colorado_johnstown
-S191169670,L5225387,"US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953 - Jan 5, 2017 2:29 PM",2024-08-12,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.3424329,-104.9531954,7,7,city_1328_colorado_johnstown
-S158879148,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2024-01-14,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,0.099,1,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
-S163088307,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2024-02-27,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S241341064,L26221146,Farm Road,2024-04-08,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,68,2.231,1,40.31188,-104.907528,8,8,city_1328_colorado_johnstown
-S169860737,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2024-04-17,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,20,,1,40.3415097,-104.9503434,6,6,city_1328_colorado_johnstown
-S163179315,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2024-02-28,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,18,,1,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
-S178272810,L31960178,Home,2024-05-30,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.328196,-104.87048,1,1,city_1328_colorado_johnstown
-S228348043,L26221146,Farm Road,2025-04-22,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,71,2.537,1,40.31188,-104.907528,8,8,city_1328_colorado_johnstown
-S281790927,L26221146,Farm Road,2025-10-28,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,63,2.27,1,40.31188,-104.907528,7,7,city_1328_colorado_johnstown
-S252703759,L25717485,"1567 Goldeneye Dr, Johnstown US-CO 40.31172, -104.90760",2025-06-21,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,33,2.021,1,40.311718,-104.907602,5,5,city_1328_colorado_johnstown
-S213335048,L40232806,New Home Millkken,2025-02-14,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,240,,1,40.3189139,-104.8546925,15,15,city_1328_colorado_johnstown
-S281976921,L43208352,Ridge Water Res,2025-10-29,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,44,0.413,1,40.2990475,-104.9121732,4,4,city_1328_colorado_johnstown
-S273923798,L52946250,"Milliken, Colorado, US (40.327, -104.843)",2025-09-17,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,45,,1,40.326722,-104.8433718,6,6,city_1328_colorado_johnstown
-S275580121,L26221146,Farm Road,2025-09-26,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,69,2.166,1,40.31188,-104.907528,14,14,city_1328_colorado_johnstown
-S260099885,L26221146,Farm Road,2025-07-15,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,74,2.526,1,40.31188,-104.907528,21,21,city_1328_colorado_johnstown
-S248543365,L26221146,Farm Road,2025-06-09,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,58,2.536,1,40.31188,-104.907528,11,11,city_1328_colorado_johnstown
-S214738818,L40477588,Pioneer Ridge Walk,2025-02-21,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,65,4.832,1,40.311866,-104.907406,8,8,city_1328_colorado_johnstown
-S284985442,L43208352,Ridge Water Res,2025-11-17,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,41,0.175,1,40.2990475,-104.9121732,4,4,city_1328_colorado_johnstown
-S290644428,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2025-12-25,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,21,,1,40.3415097,-104.9503434,4,4,city_1328_colorado_johnstown
-S261879714,L26221146,Farm Road,2025-07-22,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,64,2.568,1,40.31188,-104.907528,18,18,city_1328_colorado_johnstown
-S228228203,L43208352,Ridge Water Res,2025-04-22,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,19,0.644,1,40.2990475,-104.9121732,5,5,city_1328_colorado_johnstown
-S277739473,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2025-10-03,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,98,,1,40.3415097,-104.9503434,7,7,city_1328_colorado_johnstown
-S215295486,L26221146,Farm Road,2025-02-24,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,38,1.56,1,40.31188,-104.907528,3,3,city_1328_colorado_johnstown
-S267706122,L51624401,Ditch Road Pioneer Ridge Loop,2025-08-16,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,110,7.929,1,40.311855,-104.907378,7,7,city_1328_colorado_johnstown
-S276558635,L26221146,Farm Road,2025-09-30,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,71,2.544,1,40.31188,-104.907528,5,5,city_1328_colorado_johnstown
-S229213803,L43389057,"6 Saxony Road, Johnstown, Colorado, US (40.301, -104.907)",2025-04-25,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,15,,1,40.3012617,-104.9072419,3,3,city_1328_colorado_johnstown
-S235994665,L40477588,Pioneer Ridge Walk,2025-05-10,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,5,,1,40.311866,-104.907406,8,8,city_1328_colorado_johnstown
-S279359513,L26221146,Farm Road,2025-10-14,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,68,2.545,1,40.31188,-104.907528,11,11,city_1328_colorado_johnstown
-S213328022,L29296334,"1000 Country Acres Dr, Johnstown US-CO 40.33167, -104.91795",2025-02-14,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,18,,1,40.331667,-104.917953,4,4,city_1328_colorado_johnstown
-S282899918,L19612941,The Hood,2025-11-04,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,23,1.373,1,40.311888,-104.907371,1,1,city_1328_colorado_johnstown
-S278339621,L26221146,Farm Road,2025-10-10,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,46,1.946,1,40.31188,-104.907528,5,5,city_1328_colorado_johnstown
-S276835642,L43208352,Ridge Water Res,2025-10-02,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,51,0.973,1,40.2990475,-104.9121732,2,2,city_1328_colorado_johnstown
-S320132930,L62494255,"1001 Broad St, Milliken US-CO 40.33037, -104.85659",2025-06-10,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,15617782.107117,182,5.011,1,40.330373,-104.856591,1,1,city_1328_colorado_johnstown
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S22303534,L3481496,"WCR 17, Johnstown to CO 66",2015-03-11,2015,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,8.047,1,Traveling,40.329964,-104.906189,2,2,city_1328_colorado_johnstown
+S33390462,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2016-05-28,2016,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,0.402,1,Traveling,40.3415097,-104.9503434,6,6,city_1328_colorado_johnstown
+S31328433,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2016-08-27,2016,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,55,0.402,1,Traveling,40.3415097,-104.9503434,8,8,city_1328_colorado_johnstown
+S33351699,L5205941,US-Colorado-Johnstown-3561 Brunner Boulevard - 40.342x-104.953,2017-01-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,0.805,1,Traveling,40.3424946,-104.9532462,7,7,city_1328_colorado_johnstown
+S33411163,L5216504,"Home - Johnstown, CO",2017-01-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,75,,1,Stationary,40.3353201,-104.9471244,2,2,city_1328_colorado_johnstown
+S33424571,L5216504,"Home - Johnstown, CO",2017-01-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353201,-104.9471244,3,3,city_1328_colorado_johnstown
+S33415072,L5217160,US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953,2017-01-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3424184,-104.953216,6,6,city_1328_colorado_johnstown
+S33430398,L5217160,US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953,2017-01-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3424184,-104.953216,6,6,city_1328_colorado_johnstown
+S33466089,L5225387,"US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953 - Jan 5, 2017 2:29 PM",2017-01-05,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3424329,-104.9531954,6,6,city_1328_colorado_johnstown
+S33494850,L5216504,"Home - Johnstown, CO",2017-01-06,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353201,-104.9471244,2,2,city_1328_colorado_johnstown
+S33553840,L5229868,Johnstown - Home,2017-01-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S33531164,L5235818,"US-Colorado-Johnstown - 40.341x-104.972 - Jan 8, 2017 8:05 AM",2017-01-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3412506,-104.9722775,2,2,city_1328_colorado_johnstown
+S33532633,L5236072,Milliken-8527-8999 County Road 46 1/2,2017-01-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,1.609,1,Traveling,40.327272,-104.8952358,8,8,city_1328_colorado_johnstown
+S33572835,L5229868,Johnstown - Home,2017-01-09,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S33594326,L5229868,Johnstown - Home,2017-01-10,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S33609336,L5229868,Johnstown - Home,2017-01-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S33629905,L5229868,Johnstown - Home,2017-01-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,35,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S33648816,L5229868,Johnstown - Home,2017-01-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S33677867,L5229868,Johnstown - Home,2017-01-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S33668366,L5258129,Milliken-8527-8999 County Road 46 1/2,2017-01-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,1.609,1,Traveling,40.3272278,-104.8955938,4,4,city_1328_colorado_johnstown
+S33708048,L5229868,Johnstown - Home,2017-01-15,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S33732589,L5229868,Johnstown - Home,2017-01-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S33774141,L5229868,Johnstown - Home,2017-01-18,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S33794328,L5229868,Johnstown - Home,2017-01-19,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S33813273,L5229868,Johnstown - Home,2017-01-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S33837474,L5229868,Johnstown - Home,2017-01-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S33873254,L5229868,Johnstown - Home,2017-01-22,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S33896210,L5229868,Johnstown - Home,2017-01-23,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S33916974,L5229868,Johnstown - Home,2017-01-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S34001111,L5229868,Johnstown - Home,2017-01-28,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34038622,L5229868,Johnstown - Home,2017-01-29,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S34121245,L5229868,Johnstown - Home,2017-02-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S34165197,L5229868,Johnstown - Home,2017-02-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S34192013,L5229868,Johnstown - Home,2017-02-05,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S34214325,L5229868,Johnstown - Home,2017-02-06,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34231893,L5229868,Johnstown - Home,2017-02-07,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S34253056,L5229868,Johnstown - Home,2017-02-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34271984,L5229868,Johnstown - Home,2017-02-09,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S34309683,L5229868,Johnstown - Home,2017-02-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S34336888,L5229868,Johnstown - Home,2017-02-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S34357363,L5229868,Johnstown - Home,2017-02-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34376777,L5229868,Johnstown - Home,2017-02-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S34411216,L5229868,Johnstown - Home,2017-02-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S34443040,L5229868,Johnstown - Home,2017-02-17,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S34489738,L5229868,Johnstown - Home,2017-02-18,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,45,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S34551643,L5229868,Johnstown - Home,2017-02-19,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34596645,L5229868,Johnstown - Home,2017-02-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S34635083,L5229868,Johnstown - Home,2017-02-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S34747157,L5229868,Johnstown - Home,2017-02-23,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S34777480,L5229868,Johnstown - Home,2017-02-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34799606,L5229868,Johnstown - Home,2017-02-25,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S34833745,L5229868,Johnstown - Home,2017-02-26,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S34858518,L5229868,Johnstown - Home,2017-02-27,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34883183,L5229868,Johnstown - Home,2017-02-28,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S34908840,L5229868,Johnstown - Home,2017-03-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34926698,L5229868,Johnstown - Home,2017-03-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S34945860,L5229868,Johnstown - Home,2017-03-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S34969814,L5229868,Johnstown - Home,2017-03-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S34996758,L5229868,Johnstown - Home,2017-03-05,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S35017858,L5229868,Johnstown - Home,2017-03-06,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S35055978,L5229868,Johnstown - Home,2017-03-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35078680,L5229868,Johnstown - Home,2017-03-09,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S35097050,L5229868,Johnstown - Home,2017-03-10,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S35118343,L5229868,Johnstown - Home,2017-03-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35146825,L5229868,Johnstown - Home,2017-03-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35167647,L5229868,Johnstown - Home,2017-03-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S35186446,L5229868,Johnstown - Home,2017-03-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35207062,L5229868,Johnstown - Home,2017-03-15,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S35226815,L5229868,Johnstown - Home,2017-03-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35246051,L5229868,Johnstown - Home,2017-03-17,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S35270391,L5229868,Johnstown - Home,2017-03-18,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S35295585,L5229868,Johnstown - Home,2017-03-19,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S35319057,L5229868,Johnstown - Home,2017-03-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35341963,L5229868,Johnstown - Home,2017-03-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S35364079,L5229868,Johnstown - Home,2017-03-22,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S35385555,L5229868,Johnstown - Home,2017-03-23,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S35406727,L5229868,Johnstown - Home,2017-03-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35429590,L5229868,Johnstown - Home,2017-03-25,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S35459876,L5229868,Johnstown - Home,2017-03-26,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S35484353,L5229868,Johnstown - Home,2017-03-27,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S35528262,L5229868,Johnstown - Home,2017-03-29,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35628928,L5229868,Johnstown - Home,2017-04-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35615264,L5640931,Parish Park - Johnstown,2017-04-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3365911,-104.9089311,5,5,city_1328_colorado_johnstown
+S35659777,L5229868,Johnstown - Home,2017-04-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S35683244,L5229868,Johnstown - Home,2017-04-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S35706537,L5229868,Johnstown - Home,2017-04-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,1,1,city_1328_colorado_johnstown
+S35728175,L5229868,Johnstown - Home,2017-04-05,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S35751782,L5229868,Johnstown - Home,2017-04-06,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S35774574,L5229868,Johnstown - Home,2017-04-07,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S35804607,L5229868,Johnstown - Home,2017-04-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S35837888,L5229868,Johnstown - Home,2017-04-09,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S35865059,L5229868,Johnstown - Home,2017-04-10,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S35889884,L5229868,Johnstown - Home,2017-04-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S35912614,L5229868,Johnstown - Home,2017-04-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S35936978,L5229868,Johnstown - Home,2017-04-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S35965948,L5229868,Johnstown - Home,2017-04-14,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S36026458,L5229868,Johnstown - Home,2017-04-15,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S36030391,L5229868,Johnstown - Home,2017-04-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S36061229,L5229868,Johnstown - Home,2017-04-17,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S36080820,L5229868,Johnstown - Home,2017-04-18,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S36131206,L5229868,Johnstown - Home,2017-04-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S36155461,L5229868,Johnstown - Home,2017-04-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S36189261,L5229868,Johnstown - Home,2017-04-22,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S36219457,L5229868,Johnstown - Home,2017-04-23,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,5,5,city_1328_colorado_johnstown
+S36274808,L5229868,Johnstown - Home,2017-04-25,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S36322682,L5229868,Johnstown - Home,2017-04-27,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S36499741,L5229868,Johnstown - Home,2017-05-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S36725986,L5229868,Johnstown - Home,2017-05-10,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S36778607,L5229868,Johnstown - Home,2017-05-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,10,10,city_1328_colorado_johnstown
+S36825766,L5229868,Johnstown - Home,2017-05-13,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S36895514,L5229868,Johnstown - Home,2017-05-15,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S36926437,L5229868,Johnstown - Home,2017-05-16,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S36999681,L5229868,Johnstown - Home,2017-05-19,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S37027162,L5229868,Johnstown - Home,2017-05-20,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,6,6,city_1328_colorado_johnstown
+S37081488,L5229868,Johnstown - Home,2017-05-22,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,10,10,city_1328_colorado_johnstown
+S37130046,L5229868,Johnstown - Home,2017-05-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3353152,-104.9471508,9,9,city_1328_colorado_johnstown
+S37147790,L5229868,Johnstown - Home,2017-05-25,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S37225940,L5229868,Johnstown - Home,2017-05-28,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,12,12,city_1328_colorado_johnstown
+S37254964,L5229868,Johnstown - Home,2017-05-29,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3353152,-104.9471508,12,12,city_1328_colorado_johnstown
+S37301346,L5229868,Johnstown - Home,2017-05-31,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,10,10,city_1328_colorado_johnstown
+S37345646,L5229868,Johnstown - Home,2017-06-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S37542187,L5229868,Johnstown - Home,2017-06-11,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S37561784,L5229868,Johnstown - Home,2017-06-12,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S37920431,L5229868,Johnstown - Home,2017-07-01,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S37978215,L5229868,Johnstown - Home,2017-07-04,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,7,7,city_1328_colorado_johnstown
+S38042422,L5229868,Johnstown - Home,2017-07-08,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,8,8,city_1328_colorado_johnstown
+S38310551,L5229868,Johnstown - Home,2017-07-24,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,10,10,city_1328_colorado_johnstown
+S380444215,L75104590,"W Cottonwood St., Milliken, CO WELD",2017-08-02,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3302163,-104.8712176,1,1,city_1328_colorado_johnstown
+S38899678,L5229868,Johnstown - Home,2017-08-29,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3353152,-104.9471508,4,4,city_1328_colorado_johnstown
+S39542199,L5229868,Johnstown - Home,2017-10-03,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,37,,1,Stationary,40.3353152,-104.9471508,3,3,city_1328_colorado_johnstown
+S41251543,L5217160,US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953,2017-12-21,2017,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3424184,-104.953216,1,1,city_1328_colorado_johnstown
+S43104564,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2018-02-21,2018,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,60,0.805,1,Traveling,40.3415097,-104.9503434,9,9,city_1328_colorado_johnstown
+S46487686,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2018-06-09,2018,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,40,0.402,1,Traveling,40.3415097,-104.9503434,13,13,city_1328_colorado_johnstown
+S46493723,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2018-06-11,2018,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,60,0.805,1,Traveling,40.3415097,-104.9503434,11,11,city_1328_colorado_johnstown
+S56862774,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2019-05-25,2019,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,60,,1,Stationary,40.3415097,-104.9503434,8,8,city_1328_colorado_johnstown
+S56857516,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2019-05-27,2019,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,45,0.805,1,Traveling,40.3415097,-104.9503434,12,12,city_1328_colorado_johnstown
+S57191555,L5229868,Johnstown - Home,2019-06-08,2019,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3353152,-104.9471508,11,11,city_1328_colorado_johnstown
+S63140780,L10445794,"6037 Colorado 60, Johnstown, Colorado",2020-01-07,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3358315,-104.9415558,1,1,city_1328_colorado_johnstown
+S63912435,L10645554,Home,2020-01-27,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.331704,-104.948411,1,1,city_1328_colorado_johnstown
+S66370157,L5229868,Johnstown - Home,2020-03-29,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,99,0.531,1,Traveling,40.3353152,-104.9471508,2,2,city_1328_colorado_johnstown
+S66501196,L10782814,117 Hays Avenue,2020-04-01,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,9,,1,Stationary,40.3328925,-104.9164332,6,6,city_1328_colorado_johnstown
+S66526977,L10782814,117 Hays Avenue,2020-04-02,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,9,,1,Stationary,40.3328925,-104.9164332,9,9,city_1328_colorado_johnstown
+S68267503,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-05-02,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,11,,1,Stationary,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
+S68854817,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-05-11,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,9,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S73789648,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-09-19,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,6,,1,Stationary,40.3327481,-104.9168572,2,2,city_1328_colorado_johnstown
+S73852451,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-09-20,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3327481,-104.9168572,3,3,city_1328_colorado_johnstown
+S73820887,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-09-20,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S74035558,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-09-25,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,6,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S74281160,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-01,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,6,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S74353068,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-03,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,8,,1,Stationary,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S74561547,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-08,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
+S74599557,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-09,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,8,,1,Stationary,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
+S74601377,L12458397,"117 Hays Ave, Johnstown US-CO (40.3327,-104.9169)",2020-10-09,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,53,0.79,1,Traveling,40.3327,-104.91692,13,13,city_1328_colorado_johnstown
+S75136368,L12551543,"117 Hays Ave, Johnstown US-CO 40.33273, -104.91706",2020-10-20,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,50,0.483,1,Traveling,40.332733,-104.917064,15,15,city_1328_colorado_johnstown
+S75146152,L12553111,"900 Country Acres Drive, Johnstown, CO",2020-10-20,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,36,2.108,1,Traveling,40.3322387,-104.9164337,6,6,city_1328_colorado_johnstown
+S75433420,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-10-26,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,8,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S76764664,L12553111,"900 Country Acres Drive, Johnstown, CO",2020-11-27,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,14,0.513,1,Traveling,40.3322387,-104.9164337,5,5,city_1328_colorado_johnstown
+S76791455,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2020-11-28,2020,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S79407859,L13301519,"1000 Country Acres Drive, Johnstown, Colorado, US (40.331, -104.918)",2021-01-17,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,0.66,1,Traveling,40.3314402,-104.9178196,8,8,city_1328_colorado_johnstown
+S81561062,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-02-15,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,25,,1,Stationary,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S82463337,L13861675,"505 North 2nd Street, Johnstown, Colorado, US (40.34, -104.912)",2021-02-27,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,40,0.467,1,Traveling,40.3398241,-104.9118898,6,6,city_1328_colorado_johnstown
+S83556950,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-03-17,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,21,,1,Stationary,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S83641822,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2021-03-18,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,45,0.631,1,Traveling,40.3415097,-104.9503434,9,9,city_1328_colorado_johnstown
+S87564425,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-05-08,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,18,,1,Stationary,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
+S87827920,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-05-11,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,8,,1,Stationary,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
+S88471687,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-05-18,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
+S90480704,L15449837,"1817 Saddleback Drive, Milliken, Colorado, US (40.323, -104.846)",2021-06-20,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,24,1.69,1,Traveling,40.3234696,-104.8457941,19,19,city_1328_colorado_johnstown
+S90884318,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-06-27,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S117745837,L5216504,"Home - Johnstown, CO",2021-06-30,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,53,,1,Stationary,40.3353201,-104.9471244,12,12,city_1328_colorado_johnstown
+S98785602,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2021-12-12,2021,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,23,,1,Stationary,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
+S100163270,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-01-05,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,16,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S103392951,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-02-21,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3327481,-104.9168572,3,3,city_1328_colorado_johnstown
+S103382604,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-02-21,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,22,,1,Stationary,40.3327481,-104.9168572,4,4,city_1328_colorado_johnstown
+S103587425,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-02-23,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,16,,1,Stationary,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S103569615,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-02-23,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,27,,1,Stationary,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
+S104156386,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-03-04,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S104322158,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-03-06,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S104870470,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-03-15,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,11,,1,Stationary,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S104931909,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-03-16,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,19,,1,Stationary,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
+S107323688,L18559547,"106 N Pauline Ave, Milliken US-CO 40.33131, -104.86592",2022-04-17,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,16,,1,Stationary,40.331307,-104.86592,3,3,city_1328_colorado_johnstown
+S108927136,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-04,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3327481,-104.9168572,5,5,city_1328_colorado_johnstown
+S109620753,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-10,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,12,,1,Stationary,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S109667223,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-11,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S110118088,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-14,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S110153652,L19061247,"CO - Becker Circle, Johnstown",2022-05-14,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,22,,1,Stationary,40.3389804,-104.9526674,8,8,city_1328_colorado_johnstown
+S110461448,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-05-17,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,22,,1,Stationary,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S112001740,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2022-05-31,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,64,0.595,1,Traveling,40.3415097,-104.9503434,14,14,city_1328_colorado_johnstown
+S112678830,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-06-11,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,10,,1,Stationary,40.3327481,-104.9168572,5,5,city_1328_colorado_johnstown
+S114422998,L19985014,"Sunrise Park, Weld County",2022-07-02,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,30,0.483,1,Traveling,40.3430641,-104.919894,7,7,city_1328_colorado_johnstown
+S114540442,L9786869,2208 Black Duck,2022-07-06,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.302262,-104.910908,10,10,city_1328_colorado_johnstown
+S115084296,L19612941,The Hood,2022-07-14,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,80,2.381,1,Traveling,40.311888,-104.907371,17,17,city_1328_colorado_johnstown
+S115938664,L20335448,Weld - Michael’s,2022-07-28,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,9,,1,Stationary,40.341052,-104.956199,4,4,city_1328_colorado_johnstown
+S116245379,L19612941,The Hood,2022-08-02,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,44,,1,Stationary,40.311888,-104.907371,1,1,city_1328_colorado_johnstown
+S118838513,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-09-16,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,28,,1,Stationary,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
+S119328898,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-09-24,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
+S120147308,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-07,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,4,4,city_1328_colorado_johnstown
+S120478179,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-11,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,0.102,1,Traveling,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S120544309,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-12,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,16,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S120640175,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-14,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,4,4,city_1328_colorado_johnstown
+S120771373,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-16,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,18,,1,Stationary,40.3327481,-104.9168572,3,3,city_1328_colorado_johnstown
+S120894565,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-10-18,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,37,,1,Stationary,40.3327481,-104.9168572,3,3,city_1328_colorado_johnstown
+S124519236,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2022-12-24,2022,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,16,,1,Stationary,40.3327481,-104.9168572,8,8,city_1328_colorado_johnstown
+S128906070,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-02-19,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,16,,1,Stationary,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S131794685,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-03-25,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,18,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S132603496,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-04-03,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,18,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S134004215,L19612941,The Hood,2023-04-16,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,50,,1,Stationary,40.311888,-104.907371,4,4,city_1328_colorado_johnstown
+S135618187,L19612941,The Hood,2023-04-27,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,45,1.83,1,Traveling,40.311888,-104.907371,5,5,city_1328_colorado_johnstown
+S138243035,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-05-18,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,6,6,city_1328_colorado_johnstown
+S138361552,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-05-19,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,5,5,city_1328_colorado_johnstown
+S139312825,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-05-26,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,10,10,city_1328_colorado_johnstown
+S143678534,L25717485,"1567 Goldeneye Dr, Johnstown US-CO 40.31172, -104.90760",2023-07-05,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,65,2.526,1,Traveling,40.311718,-104.907602,13,13,city_1328_colorado_johnstown
+S144470331,L19612941,The Hood,2023-07-13,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,29,,1,Stationary,40.311888,-104.907371,4,4,city_1328_colorado_johnstown
+S145237209,L26102264,"247 Tartan Drive, Johnstown, Colorado, US (40.34, -104.951)",2023-07-21,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,90,3.766,1,Traveling,40.3400181,-104.9507937,3,3,city_1328_colorado_johnstown
+S145712417,L26221146,Farm Road,2023-07-26,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,72,2.535,1,Traveling,40.31188,-104.907528,15,15,city_1328_colorado_johnstown
+S147791375,L26694006,"Pioneer Ridge and Parish Ave, Johnstown US-CO 40.31298, -104.90709",2023-08-21,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,101,2.847,1,Traveling,40.312984,-104.90709,7,7,city_1328_colorado_johnstown
+S147851865,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2023-08-22,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,8,,1,Stationary,40.3327481,-104.9168572,2,2,city_1328_colorado_johnstown
+S151097152,L27315764,"511 Peterson Drive, Johnstown, Colorado, US (40.337, -104.912)",2023-09-30,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,7,,1,Stationary,40.3368036,-104.9115432,4,4,city_1328_colorado_johnstown
+S154442374,L26221146,Farm Road,2023-11-14,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,50,1.244,1,Traveling,40.31188,-104.907528,4,4,city_1328_colorado_johnstown
+S155341027,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2023-11-27,2023,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,114,,1,Stationary,40.3415097,-104.9503434,10,10,city_1328_colorado_johnstown
+S158879148,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2024-01-14,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,0.099,1,Traveling,40.3327481,-104.9168572,9,9,city_1328_colorado_johnstown
+S163088307,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2024-02-27,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S163179315,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2024-02-28,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,18,,1,Stationary,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S241341064,L26221146,Farm Road,2024-04-08,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,68,2.231,1,Traveling,40.31188,-104.907528,8,8,city_1328_colorado_johnstown
+S169860737,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2024-04-17,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,20,,1,Stationary,40.3415097,-104.9503434,6,6,city_1328_colorado_johnstown
+S175106165,L12517647,Johnstown,2024-05-17,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,17,,1,Stationary,40.3400726,-104.9222565,7,7,city_1328_colorado_johnstown
+S178272810,L31960178,Home,2024-05-30,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.328196,-104.87048,1,1,city_1328_colorado_johnstown
+S191169670,L5225387,"US-Colorado-Johnstown-3555 Brunner Boulevard - 40.342x-104.953 - Jan 5, 2017 2:29 PM",2024-08-12,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.3424329,-104.9531954,7,7,city_1328_colorado_johnstown
+S198473650,L11285560,"117 Hays Avenue, Johnstown, Colorado, US (40.333, -104.917)",2024-10-12,2024,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,26,0.059,1,Traveling,40.3327481,-104.9168572,7,7,city_1328_colorado_johnstown
+S213328022,L29296334,"1000 Country Acres Dr, Johnstown US-CO 40.33167, -104.91795",2025-02-14,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,18,,1,Stationary,40.331667,-104.917953,4,4,city_1328_colorado_johnstown
+S213335048,L40232806,New Home Millkken,2025-02-14,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,240,,1,Stationary,40.3189139,-104.8546925,15,15,city_1328_colorado_johnstown
+S214738818,L40477588,Pioneer Ridge Walk,2025-02-21,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,65,4.832,1,Traveling,40.311866,-104.907406,8,8,city_1328_colorado_johnstown
+S215295486,L26221146,Farm Road,2025-02-24,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,38,1.56,1,Traveling,40.31188,-104.907528,3,3,city_1328_colorado_johnstown
+S228348043,L26221146,Farm Road,2025-04-22,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,71,2.537,1,Traveling,40.31188,-104.907528,8,8,city_1328_colorado_johnstown
+S228228203,L43208352,Ridge Water Res,2025-04-22,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,19,0.644,1,Traveling,40.2990475,-104.9121732,5,5,city_1328_colorado_johnstown
+S229213803,L43389057,"6 Saxony Road, Johnstown, Colorado, US (40.301, -104.907)",2025-04-25,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,15,,1,Stationary,40.3012617,-104.9072419,3,3,city_1328_colorado_johnstown
+S235994665,L40477588,Pioneer Ridge Walk,2025-05-10,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,5,,1,Stationary,40.311866,-104.907406,8,8,city_1328_colorado_johnstown
+S248543365,L26221146,Farm Road,2025-06-09,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,58,2.536,1,Traveling,40.31188,-104.907528,11,11,city_1328_colorado_johnstown
+S320132930,L62494255,"1001 Broad St, Milliken US-CO 40.33037, -104.85659",2025-06-10,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,182,5.011,1,Traveling,40.330373,-104.856591,1,1,city_1328_colorado_johnstown
+S252703759,L25717485,"1567 Goldeneye Dr, Johnstown US-CO 40.31172, -104.90760",2025-06-21,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,33,2.021,1,Traveling,40.311718,-104.907602,5,5,city_1328_colorado_johnstown
+S260099885,L26221146,Farm Road,2025-07-15,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,74,2.526,1,Traveling,40.31188,-104.907528,21,21,city_1328_colorado_johnstown
+S261879714,L26221146,Farm Road,2025-07-22,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,64,2.568,1,Traveling,40.31188,-104.907528,18,18,city_1328_colorado_johnstown
+S267706122,L51624401,Ditch Road Pioneer Ridge Loop,2025-08-16,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,110,7.929,1,Traveling,40.311855,-104.907378,7,7,city_1328_colorado_johnstown
+S273923798,L52946250,"Milliken, Colorado, US (40.327, -104.843)",2025-09-17,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,45,,1,Stationary,40.326722,-104.8433718,6,6,city_1328_colorado_johnstown
+S275580121,L26221146,Farm Road,2025-09-26,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,69,2.166,1,Traveling,40.31188,-104.907528,14,14,city_1328_colorado_johnstown
+S276558635,L26221146,Farm Road,2025-09-30,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,71,2.544,1,Traveling,40.31188,-104.907528,5,5,city_1328_colorado_johnstown
+S276835642,L43208352,Ridge Water Res,2025-10-02,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,51,0.973,1,Traveling,40.2990475,-104.9121732,2,2,city_1328_colorado_johnstown
+S277739473,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2025-10-03,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,98,,1,Stationary,40.3415097,-104.9503434,7,7,city_1328_colorado_johnstown
+S278339621,L26221146,Farm Road,2025-10-10,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,46,1.946,1,Traveling,40.31188,-104.907528,5,5,city_1328_colorado_johnstown
+S279359513,L26221146,Farm Road,2025-10-14,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,68,2.545,1,Traveling,40.31188,-104.907528,11,11,city_1328_colorado_johnstown
+S281790927,L26221146,Farm Road,2025-10-28,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,63,2.27,1,Traveling,40.31188,-104.907528,7,7,city_1328_colorado_johnstown
+S281976921,L43208352,Ridge Water Res,2025-10-29,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,44,0.413,1,Traveling,40.2990475,-104.9121732,4,4,city_1328_colorado_johnstown
+S282899918,L19612941,The Hood,2025-11-04,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,23,1.373,1,Traveling,40.311888,-104.907371,1,1,city_1328_colorado_johnstown
+S284985442,L43208352,Ridge Water Res,2025-11-17,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,41,0.175,1,Traveling,40.2990475,-104.9121732,4,4,city_1328_colorado_johnstown
+S290644428,L4888933,"Church of Jesus Christ of LDS, Johnstown, Colorado",2025-12-25,2025,1328,"Johnstown, CO",Johnstown,Colorado,Weld,100,21,,1,Stationary,40.3415097,-104.9503434,4,4,city_1328_colorado_johnstown

@@ -1,5 +1,5 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-247,"Blackwell, OK",Blackwell,Oklahoma,Kay,2018,9163863.83441793,6,7,city_0247_oklahoma_blackwell,930.8687438964844,15.4296875,36.6055911578341,humid,12
-247,"Blackwell, OK",Blackwell,Oklahoma,Kay,2019,9163863.83441793,2,2,city_0247_oklahoma_blackwell,1090.8250122070312,15.216145833333332,43.258990466539295,humid,12
-247,"Blackwell, OK",Blackwell,Oklahoma,Kay,2021,9163863.83441793,8,12,city_0247_oklahoma_blackwell,814.6562376022339,15.856770833333332,31.50649564299102,humid,12
-247,"Blackwell, OK",Blackwell,Oklahoma,Kay,2024,9163863.83441793,5,5,city_0247_oklahoma_blackwell,778.3375053405762,16.96875,28.860718622130285,dry subhumid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+247,2018,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,6,7,city_0247_oklahoma_blackwell,930.868743896484,15.4296875,36.6055911578341,humid,12
+247,2019,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,2,2,city_0247_oklahoma_blackwell,1090.82501220703,15.2161458333333,43.2589904665393,humid,12
+247,2021,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,8,12,city_0247_oklahoma_blackwell,814.656237602234,15.8567708333333,31.506495642991,humid,12
+247,2024,"Blackwell, OK",Blackwell,Oklahoma,Kay,100,5,5,city_0247_oklahoma_blackwell,778.337505340576,16.96875,28.8607186221303,dry subhumid,12

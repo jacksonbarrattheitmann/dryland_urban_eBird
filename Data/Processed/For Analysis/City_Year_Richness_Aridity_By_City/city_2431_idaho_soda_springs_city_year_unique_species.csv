@@ -1,10 +1,10 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2015,6108832.60410772,30,45,city_2431_idaho_soda_springs,445.6937561035156,5.934895833333334,27.96966862947377,dry subhumid,12
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2017,6108832.60410772,23,33,city_2431_idaho_soda_springs,454.6999940872192,5.151041666666666,30.01113745780203,humid,12
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2019,6108832.60410772,6,7,city_2431_idaho_soda_springs,484.84374809265137,4.041666666666666,34.528931614906924,humid,12
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2020,6108832.60410772,16,19,city_2431_idaho_soda_springs,330.61250019073486,5.463541666666666,21.38012800155645,dry subhumid,12
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2021,6108832.60410772,3,3,city_2431_idaho_soda_springs,407.4250030517578,5.8046875,25.778744632043995,dry subhumid,12
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2022,6108832.60410772,16,16,city_2431_idaho_soda_springs,418.75624656677246,4.8828125,28.136902656455053,dry subhumid,12
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2023,6108832.60410772,18,26,city_2431_idaho_soda_springs,514.5749998092651,5.057291666666667,34.17447248819747,humid,12
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2024,6108832.60410772,19,26,city_2431_idaho_soda_springs,382.9812421798706,6.049479166666666,23.862533992709775,dry subhumid,12
-2431,"Soda Springs, ID",Soda Springs,Idaho,Caribou,2025,6108832.60410772,13,16,city_2431_idaho_soda_springs,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2431,2015,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,30,45,city_2431_idaho_soda_springs,445.693756103516,5.93489583333333,27.9696686294738,dry subhumid,12
+2431,2017,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,23,33,city_2431_idaho_soda_springs,454.699994087219,5.15104166666667,30.011137457802,humid,12
+2431,2019,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,6,7,city_2431_idaho_soda_springs,484.843748092651,4.04166666666667,34.5289316149069,humid,12
+2431,2020,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,16,19,city_2431_idaho_soda_springs,330.612500190735,5.46354166666667,21.3801280015565,dry subhumid,12
+2431,2021,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,3,3,city_2431_idaho_soda_springs,407.425003051758,5.8046875,25.778744632044,dry subhumid,12
+2431,2022,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,16,16,city_2431_idaho_soda_springs,418.756246566772,4.8828125,28.1369026564551,dry subhumid,12
+2431,2023,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,18,26,city_2431_idaho_soda_springs,514.574999809265,5.05729166666667,34.1744724881975,humid,12
+2431,2024,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,19,26,city_2431_idaho_soda_springs,382.981242179871,6.04947916666667,23.8625339927098,dry subhumid,12
+2431,2025,"Soda Springs, ID",Soda Springs,Idaho,Caribou,99.999999999993,13,16,city_2431_idaho_soda_springs,,,,,

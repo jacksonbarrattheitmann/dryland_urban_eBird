@@ -1,31 +1,29 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S23105623,L381116,Cushing,2015-04-12,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,30,,1,35.98506,-96.767,6,6,city_0671_oklahoma_cushing
-S21416052,L381116,Cushing,2015-01-18,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,10,,1,35.98506,-96.767,2,2,city_0671_oklahoma_cushing
-S23163136,L381116,Cushing,2015-02-16,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,30,,1,35.98506,-96.767,2,2,city_0671_oklahoma_cushing
-S23163058,L381116,Cushing,2015-02-15,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,30,,1,35.98506,-96.767,5,5,city_0671_oklahoma_cushing
-S21614781,L381116,Cushing,2015-01-30,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,10,,1,35.98506,-96.767,3,3,city_0671_oklahoma_cushing
-S46846569,L7637527,Cushing Park,2018-06-27,2018,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,45,3.219,1,35.9753633,-96.7655075,3,3,city_0671_oklahoma_cushing
-S51055201,L381116,Cushing,2018-12-29,2018,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,15,,1,35.98506,-96.767,1,1,city_0671_oklahoma_cushing
-S52500232,L381116,Cushing,2019-02-08,2019,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,30,,1,35.98506,-96.767,1,1,city_0671_oklahoma_cushing
-S51323894,L381116,Cushing,2019-01-04,2019,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,60,,1,35.98506,-96.767,1,1,city_0671_oklahoma_cushing
-S67509264,L11201431,"802 Crestview Dr, Cushing US-OK 35.97311, -96.74512",2020-04-19,2020,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,7,,1,35.97311,-96.745122,3,3,city_0671_oklahoma_cushing
-S73267139,L7637527,Cushing Park,2020-09-06,2020,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,15,0.451,1,35.9753633,-96.7655075,4,4,city_0671_oklahoma_cushing
-S83334974,L14020011,"N Little Ave, Cushing US-OK 35.98528, -96.76773",2021-03-12,2021,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,40,9.656,1,35.985283,-96.76773,6,6,city_0671_oklahoma_cushing
-S84093314,L14158274,"740101–740321 S 3510 Rd, Cushing US-OK 35.94125, -96.74934",2021-03-25,2021,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,51,13.38,1,35.941249,-96.749338,5,5,city_0671_oklahoma_cushing
-S110710842,L7637527,Cushing Park,2022-05-19,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,32,0.319,1,35.9753633,-96.7655075,17,17,city_0671_oklahoma_cushing
-S112959786,L18885064,"1227 E Pecan St, Cushing US-OK 35.98756, -96.75229",2022-05-06,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,117,21.4,1,35.987564,-96.752286,16,16,city_0671_oklahoma_cushing
-S114053124,L7637527,Cushing Park,2022-06-29,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,58,0.145,1,35.9753633,-96.7655075,15,15,city_0671_oklahoma_cushing
-S105210331,L18166160,"1211 E Pecan St, Cushing US-OK 35.98766, -96.75328",2022-03-20,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,28,2.909,1,35.987657,-96.753281,11,11,city_0671_oklahoma_cushing
-S112953478,L7637527,Cushing Park,2022-05-04,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,13,16.959,1,35.9753633,-96.7655075,2,2,city_0671_oklahoma_cushing
-S101105975,L7637527,Cushing Park,2022-01-20,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,24,0.099,1,35.9753633,-96.7655075,3,3,city_0671_oklahoma_cushing
-S108895739,L7637527,Cushing Park,2022-05-04,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,13,16.959,1,35.9753633,-96.7655075,2,2,city_0671_oklahoma_cushing
-S122300709,L7637527,Cushing Park,2022-11-12,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,49,2.06,1,35.9753633,-96.7655075,7,7,city_0671_oklahoma_cushing
-S109166335,L18885064,"1227 E Pecan St, Cushing US-OK 35.98756, -96.75229",2022-05-06,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,117,21.4,1,35.987564,-96.752286,16,16,city_0671_oklahoma_cushing
-S105107335,L18166160,"1211 E Pecan St, Cushing US-OK 35.98766, -96.75328",2022-03-18,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,36,2.363,1,35.987657,-96.753281,5,5,city_0671_oklahoma_cushing
-S105039220,L7637527,Cushing Park,2022-03-17,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,14,0.805,1,35.9753633,-96.7655075,3,3,city_0671_oklahoma_cushing
-S102401984,L7637527,Cushing Park,2022-02-10,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,10,0.195,1,35.9753633,-96.7655075,4,4,city_0671_oklahoma_cushing
-S100994724,L7637527,Cushing Park,2022-01-18,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,21,0.122,1,35.9753633,-96.7655075,3,3,city_0671_oklahoma_cushing
-S142463238,L18884699,"1236 E Greenlee St, Cushing US-OK 35.98705, -96.75261",2023-06-23,2023,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,28,1.361,1,35.987051,-96.752607,9,9,city_0671_oklahoma_cushing
-S126978441,L7637527,Cushing Park,2023-01-26,2023,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,25,0.263,1,35.9753633,-96.7655075,4,4,city_0671_oklahoma_cushing
-S189076630,L18884699,"1236 E Greenlee St, Cushing US-OK 35.98705, -96.75261",2024-07-27,2024,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,193,7.721,1,35.987051,-96.752607,16,16,city_0671_oklahoma_cushing
-S170012896,L7637527,Cushing Park,2024-04-23,2024,671,"Cushing, OK",Cushing,Oklahoma,Payne,11408282.0991408,45,0.136,1,35.9753633,-96.7655075,21,21,city_0671_oklahoma_cushing
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S21416052,L381116,Cushing,2015-01-18,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,10,,1,Stationary,35.98506,-96.767,2,2,city_0671_oklahoma_cushing
+S21614781,L381116,Cushing,2015-01-30,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,10,,1,Stationary,35.98506,-96.767,3,3,city_0671_oklahoma_cushing
+S23163058,L381116,Cushing,2015-02-15,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,30,,1,Stationary,35.98506,-96.767,5,5,city_0671_oklahoma_cushing
+S23163136,L381116,Cushing,2015-02-16,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,30,,1,Stationary,35.98506,-96.767,2,2,city_0671_oklahoma_cushing
+S23105623,L381116,Cushing,2015-04-12,2015,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,30,,1,Stationary,35.98506,-96.767,6,6,city_0671_oklahoma_cushing
+S46846569,L7637527,Cushing Park,2018-06-27,2018,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,45,3.219,1,Traveling,35.9753633,-96.7655075,3,3,city_0671_oklahoma_cushing
+S51055201,L381116,Cushing,2018-12-29,2018,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,15,,1,Stationary,35.98506,-96.767,1,1,city_0671_oklahoma_cushing
+S51323894,L381116,Cushing,2019-01-04,2019,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,60,,1,Stationary,35.98506,-96.767,1,1,city_0671_oklahoma_cushing
+S52500232,L381116,Cushing,2019-02-08,2019,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,30,,1,Stationary,35.98506,-96.767,1,1,city_0671_oklahoma_cushing
+S67509264,L11201431,"802 Crestview Dr, Cushing US-OK 35.97311, -96.74512",2020-04-19,2020,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,7,,1,Stationary,35.97311,-96.745122,3,3,city_0671_oklahoma_cushing
+S73267139,L7637527,Cushing Park,2020-09-06,2020,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,15,0.451,1,Traveling,35.9753633,-96.7655075,4,4,city_0671_oklahoma_cushing
+S83334974,L14020011,"N Little Ave, Cushing US-OK 35.98528, -96.76773",2021-03-12,2021,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,40,9.656,1,Traveling,35.985283,-96.76773,6,6,city_0671_oklahoma_cushing
+S84093314,L14158274,"740101–740321 S 3510 Rd, Cushing US-OK 35.94125, -96.74934",2021-03-25,2021,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,51,13.38,1,Traveling,35.941249,-96.749338,5,5,city_0671_oklahoma_cushing
+S100994724,L7637527,Cushing Park,2022-01-18,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,21,0.122,1,Traveling,35.9753633,-96.7655075,3,3,city_0671_oklahoma_cushing
+S101105975,L7637527,Cushing Park,2022-01-20,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,24,0.099,1,Traveling,35.9753633,-96.7655075,3,3,city_0671_oklahoma_cushing
+S102401984,L7637527,Cushing Park,2022-02-10,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,10,0.195,1,Traveling,35.9753633,-96.7655075,4,4,city_0671_oklahoma_cushing
+S105039220,L7637527,Cushing Park,2022-03-17,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,14,0.805,1,Traveling,35.9753633,-96.7655075,3,3,city_0671_oklahoma_cushing
+S105107335,L18166160,"1211 E Pecan St, Cushing US-OK 35.98766, -96.75328",2022-03-18,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,36,2.363,1,Traveling,35.987657,-96.753281,5,5,city_0671_oklahoma_cushing
+S105210331,L18166160,"1211 E Pecan St, Cushing US-OK 35.98766, -96.75328",2022-03-20,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,28,2.909,1,Traveling,35.987657,-96.753281,11,11,city_0671_oklahoma_cushing
+S112953478,L7637527,Cushing Park,2022-05-04,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,13,16.959,1,Traveling,35.9753633,-96.7655075,2,2,city_0671_oklahoma_cushing
+S109166335,L18885064,"1227 E Pecan St, Cushing US-OK 35.98756, -96.75229",2022-05-06,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,117,21.4,1,Traveling,35.987564,-96.752286,16,16,city_0671_oklahoma_cushing
+S110710842,L7637527,Cushing Park,2022-05-19,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,32,0.319,1,Traveling,35.9753633,-96.7655075,17,17,city_0671_oklahoma_cushing
+S114053124,L7637527,Cushing Park,2022-06-29,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,58,0.145,1,Traveling,35.9753633,-96.7655075,15,15,city_0671_oklahoma_cushing
+S122300709,L7637527,Cushing Park,2022-11-12,2022,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,49,2.06,1,Traveling,35.9753633,-96.7655075,7,7,city_0671_oklahoma_cushing
+S126978441,L7637527,Cushing Park,2023-01-26,2023,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,25,0.263,1,Traveling,35.9753633,-96.7655075,4,4,city_0671_oklahoma_cushing
+S142463238,L18884699,"1236 E Greenlee St, Cushing US-OK 35.98705, -96.75261",2023-06-23,2023,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,28,1.361,1,Traveling,35.987051,-96.752607,9,9,city_0671_oklahoma_cushing
+S170012896,L7637527,Cushing Park,2024-04-23,2024,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,45,0.136,1,Traveling,35.9753633,-96.7655075,21,21,city_0671_oklahoma_cushing
+S189076630,L18884699,"1236 E Greenlee St, Cushing US-OK 35.98705, -96.75261",2024-07-27,2024,671,"Cushing, OK",Cushing,Oklahoma,Payne,100,193,7.721,1,Traveling,35.987051,-96.752607,16,16,city_0671_oklahoma_cushing

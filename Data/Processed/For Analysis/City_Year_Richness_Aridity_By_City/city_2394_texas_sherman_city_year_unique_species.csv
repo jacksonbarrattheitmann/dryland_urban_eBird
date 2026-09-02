@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2394,"Sherman, TX",Sherman,Texas,Grayson,2015,78684778.4920733,100,1404,city_2394_texas_sherman,1228.4999961853027,18.020833333333332,43.84237904601824,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2016,78684778.4920733,106,1399,city_2394_texas_sherman,921.5749988555908,18.697916666666668,32.11295821783547,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2017,78684778.4920733,117,2769,city_2394_texas_sherman,945.3687343597412,18.7421875,32.89132862137724,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2018,78684778.4920733,105,2106,city_2394_texas_sherman,1187.2187461853027,17.794270833333332,42.7145131205056,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2019,78684778.4920733,119,2658,city_2394_texas_sherman,1168.5000114440918,17.71875,42.15558102165833,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2020,78684778.4920733,96,1001,city_2394_texas_sherman,1150.5750160217283,18.075520833333332,40.98143086470121,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2021,78684778.4920733,128,1826,city_2394_texas_sherman,977.8812446594238,18.0078125,34.914588372777196,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2022,78684778.4920733,126,3711,city_2394_texas_sherman,888.8375034332275,18.283854166666668,31.425614705677138,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2023,78684778.4920733,132,2910,city_2394_texas_sherman,1019.1249961853028,18.888020833333332,35.27846376409955,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2024,78684778.4920733,132,3006,city_2394_texas_sherman,1088.1875038146973,19.299479166666668,37.1401654488351,humid,12
-2394,"Sherman, TX",Sherman,Texas,Grayson,2025,78684778.4920733,143,3391,city_2394_texas_sherman,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2394,2015,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,100,1404,city_2394_texas_sherman,1228.4999961853,18.0208333333333,43.8423790460182,humid,12
+2394,2016,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,106,1399,city_2394_texas_sherman,921.574998855591,18.6979166666667,32.1129582178355,humid,12
+2394,2017,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,117,2769,city_2394_texas_sherman,945.368734359741,18.7421875,32.8913286213772,humid,12
+2394,2018,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,105,2105,city_2394_texas_sherman,1187.2187461853,17.7942708333333,42.7145131205056,humid,12
+2394,2019,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,119,2658,city_2394_texas_sherman,1168.50001144409,17.71875,42.1555810216583,humid,12
+2394,2020,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,96,1001,city_2394_texas_sherman,1150.57501602173,18.0755208333333,40.9814308647012,humid,12
+2394,2021,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,128,1825,city_2394_texas_sherman,977.881244659424,18.0078125,34.9145883727772,humid,12
+2394,2022,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,126,3711,city_2394_texas_sherman,888.837503433228,18.2838541666667,31.4256147056771,humid,12
+2394,2023,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,132,2910,city_2394_texas_sherman,1019.1249961853,18.8880208333333,35.2784637640996,humid,12
+2394,2024,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,132,3005,city_2394_texas_sherman,1088.1875038147,19.2994791666667,37.1401654488351,humid,12
+2394,2025,"Sherman, TX",Sherman,Texas,Grayson,83.8301314256566,143,3391,city_2394_texas_sherman,,,,,

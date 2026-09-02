@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-287,"Bowie, TX",Bowie,Texas,Montague,2016,10528596.5595191,13,13,city_0287_texas_bowie,892.5562553405762,19.067708333333332,30.70611019985498,humid,12
-287,"Bowie, TX",Bowie,Texas,Montague,2018,10528596.5595191,10,10,city_0287_texas_bowie,888.5874814987183,18.080729166666668,31.644031614161904,humid,12
-287,"Bowie, TX",Bowie,Texas,Montague,2019,10528596.5595191,27,63,city_0287_texas_bowie,911.512508392334,17.911458333333332,32.65728710791717,humid,12
-287,"Bowie, TX",Bowie,Texas,Montague,2021,10528596.5595191,54,96,city_0287_texas_bowie,786.1187496185303,18.270833333333332,27.806705955555973,dry subhumid,12
-287,"Bowie, TX",Bowie,Texas,Montague,2022,10528596.5595191,17,17,city_0287_texas_bowie,598.2374973297119,18.5390625,20.96205848842133,dry subhumid,12
-287,"Bowie, TX",Bowie,Texas,Montague,2023,10528596.5595191,26,38,city_0287_texas_bowie,798.4874935150146,19.177083333333332,27.3669401561733,dry subhumid,12
-287,"Bowie, TX",Bowie,Texas,Montague,2024,10528596.5595191,8,8,city_0287_texas_bowie,862.4249992370605,19.640625,29.096046363295663,dry subhumid,12
-287,"Bowie, TX",Bowie,Texas,Montague,2025,10528596.5595191,7,7,city_0287_texas_bowie,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+287,2016,"Bowie, TX",Bowie,Texas,Montague,99.9999999999985,13,13,city_0287_texas_bowie,892.556255340576,19.0677083333333,30.706110199855,humid,12
+287,2018,"Bowie, TX",Bowie,Texas,Montague,99.9999999999985,10,10,city_0287_texas_bowie,888.587481498718,18.0807291666667,31.6440316141619,humid,12
+287,2019,"Bowie, TX",Bowie,Texas,Montague,99.9999999999985,27,63,city_0287_texas_bowie,911.512508392334,17.9114583333333,32.6572871079172,humid,12
+287,2021,"Bowie, TX",Bowie,Texas,Montague,99.9999999999985,54,96,city_0287_texas_bowie,786.11874961853,18.2708333333333,27.806705955556,dry subhumid,12
+287,2022,"Bowie, TX",Bowie,Texas,Montague,99.9999999999985,17,17,city_0287_texas_bowie,598.237497329712,18.5390625,20.9620584884213,dry subhumid,12
+287,2023,"Bowie, TX",Bowie,Texas,Montague,99.9999999999985,26,38,city_0287_texas_bowie,798.487493515015,19.1770833333333,27.3669401561733,dry subhumid,12
+287,2024,"Bowie, TX",Bowie,Texas,Montague,99.9999999999985,8,8,city_0287_texas_bowie,862.424999237061,19.640625,29.0960463632957,dry subhumid,12
+287,2025,"Bowie, TX",Bowie,Texas,Montague,99.9999999999985,7,7,city_0287_texas_bowie,,,,,

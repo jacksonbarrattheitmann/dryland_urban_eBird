@@ -1,11 +1,11 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2015,9776771.34816895,50,396,city_2745_oklahoma_weatherford,938.100004196167,15.947916666666668,36.15319165107669,humid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2016,9776771.34816895,37,211,city_2745_oklahoma_weatherford,700.1937589645386,16.700520833333332,26.223973806923127,dry subhumid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2017,9776771.34816895,59,2985,city_2745_oklahoma_weatherford,729.6749992370605,16.408854166666668,27.629937847059583,dry subhumid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2018,9776771.34816895,64,3483,city_2745_oklahoma_weatherford,708.8687369823456,15.786458333333332,27.489961119089145,dry subhumid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2019,9776771.34816895,47,2830,city_2745_oklahoma_weatherford,867.4312438964844,15.361979166666668,34.20203282228668,humid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2020,9776771.34816895,54,1539,city_2745_oklahoma_weatherford,651.4500007629395,15.994791666666666,25.060789450307432,dry subhumid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2021,9776771.34816895,45,1081,city_2745_oklahoma_weatherford,661.5562551021576,15.872395833333332,25.569964968216254,dry subhumid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2022,9776771.34816895,60,1641,city_2745_oklahoma_weatherford,548.1937503814697,16.036458333333332,21.05485098484541,dry subhumid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2023,9776771.34816895,18,41,city_2745_oklahoma_weatherford,714.8624992370605,16.489583333333332,26.98655128854023,dry subhumid,12
-2745,"Weatherford, OK",Weatherford,Oklahoma,Custer,2024,9776771.34816895,5,7,city_2745_oklahoma_weatherford,609.3500051498413,17.197916666666668,22.40428973358283,dry subhumid,12
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2745,2015,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,50,396,city_2745_oklahoma_weatherford,938.100004196167,15.9479166666667,36.1531916510767,humid,12
+2745,2016,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,37,211,city_2745_oklahoma_weatherford,700.193758964539,16.7005208333333,26.2239738069231,dry subhumid,12
+2745,2017,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,59,2985,city_2745_oklahoma_weatherford,729.674999237061,16.4088541666667,27.6299378470596,dry subhumid,12
+2745,2018,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,64,3483,city_2745_oklahoma_weatherford,708.868736982346,15.7864583333333,27.4899611190891,dry subhumid,12
+2745,2019,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,47,2830,city_2745_oklahoma_weatherford,867.431243896484,15.3619791666667,34.2020328222867,humid,12
+2745,2020,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,54,1539,city_2745_oklahoma_weatherford,651.45000076294,15.9947916666667,25.0607894503074,dry subhumid,12
+2745,2021,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,45,1081,city_2745_oklahoma_weatherford,661.556255102158,15.8723958333333,25.5699649682163,dry subhumid,12
+2745,2022,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,60,1641,city_2745_oklahoma_weatherford,548.19375038147,16.0364583333333,21.0548509848454,dry subhumid,12
+2745,2023,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,18,41,city_2745_oklahoma_weatherford,714.862499237061,16.4895833333333,26.9865512885402,dry subhumid,12
+2745,2024,"Weatherford, OK",Weatherford,Oklahoma,Custer,99.9999999999993,5,7,city_2745_oklahoma_weatherford,609.350005149841,17.1979166666667,22.4042897335828,dry subhumid,12

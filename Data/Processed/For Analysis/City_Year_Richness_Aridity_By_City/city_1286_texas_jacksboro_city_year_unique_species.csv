@@ -1,9 +1,9 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1286,"Jacksboro, TX",Jacksboro,Texas,Jack,2017,5747842.06375545,4,4,city_1286_texas_jacksboro,742.5499897003174,19.174479166666668,25.45203927920395,dry subhumid,12
-1286,"Jacksboro, TX",Jacksboro,Texas,Jack,2019,5747842.06375545,17,20,city_1286_texas_jacksboro,888.1250019073486,18.216145833333332,31.475773025604234,humid,12
-1286,"Jacksboro, TX",Jacksboro,Texas,Jack,2020,5747842.06375545,20,33,city_1286_texas_jacksboro,855.8187446594238,18.6171875,29.905760119139025,dry subhumid,12
-1286,"Jacksboro, TX",Jacksboro,Texas,Jack,2021,5747842.06375545,4,4,city_1286_texas_jacksboro,790.6437540054321,18.505208333333332,27.73681724265357,dry subhumid,12
-1286,"Jacksboro, TX",Jacksboro,Texas,Jack,2022,5747842.06375545,31,53,city_1286_texas_jacksboro,555.9624996185303,18.833333333333332,19.28193640295481,semiarid,12
-1286,"Jacksboro, TX",Jacksboro,Texas,Jack,2023,5747842.06375545,4,4,city_1286_texas_jacksboro,792.1625099182129,19.46875,26.881442542293545,dry subhumid,12
-1286,"Jacksboro, TX",Jacksboro,Texas,Jack,2024,5747842.06375545,10,14,city_1286_texas_jacksboro,865.4187412261963,19.864583333333332,28.978095276496283,dry subhumid,12
-1286,"Jacksboro, TX",Jacksboro,Texas,Jack,2025,5747842.06375545,22,29,city_1286_texas_jacksboro,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1286,2017,"Jacksboro, TX",Jacksboro,Texas,Jack,100,4,4,city_1286_texas_jacksboro,742.549989700317,19.1744791666667,25.452039279204,dry subhumid,12
+1286,2019,"Jacksboro, TX",Jacksboro,Texas,Jack,100,17,20,city_1286_texas_jacksboro,888.125001907349,18.2161458333333,31.4757730256042,humid,12
+1286,2020,"Jacksboro, TX",Jacksboro,Texas,Jack,100,20,33,city_1286_texas_jacksboro,855.818744659424,18.6171875,29.905760119139,dry subhumid,12
+1286,2021,"Jacksboro, TX",Jacksboro,Texas,Jack,100,4,4,city_1286_texas_jacksboro,790.643754005432,18.5052083333333,27.7368172426536,dry subhumid,12
+1286,2022,"Jacksboro, TX",Jacksboro,Texas,Jack,100,31,53,city_1286_texas_jacksboro,555.96249961853,18.8333333333333,19.2819364029548,semiarid,12
+1286,2023,"Jacksboro, TX",Jacksboro,Texas,Jack,100,4,4,city_1286_texas_jacksboro,792.162509918213,19.46875,26.8814425422936,dry subhumid,12
+1286,2024,"Jacksboro, TX",Jacksboro,Texas,Jack,100,10,14,city_1286_texas_jacksboro,865.418741226196,19.8645833333333,28.9780952764963,dry subhumid,12
+1286,2025,"Jacksboro, TX",Jacksboro,Texas,Jack,100,22,29,city_1286_texas_jacksboro,,,,,

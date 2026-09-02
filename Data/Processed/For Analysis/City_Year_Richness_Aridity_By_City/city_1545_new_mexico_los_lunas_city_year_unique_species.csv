@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2015,180533717.920186,127,1272,city_1545_new_mexico_los_lunas,326.7812490463257,14.130208333333332,13.542413083724268,semiarid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2016,180533717.920186,146,1772,city_1545_new_mexico_los_lunas,196.37499928474423,14.213541666666666,8.11013118147363,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2017,180533717.920186,164,3275,city_1545_new_mexico_los_lunas,213.92499804496765,14.869791666666666,8.601800968509695,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2018,180533717.920186,183,5479,city_1545_new_mexico_los_lunas,222.74375104904175,14.388020833333332,9.13332625764357,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2019,180533717.920186,178,9082,city_1545_new_mexico_los_lunas,201.7624983787537,13.606770833333332,8.546806329557795,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2020,180533717.920186,198,9880,city_1545_new_mexico_los_lunas,130.40625047683716,14.5859375,5.304099161434749,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2021,180533717.920186,177,9842,city_1545_new_mexico_los_lunas,178.53750228881836,14.4609375,7.298882239849489,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2022,180533717.920186,169,7331,city_1545_new_mexico_los_lunas,214.0250005722046,13.994791666666668,8.919644043816644,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2023,180533717.920186,190,6808,city_1545_new_mexico_los_lunas,141.76250159740448,14.453125,5.7973163592548795,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2024,180533717.920186,176,6298,city_1545_new_mexico_los_lunas,206.6437501907349,15.1328125,8.222070259376457,arid,12
-1545,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,2025,180533717.920186,176,7050,city_1545_new_mexico_los_lunas,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1545,2015,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,127,1272,city_1545_new_mexico_los_lunas,326.781249046326,14.1302083333333,13.5424130837243,semiarid,12
+1545,2016,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,146,1772,city_1545_new_mexico_los_lunas,196.374999284744,14.2135416666667,8.11013118147363,arid,12
+1545,2017,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,164,3275,city_1545_new_mexico_los_lunas,213.924998044968,14.8697916666667,8.6018009685097,arid,12
+1545,2018,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,183,5479,city_1545_new_mexico_los_lunas,222.743751049042,14.3880208333333,9.13332625764357,arid,12
+1545,2019,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,178,9082,city_1545_new_mexico_los_lunas,201.762498378754,13.6067708333333,8.5468063295578,arid,12
+1545,2020,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,198,9880,city_1545_new_mexico_los_lunas,130.406250476837,14.5859375,5.30409916143475,arid,12
+1545,2021,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,177,9842,city_1545_new_mexico_los_lunas,178.537502288818,14.4609375,7.29888223984949,arid,12
+1545,2022,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,169,7331,city_1545_new_mexico_los_lunas,214.025000572205,13.9947916666667,8.91964404381664,arid,12
+1545,2023,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,190,6808,city_1545_new_mexico_los_lunas,141.762501597405,14.453125,5.79731635925488,arid,12
+1545,2024,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,176,6298,city_1545_new_mexico_los_lunas,206.643750190735,15.1328125,8.22207025937646,arid,12
+1545,2025,"Los Lunas, NM",Los Lunas,New Mexico,Valencia,99.9999999999994,176,7050,city_1545_new_mexico_los_lunas,,,,,

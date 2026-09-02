@@ -1,13 +1,13 @@
-checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
-S24166847,L3462841,"OK, Kay Co., Tonkawa",2015-07-06,2015,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,60,9.656,1,36.6956768,-97.3052216,37,37,city_2578_oklahoma_tonkawa
-S44284719,L658387,Tonkawa,2018-04-05,2018,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,10,,1,36.67833,-97.31002,6,6,city_2578_oklahoma_tonkawa
-S48813381,L658387,Tonkawa,2018-09-28,2018,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,22,3.219,1,36.67833,-97.31002,7,7,city_2578_oklahoma_tonkawa
-S55880306,L658387,Tonkawa,2019-05-05,2019,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,5,,1,36.67833,-97.31002,8,8,city_2578_oklahoma_tonkawa
-S52442010,L658387,Tonkawa,2019-02-06,2019,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,8,,1,36.67833,-97.31002,4,4,city_2578_oklahoma_tonkawa
-S55511038,L658387,Tonkawa,2019-04-28,2019,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,8,,1,36.67833,-97.31002,5,5,city_2578_oklahoma_tonkawa
-S65939311,L10984917,"Tonkawa, OK",2020-03-18,2020,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,27,4.828,1,36.693645,-97.307649,19,19,city_2578_oklahoma_tonkawa
-S63056109,L10430050,Ray See Park,2020-01-05,2020,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,24,0.531,1,36.673967,-97.310423,10,10,city_2578_oklahoma_tonkawa
-S72430829,L10430050,Ray See Park,2020-08-15,2020,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,5,0.353,1,36.673967,-97.310423,8,8,city_2578_oklahoma_tonkawa
-S123608007,L21737439,"Northern Oklahoma College, Tonkawa US-OK 36.67808, -97.29719",2022-12-07,2022,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,9,0.119,1,36.678081,-97.297188,16,16,city_2578_oklahoma_tonkawa
-S245733768,L46624028,Tonkawa,2025-06-01,2025,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,37,3.452,1,36.693593,-97.30986,21,21,city_2578_oklahoma_tonkawa
-S241973922,L45820555,"109 E Grand Ave, Tonkawa US-OK 36.67833, -97.30926",2025-05-24,2025,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,3854189.77689249,10,0.483,1,36.678335,-97.309256,5,5,city_2578_oklahoma_tonkawa
+checklist_id,locality_id,locality,observation_date,year,city_id,NAME10,city_ascii,state_name,county_name,dryland_percent,duration_minutes,effort_distance_km,number_observers,protocol_name,latitude_checklist,longitude_checklist,species_richness,total_observation_records,city_file_stub
+S24166847,L3462841,"OK, Kay Co., Tonkawa",2015-07-06,2015,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,60,9.656,1,Traveling,36.6956768,-97.3052216,37,37,city_2578_oklahoma_tonkawa
+S44284719,L658387,Tonkawa,2018-04-05,2018,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,10,,1,Stationary,36.67833,-97.31002,6,6,city_2578_oklahoma_tonkawa
+S48813381,L658387,Tonkawa,2018-09-28,2018,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,22,3.219,1,Traveling,36.67833,-97.31002,7,7,city_2578_oklahoma_tonkawa
+S52442010,L658387,Tonkawa,2019-02-06,2019,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,8,,1,Stationary,36.67833,-97.31002,4,4,city_2578_oklahoma_tonkawa
+S55511038,L658387,Tonkawa,2019-04-28,2019,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,8,,1,Stationary,36.67833,-97.31002,5,5,city_2578_oklahoma_tonkawa
+S55880306,L658387,Tonkawa,2019-05-05,2019,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,5,,1,Stationary,36.67833,-97.31002,8,8,city_2578_oklahoma_tonkawa
+S63056109,L10430050,Ray See Park,2020-01-05,2020,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,24,0.531,1,Traveling,36.673967,-97.310423,10,10,city_2578_oklahoma_tonkawa
+S65939311,L10984917,"Tonkawa, OK",2020-03-18,2020,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,27,4.828,1,Traveling,36.693645,-97.307649,19,19,city_2578_oklahoma_tonkawa
+S72430829,L10430050,Ray See Park,2020-08-15,2020,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,5,0.353,1,Traveling,36.673967,-97.310423,8,8,city_2578_oklahoma_tonkawa
+S123608007,L21737439,"Northern Oklahoma College, Tonkawa US-OK 36.67808, -97.29719",2022-12-07,2022,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,9,0.119,1,Traveling,36.678081,-97.297188,16,16,city_2578_oklahoma_tonkawa
+S241973922,L45820555,"109 E Grand Ave, Tonkawa US-OK 36.67833, -97.30926",2025-05-24,2025,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,10,0.483,1,Traveling,36.678335,-97.309256,5,5,city_2578_oklahoma_tonkawa
+S245733768,L46624028,Tonkawa,2025-06-01,2025,2578,"Tonkawa, OK",Tonkawa,Oklahoma,Kay,99.999999999998,37,3.452,1,Traveling,36.693593,-97.30986,21,21,city_2578_oklahoma_tonkawa

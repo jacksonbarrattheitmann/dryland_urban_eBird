@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2015,16982905.6630708,2,2,city_1449_montana_laurel,372.28124809265137,9.8359375,18.768018808924527,semiarid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2016,16982905.6630708,10,10,city_1449_montana_laurel,402.287504196167,9.778645833333332,20.33948671643557,dry subhumid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2017,16982905.6630708,7,7,city_1449_montana_laurel,391.00000381469727,8.8203125,20.77542569044469,dry subhumid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2018,16982905.6630708,14,14,city_1449_montana_laurel,429.3625030517578,8.104166666666668,23.71622571517189,dry subhumid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2019,16982905.6630708,24,29,city_1449_montana_laurel,451.7875032424927,7.380208333333334,25.994366383745454,dry subhumid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2020,16982905.6630708,21,66,city_1449_montana_laurel,316.0749988555908,9.106770833333334,16.542565021200335,semiarid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2021,16982905.6630708,15,18,city_1449_montana_laurel,279.11875438690186,9.486979166666668,14.323346476623051,semiarid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2022,16982905.6630708,17,36,city_1449_montana_laurel,376.649995803833,8.427083333333332,20.440022383927623,dry subhumid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2023,16982905.6630708,22,34,city_1449_montana_laurel,474.45624256134033,9.177083333333332,24.740792659363755,dry subhumid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2024,16982905.6630708,11,12,city_1449_montana_laurel,316.0187487602234,9.861979166666668,15.910738104618565,semiarid,12
-1449,"Laurel, MT",Laurel,Montana,Yellowstone,2025,16982905.6630708,16,20,city_1449_montana_laurel,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+1449,2015,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,2,2,city_1449_montana_laurel,372.281248092651,9.8359375,18.7680188089245,semiarid,12
+1449,2016,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,10,10,city_1449_montana_laurel,402.287504196167,9.77864583333333,20.3394867164356,dry subhumid,12
+1449,2017,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,7,7,city_1449_montana_laurel,391.000003814697,8.8203125,20.7754256904447,dry subhumid,12
+1449,2018,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,14,14,city_1449_montana_laurel,429.362503051758,8.10416666666667,23.7162257151719,dry subhumid,12
+1449,2019,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,24,29,city_1449_montana_laurel,451.787503242493,7.38020833333333,25.9943663837455,dry subhumid,12
+1449,2020,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,21,66,city_1449_montana_laurel,316.074998855591,9.10677083333333,16.5425650212003,semiarid,12
+1449,2021,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,15,18,city_1449_montana_laurel,279.118754386902,9.48697916666667,14.3233464766231,semiarid,12
+1449,2022,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,17,36,city_1449_montana_laurel,376.649995803833,8.42708333333333,20.4400223839276,dry subhumid,12
+1449,2023,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,22,34,city_1449_montana_laurel,474.45624256134,9.17708333333333,24.7407926593638,dry subhumid,12
+1449,2024,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,11,12,city_1449_montana_laurel,316.018748760223,9.86197916666667,15.9107381046186,semiarid,12
+1449,2025,"Laurel, MT",Laurel,Montana,Yellowstone,99.999999999996,16,20,city_1449_montana_laurel,,,,,

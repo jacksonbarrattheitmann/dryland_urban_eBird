@@ -1,3 +1,3 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2121,"Poplar, MT",Poplar,Montana,Roosevelt,2020,3483267.45932884,3,3,city_2121_montana_poplar,311.706250667572,8.213541666666668,17.11398345100767,semiarid,12
-2121,"Poplar, MT",Poplar,Montana,Roosevelt,2025,3483267.45932884,3,3,city_2121_montana_poplar,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2121,2020,"Poplar, MT",Poplar,Montana,Roosevelt,99.9999999999971,3,3,city_2121_montana_poplar,311.706250667572,8.21354166666667,17.1139834510077,semiarid,12
+2121,2025,"Poplar, MT",Poplar,Montana,Roosevelt,99.9999999999971,3,3,city_2121_montana_poplar,,,,,

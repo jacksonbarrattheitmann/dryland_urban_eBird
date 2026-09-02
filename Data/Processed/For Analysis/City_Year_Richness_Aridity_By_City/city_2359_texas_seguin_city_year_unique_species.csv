@@ -1,12 +1,12 @@
-city_id,NAME10,city_ascii,state_name,county_name,year,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2015,41375099.2063078,87,334,city_2359_texas_seguin,1212.2062492370603,20.8515625,39.29156746070999,humid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2016,41375099.2063078,96,776,city_2359_texas_seguin,1172.9624824523926,21.666666666666668,37.04092049849661,humid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2017,41375099.2063078,102,1644,city_2359_texas_seguin,740.3187522888184,21.8515625,23.24277662324473,dry subhumid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2018,41375099.2063078,133,1852,city_2359_texas_seguin,860.1562461853027,21.083333333333332,27.67258700864245,dry subhumid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2019,41375099.2063078,120,1482,city_2359_texas_seguin,776.5000190734863,21.135416666666668,24.939445242908896,dry subhumid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2020,41375099.2063078,94,710,city_2359_texas_seguin,660.7749977111816,21.669270833333332,20.864863014644666,dry subhumid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2021,41375099.2063078,91,478,city_2359_texas_seguin,865.9687519073486,21.078125,27.864253455037865,dry subhumid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2022,41375099.2063078,81,362,city_2359_texas_seguin,479.931248664856,21.458333333333332,15.256092672790125,semiarid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2023,41375099.2063078,96,511,city_2359_texas_seguin,676.9937477111816,22.114583333333332,21.08057080125639,dry subhumid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2024,41375099.2063078,104,570,city_2359_texas_seguin,689.2375121116638,22.3828125,21.284053450010365,dry subhumid,12
-2359,"Seguin, TX",Seguin,Texas,Guadalupe,2025,41375099.2063078,106,1643,city_2359_texas_seguin,NA,NA,NA,NA,NA
+city_id,year,NAME10,city_ascii,state_name,county_name,dryland_percent,true_city_year_species_observed,total_species_observation_records,city_file_stub,total_annual_precip_mm,mean_annual_temp_c,aridity_index,aridity_class_de_martonne,n_months_with_climate
+2359,2015,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,87,334,city_2359_texas_seguin,1212.20624923706,20.8515625,39.29156746071,humid,12
+2359,2016,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,96,776,city_2359_texas_seguin,1172.96248245239,21.6666666666667,37.0409204984966,humid,12
+2359,2017,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,102,1644,city_2359_texas_seguin,740.318752288818,21.8515625,23.2427766232447,dry subhumid,12
+2359,2018,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,133,1852,city_2359_texas_seguin,860.156246185303,21.0833333333333,27.6725870086425,dry subhumid,12
+2359,2019,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,120,1482,city_2359_texas_seguin,776.500019073486,21.1354166666667,24.9394452429089,dry subhumid,12
+2359,2020,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,94,710,city_2359_texas_seguin,660.774997711182,21.6692708333333,20.8648630146447,dry subhumid,12
+2359,2021,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,91,478,city_2359_texas_seguin,865.968751907349,21.078125,27.8642534550379,dry subhumid,12
+2359,2022,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,81,362,city_2359_texas_seguin,479.931248664856,21.4583333333333,15.2560926727901,semiarid,12
+2359,2023,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,96,511,city_2359_texas_seguin,676.993747711182,22.1145833333333,21.0805708012564,dry subhumid,12
+2359,2024,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,104,584,city_2359_texas_seguin,689.237512111664,22.3828125,21.2840534500104,dry subhumid,12
+2359,2025,"Seguin, TX",Seguin,Texas,Guadalupe,99.9999999999996,106,1643,city_2359_texas_seguin,,,,,
