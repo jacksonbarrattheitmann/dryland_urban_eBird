@@ -1,0 +1,17 @@
+city_file_stub,raw_rows,enriched_rows,raw_unique_checklists,metadata_checklists,metadata_checklists_without_raw_rows,missing_duration,missing_effort_distance,missing_number_observers,missing_city_name,missing_dryland_percent,locality_id_mismatches,locality_name_differences,date_mismatches,enriched_file
+city_2602_arizona_tucson,2725093,2725093,159473,159841,368,0,619459,0,0,0,0,684,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_2602_arizona_tucson.tsv
+city_0601_california_concord,623205,623205,38217,38314,97,0,143048,0,0,0,0,51,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_0601_california_concord.tsv
+city_2007_california_oxnard,460751,460751,22834,22869,35,0,57265,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_2007_california_oxnard.tsv
+city_2292_california_sacramento,1739400,1739400,100717,100892,175,0,399767,0,0,0,0,57,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_2292_california_sacramento.tsv
+city_2311_california_san_diego,4189657,4189657,247811,249904,2093,0,877143,0,0,0,0,74,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_2311_california_san_diego.tsv
+city_2328_california_santa_barbara,1206610,1206610,60022,60059,37,0,179099,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_2328_california_santa_barbara.tsv
+city_0286_colorado_boulder,368631,368631,38223,38573,350,0,104942,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_0286_colorado_boulder.tsv
+city_0579_colorado_colorado_springs,533604,533604,43471,43573,102,0,219936,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_0579_colorado_colorado_springs.tsv
+city_0940_colorado_fort_collins,850984,850984,67337,67457,120,0,180567,0,0,0,0,2,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_0940_colorado_fort_collins.tsv
+city_1738_montana_missoula,415911,415911,33361,33506,145,0,129923,0,0,0,0,19,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_1738_montana_missoula.tsv
+city_0033_new_mexico_albuquerque,1211467,1211467,97113,97296,183,0,269668,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_0033_new_mexico_albuquerque.tsv
+city_1953_oklahoma_oklahoma_city,413491,413491,29749,29799,50,0,103378,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_1953_oklahoma_oklahoma_city.tsv
+city_0132_texas_austin,1875127,1875127,142070,142488,418,0,529651,0,0,0,0,1,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_0132_texas_austin.tsv
+city_0623_texas_corpus_christi,651322,651322,35020,35079,59,0,148472,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_0623_texas_corpus_christi.tsv
+city_1672_texas_mcallen,757335,757335,36409,36468,59,0,116651,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_1672_texas_mcallen.tsv
+city_2310_texas_san_antonio,900553,900553,67704,68064,360,0,261939,0,0,0,0,0,0,Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_2310_texas_san_antonio.tsv
