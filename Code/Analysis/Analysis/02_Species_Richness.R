@@ -531,3 +531,8 @@ sr_results <- sr_results %>%
   )
 
 sr_results
+
+ggplot(sr_data, aes(x = avg_aridity_index, y = water)) + 
+  geom_point() +
+  geom_smooth(method = "lm") +
+  theme_bw()

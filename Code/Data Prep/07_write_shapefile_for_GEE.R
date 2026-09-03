@@ -1,4 +1,5 @@
-### let's try reading in a city
+## This script was used to assign batch numbers to all of the possible locality_ids 
+## that we had to get the land cover data for from GEE
 
 library(tidyverse)
 library(dplyr)
@@ -50,4 +51,40 @@ for (i in seq_along(starts)) {
   message("Exported batch ", i, ": rows ", start_row, "–", end_row)
 }
 
+## Need to make these even smaller for the batches that failed the first time
+## read in the final dbf that we made
 
+ebird_localities <- read_sf("Intermediate_data/locality_id_shapefile/eBird_localities_drylands.shp")
+
+missed_batches <- c("11", "14", "18", "28", "31", "33", "36", "37", "41", "43", "44", "45", "51", "56", "62", "66", "69", "70", "72")
+
+## now filter for the missed ones
+
+ebird_locals_missed <- ebird_localities %>%
+  filter(batch %in% missed_batches)
+
+## we need to make the batches smaller
+ebird_locals_missed <- ebird_locals_missed %>%
+  mutate(new_batch = rep(1:46, each = 1000, length.out = n()))
+
+## save this dataframe
+st_write(ebird_locals_missed, "Intermediate_data/locality_id_shapefile/ebird_localities_missed.shp")
+
+## read it in to deal with another failure
+
+ebird_missed <- read_sf("Intermediate_data/locality_id_shapefile/ebird_localities_missed.shp")
+
+#### We had another failure ####
+missed_batches_2nd_attempt <- c("25", "29", "33", "36")
+
+## now filter again, and chop it up again into smaller pieces
+## since GEE is abyssmal at dealing with large amounts of data
+
+ebird_locals_missed2 <- ebird_missed %>%
+  filter(new_batch %in% missed_batches_2nd_attempt)
+
+ebird_locals_missed2 <- ebird_locals_missed2 %>%
+  mutate(new_batch2 = rep(1:8, each = 500, length.out = n()))
+
+## save this dataframe, and try again to make it work on GEE
+st_write(ebird_locals_missed2, "Intermediate_data/locality_id_shapefile/ebird_localities_missed2.shp", append = FALSE)

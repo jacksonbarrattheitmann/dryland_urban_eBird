@@ -3,6 +3,7 @@
 ## the eBird hotspots in 1km buffers
 
 library(dplyr)
+library(readr)
 
 test <- read.csv("Intermediate_data/GEE_land_cover/batch_1st_attempt/DynamicWorld_2021_batch_1.csv")
 
@@ -21,3 +22,5 @@ s <- s %>%
 
 # saving an RDS of the new combined file
 saveRDS(s, file = "Intermediate_data/GEE_land_cover/gee_land_cover_combined.RDS")
+
+gee_land_cover <- readRDS("Intermediate_data/GEE_land_cover/gee_land_cover_combined.RDS")
