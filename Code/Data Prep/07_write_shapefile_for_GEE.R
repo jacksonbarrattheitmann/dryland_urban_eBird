@@ -75,16 +75,18 @@ st_write(ebird_locals_missed, "Intermediate_data/locality_id_shapefile/ebird_loc
 ebird_missed <- read_sf("Intermediate_data/locality_id_shapefile/ebird_localities_missed.shp")
 
 #### We had another failure ####
-missed_batches_2nd_attempt <- c("25", "29", "33", "36")
 
-## now filter again, and chop it up again into smaller pieces
-## since GEE is abyssmal at dealing with large amounts of data
+still_missing <- readRDS("Intermediate_data/GEE_land_cover/missed_localities2/missed_localities2.RDS")
 
-ebird_locals_missed2 <- ebird_missed %>%
-  filter(new_batch %in% missed_batches_2nd_attempt)
+## filter these out of ebird_localities
+
+ebird_locals_missed2 <- ebird_localities %>%
+  filter(lclty_d %in% still_missing$locality_id)
+
+## now let's export these back into another folder for GEE
 
 ebird_locals_missed2 <- ebird_locals_missed2 %>%
-  mutate(new_batch2 = rep(1:8, each = 500, length.out = n()))
+  mutate(new_batch = rep(1:100, length.out = n()))
 
-## save this dataframe, and try again to make it work on GEE
-st_write(ebird_locals_missed2, "Intermediate_data/locality_id_shapefile/ebird_localities_missed2.shp", append = FALSE)
+## save this dataframe
+st_write(ebird_locals_missed2, "Intermediate_data/locality_id_shapefile/ebird_localities_missed2.shp", append = TRUE)

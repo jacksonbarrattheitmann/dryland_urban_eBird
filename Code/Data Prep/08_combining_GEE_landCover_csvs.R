@@ -24,3 +24,29 @@ s <- s %>%
 saveRDS(s, file = "Intermediate_data/GEE_land_cover/gee_land_cover_combined.RDS")
 
 gee_land_cover <- readRDS("Intermediate_data/GEE_land_cover/gee_land_cover_combined.RDS")
+
+### creating a list of the missed localities
+file_list <- list.files(path = "Intermediate_data/GEE_land_cover/missed_localities/", pattern = "\\.csv", full.names = TRUE)
+r <- lapply(file_list, read.csv)
+s <- bind_rows(r)
+s <- as.data.frame(s)
+
+# getting rid of some not so useful columns
+s <- s %>%
+  select(-.geo, -system.index, -batch, -new_batch) %>%
+  rename(LOCALITY_ID = lclty_d)
+
+## combine these two, and then figure out what
+## we're still missing from GEE
+
+full <- gee_land_cover %>%
+  rbind(s)
+
+## Now intersect with our newest lat/long data file, and see what we're missing
+
+dat <- read.csv("Data/Processed/For Analysis/dryland_city_hotspot_latlong_for_GEE_2015_2025.csv")
+
+still_missing <- dat %>%
+  filter(!locality_id %in% full$LOCALITY_ID)
+
+saveRDS(still_missing, "Intermediate_data/GEE_land_cover/missed_localities2/missed_localities2.RDS")
