@@ -14,7 +14,7 @@ library(purrr)
 # Read in data that is the same for every city
 
 land <- readRDS(
-  "Intermediate_data/GEE_land_cover/gee_land_cover_combined.RDS"
+  "Intermediate_data/GEE_land_cover/full_gee_combined.RDS"
 )
 
 trait <- readRDS(
@@ -342,7 +342,7 @@ tsv_files <- list.files(
   full.names = TRUE
 )
 
-for (file in tail(tsv_files, -19)) {
+for (file in tsv_files[509:647]) {
   
   process_city(
     tsv_file = file,
@@ -397,3 +397,41 @@ combined_data_filt <- combined_data %>%
 saveRDS(combined_data_filt, "Intermediate_data/dfs_for_analysis_combined/combined_data_filt.RDS")
 
 
+
+
+
+## Code to check a single city for the broken name issue with AVONET ##
+
+
+
+bird_dat <- read_tsv("Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_2311_california_san_diego.tsv") %>%
+  select(-locality.y, -locality_id.y, -observation_date.y) %>%
+  rename(
+    locality = locality.x,
+    locality_id = locality_id.x,
+    observation_date = observation_date.x)
+
+bird_clean <- bird_dat %>%
+  group_by(checklist_id) %>%
+  filter(
+    !any(observation_count == "X"),
+    !category == "spuh",
+    !category == "slash",
+    !category == "domestic", 
+    !category == "hybrid"
+  ) %>%
+  ungroup()
+
+bird_clean$observation_count <- as.numeric(
+  bird_clean$observation_count
+)
+
+trait_filt <- trait %>%
+  filter(
+    scientific_name %in% bird_clean$scientific_name
+  )
+
+check <- bird_clean %>%
+  filter(
+    !scientific_name %in% trait_filt$scientific_name
+  )
