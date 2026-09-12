@@ -3,10 +3,14 @@
 # 01_Data_Inspection.R
 #
 # Purpose:
-# Inspect the final combined analysis dataset to make sure
-# variables, sampling structure, response variables, habitat
-# predictors, aridity, and checklist-effort variables are
-# appropriate for downstream modeling.
+# Inspect the final combined analysis dataset, apply the basic
+# checklist-effort filters, evaluate sampling imbalance among
+# localities and cities, and define the pool of observations
+# eligible for downstream analyses.
+#
+# This script DOES NOT randomly subsample the data.
+# Random subsampling will be performed in Script 02 using a
+# fixed random seed.
 #
 # Canonical input:
 #
@@ -24,7 +28,30 @@ library(ggplot2)
 
 
 # ------------------------------------------------------------
-# 2. Load final combined dataset
+# 2. Settings
+# ------------------------------------------------------------
+
+# Jackson is currently rebuilding the combined dataset after
+# removing duplicated GEE locality records.
+#
+# TRUE allows us to inspect the current dataset temporarily by
+# retaining one row per checklist_id.
+#
+# When the corrected combined_data.RDS arrives, this should
+# have no effect because duplicate checklist IDs should = 0.
+
+TEMPORARY_DEDUPLICATE <- TRUE
+
+
+# Sampling thresholds suggested for evaluation
+
+MIN_CHECKLISTS_PER_LOCALITY <- 5
+
+MIN_LOCALITIES_PER_CITY <- 5
+
+
+# ------------------------------------------------------------
+# 3. Load final combined dataset
 # ------------------------------------------------------------
 
 data_path <- file.path(
@@ -48,83 +75,221 @@ combined_data <- readRDS(
 )
 
 
-# ------------------------------------------------------------
-# 3. Dataset dimensions
-# ------------------------------------------------------------
-
-dim(combined_data)
+cat("\n============================================================\n")
+cat("DRYLAND BIRD DATA INSPECTION\n")
+cat("============================================================\n\n")
 
 
 # ------------------------------------------------------------
-# 4. Column names and structure
+# 4. Dataset dimensions and structure
 # ------------------------------------------------------------
 
-names(combined_data)
+cat("Dataset dimensions:\n")
+print(
+  dim(combined_data)
+)
 
-str(combined_data)
+
+cat("\nColumn names:\n")
+print(
+  names(combined_data)
+)
 
 
 # ------------------------------------------------------------
-# 5. Basic sampling structure
+# 5. Required-variable check
 # ------------------------------------------------------------
 
-combined_data %>%
+required_variables <- c(
+  "checklist_id",
+  "locality_id",
+  "NAME10",
+  "state_name",
+  "protocol_name",
+  "duration_minutes",
+  "effort_distance_km",
+  "number_observers",
+  "sr",
+  "FRic",
+  "FDis",
+  "FEve",
+  "avg_aridity_index",
+  "water",
+  "shrub_and_scrub",
+  "built"
+)
+
+
+missing_variables <- setdiff(
+  required_variables,
+  names(combined_data)
+)
+
+
+cat("\n============================================================\n")
+cat("REQUIRED VARIABLES\n")
+cat("============================================================\n\n")
+
+
+if (length(missing_variables) == 0) {
+  
+  cat("PASS: All required analysis variables are present.\n")
+  
+} else {
+  
+  cat("Missing variables:\n")
+  print(missing_variables)
+  
+  stop(
+    "Required variables are missing from combined_data.RDS."
+  )
+}
+
+
+# ------------------------------------------------------------
+# 6. Basic sampling structure
+# ------------------------------------------------------------
+
+cat("\n============================================================\n")
+cat("RAW DATA STRUCTURE\n")
+cat("============================================================\n\n")
+
+
+raw_structure <- combined_data %>%
   summarise(
     n_rows = n(),
-    n_checklists = n_distinct(checklist_id),
+    n_unique_checklists = n_distinct(checklist_id),
     n_localities = n_distinct(locality_id),
     n_cities = n_distinct(NAME10),
     n_states = n_distinct(state_name)
   )
 
 
+print(raw_structure)
+
+
 # ------------------------------------------------------------
-# 6. Check duplicate checklist IDs
+# 7. Duplicate checklist QC
 # ------------------------------------------------------------
 
 duplicate_checklists <- combined_data %>%
   count(
-    checklist_id
+    checklist_id,
+    name = "n_rows"
   ) %>%
   filter(
-    n > 1
+    n_rows > 1
   )
+
+
+cat("\n============================================================\n")
+cat("DUPLICATE CHECKLIST QC\n")
+cat("============================================================\n\n")
 
 
 cat(
-  "\nDuplicated checklist IDs:",
+  "Duplicated checklist IDs: ",
   nrow(duplicate_checklists),
-  "\n"
+  "\n",
+  sep = ""
 )
 
 
-if (nrow(duplicate_checklists) > 0) {
+cat(
+  "Extra rows associated with duplicated checklist IDs: ",
+  sum(
+    duplicate_checklists$n_rows - 1
+  ),
+  "\n",
+  sep = ""
+)
+
+
+# ------------------------------------------------------------
+# 8. Temporary duplicate handling
+# ------------------------------------------------------------
+#
+# Jackson has identified and cleaned the duplicate locality
+# records upstream and is rebuilding combined_data.RDS.
+#
+# For temporary exploratory work only, retain one row per
+# checklist_id as he suggested.
+#
+# THE FINAL ANALYSIS MUST BE RERUN WITH HIS CLEANED RDS.
+# ------------------------------------------------------------
+
+if (
+  nrow(duplicate_checklists) > 0 &&
+  TEMPORARY_DEDUPLICATE
+) {
   
-  print(
-    head(
-      duplicate_checklists,
-      20
-    )
+  cat(
+    "\nNOTE: Temporarily retaining one row per checklist_id.\n"
   )
+  
+  cat(
+    "Final analyses must be rerun with the corrected RDS.\n"
+  )
+  
+  
+  analysis_base <- combined_data %>%
+    distinct(
+      checklist_id,
+      .keep_all = TRUE
+    )
+  
+  
+} else {
+  
+  analysis_base <- combined_data
 }
 
 
+cat(
+  "\nRows after duplicate handling: ",
+  nrow(analysis_base),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "Unique checklist IDs after duplicate handling: ",
+  n_distinct(
+    analysis_base$checklist_id
+  ),
+  "\n",
+  sep = ""
+)
+
+
 # ------------------------------------------------------------
-# 7. Examine checklist protocols
+# 9. Examine checklist protocols
 # ------------------------------------------------------------
 
-combined_data %>%
+cat("\n============================================================\n")
+cat("PROTOCOL STRUCTURE\n")
+cat("============================================================\n\n")
+
+
+protocol_summary <- analysis_base %>%
   count(
     protocol_name,
     sort = TRUE
   )
 
 
+print(
+  protocol_summary,
+  n = Inf
+)
+
+
 # ------------------------------------------------------------
-# 8. Examine effort variables by protocol
+# 10. Examine effort variables by protocol
 # ------------------------------------------------------------
 
-combined_data %>%
+effort_by_protocol <- analysis_base %>%
   group_by(
     protocol_name
   ) %>%
@@ -157,22 +322,30 @@ combined_data %>%
   )
 
 
+print(
+  effort_by_protocol,
+  n = Inf
+)
+
+
 # ------------------------------------------------------------
-# 9. Create analysis dataframe
+# 11. Apply basic analysis filters
 # ------------------------------------------------------------
-#
-# Stationary checklists have zero distance traveled.
 #
 # Retain:
+#
 #   Stationary
 #   Traveling
 #
-# Effort filters:
+# Stationary checklist distance is set to zero.
+#
+# Effort restrictions:
+#
 #   duration <= 300 minutes
 #   distance <= 5 km
 # ------------------------------------------------------------
 
-dryland_data <- combined_data %>%
+dryland_data <- analysis_base %>%
   mutate(
     effort_distance_km =
       if_else(
@@ -194,10 +367,15 @@ dryland_data <- combined_data %>%
 
 
 # ------------------------------------------------------------
-# 10. Check analysis dataset
+# 12. Check filtered analysis dataset
 # ------------------------------------------------------------
 
-dryland_data %>%
+cat("\n============================================================\n")
+cat("EFFORT-FILTERED DATA\n")
+cat("============================================================\n\n")
+
+
+filtered_structure <- dryland_data %>%
   summarise(
     n_checklists = n(),
     n_unique_checklists = n_distinct(checklist_id),
@@ -219,55 +397,60 @@ dryland_data %>%
   )
 
 
+print(filtered_structure)
+
+
+cat("\nProtocol counts after filtering:\n")
+
+
 dryland_data %>%
   count(
     protocol_name,
     sort = TRUE
-  )
+  ) %>%
+  print()
 
 
 # ------------------------------------------------------------
-# 11. Quantify filtering
+# 13. Quantify filtering
 # ------------------------------------------------------------
 
 filter_summary <- data.frame(
   stage = c(
-    "combined_data",
-    "analysis_data"
+    "Raw combined data",
+    "After duplicate handling",
+    "After protocol/effort filters"
   ),
   
-  n_checklists = c(
+  n_rows = c(
     nrow(combined_data),
+    nrow(analysis_base),
     nrow(dryland_data)
   ),
   
   n_localities = c(
     n_distinct(combined_data$locality_id),
+    n_distinct(analysis_base$locality_id),
     n_distinct(dryland_data$locality_id)
   ),
   
   n_cities = c(
     n_distinct(combined_data$NAME10),
+    n_distinct(analysis_base$NAME10),
     n_distinct(dryland_data$NAME10)
   )
 )
 
 
-filter_summary
-
-
-cat(
-  "\nRows removed by protocol/effort filters:",
-  nrow(combined_data) - nrow(dryland_data),
-  "\n"
-)
+cat("\nFiltering summary:\n")
+print(filter_summary)
 
 
 # ------------------------------------------------------------
-# 12. Examine missing data in analysis variables
+# 14. Missingness in analysis variables
 # ------------------------------------------------------------
 
-model_variables <- c(
+analysis_variables <- c(
   "sr",
   "FRic",
   "FDis",
@@ -278,36 +461,20 @@ model_variables <- c(
   "built",
   "duration_minutes",
   "effort_distance_km",
+  "protocol_name",
   "locality_id",
   "NAME10"
 )
 
 
-missing_variables <- setdiff(
-  model_variables,
-  names(dryland_data)
-)
-
-
-if (length(missing_variables) > 0) {
-  
-  stop(
-    "The combined dataset is missing required variables:\n",
-    paste(
-      missing_variables,
-      collapse = "\n"
-    )
-  )
-}
-
-
 missing_data <- data.frame(
-  variable = model_variables,
+  variable =
+    analysis_variables,
   
   missing_n =
     sapply(
       dryland_data[
-        model_variables
+        analysis_variables
       ],
       function(x) {
         sum(
@@ -324,11 +491,16 @@ missing_data$missing_percent <-
   nrow(dryland_data)
 
 
-missing_data
+cat("\n============================================================\n")
+cat("MISSING DATA\n")
+cat("============================================================\n\n")
+
+
+print(missing_data)
 
 
 # ------------------------------------------------------------
-# 13. Richness-model complete-case check
+# 15. Species-richness complete-case check
 # ------------------------------------------------------------
 
 sr_model_variables <- c(
@@ -352,100 +524,56 @@ sr_complete <- complete.cases(
 )
 
 
+cat("\n============================================================\n")
+cat("RICHNESS COMPLETE-CASE QC\n")
+cat("============================================================\n\n")
+
+
 cat(
-  "\nSpecies-richness rows before complete-case check:",
+  "Rows before complete-case restriction: ",
   nrow(dryland_data),
-  "\n"
+  "\n",
+  sep = ""
 )
 
 
 cat(
-  "Complete richness-model rows:",
+  "Complete richness-model rows: ",
   sum(sr_complete),
-  "\n"
+  "\n",
+  sep = ""
 )
 
 
 cat(
-  "Rows missing >=1 richness-model variable:",
+  "Rows missing >=1 richness variable: ",
   sum(!sr_complete),
-  "\n"
+  "\n",
+  sep = ""
 )
 
 
 cat(
-  "Percent retained:",
+  "Percent retained: ",
   round(
     100 *
       mean(sr_complete),
     2
   ),
-  "%\n"
+  "%\n",
+  sep = ""
 )
 
 
 # ------------------------------------------------------------
-# 14. Examine missing functional diversity values
+# 16. Check aridity consistency within cities
+# ------------------------------------------------------------
+#
+# Aridity is a city-level predictor.
+# Each city should therefore have one aridity value.
 # ------------------------------------------------------------
 
-dryland_data %>%
-  group_by(
-    FRic_missing =
-      is.na(FRic)
-  ) %>%
-  summarise(
-    n = n(),
-    
-    min_sr =
-      min(
-        sr,
-        na.rm = TRUE
-      ),
-    
-    median_sr =
-      median(
-        sr,
-        na.rm = TRUE
-      ),
-    
-    mean_sr =
-      mean(
-        sr,
-        na.rm = TRUE
-      ),
-    
-    max_sr =
-      max(
-        sr,
-        na.rm = TRUE
-      ),
-    
-    .groups = "drop"
-  )
-
-
-# ------------------------------------------------------------
-# 15. Compare FRic and FEve missing values
-# ------------------------------------------------------------
-
-table(
-  FRic_missing =
-    is.na(
-      dryland_data$FRic
-    ),
-  
-  FEve_missing =
-    is.na(
-      dryland_data$FEve
-    )
-)
-
-
-# ------------------------------------------------------------
-# 16. Examine aridity variation within cities
-# ------------------------------------------------------------
-
-dryland_data %>%
+aridity_consistency <- dryland_data %>%
   group_by(
     NAME10
   ) %>%
@@ -457,14 +585,28 @@ dryland_data %>%
       ),
     
     .groups = "drop"
-  ) %>%
-  count(
-    n_aridity_values
   )
 
 
+cat("\n============================================================\n")
+cat("CITY-LEVEL ARIDITY QC\n")
+cat("============================================================\n\n")
+
+
+print(
+  aridity_consistency %>%
+    count(
+      n_aridity_values
+    )
+)
+
+
 # ------------------------------------------------------------
-# 17. Examine habitat variation within localities
+# 17. Check habitat consistency within localities
+# ------------------------------------------------------------
+#
+# Water, shrub/scrub, and built cover are locality-level
+# predictors.
 # ------------------------------------------------------------
 
 habitat_consistency <- dryland_data %>%
@@ -494,43 +636,454 @@ habitat_consistency <- dryland_data %>%
   )
 
 
-habitat_consistency %>%
+habitat_consistency_summary <- habitat_consistency %>%
   summarise(
-    localities_with_multiple_water_values =
+    multiple_water =
       sum(
         n_water_values > 1
       ),
     
-    localities_with_multiple_shrub_values =
+    multiple_shrub =
       sum(
         n_shrub_values > 1
       ),
     
-    localities_with_multiple_built_values =
+    multiple_built =
       sum(
         n_built_values > 1
       )
   )
 
 
+cat("\n============================================================\n")
+cat("LOCALITY HABITAT QC\n")
+cat("============================================================\n\n")
+
+
+print(
+  habitat_consistency_summary
+)
+
+
 # ------------------------------------------------------------
-# 18. Examine sampling structure within cities
+# 18. Confirm locality-city nesting
 # ------------------------------------------------------------
 
-dryland_data %>%
+locality_city_nesting <- dryland_data %>%
+  group_by(
+    locality_id
+  ) %>%
+  summarise(
+    n_cities =
+      n_distinct(
+        NAME10
+      ),
+    
+    .groups = "drop"
+  )
+
+
+cat("\n============================================================\n")
+cat("LOCALITY-CITY NESTING\n")
+cat("============================================================\n\n")
+
+
+print(
+  locality_city_nesting %>%
+    count(
+      n_cities
+    )
+)
+
+
+# ------------------------------------------------------------
+# 19. Land-cover total QC
+# ------------------------------------------------------------
+
+landcover_variables <- c(
+  "bare",
+  "built",
+  "crops",
+  "flooded_vegetation",
+  "grass",
+  "shrub_and_scrub",
+  "snow_and_ice",
+  "trees",
+  "water"
+)
+
+
+missing_landcover_columns <- setdiff(
+  landcover_variables,
+  names(dryland_data)
+)
+
+
+if (
+  length(
+    missing_landcover_columns
+  ) > 0
+) {
+  
+  stop(
+    "Missing land-cover variables:\n",
+    paste(
+      missing_landcover_columns,
+      collapse = "\n"
+    )
+  )
+}
+
+
+landcover_complete <- dryland_data %>%
+  filter(
+    if_all(
+      all_of(
+        landcover_variables
+      ),
+      ~ !is.na(.)
+    )
+  ) %>%
+  mutate(
+    landcover_total =
+      bare +
+      built +
+      crops +
+      flooded_vegetation +
+      grass +
+      shrub_and_scrub +
+      snow_and_ice +
+      trees +
+      water
+  )
+
+
+landcover_total_qc <- landcover_complete %>%
+  summarise(
+    min_total =
+      min(landcover_total),
+    
+    median_total =
+      median(landcover_total),
+    
+    mean_total =
+      mean(landcover_total),
+    
+    max_total =
+      max(landcover_total)
+  )
+
+
+cat("\n============================================================\n")
+cat("LAND-COVER TOTAL QC\n")
+cat("============================================================\n\n")
+
+
+print(
+  landcover_total_qc
+)
+
+
+# ============================================================
+# SAMPLING-STRUCTURE ASSESSMENT
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 20. Number of checklists per locality
+# ------------------------------------------------------------
+
+locality_sampling <- dryland_data %>%
+  count(
+    NAME10,
+    locality_id,
+    name = "n_checklists"
+  )
+
+
+cat("\n============================================================\n")
+cat("CHECKLISTS PER LOCALITY\n")
+cat("============================================================\n\n")
+
+
+summary(
+  locality_sampling$n_checklists
+)
+
+
+quantile(
+  locality_sampling$n_checklists,
+  probs = c(
+    0,
+    0.25,
+    0.50,
+    0.75,
+    0.90,
+    0.95,
+    0.99,
+    1
+  )
+)
+
+
+# ------------------------------------------------------------
+# 21. Examine locality checklist thresholds
+# ------------------------------------------------------------
+
+locality_thresholds <- c(
+  1,
+  2,
+  3,
+  5,
+  10,
+  20
+)
+
+
+locality_threshold_summary <- lapply(
+  locality_thresholds,
+  function(x) {
+    
+    tmp <- locality_sampling %>%
+      filter(
+        n_checklists >= x
+      )
+    
+    
+    data.frame(
+      min_checklists_per_locality = x,
+      n_localities = nrow(tmp),
+      n_cities = n_distinct(tmp$NAME10)
+    )
+  }
+) %>%
+  bind_rows()
+
+
+cat("\n============================================================\n")
+cat("LOCALITY ELIGIBILITY THRESHOLDS\n")
+cat("============================================================\n\n")
+
+
+print(
+  locality_threshold_summary
+)
+
+
+# ------------------------------------------------------------
+# 22. Define eligible localities
+# ------------------------------------------------------------
+#
+# Jackson suggested restricting the analysis to localities with
+# at least 5 checklists.
+# ------------------------------------------------------------
+
+eligible_localities <- locality_sampling %>%
+  filter(
+    n_checklists >=
+      MIN_CHECKLISTS_PER_LOCALITY
+  )
+
+
+cat(
+  "\nEligible localities with >= ",
+  MIN_CHECKLISTS_PER_LOCALITY,
+  " checklists: ",
+  nrow(eligible_localities),
+  "\n",
+  sep = ""
+)
+
+
+# ------------------------------------------------------------
+# 23. Number of eligible localities per city
+# ------------------------------------------------------------
+
+city_eligibility <- eligible_localities %>%
+  count(
+    NAME10,
+    name = "n_eligible_localities"
+  )
+
+
+cat("\n============================================================\n")
+cat("ELIGIBLE LOCALITIES PER CITY\n")
+cat("============================================================\n\n")
+
+
+summary(
+  city_eligibility$n_eligible_localities
+)
+
+
+quantile(
+  city_eligibility$n_eligible_localities,
+  probs = c(
+    0,
+    0.25,
+    0.50,
+    0.75,
+    0.90,
+    0.95,
+    0.99,
+    1
+  )
+)
+
+
+# ------------------------------------------------------------
+# 24. Examine city-locality thresholds
+# ------------------------------------------------------------
+
+city_thresholds <- c(
+  1,
+  3,
+  5,
+  10,
+  20,
+  50
+)
+
+
+city_threshold_summary <- lapply(
+  city_thresholds,
+  function(x) {
+    
+    data.frame(
+      min_eligible_localities_per_city = x,
+      
+      n_cities =
+        sum(
+          city_eligibility$n_eligible_localities >= x
+        )
+    )
+  }
+) %>%
+  bind_rows()
+
+
+cat("\n============================================================\n")
+cat("CITY ELIGIBILITY THRESHOLDS\n")
+cat("============================================================\n\n")
+
+
+print(
+  city_threshold_summary
+)
+
+
+# ------------------------------------------------------------
+# 25. Define eligible cities
+# ------------------------------------------------------------
+#
+# Jackson suggested retaining cities with at least 5 eligible
+# locality IDs.
+# ------------------------------------------------------------
+
+eligible_cities <- city_eligibility %>%
+  filter(
+    n_eligible_localities >=
+      MIN_LOCALITIES_PER_CITY
+  )
+
+
+cat(
+  "\nEligible cities with >= ",
+  MIN_LOCALITIES_PER_CITY,
+  " eligible localities: ",
+  nrow(eligible_cities),
+  "\n",
+  sep = ""
+)
+
+
+# ------------------------------------------------------------
+# 26. Create the eligible analysis pool
+# ------------------------------------------------------------
+#
+# This is NOT the random subsample.
+#
+# This object contains all checklists belonging to:
+#
+#   - localities with >= 5 checklists
+#   - cities with >= 5 eligible localities
+#
+# Script 02 will sample from this pool.
+# ------------------------------------------------------------
+
+eligible_pool <- dryland_data %>%
+  semi_join(
+    eligible_localities,
+    by = c(
+      "NAME10",
+      "locality_id"
+    )
+  ) %>%
+  semi_join(
+    eligible_cities,
+    by = "NAME10"
+  )
+
+
+cat("\n============================================================\n")
+cat("ELIGIBLE ANALYSIS POOL\n")
+cat("============================================================\n\n")
+
+
+eligible_pool_summary <- eligible_pool %>%
+  summarise(
+    n_checklists = n(),
+    n_localities = n_distinct(locality_id),
+    n_cities = n_distinct(NAME10),
+    n_states = n_distinct(state_name)
+  )
+
+
+print(
+  eligible_pool_summary
+)
+
+
+# ------------------------------------------------------------
+# 27. Eligible sampling imbalance among cities
+# ------------------------------------------------------------
+
+eligible_city_structure <- eligible_pool %>%
   group_by(
     NAME10
   ) %>%
   summarise(
-    n_localities =
-      n_distinct(locality_id),
-    
     n_checklists =
       n(),
     
+    n_localities =
+      n_distinct(
+        locality_id
+      ),
+    
     .groups = "drop"
-  ) %>%
+  )
+
+
+cat("\n============================================================\n")
+cat("ELIGIBLE CITY SAMPLING STRUCTURE\n")
+cat("============================================================\n\n")
+
+
+eligible_city_structure %>%
   summarise(
+    min_checklists =
+      min(n_checklists),
+    
+    median_checklists =
+      median(n_checklists),
+    
+    mean_checklists =
+      mean(n_checklists),
+    
+    max_checklists =
+      max(n_checklists),
+    
     min_localities =
       min(n_localities),
     
@@ -541,54 +1094,151 @@ dryland_data %>%
       mean(n_localities),
     
     max_localities =
-      max(n_localities),
-    
-    min_checklists =
-      min(n_checklists),
-    
-    median_checklists =
-      median(n_checklists),
-    
-    mean_checklists =
-      mean(n_checklists),
-    
-    max_checklists =
-      max(n_checklists)
+      max(n_localities)
+  ) %>%
+  print()
+
+
+# ------------------------------------------------------------
+# 28. Compare potential sampling designs
+# ------------------------------------------------------------
+#
+# Jackson's suggested approach:
+#
+#   Sample 5 checklists from every eligible locality.
+#
+# Alternative fully balanced design:
+#
+#   Sample 5 eligible localities from each eligible city,
+#   then sample 5 checklists from each locality.
+#
+# No random sampling is performed here.
+# ------------------------------------------------------------
+
+eligible_localities_final <- eligible_localities %>%
+  semi_join(
+    eligible_cities,
+    by = "NAME10"
   )
 
 
-# ------------------------------------------------------------
-# 19. Examine sampling structure within localities
-# ------------------------------------------------------------
-
-dryland_data %>%
-  group_by(
-    locality_id
-  ) %>%
-  summarise(
-    n_checklists =
-      n(),
+sampling_design_summary <- data.frame(
+  design = c(
+    "All eligible data",
+    "5 checklists per eligible locality",
+    "5 localities per city x 5 checklists"
+  ),
+  
+  expected_checklists = c(
+    nrow(eligible_pool),
     
-    .groups = "drop"
-  ) %>%
-  summarise(
-    min_checklists =
-      min(n_checklists),
+    5 *
+      nrow(
+        eligible_localities_final
+      ),
     
-    median_checklists =
-      median(n_checklists),
-    
-    mean_checklists =
-      mean(n_checklists),
-    
-    max_checklists =
-      max(n_checklists)
+    5 *
+      5 *
+      nrow(
+        eligible_cities
+      )
   )
+)
+
+
+cat("\n============================================================\n")
+cat("POTENTIAL SAMPLING DESIGNS\n")
+cat("============================================================\n\n")
+
+
+print(
+  sampling_design_summary
+)
 
 
 # ------------------------------------------------------------
-# 20. Examine response-variable distributions
+# 29. Check whether observation date is available
 # ------------------------------------------------------------
+#
+# Jackson also suggested examining seasonality.
+#
+# We will not define breeding/non-breeding seasons yet.
+# First determine whether observation_date is available in
+# combined_data.RDS.
+# ------------------------------------------------------------
+
+cat("\n============================================================\n")
+cat("SEASONALITY DATA AVAILABILITY\n")
+cat("============================================================\n\n")
+
+
+if (
+  "observation_date" %in%
+  names(dryland_data)
+) {
+  
+  cat(
+    "observation_date is available.\n"
+  )
+  
+  
+  dryland_data <- dryland_data %>%
+    mutate(
+      observation_date =
+        as.Date(
+          observation_date
+        ),
+      
+      month =
+        as.integer(
+          format(
+            observation_date,
+            "%m"
+          )
+        )
+    )
+  
+  
+  monthly_sampling <- dryland_data %>%
+    count(
+      month
+    )
+  
+  
+  cat("\nChecklist counts by month:\n")
+  
+  print(
+    monthly_sampling
+  )
+  
+  
+} else {
+  
+  cat(
+    "observation_date is NOT present in combined_data.RDS.\n"
+  )
+  
+  cat(
+    "Breeding/non-breeding analyses cannot yet be evaluated ",
+    "from this object.\n",
+    sep = ""
+  )
+}
+
+
+# ============================================================
+# RESPONSE AND PREDICTOR INSPECTION
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 30. Response-variable distributions
+# ------------------------------------------------------------
+
+cat("\n============================================================\n")
+cat("RESPONSE DISTRIBUTIONS\n")
+cat("============================================================\n\n")
+
 
 summary(
   dryland_data$sr
@@ -632,11 +1282,121 @@ dryland_data %>%
         FEve == 0,
         na.rm = TRUE
       )
-  )
+  ) %>%
+  print()
 
 
 # ------------------------------------------------------------
-# 21. Examine zero functional dispersion values
+# 31. Species-richness distribution
+# ------------------------------------------------------------
+
+ggplot(
+  dryland_data,
+  aes(
+    x = sr
+  )
+) +
+  geom_histogram(
+    binwidth = 1
+  ) +
+  labs(
+    x = "Species richness",
+    y = "Number of checklists"
+  ) +
+  theme_classic()
+
+
+cat("\nSpecies richness mean:\n")
+
+print(
+  mean(
+    dryland_data$sr,
+    na.rm = TRUE
+  )
+)
+
+
+cat("\nSpecies richness variance:\n")
+
+print(
+  var(
+    dryland_data$sr,
+    na.rm = TRUE
+  )
+)
+
+
+cat("\nVariance / mean:\n")
+
+print(
+  var(
+    dryland_data$sr,
+    na.rm = TRUE
+  ) /
+    mean(
+      dryland_data$sr,
+      na.rm = TRUE
+    )
+)
+
+
+# ------------------------------------------------------------
+# 32. Functional diversity distributions
+# ------------------------------------------------------------
+
+ggplot(
+  dryland_data,
+  aes(
+    x = FRic
+  )
+) +
+  geom_histogram(
+    binwidth = 0.02,
+    na.rm = TRUE
+  ) +
+  labs(
+    x = "Functional richness",
+    y = "Number of checklists"
+  ) +
+  theme_classic()
+
+
+ggplot(
+  dryland_data,
+  aes(
+    x = FDis
+  )
+) +
+  geom_histogram(
+    binwidth = 0.01,
+    na.rm = TRUE
+  ) +
+  labs(
+    x = "Functional dispersion",
+    y = "Number of checklists"
+  ) +
+  theme_classic()
+
+
+ggplot(
+  dryland_data,
+  aes(
+    x = FEve
+  )
+) +
+  geom_histogram(
+    binwidth = 0.02,
+    na.rm = TRUE
+  ) +
+  labs(
+    x = "Functional evenness",
+    y = "Number of checklists"
+  ) +
+  theme_classic()
+
+
+# ------------------------------------------------------------
+# 33. FDis zero values
 # ------------------------------------------------------------
 
 dryland_data %>%
@@ -672,251 +1432,15 @@ dryland_data %>%
       ),
     
     .groups = "drop"
-  )
-
-
-# ------------------------------------------------------------
-# 22. Examine species-richness distribution
-# ------------------------------------------------------------
-
-ggplot(
-  dryland_data,
-  aes(
-    x = sr
-  )
-) +
-  geom_histogram(
-    binwidth = 1
-  ) +
-  labs(
-    x = "Species richness",
-    y = "Number of checklists"
-  ) +
-  theme_classic()
-
-
-# Preliminary overdispersion check
-
-mean(
-  dryland_data$sr,
-  na.rm = TRUE
-)
-
-
-var(
-  dryland_data$sr,
-  na.rm = TRUE
-)
-
-
-var(
-  dryland_data$sr,
-  na.rm = TRUE
-) /
-  mean(
-    dryland_data$sr,
-    na.rm = TRUE
-  )
-
-
-# ------------------------------------------------------------
-# 23. Examine functional richness distribution
-# ------------------------------------------------------------
-
-ggplot(
-  dryland_data,
-  aes(
-    x = FRic
-  )
-) +
-  geom_histogram(
-    binwidth = 0.02,
-    na.rm = TRUE
-  ) +
-  labs(
-    x = "Functional richness",
-    y = "Number of checklists"
-  ) +
-  theme_classic()
-
-
-summary(
-  dryland_data$FRic
-)
-
-
-# ------------------------------------------------------------
-# 24. Examine functional dispersion distribution
-# ------------------------------------------------------------
-
-ggplot(
-  dryland_data,
-  aes(
-    x = FDis
-  )
-) +
-  geom_histogram(
-    binwidth = 0.01,
-    na.rm = TRUE
-  ) +
-  labs(
-    x = "Functional dispersion",
-    y = "Number of checklists"
-  ) +
-  theme_classic()
-
-
-summary(
-  dryland_data$FDis
-)
-
-
-# ------------------------------------------------------------
-# 25. Examine functional evenness distribution
-# ------------------------------------------------------------
-
-ggplot(
-  dryland_data,
-  aes(
-    x = FEve
-  )
-) +
-  geom_histogram(
-    binwidth = 0.02,
-    na.rm = TRUE
-  ) +
-  labs(
-    x = "Functional evenness",
-    y = "Number of checklists"
-  ) +
-  theme_classic()
-
-
-summary(
-  dryland_data$FEve
-)
-
-
-# ------------------------------------------------------------
-# 26. Examine boundary values in functional evenness
-# ------------------------------------------------------------
-
-dryland_data %>%
-  summarise(
-    n_FEve_1 =
-      sum(
-        FEve == 1,
-        na.rm = TRUE
-      ),
-    
-    percent_FEve_1 =
-      100 *
-      sum(
-        FEve == 1,
-        na.rm = TRUE
-      ) /
-      sum(
-        !is.na(FEve)
-      )
-  )
-
-
-# ------------------------------------------------------------
-# 27. Examine total land-cover coverage
-# ------------------------------------------------------------
-
-landcover_variables <- c(
-  "bare",
-  "built",
-  "crops",
-  "flooded_vegetation",
-  "grass",
-  "shrub_and_scrub",
-  "snow_and_ice",
-  "trees",
-  "water"
-)
-
-
-missing_landcover_columns <- setdiff(
-  landcover_variables,
-  names(dryland_data)
-)
-
-
-if (
-  length(
-    missing_landcover_columns
-  ) > 0
-) {
-  
-  stop(
-    "Missing land-cover columns:\n",
-    paste(
-      missing_landcover_columns,
-      collapse = "\n"
-    )
-  )
-}
-
-
-landcover_complete <- dryland_data %>%
-  filter(
-    if_all(
-      all_of(
-        landcover_variables
-      ),
-      ~ !is.na(.)
-    )
   ) %>%
-  mutate(
-    landcover_total =
-      bare +
-      built +
-      crops +
-      flooded_vegetation +
-      grass +
-      shrub_and_scrub +
-      snow_and_ice +
-      trees +
-      water
-  )
-
-
-landcover_complete %>%
-  summarise(
-    n_complete =
-      n(),
-    
-    min_total =
-      min(landcover_total),
-    
-    median_total =
-      median(landcover_total),
-    
-    mean_total =
-      mean(landcover_total),
-    
-    max_total =
-      max(landcover_total)
-  )
+  print()
 
 
 # ------------------------------------------------------------
-# 28. Examine correlations among habitat predictors
-# ------------------------------------------------------------
-#
-# Correlations are calculated at the locality level rather than
-# the checklist level so heavily sampled localities do not
-# receive additional weight.
+# 34. Habitat correlations
 # ------------------------------------------------------------
 
 habitat_data <- dryland_data %>%
-  filter(
-    !is.na(water),
-    !is.na(shrub_and_scrub),
-    !is.na(built)
-  ) %>%
   distinct(
     locality_id,
     water,
@@ -935,119 +1459,56 @@ habitat_cor <- cor(
 )
 
 
-habitat_cor
+cat("\n============================================================\n")
+cat("HABITAT CORRELATIONS\n")
+cat("============================================================\n\n")
 
 
-# ------------------------------------------------------------
-# 29. Visualize habitat correlation matrix
-# ------------------------------------------------------------
-
-habitat_cor_df <- as.data.frame(
-  as.table(
-    habitat_cor
-  )
+print(
+  habitat_cor
 )
 
 
-ggplot(
-  habitat_cor_df,
-  aes(
-    x = Var1,
-    y = Var2,
-    fill = Freq
+# ------------------------------------------------------------
+# 35. Aridity / habitat correlations
+# ------------------------------------------------------------
+
+predictor_data <- dryland_data %>%
+  distinct(
+    locality_id,
+    avg_aridity_index,
+    water,
+    shrub_and_scrub,
+    built
   )
-) +
-  geom_tile(
-    color = "white"
-  ) +
-  geom_text(
-    aes(
-      label =
-        round(
-          Freq,
-          2
-        )
-    ),
-    size = 4
-  ) +
-  scale_fill_gradient2(
-    low = "steelblue",
-    mid = "white",
-    high = "firebrick",
-    midpoint = 0,
-    limits = c(-1, 1)
-  ) +
-  coord_equal() +
-  labs(
-    x = NULL,
-    y = NULL,
-    fill = "Correlation"
-  ) +
-  theme_classic()
+
+
+predictor_cor <- cor(
+  predictor_data %>%
+    select(
+      avg_aridity_index,
+      water,
+      shrub_and_scrub,
+      built
+    )
+)
+
+
+cat("\n============================================================\n")
+cat("ARIDITY / HABITAT CORRELATIONS\n")
+cat("============================================================\n\n")
+
+
+print(
+  predictor_cor
+)
 
 
 # ------------------------------------------------------------
-# 30. Examine habitat predictor distributions
-# ------------------------------------------------------------
-
-ggplot(
-  habitat_data,
-  aes(
-    x = water
-  )
-) +
-  geom_histogram(
-    binwidth = 0.05
-  ) +
-  labs(
-    x = "Proportion water",
-    y = "Number of localities"
-  ) +
-  theme_classic()
-
-
-ggplot(
-  habitat_data,
-  aes(
-    x = shrub_and_scrub
-  )
-) +
-  geom_histogram(
-    binwidth = 0.05
-  ) +
-  labs(
-    x = "Proportion shrub and scrub",
-    y = "Number of localities"
-  ) +
-  theme_classic()
-
-
-ggplot(
-  habitat_data,
-  aes(
-    x = built
-  )
-) +
-  geom_histogram(
-    binwidth = 0.05
-  ) +
-  labs(
-    x = "Proportion built",
-    y = "Number of localities"
-  ) +
-  theme_classic()
-
-
-# ------------------------------------------------------------
-# 31. Examine aridity distribution across cities
+# 36. Aridity distribution across cities
 # ------------------------------------------------------------
 
 aridity_city_data <- dryland_data %>%
-  filter(
-    !is.na(
-      avg_aridity_index
-    )
-  ) %>%
   distinct(
     NAME10,
     avg_aridity_index
@@ -1082,113 +1543,7 @@ summary(
 
 
 # ------------------------------------------------------------
-# 32. Examine relationships between aridity and habitat
-# ------------------------------------------------------------
-
-predictor_data <- dryland_data %>%
-  filter(
-    !is.na(avg_aridity_index),
-    !is.na(water),
-    !is.na(shrub_and_scrub),
-    !is.na(built)
-  ) %>%
-  distinct(
-    locality_id,
-    avg_aridity_index,
-    water,
-    shrub_and_scrub,
-    built
-  )
-
-
-predictor_cor <- cor(
-  predictor_data %>%
-    select(
-      avg_aridity_index,
-      water,
-      shrub_and_scrub,
-      built
-    )
-)
-
-
-predictor_cor
-
-
-# ------------------------------------------------------------
-# 33. Visualize predictor correlation matrix
-# ------------------------------------------------------------
-
-predictor_cor_df <- as.data.frame(
-  as.table(
-    predictor_cor
-  )
-)
-
-
-ggplot(
-  predictor_cor_df,
-  aes(
-    x = Var1,
-    y = Var2,
-    fill = Freq
-  )
-) +
-  geom_tile(
-    color = "white"
-  ) +
-  geom_text(
-    aes(
-      label =
-        round(
-          Freq,
-          2
-        )
-    ),
-    size = 4
-  ) +
-  scale_fill_gradient2(
-    low = "steelblue",
-    mid = "white",
-    high = "firebrick",
-    midpoint = 0,
-    limits = c(-1, 1)
-  ) +
-  scale_x_discrete(
-    labels = c(
-      avg_aridity_index =
-        "Aridity index",
-      water =
-        "Water",
-      shrub_and_scrub =
-        "Shrub and scrub",
-      built =
-        "Built"
-    )
-  ) +
-  scale_y_discrete(
-    labels = c(
-      avg_aridity_index =
-        "Aridity index",
-      water =
-        "Water",
-      shrub_and_scrub =
-        "Shrub and scrub",
-      built =
-        "Built"
-    )
-  ) +
-  coord_equal() +
-  labs(
-    x = NULL,
-    y = NULL,
-    fill = "Correlation"
-  ) +
-  theme_classic()
-
-
-# ------------------------------------------------------------
-# 34. Examine checklist duration
+# 37. Effort distributions
 # ------------------------------------------------------------
 
 ggplot(
@@ -1207,15 +1562,6 @@ ggplot(
   theme_classic()
 
 
-summary(
-  dryland_data$duration_minutes
-)
-
-
-# ------------------------------------------------------------
-# 35. Examine checklist distance traveled
-# ------------------------------------------------------------
-
 ggplot(
   dryland_data,
   aes(
@@ -1223,8 +1569,7 @@ ggplot(
   )
 ) +
   geom_histogram(
-    binwidth = 0.25,
-    na.rm = TRUE
+    binwidth = 0.25
   ) +
   labs(
     x = "Distance traveled (km)",
@@ -1233,183 +1578,8 @@ ggplot(
   theme_classic()
 
 
-summary(
-  dryland_data$effort_distance_km
-)
-
-
 # ------------------------------------------------------------
-# 36. Examine distance traveled by protocol
-# ------------------------------------------------------------
-
-dryland_data %>%
-  group_by(
-    protocol_name
-  ) %>%
-  summarise(
-    n =
-      n(),
-    
-    median_distance =
-      median(
-        effort_distance_km,
-        na.rm = TRUE
-      ),
-    
-    mean_distance =
-      mean(
-        effort_distance_km,
-        na.rm = TRUE
-      ),
-    
-    max_distance =
-      max(
-        effort_distance_km,
-        na.rm = TRUE
-      ),
-    
-    .groups = "drop"
-  )
-
-
-dryland_data %>%
-  filter(
-    protocol_name == "Traveling"
-  ) %>%
-  summarise(
-    min_distance =
-      min(
-        effort_distance_km,
-        na.rm = TRUE
-      ),
-    
-    q25_distance =
-      quantile(
-        effort_distance_km,
-        0.25,
-        na.rm = TRUE
-      ),
-    
-    median_distance =
-      median(
-        effort_distance_km,
-        na.rm = TRUE
-      ),
-    
-    q75_distance =
-      quantile(
-        effort_distance_km,
-        0.75,
-        na.rm = TRUE
-      ),
-    
-    q95_distance =
-      quantile(
-        effort_distance_km,
-        0.95,
-        na.rm = TRUE
-      ),
-    
-    q99_distance =
-      quantile(
-        effort_distance_km,
-        0.99,
-        na.rm = TRUE
-      ),
-    
-    max_distance =
-      max(
-        effort_distance_km,
-        na.rm = TRUE
-      )
-  )
-
-
-# ------------------------------------------------------------
-# 37. Examine long-distance Traveling checklists
-# ------------------------------------------------------------
-#
-# Use combined_data rather than dryland_data because
-# dryland_data has already been restricted to <= 5 km.
-# ------------------------------------------------------------
-
-combined_data %>%
-  filter(
-    protocol_name == "Traveling",
-    duration_minutes <= 300
-  ) %>%
-  summarise(
-    n_total =
-      n(),
-    
-    n_missing_distance =
-      sum(
-        is.na(effort_distance_km)
-      ),
-    
-    n_over_5km =
-      sum(
-        effort_distance_km > 5,
-        na.rm = TRUE
-      ),
-    
-    n_over_10km =
-      sum(
-        effort_distance_km > 10,
-        na.rm = TRUE
-      ),
-    
-    n_over_20km =
-      sum(
-        effort_distance_km > 20,
-        na.rm = TRUE
-      ),
-    
-    n_over_50km =
-      sum(
-        effort_distance_km > 50,
-        na.rm = TRUE
-      )
-  )
-
-
-# ------------------------------------------------------------
-# 38. Confirm locality-city nesting
-# ------------------------------------------------------------
-
-dryland_data %>%
-  group_by(
-    locality_id
-  ) %>%
-  summarise(
-    n_cities =
-      n_distinct(
-        NAME10
-      ),
-    
-    .groups = "drop"
-  ) %>%
-  count(
-    n_cities
-  )
-
-
-# ------------------------------------------------------------
-# 39. Examine number of observers
-# ------------------------------------------------------------
-
-table(
-  dryland_data$number_observers
-)
-
-
-summary(
-  dryland_data$number_observers
-)
-
-
-# ------------------------------------------------------------
-# 40. Final inspection summary
+# 38. Final inspection summary
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -1418,7 +1588,7 @@ cat("============================================================\n\n")
 
 
 cat(
-  "Combined rows:                     ",
+  "Raw rows:                          ",
   nrow(combined_data),
   "\n",
   sep = ""
@@ -1426,7 +1596,7 @@ cat(
 
 
 cat(
-  "Combined unique checklist IDs:     ",
+  "Raw unique checklist IDs:          ",
   n_distinct(
     combined_data$checklist_id
   ),
@@ -1436,7 +1606,7 @@ cat(
 
 
 cat(
-  "Duplicate checklist IDs:           ",
+  "Duplicate checklist IDs detected:  ",
   nrow(
     duplicate_checklists
   ),
@@ -1446,16 +1616,40 @@ cat(
 
 
 cat(
-  "Rows after protocol/effort filters:",
-  nrow(dryland_data),
+  "Rows after effort filters:         ",
+  nrow(
+    dryland_data
+  ),
   "\n",
   sep = ""
 )
 
 
 cat(
-  "Richness complete-case rows:       ",
-  sum(sr_complete),
+  "Eligible analysis-pool rows:       ",
+  nrow(
+    eligible_pool
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "Eligible localities:               ",
+  n_distinct(
+    eligible_pool$locality_id
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "Eligible cities:                   ",
+  n_distinct(
+    eligible_pool$NAME10
+  ),
   "\n",
   sep = ""
 )
@@ -1465,7 +1659,9 @@ cat(
   "Richness complete-case retention:  ",
   round(
     100 *
-      mean(sr_complete),
+      mean(
+        sr_complete
+      ),
     2
   ),
   "%\n",
@@ -1473,24 +1669,37 @@ cat(
 )
 
 
-cat(
-  "Cities after effort filtering:     ",
-  n_distinct(
-    dryland_data$NAME10
-  ),
-  "\n",
-  sep = ""
-)
-
-
-cat(
-  "Localities after effort filtering: ",
-  n_distinct(
-    dryland_data$locality_id
-  ),
-  "\n",
-  sep = ""
-)
-
-
 cat("\n")
+
+
+# ------------------------------------------------------------
+# 39. Important note for downstream modeling
+# ------------------------------------------------------------
+
+cat("============================================================\n")
+cat("NEXT STEP\n")
+cat("============================================================\n\n")
+
+
+cat(
+  "Script 02 should draw a reproducible random subsample from\n",
+  "eligible_pool using the sampling design selected after\n",
+  "reviewing the summaries above.\n",
+  sep = ""
+)
+
+
+if (
+  nrow(
+    duplicate_checklists
+  ) > 0
+) {
+  
+  cat(
+    "\nWARNING:\n",
+    "This run used temporary checklist deduplication.\n",
+    "All final models must be rerun using Jackson's corrected\n",
+    "combined_data.RDS once it becomes available.\n",
+    sep = ""
+  )
+}
