@@ -342,7 +342,7 @@ tsv_files <- list.files(
   full.names = TRUE
 )
 
-for (file in tsv_files[509:647]) {
+for (file in tsv_files) {
   
   process_city(
     tsv_file = file,
@@ -396,15 +396,25 @@ combined_data_filt <- combined_data %>%
 
 saveRDS(combined_data_filt, "Intermediate_data/dfs_for_analysis_combined/combined_data_filt.RDS")
 
+combined_df <- readRDS("Intermediate_data/dfs_for_analysis_combined/combined_data.RDS")
 
 
 
 
+
+
+
+
+
+
+
+
+###### SINGLE CITY QAQC #######
 ## Code to check a single city for the broken name issue with AVONET ##
 
 
 
-bird_dat <- read_tsv("Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_2311_california_san_diego.tsv") %>%
+bird_dat <- read_tsv("Data/Processed/eBird/Observations_By_City_With_Checklist_Metadata/city_0012_oklahoma_ada.tsv") %>%
   select(-locality.y, -locality_id.y, -observation_date.y) %>%
   rename(
     locality = locality.x,

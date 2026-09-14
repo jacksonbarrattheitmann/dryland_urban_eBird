@@ -21,8 +21,6 @@ s <- s %>%
 # saving an RDS of the new combined file
 saveRDS(s, file = "Intermediate_data/GEE_land_cover/gee_land_cover_combined.RDS")
 
-gee_land_cover <- readRDS("Intermediate_data/GEE_land_cover/gee_land_cover_combined1.RDS")
-
 ### creating a list of the missed localities
 file_list <- list.files(path = "Intermediate_data/GEE_land_cover/missed_localities/", pattern = "\\.csv", full.names = TRUE)
 r <- lapply(file_list, read.csv)
@@ -34,11 +32,8 @@ s <- s %>%
   select(-.geo, -system.index, -batch, -new_batch) %>%
   rename(LOCALITY_ID = lclty_d)
 
-## combine these two, and then figure out what
-## we're still missing from GEE
-
-full <- gee_land_cover %>%
-  rbind(s)
+# saving an RDS of the new combined file
+saveRDS(s, file = "Intermediate_data/GEE_land_cover/gee_land_cover_missed_localties.RDS")
 
 
 ## Read in the second batch of missed localities in GEE
@@ -52,17 +47,34 @@ s <- s %>%
   select(-.geo, -system.index, -batch, -new_batch, -new_batch2) %>%
   rename(LOCALITY_ID = lclty_d)
 
+# saving an RDS of the new combined file
+saveRDS(s, file = "Intermediate_data/GEE_land_cover/gee_land_cover_missed_localties2.RDS")
+
+
+### Now read in all 3 RDS files
+gee_land_cover <- readRDS("Intermediate_data/GEE_land_cover/gee_land_cover_combined.RDS")
+
+gee_land_cover2 <- readRDS("Intermediate_data/GEE_land_cover/gee_land_cover_missed_localties.RDS")
+
+gee_land_cover3 <- readRDS("Intermediate_data/GEE_land_cover/gee_land_cover_missed_localties2.RDS")
+
 ### Now append this to the 'full' df
 
-full <- full %>%
-  rbind(s)
+full <- gee_land_cover %>%
+  rbind(gee_land_cover2) %>%
+  rbind(gee_land_cover3)
 
+## doing a quick check to make sure this looks right
+check <- full %>%
+  summarise(n_distinct(LOCALITY_ID))
+
+## remove any duplicated LOCALITY_ID rows from running the GEE code a million times
+full_filt <- full %>%
+  distinct(LOCALITY_ID, .keep_all = TRUE)
 
 ## now save this as the final GEE data frame
 
-saveRDS(full, "Intermediate_data/GEE_land_cover/full_gee_combined.RDS")
-
-
+saveRDS(full_filt, "Intermediate_data/GEE_land_cover/full_gee_combined.RDS")
 
 ## CODE WE HAD TO USE TO GRAB THE MISSING LOCALITY_IDs##
 
