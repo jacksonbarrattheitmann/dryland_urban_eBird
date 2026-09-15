@@ -47,24 +47,47 @@
 # a priori ecological hypotheses and allow direct comparison
 # among biodiversity responses.
 #
-# Figures:
+# Publication / meeting outputs:
 #
-#   - CWM body-mass response distribution
+#   Outputs/
+#     06_CWM_Body_Mass/
+#       Figure/
+#         Figure_06_Main_Data_Trends.png
+#         Figure_06_Main_Data_Trends.pdf
 #
-#   Observed/descriptive:
-#     - CWM body mass vs aridity
-#     - CWM body mass vs water cover
-#     - CWM body mass vs shrub/scrub cover
-#     - CWM body mass vs built cover
+#       Table/
+#         Table_06_Main_Model_Results.csv
 #
-#   Adjusted/model-based:
-#     - Predicted CWM body mass vs aridity
-#     - Predicted CWM body mass vs water cover
-#     - Predicted CWM body mass vs shrub/scrub cover
-#     - Predicted CWM body mass vs built cover
+#       Data/
+#         CWM_Body_Mass_Manuscript_Input.rds
 #
-# Observed and predicted relationships are intentionally shown
-# in completely separate figures.
+# Main figure:
+#
+#   A. Aridity vs mean CWM body mass
+#   B. Water cover vs mean CWM body mass
+#   C. Shrub/scrub cover vs mean CWM body mass
+#   D. Built cover vs mean CWM body mass
+#
+# Aridity is plotted at the city level because aridity is a
+# city-level predictor.
+#
+# Habitat variables are plotted at the locality level because
+# water, shrub/scrub, and built cover are locality-level
+# predictors.
+#
+# Panels B-D color locality points by the percentile rank of
+# the continuous city-level aridity index:
+#   warmer colors = more arid
+#   cooler colors = less arid
+#
+# Percentile rank is used only for visualization so the full
+# warm-to-cool color range is represented across the observed
+# data. The statistical model continues to use the original
+# continuous aridity index.
+#
+# Figure smooths are descriptive and unadjusted.
+# Statistical inference comes from the full Gamma BAM and is
+# summarized in Table 06.
 #
 # Canonical input:
 #
@@ -80,6 +103,7 @@
 library(dplyr)
 library(ggplot2)
 library(mgcv)
+library(ggpubr)
 
 
 # ------------------------------------------------------------
@@ -105,13 +129,45 @@ K_CHECK_SEED <- 20260912
 TEMPORARY_DEDUPLICATE <- TRUE
 
 
-# Change to TRUE only when ready to save final figures.
+# ------------------------------------------------------------
+# 3. Output directories
+# ------------------------------------------------------------
 
-SAVE_FIGURES <- FALSE
+OUTPUT_ROOT <- file.path(
+  "Outputs",
+  "06_CWM_Body_Mass"
+)
+
+FIGURE_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Figure"
+)
+
+TABLE_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Table"
+)
+
+DATA_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Data"
+)
+
+for (x in c(
+  FIGURE_DIR,
+  TABLE_DIR,
+  DATA_DIR
+)) {
+  dir.create(
+    x,
+    recursive = TRUE,
+    showWarnings = FALSE
+  )
+}
 
 
 # ------------------------------------------------------------
-# 3. Load combined dataset
+# 4. Load combined dataset
 # ------------------------------------------------------------
 
 data_path <- file.path(
@@ -1867,92 +1923,103 @@ plot(
 
 
 # ============================================================
-# PUBLICATION-STYLE FIGURES
+# MAIN PUBLICATION / MEETING FIGURE
 # ============================================================
 #
-# OBSERVED figures:
+# Descriptive empirical trends are shown for the four focal
+# ecological predictors.
 #
-#   Actual checklist-level CWM body-mass observations plus a
-#   descriptive, unadjusted single-predictor Gamma GAM.
+# Panel A:
+#   one point per city.
 #
-# PREDICTED figures:
+# Panels B-D:
+#   one point per locality, colored by city-level aridity.
 #
-#   Population-level predictions from the final multivariable
-#   Gamma BAM, with other predictors held at representative
-#   values and city/locality random effects excluded.
+# Warm colors represent more-arid cities.
+# Cool colors represent less-arid cities.
 #
-# Observed and predicted figures are intentionally kept
-# completely separate.
+# Smooths are descriptive and unadjusted.
+# Statistical inference is based on the final Gamma BAM and is
+# reported in Table 06.
 #
 # ============================================================
 
 
 # ------------------------------------------------------------
-# 44. Response-distribution figure
+# 44. Create empirical trend datasets
 # ------------------------------------------------------------
 
-fig_mass_distribution <- ggplot(
-  mass_data,
-  aes(
-    x = CWM.Mass
-  )
-) +
-  geom_histogram(
-    bins = 40,
-    linewidth = 0.25
-  ) +
-  labs(
-    x = "Community-weighted mean body mass",
-    y = "Number of checklists"
-  ) +
-  theme_classic(
-    base_size = 12
-  )
-
-
-print(
-  fig_mass_distribution
-)
-
-
-# ------------------------------------------------------------
-# 45. Log-scaled response-distribution figure
-# ------------------------------------------------------------
-
-fig_mass_distribution_logx <- ggplot(
-  mass_data,
-  aes(
-    x = CWM.Mass
-  )
-) +
-  geom_histogram(
-    bins = 40,
-    linewidth = 0.25
-  ) +
-  scale_x_log10() +
-  labs(
-    x = "Community-weighted mean body mass (log-scaled axis)",
-    y = "Number of checklists"
-  ) +
-  theme_classic(
-    base_size = 12
+mass_city_plot <- mass_data %>%
+  group_by(
+    NAME10
+  ) %>%
+  summarise(
+    avg_aridity_index =
+      first(
+        avg_aridity_index
+      ),
+    
+    mean_mass =
+      mean(
+        CWM.Mass,
+        na.rm = TRUE
+      ),
+    
+    .groups = "drop"
   )
 
 
-print(
-  fig_mass_distribution_logx
-)
+mass_locality_plot <- mass_data %>%
+  group_by(
+    NAME10,
+    locality_id
+  ) %>%
+  summarise(
+    avg_aridity_index =
+      first(
+        avg_aridity_index
+      ),
+    
+    water =
+      first(
+        water
+      ),
+    
+    shrub_and_scrub =
+      first(
+        shrub_and_scrub
+      ),
+    
+    built =
+      first(
+        built
+      ),
+    
+    mean_mass =
+      mean(
+        CWM.Mass,
+        na.rm = TRUE
+      ),
+    
+    .groups = "drop"
+  ) %>%
+  mutate(
+    aridity_rank =
+      percent_rank(
+        avg_aridity_index
+      )
+  )
 
 
 # ------------------------------------------------------------
-# 46. Determine habitat scaling
+# 45. Convert habitat cover to percent
 # ------------------------------------------------------------
 
 maximum_habitat_value <- max(
   c(
-    mass_data$water,
-    mass_data$shrub_and_scrub,
-    mass_data$built
+    mass_locality_plot$water,
+    mass_locality_plot$shrub_and_scrub,
+    mass_locality_plot$built
   ),
   na.rm = TRUE
 )
@@ -1962,746 +2029,655 @@ if (
   maximum_habitat_value <= 1.05
 ) {
   
-  habitat_scale_factor <- 100
+  mass_locality_plot <- mass_locality_plot %>%
+    mutate(
+      water_plot =
+        water * 100,
+      
+      shrub_plot =
+        shrub_and_scrub * 100,
+      
+      built_plot =
+        built * 100
+    )
   
 } else {
   
-  habitat_scale_factor <- 1
-}
-
-
-# ============================================================
-# OBSERVED RELATIONSHIPS
-# ============================================================
-
-
-# ------------------------------------------------------------
-# 47. Helper for observed relationships
-# ------------------------------------------------------------
-#
-# Each figure contains:
-#
-#   - actual checklist-level CWM.Mass observations
-#   - an unadjusted single-predictor Gamma GAM
-#   - 95% confidence interval
-#
-# The trend is displayed over the central 90% of the focal
-# predictor distribution to reduce visual leverage from extreme
-# predictor values.
-#
-# These figures describe raw empirical relationships.
-# They are not adjusted effects from the final model.
-# ------------------------------------------------------------
-
-make_mass_observed <- function(
-    variable,
-    x_label,
-    scale_factor = 1
-) {
-  
-  observed_data <- data.frame(
-    x =
-      mass_data[[variable]] *
-      scale_factor,
-    
-    CWM.Mass =
-      mass_data$CWM.Mass
-  )
-  
-  
-  raw_formula <- as.formula(
-    paste0(
-      "CWM.Mass ~ s(",
-      variable,
-      ", k = 5)"
-    )
-  )
-  
-  
-  raw_model <- gam(
-    formula =
-      raw_formula,
-    
-    family =
-      Gamma(
-        link = "log"
-      ),
-    
-    data =
-      mass_data,
-    
-    method =
-      "REML"
-  )
-  
-  
-  x_limits <- quantile(
-    mass_data[[variable]],
-    probs = c(
-      0.05,
-      0.95
-    ),
-    na.rm = TRUE
-  )
-  
-  
-  x_sequence <- seq(
-    x_limits[1],
-    x_limits[2],
-    length.out = 200
-  )
-  
-  
-  prediction_data <- data.frame(
-    x_sequence
-  )
-  
-  
-  names(
-    prediction_data
-  ) <- variable
-  
-  
-  raw_prediction <- predict(
-    raw_model,
-    newdata =
-      prediction_data,
-    type = "link",
-    se.fit = TRUE
-  )
-  
-  
-  fit_link <- as.numeric(
-    raw_prediction$fit
-  )
-  
-  
-  se_link <- as.numeric(
-    raw_prediction$se.fit
-  )
-  
-  
-  link_inverse <-
-    raw_model$family$linkinv
-  
-  
-  trend_data <- data.frame(
-    x =
-      x_sequence *
-      scale_factor,
-    
-    fit =
-      link_inverse(
-        fit_link
-      ),
-    
-    lower =
-      link_inverse(
-        fit_link -
-          1.96 *
-          se_link
-      ),
-    
-    upper =
-      link_inverse(
-        fit_link +
-          1.96 *
-          se_link
-      )
-  )
-  
-  
-  ggplot() +
-    geom_point(
-      data =
-        observed_data,
-      aes(
-        x = x,
-        y = CWM.Mass
-      ),
-      alpha = 0.08,
-      size = 0.55
-    ) +
-    geom_ribbon(
-      data =
-        trend_data,
-      aes(
-        x = x,
-        ymin = lower,
-        ymax = upper
-      ),
-      fill = "grey80",
-      alpha = 0.7
-    ) +
-    geom_line(
-      data =
-        trend_data,
-      aes(
-        x = x,
-        y = fit
-      ),
-      linewidth = 0.9
-    ) +
-    coord_cartesian(
-      xlim =
-        x_limits *
-        scale_factor
-    ) +
-    labs(
-      x = x_label,
-      y = "Community-weighted mean body mass"
-    ) +
-    theme_classic(
-      base_size = 12
+  mass_locality_plot <- mass_locality_plot %>%
+    mutate(
+      water_plot =
+        water,
+      
+      shrub_plot =
+        shrub_and_scrub,
+      
+      built_plot =
+        built
     )
 }
 
 
 # ------------------------------------------------------------
-# 48. Observed body mass vs aridity
+# 46. Common figure settings
 # ------------------------------------------------------------
 
-fig_mass_aridity_observed <- make_mass_observed(
-  variable =
-    "avg_aridity_index",
-  
-  x_label =
-    "Aridity index (higher = less arid)"
-)
-
-
-print(
-  fig_mass_aridity_observed
-)
-
-
-# ------------------------------------------------------------
-# 49. Observed body mass vs water cover
-# ------------------------------------------------------------
-
-fig_mass_water_observed <- make_mass_observed(
-  variable =
-    "water",
-  
-  x_label =
-    "Water cover (%)",
-  
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_mass_water_observed
-)
-
-
-# ------------------------------------------------------------
-# 50. Observed body mass vs shrub/scrub cover
-# ------------------------------------------------------------
-
-fig_mass_shrub_observed <- make_mass_observed(
-  variable =
-    "shrub_and_scrub",
-  
-  x_label =
-    "Shrub and scrub cover (%)",
-  
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_mass_shrub_observed
-)
-
-
-# ------------------------------------------------------------
-# 51. Observed body mass vs built cover
-# ------------------------------------------------------------
-
-fig_mass_built_observed <- make_mass_observed(
-  variable =
-    "built",
-  
-  x_label =
-    "Built cover (%)",
-  
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_mass_built_observed
-)
-
-
-# ============================================================
-# MODEL-ADJUSTED RELATIONSHIPS
-# ============================================================
-
-
-# ------------------------------------------------------------
-# 52. Reference values for adjusted predictions
-# ------------------------------------------------------------
-
-reference_aridity <- median(
-  mass_data$avg_aridity_index,
+main_y_limits <- range(
+  c(
+    mass_city_plot$mean_mass,
+    mass_locality_plot$mean_mass
+  ),
   na.rm = TRUE
 )
 
 
-reference_duration <- median(
-  mass_data$duration_minutes,
-  na.rm = TRUE
+aridity_palette <- c(
+  "#7F0000",
+  "#B30000",
+  "#D7301F",
+  "#F46D43",
+  "#FDAE61",
+  "#FEE08B",
+  "#D9D9D9",
+  "#E0F3F8",
+  "#ABD9E9",
+  "#74ADD1",
+  "#4575B4",
+  "#313695"
 )
 
 
-reference_distance <- median(
-  mass_data$effort_distance_km,
-  na.rm = TRUE
-)
-
-
-reference_water <- median(
-  mass_data$water,
-  na.rm = TRUE
-)
-
-
-reference_shrub <- median(
-  mass_data$shrub_and_scrub,
-  na.rm = TRUE
-)
-
-
-reference_built <- median(
-  mass_data$built,
-  na.rm = TRUE
-)
-
-
-# ------------------------------------------------------------
-# 53. Helper for adjusted predictions
-# ------------------------------------------------------------
-#
-# Predictions and confidence intervals are calculated on the
-# Gamma log-link scale and transformed back to the original
-# CWM body-mass scale.
-#
-# Non-focal continuous predictors are held at their median.
-# Protocol is held at Stationary.
-#
-# City and locality random-effect smooths are excluded to
-# produce population-level relationships.
-# ------------------------------------------------------------
-
-make_mass_prediction <- function(
-    variable,
-    x_label,
-    scale_factor = 1
-) {
+theme_mass_main <- function() {
   
-  x_limits <- quantile(
-    mass_data[[variable]],
-    probs = c(
-      0.05,
-      0.95
-    ),
-    na.rm = TRUE
-  )
-  
-  
-  x_sequence <- seq(
-    x_limits[1],
-    x_limits[2],
-    length.out = 200
-  )
-  
-  
-  n_prediction <- length(
-    x_sequence
-  )
-  
-  
-  prediction_data <- data.frame(
-    avg_aridity_index =
-      rep(
-        reference_aridity,
-        n_prediction
-      ),
-    
-    water =
-      rep(
-        reference_water,
-        n_prediction
-      ),
-    
-    shrub_and_scrub =
-      rep(
-        reference_shrub,
-        n_prediction
-      ),
-    
-    built =
-      rep(
-        reference_built,
-        n_prediction
-      ),
-    
-    duration_minutes =
-      rep(
-        reference_duration,
-        n_prediction
-      ),
-    
-    effort_distance_km =
-      rep(
-        reference_distance,
-        n_prediction
-      )
-  )
-  
-  
-  prediction_data$protocol_name <- factor(
-    rep(
-      "Stationary",
-      n_prediction
-    ),
-    levels =
-      levels(
-        mass_data$protocol_name
-      )
-  )
-  
-  
-  prediction_data$NAME10 <- factor(
-    rep(
-      levels(
-        mass_data$NAME10
-      )[1],
-      n_prediction
-    ),
-    levels =
-      levels(
-        mass_data$NAME10
-      )
-  )
-  
-  
-  prediction_data$locality_id <- factor(
-    rep(
-      levels(
-        mass_data$locality_id
-      )[1],
-      n_prediction
-    ),
-    levels =
-      levels(
-        mass_data$locality_id
-      )
-  )
-  
-  
-  prediction_data[[variable]] <-
-    x_sequence
-  
-  
-  model_prediction <- predict(
-    mass_model_final,
-    newdata =
-      prediction_data,
-    type = "link",
-    se.fit = TRUE,
-    exclude = c(
-      "s(NAME10)",
-      "s(locality_id)"
-    )
-  )
-  
-  
-  fit_link <- as.numeric(
-    model_prediction$fit
-  )
-  
-  
-  se_link <- as.numeric(
-    model_prediction$se.fit
-  )
-  
-  
-  link_inverse <-
-    mass_model_final$family$linkinv
-  
-  
-  prediction_plot_data <- data.frame(
-    x =
-      x_sequence *
-      scale_factor,
-    
-    fit =
-      link_inverse(
-        fit_link
-      ),
-    
-    lower =
-      link_inverse(
-        fit_link -
-          1.96 *
-          se_link
-      ),
-    
-    upper =
-      link_inverse(
-        fit_link +
-          1.96 *
-          se_link
-      )
-  )
-  
-  
-  ggplot(
-    prediction_plot_data,
-    aes(
-      x = x,
-      y = fit
-    )
+  theme_classic(
+    base_size = 12
   ) +
-    geom_ribbon(
-      aes(
-        ymin = lower,
-        ymax = upper
-      ),
-      fill = "grey80",
-      alpha = 0.7
-    ) +
-    geom_line(
-      linewidth = 0.9
-    ) +
-    labs(
-      x = x_label,
-      y = "Predicted community-weighted mean body mass"
-    ) +
-    theme_classic(
-      base_size = 12
+    theme(
+      axis.text =
+        element_text(
+          colour = "black"
+        ),
+      
+      plot.title =
+        element_text(
+          face = "bold",
+          size = 12,
+          hjust = 0.5
+        )
     )
 }
 
 
+aridity_color_scale <- scale_color_gradientn(
+  colors = aridity_palette,
+  values = c(
+    0.00,
+    0.07,
+    0.15,
+    0.25,
+    0.36,
+    0.46,
+    0.50,
+    0.56,
+    0.66,
+    0.76,
+    0.88,
+    1.00
+  ),
+  limits = c(
+    0,
+    1
+  ),
+  breaks = c(
+    0,
+    0.5,
+    1
+  ),
+  labels = c(
+    "More arid",
+    "Intermediate",
+    "Less arid"
+  ),
+  name = "Aridity gradient"
+)
+
+
 # ------------------------------------------------------------
-# 54. Predicted body mass vs aridity
+# 47. Panel A: Aridity
 # ------------------------------------------------------------
 
-fig_mass_aridity_predicted <- make_mass_prediction(
-  variable =
-    "avg_aridity_index",
-  
-  x_label =
-    "Aridity index (higher = less arid)"
+fig_mass_aridity <- ggplot(
+  mass_city_plot,
+  aes(
+    x = avg_aridity_index,
+    y = mean_mass
+  )
+) +
+  geom_point(
+    alpha = 0.45,
+    size = 1.8
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Aridity index (higher = less arid)",
+    y = "Mean CWM body mass",
+    title = "Aridity"
+  ) +
+  theme_mass_main() +
+  theme(
+    legend.position = "none"
+  )
+
+
+# ------------------------------------------------------------
+# 48. Panel B: Water cover
+# ------------------------------------------------------------
+
+fig_mass_water <- ggplot(
+  mass_locality_plot,
+  aes(
+    x = water_plot,
+    y = mean_mass
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Water cover (%)",
+    y = "Mean CWM body mass",
+    title = "Water"
+  ) +
+  theme_mass_main()
+
+
+# ------------------------------------------------------------
+# 49. Panel C: Shrub and scrub cover
+# ------------------------------------------------------------
+
+fig_mass_shrub <- ggplot(
+  mass_locality_plot,
+  aes(
+    x = shrub_plot,
+    y = mean_mass
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Shrub and scrub cover (%)",
+    y = "Mean CWM body mass",
+    title = "Shrub and scrub"
+  ) +
+  theme_mass_main()
+
+
+# ------------------------------------------------------------
+# 50. Panel D: Built cover
+# ------------------------------------------------------------
+
+fig_mass_built <- ggplot(
+  mass_locality_plot,
+  aes(
+    x = built_plot,
+    y = mean_mass
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Built cover (%)",
+    y = "Mean CWM body mass",
+    title = "Built"
+  ) +
+  theme_mass_main()
+
+
+# ------------------------------------------------------------
+# 51. Combine four empirical panels
+# ------------------------------------------------------------
+
+figure_06_main <- ggpubr::ggarrange(
+  fig_mass_aridity,
+  fig_mass_water,
+  fig_mass_shrub,
+  fig_mass_built,
+  ncol = 2,
+  nrow = 2,
+  labels = c(
+    "A",
+    "B",
+    "C",
+    "D"
+  ),
+  font.label = list(
+    size = 14,
+    face = "bold"
+  ),
+  common.legend = TRUE,
+  legend = "bottom"
 )
 
 
 print(
-  fig_mass_aridity_predicted
+  figure_06_main
 )
 
 
 # ------------------------------------------------------------
-# 55. Predicted body mass vs water cover
+# 52. Save main figure
 # ------------------------------------------------------------
 
-fig_mass_water_predicted <- make_mass_prediction(
-  variable =
-    "water",
+ggsave(
+  filename =
+    file.path(
+      FIGURE_DIR,
+      "Figure_06_Main_Data_Trends.png"
+    ),
+  plot =
+    figure_06_main,
+  width = 10,
+  height = 8,
+  units = "in",
+  dpi = 600,
+  bg = "white"
+)
+
+
+ggsave(
+  filename =
+    file.path(
+      FIGURE_DIR,
+      "Figure_06_Main_Data_Trends.pdf"
+    ),
+  plot =
+    figure_06_main,
+  width = 10,
+  height = 8,
+  units = "in",
+  bg = "white"
+)
+
+
+# ============================================================
+# MAIN STATISTICAL TABLE
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 53. Focal ecological term labels
+# ------------------------------------------------------------
+
+focal_term_labels <- c(
+  "s(avg_aridity_index)" =
+    "Aridity",
   
-  x_label =
-    "Water cover (%)",
+  "s(water)" =
+    "Water cover",
   
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_mass_water_predicted
-)
-
-
-# ------------------------------------------------------------
-# 56. Predicted body mass vs shrub/scrub cover
-# ------------------------------------------------------------
-
-fig_mass_shrub_predicted <- make_mass_prediction(
-  variable =
-    "shrub_and_scrub",
+  "s(shrub_and_scrub)" =
+    "Shrub and scrub cover",
   
-  x_label =
-    "Shrub and scrub cover (%)",
+  "s(built)" =
+    "Built cover",
   
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_mass_shrub_predicted
-)
-
-
-# ------------------------------------------------------------
-# 57. Predicted body mass vs built cover
-# ------------------------------------------------------------
-
-fig_mass_built_predicted <- make_mass_prediction(
-  variable =
-    "built",
+  "ti(avg_aridity_index,water)" =
+    "Aridity x Water",
   
-  x_label =
-    "Built cover (%)",
+  "ti(avg_aridity_index,shrub_and_scrub)" =
+    "Aridity x Shrub and scrub",
   
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_mass_built_predicted
+  "ti(avg_aridity_index,built)" =
+    "Aridity x Built"
 )
 
 
 # ------------------------------------------------------------
-# 58. Optional figure saving
+# 54. P-value formatting helper
 # ------------------------------------------------------------
+
+format_p_value <- function(
+    p
+) {
+  
+  ifelse(
+    p < 0.001,
+    "<0.001",
+    sprintf(
+      "%.3f",
+      p
+    )
+  )
+}
+
+
+# ------------------------------------------------------------
+# 55. Build main model-results table
+# ------------------------------------------------------------
+
+table_06_main <- mass_smooth_results %>%
+  filter(
+    term %in%
+      names(
+        focal_term_labels
+      )
+  ) %>%
+  mutate(
+    term_order =
+      match(
+        term,
+        names(
+          focal_term_labels
+        )
+      ),
+    
+    Predictor =
+      unname(
+        focal_term_labels[
+          term
+        ]
+      ),
+    
+    EDF =
+      sprintf(
+        "%.2f",
+        edf
+      ),
+    
+    Reference_df =
+      sprintf(
+        "%.2f",
+        Ref.df
+      ),
+    
+    F_statistic =
+      sprintf(
+        "%.2f",
+        F
+      ),
+    
+    P_value =
+      format_p_value(
+        `p-value`
+      )
+  ) %>%
+  arrange(
+    term_order
+  ) %>%
+  select(
+    Predictor,
+    EDF,
+    Reference_df,
+    F_statistic,
+    P_value
+  )
+
+
+names(
+  table_06_main
+) <- c(
+  "Predictor",
+  "EDF",
+  "Ref. df",
+  "F statistic",
+  "P-value"
+)
+
 
 if (
-  SAVE_FIGURES
+  nrow(
+    table_06_main
+  ) !=
+  length(
+    focal_term_labels
+  )
 ) {
   
-  figure_directory <- file.path(
-    "Outputs",
-    "06_CWM_Body_Mass",
-    "Figures"
-  )
-  
-  
-  dir.create(
-    figure_directory,
-    recursive = TRUE,
-    showWarnings = FALSE
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Distribution.pdf"
-    ),
-    fig_mass_distribution,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Distribution_LogX.pdf"
-    ),
-    fig_mass_distribution_logx,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Aridity_Observed.pdf"
-    ),
-    fig_mass_aridity_observed,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Aridity_Predicted.pdf"
-    ),
-    fig_mass_aridity_predicted,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Water_Observed.pdf"
-    ),
-    fig_mass_water_observed,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Water_Predicted.pdf"
-    ),
-    fig_mass_water_predicted,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Shrub_Observed.pdf"
-    ),
-    fig_mass_shrub_observed,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Shrub_Predicted.pdf"
-    ),
-    fig_mass_shrub_predicted,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Built_Observed.pdf"
-    ),
-    fig_mass_built_observed,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    file.path(
-      figure_directory,
-      "CWM_Mass_Built_Predicted.pdf"
-    ),
-    fig_mass_built_predicted,
-    width = 5.5,
-    height = 4
+  stop(
+    "Table 06 does not contain all seven focal ecological terms."
   )
 }
+
+
+cat("\n============================================================\n")
+cat("TABLE 06 - MAIN MODEL RESULTS\n")
+cat("============================================================\n\n")
+
+
+print(
+  table_06_main,
+  row.names = FALSE
+)
+
+
+# ------------------------------------------------------------
+# 56. Save main statistical table
+# ------------------------------------------------------------
+
+write.csv(
+  table_06_main,
+  file =
+    file.path(
+      TABLE_DIR,
+      "Table_06_Main_Model_Results.csv"
+    ),
+  row.names = FALSE
+)
+
+
+# ============================================================
+# MANUSCRIPT-SYNTHESIS EXPORT
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 57. Build standardized manuscript-input bundle
+# ------------------------------------------------------------
+
+mass_model_metadata <- data.frame(
+  response_id =
+    "CWM_Body_Mass",
+  
+  response_label =
+    "Community-weighted mean body mass",
+  
+  response_variable =
+    "CWM.Mass",
+  
+  model_family =
+    "Gamma",
+  
+  link =
+    "log",
+  
+  n_cities =
+    n_distinct(
+      mass_data$NAME10
+    ),
+  
+  n_localities =
+    n_distinct(
+      mass_data$locality_id
+    ),
+  
+  n_checklists =
+    nrow(
+      mass_data
+    ),
+  
+  adjusted_R2 =
+    mass_summary$r.sq,
+  
+  deviance_explained =
+    mass_summary$dev.expl,
+  
+  family_parameter =
+    mass_summary$scale,
+  
+  family_parameter_name =
+    "scale",
+  
+  response_skewness =
+    mass_skewness,
+  
+  additive_AIC =
+    AIC(
+      mass_model_additive
+    ),
+  
+  final_AIC =
+    AIC(
+      mass_model_final
+    ),
+  
+  stringsAsFactors = FALSE
+)
+
+
+cwm_body_mass_manuscript_input <- list(
+  response_id =
+    "CWM_Body_Mass",
+  
+  response_label =
+    "Community-weighted mean body mass",
+  
+  response_variable =
+    "CWM.Mass",
+  
+  analysis_data =
+    mass_data,
+  
+  final_model =
+    mass_model_final,
+  
+  smooth_results =
+    mass_smooth_results,
+  
+  parametric_results =
+    mass_parametric_results,
+  
+  focal_results =
+    table_06_main,
+  
+  model_metadata =
+    mass_model_metadata,
+  
+  plot_data = list(
+    city =
+      mass_city_plot,
+    
+    locality =
+      mass_locality_plot
+  )
+)
+
+
+cwm_body_mass_manuscript_file <- file.path(
+  DATA_DIR,
+  "CWM_Body_Mass_Manuscript_Input.rds"
+)
+
+
+saveRDS(
+  cwm_body_mass_manuscript_input,
+  cwm_body_mass_manuscript_file
+)
+
+
+if (
+  !file.exists(
+    cwm_body_mass_manuscript_file
+  )
+) {
+  
+  stop(
+    "CWM body-mass manuscript-input RDS was not created."
+  )
+}
+
+
+cat("\n============================================================\n")
+cat("MANUSCRIPT-SYNTHESIS EXPORT\n")
+cat("============================================================\n\n")
+
+
+cat(
+  "Saved manuscript input:\n",
+  cwm_body_mass_manuscript_file,
+  "\n",
+  sep = ""
+)
 
 
 # ============================================================
@@ -2710,7 +2686,7 @@ if (
 
 
 # ------------------------------------------------------------
-# 59. Automated QC summary
+# 58. Automated QC summary
 # ------------------------------------------------------------
 
 qc_balanced_sample <-
@@ -2803,6 +2779,72 @@ cat(
   ),
   "\n",
   sep = ""
+)
+
+
+# ------------------------------------------------------------
+# 59. Output check
+# ------------------------------------------------------------
+
+expected_output_files <- c(
+  file.path(
+    FIGURE_DIR,
+    "Figure_06_Main_Data_Trends.png"
+  ),
+  
+  file.path(
+    FIGURE_DIR,
+    "Figure_06_Main_Data_Trends.pdf"
+  ),
+  
+  file.path(
+    TABLE_DIR,
+    "Table_06_Main_Model_Results.csv"
+  ),
+  
+  file.path(
+    DATA_DIR,
+    "CWM_Body_Mass_Manuscript_Input.rds"
+  )
+)
+
+
+output_check <- file.exists(
+  expected_output_files
+)
+
+
+cat("\n============================================================\n")
+cat("OUTPUT FILE CHECK\n")
+cat("============================================================\n\n")
+
+
+print(
+  data.frame(
+    file =
+      expected_output_files,
+    
+    exists =
+      output_check
+  ),
+  row.names = FALSE
+)
+
+
+if (
+  !all(
+    output_check
+  )
+) {
+  
+  stop(
+    "One or more expected Script 06 outputs were not created."
+  )
+}
+
+
+cat(
+  "\nPASS: All Script 06 outputs were created.\n"
 )
 
 
@@ -2934,6 +2976,36 @@ cat(
 )
 
 
+cat(
+  "\nPublication figure:\n",
+  file.path(
+    FIGURE_DIR,
+    "Figure_06_Main_Data_Trends.png"
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "\nPublication table:\n",
+  file.path(
+    TABLE_DIR,
+    "Table_06_Main_Model_Results.csv"
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "\nManuscript input:\n",
+  cwm_body_mass_manuscript_file,
+  "\n",
+  sep = ""
+)
+
+
 # ------------------------------------------------------------
 # 61. Overall interpretation
 # ------------------------------------------------------------
@@ -2987,6 +3059,24 @@ cat(
 # - Traveling checklists are associated with higher CWM body
 #   mass than Stationary checklists after accounting for habitat,
 #   effort, and hierarchical structure.
+#
+# Figure interpretation:
+#
+# - Panel A shows the city-level empirical aridity-body-mass
+#   relationship.
+#
+# - Panels B-D show locality-level habitat-body-mass
+#   relationships, with point color representing percentile
+#   rank along the continuous city-level aridity gradient.
+#
+# - Warm colors indicate more-arid cities and cool colors
+#   indicate less-arid cities. Percentile rank is used only for
+#   visualization; the BAM uses the original continuous aridity
+#   index.
+#
+# - The descriptive GAM lines are not the source of inferential
+#   tests; inference comes from the full Gamma BAM summarized in
+#   Table 06.
 #
 #  Overall, community-weighted mean body mass appears to respond
 #  primarily to local water cover rather than directly to the
