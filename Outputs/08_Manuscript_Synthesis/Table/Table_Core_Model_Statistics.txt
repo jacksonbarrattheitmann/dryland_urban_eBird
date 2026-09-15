@@ -1,0 +1,29 @@
+Response	Family	Predictor	EDF	Ref. df	F statistic	P-value
+Species richness	Negative binomial	Aridity	1.00	1.00	2.98	0.084
+Species richness	Negative binomial	Water cover	2.48	2.56	9.22	<0.001
+Species richness	Negative binomial	Shrub and scrub cover	3.46	3.52	4.12	0.005
+Species richness	Negative binomial	Built cover	2.58	2.67	3.47	0.019
+Species richness	Negative binomial	Aridity x Water	3.14	3.27	2.69	0.044
+Species richness	Negative binomial	Aridity x Shrub and scrub	3.03	3.10	3.77	0.013
+Species richness	Negative binomial	Aridity x Built	1.00	1.00	0.00	0.978
+Functional richness	Beta	Aridity	2.04	2.10	1.32	0.327
+Functional richness	Beta	Water cover	3.11	3.20	12.72	<0.001
+Functional richness	Beta	Shrub and scrub cover	1.00	1.00	3.39	0.066
+Functional richness	Beta	Built cover	1.42	1.49	0.79	0.553
+Functional richness	Beta	Aridity x Water	1.00	1.00	0.07	0.796
+Functional richness	Beta	Aridity x Shrub and scrub	1.00	1.00	1.28	0.258
+Functional richness	Beta	Aridity x Built	1.00	1.00	0.02	0.882
+Functional dispersion	Gaussian	Aridity	1.00	1.00	9.12	0.003
+Functional dispersion	Gaussian	Water cover	2.96	3.15	6.36	<0.001
+Functional dispersion	Gaussian	Shrub and scrub cover	1.00	1.00	13.72	<0.001
+Functional dispersion	Gaussian	Built cover	1.38	1.48	0.71	0.331
+Functional dispersion	Gaussian	Aridity x Water	1.00	1.00	3.30	0.069
+Functional dispersion	Gaussian	Aridity x Shrub and scrub	2.87	3.28	1.55	0.206
+Functional dispersion	Gaussian	Aridity x Built	1.00	1.00	1.21	0.271
+Functional evenness	Beta	Aridity	1.00	1.00	7.97	0.005
+Functional evenness	Beta	Water cover	1.00	1.00	3.76	0.052
+Functional evenness	Beta	Shrub and scrub cover	1.77	1.96	6.43	0.002
+Functional evenness	Beta	Built cover	1.00	1.00	3.89	0.049
+Functional evenness	Beta	Aridity x Water	2.60	2.92	1.09	0.409
+Functional evenness	Beta	Aridity x Shrub and scrub	2.14	2.35	2.69	0.051
+Functional evenness	Beta	Aridity x Built	1.00	1.00	2.82	0.093

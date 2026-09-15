@@ -1,0 +1,5 @@
+"Response","Family","Link","Cities","Localities","Checklists","Adjusted_R2","Deviance_explained_percent","Family_parameter","Family_parameter_name"
+"Species richness","Negative binomial","log",273,1365,6825,0.649,69.5,30.451,"theta"
+"Functional richness","Beta","logit",260,1300,6500,0.557,67.85,15.018,"precision"
+"Functional dispersion","Gaussian","identity",265,1325,6625,0.364,44.56,0.04,"residual_sd"
+"Functional evenness","Beta","logit",260,1300,6500,0.207,31.77,12.988,"precision"
