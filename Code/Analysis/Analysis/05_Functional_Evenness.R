@@ -32,24 +32,47 @@
 # ecological hypotheses and allow direct comparison among
 # biodiversity responses.
 #
-# Figures:
+# Publication / meeting outputs:
 #
-#   - FEve response distribution
+#   Outputs/
+#     05_Functional_Evenness/
+#       Figure/
+#         Figure_05_Main_Data_Trends.png
+#         Figure_05_Main_Data_Trends.pdf
 #
-#   Observed/descriptive:
-#     - FEve vs aridity
-#     - FEve vs water cover
-#     - FEve vs shrub/scrub cover
-#     - FEve vs built cover
+#       Table/
+#         Table_05_Main_Model_Results.csv
 #
-#   Adjusted/model-based:
-#     - Predicted FEve vs aridity
-#     - Predicted FEve vs water cover
-#     - Predicted FEve vs shrub/scrub cover
-#     - Predicted FEve vs built cover
+#       Data/
+#         Functional_Evenness_Manuscript_Input.rds
 #
-# Observed and predicted relationships are intentionally shown
-# in separate figures.
+# Main figure:
+#
+#   A. Aridity vs mean functional evenness
+#   B. Water cover vs mean functional evenness
+#   C. Shrub/scrub cover vs mean functional evenness
+#   D. Built cover vs mean functional evenness
+#
+# Aridity is plotted at the city level because aridity is a
+# city-level predictor.
+#
+# Habitat variables are plotted at the locality level because
+# water, shrub/scrub, and built cover are locality-level
+# predictors.
+#
+# Panels B-D color locality points by the percentile rank of
+# the continuous city-level aridity index:
+#   warmer colors = more arid
+#   cooler colors = less arid
+#
+# Percentile rank is used only for visualization so the full
+# warm-to-cool color range is represented across the observed
+# data. The statistical model continues to use the original
+# continuous aridity index.
+#
+# Figure smooths are descriptive and unadjusted.
+# Statistical inference comes from the full beta BAM and is
+# summarized in Table 05.
 #
 # Canonical input:
 #
@@ -65,6 +88,7 @@
 library(dplyr)
 library(ggplot2)
 library(mgcv)
+library(ggpubr)
 
 
 # ------------------------------------------------------------
@@ -94,13 +118,45 @@ K_CHECK_SEED <- 20260912
 TEMPORARY_DEDUPLICATE <- TRUE
 
 
-# Change to TRUE only when ready to save final figures.
+# ------------------------------------------------------------
+# 3. Output directories
+# ------------------------------------------------------------
 
-SAVE_FIGURES <- FALSE
+OUTPUT_ROOT <- file.path(
+  "Outputs",
+  "05_Functional_Evenness"
+)
+
+FIGURE_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Figure"
+)
+
+TABLE_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Table"
+)
+
+DATA_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Data"
+)
+
+for (x in c(
+  FIGURE_DIR,
+  TABLE_DIR,
+  DATA_DIR
+)) {
+  dir.create(
+    x,
+    recursive = TRUE,
+    showWarnings = FALSE
+  )
+}
 
 
 # ------------------------------------------------------------
-# 3. Load combined dataset
+# 4. Load combined dataset
 # ------------------------------------------------------------
 
 data_path <- file.path(
@@ -1825,12 +1881,15 @@ cat(
 )
 
 
+feve_precision <- feve_model_final$family$getTheta(
+  TRUE
+)
+
+
 cat(
   "Beta precision parameter: ",
   round(
-    feve_model_final$family$getTheta(
-      TRUE
-    ),
+    feve_precision,
     3
   ),
   "\n",
@@ -1927,63 +1986,103 @@ plot(
 
 
 # ============================================================
-# PUBLICATION-STYLE FIGURES
+# MAIN PUBLICATION / MEETING FIGURE
 # ============================================================
 #
-# OBSERVED figures:
+# Descriptive empirical trends are shown for the four focal
+# ecological predictors.
 #
-#   Actual checklist-level FEve values plus a descriptive,
-#   unadjusted single-predictor beta GAM.
+# Panel A:
+#   one point per city.
 #
-# PREDICTED figures:
+# Panels B-D:
+#   one point per locality, colored by city-level aridity.
 #
-#   Population-level predictions from the final multivariable
-#   beta BAM, with other predictors held at representative
-#   values and city/locality random effects excluded.
+# Warm colors represent more-arid cities.
+# Cool colors represent less-arid cities.
 #
-# Observed and predicted figures are intentionally kept
-# completely separate.
+# Smooths are descriptive and unadjusted.
+# Statistical inference is based on the final beta BAM and is
+# reported in Table 05.
 #
 # ============================================================
 
 
 # ------------------------------------------------------------
-# 44. FEve response-distribution figure
+# 44. Create empirical trend datasets
 # ------------------------------------------------------------
 
-fig_feve_distribution <- ggplot(
-  feve_data,
-  aes(
-    x = FEve
-  )
-) +
-  geom_histogram(
-    bins = 40,
-    linewidth = 0.25
-  ) +
-  labs(
-    x = "Functional evenness",
-    y = "Number of checklists"
-  ) +
-  theme_classic(
-    base_size = 12
+feve_city_plot <- feve_data %>%
+  group_by(
+    NAME10
+  ) %>%
+  summarise(
+    avg_aridity_index =
+      first(
+        avg_aridity_index
+      ),
+    
+    mean_feve =
+      mean(
+        FEve,
+        na.rm = TRUE
+      ),
+    
+    .groups = "drop"
   )
 
 
-print(
-  fig_feve_distribution
-)
+feve_locality_plot <- feve_data %>%
+  group_by(
+    NAME10,
+    locality_id
+  ) %>%
+  summarise(
+    avg_aridity_index =
+      first(
+        avg_aridity_index
+      ),
+    
+    water =
+      first(
+        water
+      ),
+    
+    shrub_and_scrub =
+      first(
+        shrub_and_scrub
+      ),
+    
+    built =
+      first(
+        built
+      ),
+    
+    mean_feve =
+      mean(
+        FEve,
+        na.rm = TRUE
+      ),
+    
+    .groups = "drop"
+  ) %>%
+  mutate(
+    aridity_rank =
+      percent_rank(
+        avg_aridity_index
+      )
+  )
 
 
 # ------------------------------------------------------------
-# 45. Determine habitat scaling
+# 45. Convert habitat cover to percent
 # ------------------------------------------------------------
 
 maximum_habitat_value <- max(
   c(
-    feve_data$water,
-    feve_data$shrub_and_scrub,
-    feve_data$built
+    feve_locality_plot$water,
+    feve_locality_plot$shrub_and_scrub,
+    feve_locality_plot$built
   ),
   na.rm = TRUE
 )
@@ -1993,781 +2092,652 @@ if (
   maximum_habitat_value <= 1.05
 ) {
   
-  habitat_scale_factor <- 100
+  feve_locality_plot <- feve_locality_plot %>%
+    mutate(
+      water_plot =
+        water * 100,
+      
+      shrub_plot =
+        shrub_and_scrub * 100,
+      
+      built_plot =
+        built * 100
+    )
   
 } else {
   
-  habitat_scale_factor <- 1
-}
-
-
-# ============================================================
-# OBSERVED RELATIONSHIPS
-# ============================================================
-
-
-# ------------------------------------------------------------
-# 46. Helper for observed relationships
-# ------------------------------------------------------------
-#
-# Each observed figure contains the actual checklist-level FEve
-# observations and an unadjusted single-predictor beta GAM.
-#
-# The descriptive smooth is shown only across the central 90%
-# of the focal predictor distribution to reduce visual leverage
-# from extreme predictor values.
-#
-# These figures describe the raw empirical relationships.
-# They are NOT adjusted effects from the final multivariable
-# model.
-# ------------------------------------------------------------
-
-make_feve_observed <- function(
-    variable,
-    x_label,
-    scale_factor = 1
-) {
-  
-  observed_data <- data.frame(
-    x =
-      feve_data[[variable]] *
-      scale_factor,
-    
-    FEve =
-      feve_data$FEve
-  )
-  
-  
-  raw_formula <- as.formula(
-    paste0(
-      "FEve ~ s(",
-      variable,
-      ", k = 5)"
-    )
-  )
-  
-  
-  raw_model <- gam(
-    formula =
-      raw_formula,
-    
-    family =
-      betar(
-        link = "logit"
-      ),
-    
-    data =
-      feve_data,
-    
-    method =
-      "REML"
-  )
-  
-  
-  x_limits <- quantile(
-    feve_data[[variable]],
-    probs = c(
-      0.05,
-      0.95
-    ),
-    na.rm = TRUE
-  )
-  
-  
-  x_sequence <- seq(
-    x_limits[1],
-    x_limits[2],
-    length.out = 200
-  )
-  
-  
-  prediction_data <- data.frame(
-    x_sequence
-  )
-  
-  
-  names(
-    prediction_data
-  ) <- variable
-  
-  
-  raw_prediction <- predict(
-    raw_model,
-    newdata =
-      prediction_data,
-    type = "link",
-    se.fit = TRUE
-  )
-  
-  
-  fit_link <- as.numeric(
-    raw_prediction$fit
-  )
-  
-  
-  se_link <- as.numeric(
-    raw_prediction$se.fit
-  )
-  
-  
-  link_inverse <-
-    raw_model$family$linkinv
-  
-  
-  trend_data <- data.frame(
-    x =
-      x_sequence *
-      scale_factor,
-    
-    fit =
-      link_inverse(
-        fit_link
-      ),
-    
-    lower =
-      link_inverse(
-        fit_link -
-          1.96 *
-          se_link
-      ),
-    
-    upper =
-      link_inverse(
-        fit_link +
-          1.96 *
-          se_link
-      )
-  )
-  
-  
-  ggplot() +
-    geom_point(
-      data =
-        observed_data,
-      aes(
-        x = x,
-        y = FEve
-      ),
-      alpha = 0.08,
-      size = 0.55
-    ) +
-    geom_ribbon(
-      data =
-        trend_data,
-      aes(
-        x = x,
-        ymin = lower,
-        ymax = upper
-      ),
-      fill = "grey80",
-      alpha = 0.7
-    ) +
-    geom_line(
-      data =
-        trend_data,
-      aes(
-        x = x,
-        y = fit
-      ),
-      linewidth = 0.9
-    ) +
-    coord_cartesian(
-      xlim =
-        x_limits *
-        scale_factor
-    ) +
-    labs(
-      x = x_label,
-      y = "Functional evenness"
-    ) +
-    theme_classic(
-      base_size = 12
+  feve_locality_plot <- feve_locality_plot %>%
+    mutate(
+      water_plot =
+        water,
+      
+      shrub_plot =
+        shrub_and_scrub,
+      
+      built_plot =
+        built
     )
 }
 
 
 # ------------------------------------------------------------
-# 47. Observed FEve vs aridity
+# 46. Common figure settings
 # ------------------------------------------------------------
 
-fig_feve_aridity_observed <- make_feve_observed(
-  variable =
-    "avg_aridity_index",
-  
-  x_label =
-    "Aridity index (higher = less arid)"
-)
-
-
-print(
-  fig_feve_aridity_observed
-)
-
-
-# ------------------------------------------------------------
-# 48. Observed FEve vs water cover
-# ------------------------------------------------------------
-
-fig_feve_water_observed <- make_feve_observed(
-  variable =
-    "water",
-  
-  x_label =
-    "Water cover (%)",
-  
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_feve_water_observed
-)
-
-
-# ------------------------------------------------------------
-# 49. Observed FEve vs shrub/scrub cover
-# ------------------------------------------------------------
-
-fig_feve_shrub_observed <- make_feve_observed(
-  variable =
-    "shrub_and_scrub",
-  
-  x_label =
-    "Shrub and scrub cover (%)",
-  
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_feve_shrub_observed
-)
-
-
-# ------------------------------------------------------------
-# 50. Observed FEve vs built cover
-# ------------------------------------------------------------
-
-fig_feve_built_observed <- make_feve_observed(
-  variable =
-    "built",
-  
-  x_label =
-    "Built cover (%)",
-  
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_feve_built_observed
-)
-
-
-# ============================================================
-# MODEL-ADJUSTED RELATIONSHIPS
-# ============================================================
-
-
-# ------------------------------------------------------------
-# 51. Reference values for adjusted predictions
-# ------------------------------------------------------------
-
-reference_aridity <- median(
-  feve_data$avg_aridity_index,
+main_y_limits <- range(
+  c(
+    feve_city_plot$mean_feve,
+    feve_locality_plot$mean_feve
+  ),
   na.rm = TRUE
 )
 
 
-reference_duration <- median(
-  feve_data$duration_minutes,
-  na.rm = TRUE
+aridity_palette <- c(
+  "#7F0000",
+  "#B30000",
+  "#D7301F",
+  "#F46D43",
+  "#FDAE61",
+  "#FEE08B",
+  "#D9D9D9",
+  "#E0F3F8",
+  "#ABD9E9",
+  "#74ADD1",
+  "#4575B4",
+  "#313695"
 )
 
 
-reference_distance <- median(
-  feve_data$effort_distance_km,
-  na.rm = TRUE
-)
-
-
-reference_water <- median(
-  feve_data$water,
-  na.rm = TRUE
-)
-
-
-reference_shrub <- median(
-  feve_data$shrub_and_scrub,
-  na.rm = TRUE
-)
-
-
-reference_built <- median(
-  feve_data$built,
-  na.rm = TRUE
-)
-
-
-reference_protocol <- factor(
-  "Stationary",
-  levels =
-    levels(
-      feve_data$protocol_name
-    )
-)
-
-
-reference_city <- factor(
-  levels(
-    feve_data$NAME10
-  )[1],
-  levels =
-    levels(
-      feve_data$NAME10
-    )
-)
-
-
-reference_locality <- factor(
-  levels(
-    feve_data$locality_id
-  )[1],
-  levels =
-    levels(
-      feve_data$locality_id
-    )
-)
-
-
-# ------------------------------------------------------------
-# 52. Helper for adjusted FEve predictions
-# ------------------------------------------------------------
-#
-# Prediction intervals are calculated on the beta-model logit
-# scale and transformed back to the original FEve scale.
-#
-# Other continuous predictors are held at their median values.
-# Protocol is held at Stationary.
-#
-# City and locality random-effect smooths are excluded to
-# produce population-level predictions.
-# ------------------------------------------------------------
-
-make_feve_prediction <- function(
-    variable,
-    x_label,
-    scale_factor = 1
-) {
+theme_feve_main <- function() {
   
-  x_limits <- quantile(
-    feve_data[[variable]],
-    probs = c(
-      0.05,
-      0.95
-    ),
-    na.rm = TRUE
-  )
-  
-  
-  x_sequence <- seq(
-    x_limits[1],
-    x_limits[2],
-    length.out = 200
-  )
-  
-  
-  n_prediction <- length(
-    x_sequence
-  )
-  
-  
-  prediction_data <- data.frame(
-    avg_aridity_index =
-      rep(
-        reference_aridity,
-        n_prediction
-      ),
-    
-    water =
-      rep(
-        reference_water,
-        n_prediction
-      ),
-    
-    shrub_and_scrub =
-      rep(
-        reference_shrub,
-        n_prediction
-      ),
-    
-    built =
-      rep(
-        reference_built,
-        n_prediction
-      ),
-    
-    duration_minutes =
-      rep(
-        reference_duration,
-        n_prediction
-      ),
-    
-    effort_distance_km =
-      rep(
-        reference_distance,
-        n_prediction
-      )
-  )
-  
-  
-  prediction_data$protocol_name <- factor(
-    rep(
-      "Stationary",
-      n_prediction
-    ),
-    levels =
-      levels(
-        feve_data$protocol_name
-      )
-  )
-  
-  
-  prediction_data$NAME10 <- factor(
-    rep(
-      levels(
-        feve_data$NAME10
-      )[1],
-      n_prediction
-    ),
-    levels =
-      levels(
-        feve_data$NAME10
-      )
-  )
-  
-  
-  prediction_data$locality_id <- factor(
-    rep(
-      levels(
-        feve_data$locality_id
-      )[1],
-      n_prediction
-    ),
-    levels =
-      levels(
-        feve_data$locality_id
-      )
-  )
-  
-  
-  prediction_data[[variable]] <-
-    x_sequence
-  
-  
-  model_prediction <- predict(
-    feve_model_final,
-    newdata =
-      prediction_data,
-    type = "link",
-    se.fit = TRUE,
-    exclude = c(
-      "s(NAME10)",
-      "s(locality_id)"
-    )
-  )
-  
-  
-  fit_link <- as.numeric(
-    model_prediction$fit
-  )
-  
-  
-  se_link <- as.numeric(
-    model_prediction$se.fit
-  )
-  
-  
-  link_inverse <-
-    feve_model_final$family$linkinv
-  
-  
-  prediction_plot_data <- data.frame(
-    x =
-      x_sequence *
-      scale_factor,
-    
-    fit =
-      link_inverse(
-        fit_link
-      ),
-    
-    lower =
-      link_inverse(
-        fit_link -
-          1.96 *
-          se_link
-      ),
-    
-    upper =
-      link_inverse(
-        fit_link +
-          1.96 *
-          se_link
-      )
-  )
-  
-  
-  ggplot(
-    prediction_plot_data,
-    aes(
-      x = x,
-      y = fit
-    )
+  theme_classic(
+    base_size = 12
   ) +
-    geom_ribbon(
-      aes(
-        ymin = lower,
-        ymax = upper
-      ),
-      fill = "grey80",
-      alpha = 0.7
-    ) +
-    geom_line(
-      linewidth = 0.9
-    ) +
-    labs(
-      x = x_label,
-      y = "Predicted functional evenness"
-    ) +
-    theme_classic(
-      base_size = 12
+    theme(
+      axis.text =
+        element_text(
+          colour = "black"
+        ),
+      
+      plot.title =
+        element_text(
+          face = "bold",
+          size = 12,
+          hjust = 0.5
+        )
     )
 }
 
 
+aridity_color_scale <- scale_color_gradientn(
+  colors = aridity_palette,
+  values = c(
+    0.00,
+    0.07,
+    0.15,
+    0.25,
+    0.36,
+    0.46,
+    0.50,
+    0.56,
+    0.66,
+    0.76,
+    0.88,
+    1.00
+  ),
+  limits = c(
+    0,
+    1
+  ),
+  breaks = c(
+    0,
+    0.5,
+    1
+  ),
+  labels = c(
+    "More arid",
+    "Intermediate",
+    "Less arid"
+  ),
+  name = "Aridity gradient"
+)
+
+
 # ------------------------------------------------------------
-# 53. Predicted FEve vs aridity
+# 47. Panel A: Aridity
 # ------------------------------------------------------------
 
-fig_feve_aridity_predicted <- make_feve_prediction(
-  variable =
-    "avg_aridity_index",
-  
-  x_label =
-    "Aridity index (higher = less arid)"
+fig_feve_aridity <- ggplot(
+  feve_city_plot,
+  aes(
+    x = avg_aridity_index,
+    y = mean_feve
+  )
+) +
+  geom_point(
+    alpha = 0.45,
+    size = 1.8
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Aridity index (higher = less arid)",
+    y = "Mean functional evenness",
+    title = "Aridity"
+  ) +
+  theme_feve_main() +
+  theme(
+    legend.position = "none"
+  )
+
+
+# ------------------------------------------------------------
+# 48. Panel B: Water cover
+# ------------------------------------------------------------
+
+fig_feve_water <- ggplot(
+  feve_locality_plot,
+  aes(
+    x = water_plot,
+    y = mean_feve
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Water cover (%)",
+    y = "Mean functional evenness",
+    title = "Water"
+  ) +
+  theme_feve_main()
+
+
+# ------------------------------------------------------------
+# 49. Panel C: Shrub and scrub cover
+# ------------------------------------------------------------
+
+fig_feve_shrub <- ggplot(
+  feve_locality_plot,
+  aes(
+    x = shrub_plot,
+    y = mean_feve
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Shrub and scrub cover (%)",
+    y = "Mean functional evenness",
+    title = "Shrub and scrub"
+  ) +
+  theme_feve_main()
+
+
+# ------------------------------------------------------------
+# 50. Panel D: Built cover
+# ------------------------------------------------------------
+
+fig_feve_built <- ggplot(
+  feve_locality_plot,
+  aes(
+    x = built_plot,
+    y = mean_feve
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Built cover (%)",
+    y = "Mean functional evenness",
+    title = "Built"
+  ) +
+  theme_feve_main()
+
+
+# ------------------------------------------------------------
+# 51. Combine four empirical panels
+# ------------------------------------------------------------
+
+figure_05_main <- ggpubr::ggarrange(
+  fig_feve_aridity,
+  fig_feve_water,
+  fig_feve_shrub,
+  fig_feve_built,
+  ncol = 2,
+  nrow = 2,
+  labels = c(
+    "A",
+    "B",
+    "C",
+    "D"
+  ),
+  font.label = list(
+    size = 14,
+    face = "bold"
+  ),
+  common.legend = TRUE,
+  legend = "bottom"
 )
 
 
 print(
-  fig_feve_aridity_predicted
+  figure_05_main
 )
 
 
 # ------------------------------------------------------------
-# 54. Predicted FEve vs water cover
+# 52. Save main figure
 # ------------------------------------------------------------
 
-fig_feve_water_predicted <- make_feve_prediction(
-  variable =
-    "water",
+ggsave(
+  filename =
+    file.path(
+      FIGURE_DIR,
+      "Figure_05_Main_Data_Trends.png"
+    ),
+  plot =
+    figure_05_main,
+  width = 10,
+  height = 8,
+  units = "in",
+  dpi = 600,
+  bg = "white"
+)
+
+
+ggsave(
+  filename =
+    file.path(
+      FIGURE_DIR,
+      "Figure_05_Main_Data_Trends.pdf"
+    ),
+  plot =
+    figure_05_main,
+  width = 10,
+  height = 8,
+  units = "in",
+  bg = "white"
+)
+
+
+# ============================================================
+# MAIN STATISTICAL TABLE
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 53. Focal ecological term labels
+# ------------------------------------------------------------
+
+focal_term_labels <- c(
+  "s(avg_aridity_index)" =
+    "Aridity",
   
-  x_label =
-    "Water cover (%)",
+  "s(water)" =
+    "Water cover",
   
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_feve_water_predicted
-)
-
-
-# ------------------------------------------------------------
-# 55. Predicted FEve vs shrub/scrub cover
-# ------------------------------------------------------------
-
-fig_feve_shrub_predicted <- make_feve_prediction(
-  variable =
-    "shrub_and_scrub",
+  "s(shrub_and_scrub)" =
+    "Shrub and scrub cover",
   
-  x_label =
-    "Shrub and scrub cover (%)",
+  "s(built)" =
+    "Built cover",
   
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_feve_shrub_predicted
-)
-
-
-# ------------------------------------------------------------
-# 56. Predicted FEve vs built cover
-# ------------------------------------------------------------
-
-fig_feve_built_predicted <- make_feve_prediction(
-  variable =
-    "built",
+  "ti(avg_aridity_index,water)" =
+    "Aridity x Water",
   
-  x_label =
-    "Built cover (%)",
+  "ti(avg_aridity_index,shrub_and_scrub)" =
+    "Aridity x Shrub and scrub",
   
-  scale_factor =
-    habitat_scale_factor
-)
-
-
-print(
-  fig_feve_built_predicted
+  "ti(avg_aridity_index,built)" =
+    "Aridity x Built"
 )
 
 
 # ------------------------------------------------------------
-# 57. Optional figure saving
+# 54. P-value formatting helper
 # ------------------------------------------------------------
+
+format_p_value <- function(
+    p
+) {
+  
+  ifelse(
+    p < 0.001,
+    "<0.001",
+    sprintf(
+      "%.3f",
+      p
+    )
+  )
+}
+
+
+# ------------------------------------------------------------
+# 55. Build main model-results table
+# ------------------------------------------------------------
+
+table_05_main <- feve_smooth_results %>%
+  filter(
+    term %in%
+      names(
+        focal_term_labels
+      )
+  ) %>%
+  mutate(
+    term_order =
+      match(
+        term,
+        names(
+          focal_term_labels
+        )
+      ),
+    
+    Predictor =
+      unname(
+        focal_term_labels[
+          term
+        ]
+      ),
+    
+    EDF =
+      sprintf(
+        "%.2f",
+        edf
+      ),
+    
+    Reference_df =
+      sprintf(
+        "%.2f",
+        Ref.df
+      ),
+    
+    F_statistic =
+      sprintf(
+        "%.2f",
+        F
+      ),
+    
+    P_value =
+      format_p_value(
+        `p-value`
+      )
+  ) %>%
+  arrange(
+    term_order
+  ) %>%
+  select(
+    Predictor,
+    EDF,
+    Reference_df,
+    F_statistic,
+    P_value
+  )
+
+
+names(
+  table_05_main
+) <- c(
+  "Predictor",
+  "EDF",
+  "Ref. df",
+  "F statistic",
+  "P-value"
+)
+
 
 if (
-  SAVE_FIGURES
+  nrow(
+    table_05_main
+  ) !=
+  length(
+    focal_term_labels
+  )
 ) {
   
-  figure_directory <- file.path(
-    "Outputs",
-    "05_Functional_Evenness",
-    "Figures"
-  )
-  
-  
-  dir.create(
-    figure_directory,
-    recursive = TRUE,
-    showWarnings = FALSE
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Distribution.pdf"
-      ),
-    plot =
-      fig_feve_distribution,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Aridity_Observed.pdf"
-      ),
-    plot =
-      fig_feve_aridity_observed,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Aridity_Predicted.pdf"
-      ),
-    plot =
-      fig_feve_aridity_predicted,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Water_Observed.pdf"
-      ),
-    plot =
-      fig_feve_water_observed,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Water_Predicted.pdf"
-      ),
-    plot =
-      fig_feve_water_predicted,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Shrub_Observed.pdf"
-      ),
-    plot =
-      fig_feve_shrub_observed,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Shrub_Predicted.pdf"
-      ),
-    plot =
-      fig_feve_shrub_predicted,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Built_Observed.pdf"
-      ),
-    plot =
-      fig_feve_built_observed,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FEve_Built_Predicted.pdf"
-      ),
-    plot =
-      fig_feve_built_predicted,
-    width = 5.5,
-    height = 4
+  stop(
+    "Table 05 does not contain all seven focal ecological terms."
   )
 }
+
+
+cat("\n============================================================\n")
+cat("TABLE 05 - MAIN MODEL RESULTS\n")
+cat("============================================================\n\n")
+
+
+print(
+  table_05_main,
+  row.names = FALSE
+)
+
+
+# ------------------------------------------------------------
+# 56. Save main statistical table
+# ------------------------------------------------------------
+
+write.csv(
+  table_05_main,
+  file =
+    file.path(
+      TABLE_DIR,
+      "Table_05_Main_Model_Results.csv"
+    ),
+  row.names = FALSE
+)
+
+
+# ============================================================
+# MANUSCRIPT-SYNTHESIS EXPORT
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 57. Build standardized manuscript-input bundle
+# ------------------------------------------------------------
+
+feve_model_metadata <- data.frame(
+  response_id =
+    "Functional_Evenness",
+  
+  response_label =
+    "Functional evenness",
+  
+  response_variable =
+    "FEve",
+  
+  model_family =
+    "Beta",
+  
+  link =
+    "logit",
+  
+  n_cities =
+    n_distinct(
+      feve_data$NAME10
+    ),
+  
+  n_localities =
+    n_distinct(
+      feve_data$locality_id
+    ),
+  
+  n_checklists =
+    nrow(
+      feve_data
+    ),
+  
+  adjusted_R2 =
+    feve_summary$r.sq,
+  
+  deviance_explained =
+    feve_summary$dev.expl,
+  
+  family_parameter =
+    feve_precision,
+  
+  family_parameter_name =
+    "precision",
+  
+  additive_AIC =
+    AIC(
+      feve_model_additive
+    ),
+  
+  final_AIC =
+    AIC(
+      feve_model_final
+    ),
+  
+  stringsAsFactors = FALSE
+)
+
+
+functional_evenness_manuscript_input <- list(
+  response_id =
+    "Functional_Evenness",
+  
+  response_label =
+    "Functional evenness",
+  
+  response_variable =
+    "FEve",
+  
+  analysis_data =
+    feve_data,
+  
+  final_model =
+    feve_model_final,
+  
+  smooth_results =
+    feve_smooth_results,
+  
+  parametric_results =
+    feve_parametric_results,
+  
+  focal_results =
+    table_05_main,
+  
+  model_metadata =
+    feve_model_metadata,
+  
+  plot_data = list(
+    city =
+      feve_city_plot,
+    
+    locality =
+      feve_locality_plot
+  )
+)
+
+
+functional_evenness_manuscript_file <- file.path(
+  DATA_DIR,
+  "Functional_Evenness_Manuscript_Input.rds"
+)
+
+
+saveRDS(
+  functional_evenness_manuscript_input,
+  functional_evenness_manuscript_file
+)
+
+
+if (
+  !file.exists(
+    functional_evenness_manuscript_file
+  )
+) {
+  
+  stop(
+    "Functional-evenness manuscript-input RDS was not created."
+  )
+}
+
+
+cat("\n============================================================\n")
+cat("MANUSCRIPT-SYNTHESIS EXPORT\n")
+cat("============================================================\n\n")
+
+
+cat(
+  "Saved manuscript input:\n",
+  functional_evenness_manuscript_file,
+  "\n",
+  sep = ""
+)
 
 
 # ============================================================
@@ -2866,7 +2836,73 @@ cat(
 
 
 # ------------------------------------------------------------
-# 59. Final analysis summary
+# 59. Output check
+# ------------------------------------------------------------
+
+expected_output_files <- c(
+  file.path(
+    FIGURE_DIR,
+    "Figure_05_Main_Data_Trends.png"
+  ),
+  
+  file.path(
+    FIGURE_DIR,
+    "Figure_05_Main_Data_Trends.pdf"
+  ),
+  
+  file.path(
+    TABLE_DIR,
+    "Table_05_Main_Model_Results.csv"
+  ),
+  
+  file.path(
+    DATA_DIR,
+    "Functional_Evenness_Manuscript_Input.rds"
+  )
+)
+
+
+output_check <- file.exists(
+  expected_output_files
+)
+
+
+cat("\n============================================================\n")
+cat("OUTPUT FILE CHECK\n")
+cat("============================================================\n\n")
+
+
+print(
+  data.frame(
+    file =
+      expected_output_files,
+    
+    exists =
+      output_check
+  ),
+  row.names = FALSE
+)
+
+
+if (
+  !all(
+    output_check
+  )
+) {
+  
+  stop(
+    "One or more expected Script 05 outputs were not created."
+  )
+}
+
+
+cat(
+  "\nPASS: All Script 05 outputs were created.\n"
+)
+
+
+# ------------------------------------------------------------
+# 60. Final analysis summary
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -2966,9 +3002,7 @@ cat(
 cat(
   "Beta precision parameter:       ",
   round(
-    feve_model_final$family$getTheta(
-      TRUE
-    ),
+    feve_precision,
     3
   ),
   "\n",
@@ -2984,8 +3018,38 @@ cat(
 )
 
 
+cat(
+  "\nPublication figure:\n",
+  file.path(
+    FIGURE_DIR,
+    "Figure_05_Main_Data_Trends.png"
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "\nPublication table:\n",
+  file.path(
+    TABLE_DIR,
+    "Table_05_Main_Model_Results.csv"
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "\nManuscript input:\n",
+  functional_evenness_manuscript_file,
+  "\n",
+  sep = ""
+)
+
+
 # ------------------------------------------------------------
-# 60. Overall interpretation
+# 61. Overall interpretation
 # ------------------------------------------------------------
 #
 # The primary FEve model uses the same global aridity x habitat
@@ -3073,33 +3137,23 @@ cat(
 #   observations have absolute Pearson residuals greater than 2
 #   and approximately 1% exceed 3.
 #
-# The publication figures deliberately distinguish descriptive
-# raw-data relationships from adjusted model-based effects.
+# Figure interpretation:
 #
-# OBSERVED FIGURES:
+# - Panel A shows the city-level empirical aridity-FEve
+#   relationship.
 #
-# - These show the actual checklist-level FEve observations and
-#   an unadjusted single-predictor beta-GAM trend.
+# - Panels B-D show locality-level habitat-FEve relationships,
+#   with point color representing percentile rank along the
+#   continuous city-level aridity gradient.
 #
-# - They describe the empirical relationship present in the
-#   sampled data and do not control for other habitat variables,
-#   sampling effort, city, or locality.
+# - Warm colors indicate more-arid cities and cool colors
+#   indicate less-arid cities. Percentile rank is used only for
+#   visualization; the BAM uses the original continuous aridity
+#   index.
 #
-# PREDICTED FIGURES:
-#
-# - These show population-level predictions from the final
-#   multivariable beta BAM.
-#
-# - Non-focal habitat and sampling-effort predictors are held at
-#   representative median values.
-#
-# - Protocol is held at Stationary.
-#
-# - City and locality random-effect smooths are excluded.
-#
-# Keeping these figures separate allows the raw empirical
-# patterns to be viewed independently from the adjusted
-# relationships estimated by the final inferential model.
+# - The descriptive GAM lines are not the source of inferential
+#   tests; inference comes from the full beta BAM summarized in
+#   Table 05.
 #
 # Overall, functional evenness appears to respond to both the
 # regional aridity gradient and local habitat structure,
