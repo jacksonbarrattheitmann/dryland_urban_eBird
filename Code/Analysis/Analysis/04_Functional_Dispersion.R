@@ -47,11 +47,47 @@
 #
 # Both city and locality random-effect smooths are retained.
 #
-# Publication figures:
+# Publication / meeting outputs:
 #
-#   1. FDis response distribution
-#   2. Conditional aridity effect
-#   3. Aridity x habitat prediction figure
+#   Outputs/
+#     04_Functional_Dispersion/
+#       Figure/
+#         Figure_04_Main_Data_Trends.png
+#         Figure_04_Main_Data_Trends.pdf
+#
+#       Table/
+#         Table_04_Main_Model_Results.csv
+#
+#       Data/
+#         Functional_Dispersion_Manuscript_Input.rds
+#
+# Main figure:
+#
+#   A. Aridity vs mean functional dispersion
+#   B. Water cover vs mean functional dispersion
+#   C. Shrub/scrub cover vs mean functional dispersion
+#   D. Built cover vs mean functional dispersion
+#
+# Aridity is plotted at the city level because aridity is a
+# city-level predictor.
+#
+# Habitat variables are plotted at the locality level because
+# water, shrub/scrub, and built cover are locality-level
+# predictors.
+#
+# Panels B-D color locality points by the percentile rank of
+# the continuous city-level aridity index:
+#   warmer colors = more arid
+#   cooler colors = less arid
+#
+# Percentile rank is used only for visualization so the full
+# warm-to-cool color range is represented across the observed
+# data. The statistical model continues to use the original
+# continuous aridity index.
+#
+# Figure smooths are descriptive and unadjusted.
+# Statistical inference comes from the full Gaussian BAM and
+# is summarized in Table 04.
 #
 # Canonical input:
 #
@@ -67,6 +103,7 @@
 library(dplyr)
 library(ggplot2)
 library(mgcv)
+library(ggpubr)
 
 
 # ------------------------------------------------------------
@@ -96,14 +133,45 @@ K_CHECK_SEED <- 20260912
 TEMPORARY_DEDUPLICATE <- TRUE
 
 
-# Figures are returned as R objects by default.
-# Change to TRUE only when ready to save final figures.
+# ------------------------------------------------------------
+# 3. Output directories
+# ------------------------------------------------------------
 
-SAVE_FIGURES <- FALSE
+OUTPUT_ROOT <- file.path(
+  "Outputs",
+  "04_Functional_Dispersion"
+)
+
+FIGURE_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Figure"
+)
+
+TABLE_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Table"
+)
+
+DATA_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Data"
+)
+
+for (x in c(
+  FIGURE_DIR,
+  TABLE_DIR,
+  DATA_DIR
+)) {
+  dir.create(
+    x,
+    recursive = TRUE,
+    showWarnings = FALSE
+  )
+}
 
 
 # ------------------------------------------------------------
-# 3. Load combined dataset
+# 4. Load combined dataset
 # ------------------------------------------------------------
 
 data_path <- file.path(
@@ -1784,96 +1852,103 @@ cat(
 
 
 # ============================================================
-# PUBLICATION-STYLE PREDICTIONS
+# MAIN PUBLICATION / MEETING FIGURE
 # ============================================================
-
-
-# ============================================================
-# PUBLICATION-STYLE PREDICTIONS
-# ============================================================
-
-
-# ------------------------------------------------------------
-# 41. Reference values for population-level predictions
-# ------------------------------------------------------------
-
-reference_aridity <- median(
-  fdis_data$avg_aridity_index,
-  na.rm = TRUE
-)
-
-
-reference_duration <- median(
-  fdis_data$duration_minutes,
-  na.rm = TRUE
-)
-
-
-reference_distance <- median(
-  fdis_data$effort_distance_km,
-  na.rm = TRUE
-)
-
-
-reference_water <- median(
-  fdis_data$water,
-  na.rm = TRUE
-)
-
-
-reference_shrub <- median(
-  fdis_data$shrub_and_scrub,
-  na.rm = TRUE
-)
-
-
-reference_built <- median(
-  fdis_data$built,
-  na.rm = TRUE
-)
-
-
-reference_protocol <- factor(
-  "Stationary",
-  levels = levels(
-    fdis_data$protocol_name
-  )
-)
-
-
-reference_city <- factor(
-  levels(
-    fdis_data$NAME10
-  )[1],
-  levels = levels(
-    fdis_data$NAME10
-  )
-)
-
-
-reference_locality <- factor(
-  levels(
-    fdis_data$locality_id
-  )[1],
-  levels = levels(
-    fdis_data$locality_id
-  )
-)
-
-
-# ------------------------------------------------------------
-# 42. Determine habitat scaling for figures
-# ------------------------------------------------------------
 #
-# Convert habitat variables to percentages on the x-axis if
-# they are stored as proportions.
+# Descriptive empirical trends are shown for the four focal
+# ecological predictors.
+#
+# Panel A:
+#   one point per city.
+#
+# Panels B-D:
+#   one point per locality, colored by city-level aridity.
+#
+# Warm colors represent more-arid cities.
+# Cool colors represent less-arid cities.
+#
+# Smooths are descriptive and unadjusted.
+# Statistical inference is based on the final Gaussian BAM and
+# is reported in Table 04.
+#
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 41. Create empirical trend datasets
+# ------------------------------------------------------------
+
+fdis_city_plot <- fdis_data %>%
+  group_by(
+    NAME10
+  ) %>%
+  summarise(
+    avg_aridity_index =
+      first(
+        avg_aridity_index
+      ),
+    
+    mean_fdis =
+      mean(
+        FDis,
+        na.rm = TRUE
+      ),
+    
+    .groups = "drop"
+  )
+
+
+fdis_locality_plot <- fdis_data %>%
+  group_by(
+    NAME10,
+    locality_id
+  ) %>%
+  summarise(
+    avg_aridity_index =
+      first(
+        avg_aridity_index
+      ),
+    
+    water =
+      first(
+        water
+      ),
+    
+    shrub_and_scrub =
+      first(
+        shrub_and_scrub
+      ),
+    
+    built =
+      first(
+        built
+      ),
+    
+    mean_fdis =
+      mean(
+        FDis,
+        na.rm = TRUE
+      ),
+    
+    .groups = "drop"
+  ) %>%
+  mutate(
+    aridity_rank =
+      percent_rank(
+        avg_aridity_index
+      )
+  )
+
+
+# ------------------------------------------------------------
+# 42. Convert habitat cover to percent
 # ------------------------------------------------------------
 
 maximum_habitat_value <- max(
   c(
-    fdis_data$water,
-    fdis_data$shrub_and_scrub,
-    fdis_data$built
+    fdis_locality_plot$water,
+    fdis_locality_plot$shrub_and_scrub,
+    fdis_locality_plot$built
   ),
   na.rm = TRUE
 )
@@ -1883,416 +1958,659 @@ if (
   maximum_habitat_value <= 1.05
 ) {
   
-  habitat_scale_factor <- 100
+  fdis_locality_plot <- fdis_locality_plot %>%
+    mutate(
+      water_plot =
+        water * 100,
+      
+      shrub_plot =
+        shrub_and_scrub * 100,
+      
+      built_plot =
+        built * 100
+    )
   
 } else {
   
-  habitat_scale_factor <- 1
+  fdis_locality_plot <- fdis_locality_plot %>%
+    mutate(
+      water_plot =
+        water,
+      
+      shrub_plot =
+        shrub_and_scrub,
+      
+      built_plot =
+        built
+    )
 }
 
 
 # ------------------------------------------------------------
-# 43. Aridity prediction data
+# 43. Common figure settings
 # ------------------------------------------------------------
 
-aridity_limits <- quantile(
-  fdis_data$avg_aridity_index,
-  probs = c(
-    0.05,
-    0.95
+main_y_limits <- range(
+  c(
+    fdis_city_plot$mean_fdis,
+    fdis_locality_plot$mean_fdis
   ),
   na.rm = TRUE
 )
 
 
-aridity_sequence <- seq(
-  aridity_limits[1],
-  aridity_limits[2],
-  length.out = 150
+aridity_palette <- c(
+  "#7F0000",
+  "#B30000",
+  "#D7301F",
+  "#F46D43",
+  "#FDAE61",
+  "#FEE08B",
+  "#D9D9D9",
+  "#E0F3F8",
+  "#ABD9E9",
+  "#74ADD1",
+  "#4575B4",
+  "#313695"
 )
 
 
-aridity_prediction_data <- data.frame(
-  avg_aridity_index =
-    aridity_sequence,
+theme_fdis_main <- function() {
   
-  water =
-    reference_water,
-  
-  shrub_and_scrub =
-    reference_shrub,
-  
-  built =
-    reference_built,
-  
-  duration_minutes =
-    reference_duration,
-  
-  effort_distance_km =
-    reference_distance,
-  
-  protocol_name =
-    reference_protocol,
-  
-  NAME10 =
-    reference_city,
-  
-  locality_id =
-    reference_locality
-)
-
-
-aridity_prediction <- predict(
-  fdis_model_final,
-  newdata =
-    aridity_prediction_data,
-  type = "response",
-  se.fit = TRUE,
-  exclude = c(
-    "s(NAME10)",
-    "s(locality_id)"
-  )
-)
-
-
-aridity_prediction_data$fit <-
-  as.numeric(
-    aridity_prediction$fit
-  )
-
-
-aridity_prediction_data$se <-
-  as.numeric(
-    aridity_prediction$se.fit
-  )
-
-
-aridity_prediction_data$lower <-
-  aridity_prediction_data$fit -
-  1.96 *
-  aridity_prediction_data$se
-
-
-aridity_prediction_data$upper <-
-  aridity_prediction_data$fit +
-  1.96 *
-  aridity_prediction_data$se
-
-
-aridity_plot_data <- data.frame(
-  predictor =
-    "Aridity index\n(higher = less arid)",
-  
-  x_value =
-    aridity_prediction_data$avg_aridity_index,
-  
-  fit =
-    aridity_prediction_data$fit,
-  
-  lower =
-    aridity_prediction_data$lower,
-  
-  upper =
-    aridity_prediction_data$upper
-)
-
-
-# ------------------------------------------------------------
-# 44. Water prediction data
-# ------------------------------------------------------------
-
-water_limits <- quantile(
-  fdis_data$water,
-  probs = c(
-    0.05,
-    0.95
-  ),
-  na.rm = TRUE
-)
-
-
-water_sequence <- seq(
-  water_limits[1],
-  water_limits[2],
-  length.out = 150
-)
-
-
-water_prediction_data <- data.frame(
-  avg_aridity_index =
-    reference_aridity,
-  
-  water =
-    water_sequence,
-  
-  shrub_and_scrub =
-    reference_shrub,
-  
-  built =
-    reference_built,
-  
-  duration_minutes =
-    reference_duration,
-  
-  effort_distance_km =
-    reference_distance,
-  
-  protocol_name =
-    reference_protocol,
-  
-  NAME10 =
-    reference_city,
-  
-  locality_id =
-    reference_locality
-)
-
-
-water_prediction <- predict(
-  fdis_model_final,
-  newdata =
-    water_prediction_data,
-  type = "response",
-  se.fit = TRUE,
-  exclude = c(
-    "s(NAME10)",
-    "s(locality_id)"
-  )
-)
-
-
-water_prediction_data$fit <-
-  as.numeric(
-    water_prediction$fit
-  )
-
-
-water_prediction_data$se <-
-  as.numeric(
-    water_prediction$se.fit
-  )
-
-
-water_prediction_data$lower <-
-  water_prediction_data$fit -
-  1.96 *
-  water_prediction_data$se
-
-
-water_prediction_data$upper <-
-  water_prediction_data$fit +
-  1.96 *
-  water_prediction_data$se
-
-
-water_plot_data <- data.frame(
-  predictor =
-    "Water cover (%)",
-  
-  x_value =
-    water_prediction_data$water *
-    habitat_scale_factor,
-  
-  fit =
-    water_prediction_data$fit,
-  
-  lower =
-    water_prediction_data$lower,
-  
-  upper =
-    water_prediction_data$upper
-)
-
-
-# ------------------------------------------------------------
-# 45. Shrub/scrub prediction data
-# ------------------------------------------------------------
-
-shrub_limits <- quantile(
-  fdis_data$shrub_and_scrub,
-  probs = c(
-    0.05,
-    0.95
-  ),
-  na.rm = TRUE
-)
-
-
-shrub_sequence <- seq(
-  shrub_limits[1],
-  shrub_limits[2],
-  length.out = 150
-)
-
-
-shrub_prediction_data <- data.frame(
-  avg_aridity_index =
-    reference_aridity,
-  
-  water =
-    reference_water,
-  
-  shrub_and_scrub =
-    shrub_sequence,
-  
-  built =
-    reference_built,
-  
-  duration_minutes =
-    reference_duration,
-  
-  effort_distance_km =
-    reference_distance,
-  
-  protocol_name =
-    reference_protocol,
-  
-  NAME10 =
-    reference_city,
-  
-  locality_id =
-    reference_locality
-)
-
-
-shrub_prediction <- predict(
-  fdis_model_final,
-  newdata =
-    shrub_prediction_data,
-  type = "response",
-  se.fit = TRUE,
-  exclude = c(
-    "s(NAME10)",
-    "s(locality_id)"
-  )
-)
-
-
-shrub_prediction_data$fit <-
-  as.numeric(
-    shrub_prediction$fit
-  )
-
-
-shrub_prediction_data$se <-
-  as.numeric(
-    shrub_prediction$se.fit
-  )
-
-
-shrub_prediction_data$lower <-
-  shrub_prediction_data$fit -
-  1.96 *
-  shrub_prediction_data$se
-
-
-shrub_prediction_data$upper <-
-  shrub_prediction_data$fit +
-  1.96 *
-  shrub_prediction_data$se
-
-
-shrub_plot_data <- data.frame(
-  predictor =
-    "Shrub and scrub cover (%)",
-  
-  x_value =
-    shrub_prediction_data$shrub_and_scrub *
-    habitat_scale_factor,
-  
-  fit =
-    shrub_prediction_data$fit,
-  
-  lower =
-    shrub_prediction_data$lower,
-  
-  upper =
-    shrub_prediction_data$upper
-)
-
-
-# ------------------------------------------------------------
-# 46. Combine publication prediction data
-# ------------------------------------------------------------
-
-fdis_conditional_effects <- bind_rows(
-  aridity_plot_data,
-  water_plot_data,
-  shrub_plot_data
-) %>%
-  mutate(
-    predictor = factor(
-      predictor,
-      levels = c(
-        "Aridity index\n(higher = less arid)",
-        "Water cover (%)",
-        "Shrub and scrub cover (%)"
-      )
-    )
-  )
-
-
-# ------------------------------------------------------------
-# 47. Main publication figure
-# ------------------------------------------------------------
-#
-# Each panel shows the conditional population-level relationship
-# between FDis and one focal predictor.
-#
-# Other habitat and effort predictors are held at their median
-# values, protocol is held at Stationary, and city/locality
-# random effects are excluded.
-# ------------------------------------------------------------
-
-fig_fdis_main <- ggplot(
-  fdis_conditional_effects,
-  aes(
-    x = x_value,
-    y = fit
-  )
-) +
-  geom_ribbon(
-    aes(
-      ymin = lower,
-      ymax = upper
-    ),
-    fill = "grey80",
-    alpha = 0.7
-  ) +
-  geom_line(
-    linewidth = 0.9
-  ) +
-  facet_wrap(
-    ~ predictor,
-    scales = "free_x",
-    nrow = 1
-  ) +
-  labs(
-    x = NULL,
-    y = "Predicted functional dispersion"
-  ) +
   theme_classic(
     base_size = 12
   ) +
-  theme(
-    strip.background =
-      element_blank(),
-    
-    strip.text =
-      element_text(
-        face = "bold",
-        size = 11
-      )
-  )
+    theme(
+      axis.text =
+        element_text(
+          colour = "black"
+        ),
+      
+      plot.title =
+        element_text(
+          face = "bold",
+          size = 12,
+          hjust = 0.5
+        )
+    )
+}
 
 
-print(
-  fig_fdis_main
+aridity_color_scale <- scale_color_gradientn(
+  colors = aridity_palette,
+  values = c(
+    0.00,
+    0.07,
+    0.15,
+    0.25,
+    0.36,
+    0.46,
+    0.50,
+    0.56,
+    0.66,
+    0.76,
+    0.88,
+    1.00
+  ),
+  limits = c(
+    0,
+    1
+  ),
+  breaks = c(
+    0,
+    0.5,
+    1
+  ),
+  labels = c(
+    "More arid",
+    "Intermediate",
+    "Less arid"
+  ),
+  name = "Aridity gradient"
 )
 
 
 # ------------------------------------------------------------
-# 48. Automated QC summary
+# 44. Panel A: Aridity
+# ------------------------------------------------------------
+
+fig_fdis_aridity <- ggplot(
+  fdis_city_plot,
+  aes(
+    x = avg_aridity_index,
+    y = mean_fdis
+  )
+) +
+  geom_point(
+    alpha = 0.45,
+    size = 1.8
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Aridity index (higher = less arid)",
+    y = "Mean functional dispersion",
+    title = "Aridity"
+  ) +
+  theme_fdis_main() +
+  theme(
+    legend.position = "none"
+  )
+
+
+# ------------------------------------------------------------
+# 45. Panel B: Water cover
+# ------------------------------------------------------------
+
+fig_fdis_water <- ggplot(
+  fdis_locality_plot,
+  aes(
+    x = water_plot,
+    y = mean_fdis
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Water cover (%)",
+    y = "Mean functional dispersion",
+    title = "Water"
+  ) +
+  theme_fdis_main()
+
+
+# ------------------------------------------------------------
+# 46. Panel C: Shrub and scrub cover
+# ------------------------------------------------------------
+
+fig_fdis_shrub <- ggplot(
+  fdis_locality_plot,
+  aes(
+    x = shrub_plot,
+    y = mean_fdis
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Shrub and scrub cover (%)",
+    y = "Mean functional dispersion",
+    title = "Shrub and scrub"
+  ) +
+  theme_fdis_main()
+
+
+# ------------------------------------------------------------
+# 47. Panel D: Built cover
+# ------------------------------------------------------------
+
+fig_fdis_built <- ggplot(
+  fdis_locality_plot,
+  aes(
+    x = built_plot,
+    y = mean_fdis
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Built cover (%)",
+    y = "Mean functional dispersion",
+    title = "Built"
+  ) +
+  theme_fdis_main()
+
+
+# ------------------------------------------------------------
+# 48. Combine four empirical panels
+# ------------------------------------------------------------
+
+figure_04_main <- ggpubr::ggarrange(
+  fig_fdis_aridity,
+  fig_fdis_water,
+  fig_fdis_shrub,
+  fig_fdis_built,
+  ncol = 2,
+  nrow = 2,
+  labels = c(
+    "A",
+    "B",
+    "C",
+    "D"
+  ),
+  font.label = list(
+    size = 14,
+    face = "bold"
+  ),
+  common.legend = TRUE,
+  legend = "bottom"
+)
+
+
+print(
+  figure_04_main
+)
+
+
+# ------------------------------------------------------------
+# 49. Save main figure
+# ------------------------------------------------------------
+
+ggsave(
+  filename =
+    file.path(
+      FIGURE_DIR,
+      "Figure_04_Main_Data_Trends.png"
+    ),
+  plot =
+    figure_04_main,
+  width = 10,
+  height = 8,
+  units = "in",
+  dpi = 600,
+  bg = "white"
+)
+
+
+ggsave(
+  filename =
+    file.path(
+      FIGURE_DIR,
+      "Figure_04_Main_Data_Trends.pdf"
+    ),
+  plot =
+    figure_04_main,
+  width = 10,
+  height = 8,
+  units = "in",
+  bg = "white"
+)
+
+
+# ============================================================
+# MAIN STATISTICAL TABLE
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 50. Focal ecological term labels
+# ------------------------------------------------------------
+
+focal_term_labels <- c(
+  "s(avg_aridity_index)" =
+    "Aridity",
+  
+  "s(water)" =
+    "Water cover",
+  
+  "s(shrub_and_scrub)" =
+    "Shrub and scrub cover",
+  
+  "s(built)" =
+    "Built cover",
+  
+  "ti(avg_aridity_index,water)" =
+    "Aridity x Water",
+  
+  "ti(avg_aridity_index,shrub_and_scrub)" =
+    "Aridity x Shrub and scrub",
+  
+  "ti(avg_aridity_index,built)" =
+    "Aridity x Built"
+)
+
+
+# ------------------------------------------------------------
+# 51. P-value formatting helper
+# ------------------------------------------------------------
+
+format_p_value <- function(
+    p
+) {
+  
+  ifelse(
+    p < 0.001,
+    "<0.001",
+    sprintf(
+      "%.3f",
+      p
+    )
+  )
+}
+
+
+# ------------------------------------------------------------
+# 52. Build main model-results table
+# ------------------------------------------------------------
+
+table_04_main <- fdis_smooth_results %>%
+  filter(
+    term %in%
+      names(
+        focal_term_labels
+      )
+  ) %>%
+  mutate(
+    term_order =
+      match(
+        term,
+        names(
+          focal_term_labels
+        )
+      ),
+    
+    Predictor =
+      unname(
+        focal_term_labels[
+          term
+        ]
+      ),
+    
+    EDF =
+      sprintf(
+        "%.2f",
+        edf
+      ),
+    
+    Reference_df =
+      sprintf(
+        "%.2f",
+        Ref.df
+      ),
+    
+    F_statistic =
+      sprintf(
+        "%.2f",
+        F
+      ),
+    
+    P_value =
+      format_p_value(
+        `p-value`
+      )
+  ) %>%
+  arrange(
+    term_order
+  ) %>%
+  select(
+    Predictor,
+    EDF,
+    Reference_df,
+    F_statistic,
+    P_value
+  )
+
+
+names(
+  table_04_main
+) <- c(
+  "Predictor",
+  "EDF",
+  "Ref. df",
+  "F statistic",
+  "P-value"
+)
+
+
+if (
+  nrow(
+    table_04_main
+  ) !=
+  length(
+    focal_term_labels
+  )
+) {
+  
+  stop(
+    "Table 04 does not contain all seven focal ecological terms."
+  )
+}
+
+
+cat("\n============================================================\n")
+cat("TABLE 04 - MAIN MODEL RESULTS\n")
+cat("============================================================\n\n")
+
+
+print(
+  table_04_main,
+  row.names = FALSE
+)
+
+
+# ------------------------------------------------------------
+# 53. Save main statistical table
+# ------------------------------------------------------------
+
+write.csv(
+  table_04_main,
+  file =
+    file.path(
+      TABLE_DIR,
+      "Table_04_Main_Model_Results.csv"
+    ),
+  row.names = FALSE
+)
+
+
+# ============================================================
+# MANUSCRIPT-SYNTHESIS EXPORT
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 54. Build standardized manuscript-input bundle
+# ------------------------------------------------------------
+
+fdis_model_metadata <- data.frame(
+  response_id =
+    "Functional_Dispersion",
+  
+  response_label =
+    "Functional dispersion",
+  
+  response_variable =
+    "FDis",
+  
+  model_family =
+    "Gaussian",
+  
+  link =
+    "identity",
+  
+  analysis_subset =
+    "Multispecies assemblages (sr >= 2)",
+  
+  n_cities =
+    n_distinct(
+      fdis_data$NAME10
+    ),
+  
+  n_localities =
+    n_distinct(
+      fdis_data$locality_id
+    ),
+  
+  n_checklists =
+    nrow(
+      fdis_data
+    ),
+  
+  adjusted_R2 =
+    fdis_summary$r.sq,
+  
+  deviance_explained =
+    fdis_summary$dev.expl,
+  
+  family_parameter =
+    fdis_sigma,
+  
+  family_parameter_name =
+    "residual_sd",
+  
+  additive_AIC =
+    AIC(
+      fdis_model_additive
+    ),
+  
+  final_AIC =
+    AIC(
+      fdis_model_final
+    ),
+  
+  stringsAsFactors = FALSE
+)
+
+
+functional_dispersion_manuscript_input <- list(
+  response_id =
+    "Functional_Dispersion",
+  
+  response_label =
+    "Functional dispersion",
+  
+  response_variable =
+    "FDis",
+  
+  analysis_data =
+    fdis_data,
+  
+  final_model =
+    fdis_model_final,
+  
+  smooth_results =
+    fdis_smooth_results,
+  
+  parametric_results =
+    fdis_parametric_results,
+  
+  focal_results =
+    table_04_main,
+  
+  model_metadata =
+    fdis_model_metadata,
+  
+  plot_data = list(
+    city =
+      fdis_city_plot,
+    
+    locality =
+      fdis_locality_plot
+  )
+)
+
+
+functional_dispersion_manuscript_file <- file.path(
+  DATA_DIR,
+  "Functional_Dispersion_Manuscript_Input.rds"
+)
+
+
+saveRDS(
+  functional_dispersion_manuscript_input,
+  functional_dispersion_manuscript_file
+)
+
+
+if (
+  !file.exists(
+    functional_dispersion_manuscript_file
+  )
+) {
+  
+  stop(
+    "Functional-dispersion manuscript-input RDS was not created."
+  )
+}
+
+
+cat("\n============================================================\n")
+cat("MANUSCRIPT-SYNTHESIS EXPORT\n")
+cat("============================================================\n\n")
+
+
+cat(
+  "Saved manuscript input:\n",
+  functional_dispersion_manuscript_file,
+  "\n",
+  sep = ""
+)
+
+
+# ------------------------------------------------------------
+# 55. Automated QC summary
 # ------------------------------------------------------------
 
 qc_balanced_sample <-
@@ -2389,7 +2707,73 @@ cat(
 
 
 # ------------------------------------------------------------
-# 49. Final analysis summary
+# 56. Output check
+# ------------------------------------------------------------
+
+expected_output_files <- c(
+  file.path(
+    FIGURE_DIR,
+    "Figure_04_Main_Data_Trends.png"
+  ),
+  
+  file.path(
+    FIGURE_DIR,
+    "Figure_04_Main_Data_Trends.pdf"
+  ),
+  
+  file.path(
+    TABLE_DIR,
+    "Table_04_Main_Model_Results.csv"
+  ),
+  
+  file.path(
+    DATA_DIR,
+    "Functional_Dispersion_Manuscript_Input.rds"
+  )
+)
+
+
+output_check <- file.exists(
+  expected_output_files
+)
+
+
+cat("\n============================================================\n")
+cat("OUTPUT FILE CHECK\n")
+cat("============================================================\n\n")
+
+
+print(
+  data.frame(
+    file =
+      expected_output_files,
+    
+    exists =
+      output_check
+  ),
+  row.names = FALSE
+)
+
+
+if (
+  !all(
+    output_check
+  )
+) {
+  
+  stop(
+    "One or more expected Script 04 outputs were not created."
+  )
+}
+
+
+cat(
+  "\nPASS: All Script 04 outputs were created.\n"
+)
+
+
+# ------------------------------------------------------------
+# 57. Final analysis summary
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -2487,6 +2871,17 @@ cat(
 
 
 cat(
+  "Residual SD:                    ",
+  round(
+    fdis_sigma,
+    4
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
   "Basis-dimension follow-up:      ",
   k_followup_flag,
   "\n",
@@ -2504,57 +2899,38 @@ cat(
 )
 
 
-# ------------------------------------------------------------
-# 50. Optional figure saving
-# ------------------------------------------------------------
+cat(
+  "\nPublication figure:\n",
+  file.path(
+    FIGURE_DIR,
+    "Figure_04_Main_Data_Trends.png"
+  ),
+  "\n",
+  sep = ""
+)
 
-if (
-  SAVE_FIGURES
-) {
-  
-  figure_directory <- file.path(
-    "Outputs",
-    "04_Functional_Dispersion",
-    "Figures"
-  )
-  
-  
-  dir.create(
-    figure_directory,
-    recursive = TRUE,
-    showWarnings = FALSE
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FDis_Distribution.pdf"
-      ),
-    plot =
-      fig_fdis_distribution,
-    width = 5.5,
-    height = 4
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FDis_Conditional_Effects.pdf"
-      ),
-    plot =
-      fig_fdis_main,
-    width = 9,
-    height = 3.8
-  )
-}
+
+cat(
+  "\nPublication table:\n",
+  file.path(
+    TABLE_DIR,
+    "Table_04_Main_Model_Results.csv"
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "\nManuscript input:\n",
+  functional_dispersion_manuscript_file,
+  "\n",
+  sep = ""
+)
 
 
 # ------------------------------------------------------------
-# 51. Overall interpretation
+# 58. Overall interpretation
 # ------------------------------------------------------------
 #
 # The final FDis analysis is restricted to multispecies
@@ -2620,6 +2996,24 @@ if (
 #   indicating model failure. Basis dimensions are adequate,
 #   the model is full rank and converged, and fitted FDis values
 #   remain non-negative.
+#
+# Figure interpretation:
+#
+# - Panel A shows the city-level empirical aridity-FDis
+#   relationship.
+#
+# - Panels B-D show locality-level habitat-FDis relationships,
+#   with point color representing percentile rank along the
+#   continuous city-level aridity gradient.
+#
+# - Warm colors indicate more-arid cities and cool colors
+#   indicate less-arid cities. Percentile rank is used only for
+#   visualization; the BAM uses the original continuous aridity
+#   index.
+#
+# - The descriptive GAM lines are not the source of inferential
+#   tests; inference comes from the full Gaussian BAM summarized
+#   in Table 04.
 #
 # Overall, functional dispersion among multispecies bird
 # assemblages appears to respond to both the regional aridity
