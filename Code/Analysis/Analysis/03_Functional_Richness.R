@@ -10,13 +10,14 @@
 # Sampling design:
 #
 #   1. Retain Stationary and Traveling checklists
-#   2. Duration <= 300 minutes
-#   3. Distance <= 5 km
-#   4. Retain checklists with non-missing FRic
-#   5. Require >= 5 FRic checklists per locality
-#   6. Require >= 5 eligible localities per city
-#   7. Randomly sample 5 localities per city
-#   8. Randomly sample 5 checklists per locality
+#   2. Stationary checklist distance = 0 km
+#   3. Duration <= 300 minutes
+#   4. Distance <= 5 km
+#   5. Retain checklists with defined FRic
+#   6. Require >= 5 valid FRic checklists per locality
+#   7. Require >= 5 eligible localities per city
+#   8. Randomly sample 5 localities per city
+#   9. Randomly sample 5 checklists per selected locality
 #
 # Candidate models:
 #
@@ -28,13 +29,51 @@
 # a priori ecological hypotheses and allow direct comparison
 # among biodiversity responses.
 #
-# Publication figures:
+# Final response family:
 #
-#   1. FRic response distribution
-#   2. Conditional effects of:
-#        - Aridity
-#        - Water cover
-#        - Shrub/scrub cover
+#   Beta regression with logit link
+#
+# Publication / meeting outputs:
+#
+#   Outputs/
+#     03_Functional_Richness/
+#       Figure/
+#         Figure_03_Main_Data_Trends.png
+#         Figure_03_Main_Data_Trends.pdf
+#
+#       Table/
+#         Table_03_Main_Model_Results.csv
+#
+#       Data/
+#         Functional_Richness_Manuscript_Input.rds
+#
+# Main figure:
+#
+#   A. Aridity vs mean functional richness
+#   B. Water cover vs mean functional richness
+#   C. Shrub/scrub cover vs mean functional richness
+#   D. Built cover vs mean functional richness
+#
+# Aridity is plotted at the city level because aridity is a
+# city-level predictor.
+#
+# Habitat variables are plotted at the locality level because
+# water, shrub/scrub, and built cover are locality-level
+# predictors.
+#
+# Panels B-D color locality points by the percentile rank of
+# the continuous city-level aridity index:
+#   warmer colors = more arid
+#   cooler colors = less arid
+#
+# Percentile rank is used only for visualization so the full
+# warm-to-cool color range is represented across the observed
+# data. The statistical models continue to use the original
+# continuous aridity index.
+#
+# Figure smooths are descriptive and unadjusted.
+# Statistical inference comes from the full beta BAM and is
+# summarized in Table 03.
 #
 # Canonical input:
 #
@@ -50,6 +89,7 @@
 library(dplyr)
 library(ggplot2)
 library(mgcv)
+library(ggpubr)
 
 
 # ------------------------------------------------------------
@@ -65,26 +105,59 @@ N_LOCALITIES_PER_CITY <- 5
 N_CHECKLISTS_PER_LOCALITY <- 5
 
 
-# Same sampling seeds used across biodiversity responses.
-
 LOCALITY_SAMPLE_SEED <- 20260911
 
 CHECKLIST_SAMPLE_SEED <- 20260912
 
+K_CHECK_SEED <- 20260912
 
-# Temporary duplicate handling.
 
 TEMPORARY_DEDUPLICATE <- TRUE
 
 
-# Figures are returned as R objects by default.
-# Change to TRUE only when ready to save final figures.
+# ------------------------------------------------------------
+# 3. Output directories
+# ------------------------------------------------------------
 
-SAVE_FIGURES <- FALSE
+OUTPUT_ROOT <- file.path(
+  "Outputs",
+  "03_Functional_Richness"
+)
+
+
+FIGURE_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Figure"
+)
+
+
+TABLE_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Table"
+)
+
+
+DATA_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Data"
+)
+
+
+for (x in c(
+  FIGURE_DIR,
+  TABLE_DIR,
+  DATA_DIR
+)) {
+  dir.create(
+    x,
+    recursive = TRUE,
+    showWarnings = FALSE
+  )
+}
 
 
 # ------------------------------------------------------------
-# 3. Load combined dataset
+# 4. Load combined dataset
 # ------------------------------------------------------------
 
 data_path <- file.path(
@@ -94,7 +167,11 @@ data_path <- file.path(
 )
 
 
-if (!file.exists(data_path)) {
+if (
+  !file.exists(
+    data_path
+  )
+) {
   
   stop(
     "combined_data.RDS was not found at:\n",
@@ -115,21 +192,22 @@ cat("============================================================\n\n")
 
 cat(
   "Rows in combined_data: ",
-  nrow(combined_data),
+  nrow(
+    combined_data
+  ),
   "\n",
   sep = ""
 )
 
 
 # ------------------------------------------------------------
-# 4. Required-variable check
+# 5. Required-variable check
 # ------------------------------------------------------------
 
 required_variables <- c(
   "checklist_id",
   "locality_id",
   "NAME10",
-  "state_name",
   "protocol_name",
   "duration_minutes",
   "effort_distance_km",
@@ -143,11 +221,17 @@ required_variables <- c(
 
 missing_variables <- setdiff(
   required_variables,
-  names(combined_data)
+  names(
+    combined_data
+  )
 )
 
 
-if (length(missing_variables) > 0) {
+if (
+  length(
+    missing_variables
+  ) > 0
+) {
   
   stop(
     "Required variables are missing:\n",
@@ -165,7 +249,7 @@ cat(
 
 
 # ------------------------------------------------------------
-# 5. Duplicate checklist handling
+# 6. Duplicate checklist handling
 # ------------------------------------------------------------
 
 duplicate_checklists <- combined_data %>%
@@ -180,14 +264,18 @@ duplicate_checklists <- combined_data %>%
 
 cat(
   "\nDuplicated checklist IDs in input: ",
-  nrow(duplicate_checklists),
+  nrow(
+    duplicate_checklists
+  ),
   "\n",
   sep = ""
 )
 
 
 if (
-  nrow(duplicate_checklists) > 0 &&
+  nrow(
+    duplicate_checklists
+  ) > 0 &&
   !TEMPORARY_DEDUPLICATE
 ) {
   
@@ -198,7 +286,9 @@ if (
 
 
 if (
-  nrow(duplicate_checklists) > 0 &&
+  nrow(
+    duplicate_checklists
+  ) > 0 &&
   TEMPORARY_DEDUPLICATE
 ) {
   
@@ -216,14 +306,16 @@ if (
 
 cat(
   "Rows after duplicate handling: ",
-  nrow(analysis_base),
+  nrow(
+    analysis_base
+  ),
   "\n",
   sep = ""
 )
 
 
 # ------------------------------------------------------------
-# 6. Apply protocol and effort filters
+# 7. Apply protocol and effort filters
 # ------------------------------------------------------------
 
 fric_pool <- analysis_base %>%
@@ -254,15 +346,24 @@ cat("============================================================\n\n")
 
 fric_pool %>%
   summarise(
-    n_checklists = n(),
-    n_localities = n_distinct(locality_id),
-    n_cities = n_distinct(NAME10)
+    n_checklists =
+      n(),
+    
+    n_localities =
+      n_distinct(
+        locality_id
+      ),
+    
+    n_cities =
+      n_distinct(
+        NAME10
+      )
   ) %>%
   print()
 
 
 # ------------------------------------------------------------
-# 7. Examine FRic before removing missing values
+# 8. Examine FRic before removing missing values
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -350,31 +451,29 @@ print(
 
 
 # ------------------------------------------------------------
-# 8. Remove undefined FRic values
-# ------------------------------------------------------------
-#
-# FRic is undefined for some low-richness checklists.
-#
-# FRic-specific sampling eligibility is therefore determined
-# after removing missing FRic values.
+# 9. Remove undefined FRic values
 # ------------------------------------------------------------
 
 fric_pool <- fric_pool %>%
   filter(
-    !is.na(FRic)
+    !is.na(
+      FRic
+    )
   )
 
 
 cat(
   "\nRows with defined FRic: ",
-  nrow(fric_pool),
+  nrow(
+    fric_pool
+  ),
   "\n",
   sep = ""
 )
 
 
 # ------------------------------------------------------------
-# 9. Complete-case restriction
+# 10. Complete-case restriction
 # ------------------------------------------------------------
 
 model_variables <- c(
@@ -402,11 +501,21 @@ missing_summary <- data.frame(
       ],
       function(x) {
         sum(
-          is.na(x)
+          is.na(
+            x
+          )
         )
       }
     )
 )
+
+
+missing_summary$missing_percent <-
+  100 *
+  missing_summary$missing_n /
+  nrow(
+    fric_pool
+  )
 
 
 cat("\n============================================================\n")
@@ -431,7 +540,7 @@ fric_pool <- fric_pool %>%
 
 
 # ------------------------------------------------------------
-# 10. Identify eligible localities
+# 11. Identify eligible localities
 # ------------------------------------------------------------
 
 locality_sampling <- fric_pool %>%
@@ -450,7 +559,7 @@ eligible_localities <- locality_sampling %>%
 
 
 # ------------------------------------------------------------
-# 11. Identify eligible cities
+# 12. Identify eligible cities
 # ------------------------------------------------------------
 
 city_sampling <- eligible_localities %>%
@@ -474,7 +583,9 @@ cat("============================================================\n\n")
 
 cat(
   "Eligible localities: ",
-  nrow(eligible_localities),
+  nrow(
+    eligible_localities
+  ),
   "\n",
   sep = ""
 )
@@ -482,14 +593,16 @@ cat(
 
 cat(
   "Eligible cities:     ",
-  nrow(eligible_cities),
+  nrow(
+    eligible_cities
+  ),
   "\n",
   sep = ""
 )
 
 
 # ------------------------------------------------------------
-# 12. Create eligible sampling pool
+# 13. Create eligible sampling pool
 # ------------------------------------------------------------
 
 eligible_pool <- fric_pool %>%
@@ -507,7 +620,7 @@ eligible_pool <- fric_pool %>%
 
 
 # ------------------------------------------------------------
-# 13. Sample five localities per city
+# 14. Sample five localities per city
 # ------------------------------------------------------------
 
 set.seed(
@@ -528,13 +641,14 @@ selected_localities <- eligible_localities %>%
     NAME10
   ) %>%
   slice_sample(
-    n = N_LOCALITIES_PER_CITY
+    n =
+      N_LOCALITIES_PER_CITY
   ) %>%
   ungroup()
 
 
 # ------------------------------------------------------------
-# 14. Sample five FRic checklists per locality
+# 15. Sample five FRic checklists per locality
 # ------------------------------------------------------------
 
 set.seed(
@@ -560,13 +674,14 @@ fric_data <- eligible_pool %>%
     locality_id
   ) %>%
   slice_sample(
-    n = N_CHECKLISTS_PER_LOCALITY
+    n =
+      N_CHECKLISTS_PER_LOCALITY
   ) %>%
   ungroup()
 
 
 # ------------------------------------------------------------
-# 15. Balanced sample QC
+# 16. Balanced sample QC
 # ------------------------------------------------------------
 
 locality_qc <- fric_data %>%
@@ -592,6 +707,27 @@ city_qc <- fric_data %>%
     
     .groups = "drop"
   )
+
+
+bad_localities <- sum(
+  locality_qc$n_checklists !=
+    N_CHECKLISTS_PER_LOCALITY
+)
+
+
+bad_cities_localities <- sum(
+  city_qc$n_localities !=
+    N_LOCALITIES_PER_CITY
+)
+
+
+bad_cities_checklists <- sum(
+  city_qc$n_checklists !=
+    (
+      N_LOCALITIES_PER_CITY *
+        N_CHECKLISTS_PER_LOCALITY
+    )
+)
 
 
 cat("\n============================================================\n")
@@ -631,10 +767,7 @@ cat(
 
 cat(
   "Localities with != 5 checklists: ",
-  sum(
-    locality_qc$n_checklists !=
-      N_CHECKLISTS_PER_LOCALITY
-  ),
+  bad_localities,
   "\n",
   sep = ""
 )
@@ -642,10 +775,7 @@ cat(
 
 cat(
   "Cities with != 5 localities: ",
-  sum(
-    city_qc$n_localities !=
-      N_LOCALITIES_PER_CITY
-  ),
+  bad_cities_localities,
   "\n",
   sep = ""
 )
@@ -653,30 +783,16 @@ cat(
 
 cat(
   "Cities with != 25 checklists: ",
-  sum(
-    city_qc$n_checklists !=
-      N_LOCALITIES_PER_CITY *
-      N_CHECKLISTS_PER_LOCALITY
-  ),
+  bad_cities_checklists,
   "\n",
   sep = ""
 )
 
 
 if (
-  any(
-    locality_qc$n_checklists !=
-    N_CHECKLISTS_PER_LOCALITY
-  ) ||
-  any(
-    city_qc$n_localities !=
-    N_LOCALITIES_PER_CITY
-  ) ||
-  any(
-    city_qc$n_checklists !=
-    N_LOCALITIES_PER_CITY *
-    N_CHECKLISTS_PER_LOCALITY
-  )
+  bad_localities > 0 ||
+  bad_cities_localities > 0 ||
+  bad_cities_checklists > 0
 ) {
   
   stop(
@@ -691,7 +807,7 @@ cat(
 
 
 # ------------------------------------------------------------
-# 16. Prepare factors
+# 17. Prepare factors
 # ------------------------------------------------------------
 
 fric_data <- fric_data %>%
@@ -718,7 +834,7 @@ fric_data <- fric_data %>%
 
 
 # ------------------------------------------------------------
-# 17. Examine final FRic response distribution
+# 18. Examine final FRic response distribution
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -774,7 +890,7 @@ cat(
 
 
 # ------------------------------------------------------------
-# 18. Confirm beta-family requirements
+# 19. Confirm beta-family requirements
 # ------------------------------------------------------------
 
 n_boundary <- sum(
@@ -820,7 +936,7 @@ cat(
 
 
 # ------------------------------------------------------------
-# 19. Additive model formula
+# 20. Additive model formula
 # ------------------------------------------------------------
 
 fric_formula_additive <- FRic ~
@@ -860,7 +976,7 @@ fric_formula_additive <- FRic ~
 
 
 # ------------------------------------------------------------
-# 20. Interaction model formula
+# 21. Interaction model formula
 # ------------------------------------------------------------
 
 fric_formula_interaction <- FRic ~
@@ -924,7 +1040,7 @@ fric_formula_interaction <- FRic ~
 
 
 # ------------------------------------------------------------
-# 21. Fit additive beta BAM
+# 22. Fit additive beta BAM
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -932,40 +1048,28 @@ cat("FITTING ADDITIVE FRIC BAM\n")
 cat("============================================================\n\n")
 
 
-additive_fit_time <- system.time(
+fric_model_additive <- bam(
+  formula =
+    fric_formula_additive,
   
-  fric_model_additive <- bam(
-    formula =
-      fric_formula_additive,
-    
-    family =
-      betar(
-        link = "logit"
-      ),
-    
-    data =
-      fric_data,
-    
-    method =
-      "fREML",
-    
-    discrete =
-      TRUE
-  )
+  family =
+    betar(
+      link = "logit"
+    ),
   
-)
-
-
-cat("\nAdditive BAM fit time:\n")
-
-
-print(
-  additive_fit_time
+  data =
+    fric_data,
+  
+  method =
+    "fREML",
+  
+  discrete =
+    TRUE
 )
 
 
 # ------------------------------------------------------------
-# 22. Fit interaction beta BAM
+# 23. Fit interaction beta BAM
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -973,40 +1077,28 @@ cat("FITTING INTERACTION FRIC BAM\n")
 cat("============================================================\n\n")
 
 
-interaction_fit_time <- system.time(
+fric_model_interaction <- bam(
+  formula =
+    fric_formula_interaction,
   
-  fric_model_interaction <- bam(
-    formula =
-      fric_formula_interaction,
-    
-    family =
-      betar(
-        link = "logit"
-      ),
-    
-    data =
-      fric_data,
-    
-    method =
-      "fREML",
-    
-    discrete =
-      TRUE
-  )
+  family =
+    betar(
+      link = "logit"
+    ),
   
-)
-
-
-cat("\nInteraction BAM fit time:\n")
-
-
-print(
-  interaction_fit_time
+  data =
+    fric_data,
+  
+  method =
+    "fREML",
+  
+  discrete =
+    TRUE
 )
 
 
 # ------------------------------------------------------------
-# 23. Candidate-model summaries
+# 24. Candidate-model summaries
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -1034,7 +1126,7 @@ print(
 
 
 # ------------------------------------------------------------
-# 24. Compare candidate models
+# 25. Compare candidate models
 # ------------------------------------------------------------
 
 additive_summary <- summary(
@@ -1096,7 +1188,7 @@ print(
 
 
 # ------------------------------------------------------------
-# 25. Candidate-model convergence
+# 26. Candidate-model convergence
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
@@ -1145,34 +1237,6 @@ cat(
   ),
   "\n",
   sep = ""
-)
-
-
-# ------------------------------------------------------------
-# 26. Preliminary basis checks
-# ------------------------------------------------------------
-
-cat("\n============================================================\n")
-cat("ADDITIVE MODEL K CHECK\n")
-cat("============================================================\n\n")
-
-
-print(
-  k.check(
-    fric_model_additive
-  )
-)
-
-
-cat("\n============================================================\n")
-cat("INTERACTION MODEL K CHECK\n")
-cat("============================================================\n\n")
-
-
-print(
-  k.check(
-    fric_model_interaction
-  )
 )
 
 
@@ -1256,21 +1320,67 @@ cat(
 
 
 # ------------------------------------------------------------
-# 29. Basis-dimension check
+# 29. Stable basis-dimension check
 # ------------------------------------------------------------
 
 cat("\n============================================================\n")
-cat("FRIC BASIS DIMENSION CHECK\n")
+cat("FRIC STABLE BASIS-DIMENSION CHECK\n")
 cat("============================================================\n\n")
 
 
+set.seed(
+  K_CHECK_SEED
+)
+
+
 fric_k_check <- k.check(
-  fric_model_final
+  fric_model_final,
+  n.rep = 1000
 )
 
 
 print(
   fric_k_check
+)
+
+
+k_valid_rows <- !is.na(
+  fric_k_check[
+    ,
+    "k-index"
+  ]
+)
+
+
+k_followup_flag <- any(
+  fric_k_check[
+    k_valid_rows,
+    "k-index"
+  ] < 1 &
+    
+    fric_k_check[
+      k_valid_rows,
+      "p-value"
+    ] < 0.05 &
+    
+    (
+      fric_k_check[
+        k_valid_rows,
+        "edf"
+      ] /
+        fric_k_check[
+          k_valid_rows,
+          "k'"
+        ]
+    ) >= 0.80
+)
+
+
+cat(
+  "\nBasis-dimension follow-up required: ",
+  k_followup_flag,
+  "\n",
+  sep = ""
 )
 
 
@@ -1379,7 +1489,7 @@ print(
 
 
 # ------------------------------------------------------------
-# 34. Residual summaries
+# 34. Residual diagnostics
 # ------------------------------------------------------------
 
 fric_pearson_residuals <- residuals(
@@ -1428,17 +1538,8 @@ print(
 )
 
 
-# ------------------------------------------------------------
-# 35. Extreme Pearson residuals
-# ------------------------------------------------------------
-
-cat("\n============================================================\n")
-cat("FRIC EXTREME RESIDUALS\n")
-cat("============================================================\n\n")
-
-
 cat(
-  "Absolute Pearson residual > 2: ",
+  "\nAbsolute Pearson residual > 2: ",
   sum(
     abs(
       fric_pearson_residuals
@@ -1481,17 +1582,13 @@ cat(
 )
 
 
-# ------------------------------------------------------------
-# 36. Residuals versus fitted
-# ------------------------------------------------------------
-
 plot(
   fric_fitted_values,
   fric_pearson_residuals,
   pch = 16,
   cex = 0.5,
   xlab = "Fitted functional richness",
-  ylab = "Pearson residuals"
+  ylab = "Pearson residual"
 )
 
 
@@ -1501,10 +1598,6 @@ abline(
 )
 
 
-# ------------------------------------------------------------
-# 37. QQ diagnostic
-# ------------------------------------------------------------
-
 qq.gam(
   fric_model_final,
   rep = 100,
@@ -1512,9 +1605,10 @@ qq.gam(
 )
 
 
-# ------------------------------------------------------------
-# 38. Standard GAM diagnostics
-# ------------------------------------------------------------
+set.seed(
+  K_CHECK_SEED
+)
+
 
 gam.check(
   fric_model_final
@@ -1522,7 +1616,7 @@ gam.check(
 
 
 # ------------------------------------------------------------
-# 39. Final parametric-term table
+# 35. Extract model results
 # ------------------------------------------------------------
 
 fric_parametric_results <- as.data.frame(
@@ -1542,21 +1636,6 @@ fric_parametric_results <- fric_parametric_results %>%
   )
 
 
-cat("\n============================================================\n")
-cat("FINAL FRIC PARAMETRIC TERMS\n")
-cat("============================================================\n\n")
-
-
-print(
-  fric_parametric_results,
-  row.names = FALSE
-)
-
-
-# ------------------------------------------------------------
-# 40. Final smooth-term table
-# ------------------------------------------------------------
-
 fric_smooth_results <- as.data.frame(
   fric_summary$s.table
 )
@@ -1575,6 +1654,17 @@ fric_smooth_results <- fric_smooth_results %>%
 
 
 cat("\n============================================================\n")
+cat("FINAL FRIC PARAMETRIC TERMS\n")
+cat("============================================================\n\n")
+
+
+print(
+  fric_parametric_results,
+  row.names = FALSE
+)
+
+
+cat("\n============================================================\n")
 cat("FINAL FRIC SMOOTH TERMS\n")
 cat("============================================================\n\n")
 
@@ -1586,8 +1676,13 @@ print(
 
 
 # ------------------------------------------------------------
-# 41. Final model fit
+# 36. Final model fit
 # ------------------------------------------------------------
+
+fric_precision <- fric_model_final$family$getTheta(
+  TRUE
+)
+
 
 cat("\n============================================================\n")
 cat("FINAL FRIC MODEL FIT\n")
@@ -1620,9 +1715,7 @@ cat(
 cat(
   "Beta precision parameter: ",
   round(
-    fric_model_final$family$getTheta(
-      TRUE
-    ),
+    fric_precision,
     3
   ),
   "\n",
@@ -1630,176 +1723,105 @@ cat(
 )
 
 
-# ------------------------------------------------------------
-# 42. Diagnostic smooth plots
-# ------------------------------------------------------------
-#
-# Smooth order:
-#
-#   1  Aridity
-#   2  Water
-#   3  Shrub/scrub
-#   4  Built
-#   5  Aridity x water
-#   6  Aridity x shrub/scrub
-#   7  Aridity x built
-#   8  Duration
-#   9  Distance
-#
-# Random-effect smooths are not plotted here.
-# ------------------------------------------------------------
-
-plot(
-  fric_model_final,
-  select = 1,
-  shade = TRUE,
-  pages = 1
-)
-
-
-plot(
-  fric_model_final,
-  select = 2,
-  shade = TRUE,
-  pages = 1
-)
-
-
-plot(
-  fric_model_final,
-  select = 3,
-  shade = TRUE,
-  pages = 1
-)
-
-
-plot(
-  fric_model_final,
-  select = 4,
-  shade = TRUE,
-  pages = 1
-)
-
-
-plot(
-  fric_model_final,
-  select = 5,
-  pages = 1
-)
-
-
-plot(
-  fric_model_final,
-  select = 6,
-  pages = 1
-)
-
-
-plot(
-  fric_model_final,
-  select = 7,
-  pages = 1
-)
-
-
-plot(
-  fric_model_final,
-  select = 8,
-  shade = TRUE,
-  pages = 1
-)
-
-
-plot(
-  fric_model_final,
-  select = 9,
-  shade = TRUE,
-  pages = 1
-)
-
-
 # ============================================================
-# PUBLICATION-STYLE FIGURES
+# MAIN PUBLICATION / MEETING FIGURE
+# ============================================================
+#
+# Descriptive empirical trends are shown for the four focal
+# ecological predictors.
+#
+# Panel A:
+#   one point per city.
+#
+# Panels B-D:
+#   one point per locality, colored by city-level aridity.
+#
+# Warm colors represent more-arid cities.
+# Cool colors represent less-arid cities.
+#
+# Smooths are descriptive and unadjusted.
+#
+# Statistical inference is based on the full beta BAM and is
+# reported in Table 03.
+#
 # ============================================================
 
 
 # ------------------------------------------------------------
-# 43. Reference values for population-level predictions
+# 37. Create empirical trend datasets
 # ------------------------------------------------------------
 
-reference_aridity <- median(
-  fric_data$avg_aridity_index,
-  na.rm = TRUE
-)
-
-
-reference_duration <- median(
-  fric_data$duration_minutes,
-  na.rm = TRUE
-)
-
-
-reference_distance <- median(
-  fric_data$effort_distance_km,
-  na.rm = TRUE
-)
-
-
-reference_water <- median(
-  fric_data$water,
-  na.rm = TRUE
-)
-
-
-reference_shrub <- median(
-  fric_data$shrub_and_scrub,
-  na.rm = TRUE
-)
-
-
-reference_built <- median(
-  fric_data$built,
-  na.rm = TRUE
-)
-
-
-reference_protocol <- factor(
-  "Stationary",
-  levels = levels(
-    fric_data$protocol_name
+fric_city_plot <- fric_data %>%
+  group_by(
+    NAME10
+  ) %>%
+  summarise(
+    avg_aridity_index =
+      first(
+        avg_aridity_index
+      ),
+    
+    mean_fric =
+      mean(
+        FRic,
+        na.rm = TRUE
+      ),
+    
+    .groups = "drop"
   )
-)
 
 
-reference_city <- factor(
-  levels(
-    fric_data$NAME10
-  )[1],
-  levels = levels(
-    fric_data$NAME10
+fric_locality_plot <- fric_data %>%
+  group_by(
+    NAME10,
+    locality_id
+  ) %>%
+  summarise(
+    avg_aridity_index =
+      first(
+        avg_aridity_index
+      ),
+    
+    water =
+      first(
+        water
+      ),
+    
+    shrub_and_scrub =
+      first(
+        shrub_and_scrub
+      ),
+    
+    built =
+      first(
+        built
+      ),
+    
+    mean_fric =
+      mean(
+        FRic,
+        na.rm = TRUE
+      ),
+    
+    .groups = "drop"
+  ) %>%
+  mutate(
+    aridity_rank =
+      percent_rank(
+        avg_aridity_index
+      )
   )
-)
-
-
-reference_locality <- factor(
-  levels(
-    fric_data$locality_id
-  )[1],
-  levels = levels(
-    fric_data$locality_id
-  )
-)
 
 
 # ------------------------------------------------------------
-# 44. Determine habitat scaling
+# 38. Convert habitat cover to percent
 # ------------------------------------------------------------
 
 maximum_habitat_value <- max(
   c(
-    fric_data$water,
-    fric_data$shrub_and_scrub,
-    fric_data$built
+    fric_locality_plot$water,
+    fric_locality_plot$shrub_and_scrub,
+    fric_locality_plot$built
   ),
   na.rm = TRUE
 )
@@ -1809,478 +1831,678 @@ if (
   maximum_habitat_value <= 1.05
 ) {
   
-  habitat_scale_factor <- 100
+  fric_locality_plot <- fric_locality_plot %>%
+    mutate(
+      water_plot =
+        water * 100,
+      
+      shrub_plot =
+        shrub_and_scrub * 100,
+      
+      built_plot =
+        built * 100
+    )
   
 } else {
   
-  habitat_scale_factor <- 1
+  fric_locality_plot <- fric_locality_plot %>%
+    mutate(
+      water_plot =
+        water,
+      
+      shrub_plot =
+        shrub_and_scrub,
+      
+      built_plot =
+        built
+    )
 }
 
 
 # ------------------------------------------------------------
-# 45. Prediction helper
-# ------------------------------------------------------------
-#
-# Predictions and confidence intervals are calculated on the
-# beta-model logit scale and transformed back to the original
-# FRic scale.
-#
-# City and locality random effects are excluded so the curves
-# represent population-level relationships.
+# 39. Common y-axis range
 # ------------------------------------------------------------
 
-predict_fric <- function(
-    newdata
+main_y_limits <- range(
+  c(
+    fric_city_plot$mean_fric,
+    fric_locality_plot$mean_fric
+  ),
+  na.rm = TRUE
+)
+
+
+# ------------------------------------------------------------
+# 40. Common plotting theme and aridity color scale
+# ------------------------------------------------------------
+
+aridity_palette <- c(
+  "#7F0000",
+  "#B30000",
+  "#D7301F",
+  "#F46D43",
+  "#FDAE61",
+  "#FEE08B",
+  "#D9D9D9",
+  "#E0F3F8",
+  "#ABD9E9",
+  "#74ADD1",
+  "#4575B4",
+  "#313695"
+)
+
+
+theme_fric_main <- function() {
+  
+  theme_classic(
+    base_size = 12
+  ) +
+    theme(
+      axis.text =
+        element_text(
+          colour = "black"
+        ),
+      
+      plot.title =
+        element_text(
+          face = "bold",
+          size = 12,
+          hjust = 0.5
+        )
+    )
+}
+
+
+aridity_color_scale <- scale_color_gradientn(
+  colors = aridity_palette,
+  values = c(
+    0.00,
+    0.07,
+    0.15,
+    0.25,
+    0.36,
+    0.46,
+    0.50,
+    0.56,
+    0.66,
+    0.76,
+    0.88,
+    1.00
+  ),
+  limits = c(
+    0,
+    1
+  ),
+  breaks = c(
+    0,
+    0.5,
+    1
+  ),
+  labels = c(
+    "More arid",
+    "Intermediate",
+    "Less arid"
+  ),
+  name = "Aridity gradient"
+)
+
+
+# ------------------------------------------------------------
+# 41. Panel A: Aridity
+# ------------------------------------------------------------
+
+fig_fric_aridity <- ggplot(
+  fric_city_plot,
+  aes(
+    x = avg_aridity_index,
+    y = mean_fric
+  )
+) +
+  geom_point(
+    alpha = 0.45,
+    size = 1.8
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Aridity index (higher = less arid)",
+    y = "Mean functional richness",
+    title = "Aridity"
+  ) +
+  theme_fric_main() +
+  theme(
+    legend.position = "none"
+  )
+
+
+# ------------------------------------------------------------
+# 42. Panel B: Water cover
+# ------------------------------------------------------------
+
+fig_fric_water <- ggplot(
+  fric_locality_plot,
+  aes(
+    x = water_plot,
+    y = mean_fric
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Water cover (%)",
+    y = "Mean functional richness",
+    title = "Water"
+  ) +
+  theme_fric_main()
+
+
+# ------------------------------------------------------------
+# 43. Panel C: Shrub and scrub cover
+# ------------------------------------------------------------
+
+fig_fric_shrub <- ggplot(
+  fric_locality_plot,
+  aes(
+    x = shrub_plot,
+    y = mean_fric
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Shrub and scrub cover (%)",
+    y = "Mean functional richness",
+    title = "Shrub and scrub"
+  ) +
+  theme_fric_main()
+
+
+# ------------------------------------------------------------
+# 44. Panel D: Built cover
+# ------------------------------------------------------------
+
+fig_fric_built <- ggplot(
+  fric_locality_plot,
+  aes(
+    x = built_plot,
+    y = mean_fric
+  )
+) +
+  geom_point(
+    aes(
+      color = aridity_rank
+    ),
+    alpha = 0.55,
+    size = 1.5
+  ) +
+  geom_smooth(
+    method = "gam",
+    formula = y ~ s(
+      x,
+      k = 4
+    ),
+    se = TRUE,
+    color = "black",
+    fill = "grey80"
+  ) +
+  aridity_color_scale +
+  coord_cartesian(
+    ylim =
+      main_y_limits
+  ) +
+  labs(
+    x = "Built cover (%)",
+    y = "Mean functional richness",
+    title = "Built"
+  ) +
+  theme_fric_main()
+
+
+# ------------------------------------------------------------
+# 45. Combine four empirical panels
+# ------------------------------------------------------------
+
+figure_03_main <- ggpubr::ggarrange(
+  fig_fric_aridity,
+  fig_fric_water,
+  fig_fric_shrub,
+  fig_fric_built,
+  ncol = 2,
+  nrow = 2,
+  labels = c(
+    "A",
+    "B",
+    "C",
+    "D"
+  ),
+  font.label = list(
+    size = 14,
+    face = "bold"
+  ),
+  common.legend = TRUE,
+  legend = "bottom"
+)
+
+
+print(
+  figure_03_main
+)
+
+
+# ------------------------------------------------------------
+# 46. Save main figure
+# ------------------------------------------------------------
+
+ggsave(
+  filename =
+    file.path(
+      FIGURE_DIR,
+      "Figure_03_Main_Data_Trends.png"
+    ),
+  plot =
+    figure_03_main,
+  width = 10,
+  height = 8,
+  units = "in",
+  dpi = 600,
+  bg = "white"
+)
+
+
+ggsave(
+  filename =
+    file.path(
+      FIGURE_DIR,
+      "Figure_03_Main_Data_Trends.pdf"
+    ),
+  plot =
+    figure_03_main,
+  width = 10,
+  height = 8,
+  units = "in",
+  bg = "white"
+)
+
+
+# ============================================================
+# MAIN STATISTICAL TABLE
+# ============================================================
+#
+# Only focal ecological terms are exported.
+#
+# Effort covariates, protocol, city, and locality remain in
+# the fitted BAM but are not included in the main table.
+#
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 47. Focal ecological term labels
+# ------------------------------------------------------------
+
+focal_term_labels <- c(
+  "s(avg_aridity_index)" =
+    "Aridity",
+  
+  "s(water)" =
+    "Water cover",
+  
+  "s(shrub_and_scrub)" =
+    "Shrub and scrub cover",
+  
+  "s(built)" =
+    "Built cover",
+  
+  "ti(avg_aridity_index,water)" =
+    "Aridity x Water",
+  
+  "ti(avg_aridity_index,shrub_and_scrub)" =
+    "Aridity x Shrub and scrub",
+  
+  "ti(avg_aridity_index,built)" =
+    "Aridity x Built"
+)
+
+
+# ------------------------------------------------------------
+# 48. P-value formatting helper
+# ------------------------------------------------------------
+
+format_p_value <- function(
+    p
 ) {
   
-  prediction <- predict(
-    fric_model_final,
-    newdata = newdata,
-    type = "link",
-    se.fit = TRUE,
-    exclude = c(
-      "s(NAME10)",
-      "s(locality_id)"
+  ifelse(
+    p < 0.001,
+    "<0.001",
+    sprintf(
+      "%.3f",
+      p
     )
-  )
-  
-  
-  link_inverse <-
-    fric_model_final$family$linkinv
-  
-  
-  fit_link <-
-    as.numeric(
-      prediction$fit
-    )
-  
-  
-  se_link <-
-    as.numeric(
-      prediction$se.fit
-    )
-  
-  
-  data.frame(
-    fit =
-      link_inverse(
-        fit_link
-      ),
-    
-    lower =
-      link_inverse(
-        fit_link -
-          1.96 *
-          se_link
-      ),
-    
-    upper =
-      link_inverse(
-        fit_link +
-          1.96 *
-          se_link
-      )
   )
 }
 
 
 # ------------------------------------------------------------
-# 46. Aridity predictions
+# 49. Build main model-results table
 # ------------------------------------------------------------
 
-aridity_limits <- quantile(
-  fric_data$avg_aridity_index,
-  probs = c(
-    0.05,
-    0.95
-  ),
-  na.rm = TRUE
-)
-
-
-aridity_sequence <- seq(
-  aridity_limits[1],
-  aridity_limits[2],
-  length.out = 150
-)
-
-
-aridity_prediction_data <- data.frame(
-  avg_aridity_index =
-    aridity_sequence,
-  
-  water =
-    reference_water,
-  
-  shrub_and_scrub =
-    reference_shrub,
-  
-  built =
-    reference_built,
-  
-  duration_minutes =
-    reference_duration,
-  
-  effort_distance_km =
-    reference_distance,
-  
-  protocol_name =
-    reference_protocol,
-  
-  NAME10 =
-    reference_city,
-  
-  locality_id =
-    reference_locality
-)
-
-
-aridity_prediction_results <- predict_fric(
-  aridity_prediction_data
-)
-
-
-aridity_plot_data <- data.frame(
-  predictor =
-    "Aridity index\n(higher = less arid)",
-  
-  x_value =
-    aridity_prediction_data$avg_aridity_index,
-  
-  fit =
-    aridity_prediction_results$fit,
-  
-  lower =
-    aridity_prediction_results$lower,
-  
-  upper =
-    aridity_prediction_results$upper
-)
-
-
-# ------------------------------------------------------------
-# 47. Water-cover predictions
-# ------------------------------------------------------------
-
-water_limits <- quantile(
-  fric_data$water,
-  probs = c(
-    0.05,
-    0.95
-  ),
-  na.rm = TRUE
-)
-
-
-water_sequence <- seq(
-  water_limits[1],
-  water_limits[2],
-  length.out = 150
-)
-
-
-water_prediction_data <- data.frame(
-  avg_aridity_index =
-    reference_aridity,
-  
-  water =
-    water_sequence,
-  
-  shrub_and_scrub =
-    reference_shrub,
-  
-  built =
-    reference_built,
-  
-  duration_minutes =
-    reference_duration,
-  
-  effort_distance_km =
-    reference_distance,
-  
-  protocol_name =
-    reference_protocol,
-  
-  NAME10 =
-    reference_city,
-  
-  locality_id =
-    reference_locality
-)
-
-
-water_prediction_results <- predict_fric(
-  water_prediction_data
-)
-
-
-water_plot_data <- data.frame(
-  predictor =
-    "Water cover (%)",
-  
-  x_value =
-    water_prediction_data$water *
-    habitat_scale_factor,
-  
-  fit =
-    water_prediction_results$fit,
-  
-  lower =
-    water_prediction_results$lower,
-  
-  upper =
-    water_prediction_results$upper
-)
-
-
-# ------------------------------------------------------------
-# 48. Shrub/scrub predictions
-# ------------------------------------------------------------
-
-shrub_limits <- quantile(
-  fric_data$shrub_and_scrub,
-  probs = c(
-    0.05,
-    0.95
-  ),
-  na.rm = TRUE
-)
-
-
-shrub_sequence <- seq(
-  shrub_limits[1],
-  shrub_limits[2],
-  length.out = 150
-)
-
-
-shrub_prediction_data <- data.frame(
-  avg_aridity_index =
-    reference_aridity,
-  
-  water =
-    reference_water,
-  
-  shrub_and_scrub =
-    shrub_sequence,
-  
-  built =
-    reference_built,
-  
-  duration_minutes =
-    reference_duration,
-  
-  effort_distance_km =
-    reference_distance,
-  
-  protocol_name =
-    reference_protocol,
-  
-  NAME10 =
-    reference_city,
-  
-  locality_id =
-    reference_locality
-)
-
-
-shrub_prediction_results <- predict_fric(
-  shrub_prediction_data
-)
-
-
-shrub_plot_data <- data.frame(
-  predictor =
-    "Shrub and scrub cover (%)",
-  
-  x_value =
-    shrub_prediction_data$shrub_and_scrub *
-    habitat_scale_factor,
-  
-  fit =
-    shrub_prediction_results$fit,
-  
-  lower =
-    shrub_prediction_results$lower,
-  
-  upper =
-    shrub_prediction_results$upper
-)
-
-
-# ------------------------------------------------------------
-# 49. Combine conditional-effect data
-# ------------------------------------------------------------
-
-fric_conditional_effects <- bind_rows(
-  aridity_plot_data,
-  water_plot_data,
-  shrub_plot_data
-) %>%
+table_03_main <- fric_smooth_results %>%
+  filter(
+    term %in%
+      names(
+        focal_term_labels
+      )
+  ) %>%
   mutate(
-    predictor =
-      factor(
-        predictor,
-        levels = c(
-          "Aridity index\n(higher = less arid)",
-          "Water cover (%)",
-          "Shrub and scrub cover (%)"
+    term_order =
+      match(
+        term,
+        names(
+          focal_term_labels
         )
-      )
-  )
-
-
-# ------------------------------------------------------------
-# 50. Main publication figure
-# ------------------------------------------------------------
-
-fig_fric_main <- ggplot(
-  fric_conditional_effects,
-  aes(
-    x = x_value,
-    y = fit
-  )
-) +
-  geom_ribbon(
-    aes(
-      ymin = lower,
-      ymax = upper
-    ),
-    fill = "grey80",
-    alpha = 0.7
-  ) +
-  geom_line(
-    linewidth = 0.9
-  ) +
-  facet_wrap(
-    ~ predictor,
-    scales = "free_x",
-    nrow = 1
-  ) +
-  labs(
-    x = NULL,
-    y = "Predicted functional richness"
-  ) +
-  theme_classic(
-    base_size = 12
-  ) +
-  theme(
-    strip.background =
-      element_blank(),
+      ),
     
-    strip.text =
-      element_text(
-        face = "bold",
-        size = 11
+    Predictor =
+      unname(
+        focal_term_labels[
+          term
+        ]
+      ),
+    
+    EDF =
+      sprintf(
+        "%.2f",
+        edf
+      ),
+    
+    Reference_df =
+      sprintf(
+        "%.2f",
+        Ref.df
+      ),
+    
+    F_statistic =
+      sprintf(
+        "%.2f",
+        F
+      ),
+    
+    P_value =
+      format_p_value(
+        `p-value`
       )
+  ) %>%
+  arrange(
+    term_order
+  ) %>%
+  select(
+    Predictor,
+    EDF,
+    Reference_df,
+    F_statistic,
+    P_value
   )
 
 
-print(
-  fig_fric_main
+names(
+  table_03_main
+) <- c(
+  "Predictor",
+  "EDF",
+  "Ref. df",
+  "F statistic",
+  "P-value"
 )
 
-
-# ------------------------------------------------------------
-# 51. FRic response-distribution figure
-# ------------------------------------------------------------
-
-fig_fric_distribution <- ggplot(
-  fric_data,
-  aes(
-    x = FRic
-  )
-) +
-  geom_histogram(
-    bins = 40,
-    linewidth = 0.25
-  ) +
-  labs(
-    x = "Functional richness",
-    y = "Number of checklists"
-  ) +
-  theme_classic(
-    base_size = 12
-  )
-
-
-print(
-  fig_fric_distribution
-)
-
-
-# ------------------------------------------------------------
-# 52. Optional figure saving
-# ------------------------------------------------------------
 
 if (
-  SAVE_FIGURES
+  nrow(
+    table_03_main
+  ) !=
+  length(
+    focal_term_labels
+  )
 ) {
   
-  figure_directory <- file.path(
-    "Outputs",
-    "03_Functional_Richness",
-    "Figures"
-  )
-  
-  
-  dir.create(
-    figure_directory,
-    recursive = TRUE,
-    showWarnings = FALSE
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FRic_Conditional_Effects.pdf"
-      ),
-    plot =
-      fig_fric_main,
-    width = 9,
-    height = 3.8
-  )
-  
-  
-  ggsave(
-    filename =
-      file.path(
-        figure_directory,
-        "FRic_Distribution.pdf"
-      ),
-    plot =
-      fig_fric_distribution,
-    width = 5.5,
-    height = 4
+  stop(
+    "Table 03 does not contain all seven focal ecological terms."
   )
 }
 
 
+cat("\n============================================================\n")
+cat("TABLE 03 - MAIN MODEL RESULTS\n")
+cat("============================================================\n\n")
+
+
+print(
+  table_03_main,
+  row.names = FALSE
+)
+
+
+# ------------------------------------------------------------
+# 50. Save main statistical table
+# ------------------------------------------------------------
+
+write.csv(
+  table_03_main,
+  file =
+    file.path(
+      TABLE_DIR,
+      "Table_03_Main_Model_Results.csv"
+    ),
+  row.names = FALSE
+)
+
+
 # ============================================================
-# FINAL QC AND ANALYSIS SUMMARY
+# MANUSCRIPT-SYNTHESIS EXPORT
 # ============================================================
 
 
 # ------------------------------------------------------------
-# 53. Final automated QC summary
+# 51. Build standardized manuscript-input bundle
+# ------------------------------------------------------------
+
+fric_model_metadata <- data.frame(
+  response_id =
+    "Functional_Richness",
+  
+  response_label =
+    "Functional richness",
+  
+  response_variable =
+    "FRic",
+  
+  model_family =
+    "Beta",
+  
+  link =
+    "logit",
+  
+  n_cities =
+    n_distinct(
+      fric_data$NAME10
+    ),
+  
+  n_localities =
+    n_distinct(
+      fric_data$locality_id
+    ),
+  
+  n_checklists =
+    nrow(
+      fric_data
+    ),
+  
+  adjusted_R2 =
+    fric_summary$r.sq,
+  
+  deviance_explained =
+    fric_summary$dev.expl,
+  
+  family_parameter =
+    fric_precision,
+  
+  family_parameter_name =
+    "precision",
+  
+  additive_AIC =
+    AIC(
+      fric_model_additive
+    ),
+  
+  final_AIC =
+    AIC(
+      fric_model_final
+    ),
+  
+  stringsAsFactors = FALSE
+)
+
+
+functional_richness_manuscript_input <- list(
+  response_id =
+    "Functional_Richness",
+  
+  response_label =
+    "Functional richness",
+  
+  response_variable =
+    "FRic",
+  
+  analysis_data =
+    fric_data,
+  
+  final_model =
+    fric_model_final,
+  
+  smooth_results =
+    fric_smooth_results,
+  
+  parametric_results =
+    fric_parametric_results,
+  
+  focal_results =
+    table_03_main,
+  
+  model_metadata =
+    fric_model_metadata,
+  
+  plot_data = list(
+    city =
+      fric_city_plot,
+    
+    locality =
+      fric_locality_plot
+  )
+)
+
+
+functional_richness_manuscript_file <- file.path(
+  DATA_DIR,
+  "Functional_Richness_Manuscript_Input.rds"
+)
+
+
+saveRDS(
+  functional_richness_manuscript_input,
+  functional_richness_manuscript_file
+)
+
+
+if (
+  !file.exists(
+    functional_richness_manuscript_file
+  )
+) {
+  
+  stop(
+    "Functional-richness manuscript-input RDS was not created."
+  )
+}
+
+
+cat("\n============================================================\n")
+cat("MANUSCRIPT-SYNTHESIS EXPORT\n")
+cat("============================================================\n\n")
+
+
+cat(
+  "Saved manuscript input:\n",
+  functional_richness_manuscript_file,
+  "\n",
+  sep = ""
+)
+
+
+# ============================================================
+# AUTOMATED QC AND OUTPUT CHECK
+# ============================================================
+
+
+# ------------------------------------------------------------
+# 52. Automated analysis QC
 # ------------------------------------------------------------
 
 qc_balanced_sample <-
-  all(
-    locality_qc$n_checklists ==
-      N_CHECKLISTS_PER_LOCALITY
-  ) &&
-  all(
-    city_qc$n_localities ==
-      N_LOCALITIES_PER_CITY
-  ) &&
-  all(
-    city_qc$n_checklists ==
-      N_LOCALITIES_PER_CITY *
-      N_CHECKLISTS_PER_LOCALITY
-  )
+  bad_localities == 0 &&
+  bad_cities_localities == 0 &&
+  bad_cities_checklists == 0
 
 
 qc_beta_response <-
@@ -2305,19 +2527,25 @@ qc_full_rank <-
   )
 
 
+qc_basis_dimension <-
+  !k_followup_flag
+
+
 fric_qc_summary <- data.frame(
   check = c(
     "Balanced 5 x 5 sampling",
     "FRic values strictly inside (0,1)",
     "Final BAM converged",
-    "Final BAM is full rank"
+    "Final BAM is full rank",
+    "Basis dimensions acceptable"
   ),
   
   pass = c(
     qc_balanced_sample,
     qc_beta_response,
     qc_converged,
-    qc_full_rank
+    qc_full_rank,
+    qc_basis_dimension
   )
 )
 
@@ -2344,6 +2572,72 @@ cat(
   ),
   "\n",
   sep = ""
+)
+
+
+# ------------------------------------------------------------
+# 53. Publication-output check
+# ------------------------------------------------------------
+
+expected_output_files <- c(
+  file.path(
+    FIGURE_DIR,
+    "Figure_03_Main_Data_Trends.png"
+  ),
+  
+  file.path(
+    FIGURE_DIR,
+    "Figure_03_Main_Data_Trends.pdf"
+  ),
+  
+  file.path(
+    TABLE_DIR,
+    "Table_03_Main_Model_Results.csv"
+  ),
+  
+  file.path(
+    DATA_DIR,
+    "Functional_Richness_Manuscript_Input.rds"
+  )
+)
+
+
+output_check <- file.exists(
+  expected_output_files
+)
+
+
+cat("\n============================================================\n")
+cat("OUTPUT FILE CHECK\n")
+cat("============================================================\n\n")
+
+
+print(
+  data.frame(
+    file =
+      expected_output_files,
+    
+    exists =
+      output_check
+  ),
+  row.names = FALSE
+)
+
+
+if (
+  !all(
+    output_check
+  )
+) {
+  
+  stop(
+    "One or more expected Script 03 outputs were not created."
+  )
+}
+
+
+cat(
+  "\nPASS: All Script 03 publication outputs were created.\n"
 )
 
 
@@ -2448,9 +2742,7 @@ cat(
 cat(
   "Beta precision parameter:       ",
   round(
-    fric_model_final$family$getTheta(
-      TRUE
-    ),
+    fric_precision,
     3
   ),
   "\n",
@@ -2458,81 +2750,123 @@ cat(
 )
 
 
-# ------------------------------------------------------------
-# 55. Overall interpretation
-# ------------------------------------------------------------
+cat(
+  "Basis-dimension follow-up:      ",
+  k_followup_flag,
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "\nPublication figure:\n",
+  file.path(
+    FIGURE_DIR,
+    "Figure_03_Main_Data_Trends.png"
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "\nPublication table:\n",
+  file.path(
+    TABLE_DIR,
+    "Table_03_Main_Model_Results.csv"
+  ),
+  "\n",
+  sep = ""
+)
+
+
+cat(
+  "\nManuscript input:\n",
+  functional_richness_manuscript_file,
+  "\n",
+  sep = ""
+)
+
+
+# ============================================================
+# OVERALL INTERPRETATION
+# ============================================================
 #
-# The primary FRic model uses the same global aridity x habitat
-# interaction structure used across the biodiversity-response
-# analyses.
+# Model performance:
 #
-# The additive and interaction models showed essentially
-# equivalent overall model fit. The interaction model is
-# retained as the primary/global model because the aridity x
-# habitat relationships represent a priori ecological
-# hypotheses and maintaining the same global structure
-# facilitates comparison among species richness, FRic, FDis,
-# and FEve.
+# - The balanced sampling design retains 25 checklists per
+#   eligible city: five checklists from each of five sampled
+#   localities.
 #
-# Final FRic results indicate:
+# - FRic is modeled with a beta BAM because retained FRic
+#   values are strictly between 0 and 1.
+#
+# - The additive and interaction models have essentially
+#   equivalent overall fit. The interaction model is retained
+#   as the primary/global model because the aridity x habitat
+#   relationships represent the a priori ecological hypotheses
+#   and maintaining the same global structure facilitates
+#   comparison among biodiversity responses.
+#
+#
+# Ecological interpretation:
 #
 # - Water cover shows the clearest relationship with functional
-#   richness. The relationship is nonlinear and strongly
-#   supported in the final beta BAM.
+#   richness in the final beta BAM.
 #
 # - There is little evidence for an independent relationship
-#   between aridity and FRic after accounting for local habitat,
-#   effort, and the interaction terms.
+#   between aridity and functional richness after accounting
+#   for local habitat, checklist effort, and hierarchical
+#   structure.
 #
-# - Shrub/scrub cover shows comparatively weak or marginal
-#   evidence of an association with functional richness.
+# - Shrub and scrub cover provides comparatively weak evidence
+#   of an independent relationship with functional richness.
 #
-# - Built cover shows little evidence of an independent
-#   relationship with FRic.
+# - Built cover provides little evidence of an independent
+#   relationship with functional richness.
 #
-# - None of the three aridity x habitat interaction surfaces
-#   show strong statistical support. Thus, there is little
-#   evidence that the effects of water, shrub/scrub, or built
-#   cover on FRic change strongly along the regional aridity
-#   gradient.
+# - None of the three aridity x habitat interactions receives
+#   strong statistical support.
 #
-# - This differs from the species-richness analysis, where
-#   aridity x water and aridity x shrub/scrub interactions were
-#   supported.
-#
-# - Checklist duration, distance traveled, and protocol remain
-#   important sampling-effort controls.
+# - Checklist duration, distance traveled, and protocol are
+#   retained as sampling-effort controls.
 #
 # - City and locality random-effect smooths account for
-#   hierarchical variation in the data, with locality-level
-#   variation greater than city-level variation.
+#   hierarchical variation in checklist-level functional
+#   richness.
 #
-# - The final beta BAM explains approximately 67.9% of
-#   deviance, with an adjusted R-squared of approximately 0.56.
 #
-# - Model convergence, model rank, basis dimensions, response
-#   support, concurvity, and residual diagnostics were
-#   acceptable, and all automated QC checks passed.
+# Figure interpretation:
 #
-# The publication-style conditional-effect figure emphasizes
-# aridity, water cover, and shrub/scrub cover.
+# - The exported four-panel figure displays descriptive,
+#   unadjusted empirical relationships.
 #
-# Population-level predictions exclude city and locality random
-# effects. Other habitat and sampling-effort variables are held
-# at representative median values, and protocol is held at
-# Stationary.1
+# - Panel A represents city-level mean functional richness
+#   because aridity is defined at the city level.
 #
-# Built cover is omitted from the primary figure because the
-# model provides little evidence for an independent built-cover
-# effect. Aridity x habitat surfaces are also omitted from the
-# primary visualization because none received strong statistical
-# support.
+# - Panels B-D represent locality-level mean functional richness
+#   because habitat variables are defined at the locality level.
 #
-# Overall, functional richness appears to be associated more
-# strongly with local habitat structure, particularly water
-# cover, than with the regional aridity gradient itself.
-# Moreover, there is little evidence that local habitat-FRic
-# relationships are strongly modified across the aridity
-# gradient.
+# - Point color in panels B-D represents percentile rank along
+#   the continuous city-level aridity gradient. Warm colors are
+#   more arid and cool colors are less arid. Percentile rank is
+#   used only for visualization; the BAM uses the original
+#   continuous aridity index.
+#
+# - The descriptive GAM lines in the figure are not the source
+#   of inferential tests.
+#
+# - Statistical inference for the focal ecological predictors
+#   and aridity x habitat interactions comes from the full beta
+#   BAM summarized in Table 03.
+#
+#
+# Overall:
+#
+# Functional richness appears to be associated more strongly
+# with local habitat structure, particularly water cover, than
+# with the regional aridity gradient itself. There is little
+# evidence that local habitat-FRic relationships are strongly
+# modified across the regional aridity gradient.
 #
 # ============================================================
