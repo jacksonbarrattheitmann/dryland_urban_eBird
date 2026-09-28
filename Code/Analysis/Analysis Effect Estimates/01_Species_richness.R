@@ -21,6 +21,8 @@ TEMPORARY_DEDUPLICATE <- TRUE
 MIN_CHECKLISTS_PER_LOCALITY <- 10
 MIN_LOCALITIES_PER_CITY <- 5
 
+DE_MARTONNE_DRYLAND_MAX <- 30
+
 OUTPUT_ROOT <- file.path(
   "Outputs",
   "Analysis_City_Effect_Sizes"
@@ -126,6 +128,29 @@ sr_pool <- analysis_base %>%
     duration_minutes <= 300,
     effort_distance_km <= 5
   )
+
+# ------------------------------------------------------------
+# Restrict analysis to De Martonne dryland conditions
+# ------------------------------------------------------------
+
+excluded_humid_cities <- sr_pool %>%
+  distinct(
+    NAME10,
+    state_name,
+    avg_aridity_index
+  ) %>%
+  filter(
+    avg_aridity_index >= DE_MARTONNE_DRYLAND_MAX
+  ) %>%
+  arrange(
+    desc(avg_aridity_index)
+  )
+
+sr_pool <- sr_pool %>%
+  filter(
+    avg_aridity_index < DE_MARTONNE_DRYLAND_MAX
+  )
+
 
 model_variables <- c(
   "sr",
@@ -1226,6 +1251,178 @@ write.csv(
 )
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ------------------------------------------------------------
+# Figure: distributions of Stage-1 city-level beta estimates
+# Central 95% shown for visualization only
+# NOTE THIS IS VISUALIZING 95% OF THE DATA
+# ------------------------------------------------------------
+
+make_beta_histogram <- function(
+    model_data,
+    habitat_name
+) {
+  
+  plot_data <- model_data %>%
+    filter(
+      habitat == habitat_name,
+      is.finite(beta)
+    )
+  
+  # Central 95% used only for plotting limits
+  beta_limits <- quantile(
+    plot_data$beta,
+    probs = c(
+      0.025,
+      0.975
+    ),
+    na.rm = TRUE
+  )
+  
+  # Bin width based on the visible range
+  beta_binwidth <- diff(beta_limits) / 20
+  
+  ggplot(
+    plot_data,
+    aes(
+      x = beta
+    )
+  ) +
+    
+    geom_histogram(
+      binwidth = beta_binwidth,
+      boundary = 0,
+      fill = "grey70",
+      color = "black",
+      linewidth = 0.3
+    ) +
+    
+    geom_vline(
+      xintercept = 0,
+      linetype = "dashed",
+      linewidth = 0.5
+    ) +
+    
+    coord_cartesian(
+      xlim = beta_limits
+    ) +
+    
+    labs(
+      x = "City-specific beta estimate",
+      y = "Number of cities",
+      title = habitat_name
+    ) +
+    
+    theme_classic(
+      base_size = 12
+    ) +
+    
+    theme(
+      plot.title = element_text(
+        face = "bold",
+        hjust = 0.5
+      )
+    )
+}
+
+
+# ------------------------------------------------------------
+# Create individual panels
+# ------------------------------------------------------------
+
+fig_beta_water <- make_beta_histogram(
+  city_effect_sizes_usable,
+  "Water"
+)
+
+fig_beta_shrub <- make_beta_histogram(
+  city_effect_sizes_usable,
+  "Shrub and scrub"
+)
+
+fig_beta_built <- make_beta_histogram(
+  city_effect_sizes_usable,
+  "Built"
+)
+
+
+# ------------------------------------------------------------
+# Combine panels
+# ------------------------------------------------------------
+
+figure_02 <- ggpubr::ggarrange(
+  fig_beta_water,
+  fig_beta_shrub,
+  fig_beta_built,
+  ncol = 3,
+  nrow = 1,
+  labels = c(
+    "A",
+    "B",
+    "C"
+  ),
+  font.label = list(
+    size = 14,
+    face = "bold"
+  )
+)
+
+
+# ------------------------------------------------------------
+# Save figure
+# ------------------------------------------------------------
+
+ggsave(
+  file.path(
+    OUTPUT_ROOT,
+    "Figure_02_Beta_Distributions.png"
+  ),
+  figure_02,
+  width = 14,
+  height = 5,
+  units = "in",
+  dpi = 600,
+  bg = "white"
+)
+
+ggsave(
+  file.path(
+    OUTPUT_ROOT,
+    "Figure_02_Beta_Distributions.pdf"
+  ),
+  figure_02,
+  width = 14,
+  height = 5,
+  units = "in",
+  bg = "white"
+)
+
+
+
+
 # ============================================================
 # Stage 2
 # City-specific habitat coefficient ~ city aridity
@@ -1336,8 +1533,71 @@ write.csv(
 )
 
 
+
+# ------------------------------------------------------------
+# Stage-2 summary table
+# Tests whether city-specific habitat effects vary with aridity
+# ------------------------------------------------------------
+
+stage2_results_table <- stage2_statistics %>%
+  transmute(
+    Relationship = case_when(
+      habitat == "Water" ~
+        "Water effect on richness ~ Aridity",
+      
+      habitat == "Shrub and scrub" ~
+        "Shrub and scrub effect on richness ~ Aridity",
+      
+      habitat == "Built" ~
+        "Built cover effect on richness ~ Aridity"
+    ),
+    
+    n_cities =
+      n_cities,
+    
+    Estimate =
+      aridity_slope,
+    
+    SE =
+      aridity_SE,
+    
+    t =
+      aridity_t,
+    
+    CI_lower =
+      aridity_CI_lower,
+    
+    CI_upper =
+      aridity_CI_upper,
+    
+    p =
+      aridity_p,
+    
+    R2 =
+      R2,
+    
+    adjusted_R2 =
+      adjusted_R2
+  )
+
+write.csv(
+  stage2_results_table,
+  file.path(
+    OUTPUT_ROOT,
+    "Table_04_Stage2_ES_Aridity_Results.csv"
+  ),
+  row.names = FALSE
+)
+
+print(
+  stage2_results_table,
+  row.names = FALSE
+)
+
 # ------------------------------------------------------------
 # Stage-2 figures
+# Central 95% of effect sizes shown for visualization only
+# All cities remain in the fitted models
 # ------------------------------------------------------------
 
 make_stage2_panel <- function(
@@ -1345,46 +1605,110 @@ make_stage2_panel <- function(
     habitat_name
 ) {
   
-  habitat_label <- switch(
+  effect_label <- switch(
     habitat_name,
     "Water" =
-      "Water coefficient",
+      "Effect of Water on Richness",
     "Shrub and scrub" =
-      "Shrub and scrub coefficient",
+      "Effect of Shrub and Scrub on Richness",
     "Built" =
-      "Built coefficient"
+      "Effect of Built Cover on Richness"
   )
   
-  ggplot(
-    model_data,
-    aes(
-      x = avg_aridity_index,
-      y = beta
+  # Stage-2 model
+  fit <- lm(
+    beta ~ avg_aridity_index,
+    data = model_data
+  )
+  
+  # Predictions across the observed aridity gradient
+  prediction_data <- data.frame(
+    avg_aridity_index = seq(
+      min(
+        model_data$avg_aridity_index,
+        na.rm = TRUE
+      ),
+      max(
+        model_data$avg_aridity_index,
+        na.rm = TRUE
+      ),
+      length.out = 200
     )
-  ) +
+  )
+  
+  predictions <- predict(
+    fit,
+    newdata = prediction_data,
+    interval = "confidence",
+    level = 0.95
+  )
+  
+  prediction_data <- cbind(
+    prediction_data,
+    as.data.frame(predictions)
+  )
+  
+  # Central 95% used only for plotting limits
+  effect_limits <- quantile(
+    model_data$beta,
+    probs = c(
+      0.025,
+      0.975
+    ),
+    na.rm = TRUE
+  )
+  
+  ggplot() +
+    
+    geom_ribbon(
+      data = prediction_data,
+      aes(
+        x = avg_aridity_index,
+        ymin = lwr,
+        ymax = upr
+      ),
+      alpha = 0.20
+    ) +
+    
     geom_hline(
       yintercept = 0,
       linetype = "dashed",
       linewidth = 0.5
     ) +
+    
+    geom_line(
+      data = prediction_data,
+      aes(
+        x = avg_aridity_index,
+        y = fit
+      ),
+      linewidth = 0.9
+    ) +
+    
     geom_point(
+      data = model_data,
+      aes(
+        x = avg_aridity_index,
+        y = beta
+      ),
       alpha = 0.55,
       size = 2
     ) +
-    geom_smooth(
-      method = "lm",
-      formula = y ~ x,
-      se = TRUE,
-      linewidth = 0.9
+    
+    coord_cartesian(
+      ylim = effect_limits
     ) +
+    
     labs(
-      x = "Aridity index (higher = less arid)",
-      y = habitat_label,
+      x = "Aridity Index (higher = less arid)",
+      y = effect_label,
       title = habitat_name
     ) +
+    
     theme_classic(
       base_size = 12
     ) +
+    
     theme(
       plot.title = element_text(
         face = "bold",
@@ -1392,6 +1716,11 @@ make_stage2_panel <- function(
       )
     )
 }
+
+
+# ------------------------------------------------------------
+# Create individual panels
+# ------------------------------------------------------------
 
 fig_water <- make_stage2_panel(
   stage2_water$data,
@@ -1407,6 +1736,11 @@ fig_built <- make_stage2_panel(
   stage2_built$data,
   "Built"
 )
+
+
+# ------------------------------------------------------------
+# Combine panels
+# ------------------------------------------------------------
 
 figure_01 <- ggpubr::ggarrange(
   fig_water,
@@ -1424,6 +1758,11 @@ figure_01 <- ggpubr::ggarrange(
     face = "bold"
   )
 )
+
+
+# ------------------------------------------------------------
+# Save figure
+# ------------------------------------------------------------
 
 ggsave(
   file.path(
@@ -1450,18 +1789,18 @@ ggsave(
   bg = "white"
 )
 
-
 # ------------------------------------------------------------
 # QC figure: coefficient magnitude vs habitat range
 # ------------------------------------------------------------
 
 figure_qc3 <- city_effect_sizes_usable %>%
   mutate(
-    abs_beta = abs(beta)
+    abs_beta = abs(beta),
+    habitat_range_pp = habitat_range * 10
   ) %>%
   ggplot(
     aes(
-      x = habitat_range,
+      x = habitat_range_pp,
       y = abs_beta
     )
   ) +
@@ -1473,10 +1812,7 @@ figure_qc3 <- city_effect_sizes_usable %>%
     scales = "free"
   ) +
   labs(
-    x = paste0(
-      "Within-city habitat range ",
-      "(10 percentage-point units)"
-    ),
+    x = "Within-city habitat range (percentage points)",
     y = "Absolute city-specific coefficient"
   ) +
   theme_classic(
@@ -1601,5 +1937,167 @@ print(
 cat("\nStage-2 effect-size ~ aridity models\n")
 print(
   stage2_statistics,
+  row.names = FALSE
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ============================================================
+# FINAL ARTIFACTS
+# ============================================================
+
+FINAL_OUTPUT_DIR <- file.path(
+  OUTPUT_ROOT,
+  "Final Artifacts"
+)
+
+dir.create(
+  FINAL_OUTPUT_DIR,
+  recursive = TRUE,
+  showWarnings = FALSE
+)
+
+
+# ------------------------------------------------------------
+# 1. Final Stage-1 effect-size distribution figure
+# ------------------------------------------------------------
+
+ggsave(
+  file.path(
+    FINAL_OUTPUT_DIR,
+    "Figure_01_ES_Distributions.png"
+  ),
+  figure_02,
+  width = 14,
+  height = 5,
+  units = "in",
+  dpi = 600,
+  bg = "white"
+)
+
+ggsave(
+  file.path(
+    FINAL_OUTPUT_DIR,
+    "Figure_01_ES_Distributions.pdf"
+  ),
+  figure_02,
+  width = 14,
+  height = 5,
+  units = "in",
+  bg = "white"
+)
+
+
+# ------------------------------------------------------------
+# 2. Final Aridity x effect-size figure
+# ------------------------------------------------------------
+
+ggsave(
+  file.path(
+    FINAL_OUTPUT_DIR,
+    "Figure_02_Aridity_x_ES.png"
+  ),
+  figure_01,
+  width = 14,
+  height = 5,
+  units = "in",
+  dpi = 600,
+  bg = "white"
+)
+
+ggsave(
+  file.path(
+    FINAL_OUTPUT_DIR,
+    "Figure_02_Aridity_x_ES.pdf"
+  ),
+  figure_01,
+  width = 14,
+  height = 5,
+  units = "in",
+  bg = "white"
+)
+
+
+# ------------------------------------------------------------
+# 3. Final Stage-2 statistical results table
+# ------------------------------------------------------------
+
+final_stats_table <- stage2_statistics %>%
+  transmute(
+    Relationship = case_when(
+      habitat == "Water" ~
+        "Water effect on richness ~ Aridity",
+      
+      habitat == "Shrub and scrub" ~
+        "Shrub and scrub effect on richness ~ Aridity",
+      
+      habitat == "Built" ~
+        "Built cover effect on richness ~ Aridity"
+    ),
+    
+    n_cities =
+      n_cities,
+    
+    Estimate =
+      aridity_slope,
+    
+    SE =
+      aridity_SE,
+    
+    t =
+      aridity_t,
+    
+    df =
+      n_cities - 2,
+    
+    CI_lower =
+      aridity_CI_lower,
+    
+    CI_upper =
+      aridity_CI_upper,
+    
+    p =
+      aridity_p,
+    
+    R2 =
+      R2,
+    
+    adjusted_R2 =
+      adjusted_R2
+  )
+
+write.csv(
+  final_stats_table,
+  file.path(
+    FINAL_OUTPUT_DIR,
+    "Table_01_Aridity_x_ES_Statistics.csv"
+  ),
+  row.names = FALSE
+)
+
+
+# ------------------------------------------------------------
+# Final console output
+# ------------------------------------------------------------
+
+cat("\n")
+cat("FINAL ARTIFACTS\n")
+cat("===============\n")
+cat("1. Figure_01_ES_Distributions.png / .pdf\n")
+cat("2. Figure_02_Aridity_x_ES.png / .pdf\n")
+cat("3. Table_01_Aridity_x_ES_Statistics.csv\n\n")
+
+print(
+  final_stats_table,
   row.names = FALSE
 )
