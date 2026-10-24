@@ -1,0 +1,37 @@
+response_id,response,habitat,aridity_position,aridity_value,expected_relative_change_percent,CI_lower_percent,CI_upper_percent
+Species_Richness,Species richness,Water,More arid (10th percentile),9.192335550607,4.180586638860033,2.9200132983914915,5.456599614090239
+Species_Richness,Species richness,Water,Median aridity (50th percentile),18.04886789055598,3.206863714223534,2.4056674068311823,4.0143284054619
+Species_Richness,Species richness,Water,Less arid (90th percentile),30.41043669066817,1.8629796391767215,0.6441439432560029,3.0965759773340653
+Species_Richness,Species richness,Shrub and scrub,More arid (10th percentile),9.192335550607,2.360489801426348,1.589516427452199,3.1373141835766214
+Species_Richness,Species richness,Shrub and scrub,Median aridity (50th percentile),18.04886789055598,2.0541534665119996,1.5890628986954851,2.521373294868028
+Species_Richness,Species richness,Shrub and scrub,Less arid (90th percentile),30.41043669066817,1.6281144488751578,0.763043730178624,2.50061204048879
+Species_Richness,Species richness,Built,More arid (10th percentile),9.192335550607,-0.711689304940984,-0.875250825660766,-0.5478578978643927
+Species_Richness,Species richness,Built,Median aridity (50th percentile),18.04886789055598,-0.5821368582749803,-0.6837588313332409,-0.4804109037726507
+Species_Richness,Species richness,Built,Less arid (90th percentile),30.41043669066817,-0.40103043428304674,-0.5804870691159071,-0.22124986942266187
+Functional_Richness,Functional richness,Water,More arid (10th percentile),9.260955842152017,8.933977676751157,6.63600599960944,11.266801755785908
+Functional_Richness,Functional richness,Water,Median aridity (50th percentile),18.051527455449737,7.1453989285221615,5.663918160064744,8.641658933953764
+Functional_Richness,Functional richness,Water,Less arid (90th percentile),30.70497617912382,4.6078701022474045,2.427836164742114,6.821254776997654
+Functional_Richness,Functional richness,Shrub and scrub,More arid (10th percentile),9.260955842152017,3.016498469579569,2.0767305992912055,3.9625525866750415
+Functional_Richness,Functional richness,Shrub and scrub,Median aridity (50th percentile),18.051527455449737,2.5792720250370462,2.005627065339901,3.15526782927751
+Functional_Richness,Functional richness,Shrub and scrub,Less arid (90th percentile),30.70497617912382,1.952293929653596,0.8993284680887893,3.0132798885576135
+Functional_Richness,Functional richness,Built,More arid (10th percentile),9.260955842152017,-0.9511245403977323,-1.1355732321514995,-0.7664207882324473
+Functional_Richness,Functional richness,Built,Median aridity (50th percentile),18.051527455449737,-0.7826086689164743,-0.898000871405059,-0.6671169386705117
+Functional_Richness,Functional richness,Built,Less arid (90th percentile),30.70497617912382,-0.5396683504762294,-0.7465046571901671,-0.33251317101267774
+Functional_Dispersion,Functional dispersion,Water,More arid (10th percentile),9.329576133697032,2.4037490283450107,1.6319088481974535,3.181451027637994
+Functional_Dispersion,Functional dispersion,Water,Median aridity (50th percentile),18.05418702034349,1.870875578001701,1.373738059221998,2.3704510706367263
+Functional_Dispersion,Functional dispersion,Water,Less arid (90th percentile),30.467593532827003,1.1174772074117525,0.34546611952856,1.895427936125721
+Functional_Dispersion,Functional dispersion,Shrub and scrub,More arid (10th percentile),9.329576133697032,0.7362622041529515,0.3792401442667471,1.0945541247012565
+Functional_Dispersion,Functional dispersion,Shrub and scrub,Median aridity (50th percentile),18.05418702034349,0.6843537644785079,0.4624585004046147,0.9067391377722909
+Functional_Dispersion,Functional dispersion,Shrub and scrub,Less arid (90th percentile),30.467593532827003,0.6105443562939733,0.20509419691780287,1.017635095928045
+Functional_Dispersion,Functional dispersion,Built,More arid (10th percentile),9.329576133697032,-0.21036378750829482,-0.29488154170712916,-0.12577438803990426
+Functional_Dispersion,Functional dispersion,Built,Median aridity (50th percentile),18.05418702034349,-0.16445023780118592,-0.21777143270362703,-0.11110054929439252
+Functional_Dispersion,Functional dispersion,Built,Less arid (90th percentile),30.467593532827003,-0.0990878674730881,-0.19198673983158787,-0.006102524746353743
+Functional_Evenness,Functional evenness,Water,More arid (10th percentile),9.260955842152017,-0.28404676396613254,-0.48192862211874155,-0.08675013948648862
+Functional_Evenness,Functional evenness,Water,Median aridity (50th percentile),18.051527455449737,-0.3559738308809922,-0.4777036272315046,-0.23446497967661847
+Functional_Evenness,Functional evenness,Water,Less arid (90th percentile),30.70497617912382,-0.4596439044321345,-0.6581360904842337,-0.26173558012439196
+Functional_Evenness,Functional evenness,Shrub and scrub,More arid (10th percentile),9.260955842152017,-0.018647624772258703,-0.17493370900349706,0.13726846309149948
+Functional_Evenness,Functional evenness,Shrub and scrub,Median aridity (50th percentile),18.051527455449737,0.08315147296910508,-0.012677102071693754,0.1788401326683527
+Functional_Evenness,Functional evenness,Shrub and scrub,Less arid (90th percentile),30.70497617912382,0.22940730483457605,0.046846959450954455,0.4114569292474954
+Functional_Evenness,Functional evenness,Built,More arid (10th percentile),9.260955842152017,0.024480962400159477,-0.012812791531957635,0.06175356603157773
+Functional_Evenness,Functional evenness,Built,Median aridity (50th percentile),18.051527455449737,0.02236742513857507,-9.680233717347893e-4,0.04569459208627646
+Functional_Evenness,Functional evenness,Built,Less arid (90th percentile),30.70497617912382,0.01932500816672947,-0.02241333522759924,0.06103686816348055

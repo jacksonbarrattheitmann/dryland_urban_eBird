@@ -21,7 +21,6 @@ TEMPORARY_DEDUPLICATE <- TRUE
 MIN_CHECKLISTS_PER_LOCALITY <- 10
 MIN_LOCALITIES_PER_CITY <- 5
 
-DE_MARTONNE_DRYLAND_MAX <- 30
 
 OUTPUT_ROOT <- file.path(
   "Outputs",
@@ -129,27 +128,7 @@ sr_pool <- analysis_base %>%
     effort_distance_km <= 5
   )
 
-# ------------------------------------------------------------
-# Restrict analysis to De Martonne dryland conditions
-# ------------------------------------------------------------
 
-excluded_humid_cities <- sr_pool %>%
-  distinct(
-    NAME10,
-    state_name,
-    avg_aridity_index
-  ) %>%
-  filter(
-    avg_aridity_index >= DE_MARTONNE_DRYLAND_MAX
-  ) %>%
-  arrange(
-    desc(avg_aridity_index)
-  )
-
-sr_pool <- sr_pool %>%
-  filter(
-    avg_aridity_index < DE_MARTONNE_DRYLAND_MAX
-  )
 
 
 model_variables <- c(

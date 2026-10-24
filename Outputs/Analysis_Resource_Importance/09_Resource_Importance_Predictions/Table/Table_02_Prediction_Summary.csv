@@ -1,0 +1,6 @@
+Response,Habitat,interaction_estimate_1pp,interaction_p,fitted_cities,retained_cities,minimum_habitat_range_pp,display_lower_pp,display_upper_pp,prediction_points
+Species richness,Water,-0.00106028484513427,0.01910376549713472,215,162,1,-0.5,0.5,9905
+Species richness,Built,1.47231447174233e-4,0.02829194206797121,215,215,1,-0.5,0.5,13115
+Functional richness,Water,-0.00242699786277336,0.01442246774969399,208,160,1,-0.5,0.5,9780
+Functional richness,Built,2.4341291647883e-4,0.01101553973464681,208,208,1,-0.5,0.5,12688
+Functional dispersion,Water,-5.979909147363529e-4,0.03625457459817447,211,161,1,-0.5,0.5,9843
