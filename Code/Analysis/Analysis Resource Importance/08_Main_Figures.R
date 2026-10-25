@@ -82,7 +82,7 @@ required_files <- c(
 missing_files <- required_files[!fs::file_exists(required_files)]
 
 if (length(missing_files) > 0) {
-  abort(str_c("Missing synthesis input(s):\n", str_c(missing_files, collapse = "\n")))
+  stop(str_c("Missing synthesis input(s):\n", str_c(missing_files, collapse = "\n")))
 }
 
 # Helpers
@@ -91,7 +91,7 @@ pick_column <- function(data, choices) {
   found <- intersect(choices, names(data))
   
   if (length(found) != 1) {
-    abort(str_c("Could not uniquely identify one of: ", str_c(choices, collapse = ", ")))
+    stop(str_c("Could not uniquely identify one of: ", str_c(choices, collapse = ", ")))
   }
   
   found
@@ -157,7 +157,7 @@ sample_parts <- response_info %>%
     old_offset_columns <- intersect(legacy_offset_columns, names(response_data))
     
     if (length(old_offset_columns) > 0) {
-      abort(str_c(
+      stop(str_c(
         "Legacy response-offset column(s) found for ", response, ": ",
         str_c(old_offset_columns, collapse = ", ")
       ))
@@ -169,7 +169,7 @@ sample_parts <- response_info %>%
     rm(response_data)
     
     if (n_distinct(city_aridity$NAME10) != nrow(city_aridity)) {
-      abort(str_c("Aridity is not unique by city for ", response, "."))
+      stop(str_c("Aridity is not unique by city for ", response, "."))
     }
     
     aridity_quantiles <- quantile(
@@ -240,7 +240,7 @@ primary_curves <- response_info %>%
   )
 
 if (nrow(distinct(primary_curves, response, habitat)) != 18) {
-  abort("Final response curves are incomplete.")
+  stop("Final response curves are incomplete.")
 }
 
 # City-specific conditional effects for the four biodiversity responses
@@ -439,56 +439,79 @@ figure_02 <- ggplot(
 
 # Supplementary CWM figures
 
-make_trait_figure <- function(response_name, y_label) {
-  curve <- primary_curves %>%
-    filter(as.character(response) == response_name) %>%
-    mutate(habitat = factor(as.character(habitat), levels = habitat_order))
-  
-  support <- aridity_support %>%
-    filter(response == response_name) %>%
-    distinct(NAME10, avg_aridity_index)
-  
-  ggplot(curve, aes(avg_aridity_index, relative_change_percent)) +
-    geom_hline(yintercept = 0, linetype = "dashed", linewidth = 0.45) +
-    geom_ribbon(
-      aes(ymin = CI_lower_percent, ymax = CI_upper_percent),
-      alpha = 0.15
-    ) +
-    geom_line(linewidth = 1.05, lineend = "round") +
-    geom_rug(
-      data = support,
-      aes(x = avg_aridity_index),
-      inherit.aes = FALSE,
-      sides = "b",
-      alpha = 0.12,
-      linewidth = 0.2
-    ) +
-    facet_wrap(vars(habitat), nrow = 1) +
-    scale_x_reverse() +
-    labs(
-      x = "De Martonne aridity index",
-      y = y_label,
-      caption = "Less arid  ←                                   →  More arid"
-    ) +
-    theme_classic(base_size = 12) +
-    theme(
-      strip.background = element_blank(),
-      strip.text = element_text(face = "bold", size = 12),
-      axis.text = element_text(size = 10.5),
-      axis.title = element_text(size = 12),
-      plot.caption = element_text(hjust = 0.5, size = 9.5)
-    )
-}
+trait_curves <- primary_curves %>%
+  filter(as.character(response) %in% trait_responses) %>%
+  mutate(
+    response = factor(as.character(response), levels = trait_responses),
+    habitat = factor(as.character(habitat), levels = habitat_order)
+  )
 
-figure_s1 <- make_trait_figure(
-  "CWM body mass",
-  "Expected change in CWM body mass (%)"
-)
+figure_s1 <- ggplot(
+  trait_curves,
+  aes(avg_aridity_index, relative_change_percent)
+) +
+  geom_hline(yintercept = 0, linetype = "dashed", linewidth = 0.4) +
+  geom_ribbon(
+    aes(ymin = CI_lower_percent, ymax = CI_upper_percent),
+    alpha = 0.15
+  ) +
+  geom_line(linewidth = 0.9, lineend = "round") +
+  facet_grid(
+    rows = vars(response),
+    cols = vars(habitat),
+    scales = "free_y",
+    switch = "y"
+  ) +
+  scale_x_reverse() +
+  labs(
+    x = "De Martonne aridity index",
+    y = "Expected change in response (%)",
+    caption = "Less arid  ←                                   →  More arid"
+  ) +
+  theme_classic(base_size = 11) +
+  theme(
+    strip.background = element_blank(),
+    strip.text.x = element_text(face = "bold", size = 11.5),
+    strip.text.y.left = element_text(face = "bold", angle = 0, size = 10.5),
+    strip.placement = "outside",
+    panel.spacing = grid::unit(0.8, "lines"),
+    axis.text = element_text(size = 9.5),
+    axis.title = element_text(size = 11),
+    plot.caption = element_text(hjust = 0.5, size = 9.5)
+  )
 
-figure_s2 <- make_trait_figure(
-  "CWM beak length",
-  "Expected change in CWM beak length (%)"
-)
+figure_s2_data <- interaction_results %>%
+  filter(as.character(response) %in% trait_responses) %>%
+  mutate(
+    response = factor(as.character(response), levels = trait_responses),
+    habitat = factor(as.character(habitat), levels = rev(habitat_order))
+  )
+
+figure_s2 <- ggplot(
+  figure_s2_data,
+  aes(Estimate, habitat)
+) +
+  geom_vline(xintercept = 0, linetype = "dashed", linewidth = 0.45) +
+  geom_errorbar(
+    aes(xmin = CI_lower, xmax = CI_upper),
+    orientation = "y",
+    width = 0,
+    linewidth = 0.75
+  ) +
+  geom_point(size = 2.8) +
+  facet_wrap(vars(response), ncol = 2, scales = "free_x") +
+  labs(
+    x = "Habitat × aridity interaction estimate per +1 percentage point (95% CI)",
+    y = NULL
+  ) +
+  theme_classic(base_size = 11) +
+  theme(
+    strip.background = element_blank(),
+    strip.text = element_text(face = "bold", size = 11),
+    axis.text = element_text(size = 10),
+    axis.title.x = element_text(size = 11),
+    panel.spacing = grid::unit(1.1, "lines")
+  )
 
 # Save figures
 
@@ -531,39 +554,39 @@ ggsave(
 )
 
 ggsave(
-  fs::path(supp_figure_dir, "Figure_S1_Expected_Change_in_CWM_Body_Mass.png"),
+  fs::path(supp_figure_dir, "Figure_S1_Combined_CWM_Resource_Importance.png"),
   figure_s1,
-  width = 14,
-  height = 5.4,
+  width = 12.5,
+  height = 6.5,
   units = "in",
   dpi = 600,
   bg = "white"
 )
 
 ggsave(
-  fs::path(supp_figure_dir, "Figure_S1_Expected_Change_in_CWM_Body_Mass.pdf"),
+  fs::path(supp_figure_dir, "Figure_S1_Combined_CWM_Resource_Importance.pdf"),
   figure_s1,
-  width = 14,
-  height = 5.4,
+  width = 12.5,
+  height = 6.5,
   units = "in",
   bg = "white"
 )
 
 ggsave(
-  fs::path(supp_figure_dir, "Figure_S2_Expected_Change_in_CWM_Beak_Length.png"),
+  fs::path(supp_figure_dir, "Figure_S2_CWM_Habitat_x_Aridity_Effect_Sizes.png"),
   figure_s2,
-  width = 14,
-  height = 5.4,
+  width = 9,
+  height = 4.5,
   units = "in",
   dpi = 600,
   bg = "white"
 )
 
 ggsave(
-  fs::path(supp_figure_dir, "Figure_S2_Expected_Change_in_CWM_Beak_Length.pdf"),
+  fs::path(supp_figure_dir, "Figure_S2_CWM_Habitat_x_Aridity_Effect_Sizes.pdf"),
   figure_s2,
-  width = 14,
-  height = 5.4,
+  width = 9,
+  height = 4.5,
   units = "in",
   bg = "white"
 )

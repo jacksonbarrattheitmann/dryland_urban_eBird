@@ -351,6 +351,33 @@ make_curve <- function(fit, habitat, within_term, aridity_values) {
   )
 }
 
+make_city_effects <- function(fit, habitat, within_term) {
+  beta <- fixef(fit)$cond
+  term <- interaction_term(fit, within_term)
+  city_re <- ranef(fit)$cond$NAME10
+  
+  if (is.null(city_re) || !within_term %in% colnames(city_re)) {
+    stop("Could not recover city random slopes for ", habitat, ".")
+  }
+  
+  tibble(
+    NAME10 = rownames(city_re),
+    random_slope = as.numeric(city_re[, within_term])
+  ) %>%
+    left_join(
+      city_aridity %>% mutate(NAME10 = as.character(NAME10)),
+      by = "NAME10"
+    ) %>%
+    mutate(
+      habitat = habitat,
+      aridity_centered = avg_aridity_index - mean_city_aridity,
+      fixed_slope = beta[within_term] + beta[term] * aridity_centered,
+      city_slope = fixed_slope + random_slope,
+      delta_log = habitat_step * city_slope,
+      relative_change_percent = 100 * (exp(delta_log) - 1)
+    )
+}
+
 # Primary models
 
 model_data <- mass_analysis_data %>%
@@ -380,7 +407,8 @@ process_habitat <- function(habitat, stub, within_term, context_term) {
     model_path = model_path,
     interaction = extract_interaction(fit, habitat, within_term),
     qc = extract_qc(fit, habitat, within_term),
-    curve = make_curve(fit, habitat, within_term, aridity_values)
+    curve = make_curve(fit, habitat, within_term, aridity_values),
+    city_effects = make_city_effects(fit, habitat, within_term)
   )
   
   rm(fit)
@@ -394,6 +422,7 @@ primary_outputs <- pmap(habitat_info, process_habitat)
 interaction_results <- map_dfr(primary_outputs, "interaction")
 model_qc <- map_dfr(primary_outputs, "qc")
 resource_curves <- map_dfr(primary_outputs, "curve")
+city_effects <- map_dfr(primary_outputs, "city_effects")
 
 model_registry <- habitat_info %>%
   mutate(
@@ -492,6 +521,9 @@ habitat_levels <- c("Water", "Shrub and scrub", "Built")
 plot_curves <- resource_curves %>%
   mutate(habitat = factor(habitat, levels = habitat_levels))
 
+plot_city_effects <- city_effects %>%
+  mutate(habitat = factor(habitat, levels = habitat_levels))
+
 resource_figure <- ggplot(
   plot_curves,
   aes(x = avg_aridity_index, y = relative_change_percent)
@@ -503,6 +535,13 @@ resource_figure <- ggplot(
       ymax = relative_CI_upper_percent
     ),
     alpha = 0.2
+  ) +
+  geom_point(
+    data = plot_city_effects,
+    aes(x = avg_aridity_index, y = relative_change_percent),
+    inherit.aes = FALSE,
+    alpha = 0.45,
+    size = 1.4
   ) +
   geom_line(linewidth = 0.9) +
   facet_wrap(~ habitat, nrow = 1) +
@@ -546,6 +585,10 @@ write_csv(
   fs::path(table_dir, "CWM_Body_Mass_Effect_Curves.csv")
 )
 write_csv(
+  city_effects,
+  fs::path(table_dir, "CWM_Body_Mass_City_Conditional_Effects.csv")
+)
+write_csv(
   water_sensitivity,
   fs::path(table_dir, "CWM_Body_Mass_Water_Support_Sensitivity.csv")
 )
@@ -576,6 +619,7 @@ analysis_bundle <- list(
   primary_interactions = interaction_results,
   primary_model_qc = model_qc,
   primary_resource_curves = resource_curves,
+  city_conditional_effects = city_effects,
   water_support_sensitivity = water_sensitivity,
   water_support_model_qc = water_support_qc,
   water_support_model_path = water_support_path
