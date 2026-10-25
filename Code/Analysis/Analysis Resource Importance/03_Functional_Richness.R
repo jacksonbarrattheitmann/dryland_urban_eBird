@@ -87,7 +87,7 @@ if (any(fric_data$FRic <= 0 | fric_data$FRic >= 1)) {
   stop("Final FRic sample must be strictly inside (0,1) for beta regression.")
 }
 
-# City baseline and final habitat centering
+# Display baseline and final habitat centering
 
 city_aridity <- fric_data %>%
   distinct(NAME10, avg_aridity_index)
@@ -133,10 +133,8 @@ mean_city_built <- mean(city_habitat$city_mean_built_pp)
 
 fric_analysis_data <- fric_data %>%
   select(-any_of(c(
-    "city_mean_FRic_checklist",
     "city_mean_water_pp", "city_mean_shrub_pp", "city_mean_built_pp"
   ))) %>%
-  left_join(city_baseline, by = "NAME10") %>%
   left_join(
     city_habitat %>%
       select(NAME10, city_mean_water_pp, city_mean_shrub_pp, city_mean_built_pp),
@@ -150,13 +148,12 @@ fric_analysis_data <- fric_data %>%
     city_context_water_10 = (city_mean_water_pp - mean_city_water) / 10,
     city_context_shrub_10 = (city_mean_shrub_pp - mean_city_shrub) / 10,
     city_context_built_10 = (city_mean_built_pp - mean_city_built) / 10,
-    city_FRic_logit_offset = qlogis(city_mean_FRic_checklist),
     NAME10 = factor(NAME10),
     locality_id = factor(locality_id),
     protocol_name = factor(protocol_name, levels = c("Stationary", "Traveling"))
   )
 
-rm(fric_data, locality_habitat)
+rm(fric_data, locality_habitat, city_baseline)
 gc()
 
 centering_qc <- fric_analysis_data %>%
@@ -208,7 +205,6 @@ make_formula <- function(within_term, context_term) {
     paste0(
       "FRic ~ ", within_term, " * aridity_centered + ", context_term,
       " + duration_10 + effort_distance_km + protocol_name + ",
-      "offset(city_FRic_logit_offset) + ",
       "(1 + ", within_term, " || NAME10) + (1 | locality_id)"
     )
   )
@@ -410,7 +406,7 @@ model_data <- fric_analysis_data %>%
     aridity_centered,
     city_context_water_10, city_context_shrub_10, city_context_built_10,
     duration_10, effort_distance_km, protocol_name,
-    city_FRic_logit_offset, NAME10, locality_id
+    NAME10, locality_id
   )
 
 rm(fric_analysis_data)

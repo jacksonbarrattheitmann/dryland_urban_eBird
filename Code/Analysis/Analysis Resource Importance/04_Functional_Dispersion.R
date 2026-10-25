@@ -92,7 +92,7 @@ if (any(fdis_data$FDis <= 0)) {
   stop("Final FDis sample must be strictly positive for Gamma regression.")
 }
 
-# City baseline and final habitat centering
+# City aridity and final habitat centering
 
 city_aridity <- fdis_data %>%
   distinct(NAME10, avg_aridity_index)
@@ -102,18 +102,6 @@ if (nrow(city_aridity) != n_distinct(fdis_data$NAME10)) {
 }
 
 mean_city_aridity <- mean(city_aridity$avg_aridity_index)
-
-city_baseline <- fdis_data %>%
-  group_by(NAME10) %>%
-  summarise(
-    city_mean_FDis_checklist = mean(FDis),
-    .groups = "drop"
-  )
-
-if (any(!is.finite(city_baseline$city_mean_FDis_checklist) |
-        city_baseline$city_mean_FDis_checklist <= 0)) {
-  stop("At least one retained city has an invalid FDis baseline.")
-}
 
 locality_habitat <- fdis_data %>%
   distinct(NAME10, locality_id, water_pp, shrub_pp, built_pp)
@@ -136,10 +124,8 @@ mean_city_built <- mean(city_habitat$city_mean_built_pp)
 
 fdis_analysis_data <- fdis_data %>%
   select(-any_of(c(
-    "city_mean_FDis_checklist",
     "city_mean_water_pp", "city_mean_shrub_pp", "city_mean_built_pp"
   ))) %>%
-  left_join(city_baseline, by = "NAME10") %>%
   left_join(
     city_habitat %>%
       select(NAME10, city_mean_water_pp, city_mean_shrub_pp, city_mean_built_pp),
@@ -153,7 +139,6 @@ fdis_analysis_data <- fdis_data %>%
     city_context_water_10 = (city_mean_water_pp - mean_city_water) / 10,
     city_context_shrub_10 = (city_mean_shrub_pp - mean_city_shrub) / 10,
     city_context_built_10 = (city_mean_built_pp - mean_city_built) / 10,
-    city_FDis_log_offset = log(city_mean_FDis_checklist),
     NAME10 = factor(NAME10),
     locality_id = factor(locality_id),
     protocol_name = factor(protocol_name, levels = c("Stationary", "Traveling"))
@@ -212,7 +197,6 @@ make_formula <- function(within_term, context_term) {
     paste0(
       "FDis ~ ", within_term, " * aridity_centered + ", context_term,
       " + duration_10 + effort_distance_km + protocol_name + ",
-      "offset(city_FDis_log_offset) + ",
       "(1 + ", within_term, " || NAME10) + (1 | locality_id)"
     )
   )
@@ -406,7 +390,7 @@ model_data <- fdis_analysis_data %>%
     aridity_centered,
     city_context_water_10, city_context_shrub_10, city_context_built_10,
     duration_10, effort_distance_km, protocol_name,
-    city_FDis_log_offset, NAME10, locality_id
+    NAME10, locality_id
   )
 
 rm(fdis_analysis_data)
@@ -624,10 +608,8 @@ model_bundle <- list(
   modeled_response_variable = "FDis",
   model_family = "Gamma",
   link = "log",
-  primary_city_baseline =
-    "Checklist-weighted mean FDis within each final eligible city",
-  primary_offset_variable = "city_FDis_log_offset",
-  primary_offset_definition = "log(city_mean_FDis_checklist)",
+  primary_response_offset = "None",
+  city_baseline_structure = "Random intercept for NAME10",
   mean_city_aridity = mean_city_aridity,
   primary_model_paths = model_registry$model_path,
   model_registry = model_registry,

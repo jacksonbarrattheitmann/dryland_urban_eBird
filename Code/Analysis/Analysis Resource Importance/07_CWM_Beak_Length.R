@@ -88,7 +88,7 @@ beak_data <- beak_pool %>%
 rm(beak_pool, eligible_localities, eligible_cities)
 gc()
 
-# City baseline and final habitat centering
+# City aridity and final habitat centering
 
 city_aridity <- beak_data %>%
   distinct(NAME10, avg_aridity_index)
@@ -98,18 +98,6 @@ if (nrow(city_aridity) != n_distinct(beak_data$NAME10)) {
 }
 
 mean_city_aridity <- mean(city_aridity$avg_aridity_index)
-
-city_baseline <- beak_data %>%
-  group_by(NAME10) %>%
-  summarise(
-    city_mean_CWM_Beak_Length_checklist = mean(CWM.Beak.Length),
-    .groups = "drop"
-  )
-
-if (any(!is.finite(city_baseline$city_mean_CWM_Beak_Length_checklist) |
-        city_baseline$city_mean_CWM_Beak_Length_checklist <= 0)) {
-  stop("At least one retained city has an invalid CWM beak-length baseline.")
-}
 
 locality_habitat <- beak_data %>%
   distinct(NAME10, locality_id, water_pp, shrub_pp, built_pp)
@@ -132,10 +120,8 @@ mean_city_built <- mean(city_habitat$city_mean_built_pp)
 
 beak_analysis_data <- beak_data %>%
   select(-any_of(c(
-    "city_mean_CWM_Beak_Length_checklist",
     "city_mean_water_pp", "city_mean_shrub_pp", "city_mean_built_pp"
   ))) %>%
-  left_join(city_baseline, by = "NAME10") %>%
   left_join(
     city_habitat %>%
       select(NAME10, city_mean_water_pp, city_mean_shrub_pp, city_mean_built_pp),
@@ -149,7 +135,6 @@ beak_analysis_data <- beak_data %>%
     city_context_water_10 = (city_mean_water_pp - mean_city_water) / 10,
     city_context_shrub_10 = (city_mean_shrub_pp - mean_city_shrub) / 10,
     city_context_built_10 = (city_mean_built_pp - mean_city_built) / 10,
-    city_CWM_Beak_Length_log_offset = log(city_mean_CWM_Beak_Length_checklist),
     NAME10 = factor(NAME10),
     locality_id = factor(locality_id),
     protocol_name = factor(protocol_name, levels = c("Stationary", "Traveling"))
@@ -208,7 +193,6 @@ make_formula <- function(within_term, context_term) {
     paste0(
       "CWM.Beak.Length ~ ", within_term, " * aridity_centered + ", context_term,
       " + duration_10 + effort_distance_km + protocol_name + ",
-      "offset(city_CWM_Beak_Length_log_offset) + ",
       "(1 + ", within_term, " || NAME10) + (1 | locality_id)"
     )
   )
@@ -376,7 +360,7 @@ model_data <- beak_analysis_data %>%
     aridity_centered,
     city_context_water_10, city_context_shrub_10, city_context_built_10,
     duration_10, effort_distance_km, protocol_name,
-    city_CWM_Beak_Length_log_offset, NAME10, locality_id
+    NAME10, locality_id
   )
 
 rm(beak_analysis_data)
@@ -583,14 +567,8 @@ analysis_bundle <- list(
   response_variable = "CWM.Beak.Length",
   model_family = "Gamma",
   link = "log",
-  city_relative_estimand = paste0(
-    "Expected checklist CWM beak length multiplicatively relative to its ",
-    "city's observed checklist-weighted CWM beak-length baseline"
-  ),
-  primary_city_baseline =
-    "Checklist-weighted mean CWM.Beak.Length within each final eligible city",
-  primary_offset_variable = "city_CWM_Beak_Length_log_offset",
-  primary_offset_definition = "log(city_mean_CWM_Beak_Length_checklist)",
+  primary_response_offset = "None",
+  city_baseline_structure = "Random intercept for NAME10",
   habitat_increment_percent_cover = habitat_step * 10,
   mean_city_aridity = mean_city_aridity,
   primary_model_paths = model_registry$model_path,

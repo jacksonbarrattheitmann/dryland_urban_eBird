@@ -3,6 +3,8 @@ library(glmmTMB)
 
 # Settings
 
+# Predictions use the final no-response-offset models from Scripts 02-07.
+
 alpha_threshold <- 0.05
 min_habitat_range_pp <- 1
 display_half_range_pp <- 0.5
@@ -51,6 +53,8 @@ habitat_info <- tribble(
   "Shrub and scrub", "Shrub_and_scrub", "shrub_within_model_10",
   "Built", "Built", "built_within_model_10"
 )
+
+# Significant Habitat x Aridity interactions from the final synthesis
 
 significant_interactions <- read_csv(
   synthesis_table,
@@ -125,6 +129,19 @@ make_prediction <- function(
 ) {
   analysis_data <- read_rds(data_file)
   fit <- read_rds(model_file)
+  
+  model_formula_text <- paste(
+    deparse(stats::formula(fit)),
+    collapse = ""
+  )
+  
+  if (str_detect(gsub("\\s+", "", model_formula_text), fixed("offset("))) {
+    stop(
+      "An old response-offset model was loaded for ",
+      Response, " / ", Habitat, ". Rerun the corresponding response script."
+    )
+  }
+  
   fit_frame <- tryCatch(model.frame(fit), error = function(e) fit$frame)
   
   if (is.null(fit_frame)) {
@@ -302,6 +319,7 @@ make_prediction <- function(
   prediction_summary <- tibble(
     Response,
     Habitat,
+    response_offset = "None",
     interaction_estimate_1pp,
     interaction_p,
     fitted_cities = n_distinct(city_reference$NAME10),

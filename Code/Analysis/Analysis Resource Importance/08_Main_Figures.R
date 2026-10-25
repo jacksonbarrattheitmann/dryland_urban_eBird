@@ -29,7 +29,7 @@ walk(
   fs::dir_create
 )
 
-# Final response-specific outputs
+# Final no-offset response-specific outputs
 
 response_info <- tribble(
   ~response_id,            ~response,                ~folder,                    ~prefix,
@@ -140,13 +140,33 @@ interpolate_curve <- function(x, y, at) {
 
 # Sample and aridity reference
 
+legacy_offset_columns <- c(
+  "city_FRic_logit_offset",
+  "city_FDis_log_offset",
+  "city_FEve_logit_offset",
+  "city_CWM_Mass_log_offset",
+  "city_CWM_Beak_Length_log_offset"
+)
+
 sample_parts <- response_info %>%
   select(response_id, response, data_file, sample_file) %>%
   pmap(function(response_id, response, data_file, sample_file) {
     sample_summary <- read_csv(sample_file, show_col_types = FALSE)
+    response_data <- read_rds(data_file)
     
-    city_aridity <- read_rds(data_file) %>%
+    old_offset_columns <- intersect(legacy_offset_columns, names(response_data))
+    
+    if (length(old_offset_columns) > 0) {
+      abort(str_c(
+        "Legacy response-offset column(s) found for ", response, ": ",
+        str_c(old_offset_columns, collapse = ", ")
+      ))
+    }
+    
+    city_aridity <- response_data %>%
       distinct(NAME10, avg_aridity_index)
+    
+    rm(response_data)
     
     if (n_distinct(city_aridity$NAME10) != nrow(city_aridity)) {
       abort(str_c("Aridity is not unique by city for ", response, "."))
@@ -370,7 +390,7 @@ figure_01 <- ggplot(
   labs(
     x = "De Martonne aridity index",
     y = "Expected change in response (%)",
-    caption = "Less arid  <-                                   ->  More arid"
+    caption = "Less arid  ←                                   →  More arid"
   ) +
   theme_classic(base_size = 11) +
   theme(
@@ -405,7 +425,7 @@ figure_02 <- ggplot(
   geom_point(size = 2.8) +
   facet_wrap(vars(response), ncol = 2, scales = "free_x") +
   labs(
-    x = "Habitat x aridity interaction estimate per +1 percentage point (95% CI)",
+    x = "Habitat × aridity interaction estimate per +1 percentage point (95% CI)",
     y = NULL
   ) +
   theme_classic(base_size = 11) +
@@ -448,7 +468,7 @@ make_trait_figure <- function(response_name, y_label) {
     labs(
       x = "De Martonne aridity index",
       y = y_label,
-      caption = "Less arid  <-                                   ->  More arid"
+      caption = "Less arid  ←                                   →  More arid"
     ) +
     theme_classic(base_size = 12) +
     theme(

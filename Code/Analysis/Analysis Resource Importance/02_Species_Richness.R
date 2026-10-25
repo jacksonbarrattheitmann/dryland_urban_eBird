@@ -32,13 +32,11 @@ if (!fs::file_exists(input_file)) {
 
 model_vars <- c(
   "sr", "avg_aridity_index", "water_pp", "shrub_pp", "built_pp",
-  "water_within_10", "shrub_within_10", "built_within_10",
-  "city_mean_water_10", "city_mean_shrub_10", "city_mean_built_10",
   "duration_10", "effort_distance_km", "protocol_name", "NAME10",
   "locality_id"
 )
 
-required_vars <- c("checklist_id", "state_name", model_vars)
+required_vars <- c("checklist_id", model_vars)
 analysis_base <- read_rds(input_file)
 
 missing_vars <- setdiff(required_vars, names(analysis_base))
@@ -61,8 +59,6 @@ gc()
 
 numeric_vars <- c(
   "sr", "avg_aridity_index", "water_pp", "shrub_pp", "built_pp",
-  "water_within_10", "shrub_within_10", "built_within_10",
-  "city_mean_water_10", "city_mean_shrub_10", "city_mean_built_10",
   "duration_10", "effort_distance_km"
 )
 
@@ -89,7 +85,7 @@ sr_data <- sr_pool %>%
 rm(sr_pool, eligible_localities, eligible_cities, finite_check)
 gc()
 
-# City baseline and final habitat centering
+# Final aridity and habitat centering
 
 city_aridity <- sr_data %>%
   distinct(NAME10, avg_aridity_index)
@@ -99,13 +95,6 @@ if (nrow(city_aridity) != n_distinct(sr_data$NAME10)) {
 }
 
 mean_city_aridity <- mean(city_aridity$avg_aridity_index)
-
-city_baseline <- sr_data %>%
-  group_by(NAME10) %>%
-  summarise(
-    city_mean_sr_checklist = mean(sr),
-    .groups = "drop"
-  )
 
 locality_habitat <- sr_data %>%
   distinct(NAME10, locality_id, water_pp, shrub_pp, built_pp)
@@ -130,7 +119,6 @@ sr_model_data <- sr_data %>%
   select(-any_of(c(
     "city_mean_water_pp", "city_mean_shrub_pp", "city_mean_built_pp"
   ))) %>%
-  left_join(city_baseline, by = "NAME10") %>%
   left_join(
     city_habitat %>%
       select(NAME10, city_mean_water_pp, city_mean_shrub_pp, city_mean_built_pp),
@@ -183,7 +171,7 @@ write_rds(
   fs::path(data_dir, "Species_Richness_Resource_Importance_Data.rds")
 )
 
-rm(sr_data, city_baseline, locality_habitat, centering_qc)
+rm(sr_data, locality_habitat, centering_qc)
 gc()
 
 # Keep only variables needed for model fitting in memory.
@@ -200,7 +188,6 @@ sr_model_data <- sr_model_data %>%
     duration_10,
     effort_distance_km,
     protocol_name,
-    city_mean_sr_checklist,
     NAME10,
     locality_id
   )
@@ -221,7 +208,6 @@ make_formula <- function(within_term, context_term) {
     paste0(
       "sr ~ ", within_term, " * aridity_centered + ", context_term,
       " + duration_10 + effort_distance_km + protocol_name + ",
-      "offset(log(city_mean_sr_checklist)) + ",
       "(1 + ", within_term, " || NAME10) + (1 | locality_id)"
     )
   )
@@ -412,8 +398,7 @@ aridity_values <- seq(
 
 model_registry <- habitat_info %>%
   mutate(
-    model_set = "Primary checklist-weighted city baseline",
-    baseline_variable = "city_mean_sr_checklist",
+    model_set = "Primary no response offset",
     model_path = fs::path(model_dir, str_c(stub, "_model.rds"))
   )
 
@@ -468,7 +453,6 @@ water_data <- sr_model_data %>%
     duration_10,
     effort_distance_km,
     protocol_name,
-    city_mean_sr_checklist,
     NAME10,
     locality_id
   ) %>%
@@ -635,7 +619,7 @@ ggsave(
   bg = "white"
 )
 
-# Model index used by Scripts 18 and 19
+# Model index used by downstream synthesis and prediction scripts
 
 write_rds(
   list(

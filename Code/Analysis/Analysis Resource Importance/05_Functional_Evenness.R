@@ -87,7 +87,7 @@ if (any(feve_data$FEve <= 0 | feve_data$FEve >= 1)) {
   stop("Final FEve sample must be strictly inside (0,1) for beta regression.")
 }
 
-# City baseline and final habitat centering
+# City aridity, display baseline, and final habitat centering
 
 city_aridity <- feve_data %>%
   distinct(NAME10, avg_aridity_index)
@@ -98,19 +98,19 @@ if (nrow(city_aridity) != n_distinct(feve_data$NAME10)) {
 
 mean_city_aridity <- mean(city_aridity$avg_aridity_index)
 
-city_baseline <- feve_data %>%
+city_FEve_baseline <- feve_data %>%
   group_by(NAME10) %>%
   summarise(
     city_mean_FEve_checklist = mean(FEve),
     .groups = "drop"
   )
 
-if (any(city_baseline$city_mean_FEve_checklist <= 0 |
-        city_baseline$city_mean_FEve_checklist >= 1)) {
+if (any(city_FEve_baseline$city_mean_FEve_checklist <= 0 |
+        city_FEve_baseline$city_mean_FEve_checklist >= 1)) {
   stop("At least one retained city has an invalid FEve baseline.")
 }
 
-typical_city_FEve_baseline <- median(city_baseline$city_mean_FEve_checklist)
+typical_city_FEve_baseline <- median(city_FEve_baseline$city_mean_FEve_checklist)
 
 locality_habitat <- feve_data %>%
   distinct(NAME10, locality_id, water_pp, shrub_pp, built_pp)
@@ -133,10 +133,8 @@ mean_city_built <- mean(city_habitat$city_mean_built_pp)
 
 feve_analysis_data <- feve_data %>%
   select(-any_of(c(
-    "city_mean_FEve_checklist",
     "city_mean_water_pp", "city_mean_shrub_pp", "city_mean_built_pp"
   ))) %>%
-  left_join(city_baseline, by = "NAME10") %>%
   left_join(
     city_habitat %>%
       select(NAME10, city_mean_water_pp, city_mean_shrub_pp, city_mean_built_pp),
@@ -150,7 +148,6 @@ feve_analysis_data <- feve_data %>%
     city_context_water_10 = (city_mean_water_pp - mean_city_water) / 10,
     city_context_shrub_10 = (city_mean_shrub_pp - mean_city_shrub) / 10,
     city_context_built_10 = (city_mean_built_pp - mean_city_built) / 10,
-    city_FEve_logit_offset = qlogis(city_mean_FEve_checklist),
     NAME10 = factor(NAME10),
     locality_id = factor(locality_id),
     protocol_name = factor(protocol_name, levels = c("Stationary", "Traveling"))
@@ -208,7 +205,6 @@ make_formula <- function(within_term, context_term) {
     paste0(
       "FEve ~ ", within_term, " * aridity_centered + ", context_term,
       " + duration_10 + effort_distance_km + protocol_name + ",
-      "offset(city_FEve_logit_offset) + ",
       "(1 + ", within_term, " || NAME10) + (1 | locality_id)"
     )
   )
@@ -413,7 +409,7 @@ model_data <- feve_analysis_data %>%
     aridity_centered,
     city_context_water_10, city_context_shrub_10, city_context_built_10,
     duration_10, effort_distance_km, protocol_name,
-    city_FEve_logit_offset, NAME10, locality_id
+    NAME10, locality_id
   )
 
 rm(feve_analysis_data)
@@ -629,6 +625,8 @@ model_bundle <- list(
   response = "Functional evenness",
   model_family = "Beta",
   link = "logit",
+  primary_response_offset = "None",
+  city_baseline_structure = "Random intercept for NAME10",
   primary_model_paths = model_registry$model_path,
   model_registry = model_registry,
   typical_city_FEve_baseline_for_display = typical_city_FEve_baseline,
