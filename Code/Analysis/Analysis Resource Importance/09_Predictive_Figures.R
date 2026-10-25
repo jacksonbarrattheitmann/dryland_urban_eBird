@@ -3,8 +3,6 @@ library(glmmTMB)
 
 # Settings
 
-# Predictions use the final no-response-offset models from Scripts 02-07.
-
 alpha_threshold <- 0.05
 min_habitat_range_pp <- 1
 display_half_range_pp <- 0.5
@@ -53,8 +51,6 @@ habitat_info <- tribble(
   "Shrub and scrub", "Shrub_and_scrub", "shrub_within_model_10",
   "Built", "Built", "built_within_model_10"
 )
-
-# Significant Habitat x Aridity interactions from the final synthesis
 
 significant_interactions <- read_csv(
   synthesis_table,
@@ -129,19 +125,6 @@ make_prediction <- function(
 ) {
   analysis_data <- read_rds(data_file)
   fit <- read_rds(model_file)
-  
-  model_formula_text <- paste(
-    deparse(stats::formula(fit)),
-    collapse = ""
-  )
-  
-  if (str_detect(gsub("\\s+", "", model_formula_text), fixed("offset("))) {
-    stop(
-      "An old response-offset model was loaded for ",
-      Response, " / ", Habitat, ". Rerun the corresponding response script."
-    )
-  }
-  
   fit_frame <- tryCatch(model.frame(fit), error = function(e) fit$frame)
   
   if (is.null(fit_frame)) {
@@ -319,7 +302,6 @@ make_prediction <- function(
   prediction_summary <- tibble(
     Response,
     Habitat,
-    response_offset = "None",
     interaction_estimate_1pp,
     interaction_p,
     fitted_cities = n_distinct(city_reference$NAME10),
@@ -330,13 +312,102 @@ make_prediction <- function(
     prediction_points = nrow(prediction_data)
   )
   
+  city_aridity <- analysis_data %>%
+    distinct(NAME10, avg_aridity_index)
+  
+  aridity_reference <- tibble(
+    aridity_group = factor(
+      c("More arid", "Median", "Less arid"),
+      levels = c("More arid", "Median", "Less arid")
+    ),
+    avg_aridity_index = quantile(
+      city_aridity$avg_aridity_index,
+      c(0.10, 0.50, 0.90),
+      names = FALSE
+    )
+  )
+  
+  mean_city_aridity <- mean(
+    analysis_data$avg_aridity_index - analysis_data$aridity_centered
+  )
+  
+  representative_grid <- aridity_reference %>%
+    crossing(
+      habitat_deviation_pp = seq(
+        -display_half_range_pp,
+        display_half_range_pp,
+        length.out = n_habitat_points
+      )
+    )
+  
+  representative_data <- analysis_data %>%
+    slice(rep(1, nrow(representative_grid))) %>%
+    mutate(
+      avg_aridity_index = representative_grid$avg_aridity_index,
+      aridity_centered = avg_aridity_index - mean_city_aridity,
+      "{within_term}" := representative_grid$habitat_deviation_pp / 10,
+      across(starts_with("city_context_"), ~ 0),
+      duration_10 = reference_duration,
+      effort_distance_km = reference_distance,
+      protocol_name = factor(
+        reference_protocol,
+        levels = levels(fit_frame$protocol_name)
+      ),
+      NAME10 = factor(
+        levels(fit_frame$NAME10)[1],
+        levels = levels(fit_frame$NAME10)
+      ),
+      locality_id = factor(
+        levels(fit_frame$locality_id)[1],
+        levels = levels(fit_frame$locality_id)
+      )
+    )
+  
+  representative_predictions <- representative_grid %>%
+    mutate(
+      predicted_response = as.numeric(
+        predict(
+          fit,
+          newdata = representative_data,
+          type = "response",
+          re.form = NA,
+          allow.new.levels = FALSE
+        )
+      )
+    ) %>%
+    group_by(aridity_group, avg_aridity_index) %>%
+    mutate(
+      baseline_response = predicted_response[
+        which.min(abs(habitat_deviation_pp))
+      ],
+      predicted_relative_change_percent =
+        100 * (predicted_response / baseline_response - 1)
+    ) %>%
+    ungroup() %>%
+    mutate(
+      Response,
+      Habitat,
+      interaction_estimate_1pp,
+      interaction_p,
+      .before = 1
+    )
+  
   out <- list(
     predictions = prediction_data,
+    representative_predictions = representative_predictions,
     audit = city_audit,
     summary = prediction_summary
   )
   
-  rm(analysis_data, fit, fit_frame, city_re, baseline_data, city_reference)
+  rm(
+    analysis_data,
+    fit,
+    fit_frame,
+    city_re,
+    baseline_data,
+    city_reference,
+    representative_data
+  )
   gc()
   
   out
@@ -346,6 +417,10 @@ prediction_parts <- significant_interactions %>%
   pmap(make_prediction)
 
 prediction_data <- map_dfr(prediction_parts, "predictions")
+representative_prediction_data <- map_dfr(
+  prediction_parts,
+  "representative_predictions"
+)
 city_support_audit <- map_dfr(prediction_parts, "audit")
 prediction_summary <- map_dfr(prediction_parts, "summary")
 
@@ -375,6 +450,16 @@ prediction_data <- prediction_data %>%
       levels = panel_order
     )
   )
+
+representative_prediction_data <- representative_prediction_data %>%
+  mutate(
+    panel = factor(
+      str_c(Response, "\n", Habitat),
+      levels = panel_order
+    )
+  )
+
+# Current city-specific figure
 
 figure_03 <- ggplot(
   prediction_data,
@@ -431,9 +516,72 @@ figure_03 <- ggplot(
     panel.spacing = grid::unit(0.9, "lines")
   )
 
+# Candidate figure using representative aridity levels
+
+figure_03_candidate <- ggplot(
+  representative_prediction_data,
+  aes(
+    x = habitat_deviation_pp,
+    y = predicted_relative_change_percent,
+    group = aridity_group,
+    colour = aridity_group
+  )
+) +
+  geom_hline(
+    yintercept = 0,
+    linetype = "dashed",
+    linewidth = 0.4
+  ) +
+  geom_vline(
+    xintercept = 0,
+    linetype = "dotted",
+    linewidth = 0.4
+  ) +
+  geom_line(
+    linewidth = 1,
+    lineend = "round"
+  ) +
+  scale_colour_viridis_d(
+    option = "plasma",
+    direction = -1,
+    name = "Aridity"
+  ) +
+  scale_x_continuous(
+    limits = c(-display_half_range_pp, display_half_range_pp),
+    breaks = c(-0.5, -0.25, 0, 0.25, 0.5),
+    expand = expansion(mult = c(0.02, 0.02))
+  ) +
+  facet_wrap(
+    vars(panel),
+    ncol = 3,
+    scales = "free_y"
+  ) +
+  labs(
+    x = "Local habitat cover relative to city mean (%)",
+    y = "Predicted change in response relative to city-mean habitat (%)"
+  ) +
+  theme_classic(base_size = 12) +
+  theme(
+    strip.background = element_blank(),
+    strip.text = element_text(face = "bold", size = 11),
+    legend.position = "right",
+    legend.title = element_text(size = 10),
+    legend.text = element_text(size = 9),
+    axis.title = element_text(size = 11),
+    axis.text = element_text(size = 9.5),
+    panel.spacing = grid::unit(0.9, "lines")
+  )
+
+# Save outputs
+
 write_csv(
   prediction_data %>% select(-panel),
   fs::path(data_dir, "Significant_Interaction_City_Predictions.csv")
+)
+
+write_csv(
+  representative_prediction_data %>% select(-panel),
+  fs::path(data_dir, "Representative_Aridity_Predictions.csv")
 )
 
 write_csv(
@@ -471,6 +619,31 @@ ggsave(
     "Figure_03_Significant_Habitat_x_Aridity_Predictions.pdf"
   ),
   figure_03,
+  width = 14,
+  height = 8.5,
+  units = "in",
+  bg = "white"
+)
+
+ggsave(
+  fs::path(
+    figure_dir,
+    "Figure_03_Candidate_Representative_Aridity_Predictions.png"
+  ),
+  figure_03_candidate,
+  width = 14,
+  height = 8.5,
+  units = "in",
+  dpi = 600,
+  bg = "white"
+)
+
+ggsave(
+  fs::path(
+    figure_dir,
+    "Figure_03_Candidate_Representative_Aridity_Predictions.pdf"
+  ),
+  figure_03_candidate,
   width = 14,
   height = 8.5,
   units = "in",
