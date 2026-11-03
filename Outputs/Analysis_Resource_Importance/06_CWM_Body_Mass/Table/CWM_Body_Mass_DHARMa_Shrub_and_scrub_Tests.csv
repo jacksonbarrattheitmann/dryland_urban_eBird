@@ -1,0 +1,4 @@
+habitat,stub,test,statistic,p,n_checklists,n_sampled,n_simulations,simulation,gamma_sigma,gamma_shape,outlier_method,seed,DHARMa_version
+Shrub and scrub,Shrub_and_scrub,Uniformity,0.07309999999999996,7.70944770394782e-47,1471402,10000,250,Conditional Gamma,0.8094925829742529,1.5260692879336708,binomial,123,0.5.0
+Shrub and scrub,Shrub_and_scrub,Dispersion,0.9591524097019308,0.52,1471402,10000,250,Conditional Gamma,0.8094925829742529,1.5260692879336708,binomial,123,0.5.0
+Shrub and scrub,Shrub_and_scrub,Outliers,172,1.706011899572774e-19,1471402,10000,250,Conditional Gamma,0.8094925829742529,1.5260692879336708,binomial,123,0.5.0

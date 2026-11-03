@@ -1,5 +1,9 @@
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
 library(glmmTMB)
+library(purrr)
+library(readr)
+library(tibble)
 
 # Settings
 
@@ -9,6 +13,16 @@ water_min_range <- 1
 refit_models <- FALSE
 habitat_step <- 0.1
 n_aridity_points <- 200
+run_dharma <- TRUE
+dharma_models <- "all"
+dharma_n <- 250
+dharma_sample_n <- 10000
+dharma_seed <- 123
+overwrite_dharma <- FALSE
+
+if (run_dharma && !requireNamespace("DHARMa", quietly = TRUE)) {
+  stop("Install the DHARMa package to run model diagnostics.")
+}
 
 input_file <- fs::path(
   "Outputs", "Analysis_Resource_Importance", "01_Data_Setup", "Data",
@@ -28,6 +42,27 @@ walk(
   c(data_dir, model_dir, table_dir, figure_dir),
   fs::dir_create
 )
+
+if (!fs::file_exists(input_file)) {
+  stop("Resource_Importance_Analysis_Base.rds was not found.")
+}
+
+if (!refit_models) {
+  expected_models <- c(
+    fs::path(model_dir, c(
+      "Water_model.rds",
+      "Shrub_and_scrub_model.rds",
+      "Built_model.rds"
+    )),
+    fs::path(model_dir, paste0("Water_min_", water_min_range, "pp_model.rds"))
+  )
+  missing_models <- expected_models[!fs::file_exists(expected_models)]
+  
+  if (length(missing_models) > 0) {
+    stop("Saved model(s) missing. No models were refitted: ",
+         paste(missing_models, collapse = ", "))
+  }
+}
 
 # Functional dispersion sample
 
@@ -203,31 +238,40 @@ make_formula <- function(within_term, context_term) {
 }
 
 model_ok <- function(fit) {
-  !inherits(fit, "error") &&
+  inherits(fit, "glmmTMB") &&
     isTRUE(fit$fit$convergence == 0) &&
     isTRUE(fit$sdr$pdHess)
 }
 
-model_matches <- function(fit, model_formula, n) {
-  if (!model_ok(fit) || nobs(fit) != n) return(FALSE)
+model_matches <- function(fit, expected_formula, n) {
+  if (!model_ok(fit)) return(FALSE)
   
-  saved_formula <- paste(deparse(stats::formula(fit)), collapse = "")
-  expected_formula <- paste(deparse(model_formula), collapse = "")
-  family_info <- family(fit)
-  
-  identical(gsub("\\s+", "", saved_formula), gsub("\\s+", "", expected_formula)) &&
-    identical(as.character(family_info$family), "Gamma") &&
-    identical(as.character(family_info$link), "log")
+  tryCatch({
+    saved_formula <- paste(deparse(formula(fit)), collapse = "")
+    expected_formula <- paste(deparse(expected_formula), collapse = "")
+    family_info <- family(fit)
+    
+    identical(gsub("\\s+", "", saved_formula),
+              gsub("\\s+", "", expected_formula)) &&
+      nobs(fit) == n &&
+      identical(family_info$family, "Gamma") &&
+      identical(family_info$link, "log")
+  }, error = function(e) FALSE)
 }
 
 fit_model <- function(data, within_term, context_term, model_path) {
   model_formula <- make_formula(within_term, context_term)
   
-  if (!refit_models && fs::file_exists(model_path)) {
+  if (!refit_models) {
     fit <- tryCatch(read_rds(model_path), error = function(e) e)
-    if (model_matches(fit, model_formula, nrow(data))) return(fit)
-    rm(fit)
-    gc()
+    
+    if (!model_matches(fit, model_formula, nrow(data))) {
+      stop("Saved model could not be validated. No refitting performed: ",
+           fs::path_file(model_path))
+    }
+    
+    message("Loaded model: ", fs::path_file(model_path))
+    return(fit)
   }
   
   fit <- tryCatch(
@@ -266,6 +310,41 @@ fit_model <- function(data, within_term, context_term, model_path) {
   
   write_rds(fit, model_path)
   fit
+}
+
+extract_coefficients <- function(fit, habitat, model) {
+  x <- summary(fit)$coefficients$cond
+  
+  tibble(
+    habitat = habitat,
+    model = model,
+    term = rownames(x),
+    Estimate = unname(x[, "Estimate"]),
+    SE = unname(x[, "Std. Error"]),
+    z = unname(x[, "z value"]),
+    p = unname(x[, "Pr(>|z|)"]),
+    CI_lower = Estimate - 1.96 * SE,
+    CI_upper = Estimate + 1.96 * SE
+  )
+}
+
+extract_model_summary <- function(fit, habitat, model) {
+  gamma_sigma <- as.numeric(sigma(fit))
+  
+  tibble(
+    habitat = habitat,
+    model = model,
+    family = family(fit)$family,
+    link = family(fit)$link,
+    n_checklists = nobs(fit),
+    AIC = AIC(fit),
+    BIC = BIC(fit),
+    logLik = as.numeric(logLik(fit)),
+    gamma_sigma = gamma_sigma,
+    gamma_shape = 1 / gamma_sigma^2,
+    convergence = fit$fit$convergence,
+    pdHess = isTRUE(fit$sdr$pdHess)
+  )
 }
 
 interaction_term <- function(fit, within_term) {
@@ -411,7 +490,9 @@ process_habitat <- function(habitat, stub, within_term, context_term) {
     interaction = extract_interaction(fit, habitat, within_term),
     qc = extract_qc(fit, habitat, within_term),
     curve = make_curve(fit, habitat, within_term, aridity_values),
-    city_effects = make_city_effects(fit, habitat, within_term)
+    city_effects = make_city_effects(fit, habitat, within_term),
+    coefficients = extract_coefficients(fit, habitat, "Primary Gamma"),
+    summary = extract_model_summary(fit, habitat, "Primary Gamma")
   )
   
   rm(fit)
@@ -426,6 +507,8 @@ interaction_results <- map_dfr(primary_outputs, "interaction")
 model_qc <- map_dfr(primary_outputs, "qc")
 resource_curves <- map_dfr(primary_outputs, "curve")
 city_effects <- map_dfr(primary_outputs, "city_effects")
+model_coefficients <- map_dfr(primary_outputs, "coefficients")
+model_summaries <- map_dfr(primary_outputs, "summary")
 
 model_registry <- habitat_info %>%
   mutate(
@@ -451,11 +534,7 @@ water_cities <- water_support %>%
 
 water_data <- model_data %>%
   filter(as.character(NAME10) %in% water_cities) %>%
-  mutate(
-    NAME10 = fct_drop(NAME10),
-    locality_id = fct_drop(locality_id),
-    protocol_name = fct_drop(protocol_name)
-  )
+  droplevels()
 
 rm(model_data)
 gc()
@@ -507,6 +586,16 @@ water_support_qc <- extract_qc(
     n_localities = n_distinct(water_data$locality_id),
     .after = n_checklists
   )
+
+model_coefficients <- bind_rows(
+  model_coefficients,
+  extract_coefficients(water_support_fit, "Water support", "Water support Gamma")
+)
+
+model_summaries <- bind_rows(
+  model_summaries,
+  extract_model_summary(water_support_fit, "Water support", "Water support Gamma")
+)
 
 rm(water_support_fit, water_data)
 gc()
@@ -576,6 +665,14 @@ write_csv(
 write_csv(
   model_qc,
   fs::path(table_dir, "Functional_Dispersion_Model_QC.csv")
+)
+write_csv(
+  model_coefficients,
+  fs::path(table_dir, "Functional_Dispersion_All_Model_Coefficients.csv")
+)
+write_csv(
+  model_summaries,
+  fs::path(table_dir, "Functional_Dispersion_All_Model_Summaries.csv")
 )
 write_csv(
   resource_curves,
@@ -674,3 +771,242 @@ ggsave(
   units = "in",
   bg = "white"
 )
+
+# DHARMa diagnostics
+
+if (run_dharma) {
+  diagnostic_registry <- bind_rows(
+    model_registry %>%
+      select(habitat, stub, model_path),
+    tibble(
+      habitat = "Water support",
+      stub = paste0("Water_min_", water_min_range, "pp"),
+      model_path = water_support_path
+    )
+  )
+  
+  if (identical(dharma_models, "all")) {
+    selected_registry <- diagnostic_registry
+  } else {
+    invalid_names <- setdiff(dharma_models, diagnostic_registry$stub)
+    if (length(invalid_names) > 0) {
+      stop("Unknown DHARMa model name(s): ",
+           paste(invalid_names, collapse = ", "))
+    }
+    selected_registry <- diagnostic_registry %>%
+      filter(stub %in% dharma_models)
+  }
+  
+  if (length(dharma_sample_n) != 1 || !is.finite(dharma_sample_n) ||
+      dharma_sample_n < 100 || dharma_sample_n != as.integer(dharma_sample_n)) {
+    stop("dharma_sample_n must be an integer of at least 100.")
+  }
+  
+  if (length(dharma_n) != 1 || !is.finite(dharma_n) ||
+      dharma_n < 20 || dharma_n != as.integer(dharma_n)) {
+    stop("dharma_n must be an integer of at least 20.")
+  }
+  
+  run_dharma_model <- function(habitat, stub, model_path) {
+    test_path <- fs::path(
+      table_dir, paste0("Functional_Dispersion_DHARMa_", stub, "_Tests.csv")
+    )
+    residual_path <- fs::path(
+      data_dir, paste0("Functional_Dispersion_DHARMa_", stub, "_Residuals.csv")
+    )
+    figure_path <- fs::path(
+      figure_dir, paste0("Functional_Dispersion_DHARMa_", stub, ".png")
+    )
+    predictor_figure_path <- fs::path(
+      figure_dir, paste0("Functional_Dispersion_DHARMa_", stub, "_Predictors.png")
+    )
+    object_path <- fs::path(
+      data_dir, paste0("Functional_Dispersion_DHARMa_", stub, ".rds")
+    )
+    
+    diagnostic_files <- c(
+      test_path, residual_path, figure_path, predictor_figure_path, object_path
+    )
+    dharma_version <- as.character(utils::packageVersion("DHARMa"))
+    
+    if (!overwrite_dharma && all(fs::file_exists(diagnostic_files))) {
+      old_tests <- tryCatch(
+        read_csv(test_path, show_col_types = FALSE),
+        error = function(e) NULL
+      )
+      
+      if (!is.null(old_tests) && nrow(old_tests) == 3 &&
+          all(c(
+            "n_simulations", "n_sampled", "seed", "simulation",
+            "DHARMa_version", "n_checklists", "outlier_method",
+            "gamma_shape", "gamma_sigma"
+          ) %in% names(old_tests)) &&
+          setequal(old_tests$test, c("Uniformity", "Dispersion", "Outliers")) &&
+          all(old_tests$n_simulations == dharma_n) &&
+          all(old_tests$outlier_method == "binomial") &&
+          all(old_tests$n_sampled == pmin(dharma_sample_n, old_tests$n_checklists)) &&
+          all(old_tests$seed == dharma_seed) &&
+          all(old_tests$simulation == "Conditional Gamma") &&
+          all(old_tests$DHARMa_version == dharma_version) &&
+          file.info(test_path)$mtime >= file.info(model_path)$mtime) {
+        message("Loaded DHARMa results: ", stub)
+        return(old_tests)
+      }
+    }
+    
+    fit <- read_rds(model_path)
+    frame <- fit$frame
+    if (is.null(frame) || nrow(frame) != nobs(fit)) {
+      stop("The saved model frame is unavailable: ", stub)
+    }
+    
+    if (!identical(family(fit)$family, "Gamma") ||
+        !identical(family(fit)$link, "log") ||
+        length(fixef(fit)$zi) > 0 ||
+        length(fixef(fit)$disp) != 1) {
+      stop("Conditional Gamma diagnostics require a Gamma-log model with constant dispersion.")
+    }
+    
+    gamma_sigma <- as.numeric(sigma(fit))
+    gamma_shape <- 1 / gamma_sigma^2
+    if (length(gamma_sigma) != 1 || !is.finite(gamma_sigma) ||
+        gamma_sigma <= 0 || !is.finite(gamma_shape) || gamma_shape <= 0) {
+      stop("The model has no valid constant Gamma shape parameter: ", stub)
+    }
+    
+    habitat_term <- if (stub == "Shrub_and_scrub") {
+      "shrub_within_model_10"
+    } else if (stub == "Built") {
+      "built_within_model_10"
+    } else {
+      "water_within_model_10"
+    }
+    
+    if (!all(c("FDis", "aridity_centered", habitat_term, "NAME10") %in%
+             names(frame))) {
+      stop("Required diagnostic columns are missing: ", stub)
+    }
+    
+    set.seed(dharma_seed)
+    sampled_rows <- sort(sample.int(
+      nobs(fit), size = min(dharma_sample_n, nobs(fit))
+    ))
+    sampled_frame <- frame[sampled_rows, , drop = FALSE]
+    
+    predicted_response <- as.numeric(predict(
+      fit,
+      newdata = sampled_frame,
+      type = "response",
+      re.form = NULL,
+      allow.new.levels = FALSE
+    ))
+    observed_response <- as.numeric(sampled_frame$FDis)
+    
+    if (length(predicted_response) != length(observed_response) ||
+        any(!is.finite(predicted_response)) ||
+        any(predicted_response <= 0) ||
+        any(!is.finite(observed_response)) ||
+        any(observed_response <= 0)) {
+      stop("Invalid sampled Gamma predictions or responses: ", stub)
+    }
+    
+    message(
+      "DHARMa: ", stub, " - ", length(sampled_rows), " of ", nobs(fit),
+      " checklists, ", dharma_n, " conditional Gamma simulations"
+    )
+    
+    simulated_response <- replicate(
+      dharma_n,
+      stats::rgamma(
+        n = length(predicted_response),
+        shape = gamma_shape,
+        scale = predicted_response / gamma_shape
+      )
+    )
+    
+    sim <- DHARMa::createDHARMa(
+      simulatedResponse = simulated_response,
+      observedResponse = observed_response,
+      fittedPredictedResponse = predicted_response,
+      integerResponse = FALSE,
+      seed = dharma_seed
+    )
+    
+    tests <- list(
+      Uniformity = DHARMa::testUniformity(sim, plot = FALSE),
+      Dispersion = DHARMa::testDispersion(sim, plot = FALSE),
+      Outliers = DHARMa::testOutliers(sim, type = "binomial", plot = FALSE)
+    )
+    
+    test_results <- imap_dfr(tests, function(result, test_name) {
+      if (!is.list(result) || is.null(result$statistic) ||
+          is.null(result$p.value)) {
+        stop("Unexpected DHARMa test result for: ", test_name)
+      }
+      
+      tibble(
+        habitat = habitat,
+        stub = stub,
+        test = test_name,
+        statistic = as.numeric(result$statistic)[1],
+        p = as.numeric(result$p.value)[1],
+        n_checklists = nobs(fit),
+        n_sampled = length(sampled_rows),
+        n_simulations = dharma_n,
+        simulation = "Conditional Gamma",
+        gamma_sigma = gamma_sigma,
+        gamma_shape = gamma_shape,
+        outlier_method = "binomial",
+        seed = dharma_seed,
+        DHARMa_version = dharma_version
+      )
+    })
+    
+    diagnostic_data <- tibble(
+      model_row = sampled_rows,
+      NAME10 = as.character(sampled_frame$NAME10),
+      aridity_centered = sampled_frame$aridity_centered,
+      habitat_within_model_10 = sampled_frame[[habitat_term]],
+      scaled_residual = sim$scaledResiduals,
+      observed_response = observed_response,
+      predicted_response = predicted_response
+    )
+    
+    write_csv(test_results, test_path)
+    write_csv(diagnostic_data, residual_path)
+    write_rds(sim, object_path)
+    
+    grDevices::png(figure_path, width = 1600, height = 800, res = 150)
+    tryCatch({
+      graphics::par(mfrow = c(1, 2))
+      DHARMa::plotQQunif(sim, testOutliers = FALSE)
+      DHARMa::plotResiduals(sim, quantreg = FALSE)
+    }, finally = grDevices::dev.off())
+    
+    grDevices::png(
+      predictor_figure_path, width = 1600, height = 800, res = 150
+    )
+    tryCatch({
+      graphics::par(mfrow = c(1, 2))
+      DHARMa::plotResiduals(
+        sim, form = diagnostic_data$aridity_centered,
+        quantreg = FALSE, rank = FALSE, xlab = "Centered aridity"
+      )
+      DHARMa::plotResiduals(
+        sim, form = diagnostic_data$habitat_within_model_10,
+        quantreg = FALSE, rank = FALSE, xlab = "Within-city habitat (per 10 pp)"
+      )
+    }, finally = grDevices::dev.off())
+    
+    rm(fit, frame, sampled_frame, sim, simulated_response, diagnostic_data)
+    gc()
+    
+    test_results
+  }
+  
+  dharma_results <- pmap_dfr(selected_registry, run_dharma_model)
+  write_csv(
+    dharma_results,
+    fs::path(table_dir, "Functional_Dispersion_DHARMa_Tests.csv")
+  )
+}

@@ -1,0 +1,4 @@
+habitat,stub,test,statistic,p,n_checklists,n_sampled,n_simulations,simulation,gamma_sigma,gamma_shape,outlier_method,seed,DHARMa_version
+Water support,Water_min_1pp,Uniformity,0.07479999999999999,5.048124243052747e-49,1423940,10000,250,Conditional Gamma,0.31043238746038454,10.376859823441476,binomial,123,0.5.0
+Water support,Water_min_1pp,Dispersion,1.5518641260830108,0,1423940,10000,250,Conditional Gamma,0.31043238746038454,10.376859823441476,binomial,123,0.5.0
+Water support,Water_min_1pp,Outliers,179,5.954375669418331e-22,1423940,10000,250,Conditional Gamma,0.31043238746038454,10.376859823441476,binomial,123,0.5.0

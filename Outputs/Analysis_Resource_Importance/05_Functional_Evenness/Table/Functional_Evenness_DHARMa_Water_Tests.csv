@@ -1,0 +1,4 @@
+habitat,stub,test,statistic,p,n_checklists,n_sampled,n_simulations,simulation,outlier_method,seed,DHARMa_version
+Water,Water,Uniformity,0.05869999999999999,2.3558461690410224e-30,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Water,Water,Dispersion,0.9284171990197779,0,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Water,Water,Outliers,205,4.183226722051458e-32,1400492,10000,250,Conditional Beta,binomial,123,0.5.0

@@ -1,4 +1,9 @@
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(purrr)
+library(readr)
+library(tibble)
+library(tidyr)
 
 # Settings
 
@@ -12,6 +17,7 @@ response_order <- c(
 )
 
 main_responses <- response_order[1:4]
+functional_responses <- response_order[2:4]
 trait_responses <- response_order[5:6]
 habitat_order <- c("Water", "Shrub and scrub", "Built")
 
@@ -29,7 +35,7 @@ walk(
   fs::dir_create
 )
 
-# Final no-offset response-specific outputs
+# Response-specific outputs
 
 response_info <- tribble(
   ~response_id,            ~response,                ~folder,                    ~prefix,
@@ -45,44 +51,35 @@ response_info <- tribble(
       folder,
       ~ fs::path("Outputs", "Analysis_Resource_Importance", .x)
     ),
-    data_file = map2_chr(
-      root, prefix,
-      ~ fs::path(.x, "Data", str_c(.y, "_Resource_Importance_Data.rds"))
-    ),
     interaction_file = map2_chr(
       root, prefix,
-      ~ fs::path(.x, "Table", str_c(.y, "_Habitat_x_Aridity.csv"))
+      ~ fs::path(.x, "Table", paste0(.y, "_Habitat_x_Aridity.csv"))
     ),
     curve_file = map2_chr(
       root, prefix,
-      ~ fs::path(.x, "Table", str_c(.y, "_Effect_Curves.csv"))
+      ~ fs::path(.x, "Table", paste0(.y, "_Effect_Curves.csv"))
     ),
     sample_file = map2_chr(
       root, prefix,
-      ~ fs::path(.x, "Table", str_c(.y, "_Sample_Summary.csv"))
+      ~ fs::path(.x, "Table", paste0(.y, "_Sample_Summary.csv"))
     ),
-    city_effect_file = if_else(
-      response %in% main_responses,
-      map2_chr(
-        root, prefix,
-        ~ fs::path(.x, "Table", str_c(.y, "_City_Conditional_Effects.csv"))
-      ),
-      NA_character_
+    city_effect_file = map2_chr(
+      root, prefix,
+      ~ fs::path(.x, "Table", paste0(.y, "_City_Conditional_Effects.csv"))
     )
   )
 
 required_files <- c(
-  response_info$data_file,
   response_info$interaction_file,
   response_info$curve_file,
   response_info$sample_file,
-  response_info$city_effect_file[!is.na(response_info$city_effect_file)]
+  response_info$city_effect_file
 )
 
 missing_files <- required_files[!fs::file_exists(required_files)]
 
 if (length(missing_files) > 0) {
-  stop(str_c("Missing synthesis input(s):\n", str_c(missing_files, collapse = "\n")))
+  stop("Missing synthesis input(s):\n", paste(missing_files, collapse = "\n"))
 }
 
 # Helpers
@@ -91,35 +88,31 @@ pick_column <- function(data, choices) {
   found <- intersect(choices, names(data))
   
   if (length(found) != 1) {
-    stop(str_c("Could not uniquely identify one of: ", str_c(choices, collapse = ", ")))
+    stop("Could not uniquely identify one of: ", paste(choices, collapse = ", "))
   }
   
   found
 }
 
 normalize_curve <- function(data, response_id, response) {
+  if ("habitat_increment_percent_cover" %in% names(data) &&
+      any(abs(data$habitat_increment_percent_cover - 1) > 1e-8, na.rm = TRUE)) {
+    stop("Unexpected habitat increment in effect curves for ", response, ".")
+  }
+  
   effect_col <- pick_column(
     data,
-    c(
-      "relative_change_percent",
-      "relative_change_percent_at_typical_baseline"
-    )
+    c("relative_change_percent", "relative_change_percent_at_typical_baseline")
   )
   
   lower_col <- pick_column(
     data,
-    c(
-      "relative_CI_lower_percent",
-      "relative_CI_lower_percent_at_typical_baseline"
-    )
+    c("relative_CI_lower_percent", "relative_CI_lower_percent_at_typical_baseline")
   )
   
   upper_col <- pick_column(
     data,
-    c(
-      "relative_CI_upper_percent",
-      "relative_CI_upper_percent_at_typical_baseline"
-    )
+    c("relative_CI_upper_percent", "relative_CI_upper_percent_at_typical_baseline")
   )
   
   data %>%
@@ -140,36 +133,43 @@ interpolate_curve <- function(x, y, at) {
 
 # Sample and aridity reference
 
-legacy_offset_columns <- c(
-  "city_FRic_logit_offset",
-  "city_FDis_log_offset",
-  "city_FEve_logit_offset",
-  "city_CWM_Mass_log_offset",
-  "city_CWM_Beak_Length_log_offset"
-)
-
 sample_parts <- response_info %>%
-  select(response_id, response, data_file, sample_file) %>%
-  pmap(function(response_id, response, data_file, sample_file) {
+  select(response_id, response, sample_file, city_effect_file) %>%
+  pmap(function(response_id, response, sample_file, city_effect_file) {
     sample_summary <- read_csv(sample_file, show_col_types = FALSE)
-    response_data <- read_rds(data_file)
+    city_effects <- read_csv(city_effect_file, show_col_types = FALSE)
     
-    old_offset_columns <- intersect(legacy_offset_columns, names(response_data))
+    required_sample_cols <- c("n_checklists", "n_localities", "n_cities")
+    required_city_cols <- c(
+      "NAME10", "avg_aridity_index", "habitat", "relative_change_percent"
+    )
     
-    if (length(old_offset_columns) > 0) {
-      stop(str_c(
-        "Legacy response-offset column(s) found for ", response, ": ",
-        str_c(old_offset_columns, collapse = ", ")
-      ))
+    if (nrow(sample_summary) != 1 ||
+        !all(required_sample_cols %in% names(sample_summary))) {
+      stop("Invalid sample summary for ", response, ".")
     }
     
-    city_aridity <- response_data %>%
+    if (!all(required_city_cols %in% names(city_effects))) {
+      stop("Missing city-conditional effect fields for ", response, ".")
+    }
+    
+    if (anyNA(city_effects$NAME10) ||
+        any(!is.finite(city_effects$avg_aridity_index)) ||
+        !setequal(as.character(city_effects$habitat), habitat_order)) {
+      stop("Invalid city-conditional effect data for ", response, ".")
+    }
+    
+    if (nrow(city_effects) !=
+        nrow(distinct(city_effects, habitat, NAME10))) {
+      stop("Duplicated city-habitat effects for ", response, ".")
+    }
+    
+    city_aridity <- city_effects %>%
       distinct(NAME10, avg_aridity_index)
     
-    rm(response_data)
-    
-    if (n_distinct(city_aridity$NAME10) != nrow(city_aridity)) {
-      stop(str_c("Aridity is not unique by city for ", response, "."))
+    if (nrow(city_aridity) != n_distinct(city_effects$NAME10) ||
+        nrow(city_aridity) != sample_summary$n_cities[[1]]) {
+      stop("City/aridity reference mismatch for ", response, ".")
     }
     
     aridity_quantiles <- quantile(
@@ -193,12 +193,28 @@ sample_parts <- response_info %>%
         max_city_aridity = max(city_aridity$avg_aridity_index)
       ),
       aridity = city_aridity %>%
-        transmute(response_id, response, NAME10, avg_aridity_index)
+        transmute(response_id, response, NAME10, avg_aridity_index),
+      city_effects = city_effects %>%
+        transmute(
+          response_id,
+          response,
+          habitat = as.character(habitat),
+          NAME10 = as.character(NAME10),
+          avg_aridity_index,
+          relative_change_percent
+        )
     )
   })
 
 sample_reference <- map_dfr(sample_parts, "summary")
 aridity_support <- map_dfr(sample_parts, "aridity")
+
+city_effect_points <- map_dfr(sample_parts, "city_effects") %>%
+  filter(response %in% main_responses) %>%
+  mutate(
+    response = factor(response, levels = main_responses),
+    habitat = factor(habitat, levels = habitat_order)
+  )
 
 rm(sample_parts)
 
@@ -226,6 +242,11 @@ interaction_results <- response_info %>%
   ) %>%
   arrange(response, habitat)
 
+if (nrow(interaction_results) != 18 ||
+    nrow(distinct(interaction_results, response, habitat)) != 18) {
+  stop("Expected exactly 18 habitat-by-aridity interaction results.")
+}
+
 # Final response-scale curves
 
 primary_curves <- response_info %>%
@@ -239,30 +260,12 @@ primary_curves <- response_info %>%
     habitat = factor(habitat, levels = habitat_order)
   )
 
-if (nrow(distinct(primary_curves, response, habitat)) != 18) {
-  stop("Final response curves are incomplete.")
+if (nrow(distinct(primary_curves, response, habitat)) != 18 ||
+    any(!is.finite(primary_curves$relative_change_percent)) ||
+    any(!is.finite(primary_curves$CI_lower_percent)) ||
+    any(!is.finite(primary_curves$CI_upper_percent))) {
+  stop("Final response curves are incomplete or invalid.")
 }
-
-# City-specific conditional effects for the four biodiversity responses
-
-city_effect_points <- response_info %>%
-  filter(response %in% main_responses) %>%
-  select(response_id, response, city_effect_file) %>%
-  pmap_dfr(function(response_id, response, city_effect_file) {
-    read_csv(city_effect_file, show_col_types = FALSE) %>%
-      transmute(
-        response_id,
-        response,
-        habitat = as.character(habitat),
-        NAME10 = as.character(NAME10),
-        avg_aridity_index,
-        relative_change_percent
-      )
-  }) %>%
-  mutate(
-    response = factor(response, levels = main_responses),
-    habitat = factor(habitat, levels = habitat_order)
-  )
 
 # Effects at mean and representative aridity values
 
@@ -354,241 +357,121 @@ quantile_effects <- interaction_results %>%
     )
   })
 
-# Main figures
+# Figures
 
-main_curves <- primary_curves %>%
-  filter(as.character(response) %in% main_responses) %>%
-  mutate(
-    response = factor(as.character(response), levels = main_responses),
-    habitat = factor(as.character(habitat), levels = habitat_order)
-  )
+make_effect_figure <- function(responses, show_city_points = FALSE) {
+  plot_curves <- primary_curves %>%
+    filter(as.character(response) %in% responses) %>%
+    mutate(
+      response = factor(as.character(response), levels = responses),
+      habitat = factor(as.character(habitat), levels = habitat_order)
+    )
+  
+  plot_figure <- ggplot(
+    plot_curves,
+    aes(avg_aridity_index, relative_change_percent)
+  ) +
+    geom_hline(yintercept = 0, linetype = "dashed", linewidth = 0.4) +
+    geom_ribbon(
+      aes(ymin = CI_lower_percent, ymax = CI_upper_percent),
+      alpha = 0.15
+    )
+  
+  if (show_city_points) {
+    plot_points <- city_effect_points %>%
+      filter(as.character(response) %in% responses) %>%
+      mutate(response = factor(as.character(response), levels = responses))
+    
+    plot_figure <- plot_figure +
+      geom_point(
+        data = plot_points,
+        aes(avg_aridity_index, relative_change_percent),
+        inherit.aes = FALSE,
+        size = 0.85,
+        alpha = 0.35
+      )
+  }
+  
+  plot_figure <- plot_figure +
+    geom_line(linewidth = 0.9, lineend = "round")
+  
+  if (length(responses) == 1) {
+    plot_figure <- plot_figure +
+      facet_grid(cols = vars(habitat))
+  } else {
+    plot_figure <- plot_figure +
+      facet_grid(
+        rows = vars(response),
+        cols = vars(habitat),
+        scales = "free_y",
+        switch = "y"
+      )
+  }
+  
+  plot_figure +
+    scale_x_reverse() +
+    labs(
+      x = "De Martonne aridity index",
+      y = "Expected change in response (%)",
+      caption = "Less arid  <-                                   ->  More arid"
+    ) +
+    theme_classic(base_size = 11) +
+    theme(
+      strip.background = element_blank(),
+      strip.text.x = element_text(face = "bold", size = 11.5),
+      strip.text.y.left = element_text(face = "bold", angle = 0, size = 10.5),
+      strip.placement = "outside",
+      panel.spacing = grid::unit(0.8, "lines"),
+      axis.text = element_text(size = 9.5),
+      axis.title = element_text(size = 11),
+      plot.caption = element_text(hjust = 0.5, size = 9.5)
+    )
+}
 
-figure_01 <- ggplot(
-  main_curves,
-  aes(avg_aridity_index, relative_change_percent)
-) +
-  geom_hline(yintercept = 0, linetype = "dashed", linewidth = 0.4) +
-  geom_ribbon(
-    aes(ymin = CI_lower_percent, ymax = CI_upper_percent),
-    alpha = 0.15
-  ) +
-  geom_point(
-    data = city_effect_points,
-    aes(avg_aridity_index, relative_change_percent),
-    inherit.aes = FALSE,
-    size = 0.85,
-    alpha = 0.35
-  ) +
-  geom_line(linewidth = 0.9, lineend = "round") +
-  facet_grid(
-    rows = vars(response),
-    cols = vars(habitat),
-    scales = "free_y",
-    switch = "y"
-  ) +
-  scale_x_reverse() +
-  labs(
-    x = "De Martonne aridity index",
-    y = "Expected change in response (%)",
-    caption = "Less arid  ←                                   →  More arid"
-  ) +
-  theme_classic(base_size = 11) +
-  theme(
-    strip.background = element_blank(),
-    strip.text.x = element_text(face = "bold", size = 11.5),
-    strip.text.y.left = element_text(face = "bold", angle = 0, size = 10.5),
-    strip.placement = "outside",
-    panel.spacing = grid::unit(0.8, "lines"),
-    axis.text = element_text(size = 9.5),
-    axis.title = element_text(size = 11),
-    plot.caption = element_text(hjust = 0.5, size = 9.5)
-  )
-
-figure_02_data <- interaction_results %>%
-  filter(as.character(response) %in% main_responses) %>%
-  mutate(
-    response = factor(as.character(response), levels = main_responses),
-    habitat = factor(as.character(habitat), levels = rev(habitat_order))
-  )
-
-figure_02 <- ggplot(
-  figure_02_data,
-  aes(Estimate, habitat)
-) +
-  geom_vline(xintercept = 0, linetype = "dashed", linewidth = 0.45) +
-  geom_errorbar(
-    aes(xmin = CI_lower, xmax = CI_upper),
-    orientation = "y",
-    width = 0,
-    linewidth = 0.75
-  ) +
-  geom_point(size = 2.8) +
-  facet_wrap(vars(response), ncol = 2, scales = "free_x") +
-  labs(
-    x = "Habitat × aridity interaction estimate per +1 percentage point (95% CI)",
-    y = NULL
-  ) +
-  theme_classic(base_size = 11) +
-  theme(
-    strip.background = element_blank(),
-    strip.text = element_text(face = "bold", size = 11),
-    axis.text = element_text(size = 10),
-    axis.title.x = element_text(size = 11),
-    panel.spacing = grid::unit(1.1, "lines")
-  )
-
-# Supplementary CWM figures
-
-trait_curves <- primary_curves %>%
-  filter(as.character(response) %in% trait_responses) %>%
-  mutate(
-    response = factor(as.character(response), levels = trait_responses),
-    habitat = factor(as.character(habitat), levels = habitat_order)
-  )
-
-figure_s1 <- ggplot(
-  trait_curves,
-  aes(avg_aridity_index, relative_change_percent)
-) +
-  geom_hline(yintercept = 0, linetype = "dashed", linewidth = 0.4) +
-  geom_ribbon(
-    aes(ymin = CI_lower_percent, ymax = CI_upper_percent),
-    alpha = 0.15
-  ) +
-  geom_line(linewidth = 0.9, lineend = "round") +
-  facet_grid(
-    rows = vars(response),
-    cols = vars(habitat),
-    scales = "free_y",
-    switch = "y"
-  ) +
-  scale_x_reverse() +
-  labs(
-    x = "De Martonne aridity index",
-    y = "Expected change in response (%)",
-    caption = "Less arid  ←                                   →  More arid"
-  ) +
-  theme_classic(base_size = 11) +
-  theme(
-    strip.background = element_blank(),
-    strip.text.x = element_text(face = "bold", size = 11.5),
-    strip.text.y.left = element_text(face = "bold", angle = 0, size = 10.5),
-    strip.placement = "outside",
-    panel.spacing = grid::unit(0.8, "lines"),
-    axis.text = element_text(size = 9.5),
-    axis.title = element_text(size = 11),
-    plot.caption = element_text(hjust = 0.5, size = 9.5)
-  )
-
-figure_s2_data <- interaction_results %>%
-  filter(as.character(response) %in% trait_responses) %>%
-  mutate(
-    response = factor(as.character(response), levels = trait_responses),
-    habitat = factor(as.character(habitat), levels = rev(habitat_order))
-  )
-
-figure_s2 <- ggplot(
-  figure_s2_data,
-  aes(Estimate, habitat)
-) +
-  geom_vline(xintercept = 0, linetype = "dashed", linewidth = 0.45) +
-  geom_errorbar(
-    aes(xmin = CI_lower, xmax = CI_upper),
-    orientation = "y",
-    width = 0,
-    linewidth = 0.75
-  ) +
-  geom_point(size = 2.8) +
-  facet_wrap(vars(response), ncol = 2, scales = "free_x") +
-  labs(
-    x = "Habitat × aridity interaction estimate per +1 percentage point (95% CI)",
-    y = NULL
-  ) +
-  theme_classic(base_size = 11) +
-  theme(
-    strip.background = element_blank(),
-    strip.text = element_text(face = "bold", size = 11),
-    axis.text = element_text(size = 10),
-    axis.title.x = element_text(size = 11),
-    panel.spacing = grid::unit(1.1, "lines")
-  )
+figure_01 <- make_effect_figure(response_order[1], show_city_points = TRUE)
+figure_02 <- make_effect_figure(functional_responses, show_city_points = TRUE)
+figure_s1 <- make_effect_figure(trait_responses[1])
+figure_s2 <- make_effect_figure(trait_responses[2])
 
 # Save figures
 
-ggsave(
-  fs::path(main_figure_dir, "Figure_01_Combined_Biodiversity_Resource_Importance.png"),
-  figure_01,
-  width = 12.5,
-  height = 12,
-  units = "in",
-  dpi = 600,
-  bg = "white"
+figure_outputs <- tibble(
+  figure = list(figure_01, figure_02, figure_s1, figure_s2),
+  directory = c(
+    main_figure_dir, main_figure_dir, supp_figure_dir, supp_figure_dir
+  ),
+  filename = c(
+    "Figure_01_Species_Richness_Resource_Importance",
+    "Figure_02_Functional_Diversity_Resource_Importance",
+    "Figure_S1_CWM_Body_Mass_Resource_Importance",
+    "Figure_S2_CWM_Beak_Length_Resource_Importance"
+  ),
+  width = c(12.5, 12.5, 12.5, 12.5),
+  height = c(4.5, 10, 4.5, 4.5)
 )
 
-ggsave(
-  fs::path(main_figure_dir, "Figure_01_Combined_Biodiversity_Resource_Importance.pdf"),
-  figure_01,
-  width = 12.5,
-  height = 12,
-  units = "in",
-  bg = "white"
-)
-
-ggsave(
-  fs::path(main_figure_dir, "Figure_02_Habitat_x_Aridity_Effect_Sizes.png"),
-  figure_02,
-  width = 9,
-  height = 7,
-  units = "in",
-  dpi = 600,
-  bg = "white"
-)
-
-ggsave(
-  fs::path(main_figure_dir, "Figure_02_Habitat_x_Aridity_Effect_Sizes.pdf"),
-  figure_02,
-  width = 9,
-  height = 7,
-  units = "in",
-  bg = "white"
-)
-
-ggsave(
-  fs::path(supp_figure_dir, "Figure_S1_Combined_CWM_Resource_Importance.png"),
-  figure_s1,
-  width = 12.5,
-  height = 6.5,
-  units = "in",
-  dpi = 600,
-  bg = "white"
-)
-
-ggsave(
-  fs::path(supp_figure_dir, "Figure_S1_Combined_CWM_Resource_Importance.pdf"),
-  figure_s1,
-  width = 12.5,
-  height = 6.5,
-  units = "in",
-  bg = "white"
-)
-
-ggsave(
-  fs::path(supp_figure_dir, "Figure_S2_CWM_Habitat_x_Aridity_Effect_Sizes.png"),
-  figure_s2,
-  width = 9,
-  height = 4.5,
-  units = "in",
-  dpi = 600,
-  bg = "white"
-)
-
-ggsave(
-  fs::path(supp_figure_dir, "Figure_S2_CWM_Habitat_x_Aridity_Effect_Sizes.pdf"),
-  figure_s2,
-  width = 9,
-  height = 4.5,
-  units = "in",
-  bg = "white"
+pwalk(
+  figure_outputs,
+  function(figure, directory, filename, width, height) {
+    ggsave(
+      fs::path(directory, paste0(filename, ".png")),
+      figure,
+      width = width,
+      height = height,
+      units = "in",
+      dpi = 600,
+      bg = "white"
+    )
+    
+    ggsave(
+      fs::path(directory, paste0(filename, ".pdf")),
+      figure,
+      width = width,
+      height = height,
+      units = "in",
+      bg = "white"
+    )
+  }
 )
 
 # Tables
@@ -700,4 +583,15 @@ write_csv(
 write_csv(
   city_effect_points,
   fs::path(data_dir, "Figure_01_City_Specific_Conditional_Effect_Points.csv")
+)
+
+write_csv(
+  aridity_support,
+  fs::path(data_dir, "City_Aridity_Reference.csv")
+)
+
+write_csv(
+  response_info %>%
+    select(response, folder, interaction_file, curve_file, sample_file, city_effect_file),
+  fs::path(data_dir, "Synthesis_Input_Manifest.csv")
 )

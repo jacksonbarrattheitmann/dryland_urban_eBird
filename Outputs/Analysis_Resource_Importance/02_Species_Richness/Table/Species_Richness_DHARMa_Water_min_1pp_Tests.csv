@@ -1,0 +1,5 @@
+habitat,stub,test,statistic,p,n_checklists,n_sampled,n_simulations,simulation,outlier_method,n_boot,seed,DHARMa_version
+Water support,Water_min_1pp,Uniformity,0.029353971984609928,6.558189008379567e-8,1423940,10000,250,Conditional NB2,bootstrap,100,123,0.5.0
+Water support,Water_min_1pp,Dispersion,0.9239753090911491,0,1423940,10000,250,Conditional NB2,bootstrap,100,123,0.5.0
+Water support,Water_min_1pp,Zero_inflation,0,0,1423940,10000,250,Conditional NB2,bootstrap,100,123,0.5.0
+Water support,Water_min_1pp,Outliers,70,0.08,1423940,10000,250,Conditional NB2,bootstrap,100,123,0.5.0

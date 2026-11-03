@@ -1,0 +1,13 @@
+habitat,stub,test,statistic,p,n_checklists,n_sampled,n_simulations,simulation,outlier_method,seed,DHARMa_version
+Water,Water,Uniformity,0.06840000000000002,4.608654704707232e-41,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Water,Water,Dispersion,0.7523262454317944,0,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Water,Water,Outliers,191,2.4922727502964453e-26,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Shrub and scrub,Shrub_and_scrub,Uniformity,0.06919999999999998,5.098371047757185e-42,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Shrub and scrub,Shrub_and_scrub,Dispersion,0.7521419792142624,0,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Shrub and scrub,Shrub_and_scrub,Outliers,178,1.6797698636232872e-21,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Built,Built,Uniformity,0.06880000000000003,1.5377741185821483e-41,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Built,Built,Dispersion,0.7523203494709063,0,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Built,Built,Outliers,179,5.954375669418331e-22,1400492,10000,250,Conditional Beta,binomial,123,0.5.0
+Water support,Water_min_1pp,Uniformity,0.07729999999999998,2.513740835250358e-52,1355913,10000,250,Conditional Beta,binomial,123,0.5.0
+Water support,Water_min_1pp,Dispersion,0.7324433553720963,0,1355913,10000,250,Conditional Beta,binomial,123,0.5.0
+Water support,Water_min_1pp,Outliers,168,3.969335159937394e-18,1355913,10000,250,Conditional Beta,binomial,123,0.5.0
