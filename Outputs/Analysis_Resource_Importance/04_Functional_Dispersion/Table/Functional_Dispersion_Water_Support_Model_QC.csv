@@ -1,2 +1,2 @@
-habitat,n_checklists,n_cities,n_localities,convergence,pdHess,gamma_sigma,pearson_dispersion,city_random_slope_SD,max_fixed_effect_correlation
-Water,1394454,161,11605,0,TRUE,0.31970840904743586,0.06521457883317117,0.1846118070695106,0.356566454490524
+habitat,family,link,n_checklists,n_cities,n_localities,convergence,pdHess,dispersion,pearson_dispersion,city_random_slope_SD,max_fixed_effect_correlation
+Water,gaussian,identity,1394454,161,11605,0,TRUE,0.035642840140547465,0.001261043249784363,0.027303002134196577,0.35243581435452953

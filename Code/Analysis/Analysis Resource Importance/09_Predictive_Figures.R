@@ -8,14 +8,20 @@ min_habitat_range_pp <- 1
 display_half_range_pp <- 0.5
 n_habitat_points <- 61
 
-synthesis_table <- fs::path(
-  "Outputs", "Analysis_Resource_Importance",
-  "08_Resource_Importance_Synthesis", "Tables",
-  "Table_01_Full_Habitat_x_Aridity_Statistics.csv"
+main_responses <- c(
+  "Species richness",
+  "Functional richness",
+  "Functional dispersion",
+  "Functional evenness"
+)
+
+analysis_root <- fs::path(
+  "Outputs",
+  "Analysis_Resource_Importance"
 )
 
 output_root <- fs::path(
-  "Outputs", "Analysis_Resource_Importance",
+  analysis_root,
   "09_Resource_Importance_Predictions"
 )
 
@@ -23,83 +29,238 @@ data_dir <- fs::path(output_root, "Data")
 table_dir <- fs::path(output_root, "Table")
 figure_dir <- fs::path(output_root, "Figure")
 
-walk(c(data_dir, table_dir, figure_dir), fs::dir_create)
+walk(
+  c(data_dir, table_dir, figure_dir),
+  fs::dir_create
+)
 
-if (!fs::file_exists(synthesis_table)) {
-  stop("Run 08_Resource_Importance_Synthesis.R first.")
-}
+# Response and habitat inputs
 
 response_info <- tribble(
-  ~Response, ~folder, ~data_name,
-  "Species richness", "02_Species_Richness", "Species_Richness_Resource_Importance_Data.rds",
-  "Functional richness", "03_Functional_Richness", "Functional_Richness_Resource_Importance_Data.rds",
-  "Functional dispersion", "04_Functional_Dispersion", "Functional_Dispersion_Resource_Importance_Data.rds",
-  "Functional evenness", "05_Functional_Evenness", "Functional_Evenness_Resource_Importance_Data.rds",
-  "CWM body mass", "06_CWM_Body_Mass", "CWM_Body_Mass_Resource_Importance_Data.rds",
-  "CWM beak length", "07_CWM_Beak_Length", "CWM_Beak_Length_Resource_Importance_Data.rds"
+  ~Response, ~folder, ~prefix, ~data_name, ~prediction_source,
+  "Species richness",
+  "02_Species_Richness",
+  "Species_Richness",
+  "Species_Richness_Resource_Importance_Data.rds",
+  "saved_model",
+  "Functional richness",
+  "03_Functional_Richness",
+  "Functional_Richness",
+  "Functional_Richness_Resource_Importance_Data.rds",
+  "saved_model",
+  "Functional dispersion",
+  "04_Functional_Dispersion",
+  "Functional_Dispersion",
+  "Functional_Dispersion_Resource_Importance_Data.rds",
+  "saved_city_effects",
+  "Functional evenness",
+  "05_Functional_Evenness",
+  "Functional_Evenness",
+  "Functional_Evenness_Resource_Importance_Data.rds",
+  "saved_model"
 ) %>%
   mutate(
     data_file = fs::path(
-      "Outputs", "Analysis_Resource_Importance",
-      folder, "Data", data_name
+      analysis_root,
+      folder,
+      "Data",
+      data_name
+    ),
+    interaction_file = fs::path(
+      analysis_root,
+      folder,
+      "Table",
+      paste0(
+        prefix,
+        "_Habitat_x_Aridity.csv"
+      )
+    ),
+    city_effect_file = if_else(
+      Response == "Functional dispersion",
+      fs::path(
+        analysis_root,
+        folder,
+        "Table",
+        "Functional_Dispersion_City_Conditional_Effects.csv"
+      ),
+      NA_character_
     )
   )
 
 habitat_info <- tribble(
   ~Habitat, ~stub, ~within_term,
-  "Water", "Water", "water_within_model_10",
-  "Shrub and scrub", "Shrub_and_scrub", "shrub_within_model_10",
-  "Built", "Built", "built_within_model_10"
+  "Water",
+  "Water",
+  "water_within_model_10",
+  "Shrub and scrub",
+  "Shrub_and_scrub",
+  "shrub_within_model_10",
+  "Built",
+  "Built",
+  "built_within_model_10"
 )
 
-significant_interactions <- read_csv(
-  synthesis_table,
-  show_col_types = FALSE
-) %>%
-  filter(`P-value` < alpha_threshold) %>%
+required_files <- c(
+  response_info$data_file,
+  response_info$interaction_file,
+  response_info$city_effect_file[
+    !is.na(response_info$city_effect_file)
+  ]
+)
+
+missing_files <- required_files[
+  !fs::file_exists(required_files)
+]
+
+if (length(missing_files) > 0) {
+  stop(
+    "Missing prediction input(s):\n",
+    paste(
+      missing_files,
+      collapse = "\n"
+    )
+  )
+}
+
+# Final supported interactions
+
+interaction_results <- response_info %>%
   select(
     Response,
-    Habitat,
-    interaction_estimate_1pp = Habitat_x_Aridity_Estimate_per_1pp,
-    interaction_p = `P-value`
+    folder,
+    prediction_source,
+    data_file,
+    interaction_file,
+    city_effect_file
   ) %>%
-  left_join(response_info, by = "Response") %>%
-  left_join(habitat_info, by = "Habitat") %>%
+  pmap_dfr(
+    function(
+    Response,
+    folder,
+    prediction_source,
+    data_file,
+    interaction_file,
+    city_effect_file
+    ) {
+      read_csv(
+        interaction_file,
+        show_col_types = FALSE
+      ) %>%
+        transmute(
+          Response = Response,
+          Habitat = habitat,
+          interaction_estimate_1pp =
+            if (
+              "Estimate_1pp" %in%
+              names(.)
+            ) {
+              Estimate_1pp
+            } else {
+              Estimate / 10
+            },
+          interaction_p = p,
+          folder = folder,
+          prediction_source =
+            prediction_source,
+          data_file = data_file,
+          city_effect_file =
+            city_effect_file
+        )
+    }
+  ) %>%
+  filter(
+    interaction_p <
+      alpha_threshold
+  ) %>%
+  left_join(
+    habitat_info,
+    by = "Habitat"
+  ) %>%
   mutate(
-    model_file = fs::path(
-      "Outputs", "Analysis_Resource_Importance",
-      folder, "Models", paste0(stub, "_model.rds")
+    model_file = if_else(
+      prediction_source ==
+        "saved_model",
+      fs::path(
+        analysis_root,
+        folder,
+        "Models",
+        paste0(
+          stub,
+          "_model.rds"
+        )
+      ),
+      NA_character_
     )
   )
 
-if (nrow(significant_interactions) == 0) {
-  stop("No Habitat x Aridity interactions have P < 0.05.")
+if (nrow(interaction_results) == 0) {
+  stop(
+    "No supported Habitat x Aridity interactions have P < 0.05."
+  )
 }
 
-required_files <- c(
-  significant_interactions$data_file,
-  significant_interactions$model_file
-)
+model_files <- interaction_results$model_file[
+  !is.na(
+    interaction_results$model_file
+  )
+]
 
-if (any(!fs::file_exists(required_files))) {
-  stop("At least one prediction input file is missing.")
+missing_models <- model_files[
+  !fs::file_exists(model_files)
+]
+
+if (length(missing_models) > 0) {
+  stop(
+    "Missing fitted model(s) for supported interactions:\n",
+    paste(
+      missing_models,
+      collapse = "\n"
+    )
+  )
 }
 
-interaction_term <- function(fit, within_term) {
-  terms <- names(fixef(fit)$cond)
+# Helpers
+
+interaction_term <- function(
+    fit,
+    within_term
+) {
+  terms <- names(
+    fixef(fit)$cond
+  )
+  
   out <- terms[
-    str_detect(terms, fixed(within_term)) &
-      str_detect(terms, fixed("aridity_centered"))
+    str_detect(
+      terms,
+      fixed(within_term)
+    ) &
+      str_detect(
+        terms,
+        fixed(
+          "aridity_centered"
+        )
+      )
   ]
   
   if (length(out) != 1) {
-    stop("Could not identify the Habitat x Aridity term for ", within_term, ".")
+    stop(
+      "Could not identify the Habitat x Aridity term for ",
+      within_term,
+      "."
+    )
   }
   
   out
 }
 
-inverse_link <- function(link, x) {
+inverse_link <- function(
+    link,
+    x
+) {
+  if (link == "identity") {
+    return(x)
+  }
+  
   if (link == "log") {
     return(exp(x))
   }
@@ -108,144 +269,465 @@ inverse_link <- function(link, x) {
     return(plogis(x))
   }
   
-  stop("Unsupported model link: ", link)
+  stop(
+    "Unsupported model link: ",
+    link
+  )
 }
 
-make_prediction <- function(
+make_support <- function(
+    analysis_data,
+    within_term
+) {
+  analysis_data %>%
+    distinct(
+      NAME10,
+      locality_id,
+      habitat_deviation_pp =
+        .data[[within_term]] * 10
+    ) %>%
+    group_by(NAME10) %>%
+    summarise(
+      n_localities = n(),
+      habitat_min_pp =
+        min(
+          habitat_deviation_pp
+        ),
+      habitat_max_pp =
+        max(
+          habitat_deviation_pp
+        ),
+      habitat_range_pp =
+        habitat_max_pp -
+        habitat_min_pp,
+      .groups = "drop"
+    ) %>%
+    mutate(
+      left_support_pp =
+        pmax(
+          0,
+          -habitat_min_pp
+        ),
+      right_support_pp =
+        pmax(
+          0,
+          habitat_max_pp
+        ),
+      retained =
+        habitat_range_pp >=
+        min_habitat_range_pp &
+        left_support_pp > 0 &
+        right_support_pp > 0,
+      plot_min_pp =
+        pmax(
+          habitat_min_pp,
+          -display_half_range_pp
+        ),
+      plot_max_pp =
+        pmin(
+          habitat_max_pp,
+          display_half_range_pp
+        ),
+      retained =
+        retained &
+        plot_max_pp >
+        plot_min_pp
+    )
+}
+
+make_prediction_grid <- function(
+    city_reference
+) {
+  city_reference %>%
+    filter(retained) %>%
+    mutate(
+      habitat_deviation_pp =
+        map2(
+          plot_min_pp,
+          plot_max_pp,
+          ~ sort(
+            unique(
+              c(
+                seq(
+                  .x,
+                  .y,
+                  length.out =
+                    n_habitat_points
+                ),
+                0
+              )
+            )
+          )
+        )
+    ) %>%
+    unnest(
+      habitat_deviation_pp
+    )
+}
+
+check_baseline <- function(
+    prediction_data,
+    Response,
+    Habitat
+) {
+  baseline_qc <- prediction_data %>%
+    group_by(
+      Response,
+      Habitat,
+      NAME10
+    ) %>%
+    slice_min(
+      abs(
+        habitat_deviation_pp
+      ),
+      n = 1,
+      with_ties = FALSE
+    ) %>%
+    ungroup()
+  
+  if (max(
+    abs(
+      baseline_qc$
+      predicted_relative_change_percent
+    ),
+    na.rm = TRUE
+  ) > 1e-8) {
+    stop(
+      "Prediction normalization failed for ",
+      Response,
+      " / ",
+      Habitat,
+      "."
+    )
+  }
+}
+
+# Predictions from saved fitted models
+
+make_model_prediction <- function(
     Response,
     Habitat,
     interaction_estimate_1pp,
     interaction_p,
-    folder,
-    data_name,
     data_file,
-    stub,
-    within_term,
-    model_file
+    model_file,
+    within_term
 ) {
-  analysis_data <- read_rds(data_file)
-  fit <- read_rds(model_file)
-  fit_frame <- tryCatch(model.frame(fit), error = function(e) fit$frame)
+  message(
+    "Supported interaction prediction: ",
+    Response,
+    " / ",
+    Habitat
+  )
+  
+  analysis_data <- read_rds(
+    data_file
+  )
+  
+  fit <- read_rds(
+    model_file
+  )
+  
+  fit_frame <- tryCatch(
+    model.frame(fit),
+    error = function(e) {
+      fit$frame
+    }
+  )
   
   if (is.null(fit_frame)) {
-    stop("Could not recover the model frame for ", Response, " / ", Habitat, ".")
+    stop(
+      "Could not recover the model frame for ",
+      Response,
+      " / ",
+      Habitat,
+      "."
+    )
   }
   
-  model_link <- family(fit)$link
+  model_family <-
+    family(fit)$family
   
-  if (!model_link %in% c("log", "logit")) {
-    stop("Predictions currently support only log and logit links.")
+  model_link <-
+    family(fit)$link
+  
+  if (!model_link %in%
+      c(
+        "identity",
+        "log",
+        "logit"
+      )) {
+    stop(
+      "Unsupported model link for ",
+      Response,
+      " / ",
+      Habitat,
+      ": ",
+      model_link
+    )
   }
   
   beta <- fixef(fit)$cond
-  int_term <- interaction_term(fit, within_term)
+  
+  int_term <- interaction_term(
+    fit,
+    within_term
+  )
   
   city_re <- ranef(fit)$cond$NAME10 %>%
     as.data.frame() %>%
-    rownames_to_column("NAME10") %>%
+    rownames_to_column(
+      "NAME10"
+    ) %>%
     as_tibble()
   
-  if (!all(c("(Intercept)", within_term) %in% names(city_re))) {
-    stop("Could not recover city random intercept/slope for ", Response, " / ", Habitat, ".")
+  if (!all(
+    c(
+      "(Intercept)",
+      within_term
+    ) %in%
+    names(city_re)
+  )) {
+    stop(
+      "Could not recover city random intercept/slope for ",
+      Response,
+      " / ",
+      Habitat,
+      "."
+    )
   }
   
   city_re <- city_re %>%
     transmute(
       NAME10,
-      city_random_intercept = .data[["(Intercept)"]],
-      city_random_slope = .data[[within_term]]
+      city_random_intercept =
+        .data[["(Intercept)"]],
+      city_random_slope =
+        .data[[within_term]]
     )
   
-  support <- analysis_data %>%
-    distinct(
-      NAME10,
-      locality_id,
-      habitat_deviation_pp = .data[[within_term]] * 10
-    ) %>%
-    group_by(NAME10) %>%
-    summarise(
-      n_localities = n(),
-      habitat_min_pp = min(habitat_deviation_pp),
-      habitat_max_pp = max(habitat_deviation_pp),
-      habitat_range_pp = habitat_max_pp - habitat_min_pp,
-      .groups = "drop"
-    ) %>%
-    mutate(
-      left_support_pp = pmax(0, -habitat_min_pp),
-      right_support_pp = pmax(0, habitat_max_pp),
-      retained =
-        habitat_range_pp >= min_habitat_range_pp &
-        left_support_pp > 0 &
-        right_support_pp > 0,
-      plot_min_pp = pmax(habitat_min_pp, -display_half_range_pp),
-      plot_max_pp = pmin(habitat_max_pp, display_half_range_pp),
-      retained = retained & plot_max_pp > plot_min_pp
-    )
+  support <- make_support(
+    analysis_data,
+    within_term
+  )
   
-  reference_protocol <- analysis_data %>%
-    count(protocol_name, sort = TRUE) %>%
+  reference_protocol <-
+    analysis_data %>%
+    count(
+      protocol_name,
+      sort = TRUE
+    ) %>%
     slice(1) %>%
     pull(protocol_name) %>%
     as.character()
   
-  reference_duration <- median(analysis_data$duration_10, na.rm = TRUE)
-  reference_distance <- median(analysis_data$effort_distance_km, na.rm = TRUE)
+  reference_duration <-
+    median(
+      analysis_data$duration_10,
+      na.rm = TRUE
+    )
   
-  baseline_data <- analysis_data %>%
-    distinct(NAME10, .keep_all = TRUE) %>%
+  reference_distance <-
+    median(
+      analysis_data$
+        effort_distance_km,
+      na.rm = TRUE
+    )
+  
+  baseline_data <-
+    analysis_data %>%
+    distinct(
+      NAME10,
+      .keep_all = TRUE
+    ) %>%
     mutate(
       "{within_term}" := 0,
-      duration_10 = reference_duration,
-      effort_distance_km = reference_distance,
-      protocol_name = factor(
-        reference_protocol,
-        levels = levels(fit_frame$protocol_name)
-      ),
-      NAME10 = factor(
-        as.character(NAME10),
-        levels = levels(fit_frame$NAME10)
-      ),
-      locality_id = factor(
-        levels(fit_frame$locality_id)[1],
-        levels = levels(fit_frame$locality_id)
+      duration_10 =
+        reference_duration,
+      effort_distance_km =
+        reference_distance,
+      protocol_name =
+        factor(
+          reference_protocol,
+          levels =
+            levels(
+              fit_frame$
+                protocol_name
+            )
+        ),
+      NAME10 =
+        factor(
+          as.character(
+            NAME10
+          ),
+          levels =
+            levels(
+              fit_frame$NAME10
+            )
+        ),
+      locality_id =
+        factor(
+          levels(
+            fit_frame$
+              locality_id
+          )[1],
+          levels =
+            levels(
+              fit_frame$
+                locality_id
+            )
+        )
+    )
+  
+  fixed_baseline_link <-
+    as.numeric(
+      predict(
+        fit,
+        newdata =
+          baseline_data,
+        type = "link",
+        re.form = NA,
+        allow.new.levels =
+          FALSE
       )
     )
   
-  fixed_baseline_link <- as.numeric(
-    predict(
-      fit,
-      newdata = baseline_data,
-      type = "link",
-      re.form = NA,
-      allow.new.levels = FALSE
-    )
-  )
-  
-  city_reference <- baseline_data %>%
+  city_reference <-
+    baseline_data %>%
     transmute(
-      NAME10 = as.character(NAME10),
+      NAME10 =
+        as.character(
+          NAME10
+        ),
       avg_aridity_index,
       aridity_centered,
-      fixed_baseline_link = fixed_baseline_link
+      fixed_baseline_link =
+        fixed_baseline_link
     ) %>%
-    left_join(city_re, by = "NAME10") %>%
-    left_join(support, by = "NAME10") %>%
+    left_join(
+      city_re,
+      by = "NAME10"
+    ) %>%
+    left_join(
+      support %>%
+        mutate(
+          NAME10 =
+            as.character(
+              NAME10
+            )
+        ),
+      by = "NAME10"
+    ) %>%
     mutate(
-      fixed_slope_link_per_10pp =
-        unname(beta[[within_term]]) +
-        unname(beta[[int_term]]) * aridity_centered,
-      city_slope_link_per_10pp =
-        fixed_slope_link_per_10pp + city_random_slope,
-      baseline_link = fixed_baseline_link + city_random_intercept,
-      baseline_response = inverse_link(model_link, baseline_link)
+      fixed_slope =
+        unname(
+          beta[[within_term]]
+        ) +
+        unname(
+          beta[[int_term]]
+        ) *
+        aridity_centered,
+      city_slope =
+        fixed_slope +
+        city_random_slope,
+      baseline_link =
+        fixed_baseline_link +
+        city_random_intercept,
+      baseline_response =
+        inverse_link(
+          model_link,
+          baseline_link
+        )
     )
   
-  city_audit <- city_reference %>%
+  if (anyNA(
+    city_reference$retained
+  ) ||
+  any(
+    !is.finite(
+      city_reference$city_slope
+    )
+  ) ||
+  any(
+    !is.finite(
+      city_reference$
+      baseline_response
+    )
+  ) ||
+  any(
+    city_reference$
+    baseline_response <= 0
+  )) {
+    stop(
+      "Invalid city reference for ",
+      Response,
+      " / ",
+      Habitat,
+      "."
+    )
+  }
+  
+  prediction_data <-
+    make_prediction_grid(
+      city_reference
+    ) %>%
+    mutate(
+      prediction_link =
+        baseline_link +
+        city_slope *
+        habitat_deviation_pp /
+        10,
+      predicted_response =
+        inverse_link(
+          model_link,
+          prediction_link
+        ),
+      predicted_relative_change_percent =
+        100 * (
+          predicted_response /
+            baseline_response - 1
+        ),
+      Response = Response,
+      Habitat = Habitat,
+      family = model_family,
+      link = model_link,
+      interaction_estimate_1pp =
+        interaction_estimate_1pp,
+      interaction_p =
+        interaction_p,
+      .before = 1
+    ) %>%
+    select(
+      Response,
+      Habitat,
+      NAME10,
+      avg_aridity_index,
+      family,
+      link,
+      habitat_deviation_pp,
+      predicted_response,
+      baseline_response,
+      predicted_relative_change_percent,
+      interaction_estimate_1pp,
+      interaction_p
+    )
+  
+  check_baseline(
+    prediction_data,
+    Response,
+    Habitat
+  )
+  
+  audit <- city_reference %>%
     transmute(
       Response,
       Habitat,
       NAME10,
       avg_aridity_index,
+      family =
+        model_family,
+      link =
+        model_link,
       n_localities,
       habitat_min_pp,
       habitat_max_pp,
@@ -253,150 +735,43 @@ make_prediction <- function(
       left_support_pp,
       right_support_pp,
       retained,
-      city_slope_link_per_10pp,
-      interaction_estimate_1pp,
-      interaction_p
-    )
-  
-  prediction_data <- city_reference %>%
-    filter(retained) %>%
-    mutate(
-      habitat_deviation_pp = map2(
-        plot_min_pp,
-        plot_max_pp,
-        ~ sort(unique(c(seq(.x, .y, length.out = n_habitat_points), 0)))
-      )
-    ) %>%
-    select(
-      NAME10,
-      avg_aridity_index,
-      city_slope_link_per_10pp,
-      baseline_link,
+      city_slope,
       baseline_response,
-      habitat_deviation_pp
-    ) %>%
-    unnest(habitat_deviation_pp) %>%
-    mutate(
-      prediction_link =
-        baseline_link +
-        city_slope_link_per_10pp * habitat_deviation_pp / 10,
-      predicted_response = inverse_link(model_link, prediction_link),
-      predicted_relative_change_percent =
-        100 * (predicted_response / baseline_response - 1),
-      Response,
-      Habitat,
-      interaction_estimate_1pp,
-      interaction_p,
-      .before = 1
+      interaction_estimate_1pp =
+        interaction_estimate_1pp,
+      interaction_p =
+        interaction_p
     )
   
-  baseline_qc <- prediction_data %>%
-    group_by(Response, Habitat, NAME10) %>%
-    slice_min(abs(habitat_deviation_pp), n = 1, with_ties = FALSE) %>%
-    ungroup()
-  
-  if (max(abs(baseline_qc$predicted_relative_change_percent), na.rm = TRUE) > 1e-8) {
-    stop("Prediction normalization failed for ", Response, " / ", Habitat, ".")
-  }
-  
-  prediction_summary <- tibble(
+  summary <- tibble(
     Response,
     Habitat,
-    interaction_estimate_1pp,
-    interaction_p,
-    fitted_cities = n_distinct(city_reference$NAME10),
-    retained_cities = sum(city_reference$retained),
-    minimum_habitat_range_pp = min_habitat_range_pp,
-    display_lower_pp = -display_half_range_pp,
-    display_upper_pp = display_half_range_pp,
-    prediction_points = nrow(prediction_data)
-  )
-  
-  city_aridity <- analysis_data %>%
-    distinct(NAME10, avg_aridity_index)
-  
-  aridity_reference <- tibble(
-    aridity_group = factor(
-      c("More arid", "Median", "Less arid"),
-      levels = c("More arid", "Median", "Less arid")
-    ),
-    avg_aridity_index = quantile(
-      city_aridity$avg_aridity_index,
-      c(0.10, 0.50, 0.90),
-      names = FALSE
-    )
-  )
-  
-  mean_city_aridity <- mean(
-    analysis_data$avg_aridity_index - analysis_data$aridity_centered
-  )
-  
-  representative_grid <- aridity_reference %>%
-    crossing(
-      habitat_deviation_pp = seq(
-        -display_half_range_pp,
-        display_half_range_pp,
-        length.out = n_habitat_points
-      )
-    )
-  
-  representative_data <- analysis_data %>%
-    slice(rep(1, nrow(representative_grid))) %>%
-    mutate(
-      avg_aridity_index = representative_grid$avg_aridity_index,
-      aridity_centered = avg_aridity_index - mean_city_aridity,
-      "{within_term}" := representative_grid$habitat_deviation_pp / 10,
-      across(starts_with("city_context_"), ~ 0),
-      duration_10 = reference_duration,
-      effort_distance_km = reference_distance,
-      protocol_name = factor(
-        reference_protocol,
-        levels = levels(fit_frame$protocol_name)
-      ),
-      NAME10 = factor(
-        levels(fit_frame$NAME10)[1],
-        levels = levels(fit_frame$NAME10)
-      ),
-      locality_id = factor(
-        levels(fit_frame$locality_id)[1],
-        levels = levels(fit_frame$locality_id)
-      )
-    )
-  
-  representative_predictions <- representative_grid %>%
-    mutate(
-      predicted_response = as.numeric(
-        predict(
-          fit,
-          newdata = representative_data,
-          type = "response",
-          re.form = NA,
-          allow.new.levels = FALSE
-        )
-      )
-    ) %>%
-    group_by(aridity_group, avg_aridity_index) %>%
-    mutate(
-      baseline_response = predicted_response[
-        which.min(abs(habitat_deviation_pp))
-      ],
-      predicted_relative_change_percent =
-        100 * (predicted_response / baseline_response - 1)
-    ) %>%
-    ungroup() %>%
-    mutate(
-      Response,
-      Habitat,
+    family =
+      model_family,
+    link =
+      model_link,
+    interaction_estimate_1pp =
       interaction_estimate_1pp,
+    interaction_p =
       interaction_p,
-      .before = 1
-    )
-  
-  out <- list(
-    predictions = prediction_data,
-    representative_predictions = representative_predictions,
-    audit = city_audit,
-    summary = prediction_summary
+    fitted_cities =
+      n_distinct(
+        city_reference$NAME10
+      ),
+    retained_cities =
+      sum(
+        city_reference$retained
+      ),
+    minimum_habitat_range_pp =
+      min_habitat_range_pp,
+    display_lower_pp =
+      -display_half_range_pp,
+    display_upper_pp =
+      display_half_range_pp,
+    prediction_points =
+      nrow(
+        prediction_data
+      )
   )
   
   rm(
@@ -405,69 +780,369 @@ make_prediction <- function(
     fit_frame,
     city_re,
     baseline_data,
-    city_reference,
-    representative_data
+    city_reference
   )
+  
   gc()
   
-  out
+  list(
+    predictions =
+      prediction_data,
+    audit =
+      audit,
+    summary =
+      summary
+  )
 }
 
-prediction_parts <- significant_interactions %>%
-  pmap(make_prediction)
+# FDis prediction from saved city-specific effects
 
-prediction_data <- map_dfr(prediction_parts, "predictions")
-representative_prediction_data <- map_dfr(
-  prediction_parts,
-  "representative_predictions"
-)
-city_support_audit <- map_dfr(prediction_parts, "audit")
-prediction_summary <- map_dfr(prediction_parts, "summary")
-
-panel_order <- significant_interactions %>%
-  mutate(
-    habitat_order = match(Habitat, c("Water", "Shrub and scrub", "Built")),
-    response_order = match(
-      Response,
-      c(
-        "Species richness",
-        "Functional richness",
-        "Functional dispersion",
-        "Functional evenness",
-        "CWM body mass",
-        "CWM beak length"
-      )
-    )
+make_fdis_prediction <- function(
+    Response,
+    Habitat,
+    interaction_estimate_1pp,
+    interaction_p,
+    data_file,
+    city_effect_file,
+    within_term
+) {
+  message(
+    "Supported FDis interaction prediction: ",
+    Habitat
+  )
+  
+  analysis_data <- read_rds(
+    data_file
+  )
+  
+  city_effects <- read_csv(
+    city_effect_file,
+    show_col_types = FALSE
   ) %>%
-  arrange(habitat_order, response_order) %>%
-  transmute(panel = str_c(Response, "\n", Habitat)) %>%
+    filter(
+      habitat == Habitat
+    )
+  
+  required_cols <- c(
+    "NAME10",
+    "avg_aridity_index",
+    "family",
+    "link",
+    "city_slope",
+    "baseline_response"
+  )
+  
+  if (!all(
+    required_cols %in%
+    names(city_effects)
+  )) {
+    stop(
+      "Final FDis city-effect output is missing required prediction fields."
+    )
+  }
+  
+  support <- make_support(
+    analysis_data,
+    within_term
+  )
+  
+  city_reference <-
+    city_effects %>%
+    transmute(
+      NAME10 =
+        as.character(
+          NAME10
+        ),
+      avg_aridity_index,
+      family,
+      link,
+      city_slope,
+      baseline_response
+    ) %>%
+    left_join(
+      support %>%
+        mutate(
+          NAME10 =
+            as.character(
+              NAME10
+            )
+        ),
+      by = "NAME10"
+    )
+  
+  model_family <-
+    unique(
+      city_reference$family
+    )
+  
+  model_link <-
+    unique(
+      city_reference$link
+    )
+  
+  if (length(model_family) != 1 ||
+      length(model_link) != 1 ||
+      model_link != "identity") {
+    stop(
+      "Final FDis prediction input must contain one Gaussian identity-link model."
+    )
+  }
+  
+  prediction_data <-
+    make_prediction_grid(
+      city_reference
+    ) %>%
+    mutate(
+      predicted_response =
+        baseline_response +
+        city_slope *
+        habitat_deviation_pp /
+        10,
+      predicted_relative_change_percent =
+        100 * (
+          predicted_response /
+            baseline_response - 1
+        ),
+      Response = Response,
+      Habitat = Habitat,
+      interaction_estimate_1pp =
+        interaction_estimate_1pp,
+      interaction_p =
+        interaction_p,
+      .before = 1
+    ) %>%
+    select(
+      Response,
+      Habitat,
+      NAME10,
+      avg_aridity_index,
+      family,
+      link,
+      habitat_deviation_pp,
+      predicted_response,
+      baseline_response,
+      predicted_relative_change_percent,
+      interaction_estimate_1pp,
+      interaction_p
+    )
+  
+  check_baseline(
+    prediction_data,
+    Response,
+    Habitat
+  )
+  
+  audit <- city_reference %>%
+    transmute(
+      Response,
+      Habitat,
+      NAME10,
+      avg_aridity_index,
+      family,
+      link,
+      n_localities,
+      habitat_min_pp,
+      habitat_max_pp,
+      habitat_range_pp,
+      left_support_pp,
+      right_support_pp,
+      retained,
+      city_slope,
+      baseline_response,
+      interaction_estimate_1pp =
+        interaction_estimate_1pp,
+      interaction_p =
+        interaction_p
+    )
+  
+  summary <- tibble(
+    Response,
+    Habitat,
+    family =
+      model_family,
+    link =
+      model_link,
+    interaction_estimate_1pp =
+      interaction_estimate_1pp,
+    interaction_p =
+      interaction_p,
+    fitted_cities =
+      n_distinct(
+        city_reference$NAME10
+      ),
+    retained_cities =
+      sum(
+        city_reference$retained
+      ),
+    minimum_habitat_range_pp =
+      min_habitat_range_pp,
+    display_lower_pp =
+      -display_half_range_pp,
+    display_upper_pp =
+      display_half_range_pp,
+    prediction_points =
+      nrow(
+        prediction_data
+      )
+  )
+  
+  rm(
+    analysis_data,
+    city_effects,
+    city_reference
+  )
+  
+  gc()
+  
+  list(
+    predictions =
+      prediction_data,
+    audit =
+      audit,
+    summary =
+      summary
+  )
+}
+
+# Generate supported-interaction predictions
+
+prediction_parts <-
+  interaction_results %>%
+  pmap(
+    function(
+    Response,
+    Habitat,
+    interaction_estimate_1pp,
+    interaction_p,
+    folder,
+    prediction_source,
+    data_file,
+    city_effect_file,
+    stub,
+    within_term,
+    model_file
+    ) {
+      if (
+        prediction_source ==
+        "saved_model"
+      ) {
+        return(
+          make_model_prediction(
+            Response =
+              Response,
+            Habitat =
+              Habitat,
+            interaction_estimate_1pp =
+              interaction_estimate_1pp,
+            interaction_p =
+              interaction_p,
+            data_file =
+              data_file,
+            model_file =
+              model_file,
+            within_term =
+              within_term
+          )
+        )
+      }
+      
+      make_fdis_prediction(
+        Response =
+          Response,
+        Habitat =
+          Habitat,
+        interaction_estimate_1pp =
+          interaction_estimate_1pp,
+        interaction_p =
+          interaction_p,
+        data_file =
+          data_file,
+        city_effect_file =
+          city_effect_file,
+        within_term =
+          within_term
+      )
+    }
+  )
+
+prediction_data <- map_dfr(
+  prediction_parts,
+  "predictions"
+)
+
+city_support_audit <- map_dfr(
+  prediction_parts,
+  "audit"
+)
+
+prediction_summary <- map_dfr(
+  prediction_parts,
+  "summary"
+)
+
+# Panel order follows the original figure:
+# Water first, then Shrub and scrub, then Built;
+# responses follow manuscript order.
+
+panel_order <-
+  interaction_results %>%
+  mutate(
+    habitat_order =
+      match(
+        Habitat,
+        c(
+          "Water",
+          "Shrub and scrub",
+          "Built"
+        )
+      ),
+    response_order =
+      match(
+        Response,
+        main_responses
+      )
+  ) %>%
+  arrange(
+    habitat_order,
+    response_order
+  ) %>%
+  transmute(
+    panel =
+      str_c(
+        Response,
+        "\n",
+        Habitat
+      )
+  ) %>%
   pull(panel)
 
-prediction_data <- prediction_data %>%
+prediction_data <-
+  prediction_data %>%
   mutate(
     panel = factor(
-      str_c(Response, "\n", Habitat),
-      levels = panel_order
+      str_c(
+        Response,
+        "\n",
+        Habitat
+      ),
+      levels =
+        panel_order
     )
   )
 
-representative_prediction_data <- representative_prediction_data %>%
-  mutate(
-    panel = factor(
-      str_c(Response, "\n", Habitat),
-      levels = panel_order
-    )
-  )
+# Preview
 
-# Current city-specific figure
-
-figure_03 <- ggplot(
+figure_s1_preview <- ggplot(
   prediction_data,
   aes(
-    x = habitat_deviation_pp,
-    y = predicted_relative_change_percent,
-    group = NAME10,
-    colour = avg_aridity_index
+    x =
+      habitat_deviation_pp,
+    y =
+      predicted_relative_change_percent,
+    group =
+      NAME10,
+    colour =
+      avg_aridity_index
   )
 ) +
   geom_hline(
@@ -481,19 +1156,32 @@ figure_03 <- ggplot(
     linewidth = 0.4
   ) +
   geom_line(
-    alpha = 0.32,
-    linewidth = 0.45,
+    alpha = 0.35,
+    linewidth = 0.5,
     lineend = "round"
   ) +
   scale_colour_viridis_c(
     option = "plasma",
     direction = -1,
-    name = "De Martonne\naridity index\n(lower = more arid)"
+    name =
+      "De Martonne\naridity index\n(lower = more arid)"
   ) +
   scale_x_continuous(
-    limits = c(-display_half_range_pp, display_half_range_pp),
-    breaks = c(-0.5, -0.25, 0, 0.25, 0.5),
-    expand = expansion(mult = c(0.02, 0.02))
+    limits = c(
+      -display_half_range_pp,
+      display_half_range_pp
+    ),
+    breaks = seq(
+      -display_half_range_pp,
+      display_half_range_pp,
+      length.out = 5
+    ),
+    expand = expansion(
+      mult = c(
+        0.02,
+        0.02
+      )
+    )
   ) +
   facet_wrap(
     vars(panel),
@@ -501,151 +1189,101 @@ figure_03 <- ggplot(
     scales = "free_y"
   ) +
   labs(
-    x = "Local habitat relative to city mean (percentage points)",
-    y = "Predicted change in response relative to city-mean habitat (%)"
+    x =
+      "Local habitat relative to city mean (percentage points)",
+    y =
+      "Predicted change in response relative to city-mean habitat (%)"
   ) +
-  theme_classic(base_size = 12) +
+  theme_classic(
+    base_size = 11
+  ) +
   theme(
-    strip.background = element_blank(),
-    strip.text = element_text(face = "bold", size = 11),
-    legend.position = "right",
-    legend.title = element_text(size = 10),
-    legend.text = element_text(size = 9),
-    axis.title = element_text(size = 11),
-    axis.text = element_text(size = 9.5),
-    panel.spacing = grid::unit(0.9, "lines")
-  )
-
-# Candidate figure using representative aridity levels
-
-figure_03_candidate <- ggplot(
-  representative_prediction_data,
-  aes(
-    x = habitat_deviation_pp,
-    y = predicted_relative_change_percent,
-    group = aridity_group,
-    colour = aridity_group
-  )
-) +
-  geom_hline(
-    yintercept = 0,
-    linetype = "dashed",
-    linewidth = 0.4
-  ) +
-  geom_vline(
-    xintercept = 0,
-    linetype = "dotted",
-    linewidth = 0.4
-  ) +
-  geom_line(
-    linewidth = 1,
-    lineend = "round"
-  ) +
-  scale_colour_viridis_d(
-    option = "plasma",
-    direction = -1,
-    name = "Aridity"
-  ) +
-  scale_x_continuous(
-    limits = c(-display_half_range_pp, display_half_range_pp),
-    breaks = c(-0.5, -0.25, 0, 0.25, 0.5),
-    expand = expansion(mult = c(0.02, 0.02))
-  ) +
-  facet_wrap(
-    vars(panel),
-    ncol = 3,
-    scales = "free_y"
-  ) +
-  labs(
-    x = "Local habitat cover relative to city mean (%)",
-    y = "Predicted change in response relative to city-mean habitat (%)"
-  ) +
-  theme_classic(base_size = 12) +
-  theme(
-    strip.background = element_blank(),
-    strip.text = element_text(face = "bold", size = 11),
-    legend.position = "right",
-    legend.title = element_text(size = 10),
-    legend.text = element_text(size = 9),
-    axis.title = element_text(size = 11),
-    axis.text = element_text(size = 9.5),
-    panel.spacing = grid::unit(0.9, "lines")
+    strip.background =
+      element_blank(),
+    strip.text =
+      element_text(
+        face = "bold",
+        size = 10.5
+      ),
+    legend.position =
+      "right",
+    legend.title =
+      element_text(
+        size = 9.5
+      ),
+    legend.text =
+      element_text(
+        size = 9
+      ),
+    axis.title =
+      element_text(
+        size = 10.5
+      ),
+    axis.text =
+      element_text(
+        size = 9
+      ),
+    panel.spacing =
+      grid::unit(
+        0.9,
+        "lines"
+      )
   )
 
 # Save outputs
 
 write_csv(
-  prediction_data %>% select(-panel),
-  fs::path(data_dir, "Significant_Interaction_City_Predictions.csv")
-)
-
-write_csv(
-  representative_prediction_data %>% select(-panel),
-  fs::path(data_dir, "Representative_Aridity_Predictions.csv")
+  prediction_data %>%
+    select(-panel),
+  fs::path(
+    data_dir,
+    "Significant_Interaction_City_Predictions.csv"
+  )
 )
 
 write_csv(
   city_support_audit,
-  fs::path(table_dir, "Table_01_City_Habitat_Support_Audit.csv")
+  fs::path(
+    table_dir,
+    "Table_01_City_Habitat_Support_Audit.csv"
+  )
 )
 
 write_csv(
   prediction_summary,
-  fs::path(table_dir, "Table_02_Prediction_Summary.csv")
+  fs::path(
+    table_dir,
+    "Table_02_Prediction_Summary.csv"
+  )
 )
 
 write_csv(
-  significant_interactions %>%
-    select(Response, Habitat, interaction_estimate_1pp, interaction_p),
-  fs::path(table_dir, "Table_03_Significant_Interactions_Predicted.csv")
+  interaction_results %>%
+    select(
+      Response,
+      Habitat,
+      interaction_estimate_1pp,
+      interaction_p
+    ),
+  fs::path(
+    table_dir,
+    "Table_03_Significant_Interactions_Predicted.csv"
+  )
 )
 
 ggsave(
   fs::path(
     figure_dir,
-    "Figure_03_Significant_Habitat_x_Aridity_Predictions.png"
+    "Figure_S1_Supported_Habitat_x_Aridity_Predictions_PREVIEW.png"
   ),
-  figure_03,
-  width = 14,
+  figure_s1_preview,
+  width = 12.5,
   height = 8.5,
   units = "in",
   dpi = 600,
   bg = "white"
 )
 
-ggsave(
-  fs::path(
-    figure_dir,
-    "Figure_03_Significant_Habitat_x_Aridity_Predictions.pdf"
-  ),
-  figure_03,
-  width = 14,
-  height = 8.5,
-  units = "in",
-  bg = "white"
-)
-
-ggsave(
-  fs::path(
-    figure_dir,
-    "Figure_03_Candidate_Representative_Aridity_Predictions.png"
-  ),
-  figure_03_candidate,
-  width = 14,
-  height = 8.5,
-  units = "in",
-  dpi = 600,
-  bg = "white"
-)
-
-ggsave(
-  fs::path(
-    figure_dir,
-    "Figure_03_Candidate_Representative_Aridity_Predictions.pdf"
-  ),
-  figure_03_candidate,
-  width = 14,
-  height = 8.5,
-  units = "in",
-  bg = "white"
+message(
+  "Script 09 complete: supported Habitat x Aridity predictions regenerated from final response-specific results."
 )

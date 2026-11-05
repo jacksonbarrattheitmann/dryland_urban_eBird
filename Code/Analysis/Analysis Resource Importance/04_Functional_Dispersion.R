@@ -4,13 +4,13 @@ library(glmmTMB)
 library(purrr)
 library(readr)
 library(tibble)
+library(tidyr)
 
 # Settings
 
 min_checklists <- 10
 min_localities <- 5
 water_min_range <- 1
-refit_models <- FALSE
 habitat_step <- 0.1
 n_aridity_points <- 200
 run_dharma <- TRUE
@@ -18,7 +18,6 @@ dharma_models <- "all"
 dharma_n <- 250
 dharma_sample_n <- 10000
 dharma_seed <- 123
-overwrite_dharma <- FALSE
 
 if (run_dharma && !requireNamespace("DHARMa", quietly = TRUE)) {
   stop("Install the DHARMa package to run model diagnostics.")
@@ -47,21 +46,19 @@ if (!fs::file_exists(input_file)) {
   stop("Resource_Importance_Analysis_Base.rds was not found.")
 }
 
-if (!refit_models) {
-  expected_models <- c(
-    fs::path(model_dir, c(
-      "Water_model.rds",
-      "Shrub_and_scrub_model.rds",
-      "Built_model.rds"
-    )),
-    fs::path(model_dir, paste0("Water_min_", water_min_range, "pp_model.rds"))
+legacy_model_files <- fs::dir_ls(
+  model_dir,
+  recurse = TRUE,
+  type = "file",
+  regexp = "\\.rds$",
+  fail = FALSE
+)
+
+if (length(legacy_model_files) > 0) {
+  warning(
+    "Legacy fitted-model RDS files remain in the FDis Models folder. ",
+    "This script will not read, overwrite, or create fitted-model RDS files."
   )
-  missing_models <- expected_models[!fs::file_exists(expected_models)]
-  
-  if (length(missing_models) > 0) {
-    stop("Saved model(s) missing. No models were refitted: ",
-         paste(missing_models, collapse = ", "))
-  }
 }
 
 # Functional dispersion sample
@@ -122,10 +119,6 @@ fdis_data <- fdis_pool %>%
 
 rm(fdis_pool, eligible_localities, eligible_cities)
 gc()
-
-if (any(fdis_data$FDis <= 0)) {
-  stop("Final FDis sample must be strictly positive for Gamma regression.")
-}
 
 # City aridity and final habitat centering
 
@@ -204,7 +197,8 @@ if (any(abs(as.matrix(centering_qc %>% select(-NAME10))) > 1e-10)) {
 
 write_rds(
   fdis_analysis_data,
-  fs::path(data_dir, "Functional_Dispersion_Resource_Importance_Data.rds")
+  fs::path(data_dir, "Functional_Dispersion_Resource_Importance_Data.rds"),
+  compress = "gz"
 )
 
 sample_summary <- tibble(
@@ -213,19 +207,43 @@ sample_summary <- tibble(
   n_cities = n_distinct(fdis_analysis_data$NAME10),
   mean_FDis = mean(fdis_analysis_data$FDis),
   median_FDis = median(fdis_analysis_data$FDis),
+  min_FDis = min(fdis_analysis_data$FDis),
+  max_FDis = max(fdis_analysis_data$FDis),
+  proportion_FDis_zero = mean(fdis_analysis_data$FDis == 0),
+  proportion_FDis_one = mean(fdis_analysis_data$FDis == 1),
   mean_city_aridity = mean_city_aridity,
   min_aridity = min(city_aridity$avg_aridity_index),
   max_aridity = max(city_aridity$avg_aridity_index)
 )
 
+gamma_eligible <- sample_summary$min_FDis > 0
+
 # Model setup
 
 habitat_info <- tribble(
-  ~habitat,          ~stub,              ~within_term,               ~context_term,
-  "Water",           "Water",           "water_within_model_10",   "city_context_water_10",
-  "Shrub and scrub", "Shrub_and_scrub", "shrub_within_model_10",   "city_context_shrub_10",
-  "Built",           "Built",           "built_within_model_10",   "city_context_built_10"
+  ~habitat,          ~stub,              ~within_term,              ~context_term,
+  "Water",           "Water",           "water_within_model_10", "city_context_water_10",
+  "Shrub and scrub", "Shrub_and_scrub", "shrub_within_model_10", "city_context_shrub_10",
+  "Built",           "Built",           "built_within_model_10", "city_context_built_10"
 )
+
+family_info <- tribble(
+  ~family_key, ~family_label, ~family_name, ~link,      ~eligible,
+  "Gaussian", "Gaussian",    "gaussian",   "identity", TRUE,
+  "Gamma",    "Gamma",       "Gamma",      "log",      gamma_eligible
+)
+
+make_family <- function(family_key) {
+  if (family_key == "Gaussian") {
+    return(gaussian(link = "identity"))
+  }
+  
+  if (family_key == "Gamma") {
+    return(Gamma(link = "log"))
+  }
+  
+  stop("Unknown family key: ", family_key)
+}
 
 make_formula <- function(within_term, context_term) {
   as.formula(
@@ -243,42 +261,14 @@ model_ok <- function(fit) {
     isTRUE(fit$sdr$pdHess)
 }
 
-model_matches <- function(fit, expected_formula, n) {
-  if (!model_ok(fit)) return(FALSE)
-  
-  tryCatch({
-    saved_formula <- paste(deparse(formula(fit)), collapse = "")
-    expected_formula <- paste(deparse(expected_formula), collapse = "")
-    family_info <- family(fit)
-    
-    identical(gsub("\\s+", "", saved_formula),
-              gsub("\\s+", "", expected_formula)) &&
-      nobs(fit) == n &&
-      identical(family_info$family, "Gamma") &&
-      identical(family_info$link, "log")
-  }, error = function(e) FALSE)
-}
-
-fit_model <- function(data, within_term, context_term, model_path) {
+fit_model <- function(data, within_term, context_term, family_key) {
   model_formula <- make_formula(within_term, context_term)
-  
-  if (!refit_models) {
-    fit <- tryCatch(read_rds(model_path), error = function(e) e)
-    
-    if (!model_matches(fit, model_formula, nrow(data))) {
-      stop("Saved model could not be validated. No refitting performed: ",
-           fs::path_file(model_path))
-    }
-    
-    message("Loaded model: ", fs::path_file(model_path))
-    return(fit)
-  }
   
   fit <- tryCatch(
     glmmTMB(
       model_formula,
       data = data,
-      family = Gamma(link = "log"),
+      family = make_family(family_key),
       control = glmmTMBControl(
         optCtrl = list(iter.max = 1000, eval.max = 1000)
       )
@@ -294,7 +284,7 @@ fit_model <- function(data, within_term, context_term, model_path) {
       glmmTMB(
         model_formula,
         data = data,
-        family = Gamma(link = "log"),
+        family = make_family(family_key),
         control = glmmTMBControl(
           optimizer = optim,
           optArgs = list(method = "BFGS")
@@ -305,46 +295,10 @@ fit_model <- function(data, within_term, context_term, model_path) {
   }
   
   if (!model_ok(fit)) {
-    stop("Model failed to converge: ", fs::path_file(model_path))
+    return(NULL)
   }
   
-  write_rds(fit, model_path)
   fit
-}
-
-extract_coefficients <- function(fit, habitat, model) {
-  x <- summary(fit)$coefficients$cond
-  
-  tibble(
-    habitat = habitat,
-    model = model,
-    term = rownames(x),
-    Estimate = unname(x[, "Estimate"]),
-    SE = unname(x[, "Std. Error"]),
-    z = unname(x[, "z value"]),
-    p = unname(x[, "Pr(>|z|)"]),
-    CI_lower = Estimate - 1.96 * SE,
-    CI_upper = Estimate + 1.96 * SE
-  )
-}
-
-extract_model_summary <- function(fit, habitat, model) {
-  gamma_sigma <- as.numeric(sigma(fit))
-  
-  tibble(
-    habitat = habitat,
-    model = model,
-    family = family(fit)$family,
-    link = family(fit)$link,
-    n_checklists = nobs(fit),
-    AIC = AIC(fit),
-    BIC = BIC(fit),
-    logLik = as.numeric(logLik(fit)),
-    gamma_sigma = gamma_sigma,
-    gamma_shape = 1 / gamma_sigma^2,
-    convergence = fit$fit$convergence,
-    pdHess = isTRUE(fit$sdr$pdHess)
-  )
 }
 
 interaction_term <- function(fit, within_term) {
@@ -358,7 +312,74 @@ interaction_term <- function(fit, within_term) {
   term
 }
 
-extract_interaction <- function(fit, habitat, within_term, model = "Primary Gamma") {
+extract_candidate_summary <- function(fit, family_key, family_label, habitat) {
+  if (is.null(fit)) {
+    return(tibble(
+      family_key = family_key,
+      family_label = family_label,
+      habitat = habitat,
+      converged = FALSE,
+      pdHess = FALSE,
+      n_checklists = NA_integer_,
+      AIC = NA_real_,
+      BIC = NA_real_,
+      logLik = NA_real_
+    ))
+  }
+  
+  tibble(
+    family_key = family_key,
+    family_label = family_label,
+    habitat = habitat,
+    converged = fit$fit$convergence == 0,
+    pdHess = isTRUE(fit$sdr$pdHess),
+    n_checklists = nobs(fit),
+    AIC = AIC(fit),
+    BIC = BIC(fit),
+    logLik = as.numeric(logLik(fit))
+  )
+}
+
+extract_coefficients <- function(fit, habitat, model) {
+  x <- summary(fit)$coefficients$cond
+  
+  tibble(
+    habitat = habitat,
+    model = model,
+    family = family(fit)$family,
+    link = family(fit)$link,
+    term = rownames(x),
+    Estimate = unname(x[, "Estimate"]),
+    SE = unname(x[, "Std. Error"]),
+    z = unname(x[, "z value"]),
+    p = unname(x[, "Pr(>|z|)"]),
+    CI_lower = Estimate - 1.96 * SE,
+    CI_upper = Estimate + 1.96 * SE
+  )
+}
+
+extract_model_summary <- function(fit, habitat, model) {
+  fam <- family(fit)
+  sigma_value <- as.numeric(sigma(fit))
+  is_gamma <- identical(fam$family, "Gamma")
+  
+  tibble(
+    habitat = habitat,
+    model = model,
+    family = fam$family,
+    link = fam$link,
+    n_checklists = nobs(fit),
+    AIC = AIC(fit),
+    BIC = BIC(fit),
+    logLik = as.numeric(logLik(fit)),
+    dispersion = sigma_value,
+    gamma_shape = if (is_gamma) 1 / sigma_value^2 else NA_real_,
+    convergence = fit$fit$convergence,
+    pdHess = isTRUE(fit$sdr$pdHess)
+  )
+}
+
+extract_interaction <- function(fit, habitat, within_term, model) {
   coef_table <- summary(fit)$coefficients$cond
   term <- interaction_term(fit, within_term)
   x <- coef_table[term, , drop = FALSE]
@@ -366,6 +387,8 @@ extract_interaction <- function(fit, habitat, within_term, model = "Primary Gamm
   tibble(
     habitat = habitat,
     model = model,
+    family = family(fit)$family,
+    link = family(fit)$link,
     Estimate = x[1, "Estimate"],
     SE = x[1, "Std. Error"],
     z = x[1, "z value"],
@@ -381,8 +404,11 @@ extract_interaction <- function(fit, habitat, within_term, model = "Primary Gamm
 
 extract_qc <- function(fit, habitat, within_term) {
   beta <- fixef(fit)$cond
-  pearson <- residuals(fit, type = "pearson")
-  pearson_ratio <- sum(pearson^2, na.rm = TRUE) / max(1, nobs(fit) - length(beta))
+  
+  pearson_ratio <- tryCatch({
+    pearson <- residuals(fit, type = "pearson")
+    sum(pearson^2, na.rm = TRUE) / max(1, nobs(fit) - length(beta))
+  }, error = function(e) NA_real_)
   
   random_sd <- attr(VarCorr(fit)$cond$NAME10, "stddev")
   slope_sd <- unname(random_sd[within_term])
@@ -393,21 +419,53 @@ extract_qc <- function(fit, habitat, within_term) {
   
   tibble(
     habitat = habitat,
+    family = family(fit)$family,
+    link = family(fit)$link,
     n_checklists = nobs(fit),
     convergence = fit$fit$convergence,
     pdHess = isTRUE(fit$sdr$pdHess),
-    gamma_sigma = as.numeric(sigma(fit)),
+    dispersion = as.numeric(sigma(fit)),
     pearson_dispersion = pearson_ratio,
     city_random_slope_SD = slope_sd,
     max_fixed_effect_correlation = max(abs(cor_mat), na.rm = TRUE)
   )
 }
 
-make_curve <- function(fit, habitat, within_term, aridity_values) {
+expected_response <- function(fit, eta) {
+  family(fit)$linkinv(eta)
+}
+
+make_curve <- function(fit, habitat, within_term, context_term, aridity_values) {
   beta <- fixef(fit)$cond
   vc <- vcov(fit)$cond
   term <- interaction_term(fit, within_term)
   centered <- aridity_values - mean_city_aridity
+  frame <- fit$frame
+  
+  reference_protocol <- frame %>%
+    count(protocol_name, sort = TRUE) %>%
+    slice(1) %>%
+    pull(protocol_name) %>%
+    as.character()
+  
+  template <- frame[rep(1, length(aridity_values)), , drop = FALSE]
+  template[[within_term]] <- 0
+  template[[context_term]] <- 0
+  template$aridity_centered <- centered
+  template$duration_10 <- median(frame$duration_10, na.rm = TRUE)
+  template$effort_distance_km <- median(frame$effort_distance_km, na.rm = TRUE)
+  template$protocol_name <- factor(
+    reference_protocol,
+    levels = levels(frame$protocol_name)
+  )
+  
+  baseline_link <- as.numeric(predict(
+    fit,
+    newdata = template,
+    type = "link",
+    re.form = NA,
+    allow.new.levels = FALSE
+  ))
   
   delta <- habitat_step * (beta[within_term] + beta[term] * centered)
   delta_var <- habitat_step^2 * (
@@ -417,50 +475,138 @@ make_curve <- function(fit, habitat, within_term, aridity_values) {
   )
   delta_se <- sqrt(pmax(delta_var, 0))
   
-  tibble(
-    habitat = habitat,
-    avg_aridity_index = aridity_values,
-    aridity_centered = centered,
-    habitat_increment_percent_cover = habitat_step * 10,
-    delta_log_ratio = delta,
-    delta_log_ratio_SE = delta_se,
-    response_ratio = exp(delta),
-    response_ratio_CI_lower = exp(delta - 1.96 * delta_se),
-    response_ratio_CI_upper = exp(delta + 1.96 * delta_se),
-    relative_change_percent = 100 * (exp(delta) - 1),
-    relative_CI_lower_percent = 100 * (exp(delta - 1.96 * delta_se) - 1),
-    relative_CI_upper_percent = 100 * (exp(delta + 1.96 * delta_se) - 1)
-  )
-}
-
-make_city_effects <- function(fit, habitat, within_term) {
-  beta <- fixef(fit)$cond
-  term <- interaction_term(fit, within_term)
-  city_re <- ranef(fit)$cond$NAME10
+  baseline_response <- expected_response(fit, baseline_link)
+  after_response <- expected_response(fit, baseline_link + delta)
+  lower_response <- expected_response(fit, baseline_link + delta - 1.96 * delta_se)
+  upper_response <- expected_response(fit, baseline_link + delta + 1.96 * delta_se)
   
-  if (is.null(city_re) || !within_term %in% colnames(city_re)) {
-    stop("Could not recover city random slopes for ", habitat, ".")
+  if (any(!is.finite(baseline_response))) {
+    stop("Non-finite population FDis baseline encountered for ", habitat, ".")
   }
   
   tibble(
+    habitat = habitat,
+    family = family(fit)$family,
+    link = family(fit)$link,
+    avg_aridity_index = aridity_values,
+    aridity_centered = centered,
+    habitat_increment_percent_cover = habitat_step * 10,
+    baseline_response = baseline_response,
+    baseline_positive = baseline_response > 0,
+    delta_eta = delta,
+    delta_eta_SE = delta_se,
+    relative_change_percent = if_else(
+      baseline_response > 0,
+      100 * (after_response / baseline_response - 1),
+      NA_real_
+    ),
+    relative_CI_lower_percent = if_else(
+      baseline_response > 0,
+      100 * (lower_response / baseline_response - 1),
+      NA_real_
+    ),
+    relative_CI_upper_percent = if_else(
+      baseline_response > 0,
+      100 * (upper_response / baseline_response - 1),
+      NA_real_
+    )
+  )
+}
+
+city_context_reference <- city_aridity %>%
+  left_join(city_habitat, by = "NAME10") %>%
+  mutate(
+    aridity_centered = avg_aridity_index - mean_city_aridity,
+    city_context_water_10 = (city_mean_water_pp - mean_city_water) / 10,
+    city_context_shrub_10 = (city_mean_shrub_pp - mean_city_shrub) / 10,
+    city_context_built_10 = (city_mean_built_pp - mean_city_built) / 10
+  )
+
+make_city_effects <- function(fit, habitat, within_term, context_term) {
+  beta <- fixef(fit)$cond
+  term <- interaction_term(fit, within_term)
+  frame <- fit$frame
+  city_re <- ranef(fit)$cond$NAME10
+  
+  if (is.null(city_re) ||
+      !all(c("(Intercept)", within_term) %in% colnames(city_re))) {
+    stop("Could not recover city random intercept/slope for ", habitat, ".")
+  }
+  
+  reference_protocol <- frame %>%
+    count(protocol_name, sort = TRUE) %>%
+    slice(1) %>%
+    pull(protocol_name) %>%
+    as.character()
+  
+  city_data <- city_context_reference %>%
+    transmute(
+      NAME10 = as.character(NAME10),
+      avg_aridity_index,
+      aridity_centered,
+      context_value = .data[[context_term]]
+    )
+  
+  template <- frame[rep(1, nrow(city_data)), , drop = FALSE]
+  template[[within_term]] <- 0
+  template[[context_term]] <- city_data$context_value
+  template$aridity_centered <- city_data$aridity_centered
+  template$duration_10 <- median(frame$duration_10, na.rm = TRUE)
+  template$effort_distance_km <- median(frame$effort_distance_km, na.rm = TRUE)
+  template$protocol_name <- factor(
+    reference_protocol,
+    levels = levels(frame$protocol_name)
+  )
+  template$NAME10 <- factor(
+    city_data$NAME10,
+    levels = levels(frame$NAME10)
+  )
+  template$locality_id <- factor(
+    levels(frame$locality_id)[1],
+    levels = levels(frame$locality_id)
+  )
+  
+  fixed_baseline_link <- as.numeric(predict(
+    fit,
+    newdata = template,
+    type = "link",
+    re.form = NA,
+    allow.new.levels = FALSE
+  ))
+  
+  re_table <- tibble(
     NAME10 = rownames(city_re),
+    random_intercept = as.numeric(city_re[, "(Intercept)"]),
     random_slope = as.numeric(city_re[, within_term])
-  ) %>%
-    left_join(
-      city_aridity %>% mutate(NAME10 = as.character(NAME10)),
-      by = "NAME10"
-    ) %>%
+  )
+  
+  city_data %>%
+    mutate(fixed_baseline_link = fixed_baseline_link) %>%
+    left_join(re_table, by = "NAME10") %>%
     mutate(
       habitat = habitat,
-      aridity_centered = avg_aridity_index - mean_city_aridity,
+      family = family(fit)$family,
+      link = family(fit)$link,
       fixed_slope = beta[within_term] + beta[term] * aridity_centered,
       city_slope = fixed_slope + random_slope,
-      delta_log = habitat_step * city_slope,
-      relative_change_percent = 100 * (exp(delta_log) - 1)
+      baseline_link = fixed_baseline_link + random_intercept,
+      after_link = baseline_link + habitat_step * city_slope,
+      baseline_response = expected_response(fit, baseline_link),
+      after_response = expected_response(fit, after_link),
+      relative_change_percent = if_else(
+        baseline_response > 0,
+        100 * (after_response / baseline_response - 1),
+        NA_real_
+      )
+    ) %>%
+    select(
+      NAME10, habitat, family, link, avg_aridity_index, aridity_centered,
+      random_intercept, random_slope, fixed_slope, city_slope,
+      baseline_response, relative_change_percent
     )
 }
 
-# Primary models
+# Model data
 
 model_data <- fdis_analysis_data %>%
   select(
@@ -481,27 +627,375 @@ aridity_values <- seq(
   length.out = n_aridity_points
 )
 
-process_habitat <- function(habitat, stub, within_term, context_term) {
-  model_path <- fs::path(model_dir, paste0(stub, "_model.rds"))
-  fit <- fit_model(model_data, within_term, context_term, model_path)
+# Gaussian versus Gamma family comparison
+
+candidate_registry <- family_info %>%
+  filter(eligible) %>%
+  select(family_key, family_label, family_name, link) %>%
+  crossing(habitat_info)
+
+fit_candidate_row <- function(
+    family_key,
+    family_label,
+    family_name,
+    link,
+    habitat,
+    stub,
+    within_term,
+    context_term
+) {
+  message("Family comparison: ", family_label, " - ", habitat)
+  
+  fit <- fit_model(
+    model_data,
+    within_term,
+    context_term,
+    family_key
+  )
+  
+  out <- extract_candidate_summary(
+    fit,
+    family_key,
+    family_label,
+    habitat
+  )
+  
+  if (!is.null(fit)) rm(fit)
+  gc()
+  out
+}
+
+candidate_results <- candidate_registry %>%
+  pmap_dfr(fit_candidate_row)
+
+family_selection_core <- candidate_results %>%
+  group_by(family_key, family_label) %>%
+  summarise(
+    n_models = n(),
+    all_converged = all(converged & pdHess),
+    same_n = n_distinct(n_checklists) == 1,
+    total_AIC = if (all(is.finite(AIC))) sum(AIC) else NA_real_,
+    mean_AIC = if (all(is.finite(AIC))) mean(AIC) else NA_real_,
+    total_BIC = if (all(is.finite(BIC))) sum(BIC) else NA_real_,
+    .groups = "drop"
+  )
+
+family_selection <- family_info %>%
+  select(family_key, family_label, family_name, link, eligible) %>%
+  left_join(family_selection_core, by = c("family_key", "family_label")) %>%
+  mutate(
+    reason_not_eligible = case_when(
+      eligible ~ NA_character_,
+      family_key == "Gamma" ~ "FDis includes one or more zero values",
+      TRUE ~ "Not eligible"
+    )
+  )
+
+valid_families <- family_selection %>%
+  filter(
+    eligible,
+    n_models == nrow(habitat_info),
+    all_converged,
+    same_n,
+    is.finite(total_AIC)
+  )
+
+if (nrow(valid_families) == 0) {
+  stop("Neither Gaussian nor Gamma produced a valid full set of primary FDis models.")
+}
+
+selected_family <- valid_families %>%
+  slice_min(total_AIC, n = 1, with_ties = FALSE)
+
+selected_family_key <- selected_family$family_key[[1]]
+selected_family_label <- selected_family$family_label[[1]]
+selected_family_name <- selected_family$family_name[[1]]
+selected_link <- selected_family$link[[1]]
+
+family_selection <- family_selection %>%
+  mutate(
+    delta_AIC = if_else(
+      eligible & is.finite(total_AIC),
+      total_AIC - min(valid_families$total_AIC),
+      NA_real_
+    ),
+    selected = family_key == selected_family_key
+  )
+
+write_csv(
+  candidate_results,
+  fs::path(table_dir, "Functional_Dispersion_Family_Comparison_By_Habitat.csv")
+)
+
+write_csv(
+  family_selection,
+  fs::path(table_dir, "Functional_Dispersion_Family_Selection.csv")
+)
+
+message(
+  "Selected FDis family: ", selected_family_label,
+  " (aggregate AIC across Water, Shrub and scrub, and Built)"
+)
+
+# DHARMa diagnostics for selected family
+
+diagnostic_stubs <- c(
+  habitat_info$stub,
+  paste0("Water_min_", water_min_range, "pp")
+)
+
+if (!identical(dharma_models, "all")) {
+  invalid_names <- setdiff(dharma_models, diagnostic_stubs)
+  if (length(invalid_names) > 0) {
+    stop(
+      "Unknown DHARMa model name(s): ",
+      paste(invalid_names, collapse = ", ")
+    )
+  }
+}
+
+run_dharma_fit <- function(fit, habitat, stub, habitat_term) {
+  if (!run_dharma) return(NULL)
+  
+  if (!identical(dharma_models, "all") && !stub %in% dharma_models) {
+    return(NULL)
+  }
+  
+  if (length(dharma_sample_n) != 1 || !is.finite(dharma_sample_n) ||
+      dharma_sample_n < 100 || dharma_sample_n != as.integer(dharma_sample_n)) {
+    stop("dharma_sample_n must be an integer of at least 100.")
+  }
+  
+  if (length(dharma_n) != 1 || !is.finite(dharma_n) ||
+      dharma_n < 20 || dharma_n != as.integer(dharma_n)) {
+    stop("dharma_n must be an integer of at least 20.")
+  }
+  
+  family_tag <- if (selected_family_key == "Gaussian") "Gaussian" else "Gamma"
+  
+  test_path <- fs::path(
+    table_dir,
+    paste0("Functional_Dispersion_DHARMa_", family_tag, "_", stub, "_Tests.csv")
+  )
+  residual_path <- fs::path(
+    data_dir,
+    paste0("Functional_Dispersion_DHARMa_", family_tag, "_", stub, "_Residuals.csv")
+  )
+  figure_path <- fs::path(
+    figure_dir,
+    paste0("Functional_Dispersion_DHARMa_", family_tag, "_", stub, ".png")
+  )
+  predictor_figure_path <- fs::path(
+    figure_dir,
+    paste0("Functional_Dispersion_DHARMa_", family_tag, "_", stub, "_Predictors.png")
+  )
+  object_path <- fs::path(
+    data_dir,
+    paste0("Functional_Dispersion_DHARMa_", family_tag, "_", stub, ".rds")
+  )
+  
+  frame <- fit$frame
+  if (is.null(frame) || nrow(frame) != nobs(fit)) {
+    stop("The fitted model frame is unavailable: ", stub)
+  }
+  
+  if (!all(c("FDis", "aridity_centered", habitat_term, "NAME10") %in%
+           names(frame))) {
+    stop("Required diagnostic columns are missing: ", stub)
+  }
+  
+  set.seed(dharma_seed)
+  sampled_rows <- sort(sample.int(
+    nobs(fit),
+    size = min(dharma_sample_n, nobs(fit))
+  ))
+  sampled_frame <- frame[sampled_rows, , drop = FALSE]
+  
+  predicted_response <- as.numeric(predict(
+    fit,
+    newdata = sampled_frame,
+    type = "response",
+    re.form = NULL,
+    allow.new.levels = FALSE
+  ))
+  observed_response <- as.numeric(sampled_frame$FDis)
+  
+  if (length(predicted_response) != length(observed_response) ||
+      any(!is.finite(predicted_response)) ||
+      any(!is.finite(observed_response))) {
+    stop("Invalid sampled predictions or responses: ", stub)
+  }
+  
+  set.seed(dharma_seed)
+  
+  if (selected_family_key == "Gaussian") {
+    residual_sd <- as.numeric(sigma(fit))
+    
+    if (length(residual_sd) != 1 || !is.finite(residual_sd) || residual_sd <= 0) {
+      stop("The Gaussian model has no valid residual SD: ", stub)
+    }
+    
+    simulated_response <- replicate(
+      dharma_n,
+      rnorm(
+        length(predicted_response),
+        mean = predicted_response,
+        sd = residual_sd
+      )
+    )
+    
+    simulation_label <- "Conditional Gaussian"
+    gamma_sigma <- NA_real_
+    gamma_shape <- NA_real_
+  } else {
+    gamma_sigma <- as.numeric(sigma(fit))
+    gamma_shape <- 1 / gamma_sigma^2
+    
+    if (length(gamma_sigma) != 1 || !is.finite(gamma_sigma) ||
+        gamma_sigma <= 0 || !is.finite(gamma_shape) || gamma_shape <= 0 ||
+        any(predicted_response <= 0)) {
+      stop("The Gamma model has invalid conditional simulation parameters: ", stub)
+    }
+    
+    simulated_response <- replicate(
+      dharma_n,
+      rgamma(
+        length(predicted_response),
+        shape = gamma_shape,
+        scale = predicted_response / gamma_shape
+      )
+    )
+    
+    simulation_label <- "Conditional Gamma"
+  }
+  
+  message(
+    "DHARMa: ", stub, " - ", length(sampled_rows), " of ", nobs(fit),
+    " checklists, ", dharma_n, " simulations"
+  )
+  
+  sim <- DHARMa::createDHARMa(
+    simulatedResponse = simulated_response,
+    observedResponse = observed_response,
+    fittedPredictedResponse = predicted_response,
+    integerResponse = FALSE,
+    seed = dharma_seed
+  )
+  
+  tests <- list(
+    Uniformity = DHARMa::testUniformity(sim, plot = FALSE),
+    Dispersion = DHARMa::testDispersion(sim, plot = FALSE),
+    Outliers = DHARMa::testOutliers(sim, type = "binomial", plot = FALSE)
+  )
+  
+  dharma_version <- as.character(utils::packageVersion("DHARMa"))
+  
+  test_results <- imap_dfr(tests, function(result, test_name) {
+    tibble(
+      habitat = habitat,
+      stub = stub,
+      selected_family = selected_family_name,
+      selected_link = selected_link,
+      test = test_name,
+      statistic = as.numeric(result$statistic)[1],
+      p = as.numeric(result$p.value)[1],
+      n_checklists = nobs(fit),
+      n_sampled = length(sampled_rows),
+      n_simulations = dharma_n,
+      simulation = simulation_label,
+      gamma_sigma = gamma_sigma,
+      gamma_shape = gamma_shape,
+      outlier_method = "binomial",
+      seed = dharma_seed,
+      DHARMa_version = dharma_version
+    )
+  })
+  
+  diagnostic_data <- tibble(
+    model_row = sampled_rows,
+    NAME10 = as.character(sampled_frame$NAME10),
+    aridity_centered = sampled_frame$aridity_centered,
+    habitat_within_model_10 = sampled_frame[[habitat_term]],
+    scaled_residual = sim$scaledResiduals,
+    observed_response = observed_response,
+    predicted_response = predicted_response
+  )
+  
+  write_csv(test_results, test_path)
+  write_csv(diagnostic_data, residual_path)
+  write_rds(sim, object_path, compress = "gz")
+  
+  grDevices::png(figure_path, width = 1600, height = 800, res = 150)
+  tryCatch({
+    graphics::par(mfrow = c(1, 2))
+    DHARMa::plotQQunif(sim, testOutliers = FALSE)
+    DHARMa::plotResiduals(sim, quantreg = FALSE)
+  }, finally = grDevices::dev.off())
+  
+  grDevices::png(
+    predictor_figure_path,
+    width = 1600,
+    height = 800,
+    res = 150
+  )
+  tryCatch({
+    graphics::par(mfrow = c(1, 2))
+    DHARMa::plotResiduals(
+      sim,
+      form = diagnostic_data$aridity_centered,
+      quantreg = FALSE,
+      rank = FALSE,
+      xlab = "Centered aridity"
+    )
+    DHARMa::plotResiduals(
+      sim,
+      form = diagnostic_data$habitat_within_model_10,
+      quantreg = FALSE,
+      rank = FALSE,
+      xlab = "Within-city habitat (per 10 pp)"
+    )
+  }, finally = grDevices::dev.off())
+  
+  rm(frame, sampled_frame, sim, simulated_response, diagnostic_data)
+  gc()
+  
+  test_results
+}
+
+# Selected primary models
+
+process_selected_habitat <- function(habitat, stub, within_term, context_term) {
+  message("Primary selected family: ", selected_family_label, " - ", habitat)
+  
+  fit <- fit_model(
+    model_data,
+    within_term,
+    context_term,
+    selected_family_key
+  )
+  
+  if (is.null(fit)) {
+    stop("Selected-family primary FDis model failed to converge: ", habitat)
+  }
+  
+  model_label <- paste0("Primary ", selected_family_label)
   
   out <- list(
-    model_path = model_path,
-    interaction = extract_interaction(fit, habitat, within_term),
+    interaction = extract_interaction(fit, habitat, within_term, model_label),
     qc = extract_qc(fit, habitat, within_term),
-    curve = make_curve(fit, habitat, within_term, aridity_values),
-    city_effects = make_city_effects(fit, habitat, within_term),
-    coefficients = extract_coefficients(fit, habitat, "Primary Gamma"),
-    summary = extract_model_summary(fit, habitat, "Primary Gamma")
+    curve = make_curve(fit, habitat, within_term, context_term, aridity_values),
+    city_effects = make_city_effects(fit, habitat, within_term, context_term),
+    coefficients = extract_coefficients(fit, habitat, model_label),
+    summary = extract_model_summary(fit, habitat, model_label),
+    dharma = run_dharma_fit(fit, habitat, stub, within_term)
   )
   
   rm(fit)
   gc()
-  
   out
 }
 
-primary_outputs <- pmap(habitat_info, process_habitat)
+primary_outputs <- pmap(habitat_info, process_selected_habitat)
 
 interaction_results <- map_dfr(primary_outputs, "interaction")
 model_qc <- map_dfr(primary_outputs, "qc")
@@ -509,13 +1003,14 @@ resource_curves <- map_dfr(primary_outputs, "curve")
 city_effects <- map_dfr(primary_outputs, "city_effects")
 model_coefficients <- map_dfr(primary_outputs, "coefficients")
 model_summaries <- map_dfr(primary_outputs, "summary")
+dharma_results <- bind_rows(map(primary_outputs, "dharma"))
 
 model_registry <- habitat_info %>%
   mutate(
     response = "FDis",
-    family = "Gamma",
-    link = "log",
-    model_path = map_chr(primary_outputs, "model_path"),
+    family = selected_family_name,
+    link = selected_link,
+    full_model_saved = FALSE,
     .before = within_term
   )
 
@@ -534,47 +1029,61 @@ water_cities <- water_support %>%
 
 water_data <- model_data %>%
   filter(as.character(NAME10) %in% water_cities) %>%
-  droplevels()
-
-rm(model_data)
-gc()
+  mutate(
+    NAME10 = forcats::fct_drop(NAME10),
+    locality_id = forcats::fct_drop(locality_id),
+    protocol_name = forcats::fct_drop(protocol_name)
+  )
 
 water_info <- habitat_info %>%
   filter(habitat == "Water")
 
-water_support_path <- fs::path(
-  model_dir,
-  paste0("Water_min_", water_min_range, "pp_model.rds")
+message(
+  "Water support sensitivity: ", selected_family_label,
+  " - range >= ", water_min_range, " pp"
 )
 
 water_support_fit <- fit_model(
   water_data,
   water_info$within_term,
   water_info$context_term,
-  water_support_path
+  selected_family_key
 )
+
+if (is.null(water_support_fit)) {
+  stop("Selected-family Water support model failed to converge.")
+}
 
 water_sensitivity <- bind_rows(
   interaction_results %>%
     filter(habitat == "Water") %>%
     mutate(
-      model = "Primary Gamma: all cities",
+      model = paste0("Primary ", selected_family_label, ": all cities"),
       n_cities = n_distinct(city_aridity$NAME10),
+      n_localities = sample_summary$n_localities,
       n_checklists = sample_summary$n_checklists,
-      .before = Estimate
+      .before = family
     ),
   extract_interaction(
     water_support_fit,
     "Water",
     water_info$within_term,
-    paste0("Gamma: Water range >= ", water_min_range, " pp")
+    paste0(
+      selected_family_label,
+      ": Water range >= ", water_min_range, " pp"
+    )
   ) %>%
     mutate(
       n_cities = n_distinct(water_data$NAME10),
+      n_localities = n_distinct(water_data$locality_id),
       n_checklists = nrow(water_data),
-      .before = Estimate
+      .before = family
     )
-)
+) %>%
+  mutate(
+    same_interaction_sign = sign(Estimate) == sign(first(Estimate)),
+    significant_at_0_05 = p < 0.05
+  )
 
 water_support_qc <- extract_qc(
   water_support_fit,
@@ -589,15 +1098,32 @@ water_support_qc <- extract_qc(
 
 model_coefficients <- bind_rows(
   model_coefficients,
-  extract_coefficients(water_support_fit, "Water support", "Water support Gamma")
+  extract_coefficients(
+    water_support_fit,
+    "Water support",
+    paste0("Water support ", selected_family_label)
+  )
 )
 
 model_summaries <- bind_rows(
   model_summaries,
-  extract_model_summary(water_support_fit, "Water support", "Water support Gamma")
+  extract_model_summary(
+    water_support_fit,
+    "Water support",
+    paste0("Water support ", selected_family_label)
+  )
 )
 
-rm(water_support_fit, water_data)
+water_dharma <- run_dharma_fit(
+  water_support_fit,
+  "Water support",
+  paste0("Water_min_", water_min_range, "pp"),
+  water_info$within_term
+)
+
+dharma_results <- bind_rows(dharma_results, water_dharma)
+
+rm(water_support_fit, water_data, model_data)
 gc()
 
 # Figures
@@ -609,6 +1135,13 @@ plot_curves <- resource_curves %>%
 
 plot_city_effects <- city_effects %>%
   mutate(habitat = factor(habitat, levels = habitat_levels))
+
+if (any(!plot_curves$baseline_positive)) {
+  warning(
+    "At least one selected-family population baseline prediction was <= 0. ",
+    "Relative percentage effects are NA at those aridity values."
+  )
+}
 
 resource_figure <- ggplot(
   plot_curves,
@@ -699,16 +1232,32 @@ write_csv(
   fs::path(table_dir, "Functional_Dispersion_Sample_Summary.csv")
 )
 
+if (run_dharma && nrow(dharma_results) > 0) {
+  write_csv(
+    dharma_results,
+    fs::path(table_dir, "Functional_Dispersion_DHARMa_Tests.csv")
+  )
+}
+
 model_bundle <- list(
   response = "Functional dispersion",
   raw_response_variable = "FDis",
   modeled_response_variable = "FDis",
-  model_family = "Gamma",
-  link = "log",
+  model_family = selected_family_name,
+  model_family_label = selected_family_label,
+  link = selected_link,
+  family_selection_method = paste0(
+    "Lowest aggregate AIC across the three primary habitat models; ",
+    "candidate family required convergence == 0 and pdHess == TRUE for all three models"
+  ),
+  gamma_eligible = gamma_eligible,
+  family_selection = family_selection,
+  family_comparison_by_habitat = candidate_results,
   primary_response_offset = "None",
   city_baseline_structure = "Random intercept for NAME10",
   mean_city_aridity = mean_city_aridity,
-  primary_model_paths = model_registry$model_path,
+  full_model_objects_saved = FALSE,
+  primary_model_paths = character(0),
   model_registry = model_registry,
   primary_interactions = interaction_results,
   primary_model_qc = model_qc,
@@ -717,21 +1266,28 @@ model_bundle <- list(
 
 write_rds(
   model_bundle,
-  fs::path(data_dir, "Functional_Dispersion_Resource_Importance_Models.rds")
+  fs::path(data_dir, "Functional_Dispersion_Resource_Importance_Models.rds"),
+  compress = "gz"
 )
 
 write_rds(
   list(
-    gamma_family_sensitivity_fitted = TRUE,
-    gamma_interactions = interaction_results,
-    gamma_resource_curves = resource_curves,
-    gamma_model_paths = model_registry$model_path,
-    gamma_model_qc = model_qc,
+    selected_family = selected_family_label,
+    selected_family_name = selected_family_name,
+    selected_link = selected_link,
+    gamma_eligible = gamma_eligible,
+    family_selection = family_selection,
+    family_comparison_by_habitat = candidate_results,
+    selected_interactions = interaction_results,
+    selected_resource_curves = resource_curves,
+    selected_model_qc = model_qc,
     water_support_sensitivity = water_sensitivity,
     water_support_model_qc = water_support_qc,
-    water_support_model_path = water_support_path
+    dharma_results = dharma_results,
+    full_model_objects_saved = FALSE
   ),
-  fs::path(data_dir, "Functional_Dispersion_Diagnostic_Bundle.rds")
+  fs::path(data_dir, "Functional_Dispersion_Diagnostic_Bundle.rds"),
+  compress = "gz"
 )
 
 ggsave(
@@ -772,241 +1328,7 @@ ggsave(
   bg = "white"
 )
 
-# DHARMa diagnostics
-
-if (run_dharma) {
-  diagnostic_registry <- bind_rows(
-    model_registry %>%
-      select(habitat, stub, model_path),
-    tibble(
-      habitat = "Water support",
-      stub = paste0("Water_min_", water_min_range, "pp"),
-      model_path = water_support_path
-    )
-  )
-  
-  if (identical(dharma_models, "all")) {
-    selected_registry <- diagnostic_registry
-  } else {
-    invalid_names <- setdiff(dharma_models, diagnostic_registry$stub)
-    if (length(invalid_names) > 0) {
-      stop("Unknown DHARMa model name(s): ",
-           paste(invalid_names, collapse = ", "))
-    }
-    selected_registry <- diagnostic_registry %>%
-      filter(stub %in% dharma_models)
-  }
-  
-  if (length(dharma_sample_n) != 1 || !is.finite(dharma_sample_n) ||
-      dharma_sample_n < 100 || dharma_sample_n != as.integer(dharma_sample_n)) {
-    stop("dharma_sample_n must be an integer of at least 100.")
-  }
-  
-  if (length(dharma_n) != 1 || !is.finite(dharma_n) ||
-      dharma_n < 20 || dharma_n != as.integer(dharma_n)) {
-    stop("dharma_n must be an integer of at least 20.")
-  }
-  
-  run_dharma_model <- function(habitat, stub, model_path) {
-    test_path <- fs::path(
-      table_dir, paste0("Functional_Dispersion_DHARMa_", stub, "_Tests.csv")
-    )
-    residual_path <- fs::path(
-      data_dir, paste0("Functional_Dispersion_DHARMa_", stub, "_Residuals.csv")
-    )
-    figure_path <- fs::path(
-      figure_dir, paste0("Functional_Dispersion_DHARMa_", stub, ".png")
-    )
-    predictor_figure_path <- fs::path(
-      figure_dir, paste0("Functional_Dispersion_DHARMa_", stub, "_Predictors.png")
-    )
-    object_path <- fs::path(
-      data_dir, paste0("Functional_Dispersion_DHARMa_", stub, ".rds")
-    )
-    
-    diagnostic_files <- c(
-      test_path, residual_path, figure_path, predictor_figure_path, object_path
-    )
-    dharma_version <- as.character(utils::packageVersion("DHARMa"))
-    
-    if (!overwrite_dharma && all(fs::file_exists(diagnostic_files))) {
-      old_tests <- tryCatch(
-        read_csv(test_path, show_col_types = FALSE),
-        error = function(e) NULL
-      )
-      
-      if (!is.null(old_tests) && nrow(old_tests) == 3 &&
-          all(c(
-            "n_simulations", "n_sampled", "seed", "simulation",
-            "DHARMa_version", "n_checklists", "outlier_method",
-            "gamma_shape", "gamma_sigma"
-          ) %in% names(old_tests)) &&
-          setequal(old_tests$test, c("Uniformity", "Dispersion", "Outliers")) &&
-          all(old_tests$n_simulations == dharma_n) &&
-          all(old_tests$outlier_method == "binomial") &&
-          all(old_tests$n_sampled == pmin(dharma_sample_n, old_tests$n_checklists)) &&
-          all(old_tests$seed == dharma_seed) &&
-          all(old_tests$simulation == "Conditional Gamma") &&
-          all(old_tests$DHARMa_version == dharma_version) &&
-          file.info(test_path)$mtime >= file.info(model_path)$mtime) {
-        message("Loaded DHARMa results: ", stub)
-        return(old_tests)
-      }
-    }
-    
-    fit <- read_rds(model_path)
-    frame <- fit$frame
-    if (is.null(frame) || nrow(frame) != nobs(fit)) {
-      stop("The saved model frame is unavailable: ", stub)
-    }
-    
-    if (!identical(family(fit)$family, "Gamma") ||
-        !identical(family(fit)$link, "log") ||
-        length(fixef(fit)$zi) > 0 ||
-        length(fixef(fit)$disp) != 1) {
-      stop("Conditional Gamma diagnostics require a Gamma-log model with constant dispersion.")
-    }
-    
-    gamma_sigma <- as.numeric(sigma(fit))
-    gamma_shape <- 1 / gamma_sigma^2
-    if (length(gamma_sigma) != 1 || !is.finite(gamma_sigma) ||
-        gamma_sigma <= 0 || !is.finite(gamma_shape) || gamma_shape <= 0) {
-      stop("The model has no valid constant Gamma shape parameter: ", stub)
-    }
-    
-    habitat_term <- if (stub == "Shrub_and_scrub") {
-      "shrub_within_model_10"
-    } else if (stub == "Built") {
-      "built_within_model_10"
-    } else {
-      "water_within_model_10"
-    }
-    
-    if (!all(c("FDis", "aridity_centered", habitat_term, "NAME10") %in%
-             names(frame))) {
-      stop("Required diagnostic columns are missing: ", stub)
-    }
-    
-    set.seed(dharma_seed)
-    sampled_rows <- sort(sample.int(
-      nobs(fit), size = min(dharma_sample_n, nobs(fit))
-    ))
-    sampled_frame <- frame[sampled_rows, , drop = FALSE]
-    
-    predicted_response <- as.numeric(predict(
-      fit,
-      newdata = sampled_frame,
-      type = "response",
-      re.form = NULL,
-      allow.new.levels = FALSE
-    ))
-    observed_response <- as.numeric(sampled_frame$FDis)
-    
-    if (length(predicted_response) != length(observed_response) ||
-        any(!is.finite(predicted_response)) ||
-        any(predicted_response <= 0) ||
-        any(!is.finite(observed_response)) ||
-        any(observed_response <= 0)) {
-      stop("Invalid sampled Gamma predictions or responses: ", stub)
-    }
-    
-    message(
-      "DHARMa: ", stub, " - ", length(sampled_rows), " of ", nobs(fit),
-      " checklists, ", dharma_n, " conditional Gamma simulations"
-    )
-    
-    simulated_response <- replicate(
-      dharma_n,
-      stats::rgamma(
-        n = length(predicted_response),
-        shape = gamma_shape,
-        scale = predicted_response / gamma_shape
-      )
-    )
-    
-    sim <- DHARMa::createDHARMa(
-      simulatedResponse = simulated_response,
-      observedResponse = observed_response,
-      fittedPredictedResponse = predicted_response,
-      integerResponse = FALSE,
-      seed = dharma_seed
-    )
-    
-    tests <- list(
-      Uniformity = DHARMa::testUniformity(sim, plot = FALSE),
-      Dispersion = DHARMa::testDispersion(sim, plot = FALSE),
-      Outliers = DHARMa::testOutliers(sim, type = "binomial", plot = FALSE)
-    )
-    
-    test_results <- imap_dfr(tests, function(result, test_name) {
-      if (!is.list(result) || is.null(result$statistic) ||
-          is.null(result$p.value)) {
-        stop("Unexpected DHARMa test result for: ", test_name)
-      }
-      
-      tibble(
-        habitat = habitat,
-        stub = stub,
-        test = test_name,
-        statistic = as.numeric(result$statistic)[1],
-        p = as.numeric(result$p.value)[1],
-        n_checklists = nobs(fit),
-        n_sampled = length(sampled_rows),
-        n_simulations = dharma_n,
-        simulation = "Conditional Gamma",
-        gamma_sigma = gamma_sigma,
-        gamma_shape = gamma_shape,
-        outlier_method = "binomial",
-        seed = dharma_seed,
-        DHARMa_version = dharma_version
-      )
-    })
-    
-    diagnostic_data <- tibble(
-      model_row = sampled_rows,
-      NAME10 = as.character(sampled_frame$NAME10),
-      aridity_centered = sampled_frame$aridity_centered,
-      habitat_within_model_10 = sampled_frame[[habitat_term]],
-      scaled_residual = sim$scaledResiduals,
-      observed_response = observed_response,
-      predicted_response = predicted_response
-    )
-    
-    write_csv(test_results, test_path)
-    write_csv(diagnostic_data, residual_path)
-    write_rds(sim, object_path)
-    
-    grDevices::png(figure_path, width = 1600, height = 800, res = 150)
-    tryCatch({
-      graphics::par(mfrow = c(1, 2))
-      DHARMa::plotQQunif(sim, testOutliers = FALSE)
-      DHARMa::plotResiduals(sim, quantreg = FALSE)
-    }, finally = grDevices::dev.off())
-    
-    grDevices::png(
-      predictor_figure_path, width = 1600, height = 800, res = 150
-    )
-    tryCatch({
-      graphics::par(mfrow = c(1, 2))
-      DHARMa::plotResiduals(
-        sim, form = diagnostic_data$aridity_centered,
-        quantreg = FALSE, rank = FALSE, xlab = "Centered aridity"
-      )
-      DHARMa::plotResiduals(
-        sim, form = diagnostic_data$habitat_within_model_10,
-        quantreg = FALSE, rank = FALSE, xlab = "Within-city habitat (per 10 pp)"
-      )
-    }, finally = grDevices::dev.off())
-    
-    rm(fit, frame, sampled_frame, sim, simulated_response, diagnostic_data)
-    gc()
-    
-    test_results
-  }
-  
-  dharma_results <- pmap_dfr(selected_registry, run_dharma_model)
-  write_csv(
-    dharma_results,
-    fs::path(table_dir, "Functional_Dispersion_DHARMa_Tests.csv")
-  )
-}
+message(
+  "Script 04 complete. Selected family: ", selected_family_label,
+  ". Full fitted glmmTMB objects were not saved."
+)

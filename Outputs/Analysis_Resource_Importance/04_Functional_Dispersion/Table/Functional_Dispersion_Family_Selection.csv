@@ -1,0 +1,3 @@
+family_key,family_label,family_name,link,eligible,n_models,all_converged,same_n,total_AIC,mean_AIC,total_BIC,reason_not_eligible,delta_AIC,selected
+Gaussian,Gaussian,gaussian,identity,TRUE,3,TRUE,TRUE,-16409612.476982888,-5469870.825660963,-16409173.992075719,NA,0,TRUE
+Gamma,Gamma,Gamma,log,TRUE,3,TRUE,TRUE,-13939966.462766923,-4646655.487588975,-13939527.977859752,NA,2469646.014215965,FALSE

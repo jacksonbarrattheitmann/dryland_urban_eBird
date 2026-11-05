@@ -1,6 +1,5 @@
-Response,Habitat,interaction_estimate_1pp,interaction_p,fitted_cities,retained_cities,minimum_habitat_range_pp,display_lower_pp,display_upper_pp,prediction_points
-Species richness,Water,-0.00106121639982015,0.01880943951371349,215,162,1,-0.5,0.5,9905
-Species richness,Built,1.47473969080498e-4,0.02791310955052381,215,215,1,-0.5,0.5,13115
-Functional richness,Water,-0.00243721256353487,0.01391789013672786,208,160,1,-0.5,0.5,9780
-Functional richness,Built,2.45677650719122e-4,0.01031187485489896,208,208,1,-0.5,0.5,12688
-Functional dispersion,Water,-6.04008353378717e-4,0.03468540470012596,211,161,1,-0.5,0.5,9843
+Response,Habitat,family,link,interaction_estimate_1pp,interaction_p,fitted_cities,retained_cities,minimum_habitat_range_pp,display_lower_pp,display_upper_pp,prediction_points
+Species richness,Water,nbinom2,log,-0.001061216399820156,0.01880943951371349,215,162,1,-0.5,0.5,9905
+Species richness,Built,nbinom2,log,1.47473969080498e-4,0.02791310955052381,215,215,1,-0.5,0.5,13115
+Functional richness,Water,beta,logit,-0.00243721256353487,0.01391789013672786,208,160,1,-0.5,0.5,9780
+Functional richness,Built,beta,logit,2.456776507191227e-4,0.01031187485489896,208,208,1,-0.5,0.5,12688

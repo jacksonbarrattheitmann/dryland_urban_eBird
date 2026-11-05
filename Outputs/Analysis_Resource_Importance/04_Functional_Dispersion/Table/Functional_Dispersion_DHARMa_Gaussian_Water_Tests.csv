@@ -1,0 +1,4 @@
+habitat,stub,selected_family,selected_link,test,statistic,p,n_checklists,n_sampled,n_simulations,simulation,gamma_sigma,gamma_shape,outlier_method,seed,DHARMa_version
+Water,Water,gaussian,identity,Uniformity,0.08410000000000001,7.36856475849125e-62,1439975,10000,250,Conditional Gaussian,NA,NA,binomial,123,0.5.0
+Water,Water,gaussian,identity,Dispersion,1.0204114286807202,0.192,1439975,10000,250,Conditional Gaussian,NA,NA,binomial,123,0.5.0
+Water,Water,gaussian,identity,Outliers,218,9.797840491818662e-38,1439975,10000,250,Conditional Gaussian,NA,NA,binomial,123,0.5.0
