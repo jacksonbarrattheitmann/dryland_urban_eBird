@@ -1,10 +1,28 @@
 library(dplyr)
 library(ggplot2)
 library(readr)
+library(purrr)
+library(stringr)
+
+if (!requireNamespace("ggh4x", quietly = TRUE)) {
+  stop(
+    "Package 'ggh4x' is required. Install it once with install.packages('ggh4x')."
+  )
+}
+
 
 # Settings
 
 figure_dpi <- 600
+
+plain_decimal <- function(x) {
+  format(
+    x,
+    scientific = FALSE,
+    trim = TRUE,
+    digits = 4
+  )
+}
 
 response_order <- c(
   "Species richness",
@@ -290,7 +308,8 @@ if (any(
 make_effect_figure <- function(
     responses,
     city_points,
-    n_rows
+    n_rows,
+    independent_y = FALSE
 ) {
   plot_curves <-
     primary_curves %>%
@@ -376,13 +395,17 @@ make_effect_figure <- function(
       linewidth = 0.9,
       lineend = "round"
     ) +
-    facet_grid(
+    ggh4x::facet_grid2(
       rows =
         vars(response),
       cols =
         vars(habitat),
       scales =
         "free_y",
+      independent =
+        if (independent_y) "y" else "none",
+      axes =
+        if (independent_y) "y" else "margins",
       switch = "y"
     ) +
     scale_x_reverse() +
@@ -441,7 +464,8 @@ figure_02 <- make_effect_figure(
     main_responses,
   city_points =
     main_city_effects,
-  n_rows = 4
+  n_rows = 4,
+  independent_y = TRUE
 )
 
 # Figure 3
@@ -487,23 +511,27 @@ figure_03 <- ggplot(
       xmax = CI_upper
     ),
     orientation = "y",
-    width = 0
+    width = 0,
+    linewidth = 0.6
   ) +
   geom_point(
-    size = 2.2
+    size = 2.6
   ) +
   facet_wrap(
     vars(Response),
     ncol = 2,
     scales = "free_x"
   ) +
+  scale_x_continuous(
+    labels = plain_decimal
+  ) +
   labs(
     x =
-      "Habitat x aridity interaction estimate per +1 percentage point (95% CI)",
+      "Habitat x Aridity Interaction Estimate",
     y = NULL
   ) +
   theme_classic(
-    base_size = 11
+    base_size = 12
   ) +
   theme(
     strip.background =
@@ -511,7 +539,7 @@ figure_03 <- ggplot(
     strip.text =
       element_text(
         face = "bold",
-        size = 11
+        size = 12
       ),
     panel.spacing =
       grid::unit(
@@ -520,11 +548,11 @@ figure_03 <- ggplot(
       ),
     axis.text =
       element_text(
-        size = 9.5
+        size = 10.5
       ),
     axis.title.x =
       element_text(
-        size = 11
+        size = 12
       )
   )
 
@@ -689,7 +717,8 @@ figure_s2 <- make_effect_figure(
     trait_responses,
   city_points =
     trait_city_effects,
-  n_rows = 2
+  n_rows = 2,
+  independent_y = TRUE
 )
 
 # Figure S3
@@ -735,23 +764,27 @@ figure_s3 <- ggplot(
       xmax = CI_upper
     ),
     orientation = "y",
-    width = 0
+    width = 0,
+    linewidth = 0.6
   ) +
   geom_point(
-    size = 2.2
+    size = 2.6
   ) +
   facet_wrap(
     vars(Response),
     nrow = 1,
     scales = "free_x"
   ) +
+  scale_x_continuous(
+    labels = plain_decimal
+  ) +
   labs(
     x =
-      "Habitat x aridity interaction estimate per +1 percentage point (95% CI)",
+      "Habitat x Aridity Interaction Estimate",
     y = NULL
   ) +
   theme_classic(
-    base_size = 11
+    base_size = 12
   ) +
   theme(
     strip.background =
@@ -759,7 +792,7 @@ figure_s3 <- ggplot(
     strip.text =
       element_text(
         face = "bold",
-        size = 11
+        size = 12
       ),
     panel.spacing =
       grid::unit(
@@ -768,11 +801,11 @@ figure_s3 <- ggplot(
       ),
     axis.text =
       element_text(
-        size = 9.5
+        size = 10.5
       ),
     axis.title.x =
       element_text(
-        size = 11
+        size = 12
       )
   )
 
@@ -858,17 +891,17 @@ figure_outputs <- tibble(
   ),
   width_in = c(
     12.5,
-    10,
+    12,
     12.5,
     12.5,
-    10
+    12
   ),
   height_in = c(
     12.5,
-    8,
+    9,
     8.5,
     7,
-    5.5
+    6.5
   )
 )
 
