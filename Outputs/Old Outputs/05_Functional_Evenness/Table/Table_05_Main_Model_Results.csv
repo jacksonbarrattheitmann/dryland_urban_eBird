@@ -1,8 +1,0 @@
-"Predictor","EDF","Ref. df","F statistic","P-value"
-"Aridity","1.00","1.00","7.97","0.005"
-"Water cover","1.00","1.00","3.76","0.052"
-"Shrub and scrub cover","1.77","1.96","6.43","0.002"
-"Built cover","1.00","1.00","3.89","0.049"
-"Aridity x Water","2.60","2.92","1.09","0.409"
-"Aridity x Shrub and scrub","2.14","2.35","2.69","0.051"
-"Aridity x Built","1.00","1.00","2.82","0.093"
